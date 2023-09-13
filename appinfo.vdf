@@ -1,0 +1,440 @@
+"appinfo"
+{
+	"appid"		"332570"
+	"common"
+	{
+		"name"		"Amazing Frog?"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"icon"		"022ca3275d90dcdd3c8416ef0f603c2d6078ac5f"
+		"logo"		"d762acf054dfdc3734141d536066c643bf072bec"
+		"logo_small"		"d762acf054dfdc3734141d536066c643bf072bec_thumb"
+		"clienticon"		"5c8e5804abb01d6cb4347c2a9f28d514efa9b500"
+		"clienttga"		"ceeb4d7b5f205f7e550d0b97f3338c28fd0e9f12"
+		"clienticns"		"1e4c8de8485af13e42bf81837d9d1c984347e011"
+		"releasestate"		"released"
+		"osarch"		""
+		"osextended"		"macos64,macosnotarized"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1684281600"
+			"tested_build_id"		"11181030"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-2"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Amazing Frog?"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"42.538942501937484"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1683491024"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Fayju"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Fayju"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Amazing Frog?®"
+			}
+		}
+		"primary_genre"		"70"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_24"		"1"
+			"category_28"		"1"
+			"category_23"		"1"
+			"category_39"		"1"
+			"category_9"		"1"
+			"category_44"		"1"
+			"category_43"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_37"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1416470400"
+		"steam_release_date"		"1416591146"
+		"community_hub_visible"		"1"
+		"gameid"		"332570"
+		"store_tags"
+		{
+			"0"		"4840"
+			"1"		"4136"
+			"2"		"1695"
+			"3"		"3810"
+			"4"		"1659"
+			"5"		"10816"
+			"6"		"21"
+			"7"		"4747"
+			"8"		"3968"
+			"9"		"492"
+			"10"		"1671"
+			"11"		"3841"
+			"12"		"1697"
+			"13"		"4106"
+			"14"		"4036"
+			"15"		"10397"
+			"16"		"4182"
+			"17"		"599"
+			"18"		"5652"
+			"19"		"5395"
+		}
+		"review_score"		"8"
+		"review_percentage"		"93"
+	}
+	"extended"
+	{
+		"gamedir"		"Amazing Frog"
+		"serverbrowsername"		"Amazing Frog?"
+		"developer"		"Fayju"
+		"publisher"		"Fayju"
+		"homepage"		"http://www.amazingfrog.com"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Amazing Frog"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"AmazingFrog.exe"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Amazing Frog? V2 ( Remastered )"
+				}
+				"description"		"Amazing Frog? V2 ( Remastered )"
+			}
+			"1"
+			{
+				"executable"		"AmazingFrog.app"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+				"description_loc"
+				{
+					"english"		"Amazing Frog? V2 ( Remastered )"
+				}
+				"description"		"Amazing Frog? V2 ( Remastered )"
+			}
+			"3"
+			{
+				"executable"		"AmazingFrog.x86_64"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+				"description_loc"
+				{
+					"english"		"Amazing Frog? V2 ( Remastered )"
+				}
+				"description"		"Amazing Frog? V2 ( Remastered )"
+			}
+			"11"
+			{
+				"executable"		"legacy/AmazingFrog.exe"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Amazing Frog? Legacy ( The Original )"
+				}
+				"description"		"Amazing Frog? Legacy ( The Original )"
+			}
+			"12"
+			{
+				"executable"		"legacy/AmazingFrog.app"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+				"description_loc"
+				{
+					"english"		"Amazing Frog? Legacy ( The Original )"
+				}
+				"description"		"Amazing Frog? Legacy ( The Original )"
+			}
+		}
+		"steamvrsupport"		"1"
+		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"332571"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3992388060818286377"
+					"size"		"169"
+					"download"		"160"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"fayju_internal_beta"
+				{
+					"gid"		"26893C94132786E9BF6921F03D16E984"
+					"size"		"C35BCA5676992B4406F1ECDB660302CF"
+					"download"		"19E9818E807B6ECE6A4C91324D089695"
+				}
+				"gazhalprivate"
+				{
+					"gid"		"22ADA90FF3474ACD452BD473145595DD"
+					"size"		"4119E91AA5C653AAF134F8F295B81CEF"
+					"download"		"EDF865DF3A3C2814EE51311AEF8398E2"
+				}
+			}
+		}
+		"332572"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8854082064691068409"
+					"size"		"5239435211"
+					"download"		"1767595152"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"fayju_internal_beta"
+				{
+					"gid"		"44D83257AF2576EC6D12F5AA0F92A81B"
+					"size"		"A8F7691C4F9C7A655EBDFE57364E2DE5"
+					"download"		"8FE97AD2E358CDB69253442099B500D8"
+				}
+				"gazhalprivate"
+				{
+					"gid"		"B8A2D8E2C00CE88B68FC95244CFDE0E1"
+					"size"		"20250940B0A027D37FB6E2AD894B0BB7"
+					"download"		"3146C2F4EC0E3FD2FA2AF1B66EEC4DCA"
+				}
+			}
+		}
+		"332573"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1074543541664498887"
+					"size"		"5245391639"
+					"download"		"1781995904"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"fayju_internal_beta"
+				{
+					"gid"		"CBF05FF1911F5294DDD533CE3D71688C"
+					"size"		"F23F3A06AD4ED6F921C494B938CD4F70"
+					"download"		"00526CB5283346334983561E64FA2134"
+				}
+				"gazhalprivate"
+				{
+					"gid"		"E551D1C6382D6DD85C54921A29328096"
+					"size"		"1A8F7BB06DD15C6DFE78E3CF53DFABB1"
+					"download"		"482025DEA455DE6BE0978A3D5033A697"
+				}
+			}
+		}
+		"332574"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6034397996030593368"
+					"size"		"6474503916"
+					"download"		"1974561872"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"fayju_internal_beta"
+				{
+					"gid"		"AE602B8D482BF1407D198818D4AF8F15"
+					"size"		"498D2DF6928C5D1204ED11DC07D72537"
+					"download"		"824D37A83196BE3E2E4C8A65886676CA"
+				}
+				"gazhalprivate"
+				{
+					"gid"		"E4401FC763E0174CE8A2308D19648264"
+					"size"		"6E06EB81B2BACDBC0CFF6D987909EDA6"
+					"download"		"2F8BA175147B36ED92C57E3855BE8C07"
+				}
+			}
+		}
+		"332575"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3630455176600359798"
+					"size"		"5222195731"
+					"download"		"1760630848"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"fayju_internal_beta"
+				{
+					"gid"		"AD174A46791A35C402E24DEBECC0B63A"
+					"size"		"097F4476D6F19926C0191610ADB5C8C5"
+					"download"		"5F9AE938179C2A1DF655018E3F5434F1"
+				}
+				"gazhalprivate"
+				{
+					"gid"		"0F365FAE7A592BCA655255C2B332F15C"
+					"size"		"8E93D7F7B6255984580B0DF586DAD084"
+					"download"		"0892647701B704A1AC17C9CE35CB4662"
+				}
+			}
+		}
+		"332576"
+		{
+			"config"
+			{
+				"steamdeck"		"1"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11181030"
+				"timeupdated"		"1683564258"
+			}
+			"fayju_internal_beta"
+			{
+				"buildid"		"12093916"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693621220"
+			}
+			"gazhalprivate"
+			{
+				"buildid"		"12093916"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693621229"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"1000"
+	}
+}
