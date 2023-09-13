@@ -1,0 +1,300 @@
+"appinfo"
+{
+	"appid"		"415850"
+	"common"
+	{
+		"name"		"BAD END"
+		"type"		"Game"
+		"releasestate"		"released"
+		"icon"		"e3de543b8f81494e3528bfa5053c301ce873a699"
+		"oslist"		"windows"
+		"logo"		"5db8a47cf504863bcefb9d3a2112d480d84b08aa"
+		"logo_small"		"5db8a47cf504863bcefb9d3a2112d480d84b08aa_thumb"
+		"clienttga"		"d2fc1e72296738291a6e06b7da47054a5cb3f977"
+		"clienticon"		"b9c5789c4a9d11de7bdaa5004d5ab16188b8ff0d"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"spanish"		"1"
+			"japanese"		"1"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1689465600"
+			"tested_build_id"		"11342153"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+				}
+				"5"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"1"
+				"recommended_runtime"		"proton-8.0-2"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"BAD END"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"60.561470656794"
+			}
+		}
+		"store_asset_mtime"		"1674128639"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Arai Koh Create Office"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"YOX-Project"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1448438400"
+		"steam_release_date"		"1448478385"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"415850"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"3799"
+			"2"		"21"
+			"3"		"1667"
+			"4"		"4085"
+			"5"		"5716"
+			"6"		"6971"
+			"7"		"1742"
+			"8"		"11014"
+			"9"		"4486"
+			"10"		"4305"
+			"11"		"4726"
+			"12"		"10397"
+			"13"		"5186"
+			"14"		"1721"
+			"15"		"597"
+			"16"		"10808"
+			"17"		"4234"
+			"18"		"4182"
+		}
+		"review_score"		"8"
+		"review_percentage"		"83"
+	}
+	"extended"
+	{
+		"developer"		"Arai Koh Create Office"
+		"publisher"		"YOX-Project"
+		"homepage"		"https://arai-create.net/en/badend/"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"BAD END"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"bad_end.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"bad_end_x86.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"415851"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2415641083812050729"
+					"size"		"268589976"
+					"download"		"233869216"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"F8AFF1C414B3FB3A59EB7F0958590038"
+					"size"		"EE038825E3C0F35FF7DC6E2441213B18"
+					"download"		"8FDC07E4E2DFBF49D4F5B3F8B8F41EB2"
+				}
+				"beta"
+				{
+					"gid"		"35F9F055212A4A278193F3B07E382983"
+					"size"		"FCA4A97B6F0E16B1FFC2525D098E05E6"
+					"download"		"138A1C52812F5B8550F7E32F6BA69024"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11342153"
+				"timeupdated"		"1685445843"
+			}
+			"alpha"
+			{
+				"buildid"		"11342153"
+				"pwdrequired"		"1"
+				"timeupdated"		"1685365488"
+			}
+			"beta"
+			{
+				"buildid"		"11342153"
+				"pwdrequired"		"1"
+				"timeupdated"		"1685365722"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"131072000"
+		"maxnumfiles"		"63"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"My Games/BAD END/savedata"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
