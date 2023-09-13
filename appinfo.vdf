@@ -1,0 +1,231 @@
+"appinfo"
+{
+	"appid"		"298850"
+	"common"
+	{
+		"name"		"Millennium 5 - The Battle of the Millennium"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"727b7b64932b9b81d22a810120a5005d5fee2742"
+		"logo_small"		"727b7b64932b9b81d22a810120a5005d5fee2742_thumb"
+		"icon"		"e9fff3b34f0a559683e4175fec9163415fab498f"
+		"clienttga"		"e8134bcc18913dbcf53e2eba82381af278391475"
+		"clienticon"		"7b9200da312babada2442b30b4f496b0dfc12e50"
+		"oslist"		"windows"
+		"metacritic_name"		"Millennium 5 - The Battle of the Millennium"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1425716416"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Aldorlea Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Aldorlea Games"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Aldorlea Games"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"23"
+			"3"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_29"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1415403019"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"298850"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"492"
+			"2"		"21"
+			"3"		"7208"
+			"4"		"5577"
+			"5"		"1742"
+			"6"		"597"
+			"7"		"3871"
+			"8"		"4434"
+			"9"		"3834"
+			"10"		"4242"
+			"11"		"4711"
+			"12"		"1756"
+			"13"		"4182"
+			"14"		"3965"
+			"15"		"6971"
+			"16"		"9"
+			"17"		"1684"
+		}
+		"review_score"		"5"
+		"review_percentage"		"63"
+	}
+	"extended"
+	{
+		"gamedir"		""
+		"developer"		"Aldorlea Games"
+		"publisher"		"Aldorlea Games"
+		"homepage"		"https://www.aldorlea.org/millennium5.php"
+		"listofdlc"		"357100,372270"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Millennium 5 - The Battle of the Millennium"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MM5.exe"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Guide\\MM5-Complete-Official-Walkthrough.pdf"
+				"description"		"View Walkthrough"
+				"config"
+				{
+					"ownsdlc"		"357100"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228982"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"298851"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7243293713856755909"
+					"size"		"242511018"
+					"download"		"224174864"
+				}
+				"test"
+				{
+					"gid"		"7986951753029166530"
+					"size"		"242511190"
+					"download"		"224290800"
+				}
+			}
+		}
+		"357100"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2576629959466277675"
+					"size"		"14374601"
+					"download"		"13135616"
+				}
+				"test"
+				{
+					"gid"		"2576629959466277675"
+					"size"		"14374601"
+					"download"		"13135616"
+				}
+			}
+			"dlcappid"		"357100"
+		}
+		"372270"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2734977539311553842"
+					"size"		"98032220"
+					"download"		"97388960"
+				}
+				"test"
+				{
+					"gid"		"2734977539311553842"
+					"size"		"98032220"
+					"download"		"97388960"
+				}
+			}
+			"dlcappid"		"372270"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2633072"
+				"timeupdated"		"1522049819"
+			}
+			"test"
+			{
+				"buildid"		"868882"
+				"description"		"Bugfix testing"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10485760"
+		"maxnumfiles"		"250"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"MM5_Saves"
+				"pattern"		"*.rxdata"
+			}
+			"1"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"MM5_Saves"
+				"pattern"		"*.ini"
+			}
+		}
+	}
+}
