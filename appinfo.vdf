@@ -1,0 +1,181 @@
+"appinfo"
+{
+	"appid"		"391420"
+	"common"
+	{
+		"name"		"Gun Rocket"
+		"type"		"Game"
+		"oslist"		"windows"
+		"icon"		"f02e1eac176c6b9e51f67804a1af4cf7999138f1"
+		"clienticon"		"88fae73caaf7eab31c6ceb2c22fabcf2016b1275"
+		"clienttga"		"537da48cfad9a31fac066324ed5eba79a2feacec"
+		"logo"		"c268be741575792b7d523e8af18117ff1f66d835"
+		"logo_small"		"c268be741575792b7d523e8af18117ff1f66d835_thumb"
+		"eulas"
+		{
+		}
+		"releasestate"		"released"
+		"metacritic_name"		"Gun Rocket"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1438398495"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Space Wedgie, LLC"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Space Wedgie, LLC"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_29"		"1"
+			"category_47"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1438975459"
+		"community_hub_visible"		"1"
+		"gameid"		"391420"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"597"
+			"2"		"21"
+			"3"		"4255"
+			"4"		"4026"
+			"5"		"1664"
+			"6"		"1773"
+			"7"		"3871"
+			"8"		"1774"
+			"9"		"19"
+			"10"		"1755"
+			"11"		"3964"
+			"12"		"4004"
+			"13"		"4182"
+		}
+		"review_score"		"6"
+		"review_percentage"		"72"
+	}
+	"extended"
+	{
+		"gamedir"		""
+		"developer"		"Space Wedgie, LLC"
+		"publisher"		"Space Wedgie, LLC"
+		"listofdlc"		"456510"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Gun Rocket"
+		"launch"
+		{
+			"2"
+			{
+				"executable"		"GunRocket.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"3"
+			{
+				"executable"		"GunRocket.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"391421"
+		{
+			"config"
+			{
+				"osarch"		"64"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7592609391361685396"
+					"size"		"75378235"
+					"download"		"36956992"
+				}
+			}
+		}
+		"391422"
+		{
+			"config"
+			{
+				"osarch"		"32"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5083452022609217525"
+					"size"		"70902975"
+					"download"		"35683504"
+				}
+			}
+		}
+		"456510"
+		{
+			"dlcappid"		"456510"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4987564709338625269"
+					"size"		"19333987"
+					"download"		"19223760"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2731180"
+				"timeupdated"		"1524976855"
+			}
+		}
+	}
+}
