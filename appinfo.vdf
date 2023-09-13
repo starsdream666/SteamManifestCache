@@ -1,0 +1,123 @@
+"appinfo"
+{
+	"appid"		"216840"
+	"common"
+	{
+		"name"		"Dungeon Defenders Development Kit"
+		"type"		"Tool"
+		"freeondemand"		"1"
+		"gameid"		"216840"
+	}
+	"extended"
+	{
+		"developer"		""
+		"gamedir"		"ValveTestApp216840"
+		"homepage"		""
+		"icon"		""
+		"noservers"		"0"
+		"sourcegame"		"1"
+		"state"		"eStateTool"
+		"thirdpartycdkey"		"1"
+		"visibleonlywhensubscribed"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Dungeon Defenders"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Binaries\\DunDefToolLauncher.exe"
+				"description"		"Launch Dev Kit Tool"
+				"workingdir"		"Binaries"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"216841"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6444362078744362391"
+					"size"		"10130503011"
+					"download"		"5423771088"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"betabranch_pc"
+				{
+					"gid"		"70BFA260DA7543551C4C714013224CA6"
+					"size"		"EBD23A721A6D8DC3F89EF49397B5DF40"
+					"download"		"861F74378FE0043FB5A94206296DA38B"
+				}
+				"betapatch_dev"
+				{
+					"gid"		"8228F34EB09B1BA85D730CEBF6989DC2"
+					"size"		"FE45A263DA59F6E7660A8C1F2F545CDD"
+					"download"		"B38A1D957B1BA432480A8BF2C52AF7B1"
+				}
+				"betapatch_dev_2"
+				{
+					"gid"		"50FCFEA1CB36EF84E4CE04983858EC04"
+					"size"		"D6E8C10BEEC1BBFF0F705BF3F4906695"
+					"download"		"C43FAA98E0769253A573AA1403C4AA50"
+				}
+				"testing"
+				{
+					"gid"		"4F9CE74495CA30C13D4D768C10108544"
+					"size"		"5C426C5A6D79A463917D1C869DCDBBA4"
+					"download"		"BA643FFAA6653143152AEF8230F68CC1"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9679753"
+				"timeupdated"		"1665195982"
+			}
+			"betabranch_pc"
+			{
+				"buildid"		"646691"
+				"pwdrequired"		"1"
+			}
+			"betapatch_dev"
+			{
+				"buildid"		"671071"
+				"pwdrequired"		"1"
+			}
+			"betapatch_dev_2"
+			{
+				"buildid"		"704704"
+				"pwdrequired"		"1"
+			}
+			"testing"
+			{
+				"buildid"		"33550"
+				"pwdrequired"		"1"
+				"timeupdated"		"1665195966"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1073741824"
+		"maxnumfiles"		"1000"
+	}
+}
