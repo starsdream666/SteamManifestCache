@@ -1,0 +1,774 @@
+"appinfo"
+{
+	"appid"		"288390"
+	"common"
+	{
+		"name"		"NOBUNAGA'S AMBITION: Souzou with Power Up Kit"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"clienttga"		"b07aa19a9495ba890ee977394c5260a082ea645f"
+		"logo"		"12d70fef213a0cc70d48c11b43579f4f23bd963d"
+		"logo_small"		"12d70fef213a0cc70d48c11b43579f4f23bd963d_thumb"
+		"icon"		"c91aed726e4b412664f228a375f9308d8013ff32"
+		"clienticon"		"7cc74005e9b5096bb3a4ecc83a94634d6dfb16f4"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"288390_eula_0"
+				"name"		"信長の野望･創造 with パワーアップキット EULA"
+				"url"		"http://store.steampowered.com//eula/288390_eula_0"
+			}
+		}
+		"name_localized"
+		{
+			"japanese"		"信長の野望・創造 with パワーアップキット"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1681862400"
+			"tested_build_id"		"1318405"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-1"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Nobunaga's Ambition: Souzou with Power Up Kit (Japanese version)"
+		"small_capsule"
+		{
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"japanese"		"header_japanese.jpg"
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1597909290"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"KOEI TECMO GAMES CO., LTD."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"KOEI TECMO GAMES CO., LTD."
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"KOEI TECMO GAMES CO., LTD."
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1418259600"
+		"community_hub_visible"		"1"
+		"gameid"		"288390"
+		"store_tags"
+		{
+			"0"		"4684"
+			"1"		"9204"
+			"2"		"3813"
+			"3"		"4168"
+			"4"		"6310"
+			"5"		"1678"
+			"6"		"1676"
+			"7"		"4364"
+			"8"		"4747"
+			"9"		"9"
+			"10"		"4191"
+			"11"		"3987"
+			"12"		"4598"
+			"13"		"599"
+			"14"		"1708"
+			"15"		"8945"
+			"16"		"4711"
+			"17"		"1756"
+			"18"		"4190"
+		}
+		"review_score"		"8"
+		"review_percentage"		"82"
+	}
+	"extended"
+	{
+		"developer"		"KOEI TECMO GAMES CO., LTD."
+		"publisher"		"KOEI TECMO GAMES CO., LTD."
+		"homepage"		"http://www.gamecity.ne.jp/souzou/wpk/"
+		"gamemanualurl"		"https://store.steampowered.com/manual/288390/"
+		"listofdlc"		"321640,321641,321642,321643,321644,321645,321646,321647,321648,321649,335650,344110,363230"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Nobunaga's Ambition Souzou with Power Up Kit"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"n14PKLauncher.exe"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"baselanguages"		""
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"288391"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"language"		"japanese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2218361209349639918"
+					"size"		"5555122246"
+					"download"		"4814263552"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"check"
+				{
+					"gid"		"BBE88791359F7C9D675AEDE7B31D4455"
+					"size"		"9B5F2A814B764F7B2BFB2A54FC1A2BC9"
+					"download"		"8F347A390B128C4B319FAD754A00F708"
+				}
+				"check_en"
+				{
+					"gid"		"7253E82714F096EDA5010A3264355591"
+					"size"		"BDED9B99C679D3C789E239499196185F"
+					"download"		"B431AE0BE449B358D459B42D7AFDFEDF"
+				}
+				"check_for_dealers"
+				{
+					"gid"		"9BED3C801DEDA950DEDC0266E5D0C85D"
+					"size"		"D2945580B28872F5BE89D0883655E22A"
+					"download"		"6463682DEC98C665BD5C6CE3F156C25F"
+				}
+			}
+		}
+		"321648"
+		{
+			"config"
+			{
+				"language"		"japanese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"353476684367869511"
+					"size"		"1002741"
+					"download"		"1010288"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"check"
+				{
+					"gid"		"0A7D72F6366442E7509001100D6300B6"
+					"size"		"01665AA634D436DD96752AECAD75FB96"
+					"download"		"452D2EA7BE7C27B106634A7D0E32FBED"
+				}
+				"check_en"
+				{
+					"gid"		"AF2F7DE5B035B138E4738B2F0D701213"
+					"size"		"034C0CC39945C0DFCB7EE5E634482824"
+					"download"		"3EAB2BCB711D55E58D2ABE93690D0953"
+				}
+				"check_for_dealers"
+				{
+					"gid"		"14031C7BD42F9BE7A154477E24B6C560"
+					"size"		"510587ED56D68D2803B3F7B54B506B1B"
+					"download"		"DEA4E62385C9CF906738482C29F0FEC5"
+				}
+			}
+			"dlcappid"		"321648"
+		}
+		"321649"
+		{
+			"config"
+			{
+				"language"		"japanese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4176129001784133950"
+					"size"		"1288702"
+					"download"		"1289440"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"check"
+				{
+					"gid"		"4F6048ADA5D18FAF8A17EC1FC20CDFF5"
+					"size"		"38507C83233DEA075E44C66A9C7F6FAF"
+					"download"		"05800CA05D1DCDB91584E19E9E157DA7"
+				}
+				"check_en"
+				{
+					"gid"		"BE169DCB5A4D8AD227698B22794505C4"
+					"size"		"041325A2FA1BE856B3319EA5F59EC9C5"
+					"download"		"9B6703244B6CE2366461263BD3AAF7CC"
+				}
+				"check_for_dealers"
+				{
+					"gid"		"EEB4B2479FFE331AE64FB0DE335A07E3"
+					"size"		"3D627E527F35A97EC2B48F696367D1BA"
+					"download"		"49043DAF284DEE6B0625988B63BC4440"
+				}
+			}
+			"dlcappid"		"321649"
+		}
+		"321642"
+		{
+			"config"
+			{
+				"language"		"japanese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5461869831482122968"
+					"size"		"1469624"
+					"download"		"1477008"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"check"
+				{
+					"gid"		"5751CB68EA486A1473CE0F584D2F0BD8"
+					"size"		"DF0AE697BEA8613795B6C183148F4B56"
+					"download"		"19358F76CA0DF0AF77146E7BA476FBFA"
+				}
+				"check_en"
+				{
+					"gid"		"95A2D2FF6EE2B73FF732C10AC589BCC7"
+					"size"		"5CEF19C44BF0DA9AC05A98A1D7812109"
+					"download"		"7DB67CAC7CBB22EDAF399CACD42B1EB4"
+				}
+				"check_for_dealers"
+				{
+					"gid"		"41B0660B84EAC28598E29EB95DE8F33E"
+					"size"		"2832DCE9369375399AD9C6F474E54D93"
+					"download"		"47A13BC72DD235ACA163FB8B6530A104"
+				}
+			}
+			"dlcappid"		"321642"
+		}
+		"321643"
+		{
+			"config"
+			{
+				"language"		"japanese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1477654490994712965"
+					"size"		"1561620"
+					"download"		"1570384"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"check"
+				{
+					"gid"		"ADA4A9C4F7470389CEEB6F2248DA9AB6"
+					"size"		"E041394676B7B5B61848BFDD69C0F494"
+					"download"		"C23E47F85A1E9AA3DA7C72C797A2F6FF"
+				}
+				"check_en"
+				{
+					"gid"		"2B034FC122821F4574EAA7616129FFBC"
+					"size"		"587F6E905983E8131438475DCFFC24AC"
+					"download"		"DB3A7B7528DFA2E5E36E607B26C60476"
+				}
+				"check_for_dealers"
+				{
+					"gid"		"37F377D03B882A95FDA6497B9427F6F2"
+					"size"		"EEE32FE229FB46E8AF76AF389E9964C6"
+					"download"		"F7FD397797FECBA5F16792F0D0F7B78A"
+				}
+			}
+			"dlcappid"		"321643"
+		}
+		"321644"
+		{
+			"config"
+			{
+				"language"		"japanese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3893710679329358724"
+					"size"		"1824191"
+					"download"		"1836816"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"check"
+				{
+					"gid"		"50E9FCAD9BD4BAEB6288324644EE2EAA"
+					"size"		"402AD05749C426F35FD231CD82659A41"
+					"download"		"EB8EF59A4C58635EAD594EB61F258DFF"
+				}
+				"check_en"
+				{
+					"gid"		"A4A96D0AEF1A795A8E947FCBFA52D608"
+					"size"		"D77F11FA38647F7234F95480952028F6"
+					"download"		"A4249EF39F66E42D5CA3CC4B44494EE2"
+				}
+				"check_for_dealers"
+				{
+					"gid"		"85FF66DF2579E01E83D80193BDC77C7A"
+					"size"		"32124514A01832D70AFA2C0B2DD63F09"
+					"download"		"AD696B0C53AEA3A0BB11243B81643CE0"
+				}
+			}
+			"dlcappid"		"321644"
+		}
+		"321645"
+		{
+			"config"
+			{
+				"language"		"japanese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"85857081886619901"
+					"size"		"1568755"
+					"download"		"1578208"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"check"
+				{
+					"gid"		"CD9417FDCBA4EE05D56D285F8593432E"
+					"size"		"85F01885A3DA1ADACA8E622A6BD50E8E"
+					"download"		"AF2ACF5943DA473B01A6A9E4D2ED6D24"
+				}
+				"check_en"
+				{
+					"gid"		"395862D70BE1D0DE19F57D67C284B1ED"
+					"size"		"DD6529F7117C6A455CE643AFBEF1EFA9"
+					"download"		"8A316579A1A870B0ABDE3E67642656CE"
+				}
+				"check_for_dealers"
+				{
+					"gid"		"ECF2810A1CAEDBC3F2A0850E5999F745"
+					"size"		"E0099AB648A1B72C546642A965D953B4"
+					"download"		"7A503BDEBE11A064988D23687DF706A1"
+				}
+			}
+			"dlcappid"		"321645"
+		}
+		"321646"
+		{
+			"config"
+			{
+				"language"		"japanese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7517577500117902576"
+					"size"		"1443356"
+					"download"		"1450672"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"check"
+				{
+					"gid"		"33CB81095BAEB8531FC0B9E48E96BEC0"
+					"size"		"6640311DBA6EFF01BBEB44C6C613A29D"
+					"download"		"4553FC9507037E47D9364FB943851EEF"
+				}
+				"check_en"
+				{
+					"gid"		"DA2F2713E2009BD619D54AD30E91DACC"
+					"size"		"67E5128D03E071CCBA5656DB51740972"
+					"download"		"AD1C77E980D9193FC6057907802F00D1"
+				}
+				"check_for_dealers"
+				{
+					"gid"		"7C3ED015ED417A9684C46E77D8FA1754"
+					"size"		"8C970442C43A486373985F0909E53BBB"
+					"download"		"2112B628A89BA85EC11635C809848002"
+				}
+			}
+			"dlcappid"		"321646"
+		}
+		"321647"
+		{
+			"config"
+			{
+				"language"		"japanese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2640795256192716138"
+					"size"		"1093992"
+					"download"		"1101728"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"check"
+				{
+					"gid"		"FC7127D4ACDF1C32EA21277F0D24F879"
+					"size"		"EAFA30C08AAE840815CAB89EC9B0B3A0"
+					"download"		"5D35257DE97BEB2366C22E4FA9CDF5F4"
+				}
+				"check_en"
+				{
+					"gid"		"9301EA6127BF9E49BEED78EDE4A4AF34"
+					"size"		"586ED2F6C1A8BD67BE14EA4BEE7A6BB1"
+					"download"		"0A98305408042229040D34E861196117"
+				}
+				"check_for_dealers"
+				{
+					"gid"		"8C46F534D7ACDDCB7AF7D28695C6F8B1"
+					"size"		"87BEF38172EB7DD66C47F8B59A162B84"
+					"download"		"9CCF385CAE0D801983D66F726533E18F"
+				}
+			}
+			"dlcappid"		"321647"
+		}
+		"321640"
+		{
+			"config"
+			{
+				"language"		"japanese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3693094281340613440"
+					"size"		"1472497"
+					"download"		"1479920"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"check"
+				{
+					"gid"		"AAC152E9F22BE463CB7BA3F583100FD3"
+					"size"		"724B8A5607D37D2A01C9E8ED34BEF53A"
+					"download"		"88E76E373D8D16BA0622FDD85E5F9EBA"
+				}
+				"check_en"
+				{
+					"gid"		"DC94B06108EEE7D918479946D339B65C"
+					"size"		"DB2F9E0B9CC852613CC5424548DA369D"
+					"download"		"0944195DD154D42B23F531D0A146F327"
+				}
+				"check_for_dealers"
+				{
+					"gid"		"7F6D83B00478A3D6F767CCFB79CF49B6"
+					"size"		"371D7C5C63CA59B65BE91DBF36467E40"
+					"download"		"097C47B004597B24FFB29833DA0B8370"
+				}
+			}
+			"dlcappid"		"321640"
+		}
+		"321641"
+		{
+			"config"
+			{
+				"language"		"japanese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5858637361797019450"
+					"size"		"1467753"
+					"download"		"1475120"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"check"
+				{
+					"gid"		"8D4B0C34B0B982EE70F7D3B946364A5A"
+					"size"		"10F513B4CDE02968CE9179B8A4CFF8C0"
+					"download"		"F543CF8C13A03AFA7347FF9086923167"
+				}
+				"check_en"
+				{
+					"gid"		"9ED140950B56A215F9FD16DCF9598B0D"
+					"size"		"F836DEA979194073F95EA9386874E296"
+					"download"		"08DE1BC416FF32DA7927AB983F9529BA"
+				}
+				"check_for_dealers"
+				{
+					"gid"		"DA928BBD471D0F9B47F24FFA9C227D14"
+					"size"		"E55D906A63AC2C3016E0F56417C9D9B2"
+					"download"		"2549C778B5C60E6AA4B9D3F1DED26CFA"
+				}
+			}
+			"dlcappid"		"321641"
+		}
+		"288392"
+		{
+			"config"
+			{
+				"language"		"japanese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5229596715094224885"
+					"size"		"212207311"
+					"download"		"211574416"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"check"
+				{
+					"gid"		"C423B1F975E89EA67222E99A2F161774"
+					"size"		"E9B9AADA54E5E40B615DCF0763D7794D"
+					"download"		"C7CFC1622D298EB64D0B12AFBE0CA7DD"
+				}
+				"check_en"
+				{
+					"gid"		"49F3AB632CEE163EE6125AD60F16AE7E"
+					"size"		"3A6A63A5BBAAE815EFB417F8CF497A38"
+					"download"		"E968ED57A558C2EB1BEEDC1B80AA2EFB"
+				}
+				"check_for_dealers"
+				{
+					"gid"		"DDE74A9FA284861630F19143A4E716C1"
+					"size"		"147C24A895C664528F17ED06696F1867"
+					"download"		"0C58EAFE6F50613ED770A3D879C157FE"
+				}
+			}
+		}
+		"344110"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6175498137047520299"
+					"size"		"2575031"
+					"download"		"2610416"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"check"
+				{
+					"gid"		"D2A9A8D39BD3D9F5307C854AF6BF0024"
+					"size"		"4933F430946B2F81B11DB033EC1DEAD2"
+					"download"		"31806EF3E7CA7CDEEC0CE7937654354B"
+				}
+				"check_en"
+				{
+					"gid"		"5B71910B1811CC3AEE93C2EA6B50A505"
+					"size"		"1E80A221277ADF9B50FE14876758D496"
+					"download"		"FFF6D47105C09CD68B0B896DF0DC815B"
+				}
+				"check_for_dealers"
+				{
+					"gid"		"F4B45829551691BA4C8AE343EC6AAA74"
+					"size"		"F8F444BBE4B69BA8E4A9FE42E86D313B"
+					"download"		"2373DBF159BAB218F125F1AAAA5956BD"
+				}
+			}
+			"dlcappid"		"344110"
+		}
+		"363230"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1535650982957087823"
+					"size"		"6435600"
+					"download"		"6524112"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"check"
+				{
+					"gid"		"EDBDF932826AF330618553E4A02160AD"
+					"size"		"1B8F63449FB713EE64C3F42CDB1F467C"
+					"download"		"5A62ECD317E361103991B6D5AD987771"
+				}
+				"check_en"
+				{
+					"gid"		"A2D69759830F3EC3FBAC916DA5071C5E"
+					"size"		"F4DD687845FC7DCE58D5617E3A853A08"
+					"download"		"A959ADD173FB6CFA85D90EF91671C14B"
+				}
+				"check_for_dealers"
+				{
+					"gid"		"BE04EAE37E599BD22A37F93E24F1BA9F"
+					"size"		"120AEC0D8F31F049CB99140F8E09794F"
+					"download"		"6B8A8EACD59CA98857CBEA2EF615A661"
+				}
+			}
+			"dlcappid"		"363230"
+		}
+		"288400"
+		{
+			"config"
+			{
+				"language"		"english"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5019263647448553496"
+					"size"		"7272469841"
+					"download"		"6508845360"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"check"
+				{
+					"gid"		"A4DBA604795C7F6549340F58F3405B3E"
+					"size"		"CE2741347ADB96A6F514BEAF7A4BADF9"
+					"download"		"20B7203C7E17110C5803F3280F24DB14"
+				}
+				"check_en"
+				{
+					"gid"		"061B48E9E8933EDA97CA3E59B9759AFC"
+					"size"		"91C727A2C8123E3CEBB115A739841708"
+					"download"		"5EFF7CC38D155119310831E7082D6A65"
+				}
+				"check_for_dealers"
+				{
+					"gid"		"500330DC4895F0EDDAD981F09033FB05"
+					"size"		"A1E04BCEACBB7350A0B9FB97F85DABC4"
+					"download"		"1F600B4CA2706050E52A36196B4F63F6"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1318405"
+				"timeupdated"		"1475730167"
+			}
+			"check"
+			{
+				"buildid"		"1318405"
+				"pwdrequired"		"1"
+				"timeupdated"		"1473081514"
+			}
+			"check_en"
+			{
+				"buildid"		"711040"
+				"pwdrequired"		"1"
+			}
+			"check_for_dealers"
+			{
+				"buildid"		"711040"
+				"pwdrequired"		"1"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"200000000"
+		"maxnumfiles"		"53"
+	}
+}
