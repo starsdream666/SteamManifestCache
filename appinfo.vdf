@@ -1,0 +1,606 @@
+"appinfo"
+{
+	"appid"		"265750"
+	"common"
+	{
+		"name"		"Secret Ponchos"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"clienticon"		"c992a66a626c1510a345ca5bf824a5cfe6663198"
+		"clienttga"		"fbb94ef006603fcd67ea24a291704746de17559d"
+		"icon"		"fa24070a0cc3e3e777192d8daed2ae5e853e6ef6"
+		"logo"		"92fcfe556a36ebda621d8cd2dd1dea2664bc9a19"
+		"logo_small"		"92fcfe556a36ebda621d8cd2dd1dea2664bc9a19_thumb"
+		"metacritic_name"		"UntitledApp"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1450114826"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Switchblade Monkeys Entertainment"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Switchblade Monkeys Entertainment"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_22"		"1"
+			"category_25"		"1"
+			"category_15"		"1"
+			"category_28"		"1"
+			"category_29"		"1"
+			"category_43"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1444762860"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"265750"
+		"store_tags"
+		{
+			"0"		"1647"
+			"1"		"19"
+			"2"		"492"
+			"3"		"3859"
+			"4"		"1718"
+			"5"		"1774"
+			"6"		"5851"
+			"7"		"4758"
+			"8"		"1743"
+			"9"		"493"
+			"10"		"21"
+			"11"		"1775"
+		}
+		"review_score"		"6"
+		"review_percentage"		"70"
+	}
+	"extended"
+	{
+		"developer"		"Switchblade Monkeys Entertainment"
+		"publisher"		"Switchblade Monkeys Entertainment"
+		"homepage"		"http://www.secretponchos.com"
+		"listofdlc"		"307470,307660,389750"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"SecretPonchos"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"bin/secretponchosd3d11.exe"
+				"description"		"Default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228984"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"overridescddb"		"1"
+		"265751"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1577522674554765343"
+					"size"		"4514916425"
+					"download"		"1754911664"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"9C3C7BC5A37F04F2D638290AB2EB7CEE"
+					"size"		"E071B0567B13012EFE42BBDF8EB8BB2D"
+					"download"		"98333AF26CAB2658A9348D03E38451A3"
+				}
+				"christest"
+				{
+					"gid"		"3C00C48B68F71A7D4AE692721FB54EC4"
+					"size"		"AFF5E2D0B295CCEAB3381D9D73AF1A69"
+					"download"		"572F29D19681E1749FBFCAFB84840D31"
+				}
+				"darrentest"
+				{
+					"gid"		"7F874F54B885EC61D2301FA732BBA876"
+					"size"		"6DAF01B9961005695A7C1863C550F8E2"
+					"download"		"8BF70466241D83EC2A382DA29C3F95EF"
+				}
+				"eapreview"
+				{
+					"gid"		"90551494B3ADF1ED9076C9CE1D9A197F"
+					"size"		"CC49EF6899C93C203CAEB296300F1253"
+					"download"		"FC32DF9E80AF03D0452E99C4A3A90B8C"
+				}
+				"earlyaccessbeta"
+				{
+					"gid"		"E431FD134AA65F021D2284067088E643"
+					"size"		"123A1BF2B36351EB229C68D13570B027"
+					"download"		"FCA7DF8F65DC4ED26335FF70A11415D9"
+				}
+				"enginetest"
+				{
+					"gid"		"FDF8791441A0FC2517F49065F962ACA1"
+					"size"		"AC5F1BF405C7D088D599D2BC8618E470"
+					"download"		"5159D6CFC7F1E02BB5272CB0DB8BD546"
+				}
+				"evolobbybuild"
+				{
+					"gid"		"0AABD68F3ACB4129C056B9DA38C3C476"
+					"size"		"72E36E84C38A1CF54F5C2468EE258894"
+					"download"		"2C32F8D7B1BD78DA468A6A445D940138"
+				}
+				"fmodtest"
+				{
+					"gid"		"811FE78852930DE2DB2385F17B29E997"
+					"size"		"3F5D8ED8F1E68E3AF2C1992BA1EEE2C3"
+					"download"		"01A0D544D604603DD9A5B1CEA16AF083"
+				}
+				"friendtest"
+				{
+					"gid"		"CE9E86DB897D172D081358D36116EF4E"
+					"size"		"9CEE7564EA35907B6CC69E918E476F29"
+					"download"		"189A48CD51B07808E9DB86D860A5F19E"
+				}
+				"hd4000test"
+				{
+					"gid"		"59FC2CC2DBBE966404DC0B5B41C69198"
+					"size"		"C1DFC87DB69C37ABC52DD4AC56B7F96D"
+					"download"		"63181FDB114DB62DA35DF3E94DB652C0"
+				}
+				"keybindingresettest"
+				{
+					"gid"		"9E6ABF7A87B19543A609E364AE5CBE5A"
+					"size"		"25DA25C7EAA24B1BA4442FD1C584FB3C"
+					"download"		"C841FE6BE90076A9159B89E85BD466A6"
+				}
+				"launchpreview"
+				{
+					"gid"		"0602701EF53EC770B13A9BE156AB16EB"
+					"size"		"C8B844315ED04344F3FF317405DFB2BA"
+					"download"		"798EBAC7DD9D71883FEA688C3B4A9DE7"
+				}
+				"launchtest"
+				{
+					"gid"		"1D3B23C8FCC6746AD3156670A4114133"
+					"size"		"20701B8ACE4B7D0210708BFC382E454B"
+					"download"		"91CA4678698CF7DFAA02BB1B15DC6EB5"
+				}
+				"press"
+				{
+					"gid"		"2029D8661FE7F0A269AE1C4FDDF3E3AA"
+					"size"		"1CB5EE2BB114BDBBA180816C7E2C4397"
+					"download"		"152AB5F163867741073D257B3D617ADB"
+				}
+				"release1.00"
+				{
+					"gid"		"6D9499C90FD54F4B11373835FBFD09BC"
+					"size"		"BD39A454D58A05FF45A6E878C214E496"
+					"download"		"C9E0DCD3DBD0A7D0F6D4865253F55CAF"
+				}
+				"release1.01"
+				{
+					"gid"		"FB6334272AE568528BAC87A91D95D778"
+					"size"		"64B2FB54BA2205CE25AE32967BE52513"
+					"download"		"71B0BFC7762B1848AFFD1689BED282C1"
+				}
+				"release1.02"
+				{
+					"gid"		"D92E8A0552C6809E7CCBD72BF1406C7F"
+					"size"		"E5667A6995B32A168FDD5DECC981BD10"
+					"download"		"CFE01C2A14A1EFECC3289D5D581CB412"
+				}
+				"release1.03"
+				{
+					"gid"		"E2D9014F68979885257484A0C256E1D6"
+					"size"		"1838B78633FD11662A25003274F3D295"
+					"download"		"979CAC08BB1A7E801758262C9897664E"
+				}
+				"release1.04"
+				{
+					"gid"		"91A009B114004281D6A6C190139F4411"
+					"size"		"E3075108127CAFAC6FC246C6516DB920"
+					"download"		"E08B4E45F61AFEEE04112FBBDA85D7FA"
+				}
+				"release1.05"
+				{
+					"gid"		"3CACA5E79991C527E310226E21C2CCAE"
+					"size"		"2AF07DCC206850C01C91649E44CD9543"
+					"download"		"DBE8B695D2951D4C9232C10E04A11184"
+				}
+				"release1.06"
+				{
+					"gid"		"E6409635DF6A7CAC77A662122D592866"
+					"size"		"A73E1CE43E65EF94BD09A078CD9B4DA3"
+					"download"		"01B7C5B2B669970284824CC65493B66D"
+				}
+				"release1.07"
+				{
+					"gid"		"765046EBD97702AA595FF549F817A31C"
+					"size"		"E463B4E0951A92E01E72C2540E9A8A74"
+					"download"		"EA26576BD1D621EFD1A97B64EB65EE9F"
+				}
+				"release1.08"
+				{
+					"gid"		"74EB6975D61272ED95A21835EBFA8A25"
+					"size"		"D52F93A0B90C06C32DF139BFB137B57E"
+					"download"		"E1746DD5B9DF27C342CD7B02A00E996F"
+				}
+				"release1.09"
+				{
+					"gid"		"E0A41D061842ECE88B93E10E9EAEBAD1"
+					"size"		"C60D3BA511D6262476DA30CF345B8B1B"
+					"download"		"92BAFE76C114D86E5C9A9BE6AEC038AB"
+				}
+			}
+		}
+		"265752"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4910843564037342137"
+					"size"		"85314560"
+					"download"		"8505664"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"F2FB5C3F8AE17504E8EB5FD16A56857B"
+					"size"		"A5F697636128BDAE0BFD92F581DFA93D"
+					"download"		"7C4D34EEDFEB148DE436CF02A27C3945"
+				}
+				"christest"
+				{
+					"gid"		"258F067A9C1B7E066754FFDC61BE3FD3"
+					"size"		"D7C78D48390BC482D5F68930A51FEC1E"
+					"download"		"48BAE98BE4F7B2CC3C4F55AA16AC1CAD"
+				}
+				"darrentest"
+				{
+					"gid"		"171037CD66D04E14ED4D4065541E40C6"
+					"size"		"800049A75F3FBDC50982F22F4C84E7B4"
+					"download"		"29A478338F3BEEF1382A9D35835A1E16"
+				}
+				"eapreview"
+				{
+					"gid"		"2B7EDA0EC216D5008D7FCAC1AC6B7371"
+					"size"		"9C574C0742E94203668ACA5B59CA65E1"
+					"download"		"8E8D1225BCA9EE2D98CBA532572B43F2"
+				}
+				"earlyaccessbeta"
+				{
+					"gid"		"FACD12B4F67EB6CFEFC2CAAFA98F3D22"
+					"size"		"D88244B69E8CF4CAC128D1A038C62552"
+					"download"		"A322E96826CC4CD94790F32E06C449F2"
+				}
+				"enginetest"
+				{
+					"gid"		"D8BC080512292D498646376D331B4468"
+					"size"		"075FA2D7E59D0DD26477F5DF1F4AD5D9"
+					"download"		"A0BCEC5D2BB9D98A603F42FE98724AE1"
+				}
+				"evolobbybuild"
+				{
+					"gid"		"BD339EE378E91943D6923FDD588A04F9"
+					"size"		"BBCAF6FBF98CB259D93702E53F1789A8"
+					"download"		"9921C7D37FBF143521881DB4B32024E6"
+				}
+				"fmodtest"
+				{
+					"gid"		"794B1009399C745B4A27C20B8B556779"
+					"size"		"998F7C0967088F2C8B7880FDF60F2D28"
+					"download"		"30243AEF343DAF021BD433B8F5976DAB"
+				}
+				"friendtest"
+				{
+					"gid"		"C8B1C0AB70389C6221D86149C171C971"
+					"size"		"2485BA5BFFD0606EEC1A6C207B0BFF1A"
+					"download"		"F657CD8D3744DB280850B40EE1A09161"
+				}
+				"hd4000test"
+				{
+					"gid"		"89512194001F503139100C7746CC7F98"
+					"size"		"C97768C3D4402ED1FD8810E0894B20D0"
+					"download"		"C97768C3D4402ED1FD8810E0894B20D0"
+				}
+				"keybindingresettest"
+				{
+					"gid"		"F4DC2DCF3DF45F47A7AB464EA20EC8A4"
+					"size"		"6D66DE532E5C38EEE212BCFE5190535C"
+					"download"		"1A7513547F621B49E3266B617BCE6512"
+				}
+				"launchpreview"
+				{
+					"gid"		"E8DB4F1BA9AB7CB437521E9BC5382490"
+					"size"		"A45A0140A41FF6F50AF4A62D98ABEA50"
+					"download"		"FA6809B0A348426B9A5CA489AB67EA2C"
+				}
+				"launchtest"
+				{
+					"gid"		"AF7B8C26EC2175FFD73CA2375FB59679"
+					"size"		"FA78521ABA44B0636B176DACD2A2C6F4"
+					"download"		"87396D1BD8EF925FCF7C5207C66992F5"
+				}
+				"press"
+				{
+					"gid"		"AC5753BBAC56A6F80564B27052429ABC"
+					"size"		"6AC8E579A85941CEFDC2744BF2CF1085"
+					"download"		"AF3D235DD7791590306D31B0176EA9BA"
+				}
+				"release1.00"
+				{
+					"gid"		"49DB97B06E8D049CE6FBCBB164FC4D9A"
+					"size"		"3848DF5944AD3466EBE312533CBE50A4"
+					"download"		"FCB2BC2EFF3349E01F8F6724B0C0CCF5"
+				}
+				"release1.01"
+				{
+					"gid"		"FCB47F97F478C54D9997CD6EA099D2C1"
+					"size"		"54028801E2032D39E46D6E744093A34A"
+					"download"		"E4613E888723BAC62CD3A88DE06F325D"
+				}
+				"release1.02"
+				{
+					"gid"		"50F94D3F6022CB134078C93796D79C1F"
+					"size"		"14FA47BC45CEA7D6B248CC1F8DB60F42"
+					"download"		"D9DD89244F19E54E97B1FD12817A6DEE"
+				}
+				"release1.03"
+				{
+					"gid"		"2931C21BBF62C51EB434418C1F43587F"
+					"size"		"1CCE7B255DCE07EB25C772605538C041"
+					"download"		"A71F69AAB25AD27C62506B5C58C714CD"
+				}
+				"release1.04"
+				{
+					"gid"		"69B9634B2F977C12FF9C14D256F8C7F0"
+					"size"		"868C8359BB3FC75626E30AF7F50F311F"
+					"download"		"E8A73A78FD2FE0EAE1B4353147BF5373"
+				}
+				"release1.05"
+				{
+					"gid"		"98499E1266EF464518B411E946206C1F"
+					"size"		"A51001C77D9E029D9430E325707826C5"
+					"download"		"2198B3AE0892B31EF3342916F0177838"
+				}
+				"release1.06"
+				{
+					"gid"		"74D6B6FF540AA6D223209301D3994A6E"
+					"size"		"8E4A8386614C261A75C3FB3EBC346897"
+					"download"		"85457B6A3A834C648AB441740DE34F19"
+				}
+				"release1.07"
+				{
+					"gid"		"BE4B62B1F15FCF3AB60660C843BAAA6F"
+					"size"		"C84C00B0C1DF66994DDF83082B2641BD"
+					"download"		"81290D770D6593C80224DDF87B1FA4D3"
+				}
+				"release1.08"
+				{
+					"gid"		"AB3705BB42943C34E6AEE1A9C2DFDAAF"
+					"size"		"A61579E6A694C4CF73A3F85EECFEB61F"
+					"download"		"37BDAE3F61A2D37CEA69630554E90D6B"
+				}
+				"release1.09"
+				{
+					"gid"		"234977C005630B33262230486AA841C2"
+					"size"		"D99BAD649D54662FC1EA4D43B6863197"
+					"download"		"58D407DF91731CA4742D29A48E9C6A7E"
+				}
+			}
+		}
+		"baselanguages"		"english,german,french,italian,spanish"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1021323"
+			}
+			"alpha"
+			{
+				"buildid"		"6560110"
+				"pwdrequired"		"1"
+				"timeupdated"		"1619974776"
+			}
+			"christest"
+			{
+				"buildid"		"816331"
+				"pwdrequired"		"1"
+			}
+			"darrentest"
+			{
+				"buildid"		"6260787"
+				"pwdrequired"		"1"
+				"timeupdated"		"1613679279"
+			}
+			"eapreview"
+			{
+				"buildid"		"858003"
+				"pwdrequired"		"1"
+			}
+			"earlyaccessbeta"
+			{
+				"buildid"		"685405"
+				"pwdrequired"		"1"
+			}
+			"enginetest"
+			{
+				"buildid"		"3622454"
+				"pwdrequired"		"1"
+				"timeupdated"		"1551903821"
+			}
+			"evolobbybuild"
+			{
+				"buildid"		"696799"
+				"pwdrequired"		"1"
+			}
+			"fmodtest"
+			{
+				"buildid"		"865665"
+				"pwdrequired"		"1"
+			}
+			"friendtest"
+			{
+				"buildid"		"951219"
+				"pwdrequired"		"1"
+			}
+			"hd4000test"
+			{
+				"buildid"		"625972"
+				"pwdrequired"		"1"
+			}
+			"keybindingresettest"
+			{
+				"buildid"		"672689"
+				"pwdrequired"		"1"
+			}
+			"launchpreview"
+			{
+				"buildid"		"1040874"
+				"pwdrequired"		"1"
+				"timeupdated"		"1459226977"
+			}
+			"launchtest"
+			{
+				"buildid"		"6560110"
+				"pwdrequired"		"1"
+				"timeupdated"		"1618759258"
+			}
+			"press"
+			{
+				"buildid"		"803868"
+				"pwdrequired"		"1"
+			}
+			"release1.00"
+			{
+				"buildid"		"813645"
+				"pwdrequired"		"1"
+			}
+			"release1.01"
+			{
+				"buildid"		"819017"
+				"pwdrequired"		"1"
+			}
+			"release1.02"
+			{
+				"buildid"		"827310"
+				"pwdrequired"		"1"
+			}
+			"release1.03"
+			{
+				"buildid"		"846950"
+				"pwdrequired"		"1"
+			}
+			"release1.04"
+			{
+				"buildid"		"876895"
+				"pwdrequired"		"1"
+			}
+			"release1.05"
+			{
+				"buildid"		"897123"
+				"pwdrequired"		"1"
+			}
+			"release1.06"
+			{
+				"buildid"		"898677"
+				"pwdrequired"		"1"
+			}
+			"release1.07"
+			{
+				"buildid"		"902730"
+				"pwdrequired"		"1"
+			}
+			"release1.08"
+			{
+				"buildid"		"905854"
+				"pwdrequired"		"1"
+			}
+			"release1.09"
+			{
+				"buildid"		"911608"
+				"pwdrequired"		"1"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"16"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+	}
+}
