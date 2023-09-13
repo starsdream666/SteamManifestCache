@@ -1,0 +1,372 @@
+"appinfo"
+{
+	"appid"		"302710"
+	"common"
+	{
+		"name"		"BlazeRush"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"clienticon"		"bfd20598ee286367b745127557422e06cb0ee880"
+		"clienttga"		"45760c204413c6ad41f74ea5b1e7e44d40712122"
+		"icon"		"4d09fadf2ee9e258c07d15fc9b30158d368d78b8"
+		"logo"		"30d7b32f245338c3326f99c9788b39ba36a9e4e3"
+		"logo_small"		"30d7b32f245338c3326f99c9788b39ba36a9e4e3_thumb"
+		"clienticns"		"72055f770cbe9cc08058322c5001bb7b6d36f5cb"
+		"linuxclienticon"		"5b0ed2d33414b5688ef0f06bfd13d71c78de0eb5"
+		"languages"
+		{
+			"english"		"1"
+			"koreana"		"1"
+			"russian"		"1"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1668556800"
+			"tested_build_id"		"824539"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"BlazeRush"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"russian"		"capsule_231x87_russian.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"82.44585479693771"
+				"height_pct"		"63.3382477110214"
+			}
+		}
+		"store_asset_mtime"		"1667198617"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Targem Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Targem Games"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"9"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_24"		"1"
+			"category_22"		"1"
+			"category_25"		"1"
+			"category_28"		"1"
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_29"		"1"
+			"category_31"		"1"
+			"category_44"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1414479600"
+		"steam_release_date"		"1414533677"
+		"metacritic_score"		"66"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/blazerush?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"302710"
+		"store_tags"
+		{
+			"0"		"699"
+			"1"		"492"
+			"2"		"19"
+			"3"		"1773"
+			"4"		"7368"
+			"5"		"4791"
+			"6"		"4840"
+			"7"		"3859"
+			"8"		"1774"
+			"9"		"7481"
+			"10"		"597"
+			"11"		"5851"
+			"12"		"21978"
+			"13"		"4166"
+			"14"		"4295"
+			"15"		"1644"
+			"16"		"3841"
+			"17"		"4182"
+			"18"		"4102"
+			"19"		"3843"
+		}
+		"review_score"		"8"
+		"review_percentage"		"87"
+	}
+	"extended"
+	{
+		"developer"		"Targem Games"
+		"publisher"		"Targem Games"
+		"homepage"		"http://blazerush.com/"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Blaze Rush"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"game.exe"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"BlazeRush.app"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"blazerush"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+		"usemms"		"1"
+	}
+	"depots"
+	{
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"302711"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8155472579115704172"
+					"size"		"353398641"
+					"download"		"344901344"
+				}
+				"test"
+				{
+					"gid"		"7112334022940233753"
+					"size"		"353398504"
+					"download"		"344919088"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtest"
+				{
+					"gid"		"D35C4D507B90E8BC04001355DCB2BF00"
+					"size"		"021DC9B56638F05CECAD9790D563877D"
+					"download"		"76427A493CF02037F09CDB1642F65E6A"
+				}
+			}
+		}
+		"302712"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8614609476948492427"
+					"size"		"9141164"
+					"download"		"3431552"
+				}
+				"test"
+				{
+					"gid"		"9015348256898819531"
+					"size"		"9065388"
+					"download"		"3412048"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtest"
+				{
+					"gid"		"FCBA68A647F5BE2F636B64C9E9652FE9"
+					"size"		"FFE6A7BC134E78260996AF2483EDF813"
+					"download"		"09D64E4B81AA7B189495D797338859E2"
+				}
+			}
+		}
+		"302713"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6373553222880318782"
+					"size"		"12663205"
+					"download"		"4476704"
+				}
+				"test"
+				{
+					"gid"		"1493399698625447589"
+					"size"		"10895468"
+					"download"		"3917600"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtest"
+				{
+					"gid"		"1201037F5E5916518FE70F910349A78E"
+					"size"		"DCB90D2090615E9491E7D9158EAA3329"
+					"download"		"5725A2A0565A53EC6B5C3510BA6FF90E"
+				}
+			}
+		}
+		"302714"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4145326063380582481"
+					"size"		"12416717"
+					"download"		"4939904"
+				}
+				"test"
+				{
+					"gid"		"2234682974067118776"
+					"size"		"11916068"
+					"download"		"4761984"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtest"
+				{
+					"gid"		"1D621D7C485F2CAA2B477EC6B10C2830"
+					"size"		"41B5F2B1359090A9C1E72A52D688C67F"
+					"download"		"43E88D67C52ED08FB3343DA54AC0D797"
+				}
+			}
+		}
+		"baselanguages"		"english,russian"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"824539"
+			}
+			"devtest"
+			{
+				"buildid"		"513564"
+				"pwdrequired"		"1"
+			}
+			"test"
+			{
+				"buildid"		"483044"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1048576"
+		"maxnumfiles"		"1"
+	}
+}
