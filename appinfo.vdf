@@ -1,0 +1,69 @@
+"appinfo"
+{
+	"appid"		"42320"
+	"common"
+	{
+		"name"		"Sixense MIDI Controller"
+		"type"		"Tool"
+		"freeondemand"		"1"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"42320_eula_1"
+				"name"		"Sixense MIDI Controller EULA"
+				"url"		"http://store.steampowered.com//eula/42320_eula_1"
+			}
+		}
+		"gameid"		"42320"
+	}
+	"extended"
+	{
+		"developer"		""
+		"gamedir"		"Sixense MIDI Controller"
+		"homepage"		""
+		"icon"		""
+		"launcheula"		"http://storefront.steampowered.com/eula_testapp42300"
+		"noservers"		"1"
+		"order"		"1"
+		"primarycache"		"42321"
+		"serverbrowsername"		""
+		"state"		"eStateTool"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Sixense MIDI Controller"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SixenseMIDIController.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"42321"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2635357302463834657"
+					"size"		"3677329"
+					"download"		"0"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"21293"
+			}
+		}
+	}
+}
