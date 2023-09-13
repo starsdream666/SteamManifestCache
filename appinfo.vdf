@@ -1,0 +1,539 @@
+"appinfo"
+{
+	"appid"		"356790"
+	"common"
+	{
+		"name"		"Galacide"
+		"type"		"Game"
+		"oslist"		"windows,linux"
+		"logo"		"addd807878e2b716838996bca60da9ad95516a38"
+		"logo_small"		"addd807878e2b716838996bca60da9ad95516a38_thumb"
+		"icon"		"8e446d3ffc7fc412bfcd35d871fd4f5ef3caf521"
+		"clienttga"		"33b10aad9808350ccf397fbe009376aa00f88054"
+		"clienticon"		"66e0c339ad172adfbd71f2a418634e4497c89fea"
+		"clienticns"		"57b77022f4dba7ef08bf0d125b57c6ef31a07a50"
+		"linuxclienticon"		"dde3a46fdab3915e3d1756263b37533831bd44ed"
+		"releasestate"		"released"
+		"eulas"
+		{
+			"1"
+			{
+				"id"		"356790_eula_1"
+				"name"		"Galacide EULA 1"
+				"url"		"http://store.steampowered.com//eula/356790_eula_1"
+			}
+		}
+		"osarch"		""
+		"metacritic_name"		"Galacide"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"41.26602087867167"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1637790850"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Puny Human"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Puny Human"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_24"		"1"
+			"category_28"		"1"
+			"category_23"		"1"
+			"category_25"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_37"		"1"
+			"category_39"		"1"
+			"category_33"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_9"		"1"
+			"category_44"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1438066800"
+		"steam_release_date"		"1438098440"
+		"metacritic_score"		"76"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/galacide?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"356790"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"492"
+			"2"		"4255"
+			"3"		"1755"
+			"4"		"1774"
+			"5"		"3841"
+			"6"		"1664"
+			"7"		"4840"
+			"8"		"3942"
+			"9"		"4885"
+			"10"		"7368"
+			"11"		"1685"
+			"12"		"3859"
+			"13"		"4026"
+			"14"		"597"
+			"15"		"4182"
+			"16"		"493"
+			"17"		"1654"
+			"18"		"1673"
+			"19"		"1708"
+		}
+		"review_score"		"8"
+		"review_percentage"		"86"
+	}
+	"extended"
+	{
+		"gamedir"		""
+		"absolutemousecoordinates"		"0"
+		"remoteplaytogethertestingbranches"		"default,jenkins_builds"
+		"developer"		"Puny Human"
+		"publisher"		"Puny Human"
+		"homepage"		"http://galaci.de"
+		"listofdlc"		"395290,500910"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Galacide"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Galacide.exe"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Galacide/Binaries/Linux/Galacide-Linux-Shipping"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"2"
+			{
+				"executable"		"Galacide/Binaries/Win32/Galacide.exe"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigdetails"
+		{
+			"1633480238"
+			{
+				"controller_type"		"controller_steamcontroller_gordon"
+				"enabled_branches"		"default,stage"
+			}
+		}
+		"steamconfigurator3rdpartynative"		"77"
+	}
+	"depots"
+	{
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"356791"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"438797606781966968"
+					"size"		"670633853"
+					"download"		"593417920"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"C9943DA606354C32F46C3F6B10963D58"
+					"size"		"26FE566956D49B010316B37A8CA458E9"
+					"download"		"1F4259204C53767869220180AF29B7C2"
+				}
+				"development_ue_410_1"
+				{
+					"gid"		"E0A20A3B5B8387F259579DBE041B057C"
+					"size"		"C88046B8AF8A6A3294029DCA77ECCA6B"
+					"download"		"7EEB1C33C19732DD10A84312E41F8485"
+				}
+				"development_warpahead"
+				{
+					"gid"		"03F5D9CF34074763F15EB1DA7868316B"
+					"size"		"4F7779CBE3C5167CD918ADA9570F56B3"
+					"download"		"D3812AF6D05971831AFEA06BEAA4796A"
+				}
+				"jenkins_builds"
+				{
+					"gid"		"D88B9D809A8C41F4E36E2D204BAF6FE0"
+					"size"		"FF8DB07DD4DDC2346C19BD34C75AD7A1"
+					"download"		"74FC66CB4AAE5F5DC077D7EEF96DFB76"
+				}
+				"shipping_build1"
+				{
+					"gid"		"778AE62F4702EBD4B2EF6574F21DEF79"
+					"size"		"0475BFD7D1A6248206C4B7C45B511023"
+					"download"		"229A8145FA89773D021C3B4A6CD69A3B"
+				}
+				"shipping_ue410_1"
+				{
+					"gid"		"1C795A507C427B2C1F9690B0DF978B4C"
+					"size"		"991B0174E4842F7E6C67C1A5BEB97067"
+					"download"		"9C01EC6868BDEC8E511233BCDBD27E9F"
+				}
+				"shipping_warpahead"
+				{
+					"gid"		"67A48418E8971BB239C4789C8545655F"
+					"size"		"46C36F8D2FE845C928718F38F859914B"
+					"download"		"B3A8966120681060EFE00A9395E3941A"
+				}
+			}
+		}
+		"356792"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7161121528537635950"
+					"size"		"1590620778"
+					"download"		"524916480"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"079E40A0B5086B8CE487DBE43D331FCB"
+					"size"		"78E5E330315E181AB84266642E50B4DB"
+					"download"		"B6678767366C97E7A0E47F53E396B122"
+				}
+				"development_ue_410_1"
+				{
+					"gid"		"43462777A285E6DC55E42C9417524B54"
+					"size"		"8700EEB20B911133CA6C1E303ED7ACDF"
+					"download"		"C0A85CA7D5A6B6FD9BDB21E71C4255FC"
+				}
+				"development_warpahead"
+				{
+					"gid"		"5D68F749C6D0C9C636D4525689314D8F"
+					"size"		"E1CB6AFC5AAD5FFA229C39598DBCF41F"
+					"download"		"BA535204299788F119F11410E323C6D7"
+				}
+				"jenkins_builds"
+				{
+					"gid"		"972C4E47638157EDDCD00EBD4259FAE5"
+					"size"		"D1980283B4DD1122EEF4A337FAC44405"
+					"download"		"1C55068EB2513778FA78CBCBA1669A9D"
+				}
+				"shipping_build1"
+				{
+					"gid"		"F79E2D4234D1CBAB27F8290CA44566AE"
+					"size"		"7D4570AEB2F26BCF9277286D7AC1573B"
+					"download"		"50C77FF4C33781272F0D5B5898D0B515"
+				}
+				"shipping_ue410_1"
+				{
+					"gid"		"3DA7F15A3D3375AA023CA6149AF7277C"
+					"size"		"4BF8A15CC52836451B7BC66D25C6E2F7"
+					"download"		"4BA33FDB48F2B14C348D021D5F1AC906"
+				}
+				"shipping_warpahead"
+				{
+					"gid"		"237AF5C8235DBB294B99310B439BACCE"
+					"size"		"264D0ABF411B6EC0099DBD7465E15302"
+					"download"		"E13D96E042DBAA64011933B77A947E4C"
+				}
+			}
+		}
+		"356793"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"3158E4A31E9F7099A9F98161C3ED59D5"
+					"size"		"ADD032F325552B8409D71DD8FCFF57D5"
+					"download"		"29B41FDD69144A0F69DB35B92DC32DBE"
+				}
+				"development_warpahead"
+				{
+					"gid"		"EE338B891C3773634221EF6D4FAA64D9"
+					"size"		"D65A8307F6B66B83605208854637C94B"
+					"download"		"D0BBBF0E8F324A0EFF85DED47B05EFFB"
+				}
+			}
+		}
+		"356794"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6734717108035297530"
+					"size"		"670633853"
+					"download"		"593409072"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"869305A955066D71F2F4A504AE440772"
+					"size"		"F256BAC008EC5F2610D78875894D3CAD"
+					"download"		"256E5672ED888B247F06B6342913DB45"
+				}
+				"development_ue_410_1"
+				{
+					"gid"		"2790961D692A6F65F00010B0D6A24E98"
+					"size"		"D8F58EFE9BDE1F23394FDA7FEB1EE3D7"
+					"download"		"9754A0E27EE9D3148CAADB3F1DE91213"
+				}
+				"development_warpahead"
+				{
+					"gid"		"C7DFA3F8892438EB2232486C94FD1E3A"
+					"size"		"194DABF51E2A0B3259E3DAD0C5E0C85C"
+					"download"		"37FFBBC4263E5F1670F0C6D3AB9A8136"
+				}
+				"jenkins_builds"
+				{
+					"gid"		"96FB9EF71F6B9E20981DCAE899BA38AC"
+					"size"		"FF8DB07DD4DDC2346C19BD34C75AD7A1"
+					"download"		"7A537EC4AB20FFB5C53E944323F0C4B7"
+				}
+				"shipping_build1"
+				{
+					"gid"		"801FCE547AEE663886FC801962950C86"
+					"size"		"3D9A12FBBDF156087FDF5B819FC6CCDE"
+					"download"		"80A2CE8051054380B84F5B95E65627BA"
+				}
+				"shipping_ue410_1"
+				{
+					"gid"		"D6A97FEC3A7880CC2A7BB7177455AD7A"
+					"size"		"A3F6D6C7A26CC83F38734B4F220C4697"
+					"download"		"732BA99B8C3377B9B966911E5F74015D"
+				}
+				"shipping_warpahead"
+				{
+					"gid"		"672BFD3A2A3DF636E41B8A5A39BB5E52"
+					"size"		"63DAB505BD5C71B51630AC9B18DE88D5"
+					"download"		"255E2016ACD41F0FDD16270E87F237A5"
+				}
+			}
+		}
+		"395290"
+		{
+			"dlcappid"		"395290"
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4478080723742639977"
+					"size"		"778319920"
+					"download"		"770234592"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development_ue_410_1"
+				{
+					"gid"		"53F3B6B6D10C0C69BEBD4C18A1F71FA4"
+					"size"		"F078C58501448863FFC44B2B01F4C3FE"
+					"download"		"69194A185926459442C787F243880FFF"
+				}
+				"development_warpahead"
+				{
+					"gid"		"291AD5D02C1CD5B56453810EE8E0672B"
+					"size"		"7207EE9BC4DE059E3FEBCB9F750E66D4"
+					"download"		"66A45E45B160BE02871048F8BC85C098"
+				}
+				"jenkins_builds"
+				{
+					"gid"		"FE4D440FA79CC7A974B93008902DD1EB"
+					"size"		"92CE6C3A72E35FC185B43F04A30E5E0E"
+					"download"		"10BE0B1CA3AC2B41A55A19DD4290E3B7"
+				}
+				"shipping_build1"
+				{
+					"gid"		"575BD694DA4A80C0F995412C96B9BA68"
+					"size"		"A721489EC4C7928CD19C2DF85FB6E364"
+					"download"		"3CA4D24CCF45F29F3DEF9ADEAFC56733"
+				}
+				"shipping_ue410_1"
+				{
+					"gid"		"D92F566870FBB41317FEE9708E7D3757"
+					"size"		"26960FEE4993DDF7F2F3C7C86289C95F"
+					"download"		"393ED10973C1D5260A3D27653779D905"
+				}
+				"shipping_warpahead"
+				{
+					"gid"		"7A2246D62853CE427B817FF81476B5AE"
+					"size"		"FDB61CCC02A5DF2F7FF71F8FE263F928"
+					"download"		"616142879DF091F38A76CC8B914F932A"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5729116"
+				"timeupdated"		"1603477630"
+			}
+			"development"
+			{
+				"buildid"		"3495985"
+				"pwdrequired"		"1"
+				"timeupdated"		"1548284098"
+			}
+			"development_ue_410_1"
+			{
+				"buildid"		"4720084"
+				"pwdrequired"		"1"
+				"timeupdated"		"1582765419"
+			}
+			"development_warpahead"
+			{
+				"buildid"		"5727903"
+				"pwdrequired"		"1"
+				"timeupdated"		"1603462166"
+			}
+			"jenkins_builds"
+			{
+				"buildid"		"5738985"
+				"pwdrequired"		"1"
+				"timeupdated"		"1603732592"
+			}
+			"shipping_build1"
+			{
+				"buildid"		"5934444"
+				"pwdrequired"		"1"
+				"timeupdated"		"1607373934"
+			}
+			"shipping_ue410_1"
+			{
+				"buildid"		"1234390"
+				"pwdrequired"		"1"
+				"timeupdated"		"1545419226"
+			}
+			"shipping_warpahead"
+			{
+				"buildid"		"3499161"
+				"pwdrequired"		"1"
+				"timeupdated"		"1603462139"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"5000000"
+		"maxnumfiles"		"2"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"Galacide/Saved/SaveGames/"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
