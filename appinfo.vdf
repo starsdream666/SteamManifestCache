@@ -1,0 +1,1273 @@
+"appinfo"
+{
+	"appid"		"380150"
+	"common"
+	{
+		"name"		"STASIS"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"logo"		"658f47509497cbc711779399fe0ae7e2735f8f98"
+		"logo_small"		"658f47509497cbc711779399fe0ae7e2735f8f98_thumb"
+		"icon"		"88d1a6daa340c5e69b30219ddd54de58a6356ad7"
+		"clienttga"		"f5ed9ebaa0cd4d4fa14aa58097373bde0fbe89de"
+		"clienticon"		"54cc57dee489750e31cd7b8e132c4f7bf3862b89"
+		"osarch"		""
+		"osextended"		"macos64"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1660867200"
+			"tested_build_id"		"5616936"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"STASIS"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"54.19091967403958"
+				"height_pct"		"49.085727855616256"
+			}
+		}
+		"store_asset_mtime"		"1667029268"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"THE BROTHERHOOD"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"THE BROTHERHOOD"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"STASIS"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_13"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1441046695"
+		"metacritic_score"		"79"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/stasis?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"380150"
+		"store_tags"
+		{
+			"0"		"1698"
+			"1"		"5851"
+			"2"		"3942"
+			"3"		"1667"
+			"4"		"21"
+			"5"		"1742"
+			"6"		"4166"
+			"7"		"4182"
+			"8"		"1755"
+			"9"		"492"
+			"10"		"1664"
+			"11"		"1721"
+			"12"		"3871"
+			"13"		"4345"
+			"14"		"4975"
+			"15"		"1684"
+			"16"		"3835"
+			"17"		"4004"
+			"18"		"5153"
+			"19"		"4145"
+		}
+		"review_score"		"8"
+		"review_percentage"		"82"
+	}
+	"extended"
+	{
+		"developer"		"THE BROTHERHOOD"
+		"publisher"		"THE BROTHERHOOD"
+		"homepage"		"http://www.stasisgame.com"
+		"listofdlc"		"398860"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"STASIS"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"STASIS.exe"
+				"description"		"Launch"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"StasisLauncher.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"start"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+			"4"
+			{
+				"executable"		"stasis_config_tool.exe"
+				"description"		"Manage Screen and text size options."
+				"type"		"config"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"5"
+			{
+				"executable"		"Stasis.app"
+				"workingdir"		"./"
+				"description"		"and Bypass Launcher (NOT RECOMMENDED)"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228984"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"380151"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"58290729047949713"
+					"size"		"0"
+					"download"		"0"
+				}
+				"rollback_1099"
+				{
+					"gid"		"58290729047949713"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"1.3.4_linux_test"
+				{
+					"gid"		"CCE0BC1D96BA5688DBEA029EE804CFBE"
+					"size"		"F695C73866A6B764AD7ACE0E49992E3E"
+					"download"		"F695C73866A6B764AD7ACE0E49992E3E"
+				}
+				"1010beta"
+				{
+					"gid"		"AD68AE0516CE30700DC652925F0AFB98"
+					"size"		"330ABAED4CEDC3A089C67085BC195D67"
+					"download"		"330ABAED4CEDC3A089C67085BC195D67"
+				}
+				"106rollback"
+				{
+					"gid"		"0B88A93FC3B84AEE75F19FDDAFD83A62"
+					"size"		"0690FB779D9765534013B96C633E2F02"
+					"download"		"0690FB779D9765534013B96C633E2F02"
+				}
+				"108testing"
+				{
+					"gid"		"4DE9E74802EFD6F5477AE7AE59E3FE63"
+					"size"		"2281234CFE31558719FB79F6FE53BB26"
+					"download"		"2281234CFE31558719FB79F6FE53BB26"
+				}
+				"1092beta"
+				{
+					"gid"		"4F8DC8670246C87BDA4EFD3A367C3CF1"
+					"size"		"FE554E98C66C489F6F388CBBC16F8AA0"
+					"download"		"FE554E98C66C489F6F388CBBC16F8AA0"
+				}
+				"1095beta"
+				{
+					"gid"		"5B282A444C0C4A706CC6AD2B50CF1AE5"
+					"size"		"9A58C77A3DE44802D6B5F82D2973E5F4"
+					"download"		"9A58C77A3DE44802D6B5F82D2973E5F4"
+				}
+				"1099"
+				{
+					"gid"		"6A1CAD7604DE8315B204C2783B421BF0"
+					"size"		"95620AF7382C57963CD19EFAF3D53682"
+					"download"		"95620AF7382C57963CD19EFAF3D53682"
+				}
+				"109betapc"
+				{
+					"gid"		"B365C6BB300268D1DA83E72B658D8685"
+					"size"		"AB0881D7DD20B36CE235FD17768BEE13"
+					"download"		"AB0881D7DD20B36CE235FD17768BEE13"
+				}
+				"beta"
+				{
+					"gid"		"AE62C413D989EBCF2E41611EA222FA3F"
+					"size"		"C010DCAEC14E0767307CC5A25A2B07E0"
+					"download"		"C010DCAEC14E0767307CC5A25A2B07E0"
+				}
+				"deluxetest"
+				{
+					"gid"		"D7066BD77893D678855C996B14E7AE51"
+					"size"		"4EFDA91D68B6680BFA691A34A9B2D637"
+					"download"		"4EFDA91D68B6680BFA691A34A9B2D637"
+				}
+				"dev105"
+				{
+					"gid"		"8D1971AB028C881B4F3B74E99DAFA8FA"
+					"size"		"6D223F2B439660D0067E80F6F827D967"
+					"download"		"6D223F2B439660D0067E80F6F827D967"
+				}
+				"linux"
+				{
+					"gid"		"A102C5242CF6C3CE0DA877357DF4F34C"
+					"size"		"3822C4B56D316B682D85D61CC9E2E239"
+					"download"		"3822C4B56D316B682D85D61CC9E2E239"
+				}
+				"linux1"
+				{
+					"gid"		"0F7944642867D6CD1866D9DB35580547"
+					"size"		"ADD1BEA70147765D165481DB6807385C"
+					"download"		"ADD1BEA70147765D165481DB6807385C"
+				}
+				"linux2"
+				{
+					"gid"		"546B111444DAB4964A3CE1B7CBB81573"
+					"size"		"CA381DCEA812BBC0ACA8C1440E16336A"
+					"download"		"CA381DCEA812BBC0ACA8C1440E16336A"
+				}
+				"press"
+				{
+					"gid"		"34918A273DB26E3E8E1DCCB48F5B1355"
+					"size"		"7736B755DC04B618027811C48ABB9CEE"
+					"download"		"7736B755DC04B618027811C48ABB9CEE"
+				}
+				"stasisdev"
+				{
+					"gid"		"8D4CDBB97F8FD947BB8201F2A84AE05E"
+					"size"		"860826D0403AC08AF3E5B4A52F442602"
+					"download"		"860826D0403AC08AF3E5B4A52F442602"
+				}
+				"testing"
+				{
+					"gid"		"1325542BBCC03E59E35D7EE1DC330A71"
+					"size"		"6B86DCD2D8636E244958BBD81297077B"
+					"download"		"6B86DCD2D8636E244958BBD81297077B"
+				}
+				"testingmac"
+				{
+					"gid"		"343CE4F07EBAB8942F0895CAFF7A8398"
+					"size"		"A90EA202DF0401670BD2B2D601A5B2C6"
+					"download"		"A90EA202DF0401670BD2B2D601A5B2C6"
+				}
+			}
+		}
+		"380152"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7643902079216435154"
+					"size"		"3092025112"
+					"download"		"2932206464"
+				}
+				"rollback_1099"
+				{
+					"gid"		"8980392882239527621"
+					"size"		"3133368071"
+					"download"		"2952599408"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"1.3.4_linux_test"
+				{
+					"gid"		"0898335549148EF5B2D696D74C19DFD5"
+					"size"		"60A8A789277D1A575869E97C433EFF7E"
+					"download"		"D24B8CADFD7137FD22400326B528E05D"
+				}
+				"1010beta"
+				{
+					"gid"		"4AC4489877C083CEFC25BEFD6DCE36AC"
+					"size"		"CE5EC86206C112CF1497DD392CE7D513"
+					"download"		"CE5800FEFCE210AF1A44FE125AAA247D"
+				}
+				"106rollback"
+				{
+					"gid"		"06E61C0AF6DFCC42E50ED382720D8CE0"
+					"size"		"35165FDB8B531B9B9D1F84BAADFF1E96"
+					"download"		"CEB45E3E503C8E87275A826232221B47"
+				}
+				"108testing"
+				{
+					"gid"		"A0C743EF8EE6933C2D025A43B8A371FE"
+					"size"		"5B15BE01C5A23E4B064D4F60AAF7578F"
+					"download"		"9D07CB113C5482DA6C6CF2C4C0AC62AA"
+				}
+				"1092beta"
+				{
+					"gid"		"3B45CD979D4B3085A579861C46F88626"
+					"size"		"C426932927DDDB77D755CAC7E804C50C"
+					"download"		"97E3600CAEBCD27A6A5C05A9537DC459"
+				}
+				"1095beta"
+				{
+					"gid"		"CE773C262F0C31371A55AADD3B23DBE1"
+					"size"		"4CEA6EAA72B27484887483C8C7F7538D"
+					"download"		"FEBD1E4068489F278F70E80C3C5A3245"
+				}
+				"1099"
+				{
+					"gid"		"A9CF8D6998DC80076D2BC3FE30ADD71A"
+					"size"		"D4E9902786741B48EE1B92235A042B54"
+					"download"		"52406AB1D96316B19B3ED94D7D6EBF29"
+				}
+				"109betapc"
+				{
+					"gid"		"500A4FEDDB77BF59C06983FF3809783C"
+					"size"		"2B6FDDBC6DCB19D94D2612D4D28C5140"
+					"download"		"C813E6D699B3EAEE8580459AB4E74783"
+				}
+				"beta"
+				{
+					"gid"		"5874B3E6A06B46783BB3E9AA0457BF92"
+					"size"		"0C4410837E590707BA54906F90ACBB2C"
+					"download"		"E250794C4340FD2F3216981D16BE083D"
+				}
+				"deluxetest"
+				{
+					"gid"		"11E1503FD7DAE4E24859695A4B858932"
+					"size"		"4EFDA91D68B6680BFA691A34A9B2D637"
+					"download"		"4EFDA91D68B6680BFA691A34A9B2D637"
+				}
+				"dev105"
+				{
+					"gid"		"02EA4C045C70857CA71EF35885CDC694"
+					"size"		"3AA93A2AF9B136C8C25C8CC87597C2D6"
+					"download"		"E2E71B1A22F49B58AF0CE5B42093C462"
+				}
+				"linux"
+				{
+					"gid"		"CE75B6A289F7B7DC0142590674274A15"
+					"size"		"43B96D78C9D4C9EEF4BF286ABAE64089"
+					"download"		"34B53199F2E26C0AF6649AAD4823A5FF"
+				}
+				"linux1"
+				{
+					"gid"		"AF22BA74E73293EE3573E5BC1C9E6467"
+					"size"		"C41154DDDB144D53E9B2B30E1B75BB31"
+					"download"		"FCA2ADD74F81CDE5EFABF4387D72AAE0"
+				}
+				"linux2"
+				{
+					"gid"		"7DDA28EEF35A385CC24CF2D33AB794A2"
+					"size"		"6D9B0D6484B3F62603638A2A3C058C19"
+					"download"		"A14ACB3D49AC9F4E4EA362DBE70478F3"
+				}
+				"press"
+				{
+					"gid"		"2B94C86489B4A42D2A7A09199C7BC9AB"
+					"size"		"64D1D7B5E496FFAEBFBA5A423508C6D9"
+					"download"		"3F32BF713DDF97FB9A5A910C71FD526A"
+				}
+				"stasisdev"
+				{
+					"gid"		"7751CE3936A795FB5A96E8B549C8D1A2"
+					"size"		"ADCEEA07B88506CF8F05C38670224226"
+					"download"		"0D07165A77AD853D8E2875DCDFFAED08"
+				}
+				"testing"
+				{
+					"gid"		"FD8A492F4A620A390A005FFDDADB212B"
+					"size"		"12E55CCC8243CCB7624CEA89AE5DE559"
+					"download"		"F79328B9D371FFE3869417CBBC3D3033"
+				}
+				"testingmac"
+				{
+					"gid"		"E8099D4FBF37FB0878A2AB4A4AB4C240"
+					"size"		"A90EA202DF0401670BD2B2D601A5B2C6"
+					"download"		"A90EA202DF0401670BD2B2D601A5B2C6"
+				}
+			}
+		}
+		"380153"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6244896779358669826"
+					"size"		"0"
+					"download"		"0"
+				}
+				"rollback_1099"
+				{
+					"gid"		"6244896779358669826"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"1.3.4_linux_test"
+				{
+					"gid"		"4551203532BCD9EB6F63B0865362AE73"
+					"size"		"F695C73866A6B764AD7ACE0E49992E3E"
+					"download"		"F695C73866A6B764AD7ACE0E49992E3E"
+				}
+				"1010beta"
+				{
+					"gid"		"FC8E7F766130ECB74090234ADB2E3184"
+					"size"		"330ABAED4CEDC3A089C67085BC195D67"
+					"download"		"330ABAED4CEDC3A089C67085BC195D67"
+				}
+				"106rollback"
+				{
+					"gid"		"75984906DC9531730E00D46E2EDA722C"
+					"size"		"0690FB779D9765534013B96C633E2F02"
+					"download"		"0690FB779D9765534013B96C633E2F02"
+				}
+				"108testing"
+				{
+					"gid"		"A94942E87D0FDC9E7A27485964C8BAEB"
+					"size"		"2281234CFE31558719FB79F6FE53BB26"
+					"download"		"2281234CFE31558719FB79F6FE53BB26"
+				}
+				"1092beta"
+				{
+					"gid"		"586060757BAE48DABD06BFA515D15D3C"
+					"size"		"FE554E98C66C489F6F388CBBC16F8AA0"
+					"download"		"FE554E98C66C489F6F388CBBC16F8AA0"
+				}
+				"1095beta"
+				{
+					"gid"		"A0FD59D463FCDDAECB3BE8634105A9CF"
+					"size"		"9A58C77A3DE44802D6B5F82D2973E5F4"
+					"download"		"9A58C77A3DE44802D6B5F82D2973E5F4"
+				}
+				"1099"
+				{
+					"gid"		"683A34F42C2B95428540B420884DCE9E"
+					"size"		"95620AF7382C57963CD19EFAF3D53682"
+					"download"		"95620AF7382C57963CD19EFAF3D53682"
+				}
+				"109betapc"
+				{
+					"gid"		"63043DFFFD2879B3A4235A5650865CD0"
+					"size"		"AB0881D7DD20B36CE235FD17768BEE13"
+					"download"		"AB0881D7DD20B36CE235FD17768BEE13"
+				}
+				"beta"
+				{
+					"gid"		"E3155F42B859B3E1CE49E3F1FE361660"
+					"size"		"C010DCAEC14E0767307CC5A25A2B07E0"
+					"download"		"C010DCAEC14E0767307CC5A25A2B07E0"
+				}
+				"deluxetest"
+				{
+					"gid"		"72CA9137F5C5547A874058988CCE554C"
+					"size"		"4EFDA91D68B6680BFA691A34A9B2D637"
+					"download"		"4EFDA91D68B6680BFA691A34A9B2D637"
+				}
+				"dev105"
+				{
+					"gid"		"63947527685E80DB62C9F7A730C5DD88"
+					"size"		"6D223F2B439660D0067E80F6F827D967"
+					"download"		"6D223F2B439660D0067E80F6F827D967"
+				}
+				"linux"
+				{
+					"gid"		"A92A122A26D0B937874257C62EE0E7B3"
+					"size"		"3822C4B56D316B682D85D61CC9E2E239"
+					"download"		"3822C4B56D316B682D85D61CC9E2E239"
+				}
+				"linux1"
+				{
+					"gid"		"02BA26677FAF0BF78402C6DCB35225D3"
+					"size"		"ADD1BEA70147765D165481DB6807385C"
+					"download"		"ADD1BEA70147765D165481DB6807385C"
+				}
+				"linux2"
+				{
+					"gid"		"8DDF787F70009AF4D188AD48808846ED"
+					"size"		"CA381DCEA812BBC0ACA8C1440E16336A"
+					"download"		"CA381DCEA812BBC0ACA8C1440E16336A"
+				}
+				"press"
+				{
+					"gid"		"34DB5F23F7178BDB21A08A2D44D6253F"
+					"size"		"7736B755DC04B618027811C48ABB9CEE"
+					"download"		"7736B755DC04B618027811C48ABB9CEE"
+				}
+				"stasisdev"
+				{
+					"gid"		"032E77EFF73B9C897D1B501F76235133"
+					"size"		"860826D0403AC08AF3E5B4A52F442602"
+					"download"		"860826D0403AC08AF3E5B4A52F442602"
+				}
+				"testing"
+				{
+					"gid"		"1FAA067921B66788760C7AC014545F7E"
+					"size"		"6B86DCD2D8636E244958BBD81297077B"
+					"download"		"6B86DCD2D8636E244958BBD81297077B"
+				}
+				"testingmac"
+				{
+					"gid"		"FA702D49A28C2EE5A8DC77BCEE3DAE32"
+					"size"		"A90EA202DF0401670BD2B2D601A5B2C6"
+					"download"		"A90EA202DF0401670BD2B2D601A5B2C6"
+				}
+			}
+		}
+		"380154"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"215479719024967061"
+					"size"		"3230288651"
+					"download"		"2973163104"
+				}
+				"rollback_1099"
+				{
+					"gid"		"215479719024967061"
+					"size"		"3230288651"
+					"download"		"2973163104"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"1.3.4_linux_test"
+				{
+					"gid"		"4B7CD0938452CEDD06E0F976A99B1F98"
+					"size"		"B61BB62C32CA7E836A7686359C19FB97"
+					"download"		"A8C1474775EC5247F8140BCED4A79F6E"
+				}
+				"1010beta"
+				{
+					"gid"		"13235DC002D33918040406781AB06FD7"
+					"size"		"3B76B94E86043B36057EBDE872CA5FA1"
+					"download"		"8A053D071B2033ADDBAD258BC85952FB"
+				}
+				"106rollback"
+				{
+					"gid"		"F6D233D8DBCE25A5B18CB51A2EFC1F5D"
+					"size"		"C82DF6ADAEE112333DB9A8419A4E5BE3"
+					"download"		"277E728E3EEF8A147290C5434D9FC96E"
+				}
+				"108testing"
+				{
+					"gid"		"0ABDADE4ECBCBC5E88D925660CF3661F"
+					"size"		"FAA7F6C326C9AB0DB552A98DD0C19A86"
+					"download"		"CE65D2EF4B1F43657F941229E831100B"
+				}
+				"1092beta"
+				{
+					"gid"		"A20D703DB51EA4E3CD2C794DE2FD8F77"
+					"size"		"8BE9C0CD8C3F7128352384D4EF2D205A"
+					"download"		"8B04A95A78B56CCA9BA85F7DC813FA49"
+				}
+				"1095beta"
+				{
+					"gid"		"33ED3AA6E1B2B426A6FF662F6EA24677"
+					"size"		"7DBF2F2F37A46251DFAFC69AFBBD6C22"
+					"download"		"D8CF52E2D77084DC2BF7945EC8979EFB"
+				}
+				"1099"
+				{
+					"gid"		"B9CB1C0A97E8FB335A1500C44F435483"
+					"size"		"E4B7E0A4F78B6EE699879CA6359BD55C"
+					"download"		"ECAC3B90CDD644BC0810790D4BA0B513"
+				}
+				"109betapc"
+				{
+					"gid"		"E94227074CF22CB484B070719D35ABD6"
+					"size"		"3BEA95108C1FC4CC163E0B6021FEDBFE"
+					"download"		"C02CDC4FD411AE9BF4A0D2A056D15DE4"
+				}
+				"beta"
+				{
+					"gid"		"281CDA4593E7A5B6296B68D3FCCB0F22"
+					"size"		"C010DCAEC14E0767307CC5A25A2B07E0"
+					"download"		"C010DCAEC14E0767307CC5A25A2B07E0"
+				}
+				"deluxetest"
+				{
+					"gid"		"D5F1A87FFCABF3E38DC1E0D0B24540AB"
+					"size"		"4EFDA91D68B6680BFA691A34A9B2D637"
+					"download"		"4EFDA91D68B6680BFA691A34A9B2D637"
+				}
+				"dev105"
+				{
+					"gid"		"B46C3C7316A0F966F1DBF21A0652421C"
+					"size"		"A429DF357A326CDB9E244CD9BFEB44CE"
+					"download"		"001392F9175750BFFA082A6B127C3BA7"
+				}
+				"linux"
+				{
+					"gid"		"DC7258D4C90E68626C2E58AAFE897A14"
+					"size"		"09B2D83A6DD5417DDB7E81884AD2BF84"
+					"download"		"BDE6E4114F44BC81C0B714AEBD5F0D0D"
+				}
+				"linux1"
+				{
+					"gid"		"4DE60AECB4BAF4B97EE5A9238E85990D"
+					"size"		"5FCAFE363330186833EFAADED261BE43"
+					"download"		"B531E9B87E157BBA197C49A5752CE8C2"
+				}
+				"linux2"
+				{
+					"gid"		"E4FD494D43E533700D0B20D4386077C7"
+					"size"		"B3A8C880D9A1E461337E1CD881E11527"
+					"download"		"70C26EA0E394088EFCE788515539120E"
+				}
+				"press"
+				{
+					"gid"		"261BB4B64269554024C33B93280091B8"
+					"size"		"6F4A9A47C8EF7A97749D411E614FF084"
+					"download"		"03D7FCF482B1B7D2000C42734E1134CA"
+				}
+				"stasisdev"
+				{
+					"gid"		"66F937221C7AE72D899BFFBD25582881"
+					"size"		"AFD98418AA43C153E890D0A31FC083AC"
+					"download"		"4B433C17E15CA467A73EF1731A55B359"
+				}
+				"testing"
+				{
+					"gid"		"D8F1D6D74E786868309E4FFC1406F046"
+					"size"		"6B86DCD2D8636E244958BBD81297077B"
+					"download"		"6B86DCD2D8636E244958BBD81297077B"
+				}
+				"testingmac"
+				{
+					"gid"		"34691D5FF9A0D851BAD3C755BF15BB44"
+					"size"		"2C6C82933B13BA96074B08E8217BAEE1"
+					"download"		"FC93E3545346D3D856AC25147F83A07C"
+				}
+			}
+		}
+		"380155"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8863427451370227933"
+					"size"		"0"
+					"download"		"0"
+				}
+				"rollback_1099"
+				{
+					"gid"		"8863427451370227933"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"1.3.4_linux_test"
+				{
+					"gid"		"5353FDB92892553CCA5682BB9ABACCD8"
+					"size"		"F695C73866A6B764AD7ACE0E49992E3E"
+					"download"		"F695C73866A6B764AD7ACE0E49992E3E"
+				}
+				"1010beta"
+				{
+					"gid"		"893B5E9578A0C1B31CC3E233102253F6"
+					"size"		"330ABAED4CEDC3A089C67085BC195D67"
+					"download"		"330ABAED4CEDC3A089C67085BC195D67"
+				}
+				"106rollback"
+				{
+					"gid"		"DFC383E6C2985B6B6D43A57316F1CB35"
+					"size"		"0690FB779D9765534013B96C633E2F02"
+					"download"		"0690FB779D9765534013B96C633E2F02"
+				}
+				"108testing"
+				{
+					"gid"		"BCCF7315186F722A4102B92AECF947C7"
+					"size"		"2281234CFE31558719FB79F6FE53BB26"
+					"download"		"2281234CFE31558719FB79F6FE53BB26"
+				}
+				"1092beta"
+				{
+					"gid"		"B5BB2291B4E2D23EECE3F560753FE0DF"
+					"size"		"FE554E98C66C489F6F388CBBC16F8AA0"
+					"download"		"FE554E98C66C489F6F388CBBC16F8AA0"
+				}
+				"1095beta"
+				{
+					"gid"		"FF480AD99B20D6EA11830EBC2458AB9D"
+					"size"		"9A58C77A3DE44802D6B5F82D2973E5F4"
+					"download"		"9A58C77A3DE44802D6B5F82D2973E5F4"
+				}
+				"1099"
+				{
+					"gid"		"56768651071A16034F56457D78E95C55"
+					"size"		"95620AF7382C57963CD19EFAF3D53682"
+					"download"		"95620AF7382C57963CD19EFAF3D53682"
+				}
+				"109betapc"
+				{
+					"gid"		"D9F92C60E220ABB3947B349183D74F6D"
+					"size"		"AB0881D7DD20B36CE235FD17768BEE13"
+					"download"		"AB0881D7DD20B36CE235FD17768BEE13"
+				}
+				"beta"
+				{
+					"gid"		"F5052401E4945E7B9618412A8E4E88EF"
+					"size"		"C010DCAEC14E0767307CC5A25A2B07E0"
+					"download"		"C010DCAEC14E0767307CC5A25A2B07E0"
+				}
+				"deluxetest"
+				{
+					"gid"		"1E9A726B9B8F84DB6243701B925FBDCD"
+					"size"		"4EFDA91D68B6680BFA691A34A9B2D637"
+					"download"		"4EFDA91D68B6680BFA691A34A9B2D637"
+				}
+				"dev105"
+				{
+					"gid"		"76D6CA7058CFB0AF41F8B34ED18B6860"
+					"size"		"6D223F2B439660D0067E80F6F827D967"
+					"download"		"6D223F2B439660D0067E80F6F827D967"
+				}
+				"linux"
+				{
+					"gid"		"BB542EB55796F2758A0162E7E1DF9324"
+					"size"		"3822C4B56D316B682D85D61CC9E2E239"
+					"download"		"3822C4B56D316B682D85D61CC9E2E239"
+				}
+				"linux1"
+				{
+					"gid"		"3C921A40168657BFF9708DEE7E5F3D68"
+					"size"		"ADD1BEA70147765D165481DB6807385C"
+					"download"		"ADD1BEA70147765D165481DB6807385C"
+				}
+				"linux2"
+				{
+					"gid"		"D90B7BE2B8E8862423549E0BED315212"
+					"size"		"CA381DCEA812BBC0ACA8C1440E16336A"
+					"download"		"CA381DCEA812BBC0ACA8C1440E16336A"
+				}
+				"press"
+				{
+					"gid"		"BEEC5F1B6B5A849ED9D84DF11D71C4E7"
+					"size"		"7736B755DC04B618027811C48ABB9CEE"
+					"download"		"7736B755DC04B618027811C48ABB9CEE"
+				}
+				"stasisdev"
+				{
+					"gid"		"296706A98BC8278CF6DC0BEC68D82613"
+					"size"		"860826D0403AC08AF3E5B4A52F442602"
+					"download"		"860826D0403AC08AF3E5B4A52F442602"
+				}
+				"testing"
+				{
+					"gid"		"23ADAFD6CD968C12C26C6575CC654F39"
+					"size"		"6B86DCD2D8636E244958BBD81297077B"
+					"download"		"6B86DCD2D8636E244958BBD81297077B"
+				}
+				"testingmac"
+				{
+					"gid"		"9B536ED5BCAC51A725493170A38EFE4F"
+					"size"		"A90EA202DF0401670BD2B2D601A5B2C6"
+					"download"		"A90EA202DF0401670BD2B2D601A5B2C6"
+				}
+			}
+		}
+		"380156"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8161196573919795260"
+					"size"		"0"
+					"download"		"0"
+				}
+				"rollback_1099"
+				{
+					"gid"		"8161196573919795260"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"1.3.4_linux_test"
+				{
+					"gid"		"8AA16FA2C81FE8078AF1FD0991D8835E"
+					"size"		"937D48DA649469B7A7101B59B7C20EA8"
+					"download"		"184A2702113364509CF32DBB17BE9A91"
+				}
+				"1010beta"
+				{
+					"gid"		"5145913DD1C58DF6F3022B117447936B"
+					"size"		"330ABAED4CEDC3A089C67085BC195D67"
+					"download"		"330ABAED4CEDC3A089C67085BC195D67"
+				}
+				"106rollback"
+				{
+					"gid"		"B3A2E8B43B073137125FA554C1C76878"
+					"size"		"0690FB779D9765534013B96C633E2F02"
+					"download"		"0690FB779D9765534013B96C633E2F02"
+				}
+				"108testing"
+				{
+					"gid"		"C121CAB54AAD0C84F19E4A9F3061A133"
+					"size"		"2281234CFE31558719FB79F6FE53BB26"
+					"download"		"2281234CFE31558719FB79F6FE53BB26"
+				}
+				"1092beta"
+				{
+					"gid"		"AE58BC3A4F9C89C4D9B2D5869C206066"
+					"size"		"FE554E98C66C489F6F388CBBC16F8AA0"
+					"download"		"FE554E98C66C489F6F388CBBC16F8AA0"
+				}
+				"1095beta"
+				{
+					"gid"		"ACEA1713239693EB33E7E9D110AE7EF6"
+					"size"		"9A58C77A3DE44802D6B5F82D2973E5F4"
+					"download"		"9A58C77A3DE44802D6B5F82D2973E5F4"
+				}
+				"1099"
+				{
+					"gid"		"8A4B506518DCF96D5F9348AF27C663E7"
+					"size"		"95620AF7382C57963CD19EFAF3D53682"
+					"download"		"95620AF7382C57963CD19EFAF3D53682"
+				}
+				"109betapc"
+				{
+					"gid"		"D8F292362162ECE9347437D28692B50B"
+					"size"		"AB0881D7DD20B36CE235FD17768BEE13"
+					"download"		"AB0881D7DD20B36CE235FD17768BEE13"
+				}
+				"beta"
+				{
+					"gid"		"BC0CEE073B7706943D699050A77D5E1A"
+					"size"		"C010DCAEC14E0767307CC5A25A2B07E0"
+					"download"		"C010DCAEC14E0767307CC5A25A2B07E0"
+				}
+				"deluxetest"
+				{
+					"gid"		"832EDBC1AE776CB37B642A6AB6C4F3D9"
+					"size"		"4EFDA91D68B6680BFA691A34A9B2D637"
+					"download"		"4EFDA91D68B6680BFA691A34A9B2D637"
+				}
+				"dev105"
+				{
+					"gid"		"4F18AD748CA17F10C99A11D718C41C99"
+					"size"		"6D223F2B439660D0067E80F6F827D967"
+					"download"		"6D223F2B439660D0067E80F6F827D967"
+				}
+				"linux"
+				{
+					"gid"		"D63EC8C58AFB3704BDED1DA4DED5BBE0"
+					"size"		"A3D856A66A7B9CCC58CE5CAB5D1FB4F8"
+					"download"		"CDD151E12A84B1626692533DA1E4ED0F"
+				}
+				"linux1"
+				{
+					"gid"		"21A8BB495A8F43A9FCAA104996B10104"
+					"size"		"25CD88EF5C7211F10215C0B786DA75A0"
+					"download"		"6B0D1DD298A70C09C5D3B99C5B38956D"
+				}
+				"linux2"
+				{
+					"gid"		"4B9B30DB64C2CB76F7195C05952CF961"
+					"size"		"76B05216343BFF6AE5F62A2B673F103F"
+					"download"		"E8B290876CB0F77598476DC9401EFD38"
+				}
+				"press"
+				{
+					"gid"		"072FA5F3E97B87C0BA03626FA55DDF60"
+					"size"		"7736B755DC04B618027811C48ABB9CEE"
+					"download"		"7736B755DC04B618027811C48ABB9CEE"
+				}
+				"stasisdev"
+				{
+					"gid"		"9326F660F9F3B8CB64C6B493E751B8C3"
+					"size"		"860826D0403AC08AF3E5B4A52F442602"
+					"download"		"860826D0403AC08AF3E5B4A52F442602"
+				}
+				"testing"
+				{
+					"gid"		"4E754C6E2834301A078E4F8C1C42A26D"
+					"size"		"6B86DCD2D8636E244958BBD81297077B"
+					"download"		"6B86DCD2D8636E244958BBD81297077B"
+				}
+				"testingmac"
+				{
+					"gid"		"927E2ABD7A56FE9E80381FDF458AB867"
+					"size"		"A90EA202DF0401670BD2B2D601A5B2C6"
+					"download"		"A90EA202DF0401670BD2B2D601A5B2C6"
+				}
+			}
+		}
+		"380157"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"141810546578514108"
+					"size"		"1134513838"
+					"download"		"1123083424"
+				}
+				"rollback_1099"
+				{
+					"gid"		"141810546578514108"
+					"size"		"1134513838"
+					"download"		"1123083424"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"1.3.4_linux_test"
+				{
+					"gid"		"04F5FDB0719C1CB458B5F12AB384967D"
+					"size"		"0060903F0FA1B580A9958E2295EAC479"
+					"download"		"8A5938EDAE2BC4E95D55A6767FF00E46"
+				}
+				"1010beta"
+				{
+					"gid"		"9C998FDC1FAF26DC9CF50121F7D468FA"
+					"size"		"1484C04040E8EE08530D07683680DC32"
+					"download"		"74A9624D235E757792554DCF8DCD4057"
+				}
+				"106rollback"
+				{
+					"gid"		"59CB5C36745989A65D04E42BD5A26486"
+					"size"		"EC61A77D5B5BC500688341DAE70B9099"
+					"download"		"B5D0FB213216D0F6FEFFBC3110DC328D"
+				}
+				"108testing"
+				{
+					"gid"		"A61D8A0F9878DA8222A694FB79AF30EF"
+					"size"		"255CD5B5E8194FAF8F3FA58E40887897"
+					"download"		"C7B11183B4EA8E05C22FFD8C4DC1DAA5"
+				}
+				"1092beta"
+				{
+					"gid"		"ECF273BA2F96E68BEA027DDB4E83C47E"
+					"size"		"04ED59EFE47C4E0DDF86A39551D9D0C0"
+					"download"		"85784E465C6D815DCC3FF0FC22EF3D22"
+				}
+				"1095beta"
+				{
+					"gid"		"CE5DD21B9553026951A1794A3370C4A7"
+					"size"		"998982666BA7F4E3602B584BB13B38FE"
+					"download"		"E7107B723CCDAC9E0A6D62A2A9B20C2E"
+				}
+				"1099"
+				{
+					"gid"		"89A8537E2ECFFBEB955501EAB739EF3A"
+					"size"		"672EC7B442551C353ECF77688F8D82F8"
+					"download"		"EF8130ABBA3B631C3EADD098EDA9BAB2"
+				}
+				"109betapc"
+				{
+					"gid"		"A3921E8AC59E4A7C8A799D87A891DE2C"
+					"size"		"7B7781645A0B375EC080D2881D1B0D27"
+					"download"		"782B606175DBC5BA8C7C72E22B276431"
+				}
+				"deluxetest"
+				{
+					"gid"		"BAF016FADBC5D593B660B63EAABDB3C6"
+					"size"		"7B346786A7BA65FBA918D948371F17DA"
+					"download"		"67AAE2A148A09A0B5EB9B0236DDDD9DD"
+				}
+				"dev105"
+				{
+					"gid"		"5E8B3E09BEE77805B4F03FB3CCC223C2"
+					"size"		"E8A31B4A8C2EBD49687E62113C1BCDAB"
+					"download"		"239B9876B03846179BBFE989D6309EFF"
+				}
+				"linux"
+				{
+					"gid"		"AA6609022CC76C5CB33AA0ABFDDCD154"
+					"size"		"0E3CCB8A83FA95BECE60A0A38346EBDC"
+					"download"		"A2E80C8E288E6E7B02CA19018372236A"
+				}
+				"linux1"
+				{
+					"gid"		"A42CF5211B87C599403B33252684F299"
+					"size"		"D902C22B20491A5CA6653004F01B9CDE"
+					"download"		"0C23DBE9564C4A3F4F991E081EAC3EAF"
+				}
+				"linux2"
+				{
+					"gid"		"D71E07FA1BC5AA3BBBCB407DFCA0A0E7"
+					"size"		"3FBD537CA43EDB295F974CE2BD15499C"
+					"download"		"22161E4F9450E7F09D3770A34E988C2C"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5616936"
+				"timeupdated"		"1648005499"
+			}
+			"1.3.4_linux_test"
+			{
+				"buildid"		"2852571"
+				"pwdrequired"		"1"
+				"timeupdated"		"1528739970"
+			}
+			"1010beta"
+			{
+				"buildid"		"800134"
+				"pwdrequired"		"1"
+			}
+			"106rollback"
+			{
+				"buildid"		"798039"
+				"pwdrequired"		"1"
+			}
+			"108testing"
+			{
+				"buildid"		"795719"
+				"pwdrequired"		"1"
+			}
+			"1092beta"
+			{
+				"buildid"		"842356"
+				"pwdrequired"		"1"
+			}
+			"1095beta"
+			{
+				"buildid"		"878363"
+				"pwdrequired"		"1"
+			}
+			"1099"
+			{
+				"buildid"		"1004693"
+				"pwdrequired"		"1"
+			}
+			"109betapc"
+			{
+				"buildid"		"811552"
+				"pwdrequired"		"1"
+			}
+			"beta"
+			{
+				"buildid"		"723561"
+				"pwdrequired"		"1"
+			}
+			"deluxetest"
+			{
+				"buildid"		"754783"
+				"pwdrequired"		"1"
+			}
+			"dev105"
+			{
+				"buildid"		"764930"
+				"pwdrequired"		"1"
+			}
+			"linux"
+			{
+				"buildid"		"2858447"
+				"pwdrequired"		"1"
+				"timeupdated"		"1528902202"
+			}
+			"linux1"
+			{
+				"buildid"		"1899501"
+				"pwdrequired"		"1"
+				"timeupdated"		"1497868628"
+			}
+			"linux2"
+			{
+				"buildid"		"2792863"
+				"pwdrequired"		"1"
+				"timeupdated"		"1526907881"
+			}
+			"press"
+			{
+				"buildid"		"750374"
+				"pwdrequired"		"1"
+			}
+			"rollback_1099"
+			{
+				"buildid"		"8421149"
+				"description"		"Role Back If needed due to save error"
+				"timeupdated"		"1648007353"
+			}
+			"stasisdev"
+			{
+				"buildid"		"754392"
+				"pwdrequired"		"1"
+			}
+			"testing"
+			{
+				"buildid"		"8421164"
+				"pwdrequired"		"1"
+				"timeupdated"		"1648007552"
+			}
+			"testingmac"
+			{
+				"buildid"		"742839"
+				"pwdrequired"		"1"
+			}
+		}
+	}
+}
