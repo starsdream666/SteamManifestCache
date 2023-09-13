@@ -1,0 +1,260 @@
+"appinfo"
+{
+	"appid"		"312510"
+	"common"
+	{
+		"name"		"Mega Coin Squad"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"logo"		"c5b1b8d7d75ab88320ac0789f17803666e76d685"
+		"logo_small"		"c5b1b8d7d75ab88320ac0789f17803666e76d685_thumb"
+		"icon"		"1aa3ea654fdb46dc7e19bbb0f14ec78e83f2807b"
+		"clienticon"		"1848f530362852fde77e7742d17b6100f1c452b3"
+		"clienttga"		"a17e26187068f019bf3b190686edf128aabeeae7"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1662508800"
+			"tested_build_id"		"389239"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Mega Coin Squad"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1407344823"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Big Pixel Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Adult Swim Games"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+			"category_29"		"1"
+			"category_15"		"1"
+			"category_43"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"original_release_date"		"1408086000"
+		"steam_release_date"		"1408118520"
+		"metacritic_score"		"56"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/mega-coin-squad?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"312510"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"492"
+			"2"		"7368"
+			"3"		"1625"
+			"4"		"4840"
+			"5"		"3964"
+		}
+		"review_score"		"8"
+		"review_percentage"		"84"
+	}
+	"extended"
+	{
+		"developer"		"Big Pixel Studios"
+		"publisher"		"Adult Swim Games"
+		"homepage"		"http://games.adultswim.com/"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"MegaCoinSquad"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MegaCoinSquad.exe"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"MegaCoinSquad.app"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"MegaCoinSquad.x86"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"312512"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5738942215619865974"
+					"size"		"662244603"
+					"download"		"62417794144"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"876797992051A1061DB66934AE83110F"
+					"size"		"8A1037356126996CDD8AF73E29C286DC"
+					"download"		"9673DD30DD29E7455B931932391E579D"
+				}
+			}
+		}
+		"312513"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5275607707933056804"
+					"size"		"669877066"
+					"download"		"70307715616"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"78F3A389A1CA1CED32D19E29E3D1E713"
+					"size"		"DE9B63262D80448465EAB16D582A3245"
+					"download"		"D8BABF97A9236639D2534F75208602A3"
+				}
+			}
+		}
+		"312514"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2054766584508817774"
+					"size"		"667807708"
+					"download"		"63407966536"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"96A948AC137D4A2DCDBC8352F01A4528"
+					"size"		"A493E38D5F1C556BD04CFF9F2B2B62AB"
+					"download"		"9B110F5BEC4970CBDFEC12A19D7B1056"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"389239"
+			}
+			"beta"
+			{
+				"buildid"		"389239"
+				"pwdrequired"		"1"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+	}
+}
