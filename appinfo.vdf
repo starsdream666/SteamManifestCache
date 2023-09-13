@@ -1,0 +1,61 @@
+"appinfo"
+{
+	"appid"		"55280"
+	"common"
+	{
+		"name"		"Homefront Dedicated Server"
+		"type"		"Tool"
+		"freeondemand"		"1"
+		"gameid"		"55280"
+	}
+	"extended"
+	{
+		"cwdoverride"		"Binaries"
+		"developer"		""
+		"gamedir"		"HFDEDICATED[STABLE]"
+		"homepage"		""
+		"icon"		""
+		"noservers"		"1"
+		"order"		"1"
+		"primarycache"		"55281"
+		"serverbrowsername"		""
+		"state"		"eStateTool"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Homefront Dedicated Server"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Binaries\\DedicatedServer.exe"
+				"workingdir"		"Binaries"
+			}
+		}
+	}
+	"depots"
+	{
+		"55281"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"383001228574117197"
+					"size"		"2026264419"
+					"download"		"0"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"52341"
+			}
+		}
+	}
+}
