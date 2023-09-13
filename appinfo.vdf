@@ -1,0 +1,730 @@
+"appinfo"
+{
+	"appid"		"392000"
+	"common"
+	{
+		"name"		"TRON RUN/r"
+		"type"		"Game"
+		"oslist"		"windows"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"spanish"		"1"
+			"brazilian"		"1"
+		}
+		"logo"		"34ba1a4ee8c723f84001965423851099c7941b2f"
+		"logo_small"		"34ba1a4ee8c723f84001965423851099c7941b2f_thumb"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"392000_eula_0"
+				"name"		"TRON RUN/r EULA"
+				"url"		"http://store.steampowered.com//eula/392000_eula_0"
+			}
+		}
+		"clienticon"		"aca430e5c7c560fd75473eb3d60358a2d4c26af5"
+		"clienttga"		"2bffd75c99e4fd4e78a8805567b63b3176f80a4b"
+		"icon"		"e140f59e6b9ce70ab950d7a7dfb5840dd1c70360"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1651104000"
+			"tested_build_id"		"1238638"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"TRON RUN/r"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1460073015"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Sanzaru Games Inc."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Disney"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"9"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+			"category_22"		"1"
+			"category_35"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1455674340"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"392000"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"699"
+			"2"		"8666"
+			"3"		"4115"
+			"4"		"4036"
+			"5"		"3942"
+			"6"		"4182"
+			"7"		"1756"
+		}
+		"review_score"		"6"
+		"review_percentage"		"79"
+	}
+	"extended"
+	{
+		"gamedir"		""
+		"allowmicrotxnfromrestrictedcountries"		"0"
+		"microtxnrestrictedcountries"		"RU"
+		"developer"		"Sanzaru Games Inc."
+		"publisher"		"Disney"
+		"listofdlc"		"413661,413662,413663,429460,429461,429462,445150,445280,486770"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Tron Escape"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TronGame.exe"
+				"description"		"Test build"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,italian,spanish,brazilian"
+		"392001"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7525801116556310159"
+					"size"		"8927747536"
+					"download"		"8882194560"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"disneytest001"
+				{
+					"gid"		"A401A61D8659EFD676A49E3E9B7A315E"
+					"size"		"CC01F3263B4F66D15A69083EBF908B2B"
+					"download"		"64DD7D4D8C50E4D47302C566E4C5787E"
+				}
+				"disneytest002"
+				{
+					"gid"		"56AB8635A5AD2083892C82178DC8B66F"
+					"size"		"2B116735B53CEF990FF8AB9EE85F3364"
+					"download"		"169C8AA29409A0AAF30FC6F05C606A1E"
+				}
+				"sanzarutest001"
+				{
+					"gid"		"9856C55D275311C46A3CAEDCF7DDCC84"
+					"size"		"B3FDDB32BC8B4BF81D4CE67932DE08E4"
+					"download"		"41B74CAAF8012A35022DF8841E9C208B"
+				}
+				"sanzarutest002"
+				{
+					"gid"		"AABAEF00B513A9BA2BF521928FFF6E09"
+					"size"		"DDC6E9F606116120960A4E411CE4D973"
+					"download"		"2A9921CF3FE6B95FEB885F6B7BB5FE63"
+				}
+				"sanzarutest003"
+				{
+					"gid"		"231CEC3B1C17505006D022353E64EAF3"
+					"size"		"FB9C7337E81C8909071E5BCE9313D741"
+					"download"		"71D43737E32DE51B3CF321A48FE60FFB"
+				}
+				"sanzarutest004"
+				{
+					"gid"		"A8977893A176AED05AC6B7421F932D0F"
+					"size"		"F67941FB33BFBEEB690995FCA0B78D79"
+					"download"		"5FCB920C7AA9BE8AB432B8AE5AD2CE46"
+				}
+				"sanzarutest005"
+				{
+					"gid"		"3B02CE70AEC8578F1B99B6779A3D3C5C"
+					"size"		"E082BE2F762ECC7080BF5190EEB44B66"
+					"download"		"1C2529166A1C22FA3DC3638B412A7A27"
+				}
+				"tingianttest001"
+				{
+					"gid"		"71AEFB802C57BD8D9FBD7EDCA70BFFF4"
+					"size"		"FA8EE6D8921FBFF883F8597BAB561599"
+					"download"		"1ED842CF2A9057A32452B43EFD42448E"
+				}
+				"tingianttest002"
+				{
+					"gid"		"E7979024598784C07E936AA7941280E7"
+					"size"		"8832F6EE49DA6EB3F8A94B69D9348206"
+					"download"		"4526429855F21DB353F2D5E93F1FF2F3"
+				}
+			}
+		}
+		"413661"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7534704525224916024"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"disneytest001"
+				{
+					"gid"		"9E00DFA168629E6286DF19E161DE6590"
+					"size"		"A248E97DF4DF00FAD4F733DBE043C787"
+					"download"		"A248E97DF4DF00FAD4F733DBE043C787"
+				}
+				"disneytest002"
+				{
+					"gid"		"D21ECECC0E881864934E2E0348FCF11C"
+					"size"		"F0F45B9AFE8A7E8847F32A1B28A1EE1B"
+					"download"		"F0F45B9AFE8A7E8847F32A1B28A1EE1B"
+				}
+				"sanzarutest001"
+				{
+					"gid"		"24795C77668E336F5118FCC2550FFBDA"
+					"size"		"26D0AF0BAD4B8C12E18B2B177CAEB68D"
+					"download"		"26D0AF0BAD4B8C12E18B2B177CAEB68D"
+				}
+				"sanzarutest002"
+				{
+					"gid"		"3AA7F38E139B5ECE62FD3C29FD6FD70D"
+					"size"		"448E3F0F71523D5968206079400D3A5A"
+					"download"		"448E3F0F71523D5968206079400D3A5A"
+				}
+				"sanzarutest003"
+				{
+					"gid"		"E9F28AAFCE6CD886668EF6EE663F6704"
+					"size"		"859FBD3AD2D81F10D9F278AB29783573"
+					"download"		"859FBD3AD2D81F10D9F278AB29783573"
+				}
+				"sanzarutest004"
+				{
+					"gid"		"0B021162D91607E807EC483B5D24A17E"
+					"size"		"CF88E5E85516E098BBE5D5A2B80423E5"
+					"download"		"CF88E5E85516E098BBE5D5A2B80423E5"
+				}
+				"sanzarutest005"
+				{
+					"gid"		"D33400BC01115776EEAF1DD1404081AA"
+					"size"		"CB694EB89D03575ECE8E2DA2C6C6ECCA"
+					"download"		"CB694EB89D03575ECE8E2DA2C6C6ECCA"
+				}
+				"tingianttest001"
+				{
+					"gid"		"20977DDE845CE664BFA84DC64E57A4E6"
+					"size"		"5E1D76C26C7DDEA49F99D5F97B804908"
+					"download"		"5E1D76C26C7DDEA49F99D5F97B804908"
+				}
+				"tingianttest002"
+				{
+					"gid"		"632658C93FB6F09B5292F199903D8818"
+					"size"		"4C3F71BD1EA82E29542A3EDE3F9386DC"
+					"download"		"4C3F71BD1EA82E29542A3EDE3F9386DC"
+				}
+			}
+			"dlcappid"		"413661"
+		}
+		"413662"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1993261297582293243"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"disneytest001"
+				{
+					"gid"		"219BD5FDC807CAF3C942D54F6F3A0A3A"
+					"size"		"A248E97DF4DF00FAD4F733DBE043C787"
+					"download"		"A248E97DF4DF00FAD4F733DBE043C787"
+				}
+				"disneytest002"
+				{
+					"gid"		"A048746A4C864700380EB96D69CB255B"
+					"size"		"F0F45B9AFE8A7E8847F32A1B28A1EE1B"
+					"download"		"F0F45B9AFE8A7E8847F32A1B28A1EE1B"
+				}
+				"sanzarutest001"
+				{
+					"gid"		"9E14024100D39BF0C1DBA7B1CD1DC000"
+					"size"		"26D0AF0BAD4B8C12E18B2B177CAEB68D"
+					"download"		"26D0AF0BAD4B8C12E18B2B177CAEB68D"
+				}
+				"sanzarutest002"
+				{
+					"gid"		"B50B3CEEF151EE19B634F239F2B3F8FB"
+					"size"		"448E3F0F71523D5968206079400D3A5A"
+					"download"		"448E3F0F71523D5968206079400D3A5A"
+				}
+				"sanzarutest003"
+				{
+					"gid"		"792D90133E7F6E2F53658030001133D8"
+					"size"		"859FBD3AD2D81F10D9F278AB29783573"
+					"download"		"859FBD3AD2D81F10D9F278AB29783573"
+				}
+				"sanzarutest004"
+				{
+					"gid"		"95420FE824EF848A389A6E6B9DCA4F2B"
+					"size"		"CF88E5E85516E098BBE5D5A2B80423E5"
+					"download"		"CF88E5E85516E098BBE5D5A2B80423E5"
+				}
+				"sanzarutest005"
+				{
+					"gid"		"ACDDD4D5FA9D7819A813DEB14B34CCB5"
+					"size"		"CB694EB89D03575ECE8E2DA2C6C6ECCA"
+					"download"		"CB694EB89D03575ECE8E2DA2C6C6ECCA"
+				}
+				"tingianttest001"
+				{
+					"gid"		"9D7EA70B8926213CA24ED5F327EA3893"
+					"size"		"5E1D76C26C7DDEA49F99D5F97B804908"
+					"download"		"5E1D76C26C7DDEA49F99D5F97B804908"
+				}
+				"tingianttest002"
+				{
+					"gid"		"7E362566DE60F4234B16B56E5D6FA56F"
+					"size"		"4C3F71BD1EA82E29542A3EDE3F9386DC"
+					"download"		"4C3F71BD1EA82E29542A3EDE3F9386DC"
+				}
+			}
+			"dlcappid"		"413662"
+		}
+		"413663"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8151633581300399698"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"disneytest001"
+				{
+					"gid"		"1D754B598B69AC383767AB3F3491AD07"
+					"size"		"A248E97DF4DF00FAD4F733DBE043C787"
+					"download"		"A248E97DF4DF00FAD4F733DBE043C787"
+				}
+				"disneytest002"
+				{
+					"gid"		"D71B7D65E5319C347C474EA41D652C04"
+					"size"		"F0F45B9AFE8A7E8847F32A1B28A1EE1B"
+					"download"		"F0F45B9AFE8A7E8847F32A1B28A1EE1B"
+				}
+				"sanzarutest001"
+				{
+					"gid"		"34AEE4EDF006CC237B2813B38C745290"
+					"size"		"26D0AF0BAD4B8C12E18B2B177CAEB68D"
+					"download"		"26D0AF0BAD4B8C12E18B2B177CAEB68D"
+				}
+				"sanzarutest002"
+				{
+					"gid"		"CE4D393BCB1AD248BAD0C33B5D122395"
+					"size"		"448E3F0F71523D5968206079400D3A5A"
+					"download"		"448E3F0F71523D5968206079400D3A5A"
+				}
+				"sanzarutest003"
+				{
+					"gid"		"C3F0ECC68EFFD86304B2E572D54C47DA"
+					"size"		"859FBD3AD2D81F10D9F278AB29783573"
+					"download"		"859FBD3AD2D81F10D9F278AB29783573"
+				}
+				"sanzarutest004"
+				{
+					"gid"		"2748313EFB2F8FEE211C6355D831788A"
+					"size"		"CF88E5E85516E098BBE5D5A2B80423E5"
+					"download"		"CF88E5E85516E098BBE5D5A2B80423E5"
+				}
+				"sanzarutest005"
+				{
+					"gid"		"D5257CADE3E24EE7010EF50E13D2D9EF"
+					"size"		"CB694EB89D03575ECE8E2DA2C6C6ECCA"
+					"download"		"CB694EB89D03575ECE8E2DA2C6C6ECCA"
+				}
+				"tingianttest001"
+				{
+					"gid"		"0E5A3337C6BE9CD5D00A7F44ABFE7B9A"
+					"size"		"5E1D76C26C7DDEA49F99D5F97B804908"
+					"download"		"5E1D76C26C7DDEA49F99D5F97B804908"
+				}
+				"tingianttest002"
+				{
+					"gid"		"401A4944E5FD9B022E1E68853C6D1451"
+					"size"		"4C3F71BD1EA82E29542A3EDE3F9386DC"
+					"download"		"4C3F71BD1EA82E29542A3EDE3F9386DC"
+				}
+			}
+			"dlcappid"		"413663"
+		}
+		"445150"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2031707128845910566"
+					"size"		"64099896"
+					"download"		"53255552"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"disneytest001"
+				{
+					"gid"		"524E3B774A16578BB3ABE3607ECC5C73"
+					"size"		"B1650F78E8889C892683752E9E76EC3F"
+					"download"		"25F01FDCC3775F21D03C54374DF5A181"
+				}
+				"disneytest002"
+				{
+					"gid"		"043DD364E656D99EFED0B5EF03BE408A"
+					"size"		"B97FA2CAED669E286337515F9EC44402"
+					"download"		"177CBD50FCEAF03C708D8C88279378A1"
+				}
+				"sanzarutest001"
+				{
+					"gid"		"DA225D961481C5651792CAF7310DEF75"
+					"size"		"4B8FAD867F3433B35F22B11D2AEDF8FF"
+					"download"		"2B0B927AE3CDD793994FB2F7627FC440"
+				}
+				"sanzarutest002"
+				{
+					"gid"		"6EC42174E5CA1B38CEA8B28D69F96153"
+					"size"		"7D0BE6D70EBC5571F344DD5E56CEBF96"
+					"download"		"30E4666233D408406FFB01D6BCDAABDC"
+				}
+				"sanzarutest003"
+				{
+					"gid"		"5E4C0E3562561C7F4EB69FA93F1FDFE0"
+					"size"		"887046E5282114D034659ED12E23C573"
+					"download"		"7AE670487B86E0F7AA4886480910400C"
+				}
+				"sanzarutest004"
+				{
+					"gid"		"5CFC4866F7CBC6E8B7F1B34064C4DA55"
+					"size"		"4CF14BB8E78E196AB6569DF5865FE1C7"
+					"download"		"150B84943526E3B7D6A8EE83C201976F"
+				}
+				"sanzarutest005"
+				{
+					"gid"		"3D13DCFE6061D335C24C1F1D86ACD78C"
+					"size"		"0AC14ECF62CCE143F2CDE9671F7884C3"
+					"download"		"A3B2747C9C3C46B70464D054C74D089D"
+				}
+				"tingianttest001"
+				{
+					"gid"		"E2B1736B2C9450C61E4885B22E504EC4"
+					"size"		"500F616EE86A2724CADFEDC1CFAAFE3B"
+					"download"		"B579B4C02C4BAAC174DBDCBA6BCC959B"
+				}
+				"tingianttest002"
+				{
+					"gid"		"1439DEBD2EFFEC3334D13226F0D5B946"
+					"size"		"0E3D4C908ACAF245F13C663A6D1C25AE"
+					"download"		"59EB229189FFC3AEA2C21EFAAC6DF78F"
+				}
+			}
+			"dlcappid"		"445150"
+		}
+		"445370"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"dlcappid"		"445370"
+		}
+		"392002"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"tingianttest001"
+				{
+					"gid"		"B05F76DD02FDF3A85CCEC16B1B019201"
+					"size"		"6A9B80D5C0A86443031C4BB2829F6529"
+					"download"		"B5D885D35A2534ECC0979D2E9E03E02A"
+				}
+				"tingianttest002"
+				{
+					"gid"		"1B0020AA6BEA2DE5C8A91143C2416114"
+					"size"		"DDB20769B0455911A1BE3051D316ACA0"
+					"download"		"D6C0096B597A80690A65EC2E51B10F07"
+				}
+			}
+		}
+		"392003"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"tingianttest001"
+				{
+					"gid"		"66E0DF0D87F0CCA8CAEA4C2D6D1DCF8B"
+					"size"		"552162931463CAA3497FB42B16F09F69"
+					"download"		"8A604D71E4FEAADB59D7EDF7FFCDB530"
+				}
+				"tingianttest002"
+				{
+					"gid"		"E5F1AC305F450A0217847D004C04C47D"
+					"size"		"408E03ACF9C09EFE560D248AFAF6A0E8"
+					"download"		"EDB5098809FF1D5C8A8BCC1D77784392"
+				}
+			}
+		}
+		"486770"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4214675325667789004"
+					"size"		"2151248455"
+					"download"		"1979399792"
+				}
+			}
+			"dlcappid"		"486770"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1238638"
+				"timeupdated"		"1469116193"
+			}
+			"disneytest001"
+			{
+				"buildid"		"1113981"
+				"pwdrequired"		"1"
+				"timeupdated"		"1462555118"
+			}
+			"disneytest002"
+			{
+				"buildid"		"1108622"
+				"pwdrequired"		"1"
+				"timeupdated"		"1462317686"
+			}
+			"sanzarutest001"
+			{
+				"buildid"		"1193710"
+				"pwdrequired"		"1"
+				"timeupdated"		"1466626216"
+			}
+			"sanzarutest002"
+			{
+				"buildid"		"1108622"
+				"pwdrequired"		"1"
+				"timeupdated"		"1462312478"
+			}
+			"sanzarutest003"
+			{
+				"buildid"		"1047332"
+				"pwdrequired"		"1"
+				"timeupdated"		"1462909610"
+			}
+			"sanzarutest004"
+			{
+				"buildid"		"1175230"
+				"pwdrequired"		"1"
+				"timeupdated"		"1465583362"
+			}
+			"sanzarutest005"
+			{
+				"buildid"		"1088691"
+				"pwdrequired"		"1"
+				"timeupdated"		"1462838821"
+			}
+			"tingianttest001"
+			{
+				"buildid"		"1036101"
+				"pwdrequired"		"1"
+				"timeupdated"		"1458673299"
+			}
+			"tingianttest002"
+			{
+				"buildid"		"1135127"
+				"pwdrequired"		"1"
+				"timeupdated"		"1463624739"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"20000"
+		"maxnumfiles"		"10"
+		"hidecloudui"		"1"
+		"ignoreexternalfiles"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"TronGame/Saved/SaveGames"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
