@@ -1,0 +1,454 @@
+"appinfo"
+{
+	"appid"		"384740"
+	"common"
+	{
+		"name"		"CAT Interstellar"
+		"type"		"Game"
+		"oslist"		"windows,linux"
+		"logo"		"b30bdfb6289dc7b88d1d37ed4fb48c3fdbe9c2bc"
+		"logo_small"		"b30bdfb6289dc7b88d1d37ed4fb48c3fdbe9c2bc_thumb"
+		"icon"		"9fd7856963b1b7283e60db1395fc36b9d5d384b7"
+		"clienttga"		"d669d20b8a324217c309477efca40d1ad18b33d5"
+		"linuxclienticon"		"89e8c151bf5154cf53d6add24d1d2b4a4f34736f"
+		"clienticon"		"fb580e1ee68865e8563220d667d6bfede0f88f22"
+		"releasestate"		"released"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"384740_eula_0"
+				"name"		"CAT Interstellar EULA"
+				"url"		"http://store.steampowered.com//eula/384740_eula_0"
+			}
+		}
+		"osarch"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1654128000"
+			"tested_build_id"		"4115484"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"3"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"CAT Interstellar"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"26.627906976744185"
+				"height_pct"		"51.1398717644265"
+			}
+		}
+		"store_asset_mtime"		"1616791175"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Ionized Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Ionized Games"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_31"		"1"
+			"category_29"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1507359600"
+		"steam_release_date"		"1507291020"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"384740"
+		"store_tags"
+		{
+			"0"		"17894"
+			"1"		"21"
+			"2"		"4115"
+			"3"		"4166"
+			"4"		"4726"
+			"5"		"1697"
+			"6"		"3834"
+			"7"		"5752"
+			"8"		"4182"
+			"9"		"3942"
+			"10"		"1667"
+			"11"		"492"
+			"12"		"1664"
+			"13"		"1695"
+			"14"		"19"
+			"15"		"1755"
+			"16"		"1742"
+			"17"		"4175"
+			"18"		"11014"
+			"19"		"5186"
+		}
+		"review_score"		"6"
+		"review_percentage"		"71"
+	}
+	"extended"
+	{
+		"developer"		"Ionized Games"
+		"publisher"		"Ionized Games"
+		"homepage"		"http://www.IonizedGames.com"
+		"listofdlc"		"693760"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"CAT Interstellar"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"CatInterstellar.exe"
+				"description"		"Launch"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"CATInterstellar.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+		"vrsupport"		"other"
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"384741"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"68296013487170446"
+					"size"		"4705049834"
+					"download"		"1488885184"
+				}
+				"_ue5"
+				{
+					"gid"		"68296013487170446"
+					"size"		"4705049834"
+					"download"		"1488885184"
+				}
+				"beta"
+				{
+					"gid"		"68296013487170446"
+					"size"		"4705049834"
+					"download"		"1488885184"
+				}
+				"vr_alpha"
+				{
+					"gid"		"2452041819744930202"
+					"size"		"3870668577"
+					"download"		"1255209312"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"flashback"
+				{
+					"gid"		"75A999B25C77FA0E5C47B4C1E8D02CF7"
+					"size"		"F79F6C02BA9BFBC8C285FB29CFDE76A5"
+					"download"		"3A302EC8FBFD72176E3ED22D19E83606"
+				}
+			}
+		}
+		"384743"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7107830394213366114"
+					"size"		"2369384178"
+					"download"		"2053557760"
+				}
+				"_ue5"
+				{
+					"gid"		"8329704108167739347"
+					"size"		"5384070653"
+					"download"		"5025070272"
+				}
+				"beta"
+				{
+					"gid"		"7107830394213366114"
+					"size"		"2369384178"
+					"download"		"2053557760"
+				}
+				"vr_alpha"
+				{
+					"gid"		"8803621095629280659"
+					"size"		"4251144913"
+					"download"		"1387010896"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"flashback"
+				{
+					"gid"		"E36C4991C35533CE231EC708A959E661"
+					"size"		"9A44BBE60D13160F1990600AE5A75414"
+					"download"		"88F9B01E64FFF207B66A4A8653064837"
+				}
+			}
+		}
+		"384742"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2608326973590079303"
+					"size"		"2379459656"
+					"download"		"1997816512"
+				}
+				"_ue5"
+				{
+					"gid"		"4719732731144578948"
+					"size"		"6616697619"
+					"download"		"2245818400"
+				}
+				"beta"
+				{
+					"gid"		"2608326973590079303"
+					"size"		"2379459656"
+					"download"		"1997816512"
+				}
+				"vr_alpha"
+				{
+					"gid"		"4753817742778476178"
+					"size"		"5404448236"
+					"download"		"1835045792"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"flashback"
+				{
+					"gid"		"8DF8CDEB99F726FDD4E643228559ADF6"
+					"size"		"16D3C12F6AD79BA0CA0F901BA4379F89"
+					"download"		"C46F9BE1E3981D19E72633240F08B5F9"
+				}
+			}
+		}
+		"509460"
+		{
+			"dlcappid"		"509460"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"656772094056828391"
+					"size"		"4251144913"
+					"download"		"1390015504"
+				}
+				"_ue5"
+				{
+					"gid"		"656772094056828391"
+					"size"		"4251144913"
+					"download"		"1390015504"
+				}
+				"beta"
+				{
+					"gid"		"656772094056828391"
+					"size"		"4251144913"
+					"download"		"1390015504"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"flashback"
+				{
+					"gid"		"693703C597AFC409ABF05D44509C9A43"
+					"size"		"1D861A29B815329D9FC883504A049B2C"
+					"download"		"B2EEB0E9DB217268E431EF2D8F023973"
+				}
+			}
+		}
+		"693760"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2044457797857238775"
+					"size"		"140593150"
+					"download"		"77826000"
+				}
+				"_ue5"
+				{
+					"gid"		"2044457797857238775"
+					"size"		"140593150"
+					"download"		"77826000"
+				}
+				"beta"
+				{
+					"gid"		"2044457797857238775"
+					"size"		"140593150"
+					"download"		"77826000"
+				}
+				"vr_alpha"
+				{
+					"gid"		"2422616902821985523"
+					"size"		"123969556"
+					"download"		"64948528"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"flashback"
+				{
+					"gid"		"25EA2AF653B20FDBB26F3EE6F71A93CB"
+					"size"		"4A120CC83DB30AFBAF52686D938786BE"
+					"download"		"2ED9A4552B8BE72498C3704CB7A45C3A"
+				}
+			}
+			"dlcappid"		"693760"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9561906"
+				"timeupdated"		"1663769055"
+			}
+			"_ue5"
+			{
+				"buildid"		"8151251"
+				"description"		"UE5 branch"
+				"timeupdated"		"1644074065"
+			}
+			"beta"
+			{
+				"buildid"		"9561906"
+				"description"		"Beta Branch"
+				"timeupdated"		"1663769070"
+			}
+			"flashback"
+			{
+				"buildid"		"7432777"
+				"pwdrequired"		"1"
+				"timeupdated"		"1632765718"
+			}
+			"vr_alpha"
+			{
+				"buildid"		"2116119"
+				"description"		"VR Testing"
+				"timeupdated"		"1505324987"
+			}
+		}
+	}
+}
