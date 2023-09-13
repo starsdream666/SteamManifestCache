@@ -1,0 +1,173 @@
+"appinfo"
+{
+	"appid"		"46750"
+	"common"
+	{
+		"name"		"Dark Fall: Lost Souls"
+		"clienticon"		"524c3f3bc3b58ea3d99ddaa11386b553011eec5e"
+		"clienttga"		"9ac5264659c26f9e95a747ba419628fe88070f31"
+		"icon"		"dc4fe57dd4c407332532fe27efa20886d0e687c7"
+		"logo"		"dda514a3db9e489d1e5f7167379de1f3f2b2824c"
+		"logo_small"		"dda514a3db9e489d1e5f7167379de1f3f2b2824c_thumb"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"type"		"game"
+		"metacritic_name"		"Dark Fall 3: Lost Souls"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1667685080"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Darkling Room"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Iceberg Interactive"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Dark Fall Games"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1271882820"
+		"metacritic_score"		"75"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/dark-fall-3-lost-souls?ftag=MCD-06-10aaa1f"
+		"community_hub_visible"		"1"
+		"gameid"		"46750"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"492"
+			"2"		"1667"
+			"3"		"1698"
+			"4"		"1721"
+			"5"		"3839"
+			"6"		"1664"
+		}
+		"review_score"		"5"
+		"review_percentage"		"62"
+	}
+	"extended"
+	{
+		"developer"		"Darkling Room"
+		"gamedir"		"Dark Fall Lost Souls"
+		"homepage"		"http://www.darkfallgames.co.uk/"
+		"icon"		""
+		"noservers"		"1"
+		"order"		"1"
+		"primarycache"		"46751"
+		"serverbrowsername"		""
+		"state"		"eStateAvailable"
+		"publisher"		"Iceberg Interactive"
+		"gamemanualurl"		"https://store.steampowered.com/manual/46750/"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Dark Fall Lost Souls"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"DarkFallLostSouls.exe"
+				"arguments"		"-Launch"
+			}
+		}
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"46751"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7387972373347802561"
+					"size"		"1503420935"
+					"download"		"0"
+				}
+			}
+		}
+		"46752"
+		{
+			"config"
+			{
+				"language"		"german"
+			}
+		}
+		"46753"
+		{
+			"config"
+			{
+				"language"		"french"
+			}
+		}
+		"46754"
+		{
+			"config"
+			{
+				"language"		"italian"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"21454"
+			}
+		}
+	}
+}
