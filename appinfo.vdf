@@ -1,0 +1,265 @@
+"appinfo"
+{
+	"appid"		"333660"
+	"common"
+	{
+		"name"		"Towers of Altrac"
+		"type"		"Game"
+		"oslist"		"windows,macos"
+		"logo"		"55114aded91cb277795c39ede41972c487ea9301"
+		"logo_small"		"55114aded91cb277795c39ede41972c487ea9301_thumb"
+		"icon"		"ab75df0254e02f6e3aa4b26614492dab34da5a1a"
+		"clienttga"		"cb73e26a081e66867ffbae19c6eeff4c02b0adac"
+		"clienticns"		"a9e41249384099a11fc3d4a20c48882458eb1e14"
+		"linuxclienticon"		"b9d0a0e3558c45fafef3e46ba63cb2240598539e"
+		"clienticon"		"1cfce48a8985802ac42caa6eb5ca8e3e99c91d11"
+		"releasestate"		"released"
+		"metacritic_name"		"Towers of Altrac - Epic Defense Battles"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1457275554"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Jsmael Stieger"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Manuel Stieger"
+			}
+			"2"
+			{
+				"type"		"developer"
+				"name"		"Andreas Stieger"
+			}
+			"3"
+			{
+				"type"		"publisher"
+				"name"		"Cybertron Design Studios"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_27"		"1"
+			"category_9"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_15"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1420480315"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"333660"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"9"
+			"2"		"1645"
+			"3"		"1684"
+			"4"		"19"
+			"5"		"3859"
+			"6"		"3810"
+			"7"		"5395"
+			"8"		"14139"
+			"9"		"4191"
+			"10"		"3839"
+			"11"		"4791"
+			"12"		"1662"
+			"13"		"7926"
+			"14"		"4182"
+			"15"		"1685"
+			"16"		"5752"
+		}
+		"review_score"		"5"
+		"review_percentage"		"59"
+	}
+	"extended"
+	{
+		"gamedir"		""
+		"developer"		"Jsmael Stieger"
+		"publisher"		"Cybertron Design Studios"
+		"homepage"		"http://www.towersofaltrac.com"
+		"listofdlc"		"391470"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Towers of Altrac"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TowersOfAltrac.exe"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Towers of Altrac.app"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"333661"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4877691833457400295"
+					"size"		"4617595845"
+					"download"		"2740600016"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"intern_test"
+				{
+					"gid"		"3F92BB556377FD49DA2A4CD6EDA73822"
+					"size"		"8C6FE537E3C7983FF077C15EE7E298D6"
+					"download"		"C085915782F7915EB7159C620274E816"
+				}
+				"test"
+				{
+					"gid"		"C19279F8EB7D71804CF1359E70DC25CA"
+					"size"		"966F1F46F58A48F097E11759DC07CA52"
+					"download"		"D90D95DCC961704B7130F2F4324056F4"
+				}
+			}
+		}
+		"333662"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2451600048095061764"
+					"size"		"4572958940"
+					"download"		"2712942928"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"intern_test"
+				{
+					"gid"		"E4701CAB2AE2306694A95CBB5C31834F"
+					"size"		"37C8B14DADDB972B7B02692103B3241B"
+					"download"		"8C99EF5A1B8A7DD5618F2351FBC57245"
+				}
+				"test"
+				{
+					"gid"		"3C82980F3B9F7F12EE49E7F0D6D50C41"
+					"size"		"036DB0D1DE287765E0B541182D2FEE01"
+					"download"		"1DFC048E77F502C588078ECAD124706B"
+				}
+			}
+		}
+		"391470"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"23454851840327380"
+					"size"		"24"
+					"download"		"80"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"intern_test"
+				{
+					"gid"		"AB38DCC87E38A8E05E2C3C0356E37457"
+					"size"		"27821B0585E81618ECE529B50B958F49"
+					"download"		"953784CA07AA4434684EEB7FC75F0E7F"
+				}
+				"test"
+				{
+					"gid"		"613B50DCCE25FAC6C0182C78A8450A39"
+					"size"		"62C669EC2C4D3FD89112F1724AA25E05"
+					"download"		"50337C96E253BDC3FBC5740CEB144908"
+				}
+			}
+			"dlcappid"		"391470"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1800108"
+				"timeupdated"		"1493924715"
+			}
+			"intern_test"
+			{
+				"buildid"		"1800108"
+				"pwdrequired"		"1"
+				"timeupdated"		"1493924649"
+			}
+			"test"
+			{
+				"buildid"		"1800108"
+				"pwdrequired"		"1"
+				"timeupdated"		"1493914579"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"200000"
+		"maxnumfiles"		"400"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+	}
+}
