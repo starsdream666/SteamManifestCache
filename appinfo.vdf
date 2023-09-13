@@ -1,0 +1,276 @@
+"appinfo"
+{
+	"appid"		"17510"
+	"common"
+	{
+		"name"		"Age of Chivalry"
+		"logo"		"e3176ec058428d97a424af5d577bed96c6e92528"
+		"logo_small"		"54b737864f70a23ea526e80810e7d083a1c6ba62"
+		"icon"		"c13110cfe96f0157c2ebd2e5b57a1aee6895dc95"
+		"clienttga"		"046feea99119defa0a2443467715b169188eda48"
+		"clienticon"		"6ea1bb1688d041e29fcc2f14118519dab2913e92"
+		"type"		"game"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1655251200"
+			"tested_build_id"		"103382"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"5"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"6"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-3"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Age of Chivalry"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1577355150"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Team Chivalry"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"23"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_19"		"1"
+			"category_6"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1196496000"
+		"steam_release_date"		"1223017200"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"17510"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"113"
+			"2"		"4172"
+			"3"		"19"
+			"4"		"3859"
+			"5"		"5348"
+			"6"		"3839"
+			"7"		"1663"
+			"8"		"5711"
+			"9"		"4345"
+			"10"		"1695"
+			"11"		"4608"
+			"12"		"1678"
+			"13"		"1685"
+			"14"		"1774"
+		}
+		"review_score"		"8"
+		"review_percentage"		"87"
+	}
+	"extended"
+	{
+		"developer"		"Team Chivalry"
+		"gamedir"		"ageofchivalry"
+		"homepage"		"http://www.age-of-chivalry.com"
+		"icon"		""
+		"loadallbeforelaunch"		"1"
+		"noservers"		"0"
+		"order"		"1"
+		"primarycache"		"17511"
+		"requiredappid"		"215"
+		"serverbrowsername"		"Age of Chivalry"
+		"sourcegame"		"1"
+		"state"		"eStateAvailable"
+		"vacmacmodulecache"		"160"
+		"vacmodulecache"		"202"
+		"vacmodulefilename"		"sourceinit.dat"
+		"developer_url"		"http://www.age-of-chivalry.com/"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"usemms"		""
+		"contenttype"		"3"
+		"convertgcfs"		"1"
+		"installdir"		"Source SDK Base 2007"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"hl2.exe"
+				"arguments"		"-game ageofchivalry"
+				"vacmodulefilename"		"resource\\sourceinit.dat"
+			}
+		}
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"208"
+		{
+			"systemdefined"		"1"
+			"depotfromapp"		"218"
+			"sharedinstall"		"2"
+		}
+		"207"
+		{
+			"systemdefined"		"1"
+			"depotfromapp"		"218"
+			"sharedinstall"		"2"
+		}
+		"206"
+		{
+			"systemdefined"		"1"
+			"depotfromapp"		"218"
+			"sharedinstall"		"2"
+		}
+		"307"
+		{
+			"systemdefined"		"1"
+			"depotfromapp"		"218"
+			"sharedinstall"		"2"
+		}
+		"306"
+		{
+			"systemdefined"		"1"
+			"depotfromapp"		"218"
+			"sharedinstall"		"2"
+		}
+		"305"
+		{
+			"systemdefined"		"1"
+			"depotfromapp"		"218"
+			"sharedinstall"		"2"
+		}
+		"216"
+		{
+			"systemdefined"		"1"
+			"depotfromapp"		"218"
+			"sharedinstall"		"2"
+		}
+		"17511"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2368255196544065107"
+					"size"		"2848538702"
+					"download"		"0"
+				}
+				"steampipe"
+				{
+					"gid"		"2622008280805019534"
+					"size"		"2849015915"
+					"download"		"0"
+				}
+			}
+		}
+		"1004"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"218"
+			"sharedinstall"		"2"
+		}
+		"markdlcdepots"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"103382"
+			}
+			"steampipe"
+			{
+				"buildid"		"86963"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1048576"
+		"maxnumfiles"		"100"
+	}
+}
