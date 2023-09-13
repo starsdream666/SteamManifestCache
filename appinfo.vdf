@@ -1,0 +1,199 @@
+"appinfo"
+{
+	"appid"		"271990"
+	"common"
+	{
+		"name"		"Dreamscape"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"logo"		"2772069448e8ce47db9bbae60bbc116005001201"
+		"logo_small"		"2772069448e8ce47db9bbae60bbc116005001201_thumb"
+		"icon"		"4dd7cf63c7b0c326c5aeb23f499b52d7e88d741f"
+		"clienticon"		"c49cd405cf307cb8d4c1df1e72ae873788c933de"
+		"clienttga"		"735921aa5e1941c64566032cc8d33f7a425e246c"
+		"metacritic_name"		"Dreamscape"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1425739046"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Aldorlea Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Komodo"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"23"
+			"3"		"3"
+			"4"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_29"		"1"
+			"category_18"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1422914371"
+		"community_hub_visible"		"1"
+		"gameid"		"271990"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"21"
+			"2"		"492"
+			"3"		"597"
+			"4"		"9"
+			"5"		"5577"
+			"6"		"7208"
+			"7"		"3834"
+			"8"		"4711"
+			"9"		"4136"
+			"10"		"4434"
+			"11"		"4085"
+			"12"		"1684"
+			"13"		"3871"
+			"14"		"4182"
+			"15"		"5716"
+			"16"		"198631"
+		}
+		"review_score"		"8"
+		"review_percentage"		"83"
+	}
+	"extended"
+	{
+		"developer"		"Aldorlea Games"
+		"publisher"		"Komodo"
+		"homepage"		"http://www.aldorlea.org/dreamscape.php"
+		"listofdlc"		"366740"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Dreamscape"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Dreamscape\\Dreamscape.exe"
+				"description"		"Launch"
+				"workingdir"		"Dreamscape"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Guide\\Dreamscape-The-Ultimate-Guide.pdf"
+				"description"		"View Walkthrough"
+				"config"
+				{
+					"ownsdlc"		"366740"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"228982"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"271991"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"143311417263142649"
+					"size"		"93008022"
+					"download"		"0"
+				}
+			}
+		}
+		"366740"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"171074816458372344"
+					"size"		"6870039"
+					"download"		"4684880"
+				}
+			}
+			"dlcappid"		"366740"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"610404"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"104857600"
+		"maxnumfiles"		"250"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"Dreamscape_Saves"
+				"pattern"		"*.rxdata"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"1"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"Dreamscape_Saves"
+				"pattern"		"*.ini"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
