@@ -1,0 +1,232 @@
+"appinfo"
+{
+	"appid"		"25850"
+	"common"
+	{
+		"name"		"Elven Legacy"
+		"clienticon"		"d4377d66c1062e8e38ab0948187181a700b7e839"
+		"icon"		"0327cb3099897e9c3cec0532a66a4838fa48b087"
+		"clienttga"		"e2a0fc45636094094f9a53da478f2b4fc9590c68"
+		"logo"		"416e30702ea555dadb68e90c422d02e102c3657b"
+		"logo_small"		"416e30702ea555dadb68e90c422d02e102c3657b_thumb"
+		"oslist"		"windows"
+		"type"		"game"
+		"metacritic_name"		"Elven Legacy"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1668513973"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"1C:InoCo"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Fulqrum Publishing"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Fulqrum"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"3"
+			"1"		"2"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_2"		"1"
+			"category_17"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1239112800"
+		"metacritic_score"		"71"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/elven-legacy?ftag=MCD-06-10aaa1f"
+		"community_hub_visible"		"1"
+		"gameid"		"25850"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"122"
+			"2"		"1741"
+		}
+		"review_score"		"6"
+		"review_percentage"		"73"
+	}
+	"extended"
+	{
+		"developer"		"1C:InoCo"
+		"gamedir"		"Elven Legacy"
+		"homepage"		"http://www.elven-legacy.com/"
+		"icon"		""
+		"installscript"		"25850_install.vdf"
+		"noservers"		"1"
+		"order"		"1"
+		"primarycache"		"25851"
+		"serverbrowsername"		""
+		"state"		"eStateAvailable"
+		"developer_url"		"http://www.ino-co.com/en/"
+		"publisher"		"Fulqrum Publishing"
+		"gamemanualurl"		"https://store.steampowered.com/manual/25850/"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Elven Legacy"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ElvenLegacy.exe"
+				"type"		"default"
+			}
+			"1"
+			{
+				"executable"		"MapEditor.exe"
+				"description"		"Elven Legacy Map Editor"
+				"type"		"editor"
+			}
+		}
+	}
+	"depots"
+	{
+		"228981"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"overridescddb"		"1"
+		"25851"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8709768079709111012"
+					"size"		"2854017193"
+					"download"		"1889163344"
+				}
+			}
+		}
+		"42951"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"42950"
+			"sharedinstall"		"2"
+		}
+		"42941"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"42940"
+			"sharedinstall"		"2"
+		}
+		"42931"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"42930"
+			"sharedinstall"		"2"
+		}
+		"25852"
+		{
+			"config"
+			{
+				"language"		"russian"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1753516519323916346"
+					"size"		"1532980164"
+					"download"		"1130575072"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1138185"
+				"timeupdated"		"1464354974"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"104857600"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"Elven Legacy Profiles"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
