@@ -1,0 +1,195 @@
+"appinfo"
+{
+	"appid"		"402910"
+	"common"
+	{
+		"name"		"Undead Blackout: Reanimated Edition"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"logo"		"77eaf57b026f21c92a0cc891a5691ca7fad23798"
+		"logo_small"		"77eaf57b026f21c92a0cc891a5691ca7fad23798_thumb"
+		"icon"		"9f1676df94b774c9c63a7ba68e14fc27c13513f6"
+		"clienttga"		"5dcb4133e8b525391a2bb4594e893c7ba5119a55"
+		"clienticon"		"39d3e3b2b85228eff221308d10d96d165daf6881"
+		"eulas"
+		{
+		}
+		"releasestate"		"released"
+		"metacritic_name"		"Undead Blackout: Reanimated Edition"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"95.11627906976744"
+				"height_pct"		"67.09807646639753"
+			}
+		}
+		"store_asset_mtime"		"1622540091"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"4MB Interactive Ltd"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"4MB Interactive Ltd"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_37"		"1"
+			"category_9"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_28"		"1"
+			"category_22"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_44"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1486130216"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"402910"
+		"store_tags"
+		{
+			"0"		"1667"
+			"1"		"4637"
+			"2"		"4758"
+			"3"		"1774"
+			"4"		"1662"
+			"5"		"1773"
+			"6"		"10816"
+			"7"		"4791"
+			"8"		"19"
+			"9"		"1659"
+			"10"		"4166"
+			"11"		"4342"
+			"12"		"4004"
+			"13"		"1685"
+			"14"		"3841"
+			"15"		"7368"
+			"16"		"3859"
+			"17"		"4182"
+			"18"		"4508"
+			"19"		"4345"
+		}
+	}
+	"extended"
+	{
+		"developer"		"4MB Interactive Ltd"
+		"publisher"		"4MB Interactive Ltd"
+		"homepage"		"http://www.4mbinteractive.com/games/undeadblackout/"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Undead Blackout"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"UndeadBlackout.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"402911"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"482689298610735968"
+					"size"		"2507395171"
+					"download"		"1765203680"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev_test"
+				{
+					"gid"		"F61E072358445C95355C03972942EDDD"
+					"size"		"3AD5B08777533A6150700A4E4514DAE8"
+					"download"		"864C02512F6A3A460BB457750DF8B9E2"
+				}
+			}
+		}
+		"402912"
+		{
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8552330"
+				"timeupdated"		"1649941123"
+			}
+			"dev_test"
+			{
+				"buildid"		"8552330"
+				"pwdrequired"		"1"
+				"timeupdated"		"1649866985"
+			}
+		}
+	}
+}
