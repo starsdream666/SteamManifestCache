@@ -1,0 +1,480 @@
+"appinfo"
+{
+	"appid"		"1500"
+	"common"
+	{
+		"clienticon"		"cb81ffd53a4797710877dd82bd7cad9fd16c3362"
+		"clienttga"		"06fd27a0510f98a7b2cb637861cbbe45c4665b57"
+		"icon"		"4af4ed49b443228dc2ae2f0a9aac13da48892fb2"
+		"logo"		"95d9dcf203e92facca106dc081824673850ad024"
+		"logo_small"		"da8ad5c116446d14e3cd812a38f0702989e95215"
+		"metacritic_url"		"pc/darwinia"
+		"name"		"Darwinia"
+		"linuxclienticon"		"ef49188244ee728e831db7a6cf89a6ce7f579ab7"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64,macosapplesilicon,macosnotarized"
+		"clienticns"		"6ad58cd8dd58c48a5c7a4b3a7c86c0f561a289da"
+		"type"		"game"
+		"metacritic_name"		"Darwinia"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"49.658002735978116"
+				"height_pct"		"90.97222222222223"
+			}
+		}
+		"store_asset_mtime"		"1650298703"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Introversion Software"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Introversion Software"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_17"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1121324400"
+		"metacritic_score"		"84"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/darwinia?ftag=MCD-06-10aaa1f"
+		"community_hub_visible"		"1"
+		"gameid"		"1500"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"21725"
+			"2"		"4255"
+			"3"		"4684"
+			"4"		"3813"
+			"5"		"1664"
+			"6"		"6730"
+			"7"		"1676"
+			"8"		"5300"
+			"9"		"1773"
+			"10"		"9"
+			"11"		"1710"
+			"12"		"1742"
+			"13"		"4191"
+			"14"		"4400"
+			"15"		"4305"
+			"16"		"3964"
+			"17"		"4252"
+			"18"		"3942"
+			"19"		"4182"
+		}
+		"review_score"		"6"
+		"review_percentage"		"79"
+	}
+	"extended"
+	{
+		"developer"		"Introversion Software"
+		"developer_url"		"http://www.introversion.co.uk/"
+		"gamedir"		"Darwinia"
+		"gamemanualurl"		"http://www.darwinia.co.uk/extras/manual/DarwiniaManual.pdf"
+		"homepage"		"http://www.darwinia.co.uk/"
+		"icon"		"steam/games/icon_darwinia"
+		"installscriptosx"		"Darwinia.app/installscript_osx.vdf"
+		"installscript_macos"		"Darwinia.app/installscript_osx.vdf"
+		"noservers"		"1"
+		"order"		"20"
+		"primarycache"		"1501"
+		"primarycache_mac"		"1505"
+		"primarycache_macos"		"1505"
+		"state"		"eStateAvailable"
+		"validoslist"		"windows,macos,linux"
+		"visibleonlywhensubscribed"		"1"
+		"publisher"		"Introversion Software"
+		"listofdlc"		"1507,1515"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Darwinia"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"darwinia.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Darwinia.app"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"3"
+			{
+				"executable"		"run.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+			"11"
+			{
+				"executable"		"run_steam.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"betakey"		"legacy"
+				}
+			}
+			"16"
+			{
+				"executable"		"Darwinia.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+					"betakey"		"legacy"
+				}
+			}
+			"17"
+			{
+				"executable"		"Darwinia.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"legacy"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"2"
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"65535"
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1505"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7702108656450135739"
+					"size"		"100989858"
+					"download"		"48788704"
+				}
+				"beta"
+				{
+					"gid"		"8326334821525064642"
+					"size"		"101084156"
+					"download"		"48795568"
+				}
+				"legacy"
+				{
+					"gid"		"6299426245386861294"
+					"size"		"37670021"
+					"download"		"35384192"
+				}
+				"previous"
+				{
+					"gid"		"1737356920220596542"
+					"size"		"94561499"
+					"download"		"47526800"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"debug"
+				{
+					"gid"		"EB93C4EA6730272A49D7950DE8BBCEA9"
+					"size"		"6D9BD5A200CB9F665067A185B22EBC71"
+					"download"		"4E1A2D5FDC4D16280AD951878B7CA797"
+				}
+				"test"
+				{
+					"gid"		"FD303BA8B8B7F600440F716ED95C3C62"
+					"size"		"BCB35BEF9052CDDD6997419DAD9F0A47"
+					"download"		"2275122ABE951D1932A6C07F8912B7A2"
+				}
+			}
+		}
+		"1501"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4195312717696658946"
+					"size"		"58817753"
+					"download"		"40547792"
+				}
+				"beta"
+				{
+					"gid"		"3960621796862678215"
+					"size"		"58827536"
+					"download"		"40560368"
+				}
+				"legacy"
+				{
+					"gid"		"1621006573251409080"
+					"size"		"43045614"
+					"download"		"0"
+				}
+				"previous"
+				{
+					"gid"		"7844436267371596075"
+					"size"		"56272855"
+					"download"		"40773360"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"debug"
+				{
+					"gid"		"F2D12AAF90A6EBC70A8172CE52E4A811"
+					"size"		"8CA985D39F1D2C5A07BF71B98EE72E7C"
+					"download"		"8FABB03145D4232293ED5C8069AC87E3"
+				}
+				"test"
+				{
+					"gid"		"048BD59B4665DAA7680B52C2913671A5"
+					"size"		"1C10C09C25C0E6B2DC27374C5BE3541C"
+					"download"		"62D2CD79AA80C8A73692C0CA811D02FD"
+				}
+			}
+		}
+		"1503"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7784155514514497266"
+					"size"		"66365587"
+					"download"		"41653456"
+				}
+				"beta"
+				{
+					"gid"		"4783249754539997441"
+					"size"		"66491459"
+					"download"		"41650832"
+				}
+				"legacy"
+				{
+					"gid"		"1961385546257740227"
+					"size"		"46341037"
+					"download"		"0"
+				}
+				"previous"
+				{
+					"gid"		"9162021162387017735"
+					"size"		"56309702"
+					"download"		"40016720"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"debug"
+				{
+					"gid"		"AA405F0ADBCF67B3222A1D2E31E348FE"
+					"size"		"65BFDBFCE6BF10455520B7BD8E83DDF1"
+					"download"		"F410721B1EB0E1CA03B753F8E48EE9C6"
+				}
+				"test"
+				{
+					"gid"		"20CFF30A9E9AF368D167D3D5868CA638"
+					"size"		"6204A84EBFB612F064CB18A30824ED99"
+					"download"		"5A7D3CB9D044805D4E33B4A093A757A7"
+				}
+			}
+		}
+		"1004"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3578600867548439549"
+					"size"		"9662208"
+					"download"		"0"
+				}
+			}
+			"depotfromapp"		"310"
+		}
+		"overridescddb"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12043542"
+				"timeupdated"		"1693169186"
+			}
+			"beta"
+			{
+				"buildid"		"12173797"
+				"description"		"Prerelease Open Beta"
+				"timeupdated"		"1694569403"
+			}
+			"debug"
+			{
+				"buildid"		"12174064"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694569350"
+			}
+			"legacy"
+			{
+				"buildid"		"4316058"
+				"description"		"Legacy OpenGL 2.x and Direct3D 9 version"
+				"timeupdated"		"1623656172"
+			}
+			"previous"
+			{
+				"buildid"		"10060331"
+				"description"		"Previous release version"
+				"timeupdated"		"1670897590"
+			}
+			"test"
+			{
+				"buildid"		"12173797"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694566391"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"16777216"
+		"maxnumfiles"		"256"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinSavedGames"
+				"path"		"Darwinia/users"
+				"pattern"		"*.txt"
+				"recursive"		"1"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinSavedGames"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxHome"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Darwinia/users"
+						"replace"		".darwinia/full-steam/users"
+					}
+				}
+			}
+			"1"
+			{
+				"root"		"WinSavedGames"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Darwinia/users"
+						"replace"		"Darwinia/full-steam/users"
+					}
+				}
+			}
+		}
+		"sync_while_suspended"		"1"
+	}
+}
