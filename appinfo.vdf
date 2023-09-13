@@ -1,0 +1,215 @@
+"appinfo"
+{
+	"appid"		"210740"
+	"common"
+	{
+		"name"		"Analogue: A Hate Story Demo"
+		"type"		"Demo"
+		"logo"		"a40af19348203593ed9f886ab2c44e3383d33e05"
+		"logo_small"		"a40af19348203593ed9f886ab2c44e3383d33e05_thumb"
+		"clienticon"		"97ff78f241ef30082612f696ba9fb80718466e54"
+		"clienttga"		"1f5d4b4ccf5cee95cca67515a177237016ce0dc0"
+		"icon"		"88cb6f815e89b0e27f981a329bb5e4d682f09fef"
+		"clienticns"		"4b3022ee26161741a07590f370866cc5b391d953"
+		"freeondemand"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1335549605"
+		"associations"
+		{
+		}
+		"primary_genre"		"0"
+		"steam_release_date"		"1335549480"
+		"community_visible_stats"		"1"
+		"gameid"		"210740"
+	}
+	"extended"
+	{
+		"developer"		""
+		"gamedir"		"Analogue: A Hate Story Demo"
+		"homepage"		""
+		"icon"		""
+		"noservers"		"1"
+		"order"		"1"
+		"primarycache"		"210741"
+		"primarycache_macos"		"210742"
+		"serverbrowsername"		""
+		"state"		"eStateAvailable"
+		"validoslist"		"windows,macos"
+	}
+	"config"
+	{
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Analogue trial.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Analogue trial.app"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"contenttype"		"3"
+		"installdir"		"Analogue A Hate Story Demo"
+	}
+	"depots"
+	{
+		"210742"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3827405085703888275"
+					"size"		"74032918"
+					"download"		"0"
+				}
+			}
+		}
+		"210741"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2919066242609529420"
+					"size"		"82241673"
+					"download"		"0"
+				}
+			}
+		}
+		"209376"
+		{
+			"config"
+			{
+				"language"		"koreana"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8708712739032448246"
+					"size"		"388"
+					"download"		"0"
+				}
+				"sierra"
+				{
+					"gid"		"8708712739032448246"
+					"size"		"388"
+					"download"		"0"
+				}
+			}
+			"depotfromapp"		"209370"
+		}
+		"209377"
+		{
+			"config"
+			{
+				"language"		"koreana"
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7391644249205979132"
+					"size"		"388"
+					"download"		"0"
+				}
+				"sierra"
+				{
+					"gid"		"7391644249205979132"
+					"size"		"388"
+					"download"		"0"
+				}
+			}
+			"depotfromapp"		"209370"
+		}
+		"overridescddb"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"21728"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"104857600"
+		"maxnumfiles"		"1000"
+		"appidredirect"		"209370"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"1"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"/RenPy/Analogue"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"2"
+			{
+				"root"		"MacHome"
+				"path"		"/Library/RenPy/Analogue"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"MacOS"
+				}
+			}
+			"3"
+			{
+				"root"		"LinuxHome"
+				"path"		"/.renpy/Analogue"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Linux"
+				}
+			}
+			"copied_from_parent"		"1"
+		}
+		"rootoverrides"
+		{
+			"1"
+			{
+				"os"		"macos"
+				"oscompare"		"="
+				"root"		"WinAppDataRoaming"
+				"useinstead"		"MacHome"
+				"addpath"		"Library"
+			}
+		}
+	}
+}
