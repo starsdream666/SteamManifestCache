@@ -1,0 +1,153 @@
+"appinfo"
+{
+	"appid"		"22150"
+	"common"
+	{
+		"name"		"Europa Universalis III Demo"
+		"type"		"Demo"
+		"freeondemand"		"1"
+		"parent"		"25800"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Paradox Interactive"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Paradox Interactive"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"2"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_10"		"1"
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1169539200"
+		"steam_release_date"		"1234684800"
+		"gameid"		"22150"
+	}
+	"extended"
+	{
+		"demoofappid"		"25800"
+		"developer"		"Paradox Interactive"
+		"gamedir"		"Europa Universalis III - Demo"
+		"homepage"		"http://www.europauniversalis3.com/"
+		"icon"		""
+		"noservers"		"1"
+		"order"		"1"
+		"primarycache"		"22151"
+		"serverbrowsername"		""
+		"state"		"eStateAvailable"
+		"publisher"		"Paradox Interactive"
+	}
+	"config"
+	{
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"eu3demo.exe"
+			}
+		}
+		"contenttype"		"3"
+		"installdir"		"Europa Universalis III - Demo"
+	}
+	"depots"
+	{
+		"22151"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4864980734870458484"
+					"size"		"381910730"
+					"download"		"0"
+				}
+			}
+		}
+		"22152"
+		{
+			"config"
+			{
+				"language"		"french"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5695278365563929630"
+					"size"		"1109"
+					"download"		"0"
+				}
+			}
+		}
+		"22153"
+		{
+			"config"
+			{
+				"language"		"german"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8989792658158362245"
+					"size"		"1109"
+					"download"		"0"
+				}
+			}
+		}
+		"22154"
+		{
+			"config"
+			{
+				"language"		"italian"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7163498878953894738"
+					"size"		"1110"
+					"download"		"0"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"66393"
+			}
+		}
+	}
+}
