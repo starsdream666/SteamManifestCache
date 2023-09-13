@@ -1,0 +1,82 @@
+"appinfo"
+{
+	"appid"		"4270"
+	"common"
+	{
+		"clienttga"		"6c895a01954bfeb9de8098471ef1b44259efe80d"
+		"icon"		"a84d62ad8095e8b991cbb83044a02fd4980ead3a"
+		"logo"		""
+		"logo_small"		""
+		"name"		"RACE 07 Demo Dedicated Server"
+		"clienticon"		"05e281791c36d8d409c7c55aba2bb47aa395c7f5"
+		"type"		"Tool"
+		"freeondemand"		"1"
+		"gameid"		"4270"
+	}
+	"extended"
+	{
+		"developer"		"SimBin Studios"
+		"gamedir"		"Race07 Demo Dedicated Server"
+		"homepage"		"http://www.race-game.org/"
+		"icon"		"steam/games/icon_Race 07"
+		"noservers"		"1"
+		"order"		"1"
+		"primarycache"		"4261"
+		"serverbrowsername"		""
+		"state"		"eStateTool"
+		"visibleonlywheninstalled"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Race07 Demo Dedicated Server"
+		"convertgcfs"		"1"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"RaceDemoDedicatedServer_Steam.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"markdlcdepots"		"1"
+		"4261"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"637215948742709402"
+					"size"		"552637440"
+					"download"		"0"
+				}
+			}
+			"depotfromapp"		"4260"
+		}
+		"1004"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3578600867548439549"
+					"size"		"9662208"
+					"download"		"0"
+				}
+			}
+			"depotfromapp"		"1002"
+		}
+		"branches"
+		{
+		}
+	}
+}
