@@ -1,0 +1,772 @@
+"appinfo"
+{
+	"appid"		"431730"
+	"common"
+	{
+		"name"		"Aseprite"
+		"type"		"Application"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"icon"		"da61bd2806f69205a97609dcdd4ca27df3baf800"
+		"clienticon"		"a08332491434a26b15f7557375dba476903f935c"
+		"clienttga"		"7d617741f391e831a3d23782bf776a0f2e06f5e3"
+		"eulas"
+		{
+		}
+		"logo"		"0618b23a27c2835df0cdeeafd0ba8b0815f8c584"
+		"logo_small"		"0618b23a27c2835df0cdeeafd0ba8b0815f8c584_thumb"
+		"clienticns"		"aaccbc6e63c058f10589bf916ea517cfad493012"
+		"osarch"		""
+		"osextended"		"macos64,macosapplesilicon,macosnotarized"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1658534400"
+			"tested_build_id"		"0"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_Software"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Aseprite"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"58"
+				"height_pct"		"57"
+			}
+		}
+		"store_asset_mtime"		"1622056632"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"David Capello"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Igara Studio"
+			}
+		}
+		"primary_genre"		"51"
+		"genres"
+		{
+			"0"		"51"
+			"1"		"53"
+			"2"		"60"
+		}
+		"category"
+		{
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1456144731"
+		"community_hub_visible"		"1"
+		"gameid"		"431730"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3964"
+			"1"		"84"
+			"2"		"872"
+			"3"		"13906"
+			"4"		"8013"
+			"5"		"3871"
+			"6"		"87"
+			"7"		"1721"
+		}
+		"review_score"		"9"
+		"review_percentage"		"99"
+	}
+	"extended"
+	{
+		"developer"		"David Capello"
+		"publisher"		"Igara Studio"
+		"homepage"		"https://www.aseprite.org/"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Aseprite"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"aseprite.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Aseprite.app/Contents/MacOS/aseprite"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"aseprite"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"431731"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1194388439356041963"
+					"size"		"625598"
+					"download"		"136208"
+				}
+				"1.2.9"
+				{
+					"gid"		"8671801909537901308"
+					"size"		"508401"
+					"download"		"119216"
+				}
+				"beta"
+				{
+					"gid"		"4755590779490012545"
+					"size"		"765675"
+					"download"		"176176"
+				}
+				"local"
+				{
+					"gid"		"886184373538328658"
+					"size"		"318320"
+					"download"		"85984"
+				}
+				"v1.1.13"
+				{
+					"gid"		"184525750437545412"
+					"size"		"379562"
+					"download"		"103120"
+				}
+				"v1.2-beta12"
+				{
+					"gid"		"6708048549897257815"
+					"size"		"355572"
+					"download"		"103472"
+				}
+				"v1.2.18"
+				{
+					"gid"		"3048210755912918496"
+					"size"		"604981"
+					"download"		"130768"
+				}
+				"v1.2.25"
+				{
+					"gid"		"7403443408765186763"
+					"size"		"613103"
+					"download"		"133216"
+				}
+				"v1.3-beta21"
+				{
+					"gid"		"8948801930040700173"
+					"size"		"723698"
+					"download"		"164544"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devel"
+				{
+					"gid"		"5B630F34FB31FCD35BCAF07E0DCD5BF5"
+					"size"		"620F91651083A5DEB48834FB20008207"
+					"download"		"CEC8BFCA93867427E818375F81DA752D"
+				}
+				"internal"
+				{
+					"gid"		"E5AD705C4E7E508FFEEB0439593F0EEC"
+					"size"		"8531901DAA94B1DCA43E2464B792EC42"
+					"download"		"FEF0B50158020D45D62B487B3E9E7270"
+				}
+			}
+		}
+		"431732"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7099995146261030793"
+					"size"		"2138"
+					"download"		"544"
+				}
+				"1.2.9"
+				{
+					"gid"		"5146395308744213794"
+					"size"		"1257"
+					"download"		"496"
+				}
+				"beta"
+				{
+					"gid"		"7701744652086539632"
+					"size"		"2138"
+					"download"		"544"
+				}
+				"local"
+				{
+					"gid"		"5209197284764399525"
+					"size"		"15468255"
+					"download"		"4754864"
+				}
+				"v1.1.13"
+				{
+					"gid"		"6212666809300349687"
+					"size"		"19253679"
+					"download"		"5785120"
+				}
+				"v1.2-beta12"
+				{
+					"gid"		"247742637007206743"
+					"size"		"21510047"
+					"download"		"6389088"
+				}
+				"v1.2.18"
+				{
+					"gid"		"7701744652086539632"
+					"size"		"2138"
+					"download"		"544"
+				}
+				"v1.2.25"
+				{
+					"gid"		"7701744652086539632"
+					"size"		"2138"
+					"download"		"544"
+				}
+				"v1.3-beta21"
+				{
+					"gid"		"7099995146261030793"
+					"size"		"2138"
+					"download"		"544"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devel"
+				{
+					"gid"		"2065EDDCC240CA59C106278524D0159A"
+					"size"		"9AB99CAF7E61E0D69776AC4BDF81AF28"
+					"download"		"F14DF826C25FE5ABAAA5150F7681B737"
+				}
+				"internal"
+				{
+					"gid"		"59C673C91D42817C8094CF3AD7BA5A00"
+					"size"		"4D262074C499B47C3B0954186751B551"
+					"download"		"4AAC4B64D2239C6E47945B2858AAE49D"
+				}
+			}
+		}
+		"431733"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8347709943723827478"
+					"size"		"52606079"
+					"download"		"13296880"
+				}
+				"1.2.9"
+				{
+					"gid"		"1631134913074486019"
+					"size"		"21512717"
+					"download"		"5567792"
+				}
+				"beta"
+				{
+					"gid"		"428618987310346671"
+					"size"		"57477607"
+					"download"		"14403344"
+				}
+				"local"
+				{
+					"gid"		"7936042541035091446"
+					"size"		"13591449"
+					"download"		"3502048"
+				}
+				"v1.1.13"
+				{
+					"gid"		"1773656213536822879"
+					"size"		"18078170"
+					"download"		"4442256"
+				}
+				"v1.2-beta12"
+				{
+					"gid"		"947197194702758629"
+					"size"		"19896858"
+					"download"		"4851344"
+				}
+				"v1.2.18"
+				{
+					"gid"		"7448691006365269326"
+					"size"		"21991262"
+					"download"		"6092384"
+				}
+				"v1.2.25"
+				{
+					"gid"		"3560689763995968127"
+					"size"		"22120978"
+					"download"		"6114288"
+				}
+				"v1.3-beta21"
+				{
+					"gid"		"7104879974427871768"
+					"size"		"54688087"
+					"download"		"13699456"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devel"
+				{
+					"gid"		"CDC8D5CD9D89A4D893ED134D32716D2F"
+					"size"		"6F13EFC1C33269B6998EA7B633C6911A"
+					"download"		"C7FD08355CEA4CE9FDAFE209ED428098"
+				}
+				"internal"
+				{
+					"gid"		"66FC0B05A3BAEEAA2BC4A6116A137873"
+					"size"		"CB9DD0E91420C910D67E61CA3FE008F0"
+					"download"		"64049481E9CCB40F4343022B7D69EFEA"
+				}
+			}
+		}
+		"431734"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3951391715647334488"
+					"size"		"21661392"
+					"download"		"6615504"
+				}
+				"1.2.9"
+				{
+					"gid"		"6729464061987038116"
+					"size"		"12837110"
+					"download"		"3986336"
+				}
+				"beta"
+				{
+					"gid"		"90275416747168004"
+					"size"		"22646486"
+					"download"		"6937520"
+				}
+				"local"
+				{
+					"gid"		"4073481587786254317"
+					"size"		"8639337"
+					"download"		"2738032"
+				}
+				"v1.1.13"
+				{
+					"gid"		"8969613608873469253"
+					"size"		"9829171"
+					"download"		"3095824"
+				}
+				"v1.2-beta12"
+				{
+					"gid"		"1225617619446544113"
+					"size"		"11308320"
+					"download"		"3540176"
+				}
+				"v1.2.18"
+				{
+					"gid"		"8041047524857903372"
+					"size"		"19168110"
+					"download"		"5884224"
+				}
+				"v1.2.25"
+				{
+					"gid"		"6159086929457034027"
+					"size"		"19264230"
+					"download"		"5913248"
+				}
+				"v1.3-beta21"
+				{
+					"gid"		"2611805889521903355"
+					"size"		"22261564"
+					"download"		"6775584"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devel"
+				{
+					"gid"		"0B17FA746E565CA598A85068B6264F38"
+					"size"		"E0B79A35A4CA7BE5FA4ECDF8748F517B"
+					"download"		"206DA753A6AB5BAC6DA28350943B85C1"
+				}
+				"internal"
+				{
+					"gid"		"A4E5A7F4076C348DF3BF85E972E805B3"
+					"size"		"3B394E370DFAFCD8424036EC7ED7B132"
+					"download"		"8F5DF27B4155151C93386E5B4BB32C29"
+				}
+			}
+		}
+		"431735"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7682213930007286114"
+					"size"		"22578999"
+					"download"		"6824000"
+				}
+				"1.2.9"
+				{
+					"gid"		"7478350326497458258"
+					"size"		"13634930"
+					"download"		"4158944"
+				}
+				"beta"
+				{
+					"gid"		"1077390960416178341"
+					"size"		"23425718"
+					"download"		"7077120"
+				}
+				"local"
+				{
+					"gid"		"8521202607706472752"
+					"size"		"9405442"
+					"download"		"2931504"
+				}
+				"v1.1.13"
+				{
+					"gid"		"5496029634071786358"
+					"size"		"10663069"
+					"download"		"3288672"
+				}
+				"v1.2-beta12"
+				{
+					"gid"		"7023035989037063604"
+					"size"		"12186509"
+					"download"		"3739600"
+				}
+				"v1.2.18"
+				{
+					"gid"		"7521624632278066838"
+					"size"		"20184756"
+					"download"		"6024672"
+				}
+				"v1.2.25"
+				{
+					"gid"		"7960277337345276045"
+					"size"		"20273332"
+					"download"		"6051552"
+				}
+				"v1.3-beta21"
+				{
+					"gid"		"6576014737748301867"
+					"size"		"23166791"
+					"download"		"6979440"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devel"
+				{
+					"gid"		"0DE0AB8F705F709D72A2C4BE05422A14"
+					"size"		"538317308C54841C8E8817C380019DD5"
+					"download"		"517A450EDA8D763EF287F69618492925"
+				}
+				"internal"
+				{
+					"gid"		"86C4BF243D91211F85ECA08429D05F37"
+					"size"		"D7E823940979EB3F4405D215E6582AB1"
+					"download"		"8664FF9B9E2055F1B64751D1C9985B2F"
+				}
+			}
+		}
+		"431736"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5054956218763952048"
+					"size"		"17571814"
+					"download"		"5967280"
+				}
+				"1.2.9"
+				{
+					"gid"		"6176439642215418708"
+					"size"		"11922158"
+					"download"		"3900432"
+				}
+				"beta"
+				{
+					"gid"		"3961958275355501823"
+					"size"		"18471854"
+					"download"		"6246032"
+				}
+				"v1.1.13"
+				{
+					"gid"		"40821839114021638"
+					"size"		"11714798"
+					"download"		"3912800"
+				}
+				"v1.2-beta12"
+				{
+					"gid"		"40821839114021638"
+					"size"		"11714798"
+					"download"		"3912800"
+				}
+				"v1.2.18"
+				{
+					"gid"		"3142112256127351422"
+					"size"		"13775094"
+					"download"		"4803152"
+				}
+				"v1.2.25"
+				{
+					"gid"		"3848749479996162970"
+					"size"		"13872374"
+					"download"		"4823408"
+				}
+				"v1.3-beta21"
+				{
+					"gid"		"4387685842483010808"
+					"size"		"18015206"
+					"download"		"6088592"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devel"
+				{
+					"gid"		"FF6E56D41D496F545756555B1B9055CD"
+					"size"		"67FFE229E3EEACF0E4D0BDDAFA91BB30"
+					"download"		"312DD15A3016B4C68C39EF785C85B335"
+				}
+				"internal"
+				{
+					"gid"		"446DF092208B20B6DE64E27BC069EEB8"
+					"size"		"02F59747D54E91DADBE64A00537F3595"
+					"download"		"10F9E00CB1EB5D604182D4B669F1CDB5"
+				}
+			}
+		}
+		"431737"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"55140703937159890"
+					"size"		"20753894"
+					"download"		"6623200"
+				}
+				"1.2.9"
+				{
+					"gid"		"5712399644600657899"
+					"size"		"15045870"
+					"download"		"4665904"
+				}
+				"beta"
+				{
+					"gid"		"8686185089266648143"
+					"size"		"21800366"
+					"download"		"6915312"
+				}
+				"v1.1.13"
+				{
+					"gid"		"6248456252479497500"
+					"size"		"15090926"
+					"download"		"4768032"
+				}
+				"v1.2-beta12"
+				{
+					"gid"		"6248456252479497500"
+					"size"		"15090926"
+					"download"		"4768032"
+				}
+				"v1.2.18"
+				{
+					"gid"		"1975141845830045051"
+					"size"		"16212726"
+					"download"		"5248416"
+				}
+				"v1.2.25"
+				{
+					"gid"		"1459498164349424933"
+					"size"		"16328438"
+					"download"		"5290240"
+				}
+				"v1.3-beta21"
+				{
+					"gid"		"8142245549320429593"
+					"size"		"21285862"
+					"download"		"6766832"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devel"
+				{
+					"gid"		"2E94FE852E6E505CC138B0C9576C0C52"
+					"size"		"52864FBAF51A8990C70E26CDE356B457"
+					"download"		"5FE96A21DFB5A394376C3237D5CD5566"
+				}
+				"internal"
+				{
+					"gid"		"6F210CDF8468352001D3452D361D2A35"
+					"size"		"EC953845C69EAD310DD6F95450024663"
+					"download"		"1246708AB42F3C1C3997C83AC73FD90B"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9903855"
+				"timeupdated"		"1668088075"
+			}
+			"1.2.9"
+			{
+				"buildid"		"2974208"
+				"timeupdated"		"1557420927"
+			}
+			"beta"
+			{
+				"buildid"		"11784698"
+				"description"		"v1.3 Beta version - Preview new features"
+				"timeupdated"		"1690305253"
+			}
+			"devel"
+			{
+				"buildid"		"11784698"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690305245"
+			}
+			"internal"
+			{
+				"buildid"		"9903855"
+				"pwdrequired"		"1"
+				"timeupdated"		"1668040187"
+			}
+			"local"
+			{
+				"buildid"		"1070323"
+				"description"		"Local Content Server"
+				"lcsrequired"		"1"
+				"timeupdated"		"1460476737"
+			}
+			"v1.1.13"
+			{
+				"buildid"		"2160076"
+				"description"		"OLD Aseprite v1.1.13 (supports WinXP)"
+				"timeupdated"		"1506708391"
+			}
+			"v1.2-beta12"
+			{
+				"buildid"		"2160077"
+				"description"		"OLD Aseprite v1.2-beta12 (supports WinXP)"
+				"timeupdated"		"1506708457"
+			}
+			"v1.2.18"
+			{
+				"buildid"		"4941921"
+				"description"		"OLD Aseprite v1.2.18"
+				"timeupdated"		"1590837909"
+			}
+			"v1.2.25"
+			{
+				"buildid"		"5426947"
+				"description"		"OLD Aseprite v1.2.25"
+				"timeupdated"		"1618574845"
+			}
+			"v1.3-beta21"
+			{
+				"buildid"		"9904041"
+				"description"		"OLD Aseprite v1.3-beta21"
+				"timeupdated"		"1677939272"
+			}
+		}
+	}
+}
