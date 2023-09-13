@@ -1,0 +1,390 @@
+"appinfo"
+{
+	"appid"		"409870"
+	"common"
+	{
+		"name"		"Phantom Brave PC"
+		"type"		"Game"
+		"languages"
+		{
+			"english"		"1"
+			"japanese"		"1"
+		}
+		"oslist"		"windows"
+		"clienticon"		"15cb4e6c974d955052af67b8a74f376f030b35ce"
+		"clienttga"		"f1001e64ea3836affb7c107d2b154b1d2a802736"
+		"icon"		"8d22a98e46654741d7a1de92b209505c53c7bf8b"
+		"logo"		"fa6a5adaa2392472106457169bfbddf0ab8836ee"
+		"logo_small"		"fa6a5adaa2392472106457169bfbddf0ab8836ee_thumb"
+		"releasestate"		"released"
+		"name_localized"
+		{
+			"japanese"		"ファントム・ブレイブ PC"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1660953600"
+			"tested_build_id"		"1374742"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"5"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Phantom Brave"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"japanese"		"header_japanese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,ja"
+			"library_hero"		"en"
+			"library_logo"		"en,ja"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"93.52392065344225"
+				"height_pct"		"89.51555450011874"
+			}
+		}
+		"store_asset_mtime"		"1668470195"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Nippon Ichi Software, Inc."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"NIS America, Inc."
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Disgaea"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_23"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"full_audio"		"true"
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"full_audio"		"true"
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1469430000"
+		"steam_release_date"		"1469466660"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"409870"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"4434"
+			"2"		"4085"
+			"3"		"17305"
+			"4"		"3964"
+			"5"		"21725"
+			"6"		"1677"
+			"7"		"7208"
+			"8"		"4182"
+			"9"		"14139"
+			"10"		"1756"
+			"11"		"9"
+		}
+		"review_score"		"8"
+		"review_percentage"		"86"
+	}
+	"extended"
+	{
+		"developer"		"Nippon Ichi Software, Inc."
+		"publisher"		"NIS America, Inc."
+		"listofdlc"		"475010"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Phantom Brave PC"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Phantom Brave PC.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+	}
+	"depots"
+	{
+		"baselanguages"		"english,japanese"
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229020"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"409871"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2028019568885395972"
+					"size"		"352290470"
+					"download"		"275782192"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"4A5C29F63252C77A01BAE8E20B327858"
+					"size"		"6891846B75D2EE36B76172EED4B4D85F"
+					"download"		"315ACFD49C979B77ED415F1BAE100AF2"
+				}
+				"beta2"
+				{
+					"gid"		"E9ED31453A31BF8196572B8B5CD4E21B"
+					"size"		"CA8F43CBDBA39B67CA99923451B324A5"
+					"download"		"61B5DEFA8F4AF21578B8127C0C40085A"
+				}
+				"beta3"
+				{
+					"gid"		"07CC9E1453AF0CDD71885315CD93AFA3"
+					"size"		"6A46FEADC29FF7A85EAEC176A0B19F6B"
+					"download"		"B178AC55EC287C42FA826F760D086EC5"
+				}
+			}
+		}
+		"409872"
+		{
+			"config"
+			{
+				"language"		"japanese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2832429926806479033"
+					"size"		"350217216"
+					"download"		"152939728"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"1884A0EE4DADC69A29D103B84D7C0FA5"
+					"size"		"88B3E07CEFD713B82B2E3628B2ADF33D"
+					"download"		"D3BD186EF4AC33F1A3550DD7E30A8242"
+				}
+				"beta2"
+				{
+					"gid"		"985D55D25557ACCAA533DBC1412F0850"
+					"size"		"40F0A3DAD301AA7D92BBD3C4BCE28C26"
+					"download"		"B662C233A31CAEF3C8595676F599A440"
+				}
+				"beta3"
+				{
+					"gid"		"1770FCB82BDFA7A2339C98349EB58FEB"
+					"size"		"E093762A864CBD370A55557F3F3A6915"
+					"download"		"1F197B08E706CC7D59A4071D43AD91F5"
+				}
+			}
+		}
+		"409873"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3350285939141315809"
+					"size"		"350352896"
+					"download"		"152593440"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"5FF6F4D90DE36898DD5A47C5F18283B6"
+					"size"		"F67B73315BBA3ECE4436A8716D747FCA"
+					"download"		"E61F63937C3F3304458CFC1DEE772DB1"
+				}
+				"beta2"
+				{
+					"gid"		"6FE34ADE606482B3A72C4B7FCB442602"
+					"size"		"84855B1F77F052585CCE6166F0CD172B"
+					"download"		"6DDD7F015658B6024DB92278C7084B02"
+				}
+				"beta3"
+				{
+					"gid"		"FF31C674198C14EBE9FC8486E322C439"
+					"size"		"9B56D8B5534CE2E8CA411169258A7120"
+					"download"		"18C4C9414CFAF3B6093578D1A17BBD50"
+				}
+			}
+		}
+		"475010"
+		{
+			"dlcappid"		"0"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5227841498542126655"
+					"size"		"37789639"
+					"download"		"34980320"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"81599F4FFDA8CBBBCD730C6359B17EBB"
+					"size"		"A02853A3C85434EAE86D1DDDDE9864F5"
+					"download"		"C1192B60153389B17F152311EFF11C71"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1374742"
+				"timeupdated"		"1475686781"
+			}
+			"beta"
+			{
+				"buildid"		"1374742"
+				"pwdrequired"		"1"
+				"timeupdated"		"1475658336"
+			}
+			"beta2"
+			{
+				"buildid"		"1205643"
+				"pwdrequired"		"1"
+				"timeupdated"		"1467264516"
+			}
+			"beta3"
+			{
+				"buildid"		"1064504"
+				"pwdrequired"		"1"
+				"timeupdated"		"1460119790"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000000"
+		"maxnumfiles"		"101"
+	}
+}
