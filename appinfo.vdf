@@ -1,0 +1,302 @@
+"appinfo"
+{
+	"appid"		"524390"
+	"common"
+	{
+		"name"		"PCMark 10"
+		"type"		"Application"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"3eb6311a2f07ff0d287cf7c9f5df6bc1d47d4d70"
+		"logo_small"		"3eb6311a2f07ff0d287cf7c9f5df6bc1d47d4d70_thumb"
+		"icon"		"82a9d3c0178f45275622f1aa911a11b46358807c"
+		"clienticon"		"37ab5ac47c791f82451598e971d455c958c075df"
+		"clienttga"		"36cfb5cbe3103bce21a8476e27bcfeefea478cd7"
+		"releasestate"		"released"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"524390_eula_0"
+				"name"		"PCMark 10 EULA"
+				"url"		"http://store.steampowered.com//eula/524390_eula_0"
+				"version"		"1"
+			}
+		}
+		"metacritic_name"		"PCMark 10"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1560435955"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"UL"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"UL"
+			}
+		}
+		"primary_genre"		"57"
+		"genres"
+		{
+			"0"		"57"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1498148837"
+		"community_hub_visible"		"1"
+		"gameid"		"524390"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"87"
+			"1"		"5407"
+			"2"		"8013"
+		}
+		"review_score"		"5"
+		"review_percentage"		"66"
+	}
+	"extended"
+	{
+		"disableoverlay"		"1"
+		"developer"		"UL"
+		"publisher"		"UL"
+		"homepage"		"https://benchmarks.ul.com/pcmark10"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"PCMark 10"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"bin\\x64\\PCMark10.exe"
+				"workingdir"		"bin\\x64"
+				"description"		"Launch PCMark 10 (64-bit)"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"bin\\x86\\PCMark10.exe"
+				"workingdir"		"bin\\x86"
+				"description"		"Launch PCMark 10 (32-bit)"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229004"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"524391"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4919899660320041988"
+					"size"		"372188898"
+					"download"		"173394224"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"battery"
+				{
+					"gid"		"809CC9919E5B0699D52C6F54E79CA4A4"
+					"size"		"3BF8C6347562F1CD3EC0614E177EB0E7"
+					"download"		"AB9B2465C1F45E1EC8C0F2EAEAFD6579"
+				}
+				"internal_beta"
+				{
+					"gid"		"CD2B068BAD74D44D01F3347093D5E78C"
+					"size"		"FF3DB68D958D82ACDA05048F8FE53C2A"
+					"download"		"2CC8785089D86259CBCB10977AAE2DD6"
+				}
+				"system_info"
+				{
+					"gid"		"ED69B4A4D77F192262FF00CBFC1174B8"
+					"size"		"C1FCC263D915275C13F8331CCA7E8EBF"
+					"download"		"470BDD168025AB87770E72642152E1DD"
+				}
+			}
+		}
+		"524392"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6395916078637338487"
+					"size"		"3144804697"
+					"download"		"1969567440"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal_beta"
+				{
+					"gid"		"52716AFD8A6CC5F94D6EFD1A29E425F3"
+					"size"		"F623648A5BE491E5F635ABCF24408D36"
+					"download"		"3A45D10A24FD5AAC81032C6819EC7FF4"
+				}
+				"system_info"
+				{
+					"gid"		"3A3017F60B85CFB19716E7615B37F9A5"
+					"size"		"D7F5D8065DE21B27FF7DE15FE589436D"
+					"download"		"3F53CCFDF8B797B24C958FCC55FB4EBF"
+				}
+			}
+		}
+		"524393"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7601516506200311335"
+					"size"		"3347244"
+					"download"		"2830272"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal_beta"
+				{
+					"gid"		"078030FDEAEC6269A12672C3D46B9D39"
+					"size"		"80CBDB851B467D97B04EA5D30BDB8164"
+					"download"		"935C1B31E8B2FC18D36B3747E7D892B8"
+				}
+				"system_info"
+				{
+					"gid"		"2DA5592E1E1C18362AF3752CAD457E48"
+					"size"		"49CE954F89FC499A4824733E08CFF036"
+					"download"		"A4A9BC243616BE60A5B73237C97BEF4C"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12169826"
+				"timeupdated"		"1694601450"
+			}
+			"battery"
+			{
+				"buildid"		"3497521"
+				"pwdrequired"		"1"
+				"timeupdated"		"1548336105"
+			}
+			"internal_beta"
+			{
+				"buildid"		"11772368"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690193310"
+			}
+			"system_info"
+			{
+				"buildid"		"12169826"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694529842"
+			}
+		}
+	}
+}
