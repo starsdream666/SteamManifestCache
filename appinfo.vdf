@@ -1,0 +1,195 @@
+"appinfo"
+{
+	"appid"		"289440"
+	"common"
+	{
+		"name"		"Perimeter"
+		"type"		"Game"
+		"releasestate"		"released"
+		"clienticon"		"6677e9131c4ffafa3cb90aefc34f0b024c4e4b85"
+		"clienttga"		"b666c0baff0cedc5041464909c65c3193b1467b0"
+		"icon"		"d9b05c8511fdaa4500e6678d9caac5475996566f"
+		"oslist"		"windows"
+		"logo"		"31da6715149b4edcf59c143bdd7d0737041d2027"
+		"logo_small"		"31da6715149b4edcf59c143bdd7d0737041d2027_thumb"
+		"metacritic_name"		"Perimeter"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+		}
+		"store_asset_mtime"		"1673964895"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"K-D Lab"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Fulqrum Publishing"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Fulqrum"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_23"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"original_release_date"		"1085122800"
+		"steam_release_date"		"1396541288"
+		"metacritic_score"		"77"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/perimeter?ftag=MCD-06-10aaa1f"
+		"community_hub_visible"		"1"
+		"gameid"		"289440"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"1676"
+			"2"		"1693"
+			"3"		"3942"
+			"4"		"1755"
+			"5"		"4166"
+		}
+		"review_score"		"8"
+		"review_percentage"		"84"
+	}
+	"extended"
+	{
+		"developer"		"K-D Lab"
+		"publisher"		"Fulqrum Publishing"
+		"gamemanualurl"		"https://store.steampowered.com/manual/289440/"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Perimeter"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Perimeter.exe"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Config.exe"
+				"description"		"Configuration"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"289441"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5369832869517014949"
+					"size"		"3311019947"
+					"download"		"0"
+				}
+			}
+		}
+		"289442"
+		{
+			"config"
+			{
+				"language"		"russian"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4699500075739677876"
+					"size"		"100304967"
+					"download"		"0"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"260837"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"314572800"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"Resource\\Saves"
+				"pattern"		"*.*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
