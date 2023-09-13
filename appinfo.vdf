@@ -1,0 +1,176 @@
+"appinfo"
+{
+	"appid"		"373600"
+	"common"
+	{
+		"name"		"Weapon of Choice"
+		"type"		"Game"
+		"oslist"		"windows"
+		"clienticon"		"3b97aa24968a5f9de838e17f803c45941586c147"
+		"clienttga"		"34a345efca0bbfc85a6698c5f906a89c677ebbf4"
+		"icon"		"16928dc115d57b622669c96a4d666a47f3023e7a"
+		"logo"		"cb7f1e5f8427464decaf996cda5d5320d1211485"
+		"logo_small"		"cb7f1e5f8427464decaf996cda5d5320d1211485_thumb"
+		"releasestate"		"released"
+		"metacritic_name"		"Weapon of Choice"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+		}
+		"store_asset_mtime"		"1572554840"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Mommy's Best Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Mommy's Best Games"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Mommy's Best Games"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_28"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1443013671"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"373600"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"4255"
+			"2"		"3798"
+			"3"		"4004"
+			"4"		"1625"
+			"5"		"6815"
+			"6"		"1673"
+			"7"		"6971"
+			"8"		"3871"
+			"9"		"1773"
+			"10"		"492"
+			"11"		"3942"
+			"12"		"7481"
+			"13"		"4182"
+			"14"		"1774"
+			"15"		"5379"
+			"16"		"4252"
+			"17"		"7432"
+			"18"		"7208"
+			"19"		"7948"
+		}
+		"review_score"		"8"
+		"review_percentage"		"86"
+	}
+	"extended"
+	{
+		"developer"		"Mommy's Best Games"
+		"publisher"		"Mommy's Best Games"
+		"homepage"		"http://www.mommysbestgames.com/weaponofchoice.html"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Weapon of Choice"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"WoCGame.exe"
+				"description"		"Launch"
+			}
+		}
+	}
+	"depots"
+	{
+		"229002"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229012"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"373601"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1213000267535858905"
+					"size"		"217216601"
+					"download"		"93951920"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1227875"
+				"timeupdated"		"1468512199"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"5000"
+		"maxnumfiles"		"1"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"WeaponOfChoice"
+				"pattern"		"*.*"
+			}
+		}
+	}
+}
