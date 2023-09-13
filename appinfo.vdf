@@ -1,0 +1,238 @@
+"appinfo"
+{
+	"appid"		"407050"
+	"common"
+	{
+		"name"		"Mussoumano: Ataque dos Haters"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"clienticon"		"a85113e6f0799a5bf45fdad9897a6eaa9f314eb4"
+		"clienttga"		"0cffabc648778bd82aaf3b5637edd0991ff556a8"
+		"icon"		"60d49ddc893fa84b3ff02ebbbe27d0c3bafd3bab"
+		"logo"		"bfbaa76c0ffaf822d3862fea1051b26a0cacbe70"
+		"logo_small"		"bfbaa76c0ffaf822d3862fea1051b26a0cacbe70_thumb"
+		"metacritic_name"		"Mussoumano: Ataque dos Haters"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"54.318394085801565"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1622816512"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Maqna Interactive Ltda"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Maqna Interactive Ltda"
+			}
+		}
+		"primary_genre"		"70"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"brazilian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1523329885"
+		"community_hub_visible"		"1"
+		"gameid"		"407050"
+		"store_tags"
+		{
+			"0"		"4975"
+			"1"		"1625"
+			"2"		"5395"
+			"3"		"3798"
+			"4"		"6691"
+			"5"		"7250"
+			"6"		"4136"
+			"7"		"14720"
+			"8"		"4191"
+			"9"		"4004"
+			"10"		"7481"
+			"11"		"4106"
+			"12"		"493"
+			"13"		"5379"
+			"14"		"1719"
+			"15"		"4182"
+			"16"		"10397"
+			"17"		"21"
+			"18"		"1775"
+			"19"		"1742"
+		}
+		"review_score"		"6"
+		"review_percentage"		"71"
+	}
+	"extended"
+	{
+		"developer"		"Maqna Interactive Ltda"
+		"publisher"		"Maqna Interactive Ltda"
+		"homepage"		"http://games.maqna.com.br/mussoumano-ataque-dos-haters/"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Mussoumano Ataque dos Haters"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Mussoumano_A_d_H.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,brazilian"
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"407051"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6261340860140867500"
+					"size"		"1782340542"
+					"download"		"648162704"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"interno"
+				{
+					"gid"		"58D825B3EF214890AC5881965919BBF4"
+					"size"		"0C292A1530299291F14F64B99FCA2F4C"
+					"download"		"69EE7F13912403C72C32776EB8F75197"
+				}
+			}
+		}
+		"407052"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1971219940265454511"
+					"size"		"1744169183"
+					"download"		"625119152"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"interno"
+				{
+					"gid"		"7E0FD24B70EEB4B6EB26CEF47B74F1E7"
+					"size"		"8063D68128C8605914AAFB37536A996A"
+					"download"		"DA81E8A178557B2D4A3BA3583E9735D0"
+				}
+			}
+		}
+		"407053"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"interno"
+				{
+					"gid"		"12C3BCB3AD8FA35FD5185253B47A68C1"
+					"size"		"649EF99C23A7EB62759143BE3042EBD8"
+					"download"		"4DFBA3E342847B1E58F7081F4699D570"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12135268"
+				"timeupdated"		"1694119369"
+			}
+			"interno"
+			{
+				"buildid"		"8943263"
+				"pwdrequired"		"1"
+				"timeupdated"		"1655312879"
+			}
+		}
+	}
+}
