@@ -1,0 +1,954 @@
+"appinfo"
+{
+	"appid"		"274900"
+	"common"
+	{
+		"name"		"Murder Miners"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"logo"		"922d51756e33529ada722cf1c5b618445d93177c"
+		"logo_small"		"922d51756e33529ada722cf1c5b618445d93177c_thumb"
+		"clienticon"		"ac5f6e01fa982da9dedd1b06edfc57e28a525900"
+		"clienttga"		"1b1a5c4cbfcbea8493453a6571cc28a4486828b2"
+		"icon"		"0ba9a54e98ca963a8cabee36325f873f0b164c62"
+		"clienticns"		"8ac930cb858296c822716314db2dedd60322fb57"
+		"linuxclienticon"		"f3fe6980f60cf786e250ecefe7189e90bd9bcc71"
+		"osarch"		""
+		"osextended"		"macos64"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1668556800"
+			"tested_build_id"		"9899339"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Murder Miners"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"53.38389731621933"
+				"height_pct"		"72.79743528853001"
+			}
+		}
+		"store_asset_mtime"		"1666993954"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"JForce Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"JForce Games"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+			"category_17"		"1"
+			"category_30"		"1"
+			"category_27"		"1"
+			"category_36"		"1"
+			"category_38"		"1"
+			"category_9"		"1"
+			"category_29"		"1"
+			"category_37"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_49"		"1"
+			"category_44"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1406307821"
+		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"274900"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"1732"
+			"2"		"5547"
+			"3"		"1659"
+			"4"		"4840"
+			"5"		"8122"
+			"6"		"7368"
+			"7"		"10816"
+			"8"		"176981"
+			"9"		"1663"
+			"10"		"1774"
+			"11"		"3859"
+			"12"		"3839"
+			"13"		"7481"
+			"14"		"3878"
+			"15"		"1775"
+			"16"		"1685"
+			"17"		"1643"
+			"18"		"3810"
+			"19"		"19"
+		}
+		"review_score"		"8"
+		"review_percentage"		"86"
+	}
+	"extended"
+	{
+		"absolutemousecoordinates"		"0"
+		"remoteplaytogethertestingbranches"		"default,anniversary_atest2,beta,dev,egghunt,eventtester,fnax64,linux32,private,privatetester,supporter,tester,uncapped_fps"
+		"developer"		"JForce Games"
+		"publisher"		"JForce Games"
+		"listofdlc"		"1021280"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"MurderMiners"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Murder Miners.exe"
+				"description"		"Launch"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"./MurderMiners"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"2"
+			{
+				"executable"		"Murder Miners.app"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigdetails"
+		{
+			"2869296776"
+			{
+				"controller_type"		"controller_xboxone"
+				"enabled_branches"		"default,anniversary_atest2,beta,classic_2015,classic_xbox360,dev,easter2020,egghunt,eventtester,fnax64,hlwevent,linux32,private,privatetester,supporter,tester,uncapped_fps,update29"
+				"use_action_block"		"false"
+			}
+			"2869310309"
+			{
+				"controller_type"		"controller_switch_pro"
+				"enabled_branches"		"default,anniversary_atest2,beta,classic_2015,classic_xbox360,dev,easter2020,egghunt,eventtester,fnax64,hlwevent,linux32,private,privatetester,supporter,tester,uncapped_fps,update29"
+				"use_action_block"		"false"
+			}
+			"2869316290"
+			{
+				"controller_type"		"controller_ps4"
+				"enabled_branches"		"default,anniversary_atest2,beta,classic_2015,classic_xbox360,dev,easter2020,egghunt,eventtester,fnax64,hlwevent,linux32,private,privatetester,supporter,tester,uncapped_fps,update29"
+				"use_action_block"		"false"
+			}
+			"2869322680"
+			{
+				"controller_type"		"controller_steamcontroller_gordon"
+				"enabled_branches"		"default,anniversary_atest2,beta,classic_2015,classic_xbox360,dev,easter2020,egghunt,eventtester,fnax64,hlwevent,linux32,private,privatetester,supporter,tester,uncapped_fps,update29"
+				"use_action_block"		"false"
+			}
+			"2869326276"
+			{
+				"controller_type"		"controller_neptune"
+				"enabled_branches"		"default,anniversary_atest2,beta,classic_2015,classic_xbox360,dev,easter2020,egghunt,eventtester,fnax64,hlwevent,linux32,private,privatetester,supporter,tester,uncapped_fps,update29"
+				"use_action_block"		"false"
+			}
+		}
+		"steamdecktouchscreen"		"5"
+		"steamconfigurator3rdpartynative"		"65535"
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"markdlcdepots"		"1"
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229002"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229012"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"274901"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7595303319731247282"
+					"size"		"463960697"
+					"download"		"268387232"
+				}
+				"anniversary_atest2"
+				{
+					"gid"		"8048030100574624351"
+					"size"		"35512898"
+					"download"		"7036048"
+				}
+				"beta"
+				{
+					"gid"		"4848902527754857560"
+					"size"		"455222059"
+					"download"		"206525040"
+				}
+				"classic_xbox360"
+				{
+					"gid"		"4704430753368039554"
+					"size"		"94368894"
+					"download"		"39914416"
+				}
+				"egghunt"
+				{
+					"gid"		"626448641272506025"
+					"size"		"338926757"
+					"download"		"161034800"
+				}
+				"fnatesting"
+				{
+					"gid"		"5841476104715999790"
+					"size"		"555253525"
+					"download"		"299788528"
+				}
+				"update40-beta"
+				{
+					"gid"		"2132943377121465298"
+					"size"		"435410288"
+					"download"		"243839600"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev"
+				{
+					"gid"		"390C75B66EDCB5073F12187E20FB456D"
+					"size"		"B61FC2C4E4A2E11E621FCCBC25B50529"
+					"download"		"8048A689DD48D9CAED6A19133B0E0276"
+				}
+				"easter2020"
+				{
+					"gid"		"742E70E770C931BF2B3176A97C176AB0"
+					"size"		"94F2FE9CF5A5ED3C4D994DCC4332A8A6"
+					"download"		"CD705B1C5F466D141E584C2C2E375219"
+				}
+				"eventtester"
+				{
+					"gid"		"ADAB6AF6A444F9C461CFDB818F12FC9D"
+					"size"		"4531B9D2ADF0D6E13CBB7152069748D9"
+					"download"		"2A9DE12419487826515996AD865E5558"
+				}
+				"fnax64"
+				{
+					"gid"		"73ABD78F390C238614C1A88539ED21A2"
+					"size"		"CB4E787E49016598F843E370DD159020"
+					"download"		"B83CD181DEAE6A2BBD99BAD01149AB11"
+				}
+				"hlwevent"
+				{
+					"gid"		"0EC9A7500A1338DA951E28E76D57E357"
+					"size"		"792EB2E7AB66A7AB452452D7ADAF3814"
+					"download"		"EBB123DEC89026ACB634B25A49D5B4AE"
+				}
+				"linux32"
+				{
+					"gid"		"E5BA116A89AA84A1A41CA4B696B58F88"
+					"size"		"97D9121BE4F253C69079EAF1764A3ED4"
+					"download"		"1C0BAA5B27DC43A8911E425B6287E773"
+				}
+				"private"
+				{
+					"gid"		"7C2F3065DA1A22DDF3F6FEC770B69506"
+					"size"		"316B510D1D0463EBB07374847AF1E556"
+					"download"		"123D1D54A208A9299A7C759669EB118A"
+				}
+				"privatetester"
+				{
+					"gid"		"1C2256DAC6D41C0E91367A7A6DA96039"
+					"size"		"61D7985353570A893BA0264BDB5E20A7"
+					"download"		"EE9AC842FF052F768703DAFF80F72A00"
+				}
+				"supporter"
+				{
+					"gid"		"584BC0BB653884E8B17FD760A61A1305"
+					"size"		"F2E9A75C89070B3B45A2E4B80337D492"
+					"download"		"C7786AFD9AD903FF989BBED286F19442"
+				}
+				"supporter_fna"
+				{
+					"gid"		"F282877821B39862DA90E33A732CD6F4"
+					"size"		"4BEC1B6C1FCA4FE644E33492A243EB63"
+					"download"		"D0BAE22D4A00229163D45767CD0DAA15"
+				}
+				"tester"
+				{
+					"gid"		"1D74BC8F1C3C9263069D02EE1BFE4F2F"
+					"size"		"B35DBBBC9564A647B0A0F3BD374FD032"
+					"download"		"15C5D6262CF42C171538E3CC3E7070BB"
+				}
+				"uncapped_fps"
+				{
+					"gid"		"A05C25C967ECF14F486565F35CB701A4"
+					"size"		"C096CD83D70BCA63AF0FE52AC38BA1D4"
+					"download"		"47EBEE9663E1559E8560D4E8A2720277"
+				}
+				"update29"
+				{
+					"gid"		"B07537DABEFF1253DA8C3C6ACBAE80FC"
+					"size"		"37C9DF869F7B691F11BE9583E30F793F"
+					"download"		"806AA59CBEDEE36B392356A145472DDF"
+				}
+			}
+		}
+		"274902"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2112489397776413101"
+					"size"		"557008764"
+					"download"		"300807584"
+				}
+				"anniversary_atest2"
+				{
+					"gid"		"8165103300551168687"
+					"size"		"413934395"
+					"download"		"187908496"
+				}
+				"beta"
+				{
+					"gid"		"1069395663217250831"
+					"size"		"450605457"
+					"download"		"203510560"
+				}
+				"classic_xbox360"
+				{
+					"gid"		"5277539126956248024"
+					"size"		"437065992"
+					"download"		"190490384"
+				}
+				"egghunt"
+				{
+					"gid"		"5932270581273574566"
+					"size"		"460029145"
+					"download"		"213588640"
+				}
+				"fnatesting"
+				{
+					"gid"		"1632548085478728658"
+					"size"		"552109287"
+					"download"		"298325120"
+				}
+				"update40-beta"
+				{
+					"gid"		"8388573115673656194"
+					"size"		"1038325590"
+					"download"		"441589328"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev"
+				{
+					"gid"		"46E9FF2963E941E0DAA3234839639980"
+					"size"		"BC8FA05AC97DC4383DE3337242EAB30B"
+					"download"		"A48003254D3EAD2E417A73A8034834E9"
+				}
+				"easter2020"
+				{
+					"gid"		"BFD62F1A34D7951E945D830A2911695D"
+					"size"		"6595C4B8C3108C02A33229C6A6C2D505"
+					"download"		"A87804847D2057EC1235E39744472377"
+				}
+				"eventtester"
+				{
+					"gid"		"D64B57296D8F10EC4E6A00E4D4DCCA0C"
+					"size"		"513E99EF90B1F7D15C08EE26A2D23515"
+					"download"		"8E9B40915F32DB7FB8F0E05854943F59"
+				}
+				"fnax64"
+				{
+					"gid"		"391B548DE7E782C9D4277777E748337A"
+					"size"		"52170B2C29C683DC4072AC79B0C6EE1A"
+					"download"		"B0D566AA1EFEF2398D52B4700B856FC0"
+				}
+				"hlwevent"
+				{
+					"gid"		"00C87003A6963F55C85D0FBE5320CA0B"
+					"size"		"35583A518714C4E3D022DDF2CA5A9CEA"
+					"download"		"6109C3A8942E44DEA2D4C02B49E6FE06"
+				}
+				"linux32"
+				{
+					"gid"		"97618EF54472922568341C0F4592CF7C"
+					"size"		"5AD57D0C14EE8C27AB5E22E2C336DAB4"
+					"download"		"F7E5A85871700D99A0D645FC0BEC28B2"
+				}
+				"private"
+				{
+					"gid"		"C1582C41007032EA28E7706B671CA047"
+					"size"		"D9C9610FE0E9ED3D780022F8B9754C76"
+					"download"		"B14A0862E7FB823A82AB265A34F61AFA"
+				}
+				"privatetester"
+				{
+					"gid"		"7CBE06000EB3BC42412D79CCCC88FB54"
+					"size"		"2E98BD809114A3DEEE0723C54DADFE93"
+					"download"		"9C9AF88CE9F5723BD1E6B4EE3A953ED0"
+				}
+				"supporter"
+				{
+					"gid"		"1CCC416D6031E2F68125AB594DCFBDFB"
+					"size"		"A45B559D0507AC7CF07A0D52A7EF671B"
+					"download"		"EA72C9AE7F971654940DED101459F3EC"
+				}
+				"supporter_fna"
+				{
+					"gid"		"35D20690510DD8DBF4A8C47F403404ED"
+					"size"		"3CC7EDEFB9D0A6F4A0D32E9638FD79A8"
+					"download"		"37C8D9CAE3F8B920A2DC57DB8ED59C15"
+				}
+				"tester"
+				{
+					"gid"		"475148E6589AB976B2FCF223836CF336"
+					"size"		"25C6F1D4AFA514F6283B4EEFC798FB39"
+					"download"		"2B43E83DB82E803A7B473D4B341A72EE"
+				}
+				"uncapped_fps"
+				{
+					"gid"		"8338886F7CD93D086C70D0FE489D6CC9"
+					"size"		"505778619C83EF6941F33B98A4CA41C8"
+					"download"		"C6E3CEEF24F73C79B285095CB7C3CBAB"
+				}
+				"update29"
+				{
+					"gid"		"1059ECFB855875B61124F9779DC48041"
+					"size"		"AE60E2DF355BD48560D985C59CA9E997"
+					"download"		"2674C12377D889B80321B9124E12DD1F"
+				}
+			}
+		}
+		"274903"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5192067450058131733"
+					"size"		"591886625"
+					"download"		"310645904"
+				}
+				"anniversary_atest2"
+				{
+					"gid"		"3317501715274526280"
+					"size"		"437658906"
+					"download"		"194726352"
+				}
+				"beta"
+				{
+					"gid"		"1099868855332437265"
+					"size"		"479352532"
+					"download"		"211613776"
+				}
+				"classic_xbox360"
+				{
+					"gid"		"6924338018689182215"
+					"size"		"460790503"
+					"download"		"197308240"
+				}
+				"egghunt"
+				{
+					"gid"		"4645859308252203954"
+					"size"		"488776220"
+					"download"		"221691856"
+				}
+				"fnatesting"
+				{
+					"gid"		"2091276126979660087"
+					"size"		"586986883"
+					"download"		"308163216"
+				}
+				"update40-beta"
+				{
+					"gid"		"497694471308318049"
+					"size"		"841742940"
+					"download"		"448925680"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev"
+				{
+					"gid"		"EDAFC18E6EEAA3221D4A3361226ECD8F"
+					"size"		"4BD9179214CF08C83ABB7FA7AB0DEB5C"
+					"download"		"64270DFDC87D5DA8EE8543D6AA148924"
+				}
+				"easter2020"
+				{
+					"gid"		"B3E429BF9931B946830EE7137CD5F057"
+					"size"		"86F267220DB5E8840E4AB5EF29E173C4"
+					"download"		"16C5E8EC5EB04D24A634C4DB304EA30A"
+				}
+				"eventtester"
+				{
+					"gid"		"AAF8F172B01F686828A39ED3C45CC61D"
+					"size"		"770EECB3583791FD835C3716F58BAF41"
+					"download"		"05F0C1DAFEE03257B992E695D2DC63EF"
+				}
+				"fnax64"
+				{
+					"gid"		"A3C8E77E451AA8BA37B4DC9199AE36C9"
+					"size"		"9E13BA2C750FEF8D84812CE7CC852C50"
+					"download"		"D72118610E1FC55FF1FD79EE48D0A4D2"
+				}
+				"hlwevent"
+				{
+					"gid"		"FF14D53025843F0692B3B2A5EF0FCF07"
+					"size"		"AE5DBF93BCD45FDF391880BFDF44A71C"
+					"download"		"7A298BA01B69417AD9E3060D55208DB2"
+				}
+				"linux32"
+				{
+					"gid"		"5154B039E677A404B59B1C76227B4C77"
+					"size"		"AB8B1C043F0AB931EE726ED41E841005"
+					"download"		"DB7E5F6204FE0A71111579AD499A569F"
+				}
+				"private"
+				{
+					"gid"		"E94FDFE7903FA269FEE0D7663B7D297F"
+					"size"		"1EC8C5665310ADCB3019EF85D22E4003"
+					"download"		"404661F6D064A8B8165E4D865542A8F4"
+				}
+				"privatetester"
+				{
+					"gid"		"EA856544C6BA61A0D9770B696748CEA4"
+					"size"		"105060ADEA626015F8B9808EC5009187"
+					"download"		"C4C5B3B7742022F0780DC77F95CFF7F8"
+				}
+				"supporter"
+				{
+					"gid"		"DAEF76998660FE88D79F57367E6F1632"
+					"size"		"E023A5DA127493E9666384C6F28D1418"
+					"download"		"384DDDC28B3E3E6795D025407311A181"
+				}
+				"supporter_fna"
+				{
+					"gid"		"A51C9F27C972D07D3222EB26E62FFA57"
+					"size"		"605C27ECD0CD8E5B217980CC2B1F01AB"
+					"download"		"95F16399758032949BE4EBEDA24C04C9"
+				}
+				"tester"
+				{
+					"gid"		"3013C5B5488D1095D21722032ED1F98C"
+					"size"		"D52A73BDF9DF93DFDF27351664C69DCA"
+					"download"		"2799C79E3DF7FCD51C7586853D40D7E4"
+				}
+				"uncapped_fps"
+				{
+					"gid"		"F6709B564581D34B336150A15FD0353C"
+					"size"		"93AB88D17D18CC9F97A5CA8B501D01B2"
+					"download"		"BE58D387C42C6EBAFBCDDB52D4D135A3"
+				}
+				"update29"
+				{
+					"gid"		"A0182BF909293EF277309AA84C06B9B5"
+					"size"		"ECBB268CCC143801F48EA140FD62A640"
+					"download"		"653AF1D138AFE0E4B2552894D7469E86"
+				}
+			}
+		}
+		"workshopdepot"		"274900"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12152392"
+				"timeupdated"		"1694329170"
+			}
+			"anniversary_atest2"
+			{
+				"buildid"		"9486305"
+				"description"		"Alpha Test 2 for 9th Anniversary"
+				"timeupdated"		"1662743200"
+			}
+			"beta"
+			{
+				"buildid"		"10613014"
+				"timeupdated"		"1677089704"
+			}
+			"classic_xbox360"
+			{
+				"buildid"		"9484785"
+				"description"		"Update 19, PC equivalent of the final Xbox 360 version."
+				"timeupdated"		"1662728676"
+			}
+			"dev"
+			{
+				"buildid"		"6282055"
+				"pwdrequired"		"1"
+				"timeupdated"		"1614095035"
+			}
+			"easter2020"
+			{
+				"buildid"		"6251436"
+				"pwdrequired"		"1"
+				"timeupdated"		"1613550376"
+			}
+			"egghunt"
+			{
+				"buildid"		"10961357"
+				"description"		"Egg Hunt and Trick or Treat Events."
+				"timeupdated"		"1680965631"
+			}
+			"eventtester"
+			{
+				"buildid"		"7455107"
+				"pwdrequired"		"1"
+				"timeupdated"		"1633023275"
+			}
+			"fnatesting"
+			{
+				"buildid"		"11146946"
+				"description"		"FNA Windows Build for Testing."
+				"timeupdated"		"1683126667"
+			}
+			"fnax64"
+			{
+				"buildid"		"5814298"
+				"pwdrequired"		"1"
+				"timeupdated"		"1605084907"
+			}
+			"hlwevent"
+			{
+				"buildid"		"5814699"
+				"pwdrequired"		"1"
+				"timeupdated"		"1605090755"
+			}
+			"linux32"
+			{
+				"buildid"		"4409375"
+				"pwdrequired"		"1"
+				"timeupdated"		"1581008212"
+			}
+			"private"
+			{
+				"buildid"		"5236606"
+				"pwdrequired"		"1"
+				"timeupdated"		"1593582506"
+			}
+			"privatetester"
+			{
+				"buildid"		"8863268"
+				"pwdrequired"		"1"
+				"timeupdated"		"1654218247"
+			}
+			"supporter"
+			{
+				"buildid"		"11335752"
+				"pwdrequired"		"1"
+				"timeupdated"		"1685252511"
+			}
+			"supporter_fna"
+			{
+				"buildid"		"11126139"
+				"pwdrequired"		"1"
+				"timeupdated"		"1682870749"
+			}
+			"tester"
+			{
+				"buildid"		"6363179"
+				"pwdrequired"		"1"
+				"timeupdated"		"1615439945"
+			}
+			"uncapped_fps"
+			{
+				"buildid"		"8786432"
+				"pwdrequired"		"1"
+				"timeupdated"		"1653189055"
+			}
+			"update29"
+			{
+				"buildid"		"6053959"
+				"pwdrequired"		"1"
+				"timeupdated"		"1610089127"
+			}
+			"update40-beta"
+			{
+				"buildid"		"12152079"
+				"description"		"Update 40 Public Beta Build"
+				"timeupdated"		"1694319026"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"180000000"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"SavedGames/Murder Miners/MurderMinersSaveData/Player1"
+				"pattern"		"[SteamCloud]*.cvxl"
+			}
+			"1"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"SavedGames/Murder Miners/MurderMinersAnniversarySaveData/Player1"
+				"pattern"		"*.cvxl"
+			}
+			"2"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"SavedGames/Murder Miners/MurderMinersClassicSaveData/Player1"
+				"pattern"		"[SteamCloud]*.cvxl"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinMyDocuments"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxXdgDataHome"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"SavedGames/Murder Miners/MurderMinersSaveData/Player1"
+						"replace"		"MurderMiners/MurderMinersSaveData/Player1"
+					}
+				}
+			}
+			"1"
+			{
+				"root"		"WinMyDocuments"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"SavedGames/Murder Miners/MurderMinersSaveData/Player1"
+						"replace"		"MurderMiners/MurderMinersSaveData/Player1"
+					}
+				}
+			}
+			"2"
+			{
+				"root"		"WinMyDocuments"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxXdgDataHome"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"SavedGames/Murder Miners/MurderMinersSaveData/Player1"
+						"replace"		"MurderMiners/MurderMinersAnniversarySaveData/Player1"
+					}
+				}
+			}
+			"3"
+			{
+				"root"		"WinMyDocuments"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"SavedGames/Murder Miners/MurderMinersSaveData/Player1"
+						"replace"		"MurderMiners/MurderMinersAnniversarySaveData/Player1"
+					}
+				}
+			}
+			"4"
+			{
+				"root"		"WinMyDocuments"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxXdgDataHome"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"SavedGames/Murder Miners/MurderMinersSaveData/Player1"
+						"replace"		"MurderMiners/MurderMinersClassicSaveData/Player1"
+					}
+				}
+			}
+			"5"
+			{
+				"root"		"WinMyDocuments"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"SavedGames/Murder Miners/MurderMinersSaveData/Player1"
+						"replace"		"MurderMiners/MurderMinersClassicSaveData/Player1"
+					}
+				}
+			}
+		}
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#statuswithoutscore"		"{#Status_%status%}"
+					"#statuswithscore"		"{#Status_%status%}: %SCORE%"
+					"#status_atmainmenu"		"At the main menu"
+					"#status_waitingformatch"		"Waiting for match"
+					"#status_winning"		"Winning"
+					"#status_losing"		"Losing"
+					"#status_tied"		"Tied"
+					"#status_gamestatus"		"{%status%}"
+					"#status_murder_match"		"Murder Match"
+					"#status_murder_royale"		"Murder Royale"
+					"#status_team_murder_match"		"Team Murder Match"
+					"#status_murder_the_flag"		"Murder The Flag"
+					"#status_infection"		"Infection"
+					"#status_zombienaut"		"Zombienaut"
+					"#status_map_making"		"Map Making"
+					"#status_free_build"		"Free Build"
+					"#status_parkour"		"Parkour"
+					"#status_gamenight"		"Gamenight"
+					"#status_configuring_settings"		"Configuring Settings"
+					"#status_customizing_player"		"Customizing Player"
+					"#status_in_game_store"		"In Game Store"
+					"#status_editing_level"		"Editing Level"
+					"#status_customizing_armor"		"Customizing Armor"
+					"#status_looking_at_stats"		"Looking At Stats"
+					"#status_in_combat"		"In Combat"
+				}
+			}
+		}
+	}
+}
