@@ -1,0 +1,403 @@
+"appinfo"
+{
+	"appid"		"234530"
+	"common"
+	{
+		"name"		"War of the Vikings"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"logo"		"4748adf053ae2f7c599ec43cfe8de2232ab5ca18"
+		"logo_small"		"4748adf053ae2f7c599ec43cfe8de2232ab5ca18_thumb"
+		"icon"		"60ec59c4af96981b3c8f092f67fcf6c814020552"
+		"clienttga"		"ad5f57f23979c2c49b7422c2a8d65e7d23d227b8"
+		"clienticon"		"2968bfb655307a3a310221366c465bd0afef5481"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"234530_eula_0"
+				"name"		"War of the Vikings EULA"
+				"url"		"https://store.steampowered.com//eula/234530_eula_0"
+				"version"		"1"
+			}
+		}
+		"metacritic_name"		"War of the Vikings"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1397723132"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Fatshark"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Paradox Interactive"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_23"		"1"
+			"category_29"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"original_release_date"		"1397545200"
+		"steam_release_date"		"1397619060"
+		"metacritic_score"		"62"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/war-of-the-vikings?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"234530"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"3859"
+			"2"		"4172"
+			"3"		"11634"
+			"4"		"4608"
+			"5"		"1697"
+			"6"		"3987"
+			"7"		"1775"
+			"8"		"4345"
+			"9"		"122"
+			"10"		"21"
+			"11"		"599"
+		}
+		"review_score"		"5"
+		"review_percentage"		"57"
+	}
+	"extended"
+	{
+		"checkpkgstate"		"1"
+		"developer"		"Fatshark"
+		"gamedir"		"ValveTestApp234530"
+		"homepage"		"http://www.warofthevikings.com"
+		"icon"		""
+		"noservers"		"0"
+		"sourcegame"		"1"
+		"state"		"eStateComingSoonNoPreload"
+		"legacykeyregistrylocation"		"HKEY_CURRENT_USER\\Software\\Valve\\TestApp234530\\SteamKey"
+		"legacykeyregistrationmethod"		"registry"
+		"supportscdkeycopytoclipboard"		"1"
+		"showcdkeyonlaunch"		"1"
+		"publisher"		"Paradox Interactive"
+		"listofdlc"		"258450,259270,259271,267620,281980,281981,287670,287671,287672,287673,292950,292951,300140"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"War of the Vikings"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"run_game.exe"
+				"arguments"		"start.exe wotv.exe -bundle-dir bundle -eac -force-paradox-os"
+			}
+		}
+	}
+	"depots"
+	{
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229002"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"overridescddb"		"1"
+		"markdlcdepots"		"1"
+		"baselanguages"		"english,german,french,russian"
+		"234531"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8874803603291241517"
+					"size"		"8055523812"
+					"download"		"7939145904"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"supernetwork"
+				{
+					"gid"		"EF2F612294C7AD238787280137A64888"
+					"size"		"D48C45C8272803BA8D00CB0A3B0519D7"
+					"download"		"07509255AAFB494445D4D0165B3BF40B"
+				}
+				"test"
+				{
+					"gid"		"E5561EDF31C6C82D1D5A52A8B8894104"
+					"size"		"5CA76386A7054A586BB205B0FA58373A"
+					"download"		"46C551240AAD41888308583A939705AE"
+				}
+			}
+		}
+		"258450"
+		{
+			"dlcappid"		"258450"
+		}
+		"259270"
+		{
+			"dlcappid"		"259270"
+		}
+		"259271"
+		{
+			"dlcappid"		"259271"
+		}
+		"287670"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4736927210596086299"
+					"size"		"72823782"
+					"download"		"71836208"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"supernetwork"
+				{
+					"gid"		"03312A2729046D5ADC25910D36EE24B8"
+					"size"		"33311904DE106F69C03B17B3330E381F"
+					"download"		"7E7B74783F223B42F1E31AB7E4EC8B5F"
+				}
+				"test"
+				{
+					"gid"		"9AF731EE5651B8FA76CEC936B7C190C5"
+					"size"		"0CCF5CC7D5F13BDF91AD0FBA7DE04BB7"
+					"download"		"6CAE3AE7E101844808563978EBD4D6AF"
+				}
+			}
+			"dlcappid"		"287670"
+		}
+		"287671"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7478121700679305014"
+					"size"		"115581360"
+					"download"		"113516480"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"supernetwork"
+				{
+					"gid"		"3A04066097C66788D448CD692B7F3E55"
+					"size"		"84DF62BD86DEA10CB40CC27623F68BF6"
+					"download"		"8A602A9A74979AB9A3A30095FE2385D2"
+				}
+				"test"
+				{
+					"gid"		"146E3BC033C27C07AA24F7EA10770744"
+					"size"		"67AE9451857497A5526BA23846EBAA72"
+					"download"		"AE44ADF1CCAA756FCC1F074092D092AF"
+				}
+			}
+			"dlcappid"		"287671"
+		}
+		"287672"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5696078442822029014"
+					"size"		"85898523"
+					"download"		"72847792"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"supernetwork"
+				{
+					"gid"		"09E043232A14491BD9EF28A2DDD7F693"
+					"size"		"D196DB063C79D98C6615ECECEF7923E7"
+					"download"		"3E37AB9CBFC1FEA6854C62E55801A6E9"
+				}
+				"test"
+				{
+					"gid"		"9CB206D35CABB20027FB56572BBDEE57"
+					"size"		"0089E5F37A1EC1E3DF201350E772F25A"
+					"download"		"554E94E7A0484AFF638E0EF510041438"
+				}
+			}
+			"dlcappid"		"287672"
+		}
+		"287673"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3394875671448388788"
+					"size"		"37804197"
+					"download"		"37232368"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"supernetwork"
+				{
+					"gid"		"498BF056B7DB6B4AC1B3337E945D93CB"
+					"size"		"6164AB94F94FD90FF3DBDE3D6259E277"
+					"download"		"A447333840537A321247C19784BBEDE4"
+				}
+				"test"
+				{
+					"gid"		"1954F30B80295BE9B45B29F71E275DA5"
+					"size"		"212DFE1E9781E2632CF05D0DA36A400F"
+					"download"		"785B5E55539C498974BE6453EA7FB005"
+				}
+			}
+			"dlcappid"		"287673"
+		}
+		"281980"
+		{
+			"dlcappid"		"281980"
+		}
+		"281981"
+		{
+			"dlcappid"		"281981"
+		}
+		"292950"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2747350257155976544"
+					"size"		"7535144"
+					"download"		"7135776"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"supernetwork"
+				{
+					"gid"		"A2757578918F134966F82333D5A2AB84"
+					"size"		"E8E73361B231627A0670A08149019BA1"
+					"download"		"29A0E4399FB5C50F0CCEC360C8C806E0"
+				}
+				"test"
+				{
+					"gid"		"2AB86AFB556932F150EA9D7CAA982D6D"
+					"size"		"4419CF853A72E4EE7C79DC7768D60728"
+					"download"		"5B5B50E903C9D50210B0D0DD6FBA2D30"
+				}
+			}
+			"dlcappid"		"292950"
+		}
+		"267620"
+		{
+			"dlcappid"		"267620"
+		}
+		"234532"
+		{
+		}
+		"234533"
+		{
+		}
+		"234534"
+		{
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"927919"
+			}
+			"supernetwork"
+			{
+				"buildid"		"927919"
+				"pwdrequired"		"1"
+			}
+			"test"
+			{
+				"buildid"		"926584"
+				"pwdrequired"		"1"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"5"
+	}
+}
