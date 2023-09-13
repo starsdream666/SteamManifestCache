@@ -1,0 +1,73 @@
+"appinfo"
+{
+	"appid"		"1273"
+	"common"
+	{
+		"name"		"Killing Floor Beta Dedicated Server"
+		"type"		"Tool"
+		"freeondemand"		"1"
+		"gameid"		"1273"
+	}
+	"extended"
+	{
+		"developer"		""
+		"gamedir"		"killingfloorbetadedicatedserver"
+		"homepage"		""
+		"icon"		""
+		"noservers"		"0"
+		"order"		"1"
+		"primarycache"		"1273"
+		"serverbrowsername"		"Killing Floor Beta"
+		"state"		"eStateTool"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"KillingFloorBeta"
+		"launch"
+		{
+			"0"
+			{
+				"description"		"KFBetaWinServer"
+				"executable"		"System\\ucc.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"1273"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"550351460270546694"
+					"size"		"43900025"
+					"download"		"0"
+				}
+			}
+		}
+		"1271"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5518203134833754139"
+					"size"		"962848399"
+					"download"		"0"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"87583"
+			}
+		}
+	}
+}
