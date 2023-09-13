@@ -1,0 +1,464 @@
+"appinfo"
+{
+	"appid"		"300630"
+	"common"
+	{
+		"name"		"Pure Chess"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"clienticon"		"d835128bc1a1dbb4e94418d97900cb94c7f839d1"
+		"clienttga"		"4679ec8efa230f05536991236bff2d7833b72fd6"
+		"icon"		"1477b36fe09ddc6f35d929a25bffd5d6eb674002"
+		"logo"		"b951042948ba7bf2106d63152d27bf93e2f8d07a"
+		"logo_small"		"b951042948ba7bf2106d63152d27bf93e2f8d07a_thumb"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"spanish"		"1"
+			"russian"		"1"
+			"portuguese"		"1"
+			"dutch"		"1"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1688428800"
+			"tested_build_id"		"1461601"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-2"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Pure Chess"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"63.1271878646441"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1667318393"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Ripstone"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Ripstone"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"28"
+			"3"		"18"
+			"4"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_27"		"1"
+			"category_28"		"1"
+			"category_33"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_24"		"1"
+			"category_44"		"1"
+			"category_43"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1473426263"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"300630"
+		"store_tags"
+		{
+			"0"		"4184"
+			"1"		"9"
+			"2"		"599"
+			"3"		"4175"
+			"4"		"4182"
+			"5"		"3859"
+			"6"		"597"
+			"7"		"5350"
+			"8"		"9204"
+			"9"		"1036"
+			"10"		"492"
+			"11"		"17389"
+			"12"		"701"
+			"13"		"1770"
+			"14"		"1664"
+			"15"		"4191"
+			"16"		"1741"
+			"17"		"14139"
+			"18"		"7926"
+			"19"		"4166"
+		}
+		"review_score"		"6"
+		"review_percentage"		"73"
+	}
+	"extended"
+	{
+		"developer"		"Ripstone"
+		"publisher"		"Ripstone"
+		"homepage"		"http://purechess.com"
+		"listofdlc"		"330950,439830"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Pure Chess"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MantisConfig.exe"
+				"description"		"Launch"
+			}
+		}
+		"nativesteamcontroller"		"1"
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,italian,spanish,russian,portuguese,dutch"
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228984"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229002"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"300631"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5377561852533684908"
+					"size"		"691337837"
+					"download"		"674687424"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev"
+				{
+					"gid"		"DEA280E4DB07BCEEEFE88E84AD4F4248"
+					"size"		"DE06BFBD0106E4C65B7D97849466E557"
+					"download"		"426FDE06C4629CD90642CFB71C3C0BDE"
+				}
+				"test"
+				{
+					"gid"		"032CD26587D5DB18DE6C7D7B52676A73"
+					"size"		"C8DA8B19C9B0040E0B2DD3AAADEE4D95"
+					"download"		"E799D909968693BCF94BF3EA4EF30592"
+				}
+			}
+		}
+		"300632"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1986161620968334085"
+					"size"		"692415597"
+					"download"		"674570016"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev"
+				{
+					"gid"		"08948DB7C8AEC98810DF0705216DBABD"
+					"size"		"CAD3CE0D5838D1892A426575C81C587D"
+					"download"		"2EB864BAD6A3A0649EC5369DCCA785BB"
+				}
+				"test"
+				{
+					"gid"		"3498F3CE34DD9D636B110C00EA464300"
+					"size"		"C0A80C711C877C4AB88E053CC3D12263"
+					"download"		"99F62FE8930F67896693FC660910A07B"
+				}
+			}
+		}
+		"330950"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"dlcappid"		"330950"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7281072448693325930"
+					"size"		"125079760"
+					"download"		"125072960"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev"
+				{
+					"gid"		"B163BB852EAD4F657C8085715CD69AA6"
+					"size"		"FA23B835D26DD16B3D362284C4534B30"
+					"download"		"E38173B8C7A292A6C04A33E2152578B3"
+				}
+				"test"
+				{
+					"gid"		"E0F9C975DA8D17C959A4D17CE08596B8"
+					"size"		"C591EC8646DE05D3FF7735670D5C37D8"
+					"download"		"117DB821F3E4BEC470FFF2AC5096636A"
+				}
+			}
+		}
+		"391500"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"dlcappid"		"391500"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"393437455278909367"
+					"size"		"88848453"
+					"download"		"87360304"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev"
+				{
+					"gid"		"79C7F024CE7BC3D8EEDC7EADDFDB6546"
+					"size"		"D4DEE1BE675FB0BAD39B660CA5788994"
+					"download"		"A394A957AE2A77707B68002630B6962A"
+				}
+				"test"
+				{
+					"gid"		"196EE6428E8E0ED520C7E59D38C1B36F"
+					"size"		"7595A9ACA22AFCF2144CB41B6C9DB010"
+					"download"		"65BF64D5B2591AA48587170DC661D870"
+				}
+			}
+		}
+		"439830"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"dlcappid"		"439830"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2089863305351996991"
+					"size"		"77528183"
+					"download"		"77601584"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev"
+				{
+					"gid"		"5BF1D46CA0AF8AA6DD5FA7013D2FEF41"
+					"size"		"431BCE44E7EB1CFDF68F8927D93967D8"
+					"download"		"13F79C1A578690580579B9DBE5626070"
+				}
+				"test"
+				{
+					"gid"		"02EF3CB2E93AA3E7B019CE5EC4BFEA4E"
+					"size"		"77A82A5104DBD7C87AF1314010466D0F"
+					"download"		"6ECD6D00196687545DC07B138E454E64"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1461601"
+				"timeupdated"		"1479376552"
+			}
+			"dev"
+			{
+				"buildid"		"2802735"
+				"pwdrequired"		"1"
+				"timeupdated"		"1527161970"
+			}
+			"test"
+			{
+				"buildid"		"2802735"
+				"pwdrequired"		"1"
+				"timeupdated"		"1527162050"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"524288"
+		"maxnumfiles"		"1"
+	}
+}
