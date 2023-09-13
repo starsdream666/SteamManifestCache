@@ -1,0 +1,75 @@
+"appinfo"
+{
+	"appid"		"1213"
+	"common"
+	{
+		"clienticon"		"aaa7751e3a3693ed55a5da84bd05893133c3d84a"
+		"clienttga"		"7973a4cb688ca9db5a46c632ece779bb669ef3b9"
+		"name"		"Red Orchestra: Ostfront 41-45"
+		"type"		"Tool"
+		"freeondemand"		"1"
+		"gameid"		"1213"
+	}
+	"extended"
+	{
+		"developer"		""
+		"gamedir"		"ROBetaWinDedicatedServer"
+		"homepage"		""
+		"icon"		""
+		"noservers"		"1"
+		"order"		"1"
+		"primarycache"		"1213"
+		"serverbrowsername"		""
+		"state"		"eStateTool"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"ROBetaWinDedicatedServer"
+		"launch"
+		{
+			"0"
+			{
+				"description"		"ROWinServer"
+				"executable"		"System\\ucc.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"1213"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4783423120150005477"
+					"size"		"53274215"
+					"download"		"0"
+				}
+			}
+		}
+		"1211"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3532838325174392932"
+					"size"		"1165593753"
+					"download"		"0"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"87585"
+			}
+		}
+	}
+}
