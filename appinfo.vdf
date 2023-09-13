@@ -1,0 +1,922 @@
+"appinfo"
+{
+	"appid"		"378630"
+	"common"
+	{
+		"name"		"Shadows on the Vatican - Act II: Wrath"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"icon"		"e5491780774bbccb43c6af716670fbe72a1c2d0b"
+		"languages"
+		{
+			"english"		"1"
+			"italian"		"1"
+		}
+		"clienticon"		"535e9dd0c6802b814b8255204a88effcb4a39371"
+		"clienttga"		"8ff3c03e70f73915d43f62ee8a1af0ae83af560e"
+		"logo"		"0cc9a5acc4f05dbdb7bad4184760a750835ec329"
+		"logo_small"		"0cc9a5acc4f05dbdb7bad4184760a750835ec329_thumb"
+		"metacritic_name"		"Shadows on the Vatican Act II: Wrath"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"german"		"capsule_231x87_german.jpg"
+			"spanish"		"capsule_231x87_spanish.jpg"
+			"french"		"capsule_231x87_french.jpg"
+			"italian"		"capsule_231x87_italian.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"german"		"header_german.jpg"
+			"spanish"		"header_spanish.jpg"
+			"french"		"header_french.jpg"
+			"italian"		"header_italian.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+		}
+		"store_asset_mtime"		"1669891951"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Daring Touch"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"10th Art Studio"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Adventure Productions"
+			}
+			"3"
+			{
+				"type"		"publisher"
+				"name"		"Daring Touch"
+			}
+			"4"
+			{
+				"type"		"franchise"
+				"name"		"Shadows on the Vatican"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1445842800"
+		"steam_release_date"		"1445849078"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"378630"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"492"
+			"2"		"1698"
+			"3"		"7208"
+			"4"		"4182"
+			"5"		"5716"
+			"6"		"1697"
+			"7"		"1742"
+			"8"		"4166"
+			"9"		"1756"
+			"10"		"4376"
+			"11"		"5094"
+		}
+		"review_score"		"8"
+		"review_percentage"		"80"
+	}
+	"extended"
+	{
+		"developer"		"Daring Touch"
+		"publisher"		"Adventure Productions"
+		"homepage"		"http://www.shadowsonthevatican.com"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"ShadowsOnTheVatican_2"
+		"launch"
+		{
+			"2"
+			{
+				"executable"		"SotV_Launcher.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"3"
+			{
+				"executable"		"sd/SotV2.exe"
+				"workingdir"		"sd/"
+				"description"		"old SD"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"pubrelease_5"
+				}
+			}
+			"4"
+			{
+				"executable"		"hd/SotV2.exe"
+				"workingdir"		"hd/"
+				"description"		"old HD"
+				"type"		"option2"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"pubrelease_5"
+				}
+			}
+			"5"
+			{
+				"executable"		"packages/SotV2.exe"
+				"arguments"		"-keepactive -regbasepath \"SOFTWARE\\Adventure Productions\\SotV2\""
+				"workingdir"		"packages/"
+				"type"		"option3"
+				"config"
+				{
+					"betakey"		"test_deck"
+				}
+				"description_loc"
+				{
+					"english"		"on Steam Deck"
+				}
+				"description"		"on Steam Deck"
+			}
+		}
+	}
+	"depots"
+	{
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"378631"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9014349771000213679"
+					"size"		"931381370"
+					"download"		"515786816"
+				}
+				"pubrelease_1"
+				{
+					"gid"		"773939040257044303"
+					"size"		"913461547"
+					"download"		"501682112"
+				}
+				"pubrelease_2"
+				{
+					"gid"		"3548436728486222474"
+					"size"		"913460566"
+					"download"		"501682208"
+				}
+				"pubrelease_3"
+				{
+					"gid"		"1881241861354744902"
+					"size"		"913460566"
+					"download"		"501682288"
+				}
+				"pubrelease_4"
+				{
+					"gid"		"6432573868916309239"
+					"size"		"921740312"
+					"download"		"504364688"
+				}
+				"pubrelease_5"
+				{
+					"gid"		"9014349771000213679"
+					"size"		"931381370"
+					"download"		"515786816"
+				}
+				"pubrelease_6"
+				{
+					"gid"		"9014349771000213679"
+					"size"		"931381370"
+					"download"		"515786816"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"D5D0C5F02580D25E4228585BD22A359A"
+					"size"		"5792933B8610EE73B4086D168B07DF62"
+					"download"		"08DF917B0E779E26C47130A7509FDCB3"
+				}
+				"test_deck"
+				{
+					"gid"		"F95479D0DCD5E2F9E7010E85EAA80F89"
+					"size"		"E65684A534ADB383507CFA76B7971F47"
+					"download"		"F953B7E9DBEFAF5F3D28D4B02D26C93F"
+				}
+			}
+		}
+		"378632"
+		{
+			"config"
+			{
+				"language"		"english"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6032003681173344051"
+					"size"		"1079275565"
+					"download"		"569831360"
+				}
+				"pubrelease_1"
+				{
+					"gid"		"504023282005492907"
+					"size"		"1079275723"
+					"download"		"569823216"
+				}
+				"pubrelease_2"
+				{
+					"gid"		"3634350272093896851"
+					"size"		"1079275723"
+					"download"		"569823216"
+				}
+				"pubrelease_3"
+				{
+					"gid"		"6323160839492317974"
+					"size"		"1079275723"
+					"download"		"569823216"
+				}
+				"pubrelease_4"
+				{
+					"gid"		"465311413516443369"
+					"size"		"1079275723"
+					"download"		"569823216"
+				}
+				"pubrelease_5"
+				{
+					"gid"		"6032003681173344051"
+					"size"		"1079275565"
+					"download"		"569831360"
+				}
+				"pubrelease_6"
+				{
+					"gid"		"6032003681173344051"
+					"size"		"1079275565"
+					"download"		"569831360"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"AF6A9031B2C95B87024EC7ABCA942A90"
+					"size"		"CA2837685EAB7DBF17D6C0B16666A05C"
+					"download"		"FB094324B81C02D96DCF283B71BF0C4A"
+				}
+				"test_deck"
+				{
+					"gid"		"C343117317586351F92AE00EFC1A30FD"
+					"size"		"F5E1EAB55D77385FCC18BF99EDA53646"
+					"download"		"AEE5F5BBFD7C730831134CC2F5A231D7"
+				}
+			}
+		}
+		"378633"
+		{
+			"config"
+			{
+				"language"		"italian"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3110017145304371065"
+					"size"		"1273550645"
+					"download"		"633948144"
+				}
+				"pubrelease_1"
+				{
+					"gid"		"2047189916345110453"
+					"size"		"1273603636"
+					"download"		"633943008"
+				}
+				"pubrelease_2"
+				{
+					"gid"		"82887055146310276"
+					"size"		"1273603514"
+					"download"		"633942928"
+				}
+				"pubrelease_3"
+				{
+					"gid"		"2203452927678478100"
+					"size"		"1273603514"
+					"download"		"633942944"
+				}
+				"pubrelease_4"
+				{
+					"gid"		"7166763245469580832"
+					"size"		"1273603502"
+					"download"		"633942880"
+				}
+				"pubrelease_5"
+				{
+					"gid"		"3110017145304371065"
+					"size"		"1273550645"
+					"download"		"633948144"
+				}
+				"pubrelease_6"
+				{
+					"gid"		"3110017145304371065"
+					"size"		"1273550645"
+					"download"		"633948144"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"59F1706E139B7932C5457A1D89858077"
+					"size"		"FEEF4D4487AF6BEF42839D3E8324F4DD"
+					"download"		"7B126988AB3D9F7E7E4793E7A7EE38A9"
+				}
+				"test_deck"
+				{
+					"gid"		"FBD84A772C588580F06B76A74B8AB3EC"
+					"size"		"2EB4BAB709E26D9125187B95CBE0D992"
+					"download"		"733A70665DAD93CD22A19314E5BEA8F5"
+				}
+			}
+		}
+		"378634"
+		{
+			"config"
+			{
+				"language"		"german"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1396566377990175722"
+					"size"		"1076007486"
+					"download"		"567087872"
+				}
+				"pubrelease_1"
+				{
+					"gid"		"7841907578727404148"
+					"size"		"1081305907"
+					"download"		"571214848"
+				}
+				"pubrelease_2"
+				{
+					"gid"		"3662297730661211244"
+					"size"		"1081306911"
+					"download"		"571215248"
+				}
+				"pubrelease_3"
+				{
+					"gid"		"4244624698014419790"
+					"size"		"1076980210"
+					"download"		"566920608"
+				}
+				"pubrelease_4"
+				{
+					"gid"		"1398077831700214219"
+					"size"		"1076980200"
+					"download"		"566920640"
+				}
+				"pubrelease_5"
+				{
+					"gid"		"1396566377990175722"
+					"size"		"1076007486"
+					"download"		"567087872"
+				}
+				"pubrelease_6"
+				{
+					"gid"		"1396566377990175722"
+					"size"		"1076007486"
+					"download"		"567087872"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"2D2BF388484AD2DA4F63D7207D185327"
+					"size"		"5B825870E340B31DE99C26537617D249"
+					"download"		"7F25B6C526774A1FA6524C87E5DEBB89"
+				}
+				"test_deck"
+				{
+					"gid"		"8E11AF01629D1250176FEDC31C89F37D"
+					"size"		"D173A8A73298753370EADA75D01EB65E"
+					"download"		"30762A120C882050C8E2326BC9E45114"
+				}
+			}
+		}
+		"378635"
+		{
+			"config"
+			{
+				"language"		"spanish"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8939856265963348124"
+					"size"		"1085759538"
+					"download"		"563052848"
+				}
+				"pubrelease_4"
+				{
+					"gid"		"1584854507044191252"
+					"size"		"1086173076"
+					"download"		"564378864"
+				}
+				"pubrelease_5"
+				{
+					"gid"		"8939856265963348124"
+					"size"		"1085759538"
+					"download"		"563052848"
+				}
+				"pubrelease_6"
+				{
+					"gid"		"8939856265963348124"
+					"size"		"1085759538"
+					"download"		"563052848"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"1B43964B635D061E4E19F5A396B7DB2B"
+					"size"		"13063E4C42D3137D0959576DF717094A"
+					"download"		"82D6EC10EAC0F79DBEBFB1CADAC9AC18"
+				}
+				"test_deck"
+				{
+					"gid"		"79C6F90991CD9E2F4AFE27E12B55762E"
+					"size"		"9D7916CA1950E1DEC028B9F92BAEAF98"
+					"download"		"057D6225007C269E21AEE930816BDF9F"
+				}
+			}
+		}
+		"378636"
+		{
+			"config"
+			{
+				"language"		"french"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2775270556818538031"
+					"size"		"1084229925"
+					"download"		"572003376"
+				}
+				"pubrelease_1"
+				{
+					"gid"		"7497387863119374756"
+					"size"		"1085300250"
+					"download"		"573036400"
+				}
+				"pubrelease_2"
+				{
+					"gid"		"2171580774135701537"
+					"size"		"1085300250"
+					"download"		"573036336"
+				}
+				"pubrelease_3"
+				{
+					"gid"		"447039456593592528"
+					"size"		"1085300250"
+					"download"		"573036336"
+				}
+				"pubrelease_4"
+				{
+					"gid"		"452774035118811689"
+					"size"		"1085300248"
+					"download"		"573036400"
+				}
+				"pubrelease_5"
+				{
+					"gid"		"2775270556818538031"
+					"size"		"1084229925"
+					"download"		"572003376"
+				}
+				"pubrelease_6"
+				{
+					"gid"		"2775270556818538031"
+					"size"		"1084229925"
+					"download"		"572003376"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"6C9ECAD85EDCC196D5466482ED5AA669"
+					"size"		"29B9F6E2BB8F6E155C0CBEB6A02F1AB9"
+					"download"		"252CC718112F5FAB5D6B06C1222BD78C"
+				}
+				"test_deck"
+				{
+					"gid"		"71DB6706BB3D92B04D4CC88BF41C15E2"
+					"size"		"0C273C6902C922400B98BA8BDE11FAD1"
+					"download"		"FD3C7836F6B0F580A46048F93B7AB11C"
+				}
+			}
+		}
+		"378637"
+		{
+			"config"
+			{
+				"language"		"russian"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6041036563252356299"
+					"size"		"1129440333"
+					"download"		"594814208"
+				}
+				"pubrelease_1"
+				{
+					"gid"		"6215877435197368927"
+					"size"		"1129728426"
+					"download"		"595036704"
+				}
+				"pubrelease_2"
+				{
+					"gid"		"965216284326603634"
+					"size"		"1129728284"
+					"download"		"595036624"
+				}
+				"pubrelease_3"
+				{
+					"gid"		"4433016339452371320"
+					"size"		"1129728284"
+					"download"		"595036624"
+				}
+				"pubrelease_4"
+				{
+					"gid"		"8906383898656560257"
+					"size"		"1129728284"
+					"download"		"595036640"
+				}
+				"pubrelease_5"
+				{
+					"gid"		"6041036563252356299"
+					"size"		"1129440333"
+					"download"		"594814208"
+				}
+				"pubrelease_6"
+				{
+					"gid"		"6041036563252356299"
+					"size"		"1129440333"
+					"download"		"594814208"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"64A3DD8CCA71ECE37A4716D1A11262FB"
+					"size"		"166CE47DFB30193C14B44289BCA32BC6"
+					"download"		"2ABE6D009140EF2163DAEA4E180AE2F4"
+				}
+				"test_deck"
+				{
+					"gid"		"382056029B92E6778CF1B9A837036D9D"
+					"size"		"44A8C3C34F07CB2F4BBC1915965E7299"
+					"download"		"035FA6C65F71EC207559771DA47AE2E4"
+				}
+			}
+		}
+		"378638"
+		{
+			"config"
+			{
+				"language"		"polish"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2889732234076382095"
+					"size"		"1149400974"
+					"download"		"593849392"
+				}
+				"pubrelease_1"
+				{
+					"gid"		"7964926563454231568"
+					"size"		"1149544365"
+					"download"		"593865712"
+				}
+				"pubrelease_2"
+				{
+					"gid"		"5178109414530898606"
+					"size"		"1149544365"
+					"download"		"593865680"
+				}
+				"pubrelease_3"
+				{
+					"gid"		"5273099659827658436"
+					"size"		"1149544365"
+					"download"		"593865680"
+				}
+				"pubrelease_4"
+				{
+					"gid"		"293909549281794892"
+					"size"		"1149544365"
+					"download"		"593865696"
+				}
+				"pubrelease_5"
+				{
+					"gid"		"2889732234076382095"
+					"size"		"1149400974"
+					"download"		"593849392"
+				}
+				"pubrelease_6"
+				{
+					"gid"		"2889732234076382095"
+					"size"		"1149400974"
+					"download"		"593849392"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"5CBE0A9830B7DACF20DB64BA86BD8BF0"
+					"size"		"A91C635B3C8338BF7CA0817D7B3761CF"
+					"download"		"1A7FBDB402BE30437F2B18C2101F5815"
+				}
+				"test_deck"
+				{
+					"gid"		"9723360DE182A79C02FE13F2192A1A94"
+					"size"		"3226FB06062AE6CD0200C9C9E0695870"
+					"download"		"8996844E33952F72401FE5D0FEE8B22B"
+				}
+			}
+		}
+		"378639"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6083930207791415310"
+					"size"		"2640402258"
+					"download"		"2357747808"
+				}
+				"pubrelease_6"
+				{
+					"gid"		"6083930207791415310"
+					"size"		"2640402258"
+					"download"		"2357747808"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"CA3E452288FEE6BB33F5CBB7941D9FA9"
+					"size"		"ECFF797FD00AFB9BF754DF9DD82DB0EB"
+					"download"		"7707B2A8BD0AEE08D20AB7F12B53A023"
+				}
+				"test_deck"
+				{
+					"gid"		"FD8889D81DE27578A0891A99866D791E"
+					"size"		"4FECBFDB386FACB8DD0C8C610866053E"
+					"download"		"B4E580EA930D2FFC41DAE5393FF81361"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2884510"
+				"timeupdated"		"1529619515"
+			}
+			"pubrelease_1"
+			{
+				"buildid"		"827573"
+				"description"		"first public release"
+			}
+			"pubrelease_2"
+			{
+				"buildid"		"849692"
+				"description"		"bugfix (Update 1)"
+			}
+			"pubrelease_3"
+			{
+				"buildid"		"853503"
+				"description"		"de i18n fixes"
+			}
+			"pubrelease_4"
+			{
+				"buildid"		"1140431"
+				"description"		"es + bugfix (Update 2)"
+				"timeupdated"		"1463957695"
+			}
+			"pubrelease_5"
+			{
+				"buildid"		"1371841"
+				"description"		"new de + bugfix (Update 3)"
+				"timeupdated"		"1475534087"
+			}
+			"pubrelease_6"
+			{
+				"buildid"		"2884510"
+				"description"		"DT release 1"
+				"timeupdated"		"1529619487"
+			}
+			"test"
+			{
+				"buildid"		"2884510"
+				"pwdrequired"		"1"
+				"timeupdated"		"1529619657"
+			}
+			"test_deck"
+			{
+				"buildid"		"2884510"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689547749"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"20971520"
+		"maxnumfiles"		"50"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinSavedGames"
+				"path"		"Shadows on the Vatican Act II"
+				"pattern"		"*.wsg"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"1"
+			{
+				"root"		"WinSavedGames"
+				"path"		"Shadows on the Vatican Act II HD"
+				"pattern"		"*.wsg"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"2"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"Shadows on the Vatican Act II"
+				"pattern"		"*.wsg"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"3"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"Shadows on the Vatican Act II HD"
+				"pattern"		"*.wsg"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"4"
+			{
+				"root"		"WinSavedGames"
+				"path"		"Shadows on the Vatican Act II"
+				"pattern"		"*.sv2"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"5"
+			{
+				"root"		"WinSavedGames"
+				"path"		"Shadows on the Vatican Act II HD"
+				"pattern"		"*.sv2"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"6"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"Shadows on the Vatican Act II"
+				"pattern"		"*.sv2"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"7"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"Shadows on the Vatican Act II HD"
+				"pattern"		"*.sv2"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
