@@ -1,0 +1,88 @@
+"appinfo"
+{
+	"appid"		"215350"
+	"common"
+	{
+		"name"		"Killing Floor Dedicated Server - Win32"
+		"type"		"Game"
+		"community_hub_visible"		"1"
+		"gameid"		"215350"
+	}
+	"extended"
+	{
+		"developer"		""
+		"gamedir"		"Killing Floor Dedicated Server - Win32"
+		"homepage"		""
+		"icon"		""
+		"noservers"		"0"
+		"sourcegame"		"1"
+		"state"		"eStateAvailable"
+		"visibleonlywheninstalled"		"1"
+		"visibleonlywhensubscribed"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Killing Floor Dedicated Server - Win32"
+	}
+	"depots"
+	{
+		"1251"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9033622738747915238"
+					"size"		"2262659300"
+					"download"		"764255856"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internalbeta"
+				{
+					"gid"		"FFE8CA49F279E806E10FCF50CA3A61AB"
+					"size"		"03CDA6D7B677EF81D592696E38AF3FA0"
+					"download"		"D94092A24E6DC20A354EE631173C032B"
+				}
+			}
+		}
+		"1253"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3588045873416010845"
+					"size"		"106304112"
+					"download"		"68079264"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internalbeta"
+				{
+					"gid"		"305588757AF42872F10C9E1B2DED68A4"
+					"size"		"E447B25E6A118086B356B7D1125CC0BB"
+					"download"		"C159C07CCD0E578A0B16D72D4D5D81B6"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1074388"
+				"timeupdated"		"1461081330"
+			}
+			"internalbeta"
+			{
+				"buildid"		"1074388"
+				"pwdrequired"		"1"
+				"timeupdated"		"1460647847"
+			}
+		}
+	}
+}
