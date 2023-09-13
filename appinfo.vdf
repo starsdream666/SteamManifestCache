@@ -1,0 +1,358 @@
+"appinfo"
+{
+	"appid"		"370130"
+	"common"
+	{
+		"name"		"Lion Quest"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"icon"		"89d0acdc2f81b02786930383a5b8413df5b7e7ef"
+		"logo"		"e0467d5ca8d5fb5c8ae2890a2af6ba2f39540464"
+		"logo_small"		"e0467d5ca8d5fb5c8ae2890a2af6ba2f39540464_thumb"
+		"clienticon"		"02cfef7bca3e6bad8fcb107dc4466d2ccd483df5"
+		"clienttga"		"6eee09ea373810cf89e3242c16751cf83beef435"
+		"clienticns"		"ead20c55a87cd81f0812b2c1136cd695b826e1bf"
+		"linuxclienticon"		"172f75d84768b389c7f083cfdd2246e7a632a006"
+		"releasestate"		"released"
+		"osarch"		""
+		"osextended"		"macos64,macosapplesilicon,macosnotarized"
+		"metacritic_name"		"Lion Quest"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"63.38672768878717"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1667835275"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Dracula's Cave"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Dracula's Cave"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_24"		"1"
+			"category_29"		"1"
+			"category_23"		"1"
+			"category_44"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1468252676"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"370130"
+		"store_tags"
+		{
+			"0"		"1625"
+			"1"		"3871"
+			"2"		"19"
+			"3"		"4182"
+			"4"		"5379"
+			"5"		"21"
+			"6"		"4726"
+			"7"		"1773"
+			"8"		"4094"
+			"9"		"492"
+			"10"		"3877"
+			"11"		"4166"
+			"12"		"3841"
+			"13"		"7368"
+			"14"		"3834"
+			"15"		"5537"
+			"16"		"5673"
+			"17"		"4305"
+			"18"		"10679"
+			"19"		"1654"
+		}
+		"review_score"		"5"
+		"review_percentage"		"54"
+	}
+	"extended"
+	{
+		"gamedir"		""
+		"developer"		"Dracula's Cave"
+		"publisher"		"Dracula's Cave"
+		"homepage"		"https://lionquest.cc"
+		"gamemanualurl"		"https://store.steampowered.com/manual/370130/"
+		"listofdlc"		"463780"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Lion Quest"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Lion Quest.app"
+				"description"		"Launch"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"1"
+			{
+				"executable"		"Lion Quest.exe"
+				"description"		"Launch"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"4"
+			{
+				"executable"		"Lion Quest"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"370131"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4228240168793663709"
+					"size"		"574797358"
+					"download"		"161154608"
+				}
+				"lion_quest_1.0"
+				{
+					"gid"		"5260051484278330029"
+					"size"		"355906350"
+					"download"		"108365408"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"2B332EF62943AEE30AE19621811C75B3"
+					"size"		"27DC192999CDFC5EBA1BF90B197EBB20"
+					"download"		"C6F2B71CB2733AC6BDB90AAA15855D46"
+				}
+				"dev-enabled"
+				{
+					"gid"		"8C25AF8F03D2C5179B82813EAFD36C7D"
+					"size"		"B9B9A50FFE82B1FF788D3FB5E0CF7941"
+					"download"		"F1B4A1C8487555131D910430B962CD7B"
+				}
+			}
+		}
+		"370133"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1993438210923404184"
+					"size"		"585089406"
+					"download"		"162150688"
+				}
+				"lion_quest_1.0"
+				{
+					"gid"		"2823289864255657295"
+					"size"		"348443754"
+					"download"		"108004800"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"D21AA81B463E4B18EE311C21688CEC2A"
+					"size"		"FCD10AC7DA60C8BA0ADB114D2535FB06"
+					"download"		"15A7647253D77390DEDC2E65645F3C69"
+				}
+				"dev-enabled"
+				{
+					"gid"		"E424E85E35B5FA158857020FDB992651"
+					"size"		"90F1006C52D4220969BE95DFFF556652"
+					"download"		"45AF3A99FE5B5DE546E07D0C9F83876D"
+				}
+			}
+		}
+		"370134"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5858000182931363611"
+					"size"		"571489128"
+					"download"		"160218368"
+				}
+				"lion_quest_1.0"
+				{
+					"gid"		"7315214418664837975"
+					"size"		"312002162"
+					"download"		"97448928"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"C3BBB447DC5DF24B99D8D2963D7C14E4"
+					"size"		"465EE432E8A95E8E9EAF34AF182F0695"
+					"download"		"7322932F9897A9773F4EB01EED1B9A69"
+				}
+				"dev-enabled"
+				{
+					"gid"		"3B591AB4617BA6665458324A81ACFD86"
+					"size"		"910B6DA7A2507602E7C3669C23CB22D1"
+					"download"		"D0D5CD43AFBFEB96C60F36B842F15AF0"
+				}
+			}
+		}
+		"370135"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2222673238407597302"
+					"size"		"581415064"
+					"download"		"163230704"
+				}
+				"lion_quest_1.0"
+				{
+					"gid"		"1343060671352304259"
+					"size"		"316243258"
+					"download"		"98686432"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"27847160D4C13D6C65D155EE74668FF4"
+					"size"		"23E40F18395B99F265984A5F28261BF8"
+					"download"		"116E281B1CC30577D779778515577B19"
+				}
+				"dev-enabled"
+				{
+					"gid"		"BC61597FD2EE04C4994B4D0D4F309867"
+					"size"		"ABB0A58EB71A58DD6AE17D9A4BAF6817"
+					"download"		"82D4875F23907623C651082BD12DCBB2"
+				}
+			}
+		}
+		"hasdepotsindlc"		"0"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11684985"
+				"timeupdated"		"1689173170"
+			}
+			"beta"
+			{
+				"buildid"		"11684985"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689172791"
+			}
+			"dev-enabled"
+			{
+				"buildid"		"11443865"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686498597"
+			}
+			"lion_quest_1.0"
+			{
+				"buildid"		"1221940"
+				"timeupdated"		"1488134309"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000"
+		"maxnumfiles"		"5"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"Data"
+				"pattern"		"*"
+			}
+		}
+	}
+}
