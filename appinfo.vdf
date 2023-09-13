@@ -1,0 +1,400 @@
+"appinfo"
+{
+	"appid"		"407840"
+	"common"
+	{
+		"name"		"Guardians of Orion (Phase 2)"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"logo"		"85cf589eada7e101bf7b3286c809899a45a396f5"
+		"logo_small"		"85cf589eada7e101bf7b3286c809899a45a396f5_thumb"
+		"icon"		"e49a17fcced0dfdee1e16e120ae5e0165575e1a6"
+		"clienttga"		"25764ecbfd4009948aaace26073d66993674aa09"
+		"clienticon"		"3fbe213b0512921a52129d0b3fcef9fc45d429fd"
+		"osarch"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1693008000"
+			"tested_build_id"		"8634026"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"4"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+				}
+				"5"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Guardians of Orion"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1629943784"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"DANKIE"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"DANKIE"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_35"		"1"
+			"category_15"		"1"
+			"category_38"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_44"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"original_release_date"		"1448956800"
+		"steam_release_date"		"1482360840"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"407840"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"5160"
+			"2"		"3859"
+			"3"		"1685"
+			"4"		"492"
+			"5"		"1774"
+			"6"		"122"
+			"7"		"4637"
+			"8"		"1662"
+			"9"		"493"
+			"10"		"3942"
+			"11"		"4182"
+			"12"		"3814"
+			"13"		"1755"
+			"14"		"1663"
+			"15"		"1695"
+			"16"		"3839"
+			"17"		"1702"
+			"18"		"4166"
+			"19"		"4345"
+		}
+		"review_score"		"5"
+		"review_percentage"		"53"
+	}
+	"extended"
+	{
+		"gamedir"		"GOO"
+		"serverbrowsername"		"OrbitalCommand"
+		"developer"		"DANKIE"
+		"publisher"		"DANKIE"
+		"listofdlc"		"493610,505430,511310"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Guardians of Orion"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Orion.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Orion.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"3"
+	}
+	"depots"
+	{
+		"407841"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3479498597356915037"
+					"size"		"10434635474"
+					"download"		"9873311312"
+				}
+				"goo1"
+				{
+					"gid"		"1212561059883769271"
+					"size"		"18599410433"
+					"download"		"7826160832"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"content"
+				{
+					"gid"		"3F2E1107CBCDDEF20EF8496F178816E1"
+					"size"		"E8983D4B2D650660BBD183D1EECF50D1"
+					"download"		"B198543EC675E232E4010F54B0377E34"
+				}
+				"developer"
+				{
+					"gid"		"418C393AE0F9722DDCD7609B8C708928"
+					"size"		"8F9A1DA3E78ACA52EA5F6B61314D7880"
+					"download"		"09B0A76C57314922F358634104E47F2D"
+				}
+				"development"
+				{
+					"gid"		"4A8FEBF805CCBBBC0E42F6010E7E52B1"
+					"size"		"61247B9D8140EE344116E8933BE83EE5"
+					"download"		"56AB881375614D614C4FAA1F61DEB013"
+				}
+				"experimental"
+				{
+					"gid"		"E8CF96D858A3991D61C46982BC77FAF1"
+					"size"		"D4E3CA7BCE38973456804EF7C945A9E6"
+					"download"		"5C6C66D572FF9CBED5E2F6A1D05881B7"
+				}
+				"gundybeta"
+				{
+					"gid"		"E96600AD07E422139B54BBFC8A234B6F"
+					"size"		"634678204C733E724F4B30CE90F90675"
+					"download"		"8F1343E28C4E966CC1E7B85137C091F2"
+				}
+				"gundytest"
+				{
+					"gid"		"E95DFF48FD873F57D74C9F29D3ACA74D"
+					"size"		"9F21A108A0E9DF1097307A6D88C7B4EB"
+					"download"		"47FF792C65B000599F5136D5668F3B9B"
+				}
+				"pvpbeta"
+				{
+					"gid"		"936BA37BB8DEB627365C53A400C3146C"
+					"size"		"4C6028B6DED5E1E312466CA2F86B726A"
+					"download"		"D932CF010E3761212723E9EC2D1A5F3D"
+				}
+			}
+		}
+		"407842"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9194477035044982963"
+					"size"		"18553113701"
+					"download"		"7803708688"
+				}
+				"goo1"
+				{
+					"gid"		"9194477035044982963"
+					"size"		"18553113701"
+					"download"		"7803708688"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"content"
+				{
+					"gid"		"33A02A052355A15A636A2B143524A9AF"
+					"size"		"3BC8C52AC22349E39F76EB864BB882D0"
+					"download"		"9AE8C2BE2CC62D4E4AB4668450F47687"
+				}
+				"developer"
+				{
+					"gid"		"5226D34F9DAA95700CED06E27CA47E5E"
+					"size"		"623BC3C036F2FAF9A773A9737E0C3270"
+					"download"		"D111F19BD0514252B4AEB01D2390B4F6"
+				}
+				"development"
+				{
+					"gid"		"CAD41E2907665A88E680980B710491BA"
+					"size"		"EEA88377EBBC2A560847D071C88055EE"
+					"download"		"A3FF6A9A0A939ABB2CF1C705D74F97C5"
+				}
+				"experimental"
+				{
+					"gid"		"AC29CA397CFFBC692D2DD6E6180A5AC7"
+					"size"		"04862222864F7376B88F4A75DC2DA53F"
+					"download"		"4B2DBA7135E823B48732A10A641643E6"
+				}
+				"gundybeta"
+				{
+					"gid"		"F91AAD9AB17FD89F0A1CB3D4B1F390F0"
+					"size"		"1613528E39663FF4254CBAE7A526A075"
+					"download"		"B45C4FD78AF65E165388E5A3455D93DE"
+				}
+				"gundytest"
+				{
+					"gid"		"7C6E1BFC61BD7243B3EF301D50737BC2"
+					"size"		"1C0A91CD710E7573E1357380CFC510D5"
+					"download"		"C30B1571BD0967BFC559D9012F145946"
+				}
+				"pvpbeta"
+				{
+					"gid"		"A534FE113F3657F5B51723DA665B5920"
+					"size"		"88C931501A025CC71066F97C0B4EDDE1"
+					"download"		"105E39E1D32CD140CB232E962291F556"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8634026"
+				"timeupdated"		"1651067897"
+			}
+			"content"
+			{
+				"buildid"		"7414720"
+				"pwdrequired"		"1"
+				"timeupdated"		"1632443665"
+			}
+			"developer"
+			{
+				"buildid"		"1705345"
+				"pwdrequired"		"1"
+				"timeupdated"		"1490114862"
+			}
+			"development"
+			{
+				"buildid"		"8633858"
+				"pwdrequired"		"1"
+				"timeupdated"		"1651066410"
+			}
+			"experimental"
+			{
+				"buildid"		"7752596"
+				"pwdrequired"		"1"
+				"timeupdated"		"1637540814"
+			}
+			"goo1"
+			{
+				"buildid"		"1705589"
+				"description"		"The Original GOO"
+				"timeupdated"		"1627609200"
+			}
+			"gundybeta"
+			{
+				"buildid"		"1340111"
+				"pwdrequired"		"1"
+				"timeupdated"		"1474047807"
+			}
+			"gundytest"
+			{
+				"buildid"		"1705345"
+				"pwdrequired"		"1"
+				"timeupdated"		"1490114871"
+			}
+			"pvpbeta"
+			{
+				"buildid"		"1539962"
+				"pwdrequired"		"1"
+				"timeupdated"		"1482603717"
+			}
+		}
+	}
+}
