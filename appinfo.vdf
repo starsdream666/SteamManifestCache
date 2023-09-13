@@ -1,0 +1,393 @@
+"appinfo"
+{
+	"appid"		"375900"
+	"common"
+	{
+		"name"		"Trackmania Turbo"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"27be42969d5d2c640a875b062d57691b7ecd4c08"
+		"logo_small"		"27be42969d5d2c640a875b062d57691b7ecd4c08_thumb"
+		"clienticon"		"53511209d0767f2eb79ec97b427a6fae952d89c5"
+		"clienttga"		"b0f3e821daa426d1ccf6b29e0bae48a5bd162e54"
+		"icon"		"ebf1a6342c8db336e3c47f2706086dc8b11794a3"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"375900_eula_0"
+				"name"		"Trackmania Turbo EULA"
+				"url"		"http://store.steampowered.com//eula/375900_eula_0"
+			}
+		}
+		"oslist"		"windows"
+		"openvrsupport"		"1"
+		"othervrsupport"		"1"
+		"othervrsupport_rift_13"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1691798400"
+			"tested_build_id"		"1462109"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-experimental"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Trackmania® Turbo"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"98.63452861553074"
+			}
+		}
+		"store_asset_mtime"		"1573142281"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Nadeo"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Ubisoft"
+			}
+		}
+		"primary_genre"		"9"
+		"genres"
+		{
+			"0"		"29"
+			"1"		"9"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_17"		"1"
+			"category_18"		"1"
+			"category_24"		"1"
+			"category_44"		"1"
+			"category_53"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1458802800"
+		"steam_release_date"		"1458806280"
+		"community_hub_visible"		"1"
+		"gameid"		"375900"
+		"store_tags"
+		{
+			"0"		"699"
+			"1"		"128"
+			"2"		"1773"
+			"3"		"8122"
+			"4"		"3859"
+			"5"		"10816"
+			"6"		"5390"
+			"7"		"4182"
+			"8"		"4026"
+			"9"		"1685"
+			"10"		"3841"
+			"11"		"3878"
+			"12"		"19"
+			"13"		"21978"
+			"14"		"7368"
+			"15"		"3810"
+			"16"		"1734"
+		}
+		"review_score"		"5"
+		"review_percentage"		"66"
+	}
+	"extended"
+	{
+		"developer"		"Nadeo"
+		"publisher"		"Ubisoft"
+		"homepage"		"http://www.trackmania.com"
+		"listofdlc"		"455060,455061,455062"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Trackmania Turbo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TrackmaniaTurbo.exe"
+				"arguments"		"-upc_steam_required_product_id 3239 -uplay_steam_mode /steam_vr=0"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Config.exe"
+				"description"		"Config"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"TrackmaniaTurbo.exe"
+				"arguments"		"-upc_steam_required_product_id 3239 -uplay_steam_mode"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+	}
+	"depots"
+	{
+		"375901"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"488560972479366792"
+					"size"		"4218237042"
+					"download"		"3404602432"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"preview"
+				{
+					"gid"		"88B834D98F18A9FBC48B8906B4280EF3"
+					"size"		"9A559D4CB2E90BE37B100A2E6DAD744D"
+					"download"		"4129411DD8ADA6CED1B244AABDF16BC2"
+				}
+				"test"
+				{
+					"gid"		"055047EF8320CD29939A727F30A725BB"
+					"size"		"4CC4B23ABC22444677E4DFE9E8095074"
+					"download"		"27C2FBBAD1C3F1996D8C92ADF1C47463"
+				}
+				"test_nadeo"
+				{
+					"gid"		"671AA82BEC640C5ACA541121764E05E6"
+					"size"		"A29593D4F9002368D618EF9B20EF74D7"
+					"download"		"43A220A317BCB3E6E54817D4923E2308"
+				}
+			}
+		}
+		"455060"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"457609608428560478"
+					"size"		"5319911"
+					"download"		"1317936"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"preview"
+				{
+					"gid"		"968D746FD347CDD55FEB5D2F553BFD2C"
+					"size"		"9072581DF600101E8D1F03AD08408A26"
+					"download"		"5FAA899984087DE09FCB5FE33442D0A6"
+				}
+				"test"
+				{
+					"gid"		"61578A680BF90DF26C62E04DE9847556"
+					"size"		"75E13EBDA2C51A668AC4BF69B78ED4D9"
+					"download"		"07283C1C0B9B1561034EB62715EAADD9"
+				}
+				"test_nadeo"
+				{
+					"gid"		"6BB5666B048E0C338E65985FAB00FDD9"
+					"size"		"1DBC6115B81DE2DA99EDFEA3DB898A88"
+					"download"		"060162D11DD87C80E5E28CCC00623EE0"
+				}
+			}
+			"dlcappid"		"455060"
+		}
+		"455061"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4993004617145392990"
+					"size"		"5319911"
+					"download"		"1317936"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"preview"
+				{
+					"gid"		"8A388CD39326AAEA667522A4A7846FAE"
+					"size"		"9072581DF600101E8D1F03AD08408A26"
+					"download"		"5FAA899984087DE09FCB5FE33442D0A6"
+				}
+				"test"
+				{
+					"gid"		"F72402276BA6EBF911B2BC0490AD52DC"
+					"size"		"75E13EBDA2C51A668AC4BF69B78ED4D9"
+					"download"		"07283C1C0B9B1561034EB62715EAADD9"
+				}
+				"test_nadeo"
+				{
+					"gid"		"2BB6225AFFA1581B0791DA79CC688A65"
+					"size"		"1DBC6115B81DE2DA99EDFEA3DB898A88"
+					"download"		"060162D11DD87C80E5E28CCC00623EE0"
+				}
+			}
+			"dlcappid"		"455061"
+		}
+		"455062"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4224610843531534016"
+					"size"		"1072330"
+					"download"		"211744"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"preview"
+				{
+					"gid"		"DF14EC36E048E40AE8CA025A8B2A27A5"
+					"size"		"44A84FE12B0CB0B406EC8B211299CC72"
+					"download"		"B2FE31CD8FF08BFE2281E2952E860F00"
+				}
+				"test"
+				{
+					"gid"		"626B4E2AB71902F12E744D2AF19DCAFC"
+					"size"		"8C48E2D87158435A02B6ABCC76535377"
+					"download"		"73341FCC2F238928EDDFBBF492E85DBA"
+				}
+				"test_nadeo"
+				{
+					"gid"		"597CE0258462CB5635905A9617A8E100"
+					"size"		"C7901C731A8902B96CED2A42DE03F986"
+					"download"		"B610C603440738D289FC9AC3E13B9C3A"
+				}
+			}
+			"dlcappid"		"455062"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1462109"
+				"timeupdated"		"1479305966"
+			}
+			"preview"
+			{
+				"buildid"		"1462109"
+				"pwdrequired"		"1"
+				"timeupdated"		"1479305128"
+			}
+			"test"
+			{
+				"buildid"		"1440112"
+				"pwdrequired"		"1"
+				"timeupdated"		"1478272143"
+			}
+			"test_nadeo"
+			{
+				"buildid"		"1462109"
+				"pwdrequired"		"1"
+				"timeupdated"		"1479303500"
+			}
+		}
+	}
+}
