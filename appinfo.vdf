@@ -1,0 +1,412 @@
+"appinfo"
+{
+	"appid"		"354740"
+	"common"
+	{
+		"name"		"Echoes of Aetheria"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"logo"		"1877c49a738e19a528e52fe7d70fef9112c2bd25"
+		"logo_small"		"1877c49a738e19a528e52fe7d70fef9112c2bd25_thumb"
+		"icon"		"6f4242bad087081210f78f57217ffce4016b0113"
+		"clienticon"		"1a65a92f43365d3484cfc6a6ca371e8c4ca7a41c"
+		"clienttga"		"7479cb2ae953de171fdbdb6450f08323542a82b6"
+		"osarch"		""
+		"osextended"		"macos64"
+		"metacritic_name"		"Echoes Of Aetheria"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1466752000"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Dancing Dragon Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Komodo"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_18"		"1"
+			"category_23"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1452887785"
+		"metacritic_score"		"77"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/echoes-of-aetheria?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"354740"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"492"
+			"2"		"5577"
+			"3"		"1777"
+			"4"		"4434"
+		}
+		"review_score"		"8"
+		"review_percentage"		"85"
+	}
+	"extended"
+	{
+		"developer"		"Dancing Dragon Games"
+		"publisher"		"Komodo"
+		"homepage"		"http://www.dancingdragongames.com/"
+		"listofdlc"		"433021"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Echoes Of Aetheria"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"game.exe"
+				"description"		"Play Echoes of Aetheria"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Echoes of Aetheria Strategy Guide.pdf"
+				"description"		"View Strategy Guide"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"ownsdlc"		"433021"
+				}
+			}
+			"2"
+			{
+				"executable"		"Echoes of Aetheria Art Book.pdf"
+				"description"		"View Artbook"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"ownsdlc"		"433030"
+				}
+			}
+			"3"
+			{
+				"executable"		"steamshim/parent.amd64"
+				"arguments"		"./EchoesOfAetheria.amd64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+			"4"
+			{
+				"executable"		"steamshim/parent.x86"
+				"arguments"		"./EchoesOfAetheria.x86"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"32"
+				}
+			}
+			"5"
+			{
+				"executable"		"EchoesOfAetheria.app/Contents/MacOS/steamshim_parent"
+				"arguments"		"EchoesOfAetheria.app/Contents/MacOS/mkxp"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,french"
+		"354741"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6751851825011265347"
+					"size"		"506967720"
+					"download"		"496661552"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"F974EB68BD0D06CEE4C029F938C10A77"
+					"size"		"1FDE36081F5696BBC8A52BE6CE621D24"
+					"download"		"0F9AE31EFF6B422431BE9A8BC388AF6B"
+				}
+				"linux_beta"
+				{
+					"gid"		"A19F6BBC67EDA822A5E0A380FF838489"
+					"size"		"91982FEB915C964025933DD2BF1ABD07"
+					"download"		"AF43BB496B53C0EF82C5DC61EA22EB81"
+				}
+			}
+		}
+		"354742"
+		{
+			"config"
+			{
+				"language"		"french"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5383859466007323697"
+					"size"		"126064902"
+					"download"		"126916640"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"EC67C8AED3EAC20000B421F6FBAB13EF"
+					"size"		"582A6D5F5A6A6FFF74D5F6D18D8C1800"
+					"download"		"F3AA512628C58C275AF1FB878ED92174"
+				}
+				"linux_beta"
+				{
+					"gid"		"A16554C7A57224D7F005EA9EBEA9AAFF"
+					"size"		"7D87856CA4DD0B6263D14ACA74F390EF"
+					"download"		"66C20E9253FA2B1DDB021A810D5BE6B1"
+				}
+			}
+		}
+		"433020"
+		{
+			"dlcappid"		"433020"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7551858629443197136"
+					"size"		"58478222"
+					"download"		"57721152"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"17DBC3843D4AE8CB5BE5DDF5AD86D7BB"
+					"size"		"160DAE460645977F1FA5ADBEACED5AB6"
+					"download"		"5C23CB27443E0B5011DE50EDB38651C7"
+				}
+				"linux_beta"
+				{
+					"gid"		"8B5356BA5C271D9BA71DCD1C54F88217"
+					"size"		"3A68185C63D4056CA71F5BB48403D85F"
+					"download"		"5C5E8E83227CF93696CB9DAF81027A40"
+				}
+			}
+		}
+		"433021"
+		{
+			"dlcappid"		"433021"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6129657297862963497"
+					"size"		"10999977"
+					"download"		"9463392"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"DBA99947C0F5B3B988A10D9D7470AC06"
+					"size"		"D353E6C5A1385943F84C1F0ADC6B416E"
+					"download"		"B27CB6002A7F454E4B0A3222A490F6A0"
+				}
+				"linux_beta"
+				{
+					"gid"		"2EF71B3A49FD2713C078EBF744AC8098"
+					"size"		"C4F92E2C6DE6866098AEF857AFF391FA"
+					"download"		"7D8B4D1874E1962AAD5A1C21C671846B"
+				}
+			}
+		}
+		"433030"
+		{
+			"dlcappid"		"433030"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5923632049962432555"
+					"size"		"1638878"
+					"download"		"1435536"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"DF321883C5D2B2CAC5F25F0607A1FE24"
+					"size"		"FF77BFF38922BA6E284E0326DD23E9A3"
+					"download"		"9531492FD23E95596F51AF9B96FAB968"
+				}
+				"linux_beta"
+				{
+					"gid"		"D9789692C46A36D7CA5F9FC69F35CAE6"
+					"size"		"43E32866CAB5F51DBCA8013C7E10EFE7"
+					"download"		"4231153762F0F10D5FB2C2A8B0263E58"
+				}
+			}
+		}
+		"354743"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2068265160406258940"
+					"size"		"398096881"
+					"download"		"370812080"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"linux_beta"
+				{
+					"gid"		"77D7E8EF0A8724C8AA0DDF7BBCFD88CB"
+					"size"		"26A0965BF8B9B5DCF5FA1B66E0A95676"
+					"download"		"0001818A2E39987E3AB1AAEC11E58187"
+				}
+			}
+		}
+		"354744"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1444403213254588748"
+					"size"		"402602832"
+					"download"		"370613392"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"linux_beta"
+				{
+					"gid"		"9379E2084BE6E64C2CC6A149751CAE05"
+					"size"		"9FF19C3C9F3D7B43A17EA55C13A37680"
+					"download"		"15018411B9D3A47422AC5E0FC3829E3F"
+				}
+			}
+		}
+		"354745"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2661656"
+				"timeupdated"		"1522911594"
+			}
+			"beta"
+			{
+				"buildid"		"2660998"
+				"pwdrequired"		"1"
+				"timeupdated"		"1522889780"
+			}
+			"linux_beta"
+			{
+				"buildid"		"1751431"
+				"pwdrequired"		"1"
+				"timeupdated"		"1491985089"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"20"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"Echoes of Aetheria/"
+				"pattern"		"*.rvdata2"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
