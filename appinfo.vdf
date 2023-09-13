@@ -1,0 +1,377 @@
+"appinfo"
+{
+	"appid"		"428830"
+	"common"
+	{
+		"name"		"Save the Dodos"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"04a06131a558649cec979593371e67044051e151"
+		"logo_small"		"04a06131a558649cec979593371e67044051e151_thumb"
+		"icon"		"8ac54b36b77231e7753f1819e287b8bda54de320"
+		"clienticon"		"6b74cda41b39e12a5864e408f5908021659e7ef1"
+		"clienttga"		"1872a6461898e8b4494ee2cac28caa2fe6c77311"
+		"oslist"		"windows,macos,linux"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"russian"		"1"
+			"portuguese"		"1"
+			"polish"		"1"
+			"hungarian"		"1"
+		}
+		"metacritic_name"		"Save the Dodos"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1462866609"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"3DDUO"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"SOEDESCO Publishing"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"SOEDESCO Publishing"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_29"		"1"
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"hungarian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1461333180"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"428830"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"597"
+			"2"		"1664"
+			"3"		"5350"
+			"4"		"3871"
+			"5"		"4182"
+			"6"		"4305"
+			"7"		"4726"
+			"8"		"17337"
+			"9"		"1773"
+			"10"		"4026"
+		}
+		"review_score"		"8"
+		"review_percentage"		"88"
+	}
+	"extended"
+	{
+		"developer"		"3DDUO"
+		"publisher"		"SOEDESCO Publishing"
+		"homepage"		"http://www.fun4family.com"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Save the Dodos"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"std.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"std"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"2"
+			{
+				"executable"		"nwjs.app"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"428831"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2620665079355865521"
+					"size"		"135917260"
+					"download"		"63325120"
+				}
+				"beta"
+				{
+					"gid"		"2620665079355865521"
+					"size"		"135917260"
+					"download"		"63325120"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devel"
+				{
+					"gid"		"2CC9E7E18E37F7AD6FD0D502C75AEA3D"
+					"size"		"B0E508EBE3BD49254F154AE93C01E752"
+					"download"		"FBE3D64DCB5B5AFC634957CE8400908F"
+				}
+			}
+		}
+		"428832"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1407128955638069563"
+					"size"		"162414862"
+					"download"		"70993264"
+				}
+				"beta"
+				{
+					"gid"		"1407128955638069563"
+					"size"		"162414862"
+					"download"		"70993264"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devel"
+				{
+					"gid"		"913AE5F0E58DB54C691EC5B5EA4CC21B"
+					"size"		"EECB938C497FAE4F92DD215E48DE3746"
+					"download"		"E028589A36AA876D168BDCB21EB82B05"
+				}
+			}
+		}
+		"428833"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5362330631665166231"
+					"size"		"178487158"
+					"download"		"66440832"
+				}
+				"beta"
+				{
+					"gid"		"5362330631665166231"
+					"size"		"178487158"
+					"download"		"66440832"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devel"
+				{
+					"gid"		"B51A49944F730703D12248682291DEFD"
+					"size"		"14704A360A0084DBB911E4D547BC06CB"
+					"download"		"04153458A4A4F46FF735A4F074BA3077"
+				}
+			}
+		}
+		"428834"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9113992344959217078"
+					"size"		"168418237"
+					"download"		"65885200"
+				}
+				"beta"
+				{
+					"gid"		"9113992344959217078"
+					"size"		"168418237"
+					"download"		"65885200"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devel"
+				{
+					"gid"		"D6DB31A2D3466FD7624F993EB135E78F"
+					"size"		"D081560DAB0078F30D8AC561A673C111"
+					"download"		"B7F9FF1D64A4924672325A4BD3213542"
+				}
+			}
+		}
+		"428835"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1207252411926009273"
+					"size"		"158552370"
+					"download"		"63504256"
+				}
+				"beta"
+				{
+					"gid"		"1207252411926009273"
+					"size"		"158552370"
+					"download"		"63504256"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devel"
+				{
+					"gid"		"4E255C92BEDC8AB5B1701B77C789F93F"
+					"size"		"499A47DB322C778AF37BC9D9DCB02865"
+					"download"		"32535753CA6779081836D7BAF3912135"
+				}
+			}
+		}
+		"455030"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3798181526916433132"
+					"size"		"164021050"
+					"download"		"131812640"
+				}
+				"beta"
+				{
+					"gid"		"3798181526916433132"
+					"size"		"164021050"
+					"download"		"131812640"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devel"
+				{
+					"gid"		"58F9A406821C0586D53B54C853A144E5"
+					"size"		"8B80FBE683C707F73092158A6F464A6C"
+					"download"		"7F2C030BD9D95D8FE2E5AB2837FDB7AD"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1131250"
+				"timeupdated"		"1463475779"
+			}
+			"beta"
+			{
+				"buildid"		"1131250"
+				"timeupdated"		"1463475347"
+			}
+			"devel"
+			{
+				"buildid"		"1131250"
+				"pwdrequired"		"1"
+				"timeupdated"		"1463475234"
+			}
+		}
+	}
+}
