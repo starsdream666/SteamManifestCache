@@ -1,0 +1,114 @@
+"appinfo"
+{
+	"appid"		"1502"
+	"common"
+	{
+		"clienticon"		"1adf24e46406b8766ffa507621199489313544ef"
+		"clienttga"		"98bc4f63d2a69d55381eef5dac897f27ec72c2b0"
+		"logo"		"d347581c3521cfc4e35b2120d1aff84ac5f1f83b"
+		"logo_small"		"0b26ab1ab1ca133c3eb0fb7cf0e6a6cbef26f73f"
+		"metacritic_url"		"pc/darwinia"
+		"name"		"Darwinia Demo"
+		"type"		"Demo"
+		"freeondemand"		"1"
+		"parent"		"1500"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Introversion Software"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Introversion Software"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"2"
+			"1"		"5"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_10"		"1"
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1121324400"
+		"gameid"		"1502"
+	}
+	"extended"
+	{
+		"demoofappid"		"1500"
+		"developer"		"Introversion Software"
+		"developer_url"		"http://www.introversion.co.uk/"
+		"gamedir"		"Darwinia Demo"
+		"gamemanualurl"		"http://www.darwinia.co.uk/extras/manual/DarwiniaManual.pdf"
+		"homepage"		"http://www.darwinia.co.uk/"
+		"icon"		"steam/games/icon_darwinia"
+		"noservers"		"1"
+		"onquitdemoshellexecute"		"steam://store/1500"
+		"order"		"21"
+		"primarycache"		"1503"
+		"state"		"eStateAvailable"
+		"visibleonlywheninstalled"		"1"
+		"visibleonlywhensubscribed"		"1"
+		"publisher"		"Introversion Software"
+	}
+	"config"
+	{
+		"usemms"		""
+		"contenttype"		"3"
+		"installdir"		"Darwinia Demo"
+		"launch"
+		{
+			"0"
+			{
+				"description"		"darwinia"
+				"executable"		"darwinia.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"1503"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9025280870067056927"
+					"size"		"19578551"
+					"download"		"0"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"242353"
+			}
+		}
+	}
+}
