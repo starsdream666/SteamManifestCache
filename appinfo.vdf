@@ -1,0 +1,76 @@
+"appinfo"
+{
+	"appid"		"640"
+	"common"
+	{
+		"name"		"Alien Swarm - SDK"
+		"clienticon"		"e3d1e6143f2c0e274b2bf6432b9cd35c81a2269a"
+		"clienttga"		"d02c74f76431a829dea58c69d0c8ed7e2f246a17"
+		"icon"		"2263391453e3f77856db1078f0f168fb99dd2c51"
+		"logo"		"0d0b3dcc49966c02f3803463503b99b185e69945"
+		"logo_small"		"0d0b3dcc49966c02f3803463503b99b185e69945_thumb"
+		"type"		"Tool"
+		"parent"		"630"
+		"associations"
+		{
+		}
+		"gameid"		"640"
+		"exfgls"		"1"
+	}
+	"extended"
+	{
+		"developer"		"Valve"
+		"disableoverlay"		"1"
+		"gamedir"		"valve"
+		"homepage"		"http://developer.valvesoftware.com"
+		"icon"		""
+		"noservers"		"1"
+		"order"		"20"
+		"primarycache"		"641"
+		"state"		"eStateTool"
+	}
+	"config"
+	{
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"bin\\sdklauncher.exe"
+			}
+		}
+		"contenttype"		"3"
+		"installdir"		"Alien Swarm"
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"641"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7308842634544344255"
+					"size"		"297610347"
+					"download"		"62668672"
+				}
+			}
+		}
+		"631"
+		{
+			"systemdefined"		"1"
+			"depotfromapp"		"630"
+			"sharedinstall"		"2"
+		}
+		"markdlcdepots"		"0"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5587480"
+				"timeupdated"		"1600919482"
+			}
+		}
+	}
+}
