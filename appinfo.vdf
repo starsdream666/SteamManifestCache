@@ -1,0 +1,604 @@
+"appinfo"
+{
+	"appid"		"241240"
+	"common"
+	{
+		"name"		"Contraption Maker"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"clienticns"		"23065bb3f2e6bb93f3b1358b22c6127597f7e63b"
+		"clienticon"		"cf3eff80f210b3a7142da7072a962d7f896b3eb0"
+		"clienttga"		"04141dba0708c1be927a521f2a437fbe8fdab108"
+		"icon"		"28a188e595676a06573ac01fae9fafda2457bf4c"
+		"logo"		"edbe8f53e518ad9effb167f01c5ce2ae3bc51788"
+		"logo_small"		"edbe8f53e518ad9effb167f01c5ce2ae3bc51788_thumb"
+		"osarch"		""
+		"osextended"		"macos64"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1645056000"
+			"tested_build_id"		"7156924"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-1"
+				"requires_h264"		"0"
+			}
+		}
+		"metacritic_name"		"Contraption Maker"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"39.99999999999999"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1692471491"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Kevin Ryan"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Top Meadow"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Kevin Ryan"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_17"		"1"
+			"category_30"		"1"
+			"category_1"		"1"
+			"category_27"		"1"
+			"category_29"		"1"
+			"category_22"		"1"
+			"category_38"		"1"
+			"category_9"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1404753075"
+		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"241240"
+		"store_tags"
+		{
+			"0"		"5537"
+			"1"		"3968"
+			"2"		"3810"
+			"3"		"3871"
+			"4"		"1664"
+			"5"		"1643"
+			"6"		"5350"
+			"7"		"5432"
+			"8"		"599"
+			"9"		"255534"
+			"10"		"5379"
+			"11"		"8122"
+			"12"		"4305"
+			"13"		"1669"
+			"14"		"4726"
+			"15"		"597"
+			"16"		"4562"
+			"17"		"4195"
+			"18"		"6129"
+			"19"		"1719"
+		}
+		"review_score"		"8"
+		"review_percentage"		"91"
+	}
+	"extended"
+	{
+		"checkpkgstate"		"1"
+		"developer"		"Kevin Ryan"
+		"gamedir"		"ValveTestApp241240"
+		"homepage"		"http://contraptionmaker.com"
+		"icon"		""
+		"noservers"		"0"
+		"sourcegame"		"1"
+		"state"		"eStateComingSoonNoPreload"
+		"visibleonlywhensubscribed"		"1"
+		"publisher"		"Top Meadow"
+		"listofdlc"		"462540,745580,786010"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"ContraptionMaker"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ContraptionMaker.exe"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"ContraptionMaker.app"
+				"description"		"New Launch - 026"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"3"
+			{
+				"executable"		"ContraptionMaker"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"markdlcdepots"		"1"
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"241241"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4568300528473542892"
+					"size"		"301531057"
+					"download"		"249762992"
+				}
+				"113final"
+				{
+					"gid"		"2811395556721263653"
+					"size"		"226647453"
+					"download"		"192630672"
+				}
+				"comingsoon"
+				{
+					"gid"		"4568300528473542892"
+					"size"		"301531057"
+					"download"		"249762992"
+				}
+				"macosx64"
+				{
+					"gid"		"8369373633613861286"
+					"size"		"301475725"
+					"download"		"249720752"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"114-patch"
+				{
+					"gid"		"9DE988744C0A1603620E7BA5CAB844E6"
+					"size"		"78E67C26D5DF3626AAD206E9521F04E7"
+					"download"		"8A7EC3F68F1927EAB3314DCC309B2A1A"
+				}
+				"121beta"
+				{
+					"gid"		"4D91A11405E0352A395CB27A63FB0F89"
+					"size"		"748C0A3636D45A9A9118B84DECF8F340"
+					"download"		"BFB19C9D584B9FBBFFB7D8556A037719"
+				}
+				"130beta"
+				{
+					"gid"		"89A087C59C5D62419C0DE323F5C41687"
+					"size"		"C3E2331BC74593F0842DE53412B78AC4"
+					"download"		"9D4049749FAD675017D6A9D8546ADB00"
+				}
+				"140beta"
+				{
+					"gid"		"93F1F35762C1F6120559230C2D08041C"
+					"size"		"875DE95935A60068CCFA7F39666D84F9"
+					"download"		"EEED09D9284AD5A275E9FD2BE3176B36"
+				}
+				"charfix"
+				{
+					"gid"		"40FDCB1BDD59757A3E34A6875AEDACC8"
+					"size"		"0896A6831D4CEA60B446465BC5EE96D0"
+					"download"		"E7E234C9E212AC31DD06FB4BDE306F25"
+				}
+				"v135beta"
+				{
+					"gid"		"CFE2F319784AA45878C6419FD0FF50AE"
+					"size"		"7F5B31E6DFD6B6DCDF69CD7E9CE0614D"
+					"download"		"BAE0A814348B114CB2BED7C2D5481187"
+				}
+				"v136beta"
+				{
+					"gid"		"ACC71846A5F11DD662C1DE00B939A975"
+					"size"		"31D1CD8B73CF21A3C8FF3459381425C9"
+					"download"		"0F5C1B59B8E5E9CE50D6F26B4C0F67C0"
+				}
+				"v137"
+				{
+					"gid"		"71F537EE52543C40105DBAD065A3463A"
+					"size"		"A13AC6BC69FCAC8E4D0F45E99D57AE68"
+					"download"		"D7C6A1570D922330D6AA41821D35C111"
+				}
+			}
+		}
+		"241242"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1927853830184517043"
+					"size"		"305029785"
+					"download"		"250278704"
+				}
+				"113final"
+				{
+					"gid"		"8959795555727682205"
+					"size"		"230924008"
+					"download"		"193050912"
+				}
+				"comingsoon"
+				{
+					"gid"		"1927853830184517043"
+					"size"		"305029785"
+					"download"		"250278704"
+				}
+				"macosx64"
+				{
+					"gid"		"2116656355299367715"
+					"size"		"304970839"
+					"download"		"250236192"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"114-patch"
+				{
+					"gid"		"63C4EC724D8DF5A1CD683FA1769CBEAB"
+					"size"		"427796B5BCAFC567A063826C151C6640"
+					"download"		"BEFE74DFA389D421C30AF46D47C52727"
+				}
+				"121beta"
+				{
+					"gid"		"73D02687F338E5AA77A8D3B5CF8C607A"
+					"size"		"85CEC0A21066DF7F98E8A7FB23476798"
+					"download"		"90CB7E57ABF0815457C92402A459DDF8"
+				}
+				"130beta"
+				{
+					"gid"		"45905A86C52F499E1FF344D726F0E402"
+					"size"		"EDFF0321408502E8EBA08F9C164A5352"
+					"download"		"17B75E4BE5D65D8438284D3B5A795C9C"
+				}
+				"140beta"
+				{
+					"gid"		"64EF600EBC76B7377588880D09654F8B"
+					"size"		"B686666F4C036F3CDE8DD94A82E0D2DC"
+					"download"		"92943E56FAFB73F38ECAB7ECA1112542"
+				}
+				"charfix"
+				{
+					"gid"		"06BE896659D21570ECC12F33F4322CD9"
+					"size"		"880DD124FD1D0093B131269833A171E8"
+					"download"		"F66720A716D5D24BC055C2ED05A727A5"
+				}
+				"v135beta"
+				{
+					"gid"		"401C38267526CF951B3031B01031ABC5"
+					"size"		"6C797598F4CE9B918E95AAE12538CC30"
+					"download"		"6A1E0440ADDDE4F2B2AA3E0AD7809B47"
+				}
+				"v136beta"
+				{
+					"gid"		"5C1E5135A166977B1DF54E7120D1F297"
+					"size"		"0A1475FAC0CEACEEF297D2507816E69C"
+					"download"		"6369F5FDFB89DDB2C3375D34F9A987A0"
+				}
+				"v137"
+				{
+					"gid"		"408E1FF2F55916E5ABF48094FDF2E86D"
+					"size"		"65F15074530AD78231A23E3FF79D04D4"
+					"download"		"C5F6E87321AEE74C07796F14624CC728"
+				}
+			}
+		}
+		"241243"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8609114747681836085"
+					"size"		"306506376"
+					"download"		"250430208"
+				}
+				"comingsoon"
+				{
+					"gid"		"8609114747681836085"
+					"size"		"306506376"
+					"download"		"250430208"
+				}
+				"macosx64"
+				{
+					"gid"		"5287802943090647838"
+					"size"		"306452434"
+					"download"		"250393216"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"114-patch"
+				{
+					"gid"		"C471BEAB44D4D7AAD88657AD1C3DEDC1"
+					"size"		"181011B49F47A33143C53365EF64B9FD"
+					"download"		"AB4685C6B4D90359183440C3B566B366"
+				}
+				"121beta"
+				{
+					"gid"		"BF98E1EA9E7F396BD6E2827316A59AA7"
+					"size"		"EF8E50E5E47DB8C894F278DCC24E8FF5"
+					"download"		"4431D348432F82B9B6051E6F708106C8"
+				}
+				"130beta"
+				{
+					"gid"		"2DAE3B0CCF0C671851F70AD2F9C4AD54"
+					"size"		"697E09C8150C64B2C36BC0DC27201A72"
+					"download"		"DEA9AD995352A05A5EA5CBEC10886094"
+				}
+				"140beta"
+				{
+					"gid"		"7075D446263107C29BB22854FE9AD85A"
+					"size"		"62AD4BC465CE8544B5D6DC755176F78F"
+					"download"		"9400A4758DF24982538A36C6BB6D25A9"
+				}
+				"charfix"
+				{
+					"gid"		"B997EC495D035F89834D5B0E3E2FF572"
+					"size"		"4C8BF1FC94264D80D8B213E8118D30BA"
+					"download"		"A98955F1A26BF56DA6F3D209898D612C"
+				}
+				"v135beta"
+				{
+					"gid"		"770965F8DAA932917959838957EA2DA5"
+					"size"		"1B87E8438AB4E33985258CD2C391FB37"
+					"download"		"E32EA33623D9E78CCE37B2E60212CA49"
+				}
+				"v136beta"
+				{
+					"gid"		"D35E53681ECCEB807462F2531BA57010"
+					"size"		"4C563BA39E4E16A17ECC78FD033956D0"
+					"download"		"FFFAAE116DFE9FFB364D8378F8A01C50"
+				}
+				"v137"
+				{
+					"gid"		"A37C06D8B9FB109ADBC098C346D1DF79"
+					"size"		"0827EF37729CDFBF625BE048F6F82808"
+					"download"		"261AFBCB6DC23F67F8C6225279C0832A"
+				}
+			}
+		}
+		"241244"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"912073132234701705"
+					"size"		"308176506"
+					"download"		"250341056"
+				}
+				"comingsoon"
+				{
+					"gid"		"912073132234701705"
+					"size"		"308176506"
+					"download"		"250341056"
+				}
+				"macosx64"
+				{
+					"gid"		"5399084246900913109"
+					"size"		"308125752"
+					"download"		"250296352"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7156924"
+				"timeupdated"		"1628452036"
+			}
+			"113final"
+			{
+				"buildid"		"527335"
+				"description"		"Works on XP - Not Supported"
+			}
+			"114-patch"
+			{
+				"buildid"		"598311"
+				"pwdrequired"		"1"
+			}
+			"121beta"
+			{
+				"buildid"		"827570"
+				"pwdrequired"		"1"
+			}
+			"130beta"
+			{
+				"buildid"		"948206"
+				"pwdrequired"		"1"
+			}
+			"140beta"
+			{
+				"buildid"		"1553999"
+				"pwdrequired"		"1"
+				"timeupdated"		"1483670480"
+			}
+			"charfix"
+			{
+				"buildid"		"2540197"
+				"pwdrequired"		"1"
+				"timeupdated"		"1519104303"
+			}
+			"comingsoon"
+			{
+				"buildid"		"7156924"
+				"description"		"Sneak peak at new stuff."
+				"timeupdated"		"1628436727"
+			}
+			"macosx64"
+			{
+				"buildid"		"4658325"
+				"description"		"Mac 64-bit Build"
+				"timeupdated"		"1581306129"
+			}
+			"v135beta"
+			{
+				"buildid"		"1454425"
+				"pwdrequired"		"1"
+				"timeupdated"		"1478910499"
+			}
+			"v136beta"
+			{
+				"buildid"		"2259928"
+				"pwdrequired"		"1"
+				"timeupdated"		"1509931346"
+			}
+			"v137"
+			{
+				"buildid"		"3330074"
+				"pwdrequired"		"1"
+				"timeupdated"		"1542862662"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1400000000"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"data"
+				"pattern"		"puzzles.data"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacDocuments"
+				"addpath"		"contraptionmaker"
+			}
+		}
+	}
+}
