@@ -1,0 +1,549 @@
+"appinfo"
+{
+	"appid"		"331670"
+	"common"
+	{
+		"name"		"The Jackbox Party Pack"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"logo"		"24e4322e5380b62a149474fe054c4be44e60865b"
+		"logo_small"		"24e4322e5380b62a149474fe054c4be44e60865b_thumb"
+		"icon"		"fef26835ea421361c1ba7e9f3ddad5fdaae2e581"
+		"clienticon"		"06c990f9a641ea291ab6dd545a44fc8d57012b2b"
+		"clienttga"		"1899784745395748e48ae624ab27b6328268f9b9"
+		"clienticns"		"7b644caa16d39f89328623f16e651ddd772667e0"
+		"osarch"		""
+		"osextended"		"macos64"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1646179200"
+			"tested_build_id"		"7667348"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+			}
+		}
+		"metacritic_name"		"The Jackbox Party Pack"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"63.88788377712888"
+			}
+		}
+		"store_asset_mtime"		"1667412537"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Jackbox Games, Inc."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Jackbox Games, Inc."
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Jackbox Games"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_2"		"1"
+			"category_18"		"1"
+			"category_37"		"1"
+			"category_39"		"1"
+			"category_41"		"1"
+			"category_42"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_9"		"1"
+			"category_44"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1417027860"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"331670"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"10437"
+			"2"		"7108"
+			"3"		"7368"
+			"4"		"4136"
+			"5"		"492"
+			"6"		"9"
+			"7"		"3859"
+			"8"		"1719"
+			"9"		"7178"
+			"10"		"1770"
+			"11"		"1685"
+			"12"		"5350"
+			"13"		"4840"
+			"14"		"3841"
+		}
+		"review_score"		"8"
+		"review_percentage"		"91"
+	}
+	"extended"
+	{
+		"developer"		"Jackbox Games, Inc."
+		"publisher"		"Jackbox Games, Inc."
+		"homepage"		"http://jackboxgames.com"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"The Jackbox Party Pack"
+		"launch"
+		{
+			"2"
+			{
+				"executable"		"Launcher.sh"
+				"description"		"Launch"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+			"3"
+			{
+				"executable"		"The Jackbox Party Pack.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"4"
+			{
+				"executable"		"The Jackbox Party Pack.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"5"
+			{
+				"executable"		"TJPP.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"legacy"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamcontrollertouchtemplateindex"		"1"
+		"steamcontrollertouchconfigdetails"
+		{
+			"1862359189"
+			{
+				"controller_type"		"controller_mobile_touch"
+				"enabled_branches"		"default"
+				"use_action_block"		"false"
+			}
+		}
+	}
+	"depots"
+	{
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228987"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"331671"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"885945984490543747"
+					"size"		"1372880771"
+					"download"		"1199757280"
+				}
+				"linux-beta"
+				{
+					"gid"		"885945984490543747"
+					"size"		"1372880771"
+					"download"		"1199757280"
+				}
+				"support"
+				{
+					"gid"		"885945984490543747"
+					"size"		"1372880771"
+					"download"		"1199757280"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"latest"
+				{
+					"gid"		"23657B185BF3FADC9325C36994CC7C54"
+					"size"		"AB3E9517D4DC4E478CD2D0A898ED367B"
+					"download"		"DAAB5E38A0C598DA9977B34BA4C47D3F"
+				}
+				"legacy"
+				{
+					"gid"		"693E9E3DB5BFB92E5A2889F38DDEB8F8"
+					"size"		"533CE708653EDAD1A3CCB4B5996D8442"
+					"download"		"E3670DC7EE5D29D54C182EA087857277"
+				}
+				"test"
+				{
+					"gid"		"AB12E5E274E7B7EA1C16BBB72C6C8C8C"
+					"size"		"CE84B3B1B250988262F2DF653E8FFC29"
+					"download"		"39E0D886BC58FF18D8227AACE8C3535B"
+				}
+			}
+		}
+		"331674"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7769939223823843189"
+					"size"		"20693312"
+					"download"		"10753808"
+				}
+				"linux-beta"
+				{
+					"gid"		"7769939223823843189"
+					"size"		"20693312"
+					"download"		"10753808"
+				}
+				"support"
+				{
+					"gid"		"7769939223823843189"
+					"size"		"20693312"
+					"download"		"10753808"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"latest"
+				{
+					"gid"		"47F1C9C64CAFCEE5F43F09E043F81189"
+					"size"		"82A338DB692D05656B9B14C863B09B07"
+					"download"		"0078211FFB6308A28C278CAB3678A87E"
+				}
+				"legacy"
+				{
+					"gid"		"AE2A709F8C5DC4EA2542253560C3627F"
+					"size"		"A3863BCAC082D5A63E033B463FF1E0E4"
+					"download"		"3940AE3969E1456A98BF0B5D08C21CBF"
+				}
+				"test"
+				{
+					"gid"		"12F0BB06C5BAFE7725A6E7CBF545095A"
+					"size"		"4085D91D299C8AB60994E87FA01BA1FC"
+					"download"		"D8307F87CA3D937011AC625FF19941DB"
+				}
+			}
+		}
+		"331675"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"950055401850909827"
+					"size"		"23955744"
+					"download"		"12238208"
+				}
+				"linux-beta"
+				{
+					"gid"		"950055401850909827"
+					"size"		"23955744"
+					"download"		"12238208"
+				}
+				"support"
+				{
+					"gid"		"950055401850909827"
+					"size"		"23955744"
+					"download"		"12238208"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"latest"
+				{
+					"gid"		"792E64016E98AB7DC8F4C3366273A255"
+					"size"		"821D78810C09D40F4CFC70FCF33320CC"
+					"download"		"474307EA992DBAF5BD02D5DF745A9D68"
+				}
+				"legacy"
+				{
+					"gid"		"5C6B96E16EF2932CC54C7A12A65A0CF8"
+					"size"		"CB6D709E8076CA11E4C43623EE667987"
+					"download"		"403BB8ECFF335FE34529BC971EECB8FD"
+				}
+				"test"
+				{
+					"gid"		"162BAFDBFF5598E213D34F214C348DD0"
+					"size"		"26488F1CFFA5B4ED06C3051C1995CBA6"
+					"download"		"BF0F3A51C3E6156A447F76F8440B18C6"
+				}
+			}
+		}
+		"331672"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6199778073728253982"
+					"size"		"1438922096"
+					"download"		"1203330032"
+				}
+				"linux-beta"
+				{
+					"gid"		"6199778073728253982"
+					"size"		"1438922096"
+					"download"		"1203330032"
+				}
+				"support"
+				{
+					"gid"		"7362290839598748065"
+					"size"		"664990937"
+					"download"		"623905568"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"latest"
+				{
+					"gid"		"A2114D18AFF27C19355E60A55148E765"
+					"size"		"1893AAAE4A5DA4D7162764E71465F2BA"
+					"download"		"1893AAAE4A5DA4D7162764E71465F2BA"
+				}
+				"legacy"
+				{
+					"gid"		"EBEE7583B1C4AAB30A8290671D34AB11"
+					"size"		"B5AE6E3C8FD88768309B686931AACC0B"
+					"download"		"BD5503791B398B6463937DE7D0A55403"
+				}
+				"test"
+				{
+					"gid"		"8DC9BD07DA95FAB5DC421734FB6F5CF8"
+					"size"		"5CD75BF532C1C50ECD23C0A7A9741844"
+					"download"		"62A04F2E13A575CA73F56ACA6509C692"
+				}
+			}
+		}
+		"331673"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7075024863883990962"
+					"size"		"1133270979"
+					"download"		"996082848"
+				}
+				"linux-beta"
+				{
+					"gid"		"7075024863883990962"
+					"size"		"1133270979"
+					"download"		"996082848"
+				}
+				"support"
+				{
+					"gid"		"6705948818126288445"
+					"size"		"1133354420"
+					"download"		"996172016"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"latest"
+				{
+					"gid"		"41C463B09A65F7B8CBB2BCD900355C38"
+					"size"		"B1A427AF16AE466052061BA1CB0BAA13"
+					"download"		"27EC2274B38C72842A1579CC3357CC8B"
+				}
+				"legacy"
+				{
+					"gid"		"4942326083E7D0354A777EADA3AB3D71"
+					"size"		"960E3DCC671D1948D3F8E2B8DCA37E1A"
+					"download"		"83550D57BEBB4B8C50004F6D31229704"
+				}
+				"test"
+				{
+					"gid"		"3194B60E46C2CF31B11F36BFA75BB50F"
+					"size"		"9032C7B85E9CF0C5CE59CB93284125F4"
+					"download"		"3B8C1A4D4621F88D9E99E9C74F8EAB5C"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7667348"
+				"timeupdated"		"1636163772"
+			}
+			"latest"
+			{
+				"buildid"		"4693377"
+				"pwdrequired"		"1"
+				"timeupdated"		"1582134325"
+			}
+			"legacy"
+			{
+				"buildid"		"4204956"
+				"pwdrequired"		"1"
+				"timeupdated"		"1568756998"
+			}
+			"linux-beta"
+			{
+				"buildid"		"7667317"
+				"description"		"Linux beta branch"
+				"timeupdated"		"1636163345"
+			}
+			"support"
+			{
+				"buildid"		"3779307"
+				"timeupdated"		"1556575128"
+			}
+			"test"
+			{
+				"buildid"		"3779307"
+				"pwdrequired"		"1"
+				"timeupdated"		"1556575137"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"5000000"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"save"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
