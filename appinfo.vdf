@@ -1,0 +1,171 @@
+"appinfo"
+{
+	"appid"		"17550"
+	"common"
+	{
+		"name"		"Eternal Silence"
+		"logo"		"d0465552ca1173ef0ec5d39ea5c28b41834395fb"
+		"logo_small"		"fdcae2c3fd1b256a20bb1d058d8d3f8cf6915d48"
+		"clienttga"		"504c5a0c70a361c666986a3670a86a699def5856"
+		"icon"		"979f824cca46566af439b163776e09f2b832c0ee"
+		"clienticon"		"27c0089f9b76973a0d050ac62df943541787d19e"
+		"oslist"		"windows"
+		"type"		"game"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"ES Team"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_6"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1172736000"
+		"steam_release_date"		"1233950400"
+		"community_hub_visible"		"1"
+		"gameid"		"17550"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"113"
+			"2"		"5348"
+			"3"		"1663"
+			"4"		"1755"
+			"5"		"3942"
+		}
+		"review_score"		"8"
+		"review_percentage"		"86"
+	}
+	"extended"
+	{
+		"developer"		"ES Team"
+		"gamedir"		"esmod"
+		"homepage"		"http://www.eternal-silence.net/"
+		"icon"		""
+		"loadallbeforelaunch"		"1"
+		"noservers"		"0"
+		"order"		"1"
+		"primarycache"		"17551"
+		"requiredappid"		"215"
+		"serverbrowsername"		"Eternal-Silence"
+		"state"		"eStateAvailable"
+		"vacmacmodulecache"		"160"
+		"vacmodulecache"		"202"
+		"vacmodulefilename"		"sourceinit.dat"
+		"visibleonlywhensubscribed"		"1"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"hl2.exe"
+				"arguments"		"-game esmod -steam"
+				"vacmodulefilename"		"resource\\sourceinit.dat"
+			}
+		}
+		"contenttype"		"3"
+		"installdir"		"Source SDK Base"
+		"convertgcfs"		"1"
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"208"
+		{
+			"systemdefined"		"1"
+			"depotfromapp"		"215"
+			"sharedinstall"		"2"
+		}
+		"207"
+		{
+			"systemdefined"		"1"
+			"depotfromapp"		"215"
+			"sharedinstall"		"2"
+		}
+		"206"
+		{
+			"systemdefined"		"1"
+			"depotfromapp"		"215"
+			"sharedinstall"		"2"
+		}
+		"212"
+		{
+			"systemdefined"		"1"
+			"depotfromapp"		"215"
+			"sharedinstall"		"2"
+		}
+		"17551"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2331363083649090747"
+					"size"		"2096775398"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"0CF778502988D6164089D82CF1847C89"
+					"size"		"1AD3CC2B059E3CA975922F0CB63CD862"
+					"download"		"A4AEFAE760C088A752F2B36203C285CD"
+				}
+			}
+		}
+		"1004"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"215"
+			"sharedinstall"		"2"
+		}
+		"markdlcdepots"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"57943"
+			}
+			"beta"
+			{
+				"buildid"		"57943"
+				"pwdrequired"		"1"
+			}
+		}
+	}
+}
