@@ -1,0 +1,900 @@
+"appinfo"
+{
+	"appid"		"414740"
+	"common"
+	{
+		"name"		"RAID: World War II"
+		"type"		"Game"
+		"clienttga"		"b234173143d9516444cf15e0b532b28f2b31bba2"
+		"clienticon"		"6ddb045e104eed0a61744d70bdabd996c7fa5064"
+		"icon"		"8772cf97be4b32c64657f9acb573fd0faf207d09"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"logo"		"00ada58fc8d4eeb6461f56f03673d2aa2a1c3b81"
+		"logo_small"		"00ada58fc8d4eeb6461f56f03673d2aa2a1c3b81_thumb"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1685750400"
+			"tested_build_id"		"9092102"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"market_presence"		"0"
+		"metacritic_name"		"RAID: World War II"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"50"
+				"height_pct"		"42.40085490382332"
+			}
+		}
+		"store_asset_mtime"		"1567699179"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Lion game Lion"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Starbreeze Publishing AB"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_18"		"1"
+			"category_49"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1506409200"
+		"steam_release_date"		"1506446100"
+		"metacritic_score"		"53"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/raid-world-war-ii?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"414740"
+		"store_tags"
+		{
+			"0"		"4150"
+			"1"		"19"
+			"2"		"1663"
+			"3"		"3859"
+			"4"		"1685"
+			"5"		"1774"
+			"6"		"3839"
+			"7"		"4667"
+			"8"		"1680"
+			"9"		"1687"
+			"10"		"4345"
+			"11"		"21"
+			"12"		"122"
+			"13"		"4182"
+			"14"		"1719"
+			"15"		"1756"
+			"16"		"1721"
+			"17"		"4166"
+			"18"		"10397"
+			"19"		"1678"
+		}
+		"review_score"		"5"
+		"review_percentage"		"54"
+	}
+	"extended"
+	{
+		"developer"		"Lion game Lion"
+		"publisher"		"Starbreeze Publishing AB"
+		"homepage"		"http://www.raidworldwar2.com/"
+		"listofdlc"		"707070,707080,720860,804050"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"RAID World War II"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"raid_win64_release.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"raid_win64_d3d9_release.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"legacy_dx9"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"3"
+	}
+	"depots"
+	{
+		"228984"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english,german,french,italian,spanish,schinese,russian"
+		"414741"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5689419367248457666"
+					"size"		"11772831158"
+					"download"		"10701752432"
+				}
+				"legacy_dx9"
+				{
+					"gid"		"4535531982317956444"
+					"size"		"26731423150"
+					"download"		"10137568960"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta_testing_secondary"
+				{
+					"gid"		"A1F701B7E46AE3E584595538721A7876"
+					"size"		"D6DDA3AAC4264649E47586E55E787042"
+					"download"		"7A092C5251E5C92DFCD15BC900913234"
+				}
+				"lgl_qa"
+				{
+					"gid"		"03E68393916C56E88DACDEFCF975B627"
+					"size"		"283CB6D9EDD355FBC0F85FA7F5B7E96C"
+					"download"		"BBD700829A722EEBEA0E7C749369BE7E"
+				}
+				"modding"
+				{
+					"gid"		"E63B3D852C2BD6508821653974566033"
+					"size"		"532811C46AD42D8CFFD23F287EB1B3E8"
+					"download"		"2F2E2CD19DAD7B7FA67E7F7C35CAF3C0"
+				}
+				"processor_beta"
+				{
+					"gid"		"2EE4ECB0219775717035C4DD6EAA51CA"
+					"size"		"663D041126C443F332FF0E314E837EEB"
+					"download"		"8B5CD757A7AC7057DD556EBC602D9538"
+				}
+				"staging_release"
+				{
+					"gid"		"5CF5994AF9F74B11E5F0A2605535C9C1"
+					"size"		"843E334C098FA5DE4FC7A367187AA1CE"
+					"download"		"13ACF4F5E3A4E574E578F55BBAA0A2D3"
+				}
+			}
+		}
+		"414747"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8024000404612022204"
+					"size"		"11772831158"
+					"download"		"10705881456"
+				}
+				"legacy_dx9"
+				{
+					"gid"		"6045377034341872855"
+					"size"		"26703779588"
+					"download"		"10113446912"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta_testing_secondary"
+				{
+					"gid"		"84540FF113E63ADDC8C6C8D51F0FFB44"
+					"size"		"17F6535C3EFB591C57C6B66542B2F9EF"
+					"download"		"AB292E93AE3405A1EB4CC5C0FB0CB874"
+				}
+				"lgl_qa"
+				{
+					"gid"		"2A1BD4DC46BB9EB09387CDF54C6C1419"
+					"size"		"283CB6D9EDD355FBC0F85FA7F5B7E96C"
+					"download"		"F7A9719A6C570348014A89E50C1E2618"
+				}
+				"modding"
+				{
+					"gid"		"F3DB40343823EEAEE29763A929211139"
+					"size"		"236136F27CEDCB3689F719433014EC13"
+					"download"		"1F46059928E33C5A1E34BCD68B5DE5BB"
+				}
+				"processor_beta"
+				{
+					"gid"		"740DDFA05141F4D108BC633866EAB5E5"
+					"size"		"663D041126C443F332FF0E314E837EEB"
+					"download"		"24472E7E6AA8C13A438910138559DA6D"
+				}
+				"staging_release"
+				{
+					"gid"		"C4FA4E8B57892B2A1D7118FC88BCB304"
+					"size"		"843E334C098FA5DE4FC7A367187AA1CE"
+					"download"		"76BB735CC287ACD1984855CB1A5AF729"
+				}
+			}
+		}
+		"414742"
+		{
+			"config"
+			{
+				"language"		"german"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5461089587238897884"
+					"size"		"1373"
+					"download"		"672"
+				}
+				"legacy_dx9"
+				{
+					"gid"		"5461089587238897884"
+					"size"		"1373"
+					"download"		"672"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta_testing_secondary"
+				{
+					"gid"		"ECAE701DC5795A4A6C5AEE07F4638EA4"
+					"size"		"8008C63464E77CFFBFF6B43B6A7A1C0C"
+					"download"		"880DB1AE62DC69923AFB633C6AA8DB14"
+				}
+				"lgl_qa"
+				{
+					"gid"		"41C6FE99E687D06487085797003F48A2"
+					"size"		"547CDB2554A89D15E1F41403DDDF311A"
+					"download"		"C0EAD1CD0A09C6E89BED61618E3B137D"
+				}
+				"modding"
+				{
+					"gid"		"E9ACE87D1F470EBE07387A9AA951C0C4"
+					"size"		"7301921C98FE705D439BB503A87264C9"
+					"download"		"A653F01F2023A62B01DFDD1EFF5114AD"
+				}
+				"processor_beta"
+				{
+					"gid"		"6EA7C54C150C4344DC4168AA68767D48"
+					"size"		"F41ED19381C094B4269A55A4DBFBDC26"
+					"download"		"37D2750B18D8B275EDE63240ED17CD00"
+				}
+				"staging_release"
+				{
+					"gid"		"862AA9FCD2033304A8EA88744B90D6AA"
+					"size"		"65ACCFE7B85AC96C237D31D0B9715661"
+					"download"		"04C7B4C4D6143A922D1D77EF7F376E36"
+				}
+			}
+		}
+		"414743"
+		{
+			"config"
+			{
+				"language"		"french"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4719048754015046483"
+					"size"		"1373"
+					"download"		"672"
+				}
+				"legacy_dx9"
+				{
+					"gid"		"4719048754015046483"
+					"size"		"1373"
+					"download"		"672"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta_testing_secondary"
+				{
+					"gid"		"61B82191C2A6E6F520568F6D54F1F534"
+					"size"		"8008C63464E77CFFBFF6B43B6A7A1C0C"
+					"download"		"880DB1AE62DC69923AFB633C6AA8DB14"
+				}
+				"lgl_qa"
+				{
+					"gid"		"AF50AC720A8C671D6C5F8FF670323328"
+					"size"		"547CDB2554A89D15E1F41403DDDF311A"
+					"download"		"C0EAD1CD0A09C6E89BED61618E3B137D"
+				}
+				"modding"
+				{
+					"gid"		"8F44D524BE1EC29F360C91DB6A34DC8D"
+					"size"		"7301921C98FE705D439BB503A87264C9"
+					"download"		"A653F01F2023A62B01DFDD1EFF5114AD"
+				}
+				"processor_beta"
+				{
+					"gid"		"7CC2F25FF887834FEF5B16119CFE978B"
+					"size"		"F41ED19381C094B4269A55A4DBFBDC26"
+					"download"		"37D2750B18D8B275EDE63240ED17CD00"
+				}
+				"staging_release"
+				{
+					"gid"		"A24FF25F4A242CF3087414C3393699DB"
+					"size"		"65ACCFE7B85AC96C237D31D0B9715661"
+					"download"		"04C7B4C4D6143A922D1D77EF7F376E36"
+				}
+			}
+		}
+		"414744"
+		{
+			"config"
+			{
+				"language"		"italian"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4174878885898476536"
+					"size"		"1374"
+					"download"		"672"
+				}
+				"legacy_dx9"
+				{
+					"gid"		"4174878885898476536"
+					"size"		"1374"
+					"download"		"672"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta_testing_secondary"
+				{
+					"gid"		"E0F39736D40C3C8404AC110C98C542E0"
+					"size"		"74A8D776AFDF62D221F56742E0C2AE03"
+					"download"		"880DB1AE62DC69923AFB633C6AA8DB14"
+				}
+				"lgl_qa"
+				{
+					"gid"		"7D76A9132C3E4474A2A3D07EA2DBEC98"
+					"size"		"7A1F237A091A9F0B748F4196C58E7D7A"
+					"download"		"C0EAD1CD0A09C6E89BED61618E3B137D"
+				}
+				"modding"
+				{
+					"gid"		"85AD568FDB0E8AD6A8920F6D17729A6A"
+					"size"		"CA5BEF488DB1EA987E101754BD6C28DB"
+					"download"		"A653F01F2023A62B01DFDD1EFF5114AD"
+				}
+				"processor_beta"
+				{
+					"gid"		"8A6297818FFD17A4AD5DE36AE3C67F95"
+					"size"		"F2D95633D84534995207866CE5965F5D"
+					"download"		"37D2750B18D8B275EDE63240ED17CD00"
+				}
+				"staging_release"
+				{
+					"gid"		"383F6B795D18B222B614F82C73391438"
+					"size"		"0E91C0C910CF31A1D6B777272AC35058"
+					"download"		"04C7B4C4D6143A922D1D77EF7F376E36"
+				}
+			}
+		}
+		"414745"
+		{
+			"config"
+			{
+				"language"		"spanish"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"463896024781131342"
+					"size"		"1374"
+					"download"		"672"
+				}
+				"legacy_dx9"
+				{
+					"gid"		"463896024781131342"
+					"size"		"1374"
+					"download"		"672"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta_testing_secondary"
+				{
+					"gid"		"1BD782C02E101A0BA6C64F15AC87A202"
+					"size"		"74A8D776AFDF62D221F56742E0C2AE03"
+					"download"		"880DB1AE62DC69923AFB633C6AA8DB14"
+				}
+				"lgl_qa"
+				{
+					"gid"		"663FCDDE5BE3C55D1F67FAE35CFAC75B"
+					"size"		"7A1F237A091A9F0B748F4196C58E7D7A"
+					"download"		"C0EAD1CD0A09C6E89BED61618E3B137D"
+				}
+				"modding"
+				{
+					"gid"		"508DD3CD7D418E86877A484FFA7ABA62"
+					"size"		"CA5BEF488DB1EA987E101754BD6C28DB"
+					"download"		"A653F01F2023A62B01DFDD1EFF5114AD"
+				}
+				"processor_beta"
+				{
+					"gid"		"014952E7E6F7F24B9E3E57E332F9C49E"
+					"size"		"F2D95633D84534995207866CE5965F5D"
+					"download"		"37D2750B18D8B275EDE63240ED17CD00"
+				}
+				"staging_release"
+				{
+					"gid"		"AF861B8E0A2BC04787F627A7E377296D"
+					"size"		"0E91C0C910CF31A1D6B777272AC35058"
+					"download"		"04C7B4C4D6143A922D1D77EF7F376E36"
+				}
+			}
+		}
+		"414746"
+		{
+			"config"
+			{
+				"language"		"russian"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7130948976647061238"
+					"size"		"1374"
+					"download"		"672"
+				}
+				"legacy_dx9"
+				{
+					"gid"		"7130948976647061238"
+					"size"		"1374"
+					"download"		"672"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta_testing_secondary"
+				{
+					"gid"		"EFAAB2851C66A9636931DA442C5A97C5"
+					"size"		"74A8D776AFDF62D221F56742E0C2AE03"
+					"download"		"880DB1AE62DC69923AFB633C6AA8DB14"
+				}
+				"lgl_qa"
+				{
+					"gid"		"F78833810DF17B00E7397C231C1E30E0"
+					"size"		"7A1F237A091A9F0B748F4196C58E7D7A"
+					"download"		"C0EAD1CD0A09C6E89BED61618E3B137D"
+				}
+				"modding"
+				{
+					"gid"		"5E99ED36F8B16B633A9A958528AAC786"
+					"size"		"CA5BEF488DB1EA987E101754BD6C28DB"
+					"download"		"A653F01F2023A62B01DFDD1EFF5114AD"
+				}
+				"processor_beta"
+				{
+					"gid"		"C6F4DDBAC6390D8D6CEE47F9DBE8DB5C"
+					"size"		"F2D95633D84534995207866CE5965F5D"
+					"download"		"37D2750B18D8B275EDE63240ED17CD00"
+				}
+				"staging_release"
+				{
+					"gid"		"55FAB009B471FA47BBFA9B559D5C9BE3"
+					"size"		"0E91C0C910CF31A1D6B777272AC35058"
+					"download"		"04C7B4C4D6143A922D1D77EF7F376E36"
+				}
+			}
+		}
+		"414748"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		"schinese"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8560636920066673951"
+					"size"		"1385"
+					"download"		"688"
+				}
+				"legacy_dx9"
+				{
+					"gid"		"8560636920066673951"
+					"size"		"1385"
+					"download"		"688"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta_testing_secondary"
+				{
+					"gid"		"80C265D850972193558AAB834498264C"
+					"size"		"1222A20A13B60F58B15129EEBBE29A23"
+					"download"		"5C24B469EFD6E0E3C3801F4AE91F64E8"
+				}
+				"lgl_qa"
+				{
+					"gid"		"10D0432C889CD2F3DA565EBDB158BE32"
+					"size"		"95CCD32F8609447069EE96A00B760F33"
+					"download"		"14DA5B67877CCE3F58C89823A73CE2D0"
+				}
+				"modding"
+				{
+					"gid"		"BBDBC64E7F2687F6789E6363DD3ECD2C"
+					"size"		"7556D9652EEC410B72BAB4AEA120A41C"
+					"download"		"F518B1DC27B8B7FEF4935C23283E454A"
+				}
+				"processor_beta"
+				{
+					"gid"		"7F5C339CE6FBB0F5B2CB81B1F2B63287"
+					"size"		"8EF7F6545871A8D61D9FC083FE3274E0"
+					"download"		"6A0ADC60E53C37E0814DD84AAD8E9373"
+				}
+				"staging_release"
+				{
+					"gid"		"8BF91F2772BE872006048D4F1A7275B9"
+					"size"		"E0459238D3F086832DCA7B05E90717E5"
+					"download"		"6F3592D20805AE9FCA70CD195903F1BF"
+				}
+			}
+		}
+		"707081"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"dlcappid"		"707080"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3048988680620135682"
+					"size"		"203581353"
+					"download"		"199114752"
+				}
+				"legacy_dx9"
+				{
+					"gid"		"3048988680620135682"
+					"size"		"203581353"
+					"download"		"199114752"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta_testing_secondary"
+				{
+					"gid"		"FD066A5921B121970676326F657053A5"
+					"size"		"41BA8D203749F92A08D7422CBDF49D7A"
+					"download"		"08DAC10178817AE75332F43DFCC59D8C"
+				}
+				"lgl_qa"
+				{
+					"gid"		"F6AE9BF915C2491E4CA119A65C30BF79"
+					"size"		"17F34F0C0BA279DB49FFBDB5357C91A1"
+					"download"		"54BE9774C701FC9FA6AA16F39A7AA402"
+				}
+				"modding"
+				{
+					"gid"		"F7AA270497ECDE22066A298B53CFEAA7"
+					"size"		"9AB1B7F20A296315F8F0A6AF4D9036D8"
+					"download"		"29B7DCC88856C2FE65BE4A8FB248CC35"
+				}
+				"processor_beta"
+				{
+					"gid"		"176CFA16C87DA372EB520BCB1D3C9FCA"
+					"size"		"F63C43B36A6F1559E409827D8A9420DB"
+					"download"		"6893D047C7829A07C7B2221303A30A9E"
+				}
+				"staging_release"
+				{
+					"gid"		"823B8022BF67DDB07534CE420D72CECC"
+					"size"		"CF805E5DCE52674374E141FB3062FE39"
+					"download"		"7C7B32B1E4189C61A1FA6092E915D8C7"
+				}
+			}
+		}
+		"414749"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"lgl_qa"
+				{
+					"gid"		"58D1032AE033D8A40EC896271AEA9333"
+					"size"		"08DE9223D4339479322E6737CF20BE54"
+					"download"		"8C56AF1F2F3B1CEFDB353919A4ED49EF"
+				}
+			}
+		}
+		"720861"
+		{
+			"dlcappid"		"720860"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3719283028707641575"
+					"size"		"357138235"
+					"download"		"359787200"
+				}
+				"legacy_dx9"
+				{
+					"gid"		"3719283028707641575"
+					"size"		"357138235"
+					"download"		"359787200"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta_testing_secondary"
+				{
+					"gid"		"BC54D30B66198493019FF77246BB9299"
+					"size"		"6FF369F36DE2FE0D733CA8FC135AF0D1"
+					"download"		"2175B8DED048EB041400FE67205B010D"
+				}
+				"lgl_qa"
+				{
+					"gid"		"2B1C064023DE762F0CB18C5019999465"
+					"size"		"8D2952629F89756BA68103260D9F33D6"
+					"download"		"FF8EDD2AF33CE8287A42FE1F0A3932A9"
+				}
+				"modding"
+				{
+					"gid"		"EAF70D26F736E9F36290B0CBDC155352"
+					"size"		"DDBB84F447D78A7555C86A901129778B"
+					"download"		"1DD1ED63C433ADED4B1E368541742299"
+				}
+				"processor_beta"
+				{
+					"gid"		"DC7A436DC1E501491DABF643B8956E39"
+					"size"		"7CB99BB83601ED8BB56CD9EF7EC4FB34"
+					"download"		"E93EE63534688EE4848BDA13F8D57406"
+				}
+				"staging_release"
+				{
+					"gid"		"3D0B89008AF20A83510BA002F6D24C60"
+					"size"		"AC6D268FCB24F35EAA8D2FE8D63F8944"
+					"download"		"42024834A0A13F9D8DA93E9EF047287B"
+				}
+			}
+		}
+		"707071"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"lgl_qa"
+				{
+					"gid"		"F6A43330F02D0C693DD7D8C516EE6E8B"
+					"size"		"D3778D7149541689CD72E229531AC943"
+					"download"		"8FC95496BD3901260AE9BBF49D73712D"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11711524"
+				"timeupdated"		"1689451278"
+			}
+			"beta_testing_secondary"
+			{
+				"buildid"		"2583610"
+				"pwdrequired"		"1"
+				"timeupdated"		"1520429318"
+			}
+			"legacy_dx9"
+			{
+				"buildid"		"9092102"
+				"description"		"U20 DirectX 9 Version"
+				"timeupdated"		"1687986150"
+			}
+			"lgl_qa"
+			{
+				"buildid"		"11711436"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689448189"
+			}
+			"modding"
+			{
+				"buildid"		"10535797"
+				"pwdrequired"		"1"
+				"timeupdated"		"1676237049"
+			}
+			"processor_beta"
+			{
+				"buildid"		"12106997"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693849340"
+			}
+			"staging_release"
+			{
+				"buildid"		"11711524"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689450337"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"20"
+	}
+}
