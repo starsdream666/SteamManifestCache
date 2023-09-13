@@ -1,0 +1,324 @@
+"appinfo"
+{
+	"appid"		"420550"
+	"common"
+	{
+		"name"		"Super Arcade Football"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"logo"		"d81cf2504d9f079e3103a020d947c7fad7dc8ef1"
+		"logo_small"		"d81cf2504d9f079e3103a020d947c7fad7dc8ef1_thumb"
+		"icon"		"69c713891d54c26c4fd077b22185a00b3dced210"
+		"clienticon"		"d196650781b055e880c2942bc8c7e9194c2aaffe"
+		"clienticns"		"8801302a82eeac9af9d1d974947690b5fea638a9"
+		"clienttga"		"0420539e8fc2f3fc272e5f01bcc0f44a50a92c57"
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"italian"		"1"
+		}
+		"osarch"		""
+		"osextended"		"macos64,macosapplesilicon,macosnotarized"
+		"metacritic_name"		"Super Arcade Football"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"34.28891214153741"
+				"height_pct"		"68.95341895564525"
+			}
+		}
+		"store_asset_mtime"		"1670335899"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"OutOfTheBit Ltd"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"OutOfTheBit Ltd"
+			}
+		}
+		"primary_genre"		"18"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+			"4"		"18"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_33"		"1"
+			"category_24"		"1"
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_37"		"1"
+			"category_9"		"1"
+			"category_39"		"1"
+			"category_27"		"1"
+			"category_49"		"1"
+			"category_44"		"1"
+			"category_13"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1630936340"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"420550"
+		"store_tags"
+		{
+			"0"		"3859"
+			"1"		"1773"
+			"2"		"4004"
+			"3"		"1742"
+			"4"		"1254546"
+			"5"		"597"
+			"6"		"7368"
+			"7"		"492"
+			"8"		"7743"
+			"9"		"6691"
+			"10"		"701"
+			"11"		"4182"
+			"12"		"4840"
+			"13"		"3871"
+			"14"		"4791"
+			"15"		"7481"
+			"16"		"3968"
+			"17"		"3813"
+			"18"		"3964"
+			"19"		"1775"
+		}
+		"review_score"		"6"
+		"review_percentage"		"72"
+	}
+	"extended"
+	{
+		"developer"		"OutOfTheBit Ltd"
+		"publisher"		"OutOfTheBit Ltd"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"SuperArcadeFootball"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SuperArcadeFootball.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"SuperArcadeFootball.app"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"SuperArcadeFootball.sh"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"15"
+	}
+	"depots"
+	{
+		"baselanguages"		"english,italian"
+		"420551"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4350319041146174609"
+					"size"		"18031837"
+					"download"		"3125808"
+				}
+				"arcade"
+				{
+					"gid"		"4350319041146174609"
+					"size"		"18031837"
+					"download"		"3125808"
+				}
+				"legacy"
+				{
+					"gid"		"5433318789796307480"
+					"size"		"956808710"
+					"download"		"134355984"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"simonstestbranch"
+				{
+					"gid"		"2280885588013898F0725AB7CE842597"
+					"size"		"D2AFD823B11F6912B49AE863679D9B47"
+					"download"		"10876B436DA4747BE16A93CAEA00C2EC"
+				}
+				"test"
+				{
+					"gid"		"CD193CEE196B9B48C3D9392F53F2E0FE"
+					"size"		"C4FC11D9EF21FA2F3039AD6BD44F9936"
+					"download"		"8B891EA87028C79AD86B9AB6F562FEDD"
+				}
+			}
+		}
+		"420552"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3871293733826621124"
+					"size"		"21675277"
+					"download"		"4947792"
+				}
+				"arcade"
+				{
+					"gid"		"3871293733826621124"
+					"size"		"21675277"
+					"download"		"4947792"
+				}
+				"legacy"
+				{
+					"gid"		"2726738980059153577"
+					"size"		"972837933"
+					"download"		"138584160"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"simonstestbranch"
+				{
+					"gid"		"0045932D8AC251CFB28181BAD1815518"
+					"size"		"61D71EFD5D3F2A00C34073E3C822369D"
+					"download"		"303AFAF4962ABAA81DA8514C99D5A2A3"
+				}
+				"test"
+				{
+					"gid"		"55DB93E02B07239DEAB111A8AF42E94F"
+					"size"		"ABCAEB7827F659432752D411EADA82E4"
+					"download"		"D5A3259C6EFF0C39F3263CCFA4AFB332"
+				}
+			}
+		}
+		"420553"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1329601488606306943"
+					"size"		"18622903"
+					"download"		"3405600"
+				}
+				"arcade"
+				{
+					"gid"		"1329601488606306943"
+					"size"		"18622903"
+					"download"		"3405600"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"15D8D3FB9D62CA885FA92714505DFF51"
+					"size"		"5F7A0F0980A666EF3BD61A7A30C06506"
+					"download"		"FEA411E68D59BF3608108813D349C2FF"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10017854"
+				"timeupdated"		"1669396285"
+			}
+			"arcade"
+			{
+				"buildid"		"10017854"
+				"description"		"the new 2D SAF"
+				"timeupdated"		"1669396295"
+			}
+			"legacy"
+			{
+				"buildid"		"3154886"
+				"description"		"the old 3D SAF"
+				"timeupdated"		"1597222371"
+			}
+			"simonstestbranch"
+			{
+				"buildid"		"7793903"
+				"pwdrequired"		"1"
+				"timeupdated"		"1638187327"
+			}
+			"test"
+			{
+				"buildid"		"10350503"
+				"pwdrequired"		"1"
+				"timeupdated"		"1674061184"
+			}
+		}
+	}
+}
