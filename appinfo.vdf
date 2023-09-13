@@ -1,0 +1,121 @@
+"appinfo"
+{
+	"appid"		"2145"
+	"common"
+	{
+		"clienttga"		"b0dda4be8b46020ccdbbc07286b3da3709de9c4b"
+		"icon"		""
+		"logo"		""
+		"logo_small"		""
+		"name"		"Dark Messiah of Might & Magic Dedicated Server"
+		"type"		"Tool"
+		"freeondemand"		"1"
+		"gameid"		"2145"
+	}
+	"extended"
+	{
+		"developer"		"Ubisoft"
+		"developer_url"		"http://www.ubi.com/"
+		"gamedir"		"MM_MP"
+		"homepage"		"http://www.darkmessiahgame.com/"
+		"icon"		"steam/games/icon_darkmessiahofmm"
+		"noservers"		"1"
+		"order"		"1"
+		"primarycache"		"2144"
+		"serverbrowsername"		""
+		"state"		"eStateTool"
+	}
+	"config"
+	{
+		"usemms"		""
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"runme.exe"
+			}
+		}
+		"contenttype"		"3"
+		"installdir"		"Dark Messiah Might and Magic Dedicated Server"
+	}
+	"depots"
+	{
+		"2135"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6776152709533059089"
+					"size"		"609673386"
+					"download"		"0"
+				}
+			}
+			"depotfromapp"		"2130"
+		}
+		"2134"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6970001795950006478"
+					"size"		"309275439"
+					"download"		"0"
+				}
+			}
+			"depotfromapp"		"2130"
+		}
+		"2133"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4035822256194243656"
+					"size"		"1031991547"
+					"download"		"0"
+				}
+			}
+			"depotfromapp"		"2130"
+		}
+		"2132"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6598208797721037185"
+					"size"		"138115836"
+					"download"		"0"
+				}
+			}
+			"depotfromapp"		"2130"
+		}
+		"2144"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5322453129583820795"
+					"size"		"606213289"
+					"download"		"0"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"66085"
+			}
+		}
+	}
+}
