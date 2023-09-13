@@ -1,0 +1,208 @@
+"appinfo"
+{
+	"appid"		"394220"
+	"common"
+	{
+		"name"		"Last Horizon"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"logo"		"4eab4b9573cd6a0c9bf78d7af6cc40b76f097426"
+		"logo_small"		"4eab4b9573cd6a0c9bf78d7af6cc40b76f097426_thumb"
+		"icon"		"601d26cd2c6c32367c3657697fd2aca3aa3d9b98"
+		"clienticon"		"159ef2c4a1f1926d15d79edcb80fcf84cba3195f"
+		"clienttga"		"55dae0a25149b8f0486a6c9ffc3f7ea02eacc5ed"
+		"clienticns"		"b5605a9bd4769df6d8db942d41d16c4a7085abd8"
+		"osarch"		""
+		"osextended"		"macos64"
+		"metacritic_name"		"Last Horizon"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"84.0961098398169"
+				"height_pct"		"93.3151270482071"
+			}
+		}
+		"store_asset_mtime"		"1572361171"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Pixeljam"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Pixeljam"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Pixeljam"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_25"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1447865200"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"394220"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"492"
+			"2"		"1755"
+			"3"		"3834"
+			"4"		"4094"
+			"5"		"1756"
+			"6"		"1773"
+			"7"		"3942"
+		}
+		"review_score"		"8"
+		"review_percentage"		"80"
+	}
+	"extended"
+	{
+		"gamedir"		""
+		"developer"		"Pixeljam"
+		"publisher"		"Pixeljam"
+		"homepage"		"http://www.pixeljam.com/lasthorizon"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Last Horizon"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"LastHorizon.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Last Horizon.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"394221"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9106109931440545441"
+					"size"		"39862788"
+					"download"		"40307584"
+				}
+				"beta"
+				{
+					"gid"		"9106109931440545441"
+					"size"		"39862788"
+					"download"		"40307584"
+				}
+				"capitan"
+				{
+					"gid"		"4953448576376640446"
+					"size"		"38394372"
+					"download"		"38824848"
+				}
+			}
+		}
+		"394222"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4517661909293495548"
+					"size"		"57026614"
+					"download"		"40534288"
+				}
+				"beta"
+				{
+					"gid"		"4517661909293495548"
+					"size"		"57026614"
+					"download"		"40534288"
+				}
+				"capitan"
+				{
+					"gid"		"3044978397428691896"
+					"size"		"54747664"
+					"download"		"39011840"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4264130"
+				"timeupdated"		"1570457060"
+			}
+			"beta"
+			{
+				"buildid"		"4204369"
+				"timeupdated"		"1568742075"
+			}
+			"capitan"
+			{
+				"buildid"		"871627"
+			}
+		}
+	}
+}
