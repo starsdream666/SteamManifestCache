@@ -1,0 +1,75 @@
+"appinfo"
+{
+	"appid"		"13260"
+	"common"
+	{
+		"name"		"Unreal Development Kit"
+		"icon"		"3e12b01e45a19a837fabe267df50fa170dab293d"
+		"logo"		"90de4fcbd58e92f1e8a561c4046758344b295954"
+		"logo_small"		"90de4fcbd58e92f1e8a561c4046758344b295954_thumb"
+		"languages"
+		{
+			"english"		"1"
+			"koreana"		"1"
+			"schinese"		"1"
+			"japanese"		"1"
+		}
+		"type"		"Tool"
+		"freeondemand"		"1"
+		"community_visible_stats"		"1"
+		"gameid"		"13260"
+	}
+	"extended"
+	{
+		"developer"		"Epic Games"
+		"gamedir"		"Unreal Development Kit"
+		"homepage"		"http://www.udk.com/"
+		"icon"		""
+		"noservers"		"0"
+		"primarycache"		"13261"
+		"sourcegame"		"1"
+		"state"		"eStateTool"
+		"visibleonlywhensubscribed"		"1"
+	}
+	"config"
+	{
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Binaries\\Win32\\UDKGame.exe"
+			}
+		}
+		"contenttype"		"3"
+		"installdir"		"Unreal Development Kit"
+	}
+	"depots"
+	{
+		"13261"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7003981074450220134"
+					"size"		"79"
+					"download"		"0"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"66113"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+	}
+}
