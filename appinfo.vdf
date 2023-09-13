@@ -1,0 +1,1106 @@
+"appinfo"
+{
+	"appid"		"431240"
+	"common"
+	{
+		"name"		"Golf With Your Friends"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"icon"		"c6379c8ec66ac02565f1155bf3821b846164d93c"
+		"logo"		"b542b40bb9490638de1fa8b9fad0736bc5296b80"
+		"logo_small"		"b542b40bb9490638de1fa8b9fad0736bc5296b80_thumb"
+		"clienticon"		"ddb9ee8cf316e018b3bb4d816e094128556d1f0b"
+		"clienttga"		"0a2786d3d087de8aac6c2bbcc51774b2c4db96e4"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"brazilian"		"1"
+		}
+		"linuxclienticon"		"1c53d1a43d86ce685c1d54a1a481a0751728ac7a"
+		"clienticns"		"4a232511e44c13a4a4015d52951c70df549c5d44"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"431240_eula_0"
+				"name"		"Golf With Your Friends EULA"
+				"url"		"https://store.steampowered.com//eula/431240_eula_0"
+				"version"		"3"
+			}
+		}
+		"name_localized"
+		{
+			"schinese"		"友尽高尔夫"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1647648000"
+			"tested_build_id"		"7663220"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"market_presence"		"1"
+		"metacritic_name"		"Golf With Your Friends"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn"
+			"library_hero"		"en,zh-cn"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"75.43757292882145"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1694597113"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Blacklight Interactive"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Team17"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Team17"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Team17"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"18"
+		}
+		"category"
+		{
+			"category_22"		"1"
+			"category_36"		"1"
+			"category_15"		"1"
+			"category_2"		"1"
+			"category_30"		"1"
+			"category_17"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_37"		"1"
+			"category_24"		"1"
+			"category_44"		"1"
+			"category_18"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_41"		"1"
+			"category_42"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1589907420"
+		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"431240"
+		"store_tags"
+		{
+			"0"		"3859"
+			"1"		"597"
+			"2"		"22955"
+			"3"		"701"
+			"4"		"7038"
+			"5"		"492"
+			"6"		"4136"
+			"7"		"5350"
+			"8"		"493"
+			"9"		"1685"
+			"10"		"4182"
+			"11"		"3968"
+			"12"		"9"
+			"13"		"599"
+			"14"		"1756"
+			"15"		"4026"
+			"16"		"7368"
+			"17"		"10397"
+			"18"		"128"
+			"19"		"19"
+		}
+		"review_score"		"8"
+		"review_percentage"		"88"
+	}
+	"extended"
+	{
+		"gamedir"		""
+		"developer"		"Blacklight Interactive"
+		"publisher"		"Team17"
+		"homepage"		"https://www.team17.com/"
+		"listofdlc"		"564170,1277570,1901920,1901921,1901922,2073740,2130860,2246730,2366470,2456990,2456991"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Golf With Your Friends"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Golf With Your Friends.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"Golf With Your Friends.app"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"3"
+			{
+				"executable"		"Golf With Your Friends.x86_64"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+			"6"
+			{
+				"executable"		"Golf With Your Friends.x86_64"
+				"arguments"		"-force-opengl"
+				"description"		"Force OpenGL"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+			"8"
+			{
+				"executable"		"Golf With Your Friends.x86_64"
+				"arguments"		"-screen-fullscreen 0"
+				"description"		"Force full screen"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+			"9"
+			{
+				"executable"		"Golf With Your Friends.app"
+				"arguments"		"-force-glcore"
+				"description"		"Force Glcore"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"steamconfigurator3rdpartynative"		"65532"
+		"steamcontrollertemplateindex"		"4"
+		"steamcontrollertouchtemplateindex"		"1"
+		"steamcontrollertouchconfigdetails"
+		{
+			"2173631073"
+			{
+				"controller_type"		"controller_mobile_touch"
+				"enabled_branches"		"default"
+				"use_action_block"		"false"
+			}
+		}
+	}
+	"depots"
+	{
+		"workshopdepot"		"431240"
+		"baselanguages"		"english,german,french,italian,spanish,schinese,tchinese,russian,japanese,brazilian"
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"431241"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3022455780838486544"
+					"size"		"5507604605"
+					"download"		"4203599376"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"2020_oldstable"
+				{
+					"gid"		"CBB10DA428C8BCA3A6B589A6282351E6"
+					"size"		"C399883E1D1129F23C96CEC4D87FBD65"
+					"download"		"1A88D62DE12614EDB0063B9D6809B8C5"
+				}
+				"dev_preview"
+				{
+					"gid"		"7FDD2ABD539452F111D18DD8FE61885D"
+					"size"		"6554C3B4C0F1D8EEB277DCFC141A276C"
+					"download"		"D61CAC68B8A393D67DB922BB8AFFEDAF"
+				}
+				"mainline"
+				{
+					"gid"		"C59CB87F2C852E779EDF6DF94372ABA5"
+					"size"		"40108536FC9A9377719FA34F3FD365CD"
+					"download"		"13727F7AD94C2E2AABB329831D3650F7"
+				}
+				"oldstable"
+				{
+					"gid"		"30D089BC222BA30F122120E9EA52B53C"
+					"size"		"D94CDC0CA122BF0DF2C642656EFDEAFE"
+					"download"		"849C0FE5607E58EE20E145433CB4B58B"
+				}
+				"press"
+				{
+					"gid"		"5DD7EC4B92F399C19535A3347FBF0210"
+					"size"		"0DE45B0E0BA9E3C28103537A81F33FC8"
+					"download"		"6A346D5EB828D4EE6E736BA8177BB486"
+				}
+				"previous_live"
+				{
+					"gid"		"84357F1D77B8CA8D9C1F87F27D778C7D"
+					"size"		"673333345ED196D869CE3A9A6D8B2C4D"
+					"download"		"60E0C539298844189049F005A8A9B30D"
+				}
+				"qa_release"
+				{
+					"gid"		"74DD262D132536FB3697E6541DEC6366"
+					"size"		"A45CCCD8A6C85EE0C003B70FA1F478EB"
+					"download"		"87422937FF7A4E8574B510C6D99604BE"
+				}
+				"qatesting"
+				{
+					"gid"		"46245DF463A24D026A5127CCE5542B40"
+					"size"		"36F065EC1A4213759374BF42EACFC12E"
+					"download"		"AA07077C387D1F87DC656E5F6C90B69E"
+				}
+				"stable"
+				{
+					"gid"		"5C02B2747167A0422FB444AD8E40FE7B"
+					"size"		"AF7A4677957D0EED1E79BF8EF874CD49"
+					"download"		"34D07B39C7E0D625F0015189AFC4F78B"
+				}
+				"trailer_capture"
+				{
+					"gid"		"445C83BF5C205E33846D3E1D67AAFB23"
+					"size"		"5DA90F903401592DDBAA5749042444A6"
+					"download"		"F2B98B2E021B6CC95BEFC4397D1FDFF9"
+				}
+				"upgrade_test"
+				{
+					"gid"		"A23B4C55AFDB04CFD40DCCFE15901581"
+					"size"		"8F3B59CE3647F030D539B0853441D8F5"
+					"download"		"85D2241BB3C2F9377AC03BB83516665E"
+				}
+				"usability"
+				{
+					"gid"		"92A4FCC3C66F3D2B569AFF1F7999EB42"
+					"size"		"8BEF22253FC91CC419809B739C45C34F"
+					"download"		"8A04FE200163EBA76B06DB7C12162039"
+				}
+			}
+		}
+		"431242"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6096193237768600578"
+					"size"		"5599215236"
+					"download"		"4295607584"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"2020_oldstable"
+				{
+					"gid"		"6DBF2C28ADB5F4ED62A8C7C7385BA4E1"
+					"size"		"D8FE63A0666F155B3EE9BD846A85215C"
+					"download"		"07A150A6B3E708B46DD834079B2F9E64"
+				}
+				"dev_preview"
+				{
+					"gid"		"E7F3BB08E0529F07864AD5872F55E91F"
+					"size"		"5180097E3D9341A4ED3FB423E582E02D"
+					"download"		"75FA956E0ACD084F3D169CE965CAB9EF"
+				}
+				"mainline"
+				{
+					"gid"		"A2020EE88280848C3BA1BA06CCDA47DA"
+					"size"		"66011FFD8E30CD7103CA8FFE81BE0C6A"
+					"download"		"11E5DF5197BAB88211072EDF03DAE44F"
+				}
+				"oldstable"
+				{
+					"gid"		"C9F72E5E4EF71D8DCB6ADB49ADC8B906"
+					"size"		"FBC5C73986489FFA9898E36024D3478F"
+					"download"		"0AD47F3B4F4D2557174D315C631359E6"
+				}
+				"press"
+				{
+					"gid"		"979862948EE3A7A02354CFDE441FF5B3"
+					"size"		"E5CC757FC0B867C46E350C06519F7F47"
+					"download"		"B67452EC136BCC6F9F6548D528E4DB11"
+				}
+				"previous_live"
+				{
+					"gid"		"6BBD7A944B3F88820C18ADCFA7F3D999"
+					"size"		"D47E0290471317B82540D52D943D667B"
+					"download"		"BDC67C27BDBF0BE1F9DBEB2E8668B224"
+				}
+				"qa_release"
+				{
+					"gid"		"0DB9279801FB88B97CF6D5D2E28F1B4F"
+					"size"		"22F8C8D4B605109A5FB3BF994407E2A7"
+					"download"		"07F87F979074BBAEA79D019A542C66A4"
+				}
+				"qatesting"
+				{
+					"gid"		"1A25DC2882FB2B01FB3929D949733E9A"
+					"size"		"8E7157D2F4A562AF242BEAEF0703DC73"
+					"download"		"E82DBF8518B833F7F5F3E431823B4E78"
+				}
+				"stable"
+				{
+					"gid"		"219A920E3848DF5F9DEAAFBEE0663ADF"
+					"size"		"0566328CF2769CC668EAF4FD62354ED9"
+					"download"		"6DCCB7CA80E3E179EEBEFB28DE3DB31B"
+				}
+				"trailer_capture"
+				{
+					"gid"		"7795791B6CF394181F5F1EA81F21C1FF"
+					"size"		"C1362B6E52B25E1A02227EE41A4AD79B"
+					"download"		"FDF870CD64A48CE5AA913BC076419EB0"
+				}
+				"upgrade_test"
+				{
+					"gid"		"34353C19DBAAFF65EF887BA719A379C7"
+					"size"		"28BDF2F19E9718B748DF4B5B32041E33"
+					"download"		"6A98587D763E7E0D0DA4143785C0C8C3"
+				}
+				"usability"
+				{
+					"gid"		"B4DEEED3E6C7C70DB848FFDEEE51C84F"
+					"size"		"76FB0D86BFCCEC4F40815B17D598BA84"
+					"download"		"8CD14C45A7B614587655849946C8637A"
+				}
+			}
+		}
+		"431243"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9142302275533222873"
+					"size"		"5725460679"
+					"download"		"4315621040"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"2020_oldstable"
+				{
+					"gid"		"F9D8CEF6B77390A656AC190395A28255"
+					"size"		"473382EF0ED341159C88DAA2069CD554"
+					"download"		"FF3DED1189EBC6D056871EEB10A854AA"
+				}
+				"dev_preview"
+				{
+					"gid"		"B43E93AE3562FBE26106A79CB38F7317"
+					"size"		"3FE74A6BCB8D7F43540E03D49CFFA792"
+					"download"		"2817F9CC548B2782D109BE2D985C592D"
+				}
+				"mainline"
+				{
+					"gid"		"055058CD4667E0C67DFFBDCCD693EF7C"
+					"size"		"E99C1C3934E69441ED525852E9F0CCD7"
+					"download"		"9363EAD01C0FEE4E6CBC00266488817E"
+				}
+				"oldstable"
+				{
+					"gid"		"006AD652B3872D79291A50A494C17CD4"
+					"size"		"B3AD3152140E8F54366CD43204DD8B29"
+					"download"		"AD5C48546C52A20FED8FA1423FC4EB8E"
+				}
+				"press"
+				{
+					"gid"		"2D914C2311920AFE35DD7D1EC7D4156B"
+					"size"		"EACE69FB1599F9C19ADCFAE333A0DA1F"
+					"download"		"6443D10B85CEFD434B596623E6FF2177"
+				}
+				"previous_live"
+				{
+					"gid"		"5441641AD79A8D58A14516371F82F4F2"
+					"size"		"EDBEFEA21F8BEC729BB1255FCBAE73B7"
+					"download"		"9A376FCFCE542599D4894EC3B2D6BB51"
+				}
+				"qa_release"
+				{
+					"gid"		"3CDBA3C07856D3FFAF72E5682C1AD8EB"
+					"size"		"967B7A335F691FD6A4EB9E5B5321C4CC"
+					"download"		"E3C9E90F578F45475EF4CD19EF981F1A"
+				}
+				"qatesting"
+				{
+					"gid"		"FD133523D0280B12FD5B63A1C325785B"
+					"size"		"7803DD7CC210F13D688C1DEA3B601A55"
+					"download"		"8366CA755D3AEF0FD0CBB0E22F5AC9CE"
+				}
+				"stable"
+				{
+					"gid"		"2DBF362271353989E2FB01E9BECB2C16"
+					"size"		"1AF7B416C5B2B1E4A01B63643C015E36"
+					"download"		"74780DD31E8A98BFF6690BCAAD65202A"
+				}
+				"trailer_capture"
+				{
+					"gid"		"9B3FF6C895019AA509B40C073B3C0665"
+					"size"		"9E854DF8E1B153BDB813CDCCAEA63F48"
+					"download"		"579AE122FCDA0FD4BFE2FCC291B38DD6"
+				}
+				"upgrade_test"
+				{
+					"gid"		"D3240158096246EC8BBEF3EEB4F52B92"
+					"size"		"FC983EFF230FD536688F0B020800EBC4"
+					"download"		"DC59D7D0CA0A5D7F10E0CCC3508D2FE4"
+				}
+				"usability"
+				{
+					"gid"		"C9F7644C584E538B82BA48B760DE06AA"
+					"size"		"E085DB9D2ED27C8247CCD0A53E035D7B"
+					"download"		"0ED7F8F43B60FD459C471C42EE737B1E"
+				}
+			}
+		}
+		"564170"
+		{
+			"dlcappid"		"564170"
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7416072267734417826"
+					"size"		"36499720"
+					"download"		"34645760"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"2020_oldstable"
+				{
+					"gid"		"E9994E4A1E7A335ADA687A50F076576A"
+					"size"		"F310086A70441F350ECE5C97EC78EB24"
+					"download"		"DB7F13F94C54942173CB0D8E92CC9BBB"
+				}
+				"dev_preview"
+				{
+					"gid"		"2D49BAFEB846BFC588854FAFDB376211"
+					"size"		"3D89C81D2B62623D5E27F483D035D26C"
+					"download"		"C88D9293F9DCDE8C0C254FBF8F31CB0A"
+				}
+				"mainline"
+				{
+					"gid"		"4ABC6B3569F8BE9C98368F2ECDAF84D1"
+					"size"		"DC6872EE333DBCA68022E3AF4672F476"
+					"download"		"D83DFD79C078E75EF7389EE57194FC4F"
+				}
+				"oldstable"
+				{
+					"gid"		"A6B644B2C3BBF47998E0D9CF03F1AFD3"
+					"size"		"899ECA7DFD636A9DB46D11DC6996D7BA"
+					"download"		"5C3E62541BB9B2D5CB5452BF6472CBB2"
+				}
+				"press"
+				{
+					"gid"		"6C84AE08019758EF3739602E22CB35CE"
+					"size"		"08DB7808B454BD10923EA59D12F3C324"
+					"download"		"A216EAF22D989F924E7D7519B8051979"
+				}
+				"previous_live"
+				{
+					"gid"		"7A68004CCCDAF030E03F5E606046CF6A"
+					"size"		"D98798F9CFCE33899C6315605907FC72"
+					"download"		"B5A5AF0619C19BE45E63F9C16B8234F9"
+				}
+				"qa_release"
+				{
+					"gid"		"15CEFF94453A3CDB64F39E1A41C81FCB"
+					"size"		"C41E209BF006D4891ED9558BCEF97FA7"
+					"download"		"35D3B911A13E7DE72B3D549829AB1E5C"
+				}
+				"qatesting"
+				{
+					"gid"		"3D23C99F839C7A6BC06AAD854103152A"
+					"size"		"77917D4C097A3A325182A01939CBB657"
+					"download"		"C1214AA0B5E9D9CF0802563ADA942D69"
+				}
+				"stable"
+				{
+					"gid"		"3364B294FB9BA72F938BD29A3BAA8E7A"
+					"size"		"3D68372A140652638C562548AB51D9CC"
+					"download"		"3E5A14F658CA4A7AA8736605D6EEF1F2"
+				}
+				"trailer_capture"
+				{
+					"gid"		"33E25D573DFA3D2328DC3A059BAB985B"
+					"size"		"B7A7CF64BE2CE1C6AAC5D692B25F371C"
+					"download"		"92CD9A08323E8FB46D112243363123D8"
+				}
+				"upgrade_test"
+				{
+					"gid"		"45C5F3C08D2A18981D2C4C5F79310F68"
+					"size"		"8F07888B05D0BE7116195C1E174C90B7"
+					"download"		"D6A67CBB7BFA15D4DC47A3B052E2C545"
+				}
+				"usability"
+				{
+					"gid"		"0346C3ED9EE8E4C37731C84CA802CFEC"
+					"size"		"E95427CA8F6E7878B6FCF47B7D4FF514"
+					"download"		"5FBEABD5B04C99FEEE38C7511A74A16E"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12062185"
+				"timeupdated"		"1694512684"
+			}
+			"2020_oldstable"
+			{
+				"buildid"		"9129119"
+				"pwdrequired"		"1"
+				"timeupdated"		"1657896150"
+			}
+			"dev_preview"
+			{
+				"buildid"		"12157669"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694423586"
+			}
+			"mainline"
+			{
+				"buildid"		"12174957"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694580678"
+			}
+			"oldstable"
+			{
+				"buildid"		"9558618"
+				"pwdrequired"		"1"
+				"timeupdated"		"1668096061"
+			}
+			"press"
+			{
+				"buildid"		"11960909"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692608716"
+			}
+			"previous_live"
+			{
+				"buildid"		"11778182"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694511776"
+			}
+			"qa_release"
+			{
+				"buildid"		"12176554"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694596185"
+			}
+			"qatesting"
+			{
+				"buildid"		"12173494"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694563101"
+			}
+			"stable"
+			{
+				"buildid"		"7663220"
+				"pwdrequired"		"1"
+				"timeupdated"		"1656084489"
+			}
+			"trailer_capture"
+			{
+				"buildid"		"11953907"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692181865"
+			}
+			"upgrade_test"
+			{
+				"buildid"		"11913138"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691682404"
+			}
+			"usability"
+			{
+				"buildid"		"11285633"
+				"pwdrequired"		"1"
+				"timeupdated"		"1684742892"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"1000"
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#richpres.frontend"		"Navigating menus"
+					"#richpres.onlinelobby"		"In an Online Lobby"
+					"#richpres.offlinelobby"		"In a Local Lobby"
+					"#richpres.leveleditor"		"In the Level Editor"
+					"#richpres.ingame"		"Playing {%mode%} On {%map%}"
+					"#map_forest"		"Forest"
+					"#map_candyland"		"Candyland"
+					"#map_piratecove"		"Pirate Cove"
+					"#map_ancient"		"Ancient"
+					"#map_haunted"		"Haunted"
+					"#map_sand"		"Oasis"
+					"#map_twilight"		"Twilight"
+					"#map_warzone"		"Warzone"
+					"#map_spacestation"		"Space Station"
+					"#map_museum"		"Museum"
+					"#map_lava"		"Volcano"
+					"#map_escapists"		"The Escapists"
+					"#map_party"		"Bouncy Castle"
+					"#mode_classic"		"Classic"
+					"#mode_hockey"		"Hockey"
+					"#mode_dunk"		"Dunk"
+					"#mode_party"		"Party"
+					"#mode_explore"		"Explore"
+				}
+			}
+			"french"
+			{
+				"tokens"
+				{
+					"#richpres.frontend"		"Dans les menus"
+					"#richpres.onlinelobby"		"Dans un salon en ligne"
+					"#richpres.offlinelobby"		"Dans un salon local"
+					"#richpres.leveleditor"		"Dans l'éditeur de niveau"
+					"#richpres.ingame"		"Joue sur {%map%} en {%mode%}"
+					"#map_forest"		"Forêt"
+					"#map_candyland"		"Pays des bonbons"
+					"#map_piratecove"		"Crique des pirates"
+					"#map_ancient"		"Antique"
+					"#map_haunted"		"Hanté"
+					"#map_sand"		"Oasis"
+					"#map_twilight"		"Crépuscule"
+					"#map_warzone"		"Zone de guerre"
+					"#map_spacestation"		"Station spatiale"
+					"#map_museum"		"Musée"
+					"#map_lava"		"Volcan"
+					"#map_escapists"		"The Escapists"
+					"#map_party"		"Château gonflable"
+					"#mode_classic"		"Classique"
+					"#mode_hockey"		"Hockey"
+					"#mode_dunk"		"Dunk"
+					"#mode_party"		"Groupe"
+					"#mode_explore"		"Exploration"
+				}
+			}
+			"german"
+			{
+				"tokens"
+				{
+					"#richpres.frontend"		"In den Menüs"
+					"#richpres.onlinelobby"		"In einer Online-Lobby"
+					"#richpres.offlinelobby"		"In einer lokalen Lobby"
+					"#richpres.leveleditor"		"Im Level-Editor"
+					"#richpres.ingame"		"Spielt {%mode%} auf {%map%}"
+					"#map_forest"		"Wald"
+					"#map_candyland"		"Zuckerland"
+					"#map_piratecove"		"Piratenbucht"
+					"#map_ancient"		"Urzeit"
+					"#map_haunted"		"Grusel"
+					"#map_sand"		"Oase"
+					"#map_twilight"		"Dämmerung"
+					"#map_warzone"		"Kriegsgebiet"
+					"#map_spacestation"		"Raumstation"
+					"#map_museum"		"Museum"
+					"#map_lava"		"Vulkan"
+					"#map_escapists"		"The Escapists"
+					"#map_party"		"Hüpfburg"
+					"#mode_classic"		"Klassisch"
+					"#mode_hockey"		"Eishockey"
+					"#mode_dunk"		"Dunking"
+					"#mode_party"		"Party"
+					"#mode_explore"		"Erkunden"
+				}
+			}
+			"italian"
+			{
+				"tokens"
+				{
+					"#richpres.frontend"		"Menu di navigazione"
+					"#richpres.onlinelobby"		"In una lobby online"
+					"#richpres.offlinelobby"		"In una lobby locale"
+					"#richpres.leveleditor"		"Nell'editor dei livelli"
+					"#richpres.ingame"		"In modalità {%mode%} di {%map%}"
+					"#map_forest"		"Foresta"
+					"#map_candyland"		"Paradiso dei dolciumi"
+					"#map_piratecove"		"Covo dei pirati"
+					"#map_ancient"		"Antichità"
+					"#map_haunted"		"Spettrale"
+					"#map_sand"		"Oasi"
+					"#map_twilight"		"Crepuscolo"
+					"#map_warzone"		"Zona di guerra"
+					"#map_spacestation"		"Stazione spaziale"
+					"#map_museum"		"Museo"
+					"#map_lava"		"Vulcano"
+					"#map_escapists"		"The Escapists"
+					"#map_party"		"Castello gonfiabile"
+					"#mode_classic"		"Classica"
+					"#mode_hockey"		"Hockey"
+					"#mode_dunk"		"Canestro"
+					"#mode_party"		"Festa"
+					"#mode_explore"		"Esplora"
+				}
+			}
+			"spanish"
+			{
+				"tokens"
+				{
+					"#richpres.frontend"		"Navegando por los menús"
+					"#richpres.onlinelobby"		"En una sala en línea"
+					"#richpres.offlinelobby"		"En una sala local"
+					"#richpres.leveleditor"		"En el editor de niveles"
+					"#richpres.ingame"		"Jugando al modo {%mode%} en este entorno: {%map%}"
+					"#map_forest"		"Bosque"
+					"#map_candyland"		"Caramelolandia"
+					"#map_piratecove"		"Cala de piratas"
+					"#map_ancient"		"Campo ancestral"
+					"#map_haunted"		"Lugar encantado"
+					"#map_sand"		"Oasis"
+					"#map_twilight"		"Crepúsculo"
+					"#map_warzone"		"Zona de guerra"
+					"#map_spacestation"		"Estación espacial"
+					"#map_museum"		"Museo"
+					"#map_lava"		"Volcán"
+					"#map_escapists"		"The Escapists"
+					"#map_party"		"Castillo Hinchable"
+					"#mode_classic"		"Clásico"
+					"#mode_hockey"		"Hockey"
+					"#mode_dunk"		"Mates"
+					"#mode_party"		"Fiesta"
+					"#mode_explore"		"Explorar"
+				}
+			}
+			"schinese"
+			{
+				"tokens"
+				{
+					"#richpres.frontend"		"导航菜单"
+					"#richpres.onlinelobby"		"在联机大厅中"
+					"#richpres.offlinelobby"		"在本地大厅中"
+					"#richpres.leveleditor"		"在关卡编辑器中"
+					"#richpres.ingame"		"正在{%map%}游玩{%mode%}"
+					"#map_forest"		"森林"
+					"#map_candyland"		"糖果乐园"
+					"#map_piratecove"		"海盗湾"
+					"#map_ancient"		"古迹"
+					"#map_haunted"		"鬼宅"
+					"#map_sand"		"绿洲"
+					"#map_twilight"		"薄暮"
+					"#map_warzone"		"战区"
+					"#map_spacestation"		"空间站"
+					"#map_museum"		"博物馆"
+					"#map_lava"		"火山"
+					"#map_escapists"		"The Escapists"
+					"#map_party"		"充气城堡"
+					"#mode_classic"		"经典"
+					"#mode_hockey"		"冰球"
+					"#mode_dunk"		"灌篮"
+					"#mode_party"		"派对"
+					"#mode_explore"		"探索"
+				}
+			}
+			"tchinese"
+			{
+				"tokens"
+				{
+					"#richpres.frontend"		"正在瀏覽選單"
+					"#richpres.onlinelobby"		"在線上大廳中"
+					"#richpres.offlinelobby"		"在本地大廳中"
+					"#richpres.leveleditor"		"在關卡編輯器中"
+					"#richpres.ingame"		"正在進行{%map%}{%mode%}"
+					"#map_forest"		"森林"
+					"#map_candyland"		"糖果天地"
+					"#map_piratecove"		"海盜岬灣"
+					"#map_ancient"		"遠古"
+					"#map_haunted"		"鬼屋"
+					"#map_sand"		"綠洲"
+					"#map_twilight"		"黃昏"
+					"#map_warzone"		"戰區"
+					"#map_spacestation"		"太空站"
+					"#map_museum"		"博物館"
+					"#map_lava"		"火山"
+					"#map_escapists"		"The Escapists"
+					"#map_party"		"充氣城堡"
+					"#mode_classic"		"經典"
+					"#mode_hockey"		"曲棍球"
+					"#mode_dunk"		"灌籃"
+					"#mode_party"		"派對"
+					"#mode_explore"		"探險"
+				}
+			}
+			"russian"
+			{
+				"tokens"
+				{
+					"#richpres.frontend"		"В меню"
+					"#richpres.onlinelobby"		"В сетевом фойе"
+					"#richpres.offlinelobby"		"В локальном фойе"
+					"#richpres.leveleditor"		"В редакторе уровней"
+					"#richpres.ingame"		"«{%mode%}», карта «{%map%}»"
+					"#map_forest"		"Лес"
+					"#map_candyland"		"Сладкая страна"
+					"#map_piratecove"		"Пиратская бухта"
+					"#map_ancient"		"Древность"
+					"#map_haunted"		"Призраки"
+					"#map_sand"		"Оазис"
+					"#map_twilight"		"Сумерки"
+					"#map_warzone"		"Военная зона"
+					"#map_spacestation"		"Космическая станция"
+					"#map_museum"		"Музей"
+					"#map_lava"		"Вулкан"
+					"#map_escapists"		"The Escapists"
+					"#map_party"		"Надувной замок"
+					"#mode_classic"		"Классика"
+					"#mode_hockey"		"Хоккей"
+					"#mode_dunk"		"Баскетбол"
+					"#mode_party"		"Вечеринка"
+					"#mode_explore"		"Исследование"
+				}
+			}
+			"japanese"
+			{
+				"tokens"
+				{
+					"#richpres.frontend"		"メニューをナビゲート中"
+					"#richpres.onlinelobby"		"オンラインロビー中"
+					"#richpres.offlinelobby"		"ローカルロビー中"
+					"#richpres.leveleditor"		"レベルエディター中"
+					"#richpres.ingame"		"{%map%}で{%mode%}をプレイ中"
+					"#map_forest"		"森"
+					"#map_candyland"		"キャンディランド"
+					"#map_piratecove"		"海賊の入り江"
+					"#map_ancient"		"古代"
+					"#map_haunted"		"幽霊屋敷"
+					"#map_sand"		"オアシス"
+					"#map_twilight"		"深夜の森"
+					"#map_warzone"		"戦場"
+					"#map_spacestation"		"宇宙ステーション"
+					"#map_museum"		"博物館"
+					"#map_lava"		"ボルケーノ"
+					"#map_escapists"		"The Escapists"
+					"#map_party"		"エアキャッスル"
+					"#mode_classic"		"クラシック"
+					"#mode_hockey"		"ホッケー"
+					"#mode_dunk"		"ダンク"
+					"#mode_party"		"パーティ"
+					"#mode_explore"		"エクスプローラ"
+				}
+			}
+			"brazilian"
+			{
+				"tokens"
+				{
+					"#richpres.frontend"		"Navegando nos menus"
+					"#richpres.onlinelobby"		"Em um lobby on-line"
+					"#richpres.offlinelobby"		"Em um lobby local"
+					"#richpres.leveleditor"		"No editor de níveis"
+					"#richpres.ingame"		"Jogando {%mode%} em {%map%}"
+					"#map_forest"		"Floresta"
+					"#map_candyland"		"Docelândia"
+					"#map_piratecove"		"Enseada do Pirata"
+					"#map_ancient"		"Antiguidade"
+					"#map_haunted"		"Assombrado"
+					"#map_sand"		"Oásis"
+					"#map_twilight"		"Crepúsculo"
+					"#map_warzone"		"Zona de Guerra"
+					"#map_spacestation"		"Estação Espacial"
+					"#map_museum"		"Museu"
+					"#map_lava"		"Vulcão"
+					"#map_escapists"		"The Escapists"
+					"#map_party"		"Castelo inflável"
+					"#mode_classic"		"Clássico"
+					"#mode_hockey"		"Hóquei"
+					"#mode_dunk"		"Enterrada"
+					"#mode_party"		"Festa"
+					"#mode_explore"		"Explorar"
+				}
+			}
+		}
+	}
+}
