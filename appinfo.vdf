@@ -1,0 +1,379 @@
+"appinfo"
+{
+	"appid"		"278810"
+	"common"
+	{
+		"name"		"LA Cops"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"logo"		"d5d32f2f1543b683985a304b5e77784c5250d03e"
+		"logo_small"		"d5d32f2f1543b683985a304b5e77784c5250d03e_thumb"
+		"icon"		"1fa1eaa99e9cfed01150a9643c07ededfb85e6b7"
+		"clienttga"		"003c46aab488c4d119e843f401cc15ae385d07fd"
+		"clienticon"		"0b97f22478c9403ea3242900b01ae561e9804a49"
+		"clienticns"		"b9b9cf515def0b2c32ec3b4419538a1414cacaf1"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"spanish"		"1"
+			"russian"		"1"
+			"polish"		"1"
+		}
+		"metacritic_name"		"LA Cops"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"52.67753201396971"
+				"height_pct"		"71.6177777777778"
+			}
+		}
+		"store_asset_mtime"		"1563533337"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Modern Dream"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Team17 Digital Ltd"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Team17 Digital"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_25"		"1"
+			"category_23"		"1"
+			"category_18"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1426265621"
+		"metacritic_score"		"45"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/la-cops?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"278810"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"9"
+			"2"		"492"
+			"3"		"21"
+			"4"		"4791"
+			"5"		"5851"
+			"6"		"1774"
+			"7"		"11333"
+		}
+		"review_score"		"5"
+		"review_percentage"		"52"
+	}
+	"extended"
+	{
+		"developer"		"Modern Dream"
+		"publisher"		"Team17 Digital Ltd"
+		"homepage"		"http://www.la-cops.com/"
+		"listofdlc"		"318490"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"LA Cops"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"lacops.exe"
+				"description"		"Launch LA Cops"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"lacops.app"
+				"description"		"Launch LA Cops"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"lacops.x86"
+				"description"		"Launch LA Cops"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"baselanguages"		"english,german,french,spanish,russian,polish"
+		"278811"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8358434706898631710"
+					"size"		"1125546042"
+					"download"		"331897632"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alextest"
+				{
+					"gid"		"3F69EC5F6A49EC1A92506C6404549258"
+					"size"		"9A801B1922FEE4B26DE649431317D045"
+					"download"		"F42247D5405298A3251B1F07C018A25E"
+				}
+				"playtest"
+				{
+					"gid"		"ACD06966CC0D53BC72559965B12C8D6D"
+					"size"		"8B14FE8F92A72CDE2FAB496132135445"
+					"download"		"5203DA145F23935184E22B6FD23DFDEE"
+				}
+				"press"
+				{
+					"gid"		"5923E1581A50763A6ECB92B255B91666"
+					"size"		"7E769E6A9A6048239552D382369186B9"
+					"download"		"C0A8FAA8951F8D7730790A41AD2AB8AE"
+				}
+				"test"
+				{
+					"gid"		"82D4DB4ED4031EB77E45DF1AAE8B904E"
+					"size"		"17405DD0E0DC8AB12AFD081AAA895116"
+					"download"		"724F3CFE2E70C7E09A07FEBC9C6AA9C1"
+				}
+			}
+		}
+		"278812"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1349713201853082611"
+					"size"		"1134162703"
+					"download"		"331829040"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alextest"
+				{
+					"gid"		"3CA3CCD41CCA7FD5B583C32A34DA8DF3"
+					"size"		"9A0AB589FAEB4330B90466F9A7EEEA27"
+					"download"		"841E87A3154DB39EF9B90C28331A2C21"
+				}
+				"playtest"
+				{
+					"gid"		"AC553CC9D4D360ABB4D2BB51DE028F53"
+					"size"		"85F117A51F6F32C9AEECE02BAAD66245"
+					"download"		"828A46788C2A73ABAA01325A680EA747"
+				}
+				"press"
+				{
+					"gid"		"6C17FB5C37759F340AE03BF2B00F001E"
+					"size"		"9AE0F3069A261EBA7331021E7C64D5E5"
+					"download"		"323E15D791A16BFE6C63E4835A9B9E00"
+				}
+				"test"
+				{
+					"gid"		"10F8285EF340C2228834FE2DD95DD222"
+					"size"		"C5D237BE86E92066890DAB89ABE7A540"
+					"download"		"4276437D2CDCFB7B41349C6FAE6A4A88"
+				}
+			}
+		}
+		"278813"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3267755106451652875"
+					"size"		"235767851"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alextest"
+				{
+					"gid"		"A6E6E763AF973175B70EA345E07DC350"
+					"size"		"A69CBCD18AD917064780B107ACDFC87C"
+					"download"		"8DBE42C35F13E7141B4C79EA0442DF0A"
+				}
+				"playtest"
+				{
+					"gid"		"8349A8131976B01D77B1B0A85EF3114C"
+					"size"		"F7D922E81043EF1B8C809F11FF0E954C"
+					"download"		"3C7A7D81C45C74A8C174788CD0EF3149"
+				}
+				"press"
+				{
+					"gid"		"37617CB08BB8EEF242B896E65412F4E3"
+					"size"		"BAAC7DCE99FB4077F4EE843926F9E8C4"
+					"download"		"C9E7670ECB384990ADF7D2FD3E442353"
+				}
+				"test"
+				{
+					"gid"		"9077AEAD5B32DD6C08257D17E78D256A"
+					"size"		"253CD4FA3621BA5785A46C0EA67E7A59"
+					"download"		"04B56EA2A048F127E15EDB3C2615F078"
+				}
+			}
+		}
+		"318490"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3653137718517251726"
+					"size"		"88031250"
+					"download"		"81674288"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"31F3EB5F8F62FD7F04DB2F78BEDC77E0"
+					"size"		"2CCFD0F6F071A99B045A479DE538D572"
+					"download"		"9CFAA305E0A24A564DEFB039C7616B36"
+				}
+			}
+			"dlcappid"		"318490"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"630820"
+			}
+			"alextest"
+			{
+				"buildid"		"539925"
+				"pwdrequired"		"1"
+			}
+			"playtest"
+			{
+				"buildid"		"572475"
+				"pwdrequired"		"1"
+			}
+			"press"
+			{
+				"buildid"		"543245"
+				"pwdrequired"		"1"
+			}
+			"test"
+			{
+				"buildid"		"630820"
+				"pwdrequired"		"1"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"5"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"lacops_Data/Managed/Save"
+				"pattern"		"LACopsSave*.*"
+			}
+		}
+	}
+}
