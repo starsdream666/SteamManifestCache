@@ -1,0 +1,399 @@
+"appinfo"
+{
+	"appid"		"336240"
+	"common"
+	{
+		"name"		"Typoman"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"logo"		"caee90013a7d72fcc5ad415c57ab565c45262a62"
+		"logo_small"		"caee90013a7d72fcc5ad415c57ab565c45262a62_thumb"
+		"icon"		"44680606ed14db443e7c4028e6f2b13bd0bd07d7"
+		"clienticon"		"8f0163c47836e66cc48a4191189e9b72e56ebeeb"
+		"clienttga"		"dcaf9e76a4b7ff0eae8a123e4aefc24c9bad1f8a"
+		"releasestate"		"released"
+		"osarch"		"64"
+		"osextended"		"macos64,macosnotarized"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1673481600"
+			"tested_build_id"		"1794633"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-5"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Typoman"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1651843414"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Brainseed Factory"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Brainseed Factory"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+			"category_29"		"1"
+			"category_23"		"1"
+			"category_43"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1471283760"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"336240"
+		"store_tags"
+		{
+			"0"		"3871"
+			"1"		"492"
+			"2"		"24003"
+			"3"		"3798"
+			"4"		"5537"
+			"5"		"1664"
+			"6"		"1756"
+			"7"		"1625"
+			"8"		"1710"
+			"9"		"21"
+		}
+		"review_score"		"8"
+		"review_percentage"		"86"
+	}
+	"extended"
+	{
+		"developer"		"Brainseed Factory"
+		"publisher"		"Brainseed Factory"
+		"homepage"		"http://www.typoman.net"
+		"listofdlc"		"541280"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Typoman"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Typoman.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Typoman.app/Contents/MacOS/Typoman"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Typoman.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,spanish,schinese,russian,japanese,brazilian"
+		"336241"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3576142718880875748"
+					"size"		"1090039824"
+					"download"		"271251456"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"A521EF07E6BBA4765A4A20CB6D62BB55"
+					"size"		"EBD5D31714C7B89B22E8702765071E6A"
+					"download"		"41E372BC89BDC7EAE2F67D5215901556"
+				}
+				"internal"
+				{
+					"gid"		"89631357B90BE4C9C3891C53186EFF00"
+					"size"		"3E9E929B17BE79BBAEBD0763346961F5"
+					"download"		"8383A67C2C8362EF09ABC31367986260"
+				}
+				"linux-beta"
+				{
+					"gid"		"CAA3846CFCCBFD6765CB0C8D468AE846"
+					"size"		"9A8CD820E19043B711D4ED869788B96F"
+					"download"		"B23D340B2609CC8482ACD4A9EB37064C"
+				}
+			}
+		}
+		"336242"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7538147652650738277"
+					"size"		"1099826395"
+					"download"		"272582176"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"7991C18762A264FED4DAF6619539DFC4"
+					"size"		"A5FAFBB3DA4C90E21497BD992780F631"
+					"download"		"25C13C21A25BFCA27743B8BEE09B56DC"
+				}
+				"internal"
+				{
+					"gid"		"ED7DE3209113B66437479018381F0375"
+					"size"		"CB9F67297713EE8A3613321842810AEA"
+					"download"		"309ADA762626DD030726387B18D5C511"
+				}
+				"linux-beta"
+				{
+					"gid"		"5081B03D35355E96652A0D78C3A693EC"
+					"size"		"49034A722D8AF6C849C96C6028C36DDB"
+					"download"		"E7C6AC1B7374F737F9E578F4EAD39B40"
+				}
+			}
+		}
+		"336243"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5198864526545192384"
+					"size"		"1094608524"
+					"download"		"272215600"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal"
+				{
+					"gid"		"6EDB75077550EF5CDBEE788866967AC0"
+					"size"		"FECF92B652E7547D5C8A97CBA57F8642"
+					"download"		"9FCCC8C20E2FC9A843214CEE93740F8E"
+				}
+				"linux-beta"
+				{
+					"gid"		"0B160B9D01147364825088378B6575DA"
+					"size"		"0057BA926B6DB8181687CD7DBAA440D6"
+					"download"		"A4CE18B4C2DC8619E20B333E6B7B2655"
+				}
+			}
+		}
+		"541280"
+		{
+			"dlcappid"		"541280"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"62031315056502622"
+					"size"		"114461608"
+					"download"		"114322624"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"E0DC82EEEF8D3D0EDF93699952242E91"
+					"size"		"CD9D57B99CB23E01A33D74655A75EE18"
+					"download"		"4782871964F280C13102F4E079B0E15D"
+				}
+				"internal"
+				{
+					"gid"		"06C2A1FAA33629AE582A8D95C280BD83"
+					"size"		"5589D993D6E20F6F23EC64B5BC078000"
+					"download"		"A5222806163BF5E01573249698519D99"
+				}
+				"linux-beta"
+				{
+					"gid"		"5E50110EECB6A31A194C601A016FA586"
+					"size"		"DE79C685AF0E05FED34B5A6339B482CF"
+					"download"		"AC54E7C914ABC7D0995DE90EB6CFA3B0"
+				}
+			}
+		}
+		"hasdepotsindlc"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1794633"
+				"timeupdated"		"1493838958"
+			}
+			"beta"
+			{
+				"buildid"		"1477093"
+				"pwdrequired"		"1"
+				"timeupdated"		"1480495273"
+			}
+			"internal"
+			{
+				"buildid"		"1794633"
+				"pwdrequired"		"1"
+				"timeupdated"		"1493737533"
+			}
+			"linux-beta"
+			{
+				"buildid"		"1615467"
+				"pwdrequired"		"1"
+				"timeupdated"		"1486482239"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000000"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"SavesDir"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
