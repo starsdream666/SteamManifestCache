@@ -1,0 +1,408 @@
+"appinfo"
+{
+	"appid"		"280720"
+	"common"
+	{
+		"name"		"Imagine Earth"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,linux"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"polish"		"1"
+			"czech"		"1"
+			"turkish"		"1"
+			"brazilian"		"1"
+		}
+		"logo"		"a35289cbb0b776a7d071cf2717b120691e38ea5b"
+		"logo_small"		"a35289cbb0b776a7d071cf2717b120691e38ea5b_thumb"
+		"icon"		"fa0f5d422635dba08808280c2e335a6b4ebd0dd1"
+		"clienttga"		"d68a3722318e835d5b0ab728cff898de6375485c"
+		"clienticon"		"ac80091edf28b8eaf1b0e39e09c2e00e3d67da12"
+		"eulas"
+		{
+		}
+		"osarch"		"64"
+		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1667865600"
+			"tested_build_id"		"9760232"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-5"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Imagine Earth"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"koreana"		"capsule_231x87_koreana.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+			"japanese"		"header_japanese.jpg"
+			"koreana"		"header_koreana.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"67.37507432341084"
+				"height_pct"		"67.07575591704702"
+			}
+		}
+		"store_asset_mtime"		"1686320317"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Serious Bros."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Serious Bros."
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"28"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_25"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_30"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+			"category_43"		"1"
+			"category_13"		"1"
+			"category_17"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1621951440"
+		"steam_deck_blog_url"		"https://steamcommunity.com/app/280720/eventcomments/3493131640461779634"
+		"metacritic_score"		"78"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/imagine-earth?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"280720"
+		"store_tags"
+		{
+			"0"		"4191"
+			"1"		"220585"
+			"2"		"1654"
+			"3"		"4328"
+			"4"		"3810"
+			"5"		"3942"
+			"6"		"1643"
+			"7"		"12472"
+			"8"		"1702"
+			"9"		"30358"
+			"10"		"4791"
+			"11"		"3854"
+			"12"		"6310"
+			"13"		"4695"
+			"14"		"5794"
+			"15"		"4845"
+			"16"		"1755"
+			"17"		"3835"
+			"18"		"5125"
+			"19"		"599"
+		}
+		"review_score"		"8"
+		"review_percentage"		"80"
+	}
+	"extended"
+	{
+		"developer"		"Serious Bros."
+		"publisher"		"Serious Bros."
+		"homepage"		"http://www.imagineearth.info"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"ImagineEarth"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ImagineEarth.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"ImagineEarth.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"2"
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,russian,japanese,czech,turkish,brazilian"
+		"workshopdepot"		"280720"
+		"280721"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7657246874223536932"
+					"size"		"1134943884"
+					"download"		"954658432"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"557302E7D2980FB14C7EB87254FB3EEE"
+					"size"		"846E04B89AFFBF666B16C7E3F3A989F3"
+					"download"		"7E38CED722BAE2A33A93DF64E1E25D53"
+				}
+				"oldengine"
+				{
+					"gid"		"4515214AB37D7315381B313E612D841F"
+					"size"		"5247812DDFDA1E2F7E29EA3E25B2AE1D"
+					"download"		"9255BA3A245DFE37CF08741B9F96D35D"
+				}
+				"preview"
+				{
+					"gid"		"39D0C797AED463C69B1406C6891066FD"
+					"size"		"CF5679D3556463D09AEC4A70041E7679"
+					"download"		"57C8F86291C0925FE317D2CC769FCD79"
+				}
+			}
+		}
+		"280722"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6115660259815804654"
+					"size"		"1165022594"
+					"download"		"960855648"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"E6CD156427677E870DB8FCB4A7BAE75F"
+					"size"		"B8D3E91B95DF763B280925D269530174"
+					"download"		"59DCFF681C77EF6BC5D692DFA076E937"
+				}
+				"preview"
+				{
+					"gid"		"0F5541D469FD96252C2CE4B6036AC67E"
+					"size"		"85F0C4FF944A9BA97E65EF864C4C4D4F"
+					"download"		"C45BF28C3F0F2DBD91CC88664DCAC2EA"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11990118"
+				"timeupdated"		"1692604670"
+			}
+			"beta"
+			{
+				"buildid"		"11990118"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692604364"
+			}
+			"oldengine"
+			{
+				"buildid"		"4509721"
+				"pwdrequired"		"1"
+				"timeupdated"		"1578832523"
+			}
+			"preview"
+			{
+				"buildid"		"11990118"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692604602"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000000"
+		"maxnumfiles"		"5000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"ImagineEarth"
+				"pattern"		"*.*"
+				"recursive"		"1"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxXdgDataHome"
+				"addpath"		""
+			}
+		}
+	}
+}
