@@ -1,0 +1,176 @@
+"appinfo"
+{
+	"appid"		"42750"
+	"common"
+	{
+		"name"		"Call of Duty: Modern Warfare 3 - Dedicated Server"
+		"type"		"Tool"
+		"logo"		"52841f445d2a1a1df608c6625c541674a30c5985"
+		"logo_small"		"52841f445d2a1a1df608c6625c541674a30c5985_thumb"
+		"icon"		"c3330a875925437d8216949b6571f6e941ba0679"
+		"clienticon"		"d95d20dd4381f6935fbc1a62be592d21a64c2af7"
+		"clienttga"		"d1b92a38e21e6652ca549a8120b89ec9500907cf"
+		"freeondemand"		"1"
+		"gameid"		"42750"
+	}
+	"extended"
+	{
+		"canskipinstallappchooser"		"1"
+		"dependantonapp"		"42680"
+		"developer"		"Infinity Ward - Sledgehammer Games"
+		"gamedir"		"modernwarfare3"
+		"homepage"		"http://www.callofduty.com"
+		"icon"		""
+		"installscript"		"installscript.vdf"
+		"languages"		"english,french,german,italian,spanish,polish,russian,japanese"
+		"noservers"		"1"
+		"order"		"1"
+		"primarycache"		"42751"
+		"serverbrowsername"		""
+		"state"		"eStateTool"
+		"visibleonlywhensubscribed"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Call of Duty Modern Warfare 3"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"iw5mp_server.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"42682"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"42690"
+			"sharedinstall"		"2"
+		}
+		"42751"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9089183337461621316"
+					"size"		"5982326"
+					"download"		"1672272"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"9CABC539689AF6454CFBDB40367A07AA"
+					"size"		"E3E3FA9C82E0AFBA09043D0B87161276"
+					"download"		"5615BAE79B14358071CBE87005CA7B6E"
+				}
+			}
+		}
+		"42683"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"42690"
+			"sharedinstall"		"2"
+		}
+		"42684"
+		{
+			"config"
+			{
+				"language"		"spanish"
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"42690"
+			"sharedinstall"		"2"
+		}
+		"42685"
+		{
+			"config"
+			{
+				"language"		"german"
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"42690"
+			"sharedinstall"		"2"
+		}
+		"42686"
+		{
+			"config"
+			{
+				"language"		"french"
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"42690"
+			"sharedinstall"		"2"
+		}
+		"42687"
+		{
+			"config"
+			{
+				"language"		"italian"
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"42690"
+			"sharedinstall"		"2"
+		}
+		"42688"
+		{
+			"config"
+			{
+				"language"		"russian"
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"42690"
+			"sharedinstall"		"2"
+		}
+		"42689"
+		{
+			"config"
+			{
+				"language"		"japanese"
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"42690"
+			"sharedinstall"		"2"
+		}
+		"42692"
+		{
+			"config"
+			{
+				"language"		"polish"
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"42690"
+			"sharedinstall"		"2"
+		}
+		"overridescddb"		"1"
+		"baselanguages"		"english,french,german,italian,spanish,polish,russian,japanese"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2741211"
+				"timeupdated"		"1525798853"
+			}
+			"beta"
+			{
+				"buildid"		"2741211"
+				"pwdrequired"		"1"
+				"timeupdated"		"1525309657"
+			}
+		}
+	}
+}
