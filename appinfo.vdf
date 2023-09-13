@@ -1,0 +1,72 @@
+"appinfo"
+{
+	"appid"		"212542"
+	"common"
+	{
+		"name"		"Red Orchestra 2 - Dedicated Server"
+		"type"		"Game"
+		"community_hub_visible"		"1"
+		"gameid"		"212542"
+	}
+	"extended"
+	{
+		"developer"		""
+		"gamedir"		"Red Orchestra 2 - Dedicated Server"
+		"homepage"		""
+		"icon"		""
+		"noservers"		"0"
+		"primarycache"		"35453"
+		"sourcegame"		"1"
+		"state"		"eStateAvailable"
+		"visibleonlywhensubscribed"		"1"
+	}
+	"config"
+	{
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"testapp.exe"
+			}
+		}
+		"contenttype"		"3"
+		"installdir"		"Red Orchestra 2"
+	}
+	"depots"
+	{
+		"35453"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2573614721256970795"
+					"size"		"10858743459"
+					"download"		"3243929280"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internalbeta"
+				{
+					"gid"		"024B1395A466C2DC0D1452C387E2A10C"
+					"size"		"71FE9BD04290FA9B56588C23FD2AB769"
+					"download"		"24738FCC997E3A9A1FA8C83096C8C6CC"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"815573"
+			}
+			"internalbeta"
+			{
+				"buildid"		"815573"
+				"pwdrequired"		"1"
+			}
+		}
+	}
+}
