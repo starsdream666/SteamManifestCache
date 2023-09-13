@@ -1,0 +1,335 @@
+"appinfo"
+{
+	"appid"		"352130"
+	"common"
+	{
+		"name"		"Locoland"
+		"type"		"Game"
+		"oslist"		"windows"
+		"logo"		"ea71be84d7e72f5b59a3a2e4b3b1455261674aca"
+		"logo_small"		"ea71be84d7e72f5b59a3a2e4b3b1455261674aca_thumb"
+		"clienticon"		"f43f6978d1d1d1c645d3915c1e0104920e407a64"
+		"clienttga"		"b423a22c7f05684571c484c743f9affdb840b378"
+		"icon"		"93900e6d8bb83225bed2f9d9f5805adcfd88e66e"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1690416000"
+			"tested_build_id"		"539805"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-3"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Locoland"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"russian"		"capsule_231x87_russian.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"russian"		"header_russian.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50.700116686114356"
+				"height_pct"		"86.09593920683923"
+			}
+		}
+		"store_asset_mtime"		"1658340083"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Gromada"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"ESDigital Games"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"ESDigital Games"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"hungarian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1069488000"
+		"steam_release_date"		"1432807320"
+		"community_hub_visible"		"1"
+		"gameid"		"352130"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"492"
+			"2"		"1616"
+			"3"		"1676"
+			"4"		"7782"
+			"5"		"4166"
+		}
+		"review_score"		"6"
+		"review_percentage"		"77"
+	}
+	"extended"
+	{
+		"developer"		"Gromada"
+		"publisher"		"ESDigital Games"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Locoland"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Steam.exe"
+				"description"		"Launch"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,russian,portuguese,polish,hungarian"
+		"352131"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4444430223950235589"
+					"size"		"551650083"
+					"download"		"180676096"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"bukatest"
+				{
+					"gid"		"604C302265411A061A7F8E1E18613FA5"
+					"size"		"CB468931FF103498ECE08BD93826F597"
+					"download"		"5F1D40659772E8310DC82F10C100FB12"
+				}
+			}
+		}
+		"352132"
+		{
+			"config"
+			{
+				"language"		"german"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3596369854892888123"
+					"size"		"552382883"
+					"download"		"181110768"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"bukatest"
+				{
+					"gid"		"32803D514001C181B8440B3D5AEAC5B2"
+					"size"		"BE254A87F8E70FC518E95C415BE0FA8A"
+					"download"		"4F2BCAFE843660F8974C5A7E6FB6771D"
+				}
+			}
+		}
+		"352133"
+		{
+			"config"
+			{
+				"language"		"hungarian"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6851596642613900100"
+					"size"		"552044710"
+					"download"		"181023120"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"bukatest"
+				{
+					"gid"		"EF69806839E11F841ADC1529F259F06D"
+					"size"		"66C29ED1C8C7B09A547338A83994D3D8"
+					"download"		"5C846B16D1C5C556B3A440E05411B28F"
+				}
+			}
+		}
+		"352134"
+		{
+			"config"
+			{
+				"language"		"polish"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5538924240507762511"
+					"size"		"551905704"
+					"download"		"180536672"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"bukatest"
+				{
+					"gid"		"A0DD2B6095165D08BC4B5F503ACB7AE5"
+					"size"		"9A32099A8A030C7174811F95074096BD"
+					"download"		"C1DCF04D04BE8695D7B5E040B47594E9"
+				}
+			}
+		}
+		"352135"
+		{
+			"config"
+			{
+				"language"		"portuguese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5653022511861976075"
+					"size"		"551649623"
+					"download"		"180676016"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"bukatest"
+				{
+					"gid"		"5DB420D66E0728390DCCE8BBD0DC6615"
+					"size"		"A00346AD080D102A68E657D27C345809"
+					"download"		"8B489F4A75152384F7DDC924E1EA2615"
+				}
+			}
+		}
+		"352136"
+		{
+			"config"
+			{
+				"language"		"russian"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"257855491704194263"
+					"size"		"559058825"
+					"download"		"183717344"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"bukatest"
+				{
+					"gid"		"5FBB4CBF2AF0DEE794A51E31FE9FD2C1"
+					"size"		"22612E435A3D49FA445D994F3C0A4797"
+					"download"		"465F730AA3850427496D8466C4874685"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"539805"
+			}
+			"bukatest"
+			{
+				"buildid"		"634512"
+				"pwdrequired"		"1"
+			}
+		}
+	}
+}
