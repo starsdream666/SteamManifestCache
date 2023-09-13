@@ -1,0 +1,250 @@
+"appinfo"
+{
+	"appid"		"270810"
+	"common"
+	{
+		"name"		"Jones On Fire"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"6942a9a7bb6095f4e70521c13c92e4375e1e4907"
+		"logo_small"		"6942a9a7bb6095f4e70521c13c92e4375e1e4907_thumb"
+		"clienticon"		"08380c4b31ffca8117ffc469f6371bed1a58d426"
+		"clienttga"		"03dd1667f109aafe78e8f9c2f9be3c1c5ecb70aa"
+		"icon"		"8d445392142d715c4cf860029daf0c051f775d36"
+		"oslist"		"windows,macos"
+		"metacritic_name"		"Jones On Fire"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1432768550"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Glass Bottom Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Glass Bottom Games"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Glass Bottom Games"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"23"
+			"3"		"9"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_29"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1363244400"
+		"steam_release_date"		"1427475813"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"270810"
+		"store_tags"
+		{
+			"0"		"8666"
+			"1"		"4726"
+			"2"		"17894"
+			"3"		"3798"
+			"4"		"699"
+			"5"		"1732"
+			"6"		"5395"
+			"7"		"4975"
+			"8"		"597"
+			"9"		"1759"
+			"10"		"1773"
+			"11"		"5125"
+			"12"		"7208"
+			"13"		"19"
+			"14"		"1662"
+			"15"		"5350"
+			"16"		"1719"
+			"17"		"4004"
+			"18"		"4182"
+			"19"		"492"
+		}
+		"review_score"		"5"
+		"review_percentage"		"59"
+	}
+	"extended"
+	{
+		"developer"		"Glass Bottom Games"
+		"publisher"		"Glass Bottom Games"
+		"homepage"		"http://www.glassbottomgames.com/projects/jones-on-fire/"
+		"listofdlc"		"350260"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Jones On Fire"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"JonesOnFire.app"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"1"
+			{
+				"executable"		"JonesOnFire.exe"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"270811"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6408482813066947938"
+					"size"		"34811362"
+					"download"		"14543632"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"C52236B470D0CEFD429D208A44290CA3"
+					"size"		"8CB952F6295EB776AC421AF0483C2905"
+					"download"		"B7D13A0BA9100455E106E9139E805FFD"
+				}
+				"testing"
+				{
+					"gid"		"18387C1EC8C5BBC9BB550A483EF8ECAD"
+					"size"		"AF0C0FB5C7493733EABEE53E3530B890"
+					"download"		"5609787AACAF100310EAB0EA3C86503F"
+				}
+			}
+		}
+		"270812"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4818999455353068555"
+					"size"		"42878136"
+					"download"		"15788576"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"946B45702ECA264B569EA1912CF12BF1"
+					"size"		"EB0D9EAC72A5867A4A3E2EAACC46CD82"
+					"download"		"55D4DB5A0E34E9BDA35DD05966D9E2D0"
+				}
+				"testing"
+				{
+					"gid"		"536E32CB458501B300DE0CC4226CA8E8"
+					"size"		"F3B03484FBDFC2ADDC673F277D6F8E8C"
+					"download"		"26D7A3177A71238A6B04B8898A4E7159"
+				}
+			}
+		}
+		"350260"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4536513039661848852"
+					"size"		"5021840"
+					"download"		"5008528"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"DBE24B960BA828475321F6A04ED41E68"
+					"size"		"6EC5431A5B032F4662DB0DCBBDE32C1C"
+					"download"		"482FC4B69BB9A34995F3D8E23CD323AB"
+				}
+				"testing"
+				{
+					"gid"		"109354E24A1C1DDC0AF1EB64CA2FF140"
+					"size"		"19342C7FA530A2C1968E436785C495C2"
+					"download"		"0F94DBF6A6E8FDD264D5C07350BC19E9"
+				}
+			}
+			"dlcappid"		"350260"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"714877"
+			}
+			"beta"
+			{
+				"buildid"		"714877"
+				"pwdrequired"		"1"
+			}
+			"testing"
+			{
+				"buildid"		"714728"
+				"pwdrequired"		"1"
+			}
+		}
+	}
+}
