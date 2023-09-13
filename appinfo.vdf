@@ -1,0 +1,73 @@
+"appinfo"
+{
+	"appid"		"224620"
+	"common"
+	{
+		"name"		"Primal Carnage Dedicated Server"
+		"type"		"Tool"
+		"gameid"		"224620"
+	}
+	"extended"
+	{
+		"developer"		""
+		"gamedir"		"Primal Carnage Dedicated Server"
+		"homepage"		""
+		"icon"		""
+		"noservers"		"0"
+		"sourcegame"		"1"
+		"state"		"eStateAvailable"
+		"thirdpartycdkey"		"1"
+		"visibleonlywhensubscribed"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"primal_carnage_server"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Loader.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"224621"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6120726648104713761"
+					"size"		"560341546"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"E2163CE240B5DBE4294739ACA0AB2FF4"
+					"size"		"C13A90D721315EEF52EC62C4B2DAC4C1"
+					"download"		"8C1C5DB8D897559878D4BCB7BF9F72F0"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"preloadonly"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"107219"
+			}
+			"beta"
+			{
+				"buildid"		"132405"
+				"pwdrequired"		"1"
+			}
+		}
+	}
+}
