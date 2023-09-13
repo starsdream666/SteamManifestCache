@@ -1,0 +1,1005 @@
+"appinfo"
+{
+	"appid"		"17740"
+	"common"
+	{
+		"name"		"Empires"
+		"logo"		"c8b9c51734b20720734f2cc15f486b1bbf70d85f"
+		"logo_small"		"c8b9c51734b20720734f2cc15f486b1bbf70d85f_thumb"
+		"icon"		"e93621d24b2eb58ad47a662b0e18beaa7c234cd6"
+		"clienttga"		"7e85127a8f6fc38038f78561b34f0401f40c1b7a"
+		"clienticon"		"172aec62bf96924f286cea687188fa5a8e6ddcf2"
+		"type"		"Game"
+		"oslist"		"windows,linux"
+		"osarch"		""
+		"linuxclienticon"		"172aec62bf96924f286cea687188fa5a8e6ddcf2"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1658275200"
+			"tested_build_id"		"8658619"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"4"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_GameOrLauncherDoesntExitCleanly"
+				}
+				"5"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Empires Mod"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"98.57651245551602"
+				"height_pct"		"95.88228206518464"
+			}
+		}
+		"store_asset_mtime"		"1667065664"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Empires"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Empires"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_12"		"1"
+			"category_17"		"1"
+			"category_16"		"1"
+			"category_23"		"1"
+			"category_27"		"1"
+			"category_22"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_47"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"swedish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1217228400"
+		"steam_release_date"		"1217265000"
+		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"17740"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1663"
+			"1"		"1676"
+			"2"		"1775"
+			"3"		"1774"
+			"4"		"9"
+			"5"		"7332"
+			"6"		"3839"
+			"7"		"1723"
+			"8"		"4791"
+			"9"		"4191"
+			"10"		"13276"
+			"11"		"5711"
+			"12"		"11104"
+			"13"		"19"
+			"14"		"4695"
+			"15"		"4155"
+			"16"		"8945"
+			"17"		"3993"
+			"18"		"3859"
+			"19"		"113"
+		}
+		"review_score"		"8"
+		"review_percentage"		"86"
+	}
+	"extended"
+	{
+		"developer"		"Empires"
+		"gamedir"		"empires"
+		"homepage"		"https://www.empiresmod.com/"
+		"icon"		""
+		"loadallbeforelaunch"		"1"
+		"noservers"		"0"
+		"order"		"1"
+		"primarycache"		"17741"
+		"requiredappid"		"215"
+		"serverbrowsername"		"Empires"
+		"sourcegame"		"1"
+		"state"		"eStateAvailable"
+		"developer_url"		"http://www.valvesoftware.com"
+		"publisher"		"Empires"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"usemms"		"1"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"hl2.exe"
+				"arguments"		"-game ./empires -steam -nobreakpad -forceallmips +r_hunkalloclightmaps 0"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"hl2.sh"
+				"arguments"		"-game ./empires -steam -nobreakpad -forceallmips +r_hunkalloclightmaps 0"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+		"contenttype"		"3"
+		"installdir"		"Empires"
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"17744"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"767139333744004057"
+					"size"		"3179262701"
+					"download"		"1823635392"
+				}
+				"beta"
+				{
+					"gid"		"767139333744004057"
+					"size"		"3179262701"
+					"download"		"1823635392"
+				}
+				"last_stable"
+				{
+					"gid"		"2102311563842849012"
+					"size"		"3173784363"
+					"download"		"1823591760"
+				}
+				"spike_scripts"
+				{
+					"gid"		"684193409081964720"
+					"size"		"3173714025"
+					"download"		"1823532832"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"2.7.0"
+				{
+					"gid"		"A8D39311308AEBC8D94C3A96AAE23684"
+					"size"		"3F13A95CDE5093CAC863573E766A8FA4"
+					"download"		"96945BFA2EC0B6B452304CFACC620CCD"
+				}
+				"3.0.0"
+				{
+					"gid"		"A7E363CF01DB7420618565879D26D1AA"
+					"size"		"EB142770914A94CAD95EE2E935FC5CC7"
+					"download"		"477CD77ECC7535DF963C3FA46A606999"
+				}
+				"alpha"
+				{
+					"gid"		"8B879682238710D494D448A1634B7834"
+					"size"		"E2A63C2E6743DE6083929A4653567AFC"
+					"download"		"B5B1956551C00D77C6F4AC3000F3EFA8"
+				}
+				"buildsystem2"
+				{
+					"gid"		"D43ED30AD2E638B1A5F03F0CF4FD96FE"
+					"size"		"0B2BD01FD45A86561FE3504C7CEB2AC4"
+					"download"		"E0C719F3D182AEDDA46C2D289A423797"
+				}
+				"dev_vehicletuning"
+				{
+					"gid"		"88BCB7A161E117482C78B3AE11EE94DA"
+					"size"		"0BA61128C93A18D164C4A12F22F24A8F"
+					"download"		"97C90F4A0CD96051A126900138791E8F"
+				}
+				"handling"
+				{
+					"gid"		"917841FEB7CA55E073AE341CA5CB1D9E"
+					"size"		"39A3146334F2B2CBAD82FCD13A6FACE2"
+					"download"		"0C53646876C708FD9BF8369189C3D16F"
+				}
+				"history"
+				{
+					"gid"		"934EDA7991CFB896F6FC1FA1AB7911ED"
+					"size"		"1FB5E7972E0033A028E91A76D4C61937"
+					"download"		"372FBC91BFBB38775504926C9131A1B4"
+				}
+				"integration"
+				{
+					"gid"		"C77EBB672CEF92A08405B60B5B639C75"
+					"size"		"8028315B555FF66730F50200813B82D9"
+					"download"		"1D7777B9BA087D5254716CBC0ECC7A1B"
+				}
+				"misfire"
+				{
+					"gid"		"3835E2A9A7C5EE773DE974DCB915444D"
+					"size"		"5B7A088EF0E5C4C6A106FAFE5965795D"
+					"download"		"274984477A34D9B65B7AB3BC9EEECFE4"
+				}
+				"smithys_test_branch"
+				{
+					"gid"		"499E8BA404ECBD4EFE66D9AFF69AD3A2"
+					"size"		"16A27C2BFA6FB6C01AC84992EAEE267E"
+					"download"		"0522C4C0178964AABE05771F876F3E8B"
+				}
+				"source2007"
+				{
+					"gid"		"9E8C4EBCF78C02E31D2B1C483D1FEBC8"
+					"size"		"6E1263758D5CD3AD9E3CFE26BCB76C02"
+					"download"		"90B38282D4CF1E84FCC62C798274FE2D"
+				}
+				"vulcanstorm"
+				{
+					"gid"		"03BC35DA8E24C7517113F75B4691BB60"
+					"size"		"CB0F79F925CBC520115044C54CA0FD56"
+					"download"		"C7817F90862D2E5C5B5FEE9F070F7020"
+				}
+			}
+		}
+		"17743"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"287223044150100952"
+					"size"		"126850"
+					"download"		"32960"
+				}
+				"beta"
+				{
+					"gid"		"287223044150100952"
+					"size"		"126850"
+					"download"		"32960"
+				}
+				"last_stable"
+				{
+					"gid"		"7908519095234815160"
+					"size"		"136974"
+					"download"		"38480"
+				}
+				"spike_scripts"
+				{
+					"gid"		"8854557201608574808"
+					"size"		"1168569"
+					"download"		"270752"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"2.7.0"
+				{
+					"gid"		"69434BA89505A3838B1C23FBF625D644"
+					"size"		"9FADAB2B486021D3C216E982597D9C1D"
+					"download"		"E890ED8E4F06D37CF21845B97D65FF0B"
+				}
+				"3.0.0"
+				{
+					"gid"		"444950ADC6834A17172EE3C4C6FF54AA"
+					"size"		"6FE4A911D2FFFC7D259C2981F4537984"
+					"download"		"3B8AB300C63F42C2B5D75879C02FB8A8"
+				}
+				"alpha"
+				{
+					"gid"		"88B2DD86207031585B6D4ED337E4FB86"
+					"size"		"8B2FA986F202135D090AC2C5ADADFAA8"
+					"download"		"984C681E03DDDD73AABEBB42D952BD68"
+				}
+				"buildsystem2"
+				{
+					"gid"		"571D0AA2221B649DF1F16BF2F1D53729"
+					"size"		"6C866EAEEE99331344120A4D9D8BFABF"
+					"download"		"7D9BBB43165D7E114445E2C68C0DA281"
+				}
+				"dev_vehicletuning"
+				{
+					"gid"		"C30B34E94DB5F90EC50BB06BE103C0F7"
+					"size"		"D0F659446B6D86424F9C1B296590F741"
+					"download"		"28B5741BF8BCE763A71A8BD11C59D043"
+				}
+				"handling"
+				{
+					"gid"		"9BF927057E808A74AA933E46C9E47F64"
+					"size"		"F566446ACF33B41A4BEB716182DBA9BC"
+					"download"		"BC2C417227AB9153EFC921B728E926E9"
+				}
+				"history"
+				{
+					"gid"		"421E5B80E7C5DEABDD01A0922892A08D"
+					"size"		"75C0B549251F3E877EA5D53DFFE7B1DB"
+					"download"		"9266447613AAC03FAF8E82D7CC90F868"
+				}
+				"integration"
+				{
+					"gid"		"AB56087A1993F1C3EE3CCCE821A4B843"
+					"size"		"290E8A247F7CC3167E85AFCB96B93174"
+					"download"		"C46247C5E981C4E5B2D82812EBB50039"
+				}
+				"misfire"
+				{
+					"gid"		"ECA9766E80E443B541F2804ED64B1AEC"
+					"size"		"D2EEFC1D3ACFC10FDB1B2B83D55EE0EB"
+					"download"		"46229C4FC306EC30185EAD74CCD5F06F"
+				}
+				"smithys_test_branch"
+				{
+					"gid"		"4ADB4FC5208CA721120A3ED431AFF7AE"
+					"size"		"6B5038C6A538B7C25FF1AA3C87B1F18D"
+					"download"		"2D14605A598A89D83EA7307CA27B1795"
+				}
+				"source2007"
+				{
+					"gid"		"C19B1FE120475C7153F09F05979B6C88"
+					"size"		"AAFE2109BDE9225E99E7A064D81BEBCA"
+					"download"		"90B38282D4CF1E84FCC62C798274FE2D"
+				}
+				"vulcanstorm"
+				{
+					"gid"		"EA4C46032A5FD2A9567FD6E7EE4A376B"
+					"size"		"1D9DA7C0621D9FFE2247EAC237206543"
+					"download"		"B2069B4C3CDF71429D4AFCCEE04C7021"
+				}
+			}
+		}
+		"17742"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1726722760333011123"
+					"size"		"13846536"
+					"download"		"4326816"
+				}
+				"beta"
+				{
+					"gid"		"1726722760333011123"
+					"size"		"13846536"
+					"download"		"4326816"
+				}
+				"last_stable"
+				{
+					"gid"		"435411360936095941"
+					"size"		"13380608"
+					"download"		"4122672"
+				}
+				"spike_scripts"
+				{
+					"gid"		"2245415786192063838"
+					"size"		"12732928"
+					"download"		"3902496"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"2.7.0"
+				{
+					"gid"		"96C9AF6E1176B1BE54AC1F0FFEE9ECA7"
+					"size"		"5E4D40D47D5CDF18BAB30DC65E3B08BB"
+					"download"		"8D5D63000A8A8B3016BF6EB02BD4A939"
+				}
+				"3.0.0"
+				{
+					"gid"		"4902411BD434C1708D0A7A9EAE026C18"
+					"size"		"5B4A147DD44B66CD3ADB6753971B4290"
+					"download"		"D45DC4071244E7BE464D9C7743399593"
+				}
+				"alpha"
+				{
+					"gid"		"9B993010F5427D0A6BE793A0DC5EDF0A"
+					"size"		"C8313DF36A7858312F3E23E1ACC8774F"
+					"download"		"E75048FCBDF75572BA9302CF0E8565EE"
+				}
+				"buildsystem2"
+				{
+					"gid"		"32B0671E7AD36D1A1498245BA08C7D1F"
+					"size"		"6585FA8D2D0A983116DA3D68CE5868AB"
+					"download"		"17F580978537B14ED1F5700F02ED65D8"
+				}
+				"dev_vehicletuning"
+				{
+					"gid"		"01401C01C667F030F981F997810E9B26"
+					"size"		"D1B99CBCEB669BC1D127B84982EE8813"
+					"download"		"371E8BC4A35509E10E82D7012BC0D0D7"
+				}
+				"handling"
+				{
+					"gid"		"D2043B7E57A5FED26D92DF34A1611E90"
+					"size"		"1929ABC1331FCC9FCAF31427AEAA6464"
+					"download"		"5DD138E374D20CAC92DEC7C09DC40742"
+				}
+				"history"
+				{
+					"gid"		"5C1A0A8D33FBC8D8C78D06538E264EAE"
+					"size"		"8E309FA41D9EF688A37B133610200580"
+					"download"		"D219ED006165561251EAF2A53FDD3EFE"
+				}
+				"integration"
+				{
+					"gid"		"BE480E3EF0B6994E4F8FB23408636435"
+					"size"		"32202FDAB79991184D6C2CECCF0533DE"
+					"download"		"A0407233433A86DB225802AB66398DD7"
+				}
+				"misfire"
+				{
+					"gid"		"46C10AA05E9314E5DECE94C687B0B342"
+					"size"		"883C50CBA62ECF8E9B21DEA4DBB2F55D"
+					"download"		"57754CCA1D44DFC42411126003FB8195"
+				}
+				"smithys_test_branch"
+				{
+					"gid"		"E5182F836DE2D5D345FA9B89B0EB9C93"
+					"size"		"0E0CBBBCCB0EB1A208806BA080C05873"
+					"download"		"41D8E5B83A07EB4262FEAB96C10DED61"
+				}
+				"source2007"
+				{
+					"gid"		"4EAD7F3840F2070E43DA580F440FF24D"
+					"size"		"5152154F3931863C45D9393CF0101308"
+					"download"		"90B38282D4CF1E84FCC62C798274FE2D"
+				}
+				"vulcanstorm"
+				{
+					"gid"		"A8A653C20ED4E262C8330E87A62B3EEF"
+					"size"		"24856840D6E1C2672F405B587F016622"
+					"download"		"F9F488EF2827E97981AD7C44264C51CC"
+				}
+			}
+		}
+		"17741"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1383857519299324154"
+					"size"		"6624662677"
+					"download"		"2396480928"
+				}
+				"beta"
+				{
+					"gid"		"1383857519299324154"
+					"size"		"6624662677"
+					"download"		"2396480928"
+				}
+				"last_stable"
+				{
+					"gid"		"367022168763973404"
+					"size"		"4108774287"
+					"download"		"1633094640"
+				}
+				"spike_scripts"
+				{
+					"gid"		"5367162357661577991"
+					"size"		"3572123760"
+					"download"		"1672609456"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"2.7.0"
+				{
+					"gid"		"35C6B6D6D7AE6DD8E2ABC1A34FC893DD"
+					"size"		"DFE6D03D5B45361C6460D44F79860796"
+					"download"		"276A2B031DDEBFD46F0D2346ADDDACE4"
+				}
+				"3.0.0"
+				{
+					"gid"		"23C4200B29DE618D81CB6DD5D6987F1E"
+					"size"		"7B4E15BE5CA57D702F7B5951D8939A57"
+					"download"		"AF08DD7A033E8F5717A3F9CFD99A7211"
+				}
+				"alpha"
+				{
+					"gid"		"00C02828ADE4415CB16299FD3C617A1F"
+					"size"		"FE6513776799068DEC7217EAD44C5219"
+					"download"		"DB841255049BB7A49AF29789D1D08A40"
+				}
+				"buildsystem2"
+				{
+					"gid"		"5D9F2E7ED9A3E253A59639FB74F74E66"
+					"size"		"617133D23C4033A74F432CE699C0BF98"
+					"download"		"DA2281D4E2CB17BF3DD5E92573C548EF"
+				}
+				"dev_vehicletuning"
+				{
+					"gid"		"0BFD698B65771946D2F34BC1C3E078D3"
+					"size"		"B6C8E0B09439AC416F3279AE60D43338"
+					"download"		"E0AA0A07FD6F66C132EBE862F7DD9658"
+				}
+				"handling"
+				{
+					"gid"		"40B951FDE9172545B62D176A65FABAFF"
+					"size"		"E9D7C4D737B1CFD2A93FD79671047DF9"
+					"download"		"C9D95289ED8432DE8DA0080452C79BAE"
+				}
+				"history"
+				{
+					"gid"		"7DC81BCC3FB6550B5F3F76E67C156CB8"
+					"size"		"56AF8DAD1555F97C5708074D92551B2C"
+					"download"		"520F87FCE6B27F7877C32C89C00E8843"
+				}
+				"integration"
+				{
+					"gid"		"FDEAA25CA902F8BF05BDB1F8713EEE4C"
+					"size"		"406BA26A79B2459A37622DD36C8CD17E"
+					"download"		"C5A70F6BD2DF6477ADAB60DF4C08CA1D"
+				}
+				"misfire"
+				{
+					"gid"		"7A7C984B7EBA38E6C32479E74943347C"
+					"size"		"5E30EAA55785EA09FF9066CFEFB60A79"
+					"download"		"B90851558BCE2A0A891BCA85039788CF"
+				}
+				"smithys_test_branch"
+				{
+					"gid"		"01E2BD55836D3E1245DC37FE8D7B16C4"
+					"size"		"40FADCD4B18248D844F304AB8F5910C2"
+					"download"		"340D14D881D71411073C1F8563DA3A49"
+				}
+				"source2007"
+				{
+					"gid"		"A1B0CCDB0E8537B7C58A46D8F09A628A"
+					"size"		"32DFB795FD5E8580E4DABB5005CD201B"
+					"download"		"90B38282D4CF1E84FCC62C798274FE2D"
+				}
+				"vulcanstorm"
+				{
+					"gid"		"6EA816CF9850A8608BFF90C7FC9237F1"
+					"size"		"11DF5BC63D879A70325E685E8A31CF17"
+					"download"		"62FA38035BBD5C6C726AD9631B7ACE68"
+				}
+			}
+		}
+		"17745"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3439095027439254840"
+					"size"		"3137132060"
+					"download"		"1563852032"
+				}
+				"beta"
+				{
+					"gid"		"3439095027439254840"
+					"size"		"3137132060"
+					"download"		"1563852032"
+				}
+				"last_stable"
+				{
+					"gid"		"3735642103270385319"
+					"size"		"3119570625"
+					"download"		"1558677104"
+				}
+				"spike_scripts"
+				{
+					"gid"		"8220426478605235711"
+					"size"		"3121830851"
+					"download"		"1558876272"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"2.7.0"
+				{
+					"gid"		"57F53EFB73141CE12EBB05679D47C8A3"
+					"size"		"4E76535B49B2392FE104F3BCFD31091C"
+					"download"		"88378A1E840A00EBEC324CE9486413F6"
+				}
+				"3.0.0"
+				{
+					"gid"		"FEFC685F7ADD134D63F807B79784F318"
+					"size"		"3C0062E3274EB62806EC2F3C5CFB21C0"
+					"download"		"4A8500B7382D6D088475007E99C11C5A"
+				}
+				"alpha"
+				{
+					"gid"		"B3351880AB002452AC4C82942EB8EA62"
+					"size"		"83B041E82703642C76D4EE2F29A4D5CE"
+					"download"		"8C21B410A0E51E66A34715373B15A30F"
+				}
+				"buildsystem2"
+				{
+					"gid"		"024950D9398888520EEF68A42D207B7D"
+					"size"		"C875413BFA75ACE4CCC5468CE4568D58"
+					"download"		"D36B8E8D9C05BD4F943523AF41E632CC"
+				}
+				"dev_vehicletuning"
+				{
+					"gid"		"3F5E44668C2FA7C594B5748B93BA0E99"
+					"size"		"4527493F9091408EB73CE28E5972B275"
+					"download"		"E1A73B3F4FD8C0ECFE003D225C411ACC"
+				}
+				"handling"
+				{
+					"gid"		"1256468FD40252B998718A41A946DCF0"
+					"size"		"4943A6781FE84F0989DA5194EC6BF0DA"
+					"download"		"D95C49C0A320DE150DC0F71E1BE55897"
+				}
+				"history"
+				{
+					"gid"		"247490726BF4A26EB44911B6084EB4DC"
+					"size"		"C83E1864DB0DD1925F3E2FCEAB1B0C2E"
+					"download"		"5E6F4CAE0C197CA1E62768EB717E9552"
+				}
+				"integration"
+				{
+					"gid"		"816D9A6EC0924A9445EE60DF96E9A0AC"
+					"size"		"8A8397956BD899A6E0B931462CD9403D"
+					"download"		"4FDCF2D364A1D2545F79128A72FB9783"
+				}
+				"misfire"
+				{
+					"gid"		"08AAF127A8F7EE41179DEA915D33E555"
+					"size"		"02EDC02413B47AD189903390031654E4"
+					"download"		"7E3DC3439FA7FEE7582C78AE448E0E00"
+				}
+				"smithys_test_branch"
+				{
+					"gid"		"42537C474B4B72299DEB3EF5722BDE9A"
+					"size"		"C2A8361B243500094E91B44ABC6FE842"
+					"download"		"3757C9C4AFE608670A18E94CD9CBF688"
+				}
+				"vulcanstorm"
+				{
+					"gid"		"08F1BA0A1F4F786E609575C76CA6DC78"
+					"size"		"95416DB00E16E3F1072199CC0E2F5C40"
+					"download"		"92BCB3DDA3E45BC3FAB7B880F4066714"
+				}
+			}
+		}
+		"17746"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4860151994560866375"
+					"size"		"27784880"
+					"download"		"6435392"
+				}
+				"beta"
+				{
+					"gid"		"4860151994560866375"
+					"size"		"27784880"
+					"download"		"6435392"
+				}
+				"last_stable"
+				{
+					"gid"		"8774435375117203550"
+					"size"		"54308824"
+					"download"		"6243824"
+				}
+				"spike_scripts"
+				{
+					"gid"		"7227969588061219411"
+					"size"		"51392280"
+					"download"		"5803856"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"2.7.0"
+				{
+					"gid"		"9495E72B6008285FB1B24E5702451130"
+					"size"		"68100C9323B6186834463A0BFB894992"
+					"download"		"B618E8252416F5123525507C98B58BDA"
+				}
+				"3.0.0"
+				{
+					"gid"		"0EAC8EFBD09D0A2D570AF6F2188A24EF"
+					"size"		"F8D976EBC43014690B1A1D567ECACE70"
+					"download"		"CBD6DCA4EAEBC55C999F1E42D0075A51"
+				}
+				"alpha"
+				{
+					"gid"		"3E2B453D7D2EB5C6919F4E70A0B12620"
+					"size"		"1386A956C2FB06392E18F211EA591E64"
+					"download"		"B0115F56914FCBEEF09AA9063870808F"
+				}
+				"buildsystem2"
+				{
+					"gid"		"3CFA13AC82395AE6DA7A04922F1BE242"
+					"size"		"36457767950A7EEF554EC402618872B2"
+					"download"		"A955C79303A38D0C2467705BFABF4C74"
+				}
+				"dev_vehicletuning"
+				{
+					"gid"		"9BB1533612F480E338CD0DEDE462703F"
+					"size"		"3CAA3BD33935FC7C05074B196CA4FFAB"
+					"download"		"93EC943E08771D8EDBE1C4A86F5C60B6"
+				}
+				"handling"
+				{
+					"gid"		"3086245DB9A1DBA35A1712D7EB58C396"
+					"size"		"D1B766F93BF3E7672DBD326A2E952DAB"
+					"download"		"264CD3675D0FE75117B230C14E151ADC"
+				}
+				"history"
+				{
+					"gid"		"56C084B216F55264FFDA8E08052B5D26"
+					"size"		"54AB430AF66F31A3457F739EAD493657"
+					"download"		"73FBCB1088C3F9552D43F13705E52C90"
+				}
+				"integration"
+				{
+					"gid"		"835727683E64B1B8E6063E04F966E14D"
+					"size"		"8688528A29FF2ED0D06180809768B526"
+					"download"		"37B47163BD2A3055E8280E05103A71A5"
+				}
+				"misfire"
+				{
+					"gid"		"E404C4ED3BD548C47E49C100E477B2AE"
+					"size"		"A95B3E438383DA91FB704332CC9001F3"
+					"download"		"DEFAAE7E9F833E596E15B23FB556AA08"
+				}
+				"smithys_test_branch"
+				{
+					"gid"		"650C88AE4BF915ED8329262B528E61D8"
+					"size"		"E0D5A73D4B363EF40DBA9B7A9E004D66"
+					"download"		"7B39F42C534A8046FDB76C55705AC197"
+				}
+				"vulcanstorm"
+				{
+					"gid"		"F66D532C2584975989E9E5F38665B63C"
+					"size"		"E4915E481763468C4AB3256861E86603"
+					"download"		"5F378ACB4380BF0AE39166C8958B8649"
+				}
+			}
+		}
+		"baselanguages"		"english,german,french,spanish,russian,portuguese,polish,swedish"
+		"workshopdepot"		"17740"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11710972"
+				"timeupdated"		"1689438977"
+			}
+			"2.7.0"
+			{
+				"buildid"		"1794795"
+				"pwdrequired"		"1"
+				"timeupdated"		"1493741549"
+			}
+			"3.0.0"
+			{
+				"buildid"		"3946908"
+				"pwdrequired"		"1"
+				"timeupdated"		"1561335665"
+			}
+			"alpha"
+			{
+				"buildid"		"12151924"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694314951"
+			}
+			"beta"
+			{
+				"buildid"		"11710972"
+				"description"		"Empires Beta Test"
+				"timeupdated"		"1689437801"
+			}
+			"buildsystem2"
+			{
+				"buildid"		"4887881"
+				"pwdrequired"		"1"
+				"timeupdated"		"1586638368"
+			}
+			"dev_vehicletuning"
+			{
+				"buildid"		"1642167"
+				"pwdrequired"		"1"
+				"timeupdated"		"1488506505"
+			}
+			"handling"
+			{
+				"buildid"		"1668621"
+				"pwdrequired"		"1"
+				"timeupdated"		"1488551746"
+			}
+			"history"
+			{
+				"buildid"		"999956"
+				"pwdrequired"		"1"
+			}
+			"integration"
+			{
+				"buildid"		"1667367"
+				"pwdrequired"		"1"
+				"timeupdated"		"1488503268"
+			}
+			"last_stable"
+			{
+				"buildid"		"2376627"
+				"description"		"Previous stable"
+				"timeupdated"		"1521326639"
+			}
+			"misfire"
+			{
+				"buildid"		"2376678"
+				"pwdrequired"		"1"
+				"timeupdated"		"1521326146"
+			}
+			"smithys_test_branch"
+			{
+				"buildid"		"11764802"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690050986"
+			}
+			"source2007"
+			{
+				"buildid"		"218545"
+				"pwdrequired"		"1"
+			}
+			"spike_scripts"
+			{
+				"buildid"		"1529767"
+				"timeupdated"		"1482190438"
+			}
+			"vulcanstorm"
+			{
+				"buildid"		"1952719"
+				"pwdrequired"		"1"
+				"timeupdated"		"1499789383"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10737418240"
+		"maxnumfiles"		"1000"
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#activitymapplayers"		"{#activity_%activity%} %map% - (%num_players%/%max_players%)"
+					"#activitymap"		"{#activity_%activity%} %map%"
+					"#map"		"%map%"
+					"#mapplayers"		"%map% - (%num_players%/%max_players%)"
+					"#activity_replaying"		"Replaying"
+					"#activity_watching"		"Watching"
+					"#mainmenu"		"Main Menu"
+					"#loading"		"Loading..."
+				}
+			}
+		}
+	}
+}
