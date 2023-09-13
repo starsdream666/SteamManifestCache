@@ -1,0 +1,154 @@
+"appinfo"
+{
+	"appid"		"6100"
+	"common"
+	{
+		"clienticon"		"2592c9550c9f3ce85a8182523167e26001fc64fd"
+		"clienttga"		"1f69faa7e4b293c65387f9fc9d9ca9c9b1d29a90"
+		"icon"		"fbaf69a669637c8bd5cebdd9a8f06b4f37831235"
+		"logo"		"b7b60c57fe252f74272beb2b700c7511462f288f"
+		"logo_small"		"98f18ce90027d3c64b13fbf57ff4b0520b5c85ca"
+		"metacritic_url"		"pc/eets"
+		"name"		"Eets"
+		"oslist"		"windows,macos"
+		"type"		"game"
+		"metacritic_name"		"Eets"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Klei Entertainment"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Klei Entertainment"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1143619200"
+		"steam_release_date"		"1166660880"
+		"metacritic_score"		"81"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/eets?ftag=MCD-06-10aaa1f"
+		"community_hub_visible"		"1"
+		"gameid"		"6100"
+		"store_tags"
+		{
+			"0"		"1664"
+			"1"		"597"
+			"2"		"492"
+			"3"		"4182"
+		}
+		"review_score"		"5"
+		"review_percentage"		"51"
+	}
+	"extended"
+	{
+		"developer"		"Klei Entertainment"
+		"developer_url"		"http://www.kleientertainment.com/"
+		"disableoverlay"		"1"
+		"gamedir"		"Eets"
+		"homepage"		"http://www.eetsgame.com"
+		"icon"		"steam/games/icon_eets"
+		"installscript"		"instscript.vdf"
+		"installscriptosx"		"eets.app/installscript_osx.vdf"
+		"installscript_macos"		"eets.app/installscript_osx.vdf"
+		"noservers"		"1"
+		"order"		"1"
+		"primarycache"		"6101"
+		"primarycache_mac"		"6102"
+		"primarycache_macos"		"6102"
+		"serverbrowsername"		""
+		"state"		"eStateAvailable"
+		"validoslist"		"windows,macos"
+		"visibleonlywhensubscribed"		"1"
+		"publisher"		"Klei Entertainment"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Eets"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Eets.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Eets.app"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"6102"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1581273325171498216"
+					"size"		"88380163"
+					"download"		"0"
+				}
+			}
+		}
+		"6101"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3045996655892568540"
+					"size"		"55507109"
+					"download"		"0"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11234"
+			}
+		}
+	}
+}
