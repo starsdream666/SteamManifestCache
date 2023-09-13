@@ -1,0 +1,191 @@
+"appinfo"
+{
+	"appid"		"425040"
+	"common"
+	{
+		"name"		"ComixPlay #1: The Endless Incident"
+		"type"		"Game"
+		"oslist"		"windows,macos"
+		"logo"		"908a7276e1fdcf7845770267b0726938f1de960e"
+		"logo_small"		"908a7276e1fdcf7845770267b0726938f1de960e_thumb"
+		"icon"		"dbbc09d96cef20c0e07e8707ac571c58c0379966"
+		"clienttga"		"757068180ed0c7299161ae2e128541302ef7b1f1"
+		"clienticon"		"7c5f13cc7f5808feebf388aac7758e311ac835b1"
+		"releasestate"		"released"
+		"metacritic_name"		"ComixPlay #1: The Endless Incident"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1456239474"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"ComixPlay"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Mongoose Net Ltd."
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1456325923"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"425040"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"492"
+			"2"		"1751"
+		}
+		"review_score"		"7"
+		"review_percentage"		"94"
+	}
+	"extended"
+	{
+		"developer"		"ComixPlay"
+		"publisher"		"Mongoose Net Ltd."
+		"homepage"		"http://www.comixplay.com"
+		"listofdlc"		"445080"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"ComixPlay1"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"comixplay.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"comixplay.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"425041"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1693214763477435457"
+					"size"		"1728313101"
+					"download"		"406057216"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"DD41CB50441FE708839555701CFF7A29"
+					"size"		"99EB03EF0CDF0401CBFE0EBDDD48AC18"
+					"download"		"4B9D4653EAB5F53B3CECE6B619D12B0D"
+				}
+			}
+		}
+		"425042"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3545534315964617348"
+					"size"		"1729168968"
+					"download"		"407252640"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"D9443597BD39306C5D37A10E25C60F1E"
+					"size"		"9350B6256C2AA24367F431319CA9D617"
+					"download"		"9B44CAA2194C9B09903A6085A9A4F54D"
+				}
+			}
+		}
+		"445080"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6727443803981335794"
+					"size"		"537654196"
+					"download"		"499800064"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"E506BA58D7611AA04CA9ACEEA91EC4A0"
+					"size"		"133A1BFBFBBD590A639DB3445B74D11F"
+					"download"		"BEFBD0B0FD843443897A0040E0A24335"
+				}
+			}
+			"dlcappid"		"445080"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"977881"
+			}
+			"beta"
+			{
+				"buildid"		"977881"
+				"pwdrequired"		"1"
+			}
+		}
+	}
+}
