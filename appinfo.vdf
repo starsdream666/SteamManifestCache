@@ -1,0 +1,384 @@
+"appinfo"
+{
+	"appid"		"258030"
+	"common"
+	{
+		"name"		"Earthlock: Festival of Magic"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"clienticon"		"c9df6bef835263fd5eff530b8e3c68a8684fa648"
+		"clienttga"		"e64377b8db688a19c5cc25d9d9c77937f670a4ec"
+		"icon"		"15bc5a7ff1df39d31c8dcfc9a30ab0e50329379c"
+		"logo"		"25de374e0143de019c744900bf51bac172b8c73c"
+		"logo_small"		"25de374e0143de019c744900bf51bac172b8c73c_thumb"
+		"eulas"
+		{
+		}
+		"clienticns"		"742be0fa481d7123d13632e57380834727c6116f"
+		"metacritic_name"		"Earthlock: Festival of Magic"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1494670102"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Snowcastle Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Snowcastle Games"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+			"category_23"		"1"
+			"category_29"		"1"
+			"category_43"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"norwegian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"arabic"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1474959600"
+		"steam_release_date"		"1474962161"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"258030"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"122"
+			"2"		"4325"
+			"3"		"1684"
+			"4"		"1677"
+			"5"		"4182"
+			"6"		"1756"
+			"7"		"4434"
+			"8"		"10695"
+			"9"		"1741"
+			"10"		"9"
+			"11"		"3834"
+			"12"		"17305"
+			"13"		"1695"
+			"14"		"492"
+		}
+		"review_score"		"6"
+		"review_percentage"		"71"
+	}
+	"extended"
+	{
+		"developer"		"Snowcastle Games"
+		"publisher"		"Snowcastle Games"
+		"homepage"		"http://www.earthlockgame.com"
+		"listofdlc"		"533750,535310,588150"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Earthlock"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Earthlock.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Earthlock.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Earthlock.x86"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"258031"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"277480102063653639"
+					"size"		"4481771415"
+					"download"		"1704650464"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev-linux"
+				{
+					"gid"		"789F44574EF9D6F7B1812EFD10858A77"
+					"size"		"FF7D9375B579571E9746219024F30AC7"
+					"download"		"D957D568E7E766BC40D549FEF7265B5E"
+				}
+				"dev-master"
+				{
+					"gid"		"665EFF643237CF5EDF9C238804EC31DF"
+					"size"		"B977DE17AE1DD677132A6F053CAFDCC9"
+					"download"		"797F4B0A22338402846CB1DD9D258809"
+				}
+				"dev-only"
+				{
+					"gid"		"C8827DB027FED63BB5C1FC3B1C9AA467"
+					"size"		"FA1E825416324208967DC057A19115E3"
+					"download"		"9461F0721E00267427D5065100EA925C"
+				}
+				"user-test"
+				{
+					"gid"		"CFFF60D92399DCCA8E530A31C4E226B9"
+					"size"		"B8FA54802424AF5F8EAA66BE2E535CC7"
+					"download"		"7CB99CF927E51367FF7B3D1FACCD509C"
+				}
+			}
+		}
+		"258032"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6317048106085872816"
+					"size"		"4508892917"
+					"download"		"1712200224"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev-linux"
+				{
+					"gid"		"8CADE7EF9417B9491006FD4A84A822E2"
+					"size"		"6BE55C29C691D33804C5D384F4E4AD45"
+					"download"		"15CD55F3F07A95F0F22A39B60082B78A"
+				}
+				"dev-master"
+				{
+					"gid"		"442ECABD74FEA821060A449F6D071B6F"
+					"size"		"63A33074EE9A9E47324D68F2BBC4EB82"
+					"download"		"C6DFE32FCCB808DBDEA213DE0621B28D"
+				}
+				"dev-only"
+				{
+					"gid"		"69D6C49260C54EBA9C9926EEEBE83E82"
+					"size"		"37950A8D5C490CC63E7473946DCD6B87"
+					"download"		"BD7C7DA2E2F7C2371E753F468CEA2852"
+				}
+				"user-test"
+				{
+					"gid"		"536C2212E39381852E4E212C6B11F02C"
+					"size"		"15F92D26C1C510CCEBAAFCC27CD9D4C2"
+					"download"		"801222ABCEE1DD1D7243A97433A259E2"
+				}
+			}
+		}
+		"258033"
+		{
+			"dlcappid"		"533750"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3891611699015847441"
+					"size"		"305234704"
+					"download"		"255022832"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev-linux"
+				{
+					"gid"		"C7E99AD4225974BD2BE93F2E2EA3DC83"
+					"size"		"97A86A8940DA080C668B10E9BDF75556"
+					"download"		"7AC8C6F9E22AAEA958B80FB7A3BF46EB"
+				}
+				"dev-master"
+				{
+					"gid"		"370C6AEE5D138AF44101E2DACD4F4F0A"
+					"size"		"5AC105BC70FD0668AE71D186D2E07FB3"
+					"download"		"06E8010FBC52C007DA3148B19112FC66"
+				}
+				"dev-only"
+				{
+					"gid"		"DFE31EC51A4BB5DD64A0C5C20036EB61"
+					"size"		"22AEE6E52A729AE9547BBE5B51BE5D46"
+					"download"		"2DFFD814776E02A1C7DD63F44DB2FE31"
+				}
+				"user-test"
+				{
+					"gid"		"399FA5BFBB189DFF7E94336BD3DECC75"
+					"size"		"3AC9E81A5F5BE9D6D89BEB255BD7885F"
+					"download"		"59B36CBFCC30A215DFD3E14386A0FED3"
+				}
+			}
+		}
+		"258034"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"dev-linux"
+				{
+					"gid"		"544710C643C1255400E67A2DD6C05DDD"
+					"size"		"44C91B3202FD30CD524B043EF2AF1B06"
+					"download"		"45D6AFBA8E89D2345F06197946908F0F"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2341511"
+				"timeupdated"		"1512741415"
+			}
+			"dev-linux"
+			{
+				"buildid"		"1833593"
+				"pwdrequired"		"1"
+				"timeupdated"		"1495204377"
+			}
+			"dev-master"
+			{
+				"buildid"		"2341511"
+				"pwdrequired"		"1"
+				"timeupdated"		"1512478108"
+			}
+			"dev-only"
+			{
+				"buildid"		"1814891"
+				"pwdrequired"		"1"
+				"timeupdated"		"1494502542"
+			}
+			"user-test"
+			{
+				"buildid"		"1928262"
+				"pwdrequired"		"1"
+				"timeupdated"		"1498832735"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Snowcastle Games/Earthlock"
+				"pattern"		"*"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"addpath"		""
+			}
+		}
+	}
+}
