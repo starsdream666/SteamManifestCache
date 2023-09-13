@@ -1,0 +1,189 @@
+"appinfo"
+{
+	"appid"		"406920"
+	"common"
+	{
+		"name"		"Monsterland"
+		"type"		"Game"
+		"oslist"		"windows"
+		"logo"		"bad062de73f6cb725ab26e173ca30ca4ee3a634f"
+		"logo_small"		"bad062de73f6cb725ab26e173ca30ca4ee3a634f_thumb"
+		"icon"		"5b11188fd33760579be5e0c81cb94c2b83654c1d"
+		"clienticon"		"2dc7792a8815c3cf063dc3264bbe5064b1f2af7a"
+		"clienttga"		"471623be9cb58a751b5e09b5a74d94b439df3e6e"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1668587417"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Second Variety Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Second Variety Games"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1450127667"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"406920"
+		"store_tags"
+		{
+			"0"		"4255"
+			"1"		"4637"
+			"2"		"4026"
+			"3"		"4161"
+			"4"		"1774"
+			"5"		"1773"
+			"6"		"1716"
+			"7"		"3871"
+			"8"		"31275"
+			"9"		"1742"
+			"10"		"19"
+			"11"		"4094"
+			"12"		"3942"
+			"13"		"4166"
+			"14"		"21"
+			"15"		"4004"
+			"16"		"4342"
+			"17"		"4182"
+			"18"		"492"
+			"19"		"4667"
+		}
+		"review_score"		"7"
+		"review_percentage"		"94"
+	}
+	"extended"
+	{
+		"gamedir"		""
+		"developer"		"Second Variety Games"
+		"publisher"		"Second Variety Games"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"MLAND_SVG"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"mlandfpc.exe"
+				"description"		"Monsterland"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigdetails"
+		{
+			"2887125624"
+			{
+				"controller_type"		"controller_neptune"
+				"enabled_branches"		"default"
+				"use_action_block"		"false"
+			}
+		}
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"406921"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4220618149879456867"
+					"size"		"106946355"
+					"download"		"89895872"
+				}
+				"ascii"
+				{
+					"gid"		"3597657993681710938"
+					"size"		"59378809"
+					"download"		"55698704"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"1649B16FDE6C76C0E62599C16F0A3632"
+					"size"		"40461E27860F5466BA145E833F4DA91E"
+					"download"		"4CED054109B8320081AF35F896E389FF"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12097464"
+				"timeupdated"		"1693697455"
+			}
+			"ascii"
+			{
+				"buildid"		"5509318"
+				"description"		"original ASCII version"
+				"timeupdated"		"1657359797"
+			}
+			"testing"
+			{
+				"buildid"		"8038062"
+				"pwdrequired"		"1"
+				"timeupdated"		"1642476311"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000000"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"MLAND_REMASTER"
+				"pattern"		"*.*"
+				"recursive"		"1"
+			}
+		}
+	}
+}
