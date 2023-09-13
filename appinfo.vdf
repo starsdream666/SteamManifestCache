@@ -1,0 +1,577 @@
+"appinfo"
+{
+	"appid"		"266210"
+	"common"
+	{
+		"name"		"One Way Heroics"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"languages"
+		{
+			"english"		"1"
+			"japanese"		"1"
+		}
+		"clienticon"		"8d09c833bbb135ac96344e1d315809ba0a5ca877"
+		"clienttga"		"a584afaff56cc9ba2c795b627483259b93bbc870"
+		"icon"		"5d816b0e129681a22343ec34550016f1ad2d2caf"
+		"logo"		"da51cd7a26789ecea262b662d0cd699548c14593"
+		"logo_small"		"da51cd7a26789ecea262b662d0cd699548c14593_thumb"
+		"name_localized"
+		{
+			"japanese"		"片道勇者"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1661385600"
+			"tested_build_id"		"7629473"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"1"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"1"
+			}
+		}
+		"metacritic_name"		"One Way Heroics"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"japanese"		"header_japanese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,ja"
+			"library_hero"		"en,ja"
+			"library_logo"		"en,ja"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"54.35015803766697"
+				"height_pct"		"60.800633865144164"
+			}
+		}
+		"store_asset_mtime"		"1667141881"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Smoking WOLF"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"PLAYISM"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"PLAYISM"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_23"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1393609588"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"266210"
+		"store_tags"
+		{
+			"0"		"3798"
+			"1"		"198631"
+			"2"		"454187"
+			"3"		"1720"
+			"4"		"3959"
+			"5"		"1759"
+			"6"		"1677"
+			"7"		"4434"
+			"8"		"1716"
+			"9"		"122"
+			"10"		"3871"
+			"11"		"4726"
+			"12"		"5125"
+			"13"		"4085"
+			"14"		"3964"
+			"15"		"1684"
+			"16"		"21"
+			"17"		"4004"
+			"18"		"4182"
+			"19"		"492"
+		}
+		"review_score"		"8"
+		"review_percentage"		"94"
+	}
+	"extended"
+	{
+		"gamedir"		""
+		"developer"		"Smoking WOLF"
+		"publisher"		"PLAYISM"
+		"listofdlc"		"352840"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"One Way Heroics"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"game_plus.exe"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"ownsdlc"		"352840"
+				}
+				"description_loc"
+				{
+					"english"		"One Way Heroics Plus"
+					"japanese"		"片道勇者プラス"
+				}
+				"description"		"One Way Heroics Plus"
+			}
+			"2"
+			{
+				"executable"		"game_normal.exe"
+				"type"		"option2"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"One Way Heroics"
+					"japanese"		"片道勇者"
+				}
+				"description"		"One Way Heroics"
+			}
+			"3"
+			{
+				"executable"		"config.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Open Config"
+					"japanese"		"コンフィグ　を開く"
+				}
+				"description"		"Open Config"
+			}
+			"4"
+			{
+				"executable"		"game.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Open Launcher"
+					"japanese"		"ランチャー　を開く"
+				}
+				"description"		"Open Launcher"
+			}
+		}
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"markdlcdepots"		"1"
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"266213"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1326161580088751451"
+					"size"		"34141859"
+					"download"		"31991840"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"671E9FD8A3033293C92856B798BA5AE9"
+					"size"		"FB9A7C9A2589DB569BFDECFC65C6A0EB"
+					"download"		"C36D9A9BCFFFD531CEDC4AC2F7926C39"
+				}
+				"debug"
+				{
+					"gid"		"B9218E63BF56EC05E475A81AEDEB19BC"
+					"size"		"E373254D0DF00EE9DF4D99321CDD2391"
+					"download"		"D5BAA96ED77022B59900B50755A4C8BC"
+				}
+				"test"
+				{
+					"gid"		"3FA1D0F93DD869031BCA4753617975CE"
+					"size"		"96B98F3EF766C5FE684510FC2A140599"
+					"download"		"38B09AB1FCE48510B987A1D0CC2637B4"
+				}
+			}
+		}
+		"266212"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6000776260546495835"
+					"size"		"2849746"
+					"download"		"1799728"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"FDE94D4994BF2A5A4FCBDB2F32BE9091"
+					"size"		"D6A2436D15FEF6E78F338178E07B77E9"
+					"download"		"D795B5EC363401F3FA8E206AA41FAA11"
+				}
+				"debug"
+				{
+					"gid"		"1D5FBB706C928EC63DE895FC48D2684B"
+					"size"		"D3F7E0541333487FE57CA00E0A1D394B"
+					"download"		"74E4129829A8B30188C1CB4697333765"
+				}
+				"test"
+				{
+					"gid"		"1279CB73E5116CE2C00D4FF3D572150B"
+					"size"		"8F1D41A608C1F077B94DA90C1C84FCAC"
+					"download"		"F9EE42980143F621CCA92D8079526E5B"
+				}
+			}
+		}
+		"266211"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		"japanese"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7798570479232209255"
+					"size"		"7308552"
+					"download"		"4015312"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"3BB794CC5E22A59554C834F12CAEDD71"
+					"size"		"0B9B5646B4A79DD1432D9AE76BDF332A"
+					"download"		"08E221DD020154BF54BFA228C7B316D2"
+				}
+				"debug"
+				{
+					"gid"		"BFB51F07665D2937598E3A6AFD1347A7"
+					"size"		"F105252B593B25754D5ED83223135F19"
+					"download"		"5F7A8662564EE5ECE633A30BF4C4D473"
+				}
+				"test"
+				{
+					"gid"		"4F2EFB730AB5B9EFCFADA01E73CB5E40"
+					"size"		"8BD2BA3B90DBB89D5A131589ADFF881E"
+					"download"		"A3279F86C83C8E6A4F62817A4FA90DF9"
+				}
+			}
+		}
+		"352840"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3519560366967280427"
+					"size"		"57260144"
+					"download"		"55486336"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"820BB09EE9976EB36935AB73E14EB409"
+					"size"		"6456410970CE565017C377FAF943CD06"
+					"download"		"29C72D55AF8CE12A71E067FF3DD446FF"
+				}
+				"debug"
+				{
+					"gid"		"F905D274119FA32DC1FC40A15CB23036"
+					"size"		"EED2E3F27909C7BC6AAB679FD739EF49"
+					"download"		"71877B1F51E7A0232FCC270539245A63"
+				}
+				"test"
+				{
+					"gid"		"FA7BD4C6C04C38B8F45770C1338C253B"
+					"size"		"3C1FA0E5861519113CFA5CDAAD5FB4FD"
+					"download"		"4219170C5E79FBEDD8847F73A7FB479C"
+				}
+			}
+			"dlcappid"		"352840"
+		}
+		"352842"
+		{
+			"dlcappid"		"352840"
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		"english"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4213679060700135777"
+					"size"		"3777395"
+					"download"		"2781904"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"F50BE418EA70797520416E5881E8D312"
+					"size"		"E8EE11259752660D313CC1D6D53AA221"
+					"download"		"E8051B72CC77B335757FEF17AA477E8C"
+				}
+				"debug"
+				{
+					"gid"		"8EBC511F76AF05DD8CD5D2FF2ADEED4F"
+					"size"		"03CAAC7269285BCD530C1C3F2E676DC7"
+					"download"		"F94FC089F7CBFA591279598BC2EFD34F"
+				}
+				"test"
+				{
+					"gid"		"4BC71AA5C3F6843BCEAD2AADD4D992C6"
+					"size"		"01E4507B81A502F29CFD9C190127C5B7"
+					"download"		"7487BAC107574B35BCDF2C89A9158DFB"
+				}
+			}
+		}
+		"352841"
+		{
+			"dlcappid"		"352840"
+			"config"
+			{
+				"language"		"japanese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3586468861170245602"
+					"size"		"8328590"
+					"download"		"4654048"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"CF9D70F9F718D9830460EC8A47BC6B84"
+					"size"		"4988D9CF6495968DFA6A693C4B256893"
+					"download"		"09DA8D2C1E378656392AD6556CA7714D"
+				}
+				"debug"
+				{
+					"gid"		"AC182D8774176BB529624427D1F4B2A6"
+					"size"		"4F3C7E3CD3873223A82B66476AAAA6D9"
+					"download"		"845CD678D334B8AD149C7A79A2B7B331"
+				}
+				"test"
+				{
+					"gid"		"46AF41789792E7B2EAE2978AD4DE98DF"
+					"size"		"366B1063D8CBBEE0C3CA8024641CDDAE"
+					"download"		"D6ADC1C38A6BB1EC198A2C723AC450CE"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11766780"
+				"timeupdated"		"1690522586"
+			}
+			"beta"
+			{
+				"buildid"		"11766780"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690082698"
+			}
+			"debug"
+			{
+				"buildid"		"11766777"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690082707"
+			}
+			"test"
+			{
+				"buildid"		"1972274"
+				"pwdrequired"		"1"
+				"timeupdated"		"1500478443"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"5000000"
+		"maxnumfiles"		"50"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"Save_JP"
+				"pattern"		"System.dat"
+			}
+			"1"
+			{
+				"root"		"gameinstall"
+				"path"		"Save_JP"
+				"pattern"		"history.dat"
+			}
+			"3"
+			{
+				"root"		"gameinstall"
+				"path"		"Save_EN"
+				"pattern"		"System.dat"
+			}
+			"4"
+			{
+				"root"		"gameinstall"
+				"path"		"Save_EN"
+				"pattern"		"history.dat"
+			}
+			"5"
+			{
+				"root"		"gameinstall"
+				"path"		"Save_JP"
+				"pattern"		"ClearData.dat"
+			}
+			"6"
+			{
+				"root"		"gameinstall"
+				"path"		"Save_EN"
+				"pattern"		"ClearData.dat"
+			}
+			"7"
+			{
+				"root"		"gameinstall"
+				"path"		"Save_JP_PLUS"
+				"pattern"		"System.dat"
+			}
+			"8"
+			{
+				"root"		"gameinstall"
+				"path"		"Save_JP_PLUS"
+				"pattern"		"History.dat"
+			}
+			"9"
+			{
+				"root"		"gameinstall"
+				"path"		"Save_JP_PLUS"
+				"pattern"		"ClearData.dat"
+			}
+			"10"
+			{
+				"root"		"gameinstall"
+				"path"		"Save_EN_PLUS"
+				"pattern"		"System.dat"
+			}
+			"11"
+			{
+				"root"		"gameinstall"
+				"path"		"Save_EN_PLUS"
+				"pattern"		"History.dat"
+			}
+			"12"
+			{
+				"root"		"gameinstall"
+				"path"		"Save_EN_PLUS"
+				"pattern"		"ClearData.dat"
+			}
+		}
+	}
+}
