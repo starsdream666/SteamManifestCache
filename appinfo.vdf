@@ -1,0 +1,816 @@
+"appinfo"
+{
+	"appid"		"407130"
+	"common"
+	{
+		"name"		"Tank Mechanic Simulator"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"logo"		"2ffab91660a555e8994a52ce24b5fc548ec084c6"
+		"logo_small"		"2ffab91660a555e8994a52ce24b5fc548ec084c6_thumb"
+		"icon"		"7ef16830a263fcb73fb7fd410e99ed899f139df5"
+		"clienttga"		"e4a8c0f601004ccb4f5dc2c95c6da30f10f2a40b"
+		"clienticon"		"4cfe2ddd3eff69cd32805eeedf938cc5fd12968e"
+		"languages"
+		{
+			"english"		"1"
+		}
+		"osextended"		"macos64,macosnotarized"
+		"name_localized"
+		{
+			"schinese"		"后勤模拟器"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1652227200"
+			"tested_build_id"		"8515853"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"40.38175656475925"
+				"height_pct"		"66.07767826559888"
+			}
+		}
+		"store_asset_mtime"		"1686053551"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"DeGenerals S.A."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"PlayWay S.A."
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"PlayWay S.A."
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"23"
+			"4"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_30"		"1"
+			"category_23"		"1"
+			"category_18"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"hungarian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1582214427"
+		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"407130"
+		"store_tags"
+		{
+			"0"		"13276"
+			"1"		"599"
+			"2"		"4150"
+			"3"		"4175"
+			"4"		"4182"
+			"5"		"3839"
+			"6"		"1643"
+			"7"		"19"
+			"8"		"1654"
+			"9"		"492"
+			"10"		"12472"
+			"11"		"5900"
+			"12"		"1702"
+			"13"		"4695"
+			"14"		"597"
+			"15"		"3834"
+			"16"		"8945"
+			"17"		"21"
+			"18"		"4166"
+			"19"		"5350"
+		}
+		"review_score"		"8"
+		"review_percentage"		"88"
+	}
+	"extended"
+	{
+		"developer"		"DeGenerals S.A."
+		"publisher"		"PlayWay S.A."
+		"homepage"		"https://degenerals.com/en/our-games#tms"
+		"listofdlc"		"1065400,1485420"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"TankMechanicSimulator"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TankMechanicSimulator.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"TankMechanicSimulator.app/Contents/MacOS/TankMechanicSimulator"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"3"
+			{
+				"executable"		"TMS_Manual_EN.pdf"
+				"type"		"manual"
+				"description_loc"
+				{
+					"english"		"Tank Mechanic Simulator Manual"
+				}
+				"description"		"Tank Mechanic Simulator Manual"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"workshopdepot"		"407130"
+		"hasdepotsindlc"		"1"
+		"228987"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"407131"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4987811748749953548"
+					"size"		"11624822935"
+					"download"		"6542128128"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dlc2contributor"
+				{
+					"gid"		"5E5CD15EC068544AC51AFBC9A37435D3"
+					"size"		"404A24D9D377E1D55A142F183616C39B"
+					"download"		"8AAFED6AF2099D92E48A92C95F16B216"
+				}
+				"input"
+				{
+					"gid"		"F2E94750E5E83651950C87994BB71F1A"
+					"size"		"B61B3D3C5A0119B6616B7970022E3C4F"
+					"download"		"74EC9E8090AACF1A0115D81D300B8811"
+				}
+				"internal"
+				{
+					"gid"		"EEEFE5D975DE83A0A2F7A38162E241F5"
+					"size"		"E790E9859EDA76F0A7C911527C9FE963"
+					"download"		"A93C36147A9015CBE23307CDDE03CFCB"
+				}
+				"macos"
+				{
+					"gid"		"5B85CB5FD90FD19641B98A0195021346"
+					"size"		"8EDC9E83B82947BE357FDBA90D28E51B"
+					"download"		"20207C91CEDB253AFF7D74269C7C72D9"
+				}
+				"shipping"
+				{
+					"gid"		"CA64231B6781A36BDAA2D2A6B31AF132"
+					"size"		"83BBD6190BFF90B69ECFD5C51F8DD1B3"
+					"download"		"C41DE2FD3DFE127512CDBD002131924C"
+				}
+				"steamdecktest"
+				{
+					"gid"		"76444DEE94CDBBDD988E477497492216"
+					"size"		"23D7DA6073D5F72C246ACABCCDCFF27D"
+					"download"		"2E3259F12D69D423818D734A149D74DD"
+				}
+				"testing"
+				{
+					"gid"		"BB880424B7530794BB8AA93530373B36"
+					"size"		"924A9314D4A284EAA6170A59CFF0FE57"
+					"download"		"7F4E0310230864821E13FB7D5750FD73"
+				}
+				"testold"
+				{
+					"gid"		"3838D6A4106118073ED8639F69F586F7"
+					"size"		"ED0AEBE8DC73B67EC8DCF2C921EDC8EE"
+					"download"		"4ECF9F860EFDC7AE09DF57E95B4DD447"
+				}
+				"tms2021"
+				{
+					"gid"		"B982847725A08205149D142DB93610C7"
+					"size"		"E7E12AC145EB037B4BD8968E6A239124"
+					"download"		"FCED451D4F4980C2F86DC42615034DFD"
+				}
+			}
+		}
+		"407132"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6116385155308920149"
+					"size"		"11680944856"
+					"download"		"6580862880"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dlc2contributor"
+				{
+					"gid"		"FE698127A26317C981C8953B0F617CE0"
+					"size"		"9D50138454488410C99C724E306545E8"
+					"download"		"57B826B83B448C1F9EDDEC35BDDE8A6F"
+				}
+				"input"
+				{
+					"gid"		"733733B0EA53D9D0401A6C58D99793CE"
+					"size"		"33433E37533BA4EC4DC28F6A0D4E57E0"
+					"download"		"7AD76E581547995210EB232266753CA5"
+				}
+				"internal"
+				{
+					"gid"		"2AEEE8A9B3483EA6CEFC32EFA479BF06"
+					"size"		"E58E383142AB889916C5F59B8E10BC63"
+					"download"		"5D471F815165B36F404C71DF0858309D"
+				}
+				"macos"
+				{
+					"gid"		"013268548E010F8416450F2CF40E556B"
+					"size"		"8F2416DD0A6D4A184C2074F772E26A41"
+					"download"		"9E29C88DE89ABA49B464CB09F91B7AAD"
+				}
+				"shipping"
+				{
+					"gid"		"96F20FAA343306894A7C47C79F896655"
+					"size"		"C1681600BA11FF9C56D653DA57738A5F"
+					"download"		"3A66BADD88A38509061B8B8761A18AC7"
+				}
+				"steamdecktest"
+				{
+					"gid"		"3DCE1D261C069E4657875F789ADD7BBD"
+					"size"		"403423D9AA8C13334E108E55E7589811"
+					"download"		"D07873AD2F372956A0ED9567524FCA86"
+				}
+				"testing"
+				{
+					"gid"		"FF225F7C847A58242F0DD649EE9E6520"
+					"size"		"112321821E86B1B7D201E5AB87D44D80"
+					"download"		"3BBDD060AEF87C39C46FB4FE623FF0F1"
+				}
+				"testold"
+				{
+					"gid"		"0811873BF98AF80E21371DCAB2B11BB3"
+					"size"		"9D99B29EF8D8C3F23D50884CD7D7685D"
+					"download"		"E7FA37C4353581DD0D582C0CB3477CD8"
+				}
+				"tms2021"
+				{
+					"gid"		"8406BF205904FD3C92A0444CEFDC5770"
+					"size"		"F6869C177F06C47B662988E89DAC3580"
+					"download"		"CEB440C47148500A09D40270229D4C16"
+				}
+			}
+		}
+		"1485420"
+		{
+			"dlcappid"		"1485420"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8111615532105337400"
+					"size"		"989537474"
+					"download"		"821126672"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dlc2contributor"
+				{
+					"gid"		"E0DC4A18D78C7E953F9358B88CB71D4A"
+					"size"		"57F274EFAEDFF6292A74D3F565A5C5F1"
+					"download"		"1237ADC8D17E843690208F357824E4FA"
+				}
+				"input"
+				{
+					"gid"		"CB65AD76EC527C8BF3A342D09C2FDCA1"
+					"size"		"9E43325773EAF52A8A6B2D689CCD8FD2"
+					"download"		"06201BE8EF402BC3A4B7B836EF83F9A7"
+				}
+				"internal"
+				{
+					"gid"		"E9DF4DCCA124154F2D1704B29675230D"
+					"size"		"CB59A4744169C9F3E61C6048630566CB"
+					"download"		"A646A92760875A63E4C75DFC2894BB5B"
+				}
+				"macos"
+				{
+					"gid"		"B00C307FC91C43DE0A966B3C2220A6E4"
+					"size"		"7C5C03E59D169F13C6285CE03DFD3716"
+					"download"		"B12FB9F10BE8A9FE9138A094D6408FAB"
+				}
+				"shipping"
+				{
+					"gid"		"68D7CB6607E78E163C0BB556DC37CA86"
+					"size"		"9E63659B48A1DCD4B1ECD03F1825B8C1"
+					"download"		"3BC6D70B321927FF539EC292D82DA3BF"
+				}
+				"steamdecktest"
+				{
+					"gid"		"0355B01832F4D82B4235AE532967FC57"
+					"size"		"E95EBD6F1D6DC540EED53C84592FD454"
+					"download"		"FCD8B4A420F72D8291EFA0628F1CCB57"
+				}
+				"testing"
+				{
+					"gid"		"17D16E67C7657F9683F605655BEFD008"
+					"size"		"A3372D55819704EA55636B83C1656465"
+					"download"		"69E7DC5E66E0A71AEC4DD2D7A659099D"
+				}
+				"testold"
+				{
+					"gid"		"C3563A93C958C6FF8F71FD691093F51E"
+					"size"		"9EA6FDB8FF8F9CD6A423D6B2A82E7212"
+					"download"		"422D01D345DFA911869D6D507EA48ACF"
+				}
+				"tms2021"
+				{
+					"gid"		"6055BFC3BD5974CD3C78B4DE1B076227"
+					"size"		"91629EA145B81863E569D4FBFFE90022"
+					"download"		"AF65D4197E5C60642982451A15A77407"
+				}
+			}
+		}
+		"1485421"
+		{
+			"dlcappid"		"1485420"
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5353766285812624570"
+					"size"		"990083407"
+					"download"		"833321360"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dlc2contributor"
+				{
+					"gid"		"D7D34689113F427184ECC55336B14ECD"
+					"size"		"91FDA219E7C8BA825BDDF9466F0BE78D"
+					"download"		"F0086DA4BF5E2297FEB013E9A5BF413E"
+				}
+				"input"
+				{
+					"gid"		"12CB48C563F8B8BC214262A1B28DC97D"
+					"size"		"06E6E332121C8C492F93A7BF5BF6A329"
+					"download"		"D6FF57D2AC1CD1E8FE7A60270EE61BCF"
+				}
+				"internal"
+				{
+					"gid"		"A5DC81AE4D2CD24E0A7E37192874220C"
+					"size"		"63B481760A8E8DD87C5BA151B324CF1E"
+					"download"		"CE8AF287AC2D73E935F553091B206131"
+				}
+				"macos"
+				{
+					"gid"		"FB9CE7BAC315550D3FAA46C197FB548D"
+					"size"		"507ECE91244BFF1F0B8F2D07D4C2F409"
+					"download"		"9AA617D42FE24A918A5994A7B1868838"
+				}
+				"shipping"
+				{
+					"gid"		"E3062D7284EFA28EEEC5632CDF407D59"
+					"size"		"25314E52DD854844DA6009338AEF632A"
+					"download"		"8AF1CA9F91F149E4DF134AD9AEE7FBA5"
+				}
+				"steamdecktest"
+				{
+					"gid"		"12111880C28BB687C7B7A709838C8F6C"
+					"size"		"5D4516953B5C9E5EAA1ECD31E35A66D9"
+					"download"		"2E280D443FADFDC58297780863E16264"
+				}
+				"testing"
+				{
+					"gid"		"FE83FCEB24A43F3417904728E45FEFE8"
+					"size"		"09BB2CE03A6382AF5C4D73546F999AE1"
+					"download"		"D8D3B5841F2CB2139E88EE3EEE2D1011"
+				}
+				"testold"
+				{
+					"gid"		"E3B5C9FC4C806EF4DBDE393D2737AF77"
+					"size"		"2D2D4F63E99A22C83FCDD1667CD19204"
+					"download"		"E4A096CB9C229DFDB32DA5F1689FD9BB"
+				}
+				"tms2021"
+				{
+					"gid"		"AE60259E6AA2138AE1A209E940E2FE77"
+					"size"		"84525D4D5F4262F306CFF64C583F4E63"
+					"download"		"EA0A87B21F95ED8C576D7733F869CDDA"
+				}
+			}
+		}
+		"1065403"
+		{
+			"dlcappid"		"1065400"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8823145237632625753"
+					"size"		"1104480140"
+					"download"		"939329200"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dlc2contributor"
+				{
+					"gid"		"BC56FF9E13B268AD8ACB9A74F3EC923E"
+					"size"		"ABEFF476FE512988F2624DDB0DA61226"
+					"download"		"58B658B0C9CCABCB4FD6A1D2E6ABF7AD"
+				}
+				"input"
+				{
+					"gid"		"FE1563D720E2C8588D41863C1DD3A260"
+					"size"		"512B4B71BD4DEAE1C31C1FF59A46365A"
+					"download"		"730DBD5DF364AE563BAEBD290E530581"
+				}
+				"internal"
+				{
+					"gid"		"9D8E0B2D50ECE3DE063373D1DEA909E9"
+					"size"		"EC7DC0BE5DF4457EAEC0E0CDCC4FA24E"
+					"download"		"FD23D285BB5EA63945D5281C9B6397B6"
+				}
+				"macos"
+				{
+					"gid"		"DEBDD97A53ACFC08A0A40E556035AACF"
+					"size"		"1342E9FFCA83203D4DA7E8EB920A9FF5"
+					"download"		"C4301BF608A80C1B5BE85C6C14ADCD13"
+				}
+				"shipping"
+				{
+					"gid"		"601EBEC964AEC371D6361BE1DD8A7581"
+					"size"		"06520BCA2FAC47758A957A9C90908A1F"
+					"download"		"034C621931674FF0D972845234E909FB"
+				}
+				"steamdecktest"
+				{
+					"gid"		"BB7C8E97FB7B607567BB8108131D0843"
+					"size"		"110667ECEA4CE9B884D938164929A184"
+					"download"		"923F712A5141512FB6F4F3CE2FC9EE84"
+				}
+				"testing"
+				{
+					"gid"		"2E7A5C9CCF92FC92619DD390FF688E3A"
+					"size"		"A71561447615FB9950446F9D7BCE3D69"
+					"download"		"982465694167E827636E241E928A5DC4"
+				}
+				"testold"
+				{
+					"gid"		"A28BCDB68DA4A22F85CECD1A264AA2C8"
+					"size"		"8E31BAD8AA60814A910133341E724C44"
+					"download"		"74FE2A50BB6F03C1018EFCF3949385F0"
+				}
+				"tms2021"
+				{
+					"gid"		"C8CF5D9AE74D6FFC3D72F8D7281E4B6D"
+					"size"		"98DB077647BF0FD6F9AAF08EBCE6BA7F"
+					"download"		"3D6D53BAC4ED5891E3BD0419DB74281C"
+				}
+			}
+		}
+		"1065404"
+		{
+			"dlcappid"		"1065400"
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6421473126354296427"
+					"size"		"1104872205"
+					"download"		"941678976"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dlc2contributor"
+				{
+					"gid"		"BEE58E1E35F339A3803F4C6D40B16C7C"
+					"size"		"ECA827AA7F49D99740A27476AC77C4E9"
+					"download"		"BDDF56B9FFD9B98DF7CFE1BD6D9D24DF"
+				}
+				"input"
+				{
+					"gid"		"76498F45E87E05D5B4C859E27B08C5FC"
+					"size"		"78AEB200C14BC9F8559A09828255FF1C"
+					"download"		"D1E3866CC8AE317E115964D46ECC9E0F"
+				}
+				"internal"
+				{
+					"gid"		"1DE747D1C78F34FF0E967FAB8A08E5BC"
+					"size"		"6E26E9984E2CB7EC01C4F3D1A3FFB06C"
+					"download"		"5F6FA5933BAB8A542A93D2B914D4EA7A"
+				}
+				"macos"
+				{
+					"gid"		"6FC42D8141DBBE2F034C1F68FB646C41"
+					"size"		"94C1B1D5B7D1657968CA950C39F9A3F6"
+					"download"		"A30745D4EB98E21D78CEA8E788D678F1"
+				}
+				"shipping"
+				{
+					"gid"		"332DC535770BB413DEFFEE9C4A9F6B4C"
+					"size"		"B42F7511959DFC0767F3A7A7A536FA90"
+					"download"		"74779724014796C2C67C738F8E17B69D"
+				}
+				"testold"
+				{
+					"gid"		"6F8838EBA51747305A556DB71D730E30"
+					"size"		"D4BE43DD95F1E682AEDB2D6E360F5F07"
+					"download"		"4682D46A237DC0C4A4D5741E855EE784"
+				}
+				"tms2021"
+				{
+					"gid"		"9A0A3CEB79C5719298033165ECF15C37"
+					"size"		"3F90AF6D0862635AAEF3EEBCF0E9570A"
+					"download"		"1B8CF126BE5A98612356C5ABD96010FA"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11544032"
+				"timeupdated"		"1687524736"
+			}
+			"dlc2contributor"
+			{
+				"buildid"		"11432725"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686313509"
+			}
+			"input"
+			{
+				"buildid"		"11515836"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687270161"
+			}
+			"internal"
+			{
+				"buildid"		"11589124"
+				"pwdrequired"		"1"
+				"timeupdated"		"1688048477"
+			}
+			"macos"
+			{
+				"buildid"		"11487022"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686917025"
+			}
+			"shipping"
+			{
+				"buildid"		"10255022"
+				"pwdrequired"		"1"
+				"timeupdated"		"1672842422"
+			}
+			"steamdecktest"
+			{
+				"buildid"		"8770955"
+				"pwdrequired"		"1"
+				"timeupdated"		"1653051432"
+			}
+			"testing"
+			{
+				"buildid"		"9483646"
+				"pwdrequired"		"1"
+				"timeupdated"		"1662717903"
+			}
+			"testold"
+			{
+				"buildid"		"10289075"
+				"pwdrequired"		"1"
+				"timeupdated"		"1673343670"
+			}
+			"tms2021"
+			{
+				"buildid"		"10254769"
+				"pwdrequired"		"1"
+				"timeupdated"		"1672839958"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000000"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"3"
+			{
+				"root"		"gameinstall"
+				"path"		"TankMechanicSimulator_Data/StreamingAssets/Profiles"
+				"pattern"		"*.*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
