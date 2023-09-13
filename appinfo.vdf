@@ -1,0 +1,576 @@
+"appinfo"
+{
+	"appid"		"41800"
+	"common"
+	{
+		"name"		"Gratuitous Space Battles"
+		"clienticon"		"1de7b8b966b735b4cc5839b48f75a1ecb10b1fae"
+		"clienttga"		"1b8e75a116490184b5f2d9b7e70ba3bb5b71171e"
+		"icon"		"c9dd42b84a380a4f002bbb56aab8a7a91d664fa1"
+		"logo"		"d77409d24f8d41331ccbe0efef2582c9703b56bc"
+		"logo_small"		"d77409d24f8d41331ccbe0efef2582c9703b56bc_thumb"
+		"oslist"		"windows,macos,linux"
+		"type"		"game"
+		"metacritic_name"		"Gratuitous Space Battles"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1362703280"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Positech Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Positech Games"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"28"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1258406280"
+		"metacritic_score"		"72"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/gratuitous-space-battles?ftag=MCD-06-10aaa1f"
+		"community_hub_visible"		"1"
+		"gameid"		"41800"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"1084988"
+			"2"		"1755"
+			"3"		"4791"
+			"4"		"3942"
+			"5"		"4291"
+			"6"		"3810"
+			"7"		"492"
+			"8"		"3871"
+			"9"		"1643"
+			"10"		"599"
+			"11"		"4182"
+			"12"		"1669"
+			"13"		"19"
+			"14"		"1676"
+			"15"		"4026"
+			"16"		"3859"
+			"17"		"1645"
+			"18"		"1708"
+			"19"		"3968"
+		}
+		"review_score"		"6"
+		"review_percentage"		"73"
+	}
+	"extended"
+	{
+		"developer"		"Positech Games"
+		"dlcavailableonstore"		"1"
+		"dlcpurchasefromingame"		"0"
+		"gamedir"		"Gratuitous Space Battles"
+		"homepage"		"http://www.gratuitousspacebattles.com"
+		"icon"		""
+		"installscript"		"41800_install.vdf"
+		"installscriptosx"		"Gratuitous Space Battles.app/installscript_osx.vdf"
+		"installscript_macos"		"Gratuitous Space Battles.app/installscript_osx.vdf"
+		"legacykeyregistrationmethod"		"registry"
+		"legacykeyregistrylocation"		"HKEY_CURRENT_USER\\Software\\Valve\\TestApp41800\\SteamKey"
+		"noservers"		"1"
+		"order"		"1"
+		"primarycache"		"41801"
+		"primarycache_mac"		"41806"
+		"primarycache_macos"		"41806"
+		"serverbrowsername"		""
+		"showcdkeyonlaunch"		"1"
+		"state"		"eStateAvailable"
+		"supportscdkeycopytoclipboard"		"1"
+		"validoslist"		"windows,macos"
+		"publisher"		"Positech Games"
+		"gamemanualurl"		"https://store.steampowered.com/manual/41800/"
+		"listofdlc"		"41802,41803,41804,41805,41807,41808,41809,41813,41814,41815,41816,41817"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Gratuitous Space Battles"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"GSB.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Gratuitous Space Battles.app"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"run_game.sh"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"41817"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"72575765731572468"
+					"size"		"64970766"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"linux"
+				{
+					"gid"		"8BBB06EDB80183A3829B7576055DE529"
+					"size"		"CEBC7DE9C9B8EF803036497432BF74C2"
+					"download"		"C2A66CB8650FEB786653CE64BFE64583"
+				}
+			}
+			"dlcappid"		"41817"
+		}
+		"41816"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"optional"		"1"
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8245025662058011755"
+					"size"		"41830962"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"linux"
+				{
+					"gid"		"F074CCF1DFF8069D53432D10D6726093"
+					"size"		"75267FE85490E0E5FE0638EDB4BC04E0"
+					"download"		"C2A66CB8650FEB786653CE64BFE64583"
+				}
+			}
+			"dlcappid"		"41816"
+		}
+		"41815"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"optional"		"1"
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6463242923843908397"
+					"size"		"22446147"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"linux"
+				{
+					"gid"		"831CCC6F9D77B0D3C87A27B3170F9F53"
+					"size"		"0C9A238EA7B6259600F04083CB6F25A7"
+					"download"		"C2A66CB8650FEB786653CE64BFE64583"
+				}
+			}
+			"dlcappid"		"41815"
+		}
+		"41814"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"optional"		"1"
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2904975592403079558"
+					"size"		"75859698"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"linux"
+				{
+					"gid"		"3EDEAD75BC25B0A52E6CA42562A852FB"
+					"size"		"711242D333A44E4B47507EB3C988CA3F"
+					"download"		"C2A66CB8650FEB786653CE64BFE64583"
+				}
+			}
+			"dlcappid"		"41814"
+		}
+		"41813"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"optional"		"1"
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4976693027573165817"
+					"size"		"17604488"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"linux"
+				{
+					"gid"		"A8080E4A1CBB022C6FF50C4F31C106A4"
+					"size"		"02D71F8FD012795493F79DE6D713D42A"
+					"download"		"C2A66CB8650FEB786653CE64BFE64583"
+				}
+			}
+			"dlcappid"		"41813"
+		}
+		"41809"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"optional"		"1"
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2524392374230757283"
+					"size"		"11415982"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"linux"
+				{
+					"gid"		"1E226168A372A053C26CEF1223B6D524"
+					"size"		"AED5684336DFF27B7CFC2A7C8EF10291"
+					"download"		"C2A66CB8650FEB786653CE64BFE64583"
+				}
+			}
+			"dlcappid"		"41809"
+		}
+		"41808"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"optional"		"1"
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5950188207633135040"
+					"size"		"26566356"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"linux"
+				{
+					"gid"		"BCC0DC1D7039159DB4C27AA5951A7E3C"
+					"size"		"F1493F2E845E0AC78FFECDE1069739DB"
+					"download"		"C2A66CB8650FEB786653CE64BFE64583"
+				}
+			}
+			"dlcappid"		"41808"
+		}
+		"41807"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"optional"		"1"
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5921579091181941718"
+					"size"		"10345695"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"linux"
+				{
+					"gid"		"DABE89DE5C80DE768FCA96F29AB6029B"
+					"size"		"AC6826C9DB3B27451B508FF8BB25533E"
+					"download"		"C2A66CB8650FEB786653CE64BFE64583"
+				}
+			}
+			"dlcappid"		"41807"
+		}
+		"41806"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7782508385958474119"
+					"size"		"174973583"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"linux"
+				{
+					"gid"		"B16DA17973957C3416EFA8FC57AE2350"
+					"size"		"6F53650EE0986C4D6B2B60404F94E5E0"
+					"download"		"C2A66CB8650FEB786653CE64BFE64583"
+				}
+			}
+		}
+		"41805"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"optional"		"1"
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2442218365344590844"
+					"size"		"48869322"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"linux"
+				{
+					"gid"		"09C5FA416BF8623DBFC03FFE44ACCBE2"
+					"size"		"5D4076F04C73DCAA3ADE01F3204703DC"
+					"download"		"C2A66CB8650FEB786653CE64BFE64583"
+				}
+			}
+			"dlcappid"		"41805"
+		}
+		"41804"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"optional"		"1"
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6620114931000171087"
+					"size"		"57616492"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"linux"
+				{
+					"gid"		"C60476A64DC89CF5A719F211BCF3FB67"
+					"size"		"64801CFFCC99C9151A66ED08D764CD03"
+					"download"		"C2A66CB8650FEB786653CE64BFE64583"
+				}
+			}
+			"dlcappid"		"41804"
+		}
+		"41803"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"optional"		"1"
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4403278744144295767"
+					"size"		"67800248"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"linux"
+				{
+					"gid"		"D2198278F4ACB74D3FD2A19C2FE14D84"
+					"size"		"F1F9B9862240416FC4D0DA76E4744CF9"
+					"download"		"C2A66CB8650FEB786653CE64BFE64583"
+				}
+			}
+			"dlcappid"		"41803"
+		}
+		"41802"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"optional"		"1"
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8647493461649765077"
+					"size"		"48797966"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"linux"
+				{
+					"gid"		"E6072B74DA0D7BED47BDCE3DCD9FCE63"
+					"size"		"8ACC83486567C031917F26A1A0957A78"
+					"download"		"C2A66CB8650FEB786653CE64BFE64583"
+				}
+			}
+			"dlcappid"		"41802"
+		}
+		"41801"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8683394422232948524"
+					"size"		"277146650"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"linux"
+				{
+					"gid"		"3E1808B7D8EEE13A209D8CFBCB614EFB"
+					"size"		"5AD0F04B99033E19BEB2BB3BD9259592"
+					"download"		"C2A66CB8650FEB786653CE64BFE64583"
+				}
+			}
+		}
+		"41818"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"162189541573116422"
+					"size"		"74207762"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"linux"
+				{
+					"gid"		"52B2438F9BB09E46AD48355B0A69B7C7"
+					"size"		"406C99526D5206CAEE24BE2354CAA87D"
+					"download"		"C2A66CB8650FEB786653CE64BFE64583"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"76235"
+			}
+			"linux"
+			{
+				"buildid"		"48764"
+				"pwdrequired"		"1"
+			}
+		}
+	}
+}
