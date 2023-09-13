@@ -1,0 +1,308 @@
+"appinfo"
+{
+	"appid"		"427730"
+	"common"
+	{
+		"name"		"Who's Your Daddy?!"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"logo"		"ea4fdc42c491c7ab9560b5436853f1cbf218d1fc"
+		"logo_small"		"ea4fdc42c491c7ab9560b5436853f1cbf218d1fc_thumb"
+		"clienttga"		"6012ea81d68607ad0dfc5610e61f17101373c1fd"
+		"clienticns"		"a297df5e58059f6425a00b2dc9d6ab313a60d04e"
+		"clienticon"		"a297df5e58059f6425a00b2dc9d6ab313a60d04e"
+		"icon"		"1832520559ace5dd8c8e3d52cc01f9fa49be545b"
+		"osarch"		""
+		"osextended"		"macos64"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1646956800"
+			"tested_build_id"		"8296408"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+			}
+		}
+		"metacritic_name"		"Who's Your Daddy"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"22.928821470245026"
+				"height_pct"		"36.9300941105483"
+			}
+		}
+		"store_asset_mtime"		"1689195207"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Evil Tortilla Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Evil Tortilla Games"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_27"		"1"
+			"category_18"		"1"
+			"category_36"		"1"
+			"category_37"		"1"
+			"category_24"		"1"
+			"category_44"		"1"
+			"category_49"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1450857600"
+		"steam_release_date"		"1463163010"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"427730"
+		"store_tags"
+		{
+			"0"		"4136"
+			"1"		"3859"
+			"2"		"3839"
+			"3"		"1719"
+			"4"		"599"
+			"5"		"3843"
+			"6"		"9"
+			"7"		"5923"
+			"8"		"1685"
+			"9"		"597"
+			"10"		"492"
+			"11"		"10816"
+			"12"		"19"
+			"13"		"493"
+			"14"		"4026"
+			"15"		"1662"
+			"16"		"1697"
+			"17"		"3810"
+			"18"		"21"
+			"19"		"4182"
+		}
+		"review_score"		"6"
+		"review_percentage"		"79"
+	}
+	"extended"
+	{
+		"absolutemousecoordinates"		"0"
+		"remoteplaytogethertestingbranches"		"default,beta,developer,experimental"
+		"developer"		"Evil Tortilla Games"
+		"publisher"		"Evil Tortilla Games"
+		"homepage"		"http://www.eviltortillagames.com"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Whos Your Daddy"
+		"launch"
+		{
+			"6"
+			{
+				"executable"		"Remake/WhosYourDaddy.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+				"description_loc"
+				{
+					"english"		"Who's Your Daddy?!"
+				}
+				"description"		"Who's Your Daddy?!"
+			}
+			"7"
+			{
+				"executable"		"Remake/WhosYourDaddy.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Who's Your Daddy?! (2020 Version)"
+				}
+				"description"		"Who's Your Daddy?! (2020 Version)"
+			}
+			"8"
+			{
+				"executable"		"Classic/WhosYourDaddy.app"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+				"description_loc"
+				{
+					"english"		"Who's Your Daddy Classic (2015)"
+				}
+				"description"		"Who's Your Daddy Classic (2015)"
+			}
+		}
+		"steamcontrollertemplateindex"		"3"
+	}
+	"depots"
+	{
+		"427733"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3725796470780311091"
+					"size"		"12168647556"
+					"download"		"4079523120"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"developer"
+				{
+					"gid"		"FE8AC27A8CD12320C8BA9A67D0CEC86F"
+					"size"		"4C4C0953350CF59D0CD451C464057408"
+					"download"		"3F12D24C7B1174C39CCCC2B7561B5F0A"
+				}
+				"experimental"
+				{
+					"gid"		"F5F2D5B624826F4A1C8FA8A814A99515"
+					"size"		"AC6C68CD879D10CFC5140EB22072160D"
+					"download"		"BCEB85F9124F15F5D302D2569211E8DD"
+				}
+			}
+		}
+		"427734"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8391774260525291379"
+					"size"		"9617958683"
+					"download"		"3694376560"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"developer"
+				{
+					"gid"		"8EB34F2EFE49824C1E7760A9F3105B5E"
+					"size"		"B9082FBE3462111A1E51E347797681C8"
+					"download"		"ADB13088606D7A44778895D79147EF18"
+				}
+				"experimental"
+				{
+					"gid"		"A0DD5B6936B6820664E1C9A662C2E2A9"
+					"size"		"ECEB6AA173FBE4183282B12CC25BCC8F"
+					"download"		"DE0336CB17DABBD61D4015459BDB4686"
+				}
+			}
+		}
+		"workshopdepot"		"427730"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11795867"
+				"timeupdated"		"1690565793"
+			}
+			"developer"
+			{
+				"buildid"		"11795867"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690404926"
+			}
+			"experimental"
+			{
+				"buildid"		"11795867"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690565779"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"10000"
+	}
+}
