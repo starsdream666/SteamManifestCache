@@ -1,0 +1,561 @@
+"appinfo"
+{
+	"appid"		"336130"
+	"common"
+	{
+		"name"		"Shardlight"
+		"type"		"Game"
+		"logo"		"cc423bceae2562fae8dcd4ff196cc7e5cd7b8f58"
+		"logo_small"		"cc423bceae2562fae8dcd4ff196cc7e5cd7b8f58_thumb"
+		"icon"		"eef84a0eb18feb52ec1192dedb22ea317223b42c"
+		"clienticon"		"0c6bcdf95fd3bdd4bb8c455cada4e67b7a066ac7"
+		"clienttga"		"b8152ac9463e349fd40cc67d73609110dc3a9330"
+		"oslist"		"windows,macos,linux"
+		"releasestate"		"released"
+		"osarch"		""
+		"osextended"		"macos64,macosnotarized"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1658448000"
+			"tested_build_id"		"9140248"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Shardlight"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"57.21918784136784"
+			}
+		}
+		"store_asset_mtime"		"1666990599"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Wadjet Eye Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Wadjet Eye Games"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_13"		"1"
+			"category_23"		"1"
+			"category_14"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1457456068"
+		"metacritic_score"		"75"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/shardlight?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"336130"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"1698"
+			"2"		"7208"
+			"3"		"492"
+			"4"		"3835"
+			"5"		"3964"
+			"6"		"4182"
+			"7"		"4166"
+			"8"		"1742"
+			"9"		"3871"
+			"10"		"5716"
+			"11"		"1664"
+			"12"		"1697"
+			"13"		"6971"
+			"14"		"1693"
+			"15"		"6815"
+			"16"		"122"
+		}
+		"review_score"		"8"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"developer"		"Wadjet Eye Games"
+		"publisher"		"Wadjet Eye Games"
+		"homepage"		"http://www.shardlight-game.com"
+		"listofdlc"		"447870"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Shardlight"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Shardlight.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"winsetup.exe"
+				"type"		"config"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Setup"
+				}
+				"description"		"Setup"
+			}
+			"2"
+			{
+				"executable"		"./Start.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Launch 64bit"
+				}
+				"description"		"Launch 64bit"
+			}
+			"3"
+			{
+				"executable"		"./Start.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"32"
+				}
+				"description_loc"
+				{
+					"english"		"Launch 32bit"
+				}
+				"description"		"Launch 32bit"
+			}
+			"4"
+			{
+				"executable"		"./Start.sh"
+				"arguments"		"--windowed"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+				"description_loc"
+				{
+					"english"		"Shardlight (Windowed)"
+				}
+				"description"		"Shardlight (Windowed)"
+			}
+			"5"
+			{
+				"executable"		"Shardlight.app/Contents/MacOS/AGS"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigdetails"
+		{
+			"2836863505"
+			{
+				"controller_type"		"controller_neptune"
+				"enabled_branches"		"default,linuxosxfirstupdate,original,pre-test,press,test"
+				"use_action_block"		"false"
+			}
+		}
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"65535"
+	}
+	"depots"
+	{
+		"336131"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6683651108047972753"
+					"size"		"908263440"
+					"download"		"568192160"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"linuxosxfirstupdate"
+				{
+					"gid"		"AD9841C562D377EC73E8D2076E38BD0E"
+					"size"		"E11C208BBC5E60076C9E396FFC21B3B6"
+					"download"		"6CFB80EE9B4A086343CA9834224B6FE2"
+				}
+				"oldversion"
+				{
+					"gid"		"04F961CD3AF2658FDE09FCC440EC7278"
+					"size"		"8F26093C0D9F5543A6A314F71F0BE09F"
+					"download"		"93C1F84BA44CAFC46D7E29728332D4C4"
+				}
+				"original"
+				{
+					"gid"		"76CCA51C8E13E7EAC4F224FF2E32106E"
+					"size"		"F652D84B8D1834156433965A9FDD1F1D"
+					"download"		"51EEF8C87727A5F6D775A7C573A300B9"
+				}
+				"pre-test"
+				{
+					"gid"		"C037A6A99FC061FFF20BFDB911D46C91"
+					"size"		"54807F09A163DAB8BC826737D166BAAB"
+					"download"		"056C01938E042DD9ABB1A3E83FDE3A49"
+				}
+				"press"
+				{
+					"gid"		"9F31BF4D921526C386BA79F64B8E5307"
+					"size"		"FF456191EF06BFA3149CBE2345B0F884"
+					"download"		"24818099A558F7453D25193D13A6B582"
+				}
+				"test"
+				{
+					"gid"		"EF5577A480385EBB210C179877FA7C8F"
+					"size"		"716F636EB243FF0305C93D60A7BC5B9C"
+					"download"		"7DC0E34C7D8C2BCA9532D9B384C3054A"
+				}
+			}
+		}
+		"447870"
+		{
+			"dlcappid"		"447870"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4681099887193423524"
+					"size"		"647419172"
+					"download"		"653999216"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"linuxosxfirstupdate"
+				{
+					"gid"		"C0F74C8123A763F30C582C2A7C5B2FC4"
+					"size"		"ED755766395D36EE52B1B501AA3CAE87"
+					"download"		"4D3AFA288EB1A3757C17935D435FDF5F"
+				}
+				"oldversion"
+				{
+					"gid"		"349300F19937BF4E08A9E5DA3834BA63"
+					"size"		"18C74D5BE9D947C603F3AFC973FBCC8B"
+					"download"		"4526CF539245D68A487C20986108DCE8"
+				}
+				"original"
+				{
+					"gid"		"22810AE097030F54BD46B0696DE8FA76"
+					"size"		"D041140E101703F6D79A36F1814D91B5"
+					"download"		"467F1866CDE47BB56BCFB27A8C9AD95A"
+				}
+				"pre-test"
+				{
+					"gid"		"79589CFE4B37D49D49F4469FCF0DF95B"
+					"size"		"8D3592B873BD63BF1C7BC7C99790D186"
+					"download"		"A0055A55BD59BA64F831BA4EBE3F3C73"
+				}
+				"press"
+				{
+					"gid"		"6673F78A75E3BBEDBDC180EB625224CF"
+					"size"		"01DBBCE55360A558D100923FD59B7F2E"
+					"download"		"F44387167C247A37D52B091C1D34844C"
+				}
+				"test"
+				{
+					"gid"		"58567B12ADD11CE54C0C2836BFEE3D4D"
+					"size"		"D326613FDED8C351A0DFB973D4649257"
+					"download"		"C069931AFFF80989F9E26BFAE1A75211"
+				}
+			}
+		}
+		"336132"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"184783986917559038"
+					"size"		"974291802"
+					"download"		"584718096"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"linuxosxfirstupdate"
+				{
+					"gid"		"375BE5C97B968A09A7FFECAB372228A9"
+					"size"		"161804F66EB754AE9F0519530969AD9E"
+					"download"		"AAD838124FD95AEF07356F223B350DFE"
+				}
+				"oldversion"
+				{
+					"gid"		"5C1D5CF64B121AAF8E005554CF33495F"
+					"size"		"5DDC88C969E30056A53E622D11E7C701"
+					"download"		"4CE353C6471092B7AF243F2B07DB6613"
+				}
+				"pre-test"
+				{
+					"gid"		"1B1DDE18E20ABE4E657D46D28B8E83FB"
+					"size"		"24972B266F16096BE2A7399D56863597"
+					"download"		"423B9A1EFFF680896B1A024F4950B270"
+				}
+			}
+		}
+		"336133"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4354702205040536446"
+					"size"		"912545235"
+					"download"		"570694000"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"linuxosxfirstupdate"
+				{
+					"gid"		"8C842080811C3E8149D4AB33AB1BC75F"
+					"size"		"1411F09671D638050038679238048509"
+					"download"		"15AFAF309DED4C7FB1BC6EE5F7CDCC69"
+				}
+				"oldversion"
+				{
+					"gid"		"6DCE984D076CD828204E6971473AADA2"
+					"size"		"E8C47297E0FFE3E25301F47DC2AE103F"
+					"download"		"DAEBF9C3108C09AA148A79C1C67A4695"
+				}
+				"pre-test"
+				{
+					"gid"		"EA95699EFA0778F396070F6ED1E7C3D8"
+					"size"		"BA7D6F151E1A8F2C878C42E35BA142DA"
+					"download"		"0496C3E2189536A0792AB8798CF9579B"
+				}
+			}
+		}
+		"336134"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"steamdeck"		"1"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4225037641457742229"
+					"size"		"977604388"
+					"download"		"585711888"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"oldversion"
+				{
+					"gid"		"8F1F8C4A747B7FA886E03F5BF8E5F79C"
+					"size"		"3B63D0C7A0E9EDF9401A68F2ED7E0ED4"
+					"download"		"3009F5769E00EDD1B209EF0470508C06"
+				}
+				"pre-test"
+				{
+					"gid"		"EBB9E7D8D1F1A3FD803FB7BC01BED0FB"
+					"size"		"48B72A6713B960781480A74870E6D414"
+					"download"		"7E2F1C0543C83125A7883CD3233074D4"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11784122"
+				"timeupdated"		"1690301227"
+			}
+			"linuxosxfirstupdate"
+			{
+				"buildid"		"8169756"
+				"pwdrequired"		"1"
+				"timeupdated"		"1654132322"
+			}
+			"oldversion"
+			{
+				"buildid"		"9140248"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690296026"
+			}
+			"original"
+			{
+				"buildid"		"1035648"
+				"pwdrequired"		"1"
+				"timeupdated"		"1644203489"
+			}
+			"pre-test"
+			{
+				"buildid"		"11784122"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690300468"
+			}
+			"press"
+			{
+				"buildid"		"1035648"
+				"pwdrequired"		"1"
+				"timeupdated"		"1458658716"
+			}
+			"test"
+			{
+				"buildid"		"1035648"
+				"pwdrequired"		"1"
+				"timeupdated"		"1458658726"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"524288000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinSavedGames"
+				"path"		"Shardlight"
+				"pattern"		"*"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinSavedGames"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Shardlight"
+						"replace"		"Shardlight"
+					}
+				}
+			}
+			"1"
+			{
+				"root"		"WinSavedGames"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxHome"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Shardlight"
+						"replace"		".local/share/ags/Shardlight"
+					}
+				}
+			}
+		}
+	}
+}
