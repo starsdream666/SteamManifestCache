@@ -1,0 +1,410 @@
+"appinfo"
+{
+	"appid"		"204060"
+	"common"
+	{
+		"name"		"Superbrothers: Sword & Sworcery EP"
+		"type"		"Game"
+		"logo"		"b522ef5ae83648bef02bd3303801aed881d17761"
+		"logo_small"		"b522ef5ae83648bef02bd3303801aed881d17761_thumb"
+		"icon"		"0c484d2181a32b89e3675b4f8965c62558418646"
+		"clienticon"		"25ed5afbbe750b16ee91dc5692f60400b89a66e0"
+		"clienttga"		"39640895b0f17873d58f19fd606a0f6009b647e4"
+		"clienticns"		"43e25e335339dc789af5973e7d271f950be79e8c"
+		"languages"
+		{
+			"english"		"1"
+			"japanese"		"1"
+		}
+		"linuxclienticon"		"f7944f920e5a4057e80976923cf02fd206f7b4fe"
+		"oslist"		"windows,macos,linux"
+		"eulas"
+		{
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1665705600"
+			"tested_build_id"		"1229996"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Superbrothers: Sword & Sworcery EP"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"japanese"		"header_japanese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1667417494"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Capybara"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Superbrothers"
+			}
+			"2"
+			{
+				"type"		"developer"
+				"name"		"Jim Guthrie"
+			}
+			"3"
+			{
+				"type"		"publisher"
+				"name"		"Capybara Games"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"1"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1334595600"
+		"metacritic_score"		"83"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/superbrothers-sword-sworcery-ep?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"204060"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"492"
+			"2"		"3964"
+			"3"		"1698"
+			"4"		"1756"
+			"5"		"4166"
+			"6"		"7208"
+			"7"		"4182"
+			"8"		"1684"
+			"9"		"1664"
+			"10"		"1654"
+			"11"		"5411"
+			"12"		"3871"
+			"13"		"597"
+			"14"		"1621"
+			"15"		"1742"
+			"16"		"25085"
+			"17"		"3834"
+			"18"		"4004"
+			"19"		"5900"
+		}
+		"review_score"		"6"
+		"review_percentage"		"77"
+	}
+	"extended"
+	{
+		"developer"		"Capybara"
+		"gamedir"		"Superbrothers: Sword & Sworcery EP"
+		"homepage"		"http://www.swordandsworcery.com"
+		"icon"		""
+		"installscript"		"installscript.vdf"
+		"installscript_macos"		"swordandsworcery_pc.app/installscript_osx.vdf"
+		"languages"		"english,japanese"
+		"launcheula"		"http://store.steampowered.com/eula/eula_204060"
+		"noservers"		"1"
+		"order"		"1"
+		"primarycache"		"204061"
+		"primarycache_macos"		"204062"
+		"serverbrowsername"		""
+		"state"		"eStateAvailable"
+		"validoslist"		"windows,macos,linux"
+		"absolutemousecoordinates"		"1"
+		"publisher"		"Capybara Games"
+	}
+	"config"
+	{
+		"installscriptsignature"		"1ca4b497f6666c2ddf91cd42439e1263080a8cb7813b7932fc8ed019e40a9a7d96a9b57d3a1c9b6670126253760479b68aa80c9264770fa737952ba38542411af10d79711bbfe6a7bdd5f0322bacbd4caf37ce1d5b168ab6821a9665d8407bde9b5695116ae9569feff5bb8d836fe9786ece575508c4bbdcef1b0d2bbf588deb"
+		"installscriptoverride"		"1"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"swordandsworcery_pc.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"swordandsworcery_pc.app/Contents/MacOS/swordandsworcery_pc"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"run.sh"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+		"contenttype"		"3"
+		"installdir"		"Superbrothers Sword & Sworcery EP"
+		"steamcontrollertouchtemplateindex"		"1"
+		"steamcontrollertouchconfigdetails"
+		{
+			"2991817673"
+			{
+				"controller_type"		"controller_ps4"
+				"enabled_branches"		"refresh"
+				"use_action_block"		"false"
+			}
+			"2991848886"
+			{
+				"controller_type"		"controller_neptune"
+				"enabled_branches"		"refresh"
+				"use_action_block"		"false"
+			}
+		}
+		"steamdecktouchscreen"		"1"
+	}
+	"install"
+	{
+		"registry"
+		{
+			"hkey_local_machine\software\capybara games\superbrothers: sword & sworcery ep"
+			{
+				"string"
+				{
+					"install_path"		"%INSTALLDIR%"
+					"exe_path"		"%INSTALLDIR%\\swordandsworcery_pc.exe"
+				}
+				"dword"
+				{
+					"patchversion"		"0"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"baselanguages"		"english,japanese"
+		"204063"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"379700500602128275"
+					"size"		"339658886"
+					"download"		"324270048"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"925E387436D0842C2472E48BB1336581"
+					"size"		"19AD391BE5D8B5412B28769895352425"
+					"download"		"EDBA4721F98337E3E3DFBB5B113C0165"
+				}
+				"refresh"
+				{
+					"gid"		"BE32F66FD07F9112BFA52210266E97D3"
+					"size"		"420BDB2438B183FAF7CD262A290C9707"
+					"download"		"207F8150481FAF34AFDA2658EEEA560A"
+				}
+			}
+		}
+		"204062"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7344817282070114295"
+					"size"		"337981223"
+					"download"		"328577616"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"CC08D213C8E84DF6D4FE6A244BEF4FAC"
+					"size"		"359A60ECE9E12321A7CA268E7C541EF5"
+					"download"		"77677722FA7C3E4173B47D493071C9C9"
+				}
+				"refresh"
+				{
+					"gid"		"5A3429B24BEAD30E27AA19DD60E84388"
+					"size"		"70C4861F1284C2C890893466B56ABF67"
+					"download"		"F4C0AAC443EB71F1DFAE0491CD589EE0"
+				}
+			}
+		}
+		"204061"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6786398776298092278"
+					"size"		"344291442"
+					"download"		"328275040"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"B7300BFF653778998B3DFD5E2FFD6B54"
+					"size"		"3A97C8A6FEAE9559AF916A5C627C574D"
+					"download"		"3CFC27B7D165437AE0F0EAC3643ECA82"
+				}
+				"refresh"
+				{
+					"gid"		"1C98DE21D876BE6859C4922D909C59CB"
+					"size"		"7930D264BC01BF287598D867A6D87A4B"
+					"download"		"D6C789DAFC11B77CDCF50E343913147F"
+				}
+			}
+		}
+		"204064"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"refresh"
+				{
+					"gid"		"A89D36678B6CED2C212838697F9F5ACB"
+					"size"		"620B08BDD9626932C60C1CD83A57B728"
+					"download"		"E31B241A78C791EAA02F9E58FC32D8EE"
+				}
+			}
+		}
+		"204065"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"refresh"
+				{
+					"gid"		"381A78E16B098429412AE17C226FCF99"
+					"size"		"FA0DB9B4B466A174632AD4C122B4981D"
+					"download"		"C727E05E4C6F8E9996B65241514D2876"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1229996"
+				"timeupdated"		"1468616722"
+			}
+			"beta"
+			{
+				"buildid"		"1229996"
+				"pwdrequired"		"1"
+				"timeupdated"		"1468615172"
+			}
+			"refresh"
+			{
+				"buildid"		"12074861"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693453530"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"104857600"
+		"maxnumfiles"		"1000"
+		"hidecloudui"		"0"
+	}
+}
