@@ -1,0 +1,176 @@
+"appinfo"
+{
+	"appid"		"229950"
+	"common"
+	{
+		"name"		"Resident Evil 6 Benchmark Tool"
+		"type"		"Tool"
+		"icon"		"c0f48f47d6d4befda9d33568f218cf726572eaa9"
+		"clienticon"		"c19b95c7eaf7c9f84ea6a501305b9e683d73a657"
+		"clienttga"		"63710de8fec5dd84715e90c4fd3182668680620c"
+		"oslist"		"windows"
+		"logo"		"314199cc368dbbe8d245ef83b12ebdd25ca35fca"
+		"logo_small"		"314199cc368dbbe8d245ef83b12ebdd25ca35fca_thumb"
+		"eulas"
+		{
+			"0"
+			{
+				"url"		"http://store.steampowered.com/eula/229950_eula"
+				"id"		"229950_eula"
+				"name"		"229950_eula"
+			}
+		}
+		"metacritic_name"		"Resident Evil 6 Benchmark Tool"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1362033226"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Capcom"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Capcom"
+			}
+		}
+		"primary_genre"		"57"
+		"genres"
+		{
+			"0"		"57"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"1"
+				"full_audio"		"1"
+			}
+			"german"
+			{
+				"supported"		"1"
+			}
+			"french"
+			{
+				"supported"		"1"
+			}
+			"italian"
+			{
+				"supported"		"1"
+			}
+			"spanish"
+			{
+				"supported"		"1"
+			}
+			"russian"
+			{
+				"supported"		"1"
+			}
+			"japanese"
+			{
+				"supported"		"1"
+				"full_audio"		"1"
+			}
+			"portuguese"
+			{
+				"supported"		"1"
+			}
+			"polish"
+			{
+				"supported"		"1"
+			}
+		}
+		"gameid"		"229950"
+		"exfgls"		"1"
+		"review_score"		"8"
+		"review_percentage"		"84"
+	}
+	"extended"
+	{
+		"checkpkgstate"		"1"
+		"developer"		"Capcom"
+		"gamedir"		"ValveTestApp229950"
+		"homepage"		""
+		"icon"		""
+		"languages"		"english,french,german,italian,spanish,polish,russian,japanese,brazilian"
+		"launcheula"		"http://store.steampowered.com/eula/229950_eula"
+		"noservers"		"0"
+		"sourcegame"		"1"
+		"state"		"eStateTool"
+		"visibleonlywhensubscribed"		"1"
+		"publisher"		"Capcom"
+		"isfreeapp"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Resident Evil 6 Benchmark Tool"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"RE6.exe"
+				"description"		"Launch Benchmark"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"installscriptsignature"		"6aff0109ea81593c4df703d1f093204977810ea1c41ba69147a481ceb5e8a79865196c91739293f3153ae6c4934d56a86273f052000bbf6eec0236de0641814429bd18cd5fa08d80cff833eec65d5e6fb2ff1dcc61c6c81d8b771ce51929e3830b6c9dec2bd95e4ddda1dfc1a5159a2679638ee6ee6a2e7aeb0d89819df23b1a"
+		"installscriptoverride"		"1"
+	}
+	"install"
+	{
+		"run process"
+		{
+			"directx"
+			{
+				"hasrunkey"		"HKEY_LOCAL_MACHINE\\Software\\Valve\\Steam\\Apps\\229950"
+				"process 1"		"%INSTALLDIR%\\support\\directx_Jun2010_redist\\DXSETUP.exe"
+				"command 1"		"/silent"
+				"nocleanup"		"1"
+			}
+			"vcredist"
+			{
+				"hasrunkey"		"HKEY_LOCAL_MACHINE\\Software\\Valve\\Steam\\Apps\\229950"
+				"process 1"		"%INSTALLDIR%\\support\\vcredist_x86\\vcredist_x86.exe"
+				"command 1"		"/q /norestart"
+				"nocleanup"		"1"
+			}
+		}
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"baselanguages"		"english,french,german,italian,spanish,polish,russian,japanese,brazilian"
+		"229951"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4208746300837996325"
+					"size"		"1154661269"
+					"download"		"0"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"46415"
+			}
+		}
+	}
+}
