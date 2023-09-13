@@ -1,0 +1,209 @@
+"appinfo"
+{
+	"appid"		"419520"
+	"common"
+	{
+		"name"		"Lifeless"
+		"type"		"Game"
+		"logo"		"28fbb32518bbb0c2cfc6695e5f8bdf2990eb4da7"
+		"logo_small"		"28fbb32518bbb0c2cfc6695e5f8bdf2990eb4da7_thumb"
+		"oslist"		"windows"
+		"icon"		"5350aa55bb3ee8f7fb8f9d66f55d956bd3903f47"
+		"clienticon"		"032a248e1a8d5c6f2ffe48e087486ecebd94cd85"
+		"clienttga"		"03a9a9a9b880e3adf392835c3418d35b574830cd"
+		"releasestate"		"released"
+		"metacritic_name"		"Lifeless"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1479223746"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Rigid-Soft"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Rigid-Soft"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"70"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_38"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1466089500"
+		"community_hub_visible"		"1"
+		"gameid"		"419520"
+		"store_tags"
+		{
+			"0"		"1659"
+			"1"		"1662"
+			"2"		"19"
+			"3"		"1695"
+			"4"		"128"
+			"5"		"3859"
+			"6"		"3839"
+			"7"		"493"
+			"8"		"492"
+			"9"		"1663"
+		}
+		"review_score"		"4"
+		"review_percentage"		"36"
+	}
+	"extended"
+	{
+		"gamedir"		"Lifeless"
+		"developer"		"Rigid-Soft"
+		"publisher"		"Rigid-Soft"
+		"homepage"		"http://lifelessgame.com/"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Lifeless"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Lifeless.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"419521"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4743657637066984895"
+					"size"		"5119698433"
+					"download"		"2274369296"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"easyanticheat"
+				{
+					"gid"		"E40E91D922442B9FAA64C6AE500C85A8"
+					"size"		"83EC6B1529457B98BDB6EB17B22FB0EA"
+					"download"		"D9848D1321E0F334A70606DE477105CD"
+				}
+				"greenmangaming"
+				{
+					"gid"		"7DEF6A9E43B3F8320242C4F65A5170E8"
+					"size"		"F12AA3387D0E1568706C0B7A0C4FB547"
+					"download"		"969ACA22D982B2D56E04084F40456849"
+				}
+				"internal"
+				{
+					"gid"		"9A258586024FF53FE455A8E8F9D1B73F"
+					"size"		"3578520A055DC0C3CB795FD5721EBCBF"
+					"download"		"AB18062EBCD1A0F53A197831DFC95533"
+				}
+				"lifelessexp"
+				{
+					"gid"		"7F08DE7CD84FDF9A8CCB71433E90B681"
+					"size"		"74297E8306E905DFDF8DE28A98893002"
+					"download"		"C819DFAB7D75A4B916E36A62E7B80563"
+				}
+				"multiplay"
+				{
+					"gid"		"82CCD59F4333053FAA7B0DA74707EE3A"
+					"size"		"8A4CC61841AC728A5E398F23621B407C"
+					"download"		"EF69DE6387BDBF81FD0E3432FDFD6D6B"
+				}
+				"testing"
+				{
+					"gid"		"2F00909D021B6A1222A94FC6DD99E247"
+					"size"		"ACE608420D474FE49B3A49B8AF66A113"
+					"download"		"D4AC88A41293F0931F6A9BCD7AA2512F"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1457349"
+				"timeupdated"		"1479134454"
+			}
+			"easyanticheat"
+			{
+				"buildid"		"1116912"
+				"pwdrequired"		"1"
+				"timeupdated"		"1465298985"
+			}
+			"greenmangaming"
+			{
+				"buildid"		"1282778"
+				"pwdrequired"		"1"
+				"timeupdated"		"1472145723"
+			}
+			"internal"
+			{
+				"buildid"		"1457349"
+				"pwdrequired"		"1"
+				"timeupdated"		"1479129890"
+			}
+			"lifelessexp"
+			{
+				"buildid"		"1312629"
+				"pwdrequired"		"1"
+				"timeupdated"		"1472735853"
+			}
+			"multiplay"
+			{
+				"buildid"		"1116912"
+				"pwdrequired"		"1"
+				"timeupdated"		"1465298947"
+			}
+			"testing"
+			{
+				"buildid"		"1451410"
+				"pwdrequired"		"1"
+				"timeupdated"		"1478801629"
+			}
+		}
+	}
+}
