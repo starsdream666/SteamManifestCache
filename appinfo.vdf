@@ -1,0 +1,97 @@
+"appinfo"
+{
+	"appid"		"42300"
+	"common"
+	{
+		"name"		"Sixense SDK for the Razer Hydra"
+		"clienticon"		"998d54c3d8b5a7b7105c870c4adaf8a5a88beb84"
+		"clienttga"		"b79b07b9c6ac9549be5ebb09cedf4535eaab1195"
+		"icon"		"81893cf656447e243af1905f7b1a5bfc86177bc0"
+		"type"		"Tool"
+		"freeondemand"		"1"
+		"oslist"		"windows,macos"
+		"eulas"
+		{
+			"0"
+			{
+				"url"		"http://store.steampowered.com/eula/eula_testapp42300"
+				"id"		"eula_testapp42300"
+				"name"		"eula_testapp42300"
+			}
+		}
+		"app_retired_publisher_request"		"1"
+		"associations"
+		{
+		}
+		"gameid"		"42300"
+	}
+	"extended"
+	{
+		"developer"		"Sixense Entertainment"
+		"gamedir"		"Sixense TrueMotion SDK"
+		"homepage"		"http://www.sixense.com/"
+		"icon"		""
+		"launcheula"		"http://store.steampowered.com/eula/eula_testapp42300"
+		"noservers"		"1"
+		"order"		"1"
+		"primarycache"		"42301"
+		"serverbrowsername"		""
+		"state"		"eStateTool"
+		"validoslist"		"windows,macos"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Sixense SDK"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SixenseSteamLauncher.exe"
+				"arguments"		"3 SixenseSDK"
+			}
+		}
+	}
+	"depots"
+	{
+		"42302"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3384127143951151460"
+					"size"		"112376"
+					"download"		"0"
+				}
+			}
+		}
+		"42301"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9171813538594069977"
+					"size"		"262668671"
+					"download"		"0"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"21291"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+	}
+}
