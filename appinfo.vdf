@@ -1,0 +1,434 @@
+"appinfo"
+{
+	"appid"		"237550"
+	"common"
+	{
+		"name"		"Realms of Arkania: Blade of Destiny"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"clienticon"		"1f78d98406dd82ad91078a402cb6c5af00bb72e5"
+		"clienttga"		"447acbd99bca400e61ad472ed75bbcb66a015fef"
+		"icon"		"8bd9112ec90773c80aa0abde74b6c658dbab8ebf"
+		"logo"		"0fc72ab63322da6eeca599a307666e7cb9c0343f"
+		"logo_small"		"0fc72ab63322da6eeca599a307666e7cb9c0343f_thumb"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+		}
+		"metacritic_name"		"Realms of Arkania"
+		"small_capsule"
+		{
+			"german"		"capsule_231x87_german.jpg"
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"german"		"header_german.jpg"
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"65.42553351843311"
+			}
+		}
+		"store_asset_mtime"		"1572879307"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"United Independent Entertainment"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Crafty Studios"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"United Independent Entertainment"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_15"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"1"
+				"full_audio"		"1"
+			}
+			"german"
+			{
+				"supported"		"1"
+				"full_audio"		"1"
+			}
+		}
+		"steam_release_date"		"1375156860"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"237550"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"21"
+			"2"		"492"
+			"3"		"1677"
+			"4"		"1684"
+			"5"		"5708"
+			"6"		"4182"
+			"7"		"10695"
+		}
+		"review_score"		"5"
+		"review_percentage"		"54"
+	}
+	"extended"
+	{
+		"checkpkgstate"		"1"
+		"developer"		"United Independent Entertainment"
+		"gamedir"		"ValveTestApp237550"
+		"homepage"		"http://www.realmsofarkania.com"
+		"icon"		""
+		"noservers"		"0"
+		"sourcegame"		"1"
+		"state"		"eStateComingSoonNoPreload"
+		"visibleonlywhensubscribed"		"1"
+		"publisher"		"United Independent Entertainment"
+		"gamemanualurl"		"https://store.steampowered.com/manual/237550/"
+		"listofdlc"		"264840,264841,387910"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Realms of Arkania"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"schick.exe"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"schick.app"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"schick.x86"
+				"arguments"		"-logfile output_log.txt"
+				"description"		"Launch x86"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"4"
+			{
+				"executable"		"schick.exe"
+				"arguments"		"-force-d3d9"
+				"description"		"Launch compatible mode"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"5"
+			{
+				"executable"		"schickhd"
+				"arguments"		"-logfile output_log.txt"
+				"description"		"Launch (Betabranch only)"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"6"
+			{
+				"executable"		"Blade of Destiny HD Mod Control.exe"
+				"description"		"lunatic's Mod Manager"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"baselanguages"		"english,german"
+		"markdlcdepots"		"1"
+		"237551"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6132666730006708317"
+					"size"		"7256477977"
+					"download"		"4059812048"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta135"
+				{
+					"gid"		"02C3DF2928FBACCD4B197EFB74C1B5B7"
+					"size"		"EAC50A33AFB383D217DFD7A8DDF2EC94"
+					"download"		"DE0FF5F1751F7C74B6F8CBB7DA4E326C"
+				}
+				"beta135_lunatic"
+				{
+					"gid"		"43AD9A2DA8B324B528A2CAC96572273C"
+					"size"		"F80FC0E3F60F3686405B034302ADC1E3"
+					"download"		"21D8A0454E50FE5D2B0F1C539EF5EFCD"
+				}
+				"closedbeta"
+				{
+					"gid"		"A4851B94682DE3B9F80BACDAF36C39EA"
+					"size"		"4FF90144CC657CD467824A3D3F14D766"
+					"download"		"8D04DEC2E0CE25E3B9A9E3A0257BAA6E"
+				}
+			}
+		}
+		"237552"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6806504868974763430"
+					"size"		"7225194847"
+					"download"		"3681812432"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta135"
+				{
+					"gid"		"D0EF7C7B80CF64188ACD71A9A6A91CCB"
+					"size"		"27F3F0D4FBC1D6EC06886B61E286C997"
+					"download"		"6570B6199416BE824B2ABB43E9830AC2"
+				}
+				"beta135_lunatic"
+				{
+					"gid"		"CA9FA35E8DDE2A573A3BB0C13299B839"
+					"size"		"CF1A50774EEB82A4715A3A732FD7A44A"
+					"download"		"254EC0FC419A19FB12103DA0B46AA584"
+				}
+				"closedbeta"
+				{
+					"gid"		"517A599A500B499E86A2BB0E35A53BA8"
+					"size"		"9619B990D6711585CE2D4C7EE7563EFF"
+					"download"		"F0DD0C6C1535F4603D3DABFC46E482FB"
+				}
+			}
+		}
+		"237553"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1225090920312878352"
+					"size"		"7246125598"
+					"download"		"4059616624"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta135"
+				{
+					"gid"		"5B56B2129CA0DA12E478C0F90973D334"
+					"size"		"136C62C2F81257C1D950119C298A83EB"
+					"download"		"49B1859C0CF1AFED98EA8C06833057BF"
+				}
+				"beta135_lunatic"
+				{
+					"gid"		"943858ADF2B7ECE57571627B4FD5762F"
+					"size"		"1A520928056DA77791387554CCE7BA63"
+					"download"		"C00437027365E00A562DCC1AF89B5479"
+				}
+				"closedbeta"
+				{
+					"gid"		"1FAC20881587C4CD5463064B9735A8DE"
+					"size"		"87246074E942F4F1880F7B667345060B"
+					"download"		"5B86360EFBFE367CB3CD9B96CE8D93D1"
+				}
+			}
+		}
+		"264840"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5646362608362520565"
+					"size"		"675966337"
+					"download"		"338492624"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta135"
+				{
+					"gid"		"97C9E74D58327363A9CE86AB24C93072"
+					"size"		"E591650BCC140AEF9027D5D72AA97928"
+					"download"		"209459A0DAC77B0B6FEE465C0E0316BC"
+				}
+				"beta135_lunatic"
+				{
+					"gid"		"6D2B96536B3714416B15A8710FEB120F"
+					"size"		"105039ED5D7F112FF3D173BB2AD20A3D"
+					"download"		"4E1E1B72F99B6B97FC455DC193153AC5"
+				}
+				"closedbeta"
+				{
+					"gid"		"E07A9D7EB42F2F9C593F1FEBEDC20657"
+					"size"		"C28879564BCD6108AB396D16D5B19494"
+					"download"		"3D61BC358D865C73E2B33987720A2492"
+				}
+			}
+			"dlcappid"		"264840"
+		}
+		"264841"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5774476688977324235"
+					"size"		"493243730"
+					"download"		"324703552"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta135"
+				{
+					"gid"		"02D27B1F724F219746C783405A421EAD"
+					"size"		"EC73AA5C04A323BD9FF7578A9FD5582B"
+					"download"		"9F0E8A7DF37AA94A833480CC6E1E1BE0"
+				}
+				"beta135_lunatic"
+				{
+					"gid"		"AAAFBA43DBA53C19C68AFEC15200582C"
+					"size"		"09B5EB6008B462FE9A9477E13EE9C55A"
+					"download"		"E68F76CF6AEC97C1A807B5639AC44934"
+				}
+				"closedbeta"
+				{
+					"gid"		"03E91E9E3477C36776E05FE3ED7E162B"
+					"size"		"3674A9573E8D1EDA4C6E4071DAE81EFC"
+					"download"		"44CA229322BA67DB17069C5FB6FE49C3"
+				}
+			}
+			"dlcappid"		"264841"
+		}
+		"387910"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6249684251345223263"
+					"size"		"17667987"
+					"download"		"13006112"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta135"
+				{
+					"gid"		"AB18F98837FB51B5D00E0B5B0843C06A"
+					"size"		"039606DFE60F6B4BBC0882ABC9C31FEC"
+					"download"		"5D7C122B8B4E77A1A73D1ACE039CA915"
+				}
+			}
+			"dlcappid"		"387910"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"811371"
+			}
+			"beta135"
+			{
+				"buildid"		"811371"
+				"pwdrequired"		"1"
+			}
+			"beta135_lunatic"
+			{
+				"buildid"		"547975"
+				"pwdrequired"		"1"
+			}
+			"closedbeta"
+			{
+				"buildid"		"709763"
+				"pwdrequired"		"1"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"50000000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"schick_Data/saves"
+				"pattern"		"*.dsa1save"
+			}
+		}
+	}
+}
