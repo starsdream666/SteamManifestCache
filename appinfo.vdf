@@ -1,0 +1,98 @@
+"appinfo"
+{
+	"appid"		"238690"
+	"common"
+	{
+		"name"		"Rising Storm Beta Dedicated Server"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,linux"
+		"community_hub_visible"		"1"
+		"gameid"		"238690"
+	}
+	"extended"
+	{
+		"checkpkgstate"		"1"
+		"developer"		""
+		"gamedir"		"ValveTestApp238690"
+		"homepage"		""
+		"icon"		""
+		"noservers"		"0"
+		"sourcegame"		"1"
+		"state"		"eStateComingSoonNoPreload"
+		"visibleonlywhensubscribed"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Rising Storm Dedicated Server"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"bin/game.exe"
+				"arguments"		"-console"
+				"description"		"Launch with Console"
+				"workingdir"		"bin"
+			}
+		}
+	}
+	"depots"
+	{
+		"238691"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1935636036930935304"
+					"size"		"10261288492"
+					"download"		"0"
+				}
+				"beta"
+				{
+					"gid"		"2939625009422351744"
+					"size"		"15431762947"
+					"download"		"0"
+				}
+				"internalbeta"
+				{
+					"gid"		"7205591244558743304"
+					"size"		"5405810252"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"betabrew"
+				{
+					"gid"		"B7B7B1EE4E23B2B917A460C6B7BE1C1C"
+					"size"		"1F5A421325C19852390C22425C8272EB"
+					"download"		"ED18BE0607DD1C8D5D6988D40D525E7C"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"220840"
+			}
+			"beta"
+			{
+				"buildid"		"172968"
+			}
+			"betabrew"
+			{
+				"buildid"		"386003"
+				"pwdrequired"		"1"
+			}
+			"internalbeta"
+			{
+				"buildid"		"72017"
+			}
+		}
+	}
+}
