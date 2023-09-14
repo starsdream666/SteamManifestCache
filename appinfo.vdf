@@ -1,0 +1,315 @@
+"appinfo"
+{
+	"appid"		"913740"
+	"common"
+	{
+		"name"		"WORLD OF HORROR"
+		"type"		"Game"
+		"icon"		"38a4a25b031840886ae0066ffe9a1fca39c743c2"
+		"logo"		"0e092200f02b94d9e680c6f2b7c54fd13f53927b"
+		"logo_small"		"0e092200f02b94d9e680c6f2b7c54fd13f53927b_thumb"
+		"clienticon"		"84582b301272987d22803909b9fbcf790617543f"
+		"clienttga"		"e69c86fde5bf87de6ec7d0032b73b36fbe19360e"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64,macosnotarized"
+		"name_localized"
+		{
+			"japanese"		"恐怖の世界"
+			"schinese"		"恐怖的世界"
+			"tchinese"		"恐怖的世界"
+		}
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1644969600"
+			"tested_build_id"		"7818963"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+			}
+		}
+		"metacritic_name"		"WORLD OF HORROR"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"45.56592765460911"
+				"height_pct"		"90.65542626454521"
+			}
+		}
+		"store_asset_mtime"		"1692933390"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"panstasz"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Ysbryd Games"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"PLAYISM"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Ysbryd Games"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"3"
+			"2"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1582210811"
+		"metacritic_score"		"80"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/world-of-horror?ftag=MCD-06-10aaa1f"
+		"community_hub_visible"		"1"
+		"gameid"		"913740"
+		"store_tags"
+		{
+			"0"		"1667"
+			"1"		"3978"
+			"2"		"7432"
+			"3"		"1698"
+			"4"		"3964"
+			"5"		"3959"
+			"6"		"1721"
+			"7"		"1733"
+			"8"		"3871"
+			"9"		"122"
+			"10"		"1716"
+			"11"		"4325"
+			"12"		"1662"
+			"13"		"1666"
+			"14"		"4085"
+			"15"		"4166"
+			"16"		"5716"
+			"17"		"1669"
+			"18"		"21"
+			"19"		"4182"
+		}
+		"review_score"		"8"
+		"review_percentage"		"94"
+	}
+	"extended"
+	{
+		"developer"		"panstasz"
+		"publisher"		"Ysbryd Games"
+		"homepage"		"http://www.wohgame.com"
+	}
+	"config"
+	{
+		"installdir"		"WOH"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"worldofhorror.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"wohgame.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"steamcontrollertouchtemplateindex"		"1"
+		"steamcontrollertouchconfigdetails"
+		{
+			"2211259324"
+			{
+				"controller_type"		"controller_mobile_touch"
+				"enabled_branches"		"default"
+				"use_action_block"		"false"
+			}
+		}
+	}
+	"depots"
+	{
+		"workshopdepot"		"913740"
+		"913741"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4277161439225689999"
+					"size"		"383602779"
+					"download"		"246935680"
+				}
+				"public_beta"
+				{
+					"gid"		"4277161439225689999"
+					"size"		"383602779"
+					"download"		"246935680"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"candidate"
+				{
+					"gid"		"8B0FD48AAE9BFAF9FE6FFC30DDD60851"
+					"size"		"ABB33D960562B9907E62F67009EEC454"
+					"download"		"F96EF7E596D8D4BFFEA49E7E7C5014D9"
+				}
+				"test"
+				{
+					"gid"		"294E8E9E0905290B6FC00E3F6D721C36"
+					"size"		"D2781BD7A1256140FE2E00F414784F89"
+					"download"		"BC0672446B112CA9D10AE22798A4C49F"
+				}
+			}
+		}
+		"913742"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7324194807024580143"
+					"size"		"410047342"
+					"download"		"254115552"
+				}
+				"public_beta"
+				{
+					"gid"		"7324194807024580143"
+					"size"		"410047342"
+					"download"		"254115552"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"candidate"
+				{
+					"gid"		"F4E62D19818F256ACCFF279121E07D9F"
+					"size"		"289B7613C4603F0A2023510D42541820"
+					"download"		"7C94FC7E2E07AA268E2A664C09F80F55"
+				}
+				"test"
+				{
+					"gid"		"43196C204285753AB3B155F595DD277E"
+					"size"		"1CC7C872FE5C92EAB741D2EE20C0473E"
+					"download"		"C2BEFC62405583B8A5560641550DC1C9"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11175879"
+				"timeupdated"		"1683487223"
+			}
+			"candidate"
+			{
+				"buildid"		"7795262"
+				"pwdrequired"		"1"
+				"timeupdated"		"1638200110"
+			}
+			"public_beta"
+			{
+				"buildid"		"11175879"
+				"description"		"latest version of the game"
+				"timeupdated"		"1683486751"
+			}
+			"test"
+			{
+				"buildid"		"11175545"
+				"pwdrequired"		"1"
+				"timeupdated"		"1683478775"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"2000000"
+		"maxnumfiles"		"100"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+	}
+}
