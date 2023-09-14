@@ -1,0 +1,277 @@
+"appinfo"
+{
+	"appid"		"1080130"
+	"common"
+	{
+		"name"		"QuietMansion2"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"logo"		"6b242b7e7f7e8e0f0f7598384c51c9f4e6b408f0"
+		"logo_small"		"6b242b7e7f7e8e0f0f7598384c51c9f4e6b408f0_thumb"
+		"clienttga"		"23287260cdd0a8d8c51df9a369be829e97ebb86a"
+		"clienticon"		"56d7e0e3cdecc059441e364d04effc818fc033cf"
+		"icon"		"2bd7c1beb239f0f754b49d60981ff1155c69bb79"
+		"languages"
+		{
+			"english"		"1"
+			"japanese"		"1"
+		}
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1080130_eula_0"
+				"name"		"QuietMansion2 EULA"
+				"url"		"https://store.steampowered.com//eula/1080130_eula_0"
+				"version"		"4"
+			}
+		}
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"metacritic_name"		"QuietMansion2"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"58.704735006062066"
+				"height_pct"		"81.4096499526963"
+			}
+		}
+		"store_asset_mtime"		"1659017983"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"K App."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"K App."
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"QuietMansion(KENGOHAZARD)"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_22"		"1"
+			"category_15"		"1"
+			"category_18"		"1"
+			"category_55"		"1"
+			"category_56"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1561186800"
+		"steam_release_date"		"1561161720"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1080130"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"21"
+			"2"		"492"
+			"3"		"4667"
+			"4"		"1667"
+			"5"		"493"
+			"6"		"3978"
+			"7"		"1663"
+			"8"		"1721"
+			"9"		"4182"
+			"10"		"4342"
+			"11"		"1662"
+			"12"		"3839"
+			"13"		"4345"
+			"14"		"15954"
+			"15"		"1742"
+			"16"		"4136"
+			"17"		"4166"
+			"18"		"4711"
+		}
+		"review_score"		"6"
+		"review_percentage"		"73"
+	}
+	"extended"
+	{
+		"developer"		"K App."
+		"publisher"		"K App."
+		"homepage"		"https://kenhaza.wixsite.com/kengohazard"
+		"gamemanualurl"		"https://store.steampowered.com/manual/1080130/"
+	}
+	"config"
+	{
+		"installdir"		"QuietMansion2"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"QuietMansion2.exe"
+				"type"		"none"
+			}
+		}
+	}
+	"depots"
+	{
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1080131"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4371068141440958821"
+					"size"		"1556048673"
+					"download"		"1332848112"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"3321D773AA4B7BF92D8CD3C92AF4BAB8"
+					"size"		"ECEA6C60ED5A540CE08B503D86DE9E95"
+					"download"		"64316BA7F971E819AF17DB5450810C8E"
+				}
+			}
+		}
+		"baselanguages"		"english,japanese"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9201276"
+				"timeupdated"		"1659104955"
+			}
+			"test"
+			{
+				"buildid"		"9201276"
+				"pwdrequired"		"1"
+				"timeupdated"		"1658935247"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000"
+		"maxnumfiles"		"5"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"Save_File"
+				"pattern"		"*.knt"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"1"
+			{
+				"root"		"gameinstall"
+				"path"		"/SettingFile/AudioSetting"
+				"pattern"		"*.knt"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+			"2"
+			{
+				"root"		"gameinstall"
+				"path"		"/SettingFile/PointofviewSetting"
+				"pattern"		"*.knt"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"3"
+			{
+				"root"		"gameinstall"
+				"path"		"DifficultySetting"
+				"pattern"		"*.knt"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"4"
+			{
+				"root"		"gameinstall"
+				"path"		"/KGSS/KGSS_SecureFile_Manager0001"
+				"pattern"		"*.knt"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"5"
+			{
+				"root"		"gameinstall"
+				"path"		"/SettingFile/Sensitivity setting.knt"
+				"pattern"		"*.knt"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
