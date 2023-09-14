@@ -1,0 +1,550 @@
+"appinfo"
+{
+	"appid"		"1320000"
+	"common"
+	{
+		"name"		"Punishment Darkness Online"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"fbb1b75dd7d99dad4e922c7c6899700cad5eb3f1"
+		"clienttga"		"a81bb31b7c5f6e69d5c682f16ced952b7449afad"
+		"icon"		"64d7b7b4df17a1f412a2a047a9a5a43d64124b42"
+		"logo"		"05ae02a94433d65d47c1337b99e2eb4a0c8d5fac"
+		"logo_small"		"05ae02a94433d65d47c1337b99e2eb4a0c8d5fac_thumb"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"59.80163360560093"
+				"height_pct"		"90.65542626454524"
+			}
+		}
+		"store_asset_mtime"		"1589514171"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"DW Entertainment"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"DW Entertainment"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"23"
+			"4"		"3"
+			"5"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1589094000"
+		"steam_release_date"		"1591943096"
+		"community_hub_visible"		"1"
+		"gameid"		"1320000"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"492"
+			"2"		"597"
+			"3"		"19"
+			"4"		"9"
+			"5"		"21"
+		}
+	}
+	"extended"
+	{
+		"developer"		"DW Entertainment"
+		"publisher"		"DW Entertainment"
+		"listofdlc"		"1321290,1322340"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Punishment Darkness"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Game.exe"
+				"arguments"		"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Punishment Darkness\\Game.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Game.exe"
+				"arguments"		"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Punishment Darkness\\Game.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"ownsdlc"		"461311"
+				}
+			}
+			"2"
+			{
+				"executable"		"Game.exe"
+				"arguments"		"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Punishment Darkness\\Game.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"ownsdlc"		"461664"
+				}
+			}
+			"3"
+			{
+				"executable"		"Game.exe"
+				"arguments"		"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Punishment Darkness\\Game.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"beta - DLC"
+					"ownsdlc"		"461667"
+				}
+			}
+			"4"
+			{
+				"executable"		"Game.exe"
+				"arguments"		"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Punishment Darkness\\Game.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"beta - DLC"
+					"ownsdlc"		"461670"
+				}
+			}
+			"5"
+			{
+				"executable"		"Game.exe"
+				"arguments"		"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Punishment Darkness\\Game.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"ownsdlc"		"461673"
+				}
+			}
+			"6"
+			{
+				"executable"		"Game.exe"
+				"arguments"		"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Punishment Darkness\\Game.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"ownsdlc"		"463360"
+				}
+			}
+			"7"
+			{
+				"executable"		"Game.exe"
+				"arguments"		"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Punishment Darkness\\Game.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"ownsdlc"		"461718"
+				}
+			}
+			"8"
+			{
+				"executable"		"Game.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Punishment Darkness Online Remake"
+				}
+				"description"		"Punishment Darkness Online Remake"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"french"
+		"hasdepotsindlc"		"1"
+		"1320001"
+		{
+			"config"
+			{
+				"language"		"french"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5850907788367041858"
+					"size"		"821979431"
+					"download"		"701389520"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"89A772675155A26299023FCD7745F9D6"
+					"size"		"2824089C564ED0DC32CB9ABDBEE2CE73"
+					"download"		"BC8601BCAAAD644BF8BAE1BB07C53B72"
+				}
+				"beta"
+				{
+					"gid"		"78BB8B160BCFF0FDC1249B42010E656F"
+					"size"		"334C65B7A4B9B71CAB050B9903B72290"
+					"download"		"7B221B982AEA450E2513EF4FA146257B"
+				}
+			}
+		}
+		"1321290"
+		{
+			"dlcappid"		"1321290"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6773384050168627340"
+					"size"		"820723538"
+					"download"		"700573088"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"C18C3C1E50F0CB4409DCD752238FA8B5"
+					"size"		"D186DD155001CFBDB71F19129A52CD30"
+					"download"		"7C2F9C60CB55E0FFF1F049BFEB10F651"
+				}
+				"beta"
+				{
+					"gid"		"C6213C59111F49259EC619FAA5FE9084"
+					"size"		"7C342DCB81B7C513AAC0D3FADA5E98C2"
+					"download"		"6106276AABBB773C6F7D63812FE7B707"
+				}
+			}
+		}
+		"1322340"
+		{
+			"dlcappid"		"1322340"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6858086273359493111"
+					"size"		"822662539"
+					"download"		"701481360"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"BDD19DDB84EE5704AA4D5BA3500BC99D"
+					"size"		"87A93AFC73FE0EE21DE475B50EA0333C"
+					"download"		"FB4D3F9F3B5E1FF801B4AB5EEE87B4C6"
+				}
+				"beta"
+				{
+					"gid"		"1E56EF8D40F13A97F90D51393D29A626"
+					"size"		"6CB0CB47EA97EFCE2B846D2C4999F31D"
+					"download"		"136036105E57B2003D665C0F733898A4"
+				}
+			}
+		}
+		"1322341"
+		{
+			"dlcappid"		"1322341"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8526288918477678310"
+					"size"		"828442405"
+					"download"		"707217568"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"7B6CE72A5CD879D29E30E16600B47D6C"
+					"size"		"1D990BC7F1F886DEADB159E576C88B0E"
+					"download"		"488F0B6FE2BD6156BDA70105D520461F"
+				}
+				"beta"
+				{
+					"gid"		"6AEFB2806EB3BDC3CD394DF76355C7A0"
+					"size"		"D0BEF9C743F55FC5EA347549ECE98E37"
+					"download"		"A23C27F3F51637CDE8BE5FD58146D4BF"
+				}
+			}
+		}
+		"1322342"
+		{
+			"dlcappid"		"1322342"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9049540770007464307"
+					"size"		"828530625"
+					"download"		"707223888"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"3EC9CBFD146BC3808D003A84996E6DAB"
+					"size"		"53E68C852DE3ED3498F65AD43C3875D7"
+					"download"		"14D63A951EA4261F1588612048B6BF99"
+				}
+				"beta"
+				{
+					"gid"		"F714D4AE0DF37434E92F05D624A49D14"
+					"size"		"2ECD242132367C982DD979192D7614D3"
+					"download"		"D663F93474A08C3A2AA61E9454A079BB"
+				}
+			}
+		}
+		"1322343"
+		{
+			"dlcappid"		"1322343"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+		}
+		"1326940"
+		{
+			"dlcappid"		"1326940"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+		}
+		"1322461"
+		{
+			"dlcappid"		"1322461"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+		}
+		"1322462"
+		{
+			"dlcappid"		"1322462"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+		}
+		"1322463"
+		{
+			"dlcappid"		"1322463"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+		}
+		"1322467"
+		{
+			"dlcappid"		"1322467"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+		}
+		"1322465"
+		{
+			"dlcappid"		"1322465"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+		}
+		"1322464"
+		{
+			"dlcappid"		"1322464"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+		}
+		"1322466"
+		{
+			"dlcappid"		"1322466"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+		}
+		"1322468"
+		{
+			"dlcappid"		"1322468"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+		}
+		"1323761"
+		{
+			"dlcappid"		"1323761"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+		}
+		"1323763"
+		{
+			"dlcappid"		"1323763"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+		}
+		"1323764"
+		{
+			"dlcappid"		"1323764"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+		}
+		"1323762"
+		{
+			"dlcappid"		"1323762"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+		}
+		"1323769"
+		{
+			"dlcappid"		"1323769"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+		}
+		"1323760"
+		{
+			"dlcappid"		"1323760"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+		}
+		"1323768"
+		{
+			"dlcappid"		"1323768"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+		}
+		"1323766"
+		{
+			"dlcappid"		"1323766"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+		}
+		"1323765"
+		{
+			"dlcappid"		"1323765"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+		}
+		"1323767"
+		{
+			"dlcappid"		"1323767"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8745773"
+				"timeupdated"		"1652685722"
+			}
+			"alpha"
+			{
+				"buildid"		"11213864"
+				"pwdrequired"		"1"
+				"timeupdated"		"1683854363"
+			}
+			"beta"
+			{
+				"buildid"		"8745773"
+				"pwdrequired"		"1"
+				"timeupdated"		"1652685758"
+			}
+		}
+	}
+}
