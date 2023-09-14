@@ -1,0 +1,664 @@
+"appinfo"
+{
+	"appid"		"451760"
+	"common"
+	{
+		"name"		"Highway Blossoms"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"clienticns"		"9c6276cb3f4f2079e563a12af9b04bc320601a6c"
+		"clienticon"		"da152895a378e7bfacc6c157858632438524cf25"
+		"clienttga"		"84ab451783f13e2d0142d56a7ca01f489865143c"
+		"icon"		"287a9f8c2895f3f6f8720f4ce9a1a9e211150b0f"
+		"linuxclienticon"		"a4f40dfca6608e233b265c1e1e47d1ce2bce463f"
+		"logo"		"a827751e8145ea1034c9f82ba51d417a0b6cd58a"
+		"logo_small"		"a827751e8145ea1034c9f82ba51d417a0b6cd58a_thumb"
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+		}
+		"osarch"		""
+		"osextended"		"macos64"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1678406400"
+			"tested_build_id"		"9889113"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Highway Blossoms"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"41.7620137299771"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1667005759"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Studio Élan"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Studio Élan"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Studio Elan"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_18"		"1"
+			"category_29"		"1"
+			"category_23"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_13"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1466189905"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"451760"
+		"store_tags"
+		{
+			"0"		"44868"
+			"1"		"3799"
+			"2"		"13190"
+			"3"		"4085"
+			"4"		"4947"
+			"5"		"7208"
+			"6"		"9130"
+			"7"		"10397"
+			"8"		"1742"
+			"9"		"4726"
+			"10"		"6650"
+			"11"		"12095"
+			"12"		"11014"
+			"13"		"492"
+			"14"		"597"
+			"15"		"9551"
+			"16"		"5611"
+			"17"		"21"
+			"18"		"24904"
+			"19"		"4182"
+		}
+		"review_score"		"8"
+		"review_percentage"		"94"
+	}
+	"extended"
+	{
+		"developer"		"Studio Élan"
+		"publisher"		"Studio Élan"
+		"homepage"		"https://vnstudioelan.com/games/highway-blossoms-remastered/"
+		"gamemanualurl"		"https://store.steampowered.com/manual/451760/"
+		"listofdlc"		"490270,943720,1412300"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Highway Blossoms"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"HighwayBlossoms.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"HighwayBlossoms.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"HighwayBlossoms.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"1"
+		"451768"
+		{
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"devtesting"
+				{
+					"gid"		"A9431B52AAFB52622F68A7517E5A92E6"
+					"size"		"B8725B7FA455F0FEF3A349B94800EB4E"
+					"download"		"66F12833063917284420C481381C12E9"
+				}
+			}
+		}
+		"451762"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3393917060265593859"
+					"size"		"1013043790"
+					"download"		"863207200"
+				}
+				"original"
+				{
+					"gid"		"2496060998740377510"
+					"size"		"485269527"
+					"download"		"454681536"
+				}
+				"tempreversion"
+				{
+					"gid"		"7258408473659318437"
+					"size"		"883462987"
+					"download"		"826970560"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtesting"
+				{
+					"gid"		"41C6EC1EECD6782E058C70EE40119F89"
+					"size"		"55EFE27A3BC9EA21CE485E91A09C6856"
+					"download"		"C019A78BEC3640564D417CFCCCE35984"
+				}
+			}
+		}
+		"451763"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2960695205790650480"
+					"size"		"1013043790"
+					"download"		"863207200"
+				}
+				"original"
+				{
+					"gid"		"7389243301059847364"
+					"size"		"505688048"
+					"download"		"459944192"
+				}
+				"tempreversion"
+				{
+					"gid"		"4287172956752997079"
+					"size"		"909554255"
+					"download"		"833677504"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtesting"
+				{
+					"gid"		"26675ED95709004AABB4108823A284FA"
+					"size"		"55EFE27A3BC9EA21CE485E91A09C6856"
+					"download"		"C019A78BEC3640564D417CFCCCE35984"
+				}
+			}
+		}
+		"451764"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"190388903719221425"
+					"size"		"1013043790"
+					"download"		"863207200"
+				}
+				"original"
+				{
+					"gid"		"1481520477007044410"
+					"size"		"487657103"
+					"download"		"455618224"
+				}
+				"tempreversion"
+				{
+					"gid"		"5612525612123414069"
+					"size"		"885924723"
+					"download"		"827887184"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtesting"
+				{
+					"gid"		"48461CFDB0A71241593BBE7D3E73CB7A"
+					"size"		"55EFE27A3BC9EA21CE485E91A09C6856"
+					"download"		"C019A78BEC3640564D417CFCCCE35984"
+				}
+			}
+		}
+		"451765"
+		{
+			"config"
+			{
+				"language"		"russian"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"318004338578586137"
+					"size"		"61"
+					"download"		"112"
+				}
+				"original"
+				{
+					"gid"		"8564752004093436791"
+					"size"		"61"
+					"download"		"112"
+				}
+				"tempreversion"
+				{
+					"gid"		"318004338578586137"
+					"size"		"61"
+					"download"		"112"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtesting"
+				{
+					"gid"		"2CA0D675497DA9D1A1F59C7802239FC7"
+					"size"		"B66E2F6EF4DBE15D622B15A6DCBF6E61"
+					"download"		"852104D7833DDEACA937FC0D879D4AF2"
+				}
+			}
+		}
+		"451766"
+		{
+			"config"
+			{
+				"language"		"schinese"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1766956453712296006"
+					"size"		"61"
+					"download"		"112"
+				}
+				"tempreversion"
+				{
+					"gid"		"1766956453712296006"
+					"size"		"61"
+					"download"		"112"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtesting"
+				{
+					"gid"		"E7CFDC569ACAB0684F1430A703D4CDFE"
+					"size"		"B66E2F6EF4DBE15D622B15A6DCBF6E61"
+					"download"		"852104D7833DDEACA937FC0D879D4AF2"
+				}
+			}
+		}
+		"943720"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"dlcappid"		"943720"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"81686643022734386"
+					"size"		"20268518"
+					"download"		"18556624"
+				}
+				"tempreversion"
+				{
+					"gid"		"81686643022734386"
+					"size"		"20268518"
+					"download"		"18556624"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtesting"
+				{
+					"gid"		"D3FC46D3A28B002F8C454DAC6C481465"
+					"size"		"5BD0468B05A1821BFC5AD59BBE1A652A"
+					"download"		"0ECA94DEAB2A06BD8FB5A36427AD6410"
+				}
+			}
+		}
+		"451761"
+		{
+			"dlcappid"		"943720"
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8036332774312601664"
+					"size"		"20268518"
+					"download"		"18556624"
+				}
+				"original"
+				{
+					"gid"		"8245721974601704803"
+					"size"		"490771716"
+					"download"		"422562560"
+				}
+				"tempreversion"
+				{
+					"gid"		"8036332774312601664"
+					"size"		"20268518"
+					"download"		"18556624"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtesting"
+				{
+					"gid"		"CFFB7421B237C95B8768AAD19129604E"
+					"size"		"5BD0468B05A1821BFC5AD59BBE1A652A"
+					"download"		"0ECA94DEAB2A06BD8FB5A36427AD6410"
+				}
+			}
+		}
+		"451767"
+		{
+			"dlcappid"		"943720"
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7634841603401969229"
+					"size"		"20268518"
+					"download"		"18556624"
+				}
+				"tempreversion"
+				{
+					"gid"		"7634841603401969229"
+					"size"		"20268518"
+					"download"		"18556624"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtesting"
+				{
+					"gid"		"B0B2653704F4ADC0BFF9A25D1958B02D"
+					"size"		"5BD0468B05A1821BFC5AD59BBE1A652A"
+					"download"		"0ECA94DEAB2A06BD8FB5A36427AD6410"
+				}
+			}
+		}
+		"1412300"
+		{
+			"dlcappid"		"1412300"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4064036159996580098"
+					"size"		"133290117"
+					"download"		"123926560"
+				}
+				"tempreversion"
+				{
+					"gid"		"4064036159996580098"
+					"size"		"133290117"
+					"download"		"123926560"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtesting"
+				{
+					"gid"		"E40CBBB6F4372EFC76EE7A374F5EB806"
+					"size"		"876A1D4E7E987FC35B32AC67840D0750"
+					"download"		"B6DF68BA6D83BAC2707D36B63DA57D15"
+				}
+			}
+		}
+		"490270"
+		{
+			"dlcappid"		"490270"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"111770558116322297"
+					"size"		"498287198"
+					"download"		"476408016"
+				}
+				"tempreversion"
+				{
+					"gid"		"3367197161221139906"
+					"size"		"81662614"
+					"download"		"74553184"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtesting"
+				{
+					"gid"		"D66374A52600EEB83C6493984365F545"
+					"size"		"98EA713D07F1948E0D27A61A754E7ED5"
+					"download"		"1868A349E18965299DCFCFC7F579D776"
+				}
+			}
+		}
+		"490271"
+		{
+			"dlcappid"		"490270"
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1674338977352768580"
+					"size"		"498287248"
+					"download"		"476408496"
+				}
+				"tempreversion"
+				{
+					"gid"		"7290738028510380393"
+					"size"		"496055986"
+					"download"		"475456528"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtesting"
+				{
+					"gid"		"388516EDBEB529CFAB6B6C5D85F611DA"
+					"size"		"F13C9CE85998553075C1D6E9BCECF53A"
+					"download"		"895F515AD8EB42ACEF0DD71514D8CF86"
+				}
+			}
+		}
+		"490272"
+		{
+			"dlcappid"		"490270"
+			"config"
+			{
+				"oslist"		"windows,linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8104763558557604528"
+					"size"		"498287198"
+					"download"		"476408016"
+				}
+				"tempreversion"
+				{
+					"gid"		"5419628032884756214"
+					"size"		"496055986"
+					"download"		"475456528"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtesting"
+				{
+					"gid"		"E5022DAF90149258DE6613E66EDA22AB"
+					"size"		"98EA713D07F1948E0D27A61A754E7ED5"
+					"download"		"1868A349E18965299DCFCFC7F579D776"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9889113"
+				"timeupdated"		"1667873578"
+			}
+			"devtesting"
+			{
+				"buildid"		"10588608"
+				"pwdrequired"		"1"
+				"timeupdated"		"1676850017"
+			}
+			"original"
+			{
+				"buildid"		"2786714"
+				"description"		"For those who still need the original Highway Blossoms. Please note the DLC will be incompatible."
+				"timeupdated"		"1526663783"
+			}
+			"tempreversion"
+			{
+				"buildid"		"5991382"
+				"description"		"reverts to a stable version of the game while we make corrections"
+				"timeupdated"		"1668220225"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"50000000"
+		"maxnumfiles"		"90"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"game/saves"
+				"pattern"		"*"
+			}
+		}
+	}
+}
