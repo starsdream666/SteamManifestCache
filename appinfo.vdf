@@ -1,0 +1,269 @@
+"appinfo"
+{
+	"appid"		"1004230"
+	"common"
+	{
+		"name"		"The Revenge of Johnny Bonasera: Episode 3"
+		"type"		"Game"
+		"clienticon"		"79a80e19516aab7d3ef87e0c555bd88eff9944b9"
+		"clienttga"		"54b417d4edd5251f5bdd12c272c1f5290358bd9f"
+		"icon"		"8ea6dca457f353228b0d22a428835704fba6bf7f"
+		"clienticns"		"2239a6666b3538ba3be3492c298e7c6f94aa802a"
+		"linuxclienticon"		"f33d1dec0f8768b5c59df408224507d4ab36cc80"
+		"logo"		"488d7cb945841bb7a74b92103f1501c2b3a64d17"
+		"logo_small"		"488d7cb945841bb7a74b92103f1501c2b3a64d17_thumb"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"spanish"		"1"
+			"russian"		"1"
+		}
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"releasestate"		"released"
+		"osextended"		"macos64"
+		"metacritic_name"		"The Revenge of Johnny Bonasera: Episode 3"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+		}
+		"store_asset_mtime"		"1578358935"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Rafael García"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Rafael García"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1549322084"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1004230"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"492"
+		}
+		"review_score"		"7"
+		"review_percentage"		"91"
+	}
+	"extended"
+	{
+		"developer"		"Rafael García"
+		"publisher"		"Rafael García"
+		"homepage"		"http://bladecoder.com/bonasera"
+	}
+	"config"
+	{
+		"installdir"		"Johnny Bonasera 3"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"bonasera3.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Johnny Bonasera3.app/Contents/MacOS/bonasera3"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"bonasera3"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+			"3"
+			{
+				"executable"		"bonasera3.exe"
+				"arguments"		"-w"
+				"description"		"Windowed"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"4"
+			{
+				"executable"		"Johnny Bonasera3.app/Contents/MacOS/bonasera3"
+				"arguments"		"-w"
+				"description"		"Windowed"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"5"
+			{
+				"executable"		"bonasera3"
+				"arguments"		"-w"
+				"description"		"Windowed"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1004231"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2689472270466897806"
+					"size"		"196486882"
+					"download"		"132274384"
+				}
+				"beta"
+				{
+					"gid"		"2689472270466897806"
+					"size"		"196486882"
+					"download"		"132274384"
+				}
+			}
+		}
+		"1004232"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3713972560375226534"
+					"size"		"195198430"
+					"download"		"130679472"
+				}
+				"beta"
+				{
+					"gid"		"3713972560375226534"
+					"size"		"195198430"
+					"download"		"130679472"
+				}
+			}
+		}
+		"1004233"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"435017193634864175"
+					"size"		"162922864"
+					"download"		"134982240"
+				}
+				"beta"
+				{
+					"gid"		"435017193634864175"
+					"size"		"162922864"
+					"download"		"134982240"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4755548"
+				"timeupdated"		"1584999211"
+			}
+			"beta"
+			{
+				"buildid"		"4755548"
+				"timeupdated"		"1583678269"
+			}
+		}
+	}
+}
