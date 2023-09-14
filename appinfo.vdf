@@ -1,0 +1,295 @@
+"appinfo"
+{
+	"appid"		"686680"
+	"common"
+	{
+		"name"		"Computer Tycoon"
+		"type"		"Game"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"logo"		"ed3ab1cdb4c40995c012cb95542eac8954baeddb"
+		"logo_small"		"ed3ab1cdb4c40995c012cb95542eac8954baeddb_thumb"
+		"icon"		"dbc4b8d9902647f425eb9d252d06f7de7d7f8a11"
+		"clienttga"		"4fa81b3a55789a802dc963db313595bbdc343f4f"
+		"clienticon"		"2901b72ec8a8114099754b3e14ac541b37d3b71f"
+		"releasestate"		"released"
+		"osextended"		"macos64"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1666656000"
+			"tested_build_id"		"8920412"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-4"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Computer Tycoon"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"33.49999970949614"
+			}
+		}
+		"store_asset_mtime"		"1644687040"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Progorion"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Progorion"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"28"
+			"2"		"2"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1507822096"
+		"community_hub_visible"		"1"
+		"gameid"		"686680"
+		"store_tags"
+		{
+			"0"		"599"
+			"1"		"12472"
+			"2"		"4695"
+			"3"		"9"
+			"4"		"7107"
+			"5"		"9204"
+			"6"		"3987"
+			"7"		"3810"
+			"8"		"8945"
+			"9"		"5851"
+			"10"		"4182"
+			"11"		"3871"
+			"12"		"6310"
+			"13"		"4364"
+			"14"		"4711"
+			"15"		"4026"
+			"16"		"493"
+			"17"		"16689"
+			"18"		"492"
+			"19"		"4195"
+		}
+		"review_score"		"8"
+		"review_percentage"		"84"
+	}
+	"extended"
+	{
+		"developer"		"Progorion"
+		"publisher"		"Progorion"
+		"homepage"		"http://www.computertycoon.com"
+	}
+	"config"
+	{
+		"installdir"		"Computer Tycoon"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Computer Tycoon.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+			}
+			"1"
+			{
+				"executable"		"ComputerTycoonOSX.app"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Computer Tycoon.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"686682"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2796944523524549379"
+					"size"		"2892611778"
+					"download"		"303185488"
+				}
+				"0.9.7.12h01"
+				{
+					"gid"		"197970520825264082"
+					"size"		"2891846658"
+					"download"		"303132880"
+				}
+				"archived_version_0.9.7.11h03"
+				{
+					"gid"		"4679104548349987457"
+					"size"		"2884744574"
+					"download"		"301244912"
+				}
+				"opentestbranch"
+				{
+					"gid"		"2796944523524549379"
+					"size"		"2892611778"
+					"download"		"303185488"
+				}
+			}
+		}
+		"686683"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7445515710127722126"
+					"size"		"2909920231"
+					"download"		"307402336"
+				}
+				"0.9.7.12h01"
+				{
+					"gid"		"6367428366828392858"
+					"size"		"2907222847"
+					"download"		"306654784"
+				}
+				"archived_version_0.9.7.11h03"
+				{
+					"gid"		"2604037101019707449"
+					"size"		"2901958699"
+					"download"		"305129264"
+				}
+				"opentestbranch"
+				{
+					"gid"		"7445515710127722126"
+					"size"		"2909920231"
+					"download"		"307402336"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9995167"
+				"timeupdated"		"1669153557"
+			}
+			"0.9.7.12h01"
+			{
+				"buildid"		"8743506"
+				"description"		"Test Version for Dallas"
+				"timeupdated"		"1652639016"
+			}
+			"archived_version_0.9.7.11h03"
+			{
+				"buildid"		"8293439"
+				"description"		"0.9.7.11h03"
+				"timeupdated"		"1652437776"
+			}
+			"opentestbranch"
+			{
+				"buildid"		"9995167"
+				"description"		"The Community Tests here the next version - bugs are expected! - ONLY FOR WINDOWS"
+				"timeupdated"		"1669153572"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+	}
+}
