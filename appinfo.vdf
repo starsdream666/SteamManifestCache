@@ -1,0 +1,1213 @@
+"appinfo"
+{
+	"appid"		"1496790"
+	"common"
+	{
+		"name"		"Gotham Knights"
+		"type"		"Game"
+		"releasestate"		"released"
+		"icon"		"1c133f57d64f54f24e4ef314b1ee08b8f5715df7"
+		"clienticon"		"7bc6b1bbafce8081fd41558f706978ad317714dd"
+		"clienttga"		"38dc97af58d299fc2bbfc1b71f24e30dbf37ebf9"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"japanese"		"1"
+			"polish"		"1"
+			"arabic"		"1"
+			"brazilian"		"1"
+			"latam"		"1"
+		}
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1496790_eula_0"
+				"name"		"Gotham Knights EULA"
+				"url"		"https://store.steampowered.com//eula/1496790_eula_0"
+				"version"		"1"
+			}
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1674691200"
+			"tested_build_id"		"10121420"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"1"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-6"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"59.51359884237183"
+				"height_pct"		"66.31900176319"
+			}
+		}
+		"store_asset_mtime"		"1669857264"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Warner Bros. Games Montréal"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"QLOC"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Warner Bros. Games"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_28"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"arabic"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1666371636"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1496790"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"1695"
+			"2"		"1671"
+			"3"		"3843"
+			"4"		"4182"
+			"5"		"4231"
+			"6"		"1687"
+			"7"		"21"
+			"8"		"122"
+			"9"		"1697"
+			"10"		"3859"
+			"11"		"1742"
+			"12"		"1685"
+			"13"		"4106"
+			"14"		"4342"
+			"15"		"1751"
+			"16"		"6378"
+			"17"		"4747"
+			"18"		"3993"
+			"19"		"4166"
+		}
+		"review_score"		"5"
+		"review_percentage"		"68"
+	}
+	"extended"
+	{
+		"additional_dependencies"
+		{
+			"0"
+			{
+				"src_os"		"windows"
+				"dest_os"		"linux"
+				"h264"		"1"
+			}
+		}
+		"developer"		"Warner Bros. Games Montréal"
+		"publisher"		"Warner Bros. Games"
+		"listofdlc"		"2074430,2074431,2074432,2142690,2142691,2142692,2142693,2142694,2142695,2142696,2399950"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Gotham Knights"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"GothamKnights.exe"
+				"type"		"default"
+			}
+		}
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,polish,arabic,brazilian,latam"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1496791"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5497802405135853548"
+					"size"		"47922683879"
+					"download"		"47571469904"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"compat1"
+				{
+					"gid"		"E6B1B64FFDD90574462ADE69937A756B"
+					"size"		"308A5FD8910E29251F7AF9FC1AAAA261"
+					"download"		"F9810E75D40D8F0CF8113374DA2B1081"
+				}
+				"compat2"
+				{
+					"gid"		"01F6BF6582B1A2712CB335EB08F55923"
+					"size"		"481D35974D3E401662F70F105D5943C9"
+					"download"		"93AA292D6A5ADCB6F9C85309EC6A379D"
+				}
+				"develop"
+				{
+					"gid"		"6B69326E50BD77A25C6D3C35188A620A"
+					"size"		"20929C477C421A2B172507ABE7D4DD7B"
+					"download"		"E601CE72ACE79DEA777C17F62C80CF73"
+				}
+				"develop-milestonestream"
+				{
+					"gid"		"8A17CAB28C147F2231E7A9E6E533E99E"
+					"size"		"B25E45CC3DC6445AD1ED8E0E24629A75"
+					"download"		"0C43DB61FF6B3B21A02B4902293F20AB"
+				}
+				"developmenttest1"
+				{
+					"gid"		"F0D9016045C748EF7A82A839E0F9331E"
+					"size"		"6D181ED078E066655E54785CA1E785C7"
+					"download"		"A2B2A6E19C5367601AB8FFBBF5AF76BB"
+				}
+				"developmenttest2"
+				{
+					"gid"		"AB2DA9254E23B68CF5BC59143AED962A"
+					"size"		"0ED21CBB99F5E4FC41B1EDEA34E8766B"
+					"download"		"17E7F6C3D691720B82B09A695D3C99E5"
+				}
+				"developmenttest3"
+				{
+					"gid"		"2069D96667DC7B83911C2A0BAC2EC08C"
+					"size"		"C8F5942BB8D858DC6A8EBBBC624E3FDB"
+					"download"		"765E0D4E994D05803857416D1D64C710"
+				}
+				"developmenttest4"
+				{
+					"gid"		"466A780EB68A7D22774D8D6FE8D77B25"
+					"size"		"308C70220B388F19171F5C4CB9D3F167"
+					"download"		"635ABC507B1E47422C4A25DA7FE8BAAD"
+				}
+				"developmenttest5"
+				{
+					"gid"		"BB634EE3C86BEF1F10B7CD3D4CED3720"
+					"size"		"CE0F293FE0B48227E8184BC30EBF11DD"
+					"download"		"B8C16E6D4336DF0ADB84F1688D3BBC29"
+				}
+				"external"
+				{
+					"gid"		"48AB7BE505F4B6353F28D72B1E579272"
+					"size"		"C8974B0D421D795CC4653EEEB890568B"
+					"download"		"48597D35A4F6E050B422B804E5BB7897"
+				}
+				"external4"
+				{
+					"gid"		"250452C2B0196D568C6F590D4ABD276A"
+					"size"		"C830D99CEBC1ABDC120A7C06DCC2F40F"
+					"download"		"FDCC2EFC833C22F0BB88597E031DD3FB"
+				}
+				"external5"
+				{
+					"gid"		"41A2F12CE763488DE6FE6F157B4F486C"
+					"size"		"2689B48DF205498FD734F3BBCF8E749D"
+					"download"		"9033751111DF8C06C8B339CEA6C6EDD3"
+				}
+				"external6"
+				{
+					"gid"		"C1BCD77BAC378E53F06A97BFA334BA2E"
+					"size"		"72F46A139A7A32099594D1C940D907B2"
+					"download"		"E6F9929A685810AC7CBC1AAD88CD05EA"
+				}
+				"gold-candidate"
+				{
+					"gid"		"E668598949AE1B39CDB54FE1F6096987"
+					"size"		"3E3B0B93D02492CF7133899F1D572F12"
+					"download"		"252EAF1875A1BD1095D1B650315FBFD8"
+				}
+				"qa_1"
+				{
+					"gid"		"863770E2D0EB4F312A43325CCF60BA5B"
+					"size"		"9EF151A85974BC556CB5651BEF16D90D"
+					"download"		"87EFBF74E1F26546BF2745C6980B792C"
+				}
+				"qa_2"
+				{
+					"gid"		"91F4311C6CD86E3D91F85E4511DB0BFF"
+					"size"		"85E908DCA780B2EE814A5777C944B456"
+					"download"		"2FE1611ED06F7B54159CF36C2455395A"
+				}
+				"qa_3"
+				{
+					"gid"		"6D66B0607E69EA23175C174C0BCA4335"
+					"size"		"1E8261577C1EF5FEA67B48E7809C6211"
+					"download"		"8F923227888694E0A5774A4D4F7E9C13"
+				}
+				"qa_4"
+				{
+					"gid"		"1C24BA4554A0ECF7E777433C92E9C035"
+					"size"		"01A78A8BBC6376F565A1FE72B0B74B43"
+					"download"		"729DC582B211AE7E0E3BEDF6C567D18C"
+				}
+				"shipping"
+				{
+					"gid"		"1FD009FEF57F92D663FF4339B8FBBE15"
+					"size"		"D9505F1835F239CDE1B28CBB8DE31A15"
+					"download"		"C3D2956A501EC54FC77784C792DC56D6"
+				}
+				"shipping-certenv"
+				{
+					"gid"		"1C6769990AB4208B2AFF6A444A37F5E9"
+					"size"		"27D1ABA6C0240DE86ECDBFFEFEDB1D06"
+					"download"		"0BE041A16512296980FF7FC5063F25A4"
+				}
+				"shipping-devenv"
+				{
+					"gid"		"49DDB1CCA4926EBFD1499E081911FB11"
+					"size"		"D863947F1AA7569B7C6A77120E4E3EE1"
+					"download"		"AF854725D66C4FD7A963227DFB92FDE2"
+				}
+				"shipping-milestonestream"
+				{
+					"gid"		"C399E7E28F51E23D35B33C6FC13E9EF1"
+					"size"		"397197FBE625229A00EADC37AD6CFBDB"
+					"download"		"FF816F8F5FCC5D9FD50F80479A8D5C74"
+				}
+				"test"
+				{
+					"gid"		"5E4305BA1B93A4CAD1633875658C9D87"
+					"size"		"2C9C3C66F8338779140C2E45B79EF4F9"
+					"download"		"D9ED3CFDAD0F016B300E9C679BE7CE36"
+				}
+				"test-milestonestream"
+				{
+					"gid"		"42BC14095EA48D747344679559D7D985"
+					"size"		"09F0C0E636232E3953DE9ED9AF958DC1"
+					"download"		"C338E6D2F93F51E7D1B1772294ECE564"
+				}
+			}
+		}
+		"1496792"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9189778189356770028"
+					"size"		"474267244"
+					"download"		"246744208"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"compat1"
+				{
+					"gid"		"799507D807ADF4884263DE7A7A44D64A"
+					"size"		"CE44CD8D22738C4680C58D6807FA4B57"
+					"download"		"A176EE01B8BAC7C2313EBFDD32B2619E"
+				}
+				"compat2"
+				{
+					"gid"		"1D245ACE2729524389B897F41B8821DE"
+					"size"		"F0D76F610B4FC2A40219C5F051D2C51A"
+					"download"		"DA1EF69518004A3F36DBFEE3EA3C47AC"
+				}
+				"develop"
+				{
+					"gid"		"D13D749FCF203BDD38AA62AD2FD464A9"
+					"size"		"1CD3D152CE4F250801801E35B9B6C5A0"
+					"download"		"846A91CB6FBD502C3E4B7975B007477C"
+				}
+				"develop-milestonestream"
+				{
+					"gid"		"5D490A593D67A57CE342827003282627"
+					"size"		"DC07DEB35BA1876B4900E7BD4771EF13"
+					"download"		"CEED9AE791B0548B8631E7DE0C983174"
+				}
+				"developmenttest1"
+				{
+					"gid"		"8307C6534FCE4994B1DDF017F761FD98"
+					"size"		"C00900622D398789F5CD6A91BE9E1064"
+					"download"		"6B9EF9C51986C40D54B0FF1EBEB084A1"
+				}
+				"developmenttest2"
+				{
+					"gid"		"DFAD6C99E5DEDD2C9656F5B2CE994AD9"
+					"size"		"CBBB43CF6B662A55FA95AC437DEDE5E2"
+					"download"		"7087F948488084CF438AFD2C3E1D03A2"
+				}
+				"developmenttest3"
+				{
+					"gid"		"82AEB3CE2E763C6092DAE5E337CF9803"
+					"size"		"0C08CB60DE531ECCA8B13043DAEE2059"
+					"download"		"21D02832A51B1BBFAA2C397B55EBB3CD"
+				}
+				"developmenttest4"
+				{
+					"gid"		"D7CE71308FE9B3C8B853FB56032C504B"
+					"size"		"91A169BF41676C12546BF0C8912945EB"
+					"download"		"351CDBB84AB98803FD70A7FC404954D9"
+				}
+				"developmenttest5"
+				{
+					"gid"		"0806121F9FD7C8CE214811B9BB920AA3"
+					"size"		"853A79650DD03A09FE74991EA6970449"
+					"download"		"4801B50ADED0467B753D8C580A065B85"
+				}
+				"external"
+				{
+					"gid"		"057DD6E7A76E97666EC9B98B5269E4A9"
+					"size"		"7F3AA135582BC803C248CC4297A4E977"
+					"download"		"8C9D22746CB3501F449509819BDA72F7"
+				}
+				"external4"
+				{
+					"gid"		"5BFA6C385E41468C90ABE1179D0479F2"
+					"size"		"D062E8E67095B332C094F6F29FEB96C5"
+					"download"		"240DED80930B164E74DF852F3A915E81"
+				}
+				"external5"
+				{
+					"gid"		"8224AEA758DDCFBE7E652DF27BFAC86A"
+					"size"		"4E18F3FF56CE022166F28F64BAACB6D1"
+					"download"		"13549FEF11A52011A9B9F8E3749523B6"
+				}
+				"external6"
+				{
+					"gid"		"E8343F9D78D20ADABE24FD79CCAE20B4"
+					"size"		"CE63A521296243D6CBDDD2B51DBD5B64"
+					"download"		"4CEEDF2341DD613E8A9F4F9F716A894B"
+				}
+				"gold-candidate"
+				{
+					"gid"		"7117CA42A88172FC5099C1358B1B8CD5"
+					"size"		"3B5EBA9512F7227C861D1D9B0816E1CE"
+					"download"		"FB18FEA2DF55EC7020CA5DA1FFA3A2D4"
+				}
+				"qa_1"
+				{
+					"gid"		"0343DE87EA831EA0F5B0AE5CF97B97FA"
+					"size"		"F29CFBCF1BAE7D0D15A0238571D20F87"
+					"download"		"F66F112BC0B71CEC49F8EC5724196926"
+				}
+				"qa_2"
+				{
+					"gid"		"A50B5E885F406886C9EA61D909037474"
+					"size"		"D7750835564DECEA30D664FDD7B10921"
+					"download"		"CE311575D9E8E1A6153DFBFFA910A7A7"
+				}
+				"qa_3"
+				{
+					"gid"		"886726DBC782BE5E910949868183A2DE"
+					"size"		"9EB382AFD3DE7714563D71CE1135ED0C"
+					"download"		"38C524970324538BFE019424F7BA9708"
+				}
+				"qa_4"
+				{
+					"gid"		"27396A558768F2816C1E8C46582CDE3A"
+					"size"		"886093C36AB7774F25F2E8CEF0C90EAB"
+					"download"		"0B6608E1E709F007413B9899E8AA3365"
+				}
+				"shipping"
+				{
+					"gid"		"5849A5EBCEE22AE1E7826D719190B630"
+					"size"		"4CD7E9F7EC1EC6A482117BEEC7DC0605"
+					"download"		"AE7B245492A0CEF53B0511FD6BB03949"
+				}
+				"shipping-certenv"
+				{
+					"gid"		"8D0ED8EC3C78C99F1E62CF6D4F57C966"
+					"size"		"C9BA8067EC28324EF9F47E2165C32DE5"
+					"download"		"C86AC2296DEA7BBD69AAFDF3393EAF46"
+				}
+				"shipping-devenv"
+				{
+					"gid"		"5927661678E5F056A29532FA5C8CE208"
+					"size"		"35A0E1B251E3AB277E71F10EB0343384"
+					"download"		"584A1A1F9A5C37DCE505C8876DE865E5"
+				}
+				"shipping-milestonestream"
+				{
+					"gid"		"821AE9678FEB4ED3B81E1AA8D232D39F"
+					"size"		"929E93EADEE5B6F3367D5B537C71611A"
+					"download"		"493746BA319D80D0E09AF81A24FE3668"
+				}
+				"test"
+				{
+					"gid"		"51E20F324E5BDD2A7CFB6B6EA9B84D26"
+					"size"		"2687823064076809FB5B40F7942A7659"
+					"download"		"FC373D7794D74B9562397CDEECD49A54"
+				}
+				"test-milestonestream"
+				{
+					"gid"		"26AE0C904516283EFA9816B8154815E0"
+					"size"		"DFB1A96F374C9225417CF51996507C59"
+					"download"		"B27FC346C8FF805FF6E5ADDA24283F1F"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11079502"
+				"timeupdated"		"1682611940"
+			}
+			"compat1"
+			{
+				"buildid"		"11082143"
+				"pwdrequired"		"1"
+				"timeupdated"		"1682403838"
+			}
+			"compat2"
+			{
+				"buildid"		"11079502"
+				"pwdrequired"		"1"
+				"timeupdated"		"1682369703"
+			}
+			"develop"
+			{
+				"buildid"		"12173956"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694568244"
+			}
+			"develop-milestonestream"
+			{
+				"buildid"		"12029831"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692947303"
+			}
+			"developmenttest1"
+			{
+				"buildid"		"12098405"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693724563"
+			}
+			"developmenttest2"
+			{
+				"buildid"		"11903084"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691591526"
+			}
+			"developmenttest3"
+			{
+				"buildid"		"10823161"
+				"pwdrequired"		"1"
+				"timeupdated"		"1679431073"
+			}
+			"developmenttest4"
+			{
+				"buildid"		"12138120"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694142512"
+			}
+			"developmenttest5"
+			{
+				"buildid"		"12131646"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694085420"
+			}
+			"external"
+			{
+				"buildid"		"12166562"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694504947"
+			}
+			"external4"
+			{
+				"buildid"		"9745526"
+				"pwdrequired"		"1"
+				"timeupdated"		"1666111128"
+			}
+			"external5"
+			{
+				"buildid"		"11078874"
+				"pwdrequired"		"1"
+				"timeupdated"		"1682358384"
+			}
+			"external6"
+			{
+				"buildid"		"10135879"
+				"pwdrequired"		"1"
+				"timeupdated"		"1670937820"
+			}
+			"gold-candidate"
+			{
+				"buildid"		"12031994"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692963605"
+			}
+			"qa_1"
+			{
+				"buildid"		"12151702"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694449889"
+			}
+			"qa_2"
+			{
+				"buildid"		"12151686"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694449909"
+			}
+			"qa_3"
+			{
+				"buildid"		"12151671"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694449923"
+			}
+			"qa_4"
+			{
+				"buildid"		"11992932"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692695498"
+			}
+			"shipping"
+			{
+				"buildid"		"12173918"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694567730"
+			}
+			"shipping-certenv"
+			{
+				"buildid"		"12031994"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692973745"
+			}
+			"shipping-devenv"
+			{
+				"buildid"		"12029791"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692973730"
+			}
+			"shipping-milestonestream"
+			{
+				"buildid"		"12029791"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692946833"
+			}
+			"test"
+			{
+				"buildid"		"12173940"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694567993"
+			}
+			"test-milestonestream"
+			{
+				"buildid"		"12029809"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692947071"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10485760"
+		"maxnumfiles"		"500"
+		"savefiles"
+		{
+			"1"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"WB Games/Gotham Knights/Steam/Saved/SaveGames/{64BitSteamID}"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+		"sync_while_suspended"		"1"
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#main_menu"		"In the main menu"
+					"#heroic_assault_lobby"		"Preparing for Heroic Assault"
+					"#heroic_assault"		"In Heroic Assault"
+					"#showdown"		"In a Showdown"
+					"#belfry"		"In the Belfry"
+					"#open_world_crime"		"Fighting crime in Gotham City"
+					"#gotham_city"		"Watching over Gotham City"
+					"#dng_arkham_asylum"		"In Arkham Asylum"
+					"#dng_cf_reservoir"		"At the Reservoir"
+					"#dng_cf_sewers"		"In the Sewers"
+					"#dng_fr_blackgate"		"Stopping a prison break"
+					"#dng_fr_elliot_center"		"At the Elliot Center"
+					"#dng_fr_quartz_labs"		"At Quartz Labs"
+					"#dng_gcpd"		"Infiltrating GCPD"
+					"#dng_hq_blackgate"		"At Blackgate Penitentiary"
+					"#dng_hq_hospital"		"At Harley's Party"
+					"#dng_hq_monarch_theater"		"At the Monarch Theater"
+					"#dng_iceberg_lounge"		"At the Iceberg Lounge"
+					"#dng_kane_bunker"		"Infiltrating the bunker"
+					"#dng_labyrinth"		"Status Unknown"
+					"#dng_lazarus_pit"		"Caves under Gotham City"
+					"#dng_mines"		"In the Mines"
+					"#dng_orchard_hotel"		"At the Orchard Hotel"
+					"#dng_powers_club"		"In the Powers Club"
+					"#dng_star_labs"		"At S.T.A.R. Labs"
+					"#dng_university"		"At the University"
+				}
+			}
+			"french"
+			{
+				"tokens"
+				{
+					"#belfry"		"Au Beffroi"
+					"#dng_arkham_asylum"		"À l'Asile d'Arkham"
+					"#dng_cf_reservoir"		"Au Réservoir"
+					"#dng_cf_sewers"		"Dans les égouts"
+					"#dng_fr_blackgate"		"Arrêt d'une évasion"
+					"#dng_fr_elliot_center"		"Au Centre Elliot"
+					"#dng_fr_quartz_labs"		"Aux Labos Quartz"
+					"#dng_gcpd"		"Infiltration du G.C.P.D."
+					"#dng_hq_blackgate"		"Au pénitencier de Blackgate"
+					"#dng_hq_hospital"		"À la fête d'Harley"
+					"#dng_hq_monarch_theater"		"Au théâtre le Monarch"
+					"#dng_iceberg_lounge"		"Au Salon de l'Iceberg"
+					"#dng_kane_bunker"		"Infiltration du Bunker"
+					"#dng_labyrinth"		"Statut inconnu"
+					"#dng_lazarus_pit"		"Grottes sous Gotham City"
+					"#dng_mines"		"Dans les mines"
+					"#dng_orchard_hotel"		"À l'Orchard Hotel"
+					"#dng_powers_club"		"Au Powers Club"
+					"#dng_star_labs"		"Chez S.T.A.R. Labs"
+					"#dng_university"		"À l'Université"
+					"#gotham_city"		"Surveillance de Gotham City"
+					"#heroic_assault"		"En Assaut héroïque"
+					"#heroic_assault_lobby"		"Préparation à un assaut héroïque"
+					"#main_menu"		"Dans le menu principal"
+					"#open_world_crime"		"Combat contre le crime à Gotham City"
+					"#showdown"		"En confrontation"
+				}
+			}
+			"german"
+			{
+				"tokens"
+				{
+					"#belfry"		"Im Glockenturm"
+					"#dng_arkham_asylum"		"Im Arkham Asylum"
+					"#dng_cf_reservoir"		"Am Staubecken"
+					"#dng_cf_sewers"		"In der Kanalisation"
+					"#dng_fr_blackgate"		"Stoppt einen Gefängnisausbruch"
+					"#dng_fr_elliot_center"		"Im Elliot Center"
+					"#dng_fr_quartz_labs"		"Bei Quartz Labs"
+					"#dng_gcpd"		"Dringt ins GCPD ein"
+					"#dng_hq_blackgate"		"In der Strafanstalt Blackgate"
+					"#dng_hq_hospital"		"Auf Harleys Party"
+					"#dng_hq_monarch_theater"		"Im Monarch Theater"
+					"#dng_iceberg_lounge"		"In der Iceberg Lounge"
+					"#dng_kane_bunker"		"Dringt in den Bunker ein"
+					"#dng_labyrinth"		"Status unbekannt"
+					"#dng_lazarus_pit"		"In den Höhlen unter Gotham City"
+					"#dng_mines"		"In den Minen"
+					"#dng_orchard_hotel"		"Im Orchard Hotel"
+					"#dng_powers_club"		"Im Powers Club"
+					"#dng_star_labs"		"Bei S.T.A.R. Labs"
+					"#dng_university"		"In der Universität"
+					"#gotham_city"		"Wacht über Gotham City"
+					"#heroic_assault"		"Im Heroischen Angriff"
+					"#heroic_assault_lobby"		"Bereitet sich auf „Heroischer Angriff“ vor"
+					"#main_menu"		"Im Hauptmenü"
+					"#open_world_crime"		"Bekämpft Verbrechen in Gotham City"
+					"#showdown"		"In einem Showdown"
+				}
+			}
+			"italian"
+			{
+				"tokens"
+				{
+					"#belfry"		"Nel Campanile"
+					"#dng_arkham_asylum"		"Nel manicomio di Arkham"
+					"#dng_cf_reservoir"		"Nell'acquedotto"
+					"#dng_cf_sewers"		"Nelle fogne"
+					"#dng_fr_blackgate"		"Sta fermando un'evasione"
+					"#dng_fr_elliot_center"		"Nell'Elliot Center"
+					"#dng_fr_quartz_labs"		"Nei Quartz Labs"
+					"#dng_gcpd"		"Si sta infiltrando nella Polizia di Gotham"
+					"#dng_hq_blackgate"		"Nel penitenziario di Blackgate"
+					"#dng_hq_hospital"		"Alla festa di Harley"
+					"#dng_hq_monarch_theater"		"Nel teatro Monarch"
+					"#dng_iceberg_lounge"		"Nell'Iceberg Lounge"
+					"#dng_kane_bunker"		"Si sta infiltrando nel bunker di Kane"
+					"#dng_labyrinth"		"Status sconosciuto"
+					"#dng_lazarus_pit"		"Nelle caverne sotto Gotham City"
+					"#dng_mines"		"Nelle miniere"
+					"#dng_orchard_hotel"		"Nell'Orchard Hotel"
+					"#dng_powers_club"		"Nel Powers Club"
+					"#dng_star_labs"		"Nei Laboratori S.T.A.R."
+					"#dng_university"		"Nell'Università"
+					"#gotham_city"		"Sorveglia Gotham City"
+					"#heroic_assault"		"In un Attacco eroico"
+					"#heroic_assault_lobby"		"Si prepara per Attacco eroico"
+					"#main_menu"		"Nel menu principale"
+					"#open_world_crime"		"Combatte il crimine a Gotham City"
+					"#showdown"		"In uno Scontro"
+				}
+			}
+			"spanish"
+			{
+				"tokens"
+				{
+					"#belfry"		"En el Campanario"
+					"#dng_arkham_asylum"		"En el Psiquiátrico de Arkham"
+					"#dng_cf_reservoir"		"En el embalse"
+					"#dng_cf_sewers"		"En las cloacas"
+					"#dng_fr_blackgate"		"Deteniendo una fuga de presos"
+					"#dng_fr_elliot_center"		"En el Centro Elliot"
+					"#dng_fr_quartz_labs"		"En Laboratorios Quartz"
+					"#dng_gcpd"		"Infiltrándose en el DPGC"
+					"#dng_hq_blackgate"		"En la Penitenciaría de Blackgate"
+					"#dng_hq_hospital"		"En la fiesta de Harley"
+					"#dng_hq_monarch_theater"		"En el Teatro Monarch"
+					"#dng_iceberg_lounge"		"En la Sala Iceberg"
+					"#dng_kane_bunker"		"Infiltrándose en el búnker de Kane"
+					"#dng_labyrinth"		"Estado desconocido"
+					"#dng_lazarus_pit"		"Cuevas debajo de Gotham City"
+					"#dng_mines"		"En las minas"
+					"#dng_orchard_hotel"		"En el Hotel Orchard"
+					"#dng_powers_club"		"En el Club Powers"
+					"#dng_star_labs"		"En Laboratorios S.T.A.R."
+					"#dng_university"		"En la universidad"
+					"#gotham_city"		"Vigilando Gotham City"
+					"#heroic_assault"		"En un asalto heroico"
+					"#heroic_assault_lobby"		"Preparándose para un asalto heroico"
+					"#main_menu"		"En el menú principal"
+					"#open_world_crime"		"Luchando contra el crimen en Gotham City"
+					"#showdown"		"En un enfrentamiento"
+				}
+			}
+			"latam"
+			{
+				"tokens"
+				{
+					"#belfry"		"En el Campanario"
+					"#dng_arkham_asylum"		"En el Psiquiátrico de Arkham"
+					"#dng_cf_reservoir"		"En el embalse"
+					"#dng_cf_sewers"		"En las alcantarillas"
+					"#dng_fr_blackgate"		"Impidiendo una fuga de la prisión"
+					"#dng_fr_elliot_center"		"En el Centro Elliot"
+					"#dng_fr_quartz_labs"		"En Laboratorios Quartz"
+					"#dng_gcpd"		"Infiltrándose en el DPCG"
+					"#dng_hq_blackgate"		"En la Penitenciaría de Blackgate"
+					"#dng_hq_hospital"		"En la fiesta de Harley"
+					"#dng_hq_monarch_theater"		"En el Teatro Monarch"
+					"#dng_iceberg_lounge"		"En el Salón Iceberg"
+					"#dng_kane_bunker"		"Infiltrándose en el búnker"
+					"#dng_labyrinth"		"Estado desconocido"
+					"#dng_lazarus_pit"		"Cavernas debajo de Ciudad Gótica"
+					"#dng_mines"		"En las minas"
+					"#dng_orchard_hotel"		"En el Hotel Orchard"
+					"#dng_powers_club"		"En el Club Powers"
+					"#dng_star_labs"		"En Laboratorios S.T.A.R."
+					"#dng_university"		"En la universidad"
+					"#gotham_city"		"Vigilando Ciudad Gótica"
+					"#heroic_assault"		"En Ataque heroico"
+					"#heroic_assault_lobby"		"Preparándose para Ataque heroico"
+					"#main_menu"		"En el menú principal"
+					"#open_world_crime"		"Luchando contra el crimen en Ciudad Gótica"
+					"#showdown"		"En una confrontación"
+				}
+			}
+			"brazilian"
+			{
+				"tokens"
+				{
+					"#belfry"		"No Campanário"
+					"#dng_arkham_asylum"		"No Asilo Arkham"
+					"#dng_cf_reservoir"		"No Reservatório"
+					"#dng_cf_sewers"		"No Esgoto"
+					"#dng_fr_blackgate"		"Parando uma fuga da prisão"
+					"#dng_fr_elliot_center"		"No Centro Elliot"
+					"#dng_fr_quartz_labs"		"Nos Laboratório Quartz"
+					"#dng_gcpd"		"Infiltrando o DPGC"
+					"#dng_hq_blackgate"		"Na Penitenciária Blackgate"
+					"#dng_hq_hospital"		"Na festa da Arlequina"
+					"#dng_hq_monarch_theater"		"No Teatro Monarch"
+					"#dng_iceberg_lounge"		"No Clube Iceberg"
+					"#dng_kane_bunker"		"Infiltrando o bunker"
+					"#dng_labyrinth"		"Status desconhecido"
+					"#dng_lazarus_pit"		"Cavernas sob Gotham City"
+					"#dng_mines"		"Nas Minas"
+					"#dng_orchard_hotel"		"No Hotel Orchard"
+					"#dng_powers_club"		"No Powers Club"
+					"#dng_star_labs"		"Nos Laboratórios S.T.A.R."
+					"#dng_university"		"Na Universidade"
+					"#gotham_city"		"Vigiando Gotham City"
+					"#heroic_assault"		"Em uma Incursão Heroica"
+					"#heroic_assault_lobby"		"Se preparando para uma Incursão Heroica"
+					"#main_menu"		"No Menu Principal"
+					"#open_world_crime"		"Enfrentando o crime em Gotham City"
+					"#showdown"		"Em um Confronto"
+				}
+			}
+			"polish"
+			{
+				"tokens"
+				{
+					"#belfry"		"Odpoczywa w Belfry"
+					"#dng_arkham_asylum"		"W Azylu Arkham"
+					"#dng_cf_reservoir"		"W Zbiorniku"
+					"#dng_cf_sewers"		"W kanałach"
+					"#dng_fr_blackgate"		"Powstrzymuje ucieczkę z więzienia"
+					"#dng_fr_elliot_center"		"W Elliot Center"
+					"#dng_fr_quartz_labs"		"W Quartz Labs"
+					"#dng_gcpd"		"Rozpracowuje GCPD"
+					"#dng_hq_blackgate"		"W więzieniu Blackgate"
+					"#dng_hq_hospital"		"Na przyjęciu Harley"
+					"#dng_hq_monarch_theater"		"W Monarch Theater"
+					"#dng_iceberg_lounge"		"W Iceberg Lounge"
+					"#dng_kane_bunker"		"Rozpracowuje bunkier Kane'a"
+					"#dng_labyrinth"		"Nieznany status"
+					"#dng_lazarus_pit"		"W jaskiniach pod Gotham"
+					"#dng_mines"		"W kopalniach"
+					"#dng_orchard_hotel"		"W Hotelu Orchard"
+					"#dng_powers_club"		"W Klubie Powers"
+					"#dng_star_labs"		"W Laboratoriach S.T.A.R."
+					"#dng_university"		"Na Uniwersytecie"
+					"#gotham_city"		"Strzeże Gotham"
+					"#heroic_assault"		"Bierze udział w heroicznym szturmie"
+					"#heroic_assault_lobby"		"Przygotowuje się do heroicznego szturmu"
+					"#main_menu"		"W menu głównym"
+					"#open_world_crime"		"Walczy z przestępczością w Gotham"
+					"#showdown"		"Bierze udział w starciu"
+				}
+			}
+			"schinese"
+			{
+				"tokens"
+				{
+					"#belfry"		"位于钟楼"
+					"#dng_arkham_asylum"		"位于阿卡姆疯人院"
+					"#dng_cf_reservoir"		"位于水库"
+					"#dng_cf_sewers"		"位于下水道"
+					"#dng_fr_blackgate"		"正在阻止越狱"
+					"#dng_fr_elliot_center"		"位于埃利奥特中心"
+					"#dng_fr_quartz_labs"		"位于石英实验室"
+					"#dng_gcpd"		"正在渗透哥谭警局"
+					"#dng_hq_blackgate"		"位于黑门监狱"
+					"#dng_hq_hospital"		"位于哈莉的派对"
+					"#dng_hq_monarch_theater"		"位于帝王剧场"
+					"#dng_iceberg_lounge"		"位于冰山酒吧"
+					"#dng_kane_bunker"		"正在渗透凯恩地堡"
+					"#dng_labyrinth"		"状态未知"
+					"#dng_lazarus_pit"		"在哥谭市的地下穿梭"
+					"#dng_mines"		"位于矿井"
+					"#dng_orchard_hotel"		"位于乌节酒店"
+					"#dng_powers_club"		"位于鲍尔斯俱乐部"
+					"#dng_star_labs"		"位于S.T.A.R实验室"
+					"#dng_university"		"位于大学"
+					"#gotham_city"		"正在守卫哥谭市"
+					"#heroic_assault"		"正在进行“英雄突击”"
+					"#heroic_assault_lobby"		"正在为“英雄突击”做准备"
+					"#main_menu"		"位于主菜单"
+					"#open_world_crime"		"正在哥谭市打击犯罪"
+					"#showdown"		"正在对决"
+				}
+			}
+			"tchinese"
+			{
+				"tokens"
+				{
+					"#belfry"		"位於鐘樓"
+					"#dng_arkham_asylum"		"位於阿卡漢瘋人院"
+					"#dng_cf_reservoir"		"位於水庫"
+					"#dng_cf_sewers"		"位於下水道"
+					"#dng_fr_blackgate"		"正在阻止越獄"
+					"#dng_fr_elliot_center"		"位於艾略特中心"
+					"#dng_fr_quartz_labs"		"位於石英實驗室"
+					"#dng_gcpd"		"正在滲透高譚市警局"
+					"#dng_hq_blackgate"		"位於黑門監獄"
+					"#dng_hq_hospital"		"位於哈莉的派對"
+					"#dng_hq_monarch_theater"		"位於帝王劇場"
+					"#dng_iceberg_lounge"		"位於冰山俱樂部"
+					"#dng_kane_bunker"		"正在滲透凱恩碉堡"
+					"#dng_labyrinth"		"狀態未知"
+					"#dng_lazarus_pit"		"在高譚市的地下穿梭"
+					"#dng_mines"		"位於礦坑"
+					"#dng_orchard_hotel"		"位於歐查德飯店"
+					"#dng_powers_club"		"位於鮑爾斯俱樂部"
+					"#dng_star_labs"		"位於S·T·A·R·實驗室"
+					"#dng_university"		"位於大學"
+					"#gotham_city"		"正在照看著高譚市"
+					"#heroic_assault"		"正在進行英雄突擊"
+					"#heroic_assault_lobby"		"正在為英雄突擊做準備"
+					"#main_menu"		"位於主選單"
+					"#open_world_crime"		"正在高譚市打擊犯罪"
+					"#showdown"		"正在進行最終對決"
+				}
+			}
+			"koreana"
+			{
+				"tokens"
+				{
+					"#belfry"		"위치: 벨프리"
+					"#dng_arkham_asylum"		"위치: 아캄 수용소"
+					"#dng_cf_reservoir"		"위치: 저수지"
+					"#dng_cf_sewers"		"위치: 하수구"
+					"#dng_fr_blackgate"		"탈옥을 막는 중"
+					"#dng_fr_elliot_center"		"위치: 엘리엇 센터"
+					"#dng_fr_quartz_labs"		"위치: 쿼츠 연구소"
+					"#dng_gcpd"		"GCPD에 잠입 중"
+					"#dng_hq_blackgate"		"위치: 블랙게이트 할리"
+					"#dng_hq_hospital"		"위치: 할리의 파티"
+					"#dng_hq_monarch_theater"		"위치: 모나크 극장"
+					"#dng_iceberg_lounge"		"위치: 아이스버그 라운지"
+					"#dng_kane_bunker"		"벙커에 잠입 중"
+					"#dng_labyrinth"		"알 수 없는 상태"
+					"#dng_lazarus_pit"		"위치: 고담시 밑 동굴"
+					"#dng_mines"		"위치: 광산"
+					"#dng_orchard_hotel"		"위치: 오차드 호텔"
+					"#dng_powers_club"		"위치: 파워스 클럽"
+					"#dng_star_labs"		"위치: S.T.A.R. 연구소"
+					"#dng_university"		"위치: 대학교"
+					"#gotham_city"		"고담시를 지켜보는 중"
+					"#heroic_assault"		"위치: 히어로 어설트"
+					"#heroic_assault_lobby"		"히어로 어설트 준비 중"
+					"#main_menu"		"위치: 메인 메뉴"
+					"#open_world_crime"		"고담시에서 범죄와 싸우는 중"
+					"#showdown"		"위치: 마지막 결전"
+				}
+			}
+			"arabic"
+			{
+				"tokens"
+				{
+					"#belfry"		"في برج الجرس"
+					"#dng_arkham_asylum"		"في مصحة أركام"
+					"#dng_cf_reservoir"		"عند الخزان"
+					"#dng_cf_sewers"		"في المجاري"
+					"#dng_fr_blackgate"		"إيقاف الهروب من السجن"
+					"#dng_fr_elliot_center"		"عند مركز إليوت"
+					"#dng_fr_quartz_labs"		"عند معامل كوارتز"
+					"#dng_gcpd"		"التسلل إلى قسم شرطة غوثام"
+					"#dng_hq_blackgate"		"عند إصلاحيّة بلاكجيت"
+					"#dng_hq_hospital"		"في حفلة هارلي"
+					"#dng_hq_monarch_theater"		"عند المسرح الملكي"
+					"#dng_iceberg_lounge"		"عند صالة آيسبيرج"
+					"#dng_kane_bunker"		"التسلل إلى الخندق"
+					"#dng_labyrinth"		"الحالة غير معروفة"
+					"#dng_lazarus_pit"		"كهوف تحت مدينة غوثام"
+					"#dng_mines"		"في المناجم"
+					"#dng_orchard_hotel"		"عند فندق أورتشارد"
+					"#dng_powers_club"		"في نادي باورز"
+					"#dng_star_labs"		"عند معامل ستار"
+					"#dng_university"		"عند الجامعة"
+					"#gotham_city"		"حراسة مدينة غوثام"
+					"#heroic_assault"		"في الهجوم البطولي"
+					"#heroic_assault_lobby"		"الاستعداد للهجوم البطولي"
+					"#main_menu"		"في القائمة الرئيسية"
+					"#open_world_crime"		"محاربة الجريمة في مدينة غوثام"
+					"#showdown"		"في المواجهة "
+				}
+			}
+			"japanese"
+			{
+				"tokens"
+				{
+					"#belfry"		"ベルフライ内"
+					"#dng_arkham_asylum"		"アーカム・アサイラム内"
+					"#dng_cf_reservoir"		"貯水池内"
+					"#dng_cf_sewers"		"下水道内"
+					"#dng_fr_blackgate"		"脱獄を阻止中"
+					"#dng_fr_elliot_center"		"エリオット・センター内"
+					"#dng_fr_quartz_labs"		"クォーツ研究所内"
+					"#dng_gcpd"		"ゴッサム市警に潜入中"
+					"#dng_hq_blackgate"		"ブラックゲート刑務所内"
+					"#dng_hq_hospital"		"ハーレイのパーティー内"
+					"#dng_hq_monarch_theater"		"モナーク劇場内"
+					"#dng_iceberg_lounge"		"アイスバーグ・ラウンジ内"
+					"#dng_kane_bunker"		"シェルターに潜入中"
+					"#dng_labyrinth"		"状況不明"
+					"#dng_lazarus_pit"		"ゴッサムの地下洞窟内"
+					"#dng_mines"		"鉱山内"
+					"#dng_orchard_hotel"		"オーチャード・ホテル内"
+					"#dng_powers_club"		"パワーズ・クラブ内"
+					"#dng_star_labs"		"S.T.A.R.ラボ内"
+					"#dng_university"		"大学内"
+					"#gotham_city"		"ゴッサム・シティで警戒中"
+					"#heroic_assault"		"ヒロイックアサルト内"
+					"#heroic_assault_lobby"		"ヒロイックアサルトの準備中"
+					"#main_menu"		"メインメニュー内"
+					"#open_world_crime"		"ゴッサム・シティ内犯罪者と対決中"
+					"#showdown"		"決戦に挑戦中"
+				}
+			}
+		}
+	}
+}
