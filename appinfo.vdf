@@ -1,0 +1,290 @@
+"appinfo"
+{
+	"appid"		"2093910"
+	"common"
+	{
+		"name"		"Time Walker: Dark World"
+		"type"		"Game"
+		"icon"		"cf262b8bf784dd65f4c662b5d7c78a7a19c24a09"
+		"clienticns"		"0ea1c5aa234438d6657308aa0599e7aaa85b9458"
+		"linuxclienticon"		"0ea1c5aa234438d6657308aa0599e7aaa85b9458"
+		"clienticon"		"2fd45a11cf858d40828c1664ec6bd9c17f3bfd72"
+		"clienttga"		"ccecc0281044f16aa73644fb0b91f43c36c878aa"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		""
+		"name_localized"
+		{
+			"schinese"		"时行者：黑暗世界"
+			"tchinese"		"時行者：黑暗世界"
+		}
+		"small_capsule"
+		{
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"schinese"		"header_schinese.jpg"
+			"tchinese"		"header_tchinese.jpg"
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn,zh-tw"
+			"library_hero"		"en,zh-cn,zh-tw"
+			"library_logo"		"zh-tw,en,zh-cn"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"100"
+				"height_pct"		"79.51493298395314"
+			}
+		}
+		"store_asset_mtime"		"1694573674"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Heartfun"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Leyo Games"
+			}
+		}
+		"primary_genre"		"70"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"2"
+			"2"		"37"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1664185800"
+		"community_hub_visible"		"1"
+		"gameid"		"2093910"
+		"store_tags"
+		{
+			"0"		"3959"
+			"1"		"1084988"
+			"2"		"1741"
+			"3"		"4747"
+			"4"		"8945"
+			"5"		"3964"
+			"6"		"9"
+			"7"		"4791"
+			"8"		"6426"
+			"9"		"493"
+			"10"		"1684"
+			"11"		"492"
+			"12"		"4182"
+			"13"		"14139"
+			"14"		"4726"
+			"15"		"1720"
+			"16"		"21006"
+			"17"		"4085"
+			"18"		"3871"
+			"19"		"1716"
+		}
+		"review_score"		"6"
+		"review_percentage"		"78"
+	}
+	"extended"
+	{
+		"developer"		"Heartfun"
+		"publisher"		"Leyo Games"
+	}
+	"config"
+	{
+		"installdir"		"TimelineWalkerDarkWorld"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Timeline Walker Dark World.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"sxz.app"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Time Walker Dark World.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"test_lancherchg"
+				}
+				"description_loc"
+				{
+					"english"		"启动参数测试"
+				}
+				"description"		"启动参数测试"
+			}
+		}
+	}
+	"depots"
+	{
+		"2093911"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5365649523795846310"
+					"size"		"172187677"
+					"download"		"49656832"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test_curse"
+				{
+					"gid"		"3E40CC287A521FFDC1D23638A9FF2F3E"
+					"size"		"F9C82B5E1FB7D4A81E6E4B516A34327B"
+					"download"		"FE5152A3BE4D23490B7359CE7DD9A1EF"
+				}
+			}
+		}
+		"2093912"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6719374080262224264"
+					"size"		"194914911"
+					"download"		"56269488"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test_curse"
+				{
+					"gid"		"39B051400E9121D635BC245EA8C1DCC5"
+					"size"		"70E893104A3C794B1DBCF3FF242DA724"
+					"download"		"9118D07B92D849C32C6F34E363622A87"
+				}
+			}
+		}
+		"2093913"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8670187015714085468"
+					"size"		"172187677"
+					"download"		"49689664"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test_curse"
+				{
+					"gid"		"7995EFF951A94A4E4482F576B2FBE047"
+					"size"		"F9C82B5E1FB7D4A81E6E4B516A34327B"
+					"download"		"6DD73200BD502C06E4D94575F54349F7"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11935337"
+				"timeupdated"		"1692003539"
+			}
+			"test_curse"
+			{
+				"buildid"		"12175605"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694588516"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"HeartFunGame/Timeline Walker Dark World/Steam/"
+				"pattern"		"*.json"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"HeartFunGame/Timeline Walker Dark World/Steam/"
+						"replace"		"com.HeartFunGame.Timeline-Walker-Dark-World/Steam/"
+					}
+				}
+			}
+		}
+	}
+}
