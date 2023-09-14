@@ -1,0 +1,358 @@
+"appinfo"
+{
+	"appid"		"1812620"
+	"common"
+	{
+		"name"		"DSX"
+		"type"		"Application"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"2ac1496690a1e9e196afe2fffaba4bcdcb85fab1"
+		"clienttga"		"801afa6197365e3e65c70f9748ce2d68977e043b"
+		"icon"		"c15397ede3b9d401c5aebe556ef56194abb77cce"
+		"logo"		"f415c5598cadf40037f2f24e1bf6f68785616055"
+		"logo_small"		"f415c5598cadf40037f2f24e1bf6f68785616055_thumb"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1658534400"
+			"tested_build_id"		"0"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_Software"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"37.672811059907836"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1655937777"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Paliverse"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Paliverse"
+			}
+		}
+		"primary_genre"		"57"
+		"genres"
+		{
+			"0"		"57"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_30"		"1"
+			"category_23"		"1"
+			"category_22"		"1"
+			"category_25"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"arabic"
+			{
+				"supported"		"true"
+			}
+			"bulgarian"
+			{
+				"supported"		"true"
+			}
+			"danish"
+			{
+				"supported"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+			}
+			"finnish"
+			{
+				"supported"		"true"
+			}
+			"hungarian"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"norwegian"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"romanian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+			}
+			"swedish"
+			{
+				"supported"		"true"
+			}
+			"thai"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+			}
+			"greek"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"vietnamese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1656071154"
+		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1812620"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"599"
+			"2"		"87"
+			"3"		"7481"
+			"4"		"8013"
+			"5"		"150626"
+		}
+		"review_score"		"6"
+		"review_percentage"		"72"
+	}
+	"extended"
+	{
+		"disableoverlayinjection"		"1"
+		"developer"		"Paliverse"
+		"publisher"		"Paliverse"
+		"listofdlc"		"2345650"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"DSX"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"DSX.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"uselaunchcommandline"		"1"
+		"steamdecktouchscreen"		"5"
+	}
+	"depots"
+	{
+		"229006"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english"
+		"workshopdepot"		"1812620"
+		"1812621"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3512715694463801177"
+					"size"		"45157473"
+					"download"		"23540000"
+				}
+				"dsx_v2.4.2"
+				{
+					"gid"		"4024165949229301707"
+					"size"		"45156594"
+					"download"		"23540400"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dsx_v3_alpha_test"
+				{
+					"gid"		"75CF78E50125A24347304DD11995823A"
+					"size"		"0B02B2F065C3E2EBA8CF1FC86A41ED9D"
+					"download"		"D6AECC79548C3F31FEDB99D78EA04D74"
+				}
+				"dsx_v3_beta_devteam"
+				{
+					"gid"		"55D72047102ECE1B3CEB676472A5C367"
+					"size"		"AB5CB4FA69586CB2D75984D0004234C6"
+					"download"		"E185BD6A7926E51C298EB1E4FC46DCA5"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11841675"
+				"timeupdated"		"1690923297"
+			}
+			"dsx_v2.4.2"
+			{
+				"buildid"		"10685442"
+				"description"		"DSX version 2.4.2"
+				"timeupdated"		"1690924545"
+			}
+			"dsx_v3_alpha_test"
+			{
+				"buildid"		"12176291"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694594184"
+			}
+			"dsx_v3_beta_devteam"
+			{
+				"buildid"		"12176291"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694594189"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"10000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"DSX_Cloud"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#status_homepage"		"Home Page"
+				}
+			}
+		}
+	}
+}
