@@ -1,0 +1,247 @@
+"appinfo"
+{
+	"appid"		"1703140"
+	"common"
+	{
+		"name"		"Isle of Jura"
+		"type"		"Game"
+		"logo"		"ce3535afe088bfacfe3271eebf0d1e496389f409"
+		"logo_small"		"ce3535afe088bfacfe3271eebf0d1e496389f409_thumb"
+		"icon"		"56e2dd9001f5ec270f01115af28f47d8cd9bcbb1"
+		"clienticon"		"8f64ee53a2dc4b8669f139f8e78df264e1823d7d"
+		"clienttga"		"f6162f1076bec48b26b56a40c8c80f1b9ec4a56c"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"30.136131593874097"
+				"height_pct"		"52.03418955645268"
+			}
+		}
+		"store_asset_mtime"		"1636213878"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"EM Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"EM Games"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Sedoc LLC"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1644599173"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1703140"
+		"store_tags"
+		{
+			"0"		"3834"
+			"1"		"5652"
+			"2"		"15564"
+			"3"		"30358"
+			"4"		"5900"
+			"5"		"7208"
+			"6"		"4191"
+			"7"		"1697"
+			"8"		"4726"
+			"9"		"1654"
+			"10"		"597"
+			"11"		"599"
+			"12"		"4252"
+			"13"		"4195"
+			"14"		"4305"
+			"15"		"5350"
+			"16"		"4166"
+			"17"		"4182"
+			"18"		"21"
+			"19"		"4234"
+		}
+		"review_score"		"8"
+		"review_percentage"		"81"
+	}
+	"extended"
+	{
+		"developer"		"EM Games"
+		"publisher"		"EM Games"
+	}
+	"config"
+	{
+		"installdir"		"Isle of Jura"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"IsleOfJura.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"FISHBuild.app\\Contents\\MacOS\\IsleOfJura"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"IsleOfJura.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1703141"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4932870056641419609"
+					"size"		"526726292"
+					"download"		"115191920"
+				}
+			}
+		}
+		"1703142"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1980402055815913580"
+					"size"		"528749552"
+					"download"		"115858160"
+				}
+			}
+		}
+		"1703143"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"814880186590958243"
+					"size"		"539218687"
+					"download"		"117931984"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8967326"
+				"timeupdated"		"1655663224"
+			}
+		}
+	}
+}
