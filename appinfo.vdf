@@ -1,0 +1,886 @@
+"appinfo"
+{
+	"appid"		"1169040"
+	"common"
+	{
+		"name"		"Necesse"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"clienttga"		"044e2e9e2cd4f51cdb1a5263b0b7c93534798f55"
+		"clienticon"		"f77aa78f4e62d52e8197591062dedfc3c24ccf9d"
+		"icon"		"f74fcfc959bc4359e442840ba11479051be03e13"
+		"linuxclienticon"		"7671f4126751929ad91136e7218b243a7a1d2b43"
+		"clienticns"		"1789428d7419d0d223bbf3d1f9f3ce41a1246bd3"
+		"logo"		"dd1974ff2acc6d90585cea9c8d4c1101be5d641d"
+		"logo_small"		"dd1974ff2acc6d90585cea9c8d4c1101be5d641d_thumb"
+		"releasestate"		"released"
+		"name_localized"
+		{
+			"schinese"		"奈斯启示录 Necesse"
+			"tchinese"		"奈斯啟示錄 Necesse"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1670371200"
+			"tested_build_id"		"9943085"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Necesse"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+			"tchinese"		"header_tchinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-tw,zh-cn"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1693106384"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Mads Skovgaard"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Hooded Horse"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Hooded Horse"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"28"
+			"3"		"2"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_22"		"1"
+			"category_49"		"1"
+			"category_47"		"1"
+			"category_48"		"1"
+			"category_15"		"1"
+			"category_23"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_30"		"1"
+			"category_28"		"1"
+			"category_55"		"1"
+			"category_56"		"1"
+			"category_57"		"1"
+			"category_58"		"1"
+			"category_59"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"hungarian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1576169762"
+		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1169040"
+		"store_tags"
+		{
+			"0"		"1100689"
+			"1"		"1662"
+			"2"		"3810"
+			"3"		"3871"
+			"4"		"1643"
+			"5"		"1695"
+			"6"		"1702"
+			"7"		"21"
+			"8"		"19"
+			"9"		"3859"
+			"10"		"4166"
+			"11"		"3834"
+			"12"		"3964"
+			"13"		"4182"
+			"14"		"1685"
+			"15"		"492"
+			"16"		"122"
+			"17"		"493"
+			"18"		"3843"
+			"19"		"4711"
+		}
+		"review_score"		"8"
+		"review_percentage"		"94"
+	}
+	"extended"
+	{
+		"developer"		"Mads Skovgaard"
+		"publisher"		"Hooded Horse"
+		"homepage"		"https://necessegame.com/"
+	}
+	"config"
+	{
+		"installdir"		"Necesse"
+		"steamcontrollertemplateindex"		"1"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Necesse.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"./jre/bin/java"
+				"arguments"		"-XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -Xms512m -Xmx4G -jar Necesse.jar"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"3"
+			{
+				"executable"		"jre/bin/javaw.exe"
+				"arguments"		"-XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -jar Necesse.jar -lowmemory -musicstream"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Launch in low memory mode"
+				}
+				"description"		"Launch in low memory mode"
+			}
+			"4"
+			{
+				"executable"		"Necesse.app"
+				"workingdir"		"Necesse.app/Contents/Resources"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+					"betakey"		"v0.21.29"
+				}
+			}
+			"5"
+			{
+				"executable"		"Necesse.app/Contents/Resources/jre/bin/java"
+				"arguments"		"-XstartOnFirstThread -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -Xms512m -Xmx4G -jar Necesse.jar"
+				"workingdir"		"Necesse.app/Contents/Resources"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"macos"
+					"betakey"		"v0.21.23"
+				}
+				"description_loc"
+				{
+					"english"		"v0.21.23"
+				}
+				"description"		"v0.21.23"
+			}
+			"7"
+			{
+				"executable"		"Necesse.app/Contents/Resources/StartNatively.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"uselaunchcommandline"		"1"
+		"steamcontrollerconfigdetails"
+		{
+			"3021993242"
+			{
+				"controller_type"		"controller_ps5"
+				"enabled_branches"		"default,0.21.x,betafixes,buildtest,expo,trailer,v0.21.23,v0.21.24,v0.21.25,v0.21.26,v0.21.27,v0.21.28"
+				"use_action_block"		"false"
+			}
+			"3022004665"
+			{
+				"controller_type"		"controller_xboxone"
+				"enabled_branches"		"default,0.21.x,betafixes,buildtest,expo,trailer,v0.21.23,v0.21.24,v0.21.25,v0.21.26,v0.21.27,v0.21.28"
+				"use_action_block"		"false"
+			}
+			"3022007895"
+			{
+				"controller_type"		"controller_ps4"
+				"enabled_branches"		"default,0.21.x,betafixes,buildtest,expo,trailer,v0.21.23,v0.21.24,v0.21.25,v0.21.26,v0.21.27,v0.21.28"
+				"use_action_block"		"false"
+			}
+			"3022011601"
+			{
+				"controller_type"		"controller_steamcontroller_gordon"
+				"enabled_branches"		"default,0.21.x,betafixes,buildtest,expo,trailer,v0.21.23,v0.21.24,v0.21.25,v0.21.26,v0.21.27,v0.21.28"
+				"use_action_block"		"false"
+			}
+			"3022016949"
+			{
+				"controller_type"		"controller_steamcontroller_gordon"
+				"enabled_branches"		"default,0.21.x,betafixes,buildtest,expo,trailer,v0.21.23,v0.21.24,v0.21.25,v0.21.26,v0.21.27,v0.21.28"
+				"use_action_block"		"false"
+			}
+			"3022019367"
+			{
+				"controller_type"		"controller_xbox360"
+				"enabled_branches"		"default,0.21.x,betafixes,buildtest,expo,trailer,v0.21.23,v0.21.24,v0.21.25,v0.21.26,v0.21.27,v0.21.28"
+				"use_action_block"		"false"
+			}
+			"3022029543"
+			{
+				"controller_type"		"controller_neptune"
+				"enabled_branches"		"default,0.21.x,betafixes,buildtest,expo,trailer,v0.21.23,v0.21.24,v0.21.25,v0.21.26,v0.21.27,v0.21.28"
+				"use_action_block"		"false"
+			}
+		}
+		"steamconfigurator3rdpartynative"		"65535"
+		"steamdecktouchscreen"		"5"
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"baselanguages"		"english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,swedish,hungarian,czech,turkish,brazilian,ukrainian,latam"
+		"1169042"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7050164523757919228"
+					"size"		"316882072"
+					"download"		"220255664"
+				}
+				"v0.21.23"
+				{
+					"gid"		"7467126851982166657"
+					"size"		"342489282"
+					"download"		"215715664"
+				}
+				"v0.21.24"
+				{
+					"gid"		"565853001660228717"
+					"size"		"343316175"
+					"download"		"210201216"
+				}
+				"v0.21.25"
+				{
+					"gid"		"7516698411344290416"
+					"size"		"343904787"
+					"download"		"215860576"
+				}
+				"v0.21.26"
+				{
+					"gid"		"6064869266640571714"
+					"size"		"345028678"
+					"download"		"216913856"
+				}
+				"v0.21.27"
+				{
+					"gid"		"1062370833556785666"
+					"size"		"280446746"
+					"download"		"189634400"
+				}
+				"v0.21.28"
+				{
+					"gid"		"1532338568026231391"
+					"size"		"281058142"
+					"download"		"190023472"
+				}
+				"v0.21.29"
+				{
+					"gid"		"8369222888660150946"
+					"size"		"285829686"
+					"download"		"194804288"
+				}
+				"v0.22.0"
+				{
+					"gid"		"5028379763876315720"
+					"size"		"316686698"
+					"download"		"220199552"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"buildtest"
+				{
+					"gid"		"9B4CB6F18D01E551862EE0C50FDA96AB"
+					"size"		"8485A1C3A7CB166E2F24F14B6050AEBB"
+					"download"		"C0B82050FFE7AD587ED9786DF9B45257"
+				}
+				"expo"
+				{
+					"gid"		"E828F02B125C0DDBA61C6EC4ED6C31AB"
+					"size"		"F9E453A2191E41FA04A4DED27B5C3EEE"
+					"download"		"44AA90254A39F485E317B033C2BEC643"
+				}
+				"presspreview"
+				{
+					"gid"		"AAE9A98CFFD832EC315FD69D241E11CF"
+					"size"		"453F04FAA3AD5DB2CA47C158AD6661A2"
+					"download"		"45984496C12126E5B67024F29C8E1EC7"
+				}
+				"trailer"
+				{
+					"gid"		"A54E1F35037121E60B583EF0ED312B86"
+					"size"		"E4DE6D1F7F5E41DD9F7A57B31B0CD9DC"
+					"download"		"F1D622BF0F74480D264C361060B58FE6"
+				}
+			}
+		}
+		"1169043"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1717759638195028403"
+					"size"		"331610890"
+					"download"		"220087008"
+				}
+				"v0.21.23"
+				{
+					"gid"		"1586739721671068601"
+					"size"		"359106370"
+					"download"		"219400912"
+				}
+				"v0.21.24"
+				{
+					"gid"		"9025183928450140155"
+					"size"		"359933263"
+					"download"		"213886464"
+				}
+				"v0.21.25"
+				{
+					"gid"		"7622065965681783603"
+					"size"		"360521875"
+					"download"		"219545824"
+				}
+				"v0.21.26"
+				{
+					"gid"		"4932215919008717111"
+					"size"		"361645766"
+					"download"		"220599104"
+				}
+				"v0.21.27"
+				{
+					"gid"		"2335197567089257309"
+					"size"		"295175564"
+					"download"		"191493584"
+				}
+				"v0.21.28"
+				{
+					"gid"		"60213011502677396"
+					"size"		"295786960"
+					"download"		"185815648"
+				}
+				"v0.21.29"
+				{
+					"gid"		"8942355674758997665"
+					"size"		"300558504"
+					"download"		"193641072"
+				}
+				"v0.22.0"
+				{
+					"gid"		"5947138127811997466"
+					"size"		"331415516"
+					"download"		"220030592"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"buildtest"
+				{
+					"gid"		"8C984A6EA31C449852066073D33EEA4D"
+					"size"		"8E9CEF994747591B65DBAFD1468590D4"
+					"download"		"FD7CFBB706CFF75B566C9B606D8BF570"
+				}
+				"expo"
+				{
+					"gid"		"A39D6B44B4A54F117D132FD514CA4CDA"
+					"size"		"07BCE158BB8A046FEB9A298DF6B0536A"
+					"download"		"AD4AAD0109A57B82DA8580E898DE6C9B"
+				}
+				"presspreview"
+				{
+					"gid"		"EF8C4DEBA413A50C445200080CD8B800"
+					"size"		"C78A68A095AF83E4F06EF8C050DA1B96"
+					"download"		"30DA8FBCB396BC262E2719D21DB62690"
+				}
+				"trailer"
+				{
+					"gid"		"E070D1373E80F398952389CA0AC4EB5B"
+					"size"		"9273BF04A632F0825DC192B98A5618FE"
+					"download"		"04750922D666BB4A255D12C3DF4A676E"
+				}
+			}
+		}
+		"1169044"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2419190883233445310"
+					"size"		"337706144"
+					"download"		"220383968"
+				}
+				"v0.21.23"
+				{
+					"gid"		"6798656273683115627"
+					"size"		"367997431"
+					"download"		"214880256"
+				}
+				"v0.21.24"
+				{
+					"gid"		"5416006317740396189"
+					"size"		"368824296"
+					"download"		"209365792"
+				}
+				"v0.21.25"
+				{
+					"gid"		"987618074661325013"
+					"size"		"369412908"
+					"download"		"215025152"
+				}
+				"v0.21.26"
+				{
+					"gid"		"4284358101106737597"
+					"size"		"370536799"
+					"download"		"216078432"
+				}
+				"v0.21.27"
+				{
+					"gid"		"5723242964073316596"
+					"size"		"301270583"
+					"download"		"191790256"
+				}
+				"v0.21.28"
+				{
+					"gid"		"6957215591912294207"
+					"size"		"301881979"
+					"download"		"191185120"
+				}
+				"v0.21.29"
+				{
+					"gid"		"3721150496254640205"
+					"size"		"306653523"
+					"download"		"196960144"
+				}
+				"v0.22.0"
+				{
+					"gid"		"8141820347750741733"
+					"size"		"337510770"
+					"download"		"226405728"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"buildtest"
+				{
+					"gid"		"8FB63034A143046038B5101D5BE8D89E"
+					"size"		"FCE11732996E220DE7D00B4323F49F3C"
+					"download"		"46B78BFC648060087BDE0E5BA973618F"
+				}
+				"expo"
+				{
+					"gid"		"EFD4F451C84BECBCE7A5FE2F2503C5EF"
+					"size"		"93401B3A5FF6BE86E4D606D26F44581C"
+					"download"		"AB3E3B50E6CCE535CC9B18E47D9C416F"
+				}
+				"presspreview"
+				{
+					"gid"		"960723B4F852FE99327B332627277495"
+					"size"		"88F265201DFD78FEA906B60003F3A9C0"
+					"download"		"65A12E4F8FD49C04540F4084C6507129"
+				}
+				"trailer"
+				{
+					"gid"		"9A61208EDE1775789D60DFECA3EB2412"
+					"size"		"37757FCD96013C4A26FC0E0D2EAAAE34"
+					"download"		"9750EF8884A8E1A3D1061B208C408E4F"
+				}
+			}
+		}
+		"1169045"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2716546868107949625"
+					"size"		"342450697"
+					"download"		"227039184"
+				}
+				"v0.21.23"
+				{
+					"gid"		"6404665697104459604"
+					"size"		"398018760"
+					"download"		"225766944"
+				}
+				"v0.21.24"
+				{
+					"gid"		"1729947547154124555"
+					"size"		"398845653"
+					"download"		"220252496"
+				}
+				"v0.21.25"
+				{
+					"gid"		"275807290734124620"
+					"size"		"399434265"
+					"download"		"225911856"
+				}
+				"v0.21.26"
+				{
+					"gid"		"2673259856270548398"
+					"size"		"400558156"
+					"download"		"226965136"
+				}
+				"v0.21.27"
+				{
+					"gid"		"1424456041500847358"
+					"size"		"306015371"
+					"download"		"193372576"
+				}
+				"v0.21.28"
+				{
+					"gid"		"1507113401475947112"
+					"size"		"306626767"
+					"download"		"193761648"
+				}
+				"v0.21.29"
+				{
+					"gid"		"4456379232614576509"
+					"size"		"311398311"
+					"download"		"198542464"
+				}
+				"v0.22.0"
+				{
+					"gid"		"7520092953680503120"
+					"size"		"342255323"
+					"download"		"227987760"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"buildtest"
+				{
+					"gid"		"5193F3C2A9F449AADB6C1BD631404A58"
+					"size"		"A9271F0BCD7308DBE1F5CF76FA4D5254"
+					"download"		"ED853507F9129A931013F1477A593336"
+				}
+				"expo"
+				{
+					"gid"		"5BA59188C0E5F1B7694CAE4C36B9B593"
+					"size"		"85447391D94616AE427321844A3A25A2"
+					"download"		"4DBD0C72008A105E93FE8032E9AB8C30"
+				}
+				"presspreview"
+				{
+					"gid"		"9E5D8CB83917778262275DD7E5A4F925"
+					"size"		"F407D5152086EF81B7AD52D166A22EDF"
+					"download"		"9C6650A8DFF0B7C87E42BE94B7D770F1"
+				}
+				"trailer"
+				{
+					"gid"		"4385262A30680B425D64559980EB831B"
+					"size"		"A34A28BFCA3CBCB5764929E4D1C883CA"
+					"download"		"C16EFE7693898F0F58C503359DB513AA"
+				}
+			}
+		}
+		"workshopdepot"		"1169040"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12080883"
+				"timeupdated"		"1693500868"
+			}
+			"buildtest"
+			{
+				"buildid"		"12080883"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693500841"
+			}
+			"expo"
+			{
+				"buildid"		"11335895"
+				"pwdrequired"		"1"
+				"timeupdated"		"1685256659"
+			}
+			"presspreview"
+			{
+				"buildid"		"11985542"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692520958"
+			}
+			"trailer"
+			{
+				"buildid"		"11686933"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689187274"
+			}
+			"v0.21.23"
+			{
+				"buildid"		"9096788"
+				"description"		"Older version"
+				"timeupdated"		"1661180505"
+			}
+			"v0.21.24"
+			{
+				"buildid"		"9363221"
+				"description"		"Older version"
+				"timeupdated"		"1664210618"
+			}
+			"v0.21.25"
+			{
+				"buildid"		"9650339"
+				"description"		"Older version"
+				"timeupdated"		"1667840776"
+			}
+			"v0.21.26"
+			{
+				"buildid"		"9973476"
+				"description"		"Older version"
+				"timeupdated"		"1671562140"
+			}
+			"v0.21.27"
+			{
+				"buildid"		"10229868"
+				"description"		"Older version"
+				"timeupdated"		"1674414676"
+			}
+			"v0.21.28"
+			{
+				"buildid"		"10560541"
+				"description"		"Older version"
+				"timeupdated"		"1678985815"
+			}
+			"v0.21.29"
+			{
+				"buildid"		"11012271"
+				"description"		"Older version"
+				"timeupdated"		"1692543402"
+			}
+			"v0.22.0"
+			{
+				"buildid"		"12012395"
+				"description"		"Older version"
+				"timeupdated"		"1693495371"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000000"
+		"maxnumfiles"		"2000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"Necesse/saves"
+				"pattern"		"*"
+				"recursive"		"1"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataRoaming"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Necesse/saves"
+						"replace"		"Necesse/saves"
+					}
+				}
+			}
+			"1"
+			{
+				"root"		"WinAppDataRoaming"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxXdgConfigHome"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Necesse/saves"
+						"replace"		"Necesse/saves"
+					}
+				}
+			}
+		}
+	}
+}
