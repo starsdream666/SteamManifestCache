@@ -1,0 +1,255 @@
+"appinfo"
+{
+	"appid"		"716010"
+	"common"
+	{
+		"name"		"Inline"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"b06e166e5ed4c2b0ad938ca36a4d4fa7f250c481"
+		"logo_small"		"b06e166e5ed4c2b0ad938ca36a4d4fa7f250c481_thumb"
+		"icon"		"1214ae545df2c02a0e890b01320398bf9130bb1e"
+		"clienticon"		"7ad6dc22651e0db08857db69256583cc05066c6e"
+		"clienttga"		"0ef343b6a822a5e80082efbca6b7c39b88c56bc2"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"metacritic_name"		"Inline"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1527276524"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Light Bringer Games inc."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Light Bringer Games inc."
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_15"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1527861639"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"716010"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"492"
+			"2"		"9"
+			"3"		"1664"
+			"4"		"1654"
+			"5"		"4094"
+			"6"		"4182"
+			"7"		"3871"
+			"8"		"4400"
+			"9"		"5350"
+			"10"		"11123"
+			"11"		"4166"
+		}
+		"review_score"		"8"
+		"review_percentage"		"96"
+	}
+	"extended"
+	{
+		"developer"		"Light Bringer Games inc."
+		"publisher"		"Light Bringer Games inc."
+		"homepage"		"http://lightbringergames.com/"
+	}
+	"config"
+	{
+		"installdir"		"Inline"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Inline.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Inline.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Inline.x86"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"32"
+				}
+			}
+			"3"
+			{
+				"executable"		"Inline.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"716011"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7224994189216954231"
+					"size"		"89837634"
+					"download"		"40380304"
+				}
+				"beta"
+				{
+					"gid"		"6894039242800773091"
+					"size"		"83859496"
+					"download"		"39461952"
+				}
+				"dev_only"
+				{
+					"gid"		"6894039242800773091"
+					"size"		"83859496"
+					"download"		"39461952"
+				}
+			}
+		}
+		"716012"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7008756330807141583"
+					"size"		"139246373"
+					"download"		"54321104"
+				}
+				"beta"
+				{
+					"gid"		"3373659885519089023"
+					"size"		"139294501"
+					"download"		"54325184"
+				}
+				"dev_only"
+				{
+					"gid"		"3373659885519089023"
+					"size"		"139294501"
+					"download"		"54325184"
+				}
+			}
+		}
+		"716013"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8611690575882497335"
+					"size"		"140290070"
+					"download"		"55637536"
+				}
+				"beta"
+				{
+					"gid"		"3752291318159587053"
+					"size"		"140338198"
+					"download"		"55641616"
+				}
+				"dev_only"
+				{
+					"gid"		"3752291318159587053"
+					"size"		"140338198"
+					"download"		"55641616"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2847079"
+				"timeupdated"		"1528489513"
+			}
+			"beta"
+			{
+				"buildid"		"2798014"
+				"timeupdated"		"1527036591"
+			}
+			"dev_only"
+			{
+				"buildid"		"2798014"
+				"timeupdated"		"1527036606"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"25"
+	}
+}
