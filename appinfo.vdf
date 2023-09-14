@@ -1,0 +1,206 @@
+"appinfo"
+{
+	"appid"		"2181930"
+	"common"
+	{
+		"name"		"DR LIVESEY ROM AND DEATH EDITION"
+		"type"		"Game"
+		"icon"		"78132f97f17ef61df4cc99b0fbf78d7c7247a283"
+		"clienttga"		"6ef8193e887def786f1a8d3943ed3c7ea70b90f6"
+		"clienticon"		"6880d6aa14973228027f713064e7917977def9bf"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"russian"		"1"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1677196800"
+			"tested_build_id"		"10598292"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1688684198"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Agafonoff"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Agafonoff"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Agafonoff"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"3"
+			"4"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1676300438"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2181930"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"4562"
+			"2"		"4777"
+			"3"		"6815"
+			"4"		"1716"
+			"5"		"4026"
+			"6"		"4004"
+			"7"		"1720"
+			"8"		"4158"
+			"9"		"4182"
+			"10"		"5125"
+			"11"		"4166"
+			"12"		"353880"
+			"13"		"3993"
+			"14"		"4342"
+			"15"		"4255"
+			"16"		"122"
+			"17"		"21"
+			"18"		"1719"
+			"19"		"3871"
+		}
+		"review_score"		"8"
+		"review_percentage"		"93"
+	}
+	"extended"
+	{
+		"developer"		"Agafonoff"
+		"publisher"		"Agafonoff"
+	}
+	"config"
+	{
+		"installdir"		"DR LIVESEY GIGA BASED EDITION"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"DR LIVESEY ROM AND DEATH EDITION.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2181931"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3348935075610471651"
+					"size"		"730221499"
+					"download"		"215255040"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11409357"
+				"timeupdated"		"1686097111"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+		"sync_while_suspended"		"1"
+	}
+}
