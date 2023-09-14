@@ -1,0 +1,308 @@
+"appinfo"
+{
+	"appid"		"1119840"
+	"common"
+	{
+		"name"		"Sands of Aura"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"c9f07452bccf3bf906a6f244d891960e7e37d3e0"
+		"logo"		"3fe41e45d889a283ab3500d45a51aaf26de473b1"
+		"logo_small"		"3fe41e45d889a283ab3500d45a51aaf26de473b1_thumb"
+		"clienticon"		"d9e4dae317653e25197993744976138399a888a5"
+		"clienttga"		"9c2749a8009065b40574050517c9727c33cd4457"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1646956800"
+			"tested_build_id"		"8010257"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"61.814592313696664"
+				"height_pct"		"66.08109353207763"
+			}
+		}
+		"store_asset_mtime"		"1675497488"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Chashu Entertainment"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Freedom Games"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Freedom Games"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"3"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_23"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1634821146"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1119840"
+		"store_tags"
+		{
+			"0"		"4231"
+			"1"		"29482"
+			"2"		"1720"
+			"3"		"4604"
+			"4"		"4252"
+			"5"		"3834"
+			"6"		"4026"
+			"7"		"492"
+			"8"		"493"
+			"9"		"3835"
+			"10"		"1646"
+			"11"		"5851"
+			"12"		"19"
+			"13"		"122"
+			"14"		"1695"
+			"15"		"1702"
+			"16"		"6730"
+			"17"		"4182"
+			"18"		"4106"
+			"19"		"21"
+		}
+		"review_score"		"6"
+		"review_percentage"		"71"
+	}
+	"extended"
+	{
+		"developer"		"Chashu Entertainment"
+		"publisher"		"Freedom Games"
+		"homepage"		"https://www.sandsofaura.com"
+	}
+	"config"
+	{
+		"installdir"		"SandsOfAura"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SandsOfAura.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"uselaunchcommandline"		"1"
+		"steamcontrollertemplateindex"		"2"
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1119841"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9180849695637102981"
+					"size"		"16879620177"
+					"download"		"16498080912"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"default_debug"
+				{
+					"gid"		"0F082478E7D6AC8F1FEC747625826FE1"
+					"size"		"8FA25C7B6F6AA9716FC7490F9A8051A9"
+					"download"		"F9D551B8973D9F88FDE0DC19435D95E0"
+				}
+				"test_beta"
+				{
+					"gid"		"FE957320A1264C431067BC1934549C0D"
+					"size"		"255C557EB606599A9AA9783B723BCE04"
+					"download"		"26AA5400D36C611EAA921C6D441CD8AA"
+				}
+				"test_johns"
+				{
+					"gid"		"596F73BFE9B4C272016DE3BE6603ABF2"
+					"size"		"EADB770D4C70896131D2E20FECEBDD6A"
+					"download"		"42FAB3A0FA42633C35FED233CB29D93C"
+				}
+				"test_private"
+				{
+					"gid"		"27D8DDF4BB2FD214D18DBCD84F7C071C"
+					"size"		"A8557CAC0624935207D378ABA379C19B"
+					"download"		"03C47D2B0D673614AD06F139AD72B70E"
+				}
+				"test_public"
+				{
+					"gid"		"030A48858952B95561A2AF16F16D7FFF"
+					"size"		"959836F36B132DF67C54C9E02762BA39"
+					"download"		"E6ED422025C08A5BFAF50BD1F81DA751"
+				}
+			}
+		}
+		"baselanguages"		"english"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10998529"
+				"timeupdated"		"1681426207"
+			}
+			"default_debug"
+			{
+				"buildid"		"9412402"
+				"pwdrequired"		"1"
+				"timeupdated"		"1661821424"
+			}
+			"test_beta"
+			{
+				"buildid"		"9412055"
+				"pwdrequired"		"1"
+				"timeupdated"		"1661816894"
+			}
+			"test_johns"
+			{
+				"buildid"		"12177341"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694605359"
+			}
+			"test_private"
+			{
+				"buildid"		"12177341"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694605367"
+			}
+			"test_public"
+			{
+				"buildid"		"12177341"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694605376"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"SandsOfAura/Saved/SaveGames"
+				"pattern"		"Game_*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
