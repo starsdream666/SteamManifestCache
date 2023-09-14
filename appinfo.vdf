@@ -1,0 +1,195 @@
+"appinfo"
+{
+	"appid"		"1725950"
+	"common"
+	{
+		"name"		"魔塔地牢"
+		"type"		"Game"
+		"releasestate"		"released"
+		"clienttga"		"3f5e6e5bd6cc618d1e351d85190879278ecc8e69"
+		"logo"		"d9064404c691feb8e3d5a2ca85a77c1c562a4923"
+		"logo_small"		"d9064404c691feb8e3d5a2ca85a77c1c562a4923_thumb"
+		"icon"		"75cd959d7e73cbfe25838bce3d3611f6362ec66b"
+		"clienticon"		"1061fa9f093de528264298d643408fc91167e98d"
+		"oslist"		"windows,linux"
+		"osarch"		"64"
+		"osextended"		""
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"62.5107067579292"
+				"height_pct"		"58.59593742622047"
+			}
+		}
+		"store_asset_mtime"		"1630078460"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Zeros"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Zeros"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"3"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_38"		"1"
+			"category_23"		"1"
+			"category_18"		"1"
+			"category_9"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1631634055"
+		"community_hub_visible"		"1"
+		"gameid"		"1725950"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"9"
+			"2"		"4182"
+			"3"		"3834"
+			"4"		"3871"
+			"5"		"3959"
+			"6"		"3964"
+			"7"		"4004"
+			"8"		"21"
+			"9"		"17305"
+			"10"		"4325"
+			"11"		"922563"
+			"12"		"1716"
+			"13"		"6426"
+			"14"		"492"
+			"15"		"1741"
+		}
+		"review_score"		"6"
+		"review_percentage"		"72"
+	}
+	"extended"
+	{
+		"developer"		"Zeros"
+		"publisher"		"Zeros"
+		"listofdlc"		"1726320,2402970,2402971"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"魔塔地牢"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Game.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,schinese"
+		"hasdepotsindlc"		"0"
+		"1725951"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5161342773725438061"
+					"size"		"401385454"
+					"download"		"203305472"
+				}
+				"old-version"
+				{
+					"gid"		"7287791915932803846"
+					"size"		"400172144"
+					"download"		"203260480"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"3AB125C30FC7EF12B9446925A03C9B4B"
+					"size"		"FD213E1A05C301398BC8D1AAD42B84D1"
+					"download"		"AF3FE2F0B61C1A9A9C11C0EF164BEA38"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12099253"
+				"timeupdated"		"1693749768"
+			}
+			"old-version"
+			{
+				"buildid"		"11738885"
+				"description"		"老版本，如果无法读取存档请在这个版本转生之后再更新"
+				"timeupdated"		"1693749906"
+			}
+			"test"
+			{
+				"buildid"		"10805388"
+				"pwdrequired"		"1"
+				"timeupdated"		"1679230734"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"3000000"
+		"maxnumfiles"		"30"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"save"
+				"pattern"		"*.rmmzsave"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
