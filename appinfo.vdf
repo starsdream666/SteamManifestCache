@@ -1,0 +1,267 @@
+"appinfo"
+{
+	"appid"		"1291170"
+	"common"
+	{
+		"name"		"Terrordrome - Reign of the Legends"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"c655fbcf74a626896d9c7b6872c464d8ee9bdcfd"
+		"logo"		"ef095c8897a49c05ea7ce5556cf9622f277a3a00"
+		"logo_small"		"ef095c8897a49c05ea7ce5556cf9622f277a3a00_thumb"
+		"clienttga"		"47b36221b86412a575968affb6b9f90ccbf2064f"
+		"clienticon"		"7898480abf0207193939f49f7228d1b11967bbe1"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"58.76763457271425"
+				"height_pct"		"63.19710799060849"
+			}
+		}
+		"store_asset_mtime"		"1681051547"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Huracan Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Forthright Entertainment"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"23"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_18"		"1"
+			"category_49"		"1"
+			"category_37"		"1"
+			"category_24"		"1"
+			"category_44"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"original_release_date"		"1595574000"
+		"steam_release_date"		"1595563248"
+		"community_hub_visible"		"1"
+		"gameid"		"1291170"
+		"store_tags"
+		{
+			"0"		"4736"
+			"1"		"19"
+			"2"		"1667"
+			"3"		"1743"
+			"4"		"4342"
+			"5"		"3952"
+			"6"		"4191"
+			"7"		"3859"
+			"8"		"4182"
+			"9"		"1775"
+			"10"		"7368"
+			"11"		"5673"
+			"12"		"4018"
+			"13"		"17015"
+			"14"		"9541"
+			"15"		"4064"
+			"16"		"6915"
+			"17"		"1721"
+			"18"		"5372"
+			"19"		"3993"
+		}
+		"review_score"		"8"
+		"review_percentage"		"81"
+	}
+	"extended"
+	{
+		"absolutemousecoordinates"		"0"
+		"remoteplaytogethertestingbranches"		"default"
+		"developer"		"Huracan Studio"
+		"publisher"		"Forthright Entertainment"
+		"homepage"		"https://terrordrome-thegame.com/"
+	}
+	"config"
+	{
+		"installdir"		"Terrordrome-ROTL"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"LaunchGame.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"3"
+			{
+				"executable"		"Terrordrome-ROTL.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"connectiontest"
+				}
+			}
+			"4"
+			{
+				"executable"		"Terrordrome-ROTL.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamdecktouchscreen"		"5"
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"hasdepotsindlc"		"1"
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1291171"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7549116003961572013"
+					"size"		"20347253355"
+					"download"		"5570253680"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"connectiontest"
+				{
+					"gid"		"82A084A5DB52145AE2F55BEDBA63818A"
+					"size"		"B38C2AB181359DD2213030B9D22C62EF"
+					"download"		"E448EE43EA8A2162318E89ACD7EDA4B2"
+				}
+				"patreonaccess"
+				{
+					"gid"		"0705DAE66D5DBB459347277B7F755FE6"
+					"size"		"AFD0D810C8F5D865D7089DEE871E62A8"
+					"download"		"6682A18CFB4CE903A5350DA94BA1CBAC"
+				}
+				"previewbuild"
+				{
+					"gid"		"32A82A8545EB3FDAEFB7D75030DE52E0"
+					"size"		"283FE7FFE2ACC31B3E75071070DBCE19"
+					"download"		"2A6FBC30318EE5CCF19FE9C01700F690"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11876577"
+				"timeupdated"		"1691286225"
+			}
+			"connectiontest"
+			{
+				"buildid"		"11590647"
+				"pwdrequired"		"1"
+				"timeupdated"		"1688059170"
+			}
+			"patreonaccess"
+			{
+				"buildid"		"12169665"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694528713"
+			}
+			"previewbuild"
+			{
+				"buildid"		"12082236"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693748335"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000"
+		"maxnumfiles"		"2"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"Terrordrome-ROTL_Data"
+				"pattern"		"trdmdata.txt"
+			}
+		}
+	}
+}
