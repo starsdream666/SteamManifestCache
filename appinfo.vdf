@@ -1,0 +1,457 @@
+"appinfo"
+{
+	"appid"		"692890"
+	"common"
+	{
+		"name"		"Roboquest"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"6f9662dab0709d9831b3c3d8e8651d4859e015a3"
+		"logo"		"5da7e707b9e3b73efee43ef7b3feed6175b8c820"
+		"logo_small"		"5da7e707b9e3b73efee43ef7b3feed6175b8c820_thumb"
+		"clienttga"		"d31e69aea42e943a9797fe11072fe11794eb5a29"
+		"clienticon"		"fe634bd380a567e3fdb0601af0cadf0c553e34a0"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1684886400"
+			"tested_build_id"		"10470407"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-1"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+				"proton_compat_config"		"nomfdxgiman,"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"29.216406846799998"
+				"height_pct"		"55.07707063134503"
+			}
+		}
+		"store_asset_mtime"		"1675355140"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"RyseUp Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"RyseUp Studios"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Starbreeze Publishing"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_38"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_18"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"hungarian"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1597939765"
+		"community_hub_visible"		"1"
+		"gameid"		"692890"
+		"store_tags"
+		{
+			"0"		"1663"
+			"1"		"42804"
+			"2"		"3959"
+			"3"		"1685"
+			"4"		"3843"
+			"5"		"1774"
+			"6"		"1734"
+			"7"		"3835"
+			"8"		"353880"
+			"9"		"4885"
+			"10"		"19"
+			"11"		"1759"
+			"12"		"3942"
+			"13"		"4252"
+			"14"		"492"
+			"15"		"4305"
+			"16"		"4182"
+			"17"		"3839"
+			"18"		"3859"
+			"19"		"1716"
+		}
+		"review_score"		"8"
+		"review_percentage"		"94"
+	}
+	"extended"
+	{
+		"developer"		"RyseUp Studios"
+		"publisher"		"RyseUp Studios"
+		"homepage"		"http://www.roboquest.com/"
+	}
+	"config"
+	{
+		"installdir"		"RoboQuest"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"RoboQuest.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"692891"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5901963510545845379"
+					"size"		"3113335664"
+					"download"		"2837932912"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closedplaytest"
+				{
+					"gid"		"35579CAF4EAE303DCCA1B7903D26954F"
+					"size"		"A64105E5F6D28CA24A93292B04A89DDD"
+					"download"		"95F931E2C70757A7EFC4585328704A14"
+				}
+				"dev_crossnetwork"
+				{
+					"gid"		"C90F3998EC331E3C155EFD5E01219B68"
+					"size"		"51AAFA818425EB481951C8A71DADE567"
+					"download"		"5BB36504BF627AE4DA7BFDBC794FFBC8"
+				}
+				"developer"
+				{
+					"gid"		"62E4D090A0333CBADEB5E8CE5770C717"
+					"size"		"5F5182199A4F59559A6EBEEACEB49C6D"
+					"download"		"E146CB7C530BDABCF1AC7CAA66C71285"
+				}
+				"eos_dev"
+				{
+					"gid"		"95E6C9D012B4401C374DC857BE3606EA"
+					"size"		"C2990851B0457CB6E9A74B1DBE0C326E"
+					"download"		"37D51D43E54D6E3485F28992456D7329"
+				}
+				"gamescom"
+				{
+					"gid"		"700297E69B7439BA8A5349A928343397"
+					"size"		"C61FBE5D72B80FA85E51413684F12982"
+					"download"		"71BC0B0F1E71FA4ACE3C819E2C617D79"
+				}
+				"gigachad_trad"
+				{
+					"gid"		"58E7EAFD17795AC9374DDA7F3263913E"
+					"size"		"E0FFC413BFDB384CDD7F335283495C98"
+					"download"		"48020930473E5FE8136A0BBE00FEC59F"
+				}
+				"gigachadquest"
+				{
+					"gid"		"0ABF95594B42D76E510F8E48DCBD5FBA"
+					"size"		"EDD925F6AE21D9EE547FF7AC29E82B0A"
+					"download"		"3246CF6E2E498A36E419F32790C03A3C"
+				}
+				"jamesaroni"
+				{
+					"gid"		"F5B5FF9E3E01F9A8BA56601C36FD54CD"
+					"size"		"8EB09EBB8F31B0160CAF176824048456"
+					"download"		"E19FDDAA2E68A9A580A5E528A1C72395"
+				}
+				"localization"
+				{
+					"gid"		"C8126385AC7DDF52F75373A5CBEEE4EA"
+					"size"		"578D41212A77CD9A96C5790E673C6B3D"
+					"download"		"7428E058F842A3359F48E7ACBA0240AA"
+				}
+				"oldschool"
+				{
+					"gid"		"C8DED37A9A47D59AE2396D23127A121F"
+					"size"		"59B6883D7C6D8115A4E9E9E70DFB8350"
+					"download"		"26904E1FB0520D9EA9272FEA10C7EA4B"
+				}
+				"opti"
+				{
+					"gid"		"F4240B0D367D811773AFB0C2D3970375"
+					"size"		"5EBEB78D7950A04A06DB0C3AA5BE4C6D"
+					"download"		"A1F6F8C739D624E157B1D408F0FBE43F"
+				}
+				"record"
+				{
+					"gid"		"A6FC089E34AF519A5709FD91ED866348"
+					"size"		"B542A32D7D9044CBA8F35B07C44D9EFD"
+					"download"		"1C7F9E11804210BD069F76057B101897"
+				}
+			}
+		}
+		"1410960"
+		{
+			"dlcappid"		"1410960"
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10470407"
+				"timeupdated"		"1675447363"
+			}
+			"closedplaytest"
+			{
+				"buildid"		"12170430"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694535621"
+			}
+			"dev_crossnetwork"
+			{
+				"buildid"		"11866343"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691144867"
+			}
+			"developer"
+			{
+				"buildid"		"12169730"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694529249"
+			}
+			"eos_dev"
+			{
+				"buildid"		"11847558"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690978219"
+			}
+			"gamescom"
+			{
+				"buildid"		"12005428"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692726079"
+			}
+			"gigachad_trad"
+			{
+				"buildid"		"12170843"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694538237"
+			}
+			"gigachadquest"
+			{
+				"buildid"		"12123787"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694073651"
+			}
+			"jamesaroni"
+			{
+				"buildid"		"9578239"
+				"pwdrequired"		"1"
+				"timeupdated"		"1663939012"
+			}
+			"localization"
+			{
+				"buildid"		"9853868"
+				"pwdrequired"		"1"
+				"timeupdated"		"1667399825"
+			}
+			"oldschool"
+			{
+				"buildid"		"2333262"
+				"pwdrequired"		"1"
+				"timeupdated"		"1673970253"
+			}
+			"opti"
+			{
+				"buildid"		"6582333"
+				"pwdrequired"		"1"
+				"timeupdated"		"1619085886"
+			}
+			"record"
+			{
+				"buildid"		"10017187"
+				"pwdrequired"		"1"
+				"timeupdated"		"1669626215"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000"
+		"maxnumfiles"		"3"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"RoboQuest/Saved/SaveGames"
+				"pattern"		"Controls.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"RoboQuest/Saved/SaveGames"
+				"pattern"		"Profile.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"2"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"RoboQuest/Saved/SaveGames"
+				"pattern"		"Settings.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"3"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"RoboQuest/Saved/SaveGames"
+				"pattern"		"ProfileCopy.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
