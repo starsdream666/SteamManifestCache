@@ -1,0 +1,344 @@
+"appinfo"
+{
+	"appid"		"1389270"
+	"common"
+	{
+		"name"		"Don't Crash - The Political Game"
+		"type"		"Game"
+		"releasestate"		"released"
+		"clienticon"		"bc8a7de6eac28a1c88680a7768ff84dfd0f69ba4"
+		"clienttga"		"5736d8b5ff56ae600a28547068f7ccc40fa14ce0"
+		"icon"		"f113e62349c4310381510b8c8fba185754437537"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"1f1b17bda2e5f979654bd9c7baf268162226484f"
+		"logo_small"		"1f1b17bda2e5f979654bd9c7baf268162226484f_thumb"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"58.19296410260756"
+				"height_pct"		"62.7659591736972"
+			}
+		}
+		"store_asset_mtime"		"1666987043"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Tegridy Made Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Tegridy Made Games"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Don't Crash"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"23"
+			"4"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1598518848"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1389270"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"21"
+			"2"		"597"
+			"3"		"1773"
+			"4"		"3834"
+			"5"		"1774"
+			"6"		"4885"
+			"7"		"1663"
+			"8"		"620519"
+			"9"		"353880"
+			"10"		"4255"
+			"11"		"3871"
+			"12"		"4191"
+			"13"		"4305"
+			"14"		"3839"
+			"15"		"3964"
+			"16"		"1662"
+			"17"		"4166"
+			"18"		"1719"
+			"19"		"5923"
+		}
+		"review_score"		"8"
+		"review_percentage"		"95"
+	}
+	"extended"
+	{
+		"developer"		"Tegridy Made Games"
+		"publisher"		"Tegridy Made Games"
+		"homepage"		"https://m.youtube.com/ericyoungvfx/"
+	}
+	"config"
+	{
+		"installdir"		"Don't Crash - The Trump Game"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Dont_Crash_The_Trump_Game.exe"
+				"description"		"Launch"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"CRASH_GAME_MAC_v1.0.9.app"
+				"description"		"Launch_Mac"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"CRASH_GAME.x86_64"
+				"description"		"Launch_Linux"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1389271"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"962243189866324696"
+					"size"		"3891937989"
+					"download"		"1379202640"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"linuxtestbranch"
+				{
+					"gid"		"CFE6DD9A3E4739FF85E1BAAEA490AA4B"
+					"size"		"1C53890B146D9F0FE9BC2D9B57397498"
+					"download"		"0B73BD398318C07FA5440FE7C5907167"
+				}
+				"mactestbranch"
+				{
+					"gid"		"2190A848E503E0A158624931E19C61D3"
+					"size"		"EA0214C59104AEE330560A5E4F508DBE"
+					"download"		"423B1AFEE11934B0A5CA84265CA0B71C"
+				}
+				"testy"
+				{
+					"gid"		"4F742EFED925201ACD70091254B723C9"
+					"size"		"BDC1494CDE3E07D1167881660CE0F42F"
+					"download"		"52CD17071A1E14093FDB226597CBD0AA"
+				}
+			}
+		}
+		"1389272"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9200515099843380754"
+					"size"		"57099384"
+					"download"		"18246128"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"linuxtestbranch"
+				{
+					"gid"		"45C29E5AC0F15267A2E55C0BF847244F"
+					"size"		"5E60D21C103771CCA0C21FD5E1A9AF3F"
+					"download"		"93211EDA3E7BFAD7AC60AABBA4E3715F"
+				}
+				"mactestbranch"
+				{
+					"gid"		"26E7A200586965DD45FE5C4B040B17AF"
+					"size"		"3E43E510510346552CAF401C2F3FCB96"
+					"download"		"E154B8589B2E0789E79BE07739B26EA6"
+				}
+				"testy"
+				{
+					"gid"		"CE82E03AE8ECFB03809C96AE5BFBEA73"
+					"size"		"37CA46D73E059487B644BD0EF2EBDE78"
+					"download"		"3B303D89C2283E3ABF0703D670631027"
+				}
+			}
+		}
+		"1389273"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8242324512885810487"
+					"size"		"4592634068"
+					"download"		"1667056496"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"linuxtestbranch"
+				{
+					"gid"		"0B5DF162B6714BACB55C2095EA385068"
+					"size"		"D1203D4A39351887F84A62AD5F9162B8"
+					"download"		"FE812EC8312DF7D227D9A3AE0F224B3A"
+				}
+				"mactestbranch"
+				{
+					"gid"		"A69EF34A14F548B4FC64CD68CCDAD017"
+					"size"		"85655F8A0D22A46DE38CF876EEA81FBD"
+					"download"		"FD81B92D3E93493EECED0C27752FD175"
+				}
+				"testy"
+				{
+					"gid"		"428BA95871A5A6E0BF5CEAE5BAEF825C"
+					"size"		"1FDB7F4AF1F981426D23E46972DFEC53"
+					"download"		"9AD7D63D9FD346BF7244CE87540124C7"
+				}
+			}
+		}
+		"1389274"
+		{
+			"config"
+			{
+				"oslist"		"windows,linux"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5905649198825696288"
+					"size"		"3916401566"
+					"download"		"1385524544"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"linuxtestbranch"
+				{
+					"gid"		"7EE52788BE32DA0124E84EF9C148442D"
+					"size"		"01F7C4ABD26245CF2533539F6A97F8C1"
+					"download"		"DE7512A20CCAAF908B0A358D1736973A"
+				}
+				"testy"
+				{
+					"gid"		"C9DAF4C5F5D9D9EE1AF778429C229677"
+					"size"		"BE812C9BB0B23DC4E7DF3744B666A360"
+					"download"		"7A4054136DC8D7350BA893716F153C0E"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9248133"
+				"timeupdated"		"1659564264"
+			}
+			"linuxtestbranch"
+			{
+				"buildid"		"5454957"
+				"pwdrequired"		"1"
+				"timeupdated"		"1598333992"
+			}
+			"mactestbranch"
+			{
+				"buildid"		"5453744"
+				"pwdrequired"		"1"
+				"timeupdated"		"1598308205"
+			}
+			"testy"
+			{
+				"buildid"		"6247226"
+				"pwdrequired"		"1"
+				"timeupdated"		"1613486336"
+			}
+		}
+	}
+}
