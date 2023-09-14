@@ -1,0 +1,428 @@
+"appinfo"
+{
+	"appid"		"1450900"
+	"common"
+	{
+		"name"		"Desynced"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"languages"
+		{
+			"english"		"1"
+		}
+		"clienticon"		"14c6979272e89a87a0c5dec813f6cb2234b31c3e"
+		"clienttga"		"eccb2fcb85871fec1e258c0965df8cf9b054387a"
+		"icon"		"34e746e291d13b5ca9e8daf7197e85eb2659f24e"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1693958400"
+			"tested_build_id"		"12012165"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"4"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"29.71048713805598"
+				"height_pct"		"92.02127696579225"
+			}
+		}
+		"store_asset_mtime"		"1692146716"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Stage Games Inc."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Forklift Interactive"
+			}
+		}
+		"primary_genre"		"70"
+		"genres"
+		{
+			"0"		"28"
+			"1"		"2"
+			"2"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_18"		"1"
+			"category_30"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1692110782"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1450900"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"255534"
+			"2"		"7332"
+			"3"		"1676"
+			"4"		"3942"
+			"5"		"3859"
+			"6"		"4328"
+			"7"		"1662"
+			"8"		"12472"
+			"9"		"8945"
+			"10"		"1643"
+			"11"		"4182"
+			"12"		"599"
+			"13"		"3843"
+			"14"		"3810"
+			"15"		"1685"
+			"16"		"4191"
+			"17"		"493"
+			"18"		"4791"
+			"19"		"1695"
+		}
+		"review_score"		"8"
+		"review_percentage"		"86"
+	}
+	"extended"
+	{
+		"developer"		"Stage Games Inc."
+		"publisher"		"Forklift Interactive"
+		"homepage"		"https://www.desyncedgame.com/"
+	}
+	"config"
+	{
+		"installdir"		"Desynced"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Desynced\\Binaries\\Win64\\Desynced.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Desynced\\Binaries\\Win64\\DesyncedDemo.exe"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"demo"
+				}
+				"description_loc"
+				{
+					"english"		"Demo"
+				}
+				"description"		"Demo"
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"65533"
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1450901"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4913895580476829667"
+					"size"		"1304659068"
+					"download"		"1173001088"
+				}
+				"11146_stable"
+				{
+					"gid"		"3917798220647901948"
+					"size"		"1297203898"
+					"download"		"1166288224"
+				}
+				"11185_stable"
+				{
+					"gid"		"3773848184049433725"
+					"size"		"1297211290"
+					"download"		"1166286464"
+				}
+				"11263_stable"
+				{
+					"gid"		"3267699241472610439"
+					"size"		"1301283270"
+					"download"		"1170341264"
+				}
+				"experimental"
+				{
+					"gid"		"4913895580476829667"
+					"size"		"1304659068"
+					"download"		"1173001088"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha_test"
+				{
+					"gid"		"5850F7274D185187245C72D440937AA5"
+					"size"		"E13F55398EDD2BF4386C26B6B386F108"
+					"download"		"C03FD4207B5591B1F19E7656DA636451"
+				}
+				"demo"
+				{
+					"gid"		"67CD0EC59392753897C38DCD45C4966F"
+					"size"		"CC90D54272B8481C7D1E2A0F55146FD7"
+					"download"		"4C4382732BFC20763BD5BC50BAC1EB25"
+				}
+				"e_test"
+				{
+					"gid"		"C9C3B2949625CF8A05E8EA37E362DB00"
+					"size"		"1839BBBBAA7031B61D1340F5940D22ED"
+					"download"		"BB49142490445CEABB90FB2AE68EF16F"
+				}
+				"internal_test"
+				{
+					"gid"		"4070E8C60474D5EC35FCD55CC4C2BBC4"
+					"size"		"7A462A33D9AE190F88D05401ABC593D3"
+					"download"		"7A462A33D9AE190F88D05401ABC593D3"
+				}
+				"mathtest"
+				{
+					"gid"		"E17360AFD981C662722FFCE84D4CB935"
+					"size"		"502B3AB4789A1036C400464B7B8B3937"
+					"download"		"1F9AB15EECB568139F37132616230A84"
+				}
+				"stage_dev"
+				{
+					"gid"		"2CE905BDBBBA2B777956A499442B5A24"
+					"size"		"0FA3E1AFEE3E65629F2A7302E566028D"
+					"download"		"68D22A38D04B56D5CF623950E31836B1"
+				}
+				"uiux"
+				{
+					"gid"		"222EB06A23E5BBC93CB347CC66AA6064"
+					"size"		"CD1FAD5E379FFBA74751B18FF01E0CE2"
+					"download"		"BDF40A27AD6647337765A8BDFC6FF362"
+				}
+			}
+		}
+		"workshopdepot"		"1450900"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12120243"
+				"timeupdated"		"1694243984"
+			}
+			"11146_stable"
+			{
+				"buildid"		"11944105"
+				"description"		"Desynced Stable 0.1.11146"
+				"timeupdated"		"1692331262"
+			}
+			"11185_stable"
+			{
+				"buildid"		"11971495"
+				"description"		"Desynced Stable 0.1.11185"
+				"timeupdated"		"1692789336"
+			}
+			"11263_stable"
+			{
+				"buildid"		"12012165"
+				"description"		"Desynced Stable 0.1.11263"
+				"timeupdated"		"1694243924"
+			}
+			"alpha_test"
+			{
+				"buildid"		"10558366"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687177945"
+			}
+			"demo"
+			{
+				"buildid"		"11560250"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687786684"
+			}
+			"e_test"
+			{
+				"buildid"		"10627313"
+				"pwdrequired"		"1"
+				"timeupdated"		"1677224294"
+			}
+			"experimental"
+			{
+				"buildid"		"12120243"
+				"description"		"Experimental Branch, use at your own risk!"
+				"timeupdated"		"1693987172"
+			}
+			"internal_test"
+			{
+				"buildid"		"5980042"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689690422"
+			}
+			"mathtest"
+			{
+				"buildid"		"11734119"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689739283"
+			}
+			"stage_dev"
+			{
+				"buildid"		"12139501"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694158371"
+			}
+			"uiux"
+			{
+				"buildid"		"11884152"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691414112"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1073741824"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"Desynced/Saved/SaveGames"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
