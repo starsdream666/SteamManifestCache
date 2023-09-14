@@ -1,0 +1,312 @@
+"appinfo"
+{
+	"appid"		"1094390"
+	"common"
+	{
+		"name"		"Waltz of the Wizard"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"openvr_action_manifest_path"		"actions.json"
+		"openvrsupport"		"1"
+		"othervrsupport"		"1"
+		"othervrsupport_rift_13"		"1"
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"clienttga"		"78de067da027cdf24c407ee195371715718116c3"
+		"clienticon"		"00d823b97bd8ee1b049d9ae2911ed6db63f0b0b7"
+		"icon"		"5b99edcfa6053623d24925e027b42c7e02db5841"
+		"logo"		"eb355de34c90d1797d450bfc9a09b2913ebc961e"
+		"logo_small"		"eb355de34c90d1797d450bfc9a09b2913ebc961e_thumb"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1094390_eula_0"
+				"name"		"Waltz of the Wizard: Natural Magic EULA"
+				"url"		"https://store.steampowered.com//eula/1094390_eula_0"
+				"version"		"2"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1680556005"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Aldin Dynamics"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Aldin Dynamics"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"3"
+			"4"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_44"		"1"
+			"category_52"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1562767078"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1094390"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"599"
+			"1"		"19"
+			"2"		"4057"
+			"3"		"3993"
+			"4"		"21978"
+			"5"		"4166"
+			"6"		"1684"
+			"7"		"1667"
+			"8"		"3810"
+			"9"		"492"
+			"10"		"4106"
+			"11"		"3834"
+			"12"		"3839"
+			"13"		"3934"
+			"14"		"3968"
+			"15"		"1719"
+			"16"		"4604"
+			"17"		"4182"
+			"18"		"5923"
+			"19"		"21"
+		}
+		"review_score"		"8"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Aldin Dynamics"
+		"publisher"		"Aldin Dynamics"
+		"homepage"		"http://aldin.io"
+	}
+	"config"
+	{
+		"installdir"		"Waltz of the Wizard Extended Edition"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Waltz of the Wizard Extended Edition.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"/Witchcraft/Waltz of the Wizard Witchcraft.exe"
+				"workingdir"		"/Witchcraft/"
+				"description"		"Test"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"omega"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1094391"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1348948318080503415"
+					"size"		"6020926546"
+					"download"		"3280822144"
+				}
+				"reverb-fix"
+				{
+					"gid"		"3769871410657781973"
+					"size"		"6020919901"
+					"download"		"3280821520"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"CB9E458A6381ED5909276BDA0858200A"
+					"size"		"6B80E063AF65054863B9ECDFA54A57C2"
+					"download"		"4CB3453BCC447F15C559FBB872705D37"
+				}
+				"beta"
+				{
+					"gid"		"B8C3A64E7A3070794399637ECB0A1058"
+					"size"		"9B1A80CD69A0C7CD61E1FD64E9AEA3E1"
+					"download"		"346E579BB9E1E8C5E042B3B83624ABEC"
+				}
+				"experiments"
+				{
+					"gid"		"2672B2D8BE5E7F99688A1AC78E5C14F2"
+					"size"		"E8F3E56A83F7FCE6E77ED52C006B8FFF"
+					"download"		"D59D463506E6409A6E21BF89CB0A29EC"
+				}
+				"oldlivebuild"
+				{
+					"gid"		"4A6D3A94474C675AA1F1D1B401BD78BD"
+					"size"		"96E128DAFB03A35029662680AFDF1A79"
+					"download"		"CD6F50B2EF745E3C660EDB1693A9E716"
+				}
+				"omega"
+				{
+					"gid"		"594FE9926641E54CAB6BD0452543D70A"
+					"size"		"D8E9E47EE1DC4B9CA9A200581F6D2D12"
+					"download"		"B38BD063D0F1BF10D0567A0D4794DB7C"
+				}
+			}
+		}
+		"1094399"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"omega"
+				{
+					"gid"		"AE296A7E6D27013A489663412926E966"
+					"size"		"9EDAAE25E06CA5A95F9A039BDADC1F39"
+					"download"		"30F20ED55E16BAF5AC7BFC70BFAEE9E6"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10147614"
+				"timeupdated"		"1671038292"
+			}
+			"alpha"
+			{
+				"buildid"		"12034453"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692983169"
+			}
+			"beta"
+			{
+				"buildid"		"12015148"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692867078"
+			}
+			"experiments"
+			{
+				"buildid"		"10409863"
+				"pwdrequired"		"1"
+				"timeupdated"		"1674747725"
+			}
+			"oldlivebuild"
+			{
+				"buildid"		"8692358"
+				"pwdrequired"		"1"
+				"timeupdated"		"1669111226"
+			}
+			"omega"
+			{
+				"buildid"		"4911913"
+				"pwdrequired"		"1"
+				"timeupdated"		"1587154487"
+			}
+			"reverb-fix"
+			{
+				"buildid"		"10163961"
+				"description"		"Hopefully fixes issue with HP Reverb headsets"
+				"timeupdated"		"1671208098"
+			}
+		}
+	}
+}
