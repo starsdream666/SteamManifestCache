@@ -1,0 +1,276 @@
+"appinfo"
+{
+	"appid"		"1262930"
+	"common"
+	{
+		"name"		"Handball Manager 2021"
+		"type"		"Game"
+		"logo"		"cbd068247e4f6233f3301d3c266a23123d24c088"
+		"logo_small"		"cbd068247e4f6233f3301d3c266a23123d24c088_thumb"
+		"icon"		"2d0a640f1cedad348a6009540266dd1e893e5ebc"
+		"clienttga"		"aa933383489090a1216cbe25de7fc62ecf832747"
+		"clienticon"		"2816918ef26ca15d64108888620020b2944b55fe"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"spanish"		"1"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1687996800"
+			"tested_build_id"		"8287371"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_GameOrLauncherDoesntExitCleanly"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_NativeResolutionNotSupported"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"5"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-2"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1619098797"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"netmin games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"netmin games"
+			}
+		}
+		"primary_genre"		"18"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"28"
+			"2"		"18"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_30"		"1"
+			"category_15"		"1"
+			"category_25"		"1"
+			"category_29"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1611829320"
+		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1262930"
+		"store_tags"
+		{
+			"0"		"701"
+			"1"		"599"
+			"2"		"12472"
+			"3"		"4695"
+			"4"		"10235"
+			"5"		"14139"
+			"6"		"1741"
+			"7"		"12057"
+			"8"		"492"
+			"9"		"9"
+			"10"		"1643"
+			"11"		"1669"
+			"12"		"3916"
+			"13"		"4004"
+			"14"		"26921"
+			"15"		"29363"
+			"16"		"6426"
+			"17"		"4747"
+			"18"		"4182"
+			"19"		"6869"
+		}
+		"review_score"		"8"
+		"review_percentage"		"86"
+	}
+	"extended"
+	{
+		"developer"		"netmin games"
+		"publisher"		"netmin games"
+		"listofdlc"		"1777520"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"HBM2021"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"HBM_2021.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"workshopdepot"		"1262930"
+		"baselanguages"		""
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1262931"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8852488013974677047"
+					"size"		"4467527351"
+					"download"		"1034630080"
+				}
+			}
+		}
+		"1777520"
+		{
+			"dlcappid"		"1777520"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8007840697640088712"
+					"size"		"2409885870"
+					"download"		"732252048"
+				}
+			}
+		}
+		"hasdepotsindlc"		"0"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11533822"
+				"timeupdated"		"1687427192"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1048576000"
+		"maxnumfiles"		"10000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"Save"
+				"pattern"		"*.hsv"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
