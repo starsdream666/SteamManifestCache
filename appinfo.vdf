@@ -1,0 +1,378 @@
+"appinfo"
+{
+	"appid"		"720280"
+	"common"
+	{
+		"name"		"Fox Hime"
+		"type"		"Game"
+		"releasestate"		"released"
+		"clienticon"		"683001432541e10028b0d377f88531f9b33ff657"
+		"clienttga"		"c979d430204677782b78c6a7db075f490f513eb2"
+		"icon"		"b7c1bdade2da384bf9bcb48228f39053319160e1"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"logo"		"a682fb87598b79188c37b4c5f2e3c45e21716884"
+		"logo_small"		"a682fb87598b79188c37b4c5f2e3c45e21716884_thumb"
+		"clienticns"		"23863aa89586440c40e61d858fb0327c78e60a4c"
+		"osextended"		"macos64"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1651708800"
+			"tested_build_id"		"5197179"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Fox Hime"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"24.828375286041194"
+				"height_pct"		"45.82047019710282"
+			}
+		}
+		"store_asset_mtime"		"1668324959"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"AsicxArt"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"SakuraGame"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Fox Hime"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"23"
+			"3"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1509686184"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"720280"
+		"store_tags"
+		{
+			"0"		"4085"
+			"1"		"3799"
+			"2"		"597"
+			"3"		"4726"
+			"4"		"21"
+			"5"		"492"
+			"6"		"122"
+			"7"		"4182"
+			"8"		"9551"
+			"9"		"9130"
+			"10"		"5611"
+			"11"		"4947"
+			"12"		"1721"
+		}
+		"review_score"		"8"
+		"review_percentage"		"85"
+	}
+	"extended"
+	{
+		"developer"		"AsicxArt"
+		"publisher"		"SakuraGame"
+		"listofdlc"		"778160"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"FoxHime"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"FoxHime.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"FoxHime.app/Contents/MacOS/FoxHime"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,schinese,tchinese,russian"
+		"hasdepotsindlc"		"0"
+		"720281"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1912256584542903277"
+					"size"		"1070055078"
+					"download"		"607164032"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"fortest_only"
+				{
+					"gid"		"FE53CA685D74F67C179B6580C18BDF22"
+					"size"		"E50C61DBC6562F2CD840206A730EF618"
+					"download"		"6FA84FD96988348F8430373731F2A4FE"
+				}
+			}
+		}
+		"720282"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3613826675482901545"
+					"size"		"1124710489"
+					"download"		"621660368"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"fortest_only"
+				{
+					"gid"		"44C950A4B008595DCA6022170612ED7F"
+					"size"		"7985BAB474CF10B752BE0F62B85427B9"
+					"download"		"8DAA9DDBA4DD022C68DDBDA8D83A9954"
+				}
+			}
+		}
+		"778160"
+		{
+			"dlcappid"		"778160"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2264564124116859770"
+					"size"		"1628006839"
+					"download"		"1155771120"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"fortest_only"
+				{
+					"gid"		"FE7359561888C641A4B5D2D6CB522B5E"
+					"size"		"334CD9776CCFC335D4E4EDFEFFFDE663"
+					"download"		"6FE5FCDEBCACADE5FDE456A962F0BAC9"
+				}
+			}
+		}
+		"720283"
+		{
+			"dlcappid"		"778160"
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8284282692565212209"
+					"size"		"1682679146"
+					"download"		"1170267248"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"fortest_only"
+				{
+					"gid"		"228CBC5075BA5E027948BD44A1A69FF8"
+					"size"		"F3CEB09354755450AD314ECE2B80C846"
+					"download"		"38112FD080A1E60C13A3A9FE42FFDC20"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5197179"
+				"timeupdated"		"1592818511"
+			}
+			"fortest_only"
+			{
+				"buildid"		"5197179"
+				"pwdrequired"		"1"
+				"timeupdated"		"1592801656"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"FoxHime_Data/StreamingAssets"
+				"pattern"		"userinfo.db"
+			}
+			"1"
+			{
+				"root"		"gameinstall"
+				"path"		"FoxHime_Data/StreamingAssets"
+				"pattern"		"*.jpg"
+			}
+			"2"
+			{
+				"root"		"gameinstall"
+				"path"		"FoxHime_Data/StreamingAssets/ScreenShot"
+				"pattern"		"*.jpg"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"gameinstall"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"FoxHime_Data/StreamingAssets"
+						"replace"		"FoxHime.app/Contents/StreamingAssets"
+					}
+				}
+			}
+			"1"
+			{
+				"root"		"gameinstall"
+				"os"		"Windows"
+				"oscompare"		"="
+				"useinstead"		"gameinstall"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"FoxHime_Data/StreamingAssets"
+						"replace"		"FoxHime_Data/StreamingAssets"
+					}
+				}
+			}
+		}
+	}
+}
