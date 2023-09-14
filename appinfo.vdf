@@ -1,0 +1,207 @@
+"appinfo"
+{
+	"appid"		"1432750"
+	"common"
+	{
+		"name"		"Chionophile"
+		"type"		"Game"
+		"logo"		"5019cd2999e2911c66d2873704d56eb3f19d7dbc"
+		"logo_small"		"5019cd2999e2911c66d2873704d56eb3f19d7dbc_thumb"
+		"icon"		"506ca30683baa71610fa6b056743ad0f0b29622a"
+		"clienttga"		"d583b3dbf370ee450e4f174f6614a6ae7ee6b2b0"
+		"clienticon"		"b381cbc660655f8d7d7585dd2958707503b2cd3d"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1683141303"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Tonguç Bodur"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Tonguç Bodur"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Tonguç Bodur"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_22"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1603464660"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1432750"
+		"store_tags"
+		{
+			"0"		"13782"
+			"1"		"3834"
+			"2"		"5900"
+			"3"		"4191"
+			"4"		"9204"
+			"5"		"3839"
+			"6"		"4175"
+			"7"		"4166"
+			"8"		"5350"
+			"9"		"1684"
+			"10"		"5716"
+			"11"		"492"
+			"12"		"30358"
+			"13"		"15277"
+			"14"		"1654"
+			"15"		"9803"
+			"16"		"4182"
+		}
+		"review_score"		"8"
+		"review_percentage"		"89"
+	}
+	"extended"
+	{
+		"developer"		"Tonguç Bodur"
+		"publisher"		"Tonguç Bodur"
+		"homepage"		"https://tongucbodur.com/chionophile"
+	}
+	"config"
+	{
+		"installdir"		"Chionophile"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Chionophile.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1432751"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"425730977337362922"
+					"size"		"2339952250"
+					"download"		"980071568"
+				}
+				"test"
+				{
+					"gid"		"425730977337362922"
+					"size"		"2339952250"
+					"download"		"980071568"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8444558"
+				"timeupdated"		"1648318529"
+			}
+			"test"
+			{
+				"buildid"		"8444558"
+				"timeupdated"		"1648318437"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"3"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"Chionophile/Saved/SaveGames"
+				"pattern"		"LevelSave.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"Chionophile/Saved/SaveGames"
+				"pattern"		"Finished.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
