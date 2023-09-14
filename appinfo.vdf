@@ -1,0 +1,244 @@
+"appinfo"
+{
+	"appid"		"1053710"
+	"common"
+	{
+		"name"		"The Red Lantern"
+		"type"		"Game"
+		"logo"		"6988f0be2444db5a8e15e102aed767dbe1a45d35"
+		"logo_small"		"6988f0be2444db5a8e15e102aed767dbe1a45d35_thumb"
+		"icon"		"0efc0c5e80b66389d33981aceaf67b7309b4baec"
+		"clienticon"		"e62de7db837744a05e26b3e36264e5eff547168d"
+		"clienttga"		"baf72233edf0fc11f150869fa02b131e29187375"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1646956800"
+			"tested_build_id"		"7811829"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-1"
+				"requires_h264"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"55.34883720930232"
+				"height_pct"		"72.79743528853005"
+			}
+		}
+		"store_asset_mtime"		"1645671747"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Timberline Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Timberline Studio"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"23"
+			"3"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1638993615"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1053710"
+		"store_tags"
+		{
+			"0"		"4486"
+			"1"		"3834"
+			"2"		"11014"
+			"3"		"1638"
+			"4"		"5608"
+			"5"		"7208"
+			"6"		"3959"
+			"7"		"9803"
+			"8"		"1654"
+			"9"		"4305"
+			"10"		"4191"
+			"11"		"122"
+			"12"		"3839"
+			"13"		"9564"
+			"14"		"6426"
+			"15"		"597"
+			"16"		"1742"
+			"17"		"5900"
+			"18"		"21"
+			"19"		"4252"
+		}
+		"review_score"		"8"
+		"review_percentage"		"84"
+	}
+	"extended"
+	{
+		"developer"		"Timberline Studio"
+		"publisher"		"Timberline Studio"
+		"homepage"		"http://theredlanterngame.com"
+	}
+	"config"
+	{
+		"installdir"		"The Red Lantern"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TheRedLantern_sw.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"The Red Lantern"
+				}
+				"description"		"The Red Lantern"
+			}
+		}
+	}
+	"depots"
+	{
+		"1053711"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"785518854217987491"
+					"size"		"1654147851"
+					"download"		"1189254144"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"9DC6776DCC645474F3A53FF15EE891C0"
+					"size"		"CDF697C731942FD45AEA54C755914AB1"
+					"download"		"B30CEB57664475DDCAC12DAEF85244AC"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10132433"
+				"timeupdated"		"1670887417"
+			}
+			"beta"
+			{
+				"buildid"		"10132433"
+				"pwdrequired"		"1"
+				"timeupdated"		"1670885199"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"2"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinSavedGames"
+				"path"		"TheRedLantern\\Profiles\\{64BitSteamID}\\"
+				"pattern"		"Save_v2.dat"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"1"
+			{
+				"root"		"WinSavedGames"
+				"path"		"TheRedLantern\\Profiles\\{64BitSteamID}\\"
+				"pattern"		"options_v2.trl"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"os"		"Windows"
+				"oscompare"		"="
+				"useinstead"		"gameinstall"
+				"addpath"		""
+			}
+		}
+	}
+}
