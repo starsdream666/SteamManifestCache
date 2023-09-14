@@ -1,0 +1,153 @@
+"appinfo"
+{
+	"appid"		"1867050"
+	"common"
+	{
+		"name"		"Jules"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"f30dc5de1a06945d8e0bee654753b236565349ec"
+		"logo_small"		"f30dc5de1a06945d8e0bee654753b236565349ec_thumb"
+		"icon"		"a19a434154c5e69e50a66190f087c04ee420648a"
+		"clienttga"		"e75b2319d0237242dd06dab2051f8a7e5e98fd02"
+		"clienticon"		"4203a8efa449307ff4ee235ea2835554dec4d3a2"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"20.000000000000014"
+				"height_pct"		"39.20683923058655"
+			}
+		}
+		"store_asset_mtime"		"1644922745"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Mario Bee"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Mario Bee"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1642752322"
+		"community_hub_visible"		"1"
+		"gameid"		"1867050"
+		"store_tags"
+		{
+			"0"		"5379"
+			"1"		"21"
+			"2"		"1625"
+			"3"		"3871"
+			"4"		"7481"
+			"5"		"7250"
+			"6"		"3964"
+			"7"		"19"
+			"8"		"492"
+			"9"		"7743"
+			"10"		"4182"
+			"11"		"1773"
+			"12"		"3798"
+			"13"		"4252"
+			"14"		"4004"
+			"15"		"6691"
+			"16"		"1684"
+			"17"		"3916"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Mario Bee"
+		"publisher"		"Mario Bee"
+		"homepage"		"https://bee-m-nerdstuff.ch/julesen/"
+	}
+	"config"
+	{
+		"installdir"		"Jules"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Jules.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1867051"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3343293330637354336"
+					"size"		"254770990"
+					"download"		"100394880"
+				}
+			}
+		}
+		"baselanguages"		"english"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8563412"
+				"timeupdated"		"1650007821"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+	}
+}
