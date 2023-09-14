@@ -1,0 +1,315 @@
+"appinfo"
+{
+	"appid"		"766000"
+	"common"
+	{
+		"name"		"Kenshō"
+		"type"		"Game"
+		"logo"		"ace66d04fd4a91af941887ef4790a741a851024b"
+		"logo_small"		"ace66d04fd4a91af941887ef4790a741a851024b_thumb"
+		"icon"		"2ba16f066cc90b4112ad4c0eba0178694a5f625b"
+		"clienticon"		"2e97a5d782ccca55982b360604026dca9b5fa9fa"
+		"clienttga"		"24a8b00d78d063737262f602c6bb297cc1deb4f0"
+		"clienticns"		"e89496282091351921e06a2b02559275f39751ef"
+		"linuxclienticon"		"2fe0ba8679d162f6003c1d24021e707dd05b3c08"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"japanese"		"1"
+			"portuguese"		"1"
+			"brazilian"		"1"
+		}
+		"osextended"		"macos64,macosnotarized"
+		"metacritic_name"		"Kenshō"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1513854389"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"FIFTYTWO"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"FIFTYTWO"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1517419109"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"766000"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"492"
+			"2"		"1664"
+			"3"		"4182"
+			"4"		"1677"
+			"5"		"615955"
+			"6"		"1665"
+			"7"		"4191"
+			"8"		"4400"
+			"9"		"4166"
+			"10"		"30358"
+			"11"		"1710"
+			"12"		"7250"
+			"13"		"14139"
+			"14"		"25085"
+			"15"		"5752"
+			"16"		"6276"
+			"17"		"1756"
+			"18"		"3871"
+			"19"		"9"
+		}
+		"review_score"		"8"
+		"review_percentage"		"87"
+	}
+	"extended"
+	{
+		"developer"		"FIFTYTWO"
+		"publisher"		"FIFTYTWO"
+		"homepage"		"http://kensho.wefiftytwo.com"
+	}
+	"config"
+	{
+		"installdir"		"Kensho"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Kensho.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Kensho.app/Contents/MacOS/Kensho"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Kensho"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"766001"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5352279832211458073"
+					"size"		"196170298"
+					"download"		"137595408"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"072A00DD5BB3AD5FD13297CBEA2FD48F"
+					"size"		"7A139028A07EDA4B1C1EB8775ABEFC32"
+					"download"		"C370D80CC43B42B557EFFCF8B57070FC"
+				}
+			}
+		}
+		"766004"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4232381116504746917"
+					"size"		"276053041"
+					"download"		"129737648"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"809772229CA2CD326E9F31417D50A83F"
+					"size"		"466F64F5A31FA654B893B3A98E50F52A"
+					"download"		"E70FC69DC5AB18CF44471FB061039364"
+				}
+			}
+		}
+		"766002"
+		{
+			"sharedinstall"		""
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8418825439877585848"
+					"size"		"194048382"
+					"download"		"137449696"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"99FB5FE529333044D9724A1766DDBBA0"
+					"size"		"1BFB70E3AE40F4F891A62D8FDDFC40AE"
+					"download"		"CA22A395C4A1E1B474D501D989627590"
+				}
+			}
+		}
+		"766003"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3413340660855246804"
+					"size"		"199949075"
+					"download"		"139290752"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"3DBAC59FCEDD2AF721ED01CB7CAF9836"
+					"size"		"CC1E919605CA8A881166CF5A99E5BF06"
+					"download"		"DFD67033BAC3D4D7F6DC60885331AAEC"
+				}
+			}
+		}
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,dutch,brazilian,latam"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6602845"
+				"timeupdated"		"1619459792"
+			}
+			"development"
+			{
+				"buildid"		"6602845"
+				"pwdrequired"		"1"
+				"timeupdated"		"1619459525"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1048576"
+		"maxnumfiles"		"16"
+	}
+}
