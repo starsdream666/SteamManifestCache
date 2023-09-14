@@ -1,0 +1,244 @@
+"appinfo"
+{
+	"appid"		"1646350"
+	"common"
+	{
+		"name"		"夏恋幻梦"
+		"type"		"Game"
+		"logo"		"d78dbe72e2d17929a4c09e8af9caa9f727fc44d5"
+		"logo_small"		"d78dbe72e2d17929a4c09e8af9caa9f727fc44d5_thumb"
+		"icon"		"f52067e424f729a26624d29a4424119bde00aa63"
+		"clienticon"		"aaad5319e9f5a34eab5b615bd8a6ffffb231d448"
+		"clienttga"		"5c2e78b408b4f8f4da0cb130fc9bc0e209c594c5"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"small_capsule"
+		{
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"tchinese"		"header_tchinese.jpg"
+			"japanese"		"header_japanese.jpg"
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"zh-tw,en,ja,zh-cn"
+			"library_hero"		"en"
+			"library_logo"		"en,zh-tw,ja,zh-cn"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"47.19463354949665"
+				"height_pct"		"36.46153822317632"
+			}
+		}
+		"store_asset_mtime"		"1661352405"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"U-Secret Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"U-Secret Studio"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"WindField Games"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"23"
+			"3"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1660888720"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1646350"
+		"store_tags"
+		{
+			"0"		"3799"
+			"1"		"9130"
+			"2"		"4726"
+			"3"		"4136"
+			"4"		"6971"
+			"5"		"597"
+			"6"		"4562"
+			"7"		"6650"
+			"8"		"3871"
+			"9"		"599"
+			"10"		"4085"
+			"11"		"12095"
+			"12"		"21"
+			"13"		"4182"
+			"14"		"1663"
+			"15"		"492"
+		}
+		"review_score"		"8"
+		"review_percentage"		"94"
+	}
+	"extended"
+	{
+		"developer"		"U-Secret Studio"
+		"publisher"		"U-Secret Studio"
+		"listofdlc"		"2100000,2106630"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"SummerDream"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SummerDream.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Start the game."
+				}
+				"description"		"Start the game."
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"schinese"
+		"hasdepotsindlc"		"1"
+		"1646351"
+		{
+			"config"
+			{
+				"language"		"schinese"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3768905249382669592"
+					"size"		"2824712899"
+					"download"		"1312905792"
+				}
+			}
+		}
+		"1646352"
+		{
+			"config"
+			{
+				"language"		"schinese"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7816414117959286143"
+					"size"		"2824712899"
+					"download"		"1310826080"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9404126"
+				"timeupdated"		"1661703500"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1073741824"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"USecretStudio/SummerDream/{64BitSteamID}"
+				"pattern"		"*.sav"
+				"recursive"		"1"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"USecretStudio/SummerDream/{64BitSteamID}"
+						"replace"		"unity.USecretStudio.SummerDream/{64BitSteamID}"
+					}
+				}
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxHome"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"USecretStudio/SummerDream/{64BitSteamID}"
+						"replace"		".config/unity3d/USecretStudio.SummerDream/{64BitSteamID}"
+					}
+				}
+			}
+		}
+	}
+}
