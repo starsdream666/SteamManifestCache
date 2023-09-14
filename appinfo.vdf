@@ -1,0 +1,395 @@
+"appinfo"
+{
+	"appid"		"629730"
+	"common"
+	{
+		"name"		"Blade & Sorcery"
+		"type"		"Game"
+		"releasestate"		"released"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"2"
+				"360_required"		"0"
+			}
+			"standing"		"1"
+		}
+		"oslist"		"windows"
+		"osarch"		""
+		"clienticon"		"bed0cb7f4bd4840a55bad77c8c8972fd898ce3e6"
+		"clienttga"		"9830ab93e65fef5feefbbdc5e9b499fa21c0dad0"
+		"icon"		"3a01fc72a16d06a538330e11cae7ed87bf0d40e5"
+		"logo"		"39f91979154b08d2c9d8bb63fd73ac3bf71d0ba6"
+		"logo_small"		"39f91979154b08d2c9d8bb63fd73ac3bf71d0ba6_thumb"
+		"openvr_action_manifest_path"		"actions.json"
+		"openvrsupport"		"1"
+		"othervrsupport"		"1"
+		"othervrsupport_rift_13"		"1"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1644278400"
+			"tested_build_id"		"0"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_VR"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"48.91299087482321"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1669901624"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"WarpFrog"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"WarpFrog"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"3"
+			"4"		"28"
+			"5"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_52"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1544515200"
+		"steam_release_date"		"1544544000"
+		"community_hub_visible"		"1"
+		"gameid"		"629730"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"21978"
+			"1"		"4608"
+			"2"		"19"
+			"3"		"1669"
+			"4"		"4345"
+			"5"		"4667"
+			"6"		"3810"
+			"7"		"4057"
+			"8"		"599"
+			"9"		"3968"
+			"10"		"4172"
+			"11"		"1743"
+			"12"		"3839"
+			"13"		"4182"
+			"14"		"1684"
+			"15"		"21"
+			"16"		"493"
+			"17"		"122"
+			"18"		"492"
+			"19"		"5310"
+		}
+		"review_score"		"9"
+		"review_percentage"		"96"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"WarpFrog"
+		"publisher"		"WarpFrog"
+		"homepage"		"https://warpfrog.com/"
+	}
+	"config"
+	{
+		"installdir"		"Blade & Sorcery"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"BladeAndSorcery.exe"
+				"arguments"		"-vrmode openvr"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"BladeAndSorcery.exe"
+				"type"		"othervr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"629731"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6523986853884682652"
+					"size"		"9384044754"
+					"download"		"8112365840"
+				}
+				"previousversion_u10"
+				{
+					"gid"		"3186407359680173248"
+					"size"		"9573908505"
+					"download"		"8486696016"
+				}
+				"previousversion_u11"
+				{
+					"gid"		"2919607818350853847"
+					"size"		"10369263105"
+					"download"		"9254821040"
+				}
+				"previousversion_u6"
+				{
+					"gid"		"3400606199226081666"
+					"size"		"4954492017"
+					"download"		"2114446864"
+				}
+				"previousversion_u7"
+				{
+					"gid"		"7538751664354493754"
+					"size"		"4287348760"
+					"download"		"1656048400"
+				}
+				"previousversion_u8"
+				{
+					"gid"		"2297547079036515044"
+					"size"		"8206475119"
+					"download"		"3373604224"
+				}
+				"previousversion_u9.0"
+				{
+					"gid"		"1390591474667883816"
+					"size"		"4735124620"
+					"download"		"4160607776"
+				}
+				"previousversion_u9.3"
+				{
+					"gid"		"3428588699928380898"
+					"size"		"5003274793"
+					"download"		"4423940832"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"develop"
+				{
+					"gid"		"B57A50C9350666865B9AEB6F784FA9BF"
+					"size"		"86A5D8533EE21F2F39BEB3089163A1E1"
+					"download"		"CB009104D6BE3D0778367B8AFB917303"
+				}
+				"develop_il2cpp"
+				{
+					"gid"		"8A3993832B6E2F6D78251E06011C1567"
+					"size"		"F8C089B57F69981AF663F59DAD32657E"
+					"download"		"5B5198ED35A9DE25A5052ED1D2442EE5"
+				}
+				"nightly"
+				{
+					"gid"		"1DFB966E7517C239B251B4AC293DB4B2"
+					"size"		"D34E8B3EA8D67B3D91D03912278D4082"
+					"download"		"B361BC722497555DF56FA9D4361440C3"
+				}
+				"nightly_il2cpp"
+				{
+					"gid"		"DA6173B5E45DFD47A5E9ED207CF0022C"
+					"size"		"0F26304A0A166E5F494CC4E431951DCA"
+					"download"		"C1D1EA01036135B3B09B5171F81EB24A"
+				}
+				"releasecandidate"
+				{
+					"gid"		"044A4D6808E46FDD932821F5A5DE74AD"
+					"size"		"FB09DB39D8A49247081B011284605026"
+					"download"		"2BB7998300048AF14109A0F6337FD393"
+				}
+				"releasecandidate_il2cpp"
+				{
+					"gid"		"BA29B0790A6AE154A67A5E99219869FF"
+					"size"		"5935FD91FD11B724F8FAD7B38038C976"
+					"download"		"57234CEDB6349B86AB6AA10B90BEB43E"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11867440"
+				"timeupdated"		"1691576074"
+			}
+			"develop"
+			{
+				"buildid"		"12146719"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694217640"
+			}
+			"develop_il2cpp"
+			{
+				"buildid"		"12146793"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694218518"
+			}
+			"nightly"
+			{
+				"buildid"		"12155282"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694391532"
+			}
+			"nightly_il2cpp"
+			{
+				"buildid"		"12155326"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694392231"
+			}
+			"previousversion_u10"
+			{
+				"buildid"		"7692597"
+				"description"		"Update 10.2"
+				"timeupdated"		"1657316815"
+			}
+			"previousversion_u11"
+			{
+				"buildid"		"9689970"
+				"description"		"Update 11.3"
+				"timeupdated"		"1679496332"
+			}
+			"previousversion_u6"
+			{
+				"buildid"		"3987913"
+				"timeupdated"		"1571580038"
+			}
+			"previousversion_u7"
+			{
+				"buildid"		"4324096"
+				"timeupdated"		"1591308089"
+			}
+			"previousversion_u8"
+			{
+				"buildid"		"5226068"
+				"description"		"Update 8.3"
+				"timeupdated"		"1614379599"
+			}
+			"previousversion_u9.0"
+			{
+				"buildid"		"6302501"
+				"description"		"Update 9.0"
+				"timeupdated"		"1617265326"
+			}
+			"previousversion_u9.3"
+			{
+				"buildid"		"6557273"
+				"description"		"Update 9.3"
+				"timeupdated"		"1635097557"
+			}
+			"releasecandidate"
+			{
+				"buildid"		"12004210"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692715766"
+			}
+			"releasecandidate_il2cpp"
+			{
+				"buildid"		"12004271"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692716274"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"10"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"My Games\\BladeAndSorcery\\Saves"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
