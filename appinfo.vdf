@@ -1,0 +1,178 @@
+"appinfo"
+{
+	"appid"		"2169460"
+	"common"
+	{
+		"name"		"Argol - Kronoss' Castle"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienttga"		"ff7a99f9da4b56578912c07aa6870fd79cf323ca"
+		"icon"		"983387a0c1a5dfc29cb5807eefe7e8bb9782c457"
+		"clienticon"		"3f8d48ab02e9c5d7e5db8fac41eb2e9427d82ef9"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"french"		"capsule_231x87_french.jpg"
+			"spanish"		"capsule_231x87_spanish.jpg"
+			"latam"		"capsule_231x87_latam.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"french"		"header_french.jpg"
+			"spanish"		"header_spanish.jpg"
+			"latam"		"header_latam.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,fr,es,es-419"
+			"library_hero"		"en,fr,es,es-419"
+			"library_logo"		"en,fr,es,es-419"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"56.28591370485865"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1669390383"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"ArgoLab"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"ArgoLab"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_33"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1671956381"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2169460"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"1625"
+			"2"		"5379"
+			"3"		"3871"
+			"4"		"3964"
+			"5"		"6691"
+			"6"		"4604"
+			"7"		"1684"
+			"8"		"4057"
+			"9"		"21"
+			"10"		"4172"
+			"11"		"492"
+			"12"		"4004"
+			"13"		"3916"
+			"14"		"3993"
+			"15"		"4182"
+			"16"		"6971"
+		}
+		"review_score"		"7"
+		"review_percentage"		"100"
+	}
+	"extended"
+	{
+		"developer"		"ArgoLab"
+		"publisher"		"ArgoLab"
+	}
+	"config"
+	{
+		"installdir"		"Argol - Kronoss Castle"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Argol_Kronoss_Castle.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"baselanguages"		"english,french,spanish,latam"
+		"2169461"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8976920477599208393"
+					"size"		"328086948"
+					"download"		"206693136"
+				}
+				"beta"
+				{
+					"gid"		"8976920477599208393"
+					"size"		"328086948"
+					"download"		"206693136"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10958259"
+				"timeupdated"		"1680905978"
+			}
+			"beta"
+			{
+				"buildid"		"10958256"
+				"description"		"Beta test 01"
+				"timeupdated"		"1680905914"
+			}
+		}
+	}
+}
