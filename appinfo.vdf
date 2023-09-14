@@ -1,0 +1,210 @@
+"appinfo"
+{
+	"appid"		"2253470"
+	"common"
+	{
+		"name"		"Capoo Pals"
+		"type"		"Application"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"5d215e9c0c48516d6963403bea2d15884e56c9d7"
+		"clienticns"		"27eeadc6e6a8871555e04fc37ee1d4a752ff9965"
+		"clienticon"		"761b0a7f0499c0cfd20f7b9ae88fdc5191d61ee1"
+		"icon"		"4a19a08de8a4df44dd32efc93f6adfeb90400738"
+		"languages"
+		{
+			"english"		"1"
+			"tchinese"		"1"
+		}
+		"name_localized"
+		{
+			"tchinese"		"Capoo Pals 螢幕貓蟲咖波"
+			"english"		"Capoo Pals"
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+		}
+		"header_image"
+		{
+			"tchinese"		"header_tchinese.jpg"
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-tw"
+			"library_hero"		"en,zh-tw"
+			"library_logo"		"zh-tw,en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"49.53325554259044"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1685345276"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Alienkingdom Co., Ltd."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Poshen Co., Ltd."
+			}
+		}
+		"primary_genre"		"51"
+		"genres"
+		{
+			"0"		"51"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1680321038"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2253470"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"4195"
+			"1"		"1654"
+			"2"		"4136"
+			"3"		"1751"
+			"4"		"4726"
+			"5"		"615955"
+			"6"		"87"
+			"7"		"916648"
+			"8"		"5652"
+			"9"		"1719"
+			"10"		"379975"
+			"11"		"3871"
+			"12"		"4305"
+			"13"		"5608"
+			"14"		"4166"
+			"15"		"597"
+			"16"		"4182"
+			"17"		"17389"
+			"18"		"872"
+		}
+		"review_score"		"8"
+		"review_percentage"		"81"
+	}
+	"extended"
+	{
+		"developer"		"Alienkingdom Co., Ltd."
+		"publisher"		"Poshen Co., Ltd."
+		"homepage"		"https://poshentw.com/"
+		"listofdlc"		"2282660,2288170,2288180"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"CapooPals"
+		"steamcontrollertemplateindex"		"6"
+		"steamdecktouchscreen"		"1"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"CapooPals.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,tchinese"
+		"2253471"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4052020267162786930"
+					"size"		"175188897"
+					"download"		"57761024"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"develop"
+				{
+					"gid"		"0ECB01E4FBFDF4EDFE892190F00C5F34"
+					"size"		"CF8A585FF17F66A9D7A1D9247C3CFC1A"
+					"download"		"7F1FF160ED1C8F5B12857E5631FEC861"
+				}
+			}
+		}
+		"2282660"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"dlcappid"		"2282660"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12057858"
+				"timeupdated"		"1693313865"
+			}
+			"develop"
+			{
+				"buildid"		"12057682"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693303167"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"102400"
+		"maxnumfiles"		"10"
+		"sync_while_suspended"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"poshen/CapooPals/{64BitSteamID}"
+				"pattern"		"*.dat"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
