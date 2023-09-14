@@ -1,0 +1,448 @@
+"appinfo"
+{
+	"appid"		"1372530"
+	"common"
+	{
+		"name"		"Fly Corp"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"3f5a56fbc325fa564508fbd0062ea67e5f42c1fe"
+		"logo_small"		"3f5a56fbc325fa564508fbd0062ea67e5f42c1fe_thumb"
+		"icon"		"a269efa89cc749f6bc226de3abacbd3b4ef1d2df"
+		"clienticon"		"f800a4384936f3f8168d106fe74ea73002f75ab7"
+		"clienttga"		"86eef7e61b8447668e551c6fa6dd81f3c864f647"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"portuguese"		"1"
+			"polish"		"1"
+			"turkish"		"1"
+			"brazilian"		"1"
+			"latam"		"1"
+		}
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64,macosapplesilicon"
+		"name_localized"
+		{
+			"schinese"		"飞飞公司 Fly Corp"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1661817600"
+			"tested_build_id"		"8941759"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn"
+			"library_hero"		"en"
+			"library_logo"		"en,zh-cn"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"20.124475893536882"
+				"height_pct"		"48.05113677226523"
+			}
+		}
+		"store_asset_mtime"		"1690803129"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"KishMish Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"KishMish Games"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"28"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_15"		"1"
+			"category_29"		"1"
+			"category_17"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1684404411"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1372530"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"10383"
+			"2"		"16689"
+			"3"		"9"
+			"4"		"12472"
+			"5"		"4094"
+			"6"		"92092"
+			"7"		"599"
+			"8"		"1664"
+			"9"		"1643"
+			"10"		"6129"
+			"11"		"3810"
+			"12"		"3871"
+			"13"		"4726"
+			"14"		"5350"
+			"15"		"1676"
+			"16"		"4400"
+			"17"		"4305"
+			"18"		"13782"
+			"19"		"615955"
+		}
+		"review_score"		"8"
+		"review_percentage"		"86"
+	}
+	"extended"
+	{
+		"developer"		"KishMish Games"
+		"publisher"		"KishMish Games"
+		"homepage"		"https://kishmish-games.com"
+	}
+	"config"
+	{
+		"installdir"		"Fly Corp"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Fly Corp.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Fly Corp.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1372531"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6566535127743742865"
+					"size"		"378289044"
+					"download"		"97453008"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"buildserver"
+				{
+					"gid"		"2ABC2A236CF493A845CEF8D243AC28AA"
+					"size"		"4D403787C7D6D983DB730E87237C678C"
+					"download"		"9164E6497BBEDDFB3978CC4BF6ECE591"
+				}
+				"develop"
+				{
+					"gid"		"303C5B00EA0C4E3285FD87F0867FC640"
+					"size"		"71155BCD50A643F26B4AA382AA2D939C"
+					"download"		"F08FDB3CFE587C057B1919938FEDEA60"
+				}
+				"public-test"
+				{
+					"gid"		"E63C263D86A2DB866D93D1CB6DFE7A29"
+					"size"		"1407884D1D225AD0801AA5E9F75DA1E0"
+					"download"		"EDE3476310F76B80AD930C84E9DE4C4C"
+				}
+				"test"
+				{
+					"gid"		"625A80A480330E0B0F526B4286C09B95"
+					"size"		"9DA1FFE3CF7DDC853D4C931C3EA41837"
+					"download"		"F4B7F1C92D4712A8C9C28A8153ABB67B"
+				}
+			}
+		}
+		"1372532"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5718417884023392609"
+					"size"		"305710967"
+					"download"		"130462656"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"develop"
+				{
+					"gid"		"25D001998A374985743DC2840E7BE37D"
+					"size"		"559F4B9D8485BF85C88A5F903460C6C3"
+					"download"		"594EC1B7404EE17BCA80E8972940E524"
+				}
+				"public-test"
+				{
+					"gid"		"12F8ACA1CF72340CD17670DEF1E92B34"
+					"size"		"00ACC172111E3FE76A3D2F08FFD37262"
+					"download"		"6E374B567CFD4FA068E5E7BC38048FAA"
+				}
+				"test"
+				{
+					"gid"		"9BFA6235F5B330C45F401E058A86FB9F"
+					"size"		"A04DB5B600758E2030C7CC592326F2FC"
+					"download"		"0A6787A0C707B50C433BD71DDEA3FC4C"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12038361"
+				"timeupdated"		"1693214163"
+			}
+			"buildserver"
+			{
+				"buildid"		"10207628"
+				"pwdrequired"		"1"
+				"timeupdated"		"1671812426"
+			}
+			"develop"
+			{
+				"buildid"		"11559227"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687778457"
+			}
+			"public-test"
+			{
+				"buildid"		"11763821"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690013951"
+			}
+			"test"
+			{
+				"buildid"		"12038361"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693035005"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"50000000"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"1"
+			{
+				"root"		"gameinstall"
+				"path"		"Fly Corp_Data/StreamingAssets"
+				"pattern"		"*"
+				"recursive"		"1"
+			}
+			"3"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"KishMish Games/Fly Corp/Screenshots"
+				"pattern"		"*"
+			}
+		}
+		"rootoverrides"
+		{
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"KishMish Games/Fly Corp/Screenshots"
+						"replace"		"KishMish Games/Fly Corp/Screenshots"
+					}
+				}
+			}
+			"2"
+			{
+				"root"		"gameinstall"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Fly Corp_Data/StreamingAssets"
+						"replace"		"KishMish Games/Fly Corp/"
+					}
+				}
+			}
+		}
+	}
+}
