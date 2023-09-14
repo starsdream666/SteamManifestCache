@@ -1,0 +1,277 @@
+"appinfo"
+{
+	"appid"		"1570130"
+	"common"
+	{
+		"name"		"GameCreator"
+		"type"		"Application"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"2b5d3d481659cabd5f4c4d2706590cd7632d9de1"
+		"clienttga"		"82a1917263695c17081300e3cfd87baf23f5ebfd"
+		"icon"		"177332f97b40748ec522ada9fa34e76388ac4c6b"
+		"logo"		"f179f052aed35218cc264ed87530ea0c20f14a29"
+		"logo_small"		"f179f052aed35218cc264ed87530ea0c20f14a29_thumb"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn"
+			"library_hero"		"en,zh-cn"
+			"library_logo"		"en,zh-cn"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"46.49941656942824"
+				"height_pct"		"38.221325100926165"
+			}
+		}
+		"store_asset_mtime"		"1666277170"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"GameCreator"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"GameCreator"
+			}
+		}
+		"primary_genre"		"60"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"60"
+			"2"		"70"
+		}
+		"category"
+		{
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1666775720"
+		"community_hub_visible"		"1"
+		"gameid"		"1570130"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"13906"
+			"2"		"8013"
+			"3"		"493"
+			"4"		"87"
+			"5"		"1649"
+			"6"		"1038"
+			"7"		"3871"
+		}
+		"review_score"		"7"
+		"review_percentage"		"88"
+	}
+	"extended"
+	{
+		"developer"		"GameCreator"
+		"publisher"		"GameCreator"
+		"listofdlc"		"2180560,2187430,2196710,2331200,2549140"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"GameCreator"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"GameCreator.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Simplified Chinese Edition"
+					"schinese"		"简体中文版"
+					"tchinese"		"簡體中文版"
+				}
+				"description"		"Simplified Chinese Edition"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,schinese,tchinese"
+		"1570131"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5404225246692524167"
+					"size"		"3028905068"
+					"download"		"1747571872"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"773C6ED4A5426B340CB56B9F401A47FD"
+					"size"		"16A5DBF0C52C9A77BD33F75D89F098C6"
+					"download"		"7DC778CC7D8A6EA5D1E1051F88A4BACD"
+				}
+			}
+		}
+		"2180560"
+		{
+			"dlcappid"		"2180560"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6802484652600864385"
+					"size"		"565378789"
+					"download"		"513788208"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"CE4EEB2B8AF3A5F911F696D5FA69D32B"
+					"size"		"5060A62BE567057D744965B48B02CC92"
+					"download"		"3D4441009BEB7F0FA2CFB71D84C30B8A"
+				}
+			}
+		}
+		"2187430"
+		{
+			"dlcappid"		"2187430"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4765631376502226339"
+					"size"		"302295989"
+					"download"		"260203760"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"708A645655669DAC622ED0D95E182828"
+					"size"		"B34EC298E5B3CF4E5E5A9B345840FC5A"
+					"download"		"7B0D185F150311B53FEA6584444B456D"
+				}
+			}
+		}
+		"2331200"
+		{
+			"dlcappid"		"2331200"
+			"config"
+			{
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8781944059720966603"
+					"size"		"87567320"
+					"download"		"19779120"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"0CED754E7C69E38C8745DFA465B58077"
+					"size"		"1551DD1C0FF90A265266AFF911F0A0B8"
+					"download"		"61DD587165AD81211907053C81655CBB"
+				}
+			}
+		}
+		"2549140"
+		{
+			"dlcappid"		"2549140"
+			"config"
+			{
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4882704327421056002"
+					"size"		"76702478"
+					"download"		"60185664"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"881BD08FD182639CBE7BCDE5A2515FE3"
+					"size"		"DC0F034EC1F647E262A2F2629731AC1D"
+					"download"		"A2735B9767381BAB5D28E6125C5D2B57"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11935050"
+				"timeupdated"		"1691997430"
+			}
+			"test"
+			{
+				"buildid"		"11954055"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692182994"
+			}
+		}
+	}
+}
