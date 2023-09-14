@@ -1,0 +1,281 @@
+"appinfo"
+{
+	"appid"		"462240"
+	"common"
+	{
+		"name"		"Post Human W.A.R"
+		"type"		"Game"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"clienticon"		"1de8e4b4339bee4970a3ddd4e09185af2334febc"
+		"clienttga"		"17926011b3eeea8ec8a4a19ac9ba67716f61d5fc"
+		"icon"		"6157457e5497fa321db8d23c108a64cf49370fbf"
+		"logo"		"9847925df6ae04d23691f24873d812188ec66d53"
+		"logo_small"		"9847925df6ae04d23691f24873d812188ec66d53_thumb"
+		"releasestate"		"released"
+		"linuxclienticon"		"c3a5a2c82057964f18517d6733dddf1c4d365cc6"
+		"clienticns"		"1cf59fe5128f26e8303c4202f21d60983d6fd0ba"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"russian"		"1"
+		}
+		"metacritic_name"		"Post Human W.A.R"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"23.39740171838052"
+				"height_pct"		"55.734657595932866"
+			}
+		}
+		"store_asset_mtime"		"1666984173"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Studio Chahut"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Dear Villagers"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Dear Villagers"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_37"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_23"		"1"
+			"category_49"		"1"
+			"category_44"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1513262365"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"462240"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"492"
+			"2"		"1677"
+			"3"		"1717"
+			"4"		"1708"
+			"5"		"7368"
+			"6"		"3859"
+			"7"		"14139"
+			"8"		"1741"
+			"9"		"3835"
+			"10"		"4136"
+		}
+		"review_score"		"8"
+		"review_percentage"		"82"
+	}
+	"extended"
+	{
+		"developer"		"Studio Chahut"
+		"publisher"		"Dear Villagers"
+		"homepage"		"http://www.posthumanwar.com/"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Post Human W.A.R"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Post Human W.A.R.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Post Human W.A.R.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,spanish,schinese,russian"
+		"462241"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7650121457204854894"
+					"size"		"776640693"
+					"download"		"749224048"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"developers"
+				{
+					"gid"		"985793C3E05B402170DE1B5E033FF716"
+					"size"		"9161CC03096E7D5DD35A69E341DE4516"
+					"download"		"031A2FC4C02CCCD923C3626B0428266E"
+				}
+			}
+		}
+		"462242"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6193225325616576889"
+					"size"		"836590363"
+					"download"		"751003056"
+				}
+			}
+		}
+		"462243"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3480856892800912652"
+					"size"		"105031"
+					"download"		"104224"
+				}
+			}
+		}
+		"462244"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8673827343707276710"
+					"size"		"113042"
+					"download"		"112352"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11127621"
+				"timeupdated"		"1682900758"
+			}
+			"developers"
+			{
+				"buildid"		"1341507"
+				"pwdrequired"		"1"
+				"timeupdated"		"1475096075"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000"
+		"maxnumfiles"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"save"
+				"pattern"		"*.phw"
+				"recursive"		"1"
+			}
+		}
+	}
+}
