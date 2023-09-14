@@ -1,0 +1,181 @@
+"appinfo"
+{
+	"appid"		"1939770"
+	"common"
+	{
+		"name"		"Bash The Party"
+		"type"		"Game"
+		"releasestate"		"released"
+		"clienttga"		"912666c0efa591d477c1b8347869dddb2e0b5493"
+		"clienticon"		"6e92e036194a60843416187482ac71e7f534aecd"
+		"icon"		"458835aacf81f576cae6b844dcd66a0f904c765b"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"44.255830024209985"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1654950329"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Ata Oz"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Ata Oz"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1658473556"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1939770"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"21"
+			"2"		"1774"
+			"3"		"1663"
+			"4"		"4191"
+			"5"		"3839"
+			"6"		"4305"
+			"7"		"4252"
+			"8"		"3942"
+			"9"		"4115"
+			"10"		"492"
+			"11"		"4295"
+			"12"		"1742"
+			"13"		"3993"
+			"14"		"4182"
+		}
+		"review_score"		"7"
+		"review_percentage"		"100"
+	}
+	"extended"
+	{
+		"developer"		"Ata Oz"
+		"publisher"		"Ata Oz"
+	}
+	"config"
+	{
+		"installdir"		"Bash The Party"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Bash The Party.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Contents/MacOS/Bash The Party"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"hasdepotsindlc"		"0"
+		"1939771"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2125195435710631590"
+					"size"		"1810495526"
+					"download"		"342709840"
+				}
+			}
+		}
+		"1939772"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7175190992020850630"
+					"size"		"1835910016"
+					"download"		"351673472"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11853409"
+				"timeupdated"		"1691049918"
+			}
+		}
+	}
+}
