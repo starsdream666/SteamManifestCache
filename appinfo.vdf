@@ -1,0 +1,164 @@
+"appinfo"
+{
+	"appid"		"819550"
+	"common"
+	{
+		"name"		"Cheese Maze"
+		"type"		"Game"
+		"releasestate"		"released"
+		"clienticon"		"cecfad642e0b5475a327ce4c94c71c3d59aef5f1"
+		"clienttga"		"e83a0b2f5690a7cf603a09858c55cbc8d5b64907"
+		"icon"		"a1aca8dbc1071d84425f98dc0bd6cc63666ff850"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"logo"		"cf9dab52da4768af8c667283c8bea6c098fe902f"
+		"logo_small"		"cf9dab52da4768af8c667283c8bea6c098fe902f_thumb"
+		"metacritic_name"		"Cheese Maze"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1520458507"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"SilentFuture"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"SilentFuture"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1525893155"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"819550"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"597"
+		}
+	}
+	"extended"
+	{
+		"developer"		"SilentFuture"
+		"publisher"		"SilentFuture"
+	}
+	"config"
+	{
+		"installdir"		"Cheese Maze"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"CheeseMaze.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"CheeseMaze.app\\Contents\\MacOS\\CheeseMaze"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"819551"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"110422280291022668"
+					"size"		"99993024"
+					"download"		"27765296"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"178F324E06615D827FB12DE5AFA41866"
+					"size"		"50CF83381736ECA7086C8A8B9E53C77A"
+					"download"		"4C878B25990FF80DF6B93664B22CF6D9"
+				}
+			}
+		}
+		"819552"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"393890738856033476"
+					"size"		"145513837"
+					"download"		"40024400"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"49DB9E82D13AF2EC300F0D13E8BF16A0"
+					"size"		"F0908FD58DB0EE7F962C8515E56C0693"
+					"download"		"2E6604406ECE91B654D0C03B89DBAA6A"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5314974"
+				"timeupdated"		"1595354815"
+			}
+			"beta"
+			{
+				"buildid"		"5314974"
+				"pwdrequired"		"1"
+				"timeupdated"		"1595354839"
+			}
+		}
+	}
+}
