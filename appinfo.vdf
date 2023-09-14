@@ -1,0 +1,505 @@
+"appinfo"
+{
+	"appid"		"1893820"
+	"common"
+	{
+		"name"		"Jumplight Odyssey"
+		"type"		"Game"
+		"clienttga"		"6012ea81d68607ad0dfc5610e61f17101373c1fd"
+		"logo"		"79a19d7921858924f4f6bf46acef06391a689247"
+		"logo_small"		"79a19d7921858924f4f6bf46acef06391a689247_thumb"
+		"icon"		"c414286dc3804198f0317a991971711e90cf43e3"
+		"clienticon"		"fa9e3cf3263d73f299071d73a81ebeb0b1105ade"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"name_localized"
+		{
+			"schinese"		"奥德赛光之越 Jumplight Odyssey"
+			"japanese"		"Jumplight Odyssey ~ジャンプライトの冒険~"
+			"koreana"		"Jumplight Odyssey 초광속 도약 여행기"
+			"tchinese"		"星躍之旅 Jumplight Odyssey"
+			"russian"		"Jumplight Odyssey Капитан галактики"
+		}
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1893820_eula_0"
+				"name"		"Jumplight Odyssey EULA"
+				"url"		"https://store.steampowered.com//eula/1893820_eula_0"
+				"version"		"2"
+			}
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1692144000"
+			"tested_build_id"		"11933746"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"koreana"		"capsule_231x87_koreana.jpg"
+			"russian"		"capsule_231x87_russian.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"japanese"		"header_japanese.jpg"
+			"koreana"		"header_koreana.jpg"
+			"russian"		"header_russian.jpg"
+			"schinese"		"header_schinese.jpg"
+			"tchinese"		"header_tchinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,ja,ko,ru,zh-cn,zh-tw"
+			"library_hero"		"en,ja,ko"
+			"library_logo"		"en,ja,ko,ru,zh-cn,zh-tw"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"100"
+				"height_pct"		"97.91666666666667"
+			}
+		}
+		"store_asset_mtime"		"1692666659"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"League of Geeks"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"League of Geeks"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"League of Geeks"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"2"
+			"2"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_28"		"1"
+			"category_33"		"1"
+			"category_13"		"1"
+			"category_43"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1692651140"
+		"community_hub_visible"		"1"
+		"gameid"		"1893820"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"599"
+			"2"		"12472"
+			"3"		"220585"
+			"4"		"1643"
+			"5"		"3959"
+			"6"		"4195"
+			"7"		"4004"
+			"8"		"4182"
+			"9"		"1719"
+			"10"		"4136"
+			"11"		"4252"
+			"12"		"4085"
+			"13"		"4166"
+			"14"		"16598"
+			"15"		"4520"
+			"16"		"1755"
+			"17"		"4726"
+			"18"		"7208"
+			"19"		"5851"
+		}
+		"review_score"		"5"
+		"review_percentage"		"68"
+	}
+	"extended"
+	{
+		"developer"		"League of Geeks"
+		"publisher"		"League of Geeks"
+		"homepage"		"https://www.jumplightodyssey.com"
+	}
+	"config"
+	{
+		"installdir"		"Jumplight Odyssey"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"jumplight odyssey.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"5"
+	}
+	"depots"
+	{
+		"1893821"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6660042900805343600"
+					"size"		"3842720107"
+					"download"		"2661651136"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"locqa_0_1_0_staging_publishing"
+				{
+					"gid"		"BA775A3053A10AF8CC8A6F2B7F18C671"
+					"size"		"C5919E3EE8AB577951677DA9147830F9"
+					"download"		"BA02C2FD6A89DAF72460365BA39F6D4A"
+				}
+				"master_publishing"
+				{
+					"gid"		"A4B3AF40A5E8891B4A25B8B63435DADF"
+					"size"		"82DDA9915E7B5136F7B4D468EE5CC2F1"
+					"download"		"032DCDF9ACAE7F27C9BA0B0DD7E3D329"
+				}
+				"master_retail"
+				{
+					"gid"		"9840EFE45C40EE7DBADC6266838FFF36"
+					"size"		"75237B4E16F1D5764931A5AFF03570EF"
+					"download"		"4521D19FD7BEFF83E844FFD8D2187A2B"
+				}
+				"master_sandbox"
+				{
+					"gid"		"F09B8D847B2CBFF79BD77346F1A65D00"
+					"size"		"A001FF9FE5DDC17D7998749D558428A7"
+					"download"		"CA09EAEF16CE7D28FFA82E63D28034E3"
+				}
+				"master_stable"
+				{
+					"gid"		"DBC9488A42E15C1D2985AC0D439349D9"
+					"size"		"B31A37929BDFF446CAC33D28076E7A15"
+					"download"		"B5339C567AF569C05278BED69FF58589"
+				}
+				"platform_nextfest_preview"
+				{
+					"gid"		"8AC2E93D5304EC3DFF8FCC312C16A886"
+					"size"		"620AACD0279F316A93C3CB66051FC530"
+					"download"		"98AFB3B95AC13EEB7E225F78853275E0"
+				}
+				"release_0_1_0_gb_p1_release_retail"
+				{
+					"gid"		"5D783E843817FAB4B10A7EFF869AF286"
+					"size"		"1D4A487536007A3C1F49145867B51B0B"
+					"download"		"A80397F5B7EB1AF360017520D779350C"
+				}
+				"release_0_1_1_p1_release_retail"
+				{
+					"gid"		"65828431D2CA2E885962121C1C444564"
+					"size"		"DFA4AA279FDC2DE76C7D9AF9EFED8D54"
+					"download"		"39643A1BA63134CCBB5FB572DBA4E846"
+				}
+				"release_0_1_1_p2_release_retail"
+				{
+					"gid"		"36AA61A619CE841C0DF890B2E3F7A8AB"
+					"size"		"D089B15354692A6A575C87E1C9BDCF61"
+					"download"		"E3CFF6A1AB5847EE8CC9B33F83E2DE49"
+				}
+				"release_0_1_1_p2_release_sandbox"
+				{
+					"gid"		"E11B98B2CB3BB00765A07867E032DC12"
+					"size"		"0FA770EC02C0D4C926A176A095F71D0B"
+					"download"		"62D9751AAEE135F7B4B6FE648C5AEFD9"
+				}
+				"release_0_1_1_p2_staging_retail"
+				{
+					"gid"		"22D945561008813D3B4B76E10FB51739"
+					"size"		"8DED85725DE1C194E9DD2CCB1F7FADB4"
+					"download"		"A36E040172877DD623EA6DF084AB6F6F"
+				}
+				"release_0_1_1_p2_staging_sandbox"
+				{
+					"gid"		"E8BDAF6C6C547966DC9AAF9DD1B61279"
+					"size"		"50D52E4D56272770A07097EDE9DECDC0"
+					"download"		"F3C7A382C36EB648F36346CE66885C95"
+				}
+				"release_0_1_1_p3_release_retail"
+				{
+					"gid"		"F75E02D277BECBFA177F12D652CE30E7"
+					"size"		"8D74A2ECBC3EC3133E58B6133C50823D"
+					"download"		"638D0BB4BC26F9FD88A4770CFD57843E"
+				}
+				"release_0_1_1_p3_release_sandbox"
+				{
+					"gid"		"828FE6DA419BC49C62DE1E37D66148BD"
+					"size"		"7A362E8F8887A2B0604C0BF7424CF385"
+					"download"		"CDE52288984D2EC96585100ADB455228"
+				}
+				"release_0_1_1_p3_staging_retail"
+				{
+					"gid"		"C64A904676450181E42F93E4093875E8"
+					"size"		"7CCE43A412E2F64913E531E74002AB03"
+					"download"		"166F9C0B15B82B744B18D97787501BBF"
+				}
+				"release_0_1_1_p3_staging_sandbox"
+				{
+					"gid"		"F8CB075DA45CF760A5E3F98FCB6ADC6E"
+					"size"		"3B8EC75F453272E38E0C2D01E0DE4099"
+					"download"		"D381773B9D2D966AC26A64DD9CC7CF09"
+				}
+				"release_0_1_1_release_retail"
+				{
+					"gid"		"0BF4E0008ADA4E863527E34AB17DCB7F"
+					"size"		"09811181890B55B50570CD613871333F"
+					"download"		"7016B851BC1F1DC7F8956A12FACC4A3C"
+				}
+				"twitch_branch"
+				{
+					"gid"		"3C033BD9162CBE70DFB19724D99834F4"
+					"size"		"6B84C7735746B35756310A8DA9C0C005"
+					"download"		"909A3E55BEB26E3A55498E4BA10510B5"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12139926"
+				"timeupdated"		"1694566911"
+			}
+			"locqa_0_1_0_staging_publishing"
+			{
+				"buildid"		"12007751"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692748018"
+			}
+			"master_publishing"
+			{
+				"buildid"		"12007751"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692747525"
+			}
+			"master_retail"
+			{
+				"buildid"		"12166226"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694502107"
+			}
+			"master_sandbox"
+			{
+				"buildid"		"12176988"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694599445"
+			}
+			"master_stable"
+			{
+				"buildid"		"11798487"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690434476"
+			}
+			"platform_nextfest_preview"
+			{
+				"buildid"		"11465973"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686806986"
+			}
+			"release_0_1_0_gb_p1_release_retail"
+			{
+				"buildid"		"12055746"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693285253"
+			}
+			"release_0_1_1_p1_release_retail"
+			{
+				"buildid"		"12084800"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693537153"
+			}
+			"release_0_1_1_p2_release_retail"
+			{
+				"buildid"		"12111136"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693904003"
+			}
+			"release_0_1_1_p2_release_sandbox"
+			{
+				"buildid"		"12111149"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693904249"
+			}
+			"release_0_1_1_p2_staging_retail"
+			{
+				"buildid"		"12110719"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693900673"
+			}
+			"release_0_1_1_p2_staging_sandbox"
+			{
+				"buildid"		"12110683"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693900446"
+			}
+			"release_0_1_1_p3_release_retail"
+			{
+				"buildid"		"12139926"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694161300"
+			}
+			"release_0_1_1_p3_release_sandbox"
+			{
+				"buildid"		"12139928"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694161308"
+			}
+			"release_0_1_1_p3_staging_retail"
+			{
+				"buildid"		"12139619"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694159253"
+			}
+			"release_0_1_1_p3_staging_sandbox"
+			{
+				"buildid"		"12139403"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694157373"
+			}
+			"release_0_1_1_release_retail"
+			{
+				"buildid"		"12066868"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693387552"
+			}
+			"twitch_branch"
+			{
+				"buildid"		"10544392"
+				"pwdrequired"		"1"
+				"timeupdated"		"1676354113"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1073741824"
+		"maxnumfiles"		"256"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"League of Geeks/Jumplight Odyssey/{64BitSteamID}/SaveData/Global"
+				"pattern"		"*.sav"
+				"recursive"		"1"
+			}
+		}
+	}
+}
