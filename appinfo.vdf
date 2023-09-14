@@ -1,0 +1,489 @@
+"appinfo"
+{
+	"appid"		"1280930"
+	"common"
+	{
+		"name"		"Astral Ascent"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64,macosnotarized"
+		"icon"		"1084337121dd919622b39ec2dd0ab372dcc2b157"
+		"logo"		"6e86c7ae06d728e43f0396b50eb43f632e0d72ca"
+		"logo_small"		"6e86c7ae06d728e43f0396b50eb43f632e0d72ca_thumb"
+		"clienttga"		"463d5188394191a38b6ad1559eec8e8fe386952d"
+		"clienticon"		"71912e7c122fab4971c1203890896aa25be66728"
+		"releasestate"		"released"
+		"name_localized"
+		{
+			"schinese"		"星座上升"
+			"tchinese"		"星座上升"
+			"japanese"		"アストラル アセント"
+			"koreana"		"애스트럴 어센트"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1689811200"
+			"tested_build_id"		"11649774"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"62.53858940869152"
+			}
+		}
+		"store_asset_mtime"		"1693223883"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Hibernian Workshop"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Hibernian Workshop"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Maple Whispering Limited"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_9"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_44"		"1"
+			"category_1"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1649775635"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1280930"
+		"store_tags"
+		{
+			"0"		"3959"
+			"1"		"42804"
+			"2"		"3964"
+			"3"		"1646"
+			"4"		"5379"
+			"5"		"1625"
+			"6"		"19"
+			"7"		"1716"
+			"8"		"3871"
+			"9"		"13070"
+			"10"		"1684"
+			"11"		"4057"
+			"12"		"1685"
+			"13"		"21"
+			"14"		"3841"
+			"15"		"4182"
+			"16"		"3859"
+			"17"		"7368"
+			"18"		"493"
+			"19"		"492"
+		}
+		"review_score"		"8"
+		"review_percentage"		"92"
+	}
+	"extended"
+	{
+		"absolutemousecoordinates"		"0"
+		"remoteplaytogethertestingbranches"		"default,alpha,beta.closed,beta.public,chowdren,medias"
+		"developer"		"Hibernian Workshop"
+		"publisher"		"Hibernian Workshop"
+		"homepage"		"https://hibernian-workshop.com/"
+	}
+	"config"
+	{
+		"installdir"		"Astral Ascent"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Astral Ascent.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"run.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"2"
+			{
+				"executable"		"Astral Ascent.app\\Contents\\MacOS\\Chowdren"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+	}
+	"depots"
+	{
+		"1280931"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3909565039760995903"
+					"size"		"992409188"
+					"download"		"728276272"
+				}
+				"beta.public"
+				{
+					"gid"		"3909565039760995903"
+					"size"		"992409188"
+					"download"		"728276272"
+				}
+				"coral.archipelago.backup"
+				{
+					"gid"		"8863433279572004348"
+					"size"		"1059984151"
+					"download"		"767008336"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"702720F2954D68F3594FE115AAF53C82"
+					"size"		"3C133B5F79CC9B8ECA3E2396F40F763A"
+					"download"		"51745F1228870B69AC7AD875105E16D4"
+				}
+				"beta.closed"
+				{
+					"gid"		"FAB96DB68E951D4499BCEF3C55ECD628"
+					"size"		"1A456974634F2A560DE278FA8E84C838"
+					"download"		"C1DF4371923835823F795B94F39A5C69"
+				}
+				"chowdren"
+				{
+					"gid"		"3F9BEE4D8A062FAB091772B8674011AD"
+					"size"		"AE885A25CED9B4F533F7C4C73F2ED45B"
+					"download"		"FBBD2DA08528D796CC9A69A0F8BCAED7"
+				}
+				"medias"
+				{
+					"gid"		"A189D84D5258C44D8D51CC90963F1FBA"
+					"size"		"84C3D72C75112CF6E692D4392A89A6AE"
+					"download"		"8B3B7EA1B40F6C6FF790724B09D23123"
+				}
+			}
+		}
+		"1280932"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7219666835338112879"
+					"size"		"994887804"
+					"download"		"729079040"
+				}
+				"beta.public"
+				{
+					"gid"		"7219666835338112879"
+					"size"		"994887804"
+					"download"		"729079040"
+				}
+				"coral.archipelago.backup"
+				{
+					"gid"		"7840973864346978321"
+					"size"		"588895856"
+					"download"		"381288592"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"6865FD19BA98EFF0961C2A5CC8C08B98"
+					"size"		"9E7C9E35A045B8D18C05C972545C8909"
+					"download"		"B0BB04F112EC6993965A56EFCC359F30"
+				}
+				"beta.closed"
+				{
+					"gid"		"BB0D5F41AD29D6CB6E9B49255CEBBE23"
+					"size"		"419DA94683EC8A39370B47A6C4F33BC2"
+					"download"		"BCD901B7BB49FA9096C18EFD86B6194F"
+				}
+				"chowdren"
+				{
+					"gid"		"72CD28A71238B1FF5133B8ADFED4D2BA"
+					"size"		"567312002CE579296A5F994E2ED84209"
+					"download"		"19A78503BD106C2E3F6AE7924A635D39"
+				}
+				"medias"
+				{
+					"gid"		"07FF303DFEE9687AD7CF564B0C18F824"
+					"size"		"91604EA7DBFF3F2D167459CB8F696689"
+					"download"		"E22994138081E161815C437101037661"
+				}
+			}
+		}
+		"1280933"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2060828648555284435"
+					"size"		"1230488193"
+					"download"		"748688480"
+				}
+				"beta.public"
+				{
+					"gid"		"2060828648555284435"
+					"size"		"1230488193"
+					"download"		"748688480"
+				}
+				"coral.archipelago.backup"
+				{
+					"gid"		"1201717928430193439"
+					"size"		"359799002"
+					"download"		"183222736"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"ABC1700D1681187E86B715A1810C2B44"
+					"size"		"0DE6380AE49AB973F5200474A760875B"
+					"download"		"C09B20A1BC39510BE3ECA8491F04A2F9"
+				}
+				"beta.closed"
+				{
+					"gid"		"16E2C8BC7760E4DDE14241C0F684112C"
+					"size"		"109105E1343878F297ECB9A167FB7A06"
+					"download"		"4D70BA9BBFB9D05C304F3186946E29D2"
+				}
+				"chowdren"
+				{
+					"gid"		"9185C471962F3EABC23557F5450C47F5"
+					"size"		"A0F9D4AA3376231F7DE88365A40B0ECA"
+					"download"		"B73B4D5A16E103583F98381DCA3DB0B0"
+				}
+				"medias"
+				{
+					"gid"		"6DC8BA626CA11AFCEEF7F116A606CBB0"
+					"size"		"64F79966AD344BBE3834E8F234A8A9E4"
+					"download"		"26C60CEFD429030C72B0F6C2D912BC70"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12071604"
+				"timeupdated"		"1693494770"
+			}
+			"alpha"
+			{
+				"buildid"		"11175758"
+				"pwdrequired"		"1"
+				"timeupdated"		"1683535316"
+			}
+			"beta.closed"
+			{
+				"buildid"		"12071604"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693494743"
+			}
+			"beta.public"
+			{
+				"buildid"		"12071604"
+				"description"		"unstable versions"
+				"timeupdated"		"1693494751"
+			}
+			"chowdren"
+			{
+				"buildid"		"12174222"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694571205"
+			}
+			"coral.archipelago.backup"
+			{
+				"buildid"		"9643444"
+				"description"		"Backup version of the Update"
+				"timeupdated"		"1670332946"
+			}
+			"medias"
+			{
+				"buildid"		"12071604"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693494761"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinSavedGames"
+				"path"		"Astral Ascent/{Steam3AccountID}"
+				"pattern"		"aa_game.sav"
+				"recursive"		"1"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinSavedGames"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"addpath"		""
+			}
+			"1"
+			{
+				"root"		"WinSavedGames"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxHome"
+				"addpath"		""
+			}
+		}
+	}
+}
