@@ -1,0 +1,221 @@
+"appinfo"
+{
+	"appid"		"1677180"
+	"common"
+	{
+		"name"		"Neko Hacker+"
+		"type"		"Game"
+		"releasestate"		"released"
+		"icon"		"3763e25237696ab099914dc5b038a84ba1ae8d15"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"5ff7c255b3422c0047e889f20ef91242bccc5a6f"
+		"clienttga"		"d919a55d52ebae38948162675a94f9c2caa18f5d"
+		"logo"		"910cd446845a4ce68635999aa1ebf1bca3815f00"
+		"logo_small"		"910cd446845a4ce68635999aa1ebf1bca3815f00_thumb"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"51.068711028763175"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1690120453"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Axyos Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Axyos Games"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1632139285"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1677180"
+		"store_tags"
+		{
+			"0"		"24904"
+			"1"		"4726"
+			"2"		"1664"
+			"3"		"4085"
+			"4"		"6650"
+			"5"		"597"
+			"6"		"12095"
+			"7"		"599"
+			"8"		"6129"
+			"9"		"1654"
+			"10"		"3871"
+			"11"		"7208"
+			"12"		"4191"
+			"13"		"5716"
+			"14"		"5673"
+			"15"		"4182"
+			"16"		"1697"
+			"17"		"3955"
+			"18"		"4747"
+			"19"		"3834"
+		}
+		"review_score"		"6"
+		"review_percentage"		"70"
+	}
+	"extended"
+	{
+		"developer"		"Axyos Games"
+		"publisher"		"Axyos Games"
+		"listofdlc"		"1679140,1760780"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Neko_Hacker_Plus"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"HPuzzle.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1677181"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7674757535979121133"
+					"size"		"856305209"
+					"download"		"249897840"
+				}
+			}
+		}
+		"1679140"
+		{
+			"dlcappid"		"1679140"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3821028980048899990"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+		}
+		"1760780"
+		{
+			"dlcappid"		"1760780"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2353102548757544743"
+					"size"		"315081100"
+					"download"		"292877408"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10947288"
+				"timeupdated"		"1680790773"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10485760"
+		"maxnumfiles"		"5"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"HPuzzle/Saved/SaveGames"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
