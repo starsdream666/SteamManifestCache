@@ -1,0 +1,337 @@
+"appinfo"
+{
+	"appid"		"517330"
+	"common"
+	{
+		"name"		"Stellar Interface"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"clienttga"		"e8051c52c110efbed9b9c3e1696b96c494ddd787"
+		"clienticon"		"de1eff97ffdd262d21cea1bbfb124132e41e2548"
+		"icon"		"422145350173f440e53e0b37b6ee98fdf1c042ac"
+		"logo"		"75c8bb02d1ced7aa59b853a3fb92de8a6930015d"
+		"logo_small"		"75c8bb02d1ced7aa59b853a3fb92de8a6930015d_thumb"
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"spanish"		"1"
+			"brazilian"		"1"
+		}
+		"metacritic_name"		"Stellar Interface"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"27.67441860465115"
+				"height_pct"		"98.10021372595585"
+			}
+		}
+		"store_asset_mtime"		"1644508726"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"ImaginationOverflow"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"ImaginationOverflow"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_15"		"1"
+			"category_28"		"1"
+			"category_33"		"1"
+			"category_29"		"1"
+			"category_25"		"1"
+			"category_55"		"1"
+			"category_56"		"1"
+			"category_57"		"1"
+			"category_58"		"1"
+			"category_60"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1479759231"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"517330"
+		"store_tags"
+		{
+			"0"		"4885"
+			"1"		"4255"
+			"2"		"4637"
+			"3"		"42804"
+			"4"		"3798"
+			"5"		"3834"
+			"6"		"3959"
+			"7"		"1759"
+			"8"		"597"
+			"9"		"1774"
+			"10"		"1662"
+			"11"		"4791"
+			"12"		"1773"
+			"13"		"1716"
+			"14"		"3871"
+			"15"		"5796"
+			"16"		"5125"
+			"17"		"5765"
+			"18"		"7250"
+			"19"		"19"
+		}
+		"review_score"		"8"
+		"review_percentage"		"82"
+	}
+	"extended"
+	{
+		"developer"		"ImaginationOverflow"
+		"publisher"		"ImaginationOverflow"
+		"homepage"		"http://stellarinterface.com/"
+		"listofdlc"		"750150,750151,777450"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Stellar Interface"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"StellarInterface.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"StellarInterface.app"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"StellarInterface.sh"
+				"description"		"Normal Launch"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"3"
+			{
+				"executable"		"StellarInterface.sh"
+				"arguments"		"-force-opengl"
+				"description"		"Force OpenGL"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"4"
+			{
+				"executable"		"StellarInterface.exe"
+				"arguments"		"-show-screen-selector"
+				"description"		"Launch Graphics Window"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigdetails"
+		{
+			"771287921"
+			{
+				"controller_type"		"controller_steamcontroller_gordon"
+				"enabled_branches"		"default"
+				"use_action_block"		"false"
+			}
+		}
+		"steamconfigurator3rdpartynative"		"65535"
+	}
+	"depots"
+	{
+		"517331"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1879028525459256088"
+					"size"		"271682529"
+					"download"		"130068720"
+				}
+			}
+		}
+		"517332"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4340931009601185991"
+					"size"		"283344575"
+					"download"		"132683504"
+				}
+			}
+		}
+		"517333"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2502081495796467672"
+					"size"		"322020672"
+					"download"		"146408800"
+				}
+			}
+		}
+		"777450"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9084869203872519543"
+					"size"		"5291098"
+					"download"		"3642144"
+				}
+			}
+			"dlcappid"		"777450"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4856108"
+				"timeupdated"		"1585927330"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"200000000"
+		"maxnumfiles"		"10"
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"ImaginationOverflow/"
+						"replace"		"unity.ImaginationOverflow."
+					}
+				}
+			}
+			"1"
+			{
+				"root"		"gameinstall"
+				"os"		"Windows"
+				"oscompare"		"="
+				"useinstead"		"LinuxHome"
+				"addpath"		".config/unity3d/ImaginationOverflow/"
+			}
+		}
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"ImaginationOverflow/"
+				"pattern"		"*.json"
+			}
+		}
+	}
+}
