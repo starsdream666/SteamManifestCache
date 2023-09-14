@@ -1,0 +1,355 @@
+"appinfo"
+{
+	"appid"		"1370170"
+	"common"
+	{
+		"name"		"Diorama Builder"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"logo"		"cafdd02443f2f69dc77a9108164d129e505875ac"
+		"logo_small"		"cafdd02443f2f69dc77a9108164d129e505875ac_thumb"
+		"icon"		"3f4652f9a705c824e75761691628818e13bbe042"
+		"clienttga"		"54def7f1fd45e618b13c189990d2198b4e2f4100"
+		"clienticon"		"99fc63f5611bb10ad4050322a9d4dc60e0e8a5ab"
+		"clienticns"		"b7356cf707398bcf2b1810267c413782c3b64ab3"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1647648000"
+			"tested_build_id"		"7040979"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"41.06728538283062"
+				"height_pct"		"67.44592592592593"
+			}
+		}
+		"store_asset_mtime"		"1669161238"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Virtual Arts Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Virtual Arts Studio"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Virtual Arts Studio"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Tilt Five"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"28"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1605862841"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1370170"
+		"store_tags"
+		{
+			"0"		"599"
+			"1"		"597"
+			"2"		"1664"
+			"3"		"1732"
+			"4"		"1643"
+			"5"		"4150"
+			"6"		"6378"
+			"7"		"1647"
+			"8"		"1654"
+			"9"		"97376"
+			"10"		"4191"
+			"11"		"552282"
+			"12"		"492"
+			"13"		"493"
+			"14"		"1736"
+			"15"		"5350"
+			"16"		"4182"
+			"17"		"29363"
+			"18"		"3810"
+			"19"		"4305"
+		}
+		"review_score"		"8"
+		"review_percentage"		"93"
+	}
+	"extended"
+	{
+		"developer"		"Virtual Arts Studio"
+		"publisher"		"Virtual Arts Studio"
+	}
+	"config"
+	{
+		"installdir"		"Diorama Builder"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"\\Diorama Builder\\Diorama Builder.exe"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Diorama Builder - Win (Std Version)"
+				}
+				"description"		"Diorama Builder - Win (Std Version)"
+			}
+			"1"
+			{
+				"executable"		"Diorama Builder.app\\Contents\\MacOS\\Diorama Builder"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+				"description_loc"
+				{
+					"english"		"Diorama Builder - macOS (Std Version)"
+				}
+				"description"		"Diorama Builder - macOS (Std Version)"
+			}
+			"2"
+			{
+				"executable"		"\\Diorama Builder - Tilt5\\Diorama Builder.exe"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Diorama Builder - Win (Tilt Five™ Version)"
+				}
+				"description"		"Diorama Builder - Win (Tilt Five™ Version)"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,brazilian"
+		"1370171"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"612612688823873367"
+					"size"		"625949318"
+					"download"		"136762576"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"C0DC415DB4E1C868339F2F797E80AA7C"
+					"size"		"675F6F2893DFAA899581023B8A4C6BAF"
+					"download"		"8150FFAD8074DF629665436252588B44"
+				}
+				"tilt5"
+				{
+					"gid"		"E3F831B8BAA7A793ED98EAFD20077D22"
+					"size"		"A969907C3335B5C8E6BF7D4527747195"
+					"download"		"897F45333F5FFA4361FF0CA54DF5DF42"
+				}
+			}
+		}
+		"1370172"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5656178613589308961"
+					"size"		"649138022"
+					"download"		"144062256"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"621A5903C4ADE78C67A14D6300483435"
+					"size"		"D5BFD6B71B0052EB4FB9E1F075F94F44"
+					"download"		"4FB8C28C7B961FA3708A02806AC948F0"
+				}
+				"tilt5"
+				{
+					"gid"		"47EC986206A6E16E8648BDD748AD2C5F"
+					"size"		"EB7A6B0D80B4E084616F3104BA48C502"
+					"download"		"4788B46396A3B33A2138B5B60DC7D93E"
+				}
+			}
+		}
+		"1370173"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3048410621764072328"
+					"size"		"242141915"
+					"download"		"151144192"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"tilt5"
+				{
+					"gid"		"3252824FC911CDAA78F94FA45B5CB77D"
+					"size"		"A3D57A350F3641AAF5DA818C1EF19E61"
+					"download"		"6CCE1BD63C1DFD862725A59507F63BC3"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9986958"
+				"timeupdated"		"1669149405"
+			}
+			"beta"
+			{
+				"buildid"		"11860016"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691084744"
+			}
+			"tilt5"
+			{
+				"buildid"		"9986958"
+				"pwdrequired"		"1"
+				"timeupdated"		"1669071560"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"50"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Virtual Arts Studio/Diorama Builder"
+				"pattern"		"*"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Virtual Arts Studio/Diorama Builder"
+						"replace"		"com.VirtualArtsStudio.DioramaBuilder"
+					}
+				}
+			}
+		}
+	}
+}
