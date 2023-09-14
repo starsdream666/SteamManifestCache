@@ -1,0 +1,5420 @@
+"appinfo"
+{
+	"appid"		"534380"
+	"common"
+	{
+		"name"		"Dying Light 2"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"clienticon"		"abab8876f47185443e5e702778f1461fa43baab5"
+		"clienttga"		"cd990e7af2ee8e40de5c2e262c5c4045440ec729"
+		"icon"		"b34a9326b359af068e758ee8126d4232bfce62c6"
+		"logo"		"d57cb6d66f769e1809207509bee4207124a20470"
+		"logo_small"		"d57cb6d66f769e1809207509bee4207124a20470_thumb"
+		"releasestate"		"released"
+		"osextended"		""
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"portuguese"		"1"
+			"polish"		"1"
+			"czech"		"1"
+			"turkish"		"1"
+			"arabic"		"1"
+			"brazilian"		"1"
+			"latam"		"1"
+		}
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"534380_eula_0"
+				"name"		"Dying Light 2 EULA"
+				"url"		"https://store.steampowered.com//eula/534380_eula_0"
+				"version"		"2"
+			}
+		}
+		"name_localized"
+		{
+			"schinese"		"消逝的光芒2"
+		}
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1679097600"
+			"tested_build_id"		"10665051"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn"
+			"library_hero"		"en"
+			"library_logo"		"zh-cn,en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"54.234700819576034"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1694163054"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Techland"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Techland"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Dying Light"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_9"		"1"
+			"category_28"		"1"
+			"category_43"		"1"
+			"category_1"		"1"
+			"category_38"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"arabic"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1643932800"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"534380"
+		"store_tags"
+		{
+			"0"		"1685"
+			"1"		"1695"
+			"2"		"1659"
+			"3"		"4036"
+			"4"		"3859"
+			"5"		"3834"
+			"6"		"1667"
+			"7"		"3993"
+			"8"		"4345"
+			"9"		"4231"
+			"10"		"3839"
+			"11"		"3835"
+			"12"		"1662"
+			"13"		"4182"
+			"14"		"4106"
+			"15"		"21"
+			"16"		"19"
+			"17"		"4667"
+			"18"		"6971"
+			"19"		"6426"
+		}
+		"review_score"		"6"
+		"review_percentage"		"77"
+	}
+	"extended"
+	{
+		"developer"		"Techland"
+		"publisher"		"Techland"
+		"homepage"		"https://pilgrimoutpost.techlandgg.com/?utm_source=steam&amp;utm_medium=store&amp;utm_campaign=dying_light_2"
+		"listofdlc"		"1537620,1537621,1537622,1537623,1537624,1864100,1864200,1864230,1864240,1864250,1864260,1888510,1937530,1937531,2108090,2156750,2210190,2217480,2269810,2269820,2330980,2370460,2370480,2370700,2370710,2400900,2456710"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Dying Light 2"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ph\\work\\bin\\x64\\DyingLightGame_x64_rwdi.exe"
+				"workingdir"		"ph\\work\\bin\\x64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Launch DL2"
+				}
+				"description"		"Launch DL2"
+			}
+			"1"
+			{
+				"executable"		"ph\\work\\bin\\x64\\DyingLightGame_x64_rd.exe"
+				"arguments"		"-nopopups"
+				"workingdir"		"ph\\work\\bin\\x64"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"mph-daily"
+					"ownsdlc"		"1263580"
+				}
+				"description_loc"
+				{
+					"english"		"Launch DL2 [RD, NO POPUPS]"
+				}
+				"description"		"Launch DL2 [RD, NO POPUPS]"
+			}
+			"3"
+			{
+				"executable"		"ph\\work\\bin\\x64\\DyingLightGame_x64_rd.exe"
+				"workingdir"		"ph\\work\\bin\\x64"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"mph-daily"
+					"ownsdlc"		"1263580"
+				}
+				"description_loc"
+				{
+					"english"		"Launch DL2 [RD]"
+				}
+				"description"		"Launch DL2 [RD]"
+			}
+			"4"
+			{
+				"executable"		"ph\\work\\bin\\x64\\DyingLightGame_x64_rwp.exe"
+				"workingdir"		"ph\\work\\bin\\x64"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"mph-daily"
+					"ownsdlc"		"1263580"
+				}
+				"description_loc"
+				{
+					"english"		"Launch DL2 [RWP]"
+				}
+				"description"		"Launch DL2 [RWP]"
+			}
+			"5"
+			{
+				"executable"		"ph\\work\\bin\\x64\\DyingLightGame_x64_rd.exe"
+				"arguments"		"-nopopups"
+				"workingdir"		"ph\\work\\bin\\x64"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"lqa-weekly"
+					"ownsdlc"		"1263580"
+				}
+				"description_loc"
+				{
+					"english"		"Launch DL2 [RD, NO POPUPS]"
+				}
+				"description"		"Launch DL2 [RD, NO POPUPS]"
+			}
+			"6"
+			{
+				"executable"		"ph\\work\\bin\\x64\\DyingLightGame_x64_rwdi.exe"
+				"workingdir"		"ph\\work\\bin\\x64"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"patch3-daily"
+					"ownsdlc"		"1263580"
+				}
+				"description_loc"
+				{
+					"english"		"Launch DL2 [RWDI WITH LIGHTFX]"
+				}
+				"description"		"Launch DL2 [RWDI WITH LIGHTFX]"
+			}
+			"7"
+			{
+				"executable"		"DevTools\\bin\\editor_devtools_x64_rwe.exe"
+				"workingdir"		"DevTools\\bin"
+				"type"		"editor"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"ownsdlc"		"2217480"
+				}
+				"description_loc"
+				{
+					"english"		"Developer Tools"
+				}
+				"description"		"Developer Tools"
+			}
+		}
+		"matchmaking_uptodate"		"1"
+		"steamdecktouchscreen"		"5"
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigdetails"
+		{
+			"2919128487"
+			{
+				"controller_type"		"controller_neptune"
+				"enabled_branches"		"default,devtools,internal-tests,lqa-weekly,modio,mph-daily,mph-daily-backup,mph-midday,mph-playtest,mph-proto,mph-stable,pac-weekly,patch10-daily,patch11-daily,patch12-daily,patch9-daily,playtests-may-2023,rollback,staging"
+				"use_action_block"		"false"
+			}
+		}
+	}
+	"depots"
+	{
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"hasdepotsindlc"		"1"
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,czech,turkish,arabic,brazilian,latam"
+		"workshopdepot"		"534380"
+		"534381"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8397059556255747146"
+					"size"		"22201723655"
+					"download"		"18437648048"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtools"
+				{
+					"gid"		"0D3AF4487BAD3B990D56AC4C96037076"
+					"size"		"4BA544A6F32DEB06D55482C0A5F7AE67"
+					"download"		"6B1ED2BBB64BD728D8110AD8DC1E9523"
+				}
+				"internal-tests"
+				{
+					"gid"		"28E0D72C108164B5AFA843863FD5B2AF"
+					"size"		"57474AA9B06446BE1AE8C62516E6A63E"
+					"download"		"AC3F8C86450CFEC5E7D30AF555FFE96A"
+				}
+				"jr-weekly"
+				{
+					"gid"		"ABB12684342FC611D4EBB7A5CC351EFC"
+					"size"		"EED88F02C9E3F40EA2FFB2F65EFC4010"
+					"download"		"945991000A72D54DA4BDB3DB79C590D3"
+				}
+				"lqa-weekly"
+				{
+					"gid"		"7E0058169FD40DBE64D8E079F30594CD"
+					"size"		"89EB899BC7BF3CA9C247F684959D8300"
+					"download"		"F14236CE39CFA13D0E56BF2F76E8FE46"
+				}
+				"modio"
+				{
+					"gid"		"FCB5BA27DE004C81F990995AE5AD19CB"
+					"size"		"DD81C6D6A87D5B5081123470C1C5C630"
+					"download"		"F7D922B46F6183040D483104F4503530"
+				}
+				"mph-daily"
+				{
+					"gid"		"30B0C01F7792BA19153FF61151A6B529"
+					"size"		"77273F2D8D8B2082655020C40A5556A9"
+					"download"		"37394A2A2FCCFA7E223056D475E81419"
+				}
+				"mph-daily-backup"
+				{
+					"gid"		"8D2DA530227458786319A914C6F82E00"
+					"size"		"220990AAEA72A690F5CE98E3747A4B1D"
+					"download"		"DC2A66A31C014E22D291F3A6F768F2F2"
+				}
+				"mph-midday"
+				{
+					"gid"		"D29594F323F2B25F995F91A573129661"
+					"size"		"0645ED7E205DD513C8289473EA37886D"
+					"download"		"D9141CE94B3B9EEEAE12604BB65845DE"
+				}
+				"mph-playtest"
+				{
+					"gid"		"D80DAF744CE2A112F8DACA3D99064436"
+					"size"		"217BB3D19B3B3FCEC62EA34C5F7A7B10"
+					"download"		"D96C7B6DA0B9676869DB1557382911FD"
+				}
+				"mph-proto"
+				{
+					"gid"		"E5A355EE7FC7DEF8AF62C46C6FF46EF3"
+					"size"		"CDBAE3D0482BBF6FBE2A4E71CA798C3C"
+					"download"		"2624D404EBBB638408A06AD6C330B07E"
+				}
+				"mph-stable"
+				{
+					"gid"		"59F92E12BE393760D3BB42B453B699A1"
+					"size"		"BC3A6DD9CDD17E2142811AF22C1B9578"
+					"download"		"79062867E024F1023470065354F90EA4"
+				}
+				"pac-weekly"
+				{
+					"gid"		"500876C7C747E3818F5DCED5E0D0075A"
+					"size"		"772BF6A35E98C2650AB2FEB3B88C43BA"
+					"download"		"E11C2581281B29430245E7048CE7FA03"
+				}
+				"patch10-daily"
+				{
+					"gid"		"9BC2499D9F81375777438F329D387F24"
+					"size"		"BDA43B60CBAB7EEF40CA44B4419C8D13"
+					"download"		"670B57DBAD12CD6E60E21FAE4DCDF8BE"
+				}
+				"patch11-daily"
+				{
+					"gid"		"CF991F996F01BF36861B6290B99C43C8"
+					"size"		"F49D35FE701EB065323398DE60FE0CEF"
+					"download"		"B697980F8720BF3E34D0D85FE81A6952"
+				}
+				"patch12-daily"
+				{
+					"gid"		"84A3E6AD2C73C22EF5E5A0B807F87A71"
+					"size"		"63169C514D32EF28E455E2FF71808533"
+					"download"		"5F90313051DF7AF5DDE7834948DB422A"
+				}
+				"patch9-daily"
+				{
+					"gid"		"67EEB7F2666E025AB9318C8E3A0C6C59"
+					"size"		"BABB782F4CB32EE768A5F5AF028E115A"
+					"download"		"D2EC0A458CB5907842CAAF71A5B2F823"
+				}
+				"playtests-may-2023"
+				{
+					"gid"		"8678A355B21E817D73C6E8B4B13AFA02"
+					"size"		"57914AD13C1E71F53A6998A8887C4084"
+					"download"		"471B72103CD18A9C77A22D11815116C4"
+				}
+				"rollback"
+				{
+					"gid"		"084640F93BF6CEE9D8573C8D2B39DAC0"
+					"size"		"EBEABBC0D37AE32CA4904DBE96D87240"
+					"download"		"0A72BCCD8519A03850ED1EC6E2F22AC1"
+				}
+				"staging"
+				{
+					"gid"		"0951371E830F09C114C4076B243B8FAF"
+					"size"		"E0D2C26F5A2B92578F67F873055BF0ED"
+					"download"		"3719ED314F239B5346F35E835878A16E"
+				}
+			}
+		}
+		"534382"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2610088083322243488"
+					"size"		"340662644"
+					"download"		"98913968"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtools"
+				{
+					"gid"		"5D0B7688DBEAEF3C3F70F7B2C35F0192"
+					"size"		"15CD0A48303D8427B3EE991D653FB203"
+					"download"		"9E9BD82B33CEE8BC06B69FB4584F8374"
+				}
+				"internal-tests"
+				{
+					"gid"		"80CF1FFCB5088D85F0D862AAE4B95637"
+					"size"		"1A3E5E045DE290378B401914BC0590B0"
+					"download"		"00813B62D55713FADC3BE544CD2D6EA2"
+				}
+				"jr-weekly"
+				{
+					"gid"		"FBFF40985392BBFCC4E2FF942E13415A"
+					"size"		"EB098DA6A9C8D5419670C6DE893AC8BE"
+					"download"		"412F3B34F66DFF3CFC0ABBBF933F066F"
+				}
+				"lqa-weekly"
+				{
+					"gid"		"78D1B004C2DEEE73BEE8BF78F6B0AB5A"
+					"size"		"20495C10ADE3872D00FDE5FC99E9DA0E"
+					"download"		"C97637B258F20B7ADACB108BB8164973"
+				}
+				"modio"
+				{
+					"gid"		"C798CD5BBA5B79AC515C8BD5DEEC17C8"
+					"size"		"C72712103F70CEF0DDAB381F1BFD4726"
+					"download"		"1CB39C6612929A648D7409B5F64DD7D5"
+				}
+				"mph-daily"
+				{
+					"gid"		"D5F622A4B9CAEB4D77BD2DB1F45F5A85"
+					"size"		"B4BBBCB1BDA3D4A4F72372C132FBC986"
+					"download"		"94A72940613ABC852A04B0B3D6500E89"
+				}
+				"mph-daily-backup"
+				{
+					"gid"		"5DF201C4814FFA4621DE0CE1C3F56D10"
+					"size"		"C00F42AFCEEC9075E56D91B35235EFE3"
+					"download"		"775FBCD1699D7A8BD912C84068BFA922"
+				}
+				"mph-midday"
+				{
+					"gid"		"9EAFC41EAC568073CF15E65094BB9631"
+					"size"		"4A4AF5669ADBE8162A7CDB4A1D61D251"
+					"download"		"21F1E185AE1D13FB179CEFD6073C61AA"
+				}
+				"mph-playtest"
+				{
+					"gid"		"5E1B1AD5A144B94DD8CF435AEC310DEB"
+					"size"		"BAC31DDA1A514E8588D54D374FB02FFB"
+					"download"		"A20AC133CDEB83F0662B770B66AEDF7F"
+				}
+				"mph-proto"
+				{
+					"gid"		"D699A6B71E9331CB4250F12D46B793CC"
+					"size"		"525833E3CC1823C6AA227781C358EFC7"
+					"download"		"665645EA5D8AF35942B2ED48B429783F"
+				}
+				"mph-stable"
+				{
+					"gid"		"F5B97940AA5A7F49C28D520A17A532CE"
+					"size"		"3059ABC1E242CFF92A385EF157E7E86F"
+					"download"		"6209CB23EEFF29F918E8EA5F8DDEFF7E"
+				}
+				"pac-weekly"
+				{
+					"gid"		"FCFC5F14980147EA4F84F5A1870D9D73"
+					"size"		"DCA19CB12EDB6C9EAB6ECE4F21090550"
+					"download"		"A45417BE800C9F38438C0817534D3155"
+				}
+				"patch10-daily"
+				{
+					"gid"		"9FA7CCCF723555F5B0C86DDC7D20A591"
+					"size"		"799025D8377FF1E46A02666F8D71370B"
+					"download"		"EBE8170130DB766F7BBC69A35CE7529E"
+				}
+				"patch11-daily"
+				{
+					"gid"		"9C33A274A18649F90929EEAFDBA9A4F9"
+					"size"		"6ED07C9B73CC8ED9416F81ACD9A63FF5"
+					"download"		"CECA76E9E47FADCAFAF6CFED5B2F1F6F"
+				}
+				"patch12-daily"
+				{
+					"gid"		"E0829203B3C47B6904ED13C1F83F878E"
+					"size"		"B03AFE0C14FA2916E425ADED3E682289"
+					"download"		"B3A12E33F6172924DC491EB5E7ABA5A1"
+				}
+				"patch9-daily"
+				{
+					"gid"		"E006C393889D9A25B3072C243BF10B2A"
+					"size"		"771AF18A517CA4ED2D204E374BC1D563"
+					"download"		"EE5ABF95FB054795A0E1601FF720B97E"
+				}
+				"playtests-may-2023"
+				{
+					"gid"		"2DDB3C0E915FCEA7371286531703D923"
+					"size"		"91B7E687C3F7A0E8F782A2C9639542BA"
+					"download"		"12D948CACCF9DCD7C5EAFE7B53A3FEBC"
+				}
+				"rollback"
+				{
+					"gid"		"2AA8E171AB1D2EF2413A56098EA1514A"
+					"size"		"8E7BA13F94D3A69A9A6677EB2E056AC0"
+					"download"		"162B69BA4567D641DE14CC93B2CF65B1"
+				}
+				"staging"
+				{
+					"gid"		"219147D08777AB171F84C4874CF3130A"
+					"size"		"E0665F43E046A4E908060688C85A71EA"
+					"download"		"15C10428859B5DF20A56EA574B9726C2"
+				}
+			}
+		}
+		"534383"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6553645018477200440"
+					"size"		"29490287499"
+					"download"		"16959315296"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtools"
+				{
+					"gid"		"92148EB8F9F1A5D4CA69CE219B03EE5F"
+					"size"		"C943AEA84D85CAAC192671EAEB81A525"
+					"download"		"E305F24EBC290BE3C1790A940F9F1A72"
+				}
+				"internal-tests"
+				{
+					"gid"		"646BC87B9D311F2AD61542921D3F7014"
+					"size"		"99F11AB0EED6E98410BC9F170BCF4665"
+					"download"		"D1B22C535200043E58E3C9844D59C014"
+				}
+				"jr-weekly"
+				{
+					"gid"		"775480854586507F3BABAD643CC192B0"
+					"size"		"51279D362CA9B07D7A254606A521453B"
+					"download"		"5B529CB1386FF25714F416EC90AC2702"
+				}
+				"lqa-weekly"
+				{
+					"gid"		"351A30DA2AFE7431456E101A59E33C91"
+					"size"		"49F3C85F29F464A08A4DE718BA6BE6C7"
+					"download"		"051B3B4600AB1AB9A77C90FC3123E3AC"
+				}
+				"modio"
+				{
+					"gid"		"2410902880DDAB26D4C04E69C3AFF711"
+					"size"		"4ACE766C043855A598793512A168ADA8"
+					"download"		"FA1F689AE1DB27318E8C9A2D37B18620"
+				}
+				"mph-daily"
+				{
+					"gid"		"4F61F76C35EA9BAC5336432F1E817F03"
+					"size"		"6AA777621DFF7B9500756D3E7486D6CB"
+					"download"		"8BF4107AA0203053F4CC45A413B48337"
+				}
+				"mph-daily-backup"
+				{
+					"gid"		"BAB80DC00CB7826202083780D50EA6C1"
+					"size"		"8A1338895F55096CCF75C7066FB7A736"
+					"download"		"7E9B65D5D7EC3153A2C47EDB09D78761"
+				}
+				"mph-midday"
+				{
+					"gid"		"A59AAEE59174FD48395BCA0A90EA8EFD"
+					"size"		"2F30520E20A03296B0A72C4E66E9540A"
+					"download"		"F9E10A42738512B30E332CDEBE6CEB12"
+				}
+				"mph-playtest"
+				{
+					"gid"		"A72E50744CB298BFF4798EC2A849F459"
+					"size"		"322A57C0568A889CFBC27452D59C45C2"
+					"download"		"823568D3BB66A84589DEF33566AF4548"
+				}
+				"mph-proto"
+				{
+					"gid"		"31742E4C7A6738CFCDD03AAB4B9D3AF3"
+					"size"		"13BAA68B2BF2918F79B4B1A0ADAB8C5E"
+					"download"		"29BF7AE1634E72A73AAE3C50EDDF39D5"
+				}
+				"mph-stable"
+				{
+					"gid"		"85EA8AFE5E38A90C78E7CFBA5F201B3E"
+					"size"		"D8CB1D913F7EDAEE8EAD3E521FE458F3"
+					"download"		"1A408341150EA99FEB0DAA8FBADF4B19"
+				}
+				"pac-weekly"
+				{
+					"gid"		"BAC447D2ED1CA7ADECB126A2D8373E20"
+					"size"		"5EE9F73DC21838DC33100FD4CC94AFCE"
+					"download"		"59C838CC9361221583299E222C9B789C"
+				}
+				"patch10-daily"
+				{
+					"gid"		"BCCBB353BFF85D45C41ADF4D521266A8"
+					"size"		"12103393183910804DA4220A4D246493"
+					"download"		"AD7ECB15057E15EA5AC5BABA051F51B8"
+				}
+				"patch11-daily"
+				{
+					"gid"		"75CD9D9778EE6E10CDB0A7C63F957E74"
+					"size"		"72F64D0973B4E2EDA4580F8BFE62C001"
+					"download"		"88B62D1CCCE3B4A82EABFCE2558FF652"
+				}
+				"patch12-daily"
+				{
+					"gid"		"47A6653C41117299BABB1039DD75C609"
+					"size"		"CB5051ACC1C0BE091D839E8A50975D3D"
+					"download"		"D47E208F762A9A921F82BDE074760FDF"
+				}
+				"patch9-daily"
+				{
+					"gid"		"C8AE74D4E5A6F07CFC89EEAAF816D85D"
+					"size"		"7240A0531768A52FA48BEBF5406901C2"
+					"download"		"4CB909032F9537C7B39E5056C8F58F22"
+				}
+				"playtests-may-2023"
+				{
+					"gid"		"DAA2B8EAA436612354F92049E000E27D"
+					"size"		"DD390B595CB308AA1B4F6D2E49BB54CA"
+					"download"		"9D7882433E1A1A7B3603B774C201E381"
+				}
+				"rollback"
+				{
+					"gid"		"BAD3EE0C23FB8B933B8399F47C912E19"
+					"size"		"3FE624FBE147F60BCEF678C6E57DB7F9"
+					"download"		"D7CE38992413325BA326AF36AED43A59"
+				}
+				"staging"
+				{
+					"gid"		"EEF59F6477C879FB08E2A3F7456D8B96"
+					"size"		"8DCE37A93D2421E02F5EE9247D1FBD1A"
+					"download"		"5C14AF6E034993B29EA0228F74CFE4A2"
+				}
+			}
+		}
+		"534384"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2436443018176521679"
+					"size"		"5079645875"
+					"download"		"5029220288"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtools"
+				{
+					"gid"		"78FB2C4286D27FD00DB498E0B45BA045"
+					"size"		"715DA72CEC6C21F95AC100DA931B3820"
+					"download"		"38A28D96B0351431E51C451E5836FAD8"
+				}
+				"internal-tests"
+				{
+					"gid"		"26A4FF76116F6342F7BA55BAD368BACE"
+					"size"		"B937A15AC624268E21143BAFEDBF9489"
+					"download"		"7659761E541FD5CDDF64817705EA60EE"
+				}
+				"jr-weekly"
+				{
+					"gid"		"E90A713BFE463D4A4447E075333027D4"
+					"size"		"3F935F1046FDE8CF1409AA57342AE686"
+					"download"		"4326E401C919B5ABBF4C746CED3A45D4"
+				}
+				"lqa-weekly"
+				{
+					"gid"		"96DE5A495DE86BB9FA43DAB9F2A91A12"
+					"size"		"8875DBA15439A397E4E39BDC18F8DEA8"
+					"download"		"EBD2CDE09C8AA3C4C5AB21A29321002D"
+				}
+				"modio"
+				{
+					"gid"		"8107A22F932C47DDC4BA663B7CE67353"
+					"size"		"E99CE5EA18E092A5DDFAB00B8F05EFE4"
+					"download"		"63CAAEC3D7979CE7968F206F9FDFC2A0"
+				}
+				"mph-daily"
+				{
+					"gid"		"4B0711B6914CF1952478E230874EAC88"
+					"size"		"1FCABD446092D7BAC957307927CD97B7"
+					"download"		"255C49D29378D55E37CB44A881551510"
+				}
+				"mph-daily-backup"
+				{
+					"gid"		"39F646A62B03A41E718FF48E61B04FFC"
+					"size"		"248B80337BA9B6259619143AA193D741"
+					"download"		"4E8F1BFE202455DB44D6B124435C56A2"
+				}
+				"mph-midday"
+				{
+					"gid"		"EEBC29934B845D01B9BAA27EE4EFC895"
+					"size"		"9E46C7639FD0F6A4DAEC18B9FE333BDE"
+					"download"		"1C1DC141C86787B6AD3547EC945839C9"
+				}
+				"mph-playtest"
+				{
+					"gid"		"34A7A32F6712F4776A48763FE4267F5A"
+					"size"		"FA5DA4094AC15D296E9E2CA8D56BE1EF"
+					"download"		"CC20F1F200ED92764CE5F36B4996E1F9"
+				}
+				"mph-proto"
+				{
+					"gid"		"24127AFF7165998D630B008DE17313D1"
+					"size"		"2A0A9CDECC915BDBEFA838A81EEEEE79"
+					"download"		"A6BB4D07EE3EFC05331F55010D9D24C4"
+				}
+				"mph-stable"
+				{
+					"gid"		"A10D44659D033B2E357D4C39D70FA21E"
+					"size"		"11D55742ABFE8C1764B29CB57E7660CC"
+					"download"		"67FD9423E1BB959136A484C5A51C8FA4"
+				}
+				"pac-weekly"
+				{
+					"gid"		"E4CB7E931C7F1EC53FB9642716E4958D"
+					"size"		"D7D269FB8D45A476972B44EE04BC94AC"
+					"download"		"AAFFC1EDEF8EE2AEA8DEE8712D14476D"
+				}
+				"patch10-daily"
+				{
+					"gid"		"91C3D21BEE663EDC26D35DB3CDD49891"
+					"size"		"240C96A004B85AC61F93135BEEB471FB"
+					"download"		"D3322799C20624006FB612A6D52144F3"
+				}
+				"patch11-daily"
+				{
+					"gid"		"BFB06D76B4CD2F9DC11A49B7D9770EEE"
+					"size"		"BD679CB826D4C8190599036D1F7601A7"
+					"download"		"CB15301FECF96AA6B39700F80FBFB834"
+				}
+				"patch12-daily"
+				{
+					"gid"		"F27268A48F7654919375BDD3B0D0FEE3"
+					"size"		"C51F2A4D8B1F1E4C7A6A7ABEADAF8AB8"
+					"download"		"B9E9B11FC389E89E4AF3C83D496A53BF"
+				}
+				"patch9-daily"
+				{
+					"gid"		"4FFF2FAF06776B8A872A67297801FD93"
+					"size"		"9D5C33FB95F885CE79735664CEB3F802"
+					"download"		"93CB2BA54890C8282CD04618E535DD01"
+				}
+				"playtests-may-2023"
+				{
+					"gid"		"84E6F251550D8EE31C7A9A066B019335"
+					"size"		"B35320ADCF0402B331545DBD91CF1AF7"
+					"download"		"647691EAEB01FC49279850D15A1BA8AD"
+				}
+				"rollback"
+				{
+					"gid"		"04CA4745C0ACE473381AB0F506DBD68A"
+					"size"		"FBB970536EF07FB5E3B72A7A66855941"
+					"download"		"697589708D9575E15550A978847A1F53"
+				}
+				"staging"
+				{
+					"gid"		"610AF84236DE7B0AD3904B1F2406DAF2"
+					"size"		"F9C14745D9DE80A2FF9537EE19C6A8A6"
+					"download"		"0F3A86ECBEA94C3BD7A6C7E4F426BFA5"
+				}
+			}
+		}
+		"534385"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"522670831505197596"
+					"size"		"737710896"
+					"download"		"414587952"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtools"
+				{
+					"gid"		"CCA09CDB741339F5F73B0142993F616B"
+					"size"		"891CA71D307B66DA7EC97B6CEEDA3FB0"
+					"download"		"93FE2B23673BC99882781A93BA5781D6"
+				}
+				"internal-tests"
+				{
+					"gid"		"E12379F1C052D6C53B144CAEED0F5FB0"
+					"size"		"B9BC57496C58CC85C6C4D585AEFBC6CE"
+					"download"		"53D254CAD9B26DB5FC22EFC6BF3956D3"
+				}
+				"jr-weekly"
+				{
+					"gid"		"4790180BFDA8479D892B3E5E64595AEB"
+					"size"		"BF25DA2DB8E27E11D57A2EF5BC9B778C"
+					"download"		"0ABA1AAE294362D06E8E87DC167FA6E8"
+				}
+				"lqa-weekly"
+				{
+					"gid"		"308F6F84F823114834EB40C78A145833"
+					"size"		"21D423F734B6C03FB9E4BA0C71AB2295"
+					"download"		"C5F6423022700C9DFE82F4489EC8FB81"
+				}
+				"modio"
+				{
+					"gid"		"404232103431B43C07C7518F96290ABD"
+					"size"		"8591FA1FFCDC1205D00C68496E0511D9"
+					"download"		"CAAFC152F5D1B959FA5592475BEDF08D"
+				}
+				"mph-daily"
+				{
+					"gid"		"8BEAE2BECA49B42F29951EBA7CBE5830"
+					"size"		"F67FED72F49120662955FDDE07D688A3"
+					"download"		"7CA1DEE0217F4B837ADC08F5859097D8"
+				}
+				"mph-daily-backup"
+				{
+					"gid"		"1465309DF45B449BD3257D07DE46F414"
+					"size"		"9784998029868F5D1A8A0ECEAC4064FB"
+					"download"		"2DB68AD85C0C80FEEC90FCE1CB426FF8"
+				}
+				"mph-midday"
+				{
+					"gid"		"9A2C89DE4CEF730F880EB8FF4749EFB8"
+					"size"		"E0AB4647138AB21571ACD21D756113E1"
+					"download"		"720898B1ADEFF9AB90539F6EEE8DAB80"
+				}
+				"mph-playtest"
+				{
+					"gid"		"7FEC78D973018536C7763B0796B45D93"
+					"size"		"32167838276AD945AEF70FF7C80F6423"
+					"download"		"EDD021542FFC44A6306C145A99E584A8"
+				}
+				"mph-proto"
+				{
+					"gid"		"CCD42FE0CF45BE87F5FEDA108189F107"
+					"size"		"AA519022B420C9A7A92A805E455D540D"
+					"download"		"E5E94C84BFAB19E51B85B20FB5C5F4BB"
+				}
+				"mph-stable"
+				{
+					"gid"		"853637EA65AB8DA329A39C17C23A2B48"
+					"size"		"51C2777CBE9C1ECEDFCDAD40A755E322"
+					"download"		"643F7DB77B197BAFCEDEE6C63E2BA3F3"
+				}
+				"pac-weekly"
+				{
+					"gid"		"D7D5CD80F325DAFFB1B4E54D2284FED8"
+					"size"		"3CBF412F7F24AB0E80FEAE517BD4CD86"
+					"download"		"6B86A89E65232DBA1A7C352C0EAC9CB9"
+				}
+				"patch10-daily"
+				{
+					"gid"		"D9E66C44DAF324A48F4EF174FB94EC65"
+					"size"		"1C6F3758ADBE809F8D75A183C039CF77"
+					"download"		"2E0649338826341F07D4D65A42262BEC"
+				}
+				"patch11-daily"
+				{
+					"gid"		"1B11458FF53711C599F9038534F4A0DD"
+					"size"		"8547B511497E1799DD4F7A77245D8C07"
+					"download"		"30DD2DB077D01440F7299DAE800A522C"
+				}
+				"patch12-daily"
+				{
+					"gid"		"93E4D3EC046DCFA6D4F574A72EB04A25"
+					"size"		"55E5843BD22E8051F22F78DB5B2F0264"
+					"download"		"794379A8225A9B71FE111F903D5A7049"
+				}
+				"patch9-daily"
+				{
+					"gid"		"52FAE91B38E2C30D4B4D1830CC30DDFB"
+					"size"		"A6A83764CD9E1F9299071F2447D59DF9"
+					"download"		"11BF472B6075BF68C33EF9248948D283"
+				}
+				"playtests-may-2023"
+				{
+					"gid"		"0A0D42FE2185D99B1331833641E1930A"
+					"size"		"81D6843B4CA053DF25C5430D2EE4EE02"
+					"download"		"451E63020A78884AB3C4F34FA52A32CA"
+				}
+				"rollback"
+				{
+					"gid"		"662CD39CDFDF9957B8D1E4AB98E790C7"
+					"size"		"4926CD869DBBDDE902470F2450BD8FD9"
+					"download"		"31807783FE18A314AEBCA1FC88B1CCB2"
+				}
+				"staging"
+				{
+					"gid"		"13FC3B510232F1B2830B76CC627C9C2B"
+					"size"		"29CDB11DF638A92B0D9F6295900D91AA"
+					"download"		"96A3DD847510342569B3FA6343528EF6"
+				}
+			}
+		}
+		"534386"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"dlcappid"		"1263580"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8566973884540193084"
+					"size"		"1"
+					"download"		"48"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtools"
+				{
+					"gid"		"66EBB9A877ED0E2B274624B4CACABC4F"
+					"size"		"628791DDA3EE65C17E399F72E0303580"
+					"download"		"B1A4039055E73DB02F2923570DD76F8E"
+				}
+				"internal-tests"
+				{
+					"gid"		"3A67617863857A8B0DAE1C17C68ADDA5"
+					"size"		"F0C9F71BA257679EC44FE628BC175FE4"
+					"download"		"9AA6A2A9D435407F6C3D7A18818E3E8E"
+				}
+				"jr-weekly"
+				{
+					"gid"		"40F46AFB50FE9FA7279A3FEAF7F1240D"
+					"size"		"F9677E9EEE0086690D15A82A60369F4E"
+					"download"		"EC4639CE05CF03CC836228446D1A6E3B"
+				}
+				"lqa-weekly"
+				{
+					"gid"		"BE161207086262EBC55D974448DB81EC"
+					"size"		"242D19C1CFB4A54D13D9288C6521875B"
+					"download"		"F1AB27917CE7C05AD9BC2622679CDC58"
+				}
+				"modio"
+				{
+					"gid"		"CFC57C0AF13FE9D8E03963A08668DFB8"
+					"size"		"7ABF895C416DD911FF0E27D2E5AC0132"
+					"download"		"08E45CF8732B81F2438D73786DD5883E"
+				}
+				"mph-daily"
+				{
+					"gid"		"7AE44113D37894D5FF83AA8406DFBC2E"
+					"size"		"73259AB54A07EB11656EC80B8C40A229"
+					"download"		"EA3513992AF93D6F2AB3D643D3FB04F9"
+				}
+				"mph-daily-backup"
+				{
+					"gid"		"BA4E7F12788E98F07E289FC79280734D"
+					"size"		"97E31077BAD1A83EDD525EC9E6E42F96"
+					"download"		"E03DC3DD3EFBE1B067A6B010534D5981"
+				}
+				"mph-midday"
+				{
+					"gid"		"3F4DEFBF4FCA7398B05C5F6BB5EA8736"
+					"size"		"3DBC3709DE76EF545BFF09DA62773376"
+					"download"		"4B918AF9CA38E6FD0665D6249C51A56B"
+				}
+				"mph-playtest"
+				{
+					"gid"		"9D4913798B40F08550C784A85304FDBC"
+					"size"		"33CC63623E2ACE8B17EFE2B08DC3CD06"
+					"download"		"1A5D58EA789054C0B9812CC4AFD4F402"
+				}
+				"mph-proto"
+				{
+					"gid"		"C5E50C00EB7828DC30220587D5FB9710"
+					"size"		"A47A4EF59429F19CD71DBDA8094005A3"
+					"download"		"3F1BE791B2B69D4D02F858D8E83A233C"
+				}
+				"mph-stable"
+				{
+					"gid"		"59B8C16B8E5F57F7FD8A0DE36F290C58"
+					"size"		"87062DD2C62F7F3F46F7111D0EA87448"
+					"download"		"AF35386423E58A03D4EBB51783A3FC35"
+				}
+				"pac-weekly"
+				{
+					"gid"		"ECB3C0FD113AF9CFFA3B8C45AF61AEFD"
+					"size"		"4387C1A245E3EBD2117B0951DDFDB16D"
+					"download"		"8973C3A441CBE27195B4A64B19DFEDF3"
+				}
+				"patch10-daily"
+				{
+					"gid"		"D4B9FC8AF0CD4FD044E811047973C4EA"
+					"size"		"607474C609A586FAFD9D231AC65E2D62"
+					"download"		"1B009E7537BFDCA2DFF184791E64562D"
+				}
+				"patch11-daily"
+				{
+					"gid"		"F59129F041745C668935255E1535C19A"
+					"size"		"C7B287ADDC846E1546551BB9B9083176"
+					"download"		"CC859915D5E499699E52D1841DC7384F"
+				}
+				"patch12-daily"
+				{
+					"gid"		"0EC2095DE81F206DED8C058B9E959432"
+					"size"		"226CC8BCE4943B73492A880EAC65CA1B"
+					"download"		"DBC86EFE7C25467EEAA00DC68BC209A3"
+				}
+				"patch9-daily"
+				{
+					"gid"		"7FEB65171414E2647B3A9D359F8ED631"
+					"size"		"F22E24600501B9793F1DD29829D66D37"
+					"download"		"2546BC85A8496E00163F72F5B201BCBF"
+				}
+				"playtests-may-2023"
+				{
+					"gid"		"633417A1D48C6F141D75908E7ACA413D"
+					"size"		"7816151CB32E06FBBA2200C97DAD8658"
+					"download"		"AE7DF923E296476C59BBCF2DB280BE93"
+				}
+				"rollback"
+				{
+					"gid"		"1C22696F3354A0280B942C21C5C6295E"
+					"size"		"1D5497D98FD28215032E29BD65D515D3"
+					"download"		"04A01C351D6F380A3F0540B6B9750E7A"
+				}
+				"staging"
+				{
+					"gid"		"6B872C4DCEBE99A31910D7F393A0F479"
+					"size"		"9C486A26E6A59CD5DD9FAF1E41736892"
+					"download"		"CCD64A3417E374146441C10189C4ADCB"
+				}
+			}
+		}
+		"534387"
+		{
+			"config"
+			{
+				"language"		"arabic"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8253013369358661508"
+					"size"		"2767864"
+					"download"		"2787808"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtools"
+				{
+					"gid"		"F4986B076B2CF98BA341D8155EEA5340"
+					"size"		"911F29AE7EFBE3FD8A4C74E0C8438B7F"
+					"download"		"CB3EBD171E5FDE357D3338DCCEF7DA4E"
+				}
+				"internal-tests"
+				{
+					"gid"		"45531EE387CCE3830C6393E6FCD4B350"
+					"size"		"8FCDBDF9BB7B1BC3056265B9F4D6E73A"
+					"download"		"40798E03351A10FE5DB44D8444FC7C6C"
+				}
+				"jr-weekly"
+				{
+					"gid"		"E6BC4F4C1130FDFD640BA3B439EB81CE"
+					"size"		"18090F4C32E1FCBB6A0EFF9BDFF8808C"
+					"download"		"3DE6F9E5593130704B1EAC1A4EECBB8E"
+				}
+				"lqa-weekly"
+				{
+					"gid"		"190728C15EDFA91E7FCAF40CBE6427DE"
+					"size"		"EF46DED85D248F156A4441E9A308E291"
+					"download"		"03C4E330B7380CAD18F6E90DF18F8B17"
+				}
+				"modio"
+				{
+					"gid"		"BC8CF5C97E26AA12AC19998173E40DB1"
+					"size"		"739F3F290BD5A9B87B321E7467A9D331"
+					"download"		"F164EB6F0732B19D0426D47C9D4D8DD8"
+				}
+				"mph-daily"
+				{
+					"gid"		"3FAC43A59CEC0325E30433C1E52F9DED"
+					"size"		"7C6A2604053E8E75234988B9B18089CA"
+					"download"		"373F7928485709C60F652698DF458556"
+				}
+				"mph-daily-backup"
+				{
+					"gid"		"036BD39ACEBEA39ABD2204B1C9037582"
+					"size"		"1E113BE3E71273DA9598ADF5552C2AE6"
+					"download"		"8AE26528AD8556F47FB053FC42CE4D6B"
+				}
+				"mph-midday"
+				{
+					"gid"		"D79121078A5D7AC3D1C3E5FC1A789F91"
+					"size"		"9E450D4F83951886A3362859F9669E57"
+					"download"		"B2CEE9271B5F1A7F5D12AEF91277F451"
+				}
+				"mph-playtest"
+				{
+					"gid"		"A8E658524A1602087C7847985A1DC52E"
+					"size"		"EDB61E10243629DE1237E5B3A071E07E"
+					"download"		"7342C345243BEC63C7D5987C22EA5866"
+				}
+				"mph-proto"
+				{
+					"gid"		"786D000294A8F2722E5B99C1B2E036EE"
+					"size"		"368CE3BC71BB64F2EB926E1A6DD93A2F"
+					"download"		"A034FABEBBDD5C56B71052C5B0C738F0"
+				}
+				"mph-stable"
+				{
+					"gid"		"6D8EFB4AAFE33BB889FC6086EA96509C"
+					"size"		"828884EAA2B61992577BF561BFC9F2C5"
+					"download"		"4405240A1F1FAB6D9B1D429EF3ABB1A0"
+				}
+				"pac-weekly"
+				{
+					"gid"		"AF7A804654982E57C18A7D42BE431FE0"
+					"size"		"2EC8C1752101F7C3E531D34FAEFAAE00"
+					"download"		"E12133EC0F8F4CE20EB0F21C76E1FF0A"
+				}
+				"patch10-daily"
+				{
+					"gid"		"509A84F90858FDBD40A9022AFF5AC05F"
+					"size"		"7A3F52D2EE7E9F4A0775C1474A342924"
+					"download"		"FA22B30C3A743A016B4B00F078976B90"
+				}
+				"patch11-daily"
+				{
+					"gid"		"8E8582635F5443C314F455B895E5439E"
+					"size"		"9A7C93B23AEBB3983AE7097B41E1FB6C"
+					"download"		"25E045CA860BFFEC94C4C01F8C6B5E58"
+				}
+				"patch12-daily"
+				{
+					"gid"		"053F37B51678A9A7542DA027FBC6890B"
+					"size"		"2BA33268B75445FAF0033BB408FC163B"
+					"download"		"E7984E5C99D27468D8955595055620A1"
+				}
+				"patch9-daily"
+				{
+					"gid"		"9561F88B9D6D07EB4039E91CFA3826BD"
+					"size"		"A7AE58E1861ECFBC1145508D25EDEB24"
+					"download"		"859CE1B9222E9F5324EC3BCA8101F5A9"
+				}
+				"playtests-may-2023"
+				{
+					"gid"		"6B156351E321744B90D772FA89E18192"
+					"size"		"EEC98F144B4D08DDEC0053E2F41CE126"
+					"download"		"60506051E50BB5E2577FE5834E9B53DD"
+				}
+				"rollback"
+				{
+					"gid"		"847F2EC1F03ED9AF6B81CAE5809E1450"
+					"size"		"52EE025D08E722A3CAD0AC0FC10553E4"
+					"download"		"8F0401DF24A5BA6B1821719D3E0BAF43"
+				}
+				"staging"
+				{
+					"gid"		"2D5257B54CF6387BACFB45E72B39E701"
+					"size"		"13411B7E44752A3ECA0533DBC2F68297"
+					"download"		"5DA47991CE9ACB96F7E15E2BE12775D6"
+				}
+			}
+		}
+		"534388"
+		{
+			"config"
+			{
+				"language"		"brazilian"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1044536114487239259"
+					"size"		"4926938276"
+					"download"		"4884375280"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtools"
+				{
+					"gid"		"1791F0DAE2760C77128109C4226CC329"
+					"size"		"959C302438EE34A1F56C8A7F47725019"
+					"download"		"AFE0AE428338669D989452208889A2D2"
+				}
+				"internal-tests"
+				{
+					"gid"		"3DED2932A3D8174EE695B5AAF93A6FD8"
+					"size"		"E5A0CD9A3D6662FA873D5B48591D45E2"
+					"download"		"EE8B83FD24212846646131E16E03B262"
+				}
+				"jr-weekly"
+				{
+					"gid"		"4F15605544F91A5E4385EB4C3EB42C64"
+					"size"		"695EE21AB71EB79837C3B13047D39685"
+					"download"		"F1DF23E1E4DC1EB097378533DF5A14F5"
+				}
+				"lqa-weekly"
+				{
+					"gid"		"59C398AC97048087D32C732D7BD36F1A"
+					"size"		"4814584C3C4CB75C4E3CAB4AA8E40012"
+					"download"		"8DCB19A0C1156C1811A6A4948B88FE3C"
+				}
+				"modio"
+				{
+					"gid"		"2AC8F806FBE191DB2B1FFC992EA505F5"
+					"size"		"48DCF9BB9840DC50475C8DC7394112E1"
+					"download"		"785EE11F2DBEC78433B782AEE1B831F7"
+				}
+				"mph-daily"
+				{
+					"gid"		"64DE5BB1A47D1B00496FBB0E4AB94AAA"
+					"size"		"99E6613C481BFD3441E000797397B6B1"
+					"download"		"CC1079D608800586EE7A081621647CA0"
+				}
+				"mph-daily-backup"
+				{
+					"gid"		"56C3CC37E22349A2C279CFD5804DD782"
+					"size"		"F98A383926532309A072A34DDD2E85AE"
+					"download"		"B3EF2F10645BB468C3D7AC1B3F88D3E5"
+				}
+				"mph-midday"
+				{
+					"gid"		"2BAF1D0CB4CB0C33C84BA7F5AE503711"
+					"size"		"FDA595878B312EE6064AEB859C6850F9"
+					"download"		"4BB85CC09420F7B13E0B6EF51AA1DA27"
+				}
+				"mph-playtest"
+				{
+					"gid"		"F7F5FE6B24FB2C34326BC9F56B93B3D7"
+					"size"		"988E676442E45F09AA64D517C563B31A"
+					"download"		"0E0DCCAE8664FAA9613DD4F732868384"
+				}
+				"mph-proto"
+				{
+					"gid"		"57367ED1A5C0CF1CD4511249E647C7F6"
+					"size"		"0AAEB4888D64DF746FD4EDC4BA291CAE"
+					"download"		"712DB79BAD556DF54D64E00F47EA1EF5"
+				}
+				"mph-stable"
+				{
+					"gid"		"F2A56F8431BDD311E0C58847461B03A2"
+					"size"		"B292C180755A5B57D046C80321DB449F"
+					"download"		"AAD291F39A9DF3573563FBF9C2C69AC8"
+				}
+				"pac-weekly"
+				{
+					"gid"		"90D0E5BF88D8F244A33BF44B253E2DEA"
+					"size"		"EB814B5136F86220BB55628FA72FCD83"
+					"download"		"E5B26F555390BD10B9118F627FB20657"
+				}
+				"patch10-daily"
+				{
+					"gid"		"33DC34ACD120E4CAE5626ABB499955C3"
+					"size"		"ABF1E5DC35EE14FE5F537BADBCC287CF"
+					"download"		"A96386543D1518EBE4620D80CB2814C0"
+				}
+				"patch11-daily"
+				{
+					"gid"		"E9453CDDC5E00431CDD90D8FABE326C6"
+					"size"		"40CF31292F2652E02CD1D8A0F03F6656"
+					"download"		"31A8F4B7563D890694FAC0F2AB20084E"
+				}
+				"patch12-daily"
+				{
+					"gid"		"6D706F812B28AAE02D03EBB8B87B7287"
+					"size"		"01CAC71DB10AB2D241099F4FF050308B"
+					"download"		"D1F02380744D72FBF201D8AA71B963AB"
+				}
+				"patch9-daily"
+				{
+					"gid"		"02D24A46D2E5D183D8182461EBFB84C5"
+					"size"		"19287DC8352A96B678F8B70306D0BDA0"
+					"download"		"EFFA8F324A3232A06E506BE95CE8BCBA"
+				}
+				"playtests-may-2023"
+				{
+					"gid"		"063DB67554BA0BAB35F6F22714FA6132"
+					"size"		"951C21F5362293CBFA311322158DA260"
+					"download"		"D94E752892117E91CA4C25DF4D30A0F9"
+				}
+				"rollback"
+				{
+					"gid"		"87318995B0977C7F2C2FA518C742546C"
+					"size"		"CDE510A27DE536BD62F0D4473BDE689A"
+					"download"		"6C97726D4750B178021CB842A0A0986F"
+				}
+				"staging"
+				{
+					"gid"		"0635E537574DEF427B916CFD6665E195"
+					"size"		"126D1403197FB241D52BB2C5E978FED7"
+					"download"		"9C836D2A8DD89D6BA1506026D3341CEA"
+				}
+			}
+		}
+		"534389"
+		{
+			"config"
+			{
+				"language"		"brazilian"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8410094369645298804"
+					"size"		"654484000"
+					"download"		"375719872"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtools"
+				{
+					"gid"		"886FF32625D6C4B60920B4CAF6EF1D33"
+					"size"		"7D30106346A8D3F6A145866787033C67"
+					"download"		"F8A409BCE9904DAC246C0BC72BC29CFF"
+				}
+				"internal-tests"
+				{
+					"gid"		"CCB10B8174E51B4291F841823AA4FC9A"
+					"size"		"0CDB21AE0F78F6024972349013514114"
+					"download"		"D8643EBE20DFC4072580F6A3D7D8C62A"
+				}
+				"jr-weekly"
+				{
+					"gid"		"A0497420BDF79BABE54CCDD8B9997611"
+					"size"		"F4221B823ED9130B893127C1F69E50B1"
+					"download"		"1B368FF81BA5D0C7C93D99548825D6F5"
+				}
+				"lqa-weekly"
+				{
+					"gid"		"8A99D3B54DCAB4212A50E4D0B2CBA450"
+					"size"		"B31F1FE2ED8AB7577DE25B8955CA7DFA"
+					"download"		"4A7E25CB9532DA7C454914A933AF5C2F"
+				}
+				"modio"
+				{
+					"gid"		"AA4CEDB8F7275387C0B1894FCBC5293A"
+					"size"		"846660103070309F7F81FB619AF63AFD"
+					"download"		"00D69249B88F67F1E0934A826B419C7B"
+				}
+				"mph-daily"
+				{
+					"gid"		"A9FAFF4504865F27DEEB60966552E9E6"
+					"size"		"8FCA614276BB23C1A233EE80F8C2FE97"
+					"download"		"CE892B355F74A55F35CB56A346F873EC"
+				}
+				"mph-daily-backup"
+				{
+					"gid"		"BDB1E46D759981D903C2B0C5E6C9457E"
+					"size"		"17E74812CD6DE77592DCF321541B8778"
+					"download"		"E775F5974EFF6B0500824854D1DD9FC1"
+				}
+				"mph-midday"
+				{
+					"gid"		"1967C1E921ADB74482A0E7862467CA55"
+					"size"		"75188CC90D71AB9BE65B73395B2E8D5E"
+					"download"		"6213639494179FA6BD669CE31C2F6131"
+				}
+				"mph-playtest"
+				{
+					"gid"		"4A30D5AEF0C85EBF452EC38914414C05"
+					"size"		"B1CC52CBD18E4014DB9574A0E9D98D35"
+					"download"		"C4A210EB1EB20F9E82460326EF7AE121"
+				}
+				"mph-proto"
+				{
+					"gid"		"2E1D5CD45A6AC0FC697CA5691C4E4D59"
+					"size"		"C538EE85FEEC492B5B0CB5BB8BE11F8C"
+					"download"		"F2BCE3C01D820264F1163027C5B8C800"
+				}
+				"mph-stable"
+				{
+					"gid"		"CE10FCED95250121A8CE4A4FF69F62CD"
+					"size"		"B209E94ECCDF478159A52A381F95B5A8"
+					"download"		"712DD103AC5A1C679C8B69FDD30FCFFB"
+				}
+				"pac-weekly"
+				{
+					"gid"		"173D3DA2D3971F5D2C79289CA293CDF2"
+					"size"		"4853E0918F7B4FB81E98C1C1C532F610"
+					"download"		"2D00B57DC56B95A06A408D8613263E26"
+				}
+				"patch10-daily"
+				{
+					"gid"		"9AC335D2735D24BB7CC0E548928784F3"
+					"size"		"AD8850B6BF065535C854A06F9519A202"
+					"download"		"B92F308A83114BB1F1AA078E4828F36B"
+				}
+				"patch11-daily"
+				{
+					"gid"		"F03EEBADB46DC16EDD195CB00BCEFCCF"
+					"size"		"5AB7F6AB5D6DE185307CC020F84EB4D7"
+					"download"		"BDF90F91347EEF6396A1875F4BC4B49C"
+				}
+				"patch12-daily"
+				{
+					"gid"		"F954F42ACDB4F8C5FE9CD634D0069A86"
+					"size"		"033ACC46F1463C93EA99150D0C52547E"
+					"download"		"5136D42EE137AD8DA973EAC1BF15DD70"
+				}
+				"patch9-daily"
+				{
+					"gid"		"05E5B56B4C07B528762299D065FF65F8"
+					"size"		"5FA65D0ACCE138661FCDCC90834C6E5D"
+					"download"		"3C236304719454227EA66E9ED0DB5682"
+				}
+				"playtests-may-2023"
+				{
+					"gid"		"DB28E26D20864C25E7F07A4CDCD8F164"
+					"size"		"3C1833274DEEC6807885F3604D8F50E1"
+					"download"		"969EE636104D3B3693CEE77AB6D885E3"
+				}
+				"rollback"
+				{
+					"gid"		"F2D6F1C2AEBC1BFBF3C31DA72944DC57"
+					"size"		"8DE9A4B70A427D5A05734D2F73DF1A49"
+					"download"		"A1C8DA3B1F87D5B4EDA6D9E38285BA2F"
+				}
+				"staging"
+				{
+					"gid"		"5C9318D4EF5616D1A781802864F4D8DB"
+					"size"		"9A1E7D92A54FD16F658EB0476B48A9A5"
+					"download"		"38E5ED4B809AAC69F00FB68050E456FC"
+				}
+			}
+		}
+		"1741780"
+		{
+			"config"
+			{
+				"language"		"schinese"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3502249447955178707"
+					"size"		"4835541177"
+					"download"		"4789290816"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtools"
+				{
+					"gid"		"A6872BBC745E7B0835AD8D15997790C2"
+					"size"		"CD211AE5ABE82D718A4648E119CBF916"
+					"download"		"C09019CF132C714FFB57FCF9600CF36F"
+				}
+				"internal-tests"
+				{
+					"gid"		"AFBBAA36A55B94EF7167F1D06BCD96E7"
+					"size"		"5B992C1D502ADC9FC9BB861EC0B0BEA5"
+					"download"		"2E9BAA6F4C8DEE09770E9483B648E0B6"
+				}
+				"jr-weekly"
+				{
+					"gid"		"7ED4173F062159D5F124349328F10F68"
+					"size"		"FD74FE413C7E6309560136B353DB171D"
+					"download"		"35688EBB0D5BB6A99872F1F10EB1163E"
+				}
+				"lqa-weekly"
+				{
+					"gid"		"E252345E86AA89609B76918917FE2915"
+					"size"		"DFD55021A9ACBFF716A13DD46F19FC7E"
+					"download"		"36160FCC99D9CF3ACB983EACEEAEFC7C"
+				}
+				"modio"
+				{
+					"gid"		"FF372B01A6575B74696775E8F897B2A9"
+					"size"		"1CB618A36566C3ABB1280B49A1082534"
+					"download"		"A41BA091B556ACA2393C2DFF45495163"
+				}
+				"mph-daily"
+				{
+					"gid"		"DECF024D1294452E8F8C169D18CBB728"
+					"size"		"8894F563BB4308E3218D117ACBE9EEB3"
+					"download"		"EA365E5CE50148DC20501C2AF109F673"
+				}
+				"mph-daily-backup"
+				{
+					"gid"		"5B3A5DAE915B353D7E3B71D164E7477E"
+					"size"		"D124C45F4701A224C498D780DB82897B"
+					"download"		"A71AB09398F64195B4DA0C2C475457DC"
+				}
+				"mph-midday"
+				{
+					"gid"		"5E3E9F7FEB82E9D2B32A6CA29D10E92B"
+					"size"		"B24BD1720C9EF7908DF1F7278681B1EC"
+					"download"		"37A128505854DC03F60CE9553743C826"
+				}
+				"mph-playtest"
+				{
+					"gid"		"A344CC37AE51B494702AC025033B4DD4"
+					"size"		"51634149B1B28936F78D66298DFEA335"
+					"download"		"52C38FF9CC11ECBF3265C1DB1861ABDA"
+				}
+				"mph-proto"
+				{
+					"gid"		"C7FEC7E0786F6153885BA0A8BE3DE4CC"
+					"size"		"AC27F20741959A519766651631C63976"
+					"download"		"4801A6F6CB2ABBDF9C39D23546443F15"
+				}
+				"mph-stable"
+				{
+					"gid"		"21BF8E5717634649BC92151F0802CAB9"
+					"size"		"D4A4B30BD92EFB54BFFD20AA4C62F9B8"
+					"download"		"4E421E24617966E4511DDE60D6670DCF"
+				}
+				"pac-weekly"
+				{
+					"gid"		"FFD72AC72331AB43A689DBD2671144A7"
+					"size"		"4AC4156E31B252BB578E2B12926178F8"
+					"download"		"583EA37C8688203A20B8FB990EF92706"
+				}
+				"patch10-daily"
+				{
+					"gid"		"5EC9CCA520CE37F9F0498C2129CF9CE3"
+					"size"		"5CAD0C6E12205E3B97B3F35983C3ABB1"
+					"download"		"23D119ADCFB8739EFA8A3F64F11F8EA1"
+				}
+				"patch11-daily"
+				{
+					"gid"		"FEAC811C6F5615268267E59FC43F4D6A"
+					"size"		"F75F7AA1206869386BA7E48E5E428E80"
+					"download"		"66D5061C00A184189ECE68D3CAB54B14"
+				}
+				"patch12-daily"
+				{
+					"gid"		"392345A1224D352B5BBC912C95EE0724"
+					"size"		"606C1A2900DE959C7C4D3C79751C5783"
+					"download"		"FAFDBED23DF3A8AEF96C5D05B1B2C04F"
+				}
+				"patch9-daily"
+				{
+					"gid"		"B4C588C27870B0C74306D0D5A45E3159"
+					"size"		"8EDA04ACEE13DC701264C3F8B057FAE0"
+					"download"		"774CE8B06A767BF8A05E9DA946D15F2E"
+				}
+				"playtests-may-2023"
+				{
+					"gid"		"E0BEBA34BC074266678DB81746756859"
+					"size"		"577CD371B2D129903BE8DB66C28B5C16"
+					"download"		"385810093E6DC1091F9CE47BC13B0C01"
+				}
+				"rollback"
+				{
+					"gid"		"6B0342A82D0A5DEC5002AF85C7644FB7"
+					"size"		"0F6F28A5BC6FA39160B5B71546EECFBB"
+					"download"		"008B39870BBD3CC0822B995104A21311"
+				}
+				"staging"
+				{
+					"gid"		"E70813C2BAEFC279D09C7010E107CB7D"
+					"size"		"C65E5100743FC6DA7714398E72B20F99"
+					"download"		"D7A8CE435BE4D9F964117D300526DCD2"
+				}
+			}
+		}
+		"1741781"
+		{
+			"config"
+			{
+				"language"		"schinese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4159566747521365077"
+					"size"		"641090032"
+					"download"		"364250656"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtools"
+				{
+					"gid"		"E9E3EA96EB9C6691F7D1D88ACA22EFF8"
+					"size"		"387ADDC3C537532D723F4AF5D4DF897E"
+					"download"		"E42EEB5B44E13BC12E9FF4680A86B247"
+				}
+				"internal-tests"
+				{
+					"gid"		"47A31B037A03D7B927B6846D347255EB"
+					"size"		"3155533190077BD07008A663FA21F10A"
+					"download"		"C74234E8B66013549D8D1933923A4F5B"
+				}
+				"jr-weekly"
+				{
+					"gid"		"CACCA7241625DAC414DACA293F055221"
+					"size"		"3ABD756E36A37F6B8BC94B2219A5507D"
+					"download"		"E2D8A101C34E8BCE1861AFEE67F99DC4"
+				}
+				"lqa-weekly"
+				{
+					"gid"		"792580843CDCB6A012A8458EC495AD5C"
+					"size"		"FE0E8015D0B2BF97D2402DEF60C74ECD"
+					"download"		"D45D22B1264F17744698C3877D8D8CAE"
+				}
+				"modio"
+				{
+					"gid"		"D96CBF52BDAED8858E4FDBF2436D29A3"
+					"size"		"881259BCCEE5FB76C62E897F1AD1A1CB"
+					"download"		"E5887A890539E954A061DA0E0652FA2B"
+				}
+				"mph-daily"
+				{
+					"gid"		"0AAF83B417892A67D71E73703B204858"
+					"size"		"A5DC29DEFE273AAF7DF3AE71A263D270"
+					"download"		"5609470EF8AA9CC99DC26242AD38EF61"
+				}
+				"mph-daily-backup"
+				{
+					"gid"		"39D52FD316B6EAADEC12681515BF3657"
+					"size"		"8A740C1753C580314370A031B6215C67"
+					"download"		"6F1C901172055B413125F110D7E5246F"
+				}
+				"mph-midday"
+				{
+					"gid"		"AAF4AC6618D1E18E739F3059E75261A6"
+					"size"		"0CA090DC62A01BF62E4EF8263A9A332B"
+					"download"		"89496FFCC8459291C3A379B97683B2D2"
+				}
+				"mph-playtest"
+				{
+					"gid"		"376F0A271404ABBFDAE879AB1E56F719"
+					"size"		"0F02B7639BB73190B20FCE9C00EB21D9"
+					"download"		"97037AEF3242BA48E1E4BB68972DF6AB"
+				}
+				"mph-proto"
+				{
+					"gid"		"EDE8236945FC0C84464F7BA15DD484D2"
+					"size"		"84B73E75C28CCDE097EEB0769ECBEBB5"
+					"download"		"317D88543292189D6F9DF6395E2B670E"
+				}
+				"mph-stable"
+				{
+					"gid"		"AFA7526AFCB7C3C5E6D1AC295712CA1D"
+					"size"		"CEF3D93E9F11A120E01A93BE510CB3E7"
+					"download"		"F3887419C9A1502605A098E51CB56C10"
+				}
+				"pac-weekly"
+				{
+					"gid"		"C1EEA68C849E53C0A45726CC53196342"
+					"size"		"9BA49F63E4B9EE3D4745F49C918D08C4"
+					"download"		"89ACB8772BB3B55B4B3C0FA032B7DD5C"
+				}
+				"patch10-daily"
+				{
+					"gid"		"DD28CD0F27A7C411332FEF394CC42C21"
+					"size"		"F2A8F617E24803FF5660806E4F7B39C5"
+					"download"		"B1B8263FC073A038B9DE22AE3A75BFD0"
+				}
+				"patch11-daily"
+				{
+					"gid"		"7236B639D1087BC2197234857B7B6A02"
+					"size"		"7C35F7AA275E6B32CFDBF8367F996944"
+					"download"		"6957605BFBF15FFFF0042B22422882C6"
+				}
+				"patch12-daily"
+				{
+					"gid"		"701A67B638834A4D1625E2DA0AB59565"
+					"size"		"E8DB912694782A8C4B87DC001F023ABF"
+					"download"		"94A5CA804E3C6A1EF31BE0A03A4DB019"
+				}
+				"patch9-daily"
+				{
+					"gid"		"AD0D9B6BBAE624E0009226A3CB9C0E4B"
+					"size"		"67A13187C446B5796C9F69E15B40043A"
+					"download"		"B1341E401D5EA4462CCD1953838A7BBD"
+				}
+				"playtests-may-2023"
+				{
+					"gid"		"14497D4D0AAEBF3D787135B53500F59F"
+					"size"		"B0E35B47C15D406B5E1FE68D24A075F4"
+					"download"		"9A5D6667DCBCF8CA738E6692F64051FF"
+				}
+				"rollback"
+				{
+					"gid"		"74C47E0D8C5A32B4A89579DC5D62BCF6"
+					"size"		"62F78D87C5C16BF91B0DE205AF36E377"
+					"download"		"8C12C3554BEE2EDD9B42B82114FE6E62"
+				}
+				"staging"
+				{
+					"gid"		"D01EC97C70ECF6E6959F6198D269FD3C"
+					"size"		"1FADBF7B865331F78A93868DA1EFE735"
+					"download"		"240E36851CC6DAD4AE267F1E53C09F06"
+				}
+			}
+		}
+		"1741782"
+		{
+			"config"
+			{
+				"language"		"tchinese"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8442810228337782326"
+					"size"		"3447379"
+					"download"		"3481152"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtools"
+				{
+					"gid"		"9A00DF264DEF6C690E2B15EDFDC5A179"
+					"size"		"D1CE3A65857B0FC1A22862587C2B16ED"
+					"download"		"1D64D798BBED2E4616AB11A526F4274E"
+				}
+				"internal-tests"
+				{
+					"gid"		"352ACDFA1653147D08EB1DF11246CB28"
+					"size"		"E42B9C62D767F802943FFF971EF1C544"
+					"download"		"3252604DD29ACC9C3C2455CC53ECC395"
+				}
+				"jr-weekly"
+				{
+					"gid"		"D80A29429C632AEC6750DCB2BAD10CDC"
+					"size"		"44E17AEBB14C1B512F67FBCA98F4407C"
+					"download"		"74F5290E25417D25E279EA0F1091933C"
+				}
+				"lqa-weekly"
+				{
+					"gid"		"58450D22A4D6384674A2ADDDC62F9CC4"
+					"size"		"99EC9419EE96A224C80B814AD3167847"
+					"download"		"3FE071EE688405FEB59FEC3C1DC53170"
+				}
+				"modio"
+				{
+					"gid"		"0A94C32A55A23A9E99223DF3371CA6A4"
+					"size"		"F111BEABA302D8381EC1E7D3EEDC08A0"
+					"download"		"1D5F36CD146457561F5C895C54268923"
+				}
+				"mph-daily"
+				{
+					"gid"		"7FB386CC4BE2604482A0B269B6CADCEA"
+					"size"		"D873607CF96654B729BDE9A43A602604"
+					"download"		"7DC5D9B3F5E9A4E832C9376CA9F600A8"
+				}
+				"mph-daily-backup"
+				{
+					"gid"		"05F063818CEF3B8E2F22FAB51E067353"
+					"size"		"943AC86C972B58A3B74453B3C4C3E772"
+					"download"		"27AD1225F433975647EDB231EB5CB773"
+				}
+				"mph-midday"
+				{
+					"gid"		"8BD7EB3EA1456D331DD8A3CFFF7D3C55"
+					"size"		"8D089561EEFC8B815A6CB4D8DC34FE28"
+					"download"		"C6BA4D7096351CD73D41A60E1CA2D54D"
+				}
+				"mph-playtest"
+				{
+					"gid"		"6FF917981EF3A960F0BE1E846E41A350"
+					"size"		"E865C1282689128B634A171CF6972243"
+					"download"		"02FAF557706104A2D0FE0287E6A38ED1"
+				}
+				"mph-proto"
+				{
+					"gid"		"7BBBFFACF445FBAB045E86FD24DD5388"
+					"size"		"D3BAF4E17DC9C213881B32968D002152"
+					"download"		"17B5E3D66FA8401BD76FE068B99DED08"
+				}
+				"mph-stable"
+				{
+					"gid"		"48D186C59116DBDBC577B8C2E89C5DBD"
+					"size"		"E0972B7232452C41BA20A713313E5A70"
+					"download"		"396DEF4DAC3D347225B288ADE86BA406"
+				}
+				"pac-weekly"
+				{
+					"gid"		"90E06FB2BA837B3BE17206F448B98A8B"
+					"size"		"EADF6C66DAAD13BC45334B4195A701B6"
+					"download"		"AF3CED1015B3C9B7D0C860821D90B117"
+				}
+				"patch10-daily"
+				{
+					"gid"		"60E9A38F1136C26A8F56AE8716DF492B"
+					"size"		"5E18CC991827A95EE0BE1BF237F7B708"
+					"download"		"DB9CE940A3285B87520D43EC1857182C"
+				}
+				"patch11-daily"
+				{
+					"gid"		"11E8D997790C0C77C16A45F2BB8EC90D"
+					"size"		"5050546EC54E9320F767F31E294758C6"
+					"download"		"488D6C3797C85318CC038A0F4D083F01"
+				}
+				"patch12-daily"
+				{
+					"gid"		"BC986508435A7F045D218D91B64E9E97"
+					"size"		"EE609DC9B947B15D04F32DA77CE09D89"
+					"download"		"6F3E236844B73FDD048A94B20638006B"
+				}
+				"patch9-daily"
+				{
+					"gid"		"4232F12EAE74C5D0D9E510956DC3C1EE"
+					"size"		"576F2A1A87676EE5436DDEE7AC1DC2BE"
+					"download"		"45DE9147C09A59667C800B5037F73D50"
+				}
+				"playtests-may-2023"
+				{
+					"gid"		"94C3491B4B5303DF47C39905D1A95361"
+					"size"		"AC33554F2048562305D00920A1BD55A6"
+					"download"		"BC1126B1B5D91E9AAD0F3FEA9D680C00"
+				}
+				"rollback"
+				{
+					"gid"		"4A4998FB60F529A616C83D067D928ECF"
+					"size"		"B4DF119677FF8DAC28CF979778DBB0D3"
+					"download"		"B3BF0747F1917BBF71C8D1EB4C7F4C9B"
+				}
+				"staging"
+				{
+					"gid"		"D93B1DF48DCE0122E5329D92DC4B947E"
+					"size"		"627AA0D050A686E581D0A96C1D1FF52C"
+					"download"		"B2E44EBE388ECD06C350F771154C288D"
+				}
+			}
+		}
+		"1741783"
+		{
+			"config"
+			{
+				"language"		"czech"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7712333650976731704"
+					"size"		"1963767"
+					"download"		"1987440"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtools"
+				{
+					"gid"		"B5A79F3974524CD31D6248AE5910D84E"
+					"size"		"BC944C98F1EFBD273726ACEF27910ACB"
+					"download"		"42AD9AE68B7B729FD3D6953A88634C5C"
+				}
+				"internal-tests"
+				{
+					"gid"		"5AF41E4129EE89E8FE16F85FF20483C8"
+					"size"		"DE0B252FBFACBC53D129EBAD9165FB42"
+					"download"		"C0071061325BBAE8E57CCD236A1F5F12"
+				}
+				"jr-weekly"
+				{
+					"gid"		"9A17B12559D6070580B230EA514253D8"
+					"size"		"B4BB04F39D8A8D15FBD78D5C4235BAF3"
+					"download"		"8B99736AC95553434FFE19EFBFBD4CCB"
+				}
+				"lqa-weekly"
+				{
+					"gid"		"60976DC02614C9C28ED82677514E7C6C"
+					"size"		"041B821DBBE1D48018F59880CA85E3D9"
+					"download"		"4E4386FBE8A27D3099A8793331603211"
+				}
+				"modio"
+				{
+					"gid"		"5F6B8DE0291F5707C262B6CA94AE0421"
+					"size"		"296E170CB9CE71097E7C0F34B8A193C6"
+					"download"		"98C891E7C91E91176CDB55E33B762570"
+				}
+				"mph-daily"
+				{
+					"gid"		"6DFDB8D6B9B59E914789DBD594158BC6"
+					"size"		"9C4F3B7BB0D138ACE6906EB57B1530DB"
+					"download"		"65A8A51F09B999DA69955BC93A739EA8"
+				}
+				"mph-daily-backup"
+				{
+					"gid"		"4CDFDB9E7B5E474B10620F26F3D26498"
+					"size"		"97E2EF726E5469B2CE43074A6CB06A5F"
+					"download"		"9A5607C6FDBCEA88FE8EE7E0FD9DAC0C"
+				}
+				"mph-midday"
+				{
+					"gid"		"F8E92283D70526677B994927AC0BA3D2"
+					"size"		"9B87179C93B234A0F76C1F69F020CBE6"
+					"download"		"3B3C7E9059187ECE5EE59BAA6EDA0FEE"
+				}
+				"mph-playtest"
+				{
+					"gid"		"DE74034B78191C526EBEE8478D45C14A"
+					"size"		"0B92716B000DB9446FB212EC4EB2A4C9"
+					"download"		"04EE1DB774A70ECEF98A807CCD046214"
+				}
+				"mph-proto"
+				{
+					"gid"		"365809CABC31F6A4146721F81AFD6063"
+					"size"		"E285491DF0C695647E925A5564F0AAF8"
+					"download"		"ED2D2F1ABA46C9B0BA5DB400F40523AA"
+				}
+				"mph-stable"
+				{
+					"gid"		"E0795C76C39F958AAAE7004E966B19DF"
+					"size"		"B59888250B00B30C5AA4B4EF90919A16"
+					"download"		"89DC1AAB66D5FAD4F3032F7C7AA5C628"
+				}
+				"pac-weekly"
+				{
+					"gid"		"FCAB6CECE49BD5AB5D22CCFB98441B67"
+					"size"		"EB3C0A27ADDBCA32C3465653AFF61B4F"
+					"download"		"0BAC715AD95E454555966F08AF94EF54"
+				}
+				"patch10-daily"
+				{
+					"gid"		"1A68D91A7D6E5C3D6928C44F1F336D0C"
+					"size"		"C2545565C990E378E7203F9F65F40CEF"
+					"download"		"CFAC84B643245C13498141AC91FF4C9F"
+				}
+				"patch11-daily"
+				{
+					"gid"		"745DB4AD1569815A77C2CE08008F35DD"
+					"size"		"DBB88DB51A9B6D08391C7B63BA38B737"
+					"download"		"4AD48A8A5AC87114CF5751501BF5B95B"
+				}
+				"patch12-daily"
+				{
+					"gid"		"2165ED94A6B4F13459E5D397A19B46AE"
+					"size"		"A1688A48D1910D326513B4005BE5FC8C"
+					"download"		"994E3C3773F167EA50C6C04D6A36A6FE"
+				}
+				"patch9-daily"
+				{
+					"gid"		"C3E4E02E5E5E5BFFBDFCB2B36264E5B9"
+					"size"		"0C513EF96A8846BFA5657EC0D4B782DC"
+					"download"		"87E451534E625EED6E8C820A7FA32DF9"
+				}
+				"playtests-may-2023"
+				{
+					"gid"		"6D853F0E10182DCA0AB28F7019074BD5"
+					"size"		"72358A43109461FEA9F077AE6B60D3AB"
+					"download"		"E0E49E1790D78314A7BFB3C5D6EFA746"
+				}
+				"rollback"
+				{
+					"gid"		"5FB920C3C2E029E8128EDA51ED8F9803"
+					"size"		"E69D24E38F41F25E316512257467BF8D"
+					"download"		"F495B1951EE29C6EEA1739F18C7367A1"
+				}
+				"staging"
+				{
+					"gid"		"EE87A0C2A9C055097A3B561B81EC8FF3"
+					"size"		"FD2973D7F5A0E386AC60850739C68711"
+					"download"		"2AE7AB488E5043C61D907B727EFDFDA5"
+				}
+			}
+		}
+		"1741784"
+		{
+			"config"
+			{
+				"language"		"german"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5225734641670325800"
+					"size"		"5075759932"
+					"download"		"5034526608"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtools"
+				{
+					"gid"		"CEF3792565746E9EF26560A22CAD7CED"
+					"size"		"CCEF00BECABFED694C109AD96997C1ED"
+					"download"		"82639C598CCB1A0A6A991CDFFC116254"
+				}
+				"internal-tests"
+				{
+					"gid"		"68DBB42EDAB084E24E59A10876597B5A"
+					"size"		"5AEEAA162A53B7B0CCE5E36D6A9DC2E1"
+					"download"		"C1192EB23A9F88E32CBCA5E60DC5D1F4"
+				}
+				"jr-weekly"
+				{
+					"gid"		"601DEDA2158EF317C186C8BD86A00269"
+					"size"		"CF61B42DDFCF730CA8546EF85FFED7AA"
+					"download"		"A4885BD4D90A6FA74A697039818A3E64"
+				}
+				"lqa-weekly"
+				{
+					"gid"		"B0F4A01A41441380595EE5A16C6379D8"
+					"size"		"0036D2F520E7492E48159AC5CB2CE8BA"
+					"download"		"BBA6867A4CA35D8D38D0A51EC7A67682"
+				}
+				"modio"
+				{
+					"gid"		"8DD7B12F42A4AE3D43406D26B3637159"
+					"size"		"DC5C8D863A7321181A944AD43042C675"
+					"download"		"51CE74E15EFFB362B9ED98ACC507B198"
+				}
+				"mph-daily"
+				{
+					"gid"		"713B02CDEA7455C9F14296A2CE364A9E"
+					"size"		"A7A383589B3D74306E523EDAC738A7FF"
+					"download"		"41398DA48039E970D25079CADA4298D8"
+				}
+				"mph-daily-backup"
+				{
+					"gid"		"6BE1B41BB8BF690F6336DD06F430ECFB"
+					"size"		"6D46EC13B099329C9D2157DABB65B1C2"
+					"download"		"5F2FEBC38F55F87196DCC412CB04E72C"
+				}
+				"mph-midday"
+				{
+					"gid"		"51BAC9E3EC7CAADDF3E836A086BA7F81"
+					"size"		"2B0A28CF96CDBA45519ADEC0C18EA75B"
+					"download"		"E94731793BE5EB55DDF134D2BFD60C36"
+				}
+				"mph-playtest"
+				{
+					"gid"		"1BF94EFC7D405DCE23180FED5785B326"
+					"size"		"CACF6C281674D5B4B265B47821C8F077"
+					"download"		"2BE5CD2EEC0046C603E6607DBA0BBBC2"
+				}
+				"mph-proto"
+				{
+					"gid"		"938166C2A8C6878F29DFBD1F3ACB0D8B"
+					"size"		"34B8847C7FF1499A3FD31F11D3DFE661"
+					"download"		"0915AC1335AFE5047E26F0C3D502C642"
+				}
+				"mph-stable"
+				{
+					"gid"		"ADE00548AEA515714D7899DE09ED8231"
+					"size"		"5C9DA9D312390A2B2539AE57031E89BB"
+					"download"		"C131645D16A1E8CE5D8623C43CBB71EB"
+				}
+				"pac-weekly"
+				{
+					"gid"		"35A79BBB11AAF3D0689516B90C0C068B"
+					"size"		"A374072AFB58DE37728635ED65AF1388"
+					"download"		"A6C293D13E9017ED2685B1134BFDD402"
+				}
+				"patch10-daily"
+				{
+					"gid"		"9D5920C20B6019B976A7A9BF22DBA3E6"
+					"size"		"E697F188F7870649D4296B4DE87DFA32"
+					"download"		"D36237AC38682D80A88E0241D4A1C70F"
+				}
+				"patch11-daily"
+				{
+					"gid"		"9D63133CFC28355CA35C0150C6723C93"
+					"size"		"34CC90F9AF4A8C5643A9A49C2CE62AEF"
+					"download"		"2114ADC089EF02C3FEB0210E17BA1C92"
+				}
+				"patch12-daily"
+				{
+					"gid"		"AFA0DEA56843F7D0B85CB3385000697F"
+					"size"		"3ACA9F1190BE86E88F6013C7E02AA53D"
+					"download"		"9666C21316A494BA59FB5BCA48CEA40F"
+				}
+				"patch9-daily"
+				{
+					"gid"		"4FE6B0D2E31BD9DC2D5A7E9B2C5CAFCC"
+					"size"		"8BF3ACEC7D03DA566292190FD8EC2362"
+					"download"		"FC806CB2EA999A8D2F48A7842553A0AD"
+				}
+				"playtests-may-2023"
+				{
+					"gid"		"AB524E45311C744F66E140C30CF6FFFE"
+					"size"		"8EC37BD3300B3DEE16C8B2DE65698E85"
+					"download"		"99CAD497B512DB19A390CD0A5F940D6F"
+				}
+				"rollback"
+				{
+					"gid"		"B18A1A94981AC088738CB9458A7D8E98"
+					"size"		"A16204978AB7B6A22F07F61E66BF5710"
+					"download"		"C20890DDE671D888FCA153C81CA7115B"
+				}
+				"staging"
+				{
+					"gid"		"7578A9F2587DCD0E89446B4AC59363EB"
+					"size"		"F50AB42E6A549FFBBEE4A851A790A9F3"
+					"download"		"63AC8AF2BBA2FBA919B36948E66BD86A"
+				}
+			}
+		}
+		"1741785"
+		{
+			"config"
+			{
+				"language"		"german"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1235704401722139135"
+					"size"		"646270176"
+					"download"		"370588464"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtools"
+				{
+					"gid"		"99EE302458C6F29F10F2B622016BEF05"
+					"size"		"C020E27126E4D4EC79A37D9588DAA999"
+					"download"		"654D7260FF63251475FC8505B2658196"
+				}
+				"internal-tests"
+				{
+					"gid"		"EBAB6E4055C7020371FDA1C40D9A9119"
+					"size"		"F5F987593DA5F8BE530195DE46B67CA3"
+					"download"		"95368D503020B60938F2B4C78512AA6F"
+				}
+				"jr-weekly"
+				{
+					"gid"		"E2D2EA0DE957004EA45BC31D8B53E8E7"
+					"size"		"F1714BFBF5DCB70A41F39E1ADB1EA2FA"
+					"download"		"5AEBA9B45A33407BFA0B98CB2BB81293"
+				}
+				"lqa-weekly"
+				{
+					"gid"		"72322CA4FFBF3BD473A4F8276D2DF3BD"
+					"size"		"5483E72EF068175CF398E24A5DC58025"
+					"download"		"A277778384ACF847A78AA6EAB8921B40"
+				}
+				"modio"
+				{
+					"gid"		"D0B534B6C05C17CEC8CC0D2D00B1A500"
+					"size"		"407EFBDC8CAA839382451F001E29617F"
+					"download"		"95CF42BF8FE7FFC517206D895B2A44CD"
+				}
+				"mph-daily"
+				{
+					"gid"		"201EAE23E37C2FFC3C67A3DA52A3DF90"
+					"size"		"E859B9BE3D538FE57EB5D7CE850F7BF2"
+					"download"		"AF68D36EE57DE9064209F74D82A5AAE3"
+				}
+				"mph-daily-backup"
+				{
+					"gid"		"2FA037DD34B8FBF84E2CD01FD16D6A76"
+					"size"		"71BB269215BE543860ABEFC001B95631"
+					"download"		"CCBCCAA8E33D4995FF7F4E933A0EB7B7"
+				}
+				"mph-midday"
+				{
+					"gid"		"0E0B08EBEAFF07883F5FE7AF6F6544C8"
+					"size"		"0E5D2A1BB852037A36049A943CCFE857"
+					"download"		"0BE1318873CD4314AA745CBC131AFB69"
+				}
+				"mph-playtest"
+				{
+					"gid"		"D587CF5CC014C0DA62D62DF34ABE0061"
+					"size"		"AB8908A859BAEDCBB5FD46C44F38D337"
+					"download"		"10DC1BDA2BA14EF968D99891B534A4D3"
+				}
+				"mph-proto"
+				{
+					"gid"		"5D7E2C6A8D1ADD993033477D6D3A69E3"
+					"size"		"45BA3892043172AB8207A3EC4FEB3841"
+					"download"		"A23FFB5A92550410F5DF9971EDEA7A7F"
+				}
+				"mph-stable"
+				{
+					"gid"		"B17F5CC7773E249419547DDAB47ECD02"
+					"size"		"78396C8765E4DE47D76C764136A6AB42"
+					"download"		"47E9E85923E7B238B1CA142E0E52E0CE"
+				}
+				"pac-weekly"
+				{
+					"gid"		"85CDBB09080DA7AB022990901C774A35"
+					"size"		"F6C92789E734412DB53FC50DFCB1B749"
+					"download"		"FCD5513933D7846CF90D08F118764746"
+				}
+				"patch10-daily"
+				{
+					"gid"		"69F11B9F80AB33CCB84F7293B61C1E22"
+					"size"		"27FE102A54A40DCAADD12124D4428082"
+					"download"		"A33FB1EE2034B2E685DCCBD776BE6556"
+				}
+				"patch11-daily"
+				{
+					"gid"		"D2C5278D7C9D8CC8DDC3F4D7CBA02A7E"
+					"size"		"C6B1870CE2E1E9753BD617CBF6F6DDBC"
+					"download"		"8C80DC374DC5F12CE17A6E4C98064DA9"
+				}
+				"patch12-daily"
+				{
+					"gid"		"BF98EFCE4F6E2CAD0698D078F8A3F1B0"
+					"size"		"D0362DB093E2D0B3E9472C5CD52BFC28"
+					"download"		"DE543EA83B25C24AA546E36357994AF9"
+				}
+				"patch9-daily"
+				{
+					"gid"		"0E6865E11E7A7C45ACA9777A5681D51F"
+					"size"		"D97B407BD90D400B8AD407D4008D7987"
+					"download"		"46FA3BBA221433E6DFD0AF387508D8BE"
+				}
+				"playtests-may-2023"
+				{
+					"gid"		"E0A19BA91671CC51EBDD66E31DFDA032"
+					"size"		"F605C59577DE6B8EB27BD345EF278B88"
+					"download"		"64302D23CDCBFDFE8D3CA8DF72E0E941"
+				}
+				"rollback"
+				{
+					"gid"		"E1A48C94B785A5C92F9D81C6987DB3F3"
+					"size"		"FF4198F379643F16EFA31327E950A710"
+					"download"		"86501A02494E81C545D8F9E08486794F"
+				}
+				"staging"
+				{
+					"gid"		"52B2FDDEF0FFB0B7224C4282EB5D1C3B"
+					"size"		"CE57D216E22BA28513A878DAC0B3EB28"
+					"download"		"448D4F28F86B3894C540FB1ECA9AC219"
+				}
+			}
+		}
+		"1741786"
+		{
+			"config"
+			{
+				"language"		"latam"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1100330297639731076"
+					"size"		"5105078779"
+					"download"		"5058015200"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtools"
+				{
+					"gid"		"2F5A875F7889DFD2659AAE6959F880B3"
+					"size"		"23F5C9DAE075A74165D49F00F7146098"
+					"download"		"8A264B55633516E881E039CE1DB3B04A"
+				}
+				"internal-tests"
+				{
+					"gid"		"0CA49982F6BC943DE4904AB7E66A1BB0"
+					"size"		"FD98C318FE36B77169155B8E04DB5327"
+					"download"		"ABF40131EDCD69E0C144F74D8611E50B"
+				}
+				"jr-weekly"
+				{
+					"gid"		"40423DD3B9C049109B0DF88424E5F5F5"
+					"size"		"D826FB4103D39DCD0E7746832B95A968"
+					"download"		"60BD5B8D5702CB78E86B0F53B5B82AB8"
+				}
+				"lqa-weekly"
+				{
+					"gid"		"531EB1FF1CDDF52EC5207FA20BF4E2C1"
+					"size"		"213E8EF5084155C34FA710FEAC2F52EF"
+					"download"		"F0CAF9EC6D0285B696C44A2C6F559A87"
+				}
+				"modio"
+				{
+					"gid"		"BD16707F027BCFAFCD50043A506795BF"
+					"size"		"D892D7E12E8510D78F7B1B6D34F6DE65"
+					"download"		"FFFEB31962A24A7C6DA3B2D8102D6AC6"
+				}
+				"mph-daily"
+				{
+					"gid"		"CDFC2F93F57DAD4522837C917B02E4E3"
+					"size"		"27FDDA4F3F4848D90AA2BC0AEF6FDA9D"
+					"download"		"CE1BB8F397C4BBF8C83B655BF9207F1B"
+				}
+				"mph-daily-backup"
+				{
+					"gid"		"D4E7693C43F5268004449C3397841DE6"
+					"size"		"755850C982640B3F03FDAFF23A02F382"
+					"download"		"963E3A497616727216005EEB40193D61"
+				}
+				"mph-midday"
+				{
+					"gid"		"FE7AB516186D8E7603DC23C9BD97E6B4"
+					"size"		"D181F7B61A3B2D2E3ABE724C0B68EDB3"
+					"download"		"F75A6F53B81D308C0CC2DA854E200DAE"
+				}
+				"mph-playtest"
+				{
+					"gid"		"F3A31BC452762809A3EC5D1DAEA09F17"
+					"size"		"E68B1281763180AFC83AA59C4E5BE842"
+					"download"		"97A8DD62741A24F00F39350E6E84935E"
+				}
+				"mph-proto"
+				{
+					"gid"		"994BB8260B3DC6A01826ABA4833C4AF2"
+					"size"		"A538122965E97A8AE02409D03741CDDE"
+					"download"		"295BCA3DBCB854BD6FD6BB4412868AA8"
+				}
+				"mph-stable"
+				{
+					"gid"		"210708190A0D90CAE3E5C70AC267BB83"
+					"size"		"15E0CACDD97B12AA49294BEE78AE44FB"
+					"download"		"30D6EAD5689A38BE40A25DE12A0B4207"
+				}
+				"pac-weekly"
+				{
+					"gid"		"7773F6201D9E1ECA4EB4A7893F974A70"
+					"size"		"DA3CCBF4E627E404011B6C7DEBAA9472"
+					"download"		"213AE95B7B8BFE2311E031D0AB8E6447"
+				}
+				"patch10-daily"
+				{
+					"gid"		"C0D0287E1FD2899FA6815880C2A7CDAA"
+					"size"		"9BFA3E73F71276707A906808EF6777EF"
+					"download"		"07ED80A62A16458D702BAA94C2F71A2C"
+				}
+				"patch11-daily"
+				{
+					"gid"		"1FFE13029AE540777C4794E120CA47D5"
+					"size"		"2B95AED7CED29075A4F46D52A42E58AA"
+					"download"		"9B2C3C9C61E333384AA018EB8CD1346C"
+				}
+				"patch12-daily"
+				{
+					"gid"		"385463466F067B788A78E1742EDA14D8"
+					"size"		"CFF24EF13E26DFE1AC02B4926A892A84"
+					"download"		"77FA15AFDD1C17711243DCBDC39D76B7"
+				}
+				"patch9-daily"
+				{
+					"gid"		"9940F3FBC1E0FAF0679FBFFA4BD92069"
+					"size"		"25DBD35B8847B6FDDEA2EDF0BEE9F141"
+					"download"		"761FBE3F02CE7CC3C0495345C9A3474F"
+				}
+				"playtests-may-2023"
+				{
+					"gid"		"ADCBB075D532ECA4D2E62480C2200F77"
+					"size"		"6DA8F8BAB9D76DD014BB075DBF2ACEF3"
+					"download"		"7CA69DF8F5ED8E761D9848290D646DE2"
+				}
+				"rollback"
+				{
+					"gid"		"1EAE04C8D2CD1AEB040C8C4AA850503C"
+					"size"		"2F616656547DBA6420436E905086215F"
+					"download"		"6EEBAFCB9CF99129705B84905A8D4B51"
+				}
+				"staging"
+				{
+					"gid"		"A8E04AB56C3C9A7F7A13D0BFFA6C4283"
+					"size"		"70D1C4E43BA31FDF5A104CADA280432B"
+					"download"		"FB421ABD74AF604A934946E2667774CC"
+				}
+			}
+		}
+		"1741787"
+		{
+			"config"
+			{
+				"language"		"latam"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6952659845265750476"
+					"size"		"714990816"
+					"download"		"408382320"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtools"
+				{
+					"gid"		"504197B3FB2014F682A13B876E57BBD9"
+					"size"		"C76DD05CFF7C7EBE62955A0496DDDF73"
+					"download"		"EEF77BA0B46542AD05CA04C785E049E9"
+				}
+				"internal-tests"
+				{
+					"gid"		"DB264668839FC6CD9B81A571149E1874"
+					"size"		"47C2FFE9B63FD21A97B39A10F1BE8729"
+					"download"		"D7E81EB78311DC82AEC13F68BD2449E2"
+				}
+				"jr-weekly"
+				{
+					"gid"		"3B68EE09F2D21590A8D5D11917C1B07E"
+					"size"		"8D5BE1410B820D852F9E28B768CD8795"
+					"download"		"FA605CFB4872DEEBCCB9FF174DF8315C"
+				}
+				"lqa-weekly"
+				{
+					"gid"		"CF0A7A68855787BBDAEB5C8548D1D173"
+					"size"		"213B0D0A136DFA55B4343FD56F8AEA79"
+					"download"		"D8069A83B5E22544B44C67FB6FD420B2"
+				}
+				"modio"
+				{
+					"gid"		"7C19B1A4CF585E2732E23B6C2DD10898"
+					"size"		"95DE2307B8FDE0915BF7F9CEFCF8F68F"
+					"download"		"C8E38D96AB55319303ECB469B3F2A7B2"
+				}
+				"mph-daily"
+				{
+					"gid"		"8D569FA19776C97BC02E817414A91213"
+					"size"		"3B05F03182695BF186BD9806C3510842"
+					"download"		"7F62F07D7A447AD0F3265228187870F2"
+				}
+				"mph-daily-backup"
+				{
+					"gid"		"43E0308DE30F071790E74C933BAF33FC"
+					"size"		"B5986DF64E8DA5D3BB60A457BDD4765C"
+					"download"		"1C437062E84F08D26D7B9173DC860B72"
+				}
+				"mph-midday"
+				{
+					"gid"		"0F5ACC0370893DA56B523FBBFF284AE7"
+					"size"		"41F431EC19EBD4595EC10C023B7AAE89"
+					"download"		"BB5EE808D65B23174302E4A8840219C0"
+				}
+				"mph-playtest"
+				{
+					"gid"		"598ECFD215F723C25C6508006CCA24EF"
+					"size"		"A8D054B2D84E1E7D2FFBB27930F10BBB"
+					"download"		"3C7C993C22C57B244C1F73122C661646"
+				}
+				"mph-proto"
+				{
+					"gid"		"2077C7F4B3139D453DD4F7A419155544"
+					"size"		"7B72826A993E2A93F7AD376EB4C69DED"
+					"download"		"A21F44FCF095C2C80777B2E9E37A5AAE"
+				}
+				"mph-stable"
+				{
+					"gid"		"8A24D94E9888AE78C544AB1CC91A4BE3"
+					"size"		"BDB9723EB20CEF91EADE13ECFD73BA15"
+					"download"		"9B28DAEFF31DF0ED8E5894DDE53DB521"
+				}
+				"pac-weekly"
+				{
+					"gid"		"83EC246F3229287DA41C5B8170736F4A"
+					"size"		"5FF13F9C29C5F278297A378B789067CD"
+					"download"		"1445448AD088610F7321549351285162"
+				}
+				"patch10-daily"
+				{
+					"gid"		"A0BFAD69B0970F553659D6D8824A7BD4"
+					"size"		"F262E280AA8874405AE9FC8949A529DD"
+					"download"		"0FC04EBC0A229BB95D7B6F6683321A38"
+				}
+				"patch11-daily"
+				{
+					"gid"		"1C49E62C3ABEAAE6508E6CAFD048A68A"
+					"size"		"B2E73235C2F03B4CDB182C18FD07E9E6"
+					"download"		"F1DF03DC41D98B191E1FF1A2F352458C"
+				}
+				"patch12-daily"
+				{
+					"gid"		"54026677F46C10D1B4792CAB61F551B5"
+					"size"		"285CD20D819C07FB8E266C39BADCC8E6"
+					"download"		"629AEE824BF766AEE1CBFAB2DD9B442C"
+				}
+				"patch9-daily"
+				{
+					"gid"		"5FAECA921D5213F8400AAEB3DBEC5F16"
+					"size"		"3F8184127BFA645977DDBDA7F26B0845"
+					"download"		"89AF7F5581F7B1E99DD80BCD18355F6E"
+				}
+				"playtests-may-2023"
+				{
+					"gid"		"08C7017AC475F18B667281CC664DB176"
+					"size"		"92E54421828DFB864751BBA08ADEFA9A"
+					"download"		"6A704BB0470F4BC896B10E7B9F73F24F"
+				}
+				"rollback"
+				{
+					"gid"		"9435BF1012998BB9FB689336ACF71E28"
+					"size"		"05F9738AFE27022DA897649D0B4E5010"
+					"download"		"96FBCE1E86334ECFE816EFA67A32EBC5"
+				}
+				"staging"
+				{
+					"gid"		"5CF3B3496669441CC5FF420983861296"
+					"size"		"E1266A97DFBC46314631F8AAEE10C963"
+					"download"		"BC661F7074690DA1B08129AC8A66259F"
+				}
+			}
+		}
+		"1741788"
+		{
+			"config"
+			{
+				"language"		"spanish"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3221313756305542710"
+					"size"		"5039026700"
+					"download"		"4993774976"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtools"
+				{
+					"gid"		"A6B25C58A7634B9DF36D8DD78D375C14"
+					"size"		"58D72F1435E4EDA21E6BEC6835FE4803"
+					"download"		"55666A3A538213862901CE1F5469496A"
+				}
+				"internal-tests"
+				{
+					"gid"		"08730CFB34E1AC82F4B3176A8F17E827"
+					"size"		"CB97DB65B432BA7F0CB09A6874EBD5BA"
+					"download"		"6763E4E5F3889327ACF928669205C857"
+				}
+				"jr-weekly"
+				{
+					"gid"		"67FFDDED272BF8BB72A87811627B7314"
+					"size"		"B72CF89586AAEA49AF8B0C633516DADD"
+					"download"		"FD8E7A8A645406A56E2BB803B77424D7"
+				}
+				"lqa-weekly"
+				{
+					"gid"		"34D062A8AF426205150EA1B586AEB027"
+					"size"		"6D53E60BA8346AC460A750D0B0309BF0"
+					"download"		"A80A36F7FB35C14EE8ACF6E4AC5FDE74"
+				}
+				"modio"
+				{
+					"gid"		"F644B6691447C18BF3BF86BFDC429621"
+					"size"		"62975C2457227C0960A9BCBC9AFDAFE5"
+					"download"		"91094DB7096EDAE4987CD73A503E29D6"
+				}
+				"mph-daily"
+				{
+					"gid"		"AB97D05548D7D3A7BBB91D2DD55E1600"
+					"size"		"88B876F89DCDD0DC765059F557B1834F"
+					"download"		"1418963B1276A796218D3E1AD543FCE0"
+				}
+				"mph-daily-backup"
+				{
+					"gid"		"63E927149C7EA788667DE3F0B773643D"
+					"size"		"6960736D2585DDDDA0BEC8F968AEF355"
+					"download"		"9A2DC637CC587C4B3F7E72D9E8375C24"
+				}
+				"mph-midday"
+				{
+					"gid"		"F66466824F5845DF3BECD4EE79398D9E"
+					"size"		"43949870B05CFB4CF8988916B69E21D2"
+					"download"		"BC92CA9E4BDC82CEE79EB2D7C670F9CB"
+				}
+				"mph-playtest"
+				{
+					"gid"		"00002F6F37DB0A3D34C6CF6965242050"
+					"size"		"4898433EE3F8FC81B2D93C9BA681F07B"
+					"download"		"45839E7DF4BEB6F305D7FE948DDC4549"
+				}
+				"mph-proto"
+				{
+					"gid"		"ACB7A8C83A447D7466D5FF3C3D14B18A"
+					"size"		"E1EC1D6614A92A5B96AC2CE43A342EF9"
+					"download"		"DB99F88BDED78ADFDA48627B39D2C24D"
+				}
+				"mph-stable"
+				{
+					"gid"		"4BED70EEB81E40F796BDF77DF3293CCF"
+					"size"		"4F604C6DB0E86EB0EECE19BA6086F651"
+					"download"		"C4C845E88F08F30F8221BA0EBED946B6"
+				}
+				"pac-weekly"
+				{
+					"gid"		"39E17A1D703F344440495755E64BE6A8"
+					"size"		"18021C61FB920EFEDBCA378C1EA429A8"
+					"download"		"6C777927D87216D6FE799D903DF00174"
+				}
+				"patch10-daily"
+				{
+					"gid"		"B7522D95E080E3F7186053711D3B088B"
+					"size"		"F848AA04CAC3D1321524BBB188F2681C"
+					"download"		"D87AE5F3F6F5383425B0905613479D2E"
+				}
+				"patch11-daily"
+				{
+					"gid"		"1C574D25A32141CEFAFAB9E2E8564B84"
+					"size"		"32801F2C85F13375882D88ADE56DB2C2"
+					"download"		"C3F20E94674F63701F048CC520138D39"
+				}
+				"patch12-daily"
+				{
+					"gid"		"C67CD20BD3ECBE0700A01BA28597CED0"
+					"size"		"D277D0FCBA1BCAA6D5D234E815E3E6FA"
+					"download"		"BD135E4B08D6E4566B5B85A1DAE12FA3"
+				}
+				"patch9-daily"
+				{
+					"gid"		"D9EBA60682B71E34FE8744CEEC174950"
+					"size"		"0CDF0AAAE53EF3B1D1A9302E3FCEDE16"
+					"download"		"F0F910D7CA95FC2EF642963335B3FBC0"
+				}
+				"playtests-may-2023"
+				{
+					"gid"		"BD05203997B9C527D97ABAB4D897A067"
+					"size"		"8CE911E061F1806882966C92F78A1754"
+					"download"		"0580A78EFD4E3112D42BD9CE82AF4448"
+				}
+				"rollback"
+				{
+					"gid"		"FA3A6273D4A5BB4C053B4A8844CD15E3"
+					"size"		"8999235337D6E9C76C3FD4A909C61F44"
+					"download"		"077F7C30C1705A009FB2A5DF466FDCE3"
+				}
+				"staging"
+				{
+					"gid"		"3934E3684635636C5E7E8A53D815BE2F"
+					"size"		"771D08D7291500ACBA6FF7B87937954C"
+					"download"		"0CE3F2504E3845F5AE2B1E62132D91E1"
+				}
+			}
+		}
+		"1741789"
+		{
+			"config"
+			{
+				"language"		"spanish"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1024492244177279349"
+					"size"		"706667920"
+					"download"		"402658464"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtools"
+				{
+					"gid"		"F850FF5F12229CF58DD8799EE61CF09F"
+					"size"		"FF4A1F3694A508C8AB83F692EE48A461"
+					"download"		"81F5F522FD137F866842183F2A0CAF81"
+				}
+				"internal-tests"
+				{
+					"gid"		"F982A90FF8D34C99025CCDB89E9F5026"
+					"size"		"A6E5607D44B02F69C41FFA2F9930B180"
+					"download"		"A9F51391681087DAD0A7DF5086D81C6D"
+				}
+				"jr-weekly"
+				{
+					"gid"		"B8C5ED12C186AD55739A5AFB30B2F157"
+					"size"		"ABC113631D250D350A744245BDE78556"
+					"download"		"A98291D6BFE31142D5A9DA5DEFBD1B23"
+				}
+				"lqa-weekly"
+				{
+					"gid"		"FA24F6B0856FC26C54A860788DD6EA4C"
+					"size"		"E99410533FE6FF42B9CE8EACE2565D95"
+					"download"		"18B84574248798A01D7ECE741452F014"
+				}
+				"modio"
+				{
+					"gid"		"19A8F83A97528F2BAAFD77D7FEFBC26D"
+					"size"		"D116EF6684B78868365E5E7466948C02"
+					"download"		"175C2237E336DB4F46F03B6ED2134A0F"
+				}
+				"mph-daily"
+				{
+					"gid"		"1D80F3D4AAFFAE46FCFEB5CBDEAE0A55"
+					"size"		"15E9A1E4301A0D39B01CB0B837D5A0EF"
+					"download"		"156C8746280CE15A5C3F5D077DBD6C76"
+				}
+				"mph-daily-backup"
+				{
+					"gid"		"060ABB9117724F46033EF83AB7E93E13"
+					"size"		"68A06AEF249717045D444C81E313625B"
+					"download"		"229DD8443AD322C274403926533F4D96"
+				}
+				"mph-midday"
+				{
+					"gid"		"8E777EFC176E80429B2D5FD75E6F906C"
+					"size"		"6F73CF6C2C4E19E00589B224E3713671"
+					"download"		"985652283CEC23E0A5C723CB0F9FFB6B"
+				}
+				"mph-playtest"
+				{
+					"gid"		"E7195B91E50EFBBA7D93429B1C6CCD4E"
+					"size"		"F1F6BF570B6BD27473C52DDF7DDEC420"
+					"download"		"96B4D64EC80A3D3F4B91DEA55CA87A72"
+				}
+				"mph-proto"
+				{
+					"gid"		"F6E882C4E3AEB62D11C00FFDB12A4AAD"
+					"size"		"C2A3E6FBC78767D63F4488243CF707DF"
+					"download"		"C1DECC93347933D70ED4D1C533A41B6A"
+				}
+				"mph-stable"
+				{
+					"gid"		"AE13AA06A5F7AFBE012E1A94F814D0D9"
+					"size"		"83A823C78852ADD218D69DC44CFA4FFE"
+					"download"		"1C5973FBAD6B998D640FD908607E5D82"
+				}
+				"pac-weekly"
+				{
+					"gid"		"1DE33029EA7DEA114810314B72746075"
+					"size"		"95B380B269AFCB8AF1FE95199CE4A91D"
+					"download"		"EE0E2FAA4029BD01D49CE7EEDF0FB79D"
+				}
+				"patch10-daily"
+				{
+					"gid"		"D295FE2B80AFD76BAC71BD8E6AD14446"
+					"size"		"600D0EDFCD45069F8BC1668D0E4B5591"
+					"download"		"E558F230B4B1D5800B3D9FF7C24AC8A8"
+				}
+				"patch11-daily"
+				{
+					"gid"		"1DBDDAD5102B5D869351AC9B54B522DE"
+					"size"		"2C2F1F47E48D827C14D4B6B0A20CCF43"
+					"download"		"8FDA42463DAA46671F49998381F0A6BF"
+				}
+				"patch12-daily"
+				{
+					"gid"		"CE64C7E7D297377FAB64D6E5A9742DC5"
+					"size"		"6C0D23C4F9D4D24BDB81FFC5D046E509"
+					"download"		"6F5A015535C53D9685E770197B80A5E0"
+				}
+				"patch9-daily"
+				{
+					"gid"		"93639041F0CB23D57E81A7D3687CC456"
+					"size"		"A8307E100312C0A7A054B6DFF260AA8F"
+					"download"		"A05C6420218FFCE961FF22E718AA4497"
+				}
+				"playtests-may-2023"
+				{
+					"gid"		"1D07AC1EAE930C293933DC431D3984D2"
+					"size"		"E37F3CE745D3A0D999BCE83A5C8C4D66"
+					"download"		"C5A184A220A05E70C72439300DB16094"
+				}
+				"rollback"
+				{
+					"gid"		"90E3BF0DB0CE2328EAB1FF3EA6D2E4A3"
+					"size"		"B0862CDD84C2C6D29CFE4AC9E36FC388"
+					"download"		"635C7562B8E27427CEF1FA4FF5F7F275"
+				}
+				"staging"
+				{
+					"gid"		"9FA0272A60AAD39FAE71F88ED97F3FC5"
+					"size"		"2212970EA3618ACDE79CD135C20B7E5F"
+					"download"		"B3459E04F087B225B59D616E04A831CB"
+				}
+			}
+		}
+		"1741790"
+		{
+			"config"
+			{
+				"language"		"french"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"656251972938319114"
+					"size"		"4907051578"
+					"download"		"4861432816"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtools"
+				{
+					"gid"		"2B9D2EC66902FC6F3DEB295C21F47E91"
+					"size"		"9B6DA0CF914723695121F035D7085C09"
+					"download"		"FB6534FFE864F7EEB7802C1B57A2BBE0"
+				}
+				"internal-tests"
+				{
+					"gid"		"6CD353344897D62252250A9B520D8FCA"
+					"size"		"8B524DC4604FF169501132BBE6F1799D"
+					"download"		"95A4D8B02B6F6E326FEB30468063743A"
+				}
+				"jr-weekly"
+				{
+					"gid"		"34C281E00A07AEB67929F2DF6CDB646A"
+					"size"		"478635216A0BE13D3D9553B1FB568A00"
+					"download"		"853B78320339384CD1C56377D4E4E84E"
+				}
+				"lqa-weekly"
+				{
+					"gid"		"2AE5E363D31BD15E32051C41F7977D5F"
+					"size"		"64D5204FC0DAA6C839BB37641DAF4FB9"
+					"download"		"700FB53AFBC9D1B56600C39196CD2651"
+				}
+				"modio"
+				{
+					"gid"		"3440747903A5D535316D9C89D12058B0"
+					"size"		"8A710FEA1438E6ECEB6BE8DF58DE17BE"
+					"download"		"E9A252CB1CAED779AAAD0AE3DE475FD4"
+				}
+				"mph-daily"
+				{
+					"gid"		"1EABABC2E80417E9EFCBA61BD2427AC5"
+					"size"		"743D279731D26C2764A467BC215AB956"
+					"download"		"1685BEF7DF8EE26600DAF4998D5A95C8"
+				}
+				"mph-daily-backup"
+				{
+					"gid"		"1F82F502193968C193BA66847C96F661"
+					"size"		"758B1F28DE727D63AD90AA1E59638C0A"
+					"download"		"CF48DCD58A49D23341A9F43DFF6BE0A2"
+				}
+				"mph-midday"
+				{
+					"gid"		"6F93676D4B34680E90A0BA306244CEB4"
+					"size"		"C99085075495C8BAA41B60B4280D686F"
+					"download"		"E8D3BE07EC8BEB5EC89F2FC5DEB95D1D"
+				}
+				"mph-playtest"
+				{
+					"gid"		"8AA601FDF7767B2722B9C4B3AE978436"
+					"size"		"A554E70899CF7A1AAEE9B98136CDB2F3"
+					"download"		"BC1146ED7491B9E93DB947772B8CC353"
+				}
+				"mph-proto"
+				{
+					"gid"		"9FAF8706D0A7F8274FDD73D01DC7D6A9"
+					"size"		"58042FCBE59D6A87CFBF82F33CBB86D2"
+					"download"		"64E8820CA85082A06F31A244E382A85C"
+				}
+				"mph-stable"
+				{
+					"gid"		"20DE2A0770CAC029E6A094CC97D048BF"
+					"size"		"27CF66E1DF473E0A30377D246B52CF1C"
+					"download"		"324D827235C2787CB4D5B53CB357B2AC"
+				}
+				"pac-weekly"
+				{
+					"gid"		"C2A7957B6C7D6ECB8BFC3B7877A8851D"
+					"size"		"BA4FA9C642FE6E9B42832BF59C59B2D5"
+					"download"		"D8E2587042419E8CC0A7077AF283D9FC"
+				}
+				"patch10-daily"
+				{
+					"gid"		"9B25204EE35D83BEC2150A6C83EDBEF1"
+					"size"		"144E53CC8535C43254C66BB8FDA0C589"
+					"download"		"9ED63A58F6A32B8A8C9F7BA6EB54935B"
+				}
+				"patch11-daily"
+				{
+					"gid"		"B51AFF8A0A6EDCD20274859C792BABAB"
+					"size"		"7BDC66CFE42557D24F6855855BEEA008"
+					"download"		"83C7CFDF2B67E3F29E8D7A9D25AF8890"
+				}
+				"patch12-daily"
+				{
+					"gid"		"16DDA9F856B025E11C7C67852C989F08"
+					"size"		"449CC180E5F1D539BD4D8DC7FEF5693F"
+					"download"		"D7C8F443FD9157F97068530ED3C20B99"
+				}
+				"patch9-daily"
+				{
+					"gid"		"07A1F245828B26F6F28E5C217E113C07"
+					"size"		"94FF18F294FDAFAE1E3A288FDFDEC1AF"
+					"download"		"862328D27D491FDB3B428FB08C9F37CB"
+				}
+				"playtests-may-2023"
+				{
+					"gid"		"11F883513B0B67BFE53ACDCC0A4E69C6"
+					"size"		"D5F10F9E5D61068C107B7C1580C1F61A"
+					"download"		"A59E50857A3D376DD5ED599F7B1C000B"
+				}
+				"rollback"
+				{
+					"gid"		"EAC22858887AC24CF366B690433DA263"
+					"size"		"853A798CFEC0ED3A7321F366267BBDEB"
+					"download"		"BAB37BDAF8EDF46BC8035F1EED02DDBA"
+				}
+				"staging"
+				{
+					"gid"		"DCBD2F229FB5FF76D95645E5F05C6B04"
+					"size"		"ED5D597D7415D34E3CD7B5A3DF447391"
+					"download"		"E284C41BDC4CFF01D4BBF1D1E890DED6"
+				}
+			}
+		}
+		"1741791"
+		{
+			"config"
+			{
+				"language"		"french"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2009799539569088348"
+					"size"		"663990544"
+					"download"		"384480528"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtools"
+				{
+					"gid"		"639648486E5D5C070815B35160113A9D"
+					"size"		"0029EF0FBBB073066CE039BFB6A89697"
+					"download"		"D93309900D5989686DFEBBD86133AB46"
+				}
+				"internal-tests"
+				{
+					"gid"		"2019D483F751A5374C0EE082DA349DA5"
+					"size"		"C7769F857C8F5FD491F33F3B201B55D6"
+					"download"		"EE095C14A2DC98ABFA0B07CFDF69DB06"
+				}
+				"jr-weekly"
+				{
+					"gid"		"7F596CB42E0CB3773088EE770E608CF5"
+					"size"		"1928A16841D72F8DC62C6478234FAF45"
+					"download"		"4B63F3D4986B5C405559B4AF45185C33"
+				}
+				"lqa-weekly"
+				{
+					"gid"		"0089010367EB96F0EB4954408229B790"
+					"size"		"9D780457DF471C0C058C008FC6820251"
+					"download"		"D5CB5D0A1A005ACB6A08465337D24C2E"
+				}
+				"modio"
+				{
+					"gid"		"B2FF0EFB48CA61E5AC871412DE817153"
+					"size"		"4204B1F1C1334E6E8A09292A7D74175A"
+					"download"		"5FA21CDF5C6064EB8F873DFC76C4C740"
+				}
+				"mph-daily"
+				{
+					"gid"		"25833EA6B1D0074B3E0EB55C3C0B9CCB"
+					"size"		"D6A654BCCEDDF6B3BAD8972CCC4153CF"
+					"download"		"7079DA1FF2FC9E42E8A709916976F0C1"
+				}
+				"mph-daily-backup"
+				{
+					"gid"		"F9036F75BF355093323D8A8CEC56F9CE"
+					"size"		"95E98F69F2CF33A2A0D2C41AD3083EF9"
+					"download"		"34899299AFB37EBFC68DFC3EE1CCE5BC"
+				}
+				"mph-midday"
+				{
+					"gid"		"623E5662E27ABD8A321085073EC246B6"
+					"size"		"9771584FA3D2B7B454133F045BC9C37D"
+					"download"		"1DF8771825A77D6CEBF3B4DB6A98CD3D"
+				}
+				"mph-playtest"
+				{
+					"gid"		"5E0A7D7C0594081C208FC1FC23510593"
+					"size"		"DCBB12251C1EB58DB556D6D962ECB6EB"
+					"download"		"7F9302CFED8EBDDD03F00D8D3103ED91"
+				}
+				"mph-proto"
+				{
+					"gid"		"C8B80CC97333F3AE40D3602ECCADBFFC"
+					"size"		"176D69899EF1D13484B2E51C4DF3E350"
+					"download"		"DE80DC91855BAAE84C8ED2C79978FCA6"
+				}
+				"mph-stable"
+				{
+					"gid"		"8309131188431BEB24B6224876ECE19D"
+					"size"		"72CB1FA0311F5CD41E873773A901893D"
+					"download"		"BF171C9E817B12AB12F3D53177B8BB3A"
+				}
+				"pac-weekly"
+				{
+					"gid"		"1D9889EDFF356793CF2F2B3E434B7FF7"
+					"size"		"8C4936FD36968E897CEC63DDAC2D7424"
+					"download"		"D4BA83D56C7E923416BD0A29A1988D8E"
+				}
+				"patch10-daily"
+				{
+					"gid"		"C6B8241E98EB811D1D4C3F082A964DE9"
+					"size"		"16998833141EC606C31A6A74F97FC23F"
+					"download"		"49543FFA88A88E82A58D323E6D3DF9F7"
+				}
+				"patch11-daily"
+				{
+					"gid"		"6C74923F04AD412F5DCFA08250F1707D"
+					"size"		"9617145FF30B8D2DA88D334D4D5CD899"
+					"download"		"FB5B4DE50F5A4D0A827016D0654CCD6D"
+				}
+				"patch12-daily"
+				{
+					"gid"		"A8EFE3600EB7AF268722C851BA9F578B"
+					"size"		"433E5536503ADFC34553FBAF9AFD26F4"
+					"download"		"7F174DCFA1901F67DFCD0A00BE4E69D0"
+				}
+				"patch9-daily"
+				{
+					"gid"		"81D891E3B9E6E702AAE4BB922F9FB2E0"
+					"size"		"756AA57F7F1A489406BBA37D8578563D"
+					"download"		"8DE3CD9D48C48946AB8525EFA04C2A3F"
+				}
+				"playtests-may-2023"
+				{
+					"gid"		"CA6334B8D5B3A0AD008221B76C81A3AB"
+					"size"		"488A2265FDEF209D6BF54255719A2245"
+					"download"		"2C04A8F78D2C05E32ED754B971CC2F8E"
+				}
+				"rollback"
+				{
+					"gid"		"BBE789864E2891C5CB1B7A0C658B3DB1"
+					"size"		"A24C1DF943E6CEA7CD27CE201D7F858E"
+					"download"		"5B711FC6078551B70BD006130F77670E"
+				}
+				"staging"
+				{
+					"gid"		"21654D73003DD0C527B78032F3542291"
+					"size"		"419A72607DEE2BA3054880F3D92D7192"
+					"download"		"2D53608657D72D7B5EEAD084A19235AE"
+				}
+			}
+		}
+		"1741792"
+		{
+			"config"
+			{
+				"language"		"italian"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8846776983288331936"
+					"size"		"1907006"
+					"download"		"1930192"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtools"
+				{
+					"gid"		"B6DC07EF71E6B6CFC27A8F4B642371B4"
+					"size"		"6C84C73AAC88F5C2B3C56D0AB46C3357"
+					"download"		"58BEF2D3FD0B253EC9B3070E5C1EACA9"
+				}
+				"internal-tests"
+				{
+					"gid"		"219462A661AA6EF31547EB5B66003534"
+					"size"		"DB50D07B3C829024ADF7CA7CABB485E5"
+					"download"		"E26387A8D8690EDD5E7ABFE2ECB466A3"
+				}
+				"jr-weekly"
+				{
+					"gid"		"878F76CE95CFCE9F581D8EAD32CFE332"
+					"size"		"D0345405BE6DC2796301EDF4138A97AA"
+					"download"		"C34CC0D1290360A5170612F8402BD7F6"
+				}
+				"lqa-weekly"
+				{
+					"gid"		"1FE7A5D2CF4CE9B781964B8318E95138"
+					"size"		"B6F7896C59BB349AFFF3B2E5A5BF39CA"
+					"download"		"2F9A57507ADB4C2B9E38D2B614F69AF2"
+				}
+				"modio"
+				{
+					"gid"		"035C95543690D7C32D51A4DE36018106"
+					"size"		"0EA01C68D7AC94CC7EC37C2B2741D90C"
+					"download"		"E043EB93C8FCE0551706FD09898C192D"
+				}
+				"mph-daily"
+				{
+					"gid"		"633D9AC5E33D25D788B0BB4B39BB6518"
+					"size"		"F9EEC81D640699410196D6444A4B3F3D"
+					"download"		"4FB40B5EE2A5F0BEDA27ED06DBF6B17E"
+				}
+				"mph-daily-backup"
+				{
+					"gid"		"3F2DE657BF534850BAB5BAE09994D6F5"
+					"size"		"4FFC651457D34C5A3E2A14829CE3A090"
+					"download"		"7F2A66F508A663856AABB74C68482C27"
+				}
+				"mph-midday"
+				{
+					"gid"		"A8346A19F1A4D4CBD9262BD3AD4F7C3E"
+					"size"		"987E786558FC9C2D603879839A49CFDC"
+					"download"		"BF0CAB537093A79930F387A64E3E6669"
+				}
+				"mph-playtest"
+				{
+					"gid"		"6C54B2FBCD97B2F9E85B2AF57BD211CD"
+					"size"		"D1CBCA9C8F89F195AA311BE169003544"
+					"download"		"FB35C7D7BB1C8451A22D5BC1352F3008"
+				}
+				"mph-proto"
+				{
+					"gid"		"3AD77C2098F6718BF1A1A46764188D59"
+					"size"		"227617C7FABDDDAF1ACAFD0019586C31"
+					"download"		"0AC3D8EE1AD3155129D801CB6F77D359"
+				}
+				"mph-stable"
+				{
+					"gid"		"307E8DE7E7CA459F9A94E896B4705591"
+					"size"		"7D0D0C90410E88AD6863D1412A9B7CE9"
+					"download"		"108392CC984C0C402E1A672309AE2100"
+				}
+				"pac-weekly"
+				{
+					"gid"		"A4EC6025C1EFFC68669796CBAD669AA4"
+					"size"		"028407451D037AC9EE16A9F28D6681F0"
+					"download"		"802777964D12851D1FC7712395FAD919"
+				}
+				"patch10-daily"
+				{
+					"gid"		"51C55B2604D6D6CE64638B124889F116"
+					"size"		"A521F2AB42E2EB0EB6C19544CAC2C470"
+					"download"		"ABA0FA22E80C7B34E84961F3CBCD5D8E"
+				}
+				"patch11-daily"
+				{
+					"gid"		"CE30E9490429C06A24342393D00DD88D"
+					"size"		"107440EE1E7D357B25819C0D08EB44B2"
+					"download"		"0757F73F7BA08330C02BB2F7ED64A5D6"
+				}
+				"patch12-daily"
+				{
+					"gid"		"D01D9312FCA8D0C97AF5CBA2E0772297"
+					"size"		"8D5AD15E810E87D5E84EB6BCEC3DC4D7"
+					"download"		"541EF578F6613AF155486A4318E5705B"
+				}
+				"patch9-daily"
+				{
+					"gid"		"F1C7EC81EBDD68A213D7B213C4C8D26C"
+					"size"		"D7CE3588B5AEFC9F58FAF1B13B7C13FC"
+					"download"		"E4EE7553805B6834B4F7F50C920AC391"
+				}
+				"playtests-may-2023"
+				{
+					"gid"		"3B7ED2E1734C5C64DB8138D5A5139985"
+					"size"		"8AF09535CEC11395E5939B609D0C8C17"
+					"download"		"B55FBC47403973357A45E55224797146"
+				}
+				"rollback"
+				{
+					"gid"		"4F946786F4BEFFBB12E194DA76EBAEB0"
+					"size"		"5DAD767394BBBB584F89BB8658F5C5D2"
+					"download"		"A66E0BC6BD060DEA454C1B50F4969615"
+				}
+				"staging"
+				{
+					"gid"		"0F2C910900176F993BAFFA6134CA40F9"
+					"size"		"234D6FE63A6C53CF43CFC706EFC06078"
+					"download"		"5066965A23528D8488389860FAE34B8E"
+				}
+			}
+		}
+		"1741793"
+		{
+			"config"
+			{
+				"language"		"japanese"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4437235001092909316"
+					"size"		"5010900552"
+					"download"		"4972395376"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtools"
+				{
+					"gid"		"80C7596CF5381CE4B0AFC28B1C010C69"
+					"size"		"F3CA2FC2612377A32DC71DFBE0A1FA6A"
+					"download"		"5B1EDFC385A8830F794101376C8E6E51"
+				}
+				"internal-tests"
+				{
+					"gid"		"4ED5EB7C9DEF68A88BFFEB3A3091FBC8"
+					"size"		"19D8CE05B9FDCF2715CA259DAEA7B437"
+					"download"		"27B28B6CECF9940A5EFA75F2FC120EF8"
+				}
+				"jr-weekly"
+				{
+					"gid"		"BDFB72520BB8B8A7A55EE5C91F80DF62"
+					"size"		"D2E7DA77E128142969BAB633E3FADD5D"
+					"download"		"BC05BBF554A29B302909318F14196E4B"
+				}
+				"lqa-weekly"
+				{
+					"gid"		"5EFE3FD4148FDC03612E983AFAE6DAD7"
+					"size"		"C9EC035A6CCE2FD4C714C1CDD85E07B4"
+					"download"		"5002364355B8C3BCFD4EF0637E33666D"
+				}
+				"modio"
+				{
+					"gid"		"47D62FA7FAD5B83567C47F6C59FF9D92"
+					"size"		"3CB1BCBFDAC8AE38A8852ED1C8D7F37F"
+					"download"		"DC6F204FCABF85D0CB22775A7590F9C8"
+				}
+				"mph-daily"
+				{
+					"gid"		"FB75CAEF669C0B7FC89D2A6D6ED8FF42"
+					"size"		"163B763916BFFE1F78B71B1822686A46"
+					"download"		"8095DA6E5F022B3D92B45E4746680D72"
+				}
+				"mph-daily-backup"
+				{
+					"gid"		"F71FB0C49E8E6D7BF3E5CD0432303E83"
+					"size"		"0E904635636FE1CBF22E1DD2A1B32238"
+					"download"		"CA7924F9046994E1937E16C218034B28"
+				}
+				"mph-midday"
+				{
+					"gid"		"1D81641AB5975C9B907F19822BBC7491"
+					"size"		"A95DC722CC7B9F72EF0B3B9523124631"
+					"download"		"3FF828F5CAFAB52FD1408CFD6D04E628"
+				}
+				"mph-playtest"
+				{
+					"gid"		"B8C9C1E7CEDD71BC57C4882AB87C9681"
+					"size"		"68D686D0790B7915EEEACB0E9C84911D"
+					"download"		"225F5327330EBC81C41026AFF48A756B"
+				}
+				"mph-proto"
+				{
+					"gid"		"627A7160F5BE1212EFB3CD07459AFC34"
+					"size"		"858B2578891C781C219725DDB937F4DF"
+					"download"		"DDC5FC4392B9CDBB97AC0F96FD365E96"
+				}
+				"mph-stable"
+				{
+					"gid"		"14F8326D3851E2E227C89BE5C1BA4F4C"
+					"size"		"C19386DCD991CDD27EFBAA0FDBAF6228"
+					"download"		"A82E9BDA2C0FAEF7372396B16BC281AE"
+				}
+				"pac-weekly"
+				{
+					"gid"		"0EE987E15170BEDFCDBE83A8A8BA05D3"
+					"size"		"7A92A575D014786C2625AFC468BF82DE"
+					"download"		"59F7B3BA011F1A9301285BA68DA20873"
+				}
+				"patch10-daily"
+				{
+					"gid"		"D8AD8589DCDA0C1283F5F84E0F1EA12F"
+					"size"		"C3D85AED92BFFBD78FB59ECA2C85CCA9"
+					"download"		"79C9261C50D46FABC5895588F2C9CA15"
+				}
+				"patch11-daily"
+				{
+					"gid"		"410EE2915889CAAC4DE6CA7A375BF74C"
+					"size"		"134202FB6C7963D4A4CD28907B64CF31"
+					"download"		"D50BF729208ECF034A7DE8A23A79564B"
+				}
+				"patch12-daily"
+				{
+					"gid"		"4DD8E0A022CDF9D434D286D907D5A982"
+					"size"		"3B86B99209EAD8E57DF675D77476B062"
+					"download"		"881F7D50448B9F27B4A2A4D3138CC91F"
+				}
+				"patch9-daily"
+				{
+					"gid"		"9F7A388C1387FF6320DF8B717E799D57"
+					"size"		"23C59610E61B1063EA0B87A8242B6B01"
+					"download"		"54014D8D29AEF509A0D8B33B189BAAA7"
+				}
+				"playtests-may-2023"
+				{
+					"gid"		"8438AFF47D0646A101E0C737CC718BC6"
+					"size"		"B3628CE4D0F0B47B5BE440F5531F808B"
+					"download"		"308BF32C9E7F33954A10803E9F16F176"
+				}
+				"rollback"
+				{
+					"gid"		"8CE721075954421DB40C2EBD3183BAA0"
+					"size"		"E34B7CA7E1EB69DF25A52229C9B39001"
+					"download"		"C6E88D1E40B8954889D65A6347CCFEEE"
+				}
+				"staging"
+				{
+					"gid"		"38918051204A018EC74C6FA4A8FBD9EC"
+					"size"		"6438E66ED8A0EA3609A58C58FBEF2D5F"
+					"download"		"43909960DF3315F543F553E82B3FC86D"
+				}
+			}
+		}
+		"1741794"
+		{
+			"config"
+			{
+				"language"		"japanese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4058315397419115453"
+					"size"		"648457072"
+					"download"		"376214352"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtools"
+				{
+					"gid"		"15227AECD454FF4D774FFFCE97B65F2B"
+					"size"		"46F03EFA26E8B4DB46AC675F47152572"
+					"download"		"4B5F9FB97ECA07F1B54C53AB68278BF7"
+				}
+				"internal-tests"
+				{
+					"gid"		"3F0C2AD1F13990902D08B587D935F8F0"
+					"size"		"258FB4F2F96788FAF334F636C08C3147"
+					"download"		"A589AFC92F052BBF6C5C5F97C305AA1C"
+				}
+				"jr-weekly"
+				{
+					"gid"		"3A2C715DAE79CFE4A584F09C275FD4E9"
+					"size"		"B58693C58154890D12C3E9623CDC2ACE"
+					"download"		"9C698226852F10C9E90A54741DDBB23F"
+				}
+				"lqa-weekly"
+				{
+					"gid"		"82FB4562A7112D99DBD02E04FFD8244F"
+					"size"		"6EA3BB298892EF6CD5832606CFD8322A"
+					"download"		"C7AAB5A8A7974ED3B0A919B0FD77AFD1"
+				}
+				"modio"
+				{
+					"gid"		"A967BC9BFA57705BD16D82D55D0EDCCE"
+					"size"		"0FA6A00D38C5C00A14744E2FEE56AD31"
+					"download"		"084D61F4123A67AD4D3BE08DA174BE16"
+				}
+				"mph-daily"
+				{
+					"gid"		"066DD0768F7688D7E4BEC41CB4BB4657"
+					"size"		"94CCEB9B58FDC50C480DEF2BED7F3B37"
+					"download"		"8239A55632153AAF7FE3B51F9FC93DB4"
+				}
+				"mph-daily-backup"
+				{
+					"gid"		"A584C715D767D9B40952490EA82A1DD5"
+					"size"		"5A754F299D337B811E3D5B14987AE431"
+					"download"		"1A4A1E32B916216EEBEE45E240B09C22"
+				}
+				"mph-midday"
+				{
+					"gid"		"4C93FA0E2A856F23522024C240C7DB30"
+					"size"		"FA1135874137CE88DA703EF62A08F1D9"
+					"download"		"69C445F87CD443930C1FC0F61913B3E9"
+				}
+				"mph-playtest"
+				{
+					"gid"		"473D3A38AC203C7F3A1EA8731369CADF"
+					"size"		"9B99CE7CB16CD7D7D35B089D0BAE057D"
+					"download"		"58F414923B9C0853F4164C3237384A3C"
+				}
+				"mph-proto"
+				{
+					"gid"		"ABD8B75FA0BA0CBBB778ADFABB70C940"
+					"size"		"1D7AD4B0BA687238E48260766E6D1FED"
+					"download"		"411DF0DA82A11A668DAD4513E15F4035"
+				}
+				"mph-stable"
+				{
+					"gid"		"F666736E5F493E863E8019A82E720F4E"
+					"size"		"201776F343E1B04216DFA174F0FA4928"
+					"download"		"642C8CF6E8B1451352975D0A40240355"
+				}
+				"pac-weekly"
+				{
+					"gid"		"3C9DC1DA7329196717711FA3B1F29917"
+					"size"		"211401EB8844AE7066DFE69792F1A9A2"
+					"download"		"2EB06EEF63159A871A24E516A5CD9D5E"
+				}
+				"patch10-daily"
+				{
+					"gid"		"99C0CF39BC6797038C8E4C57F65EC85D"
+					"size"		"E626365F0A726217C1947C92D8396D06"
+					"download"		"5F125AB398BED758F4538BB7CA3D4B8F"
+				}
+				"patch11-daily"
+				{
+					"gid"		"A1FEAC7C8BD9B0D85C58C3A43C5168FB"
+					"size"		"F1FFC03D2FA27F3E199035EE9C2BED5B"
+					"download"		"0458831BB4809B3DA7FECFF8F1B5CA59"
+				}
+				"patch12-daily"
+				{
+					"gid"		"5D6D88A890FBC75ECCDA03A13603481A"
+					"size"		"94D241705EEFF7456A0746E61AD6A59C"
+					"download"		"EDC8BF8914A7A66DF97BA4ED2852BC13"
+				}
+				"patch9-daily"
+				{
+					"gid"		"D9AF25C8F0682612BB6AA03056126EEE"
+					"size"		"B3C567181E269857A6332D4A485368EE"
+					"download"		"B907E546F2D950D8804FF9EDBFF83FC8"
+				}
+				"playtests-may-2023"
+				{
+					"gid"		"517DC4F5A74D133A360A35238D7FAE12"
+					"size"		"958D43888AE0F4B077FDC89D9B40B2A7"
+					"download"		"76B9484A2568C9F3A8D42C88EBFD0D78"
+				}
+				"rollback"
+				{
+					"gid"		"AE19CF7033F9479392219E05444F3E99"
+					"size"		"A7F606B3F8AB0B27DA391B1D11625984"
+					"download"		"494F54DDDD62F8DF7FC00254042854CF"
+				}
+				"staging"
+				{
+					"gid"		"BD9D67183F9C2AED3D0C4A546986EED1"
+					"size"		"DD26EDF9CD27AF3D77723E62AE49563E"
+					"download"		"14125AB57CE4212D7E312FCA774CE958"
+				}
+			}
+		}
+		"1741795"
+		{
+			"config"
+			{
+				"language"		"koreana"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7771291519293803242"
+					"size"		"2330867"
+					"download"		"2356592"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtools"
+				{
+					"gid"		"A5FAD8ED3D8B25FD0629F260C5B1A4D8"
+					"size"		"6143805ACC551CC4EBBBBCD1F4E84C1B"
+					"download"		"1274FCC81562C04CAC8F96B05799481A"
+				}
+				"internal-tests"
+				{
+					"gid"		"21092723AEE3BDC2D96127EF1F7BA4C5"
+					"size"		"BB4F768A7202EE3358F30859CF11FDE7"
+					"download"		"0643ECCD905443575F416C3F2D7E7364"
+				}
+				"jr-weekly"
+				{
+					"gid"		"BEC5FCE1B23635FC88C69D4CBAC83544"
+					"size"		"171998E7B9EAFB35A9F3C2BEB72ACDC5"
+					"download"		"A2AC743B6081BF5CC2FDB203647012CE"
+				}
+				"lqa-weekly"
+				{
+					"gid"		"B1C1426FC00D56223B107336A3637F88"
+					"size"		"F0145D2DC0DCD839BAD6A07C9F08F56E"
+					"download"		"0484987F9C0AAD5A9257D39406ABF4FB"
+				}
+				"modio"
+				{
+					"gid"		"2EC7F7EF861094DDA5C7930FBEACD019"
+					"size"		"B5C60310DC9D7A6D4436BF91BD5529AB"
+					"download"		"DE2CCD832A090B629297CF52ED483DBD"
+				}
+				"mph-daily"
+				{
+					"gid"		"E8A714FEC2E398299871853B4EB0C8E7"
+					"size"		"203E54F807BCA062F8F786AFDF1A3AB9"
+					"download"		"CCFD08863DAF77C12171C221A499735E"
+				}
+				"mph-daily-backup"
+				{
+					"gid"		"2BC06A92721D7790AA44DAF2BBA78D26"
+					"size"		"8A2EA8A87AAE56813CAC946B65D8DDFD"
+					"download"		"1C82E1F096873F074DF1A5A88A703FF3"
+				}
+				"mph-midday"
+				{
+					"gid"		"46C39D945BBC88036CB143CE67850780"
+					"size"		"7078F46EE03DC332BD6D843B87A8842B"
+					"download"		"8FAB99538FD276064BD679B43F8E5205"
+				}
+				"mph-playtest"
+				{
+					"gid"		"89399AC648A9EC50190B90BA27CE39AB"
+					"size"		"7DA37C068A26845CC32D650BAAE857FE"
+					"download"		"EA43A1CA3B19B3A45AF88C42F0492EFF"
+				}
+				"mph-proto"
+				{
+					"gid"		"24194E0A986CAB11562A133FD1ECF57C"
+					"size"		"29F7CC57FD55D9A5458930987B8F8B31"
+					"download"		"50F740D3413B8BBB0026E282559E10D1"
+				}
+				"mph-stable"
+				{
+					"gid"		"4CA39055451659B7C8DBB94CD790A94A"
+					"size"		"05870504530D61F8AE1A755B07878570"
+					"download"		"90710DD27230702E087DB01A428C9E79"
+				}
+				"pac-weekly"
+				{
+					"gid"		"B834A1E178DC5E16B8837361D2E1EB1B"
+					"size"		"43032EA3FB940505BF7E007272BB7B56"
+					"download"		"0027E1C4C8E768CC7B3C20B1BA963250"
+				}
+				"patch10-daily"
+				{
+					"gid"		"B9F10024BBCF9A504F273FBFC1B8CE90"
+					"size"		"5EE483878C8F9615C3C4E723EFA08044"
+					"download"		"253B55931E5D0A9CFD235B1342C5FD2E"
+				}
+				"patch11-daily"
+				{
+					"gid"		"5B3DF650054EC9330E009E9881B9DF49"
+					"size"		"69673317B4D96ED1296A66DFD4AB74F6"
+					"download"		"525F48A9386C77C70FFE3473F03E0AB1"
+				}
+				"patch12-daily"
+				{
+					"gid"		"AED12758A31486F91CD6934DB44F6545"
+					"size"		"6459A2AC69D9622942FEE2294DB05A90"
+					"download"		"5776DCEC9ECF4013B8AB6EAF82A25E6F"
+				}
+				"patch9-daily"
+				{
+					"gid"		"DA807F5BC3D1FE8DCBF20530D41C1C5D"
+					"size"		"78EA1AE3A622236F7E3F30669A5C7318"
+					"download"		"0DC38FE55540C42D7DA4641915A1F5E1"
+				}
+				"playtests-may-2023"
+				{
+					"gid"		"23A7726DEB3C56DF3B77D23485285E9A"
+					"size"		"78256D6FE5139BB2540C9EC4728DDDF2"
+					"download"		"F23EEA74D6BFE1AB7909114203DDCF58"
+				}
+				"rollback"
+				{
+					"gid"		"81F9ED0719A7B606985FCDE17E06F4DD"
+					"size"		"5DFCD870F0BC5F07B9923286C2E6F309"
+					"download"		"4B975369471D9BD10D25FE33C0263B49"
+				}
+				"staging"
+				{
+					"gid"		"46802CC09C3E3C1C455A9A0C8DAF1782"
+					"size"		"EDEADFC1FF6019AB95EBBEE81A58EE5E"
+					"download"		"298B8E32F7292C2DEE7A24623916E7A8"
+				}
+			}
+		}
+		"1741796"
+		{
+			"config"
+			{
+				"language"		"polish"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1706642664505345672"
+					"size"		"5269168436"
+					"download"		"5226162464"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtools"
+				{
+					"gid"		"0201D9328010CCF048523906C86BA3DA"
+					"size"		"A2EB3FA5F25FBEF985CCA851AE051280"
+					"download"		"83B4E1A7412CA5E23B229861EE257430"
+				}
+				"internal-tests"
+				{
+					"gid"		"4EF80220D0E85F7DA0864B5A109D09B1"
+					"size"		"519518814A4636E7B53361C63F23BC42"
+					"download"		"8B3EA690770DCE45110DD8505C228E06"
+				}
+				"jr-weekly"
+				{
+					"gid"		"A98E4C56EBC4DED77606E2E1B212CEBD"
+					"size"		"A7DB017A86F64A4304F6CAAD2608FE7D"
+					"download"		"5B19A3E5914966A70E3DDB5B79F88C88"
+				}
+				"lqa-weekly"
+				{
+					"gid"		"CF4CAD48D29C461D05BEA51850400679"
+					"size"		"CA6A880E9597142BE551A53AE35AF999"
+					"download"		"FE2289A04E77E05909A87B9054C54B01"
+				}
+				"modio"
+				{
+					"gid"		"5C04757320367E8D9728DC5019AA7582"
+					"size"		"B19D31B16B6F3D46339C5166D960E322"
+					"download"		"9B4FE96B5D9D3AA823DC18FFFD2ED50A"
+				}
+				"mph-daily"
+				{
+					"gid"		"DC861185CFCBD9C3275F273AEF691802"
+					"size"		"512B57445E75D3481E255D7FC6C313AB"
+					"download"		"B83CF5C2DA533DEE2514AD4AA58649F6"
+				}
+				"mph-daily-backup"
+				{
+					"gid"		"A1ED82B8E4DD421E5AF412F31F33527D"
+					"size"		"88E73268481AE6784AFD46AF72595A99"
+					"download"		"6AC6240F19A1112035FD8429DDCD68BD"
+				}
+				"mph-midday"
+				{
+					"gid"		"1B93D350761B520E07DB67F29113C737"
+					"size"		"29135C6B61203ED825D8E8D359EC8B5E"
+					"download"		"E63EBFB2DA35DBD84026F50C9CB2C94B"
+				}
+				"mph-playtest"
+				{
+					"gid"		"5C926546E48F708D852CFAA728EC14C7"
+					"size"		"7F0B7846F7B88038DF5FBB7E7ED6D98D"
+					"download"		"085B9B0FBA291CE19ED01652F137ECB3"
+				}
+				"mph-proto"
+				{
+					"gid"		"B58892650D1E46C531492515E1808FD0"
+					"size"		"2710CBF0E45A2C4ACC97E287B4C6F381"
+					"download"		"DEC433295500C5A193B6F26D694B09C0"
+				}
+				"mph-stable"
+				{
+					"gid"		"8B39B24034EB07314394CDC15EF70BE1"
+					"size"		"3496AC000203CDC9A12C9DF9F62A2A91"
+					"download"		"053BBCB945A52D778CE7587DCBBF02C9"
+				}
+				"pac-weekly"
+				{
+					"gid"		"F965A8FBC24F237C56A76F4FC654C787"
+					"size"		"7AE30FB5979C94CB46B9BEA539F11BF8"
+					"download"		"C945327BFA4C765C8F3AA75021D1D60C"
+				}
+				"patch10-daily"
+				{
+					"gid"		"BE3A77D9022144EA0A58A2E52C8DDE21"
+					"size"		"8E8B7D12DA22BF0C1DC2585D2DAB795A"
+					"download"		"1F55A76091E05AB5F813FEE030B62DD2"
+				}
+				"patch11-daily"
+				{
+					"gid"		"BEBD0DB4E58566F672515688DFED2A5F"
+					"size"		"A44B3C826EC64EA0AE4397520595DB7A"
+					"download"		"BB552EBFDD7C4BBF430120D60888F3FF"
+				}
+				"patch12-daily"
+				{
+					"gid"		"78788E6F85E8E19713971BF494873490"
+					"size"		"86B33D7545587941C001EAF8588ED5C6"
+					"download"		"3474323683B6A6501A5221F794934334"
+				}
+				"patch9-daily"
+				{
+					"gid"		"F1F045CBFA7C8BC1E4DEB5BA98A54F8D"
+					"size"		"73695E60AA581B19D598889262F017BB"
+					"download"		"3E553B32AB87D7E143ADE731278EE0C5"
+				}
+				"playtests-may-2023"
+				{
+					"gid"		"8B431686F7352EA460E1598EDAB0B249"
+					"size"		"CE26DD6FDE639289E550103ECBFCB980"
+					"download"		"ADAB5AD33E9633DE2126A1C373223110"
+				}
+				"rollback"
+				{
+					"gid"		"BF34A6F57BCE2998E763772C63DF2965"
+					"size"		"F66739C18D2C14E7E584792A73C3CA66"
+					"download"		"60BEDD9DCD740061F07F979348CF8AD6"
+				}
+				"staging"
+				{
+					"gid"		"8F531F809F222B9B2148DB80DF5E1E5E"
+					"size"		"609EABC351B92402EAC50C6DCF2FEB24"
+					"download"		"DD04530A448B1F7F9D581E1EE31C23DA"
+				}
+			}
+		}
+		"1741797"
+		{
+			"config"
+			{
+				"language"		"polish"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5839536266114964073"
+					"size"		"699710016"
+					"download"		"406359360"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtools"
+				{
+					"gid"		"A4E493778359CB0A76D8F68C709EDD22"
+					"size"		"BAA4C48C5054A980BFB5882E2C05EB29"
+					"download"		"4C4F99833ED5FC0F6093406ADE24EF0E"
+				}
+				"internal-tests"
+				{
+					"gid"		"C8ADAD6921C7ABB5003CECDD2F87BBB7"
+					"size"		"48A898AC7EF219CD4C2276262A7AD340"
+					"download"		"626E59A801D28AEBBA08A1D394EB4582"
+				}
+				"jr-weekly"
+				{
+					"gid"		"6D8D2B0065B1DC45F821DFEC41F985F3"
+					"size"		"DE8FDCDE7B5086C876E2A8DA598E9946"
+					"download"		"421CD6B69D030DF2563207E1C45F488B"
+				}
+				"lqa-weekly"
+				{
+					"gid"		"66B8C9350FCB5D62EB389106CEFA1962"
+					"size"		"147D34AE9F7B7729727AA7D10DD0ABB1"
+					"download"		"BFAA900DBD6E7358BBEE105B26E396CB"
+				}
+				"modio"
+				{
+					"gid"		"AB99D98EC9404C1063F00E2475E8E506"
+					"size"		"62F57545628237264B52D4FB899E6C56"
+					"download"		"185C5825182CDCC447522CCFE3364742"
+				}
+				"mph-daily"
+				{
+					"gid"		"645EA71097BA2111E572935C5C55EC1D"
+					"size"		"0ABD1AC3DE382647E862044BF1C12B49"
+					"download"		"37BB0CF079F63281264E5F20F95ED1EC"
+				}
+				"mph-daily-backup"
+				{
+					"gid"		"E060F87B9F73F154B96F88C4909925E3"
+					"size"		"6CDCFCF6D79D2616CA59158637DFA0F9"
+					"download"		"D1C01819EA5A04FFE33692FECF749E98"
+				}
+				"mph-midday"
+				{
+					"gid"		"6446F1903E5806B6D7AD31CE8B4B2F84"
+					"size"		"C622FC1445143C73F0449BF9EBB465D1"
+					"download"		"EE9EDC48B7859AC46443BEA02E945C29"
+				}
+				"mph-playtest"
+				{
+					"gid"		"296168ED3EC814403363306C57870DC7"
+					"size"		"4656CED92598698BB519675DEEB1FAB4"
+					"download"		"A4F2F4F87D5956951C619E0489CBECD3"
+				}
+				"mph-proto"
+				{
+					"gid"		"CB0DA2576E734AEC547880296BF662A7"
+					"size"		"3B843D1C6B101E3DCE3A1D9712AA2248"
+					"download"		"2236E9B74281DC1B18D9D93878C1FDEF"
+				}
+				"mph-stable"
+				{
+					"gid"		"3BBC4F9C69699B9936AAEF67445B8456"
+					"size"		"0C81DFEDB5D06558C44A8C703774CB97"
+					"download"		"94FA7C516E415A8BD4FE2ECB9492C885"
+				}
+				"pac-weekly"
+				{
+					"gid"		"8779226CD62AD2AE7D3FFAA612D73F2A"
+					"size"		"F0111CA67481552C06E7F7254DE084C2"
+					"download"		"E3765A00BA824B60B46A87B5658252F7"
+				}
+				"patch10-daily"
+				{
+					"gid"		"39F9260B90E2C1504BBEE3555C78A754"
+					"size"		"891B8E5AEEC6BA994478AB2660A24B7C"
+					"download"		"287ABF6690FA2982D1C54DA793419B16"
+				}
+				"patch11-daily"
+				{
+					"gid"		"9530F421CA5ACDBC3CD2095F71E28216"
+					"size"		"5152FF57A9728AFCE9194400D7634A2C"
+					"download"		"A34174A482FC0509FC114789267A27DD"
+				}
+				"patch12-daily"
+				{
+					"gid"		"B619B393F36E97AE0D6422A7251CDF85"
+					"size"		"89E0CE5C46DC7EBBA9254CC1272AD924"
+					"download"		"695B769C352C22DCF37F1EC79E0A2EEC"
+				}
+				"patch9-daily"
+				{
+					"gid"		"F9EA02C09B848E67E6550D2E39CD577F"
+					"size"		"BFB6D655AD6AE458BCD6C8CB6ED3F2AE"
+					"download"		"2B75648C716AC782A252BFFA6091B803"
+				}
+				"playtests-may-2023"
+				{
+					"gid"		"E2E6285DAA5704608229635B1783E02B"
+					"size"		"D97909B2A56F91A5A829BBB1AD87F893"
+					"download"		"EAC9F0E09D9623C0592B2E5629686242"
+				}
+				"rollback"
+				{
+					"gid"		"266ABB716F8125D885283F436C11F88F"
+					"size"		"F6918430EF5CAC60C347C10E1965D1B3"
+					"download"		"218459CF01C18389ABF7C61FE61821DB"
+				}
+				"staging"
+				{
+					"gid"		"9B6CFD5C5D86CAB9362912BCEE6ADA57"
+					"size"		"3F1334A4D42E13C0980488A9CAD7CA7F"
+					"download"		"72031E90A1FF244923621C0AE17E7E73"
+				}
+			}
+		}
+		"1741798"
+		{
+			"config"
+			{
+				"language"		"portuguese"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"68986250325396431"
+					"size"		"1890563"
+					"download"		"1913600"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtools"
+				{
+					"gid"		"7AA47E4C91A0A0F31241DA5ACA9C12BF"
+					"size"		"B373627D0663FA313257717ED271A55E"
+					"download"		"278EB19B269EC2C9BE46157F80743866"
+				}
+				"internal-tests"
+				{
+					"gid"		"FF45D4144FF446C395F3F6654573E346"
+					"size"		"1E0CA84ADB8C8448886F7A13ABCD0613"
+					"download"		"0E5FAD68B7AAA35660771A80EDE2EA0D"
+				}
+				"jr-weekly"
+				{
+					"gid"		"91BC4B018582975C833B39A87A0BD122"
+					"size"		"82841E66609F33D7E030D57F7043FB21"
+					"download"		"54D406504FF26F50FA278BF7A2AF33F6"
+				}
+				"lqa-weekly"
+				{
+					"gid"		"E39A9D9DA1E4C3C84FB43AA0C89D924D"
+					"size"		"664BDF3F8D365611AE8719AF56EA1871"
+					"download"		"5C79512A5D51DFF221248F28411F4122"
+				}
+				"modio"
+				{
+					"gid"		"A640DE75721F7E2EFDA3E158A5391F48"
+					"size"		"97A9CC7B9AB1BACED8256E3B12D939B4"
+					"download"		"51DD11F24E7E4283B396C1A8C5446E40"
+				}
+				"mph-daily"
+				{
+					"gid"		"3A41F4AB2A18662A44E8729DE49341FA"
+					"size"		"B923BC7D227D622B991A05DB483D9639"
+					"download"		"B4A2B2BFAC05AE5599B120CBED61B337"
+				}
+				"mph-daily-backup"
+				{
+					"gid"		"BE2A9FB4888117D48F1FC9B0F6A3669C"
+					"size"		"A93006DD9A93A690B00953D129A83963"
+					"download"		"715B8E732E3E245DA4E750BBF3BE9D26"
+				}
+				"mph-midday"
+				{
+					"gid"		"021D2598A503B14E5F5BC280490EFEF7"
+					"size"		"928DD3AC5F1AFCEE6B1CB8EE537C4B17"
+					"download"		"F2358A7234AF0592A30F385BFE1551E4"
+				}
+				"mph-playtest"
+				{
+					"gid"		"F17DBCB3A6CA5203750E36E544CBE227"
+					"size"		"65F3F3CDD432D1424C7DE4EB76AC1392"
+					"download"		"7A3CC8C4D141588CCC3907B67C387AC2"
+				}
+				"mph-proto"
+				{
+					"gid"		"C64FC81837C27E2AF8E51F0B3B340C96"
+					"size"		"2A4CADDC824092FAEAC149FCBE2250B5"
+					"download"		"BC940397BB550EDB38F14E36E1A105F0"
+				}
+				"mph-stable"
+				{
+					"gid"		"86DB6F012BC08B25C9441A52CE0274AC"
+					"size"		"DB0D597E20CB616F42A4FB0C469C9EBB"
+					"download"		"8516CC688F57DBFD9031E896320BA158"
+				}
+				"pac-weekly"
+				{
+					"gid"		"D991C4C99B81A76BDC66E3C209976F19"
+					"size"		"98B5ACC968F71ED08E6015F0A12328B7"
+					"download"		"56FE4BFFF971B594E046B30D53BA12A4"
+				}
+				"patch10-daily"
+				{
+					"gid"		"ABDF7080BB87E268E44A92FB21833306"
+					"size"		"FEF5F844DD2DF4632F5DBD8DD5791E9A"
+					"download"		"343359DD93C5048C795CD6B515BBA3B4"
+				}
+				"patch11-daily"
+				{
+					"gid"		"C36560F774CBED950E25C86962516AA1"
+					"size"		"CCA5F34FB44D3F8769FC7B496209CC5D"
+					"download"		"1B49740B704F5F4C344EB33C43FABCD5"
+				}
+				"patch12-daily"
+				{
+					"gid"		"647F55609CC70EE6EAB50B8D038890DB"
+					"size"		"6989474E020FDE16738FB34F2CE4BFD5"
+					"download"		"1B896FEA52F4263DC0EC786576911488"
+				}
+				"patch9-daily"
+				{
+					"gid"		"AE6D021591B9AC712823F3B003F31BD1"
+					"size"		"49226D15C21A68DFBCB4E4E321D87889"
+					"download"		"70104B4689BA4BD1BA7A5089E715C6FA"
+				}
+				"playtests-may-2023"
+				{
+					"gid"		"27E9470929178323774221BA88F45D65"
+					"size"		"390DC7F528573B03DE956622094F60F3"
+					"download"		"9C0A263307B0F8E88C665E3DF5E87C94"
+				}
+				"rollback"
+				{
+					"gid"		"7C2A7D6E636F5EE57C01511B86673954"
+					"size"		"CB13D95F75475FFB1C7F8B1531BBE389"
+					"download"		"8DEF0551855C51EF9004FD4A665317BD"
+				}
+				"staging"
+				{
+					"gid"		"DDE9B41489037936212EB9E934172BCB"
+					"size"		"8117FDF946FBC3B393863FE297DCA1AC"
+					"download"		"95EF81FE3CE7E1415FF5E27E18BE6812"
+				}
+			}
+		}
+		"1741799"
+		{
+			"config"
+			{
+				"language"		"russian"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2523000225290340173"
+					"size"		"5201202760"
+					"download"		"5161966112"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtools"
+				{
+					"gid"		"FF3EFEC5C50F106A8C3C81C988B15322"
+					"size"		"EE241456B45F99B404CACEEF232637F6"
+					"download"		"62E843284BD5895E8FDF6A7305CF264D"
+				}
+				"internal-tests"
+				{
+					"gid"		"66F080DBE718B408FC52CF9A2A9F0FBD"
+					"size"		"1C057A1D158149FEB78604E13B035657"
+					"download"		"A226C6293B4501F271695D7C8F067297"
+				}
+				"jr-weekly"
+				{
+					"gid"		"9DCB203FA180386536733BDEA8E5731A"
+					"size"		"083C6BFEA5D99259CE6797ABE1CDD843"
+					"download"		"0DECE850CB37CE4C6CD54B4E81BD0202"
+				}
+				"lqa-weekly"
+				{
+					"gid"		"F31D95A2A3E0B9D37BBEC38A04AA5287"
+					"size"		"BCCDAA0FE69735FA21BF6DEB680F7C5B"
+					"download"		"C239803E7E10FFBAC0B192CB0D46A867"
+				}
+				"modio"
+				{
+					"gid"		"D52209E9C83F671150BCFBC5E2C29B65"
+					"size"		"EA68210955BCAC8FDAAFE4F30D946CF1"
+					"download"		"CA6257B17689642FC50BF4D130487F5A"
+				}
+				"mph-daily"
+				{
+					"gid"		"BEB724B619F4A26E092FAE937EFE24E4"
+					"size"		"68AAA73F20E15B180815B92E51B38E27"
+					"download"		"B133399CB6A227BA6049813CFCA574DC"
+				}
+				"mph-daily-backup"
+				{
+					"gid"		"0A91C7959B4E2FFE8D90E747CF1AE0AC"
+					"size"		"869CB5EE8C6B1901BA95540A84C0F235"
+					"download"		"DB3726DCE740AEDB219121E843C40355"
+				}
+				"mph-midday"
+				{
+					"gid"		"D63A2E3D6D384E5E161E74D272EE3CD4"
+					"size"		"24C2E671D94A8325E3C3CD9AA73BC8C0"
+					"download"		"7D2D432BAA20F9E2C3FCE6F1239A9540"
+				}
+				"mph-playtest"
+				{
+					"gid"		"3E159FA3DDBEEDFAAC849DC84F0811D7"
+					"size"		"D1E920B24AC0D809E47A33EBA522E365"
+					"download"		"C2273995ED939E51C5B57976ECEC6858"
+				}
+				"mph-proto"
+				{
+					"gid"		"DCA74EBD1F0B1D69F9E078682BDB8AA6"
+					"size"		"82DD87E40043815204EA5A8B9C98C3FD"
+					"download"		"107A47CECCAEF19FDEBE1E8D55F85CC4"
+				}
+				"mph-stable"
+				{
+					"gid"		"84E951036FA94511810D598271E2DE4D"
+					"size"		"5EDCB6C187FC4093CA6B644136539BD4"
+					"download"		"8B96731B19462422D59A5C6E90305645"
+				}
+				"pac-weekly"
+				{
+					"gid"		"C165430A1AAC7E079CED1F6813C272D5"
+					"size"		"A85356BCEDBE736DF7A2868C83E71CF9"
+					"download"		"5F003702E36598E87D8918CF77F64014"
+				}
+				"patch10-daily"
+				{
+					"gid"		"D4BCBB7CD364DEE06E5118CB24B2904F"
+					"size"		"56982DE7743D251C179856D6EAE0C94D"
+					"download"		"B8E1DB82E5AF0B1C09A786DA2D94F48A"
+				}
+				"patch11-daily"
+				{
+					"gid"		"A4BA6363C1D6C7E5658C979841B79089"
+					"size"		"0A21375A6E5A9ED7C67699079E68F5BE"
+					"download"		"1FC610989A328695866C353343859CE1"
+				}
+				"patch12-daily"
+				{
+					"gid"		"AB100992B8003F62D1CFFDFC8D5D4117"
+					"size"		"5B2EBAF2445674BDB16320E7E123A84D"
+					"download"		"AD7A3BFB86237D42150716BC0F16B84A"
+				}
+				"patch9-daily"
+				{
+					"gid"		"251A1369FECFEF0107770B30DAEEDD7F"
+					"size"		"95DEB5D37AA2BD39110DBD21A1214DBF"
+					"download"		"2E3208BCE8EF73232991D45230AE0707"
+				}
+				"playtests-may-2023"
+				{
+					"gid"		"B855ECFF97F2EF3B613B101072099160"
+					"size"		"484F90771FDB905C1F1D22B8B01C8BB8"
+					"download"		"6A9AAEC9999FA395C9B22473E42680EA"
+				}
+				"rollback"
+				{
+					"gid"		"A12F4C936D4DF21DE41488D3CC11D857"
+					"size"		"E9AFB4A0CB92273D6AB3B9F27FA81325"
+					"download"		"1A5530ECC565E1A2B1B994D74197BDB1"
+				}
+				"staging"
+				{
+					"gid"		"56D528C7E53C9876688B102460D28AD7"
+					"size"		"D1805F2FEF9BD44BD11646A3EA444470"
+					"download"		"B9ADAE875063B4A7030D638CE23791C4"
+				}
+			}
+		}
+		"1741800"
+		{
+			"config"
+			{
+				"language"		"russian"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6534390313887518730"
+					"size"		"683864224"
+					"download"		"390432320"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtools"
+				{
+					"gid"		"A2E6C9A17490C7077D45775CCEAA87B9"
+					"size"		"62AC25F7F9CF12FD0E69DFBE294B11B7"
+					"download"		"9C45EAB887F848746915AE755CD5E402"
+				}
+				"internal-tests"
+				{
+					"gid"		"FFC44D95728D1D9DF261A90520D42C40"
+					"size"		"66F21601EF837CEF63B024006087418E"
+					"download"		"2E57C9129BFA17E0F99EED6E9846C7A5"
+				}
+				"jr-weekly"
+				{
+					"gid"		"8146AC1728580A108C2B58391B85C677"
+					"size"		"1D68B5880CA6B9D9E508C2DF626450BC"
+					"download"		"8C8CCB777C355BAF409C4935E66FEF6D"
+				}
+				"lqa-weekly"
+				{
+					"gid"		"46F36E691B753C38CB285B0033C5763C"
+					"size"		"491AD1799DB0EF7172041D20558B3140"
+					"download"		"63867047C1C4DEA49043FBBEBBFC8668"
+				}
+				"modio"
+				{
+					"gid"		"1534BF4F731C255B232B4782B2784B59"
+					"size"		"B63BC2EA1710D236496300869FCDB56D"
+					"download"		"556DB9B3C1CA63A25E3FD9140C935F26"
+				}
+				"mph-daily"
+				{
+					"gid"		"4C813F8F7016D347A5C828822634C3CA"
+					"size"		"185D804D4BCEB0E2384E3407B388D0BA"
+					"download"		"3EB7192AD03583E43CB4FCEF8F90EAEE"
+				}
+				"mph-daily-backup"
+				{
+					"gid"		"5FD72E821D00AB78DCD98906A2E1F24B"
+					"size"		"D9734FE7066CC082114BAA429025CFD0"
+					"download"		"09F2442B5D3C7911054C7DA5E55A3F2D"
+				}
+				"mph-midday"
+				{
+					"gid"		"C6FCB8A9C85195FE8C8B5B615609E3E3"
+					"size"		"E4C50F008AD45619B251D459012072FE"
+					"download"		"57710982B352FD3EE8D5B1B4264C32C5"
+				}
+				"mph-playtest"
+				{
+					"gid"		"0515899FB6B7F6D6A6FBF18B1DFD49CD"
+					"size"		"E8D9BDFF3AA20F9F2457863F1CD3A64F"
+					"download"		"BA5D79F654175C9BD6EB4638BEEF3C9F"
+				}
+				"mph-proto"
+				{
+					"gid"		"9A2423E548AE45BBDE35E420600DF087"
+					"size"		"B5E1932E8B8BAD94C435EA4232E2DE2E"
+					"download"		"79AFE02C5FFFF9393220E6CF18CF31CE"
+				}
+				"mph-stable"
+				{
+					"gid"		"2E12D84A4478700207A75B33BAFC4AF8"
+					"size"		"86021A8ED7CCE53FE200EB5CCD26803E"
+					"download"		"0E8F051EA8D914B228DF37283F3B244F"
+				}
+				"pac-weekly"
+				{
+					"gid"		"9D1446516961E013C53E84B25FF46CDE"
+					"size"		"C07FEC70D729C77D8D57E3C12FF93275"
+					"download"		"ACB2A3FC25AF46F42329A3512A647069"
+				}
+				"patch10-daily"
+				{
+					"gid"		"0938960652C7670811560C3FAD183093"
+					"size"		"6D04C78B91D9352CB04838B641850EFF"
+					"download"		"B227FF3BAFA8153987E4B56651324D0E"
+				}
+				"patch11-daily"
+				{
+					"gid"		"C0F2200774145FE3EAA377B8F2D70631"
+					"size"		"A9B7E965103326EA1A4E81C56B87C1EB"
+					"download"		"FF19DE59FAA7363AC38EB7066115A9E5"
+				}
+				"patch12-daily"
+				{
+					"gid"		"457A9310BF26A7813569DC08B766759E"
+					"size"		"4402FF85715160899BDB4FDE8FF0E8F7"
+					"download"		"98C54CD25D1C75A5FA7A5F18FB4BB5D3"
+				}
+				"patch9-daily"
+				{
+					"gid"		"B5E386CA14A97029AFC4FEDDA98874DF"
+					"size"		"CCE18F8530DC14CB6978F905CB15567B"
+					"download"		"8895DA41CC11DEA95F00FA422AA61B42"
+				}
+				"playtests-may-2023"
+				{
+					"gid"		"869337F5BBE7432C34317B32DB77ABDC"
+					"size"		"CDBC2D2184D910C0EB21C81FE0BE32F3"
+					"download"		"E3E9A26C76CB825EF5BEABAEEE559110"
+				}
+				"rollback"
+				{
+					"gid"		"12E902C25A94534B3FFA7D80AEBE7450"
+					"size"		"F9E6E6540170562F70E453F64B1AE680"
+					"download"		"2DFC806EC7BD3C0718A7B4CEEF1C0B07"
+				}
+				"staging"
+				{
+					"gid"		"0F76A12AB6256C41B2ED69927970AB71"
+					"size"		"AD790820D5E342D1719CBC9996EC5CF4"
+					"download"		"3B9C2F9C0C09CF389304DE951510C9E5"
+				}
+			}
+		}
+		"1741801"
+		{
+			"config"
+			{
+				"language"		"turkish"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"713843177000425927"
+					"size"		"1890817"
+					"download"		"1913776"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtools"
+				{
+					"gid"		"97BDC64DF32B054866BC80BB2595CD4C"
+					"size"		"4DA6F5BC613623F0400B361FFDF3567B"
+					"download"		"E182A1CFD28A3D89FD25ADACF0C23A2A"
+				}
+				"internal-tests"
+				{
+					"gid"		"0AB61521E64C330B9BEE6C6FBD449488"
+					"size"		"17B89DA5711FC826BF7DEA3A4F981C2D"
+					"download"		"C95AB95545879B85A65E9D9C5305EB50"
+				}
+				"jr-weekly"
+				{
+					"gid"		"21E4A60BF2AEDD4893CB1E406A086209"
+					"size"		"D62971E233063C7715A85B41B63C412C"
+					"download"		"CDE9534BE1F00065C14774F76CFDFC61"
+				}
+				"lqa-weekly"
+				{
+					"gid"		"A0FC84E881640498CC3BE2901655009E"
+					"size"		"062CE33D12F4DFDB90C1F20F539A764C"
+					"download"		"BA692CF51A66D11145199BB81EE9B1E8"
+				}
+				"modio"
+				{
+					"gid"		"36D96B97510CE487538B8946EBBE1DDA"
+					"size"		"092F7C36B277DA4F9EC14FF272B64204"
+					"download"		"0E43BAC9D22C13A926AD9B9C51BCEFE4"
+				}
+				"mph-daily"
+				{
+					"gid"		"6C3329173AE4671ACE39C655096CFD15"
+					"size"		"9306DC28D2C45425F3971E2C1789C872"
+					"download"		"177D5E8B9B5B3B0FE1C7C0A59F5D02C7"
+				}
+				"mph-daily-backup"
+				{
+					"gid"		"FF907627C587A32FE462CD3E9BBF67CC"
+					"size"		"705D66726F49C0C82EC27388A4D31320"
+					"download"		"EDF444B8D3E7501ADA5B93FF87FC3C1C"
+				}
+				"mph-midday"
+				{
+					"gid"		"EFE1A8759924CEE14E38B09A90A12D4D"
+					"size"		"A0788319EC1904CA76DA3A60171CAEF5"
+					"download"		"B76011AB9E7D131708C9AA7E6782C579"
+				}
+				"mph-playtest"
+				{
+					"gid"		"0A62830B93A1E359517C5AF76C01C0E9"
+					"size"		"E47849AA050AED8585A8204D81102962"
+					"download"		"6FFF248E063ED4BD9BC26BD49B40BAA4"
+				}
+				"mph-proto"
+				{
+					"gid"		"D47F4ECE9F70DFED2E24F392DE2FA086"
+					"size"		"E792E87081D36EE9AB3526517C5D40FB"
+					"download"		"6BEAD8092BC57928D00E5D397D5DC68D"
+				}
+				"mph-stable"
+				{
+					"gid"		"DDC2BD6C38328F92BADD5FE7256A385D"
+					"size"		"14FF2345EE444E8952807C98284A0A6C"
+					"download"		"77B4E06FABB33BDCA735DEB5F2F11AF0"
+				}
+				"pac-weekly"
+				{
+					"gid"		"DE8831683656D1B74F7469285171CF52"
+					"size"		"DA73568A902BC6DB4C25172A39ABDDB4"
+					"download"		"9830340DA78A4B19BC48E472AA919A1F"
+				}
+				"patch10-daily"
+				{
+					"gid"		"783F9C8B9656E00C1AAE94C658CAD9CD"
+					"size"		"AF75AB27CC2BC6AEF69489FC77799284"
+					"download"		"9411D34EABC5A493813B091C48BDBE08"
+				}
+				"patch11-daily"
+				{
+					"gid"		"179AD926E463D56BD4A0F2FF19234888"
+					"size"		"3A0E4E9877D0B37EF3112BED75311AF1"
+					"download"		"033E22F36C8956DD81117673AF79558B"
+				}
+				"patch12-daily"
+				{
+					"gid"		"48F856907ECA4239972C09E037EB17B1"
+					"size"		"971ADE4AB453BB87DCB0595509AC4C9D"
+					"download"		"381B5CED4371DF4D8B7735D0764DA5E1"
+				}
+				"patch9-daily"
+				{
+					"gid"		"FA789F94FEFBF5F84832E3441D84460D"
+					"size"		"B6A07FC5B563B1DBB19FFA5C1EA2B2B3"
+					"download"		"EB4F864627AEC176C38D2E979EC7F2F0"
+				}
+				"playtests-may-2023"
+				{
+					"gid"		"B60AEE3FBF2A4C54457BA84E2466402C"
+					"size"		"99CA82B58E7E8CD56381D83A4ECB4E71"
+					"download"		"2B92C5D17D280892C84986B0806DBD88"
+				}
+				"rollback"
+				{
+					"gid"		"C9AD8A11AB8D7D1796D4826D104923C5"
+					"size"		"0466A683FEF798A3D3D49BE521C9CC45"
+					"download"		"04747DF8E973C8427ED2E02485FA056B"
+				}
+				"staging"
+				{
+					"gid"		"F2340006D36ECBEDAEE9C79AB3B44B0F"
+					"size"		"D376037B4614326AE504D1F9BA0E0662"
+					"download"		"0364A54D04C88C40C206AA44E30C0954"
+				}
+			}
+		}
+		"1741802"
+		{
+			"config"
+			{
+				"language"		"arabic"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8369068266057563647"
+					"size"		"7344528"
+					"download"		"1277424"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtools"
+				{
+					"gid"		"025A50C9CB2543C7884C34410849C234"
+					"size"		"F7BFE8F37B49A3621D3BBA592B842053"
+					"download"		"0B7D8AEBD643D91C40C44C5BF600475A"
+				}
+				"internal-tests"
+				{
+					"gid"		"68D4DB31B62EDA26FE4D4FEA606C039A"
+					"size"		"C9624C323FB984AF5E668E16B02E5179"
+					"download"		"8BB0BE4168E87DDCE1D44953757F1C5D"
+				}
+				"jr-weekly"
+				{
+					"gid"		"47C498F7461EBAED3FA4989F8347BFEC"
+					"size"		"F667032862050ABB0F17EEA9A7B639F2"
+					"download"		"C4AFBDB41D66FC0DB82B551B104BD147"
+				}
+				"lqa-weekly"
+				{
+					"gid"		"5EFE0F5429F6EF897C75CF79ADC10655"
+					"size"		"51071873C2638D24CBE01038B5420DEE"
+					"download"		"A6C2E33A4A3D57520F35E90B776E586B"
+				}
+				"modio"
+				{
+					"gid"		"B288A7C3559EB0C19B77A4D57DD1C4FE"
+					"size"		"0D3C72872DF8AE0F71DFDDAF0A8CB725"
+					"download"		"67CF39C6EF7F15054B0D4B4D12537B38"
+				}
+				"mph-daily"
+				{
+					"gid"		"8E0EAA77EEA4BC27F6A8B88F16F9C150"
+					"size"		"4F696A85B0A4AD971C9EE816DF841B91"
+					"download"		"7A0FA969E01531574F315AFEE4787262"
+				}
+				"mph-daily-backup"
+				{
+					"gid"		"AF28F963DC043D067CC17BD3FF62EE1E"
+					"size"		"F466457A87CEB0E1FC3D160C416E15B2"
+					"download"		"A0DC410FBEC123C970442E08FA6B7B5B"
+				}
+				"mph-midday"
+				{
+					"gid"		"B94075FD9C5C1F60E89BC894DFBB72C2"
+					"size"		"76D41A53129487FF812A070675A07FC2"
+					"download"		"6BAFC4BDE969F41071C281D53A34A933"
+				}
+				"mph-playtest"
+				{
+					"gid"		"0B95FA881210EE5CE73CDCA247DBA117"
+					"size"		"D437BB3DE426AE45B76A022880EAB232"
+					"download"		"D656FFD23A167E3A592E1347891D8899"
+				}
+				"mph-proto"
+				{
+					"gid"		"4AA4787314222B051DCF58F7CFE93628"
+					"size"		"B513862EAC48C516F4DC6AD636D42546"
+					"download"		"F87B3EAC1FF516900BBE422676689BA9"
+				}
+				"mph-stable"
+				{
+					"gid"		"98943FF8B4C3BE2ED17A146D448990BC"
+					"size"		"18A658B4BED44AD6A87002FB2F538290"
+					"download"		"348C4B6D1FDC65853D6AECB85893E6D8"
+				}
+				"pac-weekly"
+				{
+					"gid"		"DBCD5518F7EEBF91E3337BB8E41F573E"
+					"size"		"7E4E30A7F6BC81C0DFBE5EA4F5C0EA52"
+					"download"		"4563FDDC029E0F41A3A560FB01F486CC"
+				}
+				"patch10-daily"
+				{
+					"gid"		"8F7A89EBE8EEA046158758B26EB0D56D"
+					"size"		"A2B5EC3FECCB313FC62F21EE9A576763"
+					"download"		"8698B095A9F6EB8076650162F50B5A21"
+				}
+				"patch11-daily"
+				{
+					"gid"		"FC160F748146F84C81996C34AC0DBD2C"
+					"size"		"59640208832BFFCE5363B2D46BF07901"
+					"download"		"56198EA598D2C155F2DB70A8B2CFE5D8"
+				}
+				"patch12-daily"
+				{
+					"gid"		"A76A776BCC65DB6A1C27387C0E33F53E"
+					"size"		"F6212FEFDA3E9CE61B1E94F05316B6E5"
+					"download"		"F1744D3C0CC245DA4FBFD0F5D3E9B723"
+				}
+				"patch9-daily"
+				{
+					"gid"		"82685A52A447F423FA2D113527A0C111"
+					"size"		"767BB15A4F55F756662C4A016BF04352"
+					"download"		"F169C92A3FB1DF55FF85DF34FB295E40"
+				}
+				"playtests-may-2023"
+				{
+					"gid"		"E12DA2D2D1C163AF4342D972C4E4BF61"
+					"size"		"E6342B94B45325F6D58CB4647D84A7CB"
+					"download"		"69E04DDC97CAF05A1E8A1267E1697138"
+				}
+				"rollback"
+				{
+					"gid"		"406B8B9EC4BD42D8BFBAF4075591CFFB"
+					"size"		"8CC435A2B15EAFD5FB2542E690AAE017"
+					"download"		"89E3C0CAE796EC29DC62173F49B46C8D"
+				}
+				"staging"
+				{
+					"gid"		"B6C93E93E8E2C5AE9B126506EAD21FEE"
+					"size"		"FF854A9B4898A3CC2DE06D1AEB0D1C18"
+					"download"		"934AFD34AAE04B348F2B3F7B5B410BBF"
+				}
+			}
+		}
+		"1741803"
+		{
+			"config"
+			{
+				"language"		"tchinese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9094777912286174745"
+					"size"		"8918416"
+					"download"		"3080688"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtools"
+				{
+					"gid"		"FD7EFCCD29F6CACF4141F03129FE6C2F"
+					"size"		"977A63CE12D13C59DD86CDCEC904A1A3"
+					"download"		"6FC9DD3F47F7602DC0620247EBABA352"
+				}
+				"internal-tests"
+				{
+					"gid"		"9A15F58782A56EA474497997659C5E7C"
+					"size"		"904D02D005D3D815E699CE9E5EA6EEBC"
+					"download"		"B5C5493D24F94D2F579585471256A7CF"
+				}
+				"jr-weekly"
+				{
+					"gid"		"CE9157B99B19FDB451FD19E26CB891F1"
+					"size"		"2C5508B5E549FD6CF4E22D344566CEDF"
+					"download"		"ED92E324CECF41CED8965F832223EBFB"
+				}
+				"lqa-weekly"
+				{
+					"gid"		"52EC05147124A659128B2256D187298F"
+					"size"		"F8131120E0C867F285B937A1D2BC44D1"
+					"download"		"B06CB01B9CDD6B4ECB14B463E3267F39"
+				}
+				"modio"
+				{
+					"gid"		"01CC81F27252EE841FBA417DC42A104E"
+					"size"		"E52BC6F6473983998ABF68EE5A1AFE8A"
+					"download"		"697A72617D8B0ECB8069F06D68AAF6B4"
+				}
+				"mph-daily"
+				{
+					"gid"		"A877F4D9925BF935C1A3AC149438BCA3"
+					"size"		"FDE76C8EC82D336C69CD259EB497962B"
+					"download"		"8139BBCFCF58DF60C971A4F087E0AC7F"
+				}
+				"mph-daily-backup"
+				{
+					"gid"		"F2E1764C72A86932B39468DF25B3CB9E"
+					"size"		"C6FF6CDBCE5C2FAE82A58C9F6FD81D74"
+					"download"		"E4B7EE05F8BD12886591D2319185E3A0"
+				}
+				"mph-midday"
+				{
+					"gid"		"15FAC4C8695EEAE0A36D8EA69F585F45"
+					"size"		"9948C310C5A5C98A2D32A4841C70C100"
+					"download"		"575F2CE940A5C4746BA280CC218A2BD1"
+				}
+				"mph-playtest"
+				{
+					"gid"		"327A3F6078056E3C4F595E51FE9D9D97"
+					"size"		"69028626754E7E473BC1D094929DBB3B"
+					"download"		"156C0C600C9D1032D735D510D199A103"
+				}
+				"mph-proto"
+				{
+					"gid"		"91885999CC8D193CEF0AA39358F12ACE"
+					"size"		"22B2C7B5814B44E7BE40815A4D800C50"
+					"download"		"8A9E4DDEAD14F4BA737F1D87D714E7C1"
+				}
+				"mph-stable"
+				{
+					"gid"		"45A83C7C0F9253C03D9F357DEC83992D"
+					"size"		"31A20325DA3F43F1EF69B9A33E6CDFB0"
+					"download"		"38CF37DDECB83EE06FE5DD915173B9B1"
+				}
+				"pac-weekly"
+				{
+					"gid"		"5855C541E6AE6D498CE1E9F861A11C57"
+					"size"		"857B4EB67C9A0E986677F39E19B3D36F"
+					"download"		"34F0650ED7E62D1681D1C995D953196C"
+				}
+				"patch10-daily"
+				{
+					"gid"		"2A0D21CBFC2ADDA1634651AE35B2E6EA"
+					"size"		"A6CBBCD021840C6EA84B42B51EF50373"
+					"download"		"5FF0E7AEDEA4F991D83ABF84B2D7F613"
+				}
+				"patch11-daily"
+				{
+					"gid"		"8C9E334FF06D8F076A5CAAE736B53EEB"
+					"size"		"4F087766F47384FD28B65BA27D2F980C"
+					"download"		"2F2C4CA883B0A6D9BB44BBCFF0223DDE"
+				}
+				"patch12-daily"
+				{
+					"gid"		"F78FD52EC1C92E954C5CDF6A9C0E9208"
+					"size"		"5A0135300664A08C16FB5E247DDF41A0"
+					"download"		"565E0373B9954BE296E44FBF60314F96"
+				}
+				"patch9-daily"
+				{
+					"gid"		"0E8FDD9F659ADAF4B494FAB0FBC31817"
+					"size"		"A1BF06E4A4312424F1158C173EBABBFF"
+					"download"		"9D8FF4444CEF68D729B4DB1AACB5E4DC"
+				}
+				"playtests-may-2023"
+				{
+					"gid"		"96BE76C590003FDE87038D0759FD42B9"
+					"size"		"A39F27FC21C304580B04B1A8F69DCFE2"
+					"download"		"082A35E0381B4686F3D1EF4536947D14"
+				}
+				"rollback"
+				{
+					"gid"		"C6916FCB65A5DB8D05448A26D6E9D6B0"
+					"size"		"C3049008F239AF65673DE04422C86486"
+					"download"		"FFA3643917E52CB0EB3A1A0F32987449"
+				}
+				"staging"
+				{
+					"gid"		"45151972AB80C18FF94C175EBC30EC97"
+					"size"		"418E431CFD3F6AB6D15CFE8A307910BF"
+					"download"		"F4A35D96733C5F7065825E21758D003C"
+				}
+			}
+		}
+		"1741804"
+		{
+			"config"
+			{
+				"language"		"koreana"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3776587697075900211"
+					"size"		"3147696"
+					"download"		"781920"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtools"
+				{
+					"gid"		"0E57702814BEE98F261976EB00FC3D32"
+					"size"		"4802DBC1A2E94E6D1F496BE4AC30AAED"
+					"download"		"E711C8CC289C9983E863E6EA04E778EF"
+				}
+				"internal-tests"
+				{
+					"gid"		"8D1843B7CCACD649AB3F000B5B584657"
+					"size"		"4BF99A2997D653AC234CC9BF40BDADCA"
+					"download"		"C7AC5A96DC279039E467A05255D822B3"
+				}
+				"jr-weekly"
+				{
+					"gid"		"AB2215706C3F6485459572091182A573"
+					"size"		"864342228148E2FD279DE340CE46B05E"
+					"download"		"C1FF43DD441E0BBBA2BA15C65CC2BC7C"
+				}
+				"lqa-weekly"
+				{
+					"gid"		"80E4DCEB96DCC668A0C0CA66988AEB4D"
+					"size"		"11EE4ADDBA39F8E535668267C43A8782"
+					"download"		"E968F0D5BF0A5762ADAA9499C0DCB404"
+				}
+				"modio"
+				{
+					"gid"		"7E1D2AE72E46CC08BEA1416E9265D4A6"
+					"size"		"AA609F9E3898E54532B4A82A2DB0A6C8"
+					"download"		"B86019109D157EDC128708FF66C420D1"
+				}
+				"mph-daily"
+				{
+					"gid"		"4351E1473CD110482B957B5C33176C64"
+					"size"		"42FDA3925B7BE3AE78EF6B106AC2705F"
+					"download"		"66561F8ABEA6FB5DBE0477589368877F"
+				}
+				"mph-daily-backup"
+				{
+					"gid"		"F57C63C6855404F376F7F45F245135B1"
+					"size"		"64D60ECB2AD33D15C0154AD0F37F5D0D"
+					"download"		"28AD16ABD890D6521112A811B6B683C4"
+				}
+				"mph-midday"
+				{
+					"gid"		"EFCBD7838EA1229F5E839D3B594FACF5"
+					"size"		"0158051B72A6E1DB2EEC2744CF3843B9"
+					"download"		"FB8FF7AB0952E4377FAD65986668E0BD"
+				}
+				"mph-playtest"
+				{
+					"gid"		"E4D8EFE578AF358F153C8E444E4B3502"
+					"size"		"2648B93188659331BE083AB6E5E20D2F"
+					"download"		"5AB338D848D699E247B39D06E266511B"
+				}
+				"mph-proto"
+				{
+					"gid"		"315CB177E656155A2D554EF7146E372A"
+					"size"		"5EBCA11CD6614C2401CF2F4DE49BA0F1"
+					"download"		"4EBF57FB781BBCDCB0895A57C7A20215"
+				}
+				"mph-stable"
+				{
+					"gid"		"9D16901D994DDCC010BF06D30A7E34B1"
+					"size"		"51A7C540914A0FD08FCD5F04F05F25F2"
+					"download"		"B7C0D07542EA8137E69A3F1F5FB3C385"
+				}
+				"pac-weekly"
+				{
+					"gid"		"477EF8A2CA9DB8BB94FBBEA2616B09E0"
+					"size"		"39E45BA64AB0436C423550C493BC4BE5"
+					"download"		"48C6C95B4BB261B9FD11529131EDA26D"
+				}
+				"patch10-daily"
+				{
+					"gid"		"11DF8E925EBD3CA55F1FE0B036C881F0"
+					"size"		"CF62C0261480086C2874A2639769D896"
+					"download"		"F60E100059EB11BCC5379FAED09C7C7F"
+				}
+				"patch11-daily"
+				{
+					"gid"		"0653098599FA780F98E8B4EA89AC6EFA"
+					"size"		"22DF9DCC2C03B0ACC1C522FA09516C57"
+					"download"		"95C6F2BD656C6FF7E77F6A765AA6A497"
+				}
+				"patch12-daily"
+				{
+					"gid"		"9644680E584D1E48432505A7A9D9ADAD"
+					"size"		"6D22323928A7283AC14D2A38A77DDD8F"
+					"download"		"E7266BD9122809EFBE1580581DE2B2D9"
+				}
+				"patch9-daily"
+				{
+					"gid"		"DA867B89C170CFF868837D7A4B61098A"
+					"size"		"098B5A0FE03954CD2177FD7BA40F4E18"
+					"download"		"638DFA842DA668A3A07D9C21C82285C8"
+				}
+				"playtests-may-2023"
+				{
+					"gid"		"2787BC66BAE006F4DDFC35659051EA95"
+					"size"		"FA99CC9270B3E910A6CFBD3E717BC9A9"
+					"download"		"11C6A58CAC093636D58A5EBF74CBCA9F"
+				}
+				"rollback"
+				{
+					"gid"		"338E2CECB4E86F18AD90FD2B50AAAB05"
+					"size"		"047B5F4470111490B1B73252576A14FA"
+					"download"		"6FBA36A2913DFDE85E35BFEC3E865366"
+				}
+				"staging"
+				{
+					"gid"		"7B87194823F74CABC1DD4EAF73E91C11"
+					"size"		"6E2E35FB2BEDCDC356F491DCD6663E8C"
+					"download"		"4846BD75788E6B8112EF33786AB08510"
+				}
+			}
+		}
+		"1741805"
+		{
+			"dlcappid"		"1537624"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4738099537378652612"
+					"size"		"1670438784"
+					"download"		"702518288"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtools"
+				{
+					"gid"		"F75379013469211FB355CFF104E282FD"
+					"size"		"405843554AB68F77DF9B6F3ABF3CB440"
+					"download"		"8293EC18E18A8C7D1C6E586FB7BD8408"
+				}
+				"internal-tests"
+				{
+					"gid"		"E944264384EC2624E32DFB6F36172CA9"
+					"size"		"6E6A6696D0A7768578BD74544463E2C7"
+					"download"		"76E2AD920EE148CCCC28D6B46AB5F55D"
+				}
+				"jr-weekly"
+				{
+					"gid"		"46EFC750834DE9CE98F3CDCD5C674E2A"
+					"size"		"2781B295B72AB04234EE82951B88AE45"
+					"download"		"24ECAAB556AE408DE6F9ECA705BEC715"
+				}
+				"lqa-weekly"
+				{
+					"gid"		"EBFA0C574947168D91BBF8A9E916A7DD"
+					"size"		"130731B70ECC53268FDBDD4F64943AD7"
+					"download"		"8C6D20AF6460C57457CD6136781443C2"
+				}
+				"modio"
+				{
+					"gid"		"CD03D07535782A912074DB9CA4C84EE9"
+					"size"		"6E76546602BF85D663174F7DAB79B614"
+					"download"		"04BA77DABA7F7D98E755F4C78DBFEBDC"
+				}
+				"mph-daily"
+				{
+					"gid"		"47746065342EDA0471D98F4675E318F9"
+					"size"		"49573A58CEF83E4D53A0BF06D98E2CD6"
+					"download"		"5D70E315559079A161C2BB97A876465B"
+				}
+				"mph-daily-backup"
+				{
+					"gid"		"2CBF0FABFCBB7E9AE292E85EAF514F9B"
+					"size"		"4F9AE08D883011893909D9AC6D9AE7BC"
+					"download"		"A7910814C9689DF126822C6BFBB83C14"
+				}
+				"mph-playtest"
+				{
+					"gid"		"F4DF11545D28560448834F0DD4026420"
+					"size"		"925C8FF6E4870F9B4F1F90BAECBCEBAC"
+					"download"		"8C6756C683E6A5CC7A99F2B16696BF0E"
+				}
+				"mph-proto"
+				{
+					"gid"		"4F15C32688A3875228188C946D7D289E"
+					"size"		"5B1B87C5627635B47B646CDFAEA03747"
+					"download"		"CDF9E1AC041F8F505BAF59BEF74F876F"
+				}
+				"mph-stable"
+				{
+					"gid"		"6CD2A7E2CE3C48A25B688BDFA0FE8E7A"
+					"size"		"DA735D2415B0DB901F25B774750FD455"
+					"download"		"F396A395CD019BFF83449E0E22C220F3"
+				}
+				"patch10-daily"
+				{
+					"gid"		"A02EF9BEE19696BB74F2A8B5C8AD40D9"
+					"size"		"41C3DAA0976972C77018E51D15032E77"
+					"download"		"3D4F675736603465D36E40D0028C58FD"
+				}
+				"patch11-daily"
+				{
+					"gid"		"8529ED44617FA9A7E0E94B571737CE7A"
+					"size"		"710CFD3038FC8C586A389FACDEAEB365"
+					"download"		"07861840F783FA734A47A4BF9CD2DFBF"
+				}
+				"patch12-daily"
+				{
+					"gid"		"A86339E6481883647238CDBAD5BAB99C"
+					"size"		"13F73562FF9C0A93728097CAA21B336E"
+					"download"		"907A6B7E85D830A547A49E7C3EAF7186"
+				}
+				"patch9-daily"
+				{
+					"gid"		"0AA2451FA1F3C87FA629D5311DE06EAA"
+					"size"		"E5F2EFB2338F6D24D39F5BC71362123A"
+					"download"		"69E4D4451AC877C33DFB443051881C76"
+				}
+				"playtests-may-2023"
+				{
+					"gid"		"1BFC082DFCED75F054A540130882924A"
+					"size"		"469203EDBCADACBA3FD9FB96C411D5BC"
+					"download"		"7E52F5020A0868B1A85A21DF29815BE5"
+				}
+				"rollback"
+				{
+					"gid"		"32BE4FB1B85AE325C8AB89B6C8FF5938"
+					"size"		"762559250C379A221B93252C9C23A6DE"
+					"download"		"97F232D3241549C3DF2FCE2BBE00DCD8"
+				}
+				"staging"
+				{
+					"gid"		"0BA522F7BEF98B424201C07504E92B95"
+					"size"		"4C46CA2FE2D94C621865E3EDF4EDAFDE"
+					"download"		"03C6B30C5E9D7C7F027A11B9BCD92D51"
+				}
+			}
+		}
+		"1741806"
+		{
+			"dlcappid"		"1537625"
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"jr-weekly"
+				{
+					"gid"		"2091BFBED4D73BCAB9666FE293A4476E"
+					"size"		"887A3C01E3A980B3B63BB54FA48E423D"
+					"download"		"263082410737A36F2AC9D5500CA7107F"
+				}
+				"lqa-weekly"
+				{
+					"gid"		"88305D583BD5570ECCA7337F31F233C2"
+					"size"		"80B22678261EBDEC5E0AB7F4182C9F58"
+					"download"		"908347E259724B875EC968206A1C4098"
+				}
+				"mph-daily"
+				{
+					"gid"		"F3228E1A5CAB110E262C19A94828BE6D"
+					"size"		"62AF2E088B0640486D743B030C7CD169"
+					"download"		"0B12101C88B4BF14148B6A15A27E6CA9"
+				}
+				"mph-daily-backup"
+				{
+					"gid"		"A8F1DD511627D01C8079BAE4C9B27377"
+					"size"		"F78144AB2241BEB816B0F482B7B93448"
+					"download"		"0DE709DCAFC7FE29588A27D174B5681F"
+				}
+				"mph-playtest"
+				{
+					"gid"		"1CF1A27C8679005588ED8AA4E27C41BF"
+					"size"		"DC14AC1AC9330C0A677E22D0DB5DB0FE"
+					"download"		"E88A63B271F61159A044062DAF5EB198"
+				}
+				"mph-proto"
+				{
+					"gid"		"377371809B103990194EC98F68D358CD"
+					"size"		"9D80DC945A3BB2E44F536E8A2195556B"
+					"download"		"51F01D708B847CEE2C8DDDC06C080789"
+				}
+				"mph-stable"
+				{
+					"gid"		"BCB89B22A08ED7ECAD1262BB82068E82"
+					"size"		"4DBC2E5A7BD1E164EB996349FF920A6C"
+					"download"		"2AA89CCAA74294E7B0E8B1080882BA03"
+				}
+				"playtests-may-2023"
+				{
+					"gid"		"FCD519DC5E4B724AC4B4DFD4A3AB9246"
+					"size"		"A01EC3552B3735AB1CF508714864DA8D"
+					"download"		"AD5D7A631629E42CA2CB596F492CD12D"
+				}
+			}
+		}
+		"1263581"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"optionaldlc"		"2217480"
+			}
+			"dlcappid"		"2217480"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4260269371444450273"
+					"size"		"996892670"
+					"download"		"677158368"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtools"
+				{
+					"gid"		"3444F577203EF8D4CDED913227F939CF"
+					"size"		"27E355AA97E319D44AE83AF4BFCDD8F4"
+					"download"		"A359BF1AD40C64C494C51CBDE4168A2C"
+				}
+				"internal-tests"
+				{
+					"gid"		"FED94571962E1343CDDACF6529EDC8D3"
+					"size"		"DA2AE9171F65DC4BFDBE867B641B9C7F"
+					"download"		"4BE414746CBCCC85853F421897472BE7"
+				}
+				"jr-weekly"
+				{
+					"gid"		"D865F44477727A54916B2AE8C24A82F9"
+					"size"		"CAD31E3873CC86FEEA44D825D77B268E"
+					"download"		"89D6D1631564F4B386DBC11173CAF189"
+				}
+				"modio"
+				{
+					"gid"		"5A6E9CACDE25CB50AE8651F709B7B77C"
+					"size"		"CF3203BACCBA9BA45C8EAC1DBB8A4CDF"
+					"download"		"6AE5B4595E66DCB9F6867C4289F49ABC"
+				}
+				"mph-daily"
+				{
+					"gid"		"3AB810060991EB6A9D6C761C777AA7C8"
+					"size"		"2E44049538CAEA9AC0C1EEB3F01BE7DC"
+					"download"		"D61C1DF48B24516EAD21795C67735CBD"
+				}
+				"mph-daily-backup"
+				{
+					"gid"		"F3893B3DE8C073AC21F36FB692D7B697"
+					"size"		"A8AAE1788ADC0B8B7AFC217AE92429B1"
+					"download"		"24B35186972D682DC225C80F524F28FF"
+				}
+				"mph-proto"
+				{
+					"gid"		"88BEBA8247A791CED78EE39D8DBDB07E"
+					"size"		"D510CE1ECE7EC1F3D708690978BEF7A8"
+					"download"		"6EC303512D76A1E6CADCF463294F9912"
+				}
+				"mph-stable"
+				{
+					"gid"		"25057552D154AD0C4B12465711B58F89"
+					"size"		"340EF237B94A172390F791781D79B28F"
+					"download"		"010BEBDE96B1406D9F7F99E2C7CB87D2"
+				}
+				"patch10-daily"
+				{
+					"gid"		"0782C937F1500C3AA4A945BA3CAE0736"
+					"size"		"A03BE4A271F15BCB79BAF14553A27454"
+					"download"		"1BED0507DF778DF7D2E0669BB32A2912"
+				}
+				"patch11-daily"
+				{
+					"gid"		"8220C51BCE1BB5C51227F61776958553"
+					"size"		"7BA2B340FAAE0A7F7D7753ED356F6BE2"
+					"download"		"D98950829F2653F531989011F4D091C8"
+				}
+				"patch12-daily"
+				{
+					"gid"		"F9FBBB6403A1D5E9F9379AF553ED2495"
+					"size"		"D51E8C0A76C0727FFBD0C8E37DF3E50C"
+					"download"		"7C42E28C59DDACEE826EB5C79BEDFA2A"
+				}
+				"patch9-daily"
+				{
+					"gid"		"7EFC8B53906C5678E93A0FE6B1E2508C"
+					"size"		"FCF2A7965816A7818DADDB2E0880311F"
+					"download"		"5D8F9A25931CC80D02F4B2D7388C2A07"
+				}
+				"playtests-may-2023"
+				{
+					"gid"		"99D4F9BEDCEF839A236043B1020D5FB3"
+					"size"		"853A0EBF5A0B056131A5734AEBF23369"
+					"download"		"DF4549A4849F76D1CBD81E3123404074"
+				}
+				"rollback"
+				{
+					"gid"		"B5F934C6A41539CFB65D78465E7E2FE7"
+					"size"		"1C431AB2D38D6DC87DC306AF1EFD578C"
+					"download"		"41CE7EDD6D3086EE6EFC0720E8812D55"
+				}
+				"staging"
+				{
+					"gid"		"F6ED616840060F0CCA138AFC9BC23FE2"
+					"size"		"7D980253620BD2C06C45C65126627AA1"
+					"download"		"38F85B320358E77917AD7D233316C4B0"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12130693"
+				"timeupdated"		"1694079674"
+			}
+			"devtools"
+			{
+				"buildid"		"12053406"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693317662"
+			}
+			"internal-tests"
+			{
+				"buildid"		"11002250"
+				"pwdrequired"		"1"
+				"timeupdated"		"1681462891"
+			}
+			"jr-weekly"
+			{
+				"buildid"		"12117968"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694002755"
+			}
+			"lqa-weekly"
+			{
+				"buildid"		"9458747"
+				"pwdrequired"		"1"
+				"timeupdated"		"1662470207"
+			}
+			"modio"
+			{
+				"buildid"		"12067310"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693403379"
+			}
+			"mph-daily"
+			{
+				"buildid"		"12164925"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694486668"
+			}
+			"mph-daily-backup"
+			{
+				"buildid"		"12164197"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694479561"
+			}
+			"mph-midday"
+			{
+				"buildid"		"9501000"
+				"pwdrequired"		"1"
+				"timeupdated"		"1663010743"
+			}
+			"mph-playtest"
+			{
+				"buildid"		"9813443"
+				"pwdrequired"		"1"
+				"timeupdated"		"1666880602"
+			}
+			"mph-proto"
+			{
+				"buildid"		"12174403"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694573397"
+			}
+			"mph-stable"
+			{
+				"buildid"		"11284150"
+				"pwdrequired"		"1"
+				"timeupdated"		"1684741702"
+			}
+			"pac-weekly"
+			{
+				"buildid"		"8053358"
+				"pwdrequired"		"1"
+				"timeupdated"		"1642679549"
+			}
+			"patch10-daily"
+			{
+				"buildid"		"11254849"
+				"pwdrequired"		"1"
+				"timeupdated"		"1684335911"
+			}
+			"patch11-daily"
+			{
+				"buildid"		"11701539"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689323650"
+			}
+			"patch12-daily"
+			{
+				"buildid"		"12163634"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694473170"
+			}
+			"patch9-daily"
+			{
+				"buildid"		"10795719"
+				"pwdrequired"		"1"
+				"timeupdated"		"1679065663"
+			}
+			"playtests-may-2023"
+			{
+				"buildid"		"11314940"
+				"pwdrequired"		"1"
+				"timeupdated"		"1685012568"
+			}
+			"rollback"
+			{
+				"buildid"		"11701539"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694079649"
+			}
+			"staging"
+			{
+				"buildid"		"12130693"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694078756"
+			}
+		}
+		"appmanagesdlc"		"1"
+	}
+	"ufs"
+	{
+		"quota"		"1000000000"
+		"maxnumfiles"		"1000"
+	}
+}
