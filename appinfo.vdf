@@ -1,0 +1,206 @@
+"appinfo"
+{
+	"appid"		"1210850"
+	"common"
+	{
+		"name"		"Super Kickers League"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"6e0cb12355ba44b0a82dbfb3fad10ffa05c2899b"
+		"logo_small"		"6e0cb12355ba44b0a82dbfb3fad10ffa05c2899b_thumb"
+		"icon"		"65677bb4633eea30383a3844846e0e45cb6250a2"
+		"clienticon"		"c1be72144c4d2a6e5f28c99b82b14bd7e4ab1462"
+		"clienttga"		"42d5a342665aa6eaaa1939dc11d96a22ac998ba5"
+		"metacritic_name"		"Super Kickers League"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"49.405594748445985"
+				"height_pct"		"59.967693738621065"
+			}
+		}
+		"store_asset_mtime"		"1577709624"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Xaloc Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Just For Games"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Just For Games"
+			}
+		}
+		"primary_genre"		"18"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"18"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_44"		"1"
+			"category_22"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1579866666"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1210850"
+		"store_tags"
+		{
+			"0"		"701"
+			"1"		"492"
+			"2"		"1773"
+			"3"		"5350"
+			"4"		"1254546"
+			"5"		"7368"
+		}
+		"review_score"		"6"
+		"review_percentage"		"70"
+	}
+	"extended"
+	{
+		"developer"		"Xaloc Studios"
+		"publisher"		"Just For Games"
+		"listofdlc"		"1220400,1220401"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Super Kickers League"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SuperKickersLeague.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"1210851"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3925986667441224898"
+					"size"		"658597599"
+					"download"		"589191424"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"1AF46B4F3EF39ED476B818C3AE648869"
+					"size"		"FA77768959630C88152093039DCA7B85"
+					"download"		"7E97BC8B201BA5F904138107E4CA18DC"
+				}
+				"testsavedata"
+				{
+					"gid"		"BBBE7D865753E5358344C0A25DDCD410"
+					"size"		"D651ACDEF5BA371C31551CF3061E691F"
+					"download"		"301B08E10E8776F9EAAD65A9D54D1A1A"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7755223"
+				"timeupdated"		"1638439319"
+			}
+			"beta"
+			{
+				"buildid"		"6638986"
+				"pwdrequired"		"1"
+				"timeupdated"		"1620031394"
+			}
+			"testsavedata"
+			{
+				"buildid"		"7755223"
+				"pwdrequired"		"1"
+				"timeupdated"		"1637585337"
+			}
+		}
+	}
+}
