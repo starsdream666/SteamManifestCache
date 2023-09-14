@@ -1,0 +1,268 @@
+"appinfo"
+{
+	"appid"		"563180"
+	"common"
+	{
+		"name"		"Dispersio"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"russian"		"1"
+			"polish"		"1"
+			"ukrainian"		"1"
+		}
+		"icon"		"64bd3f4fcdbf3d1ffd9126c4f588d5de15a35de9"
+		"logo"		"230875d1039681faa5b9781338474b81a88638a8"
+		"logo_small"		"230875d1039681faa5b9781338474b81a88638a8_thumb"
+		"clienttga"		"52fdf855fd3dd60097ef47980900ba799c01922d"
+		"clienticon"		"2a57c4b4370c48f0322ba71474a5b142424001b0"
+		"releasestate"		"released"
+		"metacritic_name"		"Dispersio"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1609248927"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Achpile"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Achpile"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1480665420"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"563180"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"21"
+			"2"		"1625"
+			"3"		"4026"
+			"4"		"1756"
+			"5"		"3964"
+		}
+		"review_score"		"8"
+		"review_percentage"		"88"
+	}
+	"extended"
+	{
+		"developer"		"Achpile"
+		"publisher"		"Achpile"
+		"homepage"		"http://achpile.tk/"
+	}
+	"config"
+	{
+		"installdir"		"Dispersio"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"dispersio.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"dispersio"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"2"
+			{
+				"executable"		"dispersio"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,russian,ukrainian"
+		"563181"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1216254656602259652"
+					"size"		"27292380"
+					"download"		"25558736"
+				}
+			}
+		}
+		"563182"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1275604182670383404"
+					"size"		"2881393"
+					"download"		"780912"
+				}
+			}
+		}
+		"563183"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3640332674400152213"
+					"size"		"3050718"
+					"download"		"782416"
+				}
+			}
+		}
+		"563184"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6846726936104835240"
+					"size"		"4322080"
+					"download"		"1373840"
+				}
+			}
+		}
+		"563185"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6397476721298581805"
+					"size"		"9815296"
+					"download"		"2115136"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7630744"
+				"timeupdated"		"1635611389"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1048576"
+		"maxnumfiles"		"3"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"."
+				"pattern"		"game.sav"
+			}
+			"1"
+			{
+				"root"		"gameinstall"
+				"path"		"."
+				"pattern"		"achievements.sav"
+			}
+			"2"
+			{
+				"root"		"gameinstall"
+				"path"		"."
+				"pattern"		"settings.json"
+			}
+		}
+	}
+}
