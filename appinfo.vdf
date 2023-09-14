@@ -1,0 +1,434 @@
+"appinfo"
+{
+	"appid"		"974910"
+	"common"
+	{
+		"name"		"Magical Diary: Wolf Hall"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,linux"
+		"osarch"		""
+		"logo"		"8c0ca3240df987bfd9e52094e933454516faacc3"
+		"logo_small"		"8c0ca3240df987bfd9e52094e933454516faacc3_thumb"
+		"icon"		"9c858c9492071e88dcf75a4ee1c03d64531136ba"
+		"clienticon"		"63c064bfad93a82b44cbe258f8d39f152445c688"
+		"clienttga"		"c2499b8f99eb282b39318a996ffc08c3526513e7"
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1671840000"
+			"tested_build_id"		"9969794"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Magical Diary: Wolf Hall"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"89.43419474341295"
+				"height_pct"		"81.1564948943244"
+			}
+		}
+		"store_asset_mtime"		"1666992406"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Hanako Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Hanako Games"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Magical Diary"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Hanako Games"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"3"
+			"3"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1581966783"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"974910"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"599"
+			"2"		"21"
+			"3"		"492"
+			"4"		"3799"
+			"5"		"4747"
+			"6"		"9551"
+			"7"		"44868"
+			"8"		"6426"
+			"9"		"4947"
+			"10"		"1684"
+			"11"		"1720"
+			"12"		"1677"
+			"13"		"4085"
+			"14"		"4057"
+			"15"		"4474"
+		}
+		"review_score"		"8"
+		"review_percentage"		"93"
+	}
+	"extended"
+	{
+		"developer"		"Hanako Games"
+		"publisher"		"Hanako Games"
+	}
+	"config"
+	{
+		"installdir"		"Magical Diary Wolf Hall"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"WolfHall.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"1"
+			{
+				"executable"		"WolfHall.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"WolfHall.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"974911"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5792645320946966630"
+					"size"		"269013617"
+					"download"		"230966336"
+				}
+				"beta"
+				{
+					"gid"		"5792645320946966630"
+					"size"		"269013617"
+					"download"		"230966336"
+				}
+				"last-stable"
+				{
+					"gid"		"6948573132417974048"
+					"size"		"266460492"
+					"download"		"228486080"
+				}
+				"old-1.0.4"
+				{
+					"gid"		"1047627774512371325"
+					"size"		"263516416"
+					"download"		"225642544"
+				}
+			}
+		}
+		"974912"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1578142441897480677"
+					"size"		"250938652"
+					"download"		"226512992"
+				}
+				"beta"
+				{
+					"gid"		"1578142441897480677"
+					"size"		"250938652"
+					"download"		"226512992"
+				}
+				"last-stable"
+				{
+					"gid"		"2998682734346506752"
+					"size"		"248385527"
+					"download"		"224032736"
+				}
+				"old-1.0.4"
+				{
+					"gid"		"7521164738799111305"
+					"size"		"245441060"
+					"download"		"221188960"
+				}
+			}
+		}
+		"974913"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3827338537587518242"
+					"size"		"247605947"
+					"download"		"225397344"
+				}
+				"beta"
+				{
+					"gid"		"3827338537587518242"
+					"size"		"247605947"
+					"download"		"225397344"
+				}
+				"last-stable"
+				{
+					"gid"		"6811188938735828240"
+					"size"		"245052822"
+					"download"		"222917088"
+				}
+				"old-1.0.4"
+				{
+					"gid"		"2881015290664227858"
+					"size"		"242108745"
+					"download"		"220073552"
+				}
+			}
+		}
+		"974914"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3098402385818778823"
+					"size"		"410631"
+					"download"		"93008"
+				}
+				"beta"
+				{
+					"gid"		"3098402385818778823"
+					"size"		"410631"
+					"download"		"93008"
+				}
+				"last-stable"
+				{
+					"gid"		"3098402385818778823"
+					"size"		"410631"
+					"download"		"93008"
+				}
+				"old-1.0.4"
+				{
+					"gid"		"3877005091513832980"
+					"size"		"410021"
+					"download"		"92704"
+				}
+			}
+		}
+		"974915"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2296250482416799518"
+					"size"		"202276"
+					"download"		"83120"
+				}
+				"beta"
+				{
+					"gid"		"2296250482416799518"
+					"size"		"202276"
+					"download"		"83120"
+				}
+				"last-stable"
+				{
+					"gid"		"2296250482416799518"
+					"size"		"202276"
+					"download"		"83120"
+				}
+				"old-1.0.4"
+				{
+					"gid"		"3082852164471947566"
+					"size"		"201666"
+					"download"		"82816"
+				}
+			}
+		}
+		"974916"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7122802296916826160"
+					"size"		"430776"
+					"download"		"56912"
+				}
+				"beta"
+				{
+					"gid"		"7122802296916826160"
+					"size"		"430776"
+					"download"		"56912"
+				}
+				"last-stable"
+				{
+					"gid"		"7122802296916826160"
+					"size"		"430776"
+					"download"		"56912"
+				}
+				"old-1.0.4"
+				{
+					"gid"		"2844037111557493886"
+					"size"		"430166"
+					"download"		"56608"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9969794"
+				"timeupdated"		"1669241231"
+			}
+			"beta"
+			{
+				"buildid"		"9969794"
+				"timeupdated"		"1668789498"
+			}
+			"last-stable"
+			{
+				"buildid"		"8407275"
+				"timeupdated"		"1669241221"
+			}
+			"old-1.0.4"
+			{
+				"buildid"		"4689982"
+				"timeupdated"		"1582114616"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1024000000"
+		"maxnumfiles"		"1024"
+	}
+}
