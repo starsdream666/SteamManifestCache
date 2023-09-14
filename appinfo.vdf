@@ -1,0 +1,288 @@
+"appinfo"
+{
+	"appid"		"1229490"
+	"common"
+	{
+		"name"		"ULTRAKILL"
+		"type"		"Game"
+		"clienticon"		"9b5f7d63f69bbf673b3de27cc05d4b6e6af795a4"
+		"clienttga"		"08a17107a526fd699f055702af14312c68bc67cb"
+		"icon"		"665f952065f0512a2079efd77308e6a5af23dfd6"
+		"logo"		"45629c3ace9b32c65d00b2b3bb0a01b9e4f62e86"
+		"logo_small"		"45629c3ace9b32c65d00b2b3bb0a01b9e4f62e86_thumb"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1645747200"
+			"tested_build_id"		"8238176"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+			}
+		}
+		"metacritic_name"		"ULTRAKILL"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"69.19486581096851"
+				"height_pct"		"43.009121184230395"
+			}
+		}
+		"store_asset_mtime"		"1624470549"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Arsi &quot;Hakita&quot; Patala"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"New Blood Interactive"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"New Blood Interactive"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1599151920"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1229490"
+		"store_tags"
+		{
+			"0"		"1663"
+			"1"		"5547"
+			"2"		"4777"
+			"3"		"3955"
+			"4"		"1734"
+			"5"		"5228"
+			"6"		"4004"
+			"7"		"4182"
+			"8"		"1774"
+			"9"		"3839"
+			"10"		"4026"
+			"11"		"19"
+			"12"		"3916"
+			"13"		"5752"
+			"14"		"4191"
+			"15"		"15954"
+			"16"		"4252"
+			"17"		"3942"
+			"18"		"4115"
+			"19"		"1756"
+		}
+		"review_score"		"9"
+		"review_percentage"		"98"
+	}
+	"extended"
+	{
+		"developer"		"Arsi &quot;Hakita&quot; Patala"
+		"publisher"		"New Blood Interactive"
+	}
+	"config"
+	{
+		"installdir"		"ULTRAKILL"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ULTRAKILL.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1229491"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1691527602739860412"
+					"size"		"1805426299"
+					"download"		"1519961024"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"9549F0CFE76270D470CD591D927A911E"
+					"size"		"956BD1C19B55ABBAE889BAFE2D50A14F"
+					"download"		"A4157126C0BFE57B0ABB5A10E24C41C7"
+				}
+				"development"
+				{
+					"gid"		"531075F1560C48722C973E45D48B9783"
+					"size"		"A1E7F7138EA9CBCEF9350514CBDEA79F"
+					"download"		"68E1BFBE04D9A17AE58F036AA453B797"
+				}
+				"pitrvania"
+				{
+					"gid"		"C777B6CA94BB11EBEB20C12171B76F2E"
+					"size"		"648B31771DE922EA2D7938FBA2C74334"
+					"download"		"32F0DB83F3966166EC04794199627D7C"
+				}
+				"pitrvania2"
+				{
+					"gid"		"5B0B50077E236AAD22D23768A8A8B45F"
+					"size"		"12CD4867C2A93D46D348D704EB6EC331"
+					"download"		"61FF789A4662E0E3746A54E30686BD91"
+				}
+			}
+		}
+		"workshopdepot"		"1229490"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11110976"
+				"timeupdated"		"1682654195"
+			}
+			"beta"
+			{
+				"buildid"		"11970514"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692320581"
+			}
+			"development"
+			{
+				"buildid"		"11970426"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692320590"
+			}
+			"pitrvania"
+			{
+				"buildid"		"11780035"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690267100"
+			}
+			"pitrvania2"
+			{
+				"buildid"		"11780035"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690266578"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"4200000"
+		"maxnumfiles"		"420"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"Saves"
+				"pattern"		"*.bepis"
+				"recursive"		"1"
+			}
+			"1"
+			{
+				"root"		"gameinstall"
+				"path"		"Preferences"
+				"pattern"		"Prefs.json"
+			}
+		}
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#atmainmenu"		"Main Menu"
+					"#atcybergrind"		"%difficulty% | Cyber Grind: Wave %wave%"
+					"#atstandardlevel"		"%difficulty% | %level%"
+					"#atcustomlevel"		"Playing Custom Level"
+					"#unknownlevel"		"???"
+				}
+			}
+		}
+	}
+}
