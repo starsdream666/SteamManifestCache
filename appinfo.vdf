@@ -1,0 +1,779 @@
+"appinfo"
+{
+	"appid"		"1856750"
+	"common"
+	{
+		"name"		"Relayer Advanced"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"98a9370950403bcdef5613345e4c0ef6bc45c08e"
+		"clienttga"		"a1232195344ba09b3b28d2b963a62688ca26aa08"
+		"icon"		"e8235a84335d575b1448a14453cdf4853fc5b0e3"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"tchinese"		"1"
+			"japanese"		"1"
+		}
+		"name_localized"
+		{
+		}
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"japanese"		"header_japanese.jpg"
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,ja"
+			"library_hero"		"en,ja"
+			"library_logo"		"en,ja"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"64.19499374942572"
+			}
+		}
+		"store_asset_mtime"		"1668764380"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"DRAGAMI GAMES, LTD."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"DRAGAMI GAMES, LTD."
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"3"
+			"2"		"28"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1666796583"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1856750"
+		"store_tags"
+		{
+			"0"		"599"
+			"1"		"21"
+			"2"		"122"
+			"3"		"5752"
+			"4"		"17305"
+			"5"		"7208"
+			"6"		"14139"
+			"7"		"1741"
+			"8"		"21725"
+			"9"		"3942"
+			"10"		"4182"
+			"11"		"1755"
+			"12"		"16094"
+			"13"		"3871"
+			"14"		"4191"
+			"15"		"4434"
+			"16"		"4821"
+			"17"		"9"
+			"18"		"1708"
+			"19"		"4085"
+		}
+		"review_score"		"6"
+		"review_percentage"		"71"
+	}
+	"extended"
+	{
+		"developer"		"DRAGAMI GAMES, LTD."
+		"publisher"		"DRAGAMI GAMES, LTD."
+		"homepage"		"https://www.relayer.jp/english/"
+		"listofdlc"		"2141960,2141961,2141970,2141971,2141972,2141973,2141974,2141975,2141976,2141977,2141978,2141979,2141980,2141981,2141982,2141983,2141984,2141985,2142360"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Relayer Advanced"
+		"steamcontrollertemplateindex"		"4"
+		"steamconfigurator3rdpartynative"		"15"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Relayer.exe"
+			}
+		}
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"1"
+		"baselanguages"		"english,german,french,italian,koreana,spanish,tchinese,japanese"
+		"1856751"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8482793806574852015"
+					"size"		"10873845060"
+					"download"		"7918292992"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"debug"
+				{
+					"gid"		"13FB239E4762A89D1326AD46252E12F6"
+					"size"		"13C2E96EB9AF2B7E5054BBF8CD658A2F"
+					"download"		"0CE2171EEF5884CA75FFAA14474A36AD"
+				}
+				"develop"
+				{
+					"gid"		"92BF73FE5142A8E0CC43462212C9E8B6"
+					"size"		"6DA6CA3012445334D5DF885C6AA8CE18"
+					"download"		"5D660A265E35DD7E70A9194C75296C10"
+				}
+			}
+		}
+		"2141985"
+		{
+			"dlcappid"		"2141985"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"535274529866117014"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"debug"
+				{
+					"gid"		"84944FCEEA595530949E3FDD813E9B1A"
+					"size"		"03E1D44BC7D00A59DC2716417AC33D7B"
+					"download"		"03E1D44BC7D00A59DC2716417AC33D7B"
+				}
+				"develop"
+				{
+					"gid"		"20BC4229AD328F903F0DC9BABA0B2C81"
+					"size"		"53664D5C13FA4A14700B8432A89A9D61"
+					"download"		"53664D5C13FA4A14700B8432A89A9D61"
+				}
+			}
+		}
+		"2141960"
+		{
+			"dlcappid"		"2141960"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"152053162254825956"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"debug"
+				{
+					"gid"		"42EF745228DDCA11916427BBAC1A272D"
+					"size"		"03E1D44BC7D00A59DC2716417AC33D7B"
+					"download"		"03E1D44BC7D00A59DC2716417AC33D7B"
+				}
+				"develop"
+				{
+					"gid"		"03FF23A31E178156B820754181A0E4BF"
+					"size"		"53664D5C13FA4A14700B8432A89A9D61"
+					"download"		"53664D5C13FA4A14700B8432A89A9D61"
+				}
+			}
+		}
+		"2141961"
+		{
+			"dlcappid"		"2141961"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1727708501042739796"
+					"size"		"105633437"
+					"download"		"95730448"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"debug"
+				{
+					"gid"		"13C2871A2BF946CC3FA4312660704955"
+					"size"		"85A95D433F77496CD6CE8ED4E02ADC47"
+					"download"		"8018480099AFBECA1CED23C6178827BE"
+				}
+				"develop"
+				{
+					"gid"		"14899C7297955F7882D1FBA04F7F015F"
+					"size"		"5CD73D077D3820484213C47F46913A0B"
+					"download"		"C0337EAD47A990202FC03BB23EAE7018"
+				}
+			}
+		}
+		"2141970"
+		{
+			"dlcappid"		"2141970"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"652107779156437300"
+					"size"		"31817603"
+					"download"		"27832000"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"debug"
+				{
+					"gid"		"599D6C3864BE7915DA956A2F0997AC98"
+					"size"		"B3C85D12032A48AF1F469F98152F1990"
+					"download"		"E94259E5693AD5FF4497E34C078D3088"
+				}
+				"develop"
+				{
+					"gid"		"903FBAB57B9585AEC0EA8AB920212F71"
+					"size"		"F2FE4EA070A4284E40F9EB592EEC357F"
+					"download"		"789FE5B9923C8C1729F97A2D66CF747F"
+				}
+			}
+		}
+		"2141971"
+		{
+			"dlcappid"		"2141971"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"260702640479229662"
+					"size"		"31992760"
+					"download"		"27696832"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"debug"
+				{
+					"gid"		"2AE49A0C8CCCD43E8070E8D946E8F55C"
+					"size"		"2FF3995554A9FBF9FF61A46A33500B9E"
+					"download"		"618CAB8FBE0C3EFF7FD608C5937A9131"
+				}
+				"develop"
+				{
+					"gid"		"4B6F025CD2201E12BD1879CF83FA794C"
+					"size"		"E71ADA2CF0C7FA2A4298A2E6058AB47D"
+					"download"		"FCC3413A3E0F7DF238B9E6EB843480E7"
+				}
+			}
+		}
+		"2141972"
+		{
+			"dlcappid"		"2141972"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1270439605437207403"
+					"size"		"33944022"
+					"download"		"29500736"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"debug"
+				{
+					"gid"		"729C8CAD21A9CF51134D0F8BF622F95B"
+					"size"		"DF9793B5BA5AC5A76E499F1E0EB9E66F"
+					"download"		"68B6DC4DB93703E64A2EF48945CD53B4"
+				}
+				"develop"
+				{
+					"gid"		"E8430D89809455CDCC1A1326F9360443"
+					"size"		"03EFB5CB2848D83BCF96F51D6E17870D"
+					"download"		"1C13A060B0509A2629C473B03F3C89D9"
+				}
+			}
+		}
+		"2141973"
+		{
+			"dlcappid"		"2141973"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1201924589777588588"
+					"size"		"33214500"
+					"download"		"28562288"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"debug"
+				{
+					"gid"		"6C87D1D688E305BDA4A469E3CB7A71AB"
+					"size"		"9525A61E410582F346DCE7B8E6D77CFD"
+					"download"		"F78A15CC4EFBF28EC058F61ED8215504"
+				}
+				"develop"
+				{
+					"gid"		"90B1BF51FB9298A1C1A034329F1E4E00"
+					"size"		"04AC7225AEEC26EAAB246921182D355B"
+					"download"		"A11C0874FB1215D2A4964FDBA8E389A3"
+				}
+			}
+		}
+		"2141974"
+		{
+			"dlcappid"		"2141974"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3791046203982595782"
+					"size"		"33146976"
+					"download"		"28666832"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"debug"
+				{
+					"gid"		"A274BA42BAAC64C0AE1FA6924BFAA35C"
+					"size"		"2E7F659B7F8AC95693C976328D048032"
+					"download"		"E50C6C765FBFDDDCA4D1A74C719E0102"
+				}
+				"develop"
+				{
+					"gid"		"02765B93BF67BD6BD6EFB4010A8C633C"
+					"size"		"B7869943B3E514F3A48CE90CA33BEABF"
+					"download"		"B04D20E8A3712B08CA98D541965C239F"
+				}
+			}
+		}
+		"2141975"
+		{
+			"dlcappid"		"2141975"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1545535357967409653"
+					"size"		"22960354"
+					"download"		"19794464"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"debug"
+				{
+					"gid"		"C21B2D8EDD3E86271A8EA7398DBAAFBA"
+					"size"		"4EA54611AFB5338F7503A2713B0AA8C4"
+					"download"		"965ECB764811AEEAA2C8E0BFA240180A"
+				}
+				"develop"
+				{
+					"gid"		"DAB1751661AF667528893EDEA4759DF9"
+					"size"		"96A46E9E42D6300DBE59263EB0A39BCA"
+					"download"		"B685F33C0ECB627CDD9E582A729D2941"
+				}
+			}
+		}
+		"2141976"
+		{
+			"dlcappid"		"2141976"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3712488427542493499"
+					"size"		"104917452"
+					"download"		"90495952"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"debug"
+				{
+					"gid"		"A2B8C5A841AE5221C743C71A328A93E9"
+					"size"		"117CD6108C762C7617B86C375F127B15"
+					"download"		"11CDC3871D6136EC335313665CACFC1B"
+				}
+				"develop"
+				{
+					"gid"		"528047905A729195172737DC5B29DF20"
+					"size"		"C142E428D93152FC25F491BE9490D617"
+					"download"		"3938842D6DCAC403F9FBB015DE061460"
+				}
+			}
+		}
+		"2142360"
+		{
+			"dlcappid"		"2142360"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4978585542594789311"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"debug"
+				{
+					"gid"		"AE723BC9BE846BC8512BE29AC1603908"
+					"size"		"03E1D44BC7D00A59DC2716417AC33D7B"
+					"download"		"03E1D44BC7D00A59DC2716417AC33D7B"
+				}
+				"develop"
+				{
+					"gid"		"B0CE32B9899D4145E4405345786110FD"
+					"size"		"53664D5C13FA4A14700B8432A89A9D61"
+					"download"		"53664D5C13FA4A14700B8432A89A9D61"
+				}
+			}
+		}
+		"2141977"
+		{
+			"dlcappid"		"2141977"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3476201241430237848"
+					"size"		"36755382"
+					"download"		"32180192"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"debug"
+				{
+					"gid"		"1204D2E8F93B2C6BDCB3289A7921194B"
+					"size"		"443E03A61886570CB09BE76F35FD90E0"
+					"download"		"B8DFA80BF8466B02F2B5DAE2258715ED"
+				}
+				"develop"
+				{
+					"gid"		"DA71AD656BC98D3E8B2EDACE82C79F0C"
+					"size"		"18A7FD0A1C7A0A6D2B66E3B38F4E8728"
+					"download"		"C7431D6C764EBF91C13385A60C26CF3C"
+				}
+			}
+		}
+		"2141978"
+		{
+			"dlcappid"		"2141978"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4591934529951850722"
+					"size"		"24748684"
+					"download"		"21220784"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"debug"
+				{
+					"gid"		"ADFAA2027A2A8B66CDB7741454B020CD"
+					"size"		"E392BDC6E1A6C87EA69AE49428AA0AE3"
+					"download"		"80A9577DFC34CCD642BCFE1F22792483"
+				}
+				"develop"
+				{
+					"gid"		"AF1635CA71CA12FBB2CC558F6A85C4FC"
+					"size"		"6065B7898CF55FDE5F709021C976E3C8"
+					"download"		"75D62E2B6E6AA972EE80C8697AB823D1"
+				}
+			}
+		}
+		"2141979"
+		{
+			"dlcappid"		"2141979"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3593452894403819982"
+					"size"		"31898353"
+					"download"		"27972320"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"debug"
+				{
+					"gid"		"22D6669A62C7CFC35EC952EF70425C90"
+					"size"		"A7DF18007D9A430E5D14C57CA569E27F"
+					"download"		"F569E822058D1AF4010D28EB2622C22D"
+				}
+				"develop"
+				{
+					"gid"		"38FE63F73A278D29AD72592B1B845494"
+					"size"		"4AD365B7AD00723F30734C65168BCD1B"
+					"download"		"0F6846584E45A295885B4C78D196662C"
+				}
+			}
+		}
+		"2141980"
+		{
+			"dlcappid"		"2141980"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1059470968314476953"
+					"size"		"23947631"
+					"download"		"20848144"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"debug"
+				{
+					"gid"		"A4E352C8B812D1BDC688F45A3A2D6F74"
+					"size"		"3C642987B33E5257C0D30D0A4384C812"
+					"download"		"5F190B26DD4CE90A013168FE52CE6DB7"
+				}
+				"develop"
+				{
+					"gid"		"6D92C099D782D92D9FA3A87BE8756949"
+					"size"		"E1EA24BA0D1F5929A99F2270CFFFB435"
+					"download"		"CEC0F267B56D4A29498D0FF06350E235"
+				}
+			}
+		}
+		"2141981"
+		{
+			"dlcappid"		"2141981"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"212390540303310911"
+					"size"		"32067374"
+					"download"		"28127872"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"debug"
+				{
+					"gid"		"297B37D1F3E7C93C1BB18DE7D47FA058"
+					"size"		"816F3FEC3E2562575AC19E39442A01D9"
+					"download"		"DC4749D86B794731CDB447C30873662A"
+				}
+				"develop"
+				{
+					"gid"		"CC9FE884A6B958602D25A65544E4A07C"
+					"size"		"2A5EADE4557EBA81FCA3031D7C9AF5E3"
+					"download"		"126AED6117843E94B9F49290BC5F145C"
+				}
+			}
+		}
+		"2141982"
+		{
+			"dlcappid"		"2141982"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"735274290334709735"
+					"size"		"31840655"
+					"download"		"27775568"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"debug"
+				{
+					"gid"		"79F574910B3998C53597BFA8BCE33FCF"
+					"size"		"0667A5A0323AFFBAD47ED2276F215B9A"
+					"download"		"6E3780D9931C94FB3275ABE38ABCE7A4"
+				}
+				"develop"
+				{
+					"gid"		"52BDEF76DE95AD71190C38CED821F5BA"
+					"size"		"047DFBFADD7320C63A1A67A22A723206"
+					"download"		"B55C325C13ED9FE88D4094278CCA3673"
+				}
+			}
+		}
+		"2141983"
+		{
+			"dlcappid"		"2141983"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1397550502778555046"
+					"size"		"35184754"
+					"download"		"30623984"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"debug"
+				{
+					"gid"		"7712644A4E3A74FA73527EA583F94CEE"
+					"size"		"5D9AE388C476820C57BE0C8B7F322947"
+					"download"		"F439E63B5F3A3070147F70203B77D159"
+				}
+				"develop"
+				{
+					"gid"		"F0078F36D772C0229283C4D2B3AEC959"
+					"size"		"C106CF6C667A3FC8154A54A4FA65B51F"
+					"download"		"8E0CF316EA13C329666345EA0CE6EF41"
+				}
+			}
+		}
+		"2141984"
+		{
+			"dlcappid"		"2141984"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1104060585680670855"
+					"size"		"37651965"
+					"download"		"32999616"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"debug"
+				{
+					"gid"		"79C6CBE4713C317CD12DC37B923F6D45"
+					"size"		"681683E02017176654FB3FBA3FD030D4"
+					"download"		"9FC4A0E240C78DDC660350E86454A222"
+				}
+				"develop"
+				{
+					"gid"		"8339C55220E6AAC2E6777E7A6B566D34"
+					"size"		"0CF834B9897BCBC661128008B3131830"
+					"download"		"512067A69385D52EB240E59F17C0C34C"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10113160"
+				"timeupdated"		"1670918422"
+			}
+			"debug"
+			{
+				"buildid"		"10113160"
+				"pwdrequired"		"1"
+				"timeupdated"		"1670583612"
+			}
+			"develop"
+			{
+				"buildid"		"10111485"
+				"pwdrequired"		"1"
+				"timeupdated"		"1670563145"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"40000000"
+		"maxnumfiles"		"40"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"SaveData"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
