@@ -1,0 +1,237 @@
+"appinfo"
+{
+	"appid"		"1385500"
+	"common"
+	{
+		"name"		"WTC : Relentless Protagonist"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"logo"		"b1e561218c7be4b7c37c275ed51597f78e8a451e"
+		"logo_small"		"b1e561218c7be4b7c37c275ed51597f78e8a451e_thumb"
+		"clienttga"		"47aa278f254ff62a7508a903130d934602d87e2b"
+		"linuxclienticon"		"99af6349da5fb0aaa75a49334106bb44f2e02680"
+		"clienticon"		"fd6d45ebf92fccb061e902dc111de38f1bcfb352"
+		"icon"		"7183f8e0e4cd0eb08dc389f3fe710671a00af602"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"2"
+			"2"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1674245679"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Triority Interactive Novels"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Triority Interactive Novels"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Welcome To... Chichester"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"23"
+			"3"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_13"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1664365158"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1385500"
+		"store_tags"
+		{
+			"0"		"599"
+			"1"		"3799"
+			"2"		"4085"
+			"3"		"597"
+			"4"		"10235"
+			"5"		"4305"
+			"6"		"4726"
+			"7"		"4166"
+			"8"		"21"
+			"9"		"4667"
+			"10"		"4345"
+			"11"		"492"
+			"12"		"1742"
+			"13"		"4182"
+			"14"		"1719"
+			"15"		"5984"
+			"16"		"11014"
+			"17"		"4486"
+			"18"		"9204"
+			"19"		"5608"
+		}
+		"review_score"		"7"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"developer"		"Triority Interactive Novels"
+		"publisher"		"Triority Interactive Novels"
+		"listofdlc"		"2082250,2082251,2082252"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"WTC Relentless"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"WTCRelentlessProtagonistSxSFullVersion.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"WTCRelentlessProtagonistSxSFullVersion.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+			"2"
+			{
+				"executable"		"WTCRelentlessProtagonistSxSFullVersion.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"1"
+		"1385501"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6459411910558876736"
+					"size"		"1082308699"
+					"download"		"980599712"
+				}
+			}
+		}
+		"1385502"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1518874108244180245"
+					"size"		"1021966446"
+					"download"		"959768400"
+				}
+			}
+		}
+		"1385503"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3240257425081926774"
+					"size"		"1070729391"
+					"download"		"974071696"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12089148"
+				"timeupdated"		"1693575100"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"301989888"
+		"maxnumfiles"		"108"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"game/saves"
+				"pattern"		"*.*"
+			}
+		}
+	}
+}
