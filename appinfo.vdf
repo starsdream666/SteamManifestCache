@@ -1,0 +1,223 @@
+"appinfo"
+{
+	"appid"		"2271980"
+	"common"
+	{
+		"name"		"Adorable Witch5 : lingering"
+		"type"		"Game"
+		"icon"		"3ba71fd1fe5e7738da417d545b5cc607c3e0cae7"
+		"clienticon"		"7036a0c558e0a66c3210a6587fa0bf6df7f8c52c"
+		"clienttga"		"6012ea81d68607ad0dfc5610e61f17101373c1fd"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"linuxclienticon"		"6e316b67a30af80fa985b3ed260c22471407e6f5"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"63.885647607934644"
+				"height_pct"		"84.57611018760392"
+			}
+		}
+		"store_asset_mtime"		"1684496061"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"lovelygames"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"lovelygames"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Adorable Witch"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"3"
+			"3"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1684487068"
+		"community_hub_visible"		"1"
+		"gameid"		"2271980"
+		"store_tags"
+		{
+			"0"		"5611"
+			"1"		"12095"
+			"2"		"122"
+			"3"		"6650"
+			"4"		"24904"
+			"5"		"4434"
+			"6"		"9130"
+			"7"		"7208"
+			"8"		"4182"
+			"9"		"21"
+			"10"		"9551"
+			"11"		"492"
+			"12"		"3871"
+			"13"		"1684"
+			"14"		"1654"
+			"15"		"1774"
+			"16"		"4085"
+			"17"		"1663"
+			"18"		"615955"
+			"19"		"3834"
+		}
+		"review_score"		"5"
+		"review_percentage"		"59"
+	}
+	"extended"
+	{
+		"developer"		"lovelygames"
+		"publisher"		"lovelygames"
+		"listofdlc"		"2277580"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Adorable Witch5  lingering"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"AdorableWitch5.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2271981"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1356830218935903243"
+					"size"		"660320258"
+					"download"		"201320784"
+				}
+			}
+		}
+		"2277580"
+		{
+			"dlcappid"		"2277580"
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2089106765176739124"
+					"size"		"3969032495"
+					"download"		"486336768"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11536431"
+				"timeupdated"		"1687447420"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"10000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"LovelyGames\\AdorableWitch5\\Warning/"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
