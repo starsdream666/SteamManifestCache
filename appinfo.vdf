@@ -1,0 +1,207 @@
+"appinfo"
+{
+	"appid"		"1066030"
+	"common"
+	{
+		"name"		"Heroland"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"languages"
+		{
+			"english"		"1"
+			"japanese"		"1"
+		}
+		"logo"		"38336268cba544ce3a795bfb20400c4a8f19ad4f"
+		"logo_small"		"38336268cba544ce3a795bfb20400c4a8f19ad4f_thumb"
+		"clienttga"		"6bd7c39ba2f7d76caa098afa96086745d41c26cf"
+		"clienticon"		"50235f98ed13fe766874b493e2ebb9a5a94b0b14"
+		"icon"		"d524deca73c752d6dc4bd1018d6a7d253f4df919"
+		"releasestate"		"released"
+		"name_localized"
+		{
+			"japanese"		"WORK×WORK"
+		}
+		"metacritic_name"		"Heroland"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"japanese"		"header_japanese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,ja"
+			"library_hero"		"en"
+			"library_logo"		"en,ja"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"33.47761687926223"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1683316097"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"FURYU Corporation"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"XSEED Games"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Marvelous USA, Inc."
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"3"
+		}
+		"category"
+		{
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_23"		"1"
+			"category_18"		"1"
+			"category_2"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1575395707"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1066030"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"4182"
+			"2"		"3964"
+			"3"		"4004"
+			"4"		"597"
+			"5"		"1742"
+			"6"		"4434"
+			"7"		"4726"
+			"8"		"9"
+		}
+		"review_score"		"5"
+		"review_percentage"		"65"
+	}
+	"extended"
+	{
+		"developer"		"FURYU Corporation"
+		"publisher"		"XSEED Games"
+		"homepage"		"http://www.discoverheroland.com/"
+	}
+	"config"
+	{
+		"installdir"		"Heroland"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"HerolandLauncher.exe"
+				"arguments"		"-screen-width 1280 -screen-height 720 -screen-fullscreen 0"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigdetails"
+		{
+			"1775450636"
+			{
+				"controller_type"		"controller_xbox360"
+				"enabled_branches"		"default"
+				"use_action_block"		"true"
+			}
+			"1775450077"
+			{
+				"controller_type"		"controller_switch_pro"
+				"enabled_branches"		"default"
+				"use_action_block"		"true"
+			}
+			"1775453012"
+			{
+				"controller_type"		"controller_ps4"
+				"enabled_branches"		"default"
+				"use_action_block"		"true"
+			}
+		}
+		"steamconfigurator3rdpartynative"		"11"
+	}
+	"depots"
+	{
+		"1066031"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3544411703026735557"
+					"size"		"821605047"
+					"download"		"628251392"
+				}
+			}
+		}
+		"baselanguages"		"english,japanese"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4185876"
+				"timeupdated"		"1568193234"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"66"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"XSEED/Heroland/SaveData"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
