@@ -1,0 +1,277 @@
+"appinfo"
+{
+	"appid"		"882680"
+	"common"
+	{
+		"name"		"Foreskin Fury"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,linux"
+		"osarch"		"64"
+		"logo"		"691ba07351a8206807dea3e7dac4134b2dbb69e9"
+		"logo_small"		"691ba07351a8206807dea3e7dac4134b2dbb69e9_thumb"
+		"icon"		"19000f2bfce29a6de51c907bcbf4d570fb046d2e"
+		"clienticon"		"cb04e921de2a4748de1f8edb5c1708f551803481"
+		"clienttga"		"5e6d16eaa8557faa9ade50b066ea4f9fce455798"
+		"osextended"		""
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"882680_eula_0"
+				"name"		"Foreskin Fury EULA"
+				"url"		"https://store.steampowered.com//eula/882680_eula_0"
+			}
+		}
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"metacritic_name"		"Foreskin Fury"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"30.74679113185539"
+				"height_pct"		"46.20042745191168"
+			}
+		}
+		"store_asset_mtime"		"1667758422"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Stupid Industries"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Stupid Industries "
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"23"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_36"		"1"
+			"category_1"		"1"
+			"category_23"		"1"
+			"category_49"		"1"
+			"category_27"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1571048940"
+		"community_hub_visible"		"1"
+		"gameid"		"882680"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"492"
+			"2"		"597"
+			"3"		"12095"
+			"4"		"6650"
+			"5"		"4136"
+			"6"		"493"
+			"7"		"1719"
+			"8"		"1697"
+			"9"		"4747"
+			"10"		"3859"
+		}
+		"review_score"		"8"
+		"review_percentage"		"84"
+	}
+	"extended"
+	{
+		"developer"		"Stupid Industries"
+		"publisher"		"Stupid Industries "
+		"homepage"		"https://www.foreskinfury.com"
+	}
+	"config"
+	{
+		"installdir"		"ForeskinFury"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ForeskinFury.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"ForeskinFury.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english"
+		"882681"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1573932079319347586"
+					"size"		"700940859"
+					"download"		"197763904"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"0DA9C82D6CF3F36D9F7D23F4453D1D06"
+					"size"		"99CCA819ABDA8C9C4F3D2BCCCC449721"
+					"download"		"30204D7559046830E186C7311C4A0A82"
+				}
+			}
+		}
+		"882682"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5750150203369120371"
+					"size"		"821669544"
+					"download"		"188481472"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"2BB921386B4AD8859C35FC28F5B598BC"
+					"size"		"2ACE1BD059DC626980FDC33B8F54E64D"
+					"download"		"6EFEDCA5B5655676CB876C8461F8A727"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5816078"
+				"timeupdated"		"1605196304"
+			}
+			"beta"
+			{
+				"buildid"		"5816078"
+				"pwdrequired"		"1"
+				"timeupdated"		"1605111153"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"5000000"
+		"maxnumfiles"		"50"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"ForeskinFury/Saved/SaveGames"
+				"pattern"		"*.sav"
+				"recursive"		"1"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"os"		"Windows"
+				"oscompare"		"="
+				"useinstead"		"WinAppDataLocal"
+				"addpath"		""
+			}
+			"1"
+			{
+				"root"		"gameinstall"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxXdgConfigHome"
+				"addpath"		"Epic/"
+			}
+		}
+	}
+}
