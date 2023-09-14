@@ -1,0 +1,183 @@
+"appinfo"
+{
+	"appid"		"727830"
+	"common"
+	{
+		"name"		"Reformers"
+		"type"		"Game"
+		"icon"		"014e88e31c891d4c3fa65ea1020065af5c20e56b"
+		"logo"		"0b519b6ccdc674ed6fe70cbff40256f20f04133b"
+		"logo_small"		"0b519b6ccdc674ed6fe70cbff40256f20f04133b_thumb"
+		"clienttga"		"8385b590da878a9837b06bc9d8bae92fb75c3e48"
+		"clienticon"		"c3f9c48fb3c3163e23aab0ccbb09291eb4273c50"
+		"oslist"		"windows"
+		"osarch"		""
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"28.100775193798426"
+				"height_pct"		"85.41666666666666"
+			}
+		}
+		"store_asset_mtime"		"1687062891"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"RMking"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"RMking"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"23"
+			"3"		"29"
+			"4"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+			"category_1"		"1"
+			"category_20"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1511510400"
+		"steam_release_date"		"1511451478"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"727830"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"122"
+			"2"		"5577"
+			"3"		"597"
+			"4"		"1677"
+			"5"		"1664"
+			"6"		"492"
+			"7"		"4085"
+			"8"		"6815"
+			"9"		"3871"
+			"10"		"1742"
+			"11"		"4004"
+			"12"		"4166"
+			"13"		"3959"
+			"14"		"4726"
+			"15"		"4026"
+			"16"		"1754"
+			"17"		"4975"
+			"18"		"128"
+			"19"		"4325"
+		}
+		"review_score"		"7"
+		"review_percentage"		"100"
+	}
+	"extended"
+	{
+		"remoteplaycursorscale"		"2.0"
+		"absolutemousecoordinates"		"1"
+		"developer"		"RMking"
+		"publisher"		"RMking"
+		"homepage"		"http://txbd707429539.lofter.com/"
+	}
+	"config"
+	{
+		"installdir"		"Reformers"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Game.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamdecktouchscreen"		"4"
+		"steamconfigurator3rdpartynative"		"4"
+		"steamcontrollertemplateindex"		"4"
+		"steamcontrollertouchtemplateindex"		"1"
+		"steamcontrollertouchconfigdetails"		""
+	}
+	"depots"
+	{
+		"baselanguages"		""
+		"727831"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7843759984270584024"
+					"size"		"1052523005"
+					"download"		"1031911024"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10229024"
+				"timeupdated"		"1672328350"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10485760"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"Save"
+				"pattern"		"*.rxdata"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
