@@ -1,0 +1,222 @@
+"appinfo"
+{
+	"appid"		"1557740"
+	"common"
+	{
+		"name"		"ROUNDS"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"6ac29d9194ece98af48a51a6360d06e9fb2cf968"
+		"logo_small"		"6ac29d9194ece98af48a51a6360d06e9fb2cf968_thumb"
+		"icon"		"f087183f42804b06bcd59b47536c23b398061fc1"
+		"clienttga"		"f9d228d025c3f72e7b61af2bcebef9a543322182"
+		"clienticon"		"d3cb71ceb760798f53f5d0830857eedbd236766b"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1663632000"
+			"tested_build_id"		"6707853"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+				"5"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedLocalMultiplayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"98.25581395348837"
+				"height_pct"		"70.74329137971978"
+			}
+		}
+		"store_asset_mtime"		"1617291507"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Landfall"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Landfall"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Landfall"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_37"		"1"
+			"category_24"		"1"
+			"category_44"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1617292517"
+		"community_hub_visible"		"1"
+		"gameid"		"1557740"
+		"store_tags"
+		{
+			"0"		"3859"
+			"1"		"1743"
+			"2"		"7368"
+			"3"		"4736"
+			"4"		"32322"
+			"5"		"19"
+			"6"		"3959"
+			"7"		"492"
+			"8"		"3968"
+			"9"		"791774"
+			"10"		"3871"
+			"11"		"1091588"
+			"12"		"1775"
+			"13"		"1666"
+			"14"		"1625"
+			"15"		"3798"
+			"16"		"7178"
+			"17"		"5379"
+			"18"		"1773"
+			"19"		"4758"
+		}
+		"review_score"		"9"
+		"review_percentage"		"95"
+	}
+	"extended"
+	{
+		"developer"		"Landfall"
+		"publisher"		"Landfall"
+		"homepage"		"http://landfall.se"
+	}
+	"config"
+	{
+		"installdir"		"ROUNDS"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Rounds.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1557741"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8703385561169526803"
+					"size"		"963462927"
+					"download"		"340985344"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"F3DE63C64B0591ECF44C0C6421D78CD5"
+					"size"		"33F51CE75C70BDEEBFAF7025EFCF8E40"
+					"download"		"28036E54F50000C4E17DB5EE6C5B3E87"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6707853"
+				"timeupdated"		"1621181831"
+			}
+			"test"
+			{
+				"buildid"		"6614541"
+				"pwdrequired"		"1"
+				"timeupdated"		"1619619038"
+			}
+		}
+	}
+}
