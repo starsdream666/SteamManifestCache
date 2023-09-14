@@ -1,0 +1,898 @@
+"appinfo"
+{
+	"appid"		"860620"
+	"common"
+	{
+		"name"		"KURSK"
+		"type"		"Game"
+		"logo"		"c7e093008237a6d517a4d21ed6647f51ac09e90e"
+		"logo_small"		"c7e093008237a6d517a4d21ed6647f51ac09e90e_thumb"
+		"icon"		"216873f4231d7eccc97ad65941c2db5e92589d30"
+		"clienticon"		"664198be06103af1b8f738e4684d3a1f77be38ea"
+		"clienttga"		"f37d33d5e8ce936d16dd690386e76309ff12ad8a"
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"polish"		"1"
+		}
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1664236800"
+			"tested_build_id"		"5135684"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"KURSK"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"16.977829638273036"
+				"height_pct"		"30.087865115174523"
+			}
+		}
+		"store_asset_mtime"		"1573652023"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Jujubee S.A."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Jujubee S.A."
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1541577600"
+		"steam_release_date"		"1541614160"
+		"metacritic_score"		"42"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/kursk?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"860620"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"19"
+			"2"		"599"
+			"3"		"492"
+			"4"		"4345"
+			"5"		"3987"
+			"6"		"15339"
+			"7"		"19780"
+		}
+		"review_score"		"5"
+		"review_percentage"		"48"
+	}
+	"extended"
+	{
+		"developer"		"Jujubee S.A."
+		"publisher"		"Jujubee S.A."
+		"homepage"		"http://kurskthegame.com"
+		"listofdlc"		"975080,975081,975082,978350"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"KURSK"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Kursk-SteamVersion.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Kursk-SteamVersion.app\\Contents\\MacOS\\Kursk-SteamVersion"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Kursk-SteamVersion.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"1"
+		"860621"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8990531507206996936"
+					"size"		"16257044577"
+					"download"		"6320342624"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"currentdevelop"
+				{
+					"gid"		"50F6D00E29B9AC38F5C0641BC9C03B16"
+					"size"		"3BBA376690BC28954B047C51D811E77C"
+					"download"		"32381B0E47586EC051A647F282A88698"
+				}
+				"develop_temp_lights"
+				{
+					"gid"		"44305A7CCC3682FFCC1D664B779A2487"
+					"size"		"1053EA103D0A69B90A865FB9E7728277"
+					"download"		"CF8A07FA254461E7222B6C9E23D1F2F1"
+				}
+				"developmentbuild"
+				{
+					"gid"		"FF18ED3E3C2246A59FFE811CA6C34788"
+					"size"		"573D7C9624C4E2A39B0F85879BC14FBB"
+					"download"		"9256D0A35C80E30A0EE423041443B7BC"
+				}
+				"experimental"
+				{
+					"gid"		"62648A9BA79997116B6079AF75625C51"
+					"size"		"8D2211F9C4A8097CEE8C4FA13E67AE63"
+					"download"		"D32FAB5DD6418EC5EBB11613CBCEEAFB"
+				}
+				"featuresbetatests"
+				{
+					"gid"		"E24D01BC4B781F1038F166FE82EBDDFC"
+					"size"		"17657E6030CFEAB7E8874EB5031BC386"
+					"download"		"91C555CBDD241580414880147ACC7B97"
+				}
+				"hotfix"
+				{
+					"gid"		"8887ECC9414BECC27C7D204BBA2DB974"
+					"size"		"894479AC3292C5E9F4F5A4AE6ED0B48F"
+					"download"		"F56EA5F1420AD1E2C53D3FCF6946A056"
+				}
+				"keyboardpresets"
+				{
+					"gid"		"AC4C11B85E0E1F204A04CA48DD5DEB05"
+					"size"		"5180564DC60435EAAD531C174594280A"
+					"download"		"2920460E9C3C91C84BA3548BFAC0297A"
+				}
+				"linux_test"
+				{
+					"gid"		"BB43CD0B7EB3E634D41CDF37A3D93675"
+					"size"		"FD1C9A7283D848670C84709FC371B2B5"
+					"download"		"C1935E15039216C746937E5B8C3D5B46"
+				}
+				"osx-text"
+				{
+					"gid"		"2BC437DDCF9501A982A6B526E31E720C"
+					"size"		"B23E1B7D404DBC0968DA1CA33F0733D5"
+					"download"		"E6B6A5F1AA5C0BEBEF9C2CCFE7EAF669"
+				}
+				"patch"
+				{
+					"gid"		"7239734D83E74FCD872AD11653AE378E"
+					"size"		"7AABA7C31CA3079F1DC41C4B7D0C73F4"
+					"download"		"D7FB931600F73E434958FB69341E2F9B"
+				}
+				"patch_30_01"
+				{
+					"gid"		"C1E0EE17B467109CAC98762380C68C3E"
+					"size"		"107BB0D9000B417DC2285249833BAF2D"
+					"download"		"7882173854AF43CB9F6BDE7A00D42ED8"
+				}
+				"test"
+				{
+					"gid"		"DAFCBA1651278C078901B2FE27D51C6D"
+					"size"		"E12D4C06956F389E61E9EE213B4571CA"
+					"download"		"1D833476D66DEEB2184A4620B49649DE"
+				}
+				"walking_npc_test"
+				{
+					"gid"		"B896FDF044F0CA8B30BB26A8B79411DF"
+					"size"		"22DE37FB203C99FB6714F7445BAC3ECB"
+					"download"		"EDCAFC6BA312B62D64CDBEF1623F438E"
+				}
+			}
+		}
+		"975081"
+		{
+			"dlcappid"		"975081"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5680821839515738367"
+					"size"		"133420752"
+					"download"		"131621552"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"currentdevelop"
+				{
+					"gid"		"10FDB0D3D918774991C931731644295C"
+					"size"		"498B357E922C7AC24660DE0BCB0F7A2F"
+					"download"		"C47CD684D6ECD5F456920A9501D5D311"
+				}
+				"develop_temp_lights"
+				{
+					"gid"		"1232C18E4EB7B78BEDB723C1D1F78746"
+					"size"		"3D4A91B7133173FE592D9CE112D2DA99"
+					"download"		"6C507F0C69F88FBE451CFB27EFBAE2BD"
+				}
+				"experimental"
+				{
+					"gid"		"FE53E9110E7A3D457589D4044001083B"
+					"size"		"52766931BEE6156EA24B8E3FB822DEAF"
+					"download"		"2C8081826D289F12BC9A4E41259D17E1"
+				}
+				"hotfix"
+				{
+					"gid"		"FA45FD4D8E96947C115C2030E9A990A4"
+					"size"		"CAB68965B6DBB603F3C1A215F1D8C9FA"
+					"download"		"A1F5BAFE35336A7E06C8AA9A5BA34777"
+				}
+				"keyboardpresets"
+				{
+					"gid"		"AD15E17CC913C692D92BE04369A6C795"
+					"size"		"F28F17E0AF463D13477F782443DE46BA"
+					"download"		"ECCE7BE9A1CEAF9FEC6CADA959D212E4"
+				}
+				"linux_test"
+				{
+					"gid"		"9F04B666F73AF7FA922FB8B287B504CE"
+					"size"		"FDEA3113515BAAA6F0059FE86297C7FA"
+					"download"		"DCA8BDB51FC6EED2B6213A8620D681DC"
+				}
+				"osx-text"
+				{
+					"gid"		"005CBEC2D618E41E6D09B81FA1D0A537"
+					"size"		"D45F27B8668E16C3FA64D64DB735C144"
+					"download"		"18FA6B1FAF5E94129F012BD400E57166"
+				}
+				"patch"
+				{
+					"gid"		"14229D746744537A77FFED886E65DA74"
+					"size"		"AF39FD8633E01364DDE3DD388434FD3A"
+					"download"		"9EA0875F416130E8E3E63B8536CB8417"
+				}
+				"patch_30_01"
+				{
+					"gid"		"6EBE535BB42CA39A5A9D4A36E0CD53B5"
+					"size"		"7405808888DC7B98A87E286A313CFC41"
+					"download"		"1BE03F683A6F7A53ED1BF2BE66C9D19F"
+				}
+				"test"
+				{
+					"gid"		"99B93CB56268401DD15D36A264F5E6A3"
+					"size"		"6FE96FD5044B10FD0B526BCFC8E75210"
+					"download"		"12658800ACD865673E308AD7DACB1E91"
+				}
+				"walking_npc_test"
+				{
+					"gid"		"C54BF10A8B344D3A9518438522AC1A99"
+					"size"		"2074BDABAD70817974B11275A1FDAF05"
+					"download"		"B52533AB8DB3CE5E680B9DA6332C4A83"
+				}
+			}
+		}
+		"975080"
+		{
+			"dlcappid"		"975080"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8140083865598005395"
+					"size"		"224595234"
+					"download"		"225398864"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"currentdevelop"
+				{
+					"gid"		"1D178A28B50921C4B9C3BE50CFB6985D"
+					"size"		"AECFDABBFE2CEAC8981844768BD315E5"
+					"download"		"59C3E11235AAB811700A95C24DABB012"
+				}
+				"develop_temp_lights"
+				{
+					"gid"		"BFAC7E67EC061DB26972BC93EC81A88F"
+					"size"		"F3C995B2DECE8B11415108E3B66D6324"
+					"download"		"C846E92BC502600C7D510B3669165A55"
+				}
+				"experimental"
+				{
+					"gid"		"E5CB3F5C98FA2D3E68D35ECD9A95D7E2"
+					"size"		"59AD6298C2B32FCF45CC820371DD7E6A"
+					"download"		"2AEF6B3BEB82E1498ECDCB966100A188"
+				}
+				"hotfix"
+				{
+					"gid"		"DD297E0F96BD40E5014A4DF2B67759E4"
+					"size"		"8601B617E2245FAB9F5119FC022AACAB"
+					"download"		"19240AEB76B5879715FD7F3E5537026F"
+				}
+				"keyboardpresets"
+				{
+					"gid"		"A1116BD4385E80F09EC3AB739E2AEFED"
+					"size"		"49003E1B899458D0607F408FB0515314"
+					"download"		"ABEFB30AC17E54ABC7372FD3F349634F"
+				}
+				"linux_test"
+				{
+					"gid"		"A4A437F26DC7576AB4FB05E66F22652D"
+					"size"		"717EB229604B75C98E66CDB166506D79"
+					"download"		"081574DD9A32490774A3431DD7C974E9"
+				}
+				"osx-text"
+				{
+					"gid"		"37DA49B1269222E14FF7021C9597B11F"
+					"size"		"D5107F93A95F547545C0221CB20D68F1"
+					"download"		"64CADA03B3BF75AAE8ACD179ED80469D"
+				}
+				"patch"
+				{
+					"gid"		"3AFDAEEFE45DC9D172273EFB10C5A81E"
+					"size"		"054B9C3EC8D3EF0B99899D98C436C3B0"
+					"download"		"F7F79209C94F279B8D3A3C2C30E11D29"
+				}
+				"patch_30_01"
+				{
+					"gid"		"65E10DD5D27E0C1BDC6E4600B92921BD"
+					"size"		"A37C02261A5EFD9396CED9A841C26E51"
+					"download"		"4A550B2F4294EF566FB1D7403BBC6478"
+				}
+				"test"
+				{
+					"gid"		"05DC678B46E313400EC2810BA19A07BB"
+					"size"		"0F55B9ECDA90ED5F38BF6FA3DFA951F8"
+					"download"		"2E117E8D00EF7D3482AB0B91CEDB5788"
+				}
+				"walking_npc_test"
+				{
+					"gid"		"32C32F822EA463CF7834390EF2193B53"
+					"size"		"F4E0B199B4B7583E4C7954289B1BE8A3"
+					"download"		"BA0C344C639D1F0CC611AF9D531172EF"
+				}
+			}
+		}
+		"975082"
+		{
+			"dlcappid"		"975082"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"279098113265968721"
+					"size"		"70536223"
+					"download"		"69985904"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"currentdevelop"
+				{
+					"gid"		"3DD311C422E37ED8AEE26282371A8B30"
+					"size"		"E8E6458F51C955A5B8F5BCD7E3B0F7E3"
+					"download"		"D9BDF56A297F273EB5E669012387DA01"
+				}
+				"develop_temp_lights"
+				{
+					"gid"		"C28773DF326A6C7833BD7C24BDCD9321"
+					"size"		"20D4AD3CDCE1F7F0693FFC55427652EC"
+					"download"		"A2A6BDDCF4610A58C119D148FB2486C9"
+				}
+				"experimental"
+				{
+					"gid"		"73A0972E4821E9A0AE6597323876429E"
+					"size"		"1A9C0F8E3BF1C0B8ECB73CF0DF40F714"
+					"download"		"23E57941987A2573C6FCD74F8D20F437"
+				}
+				"hotfix"
+				{
+					"gid"		"8F4D6ED388F6E7D014BE4AB6B5EB6367"
+					"size"		"F6CCE06C95FB6A4F22318F6B101C3C58"
+					"download"		"37168DA8030090A4DACA3B905205270D"
+				}
+				"keyboardpresets"
+				{
+					"gid"		"7951B7188230421305686B38CF34E22B"
+					"size"		"A5267C5CAFE13690BE404A60BE313549"
+					"download"		"8989172121941F3A24B118D81610A8CB"
+				}
+				"linux_test"
+				{
+					"gid"		"28A6E0E1E293CEAE2F4F9923EFF81D1B"
+					"size"		"664DDC5BCB4C48A8558E3200FF200598"
+					"download"		"D290D4CF353CAD741209BF37C105AEB1"
+				}
+				"osx-text"
+				{
+					"gid"		"23E88C052669586C835FE8553A67862E"
+					"size"		"A09B3A51CA763D6282CD97ABE18A1AE4"
+					"download"		"4D65BEE2C8B8C70FA2F90880705DF7B1"
+				}
+				"patch"
+				{
+					"gid"		"98136C3B4E642F7B3BA71DE332351B91"
+					"size"		"6A4F47738D8E5BE341027DA8FA32A113"
+					"download"		"ECFA498B1085E61ECF2D0E267E39BA25"
+				}
+				"patch_30_01"
+				{
+					"gid"		"A5EF3E2650120EB90FABC464EE2F3013"
+					"size"		"2005309D14276583CDCD97D643AAB8D9"
+					"download"		"39F2CE908F2F51FA45274F9E331CF4D4"
+				}
+				"test"
+				{
+					"gid"		"A7C8EA118FBA2CDBFE2456BE3846AB63"
+					"size"		"40554273DECD47598DAE1A00E68A287D"
+					"download"		"477D18FF169402738F21228483EF46CA"
+				}
+				"walking_npc_test"
+				{
+					"gid"		"2C26A0753AD69C1410621F3E0F3EB198"
+					"size"		"BB060F23A36258C18C3345CEC3F8D112"
+					"download"		"46330803285F0CC14D8DAE777588DC4D"
+				}
+			}
+		}
+		"978351"
+		{
+			"dlcappid"		"978350"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2557985690741815786"
+					"size"		"214359645"
+					"download"		"159938992"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"currentdevelop"
+				{
+					"gid"		"76236AFA717C570679CBCC287CDCCBF4"
+					"size"		"A305896A05F4F600ED65B0BBF7C45DB7"
+					"download"		"850B97D241E48183C16A3166BEE60546"
+				}
+				"develop_temp_lights"
+				{
+					"gid"		"EFE0CB75D0F9242607B3CE9FC90C6EA3"
+					"size"		"38A65DAFE7D33F9159C7BD175EC24044"
+					"download"		"CDE15B4979747A17E1E7E2795113535A"
+				}
+				"experimental"
+				{
+					"gid"		"35109EC5B6626623677FE21630A98A55"
+					"size"		"14A6FA3E22E4493E64D10C54F6BBD6B0"
+					"download"		"76B5727526AC180D9FCB4B16213C408D"
+				}
+				"hotfix"
+				{
+					"gid"		"7EE1558B089141CEBB25AD5D0173C2BC"
+					"size"		"B29E48B68597703E52F36013B36F2C15"
+					"download"		"6F1267F48448141B9C04605C0B9BC463"
+				}
+				"keyboardpresets"
+				{
+					"gid"		"42016C849030F081E6A6B40BF949A735"
+					"size"		"A124FDC79392202A93D30682614DBF43"
+					"download"		"A37C9934FC9FC8E0D0ED4F141DF8503D"
+				}
+				"linux_test"
+				{
+					"gid"		"1E816AFB33BBC8C89FB95B7766EFE3BB"
+					"size"		"C8BD40D2E7FD4C20F013BFDFE49F4C80"
+					"download"		"1D7EA036B63F5027BF6DD5AA2732159C"
+				}
+				"osx-text"
+				{
+					"gid"		"304BB17FB8C421C7668C82CE4927D27F"
+					"size"		"E0DABBCBEC36D95423870ADAE3AC480C"
+					"download"		"D2875D7154F55B33DAF58F2559E56EC3"
+				}
+				"patch"
+				{
+					"gid"		"9C4A3E31AEDC9DC3C816B2E66B1F4F9C"
+					"size"		"1718237C5D826A90D3921198504355B1"
+					"download"		"8C477EF9FBFC8C7D6E80405BCD413A9E"
+				}
+				"patch_30_01"
+				{
+					"gid"		"85050DD6CE6FE2107AF7BB5E138152A4"
+					"size"		"24F045F418C828C1765562DFA976EA6E"
+					"download"		"55575013593BD34373969DD81230D964"
+				}
+				"test"
+				{
+					"gid"		"2F52EBA72B0FA2D80119106B7E21B56B"
+					"size"		"612E95AE275ED77EFA42758739F95980"
+					"download"		"5BAAD34004659CCA637D9DD1CA9DDFDF"
+				}
+				"walking_npc_test"
+				{
+					"gid"		"2FD3B982A696A1D31D19F17513ECCFCE"
+					"size"		"BE2C856D5616D19C29528581E3911FA3"
+					"download"		"F324F89F1FD5438536E1AA9682D16A3E"
+				}
+			}
+		}
+		"978350"
+		{
+			"dlcappid"		"978350"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3454115083846871531"
+					"size"		"214359645"
+					"download"		"159938992"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"currentdevelop"
+				{
+					"gid"		"0E19587AEA888A56ADD27EC3CBB8CE90"
+					"size"		"A305896A05F4F600ED65B0BBF7C45DB7"
+					"download"		"850B97D241E48183C16A3166BEE60546"
+				}
+				"develop_temp_lights"
+				{
+					"gid"		"52B98FF58C6D5E6D540DDAB51E5972FA"
+					"size"		"38A65DAFE7D33F9159C7BD175EC24044"
+					"download"		"CDE15B4979747A17E1E7E2795113535A"
+				}
+				"experimental"
+				{
+					"gid"		"5EC02A429FE274E51B122D8DFD36351C"
+					"size"		"14A6FA3E22E4493E64D10C54F6BBD6B0"
+					"download"		"76B5727526AC180D9FCB4B16213C408D"
+				}
+				"hotfix"
+				{
+					"gid"		"2777742D63E97E530CBFFD122CB45669"
+					"size"		"B29E48B68597703E52F36013B36F2C15"
+					"download"		"6F1267F48448141B9C04605C0B9BC463"
+				}
+				"keyboardpresets"
+				{
+					"gid"		"15C2A0FDA85312ACB3538C3F92F36312"
+					"size"		"A124FDC79392202A93D30682614DBF43"
+					"download"		"A37C9934FC9FC8E0D0ED4F141DF8503D"
+				}
+				"linux_test"
+				{
+					"gid"		"1111307346912F4D555D123C8887185C"
+					"size"		"C8BD40D2E7FD4C20F013BFDFE49F4C80"
+					"download"		"1D7EA036B63F5027BF6DD5AA2732159C"
+				}
+				"osx-text"
+				{
+					"gid"		"32B4A91F8B132CD99C096B432E66A140"
+					"size"		"E0DABBCBEC36D95423870ADAE3AC480C"
+					"download"		"D2875D7154F55B33DAF58F2559E56EC3"
+				}
+				"patch"
+				{
+					"gid"		"1D4C4BE346EA9CF4A71F62AD09BC9F1D"
+					"size"		"1718237C5D826A90D3921198504355B1"
+					"download"		"8C477EF9FBFC8C7D6E80405BCD413A9E"
+				}
+				"patch_30_01"
+				{
+					"gid"		"1B285C9F0393A423C4592E5101C6A6B1"
+					"size"		"24F045F418C828C1765562DFA976EA6E"
+					"download"		"55575013593BD34373969DD81230D964"
+				}
+				"test"
+				{
+					"gid"		"2DA96980F8814D863A0554592E24D9B1"
+					"size"		"612E95AE275ED77EFA42758739F95980"
+					"download"		"5BAAD34004659CCA637D9DD1CA9DDFDF"
+				}
+				"walking_npc_test"
+				{
+					"gid"		"C562294CFE2152894C5F4EB610D17B88"
+					"size"		"BE2C856D5616D19C29528581E3911FA3"
+					"download"		"F324F89F1FD5438536E1AA9682D16A3E"
+				}
+			}
+		}
+		"860622"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4437382697718360294"
+					"size"		"14849650495"
+					"download"		"6343364320"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"linux_test"
+				{
+					"gid"		"39E7097D94A24D6C6E8BCD9A1F64B34D"
+					"size"		"D89136A4EB047C084764A3F395802EC6"
+					"download"		"90A6CF64CB2134BE480215DD7785FA97"
+				}
+				"osx-text"
+				{
+					"gid"		"EB992C7965303612AC868536F09514C3"
+					"size"		"C31E93D55758403E8B16E12C16DFED10"
+					"download"		"4157B4EF99E224D6EFFDD070A19D2F68"
+				}
+			}
+		}
+		"860623"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"linux_test"
+				{
+					"gid"		"280C8EA39461C6FFB5C693CC190751AD"
+					"size"		"85EF22851E0B4A8E81FE9F18A933122E"
+					"download"		"E1C0F949DF3D88FAAFFFF17D41F20BF4"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5135684"
+				"timeupdated"		"1591627231"
+			}
+			"currentdevelop"
+			{
+				"buildid"		"3620975"
+				"pwdrequired"		"1"
+				"timeupdated"		"1551873880"
+			}
+			"develop_temp_lights"
+			{
+				"buildid"		"3516954"
+				"pwdrequired"		"1"
+				"timeupdated"		"1548881551"
+			}
+			"developmentbuild"
+			{
+				"buildid"		"3323599"
+				"pwdrequired"		"1"
+				"timeupdated"		"1542719923"
+			}
+			"experimental"
+			{
+				"buildid"		"3952300"
+				"pwdrequired"		"1"
+				"timeupdated"		"1561461990"
+			}
+			"featuresbetatests"
+			{
+				"buildid"		"3512134"
+				"pwdrequired"		"1"
+				"timeupdated"		"1548767960"
+			}
+			"hotfix"
+			{
+				"buildid"		"3474303"
+				"pwdrequired"		"1"
+				"timeupdated"		"1547650647"
+			}
+			"keyboardpresets"
+			{
+				"buildid"		"3421700"
+				"pwdrequired"		"1"
+				"timeupdated"		"1545426479"
+			}
+			"linux_test"
+			{
+				"buildid"		"3640781"
+				"pwdrequired"		"1"
+				"timeupdated"		"1552466156"
+			}
+			"osx-text"
+			{
+				"buildid"		"3553047"
+				"pwdrequired"		"1"
+				"timeupdated"		"1549960897"
+			}
+			"patch"
+			{
+				"buildid"		"3421427"
+				"pwdrequired"		"1"
+				"timeupdated"		"1545419421"
+			}
+			"patch_30_01"
+			{
+				"buildid"		"3516297"
+				"pwdrequired"		"1"
+				"timeupdated"		"1548867563"
+			}
+			"test"
+			{
+				"buildid"		"5134498"
+				"pwdrequired"		"1"
+				"timeupdated"		"1591609027"
+			}
+			"walking_npc_test"
+			{
+				"buildid"		"3540242"
+				"pwdrequired"		"1"
+				"timeupdated"		"1549547415"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000"
+		"maxnumfiles"		"100"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Jujubee/KURSK/{64BitSteamID}"
+				"pattern"		"*.json"
+				"recursive"		"1"
+			}
+		}
+	}
+}
