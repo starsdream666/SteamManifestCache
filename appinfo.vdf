@@ -1,0 +1,150 @@
+"appinfo"
+{
+	"appid"		"1770440"
+	"common"
+	{
+		"name"		"Breadbox"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"e381a69e75d84ba0b6256c1026b11c4abd6e5ce1"
+		"logo_small"		"e381a69e75d84ba0b6256c1026b11c4abd6e5ce1_thumb"
+		"icon"		"675c9770d567137c091be70c2cd7f82fc376a504"
+		"clienticon"		"b81dfe73834218876952da6d8239b14ad3e7e15f"
+		"clienttga"		"e9600039c641ee2ebfca466882824c430b2e169e"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"23.316569524155426"
+				"height_pct"		"59.02777777777783"
+			}
+		}
+		"store_asset_mtime"		"1663675070"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Bitfall"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Bitfall"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"28"
+			"1"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1638016996"
+		"community_hub_visible"		"1"
+		"gameid"		"1770440"
+		"store_tags"
+		{
+			"0"		"599"
+			"1"		"4175"
+			"2"		"4191"
+			"3"		"4004"
+			"4"		"5432"
+			"5"		"9204"
+			"6"		"3810"
+			"7"		"1698"
+			"8"		"3839"
+			"9"		"7743"
+			"10"		"1036"
+			"11"		"10679"
+			"12"		"5502"
+			"13"		"3987"
+			"14"		"4236"
+			"15"		"6129"
+			"16"		"5794"
+			"17"		"13906"
+			"18"		"12472"
+			"19"		"1643"
+		}
+		"review_score"		"7"
+		"review_percentage"		"100"
+	}
+	"extended"
+	{
+		"developer"		"Bitfall"
+		"publisher"		"Bitfall"
+		"homepage"		"https://bitfall.fi/breadbox/index.php?title=Main_Page"
+	}
+	"config"
+	{
+		"installdir"		"Breadbox"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Breadbox.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1770441"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4706495790972733282"
+					"size"		"1083299855"
+					"download"		"153028656"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12112251"
+				"timeupdated"		"1693922719"
+			}
+		}
+	}
+}
