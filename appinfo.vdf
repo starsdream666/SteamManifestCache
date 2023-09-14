@@ -1,0 +1,207 @@
+"appinfo"
+{
+	"appid"		"746000"
+	"common"
+	{
+		"name"		"Haxor"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"27b6b8aff749b934c84d797149db9bcbffd65974"
+		"logo_small"		"27b6b8aff749b934c84d797149db9bcbffd65974_thumb"
+		"clienticon"		"7ec4681112f5c6406727cbd8a9b82032622967d9"
+		"clienttga"		"5eaa79ab455b88cce6b6c9217d37776874075413"
+		"icon"		"5562c6cf8b123c03078e1246d8634adaf31e51c2"
+		"releasestate"		"released"
+		"metacritic_name"		"Haxor"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1613521209"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Climou"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"No Gravity Games"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"No Gravity Games"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1555052400"
+		"steam_release_date"		"1555081100"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"746000"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"492"
+			"2"		"4004"
+			"3"		"1625"
+			"4"		"3964"
+		}
+		"review_score"		"5"
+		"review_percentage"		"69"
+	}
+	"extended"
+	{
+		"developer"		"Climou"
+		"publisher"		"No Gravity Games"
+		"listofdlc"		"1057670"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Haxor"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"LauncherNNG.exe"
+				"description"		"Launch"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"baselanguages"		"english"
+		"746001"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7666881887275409707"
+					"size"		"30457082"
+					"download"		"29226400"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"103E42DFCD840357C80CA1C181364C20"
+					"size"		"F004305E940B5D695F9CA88C4701C390"
+					"download"		"788033AB782149592C01BC59D35E30DD"
+				}
+			}
+		}
+		"1057670"
+		{
+			"dlcappid"		"1057670"
+			"config"
+			{
+				"language"		""
+				"optionaldlc"		"1057670"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6663037461698697957"
+					"size"		"22659665"
+					"download"		"22585984"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"028B91154AEE20D6DB8651C0166A4221"
+					"size"		"1E2ED74C77684A212CC812761D45681D"
+					"download"		"ECB00C7EE2CDE959295C3A83EA0489A8"
+				}
+			}
+		}
+		"746002"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6627315522262294818"
+					"size"		"2205022"
+					"download"		"1613136"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4522368"
+				"timeupdated"		"1577118287"
+			}
+			"beta"
+			{
+				"buildid"		"3846597"
+				"pwdrequired"		"1"
+				"timeupdated"		"1558519360"
+			}
+		}
+		"appmanagesdlc"		"1"
+	}
+}
