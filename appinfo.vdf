@@ -1,0 +1,417 @@
+"appinfo"
+{
+	"appid"		"1695260"
+	"common"
+	{
+		"name"		"Timothy and the Tower of Mu"
+		"type"		"Game"
+		"logo"		"e62817ff9e6a64a216faf17e340a8d07dea9416d"
+		"logo_small"		"e62817ff9e6a64a216faf17e340a8d07dea9416d_thumb"
+		"icon"		"f059b99c5a6cb522139f57d8d5d7b5b2de265ff9"
+		"clienttga"		"93334094d06e0cc112a5360bb545d221cde72556"
+		"clienticon"		"13742cd569da17adfc6e67f7e4e823fde5b91724"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"name_localized"
+		{
+			"japanese"		"ティモシーとムーの塔"
+			"schinese"		"第莫西和姆之塔"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1687478400"
+			"tested_build_id"		"10251497"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-3"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"japanese"		"header_japanese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en,ja,zh-cn"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"70.49491233712635"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1664849793"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Kibou Entertainment"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"PLAYISM"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"PLAYISM"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1660032768"
+		"community_hub_visible"		"1"
+		"gameid"		"1695260"
+		"store_tags"
+		{
+			"0"		"1625"
+			"1"		"4026"
+			"2"		"4604"
+			"3"		"21"
+			"4"		"3871"
+			"5"		"19"
+			"6"		"3964"
+			"7"		"4182"
+			"8"		"3877"
+			"9"		"4166"
+			"10"		"3834"
+			"11"		"1742"
+			"12"		"4004"
+			"13"		"3798"
+			"14"		"492"
+			"15"		"7481"
+			"16"		"4562"
+			"17"		"1628"
+			"18"		"5379"
+			"19"		"3916"
+		}
+		"review_score"		"6"
+		"review_percentage"		"75"
+	}
+	"extended"
+	{
+		"developer"		"Kibou Entertainment"
+		"publisher"		"PLAYISM"
+	}
+	"config"
+	{
+		"installdir"		"timothy and the tower of mu"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"player.exe"
+				"type"		"none"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,schinese,japanese"
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228984"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1695261"
+		{
+			"config"
+			{
+				"language"		"english"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8203536786153275266"
+					"size"		"320590703"
+					"download"		"267562272"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"debug"
+				{
+					"gid"		"17C1C3BAC8435FB85928DA5244BFDD45"
+					"size"		"124B7B90038B7A448B21E01E3FCFD649"
+					"download"		"889A773733DDDB2A73769B93E8EB58A7"
+				}
+				"debug2"
+				{
+					"gid"		"15BE25188B0D28F3DA1F4BE695D6CA5B"
+					"size"		"A6C3CFAE5FA856BC2E871971C127E6DA"
+					"download"		"7323721A45B81B3A51986A0B8ED09F17"
+				}
+				"lqabuild"
+				{
+					"gid"		"DAAFA9DB0FEA705D5D21E51B219166E1"
+					"size"		"85F85BB2BC6C73F255A009BAF530E07D"
+					"download"		"D7EE22D495A684A6F3F83D98816D823B"
+				}
+				"lqabuild2"
+				{
+					"gid"		"A237F4065C2DC7FC32BAFD16DCAA4867"
+					"size"		"1388F4CFDC435B08CE6D3C26AC0473F4"
+					"download"		"67C6434BFAE13045865B9D4682E1915D"
+				}
+				"mediareviews"
+				{
+					"gid"		"91AB3C2DA83D274586971C4270CFBAEF"
+					"size"		"55C7B53F36B8ED07A2CB9EEA7F03CFA6"
+					"download"		"F038A5902CB2C5E009546698CA3BF4B4"
+				}
+				"test"
+				{
+					"gid"		"C9262EAD96F2E3BF4DB7BF0C654AA9F3"
+					"size"		"7E269BB213117EC26871A3D06230E4F1"
+					"download"		"8E6958D48100ADCE4C648159CB3C557F"
+				}
+			}
+		}
+		"1695262"
+		{
+			"config"
+			{
+				"language"		"japanese"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5345751041928131546"
+					"size"		"320802731"
+					"download"		"267773296"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"debug"
+				{
+					"gid"		"86A786FB258499CE00026E25787634C2"
+					"size"		"7EC83FDAC03237816577F0E30E0968DA"
+					"download"		"322E5B6C25F23FC2291D58289E2FEE71"
+				}
+				"debug2"
+				{
+					"gid"		"C3564F968FB67FC2370CDA0833BFC3D2"
+					"size"		"1F2D35FD44D313BC3E4ACC9F83D52573"
+					"download"		"81A315012E94304A7501484BD88C4908"
+				}
+				"lqabuild"
+				{
+					"gid"		"5549B70A795810870D719B98828695B2"
+					"size"		"5DC8CC69138A610F850FC54E06307880"
+					"download"		"31111D950A450D85E4B20141AB0141AE"
+				}
+				"lqabuild2"
+				{
+					"gid"		"B0702A0A08E72DD32ADCE99BE027568C"
+					"size"		"4347B775F54C7EEF61447F067514B30C"
+					"download"		"D3DBAF0785ED5438139D020BBD5EECD1"
+				}
+				"mediareviews"
+				{
+					"gid"		"39456A47181DC4DF7B787AE89C62D731"
+					"size"		"8AB42CAFA17676B691799511D7143287"
+					"download"		"4AACA095CB5AD24BE8E920A31BBD3FED"
+				}
+				"test"
+				{
+					"gid"		"50178CA1DD33D7700AD12B02652ADD1E"
+					"size"		"CDFFD043A1E7E1AF97C330F6FBC8B2DE"
+					"download"		"7F436F6B9C643302BC84104879B7B31B"
+				}
+			}
+		}
+		"1695263"
+		{
+			"config"
+			{
+				"language"		"schinese"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2045055114571966740"
+					"size"		"389682358"
+					"download"		"300838480"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"debug"
+				{
+					"gid"		"EBBD2CE6321BA3177366112D2F621673"
+					"size"		"C4C58C681ECE184CE3EFDD49BC3CA196"
+					"download"		"1A134A5AE8F67877768B1135BD247B0E"
+				}
+				"debug2"
+				{
+					"gid"		"67F34205ACAE1A1F5416EE6BBBF55F2D"
+					"size"		"F96F0DB37A905431E073A1FB2B50E195"
+					"download"		"1668083F23FC13F1D3806E340FB16040"
+				}
+				"lqabuild"
+				{
+					"gid"		"916B6D3E542DD84EEAE64DFFFE3B40B1"
+					"size"		"DF9ADF8B8F1CB9662AC4F4D0A00E47A6"
+					"download"		"51740E518871380FECE3CBDCEAD49DFB"
+				}
+				"lqabuild2"
+				{
+					"gid"		"31283D8889D00CC1654A800AFA6CE06C"
+					"size"		"85EE7E9806B70E7E676BE6C7A8783233"
+					"download"		"66E509C65F531F1F2956B9618FF4AAAD"
+				}
+				"mediareviews"
+				{
+					"gid"		"0D566A83828E0AEBB6E53A4F669EB73E"
+					"size"		"55ECA7A0EFED0327BB350AFA34898E03"
+					"download"		"B65C51760B45914CFE6313C97EC12E40"
+				}
+				"test"
+				{
+					"gid"		"25380FDDE28F3D799A59CC7C73375DD4"
+					"size"		"22ADD9A480F5C8EF315F571CA51F1D4F"
+					"download"		"D462264A6338B7C70B73798FC1AB2315"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10251497"
+				"timeupdated"		"1672798690"
+			}
+			"debug"
+			{
+				"buildid"		"10251497"
+				"pwdrequired"		"1"
+				"timeupdated"		"1672797703"
+			}
+			"debug2"
+			{
+				"buildid"		"9279035"
+				"pwdrequired"		"1"
+				"timeupdated"		"1660027943"
+			}
+			"lqabuild"
+			{
+				"buildid"		"9240814"
+				"pwdrequired"		"1"
+				"timeupdated"		"1659494509"
+			}
+			"lqabuild2"
+			{
+				"buildid"		"9214876"
+				"pwdrequired"		"1"
+				"timeupdated"		"1659090112"
+			}
+			"mediareviews"
+			{
+				"buildid"		"9279218"
+				"pwdrequired"		"1"
+				"timeupdated"		"1660029769"
+			}
+			"test"
+			{
+				"buildid"		"9866740"
+				"pwdrequired"		"1"
+				"timeupdated"		"1667528169"
+			}
+		}
+	}
+}
