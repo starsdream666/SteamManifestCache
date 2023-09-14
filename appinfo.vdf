@@ -1,0 +1,490 @@
+"appinfo"
+{
+	"appid"		"844380"
+	"common"
+	{
+		"name"		"Cave Digger"
+		"type"		"Game"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+			"seated"		"1"
+		}
+		"oslist"		"windows"
+		"osarch"		""
+		"icon"		"a9ed0959a75ffbec8bbd71f8492eaf1c369af0a2"
+		"logo"		"394e0da7bb31ecb6ca9faced44c15eff2e476f34"
+		"logo_small"		"394e0da7bb31ecb6ca9faced44c15eff2e476f34_thumb"
+		"clienttga"		"6012ea81d68607ad0dfc5610e61f17101373c1fd"
+		"clienticon"		"dc18987d8c56e149dc6c87b41b4a53f6bff1c1d3"
+		"releasestate"		"released"
+		"openvrsupport"		"1"
+		"othervrsupport"		"1"
+		"othervrsupport_rift_13"		"1"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"844380_eula_0"
+				"name"		"Cave Digger EULA"
+				"url"		"https://store.steampowered.com//eula/844380_eula_0"
+			}
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1666828800"
+			"tested_build_id"		"0"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_VR"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Cave Digger"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"44.31157078215901"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1667393950"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"VRKiwi"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"VRKiwi"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Cave Digger"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_25"		"1"
+			"category_52"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1525935600"
+		"steam_release_date"		"1525885860"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"844380"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"21978"
+			"2"		"3834"
+			"3"		"5981"
+			"4"		"9204"
+			"5"		"1738"
+			"6"		"4166"
+			"7"		"19"
+			"8"		"4136"
+			"9"		"1720"
+			"10"		"4106"
+			"11"		"5350"
+			"12"		"3810"
+			"13"		"1777"
+			"14"		"1647"
+			"15"		"1695"
+			"16"		"599"
+			"17"		"4182"
+			"18"		"6971"
+			"19"		"6426"
+		}
+		"review_score"		"6"
+		"review_percentage"		"76"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"VRKiwi"
+		"publisher"		"VRKiwi"
+		"homepage"		"https://vrkiwi.org/products/cave-digger/"
+		"listofdlc"		"870600,894780,955990"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Cave Digger"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"CaveDigger.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"CaveDigger.exe"
+				"type"		"othervr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"baselanguages"		"english,german,french,koreana,spanish,schinese,tchinese,russian"
+		"844382"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4731625742382129050"
+					"size"		"1855156924"
+					"download"		"1029019824"
+				}
+				"beta"
+				{
+					"gid"		"4731625742382129050"
+					"size"		"1855156924"
+					"download"		"1029019824"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"7037D16DF4567FF9EC809A64C79A3C7D"
+					"size"		"F1A27A2DC1DA41C434B6C26C9EA81247"
+					"download"		"07B1D2F580933D941B86A9E1F851965D"
+				}
+				"train"
+				{
+					"gid"		"878B0BCBDB77CB3531A997398817BCC7"
+					"size"		"BB64877EC397B48D326F7A427A248E30"
+					"download"		"4A9A1C33B7DF57134F8C7EC7C93A4035"
+				}
+			}
+		}
+		"844381"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1876584431450926043"
+					"size"		"831156504"
+					"download"		"490870736"
+				}
+				"beta"
+				{
+					"gid"		"1876584431450926043"
+					"size"		"831156504"
+					"download"		"490870736"
+				}
+				"beta2"
+				{
+					"gid"		"2636300779054116097"
+					"size"		"602958708"
+					"download"		"371945616"
+				}
+				"release"
+				{
+					"gid"		"2636300779054116097"
+					"size"		"602958708"
+					"download"		"371945616"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"DB875416ED746608015EA7C013D85EE8"
+					"size"		"67271CA8898C64FFEFBF81A2D5160E72"
+					"download"		"E6E9C18B49556A2271DB2BD36152B43E"
+				}
+				"train"
+				{
+					"gid"		"5A0AF0C68564A46345AFFF250C90373D"
+					"size"		"56076A5563A922F6CD3907F2B75DB70A"
+					"download"		"42168E3732E355E538A858027B1552F5"
+				}
+			}
+		}
+		"870600"
+		{
+			"dlcappid"		"870600"
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3852602113991978839"
+					"size"		"1855156924"
+					"download"		"1028888640"
+				}
+				"beta"
+				{
+					"gid"		"3852602113991978839"
+					"size"		"1855156924"
+					"download"		"1028888640"
+				}
+				"beta2"
+				{
+					"gid"		"6144261649049333026"
+					"size"		"3"
+					"download"		"48"
+				}
+				"release"
+				{
+					"gid"		"6144261649049333026"
+					"size"		"3"
+					"download"		"48"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"A66DC587DEC6C85841E9CCEB27A27CB3"
+					"size"		"F1A27A2DC1DA41C434B6C26C9EA81247"
+					"download"		"68FA5330B3F6146DC9743833C5C9FDD4"
+				}
+				"train"
+				{
+					"gid"		"B2A0A01DF9C3C95CAA4E3A7AD08A1C2A"
+					"size"		"1ABCFA961247AB5C723D9078F4E6F18E"
+					"download"		"65BB0482F46DCFA43FAD5D3A6ACE2CA2"
+				}
+			}
+		}
+		"894780"
+		{
+			"dlcappid"		"894780"
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8754122012244461827"
+					"size"		"2414080637"
+					"download"		"1529788096"
+				}
+				"beta"
+				{
+					"gid"		"8754122012244461827"
+					"size"		"2414080637"
+					"download"		"1529788096"
+				}
+				"beta2"
+				{
+					"gid"		"7408397439396609137"
+					"size"		"215500144"
+					"download"		"179720048"
+				}
+				"release"
+				{
+					"gid"		"7408397439396609137"
+					"size"		"215500144"
+					"download"		"179720048"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"B5F903468FC7B521E21A9CE0F1116549"
+					"size"		"E6086DA22D111E389D6EA40059CCF19F"
+					"download"		"A12D031C4B99111F4FFC491871AA69B8"
+				}
+				"train"
+				{
+					"gid"		"40556D79D50068D54CBF14FC40808D30"
+					"size"		"C32AB9F0C0E43E48F20DEF53058C8C3A"
+					"download"		"C9BD19697002BB9EA1C95D2C203B038F"
+				}
+			}
+		}
+		"955990"
+		{
+			"dlcappid"		"955990"
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2533621270054715142"
+					"size"		"577098889"
+					"download"		"518239616"
+				}
+				"beta"
+				{
+					"gid"		"2533621270054715142"
+					"size"		"577098889"
+					"download"		"518239616"
+				}
+				"release"
+				{
+					"gid"		"390580009984300365"
+					"size"		"178297191"
+					"download"		"159898448"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"623A22715AB3ABA2C0605574CEBC3685"
+					"size"		"F1396BB8A47A461BC0D7C5114AA38E28"
+					"download"		"5217BDA8CE4AC762F0E44BC285C7CD40"
+				}
+				"train"
+				{
+					"gid"		"788FE48EA9F475E1A396413ECDA27A8F"
+					"size"		"9498256F0FFC26AE30F8DFDE640678B9"
+					"download"		"CF9A7B29979AFD3D81B9E282313BBB9B"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7416796"
+				"timeupdated"		"1632473716"
+			}
+			"beta"
+			{
+				"buildid"		"7416796"
+				"timeupdated"		"1632473369"
+			}
+			"beta2"
+			{
+				"buildid"		"3070350"
+				"timeupdated"		"1536928202"
+			}
+			"release"
+			{
+				"buildid"		"3268938"
+				"timeupdated"		"1541109094"
+			}
+			"testing"
+			{
+				"buildid"		"7136113"
+				"pwdrequired"		"1"
+				"timeupdated"		"1628070722"
+			}
+			"train"
+			{
+				"buildid"		"4296912"
+				"pwdrequired"		"1"
+				"timeupdated"		"1571314141"
+			}
+		}
+	}
+}
