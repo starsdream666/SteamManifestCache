@@ -1,0 +1,259 @@
+"appinfo"
+{
+	"appid"		"1507190"
+	"common"
+	{
+		"name"		"Machinika Museum"
+		"type"		"Game"
+		"clienttga"		"983a73e80514baa5d1afe962e841c314f256a5d9"
+		"clienticon"		"05d237fdf6079f80534fa98c5946ebea71926d67"
+		"icon"		"f4bb2176803e4b08c0da1032ea59d9a995ccff5b"
+		"logo"		"217e91fec919bb599234828ce923631925281c63"
+		"logo_small"		"217e91fec919bb599234828ce923631925281c63_thumb"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		""
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"53.00793751088156"
+				"height_pct"		"64.58589636832136"
+			}
+		}
+		"store_asset_mtime"		"1658154849"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Littlefield Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"PID Games"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"PID Games"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1616514720"
+		"community_hub_visible"		"1"
+		"gameid"		"1507190"
+		"store_tags"
+		{
+			"0"		"1664"
+			"1"		"5716"
+			"2"		"1698"
+			"3"		"3942"
+			"4"		"4166"
+			"5"		"492"
+			"6"		"1738"
+			"7"		"3839"
+			"8"		"21"
+			"9"		"8369"
+			"10"		"6129"
+			"11"		"4295"
+			"12"		"1673"
+			"13"		"5794"
+			"14"		"1742"
+			"15"		"5094"
+			"16"		"4191"
+			"17"		"4182"
+			"18"		"4234"
+			"19"		"3968"
+		}
+		"review_score"		"8"
+		"review_percentage"		"91"
+	}
+	"extended"
+	{
+		"developer"		"Littlefield Studio"
+		"publisher"		"PID Games"
+		"homepage"		"http://www.littlefieldstudio.com/machinikamuseum/"
+	}
+	"config"
+	{
+		"installdir"		"Machinika Museum"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MachinikaMuseum.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"MachinikaMuseum.app"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,italian,spanish"
+		"1507191"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1797145726181049209"
+					"size"		"1595537531"
+					"download"		"595070704"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"robotobranch"
+				{
+					"gid"		"6F71EC3E1DE16AFFE65AB748761C83FB"
+					"size"		"896813F5D59ED22F396152A176C5F2CB"
+					"download"		"E29A20788B9A5B40BAB4C099705A8E0C"
+				}
+				"test"
+				{
+					"gid"		"C483740BA084A9BDA48EC84FC7C6B580"
+					"size"		"2169C14748989DA478DD5624D287E2FF"
+					"download"		"788CBF91C82E930C00EA2D6449861907"
+				}
+			}
+		}
+		"1507192"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8085212954669140357"
+					"size"		"1606187305"
+					"download"		"602512256"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"D88445EB8E0765D90C37C30FE1AEC946"
+					"size"		"31D3F3ACB2C012AA2081C66D4114788E"
+					"download"		"EF145021AD956EF6144EDF744D91094C"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9713474"
+				"timeupdated"		"1665663907"
+			}
+			"robotobranch"
+			{
+				"buildid"		"8033299"
+				"pwdrequired"		"1"
+				"timeupdated"		"1642413454"
+			}
+			"test"
+			{
+				"buildid"		"9707399"
+				"pwdrequired"		"1"
+				"timeupdated"		"1665595507"
+			}
+		}
+	}
+}
