@@ -1,0 +1,700 @@
+"appinfo"
+{
+	"appid"		"1868140"
+	"common"
+	{
+		"name"		"DAVE THE DIVER"
+		"type"		"Game"
+		"releasestate"		"released"
+		"icon"		"2f19d6889f66eae88e8b5a36727d560ec88a00cb"
+		"clienticns"		"26213a80822b38e1381b5e3c989f36475b3793f2"
+		"linuxclienticon"		"77d995e9c0e6fc1b103875c185dbc9ffaaa09e23"
+		"clienticon"		"ac24c6922f55c7dd7ab535f871c9adff300e6feb"
+		"clienttga"		"2d5bfa23d57ee80d4aad588727cee6f10763db9c"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"japanese"		"1"
+			"portuguese"		"1"
+			"brazilian"		"1"
+			"latam"		"1"
+		}
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64,macosapplesilicon,macosnotarized"
+		"name_localized"
+		{
+			"koreana"		"데이브 더 다이버"
+			"japanese"		"デイヴ・ザ・ダイバー"
+			"schinese"		"潜水员戴夫 DAVE THE DIVER"
+			"tchinese"		"潛水員戴夫 DAVE THE DIVER"
+			"spanish"		"DAVE THE DIVER"
+			"german"		"DAVE THE DIVER"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1670457600"
+			"tested_build_id"		"10006101"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-5"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Dave the Diver"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1692149356"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"MINTROCKET"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"MINTROCKET"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"23"
+			"3"		"3"
+			"4"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_33"		"1"
+			"category_23"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1687942826"
+		"metacritic_score"		"90"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/dave-the-diver?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1868140"
+		"store_tags"
+		{
+			"0"		"3964"
+			"1"		"597"
+			"2"		"21"
+			"3"		"122"
+			"4"		"599"
+			"5"		"12472"
+			"6"		"1654"
+			"7"		"15564"
+			"8"		"492"
+			"9"		"87918"
+			"10"		"9157"
+			"11"		"3834"
+			"12"		"1702"
+			"13"		"3871"
+			"14"		"4182"
+			"15"		"1742"
+			"16"		"3959"
+			"17"		"4136"
+			"18"		"493"
+			"19"		"22602"
+		}
+		"review_score"		"9"
+		"review_percentage"		"97"
+	}
+	"extended"
+	{
+		"developer"		"MINTROCKET"
+		"publisher"		"MINTROCKET"
+		"homepage"		"https://mintrocketgames.com/"
+		"listofdlc"		"2492320"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Dave the Diver"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"DaveTheDiver.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"DaveTheDiver.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"nightly"
+				}
+				"description_loc"
+				{
+					"english"		"내부 테스트 브랜치"
+				}
+				"description"		"내부 테스트 브랜치"
+			}
+			"2"
+			{
+				"executable"		"DaveTheDiver.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"develop"
+				}
+				"description_loc"
+				{
+					"english"		"개발용"
+				}
+				"description"		"개발용"
+			}
+			"3"
+			{
+				"executable"		"ProjectDR.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"build_fgt"
+				}
+				"description_loc"
+				{
+					"english"		"FGT 빌드"
+				}
+				"description"		"FGT 빌드"
+			}
+			"4"
+			{
+				"executable"		"DaveTheDiver.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"preview"
+				}
+				"description_loc"
+				{
+					"english"		"Preview 빌드"
+				}
+				"description"		"Preview 빌드"
+			}
+			"5"
+			{
+				"executable"		"ProjectDR.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"build_fgt_qa"
+				}
+				"description_loc"
+				{
+					"english"		"FGT QA빌드"
+				}
+				"description"		"FGT QA빌드"
+			}
+			"6"
+			{
+				"executable"		"DaveTheDiver.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"anticheat_qa"
+				}
+				"description_loc"
+				{
+					"english"		"보안 QA 빌드"
+				}
+				"description"		"보안 QA 빌드"
+			}
+			"7"
+			{
+				"executable"		"DaveTheDiver.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"master_dev"
+				}
+				"description_loc"
+				{
+					"english"		"마스터 브랜치 개발팀 테스트 빌드"
+				}
+				"description"		"마스터 브랜치 개발팀 테스트 빌드"
+			}
+			"8"
+			{
+				"executable"		"DaveTheDiver.app"
+				"config"
+				{
+					"oslist"		"macos"
+					"betakey"		"develop_mac"
+				}
+				"description_loc"
+				{
+					"english"		"Mac 개발"
+				}
+				"description"		"Mac 개발"
+			}
+			"9"
+			{
+				"executable"		"DaveTheDiver.app"
+				"config"
+				{
+					"oslist"		"macos"
+					"betakey"		"nightly"
+				}
+				"description_loc"
+				{
+					"english"		"Mac QA용"
+				}
+				"description"		"Mac QA용"
+			}
+			"10"
+			{
+				"executable"		"DaveTheDiver.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"language_qa"
+				}
+				"description_loc"
+				{
+					"english"		"언어 검수용"
+				}
+				"description"		"언어 검수용"
+			}
+			"11"
+			{
+				"executable"		"DaveTheDiver.app"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"12"
+			{
+				"executable"		"DaveTheDiver.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"master_qa"
+				}
+				"description_loc"
+				{
+					"english"		"마스터 브랜치 QA 테스트 빌드"
+				}
+				"description"		"마스터 브랜치 QA 테스트 빌드"
+			}
+			"13"
+			{
+				"executable"		"DaveTheDiver.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"steam_dev"
+				}
+				"description_loc"
+				{
+					"english"		"Dev"
+				}
+				"description"		"Dev"
+			}
+			"14"
+			{
+				"executable"		"DaveTheDiver.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"steam_qa"
+				}
+				"description_loc"
+				{
+					"english"		"QA"
+				}
+				"description"		"QA"
+			}
+			"15"
+			{
+				"executable"		"DaveTheDiver.app"
+				"config"
+				{
+					"oslist"		"macos"
+					"betakey"		"steam_qa"
+				}
+				"description_loc"
+				{
+					"english"		"QA"
+				}
+				"description"		"QA"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1868141"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7243024866047903742"
+					"size"		"2186004715"
+					"download"		"1689237296"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"build_fgt"
+				{
+					"gid"		"E0A84884F38742A6BD9A4B68643EC388"
+					"size"		"35FC37FF5D0892DBF278C79F097D4D01"
+					"download"		"003FF7213B3B2F1516892A733480D992"
+				}
+				"language_qa"
+				{
+					"gid"		"0566D1B7534DB1F9EC14D67153B8E1C1"
+					"size"		"251D74736B5A7095951413C5D0FDE138"
+					"download"		"E2BA82479E14DD992CFB9B0ADEAAC478"
+				}
+				"master_dev"
+				{
+					"gid"		"108E534FF1A592727F1365F3AE002298"
+					"size"		"BCF5EB5F0B504A9A435B6B717F7A0AB9"
+					"download"		"036128EF9A090E6617AB472AC4C264DC"
+				}
+				"master_qa"
+				{
+					"gid"		"8A86DB270300176518A0655D981A45C1"
+					"size"		"40B50CBD4A35BF410902F921AE63F144"
+					"download"		"2FEEB31911E8E4206558FDAC10DA7196"
+				}
+				"preview"
+				{
+					"gid"		"87E9E8F0F3AC955004979D4F2442BAF6"
+					"size"		"A05DF6C4096808220926D1018FD3AA5A"
+					"download"		"6A9D2ECD6516F951DFAF042B87991C6A"
+				}
+				"steam_dev"
+				{
+					"gid"		"35D9EABDA4BE477C61805E8BDAFB232B"
+					"size"		"C901901FEEB00EBA2DB2E0B1C73C88C0"
+					"download"		"2D84863CEDC504C4E65456826C7A65A8"
+				}
+				"steam_hotfix_qa"
+				{
+					"gid"		"C17AFB02721BE335F582C4F9EA3D6AB5"
+					"size"		"6F9F4FD2068D275E362F388EAB6C59CB"
+					"download"		"1757CF385A015F08D4C56E9A63AB9D0B"
+				}
+				"steam_qa"
+				{
+					"gid"		"D22284D9C4CE38EC710E8B9C4421ED57"
+					"size"		"09A2B3E99A7B5F1B1847060265AC1AA3"
+					"download"		"5099FF0A24B0EFAFE922568EDA691CB8"
+				}
+			}
+		}
+		"1868142"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3504668116955484359"
+					"size"		"2635618566"
+					"download"		"1750505552"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"language_qa"
+				{
+					"gid"		"1B9A966B421B27656053741E5A2C6D6C"
+					"size"		"562AF259455F0ED15C5F8B86A93FA760"
+					"download"		"EA1A10DDBDEE4C9C1DCCFE6BCB0776DC"
+				}
+				"master_dev"
+				{
+					"gid"		"52694F7DC46C8C534D7F8C7C53286C16"
+					"size"		"99953F269A400FB73390AF42D7D4395E"
+					"download"		"6C833E1B23E287B06D487A246F83F994"
+				}
+				"master_qa"
+				{
+					"gid"		"B0171DEB6D1F8412F736383DA545B208"
+					"size"		"7244B9233F9276AA962E336CE4EEADED"
+					"download"		"941DC6A8F1F8C0864E5868B4EF432877"
+				}
+				"preview"
+				{
+					"gid"		"F89084B6FA72D1CB335D050E00A130F2"
+					"size"		"E7667A1292EC222DDF28FEDB783278F9"
+					"download"		"C0AFA8198882F435D509067B3A9C1A1F"
+				}
+				"steam_dev"
+				{
+					"gid"		"1F6770F0B4302418959AFF99E62C1D90"
+					"size"		"BAB46B024A9D90291DE635F50E705197"
+					"download"		"2C304599B50006B24ABB8C7A84E77934"
+				}
+				"steam_hotfix_qa"
+				{
+					"gid"		"FA49261492DFF6B89D07618BCBDED39C"
+					"size"		"83907E29C5F9FC50F152E01E09A00CB4"
+					"download"		"4953A27D90F73452D20640239D788F8A"
+				}
+				"steam_qa"
+				{
+					"gid"		"17D1E8A766CA4D2DF20D687DF3ACACBE"
+					"size"		"0A730C89F719DC5712B514FB8B626A21"
+					"download"		"28D595932C842F854B1FCFA8DE618D1C"
+				}
+			}
+		}
+		"2463870"
+		{
+			"dlcappid"		"2463870"
+		}
+		"2492320"
+		{
+			"dlcappid"		"2492320"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3051017603712863135"
+					"size"		"489645488"
+					"download"		"394016704"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"language_qa"
+				{
+					"gid"		"EA465C2DE957FF229A288BB3E3558E3C"
+					"size"		"F6F16970FFA42ACD8CC09E5E7C86E17C"
+					"download"		"33653D78012ECF9E87817629D1C57023"
+				}
+				"master_dev"
+				{
+					"gid"		"3205353E0DB86F8E6CDE5D55791BC229"
+					"size"		"D102F90F895344347F8107B471E994F7"
+					"download"		"362622D5E780CA290256A3D276F01096"
+				}
+				"master_qa"
+				{
+					"gid"		"0466CCDF0F5B39A7C5155DC1B2F28B6E"
+					"size"		"C5CC9F2AE1CBC4993936814DB65F6F54"
+					"download"		"9E99A83583340C6A35FF6BDA7CE6E4C1"
+				}
+				"steam_dev"
+				{
+					"gid"		"E1AB95197C8958CEB3D2185EC0824AF5"
+					"size"		"71C842309DA9FED6F9A1F26F749A9B3E"
+					"download"		"296AD5B54D90FE961F3F91BE1225C0CE"
+				}
+				"steam_hotfix_qa"
+				{
+					"gid"		"FA6E420C75E8A92763520C3E1C07A869"
+					"size"		"E2BF8AF2DCC669DC3EF467A837D8FF29"
+					"download"		"90890348B040FB67E38976D73DB7DC11"
+				}
+				"steam_qa"
+				{
+					"gid"		"36A636D3AD7A5D83D55B7543DDEDED15"
+					"size"		"1AF83A35EB1BB498EB883A270BC0161E"
+					"download"		"84CA386EC01895EFACC785CB471B9521"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12121416"
+				"timeupdated"		"1694071930"
+			}
+			"build_fgt"
+			{
+				"buildid"		"8815615"
+				"pwdrequired"		"1"
+				"timeupdated"		"1653579054"
+			}
+			"language_qa"
+			{
+				"buildid"		"11680799"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689139660"
+			}
+			"master_dev"
+			{
+				"buildid"		"12167251"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694510512"
+			}
+			"master_qa"
+			{
+				"buildid"		"12167284"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694510461"
+			}
+			"preview"
+			{
+				"buildid"		"11546377"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687543936"
+			}
+			"steam_dev"
+			{
+				"buildid"		"12174174"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694570786"
+			}
+			"steam_hotfix_qa"
+			{
+				"buildid"		"12121416"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693996214"
+			}
+			"steam_qa"
+			{
+				"buildid"		"12168163"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694517803"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"50000000"
+		"maxnumfiles"		"50"
+		"sync_while_suspended"		"1"
+	}
+}
