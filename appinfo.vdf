@@ -1,0 +1,743 @@
+"appinfo"
+{
+	"appid"		"1321440"
+	"common"
+	{
+		"name"		"Cassette Beasts"
+		"type"		"Game"
+		"releasestate"		"released"
+		"clienticon"		"2447803eb06f7b22697074f365c2ee7d037142bb"
+		"clienttga"		"4ee23ceaa0477415cbd86735dc50406bb7177ec6"
+		"icon"		"025b36a9292a681265ffd1313d6041510d899db1"
+		"logo"		"5c0a04030d27c0b0df5f05aa01f9914b40b5cc8b"
+		"logo_small"		"5c0a04030d27c0b0df5f05aa01f9914b40b5cc8b_thumb"
+		"oslist"		"windows,linux"
+		"osarch"		"64"
+		"osextended"		""
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"japanese"		"1"
+			"brazilian"		"1"
+			"latam"		"1"
+		}
+		"name_localized"
+		{
+			"schinese"		"Cassette Beasts 磁带妖怪"
+			"tchinese"		"Cassette Beasts 磁帶怪獸"
+			"japanese"		"Cassette Beasts カセット ビースト"
+			"koreana"		"Cassette Beasts 카세트 비스트"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1675209600"
+			"tested_build_id"		"10295286"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"tchinese"		"header_tchinese.jpg"
+			"schinese"		"header_schinese.jpg"
+			"japanese"		"header_japanese.jpg"
+			"koreana"		"header_koreana.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn,zh-tw,ja,ko"
+			"library_hero"		"en,ko"
+			"library_logo"		"en,zh-cn,zh-tw,ja,ko"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"28.358061802498483"
+				"height_pct"		"96.96034196152932"
+			}
+		}
+		"store_asset_mtime"		"1694538684"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Bytten Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Raw Fury"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Cassette Beasts"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_28"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_44"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1682521109"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1321440"
+		"store_tags"
+		{
+			"0"		"4434"
+			"1"		"122"
+			"2"		"1677"
+			"3"		"1742"
+			"4"		"3834"
+			"5"		"3964"
+			"6"		"1719"
+			"7"		"1684"
+			"8"		"7481"
+			"9"		"916648"
+			"10"		"4325"
+			"11"		"4136"
+			"12"		"4004"
+			"13"		"5608"
+			"14"		"7368"
+			"15"		"4305"
+			"16"		"3871"
+			"17"		"4182"
+			"18"		"3859"
+			"19"		"3854"
+		}
+		"review_score"		"9"
+		"review_percentage"		"96"
+	}
+	"extended"
+	{
+		"absolutemousecoordinates"		"1"
+		"remoteplaytogethertestingbranches"		"default,backup,daily,internal,staging"
+		"developer"		"Bytten Studio"
+		"publisher"		"Raw Fury"
+		"homepage"		"https://www.cassettebeasts.com"
+		"listofdlc"		"2202290,2202291,2259040"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Cassette Beasts"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"CassetteBeasts.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"CassetteBeasts.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+			"2"
+			{
+				"executable"		"CassetteBeasts.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"workshopdepot"		"1321440"
+		"hasdepotsindlc"		"1"
+		"1321441"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4297403208189518943"
+					"size"		"953740804"
+					"download"		"667151936"
+				}
+				"daily"
+				{
+					"gid"		"4995225821090568843"
+					"size"		"953962852"
+					"download"		"667113632"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"backup"
+				{
+					"gid"		"49C1C357A3ADB262EA303198DF9984D6"
+					"size"		"3C4A0A5184D53125F22F944390FB1CE5"
+					"download"		"EDE0BD144A42BF4428695473BD70B93E"
+				}
+				"daily_next"
+				{
+					"gid"		"8C8F9B791250CC2946B57CF3B926EE0D"
+					"size"		"002E2E3FCC9C626F4D2DEF9985195D7C"
+					"download"		"D38BDB81DD8A27CBFBD3379A2AAB9329"
+				}
+				"debug"
+				{
+					"gid"		"7CFFCC7392C23D14FF6C70F85F4057E1"
+					"size"		"D0B22E31339CB236D6B3CAA4F06B49DE"
+					"download"		"60ACE47F081BDCBF68B2895097A0FFFF"
+				}
+				"demo"
+				{
+					"gid"		"30707D42FB4B8EE5D7E6ABBDE9AA1DA9"
+					"size"		"BB34B316F0785C6257512EBAC1F1E060"
+					"download"		"AC6D5097913EA73B5091106EAB62F2B3"
+				}
+				"gamebreakers"
+				{
+					"gid"		"C86009B12E2F99C93E7B757B5AFA0714"
+					"size"		"B9FF10EDB5A050B605A607ED9019EDBB"
+					"download"		"8740EB2758F4041EF3BDC09EC68B22E1"
+				}
+				"internal"
+				{
+					"gid"		"BE1D11F5FF6526C3064DF0D2D76040F4"
+					"size"		"E2007AC2502A985FC750186210898CE4"
+					"download"		"453A63A58D140E79A0ED801E4BB134C4"
+				}
+				"internal2"
+				{
+					"gid"		"D64EA36BE6AEB12B21066FDC30ED19DB"
+					"size"		"F6C122C4C26EF1B91D27709D7D1E422F"
+					"download"		"53A9329FC246E8C5CF5770F172AC8C6C"
+				}
+				"press_preview"
+				{
+					"gid"		"1C2EE8A8E256EEB098AFBCF90AFA8FF4"
+					"size"		"98C11D56122C89F99585C95874AA3CD1"
+					"download"		"83DE7C859CB20247B2D2E7F311BC58F2"
+				}
+				"staging"
+				{
+					"gid"		"44D1F4C49DCBE5CBA72D6726216D8ECC"
+					"size"		"064E10EE14243855A0B069ACCE32E925"
+					"download"		"01E986620C424581BE536B5DAFF02E35"
+				}
+			}
+		}
+		"1321442"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4935585913315676090"
+					"size"		"964366413"
+					"download"		"669635584"
+				}
+				"daily"
+				{
+					"gid"		"5289867037215922410"
+					"size"		"964366765"
+					"download"		"669636704"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"backup"
+				{
+					"gid"		"CC224742722A425E1E6AE936C88C18E2"
+					"size"		"81D472049D5D9FF30FC6A53783080D2A"
+					"download"		"C2E5263AE1C738E6EFA8D832A82A9439"
+				}
+				"daily_next"
+				{
+					"gid"		"D4972619C25FAF9F06A10E84900C23C4"
+					"size"		"3D9BE48A8D144D3FFA0E8FEA508A8FB8"
+					"download"		"96825B7795E73A43300E5B325FF5871E"
+				}
+				"debug"
+				{
+					"gid"		"D0EDE288DE4D0D7308F83E0FABD478A0"
+					"size"		"3BF1969A5EA5DAE42E99C306BE6C434E"
+					"download"		"3BF1969A5EA5DAE42E99C306BE6C434E"
+				}
+				"demo"
+				{
+					"gid"		"709881DC4F193A0EED995FA15CD31D20"
+					"size"		"CEA52D250291D784A599DFD41B4125E6"
+					"download"		"BB03ED5B07538B549E3E7FC1DC3139D5"
+				}
+				"gamebreakers"
+				{
+					"gid"		"4263AE9966925CFCFC69BDA4B0DDBDA0"
+					"size"		"A3E6E046CEF7D4BD866E6CE665C1E008"
+					"download"		"712C9B9B3870A3264733926B17F80877"
+				}
+				"internal"
+				{
+					"gid"		"29886F8F4850C2AFB8ABFF2EC074370C"
+					"size"		"A41EEF757D4A053F237D5B7F26174BF2"
+					"download"		"C6EF7870DBF3F4D44639B07A305347CD"
+				}
+				"internal2"
+				{
+					"gid"		"085575C43A20B28AADF197427B919260"
+					"size"		"0B87A6C15D87A7BEF719FD12D9D3C6E4"
+					"download"		"55770C134F1E4F552AB675B9F588EAD2"
+				}
+				"press_preview"
+				{
+					"gid"		"F6675BEAFAF53472EBE6D470C280B7D8"
+					"size"		"2710131A96F004ED6947206B569ACEB9"
+					"download"		"D771BD027809A28A438DDBC844EF5C0D"
+				}
+				"staging"
+				{
+					"gid"		"E657A78C26864A23CA88639AA61B9B87"
+					"size"		"751BB5A209DBD3C77BFEE08133C6526B"
+					"download"		"014E68E558350F6C670F74CCD39EE6DB"
+				}
+			}
+		}
+		"1321443"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4933693970852212083"
+					"size"		"993712405"
+					"download"		"678746288"
+				}
+				"daily"
+				{
+					"gid"		"1692427647405631126"
+					"size"		"993712757"
+					"download"		"678746736"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"backup"
+				{
+					"gid"		"639F72F3FA9F61E964CB3679BB293753"
+					"size"		"526AB4F918F032B3B484F3A4C55A1944"
+					"download"		"35324F71602D1E7F83630745862E2F34"
+				}
+				"daily_next"
+				{
+					"gid"		"94C9EF0649041F936137FD0ECCBAAF50"
+					"size"		"0A7123B8A5494A51A652E722F6C45391"
+					"download"		"EE469821369F0240D510146FCA749654"
+				}
+				"debug"
+				{
+					"gid"		"700DAF5CBE0181BB986204885BA5F1E9"
+					"size"		"3BF1969A5EA5DAE42E99C306BE6C434E"
+					"download"		"3BF1969A5EA5DAE42E99C306BE6C434E"
+				}
+				"demo"
+				{
+					"gid"		"5058A1F35C523A782653BF28A086BB50"
+					"size"		"E2C586201DAF0E9907A6CE2EC2F039C6"
+					"download"		"E2C586201DAF0E9907A6CE2EC2F039C6"
+				}
+				"gamebreakers"
+				{
+					"gid"		"0F03894A509933758993952255DABE32"
+					"size"		"81920B7075388A4235924E4A92B417A5"
+					"download"		"6D83A8A23758F95762A03EE66909FE9F"
+				}
+				"internal"
+				{
+					"gid"		"097C94714F467B72E4C76C67E081CDF4"
+					"size"		"A30839AA46D726F8A90BCC318B652079"
+					"download"		"76F96F20095CF119E9D09485B96A6C93"
+				}
+				"internal2"
+				{
+					"gid"		"AA992D00D8B758CE9F2CF39686C1A8C7"
+					"size"		"2F40E6ACBA2D05DD67D5C3B285729446"
+					"download"		"9F49296AA995E6E22AD9A67C5B6F16EE"
+				}
+				"press_preview"
+				{
+					"gid"		"372C5C6F12AB1E9BDB609A22ECABED41"
+					"size"		"9A8CF48C52852AA4796DF89C0060BB3E"
+					"download"		"B705996DF0F250FD3DB9350E432E17B9"
+				}
+				"staging"
+				{
+					"gid"		"7F1996B0E33DBADBDC1D249976B10841"
+					"size"		"888CF07F7CD624F9180CA51FC2C27A6A"
+					"download"		"2A9B232C53FADE65F42464AFFB29DD1F"
+				}
+			}
+		}
+		"2202290"
+		{
+			"dlcappid"		"2202290"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"271916677307677808"
+					"size"		"553"
+					"download"		"352"
+				}
+				"daily"
+				{
+					"gid"		"271916677307677808"
+					"size"		"553"
+					"download"		"352"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"daily_next"
+				{
+					"gid"		"1B8CC20396E43C648A8938362C3B5374"
+					"size"		"F584D0300951338E0E2FA240676A74D9"
+					"download"		"755D21D3089CA8BBB803C0E8D56AD723"
+				}
+				"debug"
+				{
+					"gid"		"8A513BA358B8FE0AF22864CEA5FBCBAF"
+					"size"		"097A0F25D337460CF24DC9685C4338A3"
+					"download"		"661B005C5A2C78C8D038C4FB9E86FE06"
+				}
+				"gamebreakers"
+				{
+					"gid"		"90E4FC66DFEE1CFBF336DF869FDF26DA"
+					"size"		"C0F9FA1AFB5F3023C47415EEE8868405"
+					"download"		"5AA72BDBC45CC080A96797F2C929A738"
+				}
+				"internal"
+				{
+					"gid"		"4ADAE98C592CB402F21352095584D66C"
+					"size"		"D8ACFAEB5B312E398FE866EF254C3B0B"
+					"download"		"A0719E50F8A9CC36E2ABFF5B716C9225"
+				}
+				"internal2"
+				{
+					"gid"		"0446CED7F0F42A9D3B3958AF44E86256"
+					"size"		"DF576BE946E6CB2401697C98D619C19E"
+					"download"		"3CA98814981C65F2BCC0F1EAF8DB1DF9"
+				}
+				"staging"
+				{
+					"gid"		"8C75E688B2994457859984B2157BC5B9"
+					"size"		"23C62A92133C6CA36E042F1DC0ADB991"
+					"download"		"AE57EEEC108F4F497293D95AD395CB44"
+				}
+			}
+		}
+		"2202291"
+		{
+			"dlcappid"		"2202291"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4763345076499261952"
+					"size"		"0"
+					"download"		"0"
+				}
+				"daily"
+				{
+					"gid"		"4763345076499261952"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"daily_next"
+				{
+					"gid"		"5C8A611F5689986287B0FBE684ED391F"
+					"size"		"9216CB20B1B63EBD49EFDC21DF1CC851"
+					"download"		"DEE6AF7D3EFDB3763CF3F53B4793FB6C"
+				}
+				"debug"
+				{
+					"gid"		"27DA56F908F08D04D58FFF677FCF03E7"
+					"size"		"3BF1969A5EA5DAE42E99C306BE6C434E"
+					"download"		"3BF1969A5EA5DAE42E99C306BE6C434E"
+				}
+				"gamebreakers"
+				{
+					"gid"		"FB282D6890703DE56BF8FCC06E35E077"
+					"size"		"3A1EE559512F4192AAC1CD3DB64B2DCC"
+					"download"		"3A1EE559512F4192AAC1CD3DB64B2DCC"
+				}
+				"internal"
+				{
+					"gid"		"FC40E6096770FF0B5569636343AEB564"
+					"size"		"471454995D180263E97AF18B28B487B9"
+					"download"		"F341F19479ABFCB17FEDB344D62DBC5A"
+				}
+				"internal2"
+				{
+					"gid"		"5CC78606A5688E3C792C23C3986E6234"
+					"size"		"15EF267F167999E2603FE335353896A0"
+					"download"		"247EB3DFB2EAFEA81148327598540D40"
+				}
+				"staging"
+				{
+					"gid"		"BDC7B11DC98379FA244CDA48A2753707"
+					"size"		"6A2A7119AE8A80132EBF74A11C0A146E"
+					"download"		"6A2A7119AE8A80132EBF74A11C0A146E"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11458880"
+				"timeupdated"		"1687964487"
+			}
+			"backup"
+			{
+				"buildid"		"10516506"
+				"pwdrequired"		"1"
+				"timeupdated"		"1676565103"
+			}
+			"daily"
+			{
+				"buildid"		"12173327"
+				"description"		"Public beta, for testing fixes. Updates most days"
+				"timeupdated"		"1694561223"
+			}
+			"daily_next"
+			{
+				"buildid"		"12173972"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694568443"
+			}
+			"debug"
+			{
+				"buildid"		"11773369"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690201983"
+			}
+			"demo"
+			{
+				"buildid"		"11458907"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686665799"
+			}
+			"gamebreakers"
+			{
+				"buildid"		"11458880"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687198173"
+			}
+			"internal"
+			{
+				"buildid"		"12172628"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694554117"
+			}
+			"internal2"
+			{
+				"buildid"		"10606640"
+				"pwdrequired"		"1"
+				"timeupdated"		"1677243994"
+			}
+			"press_preview"
+			{
+				"buildid"		"9909265"
+				"pwdrequired"		"1"
+				"timeupdated"		"1668086081"
+			}
+			"staging"
+			{
+				"buildid"		"11458880"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686665583"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"50000000"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"1"
+			{
+				"root"		"LinuxXdgDataHome"
+				"path"		"CassetteBeasts"
+				"pattern"		"*.png"
+			}
+			"4"
+			{
+				"root"		"LinuxXdgDataHome"
+				"path"		"CassetteBeasts"
+				"pattern"		"*.json.gz.gcpf"
+			}
+			"5"
+			{
+				"root"		"LinuxXdgDataHome"
+				"path"		"CassetteBeasts"
+				"pattern"		"*.json.gz.gcpf1"
+			}
+			"6"
+			{
+				"root"		"LinuxXdgDataHome"
+				"path"		"CassetteBeasts"
+				"pattern"		"*.json.gz.gcpf2"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"LinuxXdgDataHome"
+				"os"		"Windows"
+				"oscompare"		"="
+				"useinstead"		"WinAppDataRoaming"
+				"addpath"		""
+			}
+		}
+	}
+}
