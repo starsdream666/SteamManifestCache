@@ -1,0 +1,598 @@
+"appinfo"
+{
+	"appid"		"1372110"
+	"common"
+	{
+		"name"		"JoJo's Bizarre Adventure: All-Star Battle R"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1372110_eula_1"
+				"name"		"JoJo's Bizarre Adventure: All-Star Battle R EULA"
+				"url"		"https://store.steampowered.com//eula/1372110_eula_1"
+				"version"		"8"
+			}
+		}
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"japanese"		"1"
+		}
+		"name_localized"
+		{
+			"japanese"		"ジョジョの奇妙な冒険 オールスターバトル R"
+			"koreana"		"죠죠의 기묘한 모험 올 스타 배틀 R"
+			"schinese"		"JOJO的奇妙冒险 群星之战 重制版"
+			"tchinese"		"JOJO的奇妙冒險 群星之戰 重製版"
+		}
+		"clienticon"		"2ec5111d273e82eeb0e78093cc4d02cef44dbd09"
+		"clienttga"		"3b9cb31d1d5412bd0b3ce81c084af72d1f7a8ed1"
+		"icon"		"ffeed3baa92f2bc742f2ed26eacdd89a0085aa29"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1666742400"
+			"tested_build_id"		"9539380"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-5"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"1"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"koreana"		"capsule_231x87_koreana.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"japanese"		"header_japanese.jpg"
+			"koreana"		"header_koreana.jpg"
+			"tchinese"		"header_tchinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,ja,ko,zh-tw"
+			"library_hero"		"en,ja,ko,zh-tw"
+			"library_logo"		"en,ja,ko,zh-tw"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"59.18604651162791"
+				"height_pct"		"57.9791023509855"
+			}
+		}
+		"store_asset_mtime"		"1685424718"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"CyberConnect2 Co. Ltd."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Bandai Namco Entertainment"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Bandai Namco Entertainment"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_24"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_25"		"1"
+			"category_28"		"1"
+			"category_9"		"1"
+			"category_39"		"1"
+			"category_44"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1662069612"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1372110"
+		"store_tags"
+		{
+			"0"		"4085"
+			"1"		"19"
+			"2"		"1743"
+			"3"		"1775"
+			"4"		"3859"
+			"5"		"4736"
+			"6"		"6506"
+			"7"		"10397"
+			"8"		"3871"
+			"9"		"1756"
+			"10"		"4191"
+			"11"		"4305"
+			"12"		"1742"
+			"13"		"4667"
+			"14"		"4975"
+			"15"		"5379"
+			"16"		"3841"
+			"17"		"7481"
+			"18"		"5350"
+			"19"		"6650"
+		}
+		"review_score"		"8"
+		"review_percentage"		"87"
+	}
+	"extended"
+	{
+		"developer"		"CyberConnect2 Co. Ltd."
+		"publisher"		"Bandai Namco Entertainment"
+		"homepage"		"https://jojoasbr.bn-ent.net/"
+		"listofdlc"		"1941060,1941061,1941062,1941063,2001010,2001011,2001012,2001013,2001014,2382760,2382763,2382764"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"JoJo's Bizarre Adventure All-Star Battle R"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"start_protected_game.exe"
+			}
+			"1"
+			{
+				"executable"		"ASBR.exe"
+				"config"
+				{
+					"betakey"		"development, dev-debug, dev-debug-preview, dev-release, dev-release-preview, dev-debug-patched, dev-debug-patched-preview, dev-release-patched, dev-release-patched-preview"
+				}
+				"description_loc"
+				{
+					"english"		"Play without Easy Anti-Cheat"
+				}
+				"description"		"Play without Easy Anti-Cheat"
+			}
+			"2"
+			{
+				"executable"		"ASB.exe"
+				"config"
+				{
+					"betakey"		"build-review, ccs-debug, compat, usk_build"
+				}
+				"description_loc"
+				{
+					"english"		"Play without Easy Anti-Cheat"
+				}
+				"description"		"Play without Easy Anti-Cheat"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,japanese"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1372111"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7104823820954452577"
+					"size"		"5216583030"
+					"download"		"4953305040"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"0721_beta"
+				{
+					"gid"		"B855443B12D0EB0CB281287E16364590"
+					"size"		"6E817E39466F1F2380F8B430D4E52D35"
+					"download"		"02AFDFA71157BB314FA2CA8F4D697EAC"
+				}
+				"0810-alpha"
+				{
+					"gid"		"64E2062BCD69A93F42881A7A2C69CBE6"
+					"size"		"A5188F168992AD006B73AA10D01A6C6E"
+					"download"		"B2792E7C1C7ABE45632F831415C3CBDF"
+				}
+				"0901_alpha"
+				{
+					"gid"		"7982ABBA94B7065A4E177F3751E0C454"
+					"size"		"C0B3ECAA67E846C51C00DEE855A22533"
+					"download"		"8BC6FD32E933329CE13F44EF89420134"
+				}
+				"build-review"
+				{
+					"gid"		"4934B497C969F2A5769E9C599DF0EDDE"
+					"size"		"EF62580EFD7AD886B1A460FDCC48974C"
+					"download"		"5EEB126A19D8718239BC1AB4B8F20B34"
+				}
+				"ccs-debug"
+				{
+					"gid"		"854E9626C59FE7F8A06219FC4C3B0F58"
+					"size"		"B4CEFB99B91A55E30153ACEA1292068E"
+					"download"		"22BACF345B77F9983C49E055E472284B"
+				}
+				"compat"
+				{
+					"gid"		"2652CA90E9E1490B4DC2226DD889388C"
+					"size"		"193C57EACEE4959E8288D9763D0B1431"
+					"download"		"B537E2AB211781515471033D85042900"
+				}
+				"dev-debug-patched"
+				{
+					"gid"		"61E11FE524ECE6A711D646DD4924D4E9"
+					"size"		"71C454C5334E34157595C2DFF1344957"
+					"download"		"563C1765DBCFF5BDF4BB578C1D4531CC"
+				}
+				"dev-debug-patched-preview"
+				{
+					"gid"		"9023B31C0B317081E2474D1C29D98130"
+					"size"		"275861ECD1D000D3C856B3C2ABBC1817"
+					"download"		"CB0CDB636C245FF1C41EE8F2E82B5CEA"
+				}
+				"dev-debug-patched2"
+				{
+					"gid"		"86A9CF8961BF8871AB60D38364A980CB"
+					"size"		"90B3D805B6B16E2180851ADB5B1EEDB8"
+					"download"		"82EA42468771F46D648AB74183F6185A"
+				}
+				"dev-release-day1"
+				{
+					"gid"		"20F55F48DB00F6030002410A5A6C1DEB"
+					"size"		"A3CD10504C886B5DD35962B66043A8E1"
+					"download"		"383C0DD9B116577121ACF3960DF16DD1"
+				}
+				"dev-release-patched"
+				{
+					"gid"		"232A5167F56EF0EB6A0C2C44AB989C31"
+					"size"		"1A0DED73FE37CA525979554BF68D41B1"
+					"download"		"7A71BA33A52B1ACCA79AC3679D69A554"
+				}
+				"dev-release-patched-preview"
+				{
+					"gid"		"BE649A2A9A7600105E1F6FBE5F1628DE"
+					"size"		"1AE6E4AD95A5DA2C3BD835EE564D4515"
+					"download"		"475AC1E47F943A0CA98CA9F631A65BAB"
+				}
+				"dev-release-patched2"
+				{
+					"gid"		"31654ECA1B58935E9C0CCEFFBCA0A3E9"
+					"size"		"77216A57840AAC3AA1CC5922C3CB18AF"
+					"download"		"4E8E0CA475EF3A1B46AF2AB5FC9E90F6"
+				}
+				"dev-release-v210"
+				{
+					"gid"		"9125EBFD9E0B993E64250FE560E56E47"
+					"size"		"744F82303E975DE9167B898768620F0D"
+					"download"		"F817639659A4EA3F40B09A90708B6E82"
+				}
+				"development"
+				{
+					"gid"		"FB07E264FF0934BE0FD62F2CBF9ECB93"
+					"size"		"CE24877BDF4B08F2042EFF204C2F810F"
+					"download"		"4A1709CFB281150F1242F155B9C20F5B"
+				}
+				"press"
+				{
+					"gid"		"C3EC0B8853C785232D73EFC0F0F7D381"
+					"size"		"63D949E9EBA0F7918E9EFB9D4CC38BCC"
+					"download"		"9B06CAC2AABCD2E221280C35D41ED6A9"
+				}
+				"review4intel"
+				{
+					"gid"		"5C271A8A6597325F72ABD2981BABB0BC"
+					"size"		"BA9FBF2910B0C38F2C1E07BC78CE6BB6"
+					"download"		"DD7657F828785F5ADFA23D2536B69B93"
+				}
+				"usk_build"
+				{
+					"gid"		"F65CC7E877A1205760D898F2619BA2BF"
+					"size"		"34364DADB7E2EC12F9A5D0B9713FFF7F"
+					"download"		"5926D72AACEDA1C7854837F4E7FB6CFA"
+				}
+			}
+		}
+		"1372112"
+		{
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"0810-alpha"
+				{
+					"gid"		"75A5CAABCABF31F0AAC033E726377F4F"
+					"size"		"D8B5C1F56AAB520F19E842986EEC8C9F"
+					"download"		"BB1E1B9D7FE463D79D0382FEDBA3E8B1"
+				}
+				"0901_alpha"
+				{
+					"gid"		"E5AB9A9CAB0B22571023E194D2EDD200"
+					"size"		"6E50A417627A0577CD8E3125869434BA"
+					"download"		"3A24907F00F688F10735E51C86C7AAC7"
+				}
+				"ccs-debug"
+				{
+					"gid"		"FEAEDFE443AE54118FBF8A5E61B1C339"
+					"size"		"FC914C2EB40C04083585CEA46E9A46D0"
+					"download"		"CDFDFC99B976CBFD5DE9C786B6EC5008"
+				}
+				"dev-debug-patched"
+				{
+					"gid"		"5B6DABFFFCF8930AD25E93FFA5BD700B"
+					"size"		"76F428D69B64BC158BAD53BB85E00386"
+					"download"		"E77427021B4A21CB44D3CB3639CEEEA0"
+				}
+				"dev-debug-patched-preview"
+				{
+					"gid"		"DD15F612530B0A3EB9156E693D86FD3C"
+					"size"		"3C06018B6735DF77FDA9E855B4B7DAF7"
+					"download"		"94629680FB9E5EB4952080250752B863"
+				}
+				"dev-debug-patched2"
+				{
+					"gid"		"1BC0766AEE5F7DD52FAC276738F921EB"
+					"size"		"075944421E4CA381A3B88AD4C22D4F45"
+					"download"		"3A50444BAA70F855E1B3CB95A34FCCA4"
+				}
+				"development"
+				{
+					"gid"		"FFD1F19B3BCCA1503DE88BA99570A174"
+					"size"		"EC665B03E73BA2D1DBAD7A4F6AE40DE4"
+					"download"		"4EB3AE0B80E0A7145BA229218A57FD42"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11727891"
+				"timeupdated"		"1693184402"
+			}
+			"0721_beta"
+			{
+				"buildid"		"11752845"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689905154"
+			}
+			"0810-alpha"
+			{
+				"buildid"		"11901547"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691590944"
+			}
+			"0901_alpha"
+			{
+				"buildid"		"12085169"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693543776"
+			}
+			"build-review"
+			{
+				"buildid"		"7578768"
+				"pwdrequired"		"1"
+				"timeupdated"		"1634871036"
+			}
+			"ccs-debug"
+			{
+				"buildid"		"12129799"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694072019"
+			}
+			"compat"
+			{
+				"buildid"		"8563083"
+				"pwdrequired"		"1"
+				"timeupdated"		"1650010349"
+			}
+			"dev-debug-patched"
+			{
+				"buildid"		"12130079"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694076298"
+			}
+			"dev-debug-patched-preview"
+			{
+				"buildid"		"12130079"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694074290"
+			}
+			"dev-debug-patched2"
+			{
+				"buildid"		"11961621"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692257353"
+			}
+			"dev-release-day1"
+			{
+				"buildid"		"9251000"
+				"pwdrequired"		"1"
+				"timeupdated"		"1661764840"
+			}
+			"dev-release-patched"
+			{
+				"buildid"		"12130222"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694076279"
+			}
+			"dev-release-patched-preview"
+			{
+				"buildid"		"12130222"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694075215"
+			}
+			"dev-release-patched2"
+			{
+				"buildid"		"11962097"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692257340"
+			}
+			"dev-release-v210"
+			{
+				"buildid"		"11727891"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690869809"
+			}
+			"development"
+			{
+				"buildid"		"12171494"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694543601"
+			}
+			"press"
+			{
+				"buildid"		"9251000"
+				"pwdrequired"		"1"
+				"timeupdated"		"1660828712"
+			}
+			"review4intel"
+			{
+				"buildid"		"8954682"
+				"pwdrequired"		"1"
+				"timeupdated"		"1657103187"
+			}
+			"usk_build"
+			{
+				"buildid"		"8095284"
+				"pwdrequired"		"1"
+				"timeupdated"		"1643296090"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10485760"
+		"maxnumfiles"		"10"
+	}
+}
