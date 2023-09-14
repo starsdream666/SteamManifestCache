@@ -1,0 +1,1785 @@
+"appinfo"
+{
+	"appid"		"1294810"
+	"common"
+	{
+		"name"		"Redfall"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"clienticon"		"6f63d9fdc2d456f3a30c42bdb05d7219e915d2ab"
+		"clienttga"		"4601a3861694d57e8dc09c23a0d2190fb2bfedd2"
+		"icon"		"443a0002d184cb5a7f6eff19ce6a66697e49923c"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"polish"		"1"
+			"arabic"		"1"
+			"brazilian"		"1"
+			"latam"		"1"
+		}
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1294810_eula_0"
+				"name"		"Redfall EULA"
+				"url"		"https://store.steampowered.com//eula/1294810_eula_0"
+				"version"		"1"
+			}
+		}
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1682640000"
+			"tested_build_id"		"10971097"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-1"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"54.5507584597433"
+				"height_pct"		"62.53858940869153"
+			}
+		}
+		"store_asset_mtime"		"1683660085"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Arkane Austin"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Bethesda Softworks"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Redfall"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_28"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_29"		"1"
+			"category_27"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"arabic"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1682985751"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1294810"
+		"store_tags"
+		{
+			"0"		"1695"
+			"1"		"1685"
+			"2"		"1663"
+			"3"		"19"
+			"4"		"4106"
+			"5"		"21"
+			"6"		"1774"
+			"7"		"3839"
+			"8"		"4018"
+			"9"		"3859"
+			"10"		"1687"
+			"11"		"4182"
+			"12"		"9204"
+			"13"		"3993"
+			"14"		"1684"
+			"15"		"10808"
+			"16"		"4747"
+			"17"		"1742"
+			"18"		"7208"
+			"19"		"3843"
+		}
+		"review_score"		"4"
+		"review_percentage"		"28"
+	}
+	"extended"
+	{
+		"developer"		"Arkane Austin"
+		"publisher"		"Bethesda Softworks"
+		"homepage"		"https://bethesda.net/en/game/redfall"
+		"listofdlc"		"2253140,2253141"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Redfall"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Redfall\\Binaries\\Win64\\Redfall.exe"
+				"type"		"default"
+			}
+			"1"
+			{
+				"executable"		"Redfall\\Binaries\\Win64\\Redfall.exe"
+				"arguments"		"-messaging -SessionName=\"SteamQA\" -tracefile=C:\\temp\\OmenClientCapture_All.utrace -statnamedevents -trace=log,bookmark,frame,cpu,gpu,loadtime,file,net -noverifygc"
+				"type"		"option1"
+				"config"
+				{
+					"betakey"		"main"
+				}
+				"description_loc"
+				{
+					"english"		"With Insights: All Channels"
+				}
+				"description"		"With Insights: All Channels"
+			}
+			"2"
+			{
+				"executable"		"Redfall\\Binaries\\Win64\\Redfall.exe"
+				"arguments"		"-messaging -SessionName=\"SteamQA\" -tracefile=C:\\temp\\OmenClientCapture_Minimal.utrace -statnamedevents -trace=log,frame,cpu,loadtime,net -noverifygc"
+				"type"		"option2"
+				"config"
+				{
+					"betakey"		"main"
+				}
+				"description_loc"
+				{
+					"english"		"With Insights: Minimal Channels"
+				}
+				"description"		"With Insights: Minimal Channels"
+			}
+			"3"
+			{
+				"executable"		"Redfall\\Binaries\\Win64\\Redfall.exe"
+				"arguments"		"-messaging -SessionName=\"SteamQA\" -tracefile=C:\\temp\\OmenClientCapture_Network.utrace -trace=bookmark,frame,cpu,net -NetTrace=1 -noverifygc"
+				"type"		"option3"
+				"config"
+				{
+					"betakey"		"main"
+				}
+				"description_loc"
+				{
+					"english"		"With Insights: Network Channels"
+				}
+				"description"		"With Insights: Network Channels"
+			}
+			"4"
+			{
+				"executable"		"Redfall\\Binaries\\Win64\\Redfall.exe"
+				"arguments"		"-logPSO"
+				"type"		"none"
+				"config"
+				{
+					"betakey"		"staging"
+				}
+				"description_loc"
+				{
+					"english"		"Collect PSO data"
+				}
+				"description"		"Collect PSO data"
+			}
+			"5"
+			{
+				"executable"		"Redfall\\Binaries\\Win64\\Redfall.exe"
+				"arguments"		"District_01_Adventure_Mode?ActivateIntroMission=0 -disable_arknet"
+				"config"
+				{
+					"betakey"		"buildsystem"
+				}
+				"description_loc"
+				{
+					"english"		"Adventure Mode"
+				}
+				"description"		"Adventure Mode"
+			}
+			"6"
+			{
+				"executable"		"Redfall\\Binaries\\Win64\\Redfall.exe"
+				"arguments"		"-logPSO"
+				"config"
+				{
+					"betakey"		"main"
+				}
+				"description_loc"
+				{
+					"english"		"Collect PSO data"
+				}
+				"description"		"Collect PSO data"
+			}
+			"7"
+			{
+				"executable"		"Redfall\\Binaries\\Win64\\Redfall-DevelopmentHack.exe"
+				"config"
+				{
+					"betakey"		"main"
+				}
+				"description_loc"
+				{
+					"english"		"Launch Development Build Hack"
+				}
+				"description"		"Launch Development Build Hack"
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,arabic,brazilian"
+		"1294811"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3159199706123005147"
+					"size"		"81075654254"
+					"download"		"79869060496"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"adventuremode"
+				{
+					"gid"		"3768B0998E583846679CC821BFF4AA3D"
+					"size"		"0F0D89418C8A8AD351AB5C9D8B54B628"
+					"download"		"FA5926BFFE92E3FF8F76A79293C5E9C6"
+				}
+				"alpha"
+				{
+					"gid"		"F521FB569CE06FFA0E7005B1D7CDDC07"
+					"size"		"F7415A24E99579771059F2189918A681"
+					"download"		"A8D6BA034B41D21CD847B4ECC36783A7"
+				}
+				"anmerge"
+				{
+					"gid"		"5BE50C408768BD69424371DFBAF4D5F2"
+					"size"		"427295D4C062966732B9116633FCC289"
+					"download"		"5C4A5046DA15208CF329D954FFA7A080"
+				}
+				"buildsystem"
+				{
+					"gid"		"63BEE14414B464B7D6E6D3D3B2AC9643"
+					"size"		"C99CCA1A75063325DBD5CA927CE52F54"
+					"download"		"815407547C7EC278179B855F8BBDACCF"
+				}
+				"focustest"
+				{
+					"gid"		"13E9723805CB8A7320ED6CA4E3B036BF"
+					"size"		"BD0E09F7050EA40E30496D8D5009F52E"
+					"download"		"C7AD4BE2AE8C086A7B4D1104AEB12926"
+				}
+				"integration1"
+				{
+					"gid"		"BD1E3204AA483AF0AD9CE4229E2037E8"
+					"size"		"475CFF01B068AD95349AB5A2B9B525D1"
+					"download"		"3DFB7070E37DA40CD7F023187B3EC454"
+				}
+				"integration2"
+				{
+					"gid"		"1428C7063C3E888C086C840659251008"
+					"size"		"E6C31F862A6035554ACCB5565F8D53CF"
+					"download"		"44631001BB58352FA38599B6D5142E7A"
+				}
+				"main"
+				{
+					"gid"		"6BC8B717B1CCF4576749822CFB580E01"
+					"size"		"EA736BF07C65B3AB620E7C015DA201C1"
+					"download"		"1A001D9267F40C1AEED366BD051445F4"
+				}
+				"playtest"
+				{
+					"gid"		"D73970F908DE58BADD500EBB87DC111E"
+					"size"		"FC755708205283625DEB834E06808481"
+					"download"		"0210FC4B27E0D6F03BC4660EE27F2F11"
+				}
+				"release"
+				{
+					"gid"		"6D1047D2AC87CBA027F41B12D5FABEC1"
+					"size"		"E18F6D8BBA4A8CD87D61038CEFBEDC87"
+					"download"		"F69DD300977F9E4F45852B0FB4CA41C3"
+				}
+				"staging"
+				{
+					"gid"		"CD55A41A4A4D3271B1EB7C279524F98C"
+					"size"		"DB0553FEEC0577706E27E37170C77C0B"
+					"download"		"1592611C18B616ABEB36C0C09B244496"
+				}
+				"techbeta"
+				{
+					"gid"		"98761BC0DDC334F093C544C8FE884245"
+					"size"		"FD3F5986FC42FB1B79FEC8D0A37FB5D2"
+					"download"		"F4E2F0BCAA816BCB318C26501669A7BB"
+				}
+			}
+		}
+		"2000870"
+		{
+			"config"
+			{
+				"language"		"arabic"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5413266979256274964"
+					"size"		"883752"
+					"download"		"823424"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"adventuremode"
+				{
+					"gid"		"02FE3320223C054B71181B5C2C90FCD4"
+					"size"		"18C5A05F8872C6196E358C6866EE40A6"
+					"download"		"77E56A6DBFD7A423CAC640CECC363516"
+				}
+				"anmerge"
+				{
+					"gid"		"0C330D38119D73025904565CEC009933"
+					"size"		"A5ADAA1CC2B847F27F70E2523039F277"
+					"download"		"D28C4422136776133DE0F6CABF6EF495"
+				}
+				"buildsystem"
+				{
+					"gid"		"C6B1C981F15E7969EF85710B2A2745AA"
+					"size"		"BE2F8AB70E4EC0CA1A5A9A3EE327D2FA"
+					"download"		"1D97E9E208FBDD4F462C27DED9F1038C"
+				}
+				"focustest"
+				{
+					"gid"		"052DF2FE39C6951099A4D020BA8CC5F4"
+					"size"		"75ADEDE5AFC79658250BAC39DDF94D50"
+					"download"		"C5B1EE7C2C5783A10A57E981ACC957B7"
+				}
+				"integration1"
+				{
+					"gid"		"47D3A0EA00A7D3BB488C65E7AA1B8EB3"
+					"size"		"CA2CDB6A933E58FD2324209E55EFBF14"
+					"download"		"A1501E45908E5C13E0BEF544C3714E9F"
+				}
+				"integration2"
+				{
+					"gid"		"7606A8B97EB6332B00ADAD740D0AE7A0"
+					"size"		"4FFCE513D35FB660652BF9EDEC6C7679"
+					"download"		"385834AE257306FD6658C2C51EBF087F"
+				}
+				"main"
+				{
+					"gid"		"1221EF62C514B1FB332A56C721FF25F2"
+					"size"		"47168E147ECE0AEB8020D76A7DC2F7FD"
+					"download"		"EBF148E2B99075816BC864692D185EF2"
+				}
+				"playtest"
+				{
+					"gid"		"98CE9EFCB90477A6943C7353E5FCE699"
+					"size"		"3D4FC3BE975BCD70BB95F8435FC75E28"
+					"download"		"7C653F7868F3EABE967E0E4A17B019F4"
+				}
+				"release"
+				{
+					"gid"		"2D6255F76FF97D374544200F48769EBA"
+					"size"		"3E3C823D594F9F4DADD268777C95226E"
+					"download"		"C9727EF3874F632CBEAB77CE36F91373"
+				}
+				"staging"
+				{
+					"gid"		"2D4A94C881091DF6B5C714AF5C13D791"
+					"size"		"B3AC2F0136AD11AEF353B6A686ACCF35"
+					"download"		"5FE1864307D82B90238908D3545854CE"
+				}
+				"techbeta"
+				{
+					"gid"		"AC1D64F9B0A92CEFEB9049B0C5DD467F"
+					"size"		"280238C511D3E4E225CE363E67734455"
+					"download"		"0A5375F36A35C8C288E50FBFF6A8200F"
+				}
+			}
+		}
+		"1294817"
+		{
+			"config"
+			{
+				"language"		"german"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1681291576457456262"
+					"size"		"1158970932"
+					"download"		"1088415248"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"adventuremode"
+				{
+					"gid"		"5E5FB742BFA7C881DBAC91AB3D93D3AC"
+					"size"		"5D69C4DD5DF6F4C107DB6A73DDA2B040"
+					"download"		"E1A3D9CE78A2CA99EC3A33DA0E17CE29"
+				}
+				"anmerge"
+				{
+					"gid"		"6A511F1901E85A4A3706A68029932F3E"
+					"size"		"E5BC31BB56928734F91DA2158759C39B"
+					"download"		"CB46B25BDCE07DF90F9ADD940E343542"
+				}
+				"buildsystem"
+				{
+					"gid"		"2FE9CC3A25CBECE0804930B7C6775B1B"
+					"size"		"9662D693DB23A50B85C91F8B4165A92A"
+					"download"		"9CB0D6893208A18657AB77E068487514"
+				}
+				"focustest"
+				{
+					"gid"		"862622CBDE4A7228253CEB888E3804CF"
+					"size"		"4111200B8B991C250D2F7375BF732773"
+					"download"		"F397CF5DA99BF83610B0AFC84FC0FF6F"
+				}
+				"integration1"
+				{
+					"gid"		"FF1958B66DEB165521FCCB5B0841DB4B"
+					"size"		"CE2B79F738310BB6AB0B9300DFA2A531"
+					"download"		"5E01A67FEF07A225E5F4D9A90A663A74"
+				}
+				"integration2"
+				{
+					"gid"		"87603C87313D97F07C66A477FB60E107"
+					"size"		"9C3DA4DD8A01F4D8692B25A5CB766203"
+					"download"		"D7623ED62443250F394786AB1B220074"
+				}
+				"main"
+				{
+					"gid"		"37BB5A7DEE46615DC3018A88E17501A4"
+					"size"		"BC48DDB6AD2611F3549336962816B243"
+					"download"		"5FB5B9BD7F86B321CD7031806069FD4A"
+				}
+				"playtest"
+				{
+					"gid"		"7ED9E2785BCB410CC14C11582280A48C"
+					"size"		"E713908031402CB7880B5DC4F469619E"
+					"download"		"E3353A6348693A7B76A79707AF962049"
+				}
+				"release"
+				{
+					"gid"		"6DB79A8E5EEACB311036D6649D054599"
+					"size"		"6537E9C549A0C740D1C9AE0C203ACB7A"
+					"download"		"DC50B88A49AD91D5C19D60FCEEBA99B8"
+				}
+				"staging"
+				{
+					"gid"		"24B8FF5FCEB741EFACDD68AE76D1FB85"
+					"size"		"5B28F360AD6E00B784D550A6615D8039"
+					"download"		"1302CF1ED7924DB4C2D144889F7D959F"
+				}
+				"techbeta"
+				{
+					"gid"		"DCB65F39F53CA9F2269C39325E286866"
+					"size"		"69F75453A8CF082CCD5828352D7CA0E6"
+					"download"		"F1DB3EE398816622608D1012937A6614"
+				}
+			}
+		}
+		"1294812"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3705492509805696938"
+					"size"		"1088845157"
+					"download"		"1021646944"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"adventuremode"
+				{
+					"gid"		"B7EDABDFB1B1E4AF7A85E626993D42A5"
+					"size"		"B37EE607CC04C23CF44CD2717CF59E9D"
+					"download"		"AE39039EFBED095954A508B377EF4BF9"
+				}
+				"anmerge"
+				{
+					"gid"		"A5B370891751B75D67051C6E2CDAEC48"
+					"size"		"3502062020AD7445D34E72FD64934F48"
+					"download"		"B544E0F857BFFAFCAD6EAAAC1967C2F2"
+				}
+				"buildsystem"
+				{
+					"gid"		"326D6EDCA985BFA68860399BD94B4DDD"
+					"size"		"C6A2FE580B5096B66308BBB88625F194"
+					"download"		"549900B1FA7D1361B2CC6D6D9B3AF118"
+				}
+				"focustest"
+				{
+					"gid"		"B0D49E0E6E9C6F9E7C386EBBD5F51328"
+					"size"		"8A85E11C1248ADBC9BE1E5FF546B7614"
+					"download"		"886A6A627413DEDAC377D43623449CEF"
+				}
+				"integration1"
+				{
+					"gid"		"08DFC9FC0910BBC0E30292506821AF2B"
+					"size"		"213D2B128FCA0AC63032F4A52091E1D9"
+					"download"		"D1B8645A3490A25D05CD5E96F394F069"
+				}
+				"integration2"
+				{
+					"gid"		"9F7173A0263BAE0F3D90F1DF8B4263EE"
+					"size"		"0C92D11D388A571C40D3CA9E9CA66C24"
+					"download"		"FE33F2DBD82691AAA9D69E9D632CE8CC"
+				}
+				"main"
+				{
+					"gid"		"017DFD3007EFC747A3C7A7C225981500"
+					"size"		"CD36D632BC12372BD764AD3C620B8CDF"
+					"download"		"A7217084CB3D2FC035B17B90949AF8FC"
+				}
+				"playtest"
+				{
+					"gid"		"15B2F7F5FC7B30DB35653723AEB02981"
+					"size"		"2311DD2CF8851572AC4E66F044863CCA"
+					"download"		"631A39A33DF2D5F1093391CE1DBB8643"
+				}
+				"release"
+				{
+					"gid"		"B8312B053884E57D94DA56ED111A15AE"
+					"size"		"5F65471F1275C4275711E2C9ED3DFB50"
+					"download"		"39A4701E53193D8F2EC8E4BAE4EE4630"
+				}
+				"staging"
+				{
+					"gid"		"1B24AE0DD1F89210067AA12447ABCC88"
+					"size"		"8C319C907A585EABB05F04F983CB5286"
+					"download"		"4D1E25A5A9D97F457E54EF7A90750EAE"
+				}
+				"techbeta"
+				{
+					"gid"		"4E55EA12218AEC3CA4F6D005F84D83F9"
+					"size"		"211388865B2E9AEFDDE80BC4487352FD"
+					"download"		"CCDE319451E01334D636D6A614981FEE"
+				}
+			}
+		}
+		"1294818"
+		{
+			"config"
+			{
+				"language"		"spanish"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9049532878964061326"
+					"size"		"1180940034"
+					"download"		"1107364528"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"adventuremode"
+				{
+					"gid"		"6030206D1F193D8F64B21552D2E335D1"
+					"size"		"1E3E6A50C5E39D8EFC547A1EAF9646F9"
+					"download"		"24670FC7AFC9FF421C68656B22333C47"
+				}
+				"anmerge"
+				{
+					"gid"		"22D55BEFDB981C00496824856C3E8BAB"
+					"size"		"085D827FA455F64B226BC63A54993084"
+					"download"		"43F0294B473F9D73AB30034219B47684"
+				}
+				"buildsystem"
+				{
+					"gid"		"9380691135974D4CCC6DF7DAC05994C5"
+					"size"		"3339033A9F68D4914B46BA517BAEEEAD"
+					"download"		"4441CB0CB6CE33AA8C480B34D3D834CB"
+				}
+				"focustest"
+				{
+					"gid"		"B44EBD161F969A04C62CBB62C23F5057"
+					"size"		"E0D0100CF1439A9449153B54F4882AFB"
+					"download"		"966C83BAE2B9835BF38693E11E47F020"
+				}
+				"integration1"
+				{
+					"gid"		"B2D87DDA1F85E2023BEE79AD4692D9D6"
+					"size"		"647648205B4EED63342020AFA969D452"
+					"download"		"E464FBAB543468065E9BC47C35F850EB"
+				}
+				"integration2"
+				{
+					"gid"		"3E58AB43CFA9854D1196F3FB07B0DFFD"
+					"size"		"8BD42CD74975420737A055ED1B1AC775"
+					"download"		"03010FA4A573B1C98B992D2E360EFB76"
+				}
+				"main"
+				{
+					"gid"		"562685E4C4CB7DB745CFAB5E5D205BBC"
+					"size"		"EC6468A3D78E332865013E9E77A55B9A"
+					"download"		"66A4453530111D3CAE849108E3F56228"
+				}
+				"playtest"
+				{
+					"gid"		"5C3175FB28F6031E9F28659362F036C0"
+					"size"		"35A540AF536DE9AC8C5E969B7F808531"
+					"download"		"5777E8BA82D57312299A78ED32F080A2"
+				}
+				"release"
+				{
+					"gid"		"4236652AFD2345F79729744B98E5F6B3"
+					"size"		"C3FB2B7F662FEA6EDA783187306FBC35"
+					"download"		"5BA2D8EC45F7F43967B26833FFB1B034"
+				}
+				"staging"
+				{
+					"gid"		"E105BBB3536C5F564F9A7C9E5FA2DCE7"
+					"size"		"8694D4208C9400BCCDE9A7C6B3D518F9"
+					"download"		"A1FB75F062AAF240984840380ACC11BB"
+				}
+				"techbeta"
+				{
+					"gid"		"DC42FB57A295AC6446E8AF81A17F1992"
+					"size"		"54F2DE0823D01F66402B6015A9E4037D"
+					"download"		"B9C9DE319B3EF395DD09EC6CF194A727"
+				}
+			}
+		}
+		"2000874"
+		{
+			"config"
+			{
+				"language"		"latam"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5346150755223857269"
+					"size"		"1169440528"
+					"download"		"1097673584"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"adventuremode"
+				{
+					"gid"		"E80681C05365D7E444ABBB82AD58FB96"
+					"size"		"8446ED4F50319390EB8DDF141F5BCE54"
+					"download"		"09930FC244C57A0F64C8E0A5203AF32D"
+				}
+				"anmerge"
+				{
+					"gid"		"B5966F296D5A08EDA241C0DDB5588D85"
+					"size"		"BD766EC825A68919C0D8FB1400B6524F"
+					"download"		"F82071B91C9D462618634C0833D280B3"
+				}
+				"buildsystem"
+				{
+					"gid"		"87C6228953B408314A5A78B56A409F27"
+					"size"		"52B8BCE1A47B677FE7E0575455EB5C77"
+					"download"		"BA7A9041FBC4A4DD5E98F03967F247B5"
+				}
+				"focustest"
+				{
+					"gid"		"8BC14A7857FC60E4B442E6684F3DAC91"
+					"size"		"D5F224046F502395FC9301D1B8515DC7"
+					"download"		"341FEC3AD924B931C4CFDF2523735CC9"
+				}
+				"integration1"
+				{
+					"gid"		"5210F100E35315368ADD636963FE3162"
+					"size"		"707569A66BA632B672384FBC2E68BD72"
+					"download"		"EF0894A569CD0340F95A16CC513DE9FF"
+				}
+				"integration2"
+				{
+					"gid"		"8CC5D531C627E56A180ABD2562516901"
+					"size"		"4AE3505EF438E1E5C3A4924E6BDA7F36"
+					"download"		"08A3C884CA2913B0926F601DD078F36F"
+				}
+				"main"
+				{
+					"gid"		"A86B523A38012E964C37608FD2C47D22"
+					"size"		"66EB5F3AD6189B26EA8BD9D7D71DA248"
+					"download"		"E49F8E265B2FFCFB0D119B6920261846"
+				}
+				"playtest"
+				{
+					"gid"		"7B165B7EAEA16058AEDCCCADBE7824AF"
+					"size"		"B0BFD134CCF572459127F4F7797C3587"
+					"download"		"D0165473AB239A8033B8461851AA7C14"
+				}
+				"release"
+				{
+					"gid"		"D2511D9CBECFDF4F6306F5B0AD8AC5E4"
+					"size"		"8EB5ADF66321CBF52CEA24F4354FC48B"
+					"download"		"069E7920EA498BF08D13E376439936D5"
+				}
+				"staging"
+				{
+					"gid"		"FB87AB67048C0D8362BEE0A33030DB03"
+					"size"		"37812D239AFEEEC47E30B10F8ED9AD29"
+					"download"		"B80CDE34040CABEC2CA0EC0AE816429F"
+				}
+				"techbeta"
+				{
+					"gid"		"79E3F89D0039B5EB324F1D9168171572"
+					"size"		"622DD474237A2CEB864437BA971AD43A"
+					"download"		"ACE52E2F7159FE4FD260A9259A150BAB"
+				}
+			}
+		}
+		"1294813"
+		{
+			"config"
+			{
+				"language"		"french"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2258637991099823710"
+					"size"		"1144387355"
+					"download"		"1071555056"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"adventuremode"
+				{
+					"gid"		"AA26286F5238BF905DE9DD15FF99325D"
+					"size"		"9692657D2E1FDFBDBB34D76EEE54B26D"
+					"download"		"F85F3849EA3BE953BFF214C0A7148127"
+				}
+				"anmerge"
+				{
+					"gid"		"19734EF3B08CE915256F6608288D1D4E"
+					"size"		"F10CC4829C06511E062AC59F4DB72BD0"
+					"download"		"1EE57ED9001A7F6ABACA6894416EDC7B"
+				}
+				"buildsystem"
+				{
+					"gid"		"58DAB9352F64323263402328E1838A26"
+					"size"		"B709FC7396EFB22AB4CD911E10ED06F9"
+					"download"		"681B181AC251F26BFF8403680B9CED5F"
+				}
+				"focustest"
+				{
+					"gid"		"464097940F27DBCF55D966850F21D255"
+					"size"		"C31A19B4E0FFEC0F75D9A77EBD640F93"
+					"download"		"F4ABCF58D9282AB3CDAEB39C508F0D9F"
+				}
+				"integration1"
+				{
+					"gid"		"66D170FA43DED9EE4A27E19CEA462BEF"
+					"size"		"F7BBF8DF3FEE5EE8670888B96529AE0A"
+					"download"		"BAB61B934017F7416EE71936CF767239"
+				}
+				"integration2"
+				{
+					"gid"		"3AFF26DA33FB29A6C1DC7B5E324890E9"
+					"size"		"E81E7D14630940B9535F4ADAD5CD3983"
+					"download"		"62E958114C397DE9C827888A72AF0125"
+				}
+				"main"
+				{
+					"gid"		"F155F62F7685B6AFB5B8BBC495321371"
+					"size"		"5E342E03B64DB296940B50BC53FB7174"
+					"download"		"98A7F936791B98FA4574CE2BFA2DED27"
+				}
+				"playtest"
+				{
+					"gid"		"FB0F97E849F657C756252C4363A59287"
+					"size"		"DEE71027FDC48D6C117B7090B3F532BA"
+					"download"		"017751133E4DF1F7E74F324219C6AFF0"
+				}
+				"release"
+				{
+					"gid"		"9943B71DF935E47369CA92A53248E2DC"
+					"size"		"9E61131164FBF81A562757B00DD48FB7"
+					"download"		"8EE32E87A9475119383DAE82692CEA6E"
+				}
+				"staging"
+				{
+					"gid"		"5A73C3882FAD15E62E658D827F67CCFC"
+					"size"		"6B8AE1919F16F0E0A509183E5290AC95"
+					"download"		"D70DC73089CA2220206873F5B22B37F6"
+				}
+				"techbeta"
+				{
+					"gid"		"4442FEA83220353B1A661B26BE0428E7"
+					"size"		"B25B482E95A10E0BF04DDB7D60E05A5E"
+					"download"		"CAF556C74F1990D7D3D6208044A017FB"
+				}
+			}
+		}
+		"1294814"
+		{
+			"config"
+			{
+				"language"		"italian"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7631042534849671389"
+					"size"		"1170400695"
+					"download"		"1101037888"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"adventuremode"
+				{
+					"gid"		"FB6A515F4EF819EFC5E1E7EAE23CFA61"
+					"size"		"23A9DAA7FE94596B5EB6B004690C5DAF"
+					"download"		"C64B320A1823CD76A2AF6A9525162525"
+				}
+				"anmerge"
+				{
+					"gid"		"397B62307957818E885EA3FF54BA008C"
+					"size"		"8C0DC2414807ECFE18543E1032252CEA"
+					"download"		"7623AC5AC5112FB1D47C19B46D5E0232"
+				}
+				"buildsystem"
+				{
+					"gid"		"2BC1D6B746DD320EFF019FADC7F6E110"
+					"size"		"C547D1BCDEFA3BC5E0CC24AB7457E10F"
+					"download"		"5DC3DD060F165B2B7E00D02E3687FF0D"
+				}
+				"focustest"
+				{
+					"gid"		"62D0DEA6CF7787FFA3DA0A6B43B06881"
+					"size"		"462450318B35D1F419CF84B6A94B0BA0"
+					"download"		"E7071F7416A9961E3F4530894EAED8B5"
+				}
+				"integration1"
+				{
+					"gid"		"FB7B55DA8A3DAADBA7B4D561EECA0593"
+					"size"		"C82961B89D181ED818F8FB12B911E463"
+					"download"		"01DC1DC8B0AEDF03ED7208A28384E62F"
+				}
+				"integration2"
+				{
+					"gid"		"23A8C6A66DB51C49C04D771F460871F7"
+					"size"		"055E5F6AE2DAFFA0DD181B9010442213"
+					"download"		"9DBE113D697CB1923740F49F5F5733A2"
+				}
+				"main"
+				{
+					"gid"		"9999A43D3532D0D2874FDE3E8D4ACDD7"
+					"size"		"3B0C086FFD66C2F6C409A854C51FECF5"
+					"download"		"47D992123EACD34A09F5C7128CC16C0C"
+				}
+				"playtest"
+				{
+					"gid"		"8D1F9C22780D1CD5ACB4CE1E06DB2759"
+					"size"		"58B83D5353858EFC3B2116662EFD39A6"
+					"download"		"37FAC578999B10DDA888A617B23D96B7"
+				}
+				"release"
+				{
+					"gid"		"E2481ECE2D8C2B57596174EE3D760D94"
+					"size"		"90375F01F9A20F4E937496BD5F5A5B6A"
+					"download"		"DE9B562E8CDA19C8DF18BD1BB42DAB77"
+				}
+				"staging"
+				{
+					"gid"		"8B2842B050E42D48C961F803D66C0DAE"
+					"size"		"A89A3B88F5A69FA6572A10B2C6355A74"
+					"download"		"DC3E2845F3B85BD366D937AE89696789"
+				}
+				"techbeta"
+				{
+					"gid"		"3A7CEDF7F807EA5A2D71C0DD109C9606"
+					"size"		"C85BFF4164AA4A74FC9D1D9FDFE32A56"
+					"download"		"BFB0E5522E7FAB7FD939F6A903FA1301"
+				}
+			}
+		}
+		"1294819"
+		{
+			"config"
+			{
+				"language"		"japanese"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5498384878884548105"
+					"size"		"1199933500"
+					"download"		"1127621504"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"adventuremode"
+				{
+					"gid"		"F2917AE3A7B5E2E334203F4EEC5F6B0E"
+					"size"		"54E96E0E3E41138E6A689C57228253CD"
+					"download"		"841E86AAB0477A259D7FAD52C5FBB78E"
+				}
+				"anmerge"
+				{
+					"gid"		"F3D4C8B53E5F0A281672B993BF1A517F"
+					"size"		"10BA1012CA47C7CF7B73F3E1A916F3EB"
+					"download"		"FAD3774488053A5733CE64FA2757D973"
+				}
+				"buildsystem"
+				{
+					"gid"		"9536F639F8BCC3DDB2E40BD5AA6D6CB6"
+					"size"		"BA28B4F34D90441CA452D725F7FB6267"
+					"download"		"5B2032F90C81C7A1B10C958DCB430BF5"
+				}
+				"focustest"
+				{
+					"gid"		"0C72D7CA1B9BC3D60E0E22B9ADC26354"
+					"size"		"1BF9E8C70639E82526B8432AEE3E34B1"
+					"download"		"E38476BD0F67DEACDB799D23EB02B0BF"
+				}
+				"integration1"
+				{
+					"gid"		"58CCD3075F7E8CE75E7387232332A4FD"
+					"size"		"3B9702F4D6D0126E7201D327F53CB346"
+					"download"		"AC8816CDAB26AE1C0DD0BF391BD2B002"
+				}
+				"integration2"
+				{
+					"gid"		"A1B115DB00AF72CD8E96EAD0E1083F25"
+					"size"		"916F5F2CFDB8E32C271A36967EADCF92"
+					"download"		"899CFE5BE9450BFA9BA65BB3A1A34096"
+				}
+				"main"
+				{
+					"gid"		"6A5F7612E1641752FDDD9C76B6266714"
+					"size"		"712FED2A43980428699DC1C1BBA4B365"
+					"download"		"C3B967B29878D62850A170FEC4C9DF20"
+				}
+				"playtest"
+				{
+					"gid"		"428ECDC14C3EB2BAC8A99A7B71644D98"
+					"size"		"B18C1C131B1DB5BEEC6812EE73457689"
+					"download"		"8D1B1AE96F0D489EF33A2EF36BA4B2A6"
+				}
+				"release"
+				{
+					"gid"		"A2B6C54F061BB3107ED5E36297625F09"
+					"size"		"24459721E475E0EFA189242E68D408E8"
+					"download"		"20BE290D6729230D8CA218AEFF44695F"
+				}
+				"staging"
+				{
+					"gid"		"A030CB5807FC831AF1F829AABB16F3FA"
+					"size"		"7471FCABCC7ABE713DF6D5730BF52BB6"
+					"download"		"67F097690582BD882622C9148D9893AC"
+				}
+				"techbeta"
+				{
+					"gid"		"CE3BDE490B0198BBACF2083F844F2272"
+					"size"		"6E0962903AA95562AC299CF7800777FE"
+					"download"		"71C68D104C52EAB227D16AF62B77644B"
+				}
+			}
+		}
+		"1294815"
+		{
+			"config"
+			{
+				"language"		"brazilian"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7939147802471043604"
+					"size"		"1151626084"
+					"download"		"1077667200"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"adventuremode"
+				{
+					"gid"		"5EB436FB7ACD3871781282DD9AAC5071"
+					"size"		"97D13C992765A505575A9AD5500BA333"
+					"download"		"D96C710F3CCBBE6BA7CBCA71B4AFF941"
+				}
+				"anmerge"
+				{
+					"gid"		"C1ED379ABC99F9DFFE77F72F2ECB0E1C"
+					"size"		"1B5DC88F2DEBB1764C83E51025F1FA05"
+					"download"		"E03E1BE30CF01AF065FFB6B8721DDE17"
+				}
+				"buildsystem"
+				{
+					"gid"		"CE73859E3601DD7156AA45BF23DE0AE2"
+					"size"		"84250B457A1E335A6C7F5B8816AE7668"
+					"download"		"02937E9D9AAF6B0D0FB3D7FDD6B6AB08"
+				}
+				"focustest"
+				{
+					"gid"		"45F1F63FE35463181FA1C6967ABA4EAF"
+					"size"		"4ECA55DFFB73D804B14E46E221A89564"
+					"download"		"0074BD27F4782438159E0E6A697BC464"
+				}
+				"integration1"
+				{
+					"gid"		"B2C6C3D9FCD0CD2EC90F8B904E34CA2C"
+					"size"		"7E52FA124AB991931F721583558E4EC7"
+					"download"		"4FB667F8E37CCAFE6319993D36F633C3"
+				}
+				"integration2"
+				{
+					"gid"		"77BC7A8D26C6D42858267745207F9881"
+					"size"		"2D2F22AD5139535F70FD44E503BA4A0B"
+					"download"		"C56F9684261AEA9CAF8CEFCD01DF3E1B"
+				}
+				"main"
+				{
+					"gid"		"97B0CD1518CB0BA03317B49D40A6A02D"
+					"size"		"86FCB1EE689092092512B4CB8CD64A1B"
+					"download"		"8BC2092CA167E998B966204BDA89C0B0"
+				}
+				"playtest"
+				{
+					"gid"		"F1999673C017791FCD4D01CCD628D9A6"
+					"size"		"D504AD522C6204BE41F5668AD25B4A7F"
+					"download"		"072AA761CF6F429469D797E46201D685"
+				}
+				"release"
+				{
+					"gid"		"2BBA152A632E58FFB782CF87BDBD06C6"
+					"size"		"D1521B33D628BD96F178BB58A5600016"
+					"download"		"9C60EF6A2C5ACB722FEED7779025F74D"
+				}
+				"staging"
+				{
+					"gid"		"096D182D47D4CDFBBAB6A06F4DFBE503"
+					"size"		"E99701856425C96DDF8C2D872200A232"
+					"download"		"CC088FDAE8E3E08F682CE3BA6C4763C0"
+				}
+				"techbeta"
+				{
+					"gid"		"C6A985CD0FE4ED2B2C71D77462F7AA8D"
+					"size"		"B698BE472A0824069BD14C545A6AEC52"
+					"download"		"6FC24ECF7189176925645D7A408987FB"
+				}
+			}
+		}
+		"2000871"
+		{
+			"config"
+			{
+				"language"		"koreana"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2511754410183637579"
+					"size"		"852029"
+					"download"		"793472"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"adventuremode"
+				{
+					"gid"		"6AE3139F8136D6719B64B948042E25F6"
+					"size"		"51B7DC445841ABA2A177B4DD234914B2"
+					"download"		"F42F372407D235456FC0537D9B148D91"
+				}
+				"anmerge"
+				{
+					"gid"		"A8F17C8C03B75B7C3F94D25B1900C33E"
+					"size"		"99EFAA65526C52A6870DE4035329E435"
+					"download"		"6914266B96F9B2CF22C1A2FD6D4F6E1D"
+				}
+				"buildsystem"
+				{
+					"gid"		"F98672AA5DDEEB231422B23C04B80CDD"
+					"size"		"0382E84D9E8ABA414D26FF51325E3E63"
+					"download"		"C2BDCF7D1593F9114DF9446A5AE4F31C"
+				}
+				"focustest"
+				{
+					"gid"		"934FC8B442C67D7554165C5D283B2E5E"
+					"size"		"C4E0E2B9E6E41B2D2003B666EFB94899"
+					"download"		"8EDA8815DCA20A97D53C5259AC9B4288"
+				}
+				"integration1"
+				{
+					"gid"		"03D2506441FAD0350146B4C000E7BEC7"
+					"size"		"8F407CA02E90036D24A8E34FD4D1BCDA"
+					"download"		"16D8C67F2990FE9EB5A3C1CC7A674274"
+				}
+				"integration2"
+				{
+					"gid"		"E55F8314D56587C837E7D29301AC0466"
+					"size"		"8E3E8EBE3CB96985AF095A2B2069067C"
+					"download"		"90BCEDB4BF067DA338C3C5DB1235353C"
+				}
+				"main"
+				{
+					"gid"		"EC8EFDB0A47A785381B83BC206BAEB07"
+					"size"		"F5B9F9ECC1C39413C2170AC9FADA6618"
+					"download"		"E84B04270F1B595E85541F1F0ACFB007"
+				}
+				"playtest"
+				{
+					"gid"		"E02FC956E00F6F3932F18C9F7D636C03"
+					"size"		"ADEEAECAB543F8666041FD40F3D02D2B"
+					"download"		"D766E96CC88D84762A544A6EBB0B7246"
+				}
+				"release"
+				{
+					"gid"		"093751F304A83B732AC77FE07721674E"
+					"size"		"D92046EBB8FCC9E5775CA8B215E0239F"
+					"download"		"1FE816184FB35FA726E1E91751A9D054"
+				}
+				"staging"
+				{
+					"gid"		"803B54B29E5CC44952D1F246494AAA87"
+					"size"		"FF33C404CD2717EDF21592257BC1DB86"
+					"download"		"04D2625591314A2B0D74CC9B2870FC84"
+				}
+				"techbeta"
+				{
+					"gid"		"F9ADE1B786705D4271575938686A9814"
+					"size"		"E49A2ADAF9DDD5D356A96427A67BB867"
+					"download"		"77BB434884AD034256325CA9CCBC2C14"
+				}
+			}
+		}
+		"2000876"
+		{
+			"config"
+			{
+				"language"		"polish"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2598796986701163203"
+					"size"		"1122621410"
+					"download"		"1052695200"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"adventuremode"
+				{
+					"gid"		"BCCA66D93E6C37FF97FF2834E49E0F3F"
+					"size"		"77F6AF956EA368923863F49E5C5FF16B"
+					"download"		"8BD4FEA89DE0A34248263D1576C68E60"
+				}
+				"anmerge"
+				{
+					"gid"		"26B54932528F67257F6D0652B7069711"
+					"size"		"D1CF019C803FD4202C8A28CBDEB6E584"
+					"download"		"4A0FFFA4F3684591E72F741368D97A8B"
+				}
+				"buildsystem"
+				{
+					"gid"		"993CAE6CF983C8EC408991C116E3E5A4"
+					"size"		"9B8D7D1A647AA9834357D02CCC0EB6AC"
+					"download"		"10DA90CD24E62CC7E74316BB5D473D49"
+				}
+				"focustest"
+				{
+					"gid"		"BEA7F2B83139D13A813E9B63F8857118"
+					"size"		"23058EBB046DAC170A8827CDECAF069F"
+					"download"		"E514C3554150AC517A5D6F8693E4CF25"
+				}
+				"integration1"
+				{
+					"gid"		"376EF00C1C75DC9B77A54F25C06E993D"
+					"size"		"A4E9D5415912E744AB8D481FD8D93D9C"
+					"download"		"899B0615C38BD8AC030CE2A560D73314"
+				}
+				"integration2"
+				{
+					"gid"		"B706448392A5802F234AF76AF8875D50"
+					"size"		"6F66085A7B1353C29186DF4BCC87CFA2"
+					"download"		"52948333CE8CBDAD67537988AEFF45D8"
+				}
+				"main"
+				{
+					"gid"		"16C345B2F35FDB0061086CD254CE02EA"
+					"size"		"33FF11B0ADB282D1D0C713422F67AEB0"
+					"download"		"B96515D7CB789554A54F3358F5910943"
+				}
+				"playtest"
+				{
+					"gid"		"2427454FDAB6E3CC5AC812B9D3AA497D"
+					"size"		"8C96B3885DA9065013B7BCF04CA9028F"
+					"download"		"22A1DC42422E7C8C55FCBC9F85F3F8B4"
+				}
+				"release"
+				{
+					"gid"		"4D716E4B62472231F0E0E4B59B4EDCDA"
+					"size"		"BD63E7758B0F092538417FCF6664EC0C"
+					"download"		"333A48FEDF486189E9291805890A08C2"
+				}
+				"staging"
+				{
+					"gid"		"B1F138D5A8E6B41765DA47AEE14F6037"
+					"size"		"8CC423110354F5B35E8944F36839F94A"
+					"download"		"729A1E802E0B04C55DF79BF04F56817D"
+				}
+				"techbeta"
+				{
+					"gid"		"307CEE8F9F49C1A9EFD4774DD30A8894"
+					"size"		"D23A38DCB91276102AA69EB34BAA5F01"
+					"download"		"42FABAC8055A0EB2E3232C8101B66BED"
+				}
+			}
+		}
+		"2000875"
+		{
+			"config"
+			{
+				"language"		"brazilian"
+			}
+		}
+		"2000873"
+		{
+			"config"
+			{
+				"language"		"russian"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5610178052708173713"
+					"size"		"1154118221"
+					"download"		"1082449344"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"adventuremode"
+				{
+					"gid"		"83A299249B56A1693526D708D4E49A08"
+					"size"		"CFEE6F33FE1861171646758DC2B9DFA9"
+					"download"		"943EFBC4ECCE44AB864E43B14679B862"
+				}
+				"anmerge"
+				{
+					"gid"		"A026D8CDAC1AC36D3557A57DBE705045"
+					"size"		"5AAE0B97BABE0A8BFD0DC36F483CA83F"
+					"download"		"07D678E91884475DAD22199C77E025CF"
+				}
+				"buildsystem"
+				{
+					"gid"		"F1451BC24F6117A4D37B41E71198CE73"
+					"size"		"1080F8E709D007F0B71FCF3AEC9CA4BD"
+					"download"		"02261F2A132EC95D76FCDB0CA07AE3F5"
+				}
+				"focustest"
+				{
+					"gid"		"DAB41B0DFF9FB25A09556496454EA664"
+					"size"		"CD1E05AB0E70C4E5762948CB20E36F22"
+					"download"		"681CE6922580CB5FDA30506F7271F507"
+				}
+				"integration1"
+				{
+					"gid"		"9B1A4EE5D2B29FF3A5565DED679E92C1"
+					"size"		"BC3176CD473026D9C55F71E3ECEAC056"
+					"download"		"1F12AAF95E49315AD5814FEE435259E0"
+				}
+				"integration2"
+				{
+					"gid"		"F1F22BD6FFCAF2688E698AC59109AF3D"
+					"size"		"5319A896899E62748AA11ED06BB657E4"
+					"download"		"E3DE600FBB97CB5801F0E65BB82251CA"
+				}
+				"main"
+				{
+					"gid"		"98CA58F8400C55D97CFA994DFE6F78D6"
+					"size"		"60E3AE2D3EF318F2096164754C8D9D1F"
+					"download"		"2A9FE9D6B78162DC0E030CFB41BADB63"
+				}
+				"playtest"
+				{
+					"gid"		"E6109823D88CAF14077714AFEAB6D9E2"
+					"size"		"945D2EDF89B600FD1BAD6CE1EF559A62"
+					"download"		"5B5727A9DF3237701AAE2878272E5D76"
+				}
+				"release"
+				{
+					"gid"		"5096E58DAA8DC728EFBBCEEC56DBF619"
+					"size"		"6773DE3F90CE507FD928644D4730E9AD"
+					"download"		"3E691150FEF14B493575F9D286EDBDD2"
+				}
+				"staging"
+				{
+					"gid"		"DAB95A0ED50566F400701E6888638EA5"
+					"size"		"F97506ED8973D2B5B3F9D8F4445280DF"
+					"download"		"344B166DCC4888592B6E75C81B81A290"
+				}
+				"techbeta"
+				{
+					"gid"		"E25EE22B7979990E5B04141B47E6D5DC"
+					"size"		"4C1FB28C8421C78758648671C07CFE17"
+					"download"		"BDBFCB740BCBA838990F088AE765DEE9"
+				}
+			}
+		}
+		"1294816"
+		{
+			"config"
+			{
+				"language"		"schinese"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7141975648314564224"
+					"size"		"826004"
+					"download"		"768544"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"adventuremode"
+				{
+					"gid"		"5558E9049FE5F4BEFB67D7239597B577"
+					"size"		"2C9075BC4EB611C450C57B8CD29A7C88"
+					"download"		"D8BB7FE4C7F7B918B1C435007511CA89"
+				}
+				"anmerge"
+				{
+					"gid"		"380E91F36DBE733DA213EC2D047B5071"
+					"size"		"C6C69DBC6CB02B74F557F556AAE77801"
+					"download"		"C6273C6FBBE2611A5F7258C8098DFFE8"
+				}
+				"buildsystem"
+				{
+					"gid"		"4232E977B677C0A2C1E489F9DB138C87"
+					"size"		"C159788CBF1BA59BC7FEA36D6E651540"
+					"download"		"EDD7D85E7550D83862796B0FEA86D7D0"
+				}
+				"focustest"
+				{
+					"gid"		"E1C1AB1599B97ED3D87EAA624673052E"
+					"size"		"69F3B2CED94D2108AA158CAD65E6E2EB"
+					"download"		"5B69F33A4E28067A5CC2F96590BA4D53"
+				}
+				"integration1"
+				{
+					"gid"		"15D01FC6BB5D1730B53F5104FD9262F2"
+					"size"		"75A563773ACAE67B6EEE9F72FADB2402"
+					"download"		"4D79B183C8C001F9234E8D5EAEE3DEA3"
+				}
+				"integration2"
+				{
+					"gid"		"3486554AD1A7891C4A98AF243ED675BB"
+					"size"		"2D53A6FF4CD622B2B69E8CB7CC06EDCB"
+					"download"		"C99A3DE9FCBF6C090890A106D3E6A666"
+				}
+				"main"
+				{
+					"gid"		"ECF2F421AE145BD0FDC11CEB8378091E"
+					"size"		"AE4D5F4EFC193E981572B810EDEEC889"
+					"download"		"144026B46BF9D75B130749B5EEB987D0"
+				}
+				"playtest"
+				{
+					"gid"		"FF03A7A36A7AF65A9F907384F717AA24"
+					"size"		"1876BC0E8E1CAB0AE4EE1E2AA50F2665"
+					"download"		"666BEF0058CFF2490DFAEE80F83DD723"
+				}
+				"release"
+				{
+					"gid"		"9120607544EAACE8BB54E62B29CEBA1E"
+					"size"		"3FA172893B51A16F2617BACD86373B06"
+					"download"		"A050A9EB4F93641EA70D18A81FC4E5A9"
+				}
+				"staging"
+				{
+					"gid"		"B612F0BE0085B9B4D66A818C62C6C285"
+					"size"		"CC7F20EB85A8495E8403045647930ECA"
+					"download"		"744D1E913E965A6259B0B2832EA53521"
+				}
+				"techbeta"
+				{
+					"gid"		"F8E5F75A80A9F7DB670EE498908469B1"
+					"size"		"C9DC6D86AE2F4B8F3592A641BC383F59"
+					"download"		"3A8D844B5D0758E35A4BF4EACA1571EE"
+				}
+			}
+		}
+		"2000872"
+		{
+			"config"
+			{
+				"language"		"tchinese"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7531049527588399352"
+					"size"		"823280"
+					"download"		"765792"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"adventuremode"
+				{
+					"gid"		"AE0E612ABD5AE68C5FD0E96341149B10"
+					"size"		"D49590805EEBB2E5A84CCBA86FBFBE53"
+					"download"		"1017D035D00F9C683CFAF878092B969D"
+				}
+				"anmerge"
+				{
+					"gid"		"D2188698887C98DD6E18FB5B502060D3"
+					"size"		"55D1B12EB14FFFAEDE6A6BA0A890ED4D"
+					"download"		"51AAA87672328A9A4750B2B9140451D7"
+				}
+				"buildsystem"
+				{
+					"gid"		"BF20A6DEF612C5861FD86625454BC695"
+					"size"		"448103E861073501D8D3915EB9C7F4F2"
+					"download"		"9C4AB578CE60DA24D59C4A1D95F32FA8"
+				}
+				"focustest"
+				{
+					"gid"		"DB19291DD5F3BF614C43DBAF1F746171"
+					"size"		"294DC0F1F2C423C7E9E54F044F937A75"
+					"download"		"D196D99F17D63C5F5594298711A06FEB"
+				}
+				"integration1"
+				{
+					"gid"		"203B6F32A14EE106212C26CF15DAEED9"
+					"size"		"F6E44C16EFF733BF4264A67EC92A4920"
+					"download"		"95D9E7BFA1CDB13A9542D07B56E093C2"
+				}
+				"integration2"
+				{
+					"gid"		"D994E4AC4C64E970FA0B6561B4EB42ED"
+					"size"		"28AE3FF8B1AF3BF04F3D5202B27ADFE4"
+					"download"		"07B64116F3F9AE3F93C4A10D0AF4D532"
+				}
+				"main"
+				{
+					"gid"		"A9338FF34F9D6DC63ADDC47A74567685"
+					"size"		"12609EE4E0DD800F03DF7147FDEE6EB4"
+					"download"		"4D0053EA646DF832EFD6DB92488B7085"
+				}
+				"playtest"
+				{
+					"gid"		"A848B0C7026E2A774D0F0D75A79521E6"
+					"size"		"1D35DFD421473F6082A22C9A53C1EC5F"
+					"download"		"90C4F9DBF287D23CC07CBAD821F19CD3"
+				}
+				"release"
+				{
+					"gid"		"7B9DB0898D10D05E53DB1A5D3A2404BC"
+					"size"		"B2F6481ED0D4A85CEF81FA0FD38CF386"
+					"download"		"1A4B38E54C3C33472DC8413498649139"
+				}
+				"staging"
+				{
+					"gid"		"A709839AC5229D192E4A1526C8B312AE"
+					"size"		"02E010D9B35D7F6E267A4EC9992AA17B"
+					"download"		"5CFE379F3D5100C56FBB8EF8A8D9DF9F"
+				}
+				"techbeta"
+				{
+					"gid"		"30B39F8B94645258A11DE6B6CFC78F1D"
+					"size"		"E40455E6E680541820B746801927153E"
+					"download"		"58845C34E2B71AECCD030242ACC9D760"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11493446"
+				"timeupdated"		"1687446016"
+			}
+			"adventuremode"
+			{
+				"buildid"		"11785992"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690316176"
+			}
+			"alpha"
+			{
+				"buildid"		"5921516"
+				"pwdrequired"		"1"
+				"timeupdated"		"1607074228"
+			}
+			"anmerge"
+			{
+				"buildid"		"12174613"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694575825"
+			}
+			"buildsystem"
+			{
+				"buildid"		"11145640"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686583932"
+			}
+			"focustest"
+			{
+				"buildid"		"11078288"
+				"pwdrequired"		"1"
+				"timeupdated"		"1682353491"
+			}
+			"integration1"
+			{
+				"buildid"		"11784428"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690302696"
+			}
+			"integration2"
+			{
+				"buildid"		"12125829"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694029396"
+			}
+			"main"
+			{
+				"buildid"		"12176451"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694595475"
+			}
+			"playtest"
+			{
+				"buildid"		"12052360"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693251031"
+			}
+			"release"
+			{
+				"buildid"		"11493446"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686966360"
+			}
+			"staging"
+			{
+				"buildid"		"12167130"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694509167"
+			}
+			"techbeta"
+			{
+				"buildid"		"9103041"
+				"pwdrequired"		"1"
+				"timeupdated"		"1657637964"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000000"
+		"maxnumfiles"		"10000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinSavedGames"
+				"path"		"Arkane Studios/Redfall/Steam/SaveGames"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
