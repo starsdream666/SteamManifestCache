@@ -1,0 +1,207 @@
+"appinfo"
+{
+	"appid"		"545030"
+	"common"
+	{
+		"name"		"NSFW ~ Not a Simulator For Working"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"logo"		"46a4c4264d1e9c4ec604b1263725b9a8c397fdaa"
+		"logo_small"		"46a4c4264d1e9c4ec604b1263725b9a8c397fdaa_thumb"
+		"icon"		"fd9c21a91549ad9e9e3f411cc36dadf3c8cc4ee4"
+		"clienttga"		"1b7ecc930c9d4994a3fa50b4ae6f45b2702497bb"
+		"linuxclienticon"		"770836eb7e490b5507b8cd440a22fb91011e6b87"
+		"clienticon"		"98660427f8143f16a15ce9938626b2c2e466f09c"
+		"clienticns"		"b3d811ef193d4377a5652a34716ccdd9b98d92a8"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"metacritic_name"		"NSFW ~ Not a Simulator For Working"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"75.2008032128514"
+				"height_pct"		"79.16666666666666"
+			}
+		}
+		"store_asset_mtime"		"1628220438"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"GameChanger Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"GameChanger Studio"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1477638000"
+		"steam_release_date"		"1477638019"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"545030"
+		"store_tags"
+		{
+			"0"		"6650"
+			"1"		"12095"
+			"2"		"24904"
+			"3"		"492"
+			"4"		"599"
+			"5"		"597"
+			"6"		"3964"
+		}
+		"review_score"		"8"
+		"review_percentage"		"88"
+	}
+	"extended"
+	{
+		"developer"		"GameChanger Studio"
+		"publisher"		"GameChanger Studio"
+	}
+	"config"
+	{
+		"installdir"		"NSFW ~ Not a Simulator For Working"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"NSFW.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"NSFW.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"NSFW.x86"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"32"
+				}
+			}
+			"3"
+			{
+				"executable"		"NSFW.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"545031"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7813789679854356782"
+					"size"		"134183554"
+					"download"		"38910304"
+				}
+			}
+		}
+		"545032"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3570384345894478006"
+					"size"		"148246115"
+					"download"		"41535520"
+				}
+			}
+		}
+		"545033"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1251713196007086775"
+					"size"		"175153397"
+					"download"		"51352848"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1418041"
+				"timeupdated"		"1477565372"
+			}
+		}
+	}
+}
