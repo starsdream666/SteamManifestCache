@@ -1,0 +1,342 @@
+"appinfo"
+{
+	"appid"		"670160"
+	"common"
+	{
+		"name"		"D'LIRIUM"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"clienticon"		"b66558c51229b3caefd4d22bc31cfe6d79426404"
+		"clienttga"		"d5165274e075a9b68718c2986150fd7c3cd47bcd"
+		"icon"		"afee6b1ed92616f9e79664c493a1402c41198986"
+		"logo"		"1e577f32648f7dad69c31db91c6643a31776e321"
+		"logo_small"		"1e577f32648f7dad69c31db91c6643a31776e321_thumb"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"polish"		"1"
+			"hungarian"		"1"
+			"czech"		"1"
+			"ukrainian"		"1"
+		}
+		"osextended"		""
+		"linuxclienticon"		"3ec12f0b5436d8f04152ee1da3dbfab822bac3a9"
+		"clienticns"		"f556181a6bd50d856f97ab467677e94b59315f86"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"48.50230414746543"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1656850849"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"B52 Development Team"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"B52 Development Team"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"D'LIRIUM"
+			}
+		}
+		"primary_genre"		"70"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_30"		"1"
+			"category_17"		"1"
+			"category_15"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"hungarian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"belarusian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1503644400"
+		"steam_release_date"		"1503705480"
+		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"670160"
+		"store_tags"
+		{
+			"0"		"4667"
+			"1"		"1667"
+			"2"		"4342"
+			"3"		"4345"
+			"4"		"1774"
+			"5"		"3978"
+			"6"		"8122"
+			"7"		"3916"
+			"8"		"19"
+			"9"		"4166"
+			"10"		"4637"
+			"11"		"1721"
+			"12"		"21"
+			"13"		"493"
+			"14"		"4182"
+			"15"		"3871"
+			"16"		"4234"
+			"17"		"13782"
+			"18"		"1710"
+			"19"		"6971"
+		}
+		"review_score"		"9"
+		"review_percentage"		"95"
+	}
+	"extended"
+	{
+		"developer"		"B52 Development Team"
+		"publisher"		"B52 Development Team"
+	}
+	"config"
+	{
+		"installdir"		"D'LIRIUM"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"delirium\\delirium.exe"
+				"workingdir"		"Delirium"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"D'LIRIUM.app\\Contents\\MacOS\\Mac_Runner"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,schinese,tchinese,russian,polish,hungarian,czech,ukrainian"
+		"hasdepotsindlc"		"1"
+		"workshopdepot"		"670160"
+		"670161"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4923926157838560635"
+					"size"		"442356758"
+					"download"		"157305616"
+				}
+				"yyc_stable"
+				{
+					"gid"		"8662861099855388809"
+					"size"		"468410127"
+					"download"		"160712320"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev_vm"
+				{
+					"gid"		"DA70040BFB7AAF88000BD763562021CA"
+					"size"		"5BD43A42ED02A00D27ABBEE3339AAE18"
+					"download"		"25915C3F2FD3A344F1ABFEA9A832D00E"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10016848"
+				"timeupdated"		"1669385115"
+			}
+			"dev_vm"
+			{
+				"buildid"		"12171915"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694547270"
+			}
+			"yyc_stable"
+			{
+				"buildid"		"10016861"
+				"description"		"Optimized and fast, but less error info."
+				"timeupdated"		"1669385215"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"999999999"
+		"maxnumfiles"		"9999"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"Delirium"
+				"pattern"		"*.save"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"Delirium"
+				"pattern"		"*.dconf"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"2"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"Delirium/characters"
+				"pattern"		"*.dchar"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"3"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"Delirium/config"
+				"pattern"		"*.dconf"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"4"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"Delirium/config"
+				"pattern"		"*.dchar"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"5"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"Delirium/save"
+				"pattern"		"*.dsave"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
