@@ -1,0 +1,140 @@
+"appinfo"
+{
+	"appid"		"777540"
+	"common"
+	{
+		"name"		"Entertainment Hero"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"e5bee264fa2454e89c865e3916c64f2352296981"
+		"logo_small"		"e5bee264fa2454e89c865e3916c64f2352296981_thumb"
+		"icon"		"f3a54c2a1430f0b53fb29d713ac0c7f866c4cf66"
+		"clienticon"		"17a0272c77077eb1c0f5447d48feeed17cbd8d70"
+		"clienttga"		"a0148357ae4b4cfa770092350685b749078f9ff4"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"777540_eula_0"
+				"name"		"Entertainment Hero EULA"
+				"url"		"http://store.steampowered.com//eula/777540_eula_0"
+			}
+		}
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"metacritic_name"		"Entertainment Hero"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"30.163360560093366"
+				"height_pct"		"54.40512942293992"
+			}
+		}
+		"store_asset_mtime"		"1583006076"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Windzen"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Windzen"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1507618800"
+		"steam_release_date"		"1516122344"
+		"community_hub_visible"		"1"
+		"gameid"		"777540"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"1625"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Windzen"
+		"publisher"		"Windzen"
+		"homepage"		"http://nehwind.wixsite.com/enterhero"
+	}
+	"config"
+	{
+		"installdir"		"Entertainment Hero"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Entertainment Hero 1.0\\EnterHero1.0.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"777541"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"96824414134890073"
+					"size"		"1178161184"
+					"download"		"200974688"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2401100"
+				"timeupdated"		"1514442897"
+			}
+		}
+	}
+}
