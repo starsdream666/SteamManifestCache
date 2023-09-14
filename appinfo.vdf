@@ -1,0 +1,269 @@
+"appinfo"
+{
+	"appid"		"804460"
+	"common"
+	{
+		"name"		"LAST WAR 2044"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"clienttga"		"5d4e49d2d0b2f1d0252800365bf214f1c400247f"
+		"clienticon"		"83765b42f9d3ff0c20c061734404b759f7fc6512"
+		"icon"		"c2158e52743d32995f3d4f5e973ff4c825655cc2"
+		"logo"		"33f4fd4b14cf684285c6082069e727e57cb36989"
+		"logo_small"		"33f4fd4b14cf684285c6082069e727e57cb36989_thumb"
+		"languages"
+		{
+			"english"		"1"
+			"russian"		"1"
+		}
+		"metacritic_name"		"LAST WAR 2044"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"29.976717112922003"
+				"height_pct"		"27.202564711469932"
+			}
+		}
+		"store_asset_mtime"		"1667024241"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"NVG Games"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Vopilov Group"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"New Vektor Group"
+			}
+			"3"
+			{
+				"type"		"publisher"
+				"name"		"Vopilov Group"
+			}
+			"4"
+			{
+				"type"		"franchise"
+				"name"		"LAST WAR"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"2"
+			"2"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1520409600"
+		"steam_release_date"		"1520588620"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"804460"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"9"
+			"2"		"493"
+			"3"		"1667"
+			"4"		"1678"
+			"5"		"4182"
+			"6"		"1643"
+			"7"		"1645"
+			"8"		"4166"
+			"9"		"4695"
+		}
+		"review_score"		"5"
+		"review_percentage"		"52"
+	}
+	"extended"
+	{
+		"developer"		"NVG Games"
+		"publisher"		"New Vektor Group"
+		"homepage"		"https://nvg-group.com"
+	}
+	"config"
+	{
+		"installdir"		"LAST WAR 2044"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Lastwar2044.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,russian"
+		"hasdepotsindlc"		"1"
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229005"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"804461"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8150821045724175350"
+					"size"		"2200873328"
+					"download"		"832571680"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"default_beta"
+				{
+					"gid"		"23B9C1FF32E418A18ED9B852E1C4CFDD"
+					"size"		"451E04B127278AE329E8DDF6E65A3FD1"
+					"download"		"5A279C0064C76766C5886FF941B7F815"
+				}
+				"default_dev"
+				{
+					"gid"		"33EBE94A8134A18C973F7F92BC66E46D"
+					"size"		"53ADDD6306A6E8DD403C5D8D33F39FE3"
+					"download"		"2DB7DD531875C688DC12B2C78D8632C8"
+				}
+				"olde"
+				{
+					"gid"		"A8C764121DAA03A98D3DB3177CD27777"
+					"size"		"70FBD72A0197BB1BB1FD76B8AB9C5463"
+					"download"		"A3C187B11C8266A79EFB421E824A22A3"
+				}
+			}
+		}
+		"804464"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"default_beta"
+				{
+					"gid"		"BADD0399FC8E11F661E638618E686064"
+					"size"		"23C389CC7DB2952830C0F7D45135608F"
+					"download"		"3B44621F51623732134A5B9E096828F7"
+				}
+			}
+		}
+		"804465"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"default_dev"
+				{
+					"gid"		"E4D489CCE53744B83C3BB1EE897CD53D"
+					"size"		"84908E18148145570B175988C99BE56D"
+					"download"		"8874C3CC0242911AD56CE9D4D7BC1127"
+				}
+				"olde"
+				{
+					"gid"		"941CBE34A94B95F9D68547687C59EF15"
+					"size"		"D3DD202DF771F6F59C3BB6ECC1926947"
+					"download"		"8820E280BCDE73E1FFEA43119774263C"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2908988"
+				"timeupdated"		"1530399109"
+			}
+			"default_beta"
+			{
+				"buildid"		"2587262"
+				"pwdrequired"		"1"
+				"timeupdated"		"1520522932"
+			}
+			"default_dev"
+			{
+				"buildid"		"3674475"
+				"pwdrequired"		"1"
+				"timeupdated"		"1553381325"
+			}
+			"olde"
+			{
+				"buildid"		"8306343"
+				"pwdrequired"		"1"
+				"timeupdated"		"1646298923"
+			}
+		}
+	}
+}
