@@ -1,0 +1,499 @@
+"appinfo"
+{
+	"appid"		"2106810"
+	"common"
+	{
+		"name"		"The Forest of Drizzling Rain"
+		"type"		"Game"
+		"clienticon"		"8043dbaabcef6d020b6fd0c2643e7746eaa8a309"
+		"clienttga"		"00ac7962bcc45287214d95ae0143e06155d5644d"
+		"icon"		"d69c1b2536a3d5ae73af8955175a3090afc4194e"
+		"name_localized"
+		{
+			"japanese"		"霧雨が降る森"
+			"tchinese"		"霧雨飄零之森"
+			"koreana"		"안개비가 내리는 숲"
+			"schinese"		"雾雨飘零之森"
+		}
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1672876800"
+			"tested_build_id"		"10027656"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-6"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"japanese"		"header_japanese.jpg"
+			"schinese"		"header_schinese.jpg"
+			"tchinese"		"header_tchinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,ja,zh-cn,zh-tw"
+			"library_hero"		"en,ja,zh-cn,zh-tw"
+			"library_logo"		"en,ja,zh-cn,zh-tw"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1668608848"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Vaka Game Magazine"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Makoto Sanada"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Vaka Game Magazine"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1668590603"
+		"community_hub_visible"		"1"
+		"gameid"		"2106810"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"21"
+			"2"		"3871"
+			"3"		"4106"
+			"4"		"1667"
+			"5"		"3964"
+			"6"		"4085"
+			"7"		"6971"
+			"8"		"492"
+			"9"		"4166"
+			"10"		"1742"
+			"11"		"4182"
+			"12"		"5577"
+		}
+		"review_score"		"8"
+		"review_percentage"		"98"
+	}
+	"extended"
+	{
+		"developer"		"Vaka Game Magazine"
+		"publisher"		"Vaka Game Magazine"
+		"homepage"		"https://www.gamemaga.jp/kirisame/"
+	}
+	"config"
+	{
+		"installdir"		"The Forest of Drizzling Rain"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"Game.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"nwjs.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,koreana,schinese,tchinese,japanese"
+		"2106811"
+		{
+		}
+		"2106813"
+		{
+			"config"
+			{
+				"language"		"japanese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"980996550691997393"
+					"size"		"667839820"
+					"download"		"449544544"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"check"
+				{
+					"gid"		"4C0B1C3A63E75E1CD5781FAE28CFB6DE"
+					"size"		"B0AAC67868EDFA02382C1C0EFAF245B6"
+					"download"		"01AAB3001B581F7CB47D61B9A8019B9E"
+				}
+				"test"
+				{
+					"gid"		"2B4C078C647D9C7E5D0A593AC497A3DE"
+					"size"		"50D8FE1CC475AEA21AB932A8F04E3BA3"
+					"download"		"A8860F1A2346C016B8D97ECE1314A798"
+				}
+			}
+		}
+		"2106814"
+		{
+			"config"
+			{
+				"language"		"japanese"
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3610988727245165869"
+					"size"		"778063557"
+					"download"		"481971104"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"check"
+				{
+					"gid"		"AA785E8482B6DA05F8DE6DCA4898B78A"
+					"size"		"4098E89BC8FF75EBD2909FE7F3130771"
+					"download"		"360E5104F9B3B40BFF36EA5D3ACCEE35"
+				}
+			}
+		}
+		"2106815"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6959647268621298999"
+					"size"		"667876274"
+					"download"		"450475536"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"check"
+				{
+					"gid"		"8796DAC1FC757176AE13C19288975AE2"
+					"size"		"4DBE5CFA01436FAB49287795CEC85A16"
+					"download"		"5AF692032A968DC47A1EFADF5E35E06F"
+				}
+			}
+		}
+		"2106816"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1238556975096316634"
+					"size"		"778100011"
+					"download"		"482911872"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"check"
+				{
+					"gid"		"4644EE69EDE4D308C3F423FCF91B2229"
+					"size"		"33AFAAEA6C5924795D8D7E27F7656001"
+					"download"		"FDE9F05B59C4D74D6907DAC2B45EC622"
+				}
+			}
+		}
+		"2106817"
+		{
+			"config"
+			{
+				"language"		"schinese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1846897662940460005"
+					"size"		"691508011"
+					"download"		"466768656"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"check"
+				{
+					"gid"		"27725E366E6225F8F4C6C52CE69C23F2"
+					"size"		"81B8E1F00F4174B12B68BFCA865C89C1"
+					"download"		"7922BE7C3F5111B4BB9E6012903239DB"
+				}
+			}
+		}
+		"2106818"
+		{
+			"config"
+			{
+				"language"		"tchinese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7024239543491888060"
+					"size"		"673761214"
+					"download"		"454866672"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"check"
+				{
+					"gid"		"5B129257B2F04D0F0F229FCCFD56E146"
+					"size"		"92BD5ADF8970446598902179BB45E11C"
+					"download"		"EFADBFBF1A8A4846EA5A6FAE0A8475DB"
+				}
+			}
+		}
+		"2106819"
+		{
+			"config"
+			{
+				"language"		"koreana"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"486472739977997947"
+					"size"		"667934283"
+					"download"		"450528880"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"check"
+				{
+					"gid"		"A927A593452099EBE98FF427BF4E7458"
+					"size"		"38834CEEFD41FF6B5CCA6DE0DB76D41D"
+					"download"		"9BAD930D818FA4DF5BEE6F35792555C9"
+				}
+			}
+		}
+		"2106812"
+		{
+			"config"
+			{
+				"language"		"schinese"
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8677540253328668214"
+					"size"		"801800812"
+					"download"		"499209072"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"check"
+				{
+					"gid"		"02FC8B7FE24E2FD0F3571F7575C8D082"
+					"size"		"302591FC57F127D92600ED235A9E33C0"
+					"download"		"E46014C3AA040F926755FACF112D75B6"
+				}
+			}
+		}
+		"2314170"
+		{
+			"config"
+			{
+				"language"		"tchinese"
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1939386432957287256"
+					"size"		"784054015"
+					"download"		"487297296"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"check"
+				{
+					"gid"		"E4C390A85CF085DDABD4CEFB3D6FDD82"
+					"size"		"7E48FC9318679E52C7002CC6F6FD942E"
+					"download"		"3A7FE75B62ABD038F7B3693CBD45837C"
+				}
+			}
+		}
+		"2314171"
+		{
+			"config"
+			{
+				"language"		"koreana"
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8742340229232804583"
+					"size"		"778227084"
+					"download"		"482959520"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"check"
+				{
+					"gid"		"ADD3B91673E5197C2F7ED5D5A49E5515"
+					"size"		"F428FD4E04200CE7D16421EB4FF93DF3"
+					"download"		"41FDBDA0334C68EC7C1E1FD3B86D61B0"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11369637"
+				"timeupdated"		"1685622734"
+			}
+			"check"
+			{
+				"buildid"		"11369637"
+				"pwdrequired"		"1"
+				"timeupdated"		"1685621095"
+			}
+			"test"
+			{
+				"buildid"		"9948439"
+				"pwdrequired"		"1"
+				"timeupdated"		"1668589596"
+			}
+		}
+	}
+}
