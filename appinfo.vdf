@@ -1,0 +1,245 @@
+"appinfo"
+{
+	"appid"		"1428880"
+	"common"
+	{
+		"name"		"CONSORTIUM VR"
+		"type"		"Game"
+		"releasestate"		"released"
+		"controllervr"
+		{
+			"oculus"		"1"
+			"steamvr"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"logo"		"12651ab4ac61a49b750218ba6e4c537b76ba06b5"
+		"logo_small"		"12651ab4ac61a49b750218ba6e4c537b76ba06b5_thumb"
+		"icon"		"f1a40cf10b8b60e55ec52a854c4f8de9ce028d8e"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"934f70763341ac1bc77429a0193d342efb4c0678"
+		"clienticon"		"f3afd0ab90b34824c862d08c86b4a741d0d2749e"
+		"openvr_action_manifest_path"		"Consortium\\Config\\SteamVRBindings\\steamvr_manifest.json"
+		"openxrsupport"		"1"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"84.57611018760389"
+			}
+		}
+		"store_asset_mtime"		"1685844722"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Interdimensional Games Inc"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Interdimensional Games Inc"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Consortium iDGi1"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"3"
+			"2"		"28"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_17"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1682123528"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1428880"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"5716"
+			"1"		"4115"
+			"2"		"4295"
+			"3"		"122"
+			"4"		"9204"
+			"5"		"3993"
+			"6"		"1663"
+			"7"		"3942"
+			"8"		"21978"
+			"9"		"4064"
+			"10"		"8369"
+			"11"		"15172"
+			"12"		"1742"
+			"13"		"6426"
+			"14"		"15277"
+			"15"		"4252"
+			"16"		"3854"
+			"17"		"4182"
+			"18"		"4145"
+			"19"		"21"
+		}
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Interdimensional Games Inc"
+		"publisher"		"Interdimensional Games Inc"
+		"homepage"		"https://www.idgi1.ca/idgi-vr"
+	}
+	"config"
+	{
+		"installdir"		"CONSORTIUM VR"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ConsortiumGame.exe"
+				"arguments"		"-vr"
+				"type"		"openxr"
+				"description_loc"
+				{
+					"english"		"CONSORTIUM VR"
+				}
+				"description"		"CONSORTIUM VR"
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1428881"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6205648159683865199"
+					"size"		"1866670669"
+					"download"		"1537788304"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"indievr"
+				{
+					"gid"		"C03878B56B83C7607BC2EB33FA223CCD"
+					"size"		"43972EE08DC1C1F802F7B799A03A4F55"
+					"download"		"400E34C160F702D91305428A899E49FE"
+				}
+				"internal"
+				{
+					"gid"		"E4FB064928E644D364F100C1B4421610"
+					"size"		"C10B2C86C845E5B7D2D15E12ED686690"
+					"download"		"A9E368D5CC0915EB9814497041FBCF27"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11805239"
+				"timeupdated"		"1690489418"
+			}
+			"indievr"
+			{
+				"buildid"		"10749334"
+				"pwdrequired"		"1"
+				"timeupdated"		"1678597912"
+			}
+			"internal"
+			{
+				"buildid"		"11805239"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690487534"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"5000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"idgi\\Consortium"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
