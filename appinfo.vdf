@@ -1,0 +1,970 @@
+"appinfo"
+{
+	"appid"		"1230530"
+	"common"
+	{
+		"name"		"Atlas Fallen"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"8b90cbe56c1ec0260683fe43ec75664e7e72a170"
+		"clienticon"		"c526f3e033cbf5b9f7dce9af310bc37b9d2dd885"
+		"clienttga"		"945b2577dac445930ea15b5d052f76d5ed4b9351"
+		"name_localized"
+		{
+			"schinese"		"尘封大陆"
+		}
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"portuguese"		"1"
+			"polish"		"1"
+			"czech"		"1"
+			"brazilian"		"1"
+			"latam"		"1"
+		}
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1230530_eula_0"
+				"name"		"Atlas Fallen EULA"
+				"url"		"https://store.steampowered.com//eula/1230530_eula_0"
+				"version"		"3"
+			}
+		}
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1691798400"
+			"tested_build_id"		"11850220"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"5"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn"
+			"library_hero"		"en"
+			"library_logo"		"en,zh-cn"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"28.176483410885226"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1691670284"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Deck13"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Focus Entertainment"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Focus Entertainment"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Deck13 Spotlight"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_1"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_18"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1691618020"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1230530"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"21"
+			"2"		"4231"
+			"3"		"4106"
+			"4"		"3834"
+			"5"		"4191"
+			"6"		"4145"
+			"7"		"1684"
+			"8"		"3843"
+			"9"		"9541"
+			"10"		"4236"
+			"11"		"4057"
+			"12"		"5716"
+			"13"		"10808"
+			"14"		"4182"
+			"15"		"3993"
+			"16"		"7208"
+			"17"		"5094"
+			"18"		"122"
+			"19"		"1742"
+		}
+		"review_score"		"5"
+		"review_percentage"		"64"
+	}
+	"extended"
+	{
+		"absolutemousecoordinates"		"0"
+		"remoteplaytogethertestingbranches"		"d13_smoke_tested,d13_test"
+		"developer"		"Deck13"
+		"publisher"		"Focus Entertainment"
+		"homepage"		"https://www.focus-entmt.com/games/atlas-fallen"
+		"listofdlc"		"1933030"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Atlas Fallen"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"bin\\AtlasFallen.exe"
+				"workingdir"		"\\bin"
+				"type"		"default"
+				"description_loc"
+				{
+					"english"		"Play Atlas Fallen"
+				}
+				"description"		"Play Atlas Fallen"
+			}
+			"1"
+			{
+				"executable"		"bin\\AtlasFallen (DirectX 12).exe"
+				"workingdir"		"\\bin"
+				"description_loc"
+				{
+					"english"		"Play Atlas Fallen (DirectX 12) "
+				}
+				"description"		"Play Atlas Fallen (DirectX 12) "
+			}
+		}
+		"steamcontrollertemplateindex"		"2"
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"8"
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1230531"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8879430040100487915"
+					"size"		"29376737120"
+					"download"		"22807484544"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"d1_patch_latest"
+				{
+					"gid"		"77C095F505A46C5BC7F53D00E15AAA8F"
+					"size"		"909844D54F64DF4B982C0081C5155723"
+					"download"		"FCB7EE1C85B8E3876955A8B5577874C4"
+				}
+				"d1_patch_stable"
+				{
+					"gid"		"0113A5B0AB9855F50522BB010D6637F6"
+					"size"		"2A5BF0B8A990C314EF59D4B82B2CAA28"
+					"download"		"3DE294D4970021847DA2AC246C730684"
+				}
+				"d13_patches3"
+				{
+					"gid"		"85BADA24227CF94F41262E0BB4D1372D"
+					"size"		"D81C3D3CE1DA3FBE0434DC9C5F54EC0A"
+					"download"		"A4C972CFB11040417BC503B63F594F75"
+				}
+				"d13_preview"
+				{
+					"gid"		"AD5771B214AF95D85407A0BDF2564089"
+					"size"		"CC199C89CF89FE445DC167E14CFA4994"
+					"download"		"307E88CDCFA65D527C4A0529FE982A2D"
+				}
+				"d13_preview_stable"
+				{
+					"gid"		"FF5B03F4EE30C79BD0B4114983A46166"
+					"size"		"DB79426E720845794AC2A2D7FFA0CFC2"
+					"download"		"6A9D863003BEF9772A0EB33F97C97D54"
+				}
+				"d13_qa_temp"
+				{
+					"gid"		"FF5E7AAD2463C6197AB475A8FBB6CA57"
+					"size"		"7871FC56EA5BE03FF3D4C302FFF477B4"
+					"download"		"B285778152B0D92D464BA321F8076FFF"
+				}
+				"d13_qa_test_task"
+				{
+					"gid"		"99D15A0D93145344A701A8C25FCBBF7A"
+					"size"		"10DDEA612C257E0FFAF5162EA79C7D41"
+					"download"		"74379F8FC100357BABFC3D253D32BC24"
+				}
+				"d13_release_test"
+				{
+					"gid"		"002E08ADA340971D0A749DCC88CAFCA3"
+					"size"		"471841AE21C997D3CD3DA49D5A29E1AB"
+					"download"		"9D92212714EF1F1CF413963EF211D414"
+				}
+				"d13_smoke_tested"
+				{
+					"gid"		"0A308CBB242077566771A94508011B2C"
+					"size"		"ED5DFA80ABEFFC8872C2992E1A68273C"
+					"download"		"014166C193BCC669E9EDE19031CD9E9A"
+				}
+				"d13_test"
+				{
+					"gid"		"B8FDF291E0ED53CB7A8273F6A9925509"
+					"size"		"A6FA3B6F3BE1155803A915DAE5A944FE"
+					"download"		"F785F7C8867E138C8FAFA5B4397F1B8C"
+				}
+				"era_dlc"
+				{
+					"gid"		"B609894D22D34FAF4C9B068BCACFEC43"
+					"size"		"214D31757047081AD6A4B5EA7D9525F3"
+					"download"		"FFECED257F605194CDD17E127A65DF5F"
+				}
+				"focus_external_2"
+				{
+					"gid"		"FB069F44FF3D12A198E085DFDCD2D3D7"
+					"size"		"7C99E1EBD5CC74EF8AE19F358A42FC54"
+					"download"		"ED14C5A51F12045CE8DF2F39BE4205FE"
+				}
+				"focus_external_partners"
+				{
+					"gid"		"3E9ED094019078B5079C1F47CC3EB9D8"
+					"size"		"33EA86A802318BB1662A7EFE7685BED8"
+					"download"		"15526C2B549A6A4212801591827EA287"
+				}
+				"focus_hardwre_test_july"
+				{
+					"gid"		"11A9435592949B27E4270BF37EE73E00"
+					"size"		"2424DFA8A2E3D0D16CB572D9C6CF0ABB"
+					"download"		"EA11F965B26065EEE3AFDF9B03A70198"
+				}
+				"focus_lqa"
+				{
+					"gid"		"CB432A555062D1CD55C89D61C7806764"
+					"size"		"18465E7A5D709852CBF8B3B8DF392B23"
+					"download"		"A758DB2D9880C1D07EF4296E53AD0617"
+				}
+				"focus_playtest"
+				{
+					"gid"		"AF4A00AD7EDBB352ACAC825D32D50C66"
+					"size"		"0FB7BA4F3EBC283906508A54C1DA498A"
+					"download"		"DA64833B771FD9AC30FE446597082BD0"
+				}
+				"focus_preview_build"
+				{
+					"gid"		"6F6E93DBEA814D5BD5F95A49A9B7F784"
+					"size"		"ADDB66F3F767761CA817E7DCC5DA3AB3"
+					"download"		"1D6810BC183491144691F8B6F51EFEB1"
+				}
+				"focus_qa_external"
+				{
+					"gid"		"5E2A21103453A48A4D767E1D94283D46"
+					"size"		"E6DE9505246D40B4EC8338698F95085B"
+					"download"		"7D94D53199350F68C94DBCCAD9524704"
+				}
+				"patches_latest"
+				{
+					"gid"		"0C5ADC0047DB5B78956F7C76D61DD429"
+					"size"		"66D3C0611BA69527E7ADF9476C2FE122"
+					"download"		"C264C8710FBFEBAB38BFD7DB5806720A"
+				}
+				"qa_test"
+				{
+					"gid"		"06CD68FD6D4EF9020471798E13D12721"
+					"size"		"58535D286A3FF89199183BB594D876B1"
+					"download"		"039831D202B24600664AF14CC569EC7E"
+				}
+				"release_candidate"
+				{
+					"gid"		"A9FCE522738EDB69F2E7554C6F9D2D7B"
+					"size"		"AB8EE761335F42BD558DED556D24F1E5"
+					"download"		"E9311D8349F07BD6A94B943716F2B490"
+				}
+				"weekly_build"
+				{
+					"gid"		"F901DDEE9180E115199F02B10F16E8AD"
+					"size"		"E7B03F0CAC6EDEE4E4F0ADC988912B6B"
+					"download"		"947FAAAE59DC29EA41860DF390B33821"
+				}
+				"weekly_build_unstable"
+				{
+					"gid"		"015D5A4BE8CB6BFED4B14919F07A83A5"
+					"size"		"007BE7A40B1DAEFBE5812828D098BA17"
+					"download"		"5E5B46892A82433E7760A64BD01D9594"
+				}
+				"weekly_build_unstable_2"
+				{
+					"gid"		"A162C16A5AFFB92B541EC17CF934CA8D"
+					"size"		"B01C377D871B8F4E0494C9E82BCC63B6"
+					"download"		"D0375AAF5E21D8FE7468F849A2F2CAAD"
+				}
+			}
+		}
+		"1230532"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7001087469468157054"
+					"size"		"22572025"
+					"download"		"7214992"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"d1_patch_latest"
+				{
+					"gid"		"D1E5AD6E20BF60A7BC346FC25083D2B3"
+					"size"		"C39F3F8263DA3FE9CD58067B2CDD36C3"
+					"download"		"B15E950A2F384FB5BA8A1019D0857A3F"
+				}
+				"d1_patch_stable"
+				{
+					"gid"		"214C84F809C27F73F0651F7B3B30EAE8"
+					"size"		"11A192635B9C7E525C8A61971D0532EF"
+					"download"		"F7045DC8961D9740A80A89127A569400"
+				}
+				"d13_patches3"
+				{
+					"gid"		"3AC1007F3ECA62C975E1FC337544C5CC"
+					"size"		"3E3941AEECA72EF0FF34C9BE1CA34D40"
+					"download"		"7F2702495807552098F388F404404B5B"
+				}
+				"d13_preview"
+				{
+					"gid"		"BD9AE6F2E542F2027B0F79D7F285AF9C"
+					"size"		"EEE12C38EE3D658C904D9444FC35915E"
+					"download"		"1FE922F7D9DE77F6B4F90F47F9F197FA"
+				}
+				"d13_preview_stable"
+				{
+					"gid"		"F06B8A02ADB419A3FE22F5CE9EF79198"
+					"size"		"9FAD19BA6712862F84999BE256C05266"
+					"download"		"9A576628C59E6272A8BAB655F7DF0DAC"
+				}
+				"d13_qa_temp"
+				{
+					"gid"		"7C2F0956D75FAFDC071312275926B402"
+					"size"		"E246012E5FCA952FB64E5A752834F17E"
+					"download"		"E409828F9841E4C0BD73BBEF99F56F8B"
+				}
+				"d13_qa_test_task"
+				{
+					"gid"		"55F58063DD343EF035A85054D3DE8F17"
+					"size"		"A1744F9E0021C341BB60E617BC6F93DE"
+					"download"		"BAB683718F0E9E3C1626BEE2B6C02CB6"
+				}
+				"d13_release_test"
+				{
+					"gid"		"D780724DA7B638E904705A3AFC663DCD"
+					"size"		"8B7AFA71F4DE68C9B7EF496B2195C8DD"
+					"download"		"77CA899291D131C2D21D632F8A568AFB"
+				}
+				"d13_smoke_tested"
+				{
+					"gid"		"90A5B4B29C8452CB07392DC86C222B2B"
+					"size"		"D4612ACAED566EBB7A4ACB1DBEC11993"
+					"download"		"003EF8DD2B869B0DE05422BA320CC928"
+				}
+				"d13_test"
+				{
+					"gid"		"76151ADD14C9B738B34D1B1C902AD3A5"
+					"size"		"5246DB40DB40D78BC7897456A3F15EFE"
+					"download"		"DB4CE2422E8DB64D104FCD13E9BFA636"
+				}
+				"era_dlc"
+				{
+					"gid"		"BA6F512E2059773021BBFB2AA96CB539"
+					"size"		"9A1A6A843855A782AAA1054FBEC6C4B1"
+					"download"		"98B72E9DACEF7A5631B76A83B2C804ED"
+				}
+				"focus_external_2"
+				{
+					"gid"		"9403DC7BF7403F010C3F4840F39A6A01"
+					"size"		"F1C957B4310D994E6B1938CB9B01E964"
+					"download"		"ED2D1A9D0373AB385D073F5BA9ADB07F"
+				}
+				"focus_external_partners"
+				{
+					"gid"		"6A59449EE6033FE3B3FFA4048FE28B50"
+					"size"		"6BCFF499859E2BA3B510AFEF19097279"
+					"download"		"05970D84A0140A3AAAF8AFA38503E2F7"
+				}
+				"focus_hardwre_test_july"
+				{
+					"gid"		"5719C6AA1D5FDC3E4BDC4CBD776F8A05"
+					"size"		"D0EE59D7943DA6A04DA609D3E3AA9A7F"
+					"download"		"CE13BFA32EFC1D40C6BD0924CC6FBE21"
+				}
+				"focus_lqa"
+				{
+					"gid"		"41CA97EC7699BCC2DF30053CBBD09821"
+					"size"		"31E72E4742F5AA0731CE185CDDC17525"
+					"download"		"1DE22332DBD866B17A443579C8569E73"
+				}
+				"focus_playtest"
+				{
+					"gid"		"C41DA663A60A7C30F8ED22195CA363ED"
+					"size"		"50C75619F51790C9D971DB2D63DC6AF3"
+					"download"		"B4BA44DA676CE18212513C795687AD73"
+				}
+				"focus_preview_build"
+				{
+					"gid"		"B5063B2D3ECCB35CC216145C53D53027"
+					"size"		"BAF6AD5380E5686399C43F7E010A9F4F"
+					"download"		"602C89DB94898A0DA2C312F133B80AD9"
+				}
+				"focus_qa_external"
+				{
+					"gid"		"E4FAB76226056B8B3D1961233A94174E"
+					"size"		"2E2C13FD1F0FF8C6B382650B6C8CB566"
+					"download"		"23378219EF9C6948F30EA4FA7A77FC70"
+				}
+				"patches_latest"
+				{
+					"gid"		"33D2FBB6CBC0F92DDFCD9EFD5DC756E9"
+					"size"		"5B7D52D1D62706AA9EB38E4B2A2279E6"
+					"download"		"A06F757BCF7426FEE502CD313AC13287"
+				}
+				"qa_test"
+				{
+					"gid"		"E6DAF13549ABEFDE582A31554D9F2DCC"
+					"size"		"20ECD9AC1645F1B5E0BC7A68184CEE5F"
+					"download"		"B8974DD56D96B1B9525C84920D1A7839"
+				}
+				"release_candidate"
+				{
+					"gid"		"427BCA4F32926BFDFD51BB20F004E183"
+					"size"		"FF882F3CDE71A02AB4EF2B1A62DB72C2"
+					"download"		"95D4E145B8642770DC41605C350B1156"
+				}
+				"weekly_build"
+				{
+					"gid"		"D68847C1179BD34560BF77DFEFC283A9"
+					"size"		"00B0EEEE8F24E942174C376AC156CE22"
+					"download"		"6C53A3C00F53C89CBB91C6C2CE3C83C7"
+				}
+				"weekly_build_unstable"
+				{
+					"gid"		"869F13B54128DE6D257B61C25AFA48FE"
+					"size"		"39CBF117C099471E271BA7809B7335DB"
+					"download"		"3D1DBF11079016672149C2AC134B0B32"
+				}
+				"weekly_build_unstable_2"
+				{
+					"gid"		"AD003234F28A9E6368E30CC9C8604C0D"
+					"size"		"1A9B21EA49F16AE8442ADE05EE09F07F"
+					"download"		"0F179AF9C92D0D015C04A9973934BC61"
+				}
+			}
+		}
+		"1230533"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2670988636743081145"
+					"size"		"5172838"
+					"download"		"2136080"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"d1_patch_latest"
+				{
+					"gid"		"7CDB870C176FC9ADDDA035B34A782880"
+					"size"		"EADC1C9D3CBA69B39A0C94410987EEDC"
+					"download"		"EF4CEF6533C6DECC8D969EDF2343F52C"
+				}
+				"d1_patch_stable"
+				{
+					"gid"		"16DBDA1D4F1A72554DCD17C068CAAB00"
+					"size"		"44E33B1B346867DA1591A62B6CC10E6B"
+					"download"		"FC59B5FE7E7F9FE524786B3FE71146BA"
+				}
+				"d13_patches3"
+				{
+					"gid"		"0C3B503C44F6B097AA791C39495C6741"
+					"size"		"4FCDDAA5A913E87CF70D82DC4984639C"
+					"download"		"4CD241E40C01EFC0F3B4E3BECF9B10FE"
+				}
+				"d13_preview"
+				{
+					"gid"		"8BFFD6510AE2FA1DA96EF34C5D2048F1"
+					"size"		"EE76F2CB6848B51E536196FA1FB4416C"
+					"download"		"E8537FF1FDC5D7078578269344823BCE"
+				}
+				"d13_preview_stable"
+				{
+					"gid"		"20521AEBAC91960664AEABB1B23ADB32"
+					"size"		"B1B6D40992967D76093C047C3ABEBE27"
+					"download"		"99C298985B14AA9A4942A40AAE1BDF63"
+				}
+				"d13_qa_temp"
+				{
+					"gid"		"7A678DE813A842C82CCC8FF67937598E"
+					"size"		"BC09AE402F09CC41E9F78B5146782AE4"
+					"download"		"740D9051E424F5904B52AA50BC527500"
+				}
+				"d13_qa_test_task"
+				{
+					"gid"		"577F4CF8DB5721A1D7F79ECCE855720C"
+					"size"		"31CFF9DE60371914529FC8E8F583535C"
+					"download"		"34ECFF6A3A8F5F61FE5A5CEBE45FE908"
+				}
+				"d13_release_test"
+				{
+					"gid"		"2B7B2057F145FBDADEA6050EF4F4B579"
+					"size"		"39B3440665E426BAF53389D6ED94656F"
+					"download"		"C051B414ADF3C0DCDA1E98A5641AF045"
+				}
+				"d13_smoke_tested"
+				{
+					"gid"		"67C8AF91E624C0B7107AC16CB916D41E"
+					"size"		"15E9E47A8846510676CA8BC02384ADC5"
+					"download"		"1EC707E106386DD1C7D83ECC32AAB6D8"
+				}
+				"d13_test"
+				{
+					"gid"		"0113C2078DD063827113636676AAA07C"
+					"size"		"E9C296A46D1E9F4A533F7D40E15E441D"
+					"download"		"D56228589F46F7A87F58524062E883AD"
+				}
+				"era_dlc"
+				{
+					"gid"		"5C06004577045F9FE671D2BA81A1E926"
+					"size"		"F6FD2104DECCE1223023FDF21D782ED1"
+					"download"		"67945FF81E0AFC299809BD95EDABAB18"
+				}
+				"focus_external_2"
+				{
+					"gid"		"24742EF753608671BDA2F36F73E629D8"
+					"size"		"E7ABD205113DEE2582CD00D7C0F7CCB2"
+					"download"		"2D5DA341D65291A86A4BB35AB320DFCF"
+				}
+				"focus_external_partners"
+				{
+					"gid"		"B535C37EA4C8796814B17A6757E07880"
+					"size"		"9F585E5D957AAC3A4A7DE920EFC0ED7B"
+					"download"		"FCC3D34F94873F4B374A3D0DFBE1C75C"
+				}
+				"focus_hardwre_test_july"
+				{
+					"gid"		"272DFD9FDA65BA395F11855ED2BD5D46"
+					"size"		"2F7BA2A3806AA57E0579D5D1D848C77D"
+					"download"		"CF874EFA40B0ED42C82AC28C4CFF3BF7"
+				}
+				"focus_lqa"
+				{
+					"gid"		"60DF839DA2E1734FFBD99197B8E0CE4B"
+					"size"		"81C449A86A0A59B8F308FD2E275CE268"
+					"download"		"7BA5487300DD8C8C16682C97866D9CBB"
+				}
+				"focus_playtest"
+				{
+					"gid"		"ED8DE7BCE26670F7BD4623F0189335A8"
+					"size"		"C2FD3A0E63AB7D5C3D9702C281AA0493"
+					"download"		"9D98C812B76485C0656F78C4C3B58A80"
+				}
+				"focus_preview_build"
+				{
+					"gid"		"D6D97F70FFEBF5C610729FCFA34F02AB"
+					"size"		"14D0831C05ED99DC382E5FA898310AF1"
+					"download"		"811E31D3E450E1BD4D4C93B102683135"
+				}
+				"focus_qa_external"
+				{
+					"gid"		"F38BAC0357A4516F85CD04672E463583"
+					"size"		"AF40F9D6DEFBB21D433B091BF3A106DE"
+					"download"		"CAA347B6D64DD6EE05D01E7C793926DE"
+				}
+				"patches_latest"
+				{
+					"gid"		"FB1A54A98674B2FE8371C86FD9211435"
+					"size"		"816818388C1D0A0925666055A19D4033"
+					"download"		"C9318DBB1B203FDAFC5147E5BF9CE3E7"
+				}
+				"qa_test"
+				{
+					"gid"		"2703AAF1A48F0E7789D2E0112EA4B808"
+					"size"		"0B915AF2770F92B189CF059C07523E32"
+					"download"		"4DEA197A3CA4E938654D10DF5866067F"
+				}
+				"release_candidate"
+				{
+					"gid"		"561E0B6BD0D0BB5B7978A7E6783AACC4"
+					"size"		"B2DD8759C2E1189380F8103681FCC4EC"
+					"download"		"BB463DBD8F61272621F7CD8FB375A7C5"
+				}
+				"weekly_build"
+				{
+					"gid"		"0EC1BFE3B786BF9751D326B06FF8CD0F"
+					"size"		"2E0B6D3A030EB02FDC275C4D3E7E822E"
+					"download"		"020AA1CDBED553061E668F255C70D049"
+				}
+				"weekly_build_unstable"
+				{
+					"gid"		"AFE2A57839601F803AA8FF375FDFEB82"
+					"size"		"04130D1A153023880CA32FB332650E74"
+					"download"		"3E1FC10FA6CC1E56A4CF950C0B86A4DA"
+				}
+				"weekly_build_unstable_2"
+				{
+					"gid"		"6C2E07238FD9395824E6A57F92E877A3"
+					"size"		"8E42F8DEBB4280217CCD1CB8C6DB7818"
+					"download"		"23E30DBD61DC725254F64D986DF15A47"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11960365"
+				"timeupdated"		"1692622802"
+			}
+			"d1_patch_latest"
+			{
+				"buildid"		"11960365"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692235286"
+			}
+			"d1_patch_stable"
+			{
+				"buildid"		"11654047"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689594387"
+			}
+			"d13_patches3"
+			{
+				"buildid"		"12168279"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694518757"
+			}
+			"d13_preview"
+			{
+				"buildid"		"11075085"
+				"pwdrequired"		"1"
+				"timeupdated"		"1682347878"
+			}
+			"d13_preview_stable"
+			{
+				"buildid"		"10651692"
+				"pwdrequired"		"1"
+				"timeupdated"		"1678090283"
+			}
+			"d13_qa_temp"
+			{
+				"buildid"		"11926054"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692080752"
+			}
+			"d13_qa_test_task"
+			{
+				"buildid"		"10654187"
+				"pwdrequired"		"1"
+				"timeupdated"		"1677850276"
+			}
+			"d13_release_test"
+			{
+				"buildid"		"10585485"
+				"pwdrequired"		"1"
+				"timeupdated"		"1676777331"
+			}
+			"d13_smoke_tested"
+			{
+				"buildid"		"11950660"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692258561"
+			}
+			"d13_test"
+			{
+				"buildid"		"12173575"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694564071"
+			}
+			"era_dlc"
+			{
+				"buildid"		"12088505"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693574446"
+			}
+			"focus_external_2"
+			{
+				"buildid"		"11457396"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686663510"
+			}
+			"focus_external_partners"
+			{
+				"buildid"		"11724464"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690381385"
+			}
+			"focus_hardwre_test_july"
+			{
+				"buildid"		"11615505"
+				"pwdrequired"		"1"
+				"timeupdated"		"1688565664"
+			}
+			"focus_lqa"
+			{
+				"buildid"		"11664845"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689001826"
+			}
+			"focus_playtest"
+			{
+				"buildid"		"11384776"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686146728"
+			}
+			"focus_preview_build"
+			{
+				"buildid"		"10651692"
+				"pwdrequired"		"1"
+				"timeupdated"		"1678097522"
+			}
+			"focus_qa_external"
+			{
+				"buildid"		"11664845"
+				"pwdrequired"		"1"
+				"timeupdated"		"1688997202"
+			}
+			"patches_latest"
+			{
+				"buildid"		"12174233"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694571367"
+			}
+			"qa_test"
+			{
+				"buildid"		"12132323"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694499784"
+			}
+			"release_candidate"
+			{
+				"buildid"		"10684781"
+				"pwdrequired"		"1"
+				"timeupdated"		"1677867183"
+			}
+			"weekly_build"
+			{
+				"buildid"		"11960365"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692367802"
+			}
+			"weekly_build_unstable"
+			{
+				"buildid"		"11960365"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692253942"
+			}
+			"weekly_build_unstable_2"
+			{
+				"buildid"		"12168279"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694525503"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"500"
+	}
+}
