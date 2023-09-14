@@ -1,0 +1,403 @@
+"appinfo"
+{
+	"appid"		"610180"
+	"common"
+	{
+		"name"		"The Jackbox Party Pack 4"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"logo"		"11f6886c1deb548887d2fff6ce742dbfc1ad5e67"
+		"logo_small"		"11f6886c1deb548887d2fff6ce742dbfc1ad5e67_thumb"
+		"clienticon"		"55a39e377f20f43c8848dab863e372ed0cbe1a90"
+		"clienttga"		"5158d92747ec936119fb01f0c07dc001622e8a90"
+		"icon"		"90a9ae59123b4c52b970f11b14eb655063b8dbf5"
+		"clienticns"		"150e74ce6822e4cd8a9d8b65e8ea4f5a3719e209"
+		"osextended"		"macos64"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1647648000"
+			"tested_build_id"		"7666955"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"The Jackbox Party Pack 4"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1667412716"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Jackbox Games, Inc."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Jackbox Games, Inc."
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Jackbox Games"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_29"		"1"
+			"category_37"		"1"
+			"category_39"		"1"
+			"category_41"		"1"
+			"category_42"		"1"
+			"category_28"		"1"
+			"category_43"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_9"		"1"
+			"category_44"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1508386080"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"610180"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"10437"
+			"2"		"7368"
+			"3"		"492"
+			"4"		"9"
+			"5"		"4136"
+			"6"		"3859"
+			"7"		"7178"
+			"8"		"7108"
+			"9"		"1719"
+			"10"		"1770"
+			"11"		"1685"
+			"12"		"5350"
+		}
+		"review_score"		"9"
+		"review_percentage"		"95"
+	}
+	"extended"
+	{
+		"developer"		"Jackbox Games, Inc."
+		"publisher"		"Jackbox Games, Inc."
+		"homepage"		"http://www.jackboxgames.com"
+	}
+	"config"
+	{
+		"installdir"		"The Jackbox Party Pack 4"
+		"steamcontrollertemplateindex"		"4"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"The Jackbox Party Pack 4.exe"
+				"arguments"		"-jbg.config serverUrl=ecast.jackboxgames.com"
+				"description"		"Launch"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"The Jackbox Party Pack 4.app"
+				"description"		"Launch"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Launcher.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamcontrollertouchtemplateindex"		"1"
+		"steamcontrollertouchconfigdetails"
+		{
+			"1862361323"
+			{
+				"controller_type"		"controller_mobile_touch"
+				"enabled_branches"		"default"
+				"use_action_block"		"false"
+			}
+		}
+		"steamconfigurator3rdpartynative"		"15"
+	}
+	"depots"
+	{
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228987"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"610181"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1036789044547965515"
+					"size"		"1081334833"
+					"download"		"976620240"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"latest"
+				{
+					"gid"		"9DD114ADD04286933DACCCCFD82FBD75"
+					"size"		"92C5AB60A366D165BC1D54EDF3D042CD"
+					"download"		"393669275287CCF1D533D40B5D03A685"
+				}
+				"test"
+				{
+					"gid"		"A32228CAAC3ECF4443762AAF7C56AF56"
+					"size"		"94121AB2DE85C0068B3C3213097A344D"
+					"download"		"1963AD74202F981222D5AE727C2EAB04"
+				}
+			}
+		}
+		"610182"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6963713394432225953"
+					"size"		"1087995082"
+					"download"		"966123232"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"latest"
+				{
+					"gid"		"A34B33967489B0A66FBCBA4FB8D88C70"
+					"size"		"CB23568D348E860523BD5DF766550D86"
+					"download"		"A250DD31D665C4776E618FC95AF14CCB"
+				}
+				"test"
+				{
+					"gid"		"77667BDA55F53791AD731C3F07EFDFF4"
+					"size"		"B089E634F850A6F516EAA0AFA4F18850"
+					"download"		"D5D52F3C65BC487B8F42086C1C1EB0EB"
+				}
+			}
+		}
+		"610183"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3825858056731038230"
+					"size"		"1053867391"
+					"download"		"968557136"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"latest"
+				{
+					"gid"		"E0BF0DF5AE9317B380833279CDF4AF4F"
+					"size"		"151FB0A4EC8CC3CB6DB72FB4EBB5A6DA"
+					"download"		"6F7498F4D5529E8DEB623761E702E3AB"
+				}
+			}
+		}
+		"610184"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1787584814412250925"
+					"size"		"16375032"
+					"download"		"9278544"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"latest"
+				{
+					"gid"		"1E222D76500CDD5A63354032F151E2F0"
+					"size"		"BC51C2BBC0A0B67CA8134BC0DBBF2B9A"
+					"download"		"BCB9E96EC6946E59366F12271DBCF2FE"
+				}
+			}
+		}
+		"610185"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8948996432203717276"
+					"size"		"20514904"
+					"download"		"10908928"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"latest"
+				{
+					"gid"		"2CE521BE5AE68CF453703667EFA483CF"
+					"size"		"420E565D2DD7BADBC2A696912CC1C864"
+					"download"		"7D92FC3062FE308E614A7AB7CB5C82BF"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7666955"
+				"timeupdated"		"1636156893"
+			}
+			"latest"
+			{
+				"buildid"		"7666928"
+				"pwdrequired"		"1"
+				"timeupdated"		"1636156425"
+			}
+			"test"
+			{
+				"buildid"		"2197426"
+				"pwdrequired"		"1"
+				"timeupdated"		"1507925631"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"5000000"
+		"maxnumfiles"		"2"
+	}
+}
