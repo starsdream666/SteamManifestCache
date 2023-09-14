@@ -1,0 +1,213 @@
+"appinfo"
+{
+	"appid"		"1825160"
+	"common"
+	{
+		"name"		"The Backrooms"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"fe28a6baaa85680cc0f6da4164d24da95885b4d6"
+		"icon"		"bc142c6131d96491ea0fb2dabc426d768a1a1128"
+		"clienticon"		"9fc1b41b1f8ae87406ec72ae04122bbc66b177a4"
+		"linuxclienticon"		"dfaf27bbba4fda840876697fe3e63e780d4cbbf8"
+		"parent"		"1825161"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"51.27669446755577"
+				"height_pct"		"53.78429517502365"
+			}
+		}
+		"store_asset_mtime"		"1681583778"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Ionized Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Ionized Games"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1667002191"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1825160"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"21"
+			"2"		"42804"
+			"3"		"1664"
+			"4"		"3799"
+			"5"		"1720"
+			"6"		"3959"
+			"7"		"3839"
+			"8"		"1714"
+			"9"		"4175"
+			"10"		"7926"
+			"11"		"4166"
+			"12"		"5372"
+			"13"		"4342"
+			"14"		"1667"
+			"15"		"1721"
+			"16"		"1662"
+			"17"		"7481"
+			"18"		"7250"
+			"19"		"5125"
+		}
+		"review_score"		"6"
+		"review_percentage"		"75"
+	}
+	"extended"
+	{
+		"developer"		"Ionized Games"
+		"publisher"		"Ionized Games"
+		"homepage"		"https://ionizedgames.com/"
+	}
+	"config"
+	{
+		"installdir"		"TheBackrooms"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TheBackrooms.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamdecktouchscreen"		"5"
+		"steamconfigurator3rdpartynative"		"65535"
+		"steamcontrollertemplateindex"		"4"
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1825161"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2715591830009294989"
+					"size"		"4044981808"
+					"download"		"3725241840"
+				}
+				"beta"
+				{
+					"gid"		"8908148878807911435"
+					"size"		"5048697147"
+					"download"		"1700699552"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11008093"
+				"timeupdated"		"1681576637"
+			}
+			"beta"
+			{
+				"buildid"		"12150334"
+				"description"		"Beta Branch"
+				"timeupdated"		"1694282423"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"15000"
+		"maxnumfiles"		"2"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"Saved/SaveGames"
+				"pattern"		"*.sav"
+			}
+		}
+		"sync_while_suspended"		"1"
+	}
+}
