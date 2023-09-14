@@ -1,0 +1,418 @@
+"appinfo"
+{
+	"appid"		"629090"
+	"common"
+	{
+		"name"		"Horace"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"spanish"		"1"
+		}
+		"icon"		"4c1bf978ea4a025c13af1742fef0009091e25134"
+		"logo"		"5d2319710a5beb80c0084d73f341b1acdf12356a"
+		"logo_small"		"5d2319710a5beb80c0084d73f341b1acdf12356a_thumb"
+		"clienticon"		"2b1d7ccf8fbe408bc0d805d2fd62a0c746ab5b55"
+		"clienttga"		"3f61751c6568587ea0f9955aca6a047350b0fb88"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1670457600"
+			"tested_build_id"		"5820233"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-5"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Horace"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1584378832"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Paul Helman"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Sean Scaplehorn"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"505 Games"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"505 Games Official"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1563465452"
+		"metacritic_score"		"81"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/horace?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"629090"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"1742"
+			"2"		"21"
+			"3"		"19"
+			"4"		"1625"
+			"5"		"1628"
+			"6"		"3964"
+			"7"		"4026"
+			"8"		"4145"
+			"9"		"5537"
+			"10"		"1719"
+			"11"		"3871"
+			"12"		"4182"
+			"13"		"4136"
+			"14"		"4004"
+			"15"		"1756"
+			"16"		"3798"
+			"17"		"4166"
+		}
+		"review_score"		"6"
+		"review_percentage"		"79"
+	}
+	"extended"
+	{
+		"developer"		"Paul Helman"
+		"publisher"		"505 Games"
+		"listofdlc"		"1171420"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Horace"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Horace/Horace.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,italian,spanish"
+		"629091"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8483981780972083037"
+					"size"		"3647719937"
+					"download"		"527757952"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"indiecade"
+				{
+					"gid"		"9EBE0AAD6BFB67C244C451012EAA62B5"
+					"size"		"97F385C27FC21E28CC35CE5BE5637AF6"
+					"download"		"78492019870AEA46B0EF0024EF8934AA"
+				}
+				"press_build"
+				{
+					"gid"		"0E85CDC13C04996C84F871B9ED89ACD5"
+					"size"		"A68A00B2D07A81E6FC42359A3B6E4C74"
+					"download"		"3D598C33331E46381BED6D40F9D5589C"
+				}
+				"qa_branch"
+				{
+					"gid"		"6323D2D977A02797C18BD98C1BC07867"
+					"size"		"3E04E22DA6609F0196AB93E2500193B1"
+					"download"		"BEFAFFC9AFC1337183B29C44DC0920D7"
+				}
+				"qa_branch_2"
+				{
+					"gid"		"03DB7523D871002BBF902A4559130C31"
+					"size"		"2D80DEFA197F23EA72A2D3AD3EECEA03"
+					"download"		"EF7127E59B6E9842FE75D266E930DA75"
+				}
+				"qa_press_build"
+				{
+					"gid"		"22214F1560BBA12233B0598B01059C78"
+					"size"		"367795C4F493B78BC3BE42A69BE311F9"
+					"download"		"3586D43F2C041922F32AE66C95CD0DDE"
+				}
+				"testbranch"
+				{
+					"gid"		"5C5EB8B9B0880C6888EFCDE704E48439"
+					"size"		"A2D695025006A0F0FC4AB69BA3FA5765"
+					"download"		"85D9243D4D42ECD119081AC23BCEA3D1"
+				}
+			}
+		}
+		"629092"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7342632775895672554"
+					"size"		"11765692732"
+					"download"		"11059930560"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"indiecade"
+				{
+					"gid"		"71B33FF842EE5FDD320D2A808BDC1618"
+					"size"		"BE97F2E0C8103875102E62B8B4E2B5D9"
+					"download"		"C6A7F4C48331E5BFB75AEF17226CCEB9"
+				}
+				"press_build"
+				{
+					"gid"		"62305E0822CFD9D40192D48C16684115"
+					"size"		"B19428A3C27E1795833ED561FEDEDF92"
+					"download"		"0A60C0669B7535D13174267025FAE955"
+				}
+				"qa_branch"
+				{
+					"gid"		"0F28E68533113E43B39E8099BB0CB3C0"
+					"size"		"0AFA58DF3FBC4B043F3D19E9E273AC70"
+					"download"		"EBDF9F330265AE42E30AB81E4B6B1DF5"
+				}
+				"qa_branch_2"
+				{
+					"gid"		"307DA39F8B128F211B80DAF9E6D1AD1D"
+					"size"		"04E529DC200CF1298AC68B8AC3B36556"
+					"download"		"4C255BC18BD1C807EDB726746849A3B4"
+				}
+				"qa_press_build"
+				{
+					"gid"		"20849CF7D968874F7D4770B1E824222B"
+					"size"		"0991E085078CDDD8392CA874D4D66234"
+					"download"		"3A28A9B029C6A00CBBDC890B7056540A"
+				}
+				"testbranch"
+				{
+					"gid"		"C674FF018EC90D3BA1B6EBE73E04D0C8"
+					"size"		"BFB76D916DC6632986D12B720D54B04E"
+					"download"		"EC6C86C759434E0D547AA13BBAD2EAD7"
+				}
+			}
+		}
+		"1171420"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6107792366898818403"
+					"size"		"172040888"
+					"download"		"159368752"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"qa_branch"
+				{
+					"gid"		"F619F3EDBBFF5F5678B320B62B3A62D5"
+					"size"		"2271E1402D6BB37F3FF1240EF498CBE4"
+					"download"		"651622E36EA82D2826C3DE0974818075"
+				}
+				"qa_branch_2"
+				{
+					"gid"		"37F13E3BF250BD5A84D1AD86430DC1D3"
+					"size"		"0BC08047FF942796DF8A4C8F2EE4D367"
+					"download"		"DD413E53EF937E24279A1A58D179E63F"
+				}
+				"testbranch"
+				{
+					"gid"		"2E1DBE55985098C5F94A9BDA178ECF3C"
+					"size"		"F9BFEF9905997B23113D4D6473932A06"
+					"download"		"3A6462A8D6A249696C9F8E0D545F594D"
+				}
+			}
+			"dlcappid"		"1171420"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5820233"
+				"timeupdated"		"1606233732"
+			}
+			"indiecade"
+			{
+				"buildid"		"3721969"
+				"pwdrequired"		"1"
+				"timeupdated"		"1554814148"
+			}
+			"press_build"
+			{
+				"buildid"		"4019703"
+				"pwdrequired"		"1"
+				"timeupdated"		"1563375371"
+			}
+			"qa_branch"
+			{
+				"buildid"		"5820233"
+				"pwdrequired"		"1"
+				"timeupdated"		"1605179577"
+			}
+			"qa_branch_2"
+			{
+				"buildid"		"5820269"
+				"pwdrequired"		"1"
+				"timeupdated"		"1605180052"
+			}
+			"qa_press_build"
+			{
+				"buildid"		"4140497"
+				"pwdrequired"		"1"
+				"timeupdated"		"1566852488"
+			}
+			"testbranch"
+			{
+				"buildid"		"4428466"
+				"pwdrequired"		"1"
+				"timeupdated"		"1574790969"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"10"
+	}
+}
