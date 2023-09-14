@@ -1,0 +1,168 @@
+"appinfo"
+{
+	"appid"		"2293420"
+	"common"
+	{
+		"name"		"СИМУЛЯТОР ЛАЗАНЬЯ ПО ЗАБРОШКАМ"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"517425fac38fac85643031845c9bd05017d61187"
+		"clienttga"		"9b0c9ebc602b23255a47a436268ecf87c504792e"
+		"icon"		"b36a07fe33e33d44176d8c9a0d44b9b629b68084"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1684746190"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Performance Artist"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Performance Artist"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"23"
+			"4"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1676052781"
+		"community_hub_visible"		"1"
+		"gameid"		"2293420"
+		"store_tags"
+		{
+			"0"		"599"
+			"1"		"3839"
+			"2"		"5900"
+			"3"		"3810"
+			"4"		"4175"
+			"5"		"9204"
+			"6"		"10397"
+			"7"		"4136"
+			"8"		"3834"
+			"9"		"4166"
+			"10"		"4145"
+			"11"		"19"
+			"12"		"30358"
+			"13"		"1695"
+			"14"		"4835"
+			"15"		"21"
+			"16"		"4305"
+			"17"		"597"
+			"18"		"1719"
+			"19"		"4182"
+		}
+		"review_score"		"5"
+		"review_percentage"		"60"
+	}
+	"extended"
+	{
+		"developer"		"Performance Artist"
+		"publisher"		"Performance Artist"
+	}
+	"config"
+	{
+		"installdir"		"СИМУЛЯТОР ЛАЗАНЬЯ ПО ЗАБРОШКАМ"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"AbandonedSim.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2293421"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4965784383455266367"
+					"size"		"4722695525"
+					"download"		"4468479056"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12054425"
+				"timeupdated"		"1693288470"
+			}
+		}
+	}
+}
