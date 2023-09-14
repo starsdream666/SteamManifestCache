@@ -1,0 +1,178 @@
+"appinfo"
+{
+	"appid"		"778930"
+	"common"
+	{
+		"name"		"Property"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"clienticon"		"a1848bea5ba959ba9f482829d37644d28b22a463"
+		"clienttga"		"ea1292c2af6c729f79dbab731026c67cc1d55bd2"
+		"icon"		"30ca992a5f6603a2bd4f8cd09a53bc432894670f"
+		"logo"		"b8a98b0983d16390ecdb877f5401fc283dd18aa5"
+		"logo_small"		"b8a98b0983d16390ecdb877f5401fc283dd18aa5_thumb"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1557609931"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Kimi Karri"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Kimi Karri"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_36"		"1"
+			"category_38"		"1"
+			"category_22"		"1"
+			"category_18"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_49"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1517558400"
+		"steam_release_date"		"1517560342"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"778930"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"492"
+			"2"		"4667"
+			"3"		"1667"
+			"4"		"3859"
+			"5"		"1662"
+		}
+		"review_score"		"6"
+		"review_percentage"		"79"
+	}
+	"extended"
+	{
+		"developer"		"Kimi Karri"
+		"publisher"		"Kimi Karri"
+	}
+	"config"
+	{
+		"installdir"		"Property"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Randomlevel.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english"
+		"hasdepotsindlc"		"0"
+		"778931"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4984639613099857665"
+					"size"		"299270971"
+					"download"		"184165808"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"ECAF2DFD4041F00CA63E06C9EC36FB7F"
+					"size"		"3E19A2FC90B667DA8CE9188FDEAC8DF1"
+					"download"		"5434615A086C998502F1631D0731F966"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11989805"
+				"timeupdated"		"1692601042"
+			}
+			"beta"
+			{
+				"buildid"		"11937807"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692023464"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"10000"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+	}
+}
