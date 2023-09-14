@@ -1,0 +1,244 @@
+"appinfo"
+{
+	"appid"		"1504220"
+	"common"
+	{
+		"name"		"The Penguin IQ Test"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"name_localized"
+		{
+			"french"		"The Penguin IQ Test"
+		}
+		"clienticon"		"38f0f2255b0fb363902af050da813ebaa0f8f0d1"
+		"clienttga"		"24dfdd5625f9afd4d78fd1ede34f5f17488f67b5"
+		"icon"		"49cde6ab124a3e082f063bd27962e90de0a9cc21"
+		"logo"		"9701e3bc450f4c793b4009a7505a40e984dfa8f0"
+		"logo_small"		"9701e3bc450f4c793b4009a7505a40e984dfa8f0_thumb"
+		"languages"
+		{
+			"english"		"1"
+			"french"		"1"
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"16.11627906976743"
+				"height_pct"		"33.156494894324396"
+			}
+		}
+		"store_asset_mtime"		"1631465946"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Paul Demanze"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Paul Demanze"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_17"		"1"
+			"category_30"		"1"
+			"category_24"		"1"
+			"category_1"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1609865186"
+		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1504220"
+		"store_tags"
+		{
+			"0"		"1664"
+			"1"		"5432"
+			"2"		"1036"
+			"3"		"9"
+			"4"		"3871"
+			"5"		"21"
+			"6"		"255534"
+			"7"		"7250"
+			"8"		"5094"
+			"9"		"4182"
+			"10"		"6129"
+			"11"		"492"
+			"12"		"4106"
+		}
+		"review_score"		"8"
+		"review_percentage"		"98"
+	}
+	"extended"
+	{
+		"developer"		"Paul Demanze"
+		"publisher"		"Paul Demanze"
+	}
+	"config"
+	{
+		"installdir"		"The Penguin IQ Test - Series 1"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"game.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"game_mac"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"game_linux"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"workshopdepot"		"1504220"
+		"1504221"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"655003224583092267"
+					"size"		"35079792"
+					"download"		"14666992"
+				}
+			}
+		}
+		"1504222"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4942696873972108798"
+					"size"		"4152040"
+					"download"		"1380944"
+				}
+			}
+		}
+		"1504223"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1624878449698245979"
+					"size"		"4826888"
+					"download"		"1168928"
+				}
+			}
+		}
+		"1504224"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4065226498618916994"
+					"size"		"4049750"
+					"download"		"1326304"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12044212"
+				"timeupdated"		"1693161121"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"1000"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"Series1/Save"
+				"pattern"		"*"
+			}
+		}
+	}
+}
