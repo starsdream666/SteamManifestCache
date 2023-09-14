@@ -1,0 +1,255 @@
+"appinfo"
+{
+	"appid"		"1929870"
+	"common"
+	{
+		"name"		"Nomad Survival"
+		"type"		"Game"
+		"releasestate"		"released"
+		"icon"		"af66323cd4d2a0ad17d326a9c576fbd1a63ab8d5"
+		"clienticon"		"b9228899b3f77cc2069c762823d4c506c78e1097"
+		"clienttga"		"e7c9fcd0bae8014056521e17bc38ff1007d17046"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1654128000"
+			"tested_build_id"		"8798963"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"3"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"29.944017818957747"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1665275475"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"The Fox Knocks"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"The Fox Knocks"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1665274516"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1929870"
+		"store_tags"
+		{
+			"0"		"3959"
+			"1"		"1662"
+			"2"		"42804"
+			"3"		"19"
+			"4"		"4747"
+			"5"		"3964"
+			"6"		"492"
+			"7"		"1684"
+			"8"		"4004"
+			"9"		"32322"
+			"10"		"3871"
+			"11"		"4791"
+			"12"		"3993"
+			"13"		"4182"
+			"14"		"6730"
+			"15"		"4885"
+			"16"		"493"
+		}
+		"review_score"		"8"
+		"review_percentage"		"88"
+	}
+	"extended"
+	{
+		"developer"		"The Fox Knocks"
+		"publisher"		"The Fox Knocks"
+	}
+	"config"
+	{
+		"installdir"		"Nomad Survival"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Nomad Survival.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1929871"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1575586189160645425"
+					"size"		"130557207"
+					"download"		"90869024"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"0EA294C707DA6E7A3F45EB043B5A854A"
+					"size"		"71CD545A2CEB1E4FE35AAF54A98AAEC2"
+					"download"		"005C24BE2CAD93B4F724F4147C984305"
+				}
+				"private"
+				{
+					"gid"		"3E899150903DF1B072B591C516CF7538"
+					"size"		"ED54632632252147D97BF98A21DE6CA2"
+					"download"		"58699423A5902E63462AA032E61E214E"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9685027"
+				"timeupdated"		"1665323121"
+			}
+			"beta"
+			{
+				"buildid"		"9634565"
+				"pwdrequired"		"1"
+				"timeupdated"		"1664654896"
+			}
+			"private"
+			{
+				"buildid"		"8996757"
+				"pwdrequired"		"1"
+				"timeupdated"		"1656018060"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"15"
+	}
+}
