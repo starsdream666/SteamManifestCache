@@ -1,0 +1,197 @@
+"appinfo"
+{
+	"appid"		"1329540"
+	"common"
+	{
+		"name"		"CROSSBOW: Bloodnight"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"languages"
+		{
+			"english"		"1"
+			"polish"		"1"
+		}
+		"clienttga"		"c0cf5437e2b9c31a2a9e8ef3e87bd7b7aeee656a"
+		"clienticon"		"628a4bf4353336c76660d95bcc56e6b2a3391e44"
+		"icon"		"69122caa8f68e10b7d8cb6aa078a2db8d8736160"
+		"logo"		"81b2fa37436c45bbfe2f6c25233b2676024074f9"
+		"logo_small"		"81b2fa37436c45bbfe2f6c25233b2676024074f9_thumb"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"74.92282118261696"
+			}
+		}
+		"store_asset_mtime"		"1612201145"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Hyperstrange"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Hyperstrange"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Hyperstrange"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_25"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1600963432"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1329540"
+		"store_tags"
+		{
+			"0"		"5547"
+			"1"		"1663"
+			"2"		"19"
+			"3"		"1667"
+			"4"		"4026"
+			"5"		"1774"
+			"6"		"1773"
+			"7"		"4191"
+			"8"		"5796"
+			"9"		"5154"
+			"10"		"4345"
+			"11"		"4667"
+			"12"		"3952"
+			"13"		"9541"
+			"14"		"4182"
+			"15"		"1734"
+		}
+		"review_score"		"8"
+		"review_percentage"		"80"
+	}
+	"extended"
+	{
+		"developer"		"Hyperstrange"
+		"publisher"		"Hyperstrange"
+	}
+	"config"
+	{
+		"installdir"		"CROSSBOW Bloodnight"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"CROSSBOW Bloodnight.exe"
+				"type"		"none"
+			}
+		}
+	}
+	"depots"
+	{
+		"1329541"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1222883607432346649"
+					"size"		"1266398782"
+					"download"		"358375824"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"marketing"
+				{
+					"gid"		"CEF7720A8A4CF5B931BFBF5A1978CFD5"
+					"size"		"75CC10FFBD4F77F2219A9B92DEFA6D1C"
+					"download"		"B9641F27FCBA06A769D3C76CD73850A4"
+				}
+				"shipping"
+				{
+					"gid"		"D15DC2094084E8F9D075DF19BA84590E"
+					"size"		"49A81F5905165A5137CBC75569D9BDBB"
+					"download"		"FB55884603796BA3FD32C66C6C58D126"
+				}
+				"testing"
+				{
+					"gid"		"E329DAC3E91B8A8B4F5BFDC16B286DF7"
+					"size"		"0A6DF4C2D0C0439779E3FBA1341C2BE4"
+					"download"		"98D85862B81EAC0920BFC6D799799A77"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10632132"
+				"timeupdated"		"1677519544"
+			}
+			"marketing"
+			{
+				"buildid"		"10568579"
+				"pwdrequired"		"1"
+				"timeupdated"		"1681731885"
+			}
+			"shipping"
+			{
+				"buildid"		"10632132"
+				"pwdrequired"		"1"
+				"timeupdated"		"1681731995"
+			}
+			"testing"
+			{
+				"buildid"		"5681991"
+				"pwdrequired"		"1"
+				"timeupdated"		"1681731051"
+			}
+		}
+	}
+}
