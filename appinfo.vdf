@@ -1,0 +1,1015 @@
+"appinfo"
+{
+	"appid"		"650500"
+	"common"
+	{
+		"name"		"Wolfenstein II: The New Colossus German Edition"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"8e25882c2b5ee898318cecab741a3187eb43cbaf"
+		"logo_small"		"8e25882c2b5ee898318cecab741a3187eb43cbaf_thumb"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"650500_eula_0"
+				"name"		"Wolfenstein II: The New Colossus German Edition EULA"
+				"url"		"http://store.steampowered.com//eula/650500_eula_0"
+			}
+		}
+		"clienticon"		"008555f112ea2f0383af3142cfffe8f21ffb961e"
+		"clienttga"		"e64ca06d56bb8377084165e195f346deefd7ca27"
+		"icon"		"fd5c894c47b49a7d5e46e7ed60d6f1fdf60d210d"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+		}
+		"metacritic_name"		"Wolfenstein II: The New Colossus"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1517252599"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Machine Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Bethesda-Soft"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1509058800"
+		"metacritic_score"		"86"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/wolfenstein-ii-the-new-colossus?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"650500"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"4182"
+			"2"		"1663"
+			"3"		"1774"
+			"4"		"4667"
+			"5"		"4345"
+			"6"		"3839"
+		}
+		"review_score"		"6"
+		"review_percentage"		"74"
+	}
+	"extended"
+	{
+		"developer"		"Machine Games"
+		"publisher"		"Bethesda-Soft"
+		"homepage"		"http://www.wolfenstein.com"
+		"listofdlc"		"650520,650521,650522,650523,650524,719990"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Wolfenstein.II.The.New.Colossus.DE"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"NewColossus_x64vk.exe"
+				"description"		"Vulkan"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigdetails"
+		{
+			"1182168677"
+			{
+				"controller_type"		"controller_steamcontroller_gordon"
+				"enabled_branches"		"default,baseline,beta,day10-qa,hotfix_staging,mg-test,publicbeta"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"german"
+		"hasdepotsindlc"		"1"
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"650501"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+		}
+		"650502"
+		{
+			"config"
+			{
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6925931818677304562"
+					"size"		"59735024"
+					"download"		"36977088"
+				}
+				"public_beta"
+				{
+					"gid"		"6925931818677304562"
+					"size"		"59735024"
+					"download"		"36977088"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"baseline"
+				{
+					"gid"		"FB4C2C721D3903A07CB1ABBC6EBB4782"
+					"size"		"D3A8A16F9B195CA6B9A294F92C9EB4C6"
+					"download"		"04D7F601D05CABA98A640C72EC87A241"
+				}
+				"beta"
+				{
+					"gid"		"2C13DBBD4CE50250DAEA419D7F873061"
+					"size"		"427657EE3611F642CF063FB904442218"
+					"download"		"0276A0D7249144A22A5ABDF17DA37499"
+				}
+				"beta-qa"
+				{
+					"gid"		"0D328A6B181A9A35567BBB387A491CCE"
+					"size"		"FB3E11498D9E1F8F52B79A6930CCCE27"
+					"download"		"91F5AA8761DEE50F529A87D11627D9CF"
+				}
+				"day10-qa"
+				{
+					"gid"		"0095F4ECDC38FE2FDC9B78088B33D5D5"
+					"size"		"63D6B897A548E5550985E7AB9E8A15CE"
+					"download"		"40ADF8605F3BE1BD8BA57F7B4752A2A3"
+				}
+				"hotfix_staging"
+				{
+					"gid"		"2018F3258FAF66CB66DF4DE477E019E4"
+					"size"		"5285874DC9E76977D9AF88EBB94C62DE"
+					"download"		"0BD2E7894E9821311193FEC1FC5BA421"
+				}
+				"mg-test"
+				{
+					"gid"		"6C2F92D16EE785C02D511C76D1555398"
+					"size"		"2F5A9FA8E995AAF2B0FAA0287ACEEE65"
+					"download"		"76AC2346129BA5DD640963226D4060E8"
+				}
+				"test-qa"
+				{
+					"gid"		"C86BBDB7624E515CA6A4BE4DBA1C87A5"
+					"size"		"7163E94FCF57887B3C698BC3C2D4BC83"
+					"download"		"059514E6BCE35BC4D76A6E801AF34FA0"
+				}
+			}
+		}
+		"650503"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8879625328695663998"
+					"size"		"2543544841"
+					"download"		"2284290176"
+				}
+				"public_beta"
+				{
+					"gid"		"8879625328695663998"
+					"size"		"2543544841"
+					"download"		"2284290176"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"baseline"
+				{
+					"gid"		"F1204D4CAE85F74D5806570C0EE8331B"
+					"size"		"6316D1FD5C24F2C68E2D5A397F6AC527"
+					"download"		"B1076AEAE5AE5ED0C51AC246E7DAD315"
+				}
+				"beta"
+				{
+					"gid"		"8E43C0FFCE68EBCACA8E0555A1EDD322"
+					"size"		"FA42B1BF6E95018DFD50A701B39BA7D4"
+					"download"		"50C87C3C4F18638FACCF78B5C4C87675"
+				}
+				"beta-qa"
+				{
+					"gid"		"D4618CC944ECE33881860187610BD604"
+					"size"		"18AECD3E388F340FF4A22260D28E8481"
+					"download"		"585BBFDC68F5B122D3337790E1F18411"
+				}
+				"day10-qa"
+				{
+					"gid"		"065E93B9518E1225F328ABD3A4674C10"
+					"size"		"826B9BC6E5B6163CFFBD2543F8462B0D"
+					"download"		"6EB825FDCC25B96AB43E3D47C123B633"
+				}
+				"hotfix_staging"
+				{
+					"gid"		"208FE95BA648B4191CC2630D5C8CE6AA"
+					"size"		"D5B98409940662C3CD51F12AF9326698"
+					"download"		"70C544B984E1067AF5BA22D9FF74BEC9"
+				}
+				"mg-test"
+				{
+					"gid"		"8B12DA379E3C51F4EE8BBEA7D45BDF52"
+					"size"		"26F21B5050DD9AE4FAAAE91CE687747C"
+					"download"		"4F1A81B6E41DE52A8A32E8F1DB74B983"
+				}
+				"test-qa"
+				{
+					"gid"		"A686B10E067AC3C0EC394AAF39855018"
+					"size"		"F7BB5A693FD68838D344FBD7579CC6F9"
+					"download"		"54FE6B2EA07943F97927DF701548899D"
+				}
+			}
+		}
+		"650526"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6112012307303565630"
+					"size"		"1028804100"
+					"download"		"914125552"
+				}
+				"public_beta"
+				{
+					"gid"		"6112012307303565630"
+					"size"		"1028804100"
+					"download"		"914125552"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"231593AA9D4C64E83185B388E9BAF07B"
+					"size"		"F8F70FBA050593CD7490ED1CA0F42F89"
+					"download"		"622DF090020C2DC33DAF5FB54ED51608"
+				}
+				"beta-qa"
+				{
+					"gid"		"8EDD54E8624CA861816EA90C8F365512"
+					"size"		"B596AB789373BEEC785201382C3FAB5E"
+					"download"		"2F8E1EB785ADE27B099B652706C96082"
+				}
+				"mg-test"
+				{
+					"gid"		"087348E6B83682A774D0ADBC158900E8"
+					"size"		"97295B0D3DF081A0FB2E255DBB7AE2BB"
+					"download"		"610A1B1A88A8A24C3A4816E67A6FC28B"
+				}
+				"test-qa"
+				{
+					"gid"		"B000AEF75596DD5C41B3C3E3662D90E9"
+					"size"		"9982AB1C8290EF77A6559E8354EC2843"
+					"download"		"474745FB388A8AE0BC05B9C90E5770AC"
+				}
+			}
+		}
+		"650504"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1209661967901167278"
+					"size"		"7220625140"
+					"download"		"7103884000"
+				}
+				"public_beta"
+				{
+					"gid"		"1209661967901167278"
+					"size"		"7220625140"
+					"download"		"7103884000"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"baseline"
+				{
+					"gid"		"C08C88EE9D383173AC258E8D0167B7F4"
+					"size"		"8F9961D1B1A870C5891528FED1AB3DB8"
+					"download"		"E4768382037B30974BA621374823CF95"
+				}
+				"beta"
+				{
+					"gid"		"EE74D4C88A4FB9DABB0E557CCFC3D184"
+					"size"		"186F4FF2320F9A6D0FC77EA86102969D"
+					"download"		"9885C1257925CF7061499C586A57CE80"
+				}
+				"beta-qa"
+				{
+					"gid"		"0710E446CCBE101C5EDDD2DF81CADD8A"
+					"size"		"5CAFBBFDC43D2A491FD26A1738F00D25"
+					"download"		"5F505CD13C3382D93C56F8680E8C0186"
+				}
+				"day10-qa"
+				{
+					"gid"		"C57C69B6A8EA26101941D6FEE5D9F99B"
+					"size"		"99BF396B8A17B354318C32AF051E1EC5"
+					"download"		"6BEA6E918B26CC3FA88024C2BF509BC8"
+				}
+				"hotfix_staging"
+				{
+					"gid"		"53B961867D899B287F6EC719E3B1AF47"
+					"size"		"C41DB12B7020C4C3C9EE1B861D6871AB"
+					"download"		"2D4AD3FB3CB5E0EF65EF8AABC5B94C56"
+				}
+				"mg-test"
+				{
+					"gid"		"21F2969799E14162EB74C3230946C5E1"
+					"size"		"1219255BD7400114B42CCE9B9826CB9C"
+					"download"		"0F2AA9A56EA02B72657BD2BAD2FE8095"
+				}
+				"test-qa"
+				{
+					"gid"		"03A82FF1084B5D0E7426D92FC181A5CA"
+					"size"		"2C5592A853BF9CD5DFBBB4B85565F170"
+					"download"		"02B0504332255637AC3765209B0C9CBC"
+				}
+			}
+		}
+		"650527"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3469235617118472342"
+					"size"		"673867232"
+					"download"		"669707696"
+				}
+				"public_beta"
+				{
+					"gid"		"3469235617118472342"
+					"size"		"673867232"
+					"download"		"669707696"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"B590E0348D73B4DB5CE4225A4836EA8E"
+					"size"		"29C3E7476048ADD1F550C2D6469B8C9A"
+					"download"		"19CD910BF2094E9ECB45AE7E925A68E3"
+				}
+				"beta-qa"
+				{
+					"gid"		"B619BE4D3E7C5FE4C08E4FB626E4AC2E"
+					"size"		"1EFA71643B827BD204C5514A80C10955"
+					"download"		"AE5EC66D92FB76B9593C5F29CD755296"
+				}
+				"mg-test"
+				{
+					"gid"		"0FE032120EA7F41076F672237D2E848E"
+					"size"		"6217CD2638DD1CEE27D980C3834E21A3"
+					"download"		"D37790DED869E6E4C34823625C00F39E"
+				}
+				"test-qa"
+				{
+					"gid"		"EF0592BD4E5A76CA4F686871D73F24D4"
+					"size"		"BF94A478927963C1335C6E9F68E3A86D"
+					"download"		"520573ACB26708F96C5D7F81DFD68B18"
+				}
+			}
+		}
+		"650505"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6798222149506940009"
+					"size"		"370612124"
+					"download"		"365113120"
+				}
+				"public_beta"
+				{
+					"gid"		"6798222149506940009"
+					"size"		"370612124"
+					"download"		"365113120"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"baseline"
+				{
+					"gid"		"C02849E83EF6E5CB1382D2B1DDC6CC73"
+					"size"		"FD35DE29C09F93349FB6BFFB687E8288"
+					"download"		"AB6C2E529063F227E8ED49F981C88B6A"
+				}
+				"beta"
+				{
+					"gid"		"0362DD6964AB4CE5883C5BEE985767CA"
+					"size"		"F983250EB1152A94A4A8509D02B86E4B"
+					"download"		"240404252410167FCAFFCB0CD875B490"
+				}
+				"beta-qa"
+				{
+					"gid"		"44803BF648FB8D2B1E0C98C5D043B2D3"
+					"size"		"5C703A08D4E40C173BE910995BF5BD19"
+					"download"		"0C2A93A655C067C3AE626A18B499DFC9"
+				}
+				"day10-qa"
+				{
+					"gid"		"B2C18CF5F8E2805F2FDA10A9A9CBCCE1"
+					"size"		"A65FF5B43E702AE63459471AD1E724DA"
+					"download"		"59459B5B012FDE1D90030CDB85CA70D2"
+				}
+				"hotfix_staging"
+				{
+					"gid"		"A5500FE9924C90A1DDC7487EEFE05A53"
+					"size"		"1B455EC6468003E1F75897B75E869835"
+					"download"		"A2220A50E6E7A66F7116B14741C5B682"
+				}
+				"mg-test"
+				{
+					"gid"		"4C5F02B271E8696CB86DDAE60E4BD6DD"
+					"size"		"1DA50B9220E5BBCF92ED62A2029947A5"
+					"download"		"AEF83213AF5A04D235E30DE3B9DE887C"
+				}
+				"test-qa"
+				{
+					"gid"		"60352AA7410BC39FD5EFC853C9625BF0"
+					"size"		"E6C99D67687FB209624669FB148203F9"
+					"download"		"A4D10476305FA0773FE409E4989ADF7E"
+				}
+			}
+		}
+		"650528"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7665026558459538068"
+					"size"		"36577660"
+					"download"		"35618544"
+				}
+				"public_beta"
+				{
+					"gid"		"7665026558459538068"
+					"size"		"36577660"
+					"download"		"35618544"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"F8C557CADA65ED00CED986C331DFA573"
+					"size"		"8D2494A4D35E09B555C94AA9FA48AAF9"
+					"download"		"A33D5E1089E8C1447ED8260DD205B94D"
+				}
+				"beta-qa"
+				{
+					"gid"		"592F9D0C7A92F37EF85CB617011302BC"
+					"size"		"4C5FA0B39F30406EA21F50D7AD5FA5E0"
+					"download"		"566C9B09026D9C2515888024BBA0A878"
+				}
+				"mg-test"
+				{
+					"gid"		"1CB744DF3F3422B7E56E6DA600DC9E51"
+					"size"		"7AD90BEE64D06F80C588F7FE94B98F18"
+					"download"		"BC2CCF892056F2B968CB597D133D1078"
+				}
+				"test-qa"
+				{
+					"gid"		"B843E5B1655D7AC32CC961088CA18EE0"
+					"size"		"A3D7EC76E98AC8EECEF15B43F5D81E16"
+					"download"		"67437ABBD56A845C23798CB522FCD517"
+				}
+			}
+		}
+		"650506"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5825515850363720431"
+					"size"		"13181848093"
+					"download"		"12492946944"
+				}
+				"public_beta"
+				{
+					"gid"		"5825515850363720431"
+					"size"		"13181848093"
+					"download"		"12492946944"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"baseline"
+				{
+					"gid"		"2F6FDD8073F7D4A82DDD86D706B26E06"
+					"size"		"B112AE7CEC7D064BB826568658D83BF0"
+					"download"		"728F3013520D65D8B80142D74C6AFDA2"
+				}
+				"beta"
+				{
+					"gid"		"21BAC910BE1A6D5ACED48F2F6113334F"
+					"size"		"C1909F2E2F946BED0701895E9FD87FDD"
+					"download"		"D5075674826548D7E4A0FFFE6376DCD0"
+				}
+				"beta-qa"
+				{
+					"gid"		"A50D2EC504D7A0E5C0D44196A0CBE7BF"
+					"size"		"47E076ED97C93A289852A8B1B252FC09"
+					"download"		"455A005CC6C5B24C48E3327331263F2E"
+				}
+				"day10-qa"
+				{
+					"gid"		"98E26E4442C11016352439AE26764289"
+					"size"		"FFDA2B6F40E2A377E027C8CDBA681F8F"
+					"download"		"5860843995A24E32D8CDC353DD2E9E8D"
+				}
+				"hotfix_staging"
+				{
+					"gid"		"BB621BF11A50AF8C061BA4A9A3F47DCC"
+					"size"		"1EF0C9E0437805B3FAA1A6C31135E5DD"
+					"download"		"BC932B7FFB2FED16602E0EC9A51B407E"
+				}
+				"mg-test"
+				{
+					"gid"		"B2D9BAE45173BE93D89F479A7F97C56D"
+					"size"		"5785E1A720738714BE8A86504E1C04EB"
+					"download"		"906DE8CA1D2736F5FC1405E138A1918D"
+				}
+				"test-qa"
+				{
+					"gid"		"52312E293C88290D2948A07294388582"
+					"size"		"95FDCDCA681BC742707F4F333A98A647"
+					"download"		"8ED1B0D170B49D61472AF9D64790B148"
+				}
+			}
+		}
+		"650529"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3184889610518078353"
+					"size"		"10305551986"
+					"download"		"10049714976"
+				}
+				"public_beta"
+				{
+					"gid"		"3184889610518078353"
+					"size"		"10305551986"
+					"download"		"10049714976"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"BD8779DAE34C7D909484BE12F4B5741A"
+					"size"		"3E90BFBE9B656ACA60642B5CA731180D"
+					"download"		"3833E39372B2D6C0E5A1502A6BD92003"
+				}
+				"beta-qa"
+				{
+					"gid"		"82F7AD6A0909704141760D0CB316E3F3"
+					"size"		"C68FA93397DFB6067A4E5C7A97C7DCEC"
+					"download"		"33AE852DD660216F48351B5338944147"
+				}
+				"mg-test"
+				{
+					"gid"		"4C49D7786DB27EA00D5641A3CA36D54A"
+					"size"		"4BDBAA086B21052EA36CB7A278AE3567"
+					"download"		"4D156731588D90ED616476A6D15660CE"
+				}
+				"test-qa"
+				{
+					"gid"		"AE6CE262697D1390A45B1D2690BBF0F2"
+					"size"		"88A409E8917CE8391D21EEC150B6D85F"
+					"download"		"2F9546A8559C38AE0E06ADC8F4F619D0"
+				}
+			}
+		}
+		"650507"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7357989161753600301"
+					"size"		"13011453120"
+					"download"		"10844713744"
+				}
+				"public_beta"
+				{
+					"gid"		"7357989161753600301"
+					"size"		"13011453120"
+					"download"		"10844713744"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"baseline"
+				{
+					"gid"		"A2D0FB6C5036AEB010E51048DA6440BE"
+					"size"		"7D3584EEAD54EA1751EADC85B6B7B4C0"
+					"download"		"89C05FCA7413FF5CAD1355F9A94CCDF2"
+				}
+				"beta"
+				{
+					"gid"		"7F59C54686A6E4AB0C1B5CFB437D9B37"
+					"size"		"09D09B9F6806F8B023076266B77E573B"
+					"download"		"0B502487451836C7D1E8F1E1028C48F3"
+				}
+				"beta-qa"
+				{
+					"gid"		"1EF5FF81199D8708F7C09B96490B7910"
+					"size"		"A31EB20EC26F30ECB1A56F3309EFCB74"
+					"download"		"AD14AFB57554096B32AFE3E57FA527D8"
+				}
+				"day10-qa"
+				{
+					"gid"		"6291E226A9BE886CD83425D3B232AC22"
+					"size"		"32FF657D4DCC743DD660855D50630CDF"
+					"download"		"57F92C7FECB48105C2DE0FE71015C315"
+				}
+				"hotfix_staging"
+				{
+					"gid"		"AB7741A81241E093554D5B740EBDB973"
+					"size"		"896ABBA2CB798E766A5585C1207B619A"
+					"download"		"CF7D7D64FDABBCC936141BA1EC1DFD4F"
+				}
+				"mg-test"
+				{
+					"gid"		"C94C289AC2FD35F3B27BFA4C92A3212E"
+					"size"		"AA385D39D100B511EBCCF7B4BC1A839B"
+					"download"		"5FA78343A20ADAFB5FAB7DACD9303B19"
+				}
+				"test-qa"
+				{
+					"gid"		"2646549FB5304218D5E7B4F18CD403D7"
+					"size"		"FA25639F3783ED963DACF15ACA589730"
+					"download"		"FFAB71FC4FD7BC01EEA81C83B1A3E477"
+				}
+			}
+		}
+		"719991"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7091368948234785269"
+					"size"		"676215552"
+					"download"		"551890192"
+				}
+				"public_beta"
+				{
+					"gid"		"7091368948234785269"
+					"size"		"676215552"
+					"download"		"551890192"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"22DA2E28AB014CBB49CD88D905DBA697"
+					"size"		"B5B55432EC45465344723FA3BD94EDA5"
+					"download"		"398EC9C69689D9A598963D4525E44976"
+				}
+				"beta-qa"
+				{
+					"gid"		"9BB34878B25ADEC0845AA878290CCD10"
+					"size"		"1D9AD333E37480C476B26B8622B242CC"
+					"download"		"16DDE7ABF23D5E83140A68772AAAA598"
+				}
+				"mg-test"
+				{
+					"gid"		"E375BE7064FDD7DB6307A0AAE0B80898"
+					"size"		"99A1AF5A0F84DD4EBE86CBBD70588CDE"
+					"download"		"185D3260D10E9CEB4343712F3A492F71"
+				}
+				"test-qa"
+				{
+					"gid"		"60FAE6BA5F8183857D9E1A2C8523BCB7"
+					"size"		"1CEE1F2BB533749FE804274DE206A20B"
+					"download"		"2DFB5C37DE6B6A1C5D72177E87266D2C"
+				}
+			}
+		}
+		"650508"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2640284214383131774"
+					"size"		"2073573242"
+					"download"		"1857826608"
+				}
+				"public_beta"
+				{
+					"gid"		"2640284214383131774"
+					"size"		"2073573242"
+					"download"		"1857826608"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"baseline"
+				{
+					"gid"		"B3EB1244B69EB7532A500EDD69D29ACA"
+					"size"		"D60D5346E4B0E43DFA07ED539452B578"
+					"download"		"35488D14C62D2A5C1CEE105CB473711F"
+				}
+				"beta"
+				{
+					"gid"		"ABC5112DB679290121F8CBA35BB90D5C"
+					"size"		"6C0103608C7904F0434375C6058BC0E0"
+					"download"		"A3796340AA0C4A3784F6E59A6A68DEDB"
+				}
+				"beta-qa"
+				{
+					"gid"		"442280DFB481BA76230ECF8F608B0568"
+					"size"		"17B916A36760AA48998F359A46CC77D9"
+					"download"		"A78243F296F767ADCD62B8B45CA3DD25"
+				}
+				"day10-qa"
+				{
+					"gid"		"CD748DF673205BDA118EDD2BB3693323"
+					"size"		"7D71DB313E534384B23DBC30EDAD093A"
+					"download"		"0B0A4DA55BDE0F60825B35FFCC658DB6"
+				}
+				"hotfix_staging"
+				{
+					"gid"		"676B65FC1FD11C225C98D3A191984D04"
+					"size"		"D0646F90B7F7AB8E340CF955F8CF6682"
+					"download"		"A4AEFC20C095D53E5534B5E7F3D60484"
+				}
+				"mg-test"
+				{
+					"gid"		"F558BA042F94144D1548A1FBB9BCBEB9"
+					"size"		"3B878AC69015C8CCB5894C627D653A4A"
+					"download"		"B22D2BD6FE9EB179FD507DF1197A0888"
+				}
+				"test-qa"
+				{
+					"gid"		"671900BD83EEE72A63E0ABD35E47CEAA"
+					"size"		"006E00D3A489D135DF080A39B8ECF4C4"
+					"download"		"C3FE7DD18F6F40EE34904ABBE86C9D47"
+				}
+			}
+		}
+		"650509"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"957322217362890625"
+					"size"		"811252495"
+					"download"		"768379152"
+				}
+				"public_beta"
+				{
+					"gid"		"957322217362890625"
+					"size"		"811252495"
+					"download"		"768379152"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"baseline"
+				{
+					"gid"		"D2CE13087FEA08BF1ECFCF79770CDC97"
+					"size"		"16ED667DE092E21496BEF72A55E32FFE"
+					"download"		"191F99D7C9D1FA22644FA21935E8F4A5"
+				}
+				"beta"
+				{
+					"gid"		"D6739E9CB8F6C4C372D997CC3F35C6EC"
+					"size"		"9839B051BD9B517D0E5DEB1D05C5389D"
+					"download"		"E8B1395290460799E18BB228007E0560"
+				}
+				"beta-qa"
+				{
+					"gid"		"A8F9AAB5430FA66CAB84F7583BFC9E89"
+					"size"		"B88984EE0A16F9845017488F59E52281"
+					"download"		"A9BBAA90C5F548FC4807CBDA5ECF38CF"
+				}
+				"day10-qa"
+				{
+					"gid"		"B06CDBB1D5B72984E759CF17EF96A74E"
+					"size"		"63AE8848F236680566096CFF8EFDBB94"
+					"download"		"6DDE8C4E48F485B824C8A03F33798675"
+				}
+				"hotfix_staging"
+				{
+					"gid"		"AE320FDE211BFE3A20D1B961751B4CC0"
+					"size"		"7C0A1AEBB69C8DECF14F06CC89EBD0C1"
+					"download"		"618AAA287CC2C1950BF385ED0D9C0DD0"
+				}
+				"mg-test"
+				{
+					"gid"		"CBD6682998C8EC7C6E5CFBF68A3AD799"
+					"size"		"074227B59142336FF2B18BE95B14B154"
+					"download"		"6194BB5F13AB3E7DC0220F5F8B4237C1"
+				}
+				"test-qa"
+				{
+					"gid"		"190BCF91E7B5AEBC91226F6E9C1C8860"
+					"size"		"43605194C26D54E530219DECDC88AA8B"
+					"download"		"5B64789E2360C265C7148BDAD0B33A49"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3328710"
+				"timeupdated"		"1543333958"
+			}
+			"baseline"
+			{
+				"buildid"		"2248694"
+				"pwdrequired"		"1"
+				"timeupdated"		"1509543906"
+			}
+			"beta"
+			{
+				"buildid"		"2348268"
+				"pwdrequired"		"1"
+				"timeupdated"		"1513365457"
+			}
+			"beta-qa"
+			{
+				"buildid"		"8772834"
+				"pwdrequired"		"1"
+				"timeupdated"		"1652984923"
+			}
+			"day10-qa"
+			{
+				"buildid"		"2255419"
+				"pwdrequired"		"1"
+				"timeupdated"		"1509715398"
+			}
+			"hotfix_staging"
+			{
+				"buildid"		"2268166"
+				"pwdrequired"		"1"
+				"timeupdated"		"1510162998"
+			}
+			"mg-test"
+			{
+				"buildid"		"3328710"
+				"pwdrequired"		"1"
+				"timeupdated"		"1542826121"
+			}
+			"public_beta"
+			{
+				"buildid"		"3328710"
+				"description"		"pre-release area for patches"
+				"timeupdated"		"1542834447"
+			}
+			"test-qa"
+			{
+				"buildid"		"8294247"
+				"pwdrequired"		"1"
+				"timeupdated"		"1646146709"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"500000000"
+		"maxnumfiles"		"10000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinSavedGames"
+				"path"		"MachineGames/Wolfenstein II The New Colossus/base/savegame.user/{64BitSteamID}"
+				"pattern"		"*"
+				"recursive"		"1"
+			}
+		}
+	}
+}
