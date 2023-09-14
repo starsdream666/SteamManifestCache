@@ -1,0 +1,238 @@
+"appinfo"
+{
+	"appid"		"1556490"
+	"common"
+	{
+		"name"		"Retreat To Enen"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"666ddfc463f10f2fe244db23d894bdd32dceee2a"
+		"logo_small"		"666ddfc463f10f2fe244db23d894bdd32dceee2a_thumb"
+		"icon"		"de5a8f9756f1c34ee2f096f605fa6ce59d3ca4f7"
+		"clienttga"		"8936718645824fa4db2704d16e8c87078b37d65b"
+		"clienticon"		"4535a062f810118a5342d240fa74c577f41947ee"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1661299200"
+			"tested_build_id"		"9332355"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-4"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"31.511627906976784"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1670780559"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Head West"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Freedom Games"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Freedom Games"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1659365907"
+		"community_hub_visible"		"1"
+		"gameid"		"1556490"
+		"store_tags"
+		{
+			"0"		"3834"
+			"1"		"1654"
+			"2"		"3810"
+			"3"		"1662"
+			"4"		"15564"
+			"5"		"3839"
+			"6"		"7332"
+			"7"		"1695"
+			"8"		"19"
+			"9"		"3942"
+			"10"		"4166"
+			"11"		"1643"
+			"12"		"1702"
+			"13"		"30358"
+			"14"		"21"
+			"15"		"4295"
+			"16"		"8945"
+			"17"		"4182"
+			"18"		"492"
+			"19"		"4106"
+		}
+		"review_score"		"5"
+		"review_percentage"		"63"
+	}
+	"extended"
+	{
+		"developer"		"Head West"
+		"publisher"		"Freedom Games"
+		"homepage"		"https://retreattoenen.com/"
+	}
+	"config"
+	{
+		"installdir"		"Retreat To Enen"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"RetreatToEnen.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"1556491"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"985151902420553340"
+					"size"		"7524638374"
+					"download"		"3524946176"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"BADD8B5D72D63DCB9D5025BBC48DD3D6"
+					"size"		"978C8E2AC3B279A34D48A00C0DB23448"
+					"download"		"0E6738C852353837A65C8CEF8219B54B"
+				}
+				"internaldevbranch"
+				{
+					"gid"		"91DCD7AF4FDA4E9AA7D4C2CE71DA0B49"
+					"size"		"60B0A9108D03650BACFDDB3434C2D630"
+					"download"		"985DE8071A090F9DF22BE7317C0FFE8D"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9699473"
+				"timeupdated"		"1665519090"
+			}
+			"development"
+			{
+				"buildid"		"9699473"
+				"pwdrequired"		"1"
+				"timeupdated"		"1665515506"
+			}
+			"internaldevbranch"
+			{
+				"buildid"		"9245361"
+				"pwdrequired"		"1"
+				"timeupdated"		"1659542869"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"500000000"
+		"maxnumfiles"		"10"
+		"sync_while_suspended"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"CI_optimized/Saved/SaveGames/"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
