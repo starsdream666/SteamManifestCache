@@ -1,0 +1,699 @@
+"appinfo"
+{
+	"appid"		"1637320"
+	"common"
+	{
+		"name"		"Dome Keeper"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"68abab2801afbefad0648a973527e43c4cac40a8"
+		"logo_small"		"68abab2801afbefad0648a973527e43c4cac40a8_thumb"
+		"icon"		"4ecf3a011cf5eeb37d0072a1a182b7ea5140e3e2"
+		"clienticon"		"06a6d48ba593a57a5e43ad964f88aa9b00e07ed2"
+		"clienttga"		"21c4a1cc3f5f7b429348a4048c157735851475e4"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"name_localized"
+		{
+			"schinese"		"Dome Keeper 穹顶守护者"
+			"tchinese"		"Dome Keeper 穹頂守護者"
+		}
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"portuguese"		"1"
+			"polish"		"1"
+			"danish"		"1"
+			"dutch"		"1"
+			"finnish"		"1"
+			"norwegian"		"1"
+			"swedish"		"1"
+			"hungarian"		"1"
+			"czech"		"1"
+			"turkish"		"1"
+			"arabic"		"1"
+			"brazilian"		"1"
+			"ukrainian"		"1"
+			"latam"		"1"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1666656000"
+			"tested_build_id"		"9695588"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+			"tchinese"		"header_tchinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn,zh-tw"
+			"library_hero"		"en,zh-tw"
+			"library_logo"		"en,zh-cn"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"19.912145101882018"
+				"height_pct"		"79.86111111111111"
+			}
+		}
+		"store_asset_mtime"		"1693291260"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Bippinbits"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Raw Fury"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Dome Keeper"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_23"		"1"
+			"category_22"		"1"
+			"category_25"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_29"		"1"
+			"category_30"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+			}
+			"danish"
+			{
+				"supported"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+			}
+			"finnish"
+			{
+				"supported"		"true"
+			}
+			"hungarian"
+			{
+				"supported"		"true"
+			}
+			"norwegian"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"romanian"
+			{
+				"supported"		"true"
+			}
+			"swedish"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+			"bulgarian"
+			{
+				"supported"		"true"
+			}
+			"thai"
+			{
+				"supported"		"true"
+			}
+			"vietnamese"
+			{
+				"supported"		"true"
+			}
+			"catalan"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1664262000"
+		"steam_release_date"		"1664296270"
+		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1637320"
+		"store_tags"
+		{
+			"0"		"7332"
+			"1"		"4166"
+			"2"		"5125"
+			"3"		"3834"
+			"4"		"599"
+			"5"		"7481"
+			"6"		"21"
+			"7"		"3810"
+			"8"		"3871"
+			"9"		"220585"
+			"10"		"1645"
+			"11"		"1716"
+			"12"		"4182"
+			"13"		"12472"
+			"14"		"5981"
+			"15"		"3942"
+			"16"		"19"
+			"17"		"3993"
+			"18"		"1673"
+			"19"		"3964"
+		}
+		"review_score"		"8"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"absolutemousecoordinates"		"0"
+		"remoteplaytogethertestingbranches"		"development,playtest,preview,staging"
+		"developer"		"Bippinbits"
+		"publisher"		"Raw Fury"
+		"homepage"		"https://rawfury.com/games/dome-keeper/"
+		"listofdlc"		"2152440,2380060"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Dome Keeper"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"domekeeper.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"domekeeper.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"2"
+			{
+				"executable"		"Contents/MacOS/Dome Keeper"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"3"
+			{
+				"executable"		"WorkshopUploader.exe"
+				"type"		"editor"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"modding"
+				}
+			}
+			"4"
+			{
+				"executable"		"WorkshopUploader.x86_64"
+				"type"		"editor"
+				"config"
+				{
+					"oslist"		"linux"
+					"betakey"		"modding"
+				}
+			}
+			"5"
+			{
+				"executable"		"ContentsWU/MacOS/Workshop Uploader"
+				"type"		"editor"
+				"config"
+				{
+					"oslist"		"macos"
+					"betakey"		"modding"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"65533"
+	}
+	"depots"
+	{
+		"workshopdepot"		"1637320"
+		"hasdepotsindlc"		"1"
+		"1637321"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"503144068855985260"
+					"size"		"945080176"
+					"download"		"608717808"
+				}
+				"modding"
+				{
+					"gid"		"185842162276580075"
+					"size"		"994459343"
+					"download"		"614140496"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"custom_test"
+				{
+					"gid"		"4C2DE4321917AE09D1013DAF8ADA632F"
+					"size"		"D4089EA32404C178E0D6B4393A8BDAA0"
+					"download"		"6971458B2F3543294C3B48A1A856ED1B"
+				}
+				"development"
+				{
+					"gid"		"06349E7971CF1BAD43A1C6776D380CF9"
+					"size"		"6609EFB8C72689BF470C9538DC621141"
+					"download"		"34ADE76D1E4AA35E4CBA650529983746"
+				}
+				"exhibition"
+				{
+					"gid"		"9E1564B575CFAECB2944A592A41AAE64"
+					"size"		"1998F796AB7A8C57ECF015BFA137CFEE"
+					"download"		"3DC9715DB79C3900851BB397EF547ECC"
+				}
+				"furystudios"
+				{
+					"gid"		"45FC0CF3B2B5327018F636DC24D0E2BA"
+					"size"		"0203B0A2B6EF3198440E37D6BB077BCD"
+					"download"		"4DF5F9F2C09B948E9021AA7FB7003CE5"
+				}
+				"playtest"
+				{
+					"gid"		"95DA12A275BDE9DF939DAAD54CA273D3"
+					"size"		"854AEA0E501F85AABC7F0900096A8943"
+					"download"		"1F748E8E47BC1E7BE4E26B3928745581"
+				}
+				"preview"
+				{
+					"gid"		"3AA6EF0251A97CD8128A95FC005DAA98"
+					"size"		"11A37561E03078889D6AEA49E7FD31E8"
+					"download"		"E22C295B46AFA94350E17F69B7E5DF3D"
+				}
+				"staging"
+				{
+					"gid"		"81FECD19BFE2837A7AF3CB0C1C388BFA"
+					"size"		"1B084E19121672BA669BB31B212CB7BB"
+					"download"		"90FD3173D1D39DB4A2959915F788166D"
+				}
+			}
+		}
+		"1637322"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9013745007525110647"
+					"size"		"953425473"
+					"download"		"611196080"
+				}
+				"modding"
+				{
+					"gid"		"8346004249702749852"
+					"size"		"1011027320"
+					"download"		"616615776"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"custom_test"
+				{
+					"gid"		"C56AABF5982AB55E47C27612EBD6C3C3"
+					"size"		"77C4EDE6701273F41717D283BE76066F"
+					"download"		"EF1089C983BEDD4B06CA4C969E02AE2D"
+				}
+				"development"
+				{
+					"gid"		"9DD4A53BB87F2F8CD07EA9413C3D3FB7"
+					"size"		"B049525186CC8FA9FC5763E2B85DCE5D"
+					"download"		"7C38282782EC1C73A9B7B5EDF34617FC"
+				}
+				"exhibition"
+				{
+					"gid"		"1FA817D3F33C8BA1E22CEA4F43C596D5"
+					"size"		"DEBDD4A21FC864E481E58EBB3E15516C"
+					"download"		"E8B46E9129ED9EF84FF769460828483F"
+				}
+				"furystudios"
+				{
+					"gid"		"66404E9C014B9397B5C4F82C2A1F6954"
+					"size"		"B5CDCB6884498B1C9070CB9F281E1F8D"
+					"download"		"F9907A85DCDC87B86E4646E98434C9ED"
+				}
+				"playtest"
+				{
+					"gid"		"82CC75778D43BAC7605C0ED6ADE119B9"
+					"size"		"F94AAEE56D5D31CB107B3AC335BDF088"
+					"download"		"D8A1D0AAA41E6343887A374052B79779"
+				}
+				"preview"
+				{
+					"gid"		"E53C0C18D4486BDFBE7B6ABD94DA9FAB"
+					"size"		"C87C9B0D19C27EB743E81EA08509A819"
+					"download"		"86C3AB721EC76F8DBB514B791DB31C54"
+				}
+				"staging"
+				{
+					"gid"		"8657A198BDB607FA1A518EBF635F929B"
+					"size"		"44A32B8443619BB62EB42E369C8061A8"
+					"download"		"440439DE82998CE503B82E28CCC07E63"
+				}
+			}
+		}
+		"1637323"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1893051590853098043"
+					"size"		"1000669650"
+					"download"		"620279248"
+				}
+				"modding"
+				{
+					"gid"		"5689683693089800311"
+					"size"		"851708463"
+					"download"		"783368352"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"custom_test"
+				{
+					"gid"		"53DBB9280C5B89D3F7325B1A6C4F1324"
+					"size"		"984B3E4CC177042DE4300CA435827F5D"
+					"download"		"12096F6B76EF8F238F9A851D49632562"
+				}
+				"development"
+				{
+					"gid"		"5FA51AA0D99B63ADC7251A0EED84CF86"
+					"size"		"612EDB5C545E1F75D299BC0E0503A4C1"
+					"download"		"A0C23FEA5E5053F3A31459DA036F0936"
+				}
+				"exhibition"
+				{
+					"gid"		"7987BEA3B755CAA630B2E4CE278F5DE6"
+					"size"		"03FF00027737A882E70553C9973FD811"
+					"download"		"F662573C44AF9736F5F3899364012FD5"
+				}
+				"furystudios"
+				{
+					"gid"		"79A4939685A64651ABAD119CA74216F2"
+					"size"		"96016795712184CF5909EEA1F6DB80E5"
+					"download"		"65B352051A929DE184B7668E3E19185F"
+				}
+				"playtest"
+				{
+					"gid"		"F66E18AD9C087CAAE055CB6F2AD8CA29"
+					"size"		"2D5A95B0BAD26ACAB5868F1734A9EBC5"
+					"download"		"7566BC2F7B0DB5AB9668A93E9E17F962"
+				}
+				"preview"
+				{
+					"gid"		"B64C0813E24BE4E1B7C37E3693841711"
+					"size"		"CECE4AE02196A78F99EB1B558505DAC5"
+					"download"		"F17E049F597D7E598DD2C64AF2973913"
+				}
+				"staging"
+				{
+					"gid"		"CEFFD41D0EA95DD51A521C57C976307B"
+					"size"		"192F9412B6D7D4E39BDCE2E0ED62ABD9"
+					"download"		"33EBE73E0287B9D4BDE3C8F0D2AD1926"
+				}
+			}
+		}
+		"1637324"
+		{
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11739481"
+				"timeupdated"		"1689794904"
+			}
+			"custom_test"
+			{
+				"buildid"		"11357370"
+				"pwdrequired"		"1"
+				"timeupdated"		"1685519209"
+			}
+			"development"
+			{
+				"buildid"		"11932990"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691959298"
+			}
+			"exhibition"
+			{
+				"buildid"		"10783506"
+				"pwdrequired"		"1"
+				"timeupdated"		"1678960605"
+			}
+			"furystudios"
+			{
+				"buildid"		"9821705"
+				"pwdrequired"		"1"
+				"timeupdated"		"1666962270"
+			}
+			"modding"
+			{
+				"buildid"		"11587383"
+				"description"		"Branch to use to upload mods to Steam Workshop"
+				"timeupdated"		"1688036621"
+			}
+			"playtest"
+			{
+				"buildid"		"12106222"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693841478"
+			}
+			"preview"
+			{
+				"buildid"		"9884826"
+				"pwdrequired"		"1"
+				"timeupdated"		"1667828509"
+			}
+			"staging"
+			{
+				"buildid"		"12077869"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693479762"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"50000000"
+		"maxnumfiles"		"20"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"Godot/app_userdata/Dome Keeper"
+				"pattern"		"*.*"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataRoaming"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxHome"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Godot/app_userdata/Dome Keeper"
+						"replace"		".local/share/godot/app_userdata/Dome Keeper"
+					}
+				}
+			}
+			"1"
+			{
+				"root"		"WinAppDataRoaming"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Godot/app_userdata/Dome Keeper"
+						"replace"		"/Godot/app_userdata/Dome Keeper"
+					}
+				}
+			}
+		}
+	}
+}
