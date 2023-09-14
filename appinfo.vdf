@@ -1,0 +1,184 @@
+"appinfo"
+{
+	"appid"		"1303000"
+	"common"
+	{
+		"name"		"Proxy Air Force"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,linux"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"77445baf6632e2d4bda7c239d048394f66355b3d"
+		"clienttga"		"c3174abadfe9a1343c080169699fc053f48d3554"
+		"icon"		"4ef8cf2deda5d3aa28903d84b94f6daac3433eb3"
+		"logo"		"6bd8b552c90ef5ecb74c4b93d6187cb276799d0e"
+		"logo_small"		"6bd8b552c90ef5ecb74c4b93d6187cb276799d0e_thumb"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1613575224"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Anamik Majumdar"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Anamik Majumdar"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1590762533"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1303000"
+		"store_tags"
+		{
+			"0"		"4255"
+			"1"		"4885"
+			"2"		"1773"
+			"3"		"1774"
+			"4"		"4004"
+			"5"		"597"
+			"6"		"19"
+			"7"		"492"
+			"8"		"4667"
+			"9"		"3871"
+			"10"		"4182"
+			"11"		"3964"
+			"12"		"4195"
+			"13"		"4305"
+			"14"		"3916"
+			"15"		"5350"
+			"16"		"5752"
+			"17"		"3993"
+			"18"		"4026"
+			"19"		"4791"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Anamik Majumdar"
+		"publisher"		"Anamik Majumdar"
+		"homepage"		"http://www.amaxang-games.com/2020/04/proxy-air-force-2d-top-down-arcade.html"
+	}
+	"config"
+	{
+		"installdir"		"Proxy Air Force"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ProxyAirForce.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"ProxyAirForce"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1303001"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4638347590170000534"
+					"size"		"23118584"
+					"download"		"15920192"
+				}
+			}
+		}
+		"1303002"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7675044640230028974"
+					"size"		"22021071"
+					"download"		"15227328"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4953861"
+				"timeupdated"		"1588064569"
+			}
+		}
+	}
+}
