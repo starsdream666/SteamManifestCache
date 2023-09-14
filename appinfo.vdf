@@ -1,0 +1,141 @@
+"appinfo"
+{
+	"appid"		"522690"
+	"common"
+	{
+		"name"		"In Fear I Trust"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"icon"		"508c0403baa51507038d9473bf69a1eeb75ab5d6"
+		"logo"		"e5864ea9e08bb7333294ad5e6d49e27ea094285a"
+		"logo_small"		"e5864ea9e08bb7333294ad5e6d49e27ea094285a_thumb"
+		"clienticon"		"d4ae7c18f047ad39fc69c7276afc9c2611980ca1"
+		"clienttga"		"8862fd3ebb75a218978a026716671c2019959ec6"
+		"metacritic_name"		"In Fear I Trust"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+		}
+		"store_asset_mtime"		"1668506961"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Black Wing Foundation"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Fulqrum Publishing"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Fulqrum"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1474563408"
+		"community_hub_visible"		"1"
+		"gameid"		"522690"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"1664"
+			"2"		"1667"
+		}
+		"review_score"		"5"
+		"review_percentage"		"49"
+	}
+	"extended"
+	{
+		"developer"		"Black Wing Foundation"
+		"publisher"		"Fulqrum Publishing"
+		"homepage"		"http://bwf-game.com/en/games/in-fear-i-trust.html"
+		"listofdlc"		"523850,523851,523852"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"In Fear I Trust"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Binaries/Win32/IfitGame-Win32-Shipping.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"522691"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3680715096795672710"
+					"size"		"3488982924"
+					"download"		"2799793648"
+				}
+			}
+		}
+		"522692"
+		{
+			"dlcappid"		"523850"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1357489"
+				"timeupdated"		"1474899656"
+			}
+		}
+	}
+}
