@@ -1,0 +1,264 @@
+"appinfo"
+{
+	"appid"		"1589290"
+	"common"
+	{
+		"name"		"Kitsu's Destiny"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"clienticon"		"6e9c57bb44e1c79646d8ab6c8651ae9126e33392"
+		"clienttga"		"f5c85b99a079b5adbea3cb9c2edb7a603ec362fb"
+		"icon"		"33af25c5245f388f3efda588b6c01beeef7a42de"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"31.038506417736272"
+				"height_pct"		"57.44681048422536"
+			}
+		}
+		"store_asset_mtime"		"1690889625"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"KitsuNet"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"KitsuNet"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"23"
+			"3"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1668091652"
+		"community_hub_visible"		"1"
+		"gameid"		"1589290"
+		"store_tags"
+		{
+			"0"		"379975"
+			"1"		"3959"
+			"2"		"1773"
+			"3"		"4434"
+			"4"		"4106"
+			"5"		"7208"
+			"6"		"122"
+			"7"		"3871"
+			"8"		"4791"
+			"9"		"7250"
+			"10"		"4325"
+			"11"		"19"
+			"12"		"3964"
+			"13"		"4085"
+			"14"		"1684"
+			"15"		"4172"
+			"16"		"21"
+			"17"		"4182"
+			"18"		"4342"
+			"19"		"13782"
+		}
+	}
+	"extended"
+	{
+		"developer"		"KitsuNet"
+		"publisher"		"KitsuNet"
+		"homepage"		"https://kitsunet.au/"
+		"listofdlc"		"2175060,2263370"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Kitsu's Destiny"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Game.exe"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Kitsu's Destiny"
+				}
+				"description"		"Kitsu's Destiny"
+			}
+			"1"
+			{
+				"executable"		"dlc/proto/Kitsu.exe"
+				"workingdir"		"dlc/proto"
+				"type"		"option2"
+				"config"
+				{
+					"oslist"		"windows"
+					"ownsdlc"		"2263370"
+				}
+				"description_loc"
+				{
+					"english"		"Kitsu's Destiny Prototype"
+				}
+				"description"		"Kitsu's Destiny Prototype"
+			}
+		}
+		"steamcontrollertouchtemplateindex"		"8"
+		"steamdecktouchscreen"		"1"
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigdetails"
+		{
+			"3018337759"
+			{
+				"controller_type"		"controller_xboxone"
+				"enabled_branches"		"default,privatebeta,publicbeta"
+				"use_action_block"		"false"
+			}
+			"3018338023"
+			{
+				"controller_type"		"controller_xboxone"
+				"enabled_branches"		"default,privatebeta,publicbeta"
+				"use_action_block"		"false"
+			}
+		}
+		"steamconfigurator3rdpartynative"		"65535"
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"1"
+		"1589291"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8743561181487046765"
+					"size"		"369301805"
+					"download"		"183945152"
+				}
+			}
+		}
+		"1589292"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5435449335584767917"
+					"size"		"479594338"
+					"download"		"216376768"
+				}
+			}
+		}
+		"2263370"
+		{
+			"dlcappid"		"2263370"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2190329666900767349"
+					"size"		"128187778"
+					"download"		"122844816"
+				}
+			}
+		}
+		"2175060"
+		{
+			"dlcappid"		"2175060"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4586000855944415422"
+					"size"		"48095089"
+					"download"		"47697040"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11837770"
+				"timeupdated"		"1690891216"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"25"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"save"
+				"pattern"		"file*.rmmzsave"
+			}
+			"1"
+			{
+				"root"		"gameinstall"
+				"path"		"save"
+				"pattern"		"global.rmmzsave"
+			}
+			"2"
+			{
+				"root"		"gameinstall"
+				"path"		"save"
+				"pattern"		"config.rmmzsave"
+			}
+		}
+	}
+}
