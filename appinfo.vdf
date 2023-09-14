@@ -1,0 +1,378 @@
+"appinfo"
+{
+	"appid"		"1451080"
+	"common"
+	{
+		"name"		"DUNGEON ENCOUNTERS"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"languages"
+		{
+			"english"		"1"
+			"japanese"		"1"
+		}
+		"logo"		"e5f5eb31dff2780cc08b45a0f27b9a561ff3d62c"
+		"logo_small"		"e5f5eb31dff2780cc08b45a0f27b9a561ff3d62c_thumb"
+		"icon"		"6b2a1c48bf37772b076912e77d583bc5b63313be"
+		"clienticon"		"160eb1e1c7f54d00eaa873a664aa224667250daf"
+		"clienttga"		"6012ea81d68607ad0dfc5610e61f17101373c1fd"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1451080_eula_0"
+				"name"		"DUNGEON ENCOUNTERS EULA"
+				"url"		"https://store.steampowered.com//eula/1451080_eula_0"
+				"version"		"1"
+			}
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1676073600"
+			"tested_build_id"		"7222979"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,ja"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"51.94730813287515"
+				"height_pct"		"35.73104904951889"
+			}
+		}
+		"store_asset_mtime"		"1665039122"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Square Enix"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Square Enix"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1634227261"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1451080"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"4434"
+			"2"		"3834"
+			"3"		"3871"
+			"4"		"1684"
+			"5"		"7569"
+			"6"		"4182"
+			"7"		"1720"
+		}
+		"review_score"		"5"
+		"review_percentage"		"67"
+	}
+	"extended"
+	{
+		"developer"		"Square Enix"
+		"publisher"		"Square Enix"
+		"homepage"		"https://square-enix-games.com/games/dungeon-encounters"
+	}
+	"config"
+	{
+		"installdir"		"DUNGEON ENCOUNTERS"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"DUNGEON ENCOUNTERS.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"1"
+		"steamconfigurator3rdpartynative"		"65535"
+		"steamcontrollerconfigdetails"
+		{
+			"2389518249"
+			{
+				"controller_type"		"controller_ps4"
+				"enabled_branches"		"default,age_ratings,cc_master,cc_test,jqa_nodebug_test,jqa_test,loc_test,review_sqex,v1_0_0_master,v1_0_1_master_patch"
+				"use_action_block"		"false"
+			}
+			"2465441253"
+			{
+				"controller_type"		"controller_ps5"
+				"enabled_branches"		"default,age_ratings,cc_master,cc_test,jqa_nodebug_test,jqa_test,loc_test,review_sqex,v1_0_0_master,v1_0_1_master_patch"
+				"use_action_block"		"false"
+			}
+			"2492377873"
+			{
+				"controller_type"		"controller_switch_pro"
+				"enabled_branches"		"default,age_ratings,cc_master,cc_test,jqa_nodebug_test,jqa_test,loc_test,review_sqex,v1_0_0_master,v1_0_1_master_patch"
+				"use_action_block"		"false"
+			}
+			"2493355834"
+			{
+				"controller_type"		"controller_xboxone"
+				"enabled_branches"		"default,age_ratings,cc_master,cc_test,jqa_nodebug_test,jqa_test,loc_test,review_sqex,v1_0_0_master,v1_0_1_master_patch"
+				"use_action_block"		"true"
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1451081"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1280718136818195569"
+					"size"		"1846752839"
+					"download"		"731920336"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"age_ratings"
+				{
+					"gid"		"2A1A9F168868718DFBF3C9AD102260D9"
+					"size"		"8416491F55920FC82F36075993FE1788"
+					"download"		"2E011859E500F2517EB1EA788256DB2F"
+				}
+				"cc_master"
+				{
+					"gid"		"B8D5157C592FE87F1CD5AB318BDCD186"
+					"size"		"4DD75843C94719A96EE4005B15344014"
+					"download"		"214223ADD8680106C35A72E826249CA3"
+				}
+				"cc_test"
+				{
+					"gid"		"DA11C232983E646A09EF1D49043BDE03"
+					"size"		"917D841053784F4688A8965653CFAE89"
+					"download"		"CE8F5F1EAB0FE26A90161827C3F0533E"
+				}
+				"jqa_nodebug_test"
+				{
+					"gid"		"30E7B70447CE484D80588905FEE47A6A"
+					"size"		"EC319D3B53B953AEF1F643AECD8986C5"
+					"download"		"F724DAC649627DAA01ED0E99AE574482"
+				}
+				"jqa_test"
+				{
+					"gid"		"4EDFD5EDFFA4E6469E836E85761E60EE"
+					"size"		"E44E04C4159186ADDBC7A4AD0A91390D"
+					"download"		"758862AA21502F274A76A034A41A8B9F"
+				}
+				"loc_test"
+				{
+					"gid"		"7C996DD06D3E5A52B2938978505A88E7"
+					"size"		"91971D4885FA67728194A09F163390F7"
+					"download"		"A6096FFEF7CB8BFF3620F04D0C0B6146"
+				}
+				"pr_testplay"
+				{
+					"gid"		"78C0F0DA209A0ABECACA47D216004C47"
+					"size"		"0F68FF8DBEA70CF7EE72D1880D585CF0"
+					"download"		"98CDB8631B7DF651A55A41D554E64C19"
+				}
+				"review_sqex"
+				{
+					"gid"		"5A7CDD2020A4B7262E2937479866C7F5"
+					"size"		"B9FCC9D206A19F6104042E449C8A09A7"
+					"download"		"79CDAF34B88369B6E819CB7C8D664ED8"
+				}
+				"v1_0_0_master"
+				{
+					"gid"		"A83B2EE2CDC6024B59D53D79F65DC64B"
+					"size"		"1D4C94EACBEBEFA1EFBB33B79D253274"
+					"download"		"C42369A9CBBF9E70D92BF1151CB1DADD"
+				}
+				"v1_0_1_master_patch"
+				{
+					"gid"		"EA999D1DD808A02E071FD0FEB836C3F2"
+					"size"		"F6F9CA90E2466CECB1D9D058C00B0E19"
+					"download"		"6389144802316A5E5C8D87510383E887"
+				}
+			}
+		}
+		"baselanguages"		"english,japanese"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7222979"
+				"timeupdated"		"1633432788"
+			}
+			"age_ratings"
+			{
+				"buildid"		"6903498"
+				"pwdrequired"		"1"
+				"timeupdated"		"1624343665"
+			}
+			"cc_master"
+			{
+				"buildid"		"7222979"
+				"pwdrequired"		"1"
+				"timeupdated"		"1629466555"
+			}
+			"cc_test"
+			{
+				"buildid"		"7222191"
+				"pwdrequired"		"1"
+				"timeupdated"		"1629457586"
+			}
+			"jqa_nodebug_test"
+			{
+				"buildid"		"7222979"
+				"pwdrequired"		"1"
+				"timeupdated"		"1629684227"
+			}
+			"jqa_test"
+			{
+				"buildid"		"7222191"
+				"pwdrequired"		"1"
+				"timeupdated"		"1629684248"
+			}
+			"loc_test"
+			{
+				"buildid"		"7222191"
+				"pwdrequired"		"1"
+				"timeupdated"		"1629684263"
+			}
+			"pr_testplay"
+			{
+				"buildid"		"7222979"
+				"pwdrequired"		"1"
+				"timeupdated"		"1633429383"
+			}
+			"review_sqex"
+			{
+				"buildid"		"7195293"
+				"pwdrequired"		"1"
+				"timeupdated"		"1632737482"
+			}
+			"v1_0_0_master"
+			{
+				"buildid"		"7129978"
+				"pwdrequired"		"1"
+				"timeupdated"		"1628418425"
+			}
+			"v1_0_1_master_patch"
+			{
+				"buildid"		"7222979"
+				"pwdrequired"		"1"
+				"timeupdated"		"1630319635"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"8000000"
+		"maxnumfiles"		"8"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"My Games/DUNGEON ENCOUNTERS/Steam/{64BitSteamID}"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
