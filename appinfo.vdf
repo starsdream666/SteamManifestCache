@@ -1,0 +1,446 @@
+"appinfo"
+{
+	"appid"		"1112100"
+	"common"
+	{
+		"name"		"Tarzan VR"
+		"type"		"Game"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"logo"		"7517368f411947df421be8f7d76641bf39cb45f1"
+		"logo_small"		"7517368f411947df421be8f7d76641bf39cb45f1_thumb"
+		"icon"		"c0b382a1fcbb3a17e8f585e38b84224138f111d9"
+		"clienticon"		"3bb60457956e845931a7526fd3c3de3a84e6ee46"
+		"clienttga"		"9d72eead09c6aea155bb7891ef656ac916b40976"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"openvrsupport"		"1"
+		"othervrsupport"		"1"
+		"othervrsupport_rift_13"		"1"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1112100_eula_0"
+				"name"		"Tarzan VR EULA"
+				"url"		"https://store.steampowered.com//eula/1112100_eula_0"
+				"version"		"1"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"57.39231664726426"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1666985193"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Stonepunk Studios"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"VRMonkey"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Fun Train"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Tarzan"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_52"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1605636131"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1112100"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"21978"
+			"1"		"599"
+			"2"		"4835"
+			"3"		"1743"
+			"4"		"4158"
+			"5"		"1684"
+			"6"		"3993"
+			"7"		"1671"
+			"8"		"4242"
+			"9"		"3968"
+			"10"		"3839"
+			"11"		"9204"
+			"12"		"4106"
+			"13"		"492"
+			"14"		"1663"
+			"15"		"4182"
+			"16"		"1742"
+			"17"		"4191"
+			"18"		"19"
+			"19"		"21"
+		}
+		"review_score"		"5"
+		"review_percentage"		"60"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Stonepunk Studios"
+		"publisher"		"Fun Train"
+		"homepage"		"http://bit.ly/TarzanVR"
+		"listofdlc"		"1378240,1378241"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Tarzan VR"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TVR.exe"
+				"arguments"		"-vrmode openvr"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"TVR.exe"
+				"arguments"		"-vrmode oculus"
+				"type"		"othervr"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"hasdepotsindlc"		"1"
+		"1112101"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4110747688871732400"
+					"size"		"3959448896"
+					"download"		"3326508112"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal_playtesting"
+				{
+					"gid"		"946C8310CE644C83FC683217013FEE59"
+					"size"		"A30D537F409680077089F6BBF6318A4A"
+					"download"		"59247E92B6ABB3BE49A5B7764F675680"
+				}
+				"patchtesting"
+				{
+					"gid"		"9570F76D4EBFF3A38868C5AC9C4D3202"
+					"size"		"92E1BFF8E2EC93F2709C652EB3AA8678"
+					"download"		"0C127374075F66D710942A6898683D24"
+				}
+				"psvr_version"
+				{
+					"gid"		"EAA36E91A4B2BF4FF42A61D064BC8943"
+					"size"		"B45B61B994918B31B448C217F2F70911"
+					"download"		"E5462A18AEBF0B43A90D5A8FDF678A20"
+				}
+				"vrmonkey_internal"
+				{
+					"gid"		"88421451902EB8A09B879F31050058CA"
+					"size"		"2CA7643072EB4C45B07AC39CC650491D"
+					"download"		"EB034F82877EFC7FE869AC772475CAB2"
+				}
+			}
+		}
+		"1112102"
+		{
+			"dlcappid"		"1378240"
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3910230911901677365"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal_playtesting"
+				{
+					"gid"		"B347EDC175E6EA108837DB7181E0A7F1"
+					"size"		"77D739EF6AA816DEAF0486E494EA94F5"
+					"download"		"77D739EF6AA816DEAF0486E494EA94F5"
+				}
+				"patchtesting"
+				{
+					"gid"		"25F2934DDA9058A2BC90B195B3D8CAA2"
+					"size"		"8E7308462A54ABEE4C7C0D265FF925D6"
+					"download"		"8E7308462A54ABEE4C7C0D265FF925D6"
+				}
+				"psvr_version"
+				{
+					"gid"		"26875220FCACCC8AB1285FE59E74D51E"
+					"size"		"3345C156199E9645F346A910B6DECAC1"
+					"download"		"3345C156199E9645F346A910B6DECAC1"
+				}
+				"vrmonkey_internal"
+				{
+					"gid"		"DE1D86139300022386E586933908AF9E"
+					"size"		"088E1AD8F997F49CF67B0FCC8ADA4172"
+					"download"		"088E1AD8F997F49CF67B0FCC8ADA4172"
+				}
+			}
+		}
+		"1112103"
+		{
+			"dlcappid"		"1378241"
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"973395146786842829"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal_playtesting"
+				{
+					"gid"		"82B0DA5BB346AC827AA2963B5A193FAE"
+					"size"		"77D739EF6AA816DEAF0486E494EA94F5"
+					"download"		"77D739EF6AA816DEAF0486E494EA94F5"
+				}
+				"patchtesting"
+				{
+					"gid"		"64106709535D0808F88DA0F90DCDFD1C"
+					"size"		"8E7308462A54ABEE4C7C0D265FF925D6"
+					"download"		"8E7308462A54ABEE4C7C0D265FF925D6"
+				}
+				"psvr_version"
+				{
+					"gid"		"CF41DCE7E1629F5FB4E8A9066A02ABA4"
+					"size"		"3345C156199E9645F346A910B6DECAC1"
+					"download"		"3345C156199E9645F346A910B6DECAC1"
+				}
+				"vrmonkey_internal"
+				{
+					"gid"		"61CE36BC23B3B2A26894420AB94BE303"
+					"size"		"088E1AD8F997F49CF67B0FCC8ADA4172"
+					"download"		"088E1AD8F997F49CF67B0FCC8ADA4172"
+				}
+			}
+		}
+		"1378240"
+		{
+			"dlcappid"		"1378240"
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4847456360046288425"
+					"size"		"15197"
+					"download"		"9216"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal_playtesting"
+				{
+					"gid"		"018884CA056584CBD63BA52097DF98BD"
+					"size"		"581911B7204B5B3BF07A8FC836DCA718"
+					"download"		"95331468BA1A5D2CC75CFFF091B5B3C3"
+				}
+				"patchtesting"
+				{
+					"gid"		"4AD89F5EDEB29D239BE905875BC37053"
+					"size"		"0A955EDD139C66BA1CDED003EB6A5424"
+					"download"		"F5A54F7ED1DF7E639061F98E60515A73"
+				}
+				"psvr_version"
+				{
+					"gid"		"E0CB03DB4A291D0A4627A6E6D215697F"
+					"size"		"67C6893E2491056B5DFC9CA0823FD039"
+					"download"		"5FAA1F5C48F1995EE1D337BD58F41C23"
+				}
+				"vrmonkey_internal"
+				{
+					"gid"		"D180E037F5239B96B14F7FD43EE425F7"
+					"size"		"C6DCA70C6E37159E14F81A83EFB79241"
+					"download"		"A0545235CDD8E276E0D3458F614DE21A"
+				}
+			}
+		}
+		"1378241"
+		{
+			"dlcappid"		"1378241"
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"586886287933143422"
+					"size"		"15206"
+					"download"		"9216"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal_playtesting"
+				{
+					"gid"		"34CD409445188AFE655BEE41F50FFDB5"
+					"size"		"59B0FE619BD65B314C4A217338E974BC"
+					"download"		"95331468BA1A5D2CC75CFFF091B5B3C3"
+				}
+				"patchtesting"
+				{
+					"gid"		"9582FEA06794D280D85CFB9F1B3203B0"
+					"size"		"70C53CEBB8AFCA48D809318B4E75CF23"
+					"download"		"F5A54F7ED1DF7E639061F98E60515A73"
+				}
+				"psvr_version"
+				{
+					"gid"		"ACF74F54A4850B8772DFE7EDB8F202AA"
+					"size"		"F6F03F763C74A207039F7A62A260E5AB"
+					"download"		"5FAA1F5C48F1995EE1D337BD58F41C23"
+				}
+				"vrmonkey_internal"
+				{
+					"gid"		"AF9BF539144B4320E06F37C8D64D48EB"
+					"size"		"383C2E1E1B37B6DAD277A366B04C0A93"
+					"download"		"A0545235CDD8E276E0D3458F614DE21A"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8664114"
+				"timeupdated"		"1653091994"
+			}
+			"internal_playtesting"
+			{
+				"buildid"		"6034678"
+				"pwdrequired"		"1"
+				"timeupdated"		"1609710165"
+			}
+			"patchtesting"
+			{
+				"buildid"		"6034678"
+				"pwdrequired"		"1"
+				"timeupdated"		"1609710173"
+			}
+			"psvr_version"
+			{
+				"buildid"		"7145771"
+				"pwdrequired"		"1"
+				"timeupdated"		"1628197254"
+			}
+			"vrmonkey_internal"
+			{
+				"buildid"		"8664114"
+				"pwdrequired"		"1"
+				"timeupdated"		"1651512057"
+			}
+		}
+	}
+}
