@@ -1,0 +1,573 @@
+"appinfo"
+{
+	"appid"		"585420"
+	"common"
+	{
+		"name"		"Trailmakers"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"logo"		"f26132cb8c1be4b5b7c8fd514b3fc9bd9feb192a"
+		"logo_small"		"f26132cb8c1be4b5b7c8fd514b3fc9bd9feb192a_thumb"
+		"icon"		"343fef058327a2fe514cac2e270fbdc581b05786"
+		"clienticon"		"b7e148d3e268b19040f5b4ffb2b54c46ff159495"
+		"clienttga"		"a46c2d7a7393553186f540168db5e792749a63bd"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"585420_eula_0"
+				"name"		"Trailmakers EULA"
+				"url"		"http://store.steampowered.com//eula/585420_eula_0"
+				"version"		"1"
+			}
+		}
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"polish"		"1"
+			"danish"		"1"
+			"brazilian"		"1"
+		}
+		"name_localized"
+		{
+			"schinese"		"机械制造者 Trailmakers"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1653436800"
+			"tested_build_id"		"8262638"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+				"proton_compat_config"		"nomfdxgiman,"
+			}
+		}
+		"metacritic_name"		"Trailmakers"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"38.075462256998264"
+				"height_pct"		"40.277777777777764"
+			}
+		}
+		"store_asset_mtime"		"1688728048"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Flashbulb"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Flashbulb"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"9"
+			"4"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_30"		"1"
+			"category_25"		"1"
+			"category_28"		"1"
+			"category_29"		"1"
+			"category_49"		"1"
+			"category_43"		"1"
+			"category_22"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"danish"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1568790480"
+		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"585420"
+		"store_tags"
+		{
+			"0"		"1664"
+			"1"		"1695"
+			"2"		"3859"
+			"3"		"92092"
+			"4"		"11104"
+			"5"		"13276"
+			"6"		"1669"
+			"7"		"1643"
+			"8"		"3810"
+			"9"		"3968"
+			"10"		"5363"
+			"11"		"3834"
+			"12"		"599"
+			"13"		"1685"
+			"14"		"1644"
+			"15"		"15045"
+			"16"		"699"
+			"17"		"1755"
+			"18"		"5752"
+			"19"		"19780"
+		}
+		"review_score"		"8"
+		"review_percentage"		"92"
+	}
+	"extended"
+	{
+		"absolutemousecoordinates"		"0"
+		"remoteplaytogethertestingbranches"		"manualtest,starburst"
+		"developer"		"Flashbulb"
+		"publisher"		"Flashbulb"
+		"homepage"		"http://www.playtrailmakers.com"
+		"listofdlc"		"1171470,1183540,1333570,1607390,2054110,2054120,2285970"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Trailmakers"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Trailmakers.exe"
+				"type"		"default"
+			}
+			"1"
+			{
+				"executable"		"Trailmakers.exe"
+				"arguments"		"-safemode -show-screen-selector -window-mode borderless"
+				"description"		"Safemode"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"585421"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7868502592313023064"
+					"size"		"8190773774"
+					"download"		"5838825520"
+				}
+				"expedition"
+				{
+					"gid"		"1401415892018513847"
+					"size"		"4821358676"
+					"download"		"1564907632"
+				}
+				"previous"
+				{
+					"gid"		"1381419920222693339"
+					"size"		"8190820823"
+					"download"		"5838817392"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"antidotetest"
+				{
+					"gid"		"53159BF200FB12BD618FD3C1D8385AA5"
+					"size"		"EA399BD51F5B7C3B9D679134511DABFB"
+					"download"		"48DA30014AF45AD58DF070CEE7DCC69A"
+				}
+				"burstcrashfix"
+				{
+					"gid"		"CCD8287D6A32C8D18E77EA702F472BC5"
+					"size"		"57D562678C86B2B1E4D78F35D8CAFEBD"
+					"download"		"CB5CD6EF8FA5D8053100D83C388A3597"
+				}
+				"cbtest"
+				{
+					"gid"		"553314BFCEEB7ED925C9095CBFDD10E6"
+					"size"		"1D1BBC8C1B8327EC59C05FCE985518D0"
+					"download"		"29601FD807C335AC4DFE6C3E0346FDC5"
+				}
+				"contentcreators"
+				{
+					"gid"		"502850C36B1F88ACD2D5FDE426976CF0"
+					"size"		"F772D3CCE749C5761CCAE463FF7C54FE"
+					"download"		"7212243D86603C7027709DAD7AC027A7"
+				}
+				"discord"
+				{
+					"gid"		"E02B341710364A08070C9041C7FA8C8F"
+					"size"		"09284B6D8C4FB645FB76BA274FA03152"
+					"download"		"32D24BA6D3F081BA2460A67696FCA7A3"
+				}
+				"feature"
+				{
+					"gid"		"0664A16E5AA5660F2A8096B2BE9808E2"
+					"size"		"D9D161730040AC10BCE2C5DE49602F64"
+					"download"		"621EC1BC3F1EB88D9214684EF88D1FF6"
+				}
+				"internaltest"
+				{
+					"gid"		"993654CE121DDFA4E246CB8E7EE2EA1A"
+					"size"		"66352E520F6EF05A172512195C9132E2"
+					"download"		"A1AD6A58ADD7FAB953D876A22DF120C0"
+				}
+				"main-bleedingedge"
+				{
+					"gid"		"59740C5EFDD5A7B9583C2F279CB7C675"
+					"size"		"4D92C683F2F464F484EB0D859190CCC1"
+					"download"		"C1AE53D2FDCC84425765A7ADC4DB72A4"
+				}
+				"main-bleedingedge-releasetest"
+				{
+					"gid"		"42D0D1A23682C3EB7E905B4B3E0D2DF2"
+					"size"		"84A2649E05751F5CE2BDA4E1E78150ED"
+					"download"		"0AA22E8A4521D5B7FA425B1CA0571F79"
+				}
+				"manualtest"
+				{
+					"gid"		"53F6EC45D9ACD1838BF661DD1CBEB16E"
+					"size"		"FDDEC618F92EDB35009DC3D851BF5B41"
+					"download"		"1693A036E71BDEF4070B5A1F5049338F"
+				}
+				"permanentbranch"
+				{
+					"gid"		"4F430C9502C4936249B2ECC1AA933A6D"
+					"size"		"77E9CF59D3E941BCB22A7397843B43B4"
+					"download"		"C9946940C273A04788BE338C7DDA3564"
+				}
+				"pre-alpha-demo"
+				{
+					"gid"		"020ABEE3EA143F08B5021D9C9490C94B"
+					"size"		"AE179338B51AD479606FEC39B3935F96"
+					"download"		"08735107899FE4ADEF9D2666E19CF503"
+				}
+				"releasecandidate"
+				{
+					"gid"		"2C8E93F676B4679C020F0E436ADA6EB2"
+					"size"		"72A46F36EFDC60A27C05FD48C03D29E2"
+					"download"		"8FC3D7AB258F1ABDEECB8AD90257E748"
+				}
+				"releasecandidate-releasetest"
+				{
+					"gid"		"0B64AACDAC93A11DF2A5D7917B7B91CB"
+					"size"		"F66C5B896BCA933AC20FF53B0D7A7FD3"
+					"download"		"8B95E40D8504E0B3C84379647A8C04BA"
+				}
+				"stabilizing"
+				{
+					"gid"		"1417842E0710E506BB6EF0F18E5D1661"
+					"size"		"6744A84A55C414C4F3E997B53D70FDE2"
+					"download"		"0A268D631878872C4F52844D7ADE0F65"
+				}
+				"stabilizing-releasetest"
+				{
+					"gid"		"CCB83C75B776E54DEFF62C41D04CE056"
+					"size"		"9A1F2E14D323EBF42D251B5F69DE5CD9"
+					"download"		"7AC39CC7650EFA552622FFEC157B8DD7"
+				}
+				"starburst"
+				{
+					"gid"		"9E22BD905D3768AE17CF9A962BB0E206"
+					"size"		"F69B5A32823AA639835839CB1734BF24"
+					"download"		"7C49358E80D633F12BAFCE9FBDD03755"
+				}
+				"starburstexternaltest"
+				{
+					"gid"		"9D90B407FC6D5677A962834611E3936E"
+					"size"		"A8F4C9583E9A8EFA2CE4E79CF1AB16FD"
+					"download"		"DA79BC726976F4C30BD7E2B8AA0481B2"
+				}
+				"teller"
+				{
+					"gid"		"657D31639D31909722244367329C2CAE"
+					"size"		"650A8795640D2905F92A0D2BF5737BDF"
+					"download"		"6BF99AC866500AEFBD355940A52DCF3B"
+				}
+			}
+		}
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,danish,brazilian"
+		"workshopdepot"		"585420"
+		"hasdepotsindlc"		"0"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11577781"
+				"timeupdated"		"1688048486"
+			}
+			"antidotetest"
+			{
+				"buildid"		"11060185"
+				"pwdrequired"		"1"
+				"timeupdated"		"1682344672"
+			}
+			"burstcrashfix"
+			{
+				"buildid"		"11577781"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687962141"
+			}
+			"cbtest"
+			{
+				"buildid"		"10493051"
+				"pwdrequired"		"1"
+				"timeupdated"		"1675770333"
+			}
+			"contentcreators"
+			{
+				"buildid"		"11060185"
+				"pwdrequired"		"1"
+				"timeupdated"		"1682348053"
+			}
+			"discord"
+			{
+				"buildid"		"12160895"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694449528"
+			}
+			"expedition"
+			{
+				"buildid"		"3350872"
+				"description"		"Permanent Expedition"
+				"timeupdated"		"1553591392"
+			}
+			"feature"
+			{
+				"buildid"		"3439068"
+				"pwdrequired"		"1"
+				"timeupdated"		"1546471232"
+			}
+			"internaltest"
+			{
+				"buildid"		"10200101"
+				"pwdrequired"		"1"
+				"timeupdated"		"1671787739"
+			}
+			"main-bleedingedge"
+			{
+				"buildid"		"12177290"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694601803"
+			}
+			"main-bleedingedge-releasetest"
+			{
+				"buildid"		"12050336"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693234004"
+			}
+			"manualtest"
+			{
+				"buildid"		"12139037"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694160453"
+			}
+			"permanentbranch"
+			{
+				"buildid"		"5988153"
+				"pwdrequired"		"1"
+				"timeupdated"		"1608643466"
+			}
+			"pre-alpha-demo"
+			{
+				"buildid"		"1741379"
+				"pwdrequired"		"1"
+				"timeupdated"		"1516197121"
+			}
+			"previous"
+			{
+				"buildid"		"11517274"
+				"description"		"Previous build"
+				"timeupdated"		"1688048442"
+			}
+			"releasecandidate"
+			{
+				"buildid"		"11577781"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687952215"
+			}
+			"releasecandidate-releasetest"
+			{
+				"buildid"		"10922571"
+				"pwdrequired"		"1"
+				"timeupdated"		"1683198252"
+			}
+			"stabilizing"
+			{
+				"buildid"		"12033664"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692976865"
+			}
+			"stabilizing-releasetest"
+			{
+				"buildid"		"11146023"
+				"pwdrequired"		"1"
+				"timeupdated"		"1683118841"
+			}
+			"starburst"
+			{
+				"buildid"		"12173323"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694561214"
+			}
+			"starburstexternaltest"
+			{
+				"buildid"		"12063214"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693387793"
+			}
+			"teller"
+			{
+				"buildid"		"12173907"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694591669"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"1000"
+		"hidecloudui"		"1"
+		"ignoreexternalfiles"		"1"
+	}
+}
