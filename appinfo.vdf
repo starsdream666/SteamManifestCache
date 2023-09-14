@@ -1,0 +1,320 @@
+"appinfo"
+{
+	"appid"		"2007010"
+	"common"
+	{
+		"name"		"Welcome To The Backrooms"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64,macosapplesilicon"
+		"icon"		"518c027385cfb32cc051be196db078db71701a98"
+		"clienttga"		"030f41ec6f927370535720dbcd6a6f44175d7b22"
+		"linuxclienticon"		"f62697ae62fc7bbb0177e761de20dcb1a99d6c13"
+		"clienticon"		"bb6d0a0c737085679704eb6616f3ffd60f74194d"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"41.81395348837208"
+				"height_pct"		"57.29806941184586"
+			}
+		}
+		"store_asset_mtime"		"1667617134"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Brickmade Productions"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Brickmade Productions "
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"3"
+			"4"		"2"
+			"5"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_15"		"1"
+			"category_30"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1666897260"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2007010"
+		"store_tags"
+		{
+			"0"		"3854"
+			"1"		"4175"
+			"2"		"1667"
+			"3"		"42804"
+			"4"		"3834"
+			"5"		"1695"
+			"6"		"6730"
+			"7"		"1646"
+			"8"		"19"
+			"9"		"5125"
+			"10"		"9"
+			"11"		"3839"
+			"12"		"4191"
+			"13"		"6869"
+			"14"		"7332"
+			"15"		"1720"
+			"16"		"4231"
+			"17"		"1721"
+			"18"		"6426"
+			"19"		"6971"
+		}
+		"review_score"		"6"
+		"review_percentage"		"75"
+	}
+	"extended"
+	{
+		"developer"		"Brickmade Productions"
+		"publisher"		"Brickmade Productions "
+		"homepage"		"https://sites.google.com/view/brickmade-productions/home?authuser=1&amp;read_current=1"
+	}
+	"config"
+	{
+		"installdir"		"Welcome To The Backrooms"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Welcome To The Backrooms.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Welcome To The Backrooms MACOS Edition.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"2"
+		"steamcontrollertouchtemplateindex"		"9"
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"7"
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2007011"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8236555985661030799"
+					"size"		"1263279759"
+					"download"		"524201776"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"multiplayertest"
+				{
+					"gid"		"082097696FDF55124D78E7507AE18D56"
+					"size"		"AE205B5CF4B8AA4D1F1F95ABEFCA6B4C"
+					"download"		"499486DFA8798592EBE827D85108B460"
+				}
+				"unstable"
+				{
+					"gid"		"C1E397423AE1A5F8BAE610BB59F3AC87"
+					"size"		"0E23D1F47F40391F17AB3ED4402ADAC9"
+					"download"		"C55123D0683440407930DD0D7CBFE8C4"
+				}
+			}
+		}
+		"2007012"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6816735657715576528"
+					"size"		"1288638471"
+					"download"		"531807664"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"multiplayertest"
+				{
+					"gid"		"6F252015B31A97925DC3329FC4FFB661"
+					"size"		"401D878F449E1F334B8C7104A2398840"
+					"download"		"37C7D7D25A05F84F8DF586A81BFA6CBE"
+				}
+				"unstable"
+				{
+					"gid"		"B7F959F27A13C93C437DF151D0BBD99C"
+					"size"		"325FF4728C7703BD6F2C98AE9C81AE42"
+					"download"		"90EBF5D24C894808ED20C938147E54A4"
+				}
+			}
+		}
+		"2007013"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2927870713662562208"
+					"size"		"1280444175"
+					"download"		"528051488"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"multiplayertest"
+				{
+					"gid"		"9E19407C0AE15FBAC3976B328DD931AE"
+					"size"		"AE205B5CF4B8AA4D1F1F95ABEFCA6B4C"
+					"download"		"E28C91CE6363556F448715B88D77A717"
+				}
+				"unstable"
+				{
+					"gid"		"A6FD5CA2888F3D0953A5811D59B42F7E"
+					"size"		"0E23D1F47F40391F17AB3ED4402ADAC9"
+					"download"		"32DF5E78C562856B60FEAE112CD54607"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10027483"
+				"timeupdated"		"1674159552"
+			}
+			"multiplayertest"
+			{
+				"buildid"		"11127384"
+				"pwdrequired"		"1"
+				"timeupdated"		"1682896082"
+			}
+			"unstable"
+			{
+				"buildid"		"10394610"
+				"pwdrequired"		"1"
+				"timeupdated"		"1674593924"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"52428800"
+		"maxnumfiles"		"1"
+		"sync_while_suspended"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Brickmade Productions/Welcome To The Backrooms/SaveData"
+				"pattern"		"*.wttbdata"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"1"
+			{
+				"root"		"MacAppSupport"
+				"path"		"Brickmade Productions/Welcome To The Backrooms/SaveData"
+				"pattern"		"*.wttbdata"
+				"platforms"
+				{
+					"1"		"MacOS"
+				}
+			}
+		}
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#roaming"		"Roaming: %roamingstatus%"
+					"#athome"		"At Home"
+					"#mainscreen"		"At The Main Menu"
+				}
+			}
+		}
+	}
+}
