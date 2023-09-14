@@ -1,0 +1,169 @@
+"appinfo"
+{
+	"appid"		"809730"
+	"common"
+	{
+		"name"		"FISHERY"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"logo"		"063c6ab19803e857c6c6fd80200d3d4a6fa450dd"
+		"logo_small"		"063c6ab19803e857c6c6fd80200d3d4a6fa450dd_thumb"
+		"icon"		"efde4e3c35b82043d65d7e3e4c762b2be6aaf28a"
+		"clienttga"		"872cf31f4b0c41286924fa3d37a8f7b1114a067d"
+		"linuxclienticon"		"b2a37df4adb806787b36dae9e8e61d5bb066cde8"
+		"clienticns"		"86808e77a8cbb52c640407835957b1e7660d3875"
+		"clienticon"		"d5cd5a36e7a3eeed106bca54d6d0e6a8046003d3"
+		"releasestate"		"released"
+		"osextended"		""
+		"metacritic_name"		"Fishery"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1688065434"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Lilou Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Lilou Studio"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"28"
+			"3"		"2"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1569518600"
+		"community_hub_visible"		"1"
+		"gameid"		"809730"
+		"store_tags"
+		{
+			"0"		"4191"
+			"1"		"3834"
+			"2"		"9204"
+			"3"		"3810"
+			"4"		"1036"
+			"5"		"4400"
+			"6"		"12472"
+			"7"		"30358"
+			"8"		"9157"
+			"9"		"3968"
+			"10"		"9"
+			"11"		"1654"
+			"12"		"599"
+			"13"		"4252"
+			"14"		"5350"
+			"15"		"4562"
+			"16"		"4182"
+			"17"		"493"
+			"18"		"492"
+			"19"		"4726"
+		}
+		"review_score"		"8"
+		"review_percentage"		"88"
+	}
+	"extended"
+	{
+		"developer"		"Lilou Studio"
+		"publisher"		"Lilou Studio"
+		"homepage"		"http://www.fishery-game.com"
+	}
+	"config"
+	{
+		"installdir"		"Fishery"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Fishery.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"809734"
+		{
+			"config"
+			{
+				"osarch"		"64"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7522533657893508471"
+					"size"		"1479717042"
+					"download"		"627625968"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"private_beta"
+				{
+					"gid"		"2BFB1BADC71DF05D51C3260EE07D8A0F"
+					"size"		"39F0C877066F35B5ABE868C156CF965C"
+					"download"		"2D310A056564D50D6739471607F6C005"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11609428"
+				"timeupdated"		"1688322144"
+			}
+			"private_beta"
+			{
+				"buildid"		"4324860"
+				"pwdrequired"		"1"
+				"timeupdated"		"1572019051"
+			}
+		}
+	}
+}
