@@ -1,0 +1,297 @@
+"appinfo"
+{
+	"appid"		"626250"
+	"common"
+	{
+		"name"		"Consortium: THE TOWER"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"logo"		"7052dc4b6b367c4ea940db4024a7c3f3a23ee4f8"
+		"logo_small"		"7052dc4b6b367c4ea940db4024a7c3f3a23ee4f8_thumb"
+		"icon"		"e31449935804a91adfdecd311c4b2fa5e5db0e47"
+		"clienticon"		"00feaf7af43d53e62ecf793f604931611c1f87d2"
+		"clienttga"		"71ab02080301b4af13da8b6cd36174511347234a"
+		"releasestate"		"released"
+		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1687392000"
+			"tested_build_id"		"4522825"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"5"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-2"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Consortium: The Tower"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"49.53325554259043"
+				"height_pct"		"57.21918784136784"
+			}
+		}
+		"store_asset_mtime"		"1577173235"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Interdimensional Games Inc"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Interdimensional Games Inc"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Consortium iDGi1"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"3"
+			"4"		"28"
+			"5"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_13"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1506046520"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"626250"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"493"
+			"2"		"9204"
+			"3"		"492"
+			"4"		"19"
+			"5"		"21"
+			"6"		"599"
+			"7"		"3942"
+			"8"		"4182"
+			"9"		"6426"
+			"10"		"1663"
+			"11"		"1742"
+			"12"		"3839"
+		}
+		"review_score"		"5"
+		"review_percentage"		"50"
+	}
+	"extended"
+	{
+		"developer"		"Interdimensional Games Inc"
+		"publisher"		"Interdimensional Games Inc"
+		"homepage"		"http://thetowergame.com"
+	}
+	"config"
+	{
+		"installdir"		"Consortium The Tower"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"thetower.exe"
+				"description"		"Windows 64bit Version"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"626251"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7474935164155181934"
+					"size"		"5128028550"
+					"download"		"1119169584"
+				}
+				"alphatest"
+				{
+					"gid"		"1995596499370838299"
+					"size"		"5127448482"
+					"download"		"1119071824"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"backertester"
+				{
+					"gid"		"9F249BBF01E618AF960563A82A5A2668"
+					"size"		"C83A320B7E29C0871565062404FFC855"
+					"download"		"A54E1373969B7B608D7FA393DFED5F7E"
+				}
+				"figbacker"
+				{
+					"gid"		"9C312300351C4C641F2CE23DB363ACCA"
+					"size"		"E26DA6D05AF8AA22418C307C39E3501E"
+					"download"		"FA08768FA1937567EDAA5D1AEACC7F8A"
+				}
+				"internal"
+				{
+					"gid"		"62D8F21FD31E0B237F73DDC0062F36E2"
+					"size"		"C41BB0F36E0CF28B9D454EF8F44CEAC6"
+					"download"		"D637C74B663F1811D39EFDD22DE3637C"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4522825"
+				"timeupdated"		"1682145114"
+			}
+			"alphatest"
+			{
+				"buildid"		"4519365"
+				"timeupdated"		"1577134050"
+			}
+			"backertester"
+			{
+				"buildid"		"4522825"
+				"pwdrequired"		"1"
+				"timeupdated"		"1577135498"
+			}
+			"figbacker"
+			{
+				"buildid"		"4522825"
+				"pwdrequired"		"1"
+				"timeupdated"		"1577135510"
+			}
+			"internal"
+			{
+				"buildid"		"4522825"
+				"pwdrequired"		"1"
+				"timeupdated"		"1682145138"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"6000000000"
+		"maxnumfiles"		"6000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"thetower/Saved/csav"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
