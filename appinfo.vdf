@@ -1,0 +1,180 @@
+"appinfo"
+{
+	"appid"		"1795770"
+	"common"
+	{
+		"name"		"Pretty Girls Rivers (Shisen-Sho)"
+		"type"		"Game"
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"japanese"		"1"
+		}
+		"logo"		"b40d932cf45f3255beefdbf4eb6401c917021c50"
+		"logo_small"		"b40d932cf45f3255beefdbf4eb6401c917021c50_thumb"
+		"icon"		"e10b8ac532d407e6f4e4ea34f063eb132019711f"
+		"clienticon"		"b8406f816323f259fcaaefc8a7bf4b28ae1ea1ae"
+		"clienttga"		"2e8cd9ad01be94a7597503520d56ec0a08ad1b0e"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"87.08145333649964"
+			}
+		}
+		"store_asset_mtime"		"1675241273"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Zoo Corporation"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Zoo Corporation"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Zoo Corporation"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_25"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1638492783"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1795770"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"4726"
+			"2"		"4085"
+			"3"		"1664"
+			"4"		"1773"
+			"5"		"13070"
+			"6"		"5154"
+			"7"		"12095"
+			"8"		"17389"
+			"9"		"4182"
+			"10"		"3871"
+			"11"		"5379"
+		}
+		"review_score"		"7"
+		"review_percentage"		"83"
+	}
+	"extended"
+	{
+		"developer"		"Zoo Corporation"
+		"publisher"		"Zoo Corporation"
+		"homepage"		"https://game.zoo.jp/"
+	}
+	"config"
+	{
+		"installdir"		"Pretty Girls Rivers"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"PGRivers.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"1795771"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6778579918668674619"
+					"size"		"505618607"
+					"download"		"82683760"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7774351"
+				"timeupdated"		"1637807173"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000"
+		"maxnumfiles"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"_save"
+				"pattern"		"SavDat.sav"
+			}
+		}
+	}
+}
