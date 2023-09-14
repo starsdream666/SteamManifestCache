@@ -1,0 +1,183 @@
+"appinfo"
+{
+	"appid"		"644760"
+	"common"
+	{
+		"name"		"Streetball VR"
+		"type"		"Game"
+		"releasestate"		"released"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"1"
+			}
+		}
+		"oslist"		"windows"
+		"osarch"		""
+		"openvrsupport"		"1"
+		"logo"		"64be6f2ae61ed4dd49111f9d9a641368b3be91a0"
+		"logo_small"		"64be6f2ae61ed4dd49111f9d9a641368b3be91a0_thumb"
+		"icon"		"b994d7da361569e927f17e4a467c30d56eb069f5"
+		"clienttga"		"f0260b505f761de9112a3cf6596650772975969c"
+		"clienticon"		"29ca462f69db88dcf58f92992673edabc6adbbec"
+		"othervrsupport"		"1"
+		"othervrsupport_rift_13"		"1"
+		"metacritic_name"		"Streetball VR"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1495788326"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Indiecode Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Indiecode Games"
+			}
+		}
+		"primary_genre"		"18"
+		"genres"
+		{
+			"0"		"28"
+			"1"		"18"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_52"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1496386800"
+		"steam_release_date"		"1496357518"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"644760"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"701"
+			"1"		"599"
+			"2"		"21978"
+		}
+		"review_score"		"5"
+		"review_percentage"		"53"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Indiecode Games"
+		"publisher"		"Indiecode Games"
+		"listofdlc"		"645960"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Streetball VR"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Streetball_VR.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english"
+		"645969"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1535500914556381186"
+					"size"		"664792211"
+					"download"		"606204144"
+				}
+			}
+		}
+		"645960"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"optionaldlc"		"645960"
+			}
+			"dlcappid"		"645960"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6827291766864365016"
+					"size"		"173172319"
+					"download"		"166718400"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2586738"
+				"timeupdated"		"1520511326"
+			}
+		}
+		"appmanagesdlc"		"1"
+	}
+}
