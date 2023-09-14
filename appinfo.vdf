@@ -1,0 +1,407 @@
+"appinfo"
+{
+	"appid"		"1330000"
+	"common"
+	{
+		"name"		"Stolen Realm"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"5ceba06d8ea873761681b8a6eb7853e3fbc90a3f"
+		"logo_small"		"5ceba06d8ea873761681b8a6eb7853e3fbc90a3f_thumb"
+		"icon"		"dd56c7ce9b583d89d0aeeeb2a59b19c70658c20a"
+		"clienticon"		"2be43891d859ee5009e666787912d3d2cdfaced2"
+		"clienttga"		"c92a56e37d2ead3734c5c48a894a412c2371f613"
+		"clienticns"		"f016e0243f67bfcecae7c889e641419f319a44e3"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64"
+		"name_localized"
+		{
+			"german"		"Stolen Realm"
+			"schinese"		"失落王国"
+			"tchinese"		"失落王国"
+			"french"		"Royaume Volé"
+			"koreana"		"빼앗긴 왕국"
+			"spanish"		"El Reino Robado"
+			"japanese"		"ストーレンレルム"
+			"latam"		"El Reino Robado"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1649203200"
+			"tested_build_id"		"8316484"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+			"german"		"capsule_231x87_german.jpg"
+			"french"		"capsule_231x87_french.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"koreana"		"capsule_231x87_koreana.jpg"
+			"spanish"		"capsule_231x87_spanish.jpg"
+			"latam"		"capsule_231x87_latam.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+			"french"		"header_french.jpg"
+			"german"		"header_german.jpg"
+			"japanese"		"header_japanese.jpg"
+			"koreana"		"header_koreana.jpg"
+			"spanish"		"header_spanish.jpg"
+			"latam"		"header_latam.jpg"
+			"tchinese"		"header_tchinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn,zh-tw,fr,ja,ko,es,es-419,de"
+			"library_hero"		"en"
+			"library_logo"		"en,zh-cn,zh-tw,de,fr,ja,ko,es,es-419"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"28.139534883720955"
+				"height_pct"		"60.86440275469009"
+			}
+		}
+		"store_asset_mtime"		"1689771444"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Burst2Flame Entertainment"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Burst2Flame Entertainment"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"3"
+			"2"		"2"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_27"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_44"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1634224172"
+		"community_hub_visible"		"1"
+		"gameid"		"1330000"
+		"store_tags"
+		{
+			"0"		"14139"
+			"1"		"10695"
+			"2"		"21725"
+			"3"		"4474"
+			"4"		"1741"
+			"5"		"122"
+			"6"		"4747"
+			"7"		"9"
+			"8"		"3843"
+			"9"		"4325"
+			"10"		"3859"
+			"11"		"4791"
+			"12"		"1708"
+			"13"		"4236"
+			"14"		"21"
+			"15"		"3841"
+			"16"		"1770"
+			"17"		"4155"
+			"18"		"17389"
+			"19"		"4182"
+		}
+		"review_score"		"8"
+		"review_percentage"		"88"
+	}
+	"extended"
+	{
+		"developer"		"Burst2Flame Entertainment"
+		"publisher"		"Burst2Flame Entertainment"
+	}
+	"config"
+	{
+		"installdir"		"Stolen Realm"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Stolen Realm.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Stolen Realm.app"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1330001"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1054786653074064164"
+					"size"		"7057823548"
+					"download"		"1001485760"
+				}
+				"beta"
+				{
+					"gid"		"1054786653074064164"
+					"size"		"7057823548"
+					"download"		"1001485760"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"817276A497532FEAD046F36DF6C8BAC4"
+					"size"		"7C29BE354D316E8A3A0235FFB06CA49E"
+					"download"		"D197B65ED903E823CF5D325AF07B6AC1"
+				}
+				"modalpha"
+				{
+					"gid"		"91D94AAA60F2A4F143CD2E5276566217"
+					"size"		"EFEC07564712D33D0BBEFD705F6085A7"
+					"download"		"ADFF49639C21B5054E4956F4D1BA2DD9"
+				}
+				"steamdeck"
+				{
+					"gid"		"8B8E593B90C3FBAAD30CB8A88C7EB038"
+					"size"		"A32AB1E75E3308547314556FB496E0FB"
+					"download"		"4D6E9AA0267BE3AF4B04DCB10049B387"
+				}
+			}
+		}
+		"1330002"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7656068735892149611"
+					"size"		"7121600586"
+					"download"		"1012055568"
+				}
+				"beta"
+				{
+					"gid"		"7656068735892149611"
+					"size"		"7121600586"
+					"download"		"1012055568"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"48E48C877FBC40A0C88A0D4A696548DF"
+					"size"		"5AEC997BC7201CB93BAEDA18849CE502"
+					"download"		"606E85E52C4F115F568F930A4519CF4F"
+				}
+				"modalpha"
+				{
+					"gid"		"FC41A9769442F923F129491750798E14"
+					"size"		"C508E3E77ADACB54E545778DD40FD01A"
+					"download"		"CC7A32D7472B3B1A06CFBDB87907245D"
+				}
+				"steamdeck"
+				{
+					"gid"		"C5C9663B5E3539EAE35E8544FCD6756E"
+					"size"		"DBC1C5D26FD3C5B4D741A17B6D3F0283"
+					"download"		"F92545275A9B79A00403245455FDA87E"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12136830"
+				"timeupdated"		"1694128320"
+			}
+			"alpha"
+			{
+				"buildid"		"12136830"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694128304"
+			}
+			"beta"
+			{
+				"buildid"		"12136830"
+				"description"		"Beta"
+				"timeupdated"		"1694128329"
+			}
+			"modalpha"
+			{
+				"buildid"		"12136830"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694128341"
+			}
+			"steamdeck"
+			{
+				"buildid"		"8086081"
+				"pwdrequired"		"1"
+				"timeupdated"		"1643236545"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Burst2Flame Entertainment/Stolen Realm"
+				"pattern"		"*.json"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Burst2Flame Entertainment/Stolen Realm"
+						"replace"		"Burst2Flame Entertainment/Stolen Realm"
+					}
+				}
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Burst2Flame Entertainment/Stolen Realm"
+						"replace"		"com.Burst2FlameEntertainment.StolenRealm"
+					}
+				}
+			}
+		}
+	}
+}
