@@ -1,0 +1,179 @@
+"appinfo"
+{
+	"appid"		"1459210"
+	"common"
+	{
+		"name"		"L'intrépide, le futur de l'imparfait"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"e813f38a4d9f8ea43b41aec4ac3449a886638024"
+		"logo"		"6e236f65e28746787b53382321263caebbc041de"
+		"logo_small"		"6e236f65e28746787b53382321263caebbc041de_thumb"
+		"clienttga"		"35eb8d89930548a1b6941f564f9cbe99683286ce"
+		"clienticon"		"ed50bdc714b5e7db3eb886a694413de860f259b0"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"french"		"capsule_231x87_french.jpg"
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"french"		"header_french.jpg"
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"55.93023255813954"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1615575214"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Alexis Hernandez"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Gökhan Unalan"
+			}
+			"2"
+			{
+				"type"		"developer"
+				"name"		"Gaëtan Galati"
+			}
+			"3"
+			{
+				"type"		"developer"
+				"name"		"Ludus Académie"
+			}
+			"4"
+			{
+				"type"		"publisher"
+				"name"		"Artificial Captain"
+			}
+			"5"
+			{
+				"type"		"publisher"
+				"name"		"Ludus Académie"
+			}
+			"6"
+			{
+				"type"		"franchise"
+				"name"		"L'intrépide"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1617253190"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1459210"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"21"
+			"2"		"4106"
+			"3"		"1773"
+			"4"		"1625"
+			"5"		"1628"
+			"6"		"5379"
+			"7"		"3871"
+			"8"		"3964"
+			"9"		"1719"
+			"10"		"1654"
+			"11"		"5350"
+			"12"		"4136"
+			"13"		"3835"
+			"14"		"5752"
+			"15"		"4004"
+			"16"		"3916"
+			"17"		"3993"
+			"18"		"1759"
+			"19"		"6869"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Alexis Hernandez"
+		"publisher"		"Artificial Captain"
+		"homepage"		"https://lintrepide.turbointeractive.fr"
+	}
+	"config"
+	{
+		"installdir"		"L'intrépide, le futur de l'imparfait"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"L'intrépide.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"french"
+		"1459212"
+		{
+			"config"
+			{
+				"language"		"french"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7513449650355058890"
+					"size"		"219192828"
+					"download"		"85285232"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6498692"
+				"timeupdated"		"1617747839"
+			}
+		}
+	}
+}
