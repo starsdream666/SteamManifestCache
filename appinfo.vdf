@@ -1,0 +1,301 @@
+"appinfo"
+{
+	"appid"		"1199370"
+	"common"
+	{
+		"name"		"Gleamlight"
+		"type"		"Game"
+		"logo"		"4c0aef9b28e88ffe6ef9fcfe85765bd4cd160e0f"
+		"logo_small"		"4c0aef9b28e88ffe6ef9fcfe85765bd4cd160e0f_thumb"
+		"icon"		"e59e834cd334b1c83acd7b5ee057af498b4dc68e"
+		"clienttga"		"94749bcb568119d1a1bd82179e283560c4089278"
+		"clienticon"		"41a6257abf30ed3b0d3f0acf32047868e161f1c6"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"portuguese"		"1"
+			"brazilian"		"1"
+			"latam"		"1"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1651795200"
+			"tested_build_id"		"6444307"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"1"
+			}
+		}
+		"metacritic_name"		"Gleamlight"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"93.46557759626606"
+				"height_pct"		"86.32153882688198"
+			}
+		}
+		"store_asset_mtime"		"1624333891"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"DICO"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"D3PUBLISHER"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1597921370"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1199370"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"492"
+			"2"		"21"
+			"3"		"4604"
+			"4"		"4166"
+			"5"		"4182"
+			"6"		"3871"
+			"7"		"1742"
+		}
+		"review_score"		"5"
+		"review_percentage"		"42"
+	}
+	"extended"
+	{
+		"developer"		"DICO"
+		"publisher"		"D3PUBLISHER"
+	}
+	"config"
+	{
+		"installdir"		"Gleamlight"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Gleamlight.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1199371"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2970058099060798565"
+					"size"		"1610577267"
+					"download"		"364104032"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"d3ptest"
+				{
+					"gid"		"5322BE509ADC039CD1C236618DEED9A7"
+					"size"		"1DF626118A8E0CAF7290C096885089BF"
+					"download"		"12522602E8377BB5DB3AAA521C7FE820"
+				}
+				"development"
+				{
+					"gid"		"833FB1667CDE3FCC3B97942B5F727A59"
+					"size"		"B95346E7D49FCA4732C2A77608E42D5F"
+					"download"		"CEC686C8B7871304497AD4CB350EA22C"
+				}
+				"keyboard"
+				{
+					"gid"		"0BAD03FFBCA355BAF51E7CA34D78E046"
+					"size"		"887B6DB70BC29AD1E5F79A2822CFFC9C"
+					"download"		"7EEE90AF80B65F7AA6B9522849FAC46D"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6444307"
+				"timeupdated"		"1623886932"
+			}
+			"d3ptest"
+			{
+				"buildid"		"6010630"
+				"pwdrequired"		"1"
+				"timeupdated"		"1611539656"
+			}
+			"development"
+			{
+				"buildid"		"6444307"
+				"pwdrequired"		"1"
+				"timeupdated"		"1616751429"
+			}
+			"keyboard"
+			{
+				"buildid"		"6010630"
+				"pwdrequired"		"1"
+				"timeupdated"		"1611540224"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1048576"
+		"maxnumfiles"		"20"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"D3Publisher/Gleamlight/"
+				"pattern"		"*.sav"
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"D3PUBLISHER INC_/Gleamlight/"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
