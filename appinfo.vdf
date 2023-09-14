@@ -1,0 +1,183 @@
+"appinfo"
+{
+	"appid"		"438310"
+	"common"
+	{
+		"name"		"SCORE "
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"clienttga"		"c3e4bf01b73961abd09c194263bf61d4cb54729e"
+		"clienticon"		"2cf977a82b41705b2f746c53005b4e080704acc0"
+		"icon"		"b9fe41e532e0ab43b4d48c5224dc2098fc2c40c6"
+		"logo"		"ca480f75730a8f22cacdadb720a1b90291219cc0"
+		"logo_small"		"ca480f75730a8f22cacdadb720a1b90291219cc0_thumb"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"438310_eula_0"
+				"name"		"SCORE  EULA"
+				"url"		"http://store.steampowered.com//eula/438310_eula_0"
+			}
+		}
+		"metacritic_name"		"SCORE"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1488963025"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"TecEh! Studios"
+			}
+		}
+		"primary_genre"		"18"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"28"
+			"2"		"18"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_30"		"1"
+			"category_36"		"1"
+			"category_27"		"1"
+			"category_18"		"1"
+			"category_38"		"1"
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_49"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1467702000"
+		"steam_release_date"		"1467774213"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"438310"
+		"store_tags"
+		{
+			"0"		"493"
+			"1"		"599"
+			"2"		"701"
+			"3"		"19"
+		}
+		"review_score"		"4"
+		"review_percentage"		"38"
+	}
+	"extended"
+	{
+		"developer"		"TecEh! Studios"
+		"homepage"		"http://www.score-thegame.com/"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"SCORE"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Score.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"SCORE.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"438311"
+		{
+			"config"
+			{
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1479478460858640704"
+					"size"		"295227637"
+					"download"		"119625856"
+				}
+			}
+		}
+		"438312"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9009550221466734088"
+					"size"		"22054290119"
+					"download"		"5838169824"
+				}
+			}
+		}
+		"438313"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5455605257170388528"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2360558"
+				"timeupdated"		"1513076792"
+			}
+		}
+	}
+}
