@@ -1,0 +1,328 @@
+"appinfo"
+{
+	"appid"		"1808900"
+	"common"
+	{
+		"name"		"GRAND CROSS: ReNOVATION"
+		"type"		"Game"
+		"logo"		"7a3e4a03faf0663f0e68f52c047472bf1ba5103b"
+		"logo_small"		"7a3e4a03faf0663f0e68f52c047472bf1ba5103b_thumb"
+		"icon"		"2e7755f14a02356b2665edc6740c61901a6896a0"
+		"clienticon"		"de926d715f201dd2b7594a6237d685dbae383236"
+		"clienttga"		"21276201d710f0ef9d80942f9fa396b8bd3106b2"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1688774400"
+			"tested_build_id"		"8252186"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"1"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-2"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"1"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"75.94667227612621"
+				"height_pct"		"77.90424252324904"
+			}
+		}
+		"store_asset_mtime"		"1674459077"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"ES4 / Eternal Sphere 4"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Henteko Doujin"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Henteko Doujin"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"japanese"
+			{
+				"subtitles"		"true"
+				"supported"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1642672162"
+		"community_hub_visible"		"1"
+		"gameid"		"1808900"
+		"store_tags"
+		{
+			"0"		"4255"
+			"1"		"4885"
+			"2"		"19"
+			"3"		"4305"
+			"4"		"1774"
+			"5"		"1625"
+			"6"		"1755"
+			"7"		"3871"
+			"8"		"7481"
+			"9"		"4821"
+			"10"		"3964"
+			"11"		"4791"
+			"12"		"5752"
+			"13"		"3854"
+			"14"		"6691"
+			"15"		"597"
+			"16"		"3942"
+			"17"		"1673"
+			"18"		"3916"
+			"19"		"1678"
+		}
+		"review_score"		"8"
+		"review_percentage"		"94"
+	}
+	"extended"
+	{
+		"developer"		"ES4 / Eternal Sphere 4"
+		"publisher"		"Henteko Doujin"
+	}
+	"config"
+	{
+		"installdir"		"Grand Cross Renovation"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"Key_Config.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"228981"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228982"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228984"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229000"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1808901"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7399708601644091578"
+					"size"		"311886745"
+					"download"		"241841152"
+				}
+				"beta"
+				{
+					"gid"		"5977199737998300375"
+					"size"		"355676009"
+					"download"		"284516336"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closedbeta"
+				{
+					"gid"		"7AF9B139D9F2C5CF2604F2461C610CEF"
+					"size"		"605CB19F5ECED268ABE56766157B29FB"
+					"download"		"EB007393ED9BA10C7EE3E11E2335B8FB"
+				}
+			}
+		}
+		"baselanguages"		"japanese"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10415780"
+				"timeupdated"		"1674806766"
+			}
+			"beta"
+			{
+				"buildid"		"11990113"
+				"description"		"Beta version"
+				"timeupdated"		"1692604281"
+			}
+			"closedbeta"
+			{
+				"buildid"		"10415780"
+				"pwdrequired"		"1"
+				"timeupdated"		"1674803685"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"200000000"
+		"maxnumfiles"		"40"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"."
+				"pattern"		"*.bin"
+			}
+			"1"
+			{
+				"root"		"gameinstall"
+				"path"		"."
+				"pattern"		"*.INI"
+			}
+		}
+	}
+}
