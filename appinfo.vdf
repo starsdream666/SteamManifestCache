@@ -1,0 +1,265 @@
+"appinfo"
+{
+	"appid"		"1787160"
+	"common"
+	{
+		"name"		"Cupid Nonogram"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64"
+		"logo"		"c7bdcaa821f49123db23403e6d30320b7a07bfdd"
+		"logo_small"		"c7bdcaa821f49123db23403e6d30320b7a07bfdd_thumb"
+		"icon"		"821b970063b1fa6bc7ecdcbb42525343d0b5c385"
+		"clienticon"		"b0a4e8ea26b78f6ef74340aeb2dfde74ec8bfe28"
+		"clienttga"		"b0d94e0d9e24dd9dd4a090c78da67915cd7943de"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1650672000"
+			"tested_build_id"		"7839510"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"49.685944534015164"
+				"height_pct"		"83.45829467093779"
+			}
+		}
+		"store_asset_mtime"		"1653336989"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Supernova Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Supernova Games"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Cupid Island"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1637346724"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1787160"
+		"store_tags"
+		{
+			"0"		"4726"
+			"1"		"1654"
+			"2"		"1664"
+			"3"		"6129"
+			"4"		"597"
+			"5"		"4305"
+			"6"		"3871"
+			"7"		"1684"
+			"8"		"4057"
+			"9"		"4947"
+			"10"		"4085"
+			"11"		"4182"
+			"12"		"97376"
+			"13"		"552282"
+			"14"		"492"
+			"15"		"5611"
+		}
+		"review_score"		"8"
+		"review_percentage"		"93"
+	}
+	"extended"
+	{
+		"developer"		"Supernova Games"
+		"publisher"		"Supernova Games"
+		"homepage"		"http://supernova.games/"
+	}
+	"config"
+	{
+		"installdir"		"Cupid Nonogram"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Cupid Nonogram.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Game.app"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1787161"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3965916216430725579"
+					"size"		"259705223"
+					"download"		"35625056"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"0413C74C57948889860961602EF88DD3"
+					"size"		"90C7FD6495698BAA6A718AAF32F57465"
+					"download"		"55E4ABFA943DDFFF465617DC00D30643"
+				}
+			}
+		}
+		"1787162"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8640985636056619236"
+					"size"		"266716285"
+					"download"		"37816720"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"E18FBE483314012AC382BF6D47CB9D29"
+					"size"		"2EE749198E6A9DF759944777024A4EE1"
+					"download"		"5669895D782F833FD819819969B19D2D"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7839510"
+				"timeupdated"		"1638855718"
+			}
+			"beta"
+			{
+				"buildid"		"7839510"
+				"pwdrequired"		"1"
+				"timeupdated"		"1638855318"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000"
+		"maxnumfiles"		"5"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"Save Files"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
