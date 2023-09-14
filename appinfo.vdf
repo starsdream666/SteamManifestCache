@@ -1,0 +1,228 @@
+"appinfo"
+{
+	"appid"		"2082560"
+	"common"
+	{
+		"name"		"Mutagenic"
+		"type"		"Game"
+		"releasestate"		"released"
+		"icon"		"ec8a20313d9c17b4b72893d7df5e1f47cc975bae"
+		"clienttga"		"1dfc0fbcf630ec8d2753482e65395a965154a18d"
+		"clienticon"		"03edb785e012a56cec0feb423395bad539b5021e"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64,macosapplesilicon,macosnotarized"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"76.62790697674419"
+				"height_pct"		"43.160769413441"
+			}
+		}
+		"store_asset_mtime"		"1677884453"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"zediven"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"zediven"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"23"
+			"3"		"3"
+			"4"		"2"
+			"5"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_25"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1660055700"
+		"steam_deck_blog_url"		"https://steamcommunity.com/app/2082560/discussions/0/6431726046920798117/"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2082560"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"42804"
+			"2"		"3871"
+			"3"		"493"
+			"4"		"19"
+			"5"		"492"
+			"6"		"3964"
+			"7"		"1684"
+			"8"		"1662"
+			"9"		"5796"
+			"10"		"3993"
+			"11"		"4182"
+			"12"		"4231"
+			"13"		"3959"
+			"14"		"4885"
+			"15"		"1720"
+			"16"		"4057"
+			"17"		"7481"
+			"18"		"5125"
+			"19"		"4236"
+		}
+		"review_score"		"7"
+		"review_percentage"		"94"
+	}
+	"extended"
+	{
+		"developer"		"zediven"
+		"publisher"		"zediven"
+	}
+	"config"
+	{
+		"installdir"		"Mutagenic"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Mutagenic.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Mutagenics.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"2"
+			{
+				"executable"		"Mutagenic.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"65535"
+	}
+	"depots"
+	{
+		"2082561"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9045620887166071448"
+					"size"		"70914672"
+					"download"		"24386192"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"286E66E2801A7D502ACB91334DA4CB33"
+					"size"		"7B143137AF416F76B62691912D108847"
+					"download"		"8B763C0ABBE567187F315702AD90B925"
+				}
+			}
+		}
+		"2082562"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7356617515752176090"
+					"size"		"134820577"
+					"download"		"45837776"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"A4565E53CA480BB31752FC9A9705D956"
+					"size"		"AD59256238E25F21018247318E1B0C1F"
+					"download"		"177F58B4DA76D6A09C6895BFE10434A9"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10816633"
+				"timeupdated"		"1679368801"
+			}
+			"beta"
+			{
+				"buildid"		"12116954"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693950143"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"500"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"SavesDir"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
