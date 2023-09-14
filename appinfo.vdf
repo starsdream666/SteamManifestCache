@@ -1,0 +1,169 @@
+"appinfo"
+{
+	"appid"		"1348270"
+	"common"
+	{
+		"name"		"Fingers: Mini Games"
+		"type"		"Game"
+		"releasestate"		"released"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"standing"		"1"
+		}
+		"logo"		"a8b1aea74ec433aafe782f9ca65a3e73c244254b"
+		"logo_small"		"a8b1aea74ec433aafe782f9ca65a3e73c244254b_thumb"
+		"icon"		"25d70f19075178ad4a88703702ca77e9f01dfd9b"
+		"clienttga"		"f9f4670f5ca6c2f6f2139d8aee5fbaf781e06e38"
+		"clienticon"		"2ea638b284cf43c18662f7ee0dcf8078b71c4255"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"openvrsupport"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"25.61260210035006"
+				"height_pct"		"43.54072666824982"
+			}
+		}
+		"store_asset_mtime"		"1667002033"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Mozai Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Mozai Games"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_52"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1593859490"
+		"community_hub_visible"		"1"
+		"gameid"		"1348270"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"1664"
+			"2"		"1770"
+			"3"		"21978"
+			"4"		"5350"
+			"5"		"6129"
+			"6"		"3968"
+			"7"		"492"
+			"8"		"4182"
+		}
+		"review_score"		"7"
+		"review_percentage"		"96"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Mozai Games"
+		"publisher"		"Mozai Games"
+	}
+	"config"
+	{
+		"installdir"		"FingersMiniGames"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"FingersMiniGames/FingersMiniGames.exe"
+				"workingdir"		"FingersMiniGames"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1348271"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5367215762186158476"
+					"size"		"693523156"
+					"download"		"166055456"
+				}
+				"beta"
+				{
+					"gid"		"5367215762186158476"
+					"size"		"693523156"
+					"download"		"166055456"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5306526"
+				"timeupdated"		"1595246075"
+			}
+			"beta"
+			{
+				"buildid"		"5306526"
+				"timeupdated"		"1595163637"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+	}
+}
