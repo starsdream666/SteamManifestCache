@@ -1,0 +1,246 @@
+"appinfo"
+{
+	"appid"		"510390"
+	"common"
+	{
+		"name"		"Unknown Fate"
+		"type"		"Game"
+		"logo"		"661b579f276161e30c4b8236759090a869e56372"
+		"logo_small"		"661b579f276161e30c4b8236759090a869e56372_thumb"
+		"clienticon"		"0ae2b2ac20f101c8b6e27d8c9fb3e6ca5bdb9282"
+		"clienttga"		"50e1a5dd4ecd149b443a99406fe601c1bcc4a332"
+		"icon"		"4182fea8d5591ae375f6d4639a4e31117dce9413"
+		"oslist"		"windows"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"xinput"		"1"
+			"kbm"		"1"
+		}
+		"playareavr"
+		{
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"releasestate"		"released"
+		"openvrsupport"		"1"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"spanish"		"1"
+			"russian"		"1"
+		}
+		"metacritic_name"		"Unknown Fate"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"45.215869311551934"
+				"height_pct"		"73.17739254333887"
+			}
+		}
+		"store_asset_mtime"		"1668510955"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Marslit Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Fulqrum Publishing"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Fulqrum"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_43"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_52"		"1"
+			"category_53"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1536253264"
+		"metacritic_score"		"48"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/unknown-fate?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"510390"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"492"
+			"2"		"21978"
+			"3"		"1742"
+		}
+		"review_score"		"5"
+		"review_percentage"		"65"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Marslit Games"
+		"publisher"		"Fulqrum Publishing"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Unknown Fate"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"UnknownFate.exe"
+				"type"		"default"
+			}
+			"1"
+			{
+				"executable"		"UnkownFateVR.exe"
+				"type"		"vr"
+			}
+		}
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228987"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229006"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"510391"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4490113393341621984"
+					"size"		"8046525122"
+					"download"		"2218324288"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"4B01667781095E9963B4A8BACD05D7EB"
+					"size"		"F8FF9363AD6584C9CF46A0FA99D9E72C"
+					"download"		"32079BC3C35530EEA96FAC35DAD8EE4E"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3313135"
+				"timeupdated"		"1542388052"
+			}
+			"beta"
+			{
+				"buildid"		"3313135"
+				"pwdrequired"		"1"
+				"timeupdated"		"1542359273"
+			}
+		}
+	}
+}
