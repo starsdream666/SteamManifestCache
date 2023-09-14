@@ -1,0 +1,488 @@
+"appinfo"
+{
+	"appid"		"923140"
+	"common"
+	{
+		"name"		"Elven Magic"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"icon"		"801b7699824bcf9caf9a6d5854803d5aa2bfdb87"
+		"logo"		"bbd15f23f9c484a7424d4f7a085be1a4040ebad5"
+		"logo_small"		"bbd15f23f9c484a7424d4f7a085be1a4040ebad5_thumb"
+		"clienttga"		"6bb9faeabc0ee672f5448601c75f9e5c4730bece"
+		"linuxclienticon"		"400da8cdd94de8241756c109e664bf9aab9e5c3d"
+		"clienticns"		"27d9012ba9c4e9b5e03cab7f0435725c441e75e8"
+		"clienticon"		"b7dc1a992e5baac3b8aefc9624677ad632f8c3c6"
+		"osextended"		"macos64"
+		"name_localized"
+		{
+			"english"		"Elven Magic: The Witch, The Elf & The Fairy"
+		}
+		"metacritic_name"		"Elven Magic"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1680027724"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Daniel Chay"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Daniel Chay"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1533970800"
+		"steam_release_date"		"1680027783"
+		"community_hub_visible"		"1"
+		"gameid"		"923140"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"1702"
+			"2"		"1684"
+			"3"		"1646"
+			"4"		"6276"
+			"5"		"4182"
+			"6"		"4057"
+			"7"		"4018"
+			"8"		"21"
+			"9"		"4791"
+			"10"		"4231"
+			"11"		"17305"
+			"12"		"21725"
+			"13"		"1697"
+			"14"		"493"
+			"15"		"4747"
+			"16"		"4155"
+			"17"		"1669"
+			"18"		"8945"
+			"19"		"7368"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Daniel Chay"
+		"publisher"		"Daniel Chay"
+		"homepage"		"http://www.elvenmagicgame.com"
+		"listofdlc"		"923151,923152,1018890"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Elven Magic"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ElvenMagicProWin.exe"
+				"workingdir"		"\\"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"ElvenMagicProMAConMAC.app\\Contents\\MacOS\\ElvenMagicProMAConMAC"
+				"workingdir"		"ElvenMagicProMAConMAC.app\\Contents\\MacOS\\"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"ElvenMagic2MAConMAC.app\\Contents\\MacOS\\ElvenMagic2MacOnMac"
+				"workingdir"		"ElvenMagic2MAConMAC.app\\Contents\\MacOS\\"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"3"
+			{
+				"executable"		"ElvenMagic2Win.exe"
+				"workingdir"		"\\"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"4"
+			{
+				"executable"		"\\ElvenMagicSE\\ElvenMagicSEWin.exe"
+				"workingdir"		"\\ElvenMagicSE\\"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"5"
+			{
+				"executable"		"ElvenMagicSEMAConMAC.app\\Contents\\MacOS\\EMMMORPGKIT "
+				"workingdir"		"ElvenMagicSEMAConMAC.app\\Contents\\MacOS"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"6"
+		"steamcontrollertouchtemplateindex"		"8"
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"1"
+		"baselanguages"		"english"
+		"null"
+		{
+			"depotfromapp"		"923152"
+		}
+		"923141"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4234542078819799030"
+					"size"		"9089467388"
+					"download"		"3850465552"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devcomp"
+				{
+					"gid"		"F2A8C5B9D60F48252EAFDED13AC65917"
+					"size"		"4BC5B0A9C5D3B35DF0A8F4B48871E640"
+					"download"		"55FFD3358AC0DCFD1BD8A9E5380ED2CC"
+				}
+				"store"
+				{
+					"gid"		"97E7963A3975CFF6EAB816FFA9D2BFC5"
+					"size"		"0E9F04A6A08D2668ACB1455E9F0A72BB"
+					"download"		"47E1A5B68C9E563786BE56AFC0A0DCDB"
+				}
+			}
+		}
+		"923152"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"macos"
+			}
+			"dlcappid"		"923152"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"291358241831738552"
+					"size"		"3697329430"
+					"download"		"1503808528"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devcomp"
+				{
+					"gid"		"2E11E9C7F547CD1751FA857FF8FB1700"
+					"size"		"B3A4881D8DB9F18BEB21A23F3C46BA60"
+					"download"		"B3C7C38663D6D8E8588748B03215DBB6"
+				}
+				"store"
+				{
+					"gid"		"0337FA8E45942B1D0B176BF550759482"
+					"size"		"D6E36D54967723F2F41A458DBADF26E2"
+					"download"		"DF53C9B6AD2BC2B87AB67987A25A9038"
+				}
+			}
+		}
+		"923155"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6439288551702002726"
+					"size"		"7737478928"
+					"download"		"3108742416"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devcomp"
+				{
+					"gid"		"78A517AA05154093FD82E5916709BD78"
+					"size"		"97AC4502A225C45C02ECA3D0A8F54C41"
+					"download"		"69822D1805F1DAF108F0A08C03EF7410"
+				}
+				"store"
+				{
+					"gid"		"73A5284DA7D8E448F5D05708E793C10C"
+					"size"		"F71CF12AAA0621C0114E46FE600E60F3"
+					"download"		"468EA7207F971379FAA58A23F271EE29"
+				}
+			}
+		}
+		"923142"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"dlcappid"		"923151"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5003654309841799942"
+					"size"		"7155541984"
+					"download"		"2481903280"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devcomp"
+				{
+					"gid"		"6780BC21E19A358408124F05D4718A77"
+					"size"		"CF7CEF7E81146E1AD08FBEA7F17FF2C4"
+					"download"		"1DDDC2BC0CD36655B528F31BDE099088"
+				}
+				"store"
+				{
+					"gid"		"F0CF5F27EE795194D2746CB0298E3780"
+					"size"		"5E87EF3A85B8CB33A32D4C0F1C2B439B"
+					"download"		"771577A9287BA967EF300FA006EE6277"
+				}
+			}
+		}
+		"923143"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"dlcappid"		"923153"
+		}
+		"923144"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"macos"
+			}
+			"dlcappid"		"923151"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7681123237074298470"
+					"size"		"5702548057"
+					"download"		"1967167312"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devcomp"
+				{
+					"gid"		"871D92F162DA74FF07E056C3F64520D2"
+					"size"		"CE1D6E6A9CCE18346B6EA798FBFB315C"
+					"download"		"D4D68892BBF8AF77163D6F7FAE45FCED"
+				}
+				"store"
+				{
+					"gid"		"D89CD4AA939444B5E4A1218DE9547DFF"
+					"size"		"1D7DFAD097B682BCA0EA13033F5EC630"
+					"download"		"67DAC81F7FE6092B949BCEF7F38C952D"
+				}
+			}
+		}
+		"923145"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"macos"
+			}
+			"dlcappid"		"923153"
+		}
+		"923146"
+		{
+		}
+		"923147"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"dlcappid"		"923152"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"648970958998024763"
+					"size"		"4519620235"
+					"download"		"1819995360"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devcomp"
+				{
+					"gid"		"57667AF05EADB89426FE084B28336A21"
+					"size"		"9C1CA57B2169230BAD18A1E457497F84"
+					"download"		"1B36F0D8DA65D698274026C344A68EE1"
+				}
+				"store"
+				{
+					"gid"		"BF9FDBA2BD92E838BD399D83E06BA601"
+					"size"		"8A9701D216D0B5740BC614BE7ACE18E6"
+					"download"		"DD0C846F93DBB2C9D6BF7916FBE1756B"
+				}
+			}
+		}
+		"923148"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"dlcappid"		"923151"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5020872003667662191"
+					"size"		"749700175"
+					"download"		"350256864"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devcomp"
+				{
+					"gid"		"DADE71244A79AFE2410A10CC287C6ECC"
+					"size"		"B6DD956FE2AAA2C012561D4B372231D7"
+					"download"		"88DAF87E823DBDE4E1C4BC1AC446BB94"
+				}
+				"store"
+				{
+					"gid"		"15AEE856A756CCF5AE276976E0C5C79F"
+					"size"		"B02D2CFB0FB1F491F9C7FFD50C031C70"
+					"download"		"DC2CE37DA317893B3D61D164B25F4402"
+				}
+			}
+		}
+		"923149"
+		{
+			"dlcappid"		"923151"
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4718579637826468739"
+					"size"		"773139179"
+					"download"		"359724096"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devcomp"
+				{
+					"gid"		"EE5007AA0FECFF2651630DE274E836E0"
+					"size"		"223C9E3D30EC21131F6A8B921CABEF05"
+					"download"		"D6135B81D86090C4E7CDFB0F30FD780B"
+				}
+				"store"
+				{
+					"gid"		"FE0703544B26F3421E465A6DC32AFA41"
+					"size"		"196AF43665D13510E5D703A1BED42FCA"
+					"download"		"40F195A1CB4AA00C618940D3B23809CC"
+				}
+			}
+		}
+		"923154"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"dlcappid"		"923150"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11989007"
+				"timeupdated"		"1692589522"
+			}
+			"devcomp"
+			{
+				"buildid"		"11989006"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692589662"
+			}
+			"store"
+			{
+				"buildid"		"11989006"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692589511"
+			}
+		}
+	}
+}
