@@ -1,0 +1,180 @@
+"appinfo"
+{
+	"appid"		"1840330"
+	"common"
+	{
+		"name"		"Dummy Falls"
+		"type"		"Game"
+		"logo"		"36d3025b75289b0c50235e201bfd037f046b0fe0"
+		"logo_small"		"36d3025b75289b0c50235e201bfd037f046b0fe0_thumb"
+		"icon"		"402cf3d559cc891d157703e80d21b6558c1bbcf3"
+		"clienttga"		"d4fa1c59a879e6e7e4e60342da44a016c5d0175e"
+		"clienticon"		"e561d9b56963ca49129c7445a7ceaceb2740742d"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1689015903"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Waltteri"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Waltteri"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_15"		"1"
+			"category_25"		"1"
+			"category_22"		"1"
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1692299231"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1840330"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"5395"
+			"2"		"19"
+			"3"		"1685"
+			"4"		"17389"
+			"5"		"1625"
+			"6"		"8666"
+			"7"		"3877"
+			"8"		"1697"
+			"9"		"5537"
+			"10"		"4036"
+			"11"		"492"
+			"12"		"4305"
+			"13"		"29363"
+			"14"		"3859"
+			"15"		"4191"
+			"16"		"4094"
+			"17"		"4136"
+			"18"		"1662"
+			"19"		"1775"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Waltteri"
+		"publisher"		"Waltteri"
+	}
+	"config"
+	{
+		"installdir"		"Dummy Falls"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"DummyFalls.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1840331"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4006051660105303219"
+					"size"		"703457085"
+					"download"		"472771568"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"developer"
+				{
+					"gid"		"7CEB751FDEE2A94232B86D136E36D9B4"
+					"size"		"D9908EFD89F1EA2CE93C6706E2738231"
+					"download"		"920521BCC7F5F5E8CB3231C766CD9A9A"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11788369"
+				"timeupdated"		"1690340387"
+			}
+			"developer"
+			{
+				"buildid"		"11788369"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690340381"
+			}
+		}
+	}
+}
