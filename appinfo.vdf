@@ -1,0 +1,300 @@
+"appinfo"
+{
+	"appid"		"1086410"
+	"common"
+	{
+		"name"		"Golf Around!"
+		"type"		"Game"
+		"logo"		"cf70acaaf9bbff64afacf414840e6bc66bcefb93"
+		"logo_small"		"cf70acaaf9bbff64afacf414840e6bc66bcefb93_thumb"
+		"icon"		"437a798f2051b748fed81921b2916af73b73f08c"
+		"clienttga"		"4c83c8372d0128f55bcc331c56567123fd76109a"
+		"clienticon"		"84eec6c453dc9f2a87bd952b286d6760d4c75181"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"brazilian"		"1"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1660176000"
+			"tested_build_id"		"7383818"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"market_presence"		"1"
+		"metacritic_name"		"Golf Around!"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"81.97199533255542"
+				"height_pct"		"68.99786274044169"
+			}
+		}
+		"store_asset_mtime"		"1634649796"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Steve Hough"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Steve Hough"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"28"
+			"3"		"18"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_36"		"1"
+			"category_27"		"1"
+			"category_22"		"1"
+			"category_30"		"1"
+			"category_17"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1607114978"
+		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1086410"
+		"store_tags"
+		{
+			"0"		"701"
+			"1"		"597"
+			"2"		"599"
+			"3"		"492"
+			"4"		"7038"
+			"5"		"22955"
+			"6"		"3859"
+		}
+		"review_score"		"8"
+		"review_percentage"		"94"
+	}
+	"extended"
+	{
+		"developer"		"Steve Hough"
+		"publisher"		"Steve Hough"
+		"homepage"		"https://www.golfaroundgame.com/"
+	}
+	"config"
+	{
+		"installdir"		"GolfAround"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"GolfAround.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"GolfAround.app\\Contents\\MacOS\\GolfAround"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"workshopdepot"		"1086410"
+		"1086411"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3212933490011310897"
+					"size"		"3633354008"
+					"download"		"1248603376"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"4BE671E12810FE3F6A41304C72259AFF"
+					"size"		"00F26B6E6B2965CFD694934CFF08F1CF"
+					"download"		"CD2DC4CF037C0F17B2E9AF11647400EF"
+				}
+			}
+		}
+		"1086412"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8039132680311235871"
+					"size"		"3646583216"
+					"download"		"1255899328"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"56246CEDBD9B1F6890AD628BF28FB570"
+					"size"		"CD4C41304A0F4402B9FCE148FB1A9F3D"
+					"download"		"3B2BAF7B21BB94E0E9B15F9F05DCEB6A"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7383818"
+				"timeupdated"		"1631996595"
+			}
+			"testing"
+			{
+				"buildid"		"7383818"
+				"pwdrequired"		"1"
+				"timeupdated"		"1631995800"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"2500000000"
+		"maxnumfiles"		"1000"
+	}
+}
