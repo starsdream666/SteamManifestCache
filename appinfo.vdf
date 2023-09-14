@@ -1,0 +1,338 @@
+"appinfo"
+{
+	"appid"		"718720"
+	"common"
+	{
+		"name"		"DEATHPIT 3000"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"clienttga"		"2e02190006653b34a4ddff46b950008ba0cacc0a"
+		"clienticon"		"6d7237fc908be3e0d0cd47be0b9d8f8be33c51bb"
+		"icon"		"496b575d938dcab92d4f2b5ea2ec368f707af974"
+		"linuxclienticon"		"6d7237fc908be3e0d0cd47be0b9d8f8be33c51bb"
+		"clienticns"		"6d7237fc908be3e0d0cd47be0b9d8f8be33c51bb"
+		"logo"		"bbbf53a77f8a9b456fd9c0fd0fdd89f1aa617453"
+		"logo_small"		"bbbf53a77f8a9b456fd9c0fd0fdd89f1aa617453_thumb"
+		"releasestate"		"released"
+		"osextended"		"macos64"
+		"metacritic_name"		"DEATHPIT 3000"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"55.16561766835114"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1667019471"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Cyberlamb Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Cyberlamb Studios"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_27"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_28"		"1"
+			"category_48"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"original_release_date"		"1512115200"
+		"steam_release_date"		"1512155558"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"718720"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"492"
+			"2"		"4637"
+			"3"		"597"
+			"4"		"3841"
+			"5"		"3942"
+			"6"		"5547"
+		}
+		"review_score"		"6"
+		"review_percentage"		"79"
+	}
+	"extended"
+	{
+		"developer"		"Cyberlamb Studios"
+		"publisher"		"Cyberlamb Studios"
+		"homepage"		"https://www.cyberlambstudios.com/deathpit3000"
+	}
+	"config"
+	{
+		"installdir"		"DEATHPIT 3000"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"dp3k.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Contents\\MacOS\\dp3k"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"dp3k.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigdetails"
+		{
+			"1258429047"
+			{
+				"controller_type"		"controller_steamcontroller_gordon"
+				"enabled_branches"		"default,beta,zenkomode"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"718721"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5000249039584134290"
+					"size"		"801166463"
+					"download"		"134539840"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"FFC13D290A3BB083CEABD95D524D5D7A"
+					"size"		"8AA004494920F5E99F117EFE6AE003AA"
+					"download"		"43BD2696191517F703CAB89CB02311DB"
+				}
+				"dpx1"
+				{
+					"gid"		"04741D28A3ED547B092718E9EC55D90D"
+					"size"		"EEFDE2B583999D9B82B01A28E7E81F47"
+					"download"		"05D9756BE051EE84B966BCF8AE9A9CA2"
+				}
+				"escaperealitymode"
+				{
+					"gid"		"DC2243253B0E60B1D74DEF8825D4A0DD"
+					"size"		"690336D891DA88A51CB9E42118B34CC3"
+					"download"		"0448D11A554F3719773547F7A6BED9B0"
+				}
+				"showcasemode"
+				{
+					"gid"		"6C2E3F3475D6FFDEE559A306932D6F1C"
+					"size"		"52FBB2F0813B0AC87BA9FC2E320622CE"
+					"download"		"9FA0759811D27EAE71E4D49CC777BB70"
+				}
+			}
+		}
+		"718722"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8704792734958896840"
+					"size"		"811796727"
+					"download"		"137489088"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"54EFEC289231F2B9E9DB48D23521DF85"
+					"size"		"9BF24E7205246CAEE24A366BF7957537"
+					"download"		"255301FF06DD2E8C87576A42D46927F2"
+				}
+				"dpx1"
+				{
+					"gid"		"9E749AAB1A01071F9D1628AF9ADE6A17"
+					"size"		"DB5DA8CF3766C40001741651B05A1CBA"
+					"download"		"215C1CC1EFFF9CF42E1CB85A17DD5891"
+				}
+				"escaperealitymode"
+				{
+					"gid"		"32F8EF9B590A215902A16670522CC3E3"
+					"size"		"C4FFEF10EAFF67A3B5EC542253158BD6"
+					"download"		"936F346A98ED228E4FCB6DB98A86863D"
+				}
+				"showcasemode"
+				{
+					"gid"		"35FDAD88E0554BA68247DB5143298011"
+					"size"		"B1E7F3C3C3B1B9940CF6E11D40FC1AC4"
+					"download"		"DCF3357AE916DB2351FEF98311D3D00C"
+				}
+			}
+		}
+		"718723"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6602965607606167930"
+					"size"		"809396865"
+					"download"		"137914800"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"9C0A4AD24AA8113711A051303C8ACD9D"
+					"size"		"8F36969D7B705FA40A9932C537D888F9"
+					"download"		"F334B6426887440600268EC32D12A9AD"
+				}
+				"dpx1"
+				{
+					"gid"		"63BCD935C24AA87C809B15F523E2B8CB"
+					"size"		"9D2F4E35834981E9F6492BD564ADA158"
+					"download"		"086804EA04499EF9ED5C143A054A9FFD"
+				}
+				"escaperealitymode"
+				{
+					"gid"		"10515FA0CF5196A9EEC1645B818C4663"
+					"size"		"90CC545530DEA33194B43C1F23541B7C"
+					"download"		"715EB72DF80256E001765316E5A5E5B1"
+				}
+				"showcasemode"
+				{
+					"gid"		"3BF2FD2CB6711FCB9352506268D2741A"
+					"size"		"5AFADD2A365A167137EA48048DE8ABAC"
+					"download"		"C14D43CE9C4C2A61E35463011ACF7F2B"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2865065"
+				"timeupdated"		"1529071024"
+			}
+			"beta"
+			{
+				"buildid"		"5133214"
+				"pwdrequired"		"1"
+				"timeupdated"		"1591574717"
+			}
+			"dpx1"
+			{
+				"buildid"		"5446760"
+				"pwdrequired"		"1"
+				"timeupdated"		"1598118529"
+			}
+			"escaperealitymode"
+			{
+				"buildid"		"3102026"
+				"pwdrequired"		"1"
+				"timeupdated"		"1536343376"
+			}
+			"showcasemode"
+			{
+				"buildid"		"2862279"
+				"pwdrequired"		"1"
+				"timeupdated"		"1528998394"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Cyberlamb Studios/DEATHPIT 3000"
+				"pattern"		"*.txt"
+			}
+		}
+		"rootoverrides"
+		{
+			"1"
+			{
+				"root"		"gameinstall"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"addpath"		"~Library/Application Support/Cyberlamb Studios/DEATHPIT 3000"
+			}
+		}
+	}
+}
