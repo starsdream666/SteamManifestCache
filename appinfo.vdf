@@ -1,0 +1,417 @@
+"appinfo"
+{
+	"appid"		"1031480"
+	"common"
+	{
+		"name"		"TouHou Makuka Sai ~ Fantastic Danmaku Festival Part II"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"cbde9711a69826670292d44a2c091ae2204fe9f3"
+		"logo_small"		"cbde9711a69826670292d44a2c091ae2204fe9f3_thumb"
+		"icon"		"8a89e280f5a199ed033a327e75f446180dca817a"
+		"clienticon"		"0e6f3e9b4d2772da82d04c0e8bd2b6949d239ba5"
+		"clienttga"		"06e03fe1bf6f208ac0ef71db6eed2fed3051d9b9"
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+		}
+		"name_localized"
+		{
+			"japanese"		"東方幕華祭 春雪篇"
+			"tchinese"		"東方幕華祭 春雪篇"
+			"schinese"		"东方幕华祭 春雪篇"
+		}
+		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1692230400"
+			"tested_build_id"		"7951449"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"1"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"1"
+			}
+		}
+		"metacritic_name"		"東方幕華祭 春雪篇 ～ Fantastic Danmaku Festival Part II"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+		}
+		"header_image"
+		{
+			"schinese"		"header_schinese.jpg"
+			"english"		"header.jpg"
+			"tchinese"		"header_tchinese.jpg"
+			"japanese"		"header_japanese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn,zh-tw,ja"
+			"library_hero"		"en"
+			"library_logo"		"en,zh-cn,zh-tw,ja"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"61.24757595345831"
+				"height_pct"		"71.18055555555556"
+			}
+		}
+		"store_asset_mtime"		"1619571783"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"东方幕华祭制作组"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"东方幕华祭制作组"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_18"		"1"
+			"category_23"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1552895991"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1031480"
+		"store_tags"
+		{
+			"0"		"4885"
+			"1"		"492"
+			"2"		"180368"
+			"3"		"4255"
+			"4"		"1756"
+			"5"		"4085"
+			"6"		"4026"
+			"7"		"7208"
+			"8"		"4182"
+			"9"		"3871"
+		}
+		"review_score"		"9"
+		"review_percentage"		"97"
+	}
+	"extended"
+	{
+		"developer"		"东方幕华祭制作组"
+		"publisher"		"东方幕华祭制作组"
+		"gamemanualurl"		"https://store.steampowered.com/manual/1031480/"
+	}
+	"config"
+	{
+		"installdir"		"Touhou FDF Part II"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"custom.exe"
+				"description"		"Starter"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"1"
+		"baselanguages"		"english,schinese,russian,japanese"
+		"229003"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229005"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229012"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1031481"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1830858565975922913"
+					"size"		"419952285"
+					"download"		"282957248"
+				}
+				"1.01"
+				{
+					"gid"		"335807023451727926"
+					"size"		"367472330"
+					"download"		"243755920"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"41046053D39FD45AFF40A6188C85B964"
+					"size"		"2C139FC97A21466FED708E70301E1475"
+					"download"		"D1C816C76310841131056EF5102F1D5D"
+				}
+			}
+		}
+		"1031482"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		"english"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5394155128817464244"
+					"size"		"420269933"
+					"download"		"282894720"
+				}
+				"1.01"
+				{
+					"gid"		"2613449830973381568"
+					"size"		"361214866"
+					"download"		"241433328"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"DDD85F1262E238D25394ACC1AFFC4951"
+					"size"		"AE04468AF0748FBF8C66E4149002B835"
+					"download"		"AA5507CDB8F2143AC1A9570EAC6AFD6A"
+				}
+			}
+		}
+		"1031483"
+		{
+			"config"
+			{
+				"language"		"japanese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7239449519932098764"
+					"size"		"417576421"
+					"download"		"281761200"
+				}
+				"1.01"
+				{
+					"gid"		"8071284346300760162"
+					"size"		"360841114"
+					"download"		"241053440"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"31DDACFF25C705A96C42E81CF504DD71"
+					"size"		"3C60F6EAB903C4023CD9206BC86F626F"
+					"download"		"912F0F7C43861031DD9F9294071113F4"
+				}
+			}
+		}
+		"1031484"
+		{
+			"config"
+			{
+				"language"		"schinese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2822661500426962099"
+					"size"		"419952285"
+					"download"		"282956032"
+				}
+				"1.01"
+				{
+					"gid"		"4710367321586461262"
+					"size"		"367472330"
+					"download"		"243754672"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"E53A26B1ECDD89437277411D4063019B"
+					"size"		"2C139FC97A21466FED708E70301E1475"
+					"download"		"F534A13B6BD6A4FC8E81B5858F5BF566"
+				}
+			}
+		}
+		"1031485"
+		{
+			"config"
+			{
+				"language"		"russian"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2918282659690732849"
+					"size"		"416975309"
+					"download"		"281730224"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"B09A3A34AE07CCAB373A4B87928590AC"
+					"size"		"97453C57E8DC2F4B3B7642A648E03B75"
+					"download"		"D5E91EA4A4B52A1923A599ADE90D5220"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7951449"
+				"timeupdated"		"1640826624"
+			}
+			"1.01"
+			{
+				"buildid"		"3685100"
+				"timeupdated"		"1562391054"
+			}
+			"test"
+			{
+				"buildid"		"7951449"
+				"pwdrequired"		"1"
+				"timeupdated"		"1640793263"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"200"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"Content/Data"
+				"pattern"		"4.xna"
+			}
+			"1"
+			{
+				"root"		"gameinstall"
+				"path"		"Content/Data"
+				"pattern"		"5.xna"
+			}
+			"2"
+			{
+				"root"		"gameinstall"
+				"path"		"Content/Data"
+				"pattern"		"8.xna"
+			}
+			"3"
+			{
+				"root"		"gameinstall"
+				"path"		"Content/Music"
+				"pattern"		"00.xna"
+			}
+			"4"
+			{
+				"root"		"gameinstall"
+				"path"		"Replay"
+				"pattern"		"*.rpy"
+			}
+		}
+	}
+}
