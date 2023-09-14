@@ -1,0 +1,324 @@
+"appinfo"
+{
+	"appid"		"873980"
+	"common"
+	{
+		"name"		"Isle of Skye"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"clienticon"		"3a7964dac9d14dd4e72c5a81af2804cc7749c04b"
+		"clienttga"		"0ef3a6b100a41c50c4d65c42fc7e41b1b57b0e18"
+		"icon"		"632bd9d97e648821836bbf091f63e35932190467"
+		"logo"		"d1f01fc57392b4609ed24a1229efa24f9bd5c5a1"
+		"logo_small"		"d1f01fc57392b4609ed24a1229efa24f9bd5c5a1_thumb"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"873980_eula_0"
+				"name"		"Isle of Skye EULA"
+				"url"		"https://store.steampowered.com//eula/873980_eula_0"
+			}
+		}
+		"metacritic_name"		"Isle of Skye"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1692974834"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"DIGIDICED"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Twin Sails Interactive"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Twin Sails Interactive"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_22"		"1"
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_37"		"1"
+			"category_32"		"1"
+			"category_23"		"1"
+			"category_49"		"1"
+			"category_44"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1532588692"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"873980"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"9"
+			"2"		"492"
+			"3"		"1770"
+		}
+		"review_score"		"5"
+		"review_percentage"		"67"
+	}
+	"extended"
+	{
+		"developer"		"DIGIDICED"
+		"publisher"		"Twin Sails Interactive"
+		"homepage"		"http://www.asmodee-digital.com/fr/isle-skye/"
+	}
+	"config"
+	{
+		"installdir"		"Isle of Skye"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ixs.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"ixs.app"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"ixs.x86"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"32"
+				}
+			}
+			"3"
+			{
+				"executable"		"ixs.x86_64"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"873981"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4904755285148384689"
+					"size"		"405543847"
+					"download"		"105782464"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"A1D62370D409F1D69B12F15F601F05C8"
+					"size"		"0C5322D143E977BB7D20302C254FD010"
+					"download"		"968A1BD3EE77DA356425FE5D6F1BEC1C"
+				}
+			}
+		}
+		"873982"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5926018439608281973"
+					"size"		"430115845"
+					"download"		"111454784"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"F8050A3161185533CAD6A2E5E0933959"
+					"size"		"26E421028CD883AECC0E44CF05EC9C36"
+					"download"		"72F5F36D5DD95EFF156E02FA9B92FC5D"
+				}
+			}
+		}
+		"873983"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6406247461023891485"
+					"size"		"419245277"
+					"download"		"109388128"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"8FEBE872FC381163071313C0BF70127A"
+					"size"		"CF78AD03CA8A21B592DB83BC2E4F734F"
+					"download"		"D3FB4A3FFC64487EBDC58661E5E95C5D"
+				}
+			}
+		}
+		"873984"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3749621152343720042"
+					"size"		"419362905"
+					"download"		"109888448"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"766C97CB06DAA83C53B4423E093F763A"
+					"size"		"FC98B80083C1F20741FBCD0809FFEBEF"
+					"download"		"6D48BE16F315430B8DB9B8AA7D38947A"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3150364"
+				"timeupdated"		"1537967170"
+			}
+			"beta"
+			{
+				"buildid"		"3150364"
+				"pwdrequired"		"1"
+				"timeupdated"		"1537880817"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"30000000"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"DIGIDICED/Isle of Skye/games"
+				"pattern"		"*.gam"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"1"
+			{
+				"root"		"LinuxHome"
+				"path"		".config/unity3d/DIGIDICED/Isle of Skye/games"
+				"pattern"		"*.gam"
+				"platforms"
+				{
+					"1"		"Linux"
+				}
+			}
+			"2"
+			{
+				"root"		"MacAppSupport"
+				"path"		"DIGIDICED/Isle of Skye/games"
+				"pattern"		"*.gam"
+				"platforms"
+				{
+					"1"		"MacOS"
+				}
+			}
+		}
+	}
+}
