@@ -1,0 +1,153 @@
+"appinfo"
+{
+	"appid"		"724030"
+	"common"
+	{
+		"name"		"Buffy Stole Your Sandwich"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"680eed107aa538ff706fcd0cd15211300949649a"
+		"logo_small"		"680eed107aa538ff706fcd0cd15211300949649a_thumb"
+		"icon"		"e06d787c14572b7a8cbf587357e1e918be0f90e0"
+		"clienticon"		"9e829ecc9b08aa051632ac935560311d3f218bcc"
+		"clienttga"		"1ed9a4a9adabe03a8b9f8aa7afdd6a2489622562"
+		"metacritic_name"		"Buffy Stole Your Sandwich"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"60.32672112018673"
+				"height_pct"		"82.1420090239848"
+			}
+		}
+		"store_asset_mtime"		"1572387190"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Xivek's Toybox"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Xivek's Toybox"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1508252418"
+		"community_hub_visible"		"1"
+		"gameid"		"724030"
+		"store_tags"
+		{
+			"0"		"492"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Xivek's Toybox"
+		"publisher"		"Xivek's Toybox"
+	}
+	"config"
+	{
+		"installdir"		"Buffy Stole Your Sandwich"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"BuffyFullWindows\\Buffy Stole your Sandwich Vr  1.0.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"724031"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6891585442598082847"
+					"size"		"151252428"
+					"download"		"61177120"
+				}
+				"developer"
+				{
+					"gid"		"6891585442598082847"
+					"size"		"151252428"
+					"download"		"61177120"
+				}
+			}
+		}
+		"724032"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"developer"
+				{
+					"gid"		"8289520911533787920"
+					"size"		"153079313"
+					"download"		"61389456"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2154315"
+				"timeupdated"		"1506570768"
+			}
+			"developer"
+			{
+				"buildid"		"2402546"
+				"description"		"For Testing"
+				"timeupdated"		"1514521314"
+			}
+		}
+	}
+}
