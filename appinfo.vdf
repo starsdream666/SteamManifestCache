@@ -1,0 +1,364 @@
+"appinfo"
+{
+	"appid"		"629650"
+	"common"
+	{
+		"name"		"Symphonic Rain"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"358bc6c82f5a36574bfbc8b108947ecee4e9d5d9"
+		"logo_small"		"358bc6c82f5a36574bfbc8b108947ecee4e9d5d9_thumb"
+		"icon"		"a7c19ba16cb9a606f91fb750555d6c5404f98219"
+		"clienttga"		"cd7f3263399bf8d113c4306aa28b3075f252d85c"
+		"clienticon"		"767c6e3e20dff5b797fe8996b1938cb537b66a98"
+		"languages"
+		{
+			"english"		"1"
+			"tchinese"		"1"
+			"japanese"		"1"
+		}
+		"name_localized"
+		{
+			"japanese"		"シンフォニック＝レイン"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1658448000"
+			"tested_build_id"		"5092714"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Symphonic Rain"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1573785767"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"KOGADO STUDIO"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Komodo"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_23"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1497488420"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"629650"
+		"store_tags"
+		{
+			"0"		"3799"
+			"1"		"1621"
+			"2"		"1756"
+			"3"		"6971"
+			"4"		"21"
+			"5"		"1752"
+			"6"		"4166"
+			"7"		"4085"
+			"8"		"4726"
+			"9"		"1684"
+			"10"		"1742"
+			"11"		"4947"
+			"12"		"4182"
+		}
+		"review_score"		"9"
+		"review_percentage"		"96"
+	}
+	"extended"
+	{
+		"developer"		"KOGADO STUDIO"
+		"publisher"		"Komodo"
+	}
+	"config"
+	{
+		"installdir"		"Symphonic Rain"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SR.exe"
+				"type"		"none"
+			}
+		}
+	}
+	"depots"
+	{
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"629651"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2302754142696790160"
+					"size"		"2264276818"
+					"download"		"2175892448"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"3B7AB5C32C19738093E738BD9A3EA911"
+					"size"		"08D6704D7DE839A0398099DB13A74DA5"
+					"download"		"E3FE4DFF806C00B2050F6FBEE68EE263"
+				}
+			}
+		}
+		"629655"
+		{
+			"config"
+			{
+				"language"		"english"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3606764392867888676"
+					"size"		"127861967"
+					"download"		"121557616"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"2AD36523C9B2C765CD7501EA0E764A24"
+					"size"		"F760D9F423E072D2428B985C98428941"
+					"download"		"A7A2B1E76FADB270BB2623D879D8728E"
+				}
+			}
+		}
+		"629652"
+		{
+			"config"
+			{
+				"language"		"japanese"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"507177427565701218"
+					"size"		"122930460"
+					"download"		"120841712"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"CA62ACFCF729BF2AB84F2589D8C92FF3"
+					"size"		"5273FC163757752DE5A7D9DD75B9667F"
+					"download"		"29640F044D204A771BA0BF5853B304CA"
+				}
+			}
+		}
+		"629653"
+		{
+			"config"
+			{
+				"language"		"tchinese"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4168259449549165393"
+					"size"		"128530655"
+					"download"		"122233200"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"9A5171C982ED03FC0ED2F12B77A43CAA"
+					"size"		"87B75C8AAE1A3116DE63055DA5240814"
+					"download"		"40C02960DE783F2423621CD24E9F1621"
+				}
+			}
+		}
+		"629654"
+		{
+			"config"
+			{
+				"language"		"schinese"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5300318912538222392"
+					"size"		"344974413"
+					"download"		"318188256"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"E501903A1EBDD6529F2A18BAA8CC4AC4"
+					"size"		"D2B4D2149566BE4847B3EBD319F8A590"
+					"download"		"0949E2668A44A87DDFED37861E9329E9"
+				}
+			}
+		}
+		"629656"
+		{
+			"config"
+			{
+				"language"		"russian"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4287384982603102883"
+					"size"		"126051941"
+					"download"		"124014544"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"C9B4D1A2D84B50BBB0A388656CF221D1"
+					"size"		"B5A8C8F2639F4BAC95D2AB18D8DC1581"
+					"download"		"64814F3CA8B666FB70F438BBE19D3302"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5092714"
+				"timeupdated"		"1590738580"
+			}
+			"test"
+			{
+				"buildid"		"5092714"
+				"pwdrequired"		"1"
+				"timeupdated"		"1590711842"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"KOGADO/SRIntl"
+				"pattern"		"*.sav"
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"KOGADO/SRIntl"
+				"pattern"		"*.ini"
+			}
+		}
+	}
+}
