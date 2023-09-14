@@ -1,0 +1,352 @@
+"appinfo"
+{
+	"appid"		"1062000"
+	"common"
+	{
+		"name"		"Starmancer"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"icon"		"8499462459b2d27fe8447cd721ea310abefbcf5c"
+		"logo"		"961e1386eb9d5a9339e4eb11ca923bcfc9e3093b"
+		"logo_small"		"961e1386eb9d5a9339e4eb11ca923bcfc9e3093b_thumb"
+		"linuxclienticon"		"8edcbe2b027c23e548bc8ab0992895aed71ad7db"
+		"clienticon"		"d51508a6d9c2e93aac66a8dace036019d18a9487"
+		"clienttga"		"ec6c7728d05d54983443de50232b3a98154b877b"
+		"releasestate"		"released"
+		"osextended"		"macos64"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1659744000"
+			"tested_build_id"		"8560516"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"27.856202165025223"
+				"height_pct"		"77.58252196627879"
+			}
+		}
+		"store_asset_mtime"		"1683129610"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Ominux Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Chucklefish"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"28"
+			"2"		"2"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1628146835"
+		"community_hub_visible"		"1"
+		"gameid"		"1062000"
+		"store_tags"
+		{
+			"0"		"599"
+			"1"		"492"
+			"2"		"9"
+			"3"		"7332"
+			"4"		"3964"
+			"5"		"1755"
+			"6"		"3942"
+			"7"		"220585"
+			"8"		"12472"
+			"9"		"493"
+			"10"		"3810"
+			"11"		"4166"
+			"12"		"1643"
+			"13"		"16598"
+			"14"		"1662"
+			"15"		"4182"
+			"16"		"5851"
+			"17"		"7926"
+		}
+		"review_score"		"5"
+		"review_percentage"		"64"
+	}
+	"extended"
+	{
+		"developer"		"Ominux Games"
+		"publisher"		"Chucklefish"
+		"homepage"		"https://www.playstarmancer.com/"
+	}
+	"config"
+	{
+		"installdir"		"Starmancer"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Starmancer.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Starmancer.app\\Contents\\MacOS\\Starmancer"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Starmancer.x86_64"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1062001"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1624015517136021726"
+					"size"		"373257146"
+					"download"		"79433488"
+				}
+				"earlier_access"
+				{
+					"gid"		"7675718619929400738"
+					"size"		"374624264"
+					"download"		"79529728"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"developer"
+				{
+					"gid"		"A4F1C36C9043E5BAC1D14B5011F79742"
+					"size"		"42164D0591EF974874C87300143C3D72"
+					"download"		"FD9C9DB7152AB149ABD0000108DB60FD"
+				}
+			}
+		}
+		"1062002"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4292889499311855593"
+					"size"		"365401800"
+					"download"		"77464000"
+				}
+				"earlier_access"
+				{
+					"gid"		"4949919337072791994"
+					"size"		"365664787"
+					"download"		"77033072"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"developer"
+				{
+					"gid"		"8894EF0F5D6C6A1FE49EDA55ACB3ECC4"
+					"size"		"7084BB6A6998080AF9652E0E4EF999A0"
+					"download"		"652103F64F66847CB53C5DB54AD9D526"
+				}
+			}
+		}
+		"1062003"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2214700806158887809"
+					"size"		"424637652"
+					"download"		"82680256"
+				}
+				"earlier_access"
+				{
+					"gid"		"3698127640056120472"
+					"size"		"425063263"
+					"download"		"82309824"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"developer"
+				{
+					"gid"		"15F3351287DF5296286A85CB9BFEF341"
+					"size"		"89784067EDAC2D8BC89B97241435AB5B"
+					"download"		"CD2B54A3A05BAD4E77225D5826AFE8CD"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12090381"
+				"timeupdated"		"1693593465"
+			}
+			"developer"
+			{
+				"buildid"		"12142769"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694181758"
+			}
+			"earlier_access"
+			{
+				"buildid"		"12142769"
+				"description"		"Builds are uploaded here, before they go public. Please play and find bugs and other issues."
+				"timeupdated"		"1694181765"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000000"
+		"maxnumfiles"		"10000"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"stardata/save"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+			"1"
+			{
+				"root"		"gameinstall"
+				"path"		"Starmancer.app/Contents/StarData/save"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"MacOS"
+				}
+				"recursive"		"1"
+			}
+			"2"
+			{
+				"root"		"gameinstall"
+				"path"		"stardata/save"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Linux"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
