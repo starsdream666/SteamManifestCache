@@ -1,0 +1,816 @@
+"appinfo"
+{
+	"appid"		"453750"
+	"common"
+	{
+		"name"		"Tyto Ecology"
+		"type"		"Game"
+		"oslist"		"windows,macos"
+		"clienticon"		"309aece66bfafa99448c90ee0b76b9eb61328fb5"
+		"clienttga"		"0477d02954abdff5ba6c61718154f2789d8ee6c9"
+		"icon"		"a0f9ec643be173ab6aa593d4fd9a601411077e14"
+		"clienticns"		"778e4e2dc7c418a51a034bf83cabf4f36113f3ce"
+		"logo"		"5c2ea00979cbe23f196df2ee115c2208ff10ba7e"
+		"logo_small"		"5c2ea00979cbe23f196df2ee115c2208ff10ba7e_thumb"
+		"releasestate"		"released"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1507917347"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Immersed Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Immersed Games"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"28"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1460649519"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"453750"
+		"store_tags"
+		{
+			"0"		"599"
+			"1"		"492"
+			"2"		"9"
+			"3"		"597"
+			"4"		"5794"
+			"5"		"1036"
+			"6"		"5160"
+			"7"		"5300"
+		}
+		"review_score"		"6"
+		"review_percentage"		"75"
+	}
+	"extended"
+	{
+		"developer"		"Immersed Games"
+		"publisher"		"Immersed Games"
+		"homepage"		"http://tyto-online.com/ecology/"
+		"listofdlc"		"479230,571960,700320"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Tyto Ecology"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TytoEcology.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"TytoEcology.app"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228984"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229000"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229002"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229004"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"453751"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6401723181193424679"
+					"size"		"1089473504"
+					"download"		"315725648"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"1.11"
+				{
+					"gid"		"70325A74269E4EDFC214F1880EF28FB9"
+					"size"		"11E4F39084F8CF3F653AD29CE834B497"
+					"download"		"F16EC78C0E5C73A8DB5E1CBBBDACA73A"
+				}
+				"1.11.2"
+				{
+					"gid"		"B0581FD1671BEDEE0AD47965FD28FB2A"
+					"size"		"7578BEB57C9DC515703E89F600011555"
+					"download"		"9D2EE73327C8EE103D44CEA73F76B7B0"
+				}
+				"1.12"
+				{
+					"gid"		"2A9826112387D8164AA66CAA5F2F8015"
+					"size"		"3D08EF5A262420C46E1F93CF39713FEC"
+					"download"		"E3D566C0AC8E9E23A9EAA83F78D80252"
+				}
+				"1.13"
+				{
+					"gid"		"79BC3307537D29615A8DCC2AC8024941"
+					"size"		"06238CDCD91E16BEA6F87C87C7DC22CA"
+					"download"		"A85A844EDA51F5A7867A8F3EFCFB590F"
+				}
+				"1.14"
+				{
+					"gid"		"EB52E90CFBC55CDCF114339559CBAF6F"
+					"size"		"2AF6F8D9F0AD72F51BE980CB030B68BF"
+					"download"		"D96BD06D1A5A2A47C19D6D7572751BCA"
+				}
+				"1.14.2"
+				{
+					"gid"		"DD29A311F5C06CAD455F86D4DDD58311"
+					"size"		"9019E3A8B75F83F8A29AC24497936C74"
+					"download"		"36A4DF0D36C5B4784C8384CB1534D8A5"
+				}
+				"1.15"
+				{
+					"gid"		"11CA3E06E7A5ADF2D19DA7515F16192D"
+					"size"		"0459CED408A7E451C5C82753065847BF"
+					"download"		"5D479B8E6F8395275B220888E6AFD8E6"
+				}
+				"1.8.1"
+				{
+					"gid"		"5DABA1DD6EB13083BB2EF13E525F79C5"
+					"size"		"20BF7E357EDD540FCF1D370A38E2499E"
+					"download"		"0ACF57D52B0F4409C5F19A9414454387"
+				}
+				"dinoattenuation"
+				{
+					"gid"		"16C891E3FB0406933222C9845C1CD0F6"
+					"size"		"428D9B90E8F912CB6108E45D86DB10A6"
+					"download"		"9910AB9B5A6EEF570C7E370FC54A0463"
+				}
+				"dinosaurs"
+				{
+					"gid"		"657B090728A091A8CCD0B023D14C31FE"
+					"size"		"FC0108EB912D228575CB645B556EBC4D"
+					"download"		"8A709595801623F18A7863C237A7E13F"
+				}
+				"ecology1.0"
+				{
+					"gid"		"8D7158BD3DEED9C9C00D361987E94FBB"
+					"size"		"BF2D147D3087F27F5305F650A8F3F807"
+					"download"		"BAAF3C2A9571148583D1376EC3018C1D"
+				}
+				"ecologypatch2"
+				{
+					"gid"		"41BB12FF9007C15486137ABFF54BF517"
+					"size"		"12BC8F99AFBB2410A215F702E08059B9"
+					"download"		"EFFEE070CF8A7A9FEC7458697058E560"
+				}
+				"fullscreentests"
+				{
+					"gid"		"8CB1A016783677F6950C6811FB0083AB"
+					"size"		"1BE5BEAE27EA500554B4157C30698559"
+					"download"		"E551FAA43ABA91A999675762AFDBD362"
+				}
+				"hotfix14.3"
+				{
+					"gid"		"F951D1FF94C04B869406A870C111B485"
+					"size"		"0BD4CF3C570D1125D196DBA621B55FB3"
+					"download"		"8FC4B74D9B4586DD06479D432706A739"
+				}
+				"maybuild"
+				{
+					"gid"		"C7EF65EC1C520D2394538ABD144CCCDF"
+					"size"		"65211238CA604F60F0E2A04FC746C429"
+					"download"		"48A83D7F70E12CFCAABE9F3140E4CA4F"
+				}
+				"patch6"
+				{
+					"gid"		"D30C2B88059A23634DE65D36E65BD2C9"
+					"size"		"42C759C37CFECC1C5DD2F7642F6078F7"
+					"download"		"F995A447A4166B49B544EF63F5DA65BA"
+				}
+				"patch7"
+				{
+					"gid"		"56330697A606F61987531306B0C389D8"
+					"size"		"E47B2A60C8C0C22A71A3A1DE86E3B5BC"
+					"download"		"8275C9460F52E9DAEA8541BF53192284"
+				}
+				"patch7hotfix"
+				{
+					"gid"		"7BC0171932F898266C2361DEEA603EE7"
+					"size"		"3B2E40167B338BC6AFE9DCCE108DBA36"
+					"download"		"F83BEA7D2C432163D7FF52371CB0FEBB"
+				}
+				"savefix"
+				{
+					"gid"		"1EAACF8BDC915CA14A3F8C16C52401F5"
+					"size"		"51B93E25C614B26A4C5AAA8E19C48C78"
+					"download"		"3123F4A04470A7382FB436F1BCFFE91F"
+				}
+			}
+		}
+		"453752"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"112056662720511626"
+					"size"		"2550073635"
+					"download"		"899762032"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"1.11"
+				{
+					"gid"		"E1DE3510495FA46EA633C4EB79D2FEB9"
+					"size"		"910B6952C40E131AE28E4AB7995EFA14"
+					"download"		"257C435CF194A0805D17AAE269009D8B"
+				}
+				"1.11.2"
+				{
+					"gid"		"C373654BBE0F8A1BFA46A74A75EFDDB0"
+					"size"		"356BA42445BAD0FAA5BF1FBA1D14350E"
+					"download"		"D3AF04C5F9483D7319E5855674A86181"
+				}
+				"1.12"
+				{
+					"gid"		"6F3274A18C9A8FFB3207A448500D5FB9"
+					"size"		"5BDB5C2B00742224CE1601E134B9177D"
+					"download"		"F84036A4E05BCB12FEF00335E7EEA6C8"
+				}
+				"1.13"
+				{
+					"gid"		"60970274298A3E53FE380DCF49C936F1"
+					"size"		"F353BC7DEB60275CFDE3F1E7612D04CB"
+					"download"		"4FA0B1AF101D4441A5451DB3730D1248"
+				}
+				"1.14"
+				{
+					"gid"		"CA539F7590031778917AC635EE4D76DB"
+					"size"		"6BA496FCB6A06687C5319633E1BA45B6"
+					"download"		"AEBED5046F6894C9BA8804698E7B6C64"
+				}
+				"1.14.2"
+				{
+					"gid"		"5B14BB40826F23C1634BC4F944A4927A"
+					"size"		"4DCDB7F2C470932F9E9579BCE40CCF0A"
+					"download"		"BA88AF2FE9E1D487E8A1B034FCA930FA"
+				}
+				"1.15"
+				{
+					"gid"		"A7945970E86D68EF0ED79CE0947EAFA6"
+					"size"		"7633B4164DF72073941A12618F5333A0"
+					"download"		"5EB5F40FE3673422BBD2A214A8DF6D7F"
+				}
+				"1.8.1"
+				{
+					"gid"		"FBF2A0DAEDC8DF42BE67C68B0926628E"
+					"size"		"16348BB5965F5981AA13BDB959015858"
+					"download"		"1B9900FA6B969E2ABCCA4F0BAE71B219"
+				}
+				"dinoattenuation"
+				{
+					"gid"		"F096E2E5A7D1DFFE788739D0C224C489"
+					"size"		"BE72DAFECCC5CD72AF1CB4F616A1A25D"
+					"download"		"54F50E47F70D8523A8804D5EB09FCA34"
+				}
+				"dinosaurs"
+				{
+					"gid"		"B4455909F1F2BDBEDC159B4C836932D3"
+					"size"		"6206BFDC4555B766A5F327CF9FD19065"
+					"download"		"EE08D03D3A9BCB5DC0E34D5B95E5E4FF"
+				}
+				"ecology1.0"
+				{
+					"gid"		"05DF9542CAAA34D82CA885900121DA99"
+					"size"		"6DA05860B2CA62BC0C0D79C96362CE6C"
+					"download"		"6FB4FD35007CFD68C4E388A2A7D0F6DF"
+				}
+				"ecologypatch2"
+				{
+					"gid"		"738410E86DC507F0C70288DD1DEB7B37"
+					"size"		"13111A7ABBE301D5EAF8E8C3FE79D9AD"
+					"download"		"9EEF11705C71CABF1DA8DADE87078157"
+				}
+				"fullscreentests"
+				{
+					"gid"		"B0FD9292CF9912867EDE4B4F8D7AF0CD"
+					"size"		"263EBA1E99E5AEBD20558443A1888A0E"
+					"download"		"FA3DFF70A98325FCB67BD3A86AB66F28"
+				}
+				"hotfix14.3"
+				{
+					"gid"		"B1DA87E57DF21BD544460864F40F8B87"
+					"size"		"75CF8587801F9D9C1FF2C016A4D50507"
+					"download"		"E97E5C78A4E48C468201CD8BBED921B9"
+				}
+				"maybuild"
+				{
+					"gid"		"458DCB8DA2E476B3C1D27B3389FA0B39"
+					"size"		"39A35C2DCCF876A831BBB95AFF2495B8"
+					"download"		"D6962FE864A31D3A5B07BD5C6F3E5FD4"
+				}
+				"patch6"
+				{
+					"gid"		"99FAFD2D6A2B9A151DA9717C5F4EB093"
+					"size"		"E38E1415FF9C4E8D0E55FB11D235121A"
+					"download"		"9145CE6BE4F7981C52256F4C9567730C"
+				}
+				"patch7"
+				{
+					"gid"		"BE944271F299C02CECD3EABBFF2F9D80"
+					"size"		"99D1D0560D03C51C1C18DBD81BFFD762"
+					"download"		"03E4FDA9EFBEC3A5E364DFF318AE045A"
+				}
+				"patch7hotfix"
+				{
+					"gid"		"60D5904F54579E28FD91D7AE9F89DD63"
+					"size"		"A97BD9EFBD5174C62D778B3A719925B5"
+					"download"		"CE52058AB8BE6B953B9D9137DA459E3F"
+				}
+				"savefix"
+				{
+					"gid"		"A373378D60FE589AABA5365CFF654AE4"
+					"size"		"2F496630DBDB3CEC46C7AE88D5721B8C"
+					"download"		"003036AA0EF95FE0F61458A7472BC9BC"
+				}
+			}
+		}
+		"453753"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+		}
+		"479230"
+		{
+			"dlcappid"		"479230"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2795641914645397179"
+					"size"		"250448542"
+					"download"		"94297904"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"1.11"
+				{
+					"gid"		"3313D9011DE3D96AFC29E2E603980F84"
+					"size"		"2BBCDA1BBB92766C349D2F5A745D2CB0"
+					"download"		"0AFFC67BD0FDD76D147DBA178F02F5B3"
+				}
+				"1.11.2"
+				{
+					"gid"		"46C3C1826A6B929B65797E320C24A493"
+					"size"		"F52AA9AF2615447CF4A3CCA426FA28B0"
+					"download"		"755CE0AAC62D6BD2996EEF526E073737"
+				}
+				"1.12"
+				{
+					"gid"		"F51DCFE82D0CDA038D909118A60AA3BC"
+					"size"		"8CCDFE26EE8BB9D34209147669EC131B"
+					"download"		"076A901F5A23C17D644F041D8663F871"
+				}
+				"1.13"
+				{
+					"gid"		"CDBE55C419512848D18DF101BEE3E226"
+					"size"		"B15817EF5B29D1449436458A3DD2CBFA"
+					"download"		"EAC8FE5547C4DD7409DED49B6878B3E5"
+				}
+				"1.14"
+				{
+					"gid"		"7443E218FBB7BD295556658C6664D813"
+					"size"		"3E11D893AB6402F0A24FBE559B156318"
+					"download"		"1B5ACA6C0862B97813659DD61D0E3BE6"
+				}
+				"1.14.2"
+				{
+					"gid"		"E6AE69F2C37F455B8C3B1F2512914660"
+					"size"		"6D43D69656E6DCB77FF76DF17D65DB30"
+					"download"		"DA03E90F32EBD4D5953AFD1830ED7507"
+				}
+				"1.15"
+				{
+					"gid"		"6AD5454BE47CEBFEB9D7BC4F594B6FE7"
+					"size"		"48C2539D8D8A20ABE9845299D0D7A43B"
+					"download"		"E36C24B4C723F5BC940AE100C610E59C"
+				}
+				"1.8.1"
+				{
+					"gid"		"EFC28241A5776B10E46E916908EADB12"
+					"size"		"53CDD83CBA40189F73A63AE0BC0C4C00"
+					"download"		"DCE1087D3FB1A305FDFD6CE35300068A"
+				}
+				"dinoattenuation"
+				{
+					"gid"		"EF47E6B2BA1CD53DEBC2470461A3BDB6"
+					"size"		"B919A2AC75A092DD87C00B2BD3DAA6A6"
+					"download"		"E7964DE77389EA18B9B49BA074E4BBBE"
+				}
+				"dinosaurs"
+				{
+					"gid"		"E83045577348D9E350EB1B73BC2F8194"
+					"size"		"6D43A9ADEE8438A20C5B7CF620BB7E45"
+					"download"		"F0C562805FF595D5A360F2DEA9239D99"
+				}
+				"fullscreentests"
+				{
+					"gid"		"7658087F272CD6BEB1204C93A0A6B864"
+					"size"		"BDACAADEE950702A977B397119647D2D"
+					"download"		"97A73F398AC8B3ECDD75035DEE0C3E18"
+				}
+				"hotfix14.3"
+				{
+					"gid"		"90BF896C46ADD44392DE3BBA47BA59DF"
+					"size"		"63F86C265FDD6CF660058DE2C7CCE907"
+					"download"		"5011A0060B4868B19BE3DD4B8C834240"
+				}
+				"maybuild"
+				{
+					"gid"		"B2062B171BB8104F078C7C88839FA4E6"
+					"size"		"EDEF3CF3EBCA362850DB5680FCF14892"
+					"download"		"0439F468E8CA73BBB3A04624B8651ECB"
+				}
+				"patch7"
+				{
+					"gid"		"F51161F09ADBB78E87FD8209B86F046E"
+					"size"		"7B5E305BBC303D46D16E84AC63E25C3C"
+					"download"		"A5C7EA66B0F8288B44015C82C1264B68"
+				}
+				"patch7hotfix"
+				{
+					"gid"		"E0F90C8A3FEC6AA543C2CABEA5F671E2"
+					"size"		"27DD4533E15649C03EF956D4FD204644"
+					"download"		"4DF40F8913983AF4117EDE271512A178"
+				}
+				"savefix"
+				{
+					"gid"		"D12D1883081E186F7DE08BFE5187284B"
+					"size"		"757A7E5E169A6AC2CFC3CCDE6A7825EE"
+					"download"		"3C97B2229C7F8BEC9D2D101E7FE23124"
+				}
+			}
+		}
+		"571960"
+		{
+			"dlcappid"		"571960"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1816566445644056792"
+					"size"		"144316291"
+					"download"		"41440832"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"1.12"
+				{
+					"gid"		"09B2CD2E3C4247B265178B989BC80971"
+					"size"		"048D80DBFDBB138057920C3C3942BF31"
+					"download"		"F0763F0B1FAAB90A064B0205F6B488A1"
+				}
+				"1.13"
+				{
+					"gid"		"FF6AAD5AC5601A86AA4CF6A356DF6F61"
+					"size"		"C64681483E69EB684B3C5B118BD09020"
+					"download"		"E5B667789FEE90F2B69DCA5E1573AB48"
+				}
+				"1.14"
+				{
+					"gid"		"4CB111C27264B681F11F6CAFB05885CF"
+					"size"		"25D8DA02FE91410AF6C47F5EDC81FD54"
+					"download"		"5E98111C2E8CFEEF6C449F706AAB8F5A"
+				}
+				"1.14.2"
+				{
+					"gid"		"4AB3243DD0E6880BBEB6CB9DAE7BEC17"
+					"size"		"A7E0844949AFB03FDD4E158F76943AED"
+					"download"		"307B19988AA49B67160825F080D9D552"
+				}
+				"1.15"
+				{
+					"gid"		"961E22967DEE3B94F9C08BE25E6147DF"
+					"size"		"C5C2FFEBECBA2AD5988CD1A5B18FF733"
+					"download"		"A940DA0C817D5E6A8B3DD959D939229E"
+				}
+				"dinoattenuation"
+				{
+					"gid"		"409A3089B62367F442CC90273EE41A57"
+					"size"		"EB9F7FAAB67BC3E9262C65B8F539E85B"
+					"download"		"70CA03E3544105E038609EBF27205924"
+				}
+				"dinosaurs"
+				{
+					"gid"		"AC6F07DB7B729D0BFF9858D469054ED3"
+					"size"		"4C7F455283B3C28970F072EBA39BDDE8"
+					"download"		"CC1B8A18721A33412642187C7A2A4F35"
+				}
+				"fullscreentests"
+				{
+					"gid"		"14AA99744075EDA2E936A49A56FE8839"
+					"size"		"EB631757494B8603F1D5E12B300A12C8"
+					"download"		"0FBF69F19673CEE78910CD49C76B2273"
+				}
+				"hotfix14.3"
+				{
+					"gid"		"32A117E36A64FC6E8BD13F727A32DB53"
+					"size"		"C1FDA023DF510DDC3E2464149E40328E"
+					"download"		"4E7B8006A078E814FC9E63853E44DE91"
+				}
+				"maybuild"
+				{
+					"gid"		"0590A40924DD0A1627CEC0C4422A298B"
+					"size"		"42CC4C405CA534FE57B6896B18A209F1"
+					"download"		"2722AF6F969FF25D54C97E79B8D9E955"
+				}
+				"savefix"
+				{
+					"gid"		"BBBF388FE0F27B9E2D7A7CEF4CD611BE"
+					"size"		"070D4BB854A65112917933A3CA3C13C7"
+					"download"		"0010D5A87DAEA0BDAE2EB181564C9086"
+				}
+			}
+		}
+		"700320"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"135173712378096141"
+					"size"		"187964734"
+					"download"		"53933168"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dinoattenuation"
+				{
+					"gid"		"38B3B691C4CC4E331701B52DC5ECC1B5"
+					"size"		"24AE5686E1010DD9CAE1134534510E13"
+					"download"		"B25905356EA13B03BE603A5653B588DF"
+				}
+				"dinosaurs"
+				{
+					"gid"		"4116A609B98C2679707111A2C03DCAA6"
+					"size"		"274796BF7F078EE8415E0081132E3F2F"
+					"download"		"404CFC372BE98CCEEE616B694CA53869"
+				}
+				"fullscreentests"
+				{
+					"gid"		"7951DB458519CDDD5C659DDF0AF4B4E8"
+					"size"		"521E27E2CC0881568ACBABA3002D3B80"
+					"download"		"14842B8DEB052BE13A3806675B328309"
+				}
+				"maybuild"
+				{
+					"gid"		"585DB4451F5D7479EA57C63185F39699"
+					"size"		"68270066AEA121354CA2290C3304A9BF"
+					"download"		"3ADA2D0A6D41377D21660730AEE761E1"
+				}
+				"savefix"
+				{
+					"gid"		"EFE8DBA61FF50BA1EA77A0C50D2F3729"
+					"size"		"A3087C69EFD8F4993DCEEACBD6C1F461"
+					"download"		"B4550736D888E4D551EF290502C3B0DD"
+				}
+			}
+			"dlcappid"		"700320"
+		}
+		"hasdepotsindlc"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3200854"
+				"timeupdated"		"1539280698"
+			}
+			"1.11"
+			{
+				"buildid"		"1376688"
+				"pwdrequired"		"1"
+				"timeupdated"		"1475724803"
+			}
+			"1.11.2"
+			{
+				"buildid"		"1402030"
+				"pwdrequired"		"1"
+				"timeupdated"		"1481835306"
+			}
+			"1.12"
+			{
+				"buildid"		"1549367"
+				"pwdrequired"		"1"
+				"timeupdated"		"1483464345"
+			}
+			"1.13"
+			{
+				"buildid"		"1593450"
+				"pwdrequired"		"1"
+				"timeupdated"		"1485473148"
+			}
+			"1.14"
+			{
+				"buildid"		"1637374"
+				"pwdrequired"		"1"
+				"timeupdated"		"1487293517"
+			}
+			"1.14.2"
+			{
+				"buildid"		"1648866"
+				"pwdrequired"		"1"
+				"timeupdated"		"1487778182"
+			}
+			"1.15"
+			{
+				"buildid"		"1818884"
+				"pwdrequired"		"1"
+				"timeupdated"		"1494621699"
+			}
+			"1.8.1"
+			{
+				"buildid"		"1191911"
+				"pwdrequired"		"1"
+				"timeupdated"		"1466552496"
+			}
+			"dinoattenuation"
+			{
+				"buildid"		"2166470"
+				"pwdrequired"		"1"
+				"timeupdated"		"1506978779"
+			}
+			"dinosaurs"
+			{
+				"buildid"		"3200854"
+				"pwdrequired"		"1"
+				"timeupdated"		"1539198948"
+			}
+			"ecology1.0"
+			{
+				"buildid"		"1074411"
+				"pwdrequired"		"1"
+				"timeupdated"		"1460857788"
+			}
+			"ecologypatch2"
+			{
+				"buildid"		"1081994"
+				"pwdrequired"		"1"
+				"timeupdated"		"1461024022"
+			}
+			"fullscreentests"
+			{
+				"buildid"		"2199625"
+				"pwdrequired"		"1"
+				"timeupdated"		"1508034064"
+			}
+			"hotfix14.3"
+			{
+				"buildid"		"1840189"
+				"pwdrequired"		"1"
+				"timeupdated"		"1495542592"
+			}
+			"maybuild"
+			{
+				"buildid"		"2452131"
+				"pwdrequired"		"1"
+				"timeupdated"		"1516377562"
+			}
+			"patch6"
+			{
+				"buildid"		"1151305"
+				"pwdrequired"		"1"
+				"timeupdated"		"1464367825"
+			}
+			"patch7"
+			{
+				"buildid"		"1161472"
+				"pwdrequired"		"1"
+				"timeupdated"		"1464920908"
+			}
+			"patch7hotfix"
+			{
+				"buildid"		"1171286"
+				"pwdrequired"		"1"
+				"timeupdated"		"1465421619"
+			}
+			"savefix"
+			{
+				"buildid"		"2399200"
+				"pwdrequired"		"1"
+				"timeupdated"		"1514331209"
+			}
+		}
+	}
+}
