@@ -1,0 +1,750 @@
+"appinfo"
+{
+	"appid"		"1084160"
+	"common"
+	{
+		"name"		"Jagged Alliance 3"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"abc4f2cb27334c75dd6eb555a61e1753e1a16d1d"
+		"logo_small"		"abc4f2cb27334c75dd6eb555a61e1753e1a16d1d_thumb"
+		"clienticon"		"8f67822f6d354d65f9be961ffc118241c4397f21"
+		"clienttga"		"e2f31417b1477cacc5031f27a77036bf708bd906"
+		"icon"		"b18ed3c0b363f84f2490806885710d2927c82e87"
+		"releasestate"		"released"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1084160_eula_0"
+				"name"		"Jagged Alliance 3 EULA"
+				"url"		"https://store.steampowered.com//eula/1084160_eula_0"
+				"version"		"1"
+			}
+		}
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"polish"		"1"
+			"brazilian"		"1"
+		}
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1689638400"
+			"tested_build_id"		"11596315"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-3"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Jagged Alliance 3"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"74.65116279069767"
+				"height_pct"		"97.87461410591308"
+			}
+		}
+		"store_asset_mtime"		"1689425542"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Haemimont Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"THQ Nordic"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Jagged Alliance"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_18"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"indonesian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1689339437"
+		"metacritic_score"		"81"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/jagged-alliance-3?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1084160"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"1708"
+			"2"		"14139"
+			"3"		"122"
+			"4"		"1741"
+			"5"		"4325"
+			"6"		"21725"
+			"7"		"4182"
+			"8"		"17305"
+			"9"		"4508"
+			"10"		"19"
+			"11"		"4236"
+			"12"		"4191"
+			"13"		"5851"
+			"14"		"1693"
+			"15"		"1677"
+		}
+		"review_score"		"8"
+		"review_percentage"		"88"
+	}
+	"extended"
+	{
+		"absolutemousecoordinates"		"0"
+		"remoteplaytogethertestingbranches"		"dev_internal,focus-testing-202204"
+		"developer"		"Haemimont Games"
+		"publisher"		"THQ Nordic"
+		"homepage"		"https://jaggedalliance.com"
+	}
+	"config"
+	{
+		"installdir"		"Jagged Alliance 3"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"JA3.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"3"
+			{
+				"executable"		"JA3Steam.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"agerating, baseline, compatibility, demute, dev_wrapper_testing, kubi, milestone, milestone19, milestone20, milestone21, milestone22, presspreview, testgate, trailer"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"workshopdepot"		"1084160"
+		"1084161"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3136753897950925050"
+					"size"		"15870101569"
+					"download"		"15374006272"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"agerating"
+				{
+					"gid"		"5CB002458A81942765C136BD673F2E7B"
+					"size"		"6F3D27BD8D40AB2EA813401DE55BDF88"
+					"download"		"270AC987983211E0AD940E36D44B5C44"
+				}
+				"baseline"
+				{
+					"gid"		"35300A50DB475987B6CF5DC21D7C97C8"
+					"size"		"DFE89B0D39A98632916676A1765D38F4"
+					"download"		"EC9428B4A9E7F82E703EA4EFD03900CD"
+				}
+				"compatibility"
+				{
+					"gid"		"6DFB5E8A0E89C43D814B075EFC2986EB"
+					"size"		"D5C8B322CEBDC091C6DCF8B07B230EB8"
+					"download"		"3EDDCB095E687AC38F2BB49A4DB84929"
+				}
+				"demute"
+				{
+					"gid"		"C779B314B311C741A59C339C88C02A4A"
+					"size"		"B63627A881B44ECBF85EB3539FCC7385"
+					"download"		"9D68A2D45C40B6C0117930F7A688A630"
+				}
+				"dev_interim"
+				{
+					"gid"		"0354311A630F7ADA5CF0D2944684D2E8"
+					"size"		"12176F6FEC495138FCEE8F7A38DFC5A0"
+					"download"		"B94A10A9277B055782EF5BD882002BE3"
+				}
+				"dev_internal"
+				{
+					"gid"		"D4D732122A679A8950BE830CD799B331"
+					"size"		"2AE56618F42463CD7E2CD0A7438813DB"
+					"download"		"6BC119562ECC3F0C08DE802BDFB7BE7C"
+				}
+				"dev_internal_release"
+				{
+					"gid"		"81A3D5D06960CFC89846F78B3F17D873"
+					"size"		"60A89C555635C4BAB34C884E6B418BC6"
+					"download"		"A3949422B84F423F0E013DF884F8D549"
+				}
+				"dev_trailer_internal"
+				{
+					"gid"		"101D9D2CAE7FBC808891247DA008AB57"
+					"size"		"B2B31D1F238A0080EB015B17FECEA8D5"
+					"download"		"CC3419E670AE8DF279B6CB2FD92443A3"
+				}
+				"dev_wrapper_testing"
+				{
+					"gid"		"3917638BC5A87BDDD32234410F053819"
+					"size"		"3037C4C0911AE031DF953943570F1451"
+					"download"		"6A2DD63FADE4564FD813BA2D8B3AE827"
+				}
+				"kubi"
+				{
+					"gid"		"81A22E919D908CE8A935863BD1021EA5"
+					"size"		"85300504A1D3DC717135BA74B232CDD3"
+					"download"		"865CF6F24FBEBD79E752BACD59800783"
+				}
+				"milestone"
+				{
+					"gid"		"36236FF86C16EF46E494C2A8035A7C3C"
+					"size"		"637F527F8F299E40E618CEB185840035"
+					"download"		"EBB565F0B9213990C5CA1036C54E7F9A"
+				}
+				"milestone19"
+				{
+					"gid"		"2D5588EAFCE885717E8AB554D09B095E"
+					"size"		"2ADEC3722280C35554EEC0D604B97C8B"
+					"download"		"9841FDF82C7804463C2CF596C3DCDBBF"
+				}
+				"milestone20"
+				{
+					"gid"		"8B01E0BE2A29CBEA7A8EEAB29BDED81F"
+					"size"		"B332C7F1B6A7F50E7588166AC09B318C"
+					"download"		"6FC4A9CC5D607A15A5B63F9438435F51"
+				}
+				"milestone21"
+				{
+					"gid"		"33762B883340923CE0DEF442F2C0382E"
+					"size"		"6161E25832B630B2A417FC4BA3CDA2BB"
+					"download"		"11781FF2BC7628474E2AD2D57556A423"
+				}
+				"milestone22"
+				{
+					"gid"		"6B9308668B83B01C9345E806A51B4B8F"
+					"size"		"C1374CF0631B93A00158FC407C038A45"
+					"download"		"082D37A9CCE479AC0BA0D4BA596BFEC4"
+				}
+				"testgate"
+				{
+					"gid"		"E486DADA0BA0D102E9030B32125772B0"
+					"size"		"FC164C9944B3EE92994F31CAA9186C74"
+					"download"		"326E9DF3D16926E1DC7B10209B339948"
+				}
+				"testgate-lqa"
+				{
+					"gid"		"FB98B731FB277562469D637DF7C0064D"
+					"size"		"E53683A955540038BB5CF3F970930F45"
+					"download"		"C44B4A666429C4F2F280E8445CA1D6D3"
+				}
+				"testgate-unstable"
+				{
+					"gid"		"5694FA6B8D9D2787FB0B213B12AA338F"
+					"size"		"C0913718BACB7FBF636B989856DC970F"
+					"download"		"283B3F865E070E8844374BBB8BBCFA06"
+				}
+				"trailer"
+				{
+					"gid"		"DAC0D6FBB50A4131290D0EF0057E88BC"
+					"size"		"44B77DA11B7E5E935D448C68F9929F3A"
+					"download"		"FAD4C0E052EF5B23029DE89CDDD94AB8"
+				}
+				"vendor_amd"
+				{
+					"gid"		"0948839984050BCA4AB84D3D78E4A497"
+					"size"		"8857D613B9B4DF6FDABDFA6FA07D1A69"
+					"download"		"5A29FD431EEB7A5B1457472F2329B62C"
+				}
+				"vendor_intel"
+				{
+					"gid"		"E1DC55FABF25115AE9DCDE3750E18B62"
+					"size"		"04488D7C71FD43E75A5449F99911673D"
+					"download"		"3F4000BC97D260F0AB0F74AAB67A0FBB"
+				}
+				"vendor_nv"
+				{
+					"gid"		"259455FEEE57521BDD24BAE5D7374C4D"
+					"size"		"C7B01A407B25EA39780B1396342695CB"
+					"download"		"8906C3B63567054848BEEBB861A8EAE4"
+				}
+			}
+		}
+		"1084162"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2490463293501100172"
+					"size"		"313583885"
+					"download"		"239896016"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"agerating"
+				{
+					"gid"		"21B35AABA5DB388F39D57140459C6301"
+					"size"		"4958968DDB917A2AAC7FEA225BA3C719"
+					"download"		"84B0C91A7C77F21B34CAA5BC7C09BA09"
+				}
+				"baseline"
+				{
+					"gid"		"D714CEE30B79AF4E52432F514794E3E8"
+					"size"		"1949E1CDF2FD6D50747499E0A8F65391"
+					"download"		"F0BBCFD4A8BDF6C7DB351CB55306B0B3"
+				}
+				"compatibility"
+				{
+					"gid"		"239A80C667DAD1BE6053E3DD2D5817E1"
+					"size"		"724D683E199A6DD1994A93EBB2C9367D"
+					"download"		"7B4934C88FFC5440ED36C87AA1DA9A9F"
+				}
+				"demute"
+				{
+					"gid"		"8A7876C9F2DA44C3C73DACEA6CC88ADD"
+					"size"		"AF45DB13E37A08EAD9F8AD29050375F8"
+					"download"		"B77C8E6EE0A7B1804A3FEB2464E14AE1"
+				}
+				"dev_interim"
+				{
+					"gid"		"8E0D5CFC98B566C41C76B4EE19A626AD"
+					"size"		"77EE2EC73DB5A42C85F617BFCBAFD59B"
+					"download"		"554D49B41BEC5170925A330A04AACF35"
+				}
+				"dev_internal"
+				{
+					"gid"		"091EA305BAA866FC6E96EA8149122600"
+					"size"		"BA08D851DF2EE6CFC9788CF595D8B078"
+					"download"		"A8FB2E3FC60420BA69A2C406A47FE170"
+				}
+				"dev_internal_release"
+				{
+					"gid"		"0857EE875B05BCF2F32E01C35DE0C98A"
+					"size"		"CF7324D1C1B81339731EF37BC8735926"
+					"download"		"7E506786B80B6E04C841810F51623A40"
+				}
+				"dev_trailer_internal"
+				{
+					"gid"		"887E702DD52276FDD85C83BAE615F912"
+					"size"		"72FC065B38C767E04C3A269123732B6F"
+					"download"		"6F484260DC309E45110E15627A5CC194"
+				}
+				"dev_wrapper_testing"
+				{
+					"gid"		"7D3B49574CB3F7D7DB72A9FE674C5676"
+					"size"		"2640698FCC06CB87EB22F027DA62C41E"
+					"download"		"739C3D7EB038D8989FBB6E7022372C4F"
+				}
+				"kubi"
+				{
+					"gid"		"895123724C1B5DA71FEFA009A2940314"
+					"size"		"0A48D4CE64422C7190E8277C9EAE46A9"
+					"download"		"B17CCB3D5F271D104AC800193A62B050"
+				}
+				"milestone"
+				{
+					"gid"		"55C25F4537073BAAC0E50ED06349F97B"
+					"size"		"1026AA2FE69F5891338240626E8F3AD2"
+					"download"		"CB51446D73A525474366F15745109255"
+				}
+				"milestone19"
+				{
+					"gid"		"076CFFC08B07D07F277653ADE684CAED"
+					"size"		"57BB57F3065F81E8EC5D209EB04308AE"
+					"download"		"37938A6CC06503AD5B00044644C90A76"
+				}
+				"milestone20"
+				{
+					"gid"		"B856AAC366CE13381B86A35105078C07"
+					"size"		"6C35BA8FBE1ABF63E38F1B27EBDDDD83"
+					"download"		"CB17B1B7FE4F77F545F5C8DE65C5A617"
+				}
+				"milestone21"
+				{
+					"gid"		"54ADD3AEB4B7AED86BB851CA94BE7325"
+					"size"		"638AEA8050D0D0C399DE8B7119DD9224"
+					"download"		"857B82136B1716A7880526592E17F6EA"
+				}
+				"milestone22"
+				{
+					"gid"		"F95DAA17E9B3CAF1340052EFCBC48F9C"
+					"size"		"AE558C320A49AE54E6DAFC495A276724"
+					"download"		"8F595F51798BC311044F420AB6CC5E71"
+				}
+				"testgate"
+				{
+					"gid"		"E1518DB3F513AC6AF8EECA799B10C7EC"
+					"size"		"A81640A647232BF904FE2C3BC9D34DFC"
+					"download"		"F7413DA40005410F08CE9B8397DA9945"
+				}
+				"testgate-lqa"
+				{
+					"gid"		"626263D135C0ABA16CBD30C1A97D82E4"
+					"size"		"04C1AB44ADADBA41DD7C3A71FC9D90F0"
+					"download"		"1CC156D599641F201DA62452D990B81C"
+				}
+				"testgate-unstable"
+				{
+					"gid"		"A4A1605B481427FACB0AA76233E67070"
+					"size"		"160ECC2DA443E5BA71A4173869676CD6"
+					"download"		"5EC215067761F8DCF6331827C2FF7009"
+				}
+				"trailer"
+				{
+					"gid"		"CCC4485C5CA404B021D1F8DEBA611385"
+					"size"		"DA59E89CBC068B045D28BC2D05AED746"
+					"download"		"B14FC01E06022858C93AADA48E42548F"
+				}
+				"vendor_amd"
+				{
+					"gid"		"6EA7FA3CF1177215160CF600EE0D24E4"
+					"size"		"3A2A3FF61F4A794B59C15DA4AB04EF38"
+					"download"		"8DDEC3A14CE21E09C7F315448077425A"
+				}
+				"vendor_intel"
+				{
+					"gid"		"271802BBE4B7AD4A97020E292C9434A5"
+					"size"		"656226B6ADB38D477D97B162ADC1C48A"
+					"download"		"C1F600009677E7428A98EF5C024884FF"
+				}
+				"vendor_nv"
+				{
+					"gid"		"43E962F2EF715347A3BF2AF5ADB91CDA"
+					"size"		"A445BCD5789AC8A0A704C16E111CA23F"
+					"download"		"3CA35B0229F828373071A632ECF16E83"
+				}
+			}
+		}
+		"baselanguages"		"english,german,french,spanish,schinese,tchinese,russian,polish,brazilian"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12011181"
+				"timeupdated"		"1692799337"
+			}
+			"agerating"
+			{
+				"buildid"		"10666286"
+				"pwdrequired"		"1"
+				"timeupdated"		"1677697239"
+			}
+			"baseline"
+			{
+				"buildid"		"11554580"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687699703"
+			}
+			"compatibility"
+			{
+				"buildid"		"11458022"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686733826"
+			}
+			"demute"
+			{
+				"buildid"		"9736963"
+				"pwdrequired"		"1"
+				"timeupdated"		"1666706889"
+			}
+			"dev_interim"
+			{
+				"buildid"		"11536006"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687443890"
+			}
+			"dev_internal"
+			{
+				"buildid"		"12170984"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694538898"
+			}
+			"dev_internal_release"
+			{
+				"buildid"		"12011181"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692781174"
+			}
+			"dev_trailer_internal"
+			{
+				"buildid"		"12170984"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694539474"
+			}
+			"dev_wrapper_testing"
+			{
+				"buildid"		"11525892"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687359505"
+			}
+			"kubi"
+			{
+				"buildid"		"11390162"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686658106"
+			}
+			"milestone"
+			{
+				"buildid"		"7809864"
+				"pwdrequired"		"1"
+				"timeupdated"		"1638376491"
+			}
+			"milestone19"
+			{
+				"buildid"		"9676612"
+				"pwdrequired"		"1"
+				"timeupdated"		"1665157193"
+			}
+			"milestone20"
+			{
+				"buildid"		"10147084"
+				"pwdrequired"		"1"
+				"timeupdated"		"1671035035"
+			}
+			"milestone21"
+			{
+				"buildid"		"10656815"
+				"pwdrequired"		"1"
+				"timeupdated"		"1677600758"
+			}
+			"milestone22"
+			{
+				"buildid"		"11115700"
+				"pwdrequired"		"1"
+				"timeupdated"		"1682693376"
+			}
+			"testgate"
+			{
+				"buildid"		"11578447"
+				"pwdrequired"		"1"
+				"timeupdated"		"1688146172"
+			}
+			"testgate-lqa"
+			{
+				"buildid"		"11640711"
+				"pwdrequired"		"1"
+				"timeupdated"		"1688717855"
+			}
+			"testgate-unstable"
+			{
+				"buildid"		"12011181"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692781224"
+			}
+			"trailer"
+			{
+				"buildid"		"11506393"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693485723"
+			}
+			"vendor_amd"
+			{
+				"buildid"		"11596315"
+				"pwdrequired"		"1"
+				"timeupdated"		"1688456344"
+			}
+			"vendor_intel"
+			{
+				"buildid"		"11536107"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687465696"
+			}
+			"vendor_nv"
+			{
+				"buildid"		"11656639"
+				"pwdrequired"		"1"
+				"timeupdated"		"1688832979"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"10000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinSavedGames"
+				"path"		"Jagged Alliance 3/{64BitSteamID}"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
