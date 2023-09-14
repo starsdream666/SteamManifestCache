@@ -1,0 +1,229 @@
+"appinfo"
+{
+	"appid"		"1900340"
+	"common"
+	{
+		"name"		"Ten Trials of Babel: The Doppelganger Maze"
+		"type"		"Game"
+		"releasestate"		"released"
+		"name_localized"
+		{
+			"schinese"		"巴别十书：如何逃离二重迷宫"
+			"tchinese"		"巴別十書：如何逃離二重迷宮"
+		}
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64"
+		"logo"		"8c577f6924873aa5fe6b311b396cd0e806e776e1"
+		"logo_small"		"8c577f6924873aa5fe6b311b396cd0e806e776e1_thumb"
+		"icon"		"b6df5811927af407a8e45c4721fb198dbdc17e4e"
+		"clienttga"		"5dce05b896412adc33328ea6cf0b002c5b382221"
+		"clienticon"		"fdb64f12187d616ad3bb23ec44827f58aecf2893"
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+		}
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"32.2024893189154"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1690171870"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"红渊"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"NVLMaker"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Ten Trials of Babel"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1647222520"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1900340"
+		"store_tags"
+		{
+			"0"		"7208"
+			"1"		"6971"
+			"2"		"3964"
+			"3"		"1742"
+			"4"		"122"
+			"5"		"4486"
+			"6"		"21"
+			"7"		"3871"
+			"8"		"5716"
+			"9"		"1684"
+			"10"		"492"
+			"11"		"6426"
+			"12"		"1664"
+			"13"		"31579"
+			"14"		"4182"
+		}
+		"review_score"		"8"
+		"review_percentage"		"93"
+	}
+	"extended"
+	{
+		"developer"		"红渊"
+		"publisher"		"NVLMaker"
+	}
+	"config"
+	{
+		"installdir"		"Ten trials of Babel The Doppelganger Maze"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"package/babel.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Babel.app/Contents/MacOS/Babel"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"schinese"
+		"1900341"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5298443492989164157"
+					"size"		"992216349"
+					"download"		"911998128"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"DD94C7C8DCBE21CD8701C7F76304A21E"
+					"size"		"9E68434B48817F8F756AFD10FB9E8F1E"
+					"download"		"7993AF18C2F68A75FFEEA34808A2E8DF"
+				}
+			}
+		}
+		"1900342"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6053271479687042772"
+					"size"		"1005293252"
+					"download"		"913293072"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"D191A77133985156ED99C1AB51FBC7D8"
+					"size"		"CF479BC40494DF67DD81777F00B43FD9"
+					"download"		"30B9F0F64BC71E9AADB99AA88D347A58"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11839392"
+				"timeupdated"		"1690903339"
+			}
+			"beta"
+			{
+				"buildid"		"11839392"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690903279"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"50000000"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"save"
+				"pattern"		"*.*"
+				"recursive"		"1"
+			}
+		}
+	}
+}
