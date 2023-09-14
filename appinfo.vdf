@@ -1,0 +1,258 @@
+"appinfo"
+{
+	"appid"		"1279910"
+	"common"
+	{
+		"name"		"Nerf Legends"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"b913ec0a82d044adda73a0c32d725efb93b03ecf"
+		"logo"		"ae527661b96e46dced3fe38b335b043720244009"
+		"logo_small"		"ae527661b96e46dced3fe38b335b043720244009_thumb"
+		"clienttga"		"78cb29c16df72ed0b04f16160bc6d7e68f984ad4"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"spanish"		"1"
+			"dutch"		"1"
+		}
+		"clienticon"		"b2f7655287a2e2398c8b6fb7c3aab615ecc02db1"
+		"releasestate"		"released"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"37.741366192528524"
+				"height_pct"		"92.70833333333336"
+			}
+		}
+		"store_asset_mtime"		"1636754353"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"FUN labs Romania S.R.L."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"GameMill Entertainment"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_22"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1637298182"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1279910"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"3839"
+			"2"		"1663"
+			"3"		"3859"
+			"4"		"4182"
+			"5"		"3993"
+			"6"		"1774"
+			"7"		"3934"
+			"8"		"4747"
+			"9"		"1775"
+			"10"		"1684"
+			"11"		"4295"
+			"12"		"5752"
+			"13"		"3942"
+			"14"		"7481"
+		}
+		"review_score"		"4"
+		"review_percentage"		"29"
+	}
+	"extended"
+	{
+		"developer"		"FUN labs Romania S.R.L."
+		"publisher"		"GameMill Entertainment"
+		"homepage"		"https://nerflegends.com/"
+		"listofdlc"		"1793590,1911280,1911281,1911282,1911283,1911284"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Nerf Legends"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ProjectDart/Binaries/Win64/ProjectDart.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1279911"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5697259113938506460"
+					"size"		"18633965493"
+					"download"		"7624397856"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtest"
+				{
+					"gid"		"78FBF34594D23DC49C32157F9F1318A2"
+					"size"		"C78A416588F6938EB6A4CB6ECDBA872C"
+					"download"		"7F3804679725CED4F803B6E7A9675FF2"
+				}
+				"private_tests"
+				{
+					"gid"		"58A0028F9C082B448C3C6E95EB84DFBC"
+					"size"		"B6F90FD936AD1665E28BBE2D6D5CB4CD"
+					"download"		"ED7189B42A1C078B2275FB4EC9BBA372"
+				}
+				"stable"
+				{
+					"gid"		"E0CC647CA7CC6A4B9BC48019163D3E09"
+					"size"		"1D7764786827F68539026B50E3328C6E"
+					"download"		"021C5B555FA14C833BFF1206D127501A"
+				}
+				"test"
+				{
+					"gid"		"B697F1F929AFC207BF74648D0F8754DC"
+					"size"		"D367E1D0432370B65F56A7D325D8D07B"
+					"download"		"CAE9B3F4BB1CC621465932A0F17C298F"
+				}
+				"ui_tests"
+				{
+					"gid"		"F0DAC5451E6F23B362EB8626F840DACF"
+					"size"		"2D46C221E007C5ED9C28AD7975D50E07"
+					"download"		"B857594D4E74BDD1B24B861747FA9D30"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8513540"
+				"timeupdated"		"1649788548"
+			}
+			"devtest"
+			{
+				"buildid"		"8309463"
+				"pwdrequired"		"1"
+				"timeupdated"		"1646395815"
+			}
+			"private_tests"
+			{
+				"buildid"		"8480538"
+				"pwdrequired"		"1"
+				"timeupdated"		"1648820400"
+			}
+			"stable"
+			{
+				"buildid"		"7497210"
+				"pwdrequired"		"1"
+				"timeupdated"		"1633639003"
+			}
+			"test"
+			{
+				"buildid"		"8513540"
+				"pwdrequired"		"1"
+				"timeupdated"		"1649341431"
+			}
+			"ui_tests"
+			{
+				"buildid"		"8138671"
+				"pwdrequired"		"1"
+				"timeupdated"		"1643922362"
+			}
+		}
+	}
+}
