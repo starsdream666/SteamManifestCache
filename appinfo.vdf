@@ -1,0 +1,262 @@
+"appinfo"
+{
+	"appid"		"1807080"
+	"common"
+	{
+		"name"		"Ghost Exile"
+		"type"		"Game"
+		"clienttga"		"8891d1e8f38c0ea45654b8d5e9b8844f8713a7a5"
+		"clienticon"		"42ce2d24dfa416b6fa60951cad1486b508f5515f"
+		"icon"		"f2b10fd9ec4ef4eefe06603baf297802946f0577"
+		"logo"		"8df83cc4e365f679fe07b77067c9f4aaf67f69c4"
+		"logo_small"		"8df83cc4e365f679fe07b77067c9f4aaf67f69c4_thumb"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1807080_eula_0"
+				"name"		"Ghost Exile EULA"
+				"url"		"https://store.steampowered.com//eula/1807080_eula_0"
+				"version"		"1"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"62.30626360958118"
+				"height_pct"		"66.07024519549373"
+			}
+		}
+		"store_asset_mtime"		"1688300465"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"LostOneTeam"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"LostOneTeam"
+			}
+		}
+		"primary_genre"		"70"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1641563858"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1807080"
+		"store_tags"
+		{
+			"0"		"1667"
+			"1"		"3843"
+			"2"		"1685"
+			"3"		"3859"
+			"4"		"1721"
+			"5"		"19"
+			"6"		"1759"
+			"7"		"6426"
+			"8"		"3839"
+			"9"		"493"
+			"10"		"4166"
+			"11"		"492"
+			"12"		"6730"
+			"13"		"4191"
+			"14"		"4182"
+			"15"		"5711"
+			"16"		"21978"
+		}
+		"review_score"		"8"
+		"review_percentage"		"87"
+	}
+	"extended"
+	{
+		"developer"		"LostOneTeam"
+		"publisher"		"LostOneTeam"
+	}
+	"config"
+	{
+		"installdir"		"GhostExile"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"GhostExile.exe"
+				"description_loc"
+				{
+					"english"		"Start with SRS (Speech recognition)"
+				}
+				"description"		"Start with SRS (Speech recognition)"
+			}
+			"1"
+			{
+				"executable"		"GhostExile.exe"
+				"arguments"		"-nosrs"
+				"description_loc"
+				{
+					"english"		"Start without SRS (No speech recognition)"
+				}
+				"description"		"Start without SRS (No speech recognition)"
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229007"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1807081"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1882472789596425020"
+					"size"		"11575813538"
+					"download"		"4721706400"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta-part-2"
+				{
+					"gid"		"D6C5F0173C6EF6B6F2B68400922C7567"
+					"size"		"089600B500A5BC7C4EA16B3CC75AD44E"
+					"download"		"17E8E03136452CB3C9552F5EA656768F"
+				}
+				"old-build"
+				{
+					"gid"		"4739EF19D1B1CE0C31C43ED8316565CA"
+					"size"		"F2050115149EA360AEF5AD1BB23AD34B"
+					"download"		"6438A652D2844905151AF7687424AE8B"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11679189"
+				"timeupdated"		"1689120536"
+			}
+			"beta-part-2"
+			{
+				"buildid"		"11679189"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689119500"
+			}
+			"old-build"
+			{
+				"buildid"		"7997483"
+				"pwdrequired"		"1"
+				"timeupdated"		"1662192291"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"5242880"
+		"maxnumfiles"		"5"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"SteamCloudDocuments"
+				"path"		"SavesDir"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
