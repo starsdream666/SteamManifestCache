@@ -1,0 +1,146 @@
+"appinfo"
+{
+	"appid"		"802060"
+	"common"
+	{
+		"name"		"Spencer"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"ce1c9f1250c7a684784fe4f13250205d2c006e96"
+		"logo_small"		"ce1c9f1250c7a684784fe4f13250205d2c006e96_thumb"
+		"icon"		"80251bdea418d4d4eddb83274f38282f9b687180"
+		"clienttga"		"95d105e9f33b71f158002fc58c0fe1d368bd2923"
+		"clienticon"		"f29fa296e9e1d5f3cc53226857115144601f67cb"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+		}
+		"metacritic_name"		"Spencer"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+		}
+		"store_asset_mtime"		"1667036093"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"EntwicklerX"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"EntwicklerX"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_23"		"1"
+			"category_22"		"1"
+			"category_43"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1521817589"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"802060"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"597"
+			"2"		"19"
+			"3"		"1625"
+			"4"		"5395"
+		}
+	}
+	"extended"
+	{
+		"developer"		"EntwicklerX"
+		"publisher"		"EntwicklerX"
+		"homepage"		"http://www.entwickler-x.de/spencer"
+	}
+	"config"
+	{
+		"installdir"		"Spencer"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Spencer.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"802061"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2574098537742711793"
+					"size"		"51908498"
+					"download"		"51017136"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9737415"
+				"timeupdated"		"1666016447"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinSavedGames"
+				"path"		"Spencer"
+				"pattern"		"*.bin"
+			}
+		}
+	}
+}
