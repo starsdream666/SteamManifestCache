@@ -1,0 +1,313 @@
+"appinfo"
+{
+	"appid"		"1398750"
+	"common"
+	{
+		"name"		"Sunset Mall"
+		"type"		"Game"
+		"releasestate"		"released"
+		"clienttga"		"ec187558ddeec2e52be05191942df1f9d2528cfb"
+		"clienticon"		"d59c37e9973f6fb6eba7ca45bc1ca2c213f5c21d"
+		"icon"		"c40a9f4bab8fb8685ed5a53ff4045109f3acd9ec"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"b48b598db0f3b8a5dbea6cbc94a84d7dfdf8752b"
+		"logo_small"		"b48b598db0f3b8a5dbea6cbc94a84d7dfdf8752b_thumb"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1677788211"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Cyan Dreams"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Cyan Dreams"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Sunset Mall"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_15"		"1"
+			"category_1"		"1"
+			"category_25"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_27"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1600871958"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1398750"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"597"
+			"2"		"1773"
+			"3"		"3834"
+			"4"		"5652"
+			"5"		"4191"
+			"6"		"4004"
+			"7"		"4562"
+			"8"		"4305"
+			"9"		"4726"
+			"10"		"3839"
+			"11"		"3964"
+			"12"		"4252"
+			"13"		"7743"
+			"14"		"6691"
+			"15"		"13190"
+			"16"		"4845"
+			"17"		"4695"
+			"18"		"19"
+			"19"		"4106"
+		}
+		"review_score"		"7"
+		"review_percentage"		"82"
+	}
+	"extended"
+	{
+		"developer"		"Cyan Dreams"
+		"publisher"		"Cyan Dreams"
+		"homepage"		"https://www.sunsetmallgame.com/"
+		"listofdlc"		"1409850,1500430,1500431,1500440,1500441,1500442,2001710"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Sunset Mall"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SunsetMall.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"SunsetMall.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"2"
+			{
+				"executable"		"SunsetMall.app\\Contents\\MacOS\\Sunset Mall"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"3"
+			{
+				"executable"		"Sunset Mall Classic/Sunset Mall.exe"
+				"type"		"option1"
+				"config"
+				{
+					"ownsdlc"		"2001710"
+				}
+				"description_loc"
+				{
+					"english"		"Sunset Mall Classic"
+				}
+				"description"		"Sunset Mall Classic"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"hasdepotsindlc"		"1"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229006"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1398751"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"865592855757989581"
+					"size"		"1296376189"
+					"download"		"411060096"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"76E82EEB26110EEC0AE75ACA7AE7A42C"
+					"size"		"5363C361C81B73078702170052629911"
+					"download"		"D6E0761905A2D5EB29BFC8C88C624A45"
+				}
+			}
+		}
+		"1398752"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6153201890642390301"
+					"size"		"495469368"
+					"download"		"104261520"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"3D998A4F2FBEE02D92C7BEE8808A9B0B"
+					"size"		"7B159D9472D215010C7DEB130705648B"
+					"download"		"8B3A22660D60369141F3D08C1AEA6BC6"
+				}
+			}
+		}
+		"1398753"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7335250477498806875"
+					"size"		"1360597202"
+					"download"		"413941584"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"16D4BD6BF49628911F008B826AD0E6FB"
+					"size"		"B86473FD5B16B8C65E062C10E97E6058"
+					"download"		"50BE6D0D403A5F1F65D797E488ABD40E"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10731086"
+				"timeupdated"		"1678381474"
+			}
+			"beta"
+			{
+				"buildid"		"10731086"
+				"pwdrequired"		"1"
+				"timeupdated"		"1678381409"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"1"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"SunsetMall/Saved/SaveGames/"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
