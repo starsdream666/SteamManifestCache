@@ -1,0 +1,399 @@
+"appinfo"
+{
+	"appid"		"1125910"
+	"common"
+	{
+		"name"		"Crowns and Pawns: Kingdom of Deceit"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"clienticon"		"739bf64e421bbeffbe380d9123763134bb92c012"
+		"clienttga"		"3c113806ea96745e2265c1e06a0ef4febfb59508"
+		"icon"		"f468f2bfaf7fbba9f329e315dba4d50c7120e0da"
+		"logo"		"ee439025153582eb6c14d36f8ab41cacf3639449"
+		"logo_small"		"ee439025153582eb6c14d36f8ab41cacf3639449_thumb"
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"russian"		"1"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1693526400"
+			"tested_build_id"		"12056697"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Crowns and Pawns: Kingdom of Deceit"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"40.31505250875147"
+				"height_pct"		"74.31610829472837"
+			}
+		}
+		"store_asset_mtime"		"1683101986"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Tag of Joy"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Thunderful Publishing"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Thunderful Publishing"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_23"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1651849222"
+		"metacritic_score"		"78"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/crowns-and-pawns-kingdom-of-deceit?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1125910"
+		"store_tags"
+		{
+			"0"		"1698"
+			"1"		"21"
+			"2"		"1742"
+			"3"		"5716"
+			"4"		"1664"
+			"5"		"7208"
+			"6"		"4166"
+			"7"		"6426"
+			"8"		"5613"
+			"9"		"3871"
+			"10"		"597"
+			"11"		"4195"
+			"12"		"4305"
+			"13"		"6815"
+			"14"		"4182"
+			"15"		"4136"
+			"16"		"8369"
+			"17"		"6691"
+			"18"		"5372"
+			"19"		"1756"
+		}
+		"review_score"		"8"
+		"review_percentage"		"83"
+	}
+	"extended"
+	{
+		"developer"		"Tag of Joy"
+		"publisher"		"Thunderful Publishing"
+		"homepage"		"https://crownsandpawns.com/"
+	}
+	"config"
+	{
+		"installdir"		"Crowns and Pawns Kingdom of Deceit"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Crowns and Pawns.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Crowns and Pawns.app\\Contents\\MacOS\\Crowns and Pawns"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Crowns and Pawns.x86_64"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigdetails"
+		{
+			"3023635761"
+			{
+				"controller_type"		"controller_neptune"
+				"enabled_branches"		"testing"
+				"use_action_block"		"false"
+			}
+			"3023636377"
+			{
+				"controller_type"		"controller_neptune"
+				"enabled_branches"		"testing"
+				"use_action_block"		"false"
+			}
+		}
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"65524"
+	}
+	"depots"
+	{
+		"1125911"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5128448277444935576"
+					"size"		"2236135792"
+					"download"		"546421616"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"3692760CAB2E411531C33A67B796FC57"
+					"size"		"3CA95E76E175A8074C2DC079440E5839"
+					"download"		"0D6DDAA7A2366A54735C015BD8C67BD3"
+				}
+				"testing"
+				{
+					"gid"		"710B699DA4191354A1CF17FCFCDAD9E4"
+					"size"		"7B52FE3AF8812E8A76366525934B5F10"
+					"download"		"A83FAA7FB0C55DAA81440AE7CC88143C"
+				}
+			}
+		}
+		"1125912"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4085195192536796071"
+					"size"		"2261061172"
+					"download"		"573880080"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"C35DB86A9C7B4D287B8B1538572C1BB0"
+					"size"		"D6F7895E25F59D6A4F2651FF2295E28F"
+					"download"		"8B50FBBD89C4D42DE9E2C201D76C60FD"
+				}
+				"testing"
+				{
+					"gid"		"42F424341C43B34F50138A5598D9B95F"
+					"size"		"2FE3C43275704321765474BDA53491CF"
+					"download"		"5233903FC41187A507041FC067B83715"
+				}
+			}
+		}
+		"1125913"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8115655316758673268"
+					"size"		"2249440168"
+					"download"		"549203584"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"2BBAD5C16AEBFB4EC1C3FB06EB5D7597"
+					"size"		"BF3BE74F4EF5B67576E6FE9E6B418758"
+					"download"		"1D4D1A341EDC3455530B72AB13BA737E"
+				}
+				"testing"
+				{
+					"gid"		"190B9DE46910CAC77E3A1A3535BF00E4"
+					"size"		"874138D389F04C5F08232E6B5B62C5CE"
+					"download"		"17D181CD41988F54E613C8F1E2EF051C"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9417090"
+				"timeupdated"		"1661874172"
+			}
+			"development"
+			{
+				"buildid"		"9417090"
+				"pwdrequired"		"1"
+				"timeupdated"		"1661873359"
+			}
+			"testing"
+			{
+				"buildid"		"12056697"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693295667"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Tag of Joy/Crowns and Pawns/steam_{64BitSteamID}/saves"
+				"pattern"		"*.sv"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Tag of Joy/Crowns and Pawns/steam_{64BitSteamID}/saves"
+						"replace"		"Tag of Joy/Crowns and Pawns/steam_{64BitSteamID}/saves"
+					}
+				}
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxHome"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Tag of Joy/Crowns and Pawns/steam_{64BitSteamID}/saves"
+						"replace"		".config/unity3d/Tag of Joy/Crowns and Pawns/steam_{64BitSteamID}/saves"
+					}
+				}
+			}
+		}
+	}
+}
