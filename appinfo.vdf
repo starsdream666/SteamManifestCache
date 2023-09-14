@@ -1,0 +1,209 @@
+"appinfo"
+{
+	"appid"		"1873080"
+	"common"
+	{
+		"name"		"Datascape"
+		"type"		"Game"
+		"icon"		"907f4670a30a202cf9a422aa80f519f15e21a3d8"
+		"clienticon"		"cad9b4b6df50bdf7e25bbd684af780cecce5e886"
+		"clienttga"		"cda451be631177cff85be9c0fd7969a3db8887dd"
+		"clienticns"		"134201996d7fc7d75573692c6e1b0e6f84d0fdb2"
+		"releasestate"		"released"
+		"oslist"		"windows,linux"
+		"osarch"		"64"
+		"osextended"		""
+		"linuxclienticon"		"6a67204a7a366a423168fb69a30064aef6b61601"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"32.88621622466641"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1665021318"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Philip Fertsman"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Nicholas Gard"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Philip Fertsman"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1665421310"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1873080"
+		"store_tags"
+		{
+			"0"		"4115"
+			"1"		"3834"
+			"2"		"5502"
+			"3"		"11014"
+			"4"		"4845"
+			"5"		"7743"
+			"6"		"5900"
+			"7"		"4191"
+			"8"		"1695"
+			"9"		"6869"
+			"10"		"4094"
+			"11"		"21"
+			"12"		"4305"
+			"13"		"3839"
+			"14"		"4106"
+			"15"		"4400"
+			"16"		"1680"
+			"17"		"7926"
+			"18"		"7481"
+			"19"		"4182"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Philip Fertsman"
+		"publisher"		"Philip Fertsman"
+	}
+	"config"
+	{
+		"installdir"		"Datascape"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Datascape.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Datascape.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english"
+		"1873081"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7116341928021036229"
+					"size"		"2121045411"
+					"download"		"660798400"
+				}
+			}
+		}
+		"1873082"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+		}
+		"1873083"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6813094464843933927"
+					"size"		"2083891795"
+					"download"		"616177888"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10155761"
+				"timeupdated"		"1671122649"
+			}
+		}
+	}
+}
