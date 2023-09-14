@@ -1,0 +1,181 @@
+"appinfo"
+{
+	"appid"		"822930"
+	"common"
+	{
+		"name"		"Wolf Tails"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"icon"		"b42b46695d3e136415b340260e964034edfcb765"
+		"logo"		"69cddc5eec18f922b1016c76c4082be8add38a51"
+		"logo_small"		"69cddc5eec18f922b1016c76c4082be8add38a51_thumb"
+		"clienttga"		"af723a81756e3caf9bce313703642577af99bed9"
+		"clienticon"		"20089fbf38ae60ccebf0223860ab02cbe7046a89"
+		"metacritic_name"		"Wolf Tails"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"48.132586341275"
+				"height_pct"		"97.51045670818418"
+			}
+		}
+		"store_asset_mtime"		"1683766227"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Razzart Visual"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Razzart Visual"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Razzart Visual"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1525421505"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"822930"
+		"store_tags"
+		{
+			"0"		"12095"
+			"1"		"3799"
+			"2"		"6650"
+			"3"		"4085"
+			"4"		"5611"
+			"5"		"24904"
+			"6"		"4947"
+			"7"		"492"
+			"8"		"597"
+			"9"		"9130"
+			"10"		"44868"
+			"11"		"5984"
+			"12"		"7208"
+			"13"		"4182"
+			"14"		"1721"
+		}
+		"review_score"		"9"
+		"review_percentage"		"95"
+	}
+	"extended"
+	{
+		"developer"		"Razzart Visual"
+		"publisher"		"Razzart Visual"
+		"homepage"		"https://www.razzartvisual.com"
+		"listofdlc"		"943850"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Wolf Tails"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"WolfTails.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"WolfTails.sh"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"2"
+			{
+				"executable"		"WolfTails.app"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"822931"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6808270240413980430"
+					"size"		"485884152"
+					"download"		"412893824"
+				}
+			}
+		}
+		"943850"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4554391290252589121"
+					"size"		"926"
+					"download"		"576"
+				}
+			}
+			"dlcappid"		"943850"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3121252"
+				"timeupdated"		"1536913134"
+			}
+		}
+	}
+}
