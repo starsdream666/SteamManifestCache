@@ -1,0 +1,175 @@
+"appinfo"
+{
+	"appid"		"603320"
+	"common"
+	{
+		"name"		"Age of Defense"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"44c56260a5019998c90d520fb60e26a4a5952644"
+		"logo_small"		"44c56260a5019998c90d520fb60e26a4a5952644_thumb"
+		"icon"		"9c4da2b1444f548ddd6e830d7d9b4040af355de8"
+		"clienttga"		"f3acf8d87319bf46dd77d726b0adbe86f5b4c3d6"
+		"clienticon"		"781674e46f2d794d138d904f2b0c103e06c2a797"
+		"releasestate"		"released"
+		"metacritic_name"		"Age of Defense"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1576243868"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Battlecruiser Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Battlecruiser Games"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"2"
+			"2"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1558983264"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"603320"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"1645"
+			"2"		"9"
+			"3"		"493"
+			"4"		"1676"
+		}
+		"review_score"		"6"
+		"review_percentage"		"78"
+	}
+	"extended"
+	{
+		"developer"		"Battlecruiser Games"
+		"publisher"		"Battlecruiser Games"
+		"homepage"		"http://battlecruiser-games.com/aod.php"
+	}
+	"config"
+	{
+		"installdir"		"Age of Defense"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"AoD.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"603321"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"564428883362048402"
+					"size"		"1616444626"
+					"download"		"1581233152"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11892690"
+				"timeupdated"		"1691498231"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"16384"
+		"maxnumfiles"		"5"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"SavesDir"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
