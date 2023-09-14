@@ -1,0 +1,298 @@
+"appinfo"
+{
+	"appid"		"572220"
+	"common"
+	{
+		"name"		"MageQuit"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"clienticon"		"988ff08eae8deba670c245051a3449f221108ac1"
+		"clienttga"		"210185675dc5c01362aa75f376d98fbf6f5cb8c0"
+		"icon"		"da38ff08f1f4956e0e0fdd4cca3bf3e509b97fe0"
+		"logo"		"0b4f3651de0918138129284da91d4077fe051377"
+		"logo_small"		"0b4f3651de0918138129284da91d4077fe051377_thumb"
+		"releasestate"		"released"
+		"osextended"		"macos64"
+		"clienticns"		"88128533277dbb4996657131943f2624e0324863"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1653091200"
+			"tested_build_id"		"8247674"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"MageQuit"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"70.828471411902"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1645724031"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Bowlcut Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Bowlcut Studios"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_37"		"1"
+			"category_24"		"1"
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_28"		"1"
+			"category_22"		"1"
+			"category_44"		"1"
+			"category_49"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_39"		"1"
+			"category_27"		"1"
+			"category_43"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1570725120"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"572220"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"492"
+			"2"		"9"
+			"3"		"3859"
+			"4"		"1718"
+			"5"		"7368"
+			"6"		"1775"
+			"7"		"4057"
+			"8"		"3878"
+			"9"		"3968"
+			"10"		"4840"
+		}
+		"review_score"		"8"
+		"review_percentage"		"94"
+	}
+	"extended"
+	{
+		"developer"		"Bowlcut Studios"
+		"publisher"		"Bowlcut Studios"
+		"homepage"		"https://magequit.com"
+	}
+	"config"
+	{
+		"installdir"		"MageQuit"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MageQuit.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Contents\\MacOS\\osx-32bit"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"MageQuit.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"572221"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"778446277035062881"
+					"size"		"1000705420"
+					"download"		"306767888"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"6C601C728C9B614E15037AE0D529953D"
+					"size"		"C23D7A40823B27FB857158A010149A51"
+					"download"		"9FAB96AB3042D91BAB27B304E83E952F"
+				}
+				"supersecretbeta"
+				{
+					"gid"		"D2631CDED173CADD9625C9D35BADF19B"
+					"size"		"F10A06BDFC7D5B7258FAAB485252A6F6"
+					"download"		"1A4D06B4AACC4D13FAA01CA987C152BF"
+				}
+			}
+		}
+		"572222"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"35967351382007419"
+					"size"		"1006768990"
+					"download"		"311534976"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"DB2FF524D91A386599CDE818BBFF0064"
+					"size"		"FEC8352C7D324A4A8D7EF7BB45CE326F"
+					"download"		"8A208F3691D41A1F258A27F48F09FBA1"
+				}
+				"supersecretbeta"
+				{
+					"gid"		"A35568FA0FA6F8D7F59D74BED2073D5D"
+					"size"		"E7364E872ACEC9EB91022F6162C06FB5"
+					"download"		"8C3C6786AEAC34AF253B48EA74B1D408"
+				}
+			}
+		}
+		"572223"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1231022654971362680"
+					"size"		"1124952217"
+					"download"		"427602992"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"CB05C9B92FD37F9B12797E2696ED4080"
+					"size"		"2EBE8A256D96721B42C69BCC92211F12"
+					"download"		"0E0197627DFE63FFCA3E0FA1BC33ABC5"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9538762"
+				"timeupdated"		"1663871739"
+			}
+			"beta"
+			{
+				"buildid"		"9538762"
+				"pwdrequired"		"1"
+				"timeupdated"		"1663463631"
+			}
+			"supersecretbeta"
+			{
+				"buildid"		"8247674"
+				"pwdrequired"		"1"
+				"timeupdated"		"1645482898"
+			}
+		}
+	}
+}
