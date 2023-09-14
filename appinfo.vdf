@@ -1,0 +1,317 @@
+"appinfo"
+{
+	"appid"		"506900"
+	"common"
+	{
+		"name"		"Downward"
+		"type"		"Game"
+		"oslist"		"windows,linux"
+		"clienticon"		"37699837b0d977200046d7fa4f651a0f21612f2e"
+		"clienttga"		"659b3623fcf5ada24e927edbe81c61c6469f6889"
+		"icon"		"2bc7d34cdb8eeb708204f2334646b951adb324b6"
+		"logo"		"6cedfd71c19cedc4c6565c231bd17c19a86bb80b"
+		"logo_small"		"6cedfd71c19cedc4c6565c231bd17c19a86bb80b_thumb"
+		"releasestate"		"released"
+		"osarch"		""
+		"linuxclienticon"		"02e48626c492f767ca206493e557c065a4962980"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1652227200"
+			"tested_build_id"		"2137550"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Downward"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1499968225"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Caracal Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Caracal Games"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1499929200"
+		"steam_release_date"		"1499968880"
+		"metacritic_score"		"77"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/downward?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"506900"
+		"store_tags"
+		{
+			"0"		"4036"
+			"1"		"3839"
+			"2"		"21"
+			"3"		"492"
+			"4"		"1695"
+			"5"		"1625"
+			"6"		"4182"
+			"7"		"1684"
+			"8"		"4166"
+			"9"		"19"
+			"10"		"3942"
+			"11"		"1664"
+			"12"		"1756"
+			"13"		"1742"
+			"14"		"4026"
+			"15"		"597"
+			"16"		"5395"
+			"17"		"4234"
+			"18"		"5350"
+			"19"		"493"
+		}
+		"review_score"		"6"
+		"review_percentage"		"72"
+	}
+	"extended"
+	{
+		"developer"		"Caracal Games"
+		"publisher"		"Caracal Games"
+		"homepage"		"http://www.downwardgame.com"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Downward"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Downward.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Downward/Binaries/Linux/Downward"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229002"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english"
+		"506902"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7447155666331393729"
+					"size"		"11106683058"
+					"download"		"5601926448"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"experimental"
+				{
+					"gid"		"78F182D3B8FB185CC87305EF867B006B"
+					"size"		"1FB5FECB57D14A9461217D966796AA55"
+					"download"		"48A527B481C4784DA991AD2DA9B94AD2"
+				}
+				"runners"
+				{
+					"gid"		"31D44100490CA582D347F339D4E087EF"
+					"size"		"DC84195A12D8BBD86D23E6F870F0AE1E"
+					"download"		"D6B8CDCAC1C80E9054F20D465047472A"
+				}
+			}
+		}
+		"506903"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5914578441175781364"
+					"size"		"11453621976"
+					"download"		"5464652880"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"experimental"
+				{
+					"gid"		"449065D6385295E0E48CC21258498C41"
+					"size"		"5EC85FC0DD2BFE1AFA292E7CDEA9A43D"
+					"download"		"AD5484B9447957576F54A1144E862E02"
+				}
+				"runners"
+				{
+					"gid"		"80E6CD0781276042046B1660B49F7E51"
+					"size"		"6432716BDF4B77D6722709AC6364F16F"
+					"download"		"DA98E9F60D824F107AF58B1F4C596799"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2137550"
+				"timeupdated"		"1506017781"
+			}
+			"experimental"
+			{
+				"buildid"		"1994257"
+				"pwdrequired"		"1"
+				"timeupdated"		"1508661483"
+			}
+			"runners"
+			{
+				"buildid"		"1994257"
+				"pwdrequired"		"1"
+				"timeupdated"		"1501242040"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"104857600"
+		"maxnumfiles"		"20"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"Downward"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+		"hidecloudui"		"1"
+		"ignoreexternalfiles"		"1"
+	}
+}
