@@ -1,0 +1,182 @@
+"appinfo"
+{
+	"appid"		"613010"
+	"common"
+	{
+		"name"		"Secret in Story"
+		"type"		"Game"
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+		}
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"613010_eula_0"
+				"name"		"Secret in Story EULA"
+				"url"		"http://store.steampowered.com//eula/613010_eula_0"
+			}
+		}
+		"logo"		"41d4319c9a1666d6d12de7e55ca56a8519fb948b"
+		"logo_small"		"41d4319c9a1666d6d12de7e55ca56a8519fb948b_thumb"
+		"icon"		"50ad6cd173db18eaa7a6fb6be13fffaffb3a5f3c"
+		"clienttga"		"f66b1fe25a9d76716d948a79b8ae9dc39fdca6d3"
+		"clienticon"		"d01f99f417f16e031d887edcbccb40875b506577"
+		"osextended"		"macos64"
+		"metacritic_name"		"Secret in Story"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"german"		"capsule_231x87_german.jpg"
+		}
+		"header_image"
+		{
+			"schinese"		"header_schinese.jpg"
+			"english"		"header.jpg"
+			"tchinese"		"header_tchinese.jpg"
+			"japanese"		"header_japanese.jpg"
+			"german"		"header_german.jpg"
+		}
+		"store_asset_mtime"		"1498272760"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Naivus Luo"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Naivus Luo"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1497877247"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"613010"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"21"
+		}
+		"review_score"		"5"
+		"review_percentage"		"68"
+	}
+	"extended"
+	{
+		"developer"		"Naivus Luo"
+		"publisher"		"Naivus Luo"
+	}
+	"config"
+	{
+		"installdir"		"Secret in Story"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SecretInStory.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"SecretInStory.app/Contents/MacOS/SecretInStory"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,schinese,tchinese,japanese"
+		"613011"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7384414985610001709"
+					"size"		"831893503"
+					"download"		"59384912"
+				}
+			}
+		}
+		"613012"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3152765810844312894"
+					"size"		"824767836"
+					"download"		"57162112"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9049314"
+				"timeupdated"		"1656748620"
+			}
+		}
+	}
+}
