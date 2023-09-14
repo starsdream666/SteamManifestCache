@@ -1,0 +1,318 @@
+"appinfo"
+{
+	"appid"		"665360"
+	"common"
+	{
+		"name"		"Comedy Night"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"icon"		"adeee993be9886ca04225bbd04e5d296597d2698"
+		"logo"		"7d63365b2be67a909afbd769679e35ae83b6a46f"
+		"logo_small"		"7d63365b2be67a909afbd769679e35ae83b6a46f_thumb"
+		"clienttga"		"0533150801cbe39767e21f6eedd934d7f913f855"
+		"clienticon"		"f499fe57bb9c3c4d3dc7405e7e3d9af600a86acc"
+		"clienticns"		"26349bf71c18e444c8c42d3d5b3c3c46fd478402"
+		"linuxclienticon"		"8ed1b6bbc81cee559cc283a8cf04e2f92ed8c8d4"
+		"osextended"		"macos64"
+		"market_presence"		"1"
+		"metacritic_name"		"Comedy Night"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"koreana"		"capsule_231x87_koreana.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"japanese"		"header_japanese.jpg"
+			"english"		"header.jpg"
+			"koreana"		"header_koreana.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"21.69134572398815"
+				"height_pct"		"42.28501244916315"
+			}
+		}
+		"store_asset_mtime"		"1635169068"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Lighthouse Games Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Lighthouse Games Studio"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Lighthouse Games Studio"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"3"
+			"3"		"28"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_18"		"1"
+			"category_35"		"1"
+			"category_29"		"1"
+			"category_49"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_25"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1503597635"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"665360"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"1719"
+			"2"		"13782"
+			"3"		"4136"
+			"4"		"5923"
+			"5"		"19995"
+			"6"		"9204"
+			"7"		"1775"
+			"8"		"4726"
+			"9"		"122"
+			"10"		"10235"
+			"11"		"4747"
+			"12"		"1697"
+			"13"		"10397"
+			"14"		"15172"
+			"15"		"4166"
+			"16"		"599"
+			"17"		"1685"
+			"18"		"3843"
+			"19"		"3859"
+		}
+		"review_score"		"6"
+		"review_percentage"		"75"
+	}
+	"extended"
+	{
+		"developer"		"Lighthouse Games Studio"
+		"publisher"		"Lighthouse Games Studio"
+		"homepage"		"http://www.lighthousegamesstudio.com"
+	}
+	"config"
+	{
+		"installdir"		"Comedy Night"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Comedy Night.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"Comedy Night.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"3"
+			{
+				"executable"		"Contents\\MacOS\\Comedy Night"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"665361"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1938961675512401833"
+					"size"		"901455092"
+					"download"		"332234768"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta_test"
+				{
+					"gid"		"AC0061D7B4890C89FBBE1F7C28BDED8A"
+					"size"		"9098F5690DBEDB9998143DE51C57A641"
+					"download"		"915D9DAA5FD23C634022EE42949ED9CD"
+				}
+				"internal_testing"
+				{
+					"gid"		"C80A7B8D5B9F1FD05244DEC1CB3A94D0"
+					"size"		"F1C01B92594C70686AEA8AB8D0CE4EBC"
+					"download"		"6675CFEFFAA070D6A0768AE533AD504B"
+				}
+			}
+		}
+		"665362"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4795317773337869890"
+					"size"		"905504654"
+					"download"		"335398208"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta_test"
+				{
+					"gid"		"57704AF1EF9F2B4CFF13242F2EBED71A"
+					"size"		"DA94305D675F26D9E626193E84A8156D"
+					"download"		"24C231704406EFCFB5FA68FA3C26DFC1"
+				}
+				"internal_testing"
+				{
+					"gid"		"DF8B8B351ABE534F4A82E05541FE8147"
+					"size"		"52A01D18AEEA53DC8091CF18C8D27965"
+					"download"		"92F9BD0A1478DAF87BD6CB1B8766BB06"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12131412"
+				"timeupdated"		"1694083623"
+			}
+			"beta_test"
+			{
+				"buildid"		"12131412"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694083595"
+			}
+			"internal_testing"
+			{
+				"buildid"		"12131412"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694083605"
+			}
+		}
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#status_atmainmenu"		"At the main menu"
+					"#status_performing"		"On stage performing"
+					"#status_watching"		"Watching a performance"
+					"#status_avatareditor"		"Player Setup menu"
+					"#status_watchingvideo"		"Watching a video"
+				}
+			}
+		}
+	}
+}
