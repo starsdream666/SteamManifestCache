@@ -1,0 +1,787 @@
+"appinfo"
+{
+	"appid"		"1290000"
+	"common"
+	{
+		"name"		"PowerWash Simulator"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"9694ce6950255fa911b3be056278a695bad19433"
+		"logo_small"		"9694ce6950255fa911b3be056278a695bad19433_thumb"
+		"icon"		"cdc9126e41c1968c52fb86b46f0391db1fa23420"
+		"clienttga"		"902cb9a01877871802da5dd2239dab30762c923d"
+		"clienticon"		"d6c1e841c0e58b431aaf6d0153180ef9342062c2"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1290000_eula_0"
+				"name"		"PowerWash Simulator EULA"
+				"url"		"https://store.steampowered.com//eula/1290000_eula_0"
+				"version"		"11"
+			}
+		}
+		"name_localized"
+		{
+			"schinese"		"冲就完事模拟器"
+		}
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"turkish"		"1"
+			"brazilian"		"1"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1644969600"
+			"tested_build_id"		"7512242"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn"
+			"library_hero"		"en"
+			"library_logo"		"en,zh-cn"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"66.05139616292632"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1688053655"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"FuturLab"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Square Enix"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_23"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_27"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1657814608"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1290000"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"1654"
+			"2"		"599"
+			"3"		"3839"
+			"4"		"3810"
+			"5"		"4191"
+			"6"		"9204"
+			"7"		"4136"
+			"8"		"3859"
+			"9"		"1742"
+			"10"		"1685"
+			"11"		"4305"
+			"12"		"5350"
+			"13"		"4175"
+			"14"		"3843"
+			"15"		"552282"
+			"16"		"4182"
+			"17"		"492"
+			"18"		"97376"
+			"19"		"4166"
+		}
+		"review_score"		"9"
+		"review_percentage"		"97"
+	}
+	"extended"
+	{
+		"developer"		"FuturLab"
+		"publisher"		"Square Enix"
+		"homepage"		"https://powerwashsimulator.com"
+		"listofdlc"		"2088510,2088511,2236950"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"PowerWash Simulator"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"PowerWashSimulator.exe"
+				"type"		"default"
+			}
+		}
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"1290001"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6806393687585849138"
+					"size"		"7423185307"
+					"download"		"6263355360"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"community"
+				{
+					"gid"		"118AC1EC416E5075DE0B3C2BBFF0A984"
+					"size"		"53FA0DD3A36DC2EED7BAE393A69480E0"
+					"download"		"E54C2966972E1ADFC3F372B81707D48E"
+				}
+				"content-midgar"
+				{
+					"gid"		"E94B22D6BF5741A7CFCA36A6E3464A45"
+					"size"		"D392631D3C99EA951836BEEDE3E2B755"
+					"download"		"9F008DEF40F8DA9C3469543D3994C0BF"
+				}
+				"content-tr"
+				{
+					"gid"		"2676FE60B496FD270169355A97131D29"
+					"size"		"4E057BEB65115B1E543E9E6171055BE7"
+					"download"		"020EB03D95381D087D4A20CC6624DD44"
+				}
+				"demo"
+				{
+					"gid"		"8FA807C4A288D0B3FE9BFCDD72FCF24B"
+					"size"		"1C8C3AF82B1D46C8A5133E913C0B9E8B"
+					"download"		"3ADE0A0D73093A75EA13E987B961BE65"
+				}
+				"dlc_approval"
+				{
+					"gid"		"F28577CD10343C396FE1FEECF6F9A8BA"
+					"size"		"77705902988CC8BAFF07EF4DB1A7FC1C"
+					"download"		"DFF8F5AAB29AA84E7AFF2D911C435CC6"
+				}
+				"fl-dev1"
+				{
+					"gid"		"C36CFB743CDA6F042A3BBC611394D05F"
+					"size"		"55C7EAEABDA34834284B9AE67B5B9A88"
+					"download"		"93E39C3FED5CEC8648DBC6025C4FE8F3"
+				}
+				"fl-dev2"
+				{
+					"gid"		"CBF193298BB03A614BF795CCC897CD84"
+					"size"		"0D4E8A06E5CA18308791A5A53BA7E3E8"
+					"download"		"A8566D585CDCA458C21A6999A5370A5B"
+				}
+				"fl-qa1"
+				{
+					"gid"		"725F0D160F97ECBD838E0920B271A768"
+					"size"		"E2368FAFBD8C8457A4C7BE0D8B18DD53"
+					"download"		"12E69DE504F36037174F1A7F860DC9A2"
+				}
+				"fl-qa2"
+				{
+					"gid"		"730B2DA682DB03CAFC940DBA1F3FDA26"
+					"size"		"58487363A74294A5231BFAF4C2F2FF0A"
+					"download"		"1195E33E213411A46F69A2969A2AB0EE"
+				}
+				"fl-qa3"
+				{
+					"gid"		"886885806A51C59545AC9E1272D8E12D"
+					"size"		"F6CAD2999EFDA9E490A9862D0B634F11"
+					"download"		"51C3877093129F17DF604EA9990BD7B9"
+				}
+				"forthfloor"
+				{
+					"gid"		"E846548D25A8667D2802A516502A65BB"
+					"size"		"62D035BA493CCBBFAC26CEA051006B39"
+					"download"		"3D415C0ADDC86F0136662F465076CC96"
+				}
+				"locqa1"
+				{
+					"gid"		"8EA37C2D45B9F1AF5B968E5529F941EA"
+					"size"		"CA7805714584C8CC27A5DC84973970CB"
+					"download"		"0A9ED73D04F17DD796EE3666A04E6052"
+				}
+				"locqa2"
+				{
+					"gid"		"58B0511BF393F5A6701AF945E7EAEC1C"
+					"size"		"C1965A36B74567722166D904779FD02F"
+					"download"		"48AACDA9EB711FF8A43641D80CCFE10E"
+				}
+				"mktng1"
+				{
+					"gid"		"6AB5BE22311705B21BFCE37B99350986"
+					"size"		"1C2144CE5026B4A34F77B264620600B3"
+					"download"		"536408617B78FBEB5403246C639080BF"
+				}
+				"se-press"
+				{
+					"gid"		"3260BECA02A3A926F27948E8F89ECBB4"
+					"size"		"62E223A24C398A472C332717F3B1333D"
+					"download"		"20EDFC9BC71B5657EC88BDC74A57835B"
+				}
+				"se-qa1"
+				{
+					"gid"		"2EC6ACCB4B1B065855276D7D069F0EBF"
+					"size"		"DA2DFA3AE4DE60B0FCC49A14461072A9"
+					"download"		"343EBD21A123D96DEC5BA6B967939D0F"
+				}
+				"se-qa2"
+				{
+					"gid"		"E9C7A6A2C72A6D22BD8BBA729C2983FE"
+					"size"		"D52CE433A0C5074784F6C0AFC5FEBEF2"
+					"download"		"1BE9BB53A4A716DF4A8CCED6A2C77E24"
+				}
+				"se-tgs"
+				{
+					"gid"		"913B135A0FBE2494CB1E768512DFD10C"
+					"size"		"E246EDA82E023E09ADD8598B54F240DD"
+					"download"		"95C5B35736844D83580CC0E5C1FD81A8"
+				}
+				"se_capture"
+				{
+					"gid"		"0AEEAC15352615EBCFFA85482FDF2EBF"
+					"size"		"DA4C150C8134882564676B41E664BF16"
+					"download"		"8B351570859F6EAAC778A6E70FF9F8A2"
+				}
+				"se_event"
+				{
+					"gid"		"86F89D407376A3BAE15A0E30B7538453"
+					"size"		"60735218BF9FDCD035661135AD781E7C"
+					"download"		"D0E9F4130CC4C74D0F31589D33F6FAAF"
+				}
+				"se_mastering"
+				{
+					"gid"		"BCD043C137CC2C21543906688522B45C"
+					"size"		"B9125FDFCA32AEB6E910BE3C6FD581D3"
+					"download"		"9A43C20647CB97A5D0A69614E458970A"
+				}
+			}
+		}
+		"2088510"
+		{
+			"dlcappid"		"2088510"
+		}
+		"2088511"
+		{
+			"dlcappid"		"2088511"
+		}
+		"2236950"
+		{
+			"dlcappid"		"2236950"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8963485074096636821"
+					"size"		"536854002"
+					"download"		"438702576"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"demo"
+				{
+					"gid"		"600A4618555ABF92135AC6EBFC14ACB8"
+					"size"		"B4B77950F17066DE11F3D856D7D7E801"
+					"download"		"FBCDA6B9463C5B9866291E7CF61D692F"
+				}
+				"fl-dev1"
+				{
+					"gid"		"7C905B6DBF20A0E8E1AA19E823E169AA"
+					"size"		"1BD4EE5C5C7E28E8FF6D35891B3DB73B"
+					"download"		"0573D0736874C39948BEDCE0BC76370C"
+				}
+				"fl-dev2"
+				{
+					"gid"		"073D1BBA36FF8EE17D9E0C81D0CE4FC2"
+					"size"		"AF9A1DD053C1ABB9F152D84FE36AEDFA"
+					"download"		"3257728A986293025BD9DC35CC914B4E"
+				}
+				"fl-qa1"
+				{
+					"gid"		"E1C14AA995962850719F104FC1222830"
+					"size"		"137D51A403AD6FD0D313174152AA2406"
+					"download"		"A2F54217D7E90356B3B636BAFE263354"
+				}
+				"fl-qa2"
+				{
+					"gid"		"58E5CF58421F38C4245214598887DB7D"
+					"size"		"1B3C49E0249506C023BF68EDEBDFB42D"
+					"download"		"1C10070DC72E1DC24163F939AD66CACF"
+				}
+				"fl-qa3"
+				{
+					"gid"		"9D6E18342904EF8A3B5835CB5A975CB0"
+					"size"		"38B1BC45ED7F215F68EB5F8661406E4C"
+					"download"		"9F0602EB448AF68E7148FAF97390BF4D"
+				}
+				"locqa1"
+				{
+					"gid"		"A454CD4EA080CB7CAEAAC2D0F50C2A76"
+					"size"		"5CC4E4B38838A3D95AF754147ECBF5D7"
+					"download"		"C3FF7828FD252B76C59E0640312D5FB5"
+				}
+				"locqa2"
+				{
+					"gid"		"5255441E7C07968B8B45AA021D0E9817"
+					"size"		"83BB158F35F6F46116E7E632846D9EEC"
+					"download"		"257700F1024C425333B9C87298DB3D1C"
+				}
+				"mktng1"
+				{
+					"gid"		"4A4FF3B231F2BC142F0AED126643B953"
+					"size"		"9DFE9A826343DCF5A5620EEBDCFF3EAA"
+					"download"		"45F73BB33065A9CE84B8A1688B7316C3"
+				}
+				"se-qa1"
+				{
+					"gid"		"1DDD3C60792E33F8BDB104A4108DE7CB"
+					"size"		"232376A13F13C9F3743D1C14FB178884"
+					"download"		"443B7C6C988D40F38A3A696505EAD58C"
+				}
+				"se-qa2"
+				{
+					"gid"		"00033C4CDD5294D7AFFA2681E6D24B82"
+					"size"		"2841C043CEFE6AD932BECFF7FC92E50E"
+					"download"		"40A11C6D582BFAD6962536502804170D"
+				}
+				"se_event"
+				{
+					"gid"		"235356DEAA35417218D9CCA98A3FC029"
+					"size"		"045AB210DD92ADDA93F215E49D86480F"
+					"download"		"19F77A809DACF11667C641EB32F016B3"
+				}
+				"se_mastering"
+				{
+					"gid"		"AB0CF0F78C05FBB61293FB8E2B59FA31"
+					"size"		"66C18126A82214C4DFCA4393740D920D"
+					"download"		"627BEC40B336563A5ACADAB6F598CEBE"
+				}
+			}
+		}
+		"2464650"
+		{
+			"dlcappid"		"2464650"
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"fl-dev1"
+				{
+					"gid"		"014DF3CC9A2B4A7E13F3641FE7019E19"
+					"size"		"64E6296E34D911F20F41642D95301F41"
+					"download"		"C6B98AB277C932ADAF622B20E1FB4D8D"
+				}
+				"fl-dev2"
+				{
+					"gid"		"8D5725825A5182E84E0D80AB1CE31966"
+					"size"		"AB0B3C67874D3DA782BD497D23219D1D"
+					"download"		"B8C2B875DFBC5B14C941C582632D347C"
+				}
+				"fl-qa1"
+				{
+					"gid"		"EF29FCC4B80C6D7BE03278F6A1B42F42"
+					"size"		"BBC94B4902C4BF66666EE1BE840D6C68"
+					"download"		"7BA0DAFB883EF571F6E9226A0558B4CA"
+				}
+				"fl-qa2"
+				{
+					"gid"		"71396B54477028F5DFF2E6331088E11F"
+					"size"		"463D9DC5864548416DBCBDFAA2F7F80F"
+					"download"		"173A7570464659794E8DB6EA378614B9"
+				}
+				"fl-qa3"
+				{
+					"gid"		"04C4487DC95919ED0E675A5B171B0062"
+					"size"		"EBA1659E98C68A153A6700AA8D85DCCD"
+					"download"		"FDC67EE1626A9DBBF342E4BB9377A621"
+				}
+				"locqa1"
+				{
+					"gid"		"DE51A727246C7A88F515D116500A6DDF"
+					"size"		"12814203ED378C3831142AD418FEE3CB"
+					"download"		"1A2601CCFE7EA210FE88C3574D2E3BD8"
+				}
+				"locqa2"
+				{
+					"gid"		"BE9A73F08D16A3D545D0574003BCF532"
+					"size"		"06E9FB2C94BF7E98076BAC882A5B2810"
+					"download"		"CAE8E1B582942868AB6D9EF7007106B4"
+				}
+				"mktng1"
+				{
+					"gid"		"E47697399E46A8F4EE2D1F8A14825709"
+					"size"		"641BD91BE0808CB3313ABD57E41E4EAD"
+					"download"		"A093057B01007D12B905D07ACFFF10FC"
+				}
+				"se-qa1"
+				{
+					"gid"		"6962F50387636BC12E78925FE1187238"
+					"size"		"5639712BD197AC057DB47DD0AFF1B05D"
+					"download"		"8DCC76337C5E39579ED39BF143135063"
+				}
+				"se-qa2"
+				{
+					"gid"		"DBA0BBE47D320D724C3B64D2305778A4"
+					"size"		"2A05482DC8F87206FE414B08B8A6C2EF"
+					"download"		"F173D9B5DF6ABE1ADCC6EB3EB7C7BD2F"
+				}
+				"se_event"
+				{
+					"gid"		"4330FA42879E7BC33A971DB4891AA3C8"
+					"size"		"9EC3B857A7ECB8CE2759C05F9E7935C3"
+					"download"		"F765E1A44902BB9595FB6AC84B259AC0"
+				}
+				"se_mastering"
+				{
+					"gid"		"56376494AF22B054B3EBC2727F3674FE"
+					"size"		"21A4D81AC99574B3FB724C3F4313DA5B"
+					"download"		"CA688E87CA0595C0A30947A68E0A821A"
+				}
+			}
+		}
+		"2348940"
+		{
+			"dlcappid"		"2348940"
+		}
+		"2562180"
+		{
+			"dlcappid"		"2562180"
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"fl-dev1"
+				{
+					"gid"		"6FC568C229FD5F5E67F1678AE31DC9C1"
+					"size"		"DACC10B65390D51535CBE7A5C9FDDB78"
+					"download"		"787BD2EA2A10DE5596EF93B3C9CBCDEC"
+				}
+				"fl-dev2"
+				{
+					"gid"		"147F2B81D6A0C9122029FC225CD42297"
+					"size"		"2A71F1DEA5227EB83A10CD3721ACC9E4"
+					"download"		"AF19A2A34A6D322B2A5DE906BDC38B19"
+				}
+				"fl-qa1"
+				{
+					"gid"		"988E48689D51A14562DF96F11208FBB1"
+					"size"		"777150DA64BFA834C693403711DE1CAC"
+					"download"		"1D15D4694CB7639E240FCD6AB8651B7B"
+				}
+				"fl-qa2"
+				{
+					"gid"		"8628F2B0E314CF1881F4F7BAED4684E5"
+					"size"		"CC22A98D9D4EECE73C36DE26DBBDD73C"
+					"download"		"B9A90F5FDEA0FEEE5F2F5C5A1BE2A3E2"
+				}
+				"locqa2"
+				{
+					"gid"		"7FD807A88685781D66CA599ECF1E4C2E"
+					"size"		"01949EC424C608F0A53EE6FF3661B36B"
+					"download"		"766CDC8DA7DFCC76AA9E19DB93041251"
+				}
+				"se-qa1"
+				{
+					"gid"		"4F7DABAF91302E24A4A596DB71EE4856"
+					"size"		"5EF2C73239D0876F89A10779F2D28BAF"
+					"download"		"363A7822C5139DE7F6ADA56D5375065C"
+				}
+			}
+		}
+		"2593920"
+		{
+			"dlcappid"		"2593920"
+		}
+		"2593910"
+		{
+			"dlcappid"		"2593910"
+		}
+		"2593930"
+		{
+			"dlcappid"		"2593930"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11596307"
+				"timeupdated"		"1693501183"
+			}
+			"community"
+			{
+				"buildid"		"11210355"
+				"pwdrequired"		"1"
+				"timeupdated"		"1684320123"
+			}
+			"content-midgar"
+			{
+				"buildid"		"10461758"
+				"pwdrequired"		"1"
+				"timeupdated"		"1676378562"
+			}
+			"content-tr"
+			{
+				"buildid"		"10314903"
+				"pwdrequired"		"1"
+				"timeupdated"		"1675083245"
+			}
+			"demo"
+			{
+				"buildid"		"12160120"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694443197"
+			}
+			"dlc_approval"
+			{
+				"buildid"		"9339365"
+				"pwdrequired"		"1"
+				"timeupdated"		"1661327999"
+			}
+			"fl-dev1"
+			{
+				"buildid"		"12161877"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694457582"
+			}
+			"fl-dev2"
+			{
+				"buildid"		"12069069"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693403414"
+			}
+			"fl-qa1"
+			{
+				"buildid"		"12087161"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694428417"
+			}
+			"fl-qa2"
+			{
+				"buildid"		"12023154"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692884917"
+			}
+			"fl-qa3"
+			{
+				"buildid"		"12158027"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694426235"
+			}
+			"forthfloor"
+			{
+				"buildid"		"10314903"
+				"pwdrequired"		"1"
+				"timeupdated"		"1674825800"
+			}
+			"locqa1"
+			{
+				"buildid"		"11910644"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691751021"
+			}
+			"locqa2"
+			{
+				"buildid"		"12021547"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692944398"
+			}
+			"mktng1"
+			{
+				"buildid"		"11885165"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691490015"
+			}
+			"se-press"
+			{
+				"buildid"		"9030634"
+				"pwdrequired"		"1"
+				"timeupdated"		"1656928763"
+			}
+			"se-qa1"
+			{
+				"buildid"		"12021547"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693315368"
+			}
+			"se-qa2"
+			{
+				"buildid"		"12158027"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694512531"
+			}
+			"se-tgs"
+			{
+				"buildid"		"9460164"
+				"pwdrequired"		"1"
+				"timeupdated"		"1662480195"
+			}
+			"se_capture"
+			{
+				"buildid"		"9982030"
+				"pwdrequired"		"1"
+				"timeupdated"		"1669050788"
+			}
+			"se_event"
+			{
+				"buildid"		"11976437"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692703387"
+			}
+			"se_mastering"
+			{
+				"buildid"		"12158027"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694512485"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"2000000000"
+		"maxnumfiles"		"5000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"FuturLab/PowerWash Simulator/SaveData"
+				"pattern"		"*"
+				"recursive"		"1"
+			}
+		}
+	}
+}
