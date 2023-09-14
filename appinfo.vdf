@@ -1,0 +1,311 @@
+"appinfo"
+{
+	"appid"		"984170"
+	"common"
+	{
+		"name"		"The Seven Chambers"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"21b99630d2c0b972c5524e512aad506d35bb8503"
+		"logo_small"		"21b99630d2c0b972c5524e512aad506d35bb8503_thumb"
+		"icon"		"fa61ec8b8887cc6eb7aac1b386e200d50335bd96"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"clienttga"		"616faf5c404734e0724ef99be1f326ed32f79aa8"
+		"clienticon"		"cc55614e16973ef522ad09977ddf27eacc0ee75c"
+		"osextended"		"macos64,macosapplesilicon,macosnotarized"
+		"clienticns"		"4f4a9e59f4818e59b2afb3a0616fdc9e93796e6c"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1691053800"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Three Headed Eagle"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Cateia Games"
+			}
+			"2"
+			{
+				"type"		"developer"
+				"name"		"Goldfinch Studios"
+			}
+			"3"
+			{
+				"type"		"publisher"
+				"name"		"Cateia Games"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1543923200"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"984170"
+		"store_tags"
+		{
+			"0"		"3834"
+			"1"		"1664"
+			"2"		"1738"
+			"3"		"1698"
+			"4"		"7208"
+			"5"		"3839"
+			"6"		"3871"
+			"7"		"6052"
+			"8"		"4598"
+			"9"		"5613"
+			"10"		"4305"
+			"11"		"4604"
+			"12"		"1684"
+			"13"		"6129"
+			"14"		"4057"
+			"15"		"16094"
+			"16"		"21"
+			"17"		"597"
+			"18"		"5984"
+			"19"		"8369"
+		}
+		"review_score"		"4"
+		"review_percentage"		"36"
+	}
+	"extended"
+	{
+		"developer"		"Three Headed Eagle"
+		"publisher"		"Cateia Games"
+		"homepage"		"https://cateia.com/game/the-seven-chambers/"
+	}
+	"config"
+	{
+		"installdir"		"The Seven Chambers"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"sevenchambers.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"sevenchambers_mac_steam.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"984171"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7830082499363749113"
+					"size"		"630231080"
+					"download"		"569778160"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"D2DCC326C0C36175762F4A6BC19FCDD9"
+					"size"		"3672F069AD7B199C80E84F48097D64E0"
+					"download"		"21F11670E938F6941DF0B8A99E495A08"
+				}
+			}
+		}
+		"984172"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2636616782606235775"
+					"size"		"646883235"
+					"download"		"576638176"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"601B564E74627563119BEFECE51F4166"
+					"size"		"DDE4E5973C5B408DA9C9EB816CA89156"
+					"download"		"94BAB28E7E181AD91EDB38A3530D34FF"
+				}
+			}
+		}
+		"baselanguages"		"english,german,french,italian,spanish,dutch"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11848954"
+				"timeupdated"		"1691053857"
+			}
+			"development"
+			{
+				"buildid"		"11848954"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690986137"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000000"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"userData"
+				"pattern"		"*.cfg"
+				"recursive"		"1"
+			}
+			"1"
+			{
+				"root"		"gameinstall"
+				"path"		"userData"
+				"pattern"		"*.bin"
+				"recursive"		"1"
+			}
+			"2"
+			{
+				"root"		"gameinstall"
+				"path"		"userData"
+				"pattern"		"*.diff"
+				"recursive"		"1"
+			}
+			"3"
+			{
+				"root"		"gameinstall"
+				"path"		"userData"
+				"pattern"		"*.backup"
+				"recursive"		"1"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"userData"
+						"replace"		"Seven Chambers"
+					}
+				}
+			}
+		}
+	}
+}
