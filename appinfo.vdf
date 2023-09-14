@@ -1,0 +1,364 @@
+"appinfo"
+{
+	"appid"		"1110770"
+	"common"
+	{
+		"name"		"About Love, Hate And The Other Ones 2"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"logo"		"e2847967b8568c4441125d7cf9b63d414a85e47c"
+		"logo_small"		"e2847967b8568c4441125d7cf9b63d414a85e47c_thumb"
+		"icon"		"dcec1f860e1ec9337358d43263039f153d5fd375"
+		"clienttga"		"863e18cb3acc62e6b9b50f4f200bea9143910031"
+		"clienticon"		"7758033070adfc550fabbd7b70926b43fe22f61a"
+		"osextended"		"macos64"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"brazilian"		"1"
+		}
+		"clienticns"		"1612c802b714c227d449b469437fa148fd9c111d"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"46.62829463149288"
+				"height_pct"		"90.97287554486623"
+			}
+		}
+		"store_asset_mtime"		"1588759065"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Black Pants Studio"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Tobias Bilgeri"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Black Pants Studio"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"About Love, Hate and the other ones"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1588959405"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1110770"
+		"store_tags"
+		{
+			"0"		"1664"
+			"1"		"4026"
+			"2"		"4191"
+			"3"		"6129"
+			"4"		"4562"
+			"5"		"1719"
+			"6"		"4726"
+			"7"		"1654"
+			"8"		"5537"
+			"9"		"492"
+			"10"		"9"
+			"11"		"4182"
+			"12"		"21"
+			"13"		"5851"
+			"14"		"597"
+			"15"		"4136"
+			"16"		"5395"
+			"17"		"7569"
+		}
+		"review_score"		"7"
+		"review_percentage"		"97"
+	}
+	"extended"
+	{
+		"developer"		"Black Pants Studio"
+		"publisher"		"Black Pants Studio"
+	}
+	"config"
+	{
+		"installdir"		"LoveAndHate2"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"LoveAndHate2.app/Contents/MacOS/LoveAndHate2"
+				"description"		"Launch"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"1"
+			{
+				"executable"		"LoveAndHate2/loveandhate2.exe"
+				"description"		"Launch"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,koreana,spanish,schinese,russian,japanese,brazilian"
+		"1110771"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6239433401614948365"
+					"size"		"318379750"
+					"download"		"214408560"
+				}
+				"legacy"
+				{
+					"gid"		"3921651995466348481"
+					"size"		"317777760"
+					"download"		"213762944"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"C07CD2E9B7A5318BF5719A04CBE1D529"
+					"size"		"EA6913EF79231A78554C2372B6E75583"
+					"download"		"8EF82E979418FADCD38DD04A21971761"
+				}
+				"tobislocalbuilds"
+				{
+					"gid"		"E37ECA43CFFE6DAF6967FBF014CBEF4F"
+					"size"		"E7A0110F06F9A98A20004912A79BDEC3"
+					"download"		"FA6285460C77DEF12FD3B05581985BC2"
+				}
+			}
+		}
+		"1110773"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8287399222349005189"
+					"size"		"734828651"
+					"download"		"178217984"
+				}
+				"legacy"
+				{
+					"gid"		"8287399222349005189"
+					"size"		"734828651"
+					"download"		"178217984"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"FD25AC8B95245ABF7D6C4EB9881ACD36"
+					"size"		"7001082036FDE41453AF3CA340462210"
+					"download"		"8AB61B8AFD6315684565D94900F6C300"
+				}
+				"tobislocalbuilds"
+				{
+					"gid"		"A2C2BE979964FE0EDEC0E154D7D24F36"
+					"size"		"BB3E9E05D0361E0D5820017246A838D9"
+					"download"		"12C6F4E85E2E8ABC39E3E18F7654EA79"
+				}
+			}
+		}
+		"1110772"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4587357121531237849"
+					"size"		"324090554"
+					"download"		"218052848"
+				}
+				"legacy"
+				{
+					"gid"		"3185521431544287902"
+					"size"		"323327922"
+					"download"		"217339984"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"6E7A7BE46EF101E36972181DA9D8126D"
+					"size"		"C4392B22539A4EAD140FDD272167EA8D"
+					"download"		"8F8D8FADBDE0926F042DF0B4239715E3"
+				}
+				"tobislocalbuilds"
+				{
+					"gid"		"63FCF16809915A37BBD8CCA5E0E2662C"
+					"size"		"2366FFA6A3CE426834583A444B028340"
+					"download"		"C2760ED0893145FF9AE78943A15FBD0D"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5766299"
+				"timeupdated"		"1604162852"
+			}
+			"development"
+			{
+				"buildid"		"4979536"
+				"pwdrequired"		"1"
+				"timeupdated"		"1588586798"
+			}
+			"legacy"
+			{
+				"buildid"		"4985825"
+				"description"		"Orignal Released Version (May 2020)"
+				"timeupdated"		"1604231731"
+			}
+			"tobislocalbuilds"
+			{
+				"buildid"		"5766299"
+				"pwdrequired"		"1"
+				"timeupdated"		"1604162494"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"20000"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"2"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"blackpants/loveandhate2/{64BitSteamID}"
+				"pattern"		"*.love"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"blackpants/loveandhate2/{64BitSteamID}"
+						"replace"		"blackpants/loveandhate2/{64BitSteamID}"
+					}
+				}
+			}
+		}
+	}
+}
