@@ -1,0 +1,147 @@
+"appinfo"
+{
+	"appid"		"1375880"
+	"common"
+	{
+		"name"		"Rave Heart"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"bc76a9c6913099d458007e5bbbe42f3ab06465ff"
+		"clienttga"		"d1eeb8338586c020e46fdb09951f70b4bc076555"
+		"icon"		"be29261908695e09509c609cf74a7a1020a940ff"
+		"clienticns"		"1d70025cb00fcb2edefd96cff9004607ca4eeeb3"
+		"linuxclienticon"		"222cce9236b0233eb82af43547a71f3eaf811582"
+		"logo"		"e2929eee0f1826c3945468086efbc87e7344b271"
+		"logo_small"		"e2929eee0f1826c3945468086efbc87e7344b271_thumb"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"92.99883313885647"
+				"height_pct"		"86.8558537164569"
+			}
+		}
+		"store_asset_mtime"		"1692871481"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Starmage"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Starmage"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1598598000"
+		"steam_release_date"		"1598616576"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1375880"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"10695"
+			"2"		"4434"
+			"3"		"1684"
+			"4"		"4295"
+			"5"		"3942"
+			"6"		"5577"
+			"7"		"1742"
+			"8"		"4182"
+			"9"		"4325"
+		}
+		"review_score"		"7"
+		"review_percentage"		"100"
+	}
+	"extended"
+	{
+		"developer"		"Starmage"
+		"publisher"		"Starmage"
+		"homepage"		"https://whitemagekyle.wixsite.com/starmagerpg/product-page/rave-heart"
+	}
+	"config"
+	{
+		"installdir"		"Rave Heart"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Game.exe"
+				"description"		"Launch Rave Heart"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"228982"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1375881"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8872619826683372215"
+					"size"		"1008940392"
+					"download"		"998613648"
+				}
+			}
+		}
+		"1375882"
+		{
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12021417"
+				"timeupdated"		"1692871996"
+			}
+		}
+	}
+}
