@@ -1,0 +1,208 @@
+"appinfo"
+{
+	"appid"		"1631090"
+	"common"
+	{
+		"name"		"Alien maze"
+		"type"		"Game"
+		"logo"		"129e7d55d6538f02133b54c55ac198e22052e1b8"
+		"logo_small"		"129e7d55d6538f02133b54c55ac198e22052e1b8_thumb"
+		"icon"		"dfd70c8211b715dd4386bc64b321a0440d73017d"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"5987bbb49ec16af2cc7074f4b22e4e681b1e9711"
+		"clienttga"		"22ac231e258701893f4cf6815ec3673d40429d4a"
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+		}
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"41.36522753792299"
+				"height_pct"		"67.09807646639753"
+			}
+		}
+		"store_asset_mtime"		"1693136199"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"No.25"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"No.25"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1676018269"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1631090"
+		"store_tags"
+		{
+			"0"		"5611"
+			"1"		"597"
+			"2"		"12095"
+			"3"		"1720"
+			"4"		"6650"
+			"5"		"4085"
+			"6"		"9130"
+			"7"		"9"
+			"8"		"5379"
+			"9"		"3871"
+			"10"		"7208"
+			"11"		"4182"
+			"12"		"4236"
+			"13"		"1625"
+			"14"		"4136"
+			"15"		"24904"
+			"16"		"1741"
+			"17"		"1684"
+			"18"		"493"
+			"19"		"1664"
+		}
+		"review_score"		"8"
+		"review_percentage"		"85"
+	}
+	"extended"
+	{
+		"developer"		"No.25"
+		"publisher"		"No.25"
+		"listofdlc"		"1641280"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Alien maze"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"AlienMaze.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,schinese,tchinese,japanese"
+		"1631091"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8697564502904530381"
+					"size"		"539132637"
+					"download"		"91505488"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"EC70FE4A86D5221371117A42BDFCACD7"
+					"size"		"242517C24C43C871045B42EC16E01E9D"
+					"download"		"1DF737A26EA7AD2B6A63CDFD50AA19FE"
+				}
+			}
+		}
+		"1641280"
+		{
+			"dlcappid"		"1641280"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5896258048722052388"
+					"size"		"983622017"
+					"download"		"160271920"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"4E36ADD42443EBBFA8D58DFF13B99270"
+					"size"		"440E6063AE0B3287AD82A1F33F51273C"
+					"download"		"56A4B814FF9519D0A5EEC266E4829CA0"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10364027"
+				"timeupdated"		"1674194188"
+			}
+			"beta"
+			{
+				"buildid"		"10586079"
+				"pwdrequired"		"1"
+				"timeupdated"		"1676793200"
+			}
+		}
+	}
+}
