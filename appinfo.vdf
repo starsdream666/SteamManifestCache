@@ -1,0 +1,418 @@
+"appinfo"
+{
+	"appid"		"1429500"
+	"common"
+	{
+		"name"		"Frontier Hunter: Erza’s Wheel of Fortune"
+		"type"		"Game"
+		"releasestate"		"released"
+		"name_localized"
+		{
+			"japanese"		"フロンティアハンター ～エルザの運命の輪～"
+			"koreana"		"프런티어 헌터： 엘사의 운명의 바퀴"
+			"russian"		"Пограничный охотник: Колесо судьбы Эрзы"
+			"french"		"La chasseresse de frontières : la roue du destin d’Erza"
+			"schinese"		"边境猎人: 艾尔莎的命运之轮"
+			"tchinese"		"邊境獵人: 艾爾莎的命運之輪"
+			"vietnamese"		"Thợ săn biên giới: Bánh xe vận may của Erza"
+			"thai"		"Frontier Hunter: วงล้อแห่งโชคชะตาของ Erza"
+			"arabic"		"فرونتير هنتر: عجلة الحظ في إرزا"
+		}
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64,macosapplesilicon,macosnotarized"
+		"logo"		"63096e1c42b3e16c2a934656f1cb2ad07c4abfe2"
+		"logo_small"		"63096e1c42b3e16c2a934656f1cb2ad07c4abfe2_thumb"
+		"icon"		"03091dfbb369fe40ca4a3ad05e933109e01231d9"
+		"clienttga"		"a4950a0ffa1dafd2801ccadf83daf02b28f69ac9"
+		"clienticon"		"7c436e6103507a693b59d6ddf1a47ef985e2f505"
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+			"japanese"		"1"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1682035200"
+			"tested_build_id"		"11018570"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-1"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"72.52231961140808"
+				"height_pct"		"67.59487387530017"
+			}
+		}
+		"store_asset_mtime"		"1690554575"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"IceSitruuna"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"IceSitruuna"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"23"
+			"4"		"3"
+			"5"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1671087645"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1429500"
+		"store_tags"
+		{
+			"0"		"1628"
+			"1"		"4434"
+			"2"		"3798"
+			"3"		"4231"
+			"4"		"7208"
+			"5"		"29482"
+			"6"		"122"
+			"7"		"1646"
+			"8"		"3834"
+			"9"		"1720"
+			"10"		"4085"
+			"11"		"19"
+			"12"		"21"
+			"13"		"1684"
+			"14"		"4106"
+			"15"		"1742"
+			"16"		"5379"
+			"17"		"1625"
+			"18"		"4726"
+			"19"		"4975"
+		}
+		"review_score"		"8"
+		"review_percentage"		"86"
+	}
+	"extended"
+	{
+		"developer"		"IceSitruuna"
+		"publisher"		"IceSitruuna"
+		"homepage"		"https://www.iceseaheart.com/"
+		"listofdlc"		"2177410,2177411,2177420,2383090,2559460"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Frontier Hunter"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Frontier_Hunter.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Frontier_Hunter.app"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Frontier_Hunter.exe"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"baselanguages"		"english,schinese,tchinese,japanese"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1429501"
+		{
+			"config"
+			{
+				"oslist"		"windows,linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6503617901070714530"
+					"size"		"7617494667"
+					"download"		"2819477536"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"3E7F5095941FB6724BB9E2B8CCD3A845"
+					"size"		"500AFEA657795661ABB159B0F3893007"
+					"download"		"2B5977558D3A7644BF63586C6312DB00"
+				}
+			}
+		}
+		"2177411"
+		{
+			"dlcappid"		"2177411"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"155144051738553663"
+					"size"		"22011"
+					"download"		"21840"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"C7FA22F231DD8972F22BD7479C0E1EB9"
+					"size"		"B3F6970EE9FB00CA88738A6BC8899101"
+					"download"		"40D0C0A59AC7FC6C1C106B8DAA66BB16"
+				}
+			}
+		}
+		"2177420"
+		{
+			"dlcappid"		"2177420"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1574774707044956456"
+					"size"		"13983"
+					"download"		"13792"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"EADC49BC37A7FA4532B98FDBD757AD66"
+					"size"		"1D975AE18BAF6673C9FFA451FA708F63"
+					"download"		"BACAFE57CA0DBF53E3FDA357F7FB6C61"
+				}
+			}
+		}
+		"1429502"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8900286307676874174"
+					"size"		"7625406747"
+					"download"		"2799276512"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"8A115E728262EBE0F761142194C5A8BC"
+					"size"		"3F013189D29CF2E9FD44049302DB32FE"
+					"download"		"CCF5CE346BFA57D0300084D479E1CB3F"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11926141"
+				"timeupdated"		"1691803350"
+			}
+			"test"
+			{
+				"buildid"		"11926141"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691802879"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"600000000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"IceSitruuna/Frontier_Hunter/PlayerPrefs"
+				"pattern"		"*.*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"1"
+			{
+				"root"		"MacAppSupport"
+				"path"		"com.IceSitruuna.Frontier-Hunter/PlayerPrefs"
+				"pattern"		"*.*"
+				"platforms"
+				{
+					"1"		"MacOS"
+				}
+			}
+			"2"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"IceSitruuna/Frontier_Hunter/PlayerPrefs"
+				"pattern"		"*.*"
+				"platforms"
+				{
+					"1"		"Linux"
+				}
+			}
+		}
+	}
+}
