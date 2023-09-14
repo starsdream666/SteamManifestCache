@@ -1,0 +1,347 @@
+"appinfo"
+{
+	"appid"		"1249480"
+	"common"
+	{
+		"name"		"Ex-Zodiac"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"bcc03cc56c94a9d4e9245843220bdcfc30f838d4"
+		"logo_small"		"bcc03cc56c94a9d4e9245843220bdcfc30f838d4_thumb"
+		"icon"		"1189dae96036a5ba174fc255a78458cf837e8c1c"
+		"clienticon"		"132f61b17ace02b788aa3a12c000f47febcfdfac"
+		"clienttga"		"9eb7b6c2823a7e0e2c6a3b5aebf60003f0f6e9cd"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64"
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"latam"		"1"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1666051200"
+			"tested_build_id"		"9228221"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_NativeResolutionNotSupported"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Ex-Zodiac"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"76.54462242562929"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1683557063"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"MNKY"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Pixeljam"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Pixeljam"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1658400332"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1249480"
+		"store_tags"
+		{
+			"0"		"56690"
+			"1"		"4255"
+			"2"		"1774"
+			"3"		"1773"
+			"4"		"7208"
+			"5"		"15045"
+			"6"		"4191"
+			"7"		"19"
+			"8"		"3964"
+			"9"		"4305"
+			"10"		"1755"
+			"11"		"4004"
+			"12"		"492"
+			"13"		"4182"
+			"14"		"493"
+			"15"		"1756"
+			"16"		"3942"
+		}
+		"review_score"		"9"
+		"review_percentage"		"97"
+	}
+	"extended"
+	{
+		"developer"		"MNKY"
+		"publisher"		"Pixeljam"
+		"homepage"		"https://www.exzodiac.net"
+	}
+	"config"
+	{
+		"installdir"		"Ex-Zodiac"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ExZodiac.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Ex-Zodiac.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"ExZodiac.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1249481"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4264598741810844836"
+					"size"		"215240856"
+					"download"		"136215520"
+				}
+				"beta"
+				{
+					"gid"		"4264598741810844836"
+					"size"		"215240856"
+					"download"		"136215520"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"backer_beta"
+				{
+					"gid"		"83598DA348B4371F31D3B654B31AAC62"
+					"size"		"5C68478E2652237B97CBC6128B0B7D7C"
+					"download"		"82946E712A4FD5F4FC4FA5ED3BCDBC43"
+				}
+			}
+		}
+		"1249482"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6765806604169802776"
+					"size"		"236457736"
+					"download"		"139471968"
+				}
+				"beta"
+				{
+					"gid"		"6765806604169802776"
+					"size"		"236457736"
+					"download"		"139471968"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"backer_beta"
+				{
+					"gid"		"2449C4EE2AAC56B2C56976ACFD95E055"
+					"size"		"B682506D0E4562857DB635D13C02FE0B"
+					"download"		"1B4436098F99B05A800DC2875B789771"
+				}
+			}
+		}
+		"1249483"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2864626703047132738"
+					"size"		"214180253"
+					"download"		"136654032"
+				}
+				"beta"
+				{
+					"gid"		"2864626703047132738"
+					"size"		"214180253"
+					"download"		"136654032"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"backer_beta"
+				{
+					"gid"		"BEF91B4E79C7E17620C3125241DF40D3"
+					"size"		"43DD557EF605F9C6DAA27F2F37FDC03D"
+					"download"		"2761B22AC4D6B991E660C6FCE21A3FD5"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11282202"
+				"timeupdated"		"1684679020"
+			}
+			"backer_beta"
+			{
+				"buildid"		"11282202"
+				"pwdrequired"		"1"
+				"timeupdated"		"1684678477"
+			}
+			"beta"
+			{
+				"buildid"		"11282202"
+				"description"		"Beta test branch"
+				"timeupdated"		"1684679011"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000"
+		"maxnumfiles"		"32"
+	}
+}
