@@ -1,0 +1,419 @@
+"appinfo"
+{
+	"appid"		"1275240"
+	"common"
+	{
+		"name"		"Pandoria"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"name_localized"
+		{
+			"schinese"		"潘多利亚物语"
+		}
+		"clienticon"		"a6576fa475dfd5fd8fb50bcf1a59482fbf5f138a"
+		"clienttga"		"28d5143b14f30864a495b859f144fa9225864d72"
+		"icon"		"0bd6ec2321295bd88659c04cae0907e3c21fefa7"
+		"logo"		"1ebf5faf8f6ae657a2ca85181c0f2d4e61ac172b"
+		"logo_small"		"1ebf5faf8f6ae657a2ca85181c0f2d4e61ac172b_thumb"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"6.2925276774321475"
+				"height_pct"		"20.938445382469396"
+			}
+		}
+		"store_asset_mtime"		"1602192906"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Akuma Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Akuma Studio"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"3"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1593187728"
+		"community_hub_visible"		"1"
+		"gameid"		"1275240"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"597"
+			"2"		"493"
+			"3"		"492"
+			"4"		"1643"
+			"5"		"1695"
+			"6"		"21"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Akuma Studio"
+		"publisher"		"Akuma Studio"
+		"listofdlc"		"1446120"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Client"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Town Of Pandoria.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,russian"
+		"1275241"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		"schinese"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7275790699921602496"
+					"size"		"3072420405"
+					"download"		"1234147328"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"43C5A0B9391DACEEB7FB3BAC8D4764BB"
+					"size"		"5C13F470223BA84F784F587C0D822A57"
+					"download"		"7005E65B1E6D0B811BCE1BD5E85B9064"
+				}
+			}
+		}
+		"1446120"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3171428916572353918"
+					"size"		"4493466530"
+					"download"		"4554923360"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"408B034A50F7D8E29455A694EDC89CEF"
+					"size"		"50A2BD25AEC4F7257ED53DA6CDA05D13"
+					"download"		"0C981DE3F1D6D9288146EB0095B20F91"
+				}
+			}
+			"dlcappid"		"1446120"
+		}
+		"1275242"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7945185263045365819"
+					"size"		"3074949833"
+					"download"		"1233700864"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"EC50477971BB4065B2BAD0CFE78A8DA6"
+					"size"		"18E0D1B383A4933AEEA9E0FC153A46B6"
+					"download"		"1DE4A139339437B1A47D3C5F253F5F77"
+				}
+			}
+		}
+		"1275243"
+		{
+			"config"
+			{
+				"language"		"german"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2730070751024382156"
+					"size"		"3074949833"
+					"download"		"1233700864"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"B490385CCF60CE417686F5ACC0C3E1E9"
+					"size"		"18E0D1B383A4933AEEA9E0FC153A46B6"
+					"download"		"1DE4A139339437B1A47D3C5F253F5F77"
+				}
+			}
+		}
+		"1275244"
+		{
+			"config"
+			{
+				"language"		"russian"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8204025037984068604"
+					"size"		"3074949833"
+					"download"		"1233700496"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"F8DD9A973330F52AEC9856B2B369137C"
+					"size"		"18E0D1B383A4933AEEA9E0FC153A46B6"
+					"download"		"0F958CABDD1D07BA9AE63BE63BD81274"
+				}
+			}
+		}
+		"1275245"
+		{
+			"config"
+			{
+				"language"		"french"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"969850336517519753"
+					"size"		"3074948809"
+					"download"		"1233699984"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"97988C9F377B338AED76198183A35777"
+					"size"		"5C13F470223BA84F784F587C0D822A57"
+					"download"		"E18956DC92AA3F9D617B96485C509BA8"
+				}
+			}
+		}
+		"1275246"
+		{
+			"config"
+			{
+				"language"		"italian"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2675064218412737514"
+					"size"		"3074949321"
+					"download"		"1233701296"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"57781C0B08192A2B276021705A408C92"
+					"size"		"0DE5870E0EBEB91C3A7005E71F41E15E"
+					"download"		"08732F1E21958A9513093826C3E57851"
+				}
+			}
+		}
+		"1275247"
+		{
+			"config"
+			{
+				"language"		"spanish"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1194575009574253220"
+					"size"		"3074949833"
+					"download"		"1233700192"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"F5A7CDDA2D858D56E57860F589799D02"
+					"size"		"18E0D1B383A4933AEEA9E0FC153A46B6"
+					"download"		"303172D5B43780E9ADC432EA54C45615"
+				}
+			}
+		}
+		"1275248"
+		{
+			"config"
+			{
+				"language"		"koreana"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2968295732229244841"
+					"size"		"3074949321"
+					"download"		"1233700544"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"6D86224E6073481B4FDCF8ADE07C8502"
+					"size"		"0DE5870E0EBEB91C3A7005E71F41E15E"
+					"download"		"815A776F32B6E98703E1EA1CDF213413"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6327518"
+				"timeupdated"		"1614834812"
+			}
+			"test"
+			{
+				"buildid"		"6137771"
+				"pwdrequired"		"1"
+				"timeupdated"		"1611641882"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"300"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"NanallyGame/Town Of Pandoria"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
