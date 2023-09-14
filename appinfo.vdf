@@ -1,0 +1,261 @@
+"appinfo"
+{
+	"appid"		"1300700"
+	"common"
+	{
+		"name"		"Kingdom Wars 4"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"5c2c46d5b511151ad55ded92f260d2712ab0fce1"
+		"clienttga"		"9e56f3bf2ec5436e98243955334ba91e62c36774"
+		"icon"		"b9e3f31b9c62572e5f8da2a83c680a23c2cf3cb9"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1300700_eula_0"
+				"name"		"The Plague: Kingdom Wars EULA"
+				"url"		"https://store.steampowered.com//eula/1300700_eula_0"
+			}
+		}
+		"logo"		"278c8c42f09a9ba0da439d2c7662f697f2ae389b"
+		"logo_small"		"278c8c42f09a9ba0da439d2c7662f697f2ae389b_thumb"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"66.10286541278542"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1687274514"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Reverie World Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Reverie World Studios"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Kingdom Wars"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"3"
+			"3"		"28"
+			"4"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_17"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_1"		"1"
+			"category_22"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1634923283"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1300700"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"4364"
+			"2"		"1676"
+			"3"		"4328"
+			"4"		"4172"
+			"5"		"4684"
+			"6"		"3813"
+			"7"		"220585"
+			"8"		"599"
+			"9"		"3810"
+			"10"		"1670"
+			"11"		"7332"
+			"12"		"3987"
+			"13"		"4168"
+			"14"		"4695"
+			"15"		"6310"
+			"16"		"1643"
+			"17"		"1662"
+			"18"		"1678"
+			"19"		"1695"
+		}
+		"review_score"		"5"
+		"review_percentage"		"69"
+	}
+	"extended"
+	{
+		"developer"		"Reverie World Studios"
+		"publisher"		"Reverie World Studios"
+		"homepage"		"http://reverieworld.com"
+		"listofdlc"		"1377570,2403860"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Kingdom Wars 4"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"PKW.exe"
+				"arguments"		"-dev86"
+				"description"		"Launch"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"1"
+		"1300701"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1006272923799617757"
+					"size"		"7500685468"
+					"download"		"2205016416"
+				}
+			}
+		}
+		"1377570"
+		{
+			"dlcappid"		"1377570"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8865263909900973026"
+					"size"		"21375547"
+					"download"		"6968032"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12134373"
+				"timeupdated"		"1694105744"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"pkw"
+				"pattern"		"Campaign*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"pkw"
+				"pattern"		"*.dofsav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"2"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"pkw"
+				"pattern"		"Save*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
