@@ -1,0 +1,324 @@
+"appinfo"
+{
+	"appid"		"693580"
+	"common"
+	{
+		"name"		"Goblins of Elderstone"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"9b7d31d9bdf7df6bf15a5263fb35af841e4f85b5"
+		"logo_small"		"9b7d31d9bdf7df6bf15a5263fb35af841e4f85b5_thumb"
+		"icon"		"2b04d318f55993395725fc31e0af344f7aa5c26e"
+		"clienticon"		"28ef8243ab93964ac66e2db24babfbf8f1054153"
+		"clienttga"		"222bfb7fdb9687780fc0cd2544b7da877bac1bb0"
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"portuguese"		"1"
+			"polish"		"1"
+		}
+		"metacritic_name"		"Goblins of Elderstone"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"koreana"		"capsule_231x87_koreana.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"japanese"		"header_japanese.jpg"
+			"koreana"		"header_koreana.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,ja,ko,zh-cn"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1694465667"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Outerdawn"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Lost Goblin"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Outerdawn"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"28"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1678290660"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"693580"
+		"store_tags"
+		{
+			"0"		"220585"
+			"1"		"1702"
+			"2"		"5300"
+			"3"		"4328"
+			"4"		"1662"
+			"5"		"599"
+			"6"		"12472"
+			"7"		"8945"
+			"8"		"4364"
+			"9"		"9"
+			"10"		"1684"
+			"11"		"4726"
+			"12"		"26921"
+			"13"		"4252"
+			"14"		"1643"
+			"15"		"6310"
+			"16"		"1670"
+			"17"		"4191"
+			"18"		"4182"
+			"19"		"493"
+		}
+		"review_score"		"6"
+		"review_percentage"		"72"
+	}
+	"extended"
+	{
+		"developer"		"Outerdawn"
+		"publisher"		"Outerdawn"
+		"homepage"		"https://www.outerdawn.com/games/goblins"
+	}
+	"config"
+	{
+		"installdir"		"Goblins of Elderstone"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"GoblinsOfElderstone.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"693581"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7726955528365539254"
+					"size"		"3807075018"
+					"download"		"1148616736"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"backers"
+				{
+					"gid"		"AE3A957EB654840FF949601929B01669"
+					"size"		"EAB37DD6FFBD5E63D2798F7408DC9ECF"
+					"download"		"82B4E3FF1F1A0B3C79FD894FD63B39E5"
+				}
+				"demo"
+				{
+					"gid"		"9AB2696A5EDC0A09CEE222409C882B4A"
+					"size"		"D5125FA73DF35AD70132BCB38548C91F"
+					"download"		"171C62846460908884548995F0618C8D"
+				}
+				"discord"
+				{
+					"gid"		"17ADFE46CE48797D1592B43D7DDB7C16"
+					"size"		"1A8B54AE70790BB9C55200A5D6AA439E"
+					"download"		"4FB64286B31A30B107CFAD4A47927EDB"
+				}
+				"qualityassurance"
+				{
+					"gid"		"F7299A8815FEDAF620D617CEFE7B4BCF"
+					"size"		"503E1610998FE2C218DC29A6AE620EE6"
+					"download"		"8FD0CE7CBC963CDA6366202FB623EF47"
+				}
+				"videoteam"
+				{
+					"gid"		"E670EB5BACDD13E8225232E7E5A0FEEB"
+					"size"		"A99245C224F1D3C322A9CA0D60F364E2"
+					"download"		"0B013C751181086B313E46D609D7DFAC"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11627492"
+				"timeupdated"		"1688699899"
+			}
+			"backers"
+			{
+				"buildid"		"9654715"
+				"pwdrequired"		"1"
+				"timeupdated"		"1664939498"
+			}
+			"demo"
+			{
+				"buildid"		"2430997"
+				"pwdrequired"		"1"
+				"timeupdated"		"1515718599"
+			}
+			"discord"
+			{
+				"buildid"		"11627492"
+				"pwdrequired"		"1"
+				"timeupdated"		"1688699882"
+			}
+			"qualityassurance"
+			{
+				"buildid"		"12174858"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694579245"
+			}
+			"videoteam"
+			{
+				"buildid"		"7761136"
+				"pwdrequired"		"1"
+				"timeupdated"		"1637648658"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"500000000"
+		"maxnumfiles"		"200"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"GoblinsOfElderstone/Saved/SaveGames"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
