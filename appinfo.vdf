@@ -1,0 +1,152 @@
+"appinfo"
+{
+	"appid"		"2302670"
+	"common"
+	{
+		"name"		"重返越南"
+		"type"		"Game"
+		"releasestate"		"released"
+		"icon"		"3b8fd23d9b1ec22fc70647047bd03e1ad6e02ccd"
+		"clienttga"		"64ddbb07017c0e07223ddaea34eddbae1a2ddf2a"
+		"clienticon"		"bdcb61cd7ff9906b8c93c5a299225f174fb1bd69"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"43.043497529432386"
+			}
+		}
+		"store_asset_mtime"		"1683890600"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Lu Geng Dong"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Lu Geng Dong"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"1"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"23"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1681217139"
+		"community_hub_visible"		"1"
+		"gameid"		"2302670"
+		"store_tags"
+		{
+			"0"		"1663"
+			"1"		"19"
+			"2"		"1774"
+			"3"		"4191"
+			"4"		"3839"
+			"5"		"13276"
+			"6"		"1742"
+			"7"		"4168"
+			"8"		"4150"
+			"9"		"492"
+			"10"		"493"
+			"11"		"597"
+			"12"		"7926"
+			"13"		"1678"
+			"14"		"4182"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Lu Geng Dong"
+		"publisher"		"Lu Geng Dong"
+	}
+	"config"
+	{
+		"installdir"		"BackToVietnam"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"BackToVietnam\\BackToVietnam.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2302671"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5826038630221869739"
+					"size"		"3120197236"
+					"download"		"1138457408"
+				}
+			}
+		}
+		"baselanguages"		"english,schinese"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11217641"
+				"timeupdated"		"1683891652"
+			}
+		}
+	}
+}
