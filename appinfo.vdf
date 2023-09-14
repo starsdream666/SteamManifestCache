@@ -1,0 +1,1027 @@
+"appinfo"
+{
+	"appid"		"770720"
+	"common"
+	{
+		"name"		"Hunt: Showdown (Test Server)"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"449b63e96d9563899399d7fc2461e77eeec71870"
+		"logo_small"		"449b63e96d9563899399d7fc2461e77eeec71870_thumb"
+		"icon"		"5b6e6df3d86da34a061ef77113483a54317b01e8"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"clienttga"		"811af0a1f53d77319154d8bd0959714057e037b7"
+		"clienticon"		"9ac2aa2b6e6d3d98b05e32702a64d5e3e8b2d75a"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"portuguese"		"1"
+			"polish"		"1"
+			"turkish"		"1"
+		}
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"metacritic_name"		"Hunt: Showdown (Test Server)"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"29.238885222487184"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1596201044"
+		"associations"
+		{
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"steam_release_date"		"1522940400"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"770720"
+		"store_tags"
+		{
+		}
+	}
+	"config"
+	{
+		"installdir"		"Hunt Showdown (Test Server)"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"hunt.exe"
+				"arguments"		"+online_account_client_settings stage_external +sys_dump_type 2"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"3"
+			{
+				"executable"		"hunt.exe"
+				"arguments"		"+online_account_client_settings yellow +online_websvc_skip_tls_cert_validation 1"
+				"type"		"option3"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"qa_testroom latest"
+				}
+				"description_loc"
+				{
+					"english"		"Alice Farm Room"
+				}
+				"description"		"Alice Farm Room"
+			}
+			"9"
+			{
+				"executable"		"hunt.exe"
+				"arguments"		"+online_account_client_settings blue +online_websvc_skip_tls_cert_validation 1"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"qa_testroom latest"
+				}
+				"description_loc"
+				{
+					"english"		"Davant Ranch Room"
+				}
+				"description"		"Davant Ranch Room"
+			}
+			"11"
+			{
+				"executable"		"hunt.exe"
+				"arguments"		"+online_account_client_settings mpQA +online_websvc_skip_tls_cert_validation 1 +sys_dump_type 2 +online_websvc_enable_tls 0"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"qa_testroom qa_testroom_2 latest latest_lwp current"
+				}
+				"description_loc"
+				{
+					"english"		"MP QA server"
+				}
+				"description"		"MP QA server"
+			}
+			"12"
+			{
+				"executable"		"hunt.exe"
+				"arguments"		"+online_account_client_settings local +online_websvc_skip_tls_cert_validation 1"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"qa_testroom latest teamtest latest_lwp"
+				}
+				"description_loc"
+				{
+					"english"		"Local"
+				}
+				"description"		"Local"
+			}
+			"13"
+			{
+				"executable"		"hunt.exe"
+				"arguments"		"+online_account_client_settings test +online_websvc_skip_tls_cert_validation 1"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"qa_testroom latest teamtest latest_lwp"
+				}
+				"description_loc"
+				{
+					"english"		"Prod machine"
+				}
+				"description"		"Prod machine"
+			}
+			"14"
+			{
+				"executable"		"bin\\win_x64\\HuntGame.exe"
+				"arguments"		"+online_account_client_settings stage"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"qa_testroom latest teamtest latest_lwp mkt_recording gamesweek scripted_tutorial"
+				}
+				"description_loc"
+				{
+					"english"		"STGDSN"
+				}
+				"description"		"STGDSN"
+			}
+			"15"
+			{
+				"executable"		"hunt.exe"
+				"arguments"		"+online_account_client_settings stage_cloud"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"qa_testroom"
+				}
+				"description_loc"
+				{
+					"english"		"CLTST"
+				}
+				"description"		"CLTST"
+			}
+			"16"
+			{
+				"executable"		"hunt.exe"
+				"arguments"		"+online_account_client_settings stage_external +sys_dump_type 2 +lwp_authorizeToggling 1"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"lightweight_profiler\t"
+				}
+				"description_loc"
+				{
+					"english"		"lightweight_profiler\t"
+				}
+				"description"		"lightweight_profiler\t"
+			}
+			"17"
+			{
+				"executable"		"bin\\win_x64\\HuntGame.exe"
+				"arguments"		"+online_account_client_settings rework -online_server capi1-cndev-lw-wc.huntshowdown.com -online_server_port 61088"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"equipment_rework"
+				}
+				"description_loc"
+				{
+					"english"		"equipment_rework"
+				}
+				"description"		"equipment_rework"
+			}
+			"18"
+			{
+				"executable"		"bin\\win_x64\\HuntGame.exe"
+				"arguments"		"+online_account_client_settings stage +r_d3d11_setResourcePriority  0 +g_showHighContrastPrompts 1 "
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"scripted_tutorial"
+				}
+				"description_loc"
+				{
+					"english"		"scripted_tutorial"
+				}
+				"description"		"scripted_tutorial"
+			}
+			"21"
+			{
+				"executable"		"hunt.exe"
+				"arguments"		"+online_account_client_settings stage"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"1.13_functionality_testing"
+				}
+				"description_loc"
+				{
+					"english"		"1.13_functionality_testing"
+				}
+				"description"		"1.13_functionality_testing"
+			}
+			"23"
+			{
+				"executable"		"hunt.exe"
+				"arguments"		"+online_account_client_settings stage"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"114_external"
+				}
+				"description_loc"
+				{
+					"english"		"Playtest"
+				}
+				"description"		"Playtest"
+			}
+			"24"
+			{
+				"executable"		"bin\\win_x64\\HuntGame.exe"
+				"arguments"		"+online_account_client_settings stage"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"controls_3.0"
+				}
+				"description_loc"
+				{
+					"english"		"controls_3.0"
+				}
+				"description"		"controls_3.0"
+			}
+			"25"
+			{
+				"executable"		"bin\\win_x64\\HuntGame.exe"
+				"arguments"		"+online_account_client_settings stage_external"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"116_external"
+				}
+				"description_loc"
+				{
+					"english"		"116_external"
+				}
+				"description"		"116_external"
+			}
+		}
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,italian,spanish,schinese,russian,japanese,portuguese,polish,turkish"
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229004"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"770721"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1379893961315283906"
+					"size"		"584652560"
+					"download"		"406174832"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"1.13_functionality_testing"
+				{
+					"gid"		"917342B31C1D8AE5AF1F992E6F6DC501"
+					"size"		"7C7B84740F6E4E7891E1175679B8578F"
+					"download"		"93AF572EFE89534F51F99734E7DC8C27"
+				}
+				"114_external"
+				{
+					"gid"		"C46EA7EA89C44F3A4688C7902AAB80D4"
+					"size"		"846D66C095F97FDAFB964AF6A8A60516"
+					"download"		"85E1C135693EDCFEC6C41E5855481AD9"
+				}
+				"116_external"
+				{
+					"gid"		"0A5F9760620121016C8755475DEAF728"
+					"size"		"93A13D371DE9A2F7CD2D6694373ADDBD"
+					"download"		"45962ACADF9A7490497BE930E4FDC40A"
+				}
+				"burt_playtest"
+				{
+					"gid"		"9370CC545DC4229900262E1DCEE17EFC"
+					"size"		"A667C9E788533EA3E3F8D72AC8586DDE"
+					"download"		"8718AB6F6749A8FF94B35F1404BA8875"
+				}
+				"burt_playtest_internal"
+				{
+					"gid"		"23D23D13AF7FD3CE7DD9DBED910F3438"
+					"size"		"C921BB890C8E1967D6C6CE0FEB1164EF"
+					"download"		"1EC433764327BA0E5ABB5476FCA06EDD"
+				}
+				"controls_3.0"
+				{
+					"gid"		"49B50CEF8ED8A07D3E8A50C7651A646C"
+					"size"		"8FDE0952B7EA5C1147C77A4104CD6FEB"
+					"download"		"70A8D97063FDEFAED25379362371E38F"
+				}
+				"current"
+				{
+					"gid"		"DA7DF5C6E71168A3D0F12F44A3AA4F77"
+					"size"		"B9DF374B03E4B7E093203C8CC814FD45"
+					"download"		"C4C0194C1BEFB771FCDEC50CBC3F7569"
+				}
+				"gamesweek"
+				{
+					"gid"		"E846BA9A236D248C6D8D56D5517C71D7"
+					"size"		"928DE41E773BBE791A78CDFF3DF427C0"
+					"download"		"152314F36AD828C07949A468E68129F3"
+				}
+				"latest"
+				{
+					"gid"		"D3D1E8755621BCC41849DA01FB0979D6"
+					"size"		"211FD42DFFC564B400F094482C96AF3A"
+					"download"		"726808DB786A6DB5574793FC9CA49560"
+				}
+				"latest_lwp"
+				{
+					"gid"		"0A1CC932949EC3642211C5EDDBB16A26"
+					"size"		"A7516FCD4357FBCF1FBDA2C2D6D1CE30"
+					"download"		"D1A6C64C63444D3CAA2EE17C727E1B9E"
+				}
+				"lightweight_profiler"
+				{
+					"gid"		"6A4FD99FD0FBBF76E593E582A4B7BDA1"
+					"size"		"75062A027BD033D13E752BD458BC57B1"
+					"download"		"74AB072397F233126927C8CBEA3AB1CD"
+				}
+				"masterxp"
+				{
+					"gid"		"A52944C7ED23D3281F8ADA9A36C49F11"
+					"size"		"79A0217072B7CC424E40798DA0B08CE3"
+					"download"		"4618E8788FB1607E762CAA84BB87B48F"
+				}
+				"mkt_recording"
+				{
+					"gid"		"7AD784E73714A670076AB70A9F4A7438"
+					"size"		"4726CB674EC0D3C0D16655777B8FE60F"
+					"download"		"C2F7B309A293C7A80825947B3A753FA7"
+				}
+				"night_of_the_hunter"
+				{
+					"gid"		"D3194A87E811990E21865F97E448BD42"
+					"size"		"6C92B50CF2600F085F8473F69A371FE1"
+					"download"		"9B504ED1D2CC534901D63A8E63019391"
+				}
+				"playtest_external"
+				{
+					"gid"		"37AF6C3041CB22FA07F410557146EBF3"
+					"size"		"069A3F48E2778986575F27ABE81AE295"
+					"download"		"4EE3BD9C0F067D9D78423F9B4A4AC4F2"
+				}
+				"qa_testroom"
+				{
+					"gid"		"1DD6A7BE26F4B0949275CDDBCC7F40B2"
+					"size"		"092E2E2D3AE3B23676A7D92869A04D0E"
+					"download"		"6E52685C038DD02CBC0C6A89B8EB5991"
+				}
+				"qa_testroom_2"
+				{
+					"gid"		"B2351C8332DB1F710AA0F69A6E25FC00"
+					"size"		"89D50B38235CCEBDD539FF750D207816"
+					"download"		"2CB3FC41DBF59909E33DC02422C9A7FE"
+				}
+				"scripted_tutorial"
+				{
+					"gid"		"ACA16E35083D37FDA418C242D131DCB1"
+					"size"		"0B60C51FBCF7E92B005D3B5AC1CC7A3F"
+					"download"		"954238DF0B323CDDAF631117A5EE4806"
+				}
+				"teamtest"
+				{
+					"gid"		"D84E44662703B1C08F0E9975AF29BB3F"
+					"size"		"5E59E765EC9C0A79EA29796F77C0608C"
+					"download"		"9D3587DA4E2EFFF71E2CDAFB61608047"
+				}
+			}
+		}
+		"770722"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8452020855376724922"
+					"size"		"49193337342"
+					"download"		"49572495680"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"1.13_functionality_testing"
+				{
+					"gid"		"4DB81F0C000B58D00A847A1D20E17568"
+					"size"		"F1CA6FFCD0E054239DDEBC13E171E3D4"
+					"download"		"86FA4A1D1CC6073345C170701B87DF20"
+				}
+				"114_external"
+				{
+					"gid"		"9967C50A5798F36D04D1E944EBBB1B01"
+					"size"		"25FA894F56DAD4E355582B493E875A1D"
+					"download"		"71D8437E6539675DB22A893FB60D0965"
+				}
+				"116_external"
+				{
+					"gid"		"6EC4D3C750CD8EAEEDB4CE81A4D9F871"
+					"size"		"98A05576DE25459193AE2EEAAF3FA04E"
+					"download"		"A51974D5C07F86CCE74F9FDC7CC1A2D9"
+				}
+				"burt_playtest"
+				{
+					"gid"		"E388FDA3B6ACC5BCFA52BA89EE6ABFB3"
+					"size"		"26C2F8A4E032A52A5BBA6A50B4CC8C8C"
+					"download"		"E4E791B9AA292E5E3A1F0114343597BC"
+				}
+				"burt_playtest_internal"
+				{
+					"gid"		"DCA1A1EE1994EEF8208E463C25FE328F"
+					"size"		"6C40ADDCC24A372CE5AED1AED600EB4E"
+					"download"		"BDD2D12ACC7D96250E73DBEB78F0F16A"
+				}
+				"controls_3.0"
+				{
+					"gid"		"4B6FA07D34EC075A5AF105834E17291E"
+					"size"		"9F8E92B1DF0393E2D72532851693DD06"
+					"download"		"0A102D91379A053F53E3A0B3E1B35520"
+				}
+				"current"
+				{
+					"gid"		"A316A1068E37A1260F0A151702934E3D"
+					"size"		"E90B7A420DD4D4B5C3F2D5812396B008"
+					"download"		"76E1CEEC421CEB0C7E1CDB3E7E1FB60B"
+				}
+				"gamesweek"
+				{
+					"gid"		"29BCF0DC41D2A3C8BE7224A110D7FAE8"
+					"size"		"ED22F18731A48AF7670DA7CEF0B3062B"
+					"download"		"A63FC5D0372A2FC7892F99001B7ED5FA"
+				}
+				"latest"
+				{
+					"gid"		"B04645BA9A911E3B865E7CCA4F88A60A"
+					"size"		"EC767B20AA7239A02AFBC2BC4C3E15D7"
+					"download"		"EE29F99875CC350F8E6FD6857333E591"
+				}
+				"latest_lwp"
+				{
+					"gid"		"B7C3803C726094AFF68F747879C9B086"
+					"size"		"6ABE8D009CB356D0FA4B0BECF60A928C"
+					"download"		"AB47A47F8CCB7C1F0273F25E5BA21B33"
+				}
+				"lightweight_profiler"
+				{
+					"gid"		"6F58A8A4AC56CCFC8D8B570DB6DE9807"
+					"size"		"1A9CF0F50AE3F91D4EF512E0307072CD"
+					"download"		"E27E1ABAA54D06FB06D4241BA16ED159"
+				}
+				"masterxp"
+				{
+					"gid"		"8E8DE5095F72BD3F45043462803C2616"
+					"size"		"BA2756251F63E8B9AC8EC5E4C0929ADB"
+					"download"		"7A59EDEE6255659FB2048CC623B4864E"
+				}
+				"mkt_recording"
+				{
+					"gid"		"7F8A027FACE0C4485CDD70A22E29AA8C"
+					"size"		"281ABD9DB9564A26353C9F255E4C261B"
+					"download"		"6FB2422C208A3FED7024D3390B7B40C9"
+				}
+				"night_of_the_hunter"
+				{
+					"gid"		"A803F2716E36D8592B3FDFAE97ACE4DF"
+					"size"		"7E5FD8E90F6B1D836EF2ED3095CE588A"
+					"download"		"F177B8BE5878E0784F4D82D961B40E5D"
+				}
+				"playtest_external"
+				{
+					"gid"		"4B46B6D51622FB938C6041F37372A1C8"
+					"size"		"993E053E1FA8B19DF41BBEB80E516AF2"
+					"download"		"5DEE8FE377C8C20136271EF83EE982D6"
+				}
+				"qa_testroom"
+				{
+					"gid"		"47419D43528638625F04C8834638A75C"
+					"size"		"9A59B49E3E582C5598454846B9916FCC"
+					"download"		"D14A07F4A56E1073C58BD6B8F40FD6CA"
+				}
+				"qa_testroom_2"
+				{
+					"gid"		"171810A4A484A842F35AC8662FDD0F9D"
+					"size"		"C4DE5A4643566DBA33BEB44D1922639A"
+					"download"		"2F28CAE3D7DDAD27900B3A69BD21908E"
+				}
+				"scripted_tutorial"
+				{
+					"gid"		"5154BEBE2F4E7EAF26BD9DDCDAD188D1"
+					"size"		"FF4D61F59C47A80F5795DCF9ACCAD17E"
+					"download"		"D7DF5C74453F0B7B0A95E2F2958155F0"
+				}
+				"teamtest"
+				{
+					"gid"		"109FE159F2015C3F8363AC46599C4AF6"
+					"size"		"935BF0525B4259C75397A6C75166872C"
+					"download"		"B460E8F0835A3079A1303CA8DC77CDDF"
+				}
+			}
+		}
+		"770723"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3620962067508636958"
+					"size"		"170593326"
+					"download"		"171683968"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"1.13_functionality_testing"
+				{
+					"gid"		"BDAE660263A127D2D1573EEB75B37AFE"
+					"size"		"0E3CD9693F799BF003531108AE0EEC91"
+					"download"		"6D925FF07B343C9D1583DFE180F2F056"
+				}
+				"114_external"
+				{
+					"gid"		"08F01B8058CADCD1C31F134A0DAE5961"
+					"size"		"344A6D162B323CDCCBC1484A0C53E678"
+					"download"		"09FCADC5267D6BA91AD8894093365EB3"
+				}
+				"116_external"
+				{
+					"gid"		"AF193C2C749FC7985CD06A15E7EA4AB2"
+					"size"		"E5DBDE0B9A33567BC4D8B3EAF3334F9F"
+					"download"		"54D6E4A681F50BF1881A06CD91CFFFB0"
+				}
+				"burt_playtest"
+				{
+					"gid"		"EC7ABC936DBA65B47A98F5450E166941"
+					"size"		"6E8F472ACA5A0151D11A2794261298E7"
+					"download"		"99035ECD6A50A85DAD95D6409DE11830"
+				}
+				"burt_playtest_internal"
+				{
+					"gid"		"11D1895E90DDD4391222588F79407D37"
+					"size"		"BD300A4957578037E808E6ECA6C5E253"
+					"download"		"9ED56F610C4649ED7BFCBBAA77DBE1A4"
+				}
+				"controls_3.0"
+				{
+					"gid"		"60ABCB94283F98C26A0E394366D132B5"
+					"size"		"7F81994FE51A41538E5341368A8FB999"
+					"download"		"F660AA83E5AF5DF70A9DE7AD1A4B3A0E"
+				}
+				"current"
+				{
+					"gid"		"71252CFCAA92D4591DD9FF085ECC8E3E"
+					"size"		"F05C0782794E60181D0AF73195A07B58"
+					"download"		"F768787A93D5DFF601F76D84B6194099"
+				}
+				"gamesweek"
+				{
+					"gid"		"80597E4BDCFF235136C904747F400477"
+					"size"		"7B4B09C232F8DFF8F2A1F888AAC1D298"
+					"download"		"7D1D53367E449917136CA3F787459108"
+				}
+				"latest"
+				{
+					"gid"		"A8067B9BFE541FCD03C56A28CD11CCF1"
+					"size"		"0B8600F7FCF5404B13EA80DE90CFAE15"
+					"download"		"D21A0695845FB4A6B386891D85A87F01"
+				}
+				"latest_lwp"
+				{
+					"gid"		"27E7BA5C805F96A70EF6D7EA23F386EC"
+					"size"		"063FA146247470C733B5FCDC7D73AB3D"
+					"download"		"0FF1BF4C8CDB8086E8E4234D9E122524"
+				}
+				"lightweight_profiler"
+				{
+					"gid"		"3C8318417FF743F690AF1CE3F94ADA14"
+					"size"		"75C78BCAC5679E9FBD583F99836632F8"
+					"download"		"0BEC485F476D6439788F4FB0503AE373"
+				}
+				"masterxp"
+				{
+					"gid"		"8EFDDE98E87CFA2FA7D3C9677D125DF5"
+					"size"		"D438E0828F1CA93E5E767D4A31B04A31"
+					"download"		"D5CD94BB028AA5AFAD028C3773099E3C"
+				}
+				"mkt_recording"
+				{
+					"gid"		"489F0F6D52970D6C88D15C90677CEC50"
+					"size"		"35F2FAC37B31152E4F59FE9414F479B6"
+					"download"		"9E79094EE9F6C63489F674C3EBABED65"
+				}
+				"night_of_the_hunter"
+				{
+					"gid"		"973077933062BE05635DCA70CC876178"
+					"size"		"92CC22CF4C2C030346F7C063FEAF718E"
+					"download"		"09CF0A769BA1A37EA2C5A656C326B5BF"
+				}
+				"playtest_external"
+				{
+					"gid"		"3117E4FF83FC0AAACCD3C24FEAB870FC"
+					"size"		"4F625CA887FC6CFD5647B8E507062FB3"
+					"download"		"1B5E6C489D2B6059BEA05511AD40300E"
+				}
+				"qa_testroom"
+				{
+					"gid"		"94445FE06C2D64CF6E216C40DA64C92C"
+					"size"		"0082A02E134815FDF07FCF28116CF540"
+					"download"		"329799FA2390F0CD1B37F582E3F6DC93"
+				}
+				"qa_testroom_2"
+				{
+					"gid"		"D8CDA3209148751CA423AE4C3FE275DE"
+					"size"		"98A2DE617081E378178DB2EF5BCA2C00"
+					"download"		"0DCCE09E754EA875BB7C1D80D34971FE"
+				}
+				"scripted_tutorial"
+				{
+					"gid"		"016D98FB4EE5B96C0A57526C52EC35A4"
+					"size"		"29C69ECA670625A6AEE287CC4DE03EBF"
+					"download"		"BCA27113A72601C9B50986B0BB9F3927"
+				}
+				"teamtest"
+				{
+					"gid"		"C29303A0A47D43E37EBD900CCDA26AEC"
+					"size"		"241A154A6A826672473A118B6A52D461"
+					"download"		"ED804DF295359FB90DD53ABFA9816B14"
+				}
+			}
+		}
+		"770724"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1633632636785229434"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"1.13_functionality_testing"
+				{
+					"gid"		"E2D13CF7F9B78146A648BC036777C658"
+					"size"		"54D1D458B13F9FA9ECD379C3E9A92987"
+					"download"		"54D1D458B13F9FA9ECD379C3E9A92987"
+				}
+				"114_external"
+				{
+					"gid"		"2438164D6DE8C323975E83B6AC05784D"
+					"size"		"9703E3D2B2C1D70BFCCEDDC23F6D899E"
+					"download"		"9703E3D2B2C1D70BFCCEDDC23F6D899E"
+				}
+				"116_external"
+				{
+					"gid"		"3C5DF038EF1F36D518EA7CDE1794B42E"
+					"size"		"F51B6823B4AF4AA1E7EC7D96F188011C"
+					"download"		"F51B6823B4AF4AA1E7EC7D96F188011C"
+				}
+				"burt_playtest"
+				{
+					"gid"		"19BE763DD6B04F8218A4E2B9F2A2EBCD"
+					"size"		"1035871DF1228BFE9C2880F76B830ED5"
+					"download"		"1035871DF1228BFE9C2880F76B830ED5"
+				}
+				"burt_playtest_internal"
+				{
+					"gid"		"C24AB576CB41EA51967D794B8F8DCFDF"
+					"size"		"736E64B739B9EBDDFD22C26809233347"
+					"download"		"736E64B739B9EBDDFD22C26809233347"
+				}
+				"controls_3.0"
+				{
+					"gid"		"34FBE1FAEC2808EF09CD6194DF3F228A"
+					"size"		"51974CBA47ECFE42AF69E5886E06E9DC"
+					"download"		"51974CBA47ECFE42AF69E5886E06E9DC"
+				}
+				"current"
+				{
+					"gid"		"6B79E0632F06FA48440FD6EE2D335D2F"
+					"size"		"F2BFA34734FC054F15A06024F6174AE7"
+					"download"		"F2BFA34734FC054F15A06024F6174AE7"
+				}
+				"gamesweek"
+				{
+					"gid"		"2E67D38B7BB6317B898815104BDA8AAA"
+					"size"		"FF92406A9C9841B06D863C625B4B0ADB"
+					"download"		"FF92406A9C9841B06D863C625B4B0ADB"
+				}
+				"latest"
+				{
+					"gid"		"C091CA544879CC3B65DD35D50ADD0586"
+					"size"		"8B17FFA7D78F55908B9538F784D3F1F6"
+					"download"		"8B17FFA7D78F55908B9538F784D3F1F6"
+				}
+				"latest_lwp"
+				{
+					"gid"		"ED980F3A0B5F378C9752CBEB71E0C553"
+					"size"		"21721918DB608A3BD4569558BE2D8F93"
+					"download"		"21721918DB608A3BD4569558BE2D8F93"
+				}
+				"lightweight_profiler"
+				{
+					"gid"		"1B14BA5A057DA4A42F73423ABB4595D4"
+					"size"		"DA9B70B6CD84EE69B2D4D89A0D8806B3"
+					"download"		"DA9B70B6CD84EE69B2D4D89A0D8806B3"
+				}
+				"masterxp"
+				{
+					"gid"		"6154405C28C8DCAAB1E39A28A247489A"
+					"size"		"44B0A154E78CC2FED8449AB0CC0ED042"
+					"download"		"44B0A154E78CC2FED8449AB0CC0ED042"
+				}
+				"mkt_recording"
+				{
+					"gid"		"472B24F6D0AA1641D14AE545A3A1FC7B"
+					"size"		"E27A26490C461A251E4EE59636FB9E18"
+					"download"		"E27A26490C461A251E4EE59636FB9E18"
+				}
+				"night_of_the_hunter"
+				{
+					"gid"		"E57D1AFC0A5D8DDBFB7608667A8E5FBC"
+					"size"		"74E8D1B8FD53D1CB11875F066E0917C8"
+					"download"		"74E8D1B8FD53D1CB11875F066E0917C8"
+				}
+				"playtest_external"
+				{
+					"gid"		"DE173DB83BBDC5450A42E7B2994C03FF"
+					"size"		"BD5CA15570F56DD483C3E9DF1D2BD1B2"
+					"download"		"BD5CA15570F56DD483C3E9DF1D2BD1B2"
+				}
+				"qa_testroom"
+				{
+					"gid"		"F09F7E6BE447D6D4239B8B3D2F5742B0"
+					"size"		"D5035BBD8FB1259BAF1B79895E6F73FC"
+					"download"		"D5035BBD8FB1259BAF1B79895E6F73FC"
+				}
+				"qa_testroom_2"
+				{
+					"gid"		"F9A617478A2E7DBC7BDE427361999F77"
+					"size"		"710CC5677DD8A9052796174425433B94"
+					"download"		"710CC5677DD8A9052796174425433B94"
+				}
+				"scripted_tutorial"
+				{
+					"gid"		"84445DF277952104AA0F0953D56A6F1F"
+					"size"		"FC72C71F5F5D06CA1950DE0A4F742F00"
+					"download"		"FC72C71F5F5D06CA1950DE0A4F742F00"
+				}
+				"teamtest"
+				{
+					"gid"		"9E8E7AB44031E0A90CEEB12A477DBF0F"
+					"size"		"622BBFBBA1FBE38ECF6DB98D4155C053"
+					"download"		"622BBFBBA1FBE38ECF6DB98D4155C053"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11405781"
+				"timeupdated"		"1686560547"
+			}
+			"1.13_functionality_testing"
+			{
+				"buildid"		"11259476"
+				"pwdrequired"		"1"
+				"timeupdated"		"1684491655"
+			}
+			"114_external"
+			{
+				"buildid"		"12085700"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693831472"
+			}
+			"116_external"
+			{
+				"buildid"		"12106349"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694077862"
+			}
+			"burt_playtest"
+			{
+				"buildid"		"11147202"
+				"pwdrequired"		"1"
+				"timeupdated"		"1683146045"
+			}
+			"burt_playtest_internal"
+			{
+				"buildid"		"11147202"
+				"pwdrequired"		"1"
+				"timeupdated"		"1683128795"
+			}
+			"controls_3.0"
+			{
+				"buildid"		"12176366"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694594852"
+			}
+			"current"
+			{
+				"buildid"		"12085700"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693833487"
+			}
+			"gamesweek"
+			{
+				"buildid"		"10164736"
+				"pwdrequired"		"1"
+				"timeupdated"		"1673256133"
+			}
+			"latest"
+			{
+				"buildid"		"12176366"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694594785"
+			}
+			"latest_lwp"
+			{
+				"buildid"		"10520262"
+				"pwdrequired"		"1"
+				"timeupdated"		"1676015135"
+			}
+			"lightweight_profiler"
+			{
+				"buildid"		"11406548"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686560568"
+			}
+			"masterxp"
+			{
+				"buildid"		"11021643"
+				"pwdrequired"		"1"
+				"timeupdated"		"1683794781"
+			}
+			"mkt_recording"
+			{
+				"buildid"		"12147303"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694426584"
+			}
+			"night_of_the_hunter"
+			{
+				"buildid"		"11541057"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687875276"
+			}
+			"playtest_external"
+			{
+				"buildid"		"11541057"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691737536"
+			}
+			"qa_testroom"
+			{
+				"buildid"		"12103475"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693820078"
+			}
+			"qa_testroom_2"
+			{
+				"buildid"		"12175019"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694590690"
+			}
+			"scripted_tutorial"
+			{
+				"buildid"		"10018299"
+				"pwdrequired"		"1"
+				"timeupdated"		"1676621598"
+			}
+			"teamtest"
+			{
+				"buildid"		"11836350"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690880351"
+			}
+		}
+	}
+}
