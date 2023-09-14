@@ -1,0 +1,592 @@
+"appinfo"
+{
+	"appid"		"1451950"
+	"common"
+	{
+		"name"		"Street Outlaws 2: Winner Takes All"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"7373f8375913fe8b7a4ebc784dae73d8bc9f9721"
+		"logo_small"		"7373f8375913fe8b7a4ebc784dae73d8bc9f9721_thumb"
+		"icon"		"559107f86532f7fb9cb28099a9b4e965ce0b51de"
+		"clienticon"		"749b8419d075117bb7a6ec643e0a24f32d27247c"
+		"clienttga"		"91c2365595251b169770966db3ddfe85acd9872b"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1647648000"
+			"tested_build_id"		"7729942"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"57.683352735739234"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1639397076"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Team6 Game Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"GameMill Entertainment"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Street Outlaws"
+			}
+		}
+		"primary_genre"		"9"
+		"genres"
+		{
+			"0"		"9"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_28"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1638550472"
+		"community_hub_visible"		"1"
+		"gameid"		"1451950"
+		"store_tags"
+		{
+			"0"		"699"
+			"1"		"1100687"
+			"2"		"1644"
+			"3"		"4175"
+			"4"		"4182"
+			"5"		"17770"
+			"6"		"13190"
+			"7"		"6869"
+			"8"		"3968"
+			"9"		"3859"
+		}
+		"review_score"		"5"
+		"review_percentage"		"62"
+	}
+	"extended"
+	{
+		"developer"		"Team6 Game Studios"
+		"publisher"		"GameMill Entertainment"
+		"homepage"		"https://streetoutlawsgame.com/"
+		"listofdlc"		"1812470,1812480,1812481,1812482,1812483,1812484,1812485,1812486,1812487"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Street Outlaws 2 Winner Takes All"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"StreetOutlaws\\Binaries\\Win64\\StreetOutlaws-Win64-Shipping.exe"
+				"description"		"Shipping"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"StreetOutlaws\\Binaries\\Win64\\StreetOutlaws-Win64-DebugGame.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"internal_debug"
+				}
+				"description_loc"
+				{
+					"english"		"DebugGame"
+				}
+				"description"		"DebugGame"
+			}
+			"2"
+			{
+				"executable"		"StreetOutlaws\\Binaries\\Win64\\StreetOutlaws-Win64-DebugGame.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"internal_debug_ftue"
+				}
+			}
+			"3"
+			{
+				"executable"		"StreetOutlaws\\Binaries\\Win64\\StreetOutlaws-Win64-DebugGame.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"backup"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1451951"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1374807469061550710"
+					"size"		"26035636743"
+					"download"		"9317355424"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"backup"
+				{
+					"gid"		"0694C2B7482D804E7EEF45575373F0F3"
+					"size"		"160E3FC2F41B84C1125E952DD2D634FF"
+					"download"		"396D794F72C9755FCAFF99AE639BDEF3"
+				}
+				"internal_debug"
+				{
+					"gid"		"84B1353C560B018B8DA3D75FE3BDFD42"
+					"size"		"8D660D6868754D6BE9E6D5292AB1A0E2"
+					"download"		"FB0D152C65484E4A3BA40C7EB830CA71"
+				}
+				"internal_debug_ftue"
+				{
+					"gid"		"44E87313F6D48F7235A8EDB7DA8359D2"
+					"size"		"598CD86954AB8698E5E0C3192F34427F"
+					"download"		"1CD34B4EF61F1E8C531EB5CE2FCB7FE5"
+				}
+				"internal_testing"
+				{
+					"gid"		"6FB01E26C4B547782C10453FFB7D4613"
+					"size"		"AC0161F109BF5D0613E45C284FC0A3C8"
+					"download"		"86843884E1EE74A4B78E29A3D4946288"
+				}
+				"marketing"
+				{
+					"gid"		"9E73F291FB48B8A862CA25C9013B8E67"
+					"size"		"79067116F40D7F71345E13EE447FD378"
+					"download"		"FDBB50BA1885F66CCAD6694DFC878681"
+				}
+				"physics"
+				{
+					"gid"		"A878989EC78538A3ABB9A12FD523D292"
+					"size"		"66ED83B945059B95F91F1EF55C3DF121"
+					"download"		"AE652A6198B6F9586E0A862949F6B36C"
+				}
+				"physics1"
+				{
+					"gid"		"8D039C7172EDADD0CAA071743853B6F2"
+					"size"		"5352C9126096F71D2666040143939B8E"
+					"download"		"7D4009A71F8EBEE53470C93F8F4D06A8"
+				}
+			}
+		}
+		"1812470"
+		{
+			"dlcappid"		"1812470"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4926236623066657540"
+					"size"		"2010749"
+					"download"		"1950272"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal_debug"
+				{
+					"gid"		"024291BDDDE7A18463DBEA0705279AA5"
+					"size"		"29030909E723E4C8FE8BE11AFC5485E6"
+					"download"		"BE2ABBB3B9077DBD6BA8551DE9372C7F"
+				}
+				"internal_testing"
+				{
+					"gid"		"278BC916D348F5297B27554BD7749E1C"
+					"size"		"BC7F62ADBCCFEEB89CEA865A22EDE04C"
+					"download"		"71ED753A4FF09B8C5AE47D792883050E"
+				}
+			}
+		}
+		"1812480"
+		{
+			"dlcappid"		"1812480"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2480045412464558270"
+					"size"		"2010623"
+					"download"		"1949824"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal_debug"
+				{
+					"gid"		"CC5CD7423BED50794782A2F200592678"
+					"size"		"1842956B5D5CCB5AB3F5725070D4FCB5"
+					"download"		"66C23AA9AE7C284D99FC1163E79A726C"
+				}
+				"internal_testing"
+				{
+					"gid"		"0B2DFC0DE19FEA63D4A07F5F4E952B3D"
+					"size"		"71023F278D26C4CB30897CB738A6CC7E"
+					"download"		"65F0DBFC23FEE16DDFA7BF8379FD7455"
+				}
+			}
+		}
+		"1812481"
+		{
+			"dlcappid"		"1812481"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"614284417734429319"
+					"size"		"2009481"
+					"download"		"1949104"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal_debug"
+				{
+					"gid"		"A15F43FB58BFA8FAE17517A9C01FE976"
+					"size"		"3314DF97206B91B02D5308218A749BED"
+					"download"		"334C3DFFD9F269A95D0B677EC0B5A808"
+				}
+				"internal_testing"
+				{
+					"gid"		"2EAEC490BB7FD0EC96F016C5E09A9809"
+					"size"		"8CAFB016ED3A810E6CF092A46C1B5DCA"
+					"download"		"35666DDDA13B9BCE28514731780EE7A1"
+				}
+			}
+		}
+		"1812482"
+		{
+			"dlcappid"		"1812482"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2118299782819318547"
+					"size"		"2010371"
+					"download"		"1949696"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal_debug"
+				{
+					"gid"		"A388C21C21AF6DA0D4D6C253EC7A426D"
+					"size"		"6910C172E51C02085B49C27B04478EDB"
+					"download"		"27A46A774AD30C68B61736CD25D613BA"
+				}
+				"internal_testing"
+				{
+					"gid"		"5A068217405DBCFF495BAC7196C5CA53"
+					"size"		"E082E3AC7B887443F1FFF988D588732F"
+					"download"		"2EA2AE75B95DF2817D3E0EE7FEAD505E"
+				}
+			}
+		}
+		"1812483"
+		{
+			"dlcappid"		"1812483"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"727515187669152954"
+					"size"		"2009714"
+					"download"		"1949424"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal_debug"
+				{
+					"gid"		"98C4353416947CE9E2D3A4EDF5D28A98"
+					"size"		"837803FB984CA2EC10D5C79CC3DBB0CA"
+					"download"		"0B2C5CC785DCFE263AC1FD8F30A73E3C"
+				}
+				"internal_testing"
+				{
+					"gid"		"8A1AB83CB6459802FE366E8355815881"
+					"size"		"8C926A1925DC26BAF4C8A10E84162FA1"
+					"download"		"FE1C6E8A0B38AC38A5CE6B145078EBE8"
+				}
+			}
+		}
+		"1812484"
+		{
+			"dlcappid"		"1812484"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2351342377834849760"
+					"size"		"2009736"
+					"download"		"1948992"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal_debug"
+				{
+					"gid"		"249F9988E676F4A6667BACB5E724226B"
+					"size"		"513A5708B876BCFA6F1610648F8920C2"
+					"download"		"C0E9D1E782526C6BC90EB72BCC40724E"
+				}
+				"internal_testing"
+				{
+					"gid"		"1738FFE98D871A949A2965C1B19CEE95"
+					"size"		"1CD5351C0C91C0705BB43F7B7F82B899"
+					"download"		"FA6BE19006E6847D5244BF31A887BCE0"
+				}
+			}
+		}
+		"1812485"
+		{
+			"dlcappid"		"1812485"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1010281660486459578"
+					"size"		"2010585"
+					"download"		"1950144"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal_debug"
+				{
+					"gid"		"E733A9B121DB2FCC8BCF9E3198A78373"
+					"size"		"6799F8924D67ED0DDEFFE111E2E81DB6"
+					"download"		"11E368B08B7DFE8C97CC54081233B093"
+				}
+				"internal_testing"
+				{
+					"gid"		"9E60FF03F48078D2D00665A9A608F15B"
+					"size"		"CBC59293D9D14CA1599CF57C943A3155"
+					"download"		"E6CCEC8C5F3DC0C129C6468696111A93"
+				}
+			}
+		}
+		"1812486"
+		{
+			"dlcappid"		"1812486"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"101096257585175337"
+					"size"		"2010392"
+					"download"		"1950336"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal_debug"
+				{
+					"gid"		"0C5F26A94CDDD29127D6B43A8BE094F5"
+					"size"		"8787F3AE74BEEED3CB5B39E58E3B72B6"
+					"download"		"08D975592C53B3D0245CDD253B1B1613"
+				}
+				"internal_testing"
+				{
+					"gid"		"30EF7D498A57D81F30AD5DAEA2DC8928"
+					"size"		"9DC38D9AA4139AAFD9C16E50CBC15E59"
+					"download"		"485D350D9C6F0ABA0F46B9223D6D86E8"
+				}
+			}
+		}
+		"1812487"
+		{
+			"dlcappid"		"1812487"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3733584535860467556"
+					"size"		"2010442"
+					"download"		"1949600"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal_debug"
+				{
+					"gid"		"C16C37B586602B85633B512F13012C4E"
+					"size"		"91C622D156135E5D063DD5716EA4A988"
+					"download"		"7412B6679A1082FC13504FAE8C854C51"
+				}
+				"internal_testing"
+				{
+					"gid"		"D17C65FE76C5185AD1F87991140642B3"
+					"size"		"628868885CE250120264FC3D1DBBC3CA"
+					"download"		"853A25FFC2BD4F0F5B85B330DE068F34"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7729942"
+				"timeupdated"		"1637165742"
+			}
+			"backup"
+			{
+				"buildid"		"6958164"
+				"pwdrequired"		"1"
+				"timeupdated"		"1628255943"
+			}
+			"internal_debug"
+			{
+				"buildid"		"7742723"
+				"pwdrequired"		"1"
+				"timeupdated"		"1637323221"
+			}
+			"internal_debug_ftue"
+			{
+				"buildid"		"6516475"
+				"pwdrequired"		"1"
+				"timeupdated"		"1617984906"
+			}
+			"internal_testing"
+			{
+				"buildid"		"7764695"
+				"pwdrequired"		"1"
+				"timeupdated"		"1637690475"
+			}
+			"marketing"
+			{
+				"buildid"		"6934185"
+				"pwdrequired"		"1"
+				"timeupdated"		"1624637108"
+			}
+			"physics"
+			{
+				"buildid"		"5905291"
+				"pwdrequired"		"1"
+				"timeupdated"		"1606825622"
+			}
+			"physics1"
+			{
+				"buildid"		"5860302"
+				"pwdrequired"		"1"
+				"timeupdated"		"1606822149"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"StreetOutlaws/Saved/SaveGames"
+				"pattern"		"Savegame.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
