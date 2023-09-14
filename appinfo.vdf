@@ -1,0 +1,200 @@
+"appinfo"
+{
+	"appid"		"1683620"
+	"common"
+	{
+		"name"		"Plan B from Outer Space: A Bavarian Odyssey"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"219904d5b2a4fe92e69c3b09bc6f89b4ad003e7a"
+		"logo_small"		"219904d5b2a4fe92e69c3b09bc6f89b4ad003e7a_thumb"
+		"icon"		"f7aa98650cbed988d275f0fdef92e9e0cec6e1f0"
+		"clienticon"		"44b05db8d98ccb625e6586232461b0957f549426"
+		"clienttga"		"ef07432bced208558cce155607d654d95097ea0e"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1635421353"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"RobotPumpkin Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Assemble Entertainment"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Assemble Entertainment"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1635422878"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1683620"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"4486"
+			"2"		"11014"
+			"3"		"3799"
+			"4"		"1673"
+			"5"		"1719"
+			"6"		"24003"
+			"7"		"3834"
+			"8"		"5652"
+			"9"		"3871"
+			"10"		"4195"
+			"11"		"4305"
+			"12"		"4726"
+			"13"		"4252"
+			"14"		"31275"
+			"15"		"6310"
+			"16"		"1654"
+			"17"		"1684"
+			"18"		"4295"
+			"19"		"4878"
+		}
+		"review_score"		"7"
+		"review_percentage"		"92"
+	}
+	"extended"
+	{
+		"developer"		"RobotPumpkin Games"
+		"publisher"		"Assemble Entertainment"
+	}
+	"config"
+	{
+		"installdir"		"PlanBFromOuterSpace"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"PlanBFromOuterSpace.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1683621"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1029728533608354501"
+					"size"		"812429848"
+					"download"		"203027680"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"72138B6727A968D03885619B42724B85"
+					"size"		"1FDCD56384582FAABFC516F774CC8305"
+					"download"		"F126889D81631CF72BC93015ED170E7A"
+				}
+				"loca.test"
+				{
+					"gid"		"F2D7D921EF96505F66CC661E39DEA466"
+					"size"		"D2B07BF04B56C32182263B5AFF979F84"
+					"download"		"A42F0BD0828292EA02D72223C7E8428D"
+				}
+				"press"
+				{
+					"gid"		"2F1F445038EA5B9F6844463D73475680"
+					"size"		"C2DDA944F84D55DF3FB7382CC999F771"
+					"download"		"3E9A03AE7E0649D7DA8723245E69C686"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9293995"
+				"timeupdated"		"1660317614"
+			}
+			"beta"
+			{
+				"buildid"		"9293995"
+				"pwdrequired"		"1"
+				"timeupdated"		"1660198271"
+			}
+			"loca.test"
+			{
+				"buildid"		"7592545"
+				"pwdrequired"		"1"
+				"timeupdated"		"1635149158"
+			}
+			"press"
+			{
+				"buildid"		"7602733"
+				"pwdrequired"		"1"
+				"timeupdated"		"1635332763"
+			}
+		}
+	}
+}
