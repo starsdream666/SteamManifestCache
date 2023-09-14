@@ -1,0 +1,250 @@
+"appinfo"
+{
+	"appid"		"753650"
+	"common"
+	{
+		"name"		"Due Process"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"clienticon"		"968e39cdfd779b086c83180defc430082e7edb2a"
+		"clienttga"		"9a55a60ff0a995f2dc5276bfb079c1b122984380"
+		"icon"		"376799bf885dd2b724fa3f793b5bbc9363c4eac9"
+		"logo"		"e2028f90956827e3cc175b2f19e1142a572bba13"
+		"logo_small"		"e2028f90956827e3cc175b2f19e1142a572bba13_thumb"
+		"releasestate"		"released"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"753650_eula_0"
+				"name"		"Due Process EULA"
+				"url"		"https://store.steampowered.com//eula/753650_eula_0"
+			}
+		}
+		"exfgls"		"1"
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1644969600"
+			"tested_build_id"		"7756487"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_UnsupportedAntiCheatConfiguration"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"1"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+			}
+		}
+		"metacritic_name"		"Due Process"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"95.19717097945394"
+				"height_pct"		"81.59871972224484"
+			}
+		}
+		"store_asset_mtime"		"1669139983"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Giant Enemy Crab"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Giant Enemy Crab"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"28"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_36"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"community_hub_visible"		"1"
+		"gameid"		"753650"
+		"store_tags"
+		{
+			"0"		"4115"
+			"1"		"1663"
+			"2"		"4175"
+			"3"		"5711"
+			"4"		"492"
+			"5"		"5125"
+			"6"		"1678"
+			"7"		"4684"
+			"8"		"5055"
+			"9"		"4168"
+			"10"		"3964"
+			"11"		"1687"
+			"12"		"1708"
+			"13"		"4747"
+			"14"		"1773"
+			"15"		"1775"
+			"16"		"6691"
+			"17"		"599"
+			"18"		"3878"
+			"19"		"1774"
+		}
+		"review_score"		"8"
+		"review_percentage"		"81"
+	}
+	"extended"
+	{
+		"anti_cheat_support_url"		"https://www.easy.ac/r/steam/gamebans/?steamAppId=753650"
+		"developer"		"Giant Enemy Crab"
+		"publisher"		"Giant Enemy Crab"
+		"homepage"		"http://dueprocess.gg"
+	}
+	"config"
+	{
+		"installdir"		"DueProcess"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Launch_Game.exe"
+				"description"		"DueProcess"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"753651"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"379780495291127807"
+					"size"		"29233536393"
+					"download"		"21147435840"
+				}
+				"public-test-environment"
+				{
+					"gid"		"8999406505982659076"
+					"size"		"21663044297"
+					"download"		"15790157344"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test-qa-env"
+				{
+					"gid"		"867CB876237B0AB36C5065DC10B4D5FB"
+					"size"		"8D359072DAA92CA5544220E3B8A329F5"
+					"download"		"9B281D72E7E9B658EA30FB79BD2B097D"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12074370"
+				"timeupdated"		"1693452887"
+			}
+			"public-test-environment"
+			{
+				"buildid"		"11668096"
+				"description"		"Unfinished features currently in testing"
+				"timeupdated"		"1689020958"
+			}
+			"test-qa-env"
+			{
+				"buildid"		"12074370"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693449894"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1500000"
+		"maxnumfiles"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"."
+				"pattern"		"DPUserPrefs.cfg"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"2"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"Giant Enemy Crab/Due Process/"
+				"pattern"		"DPUserPrefs.cfg"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
