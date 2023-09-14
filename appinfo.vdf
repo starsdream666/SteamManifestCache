@@ -1,0 +1,459 @@
+"appinfo"
+{
+	"appid"		"525700"
+	"common"
+	{
+		"name"		"Birthdays the Beginning"
+		"type"		"Game"
+		"logo"		"6b69c4c3e47e63e06dde8d7cf60fdf1a8770169a"
+		"logo_small"		"6b69c4c3e47e63e06dde8d7cf60fdf1a8770169a_thumb"
+		"icon"		"0317397e490d3afb89d2bec04230895632a7a5ba"
+		"clienttga"		"cf7fd933dda249ffe27e64431b48d7636b3930be"
+		"clienticon"		"f2a417669b5761656341eee0bd2df69a11a4ce84"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"japanese"		"1"
+		}
+		"name_localized"
+		{
+			"japanese"		"バースデイズ・ザ・ビギニング"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1660867200"
+			"tested_build_id"		"2260046"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"1"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Birthdays the Beginning"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"86.49592549476137"
+				"height_pct"		"81.00213725955831"
+			}
+		}
+		"store_asset_mtime"		"1668468937"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Arc System Works"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"TOYBOX Inc."
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"NIS America, Inc."
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+			"category_33"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_23"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1494348329"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"525700"
+		"store_tags"
+		{
+			"0"		"599"
+			"1"		"5300"
+			"2"		"3810"
+			"3"		"5160"
+			"4"		"4182"
+			"5"		"4726"
+			"6"		"5350"
+		}
+		"review_score"		"5"
+		"review_percentage"		"62"
+	}
+	"extended"
+	{
+		"developer"		"Arc System Works"
+		"publisher"		"NIS America, Inc."
+		"homepage"		"http://www.birthdaysthebeginning.com/"
+		"listofdlc"		"570480,610040,610050,610051"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Birthdays the Beginning"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"game.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,japanese"
+		"hasdepotsindlc"		"1"
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"525701"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3315755420988281119"
+					"size"		"1370556674"
+					"download"		"513282896"
+				}
+				"beta"
+				{
+					"gid"		"5655260851022403774"
+					"size"		"1306581374"
+					"download"		"503527664"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"develop"
+				{
+					"gid"		"587EE61993DCC1AFA3AA06273F3C53E8"
+					"size"		"A144C27A9AF3E59C4A2F63A724B55055"
+					"download"		"A9790EDFB365E064439B401059C2256F"
+				}
+				"toshi"
+				{
+					"gid"		"D416D92337A24F2F5B7657404CFE2577"
+					"size"		"7E4F68CB412E1387952C9A984778DCD9"
+					"download"		"648A2EDE26BE558A35A8D055E923510D"
+				}
+			}
+		}
+		"610040"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"dlcappid"		"610040"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6276426178531610377"
+					"size"		"7484454"
+					"download"		"1759920"
+				}
+				"beta"
+				{
+					"gid"		"6276426178531610377"
+					"size"		"7484454"
+					"download"		"1759920"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"develop"
+				{
+					"gid"		"73CB8625A136700C435D09DE2488F5CE"
+					"size"		"C9EDC02DEB0950E202753CD8CB7FEADF"
+					"download"		"06D6CD3E6976B1FD5A0CB02E77DE8CDA"
+				}
+				"toshi"
+				{
+					"gid"		"ED3ADE025D476C6D2E9B153A85168D51"
+					"size"		"29A1787FFE290632536280A7D1EE2D30"
+					"download"		"01BD819DBDD9EDF2889567D6EEADEFBA"
+				}
+			}
+		}
+		"610050"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"dlcappid"		"610050"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5906069914998063228"
+					"size"		"1229126"
+					"download"		"465472"
+				}
+				"beta"
+				{
+					"gid"		"5906069914998063228"
+					"size"		"1229126"
+					"download"		"465472"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"develop"
+				{
+					"gid"		"E20FE5B57CBEDEDB8BA486DFD903A24C"
+					"size"		"E7D37AA939FB1DC1E61A161BC833A10D"
+					"download"		"33A8F4472FFD5923A8D77E10B0B58EFD"
+				}
+				"toshi"
+				{
+					"gid"		"21C4E1B2B6F6A3D6C52E030464912E38"
+					"size"		"1262A4DBC3943562D38534E1AFAE7D15"
+					"download"		"775CC9BD339A7350C3475BACE2BBC32A"
+				}
+			}
+		}
+		"610051"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"dlcappid"		"610051"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8963061514075800189"
+					"size"		"983144"
+					"download"		"372112"
+				}
+				"beta"
+				{
+					"gid"		"8963061514075800189"
+					"size"		"983144"
+					"download"		"372112"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"develop"
+				{
+					"gid"		"D1C669DCDC52C28832471287ED80D320"
+					"size"		"7A1BEDBF34713F9E1A6C10E2FF035811"
+					"download"		"2FAA096EC330FC84D918C8E8372903D3"
+				}
+				"toshi"
+				{
+					"gid"		"32CBBEFA02E7C6E76BEC95762A27C9A2"
+					"size"		"0CF02874365EC0F8F128AF108F7902CE"
+					"download"		"5B9CA5CB201C455517239DA51BB5A8BC"
+				}
+			}
+		}
+		"570480"
+		{
+			"dlcappid"		"570480"
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1021030610270186541"
+					"size"		"51929574"
+					"download"		"50818144"
+				}
+				"beta"
+				{
+					"gid"		"1021030610270186541"
+					"size"		"51929574"
+					"download"		"50818144"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"develop"
+				{
+					"gid"		"C32932B74976A568C436BCB58AC72D66"
+					"size"		"406CC415FC831E52DC776BFC32311ABB"
+					"download"		"56EBB495172DD7315952A32919092F77"
+				}
+				"toshi"
+				{
+					"gid"		"0635CFD5758E4CADE8E2E69A850C8785"
+					"size"		"9B7F95A6958153AC973D899CAAC3767B"
+					"download"		"C6A22E504AE440BE7F118443C762961F"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2260046"
+				"timeupdated"		"1510165350"
+			}
+			"beta"
+			{
+				"buildid"		"1885943"
+				"timeupdated"		"1497377499"
+			}
+			"develop"
+			{
+				"buildid"		"2260046"
+				"pwdrequired"		"1"
+				"timeupdated"		"1509938588"
+			}
+			"toshi"
+			{
+				"buildid"		"1885943"
+				"pwdrequired"		"1"
+				"timeupdated"		"1501711385"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"500000000"
+		"maxnumfiles"		"500"
+	}
+}
