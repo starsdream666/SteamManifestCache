@@ -1,0 +1,323 @@
+"appinfo"
+{
+	"appid"		"1000410"
+	"common"
+	{
+		"name"		"WRATH: Aeon of Ruin"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"7eea2b62b235c02d7090f93cd30dfc001bfedb69"
+		"logo_small"		"7eea2b62b235c02d7090f93cd30dfc001bfedb69_thumb"
+		"icon"		"35a4620f79e3ec4750d06978133455b2fa47763b"
+		"clienticon"		"c634d1f1c20b767f710d0ca72e655c48c513f49a"
+		"clienttga"		"536dc241c280e4047a87ec2c89b03cab1c269529"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1646956800"
+			"tested_build_id"		"615413"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-1"
+				"requires_h264"		"0"
+			}
+		}
+		"metacritic_name"		"WRATH: Aeon of Ruin"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"45.09918319719953"
+				"height_pct"		"70.89764901448588"
+			}
+		}
+		"store_asset_mtime"		"1687877803"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"KillPixel"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"3D Realms"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Fulqrum Publishing"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Fulqrum"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1574445465"
+		"community_hub_visible"		"1"
+		"gameid"		"1000410"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"1663"
+			"2"		"4004"
+			"3"		"4345"
+			"4"		"4667"
+			"5"		"3916"
+			"6"		"493"
+			"7"		"3839"
+			"8"		"1667"
+			"9"		"1774"
+			"10"		"5547"
+			"11"		"4182"
+			"12"		"6691"
+			"13"		"4166"
+			"14"		"5228"
+		}
+		"review_score"		"6"
+		"review_percentage"		"71"
+	}
+	"extended"
+	{
+		"developer"		"KillPixel"
+		"publisher"		"3D Realms"
+		"homepage"		"http://www.wrath.game"
+	}
+	"config"
+	{
+		"installdir"		"WRATH"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"wrath.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Wrath (without SDL)"
+				}
+				"description"		"Wrath (without SDL)"
+			}
+			"1"
+			{
+				"executable"		"wrath-sdl.exe"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Wrath (SDL version)"
+				}
+				"description"		"Wrath (SDL version)"
+			}
+		}
+	}
+	"depots"
+	{
+		"1000411"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7068286018036856272"
+					"size"		"449836690"
+					"download"		"430562496"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"1c_branch"
+				{
+					"gid"		"2DB0E4D671234783D8FC18EAC785F608"
+					"size"		"F3B24BBCE8FD4A9BA8A030B8442AABBA"
+					"download"		"E9EB4BB77CBFF16B74DF5DF03E63A94E"
+				}
+				"1c_branch_old"
+				{
+					"gid"		"5D60D13CB95FF284EE8E5FEEA5220A48"
+					"size"		"3B1EAC0F15556CA5B961EB62EF43288B"
+					"download"		"934285A8AD46F0DE88525F91BF8589EE"
+				}
+				"beta"
+				{
+					"gid"		"32200BE4FFC94AE7D111AF16CD849C5F"
+					"size"		"3DF2DF02AC8D8EC2CFD7CD6C46FF1305"
+					"download"		"5B875CEA5AF99D9FDE7CBF26C282AE79"
+				}
+				"content_update_test"
+				{
+					"gid"		"770245260334625AE398EE37347E1A27"
+					"size"		"C419AB8140BD05F136DA8FBAE19E418D"
+					"download"		"3E3724B3A7AF4BFE0578BB9FBD99EE20"
+				}
+				"content_update2_test"
+				{
+					"gid"		"13A9CB0AC3D2CF95FE7BA17701787CC5"
+					"size"		"923177A7B9D7A2147F011BA24A501613"
+					"download"		"DE48A6E699EA3D7BC020069731D318D2"
+				}
+				"ea_branch"
+				{
+					"gid"		"BB2F99506C63CAF73A8698F9933F3087"
+					"size"		"0ED9CC2E19847B60EA0CA33DCC13CCD6"
+					"download"		"15E9D0FCFBF3D69D7E4E7153F3E9E52D"
+				}
+				"patch1_test"
+				{
+					"gid"		"B8F78AD093E04445C326294F3008330A"
+					"size"		"575E67B8487BCAF8938DCAEC080F5E82"
+					"download"		"DB04547CCDA32F0CD903E4E193F0A25B"
+				}
+				"press_build"
+				{
+					"gid"		"726EBAEEE4B31C43338B1EA56C3EC2FC"
+					"size"		"99E01A5EA0FAF4CECAE6F8F80E177488"
+					"download"		"BE32F30AAD5A791467607D8D6E602583"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6151413"
+				"timeupdated"		"1611842359"
+			}
+			"1c_branch"
+			{
+				"buildid"		"11671564"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692380337"
+			}
+			"1c_branch_old"
+			{
+				"buildid"		"9286656"
+				"pwdrequired"		"1"
+				"timeupdated"		"1664868294"
+			}
+			"beta"
+			{
+				"buildid"		"6151413"
+				"pwdrequired"		"1"
+				"timeupdated"		"1611842411"
+			}
+			"content_update_test"
+			{
+				"buildid"		"5082795"
+				"pwdrequired"		"1"
+				"timeupdated"		"1590562414"
+			}
+			"content_update2_test"
+			{
+				"buildid"		"5091082"
+				"pwdrequired"		"1"
+				"timeupdated"		"1590686308"
+			}
+			"ea_branch"
+			{
+				"buildid"		"4416655"
+				"pwdrequired"		"1"
+				"timeupdated"		"1574429893"
+			}
+			"patch1_test"
+			{
+				"buildid"		"4505686"
+				"pwdrequired"		"1"
+				"timeupdated"		"1576655058"
+			}
+			"press_build"
+			{
+				"buildid"		"4416700"
+				"pwdrequired"		"1"
+				"timeupdated"		"1574430287"
+			}
+		}
+	}
+}
