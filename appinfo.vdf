@@ -1,0 +1,314 @@
+"appinfo"
+{
+	"appid"		"1240230"
+	"common"
+	{
+		"name"		"Tony Stewart's Sprint Car Racing"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"a19a58799d32ac4100635088fca962cec94f142f"
+		"clienttga"		"fade0a5535075d4a5295a57c0d7d2db7122aac8d"
+		"icon"		"eb592dd8a8f4c3cb50f43c5d1df6e7ae14132cf4"
+		"logo"		"7956828a60bb729b578a47eec09270d4274b4ddc"
+		"logo_small"		"7956828a60bb729b578a47eec09270d4274b4ddc_thumb"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1647648000"
+			"tested_build_id"		"7381225"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"simultaneous_gamepad_mouse"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"1"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Tony Stewart's Sprint Car Racing"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"63.88564760793465"
+				"height_pct"		"65.95820470197103"
+			}
+		}
+		"store_asset_mtime"		"1580842699"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Monster Games, Inc."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Monster Games, Inc."
+			}
+		}
+		"primary_genre"		"9"
+		"genres"
+		{
+			"0"		"9"
+			"1"		"28"
+			"2"		"18"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_37"		"1"
+			"category_24"		"1"
+			"category_22"		"1"
+			"category_18"		"1"
+			"category_1"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1582304514"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1240230"
+		"store_tags"
+		{
+			"0"		"699"
+			"1"		"701"
+			"2"		"599"
+			"3"		"1100687"
+			"4"		"3859"
+			"5"		"7368"
+		}
+		"review_score"		"8"
+		"review_percentage"		"87"
+	}
+	"extended"
+	{
+		"developer"		"Monster Games, Inc."
+		"publisher"		"Monster Games, Inc."
+		"homepage"		"http://www.tonystewartgame.com"
+		"listofdlc"		"1241850,1255490,1286960"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Tony Stewart's Sprint Car Racing"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SprintCarRacing.exe"
+				"description"		"Play Tony Stewart's Sprint Car Racing"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"SprintCarRacing.exe"
+				"arguments"		"-MGI-reset-graphics-settings"
+				"description"		"Reset Graphic Settings"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"2"
+			{
+				"executable"		"DeleteSaveData.bat"
+				"description"		"Delete Save Data"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1240231"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8497396677150719754"
+					"size"		"10229841936"
+					"download"		"8502715184"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"0E111C6952586D0EB87353513AB35D81"
+					"size"		"5446114C8CAC515E99EAD83FFD06EE00"
+					"download"		"2E32D566E3C273E737D39390B310EF1E"
+				}
+			}
+		}
+		"1241852"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"dlcappid"		"1241852"
+		}
+		"1241850"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"dlcappid"		"1241850"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1754327225517824073"
+					"size"		"189"
+					"download"		"128"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"82EA8CC8AFA136930CAF0BA54E2BAC55"
+					"size"		"7160696337DE9F16BE15044E297675F0"
+					"download"		"2D8A6AEC3FD307F5D4A85CA271D169DD"
+				}
+			}
+		}
+		"1241851"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"dlcappid"		"1241851"
+		}
+		"1255490"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"dlcappid"		"1255490"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3785621237311767003"
+					"size"		"563"
+					"download"		"176"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"0DAC95B6D136CFE4E92A71EDA36A1C6C"
+					"size"		"640B751DF12928B7D544AA2E7897DEBB"
+					"download"		"FEBCC446DD8C50AEB63E67D25BF89CF4"
+				}
+			}
+		}
+		"1286960"
+		{
+			"dlcappid"		"1286960"
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5924594841706371627"
+					"size"		"18"
+					"download"		"64"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"2EBEC8F5EC12A6CA825B33109C73DD55"
+					"size"		"10E7ABDC401FA980325859A0ED4A3206"
+					"download"		"B64EB909B6D46967BA3052D1E46C2D64"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7381225"
+				"timeupdated"		"1631928252"
+			}
+			"beta"
+			{
+				"buildid"		"7381216"
+				"pwdrequired"		"1"
+				"timeupdated"		"1631928138"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"50000000"
+		"maxnumfiles"		"20"
+	}
+}
