@@ -1,0 +1,543 @@
+"appinfo"
+{
+	"appid"		"825630"
+	"common"
+	{
+		"name"		"STEINS;GATE 0"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"2c45f6a5e8c376b995b164db5105f469a025c775"
+		"logo_small"		"2c45f6a5e8c376b995b164db5105f469a025c775_thumb"
+		"icon"		"32ed7216259d8bd3e339bb6d8a0376c4b0c8cad3"
+		"oslist"		"windows"
+		"osarch"		""
+		"clienticon"		"682f1c6c0627630e9b3c83c957d3fb80df67dad4"
+		"clienttga"		"c2069214981cd0bc1bbafc4f7e721695de005ffa"
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"japanese"		"1"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1660176000"
+			"tested_build_id"		"5281662"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"5"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"1"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-3"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"STEINS;GATE 0"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"48.50345360373827"
+				"height_pct"		"51.88217583846373"
+			}
+		}
+		"store_asset_mtime"		"1570772932"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"MAGES. Inc."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Spike Chunsoft Co., Ltd."
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Science Adventure Series"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_29"		"1"
+			"category_41"		"1"
+			"category_42"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1525819740"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"825630"
+		"store_tags"
+		{
+			"0"		"3799"
+			"1"		"1742"
+			"2"		"4085"
+			"3"		"10679"
+			"4"		"3942"
+			"5"		"1756"
+			"6"		"21"
+			"7"		"6971"
+			"8"		"4182"
+			"9"		"5794"
+			"10"		"6426"
+			"11"		"7926"
+			"12"		"1721"
+			"13"		"4947"
+			"14"		"5716"
+			"15"		"4166"
+			"16"		"5186"
+			"17"		"4667"
+			"18"		"10397"
+		}
+		"review_score"		"9"
+		"review_percentage"		"96"
+	}
+	"extended"
+	{
+		"developer"		"MAGES. Inc."
+		"publisher"		"Spike Chunsoft Co., Ltd."
+	}
+	"config"
+	{
+		"installdir"		"STEINS;GATE 0"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"boot.bat"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		""
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"825631"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4654351205478233370"
+					"size"		"7234445646"
+					"download"		"6914381664"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"3D1978C6C8FEF5C17B58BAA3A9BD8553"
+					"size"		"98B285E215E50BB96EEC3F4828BE632B"
+					"download"		"38CF8CDFA8C1ED1E94D80EE6D6ACFE16"
+				}
+				"zh_pre_test"
+				{
+					"gid"		"E191B609B0690FCD49ED011A49C70E44"
+					"size"		"179F5FAEEA9AEE8F69EAC99076922B8D"
+					"download"		"6C3D4F5EE1A9B189E855E3DA88E9CA91"
+				}
+				"zh_test"
+				{
+					"gid"		"6D6A03E604DB7B387320C23F17A2D80C"
+					"size"		"8347B5A637394E102314C205CFF75DC7"
+					"download"		"FCC860654A3964BF02C8EF6AE4BA5CCD"
+				}
+			}
+		}
+		"825632"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1472123113237736138"
+					"size"		"7234445646"
+					"download"		"6914381664"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"43A9C5F8FD6447715093BB64B474E2B1"
+					"size"		"98B285E215E50BB96EEC3F4828BE632B"
+					"download"		"38CF8CDFA8C1ED1E94D80EE6D6ACFE16"
+				}
+				"zh_pre_test"
+				{
+					"gid"		"8B12EF673E12FDF6FF6F0B15262E893A"
+					"size"		"179F5FAEEA9AEE8F69EAC99076922B8D"
+					"download"		"6C3D4F5EE1A9B189E855E3DA88E9CA91"
+				}
+				"zh_test"
+				{
+					"gid"		"376D86A7E9F2AEAC0AB5E70F8B04EB8C"
+					"size"		"8347B5A637394E102314C205CFF75DC7"
+					"download"		"FCC860654A3964BF02C8EF6AE4BA5CCD"
+				}
+			}
+		}
+		"825633"
+		{
+			"config"
+			{
+				"language"		"japanese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8636861420363666199"
+					"size"		"7205256806"
+					"download"		"6894383312"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"D22E115B76D3DF3EC88C30C4DDD32B93"
+					"size"		"D2B564F156DC09CE894068FB4ACE56DE"
+					"download"		"E11669005DF6E9F17B7417171D9E3049"
+				}
+				"zh_pre_test"
+				{
+					"gid"		"732F9F7C54AEB6970C8151A313C566A5"
+					"size"		"09F8926818970D56E0722CED143A14A6"
+					"download"		"384FD4997724D25A3C1C12A0B1433BEA"
+				}
+				"zh_test"
+				{
+					"gid"		"1FBE9045FA357BAE32AA22220996C9BE"
+					"size"		"0B2A9B5BA9F7FE36090557B0D73EF2C1"
+					"download"		"237DD087D101EE7D0F9627328D050A52"
+				}
+			}
+		}
+		"825634"
+		{
+			"config"
+			{
+				"language"		"tchinese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4489036672716770150"
+					"size"		"7297035719"
+					"download"		"6989521248"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"B7FAF2AE7F09C46FEC7011F6AA286E4A"
+					"size"		"E3846C88EA97AA98D0ED63344A29F771"
+					"download"		"5D23F78BF1365EDCC98CD60F6FE0E164"
+				}
+				"zh_pre_test"
+				{
+					"gid"		"BAEF84D0DB1F24BC1606C273C7ED107A"
+					"size"		"3F836AAC84092A0444B535E04408F116"
+					"download"		"B315BA123188D5FC1FFB9ED2793D71FF"
+				}
+				"zh_test"
+				{
+					"gid"		"AF6329B8E8CA9F39CB494825C7C4C1F8"
+					"size"		"9D2B640E1BE74DB91A1F5F1C010FBBF9"
+					"download"		"72041EB4A2BEA9196CB0C46794A55F5C"
+				}
+			}
+		}
+		"825635"
+		{
+			"config"
+			{
+				"language"		"schinese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1674501884294383206"
+					"size"		"7296576596"
+					"download"		"6989050352"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"FD63E2CBD51D8BC70926AFF57770645D"
+					"size"		"50208883665F18E6CB177350E9FDC3E8"
+					"download"		"312DEC2FC1ECE23D861785ADADF7916B"
+				}
+				"zh_pre_test"
+				{
+					"gid"		"86E872549E904BEAD236C68AE76BB692"
+					"size"		"BAE174DE56D4CB59A02D02390DB33FB6"
+					"download"		"BC917C15A8A381CEC2E2F2C66543431A"
+				}
+				"zh_test"
+				{
+					"gid"		"BFB0ADC2AD2632A0423617E7DEA41D3C"
+					"size"		"0399C6FFD64AC45AF4E8B6F3E74B3AA3"
+					"download"		"E831C990CE3FA6627C5E1704A5D5B6EE"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10917617"
+				"timeupdated"		"1689755312"
+			}
+			"beta"
+			{
+				"buildid"		"10917617"
+				"pwdrequired"		"1"
+				"timeupdated"		"1680518534"
+			}
+			"zh_pre_test"
+			{
+				"buildid"		"3757813"
+				"pwdrequired"		"1"
+				"timeupdated"		"1555925153"
+			}
+			"zh_test"
+			{
+				"buildid"		"5281662"
+				"pwdrequired"		"1"
+				"timeupdated"		"1594624160"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"288000000"
+		"maxnumfiles"		"36"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"/My Games/mages_steam/STEINS GATE 0/jpn"
+				"pattern"		"*.dat"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+			"1"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"/My Games/mages_steam/STEINS GATE 0/eng"
+				"pattern"		"*.dat"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+			"2"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"/My Games/mages_steam/STEINS GATE 0/deu"
+				"pattern"		"*.dat"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+			"3"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"/My Games/mages_steam/STEINS GATE 0/spa"
+				"pattern"		"*.dat"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+			"4"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"/My Games/mages_steam/STEINS GATE 0/fra"
+				"pattern"		"*.dat"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+			"5"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"/My Games/mages_steam/STEINS GATE 0/ita"
+				"pattern"		"*.dat"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+			"6"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"/My Games/mages_steam/STEINS GATE 0/kor"
+				"pattern"		"*.dat"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+			"7"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"/My Games/mages_steam/STEINS GATE 0/zht"
+				"pattern"		"*.dat"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+			"8"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"/My Games/mages_steam/STEINS GATE 0/zhc"
+				"pattern"		"*.dat"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
