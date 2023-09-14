@@ -1,0 +1,364 @@
+"appinfo"
+{
+	"appid"		"1279310"
+	"common"
+	{
+		"name"		"RESEARCH and DESTROY"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"57bc07d620e0688a578f48019c504feea1973174"
+		"clienttga"		"676538df429cfee4a12f4444646a597f6d7c7bf7"
+		"icon"		"d96559a672e5986c3778de3b77bd691520e78350"
+		"logo"		"0fddd15a83ca86bef5ac9af33d6e0801ae7cce9f"
+		"logo_small"		"0fddd15a83ca86bef5ac9af33d6e0801ae7cce9f_thumb"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"polish"		"1"
+			"brazilian"		"1"
+			"latam"		"1"
+		}
+		"name_localized"
+		{
+			"japanese"		"リサーチアンドデストロイ"
+		}
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"japanese"		"header_japanese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,ja"
+			"library_hero"		"en"
+			"library_logo"		"en,ja"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"28.763127187864654"
+				"height_pct"		"67.47803372120636"
+			}
+		}
+		"store_asset_mtime"		"1650936041"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Implausible Industries"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Spike Chunsoft Co., Ltd."
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+			"category_38"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1650930451"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1279310"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"1685"
+			"2"		"3859"
+			"3"		"19"
+			"4"		"597"
+			"5"		"1741"
+			"6"		"14139"
+			"7"		"4255"
+			"8"		"1773"
+			"9"		"4747"
+			"10"		"10816"
+			"11"		"1659"
+			"12"		"3813"
+			"13"		"4195"
+			"14"		"1751"
+			"15"		"4305"
+			"16"		"10808"
+			"17"		"4136"
+			"18"		"3942"
+			"19"		"5711"
+		}
+		"review_score"		"7"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"absolutemousecoordinates"		"0"
+		"developer"		"Implausible Industries"
+		"publisher"		"Spike Chunsoft Co., Ltd."
+		"homepage"		"https://rad-official.com/"
+		"listofdlc"		"1479290,1479291,1555690,1555691"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"RAD"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TBS.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigdetails"
+		{
+			"2868287753"
+			{
+				"controller_type"		"controller_steamcontroller_gordon"
+				"enabled_branches"		"default,bitsummitvanilla,bitsummitx,internaltesting,promo,releasestaging,scpromo,shippingtesting"
+				"use_action_block"		"false"
+			}
+		}
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian,latam"
+		"1279311"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1864098523097915213"
+					"size"		"10743313883"
+					"download"		"4158040560"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"bitsummitvanilla"
+				{
+					"gid"		"D2517290F8434247BA4D5D29D6AACB28"
+					"size"		"821546A3DEAA3B0A760FC0184E5C638C"
+					"download"		"5DE82C1049F4BF31D34EF76B10357C31"
+				}
+				"bitsummitx"
+				{
+					"gid"		"327B0D9F1799D363CC8F5CF64435226C"
+					"size"		"670CDA749E33DB7AA67F5907CFBF5F07"
+					"download"		"C0CB580452E758A293CBAEDEF50641DD"
+				}
+				"internaltesting"
+				{
+					"gid"		"740FC2F847ABFF7D9C4672195787350A"
+					"size"		"5574321F3A33B1128E3119EF1536F694"
+					"download"		"2334F9D0CFF34A91BCD1251123942087"
+				}
+				"promo"
+				{
+					"gid"		"64525D87848FD9EA06E4630DF05B655D"
+					"size"		"782D9568DD6D03EC026B233B3F2F3714"
+					"download"		"A12DF87A73317268D844E829132CED43"
+				}
+				"releasestaging"
+				{
+					"gid"		"A1F3C65F22B65DA9F7247A03E3721F6D"
+					"size"		"EE24B2217CA78A70E7D4870EFFE0396A"
+					"download"		"B82B7B17856BCBE4BA69BC80E22DCB3B"
+				}
+				"scpromo"
+				{
+					"gid"		"FC245421FEB3C798710B9B36CFC26B98"
+					"size"		"BED2556C6B45A5EE37BC1F5BC23CBBC9"
+					"download"		"0D7EBFCA95A451FC4341E9FD24863ECF"
+				}
+				"shippingtesting"
+				{
+					"gid"		"86C4DB174B818A5CEA696806C050C528"
+					"size"		"D3A714AD253D3868D19875137E34E1F8"
+					"download"		"1CA3452B2A1514617CD14954AF3E331C"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9596242"
+				"timeupdated"		"1664245512"
+			}
+			"bitsummitvanilla"
+			{
+				"buildid"		"9258502"
+				"pwdrequired"		"1"
+				"timeupdated"		"1659683699"
+			}
+			"bitsummitx"
+			{
+				"buildid"		"9266320"
+				"pwdrequired"		"1"
+				"timeupdated"		"1659791763"
+			}
+			"internaltesting"
+			{
+				"buildid"		"9589245"
+				"pwdrequired"		"1"
+				"timeupdated"		"1664162780"
+			}
+			"promo"
+			{
+				"buildid"		"5378133"
+				"pwdrequired"		"1"
+				"timeupdated"		"1596700201"
+			}
+			"releasestaging"
+			{
+				"buildid"		"9596242"
+				"pwdrequired"		"1"
+				"timeupdated"		"1664242969"
+			}
+			"scpromo"
+			{
+				"buildid"		"8556343"
+				"pwdrequired"		"1"
+				"timeupdated"		"1649919548"
+			}
+			"shippingtesting"
+			{
+				"buildid"		"9271473"
+				"pwdrequired"		"1"
+				"timeupdated"		"1659927896"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"50"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"TBS\\Saved\\SaveGames"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
