@@ -1,0 +1,297 @@
+"appinfo"
+{
+	"appid"		"2158850"
+	"common"
+	{
+		"name"		"Spooky Halloween in the Voxel World"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"fc30dc30cbc1dd19b7c45aa5dd17f335c44dfeb0"
+		"clienticon"		"2b4a44e5917ef363c373ac3727d8dc6aa7ee8ea4"
+		"clienttga"		"2a92be440b29c39374634ad1faab7a314ab3ac3e"
+		"releasestate"		"released"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"2158850_eula_0"
+				"name"		"Spooky Halloween in the Voxel World EULA"
+				"url"		"https://store.steampowered.com//eula/2158850_eula_0"
+				"version"		"1"
+			}
+		}
+		"languages"
+		{
+			"english"		"1"
+			"brazilian"		"1"
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"50"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1668214892"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Paulo Sacilotti Junior"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Half Moon Game Development"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+			"category_22"		"1"
+			"category_55"		"1"
+			"category_57"		"1"
+			"category_58"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1667215681"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2158850"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"3959"
+			"2"		"4106"
+			"3"		"1684"
+			"4"		"21"
+			"5"		"7948"
+			"6"		"19"
+			"7"		"1759"
+			"8"		"198631"
+			"9"		"1732"
+			"10"		"3834"
+			"11"		"4305"
+			"12"		"4726"
+			"13"		"4166"
+			"14"		"3964"
+			"15"		"5350"
+			"16"		"1716"
+			"17"		"42804"
+			"18"		"597"
+			"19"		"5851"
+		}
+		"review_score"		"7"
+		"review_percentage"		"100"
+	}
+	"extended"
+	{
+		"developer"		"Paulo Sacilotti Junior"
+		"publisher"		"Half Moon Game Development"
+		"homepage"		"https://blizbr02.wixsite.com/halfmoon"
+		"listofdlc"		"2256320"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Spooky Halloween in the Voxel World"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"game.exe"
+				"arguments"		"--in-process-gpu"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Game.app/Contents/MacOS/rpginabox"
+				"arguments"		"--in-process-gpu"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"game"
+				"arguments"		"--in-process-gpu"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,brazilian"
+		"2158851"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2991616694280164658"
+					"size"		"188021413"
+					"download"		"136688704"
+				}
+			}
+		}
+		"2158852"
+		{
+			"config"
+			{
+				"language"		"brazilian"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4519491956086466396"
+					"size"		"188025057"
+					"download"		"136390720"
+				}
+			}
+		}
+		"2158853"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7075766851574364691"
+					"size"		"208198726"
+					"download"		"139122752"
+				}
+			}
+		}
+		"2158854"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1865888308695555815"
+					"size"		"212954005"
+					"download"		"140685984"
+				}
+			}
+		}
+		"2158855"
+		{
+			"config"
+			{
+				"language"		"brazilian"
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2775093519147846244"
+					"size"		"208202370"
+					"download"		"139186928"
+				}
+			}
+		}
+		"2158856"
+		{
+			"config"
+			{
+				"language"		"brazilian"
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"421642322044025648"
+					"size"		"212957649"
+					"download"		"140750160"
+				}
+			}
+		}
+		"2256320"
+		{
+			"dlcappid"		"2256320"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1494619925264471993"
+					"size"		"168101986"
+					"download"		"78113200"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10517101"
+				"timeupdated"		"1675965688"
+			}
+		}
+	}
+}
