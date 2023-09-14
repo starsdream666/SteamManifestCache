@@ -1,0 +1,201 @@
+"appinfo"
+{
+	"appid"		"686290"
+	"common"
+	{
+		"name"		"RADical ROACH: Infinity"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"ceebf14b0f3bb6dfc7763c553098639c1ebb933c"
+		"logo_small"		"ceebf14b0f3bb6dfc7763c553098639c1ebb933c_thumb"
+		"icon"		"9b0284737082dd5c60ec8c4a8b3a802d2f91ce29"
+		"clienticon"		"89448b2e5e95d2e970847ea9326740d0497c0505"
+		"clienttga"		"707960a03557bd55ba83500ca26fd20c7077e8e9"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"metacritic_name"		"RADical ROACH: Infinity"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"50"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1642793397"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"DL Softworks"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"DL Softworks"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"RADical ROACH"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"23"
+			"4"		"18"
+			"5"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_15"		"1"
+			"category_25"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1644610851"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"686290"
+		"store_tags"
+		{
+			"0"		"4255"
+			"1"		"19"
+			"2"		"4885"
+			"3"		"42804"
+			"4"		"4085"
+			"5"		"1773"
+			"6"		"1716"
+			"7"		"3798"
+			"8"		"7481"
+			"9"		"1671"
+			"10"		"3942"
+			"11"		"5796"
+			"12"		"1759"
+			"13"		"1755"
+			"14"		"6426"
+			"15"		"7743"
+			"16"		"1673"
+			"17"		"4004"
+			"18"		"6625"
+			"19"		"1774"
+		}
+	}
+	"extended"
+	{
+		"developer"		"DL Softworks"
+		"publisher"		"DL Softworks"
+	}
+	"config"
+	{
+		"installdir"		"RADicalROACHInfinity"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"RadROACH Infinity.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"686291"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7432512796016137969"
+					"size"		"275474560"
+					"download"		"214825600"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"DCB45D839D962102D78A391D8A57B9B5"
+					"size"		"E39F6B29B65651711F2C01B4A1A4503F"
+					"download"		"D7F122F3EF93C3DDE6271DF4F4AE49B6"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8193008"
+				"timeupdated"		"1644694017"
+			}
+			"beta"
+			{
+				"buildid"		"8193008"
+				"pwdrequired"		"1"
+				"timeupdated"		"1644693798"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"RadROACH_Infinity"
+				"pattern"		"*.ini"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
