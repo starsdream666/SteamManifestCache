@@ -1,0 +1,164 @@
+"appinfo"
+{
+	"appid"		"1366810"
+	"common"
+	{
+		"name"		"AccrO"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"4306cd4dde12d1d508dbb6967ea23fcc8cc2c863"
+		"clienttga"		"af4a423a95e15db6cb48d0e9189cf4fe8720b66c"
+		"icon"		"da5cdfb66fef4c26e4260075d69fd7e06c9cbd88"
+		"logo"		"73560e9221767de2325dbbf67b7c59f938667520"
+		"logo_small"		"73560e9221767de2325dbbf67b7c59f938667520_thumb"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1613045269"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Walter Machado"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Walter Machado"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1653388654"
+		"community_hub_visible"		"1"
+		"gameid"		"1366810"
+		"store_tags"
+		{
+			"0"		"599"
+			"1"		"15045"
+			"2"		"13782"
+			"3"		"4191"
+			"4"		"4166"
+			"5"		"4182"
+		}
+		"review_score"		"6"
+		"review_percentage"		"75"
+	}
+	"extended"
+	{
+		"developer"		"Walter Machado"
+		"publisher"		"Walter Machado"
+	}
+	"config"
+	{
+		"installdir"		"AccrO"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"AccrO.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229006"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english"
+		"1366811"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8158592722447060178"
+					"size"		"2771495171"
+					"download"		"692869744"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7197717"
+				"timeupdated"		"1629133492"
+			}
+		}
+	}
+}
