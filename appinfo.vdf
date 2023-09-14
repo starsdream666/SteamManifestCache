@@ -1,0 +1,194 @@
+"appinfo"
+{
+	"appid"		"1345740"
+	"common"
+	{
+		"name"		"恋爱绮谭 不存在的夏天"
+		"type"		"Game"
+		"releasestate"		"released"
+		"icon"		"25084ed646d6b0b48cf398e204d60f25d8cd0bfe"
+		"clienticon"		"c7e129f84ff653abda364a308157928106f68334"
+		"clienttga"		"da78d12474d82b69af6b30c1584278ac61160af4"
+		"logo"		"8d3e4ccfd00423202042a9ffcd319afa1edc6d80"
+		"logo_small"		"8d3e4ccfd00423202042a9ffcd319afa1edc6d80_thumb"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+		}
+		"store_asset_mtime"		"1639298913"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Never Knows Best"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Never Knows Best"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"恋爱绮谭"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1604127600"
+		"steam_release_date"		"1604129369"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1345740"
+		"store_tags"
+		{
+			"0"		"3799"
+			"1"		"5716"
+			"2"		"597"
+			"3"		"4085"
+			"4"		"24003"
+			"5"		"11014"
+			"6"		"4726"
+			"7"		"9551"
+			"8"		"4947"
+			"9"		"1742"
+			"10"		"31275"
+			"11"		"44868"
+			"12"		"21"
+			"13"		"4182"
+			"14"		"599"
+			"15"		"12095"
+			"16"		"6971"
+			"17"		"5611"
+			"18"		"1721"
+			"19"		"4064"
+		}
+		"review_score"		"9"
+		"review_percentage"		"95"
+	}
+	"extended"
+	{
+		"developer"		"Never Knows Best"
+		"publisher"		"Never Knows Best"
+		"listofdlc"		"1457450"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Mystery Lover"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MysteryLover.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1345741"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7564770236536374173"
+					"size"		"2523304274"
+					"download"		"2370987824"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"D765A0BFD94C5F273857E769F6F9B5B7"
+					"size"		"87A240F970AB2C53B9974F7AB11B194D"
+					"download"		"0C36AFF22DCA598B3E88C4C92926C853"
+				}
+			}
+		}
+		"1457450"
+		{
+			"dlcappid"		"1457450"
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7252006985151801973"
+					"size"		"34254723"
+					"download"		"34631680"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"108D179D6D37F2A7CF28F66B1AD0879F"
+					"size"		"C6B0CCFE3D7D2F07F1B4D25AF1EA5E6E"
+					"download"		"05D0D66CAD9800ABA21B1923965A2871"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8109673"
+				"timeupdated"		"1643438485"
+			}
+			"test"
+			{
+				"buildid"		"8109673"
+				"pwdrequired"		"1"
+				"timeupdated"		"1643438080"
+			}
+		}
+	}
+}
