@@ -1,0 +1,586 @@
+"appinfo"
+{
+	"appid"		"1322300"
+	"common"
+	{
+		"name"		"Tsugunohi"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"e1f7b7a848654c8e131f731fd76799aba6bc255d"
+		"logo_small"		"e1f7b7a848654c8e131f731fd76799aba6bc255d_thumb"
+		"icon"		"8a84dabecbd2ceeb6322c6810f0e46a176e070a6"
+		"clienticon"		"5c2b1171f5054ed55badf175f056e5cd07efa365"
+		"clienttga"		"a09bcc4a74eacd876c42041d04c35a7aa97f656f"
+		"name_localized"
+		{
+			"japanese"		"つぐのひ"
+			"koreana"		"이은날"
+			"schinese"		"Tsugunohi / 翌日"
+			"tchinese"		"Tsugunohi / 翌日"
+		}
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"koreana"		"capsule_231x87_koreana.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+			"spanish"		"capsule_231x87_spanish.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"japanese"		"header_japanese.jpg"
+			"schinese"		"header_schinese.jpg"
+			"koreana"		"header_koreana.jpg"
+			"tchinese"		"header_tchinese.jpg"
+			"spanish"		"header_spanish.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,ja,ko,zh-cn,zh-tw,es"
+			"library_hero"		"en"
+			"library_logo"		"ja,en,ko,zh-cn,zh-tw,es"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1655182288"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Vaka Game Magazine"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"ImCyan"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Vaka Game Magazine"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1628837434"
+		"community_hub_visible"		"1"
+		"gameid"		"1322300"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"492"
+			"2"		"19"
+			"3"		"1667"
+			"4"		"1742"
+			"5"		"4166"
+			"6"		"1721"
+			"7"		"4064"
+			"8"		"5900"
+			"9"		"4182"
+			"10"		"597"
+			"11"		"3871"
+			"12"		"4342"
+			"13"		"13782"
+			"14"		"4667"
+			"15"		"5577"
+			"16"		"7250"
+			"17"		"3798"
+		}
+		"review_score"		"6"
+		"review_percentage"		"70"
+	}
+	"extended"
+	{
+		"developer"		"Vaka Game Magazine"
+		"publisher"		"Vaka Game Magazine"
+		"homepage"		"https://www.gamemaga.jp/tsugunohi/"
+		"listofdlc"		"2271790"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"TSUGUNOHI"
+		"launch"
+		{
+			"9"
+			{
+				"executable"		"Tsugunohi_Launcher.exe"
+				"type"		"none"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,koreana,spanish,schinese,tchinese,japanese"
+		"1322301"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3368166631908211260"
+					"size"		"2542900450"
+					"download"		"945515120"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"check"
+				{
+					"gid"		"9A0D8C7A00598E10758167DBD9518CEB"
+					"size"		"80F3066070D8846A4FFD3E1E3F05A052"
+					"download"		"8C010648AC0F9786D8DDA8B04CE3A824"
+				}
+				"debug"
+				{
+					"gid"		"6DF5A5E945494FE012CE4E9D5233240C"
+					"size"		"EA7D2B0DDAF7021A61FBBCEC4E684E81"
+					"download"		"A595CFA4563EA721B095FB5BBBE52B02"
+				}
+			}
+		}
+		"1322302"
+		{
+			"config"
+			{
+				"language"		"japanese"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3017219277420632247"
+					"size"		"2510623680"
+					"download"		"919489888"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"check"
+				{
+					"gid"		"657C7985997816524BC2F6015DD791A7"
+					"size"		"C1C98FBA4B260B4CD4A46B694EC626D4"
+					"download"		"D03C0455E8F187F9009D3C9C191757E3"
+				}
+				"debug"
+				{
+					"gid"		"0E0D40607117D08DE584B357D817D8B9"
+					"size"		"31114554E5B7363AB330C686A513D968"
+					"download"		"2B86914126AA7659CF23D038214CCAE7"
+				}
+			}
+		}
+		"1322303"
+		{
+			"config"
+			{
+				"language"		"schinese"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5697564911268184171"
+					"size"		"2558086100"
+					"download"		"962890096"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"check"
+				{
+					"gid"		"1C089AF7D4B573FFD661BAB8EC3B9DC3"
+					"size"		"333F7705D28845EC9ADFCB2A7D1D3EDA"
+					"download"		"D3B1FCF5E3FCC9D9C2C6D7D30D09F464"
+				}
+				"debug"
+				{
+					"gid"		"8FB4FFF98C841E0760CC803088A0037F"
+					"size"		"E18813F8F0B306BC2FFB0E13659F67B3"
+					"download"		"8A76E6CEF9110759A7E98781E924FF99"
+				}
+			}
+		}
+		"1322304"
+		{
+			"config"
+			{
+				"language"		"tchinese"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4296351996851561866"
+					"size"		"1920680117"
+					"download"		"949114688"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"check"
+				{
+					"gid"		"B95037CE845AD1ECC38ACB2A61F0BC62"
+					"size"		"3AD45032B8EA823E999C2ACB4688A0A1"
+					"download"		"20DCF6A48070C2173BF67875E0FDC961"
+				}
+				"debug"
+				{
+					"gid"		"A42C1A1CD62948F1885D00EA3F9F803A"
+					"size"		"47185DD95386C2BAB42BD25B7406A6ED"
+					"download"		"C15A0FCB57F0D1373F682AB0747A10C7"
+				}
+			}
+		}
+		"1322305"
+		{
+			"config"
+			{
+				"language"		"koreana"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3297256156245420473"
+					"size"		"1931741747"
+					"download"		"957122624"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"check"
+				{
+					"gid"		"BCBF4552579B19C462BB6E6AC4DE62F7"
+					"size"		"C496E0F83A63DF833E849E8A17DB8BBD"
+					"download"		"CCBAED82C2AE83B5246B3CF2ED44572D"
+				}
+				"debug"
+				{
+					"gid"		"BEA469EA464F09623F71D42E20634349"
+					"size"		"63FB6B5E0104F476AF6C2A0917C6A360"
+					"download"		"077A682F818B268E2A7B3D40E9592084"
+				}
+			}
+		}
+		"1322306"
+		{
+			"config"
+			{
+				"language"		"spanish"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"10069406814111066"
+					"size"		"1999651356"
+					"download"		"991175600"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"check"
+				{
+					"gid"		"18A8F69DC8D7332EA60471DCFB8BA41F"
+					"size"		"715ED878D990B75707BD13E8B0B6226F"
+					"download"		"B3B5384EF7FAFDE5CD0555ADB5CF9C84"
+				}
+				"debug"
+				{
+					"gid"		"3ECD0FFE74C222A0580430F56E6A924D"
+					"size"		"CE8F91FFC8B81B5DDFFFB24972BFB45D"
+					"download"		"D050BF17E344C44326FF95352C597AA7"
+				}
+			}
+		}
+		"2271791"
+		{
+			"dlcappid"		"2271790"
+			"config"
+			{
+				"language"		"japanese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3785007050466526216"
+					"size"		"465859628"
+					"download"		"375420544"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"check"
+				{
+					"gid"		"E2F9A36056306F3A0F3BFA4B367F7780"
+					"size"		"DC2AAD3C7389CA44A417562B19AE11CB"
+					"download"		"963B4F1B3517F089093C7B6DD7103B6C"
+				}
+			}
+		}
+		"2271792"
+		{
+			"dlcappid"		"2271790"
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1569461209251728621"
+					"size"		"466772173"
+					"download"		"375242672"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"check"
+				{
+					"gid"		"83BBE5092E0E12557DC418C40970033D"
+					"size"		"8B142FD42F33E33A4FAA035AA42FFA34"
+					"download"		"5EBB56678D205324036DD6F4B1855178"
+				}
+			}
+		}
+		"2271793"
+		{
+			"dlcappid"		"2271790"
+			"config"
+			{
+				"language"		"schinese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2024907974361054069"
+					"size"		"465941333"
+					"download"		"374404256"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"check"
+				{
+					"gid"		"9EF3C82A5066E11C9277F0EDD2139550"
+					"size"		"FA361D8DFDDE52998B893815EE9F96B1"
+					"download"		"79CB76B22D207A03B730249846165BDF"
+				}
+			}
+		}
+		"2271794"
+		{
+			"dlcappid"		"2271790"
+			"config"
+			{
+				"language"		"tchinese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"933361438198743573"
+					"size"		"480787769"
+					"download"		"389913936"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"check"
+				{
+					"gid"		"08FA59C0A46E6B8F24A3F9EC1785B784"
+					"size"		"AE1DA20640FA25ABBA2E881A9A19B2B7"
+					"download"		"44C7F302FC85B4979DD405568B9E6BCD"
+				}
+			}
+		}
+		"2271795"
+		{
+			"dlcappid"		"2271790"
+			"config"
+			{
+				"language"		"koreana"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7577617637069632841"
+					"size"		"491158871"
+					"download"		"395879008"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"check"
+				{
+					"gid"		"D9B741F5A08B8C9C4C4C70AD5D6A0302"
+					"size"		"7C2F51FC8A88108FC9436021DC64F8E7"
+					"download"		"C20C9383C0102A09980E71C068B65EF4"
+				}
+			}
+		}
+		"2271796"
+		{
+			"dlcappid"		"2271790"
+			"config"
+			{
+				"language"		"spanish"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4293568411391702253"
+					"size"		"481916219"
+					"download"		"390405408"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"check"
+				{
+					"gid"		"68612F9EE13D3A5C90CAE63FA3E7B023"
+					"size"		"8762333CD580FCBF76303D27D89F744F"
+					"download"		"5800322FD91D0F9C0FD630BD57DEF305"
+				}
+			}
+		}
+		"2591141"
+		{
+			"dlcappid"		"2591140"
+			"config"
+			{
+				"language"		"japanese"
+				"oslist"		"windows"
+			}
+		}
+		"2591142"
+		{
+			"dlcappid"		"2591140"
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+		}
+		"2591143"
+		{
+			"dlcappid"		"2591140"
+			"config"
+			{
+				"language"		"schinese"
+				"oslist"		"windows"
+			}
+		}
+		"2591144"
+		{
+			"dlcappid"		"2591140"
+			"config"
+			{
+				"language"		"tchinese"
+				"oslist"		"windows"
+			}
+		}
+		"2591145"
+		{
+			"dlcappid"		"2591140"
+			"config"
+			{
+				"language"		"koreana"
+				"oslist"		"windows"
+			}
+		}
+		"2591146"
+		{
+			"dlcappid"		"2591140"
+			"config"
+			{
+				"language"		"spanish"
+				"oslist"		"windows"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10872861"
+				"timeupdated"		"1679999752"
+			}
+			"check"
+			{
+				"buildid"		"10872861"
+				"pwdrequired"		"1"
+				"timeupdated"		"1679998809"
+			}
+			"debug"
+			{
+				"buildid"		"8877292"
+				"pwdrequired"		"1"
+				"timeupdated"		"1654486078"
+			}
+		}
+	}
+}
