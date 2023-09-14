@@ -1,0 +1,150 @@
+"appinfo"
+{
+	"appid"		"1423610"
+	"common"
+	{
+		"name"		"Tales from Zilmurik"
+		"type"		"Game"
+		"releasestate"		"released"
+		"clienticon"		"d8a5a8020f138179983a68e435cbc769a811572e"
+		"clienttga"		"4c0b93977dfcfad86d26a60566122f82c40eccc0"
+		"icon"		"384b6e206661f2abe587d3806c81e58bc08374be"
+		"logo"		"442d0c5865e2fe19e840f35de3c80a327f9575d8"
+		"logo_small"		"442d0c5865e2fe19e840f35de3c80a327f9575d8_thumb"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"57.05950991831975"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1601381583"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Corfaisus"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Zilmurik Publishing Co."
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1601539251"
+		"community_hub_visible"		"1"
+		"gameid"		"1423610"
+		"store_tags"
+		{
+			"0"		"4434"
+			"1"		"1742"
+			"2"		"4106"
+			"3"		"4325"
+			"4"		"5577"
+			"5"		"4182"
+			"6"		"3964"
+			"7"		"3871"
+			"8"		"122"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Corfaisus"
+		"publisher"		"Zilmurik Publishing Co."
+	}
+	"config"
+	{
+		"installdir"		"Tales from Zilmurik"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Tales from Zilmurik/RPG_RT.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"1423611"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2431827434913133221"
+					"size"		"42586386"
+					"download"		"26195808"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11657292"
+				"timeupdated"		"1688847658"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"983040"
+		"maxnumfiles"		"15"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"Tales from Zilmurik"
+				"pattern"		"*.lsd"
+				"recursive"		"1"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"os"		"Windows"
+				"oscompare"		"="
+				"useinstead"		"gameinstall"
+				"addpath"		""
+			}
+		}
+	}
+}
