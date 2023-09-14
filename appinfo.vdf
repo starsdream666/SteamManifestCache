@@ -1,0 +1,482 @@
+"appinfo"
+{
+	"appid"		"1501610"
+	"common"
+	{
+		"name"		"Nova Lands"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"59d247de23b3ae8bc640e9940d1f63421e8b52ed"
+		"clienttga"		"0f41afba1d23cdd7ddf28fb74c57758dc8aee173"
+		"icon"		"9ace05743e4b14eb127d45f094ca9c5957ddb8fa"
+		"logo"		"244013702c2860134a7dc8b82abac2e0c64f5bb5"
+		"logo_small"		"244013702c2860134a7dc8b82abac2e0c64f5bb5_thumb"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"thai"		"1"
+			"japanese"		"1"
+			"polish"		"1"
+			"turkish"		"1"
+			"brazilian"		"1"
+			"vietnamese"		"1"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1686787200"
+			"tested_build_id"		"11387734"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-2"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"1"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"98.95833333333333"
+			}
+		}
+		"store_asset_mtime"		"1688376309"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"BEHEMUTT"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"HypeTrain Digital"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"HypeTrain Digital"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"28"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"thai"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"vietnamese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1687453227"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1501610"
+		"store_tags"
+		{
+			"0"		"255534"
+			"1"		"3810"
+			"2"		"7332"
+			"3"		"21"
+			"4"		"1100689"
+			"5"		"1662"
+			"6"		"1695"
+			"7"		"3964"
+			"8"		"8945"
+			"9"		"1702"
+			"10"		"9"
+			"11"		"4182"
+			"12"		"1643"
+			"13"		"3871"
+			"14"		"597"
+			"15"		"599"
+			"16"		"3834"
+			"17"		"492"
+			"18"		"87918"
+			"19"		"122"
+		}
+		"review_score"		"8"
+		"review_percentage"		"91"
+	}
+	"extended"
+	{
+		"developer"		"BEHEMUTT"
+		"publisher"		"HypeTrain Digital"
+		"homepage"		"https://novalandsgame.com/"
+		"listofdlc"		"2287120"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Nova Lands"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Nova Lands.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"1501611"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"638775673425879417"
+					"size"		"878238834"
+					"download"		"143479072"
+				}
+				"stage"
+				{
+					"gid"		"638775673425879417"
+					"size"		"878238834"
+					"download"		"143479072"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"59FFD69FEE40C7C68F6080855D3BA1FC"
+					"size"		"237E23E83407466DD5562906124E710C"
+					"download"		"9A17BD34C7EF6FCD960461562192471D"
+				}
+				"preview"
+				{
+					"gid"		"CECAB09ACAF1E35E220B0C4ADB403DFB"
+					"size"		"91FF4C3FFEEF8402AFECE7ADABBC3D3D"
+					"download"		"8F9DEC6A8EE1F48265FA867C4406E0E9"
+				}
+				"progress"
+				{
+					"gid"		"66E21BE4197431951E91E0C0554E07AE"
+					"size"		"7731B4CE7960C744C61095486BE8C51D"
+					"download"		"8CD4C2839291BBCD841D9FE606AAB239"
+				}
+			}
+		}
+		"1501612"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8266714014576141346"
+					"size"		"878238834"
+					"download"		"143523152"
+				}
+				"stage"
+				{
+					"gid"		"8266714014576141346"
+					"size"		"878238834"
+					"download"		"143523152"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"D9E1A3FC759F6C67FE8C1E2EA09D3D17"
+					"size"		"237E23E83407466DD5562906124E710C"
+					"download"		"BFE82B0490A929CC3153E755E4D25A66"
+				}
+				"preview"
+				{
+					"gid"		"A2935AA8EE2574DE393A9DF0D859E7F7"
+					"size"		"0E3A7CB1DA107BAFCD360CAF5DE29568"
+					"download"		"FE57E4F7F82CE6AA5FD3E475F90A9E69"
+				}
+				"progress"
+				{
+					"gid"		"713715DD1835193DFF98FDDD21124AFA"
+					"size"		"7731B4CE7960C744C61095486BE8C51D"
+					"download"		"E5AF6EF26DD26DA30A5C0067038F9680"
+				}
+			}
+		}
+		"2287120"
+		{
+			"dlcappid"		"2287120"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1179442333866586838"
+					"size"		"679917566"
+					"download"		"658797600"
+				}
+				"stage"
+				{
+					"gid"		"1179442333866586838"
+					"size"		"679917566"
+					"download"		"658797600"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"BBE30E2CC218452D75C52A6E074A7268"
+					"size"		"C14D8518EEA205C0FFA86A5D16C62913"
+					"download"		"A6C92566165F823DD531CF361CCDAD2E"
+				}
+				"preview"
+				{
+					"gid"		"4ABF8E2C517883F87A295F592F1585CC"
+					"size"		"CAEDF045C423B8C3F4880E0D5B35DCDB"
+					"download"		"2CE976512D7138F3D1DD0A1FDBB336F6"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11706312"
+				"timeupdated"		"1689605757"
+			}
+			"development"
+			{
+				"buildid"		"11544595"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687525805"
+			}
+			"preview"
+			{
+				"buildid"		"11264906"
+				"pwdrequired"		"1"
+				"timeupdated"		"1684429456"
+			}
+			"progress"
+			{
+				"buildid"		"11572234"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687897002"
+			}
+			"stage"
+			{
+				"buildid"		"11706312"
+				"description"		"Nova Land's testing branch"
+				"timeupdated"		"1689362784"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"BEHEMUTT/Nova Lands/Worlds/"
+				"pattern"		"*"
+				"recursive"		"1"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxHome"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"BEHEMUTT/Nova Lands/Worlds/"
+						"replace"		".config/unity3d/BEHEMUTT/Nova Lands/Worlds/"
+					}
+				}
+			}
+		}
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#main_menu_rich_presence"		"At the Main Menu"
+					"#planet_surface_rich_presence"		"On the planet's surface"
+					"#space_station_rich_presence"		"In the Space Station"
+					"#spacewalk_rich_presence"		"On a Spacewalk"
+					"#sleeping_rich_presence"		"Sleeping in the bed"
+				}
+			}
+		}
+	}
+}
