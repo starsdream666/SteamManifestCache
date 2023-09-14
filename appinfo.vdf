@@ -1,0 +1,212 @@
+"appinfo"
+{
+	"appid"		"978190"
+	"common"
+	{
+		"name"		"Steel Sword Story"
+		"type"		"Game"
+		"clienttga"		"303f78ef2c023a04fcdfdfab56b3f7b08c5cd3a6"
+		"clienticon"		"fe8700c499a65ca54ccbde9b370343540c675e5d"
+		"icon"		"458988e5b34ad4218b5f226e308330940b86a25d"
+		"logo"		"25be967f76c469ab4d4f805ddc8117642b30db3f"
+		"logo_small"		"25be967f76c469ab4d4f805ddc8117642b30db3f_thumb"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"metacritic_name"		"Steel Sword Story"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"77.07117852975497"
+				"height_pct"		"29.862265495131794"
+			}
+		}
+		"store_asset_mtime"		"1579572158"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"8bits fanatics"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"KADOKAWA CORPORATION"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"PLAYISM"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Maker"
+			}
+			"4"
+			{
+				"type"		"franchise"
+				"name"		"PLAYISM"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1561092891"
+		"community_hub_visible"		"1"
+		"gameid"		"978190"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"492"
+			"2"		"3871"
+			"3"		"3964"
+			"4"		"4004"
+			"5"		"4182"
+			"6"		"3798"
+			"7"		"1756"
+			"8"		"4166"
+			"9"		"4604"
+			"10"		"5372"
+			"11"		"7481"
+			"12"		"15954"
+			"13"		"4342"
+			"14"		"4158"
+		}
+		"review_score"		"6"
+		"review_percentage"		"71"
+	}
+	"extended"
+	{
+		"developer"		"8bits fanatics"
+		"publisher"		"PLAYISM"
+		"homepage"		"https://tkool.jp/act/"
+	}
+	"config"
+	{
+		"installdir"		"Steel Sword Story"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"player.exe"
+				"type"		"none"
+			}
+		}
+	}
+	"depots"
+	{
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228984"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"978191"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4952681308819387208"
+					"size"		"158281013"
+					"download"		"101090096"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"08137990825410A93A88E704B157C864"
+					"size"		"CA3452A3E617847BCD2BEEEACA425206"
+					"download"		"F1C29C4684F78F112B3D078A5C11E5AA"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6173135"
+				"timeupdated"		"1612237392"
+			}
+			"beta"
+			{
+				"buildid"		"6173135"
+				"pwdrequired"		"1"
+				"timeupdated"		"1612231215"
+			}
+		}
+	}
+}
