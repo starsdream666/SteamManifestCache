@@ -1,0 +1,208 @@
+"appinfo"
+{
+	"appid"		"561360"
+	"common"
+	{
+		"name"		"VR Invaders"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"clienttga"		"6012ea81d68607ad0dfc5610e61f17101373c1fd"
+		"clienticon"		"81851691a93e209a2ce0af84fd52b2369f6d1ea5"
+		"icon"		"eba4a2f12e07fe9dea685c1881d9c0746eceb1a1"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"2"
+			}
+		}
+		"eulas"
+		{
+		}
+		"linuxclienticon"		"8ff180d6e3b0c6ab282c8f80318c76aa27938fbb"
+		"logo"		"d94784871721337830195b426da53fea05354405"
+		"logo_small"		"d94784871721337830195b426da53fea05354405_thumb"
+		"openvrsupport"		"1"
+		"releasestate"		"released"
+		"metacritic_name"		"VR Invaders"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1487596584"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"MY.GAMES"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"MY.GAMES"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_52"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1481803803"
+		"community_hub_visible"		"1"
+		"gameid"		"561360"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"4115"
+			"2"		"21978"
+		}
+		"review_score"		"7"
+		"review_percentage"		"80"
+	}
+	"extended"
+	{
+		"hadthirdpartycdkey"		"1"
+		"developer"		"MY.GAMES"
+		"publisher"		"MY.GAMES"
+		"homepage"		"https://vri.my.com/"
+	}
+	"config"
+	{
+		"installdir"		"VR Invaders"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"VRInvaders.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english"
+		"561361"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3820165577987891184"
+					"size"		"2276547721"
+					"download"		"779090752"
+				}
+			}
+		}
+		"561362"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2992339578791517867"
+					"size"		"2276547721"
+					"download"		"779500400"
+				}
+			}
+		}
+		"561363"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3758361041841136201"
+					"size"		"2276547721"
+					"download"		"779500400"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1635086"
+				"timeupdated"		"1487592054"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"VRInvaders/Saved/SaveGames"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
