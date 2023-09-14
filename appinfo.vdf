@@ -1,0 +1,231 @@
+"appinfo"
+{
+	"appid"		"1547580"
+	"common"
+	{
+		"name"		"Welcome To... Chichester 2 - Part II : No Extra Regrets For The Future"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"clienticon"		"023b7a92affe79b336ff5ebd1b2af994f6e0eba5"
+		"clienttga"		"af7deeb892a77bb4649b0f5ca0366e2803624d74"
+		"icon"		"3f29cca9d30e3598f7e7e22b20cde58019790eef"
+		"linuxclienticon"		"38b81dea8cd38e737056520a6484e608fbc1a754"
+		"logo"		"8b6356feb2e644720496c998ae4ab1c78770520e"
+		"logo_small"		"8b6356feb2e644720496c998ae4ab1c78770520e_thumb"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1679314582"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Triority Interactive Novels"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Triority Interactive Novels"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Welcome To... Chichester"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_13"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1633035743"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1547580"
+		"store_tags"
+		{
+			"0"		"3799"
+			"1"		"597"
+			"2"		"4085"
+			"3"		"4562"
+			"4"		"4195"
+			"5"		"4145"
+			"6"		"4305"
+			"7"		"4726"
+			"8"		"4166"
+			"9"		"1719"
+			"10"		"5984"
+			"11"		"21"
+			"12"		"492"
+			"13"		"4136"
+			"14"		"5673"
+			"15"		"19"
+			"16"		"7208"
+			"17"		"4182"
+			"18"		"9204"
+			"19"		"11014"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Triority Interactive Novels"
+		"publisher"		"Triority Interactive Novels"
+		"listofdlc"		"1666760,1924160,1954060"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Welcome To... Chichester 2 - Part II  No Extra Regrets For The Future"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"WTCNoExtraRegretsForTheFuture.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"2"
+			{
+				"executable"		"WTCNoExtraRegretsForTheFuture.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"3"
+			{
+				"executable"		"WTCNoExtraRegretsForTheFuture.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"1"
+		"1547581"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7003587147575046885"
+					"size"		"539151204"
+					"download"		"494705120"
+				}
+			}
+		}
+		"1547583"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4290994758003255638"
+					"size"		"528530509"
+					"download"		"490993552"
+				}
+			}
+		}
+		"1547584"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1218005870114150550"
+					"size"		"555362365"
+					"download"		"498466800"
+				}
+			}
+		}
+		"baselanguages"		"english"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11233058"
+				"timeupdated"		"1684143136"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"301989888"
+		"maxnumfiles"		"108"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"game/saves"
+				"pattern"		"*.*"
+			}
+		}
+	}
+}
