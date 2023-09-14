@@ -1,0 +1,211 @@
+"appinfo"
+{
+	"appid"		"1838600"
+	"common"
+	{
+		"name"		"Moshcave"
+		"type"		"Game"
+		"logo"		"1e60ba6dd6af077287409a16b6f04594eb2f71de"
+		"logo_small"		"1e60ba6dd6af077287409a16b6f04594eb2f71de_thumb"
+		"icon"		"10d2e78a8ead76af4f3d1d1344ab5b278fd8bf5f"
+		"clienticon"		"5792e9de1c45de0979f8f2ad535e49d3a02b630c"
+		"clienttga"		"06cd9ef53da435fd08f8ab7337d945a33dc67425"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1681582454"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"LGV"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"LGV"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"23"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1667063781"
+		"community_hub_visible"		"1"
+		"gameid"		"1838600"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"42804"
+			"2"		"1773"
+			"3"		"1716"
+			"4"		"4885"
+			"5"		"3959"
+			"6"		"4726"
+			"7"		"3964"
+			"8"		"7743"
+			"9"		"597"
+			"10"		"4182"
+			"11"		"3871"
+			"12"		"4474"
+			"13"		"1720"
+			"14"		"4057"
+			"15"		"198631"
+			"16"		"5125"
+			"17"		"4004"
+			"18"		"5154"
+			"19"		"493"
+		}
+	}
+	"extended"
+	{
+		"developer"		"LGV"
+		"publisher"		"LGV"
+	}
+	"config"
+	{
+		"installdir"		"Moshcave"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Moshcave.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Moshcave.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Moshcave.AppImage"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1838603"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4955759572346830400"
+					"size"		"230385181"
+					"download"		"94594272"
+				}
+			}
+		}
+		"1838601"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8123157644116850135"
+					"size"		"214295471"
+					"download"		"88357056"
+				}
+			}
+		}
+		"1838602"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7805709808838962964"
+					"size"		"108564559"
+					"download"		"109059408"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10787176"
+				"timeupdated"		"1678987257"
+			}
+		}
+	}
+}
