@@ -1,0 +1,319 @@
+"appinfo"
+{
+	"appid"		"1682970"
+	"common"
+	{
+		"name"		"Uncrashed : FPV Drone Simulator"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64,macosnotarized"
+		"clienticon"		"a23a7c5495a3b52df56c756dffeb1cee466b9263"
+		"clienttga"		"002260f278787066cfaadba422011e5a6aeb5a76"
+		"icon"		"dabea31e6929b59ef2890923e89c16e1282a3db4"
+		"logo"		"68d905799cad1bddff58ea2efc158b75abe8f3d9"
+		"logo_small"		"68d905799cad1bddff58ea2efc158b75abe8f3d9_thumb"
+		"clienticns"		"22d971d91f2b3f79bdc23e8f3f38f24c91fd4abf"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1647648000"
+			"tested_build_id"		"7990402"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"43.61861861861862"
+				"height_pct"		"76.38888888888887"
+			}
+		}
+		"store_asset_mtime"		"1682542365"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Louis Rochette"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Louis Rochette"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"9"
+			"2"		"28"
+			"3"		"18"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_60"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1630479890"
+		"community_hub_visible"		"1"
+		"gameid"		"1682970"
+		"store_tags"
+		{
+			"0"		"599"
+			"1"		"701"
+			"2"		"15045"
+			"3"		"3968"
+			"4"		"699"
+			"5"		"4182"
+			"6"		"4175"
+			"7"		"3839"
+			"8"		"4835"
+			"9"		"9204"
+			"10"		"4191"
+			"11"		"492"
+			"12"		"3834"
+			"13"		"5794"
+			"14"		"4102"
+		}
+		"review_score"		"8"
+		"review_percentage"		"91"
+	}
+	"extended"
+	{
+		"developer"		"Louis Rochette"
+		"publisher"		"Louis Rochette"
+	}
+	"config"
+	{
+		"installdir"		"Uncrashed FPV Drone Sim"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Uncrashed.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Uncrashed-Mac-Shipping.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"hasdepotsindlc"		"0"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1682971"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4159465825280690070"
+					"size"		"25853867376"
+					"download"		"10619542880"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"59D2E51900250BD1364F240EA63AD5DD"
+					"size"		"227317880F6B65CD6BE015EABCB6F1E4"
+					"download"		"EE8DE3D1195D5598D82072599B96CC7B"
+				}
+				"old-version"
+				{
+					"gid"		"9B9FAF698099D1668C0082AEEF5A25D0"
+					"size"		"C8F45F0C8759383848FF122E311BA155"
+					"download"		"D647102FBADFF8E57D7DF4093EF5CDD9"
+				}
+				"private-beta"
+				{
+					"gid"		"60A92D6A5EDED42EB9FC05610E4BA7BA"
+					"size"		"50BF11E1897DF7C667C2F7F48DD14F21"
+					"download"		"B3471E47E39B6BD5E48C8886194E0EE2"
+				}
+			}
+		}
+		"1682972"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7961525741173457201"
+					"size"		"14720662824"
+					"download"		"13307182496"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"9F04EE22CC4227EC86BDCD5D4E161FB2"
+					"size"		"4AD9AA70C02BD2AC6DC7DBDDB133606B"
+					"download"		"12FE1A2D62976A51174739EB56B99887"
+				}
+				"old-version"
+				{
+					"gid"		"170FD21E92F4858E1C2DE8B14BF1B753"
+					"size"		"44B2AD985AA2453AF5C488C1108F39CD"
+					"download"		"6C01E9D516EE4A9AA476694FB440FCAA"
+				}
+				"private-beta"
+				{
+					"gid"		"8C1F8D07E7BA52F5C039F85CAAD4F20F"
+					"size"		"B1A0F77799E79E6C61DDC4C3783BD1B4"
+					"download"		"C89FC0825B1480B7086FB70F1CD04261"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12043285"
+				"timeupdated"		"1693240542"
+			}
+			"beta"
+			{
+				"buildid"		"12043285"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693144512"
+			}
+			"old-version"
+			{
+				"buildid"		"11096453"
+				"pwdrequired"		"1"
+				"timeupdated"		"1682687050"
+			}
+			"private-beta"
+			{
+				"buildid"		"12043285"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693144525"
+			}
+		}
+	}
+}
