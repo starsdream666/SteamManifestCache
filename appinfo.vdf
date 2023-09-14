@@ -1,0 +1,613 @@
+"appinfo"
+{
+	"appid"		"1313140"
+	"common"
+	{
+		"name"		"Cult of the Lamb"
+		"type"		"Game"
+		"clienttga"		"33aa301a9947067d7da7aac7c78de9e65c6293cd"
+		"clienticon"		"629aef46877c0c0560b6c5b2960bcb070568297e"
+		"icon"		"337223c1a97705aee1714ad9534c7d6cfabd92b0"
+		"logo"		"d9f55109686665f9c04181fabbdb648586c5c181"
+		"logo_small"		"d9f55109686665f9c04181fabbdb648586c5c181_thumb"
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"brazilian"		"1"
+		}
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"name_localized"
+		{
+			"schinese"		"咩咩启示录"
+			"tchinese"		"進擊羔羊傳說"
+		}
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1674691200"
+			"tested_build_id"		"10158085"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-6"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn"
+			"library_hero"		"en"
+			"library_logo"		"en,zh-cn"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"41.27906976744188"
+				"height_pct"		"76.97696509142725"
+			}
+		}
+		"store_asset_mtime"		"1692638727"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Massive Monster"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Devolver Digital"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Devolver Digital"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1660233482"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1313140"
+		"store_tags"
+		{
+			"0"		"7332"
+			"1"		"4726"
+			"2"		"4747"
+			"3"		"42804"
+			"4"		"4182"
+			"5"		"1720"
+			"6"		"5923"
+			"7"		"220585"
+			"8"		"1643"
+			"9"		"3959"
+			"10"		"3871"
+			"11"		"19"
+			"12"		"21"
+			"13"		"4136"
+			"14"		"180368"
+			"15"		"1684"
+			"16"		"7481"
+			"17"		"9"
+			"18"		"4305"
+			"19"		"1697"
+		}
+		"review_score"		"8"
+		"review_percentage"		"94"
+	}
+	"extended"
+	{
+		"developer"		"Massive Monster"
+		"publisher"		"Devolver Digital"
+		"homepage"		"http://cultofthelamb.com"
+		"listofdlc"		"1944680,2013550,2015880,2071370,2090900,2090901,2331540"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Cult of the Lamb"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Cult Of The Lamb.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Cult Of The Lamb.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1313141"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2066409566379241577"
+					"size"		"1377488221"
+					"download"		"921179280"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"community-testing"
+				{
+					"gid"		"A8F133149719A212149723C24D2E7526"
+					"size"		"D75ECC6688471CFAD10E9E32BF061E0A"
+					"download"		"E647FE28021808759CD0AEDF5E83BFF7"
+				}
+				"demo"
+				{
+					"gid"		"E6656C89CA806AEFB028F01BF720092D"
+					"size"		"061C629A965B816DC8846381E68770A6"
+					"download"		"E9FA8F4C2276D53CDEDBEE88AD6873F4"
+				}
+				"dontstarve"
+				{
+					"gid"		"7591DBE88BFFCD25EE85161E37CD6638"
+					"size"		"555D66F8989770DB6E513D1A952DD600"
+					"download"		"712FE336193013044BC1CCEE4474AD38"
+				}
+				"external-testing"
+				{
+					"gid"		"440A8229C613B9A0C69495405E2E42D2"
+					"size"		"117E7C7C2E0F51504E073BC5A8291D78"
+					"download"		"30B3946A1BE26C31FB317307E6DEB53F"
+				}
+				"gold-master"
+				{
+					"gid"		"98660EA65BC633BED42505DC4928F93E"
+					"size"		"ED0427090A2F0AAFD78E4B6BC4CF136D"
+					"download"		"83F4C695DF3F08E829369A4862D1FE1B"
+				}
+				"halloween"
+				{
+					"gid"		"79EECA25611F7A76B594A84942967296"
+					"size"		"403B750F9396BF5D413D927D2880BDCB"
+					"download"		"372295C8BED39DDDC5CB8A465D210873"
+				}
+				"influencer_rotof"
+				{
+					"gid"		"F6F0E1949E974495CD73126DC2BF0739"
+					"size"		"044FB80304AF845005859E6DB8021F22"
+					"download"		"486E3C2E7F3DE9EE96FAD453DB151497"
+				}
+				"internal-testing"
+				{
+					"gid"		"0E656D4F7D9503170AA1FA3DA7413EC1"
+					"size"		"7FCD569CC0DCA746F586A9EF57858ACE"
+					"download"		"80612BB1F91685C3FCBE06CF1C6BFF7B"
+				}
+				"lqabranch"
+				{
+					"gid"		"EEF4A75B9CC8B76FC28094E0D51101A5"
+					"size"		"C69FAE19821C57795108CA3867494BE8"
+					"download"		"89B6AAFF09E40BA9643D42ACEA24D359"
+				}
+				"post-release-content-1"
+				{
+					"gid"		"3E3DB888DCE1F2C20C6D16F2479E61B6"
+					"size"		"83867B7E79EEFC1A9042B252737F6F35"
+					"download"		"EDE1DA6B6812C4F925F9AF64CB5B64C2"
+				}
+				"press-demo"
+				{
+					"gid"		"9A7E6701168C3FB9A6517930BD59BECE"
+					"size"		"CA478DEBB36ADF1F177CAB3BDB4C96F2"
+					"download"		"43B9E9FB76B28AD83B71E187DA97EC73"
+				}
+				"review"
+				{
+					"gid"		"33B9F800871B58A29118BA148239574E"
+					"size"		"92B052D51EE31AC59F2A36AA410123A9"
+					"download"		"E54335B6632CB3D8BEFF8E40D85C3707"
+				}
+				"staging"
+				{
+					"gid"		"99602764C40A11829E1CCA9173C5A783"
+					"size"		"0CA29AAB8371696CE945D6C93AA89BE7"
+					"download"		"21C5324823A5DA7A55AF9F905CC69D5C"
+				}
+				"testing"
+				{
+					"gid"		"03234EDC788F05E791A0CC318BC3E003"
+					"size"		"86CDC0E72AAE8CB57864FE99F10811E6"
+					"download"		"E794FDE048B89BFDA9329F48D6661C6D"
+				}
+				"twitch"
+				{
+					"gid"		"899968AB69B97CB50C5F135FAA19E858"
+					"size"		"C7C10D6A58039358E91DA5AD31AC1B59"
+					"download"		"C755EEA6F6BD203838869561FB372767"
+				}
+			}
+		}
+		"1313142"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3979428079100499375"
+					"size"		"1456210982"
+					"download"		"955049440"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"community-testing"
+				{
+					"gid"		"4CCC43AFC27B0AB66D16982B8EEAF714"
+					"size"		"A66D36F8CCB4C8D8EEE2FC872D323A62"
+					"download"		"89D0BD775454654BF728134DBDF99BDA"
+				}
+				"demo"
+				{
+					"gid"		"7F98D06ADC280FE117159FD0CD523FB4"
+					"size"		"6E17AC1A2FA4B4E7AC74819718A8BF58"
+					"download"		"7392A98102D21F895600D6C4C91FE0A1"
+				}
+				"dontstarve"
+				{
+					"gid"		"B4D831D2926E87A6F89ADCBD17E44691"
+					"size"		"AF9995C70ABFA57F3BE7A7CC6B490967"
+					"download"		"F649B2A016CF69B19062AB6BFA18D348"
+				}
+				"external-testing"
+				{
+					"gid"		"ED3841592F349AE6BE8054B09C3ADB25"
+					"size"		"1C62D66411B93F28CC8CF940C1BAD863"
+					"download"		"024F3CB07FF919B5003E792BFD3F515D"
+				}
+				"gold-master"
+				{
+					"gid"		"3E510E6C8C15B6D0C945497318ABC008"
+					"size"		"390CC7388AB2FDB781C43F58AB5F677F"
+					"download"		"D557BCAAD124D962476FD9346E701D6E"
+				}
+				"halloween"
+				{
+					"gid"		"FD67A9C6B8FCFACD008E6D0C8A44BE96"
+					"size"		"21CA42BEC9B3246B238E5CB1A4968A6D"
+					"download"		"4DAEC5BA400B51657B4A997F0DB7DD59"
+				}
+				"influencer_rotof"
+				{
+					"gid"		"417BC9A9BFB1A73BE50E7E6414D4B694"
+					"size"		"D4F673CED03F8CAFD725917AA8BFE392"
+					"download"		"4CD17F2F311DDF6B39198617E8508B95"
+				}
+				"internal-testing"
+				{
+					"gid"		"C7083B26F38BD35C9A7227A8DD793DB1"
+					"size"		"3A45FC7E55CFFD8BE4E74128B9966793"
+					"download"		"E0B7EE80F6B9C28681CCCEF7372A28E1"
+				}
+				"lqabranch"
+				{
+					"gid"		"5F28730F08E7E8D8C31355BA5C9796FB"
+					"size"		"6BC75B1680B8AEED23AEA95F380A4CD7"
+					"download"		"22E1ED2BC403392F68C53ED2C9E76C9B"
+				}
+				"post-release-content-1"
+				{
+					"gid"		"5247FF72E3D909C007BD7DA76CF8C399"
+					"size"		"1C0379741D7DEFCE6C752EC158B7DCAB"
+					"download"		"E60230AA9B31FD83077D3A6B11E00DDB"
+				}
+				"press-demo"
+				{
+					"gid"		"F4BB9A75A8693C212ED8DB9E5C4565CB"
+					"size"		"B7F046DE256021ED40ADF53285DC3220"
+					"download"		"B7F046DE256021ED40ADF53285DC3220"
+				}
+				"review"
+				{
+					"gid"		"A7C3B2C155190B9F67DF74F5F26C5377"
+					"size"		"FFDE7FCCCF4D3235AF984F33183D7A1D"
+					"download"		"2B6B78B52B6AE4F161CF5174917C394A"
+				}
+				"staging"
+				{
+					"gid"		"95F66F597BF0FA6C021D7C9BF40E5856"
+					"size"		"DEAFFCE71FD6F39AEC3381EEC2BCF589"
+					"download"		"F1546D2998717EE2FA971B2B870197E5"
+				}
+				"testing"
+				{
+					"gid"		"6DE12E8FB8C0EFD5E2E6FFA5D950C300"
+					"size"		"35EE7B24E6E9220A4B6421A81D219368"
+					"download"		"EA8EEE7FA8E773FA73F2D047E4E80722"
+				}
+				"twitch"
+				{
+					"gid"		"382CB0B5AC731074B59652E285077403"
+					"size"		"766AD6F85B67B398AACE749C9CC34F00"
+					"download"		"4CAE9E7B7504820F9070ABA79F258012"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12101092"
+				"timeupdated"		"1693791045"
+			}
+			"community-testing"
+			{
+				"buildid"		"12087092"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693559708"
+			}
+			"demo"
+			{
+				"buildid"		"10767053"
+				"pwdrequired"		"1"
+				"timeupdated"		"1678810479"
+			}
+			"dontstarve"
+			{
+				"buildid"		"12127161"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694042800"
+			}
+			"external-testing"
+			{
+				"buildid"		"11091686"
+				"pwdrequired"		"1"
+				"timeupdated"		"1682483391"
+			}
+			"gold-master"
+			{
+				"buildid"		"9307626"
+				"pwdrequired"		"1"
+				"timeupdated"		"1660354032"
+			}
+			"halloween"
+			{
+				"buildid"		"9703412"
+				"pwdrequired"		"1"
+				"timeupdated"		"1665559442"
+			}
+			"influencer_rotof"
+			{
+				"buildid"		"11055681"
+				"pwdrequired"		"1"
+				"timeupdated"		"1682050369"
+			}
+			"internal-testing"
+			{
+				"buildid"		"12175056"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694581699"
+			}
+			"lqabranch"
+			{
+				"buildid"		"11259689"
+				"pwdrequired"		"1"
+				"timeupdated"		"1684382309"
+			}
+			"post-release-content-1"
+			{
+				"buildid"		"10934578"
+				"pwdrequired"		"1"
+				"timeupdated"		"1680741445"
+			}
+			"press-demo"
+			{
+				"buildid"		"9045978"
+				"pwdrequired"		"1"
+				"timeupdated"		"1656692626"
+			}
+			"review"
+			{
+				"buildid"		"9307626"
+				"pwdrequired"		"1"
+				"timeupdated"		"1660354040"
+			}
+			"staging"
+			{
+				"buildid"		"11260132"
+				"pwdrequired"		"1"
+				"timeupdated"		"1684387341"
+			}
+			"testing"
+			{
+				"buildid"		"12177107"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694600377"
+			}
+			"twitch"
+			{
+				"buildid"		"9154352"
+				"pwdrequired"		"1"
+				"timeupdated"		"1658299028"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1048576000"
+		"maxnumfiles"		"10000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Massive Monster/Cult Of The Lamb/saves"
+				"pattern"		"*.json"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"1"
+			{
+				"root"		"MacAppSupport"
+				"path"		"Massive Monster/Cult Of The Lamb/saves"
+				"pattern"		"*.json"
+				"platforms"
+				{
+					"1"		"MacOS"
+				}
+			}
+		}
+	}
+}
