@@ -1,0 +1,827 @@
+"appinfo"
+{
+	"appid"		"951440"
+	"common"
+	{
+		"name"		"Volcanoids"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,linux"
+		"osarch"		"64"
+		"clienticon"		"698301c8c9c5d7e84a2f2c5a29d81bcdb19824c7"
+		"clienttga"		"f86b1cdba72022e8d6f5f17e1f2201b3dd43a9d6"
+		"icon"		"350f418a70bfe202f0af6e5de8da2a2dd0c013c0"
+		"logo"		"3109ec1ed0ba6fb542a087790c4a9d41cfc16ecd"
+		"logo_small"		"3109ec1ed0ba6fb542a087790c4a9d41cfc16ecd_thumb"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1658966400"
+			"tested_build_id"		"8288537"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"5"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Volcanoids"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1692620477"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Volcanoid"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Volcanoid"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"28"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_22"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_30"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1548780726"
+		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"951440"
+		"store_tags"
+		{
+			"0"		"1100689"
+			"1"		"1695"
+			"2"		"1662"
+			"3"		"3834"
+			"4"		"1702"
+			"5"		"1774"
+			"6"		"3843"
+			"7"		"3859"
+			"8"		"19"
+			"9"		"21"
+			"10"		"3839"
+			"11"		"4166"
+			"12"		"599"
+			"13"		"493"
+			"14"		"1777"
+			"15"		"3810"
+			"16"		"7332"
+			"17"		"1685"
+			"18"		"4182"
+			"19"		"1643"
+		}
+		"review_score"		"8"
+		"review_percentage"		"83"
+	}
+	"extended"
+	{
+		"developer"		"Volcanoid"
+		"publisher"		"Volcanoid"
+		"homepage"		"https://linktr.ee/volcanoids"
+	}
+	"config"
+	{
+		"installdir"		"Volcanoids"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Volcanoids.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"2"
+			{
+				"executable"		"Volcanoids.x86_64"
+				"arguments"		"-force-vulkan"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Volcanoids (Vulkan)"
+				}
+				"description"		"Volcanoids (Vulkan)"
+			}
+			"3"
+			{
+				"executable"		"Volcanoids.x86_64"
+				"arguments"		"-force-opengl"
+				"type"		"option2"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Volcanoids (OpenGL)"
+				}
+				"description"		"Volcanoids (OpenGL)"
+			}
+			"4"
+			{
+				"executable"		"Volcanoids.app/Contents/MacOS/Volcanoids"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"3"
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"workshopdepot"		"951440"
+		"951441"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4988099702493006071"
+					"size"		"6251217756"
+					"download"		"2935365408"
+				}
+				"preview"
+				{
+					"gid"		"2222689020405955776"
+					"size"		"6027937787"
+					"download"		"2841952160"
+				}
+				"v1.07"
+				{
+					"gid"		"215683932812384099"
+					"size"		"2071037170"
+					"download"		"1070549392"
+				}
+				"v1.17"
+				{
+					"gid"		"1156795900563905754"
+					"size"		"2427026573"
+					"download"		"1216021200"
+				}
+				"v1.18"
+				{
+					"gid"		"7034573186805337881"
+					"size"		"2464123041"
+					"download"		"1225476080"
+				}
+				"v1.19"
+				{
+					"gid"		"246700025187429211"
+					"size"		"2464166225"
+					"download"		"1225329952"
+				}
+				"v1.20"
+				{
+					"gid"		"3605949362033325784"
+					"size"		"3203642185"
+					"download"		"1485749168"
+				}
+				"v1.21"
+				{
+					"gid"		"8986796447740118601"
+					"size"		"3667021571"
+					"download"		"1796603616"
+				}
+				"v1.22"
+				{
+					"gid"		"4997969982762437790"
+					"size"		"4036159098"
+					"download"		"1920084960"
+				}
+				"v1.23"
+				{
+					"gid"		"5567060423938155362"
+					"size"		"4165457635"
+					"download"		"2001948080"
+				}
+				"v1.24"
+				{
+					"gid"		"5340154652610760193"
+					"size"		"4444026552"
+					"download"		"2147765184"
+				}
+				"v1.25"
+				{
+					"gid"		"9133919774229717344"
+					"size"		"4692657362"
+					"download"		"2179109232"
+				}
+				"v1.26"
+				{
+					"gid"		"3743116178648593056"
+					"size"		"4752593335"
+					"download"		"2221177184"
+				}
+				"v1.27"
+				{
+					"gid"		"8974882486362236340"
+					"size"		"4949395978"
+					"download"		"2347835456"
+				}
+				"v1.28"
+				{
+					"gid"		"2034339254713505790"
+					"size"		"5842434880"
+					"download"		"2715018608"
+				}
+				"v1.29"
+				{
+					"gid"		"2222689020405955776"
+					"size"		"6027937787"
+					"download"		"2841952160"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"branchtest"
+				{
+					"gid"		"4F19827939AF62F4F108710C4E6A5FAF"
+					"size"		"DCDD96FB5B63BD2087928A23E1646833"
+					"download"		"77AA6DFB338590DA62B296B709AD09FD"
+				}
+				"closedtest"
+				{
+					"gid"		"10D8AC36344034854BD77D201EB5DF30"
+					"size"		"02B3F5A9AA75CC021F06F515F83052BC"
+					"download"		"CF7CE09B4A467D1F13FA851C564E82EB"
+				}
+				"debug"
+				{
+					"gid"		"DC3878EE631985763B577497A13CB4AA"
+					"size"		"153264AAA01AD96C2957BE323F000FAB"
+					"download"		"1EE0D0F643EF51A76F7C0E7C60C5B1AC"
+				}
+				"development"
+				{
+					"gid"		"315289591AD14A13C781664321B1B58B"
+					"size"		"D2A8ACDAAEE1F4AC3B7F266C6F8A7091"
+					"download"		"4D31481770ADF4125797DD046EA515A3"
+				}
+				"internal"
+				{
+					"gid"		"938A7E999595588E84D16F5D8C992401"
+					"size"		"B4604E499945E234EDFED0D03779F7E5"
+					"download"		"E26999AFB9E0524CF20041470EA91188"
+				}
+				"prerelease"
+				{
+					"gid"		"A6A77F12E342F265C1EE07819CEF3010"
+					"size"		"79A15FD4C115CE5E93A333B6F0B8ADA3"
+					"download"		"0A647D823E2E9D84DC6586508FFE30B4"
+				}
+				"temp"
+				{
+					"gid"		"22D38D6779A77F1CCC8647F5AB201074"
+					"size"		"1083D95A0DC932EE928B26536FDD8172"
+					"download"		"E356548DE5A50999253D14578B7382E4"
+				}
+				"trailer"
+				{
+					"gid"		"A3803303C8142E715C645C233683CD3A"
+					"size"		"D7385DF73248CE3B169C2785620897A6"
+					"download"		"60ECBA1A35FC7EEF9495F782A3C3353B"
+				}
+			}
+		}
+		"951442"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5565820036727876301"
+					"size"		"6289818043"
+					"download"		"2952571024"
+				}
+				"preview"
+				{
+					"gid"		"1519730942553950487"
+					"size"		"6067578626"
+					"download"		"2859334448"
+				}
+				"v1.07"
+				{
+					"gid"		"3063324945662150127"
+					"size"		"4115035016"
+					"download"		"1959677744"
+				}
+				"v1.17"
+				{
+					"gid"		"7302896829752457248"
+					"size"		"2419001721"
+					"download"		"1217016864"
+				}
+				"v1.18"
+				{
+					"gid"		"4313120970483176422"
+					"size"		"2459630864"
+					"download"		"1226991632"
+				}
+				"v1.19"
+				{
+					"gid"		"1915829226233241880"
+					"size"		"2459634560"
+					"download"		"1226992896"
+				}
+				"v1.20"
+				{
+					"gid"		"2232761428451363853"
+					"size"		"3199005191"
+					"download"		"1487624368"
+				}
+				"v1.21"
+				{
+					"gid"		"1599690330558289308"
+					"size"		"3670817685"
+					"download"		"1800056416"
+				}
+				"v1.22"
+				{
+					"gid"		"1577538590068599423"
+					"size"		"4116090416"
+					"download"		"1959959936"
+				}
+				"v1.23"
+				{
+					"gid"		"618871525505646635"
+					"size"		"4245409253"
+					"download"		"2042126832"
+				}
+				"v1.24"
+				{
+					"gid"		"343544710895873991"
+					"size"		"4542764136"
+					"download"		"2169248384"
+				}
+				"v1.25"
+				{
+					"gid"		"6179544828592510071"
+					"size"		"4782750746"
+					"download"		"2202599840"
+				}
+				"v1.26"
+				{
+					"gid"		"2175415599001751828"
+					"size"		"4818732691"
+					"download"		"2236444016"
+				}
+				"v1.27"
+				{
+					"gid"		"8939185246141561753"
+					"size"		"5000294331"
+					"download"		"2369287888"
+				}
+				"v1.28"
+				{
+					"gid"		"183180017189435423"
+					"size"		"5885357985"
+					"download"		"2732790368"
+				}
+				"v1.29"
+				{
+					"gid"		"1519730942553950487"
+					"size"		"6067578626"
+					"download"		"2859334448"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"branchtest"
+				{
+					"gid"		"F2F7D6BA9D229E63666F138F552AE113"
+					"size"		"023371CA491BA31300E7F3FBDD8C51E0"
+					"download"		"CAE8DA143992D5D9EE0386F926D8CA12"
+				}
+				"closedtest"
+				{
+					"gid"		"7E963975CBC5F9D50C6071329E4106ED"
+					"size"		"D1C94676B63A7C16068B15C24ACBAED2"
+					"download"		"E10061AC2095B8D15F7377BA393C1630"
+				}
+				"debug"
+				{
+					"gid"		"4F5AF73C2D794E9135C0708FDC4AD937"
+					"size"		"B3C6976667D37755E71A05FFDC95BEBB"
+					"download"		"1D18593D68052B0B73E4584220B64543"
+				}
+				"development"
+				{
+					"gid"		"16465008E153E67A621C8C9749022C97"
+					"size"		"CE34E3AAA637B2A117115DD6ADD1A3A0"
+					"download"		"1A50E2A1416A35A5FAB61F8A18785F51"
+				}
+				"internal"
+				{
+					"gid"		"01AE5D17C3C32CF8C8B3446D937B3175"
+					"size"		"2F58DD333178E6513B3EBC0A53D5BDF9"
+					"download"		"78B41F808D58062BF4AAC4B3105241CE"
+				}
+				"prerelease"
+				{
+					"gid"		"1D191A19790531D0D0444F7C0261B15A"
+					"size"		"3B5C9D9988BB08EB63EC99984610E31C"
+					"download"		"6816F205953C03E34B6727C398818E4C"
+				}
+				"temp"
+				{
+					"gid"		"45F290F4C9E34EA95229325BB599A904"
+					"size"		"7CDF5BA00740CA90B12395FE4B52EFCB"
+					"download"		"A174453A919664345A3CECFB43115007"
+				}
+				"trailer"
+				{
+					"gid"		"9AB02F93A540E807BDED481A75C3F575"
+					"size"		"FE5ED83B0839091433BB1D7E5D9A77C9"
+					"download"		"979AA05585C2D01B7A0226341C2677EF"
+				}
+			}
+		}
+		"951443"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11674975"
+				"timeupdated"		"1689084770"
+			}
+			"branchtest"
+			{
+				"buildid"		"12160014"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694442442"
+			}
+			"closedtest"
+			{
+				"buildid"		"11396485"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686517581"
+			}
+			"debug"
+			{
+				"buildid"		"12175115"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694582459"
+			}
+			"development"
+			{
+				"buildid"		"10928723"
+				"pwdrequired"		"1"
+				"timeupdated"		"1680635828"
+			}
+			"internal"
+			{
+				"buildid"		"12177653"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694604768"
+			}
+			"prerelease"
+			{
+				"buildid"		"11525157"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687354020"
+			}
+			"preview"
+			{
+				"buildid"		"10928723"
+				"description"		"Preview (public)"
+				"timeupdated"		"1680635793"
+			}
+			"temp"
+			{
+				"buildid"		"11780524"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690271131"
+			}
+			"trailer"
+			{
+				"buildid"		"11396485"
+				"pwdrequired"		"1"
+				"timeupdated"		"1685974149"
+			}
+			"v1.07"
+			{
+				"buildid"		"4639209"
+				"description"		"Snapshot 1.07 (very first Steam build)"
+				"timeupdated"		"1580807310"
+			}
+			"v1.17"
+			{
+				"buildid"		"3687643"
+				"description"		"Snapshot 1.17"
+				"timeupdated"		"1570690373"
+			}
+			"v1.18"
+			{
+				"buildid"		"3764300"
+				"description"		"Snapshot 1.18"
+				"timeupdated"		"1570648910"
+			}
+			"v1.19"
+			{
+				"buildid"		"3810798"
+				"description"		"Snapshot 1.19"
+				"timeupdated"		"1560179341"
+			}
+			"v1.20"
+			{
+				"buildid"		"3926102"
+				"description"		"Snapshot 1.20"
+				"timeupdated"		"1570648960"
+			}
+			"v1.21"
+			{
+				"buildid"		"4431770"
+				"description"		"Snapshot 1.21"
+				"timeupdated"		"1580463136"
+			}
+			"v1.22"
+			{
+				"buildid"		"4668491"
+				"description"		"Snapshot 1.22"
+				"timeupdated"		"1589994150"
+			}
+			"v1.23"
+			{
+				"buildid"		"5183584"
+				"description"		"Snapshot 1.23"
+				"timeupdated"		"1611054380"
+			}
+			"v1.24"
+			{
+				"buildid"		"6371159"
+				"description"		"Snapshot 1.24"
+				"timeupdated"		"1624371663"
+			}
+			"v1.25"
+			{
+				"buildid"		"7015304"
+				"description"		"Snapshot 1.25"
+				"timeupdated"		"1628491676"
+			}
+			"v1.26"
+			{
+				"buildid"		"7650832"
+				"description"		"Snapshot 1.26"
+				"timeupdated"		"1644332613"
+			}
+			"v1.27"
+			{
+				"buildid"		"9239061"
+				"description"		"Snapshot 1.27"
+				"timeupdated"		"1664528662"
+			}
+			"v1.28"
+			{
+				"buildid"		"9771181"
+				"description"		"Snapshot 1.28"
+				"timeupdated"		"1678716319"
+			}
+			"v1.29"
+			{
+				"buildid"		"10928723"
+				"description"		"Snapshot 1.29"
+				"timeupdated"		"1687625943"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"5000000000"
+		"maxnumfiles"		"5000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Volcanoid/Volcanoids/Saves"
+				"pattern"		"*.sav"
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Volcanoid/Volcanoids/Saves"
+				"pattern"		"*.png"
+			}
+			"2"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Volcanoid/Volcanoids"
+				"pattern"		"*.png"
+			}
+			"3"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Volcanoid/Volcanoids"
+				"pattern"		"options.json"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxHome"
+				"addpath"		".config/unity3d/"
+			}
+		}
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#status_atmainmenu"		"At the main menu"
+					"#status_ingame"		"In game"
+					"#status_submarine"		"At submarine"
+					"#status_area1"		"At the area 1"
+					"#status_area2"		"At the area 2"
+					"#status_area3"		"At the area 3"
+					"#status_volcano"		"At the Volcano"
+				}
+			}
+		}
+	}
+}
