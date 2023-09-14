@@ -1,0 +1,210 @@
+"appinfo"
+{
+	"appid"		"2167220"
+	"common"
+	{
+		"name"		"The Bible"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"ff8d9aa07c1bae0aad9282e6a7691f6f0e94d3b5"
+		"clienttga"		"0f8acf4fb3e01008280ac428b6a0780ea41c6d2d"
+		"clienticon"		"0ed06b4c5fa66faa183579abfe0da206ece4e7d5"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1679529600"
+			"tested_build_id"		"10782170"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1688056105"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Bible Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Bible Games"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_18"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1668436053"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2167220"
+		"store_tags"
+		{
+			"0"		"1721"
+			"1"		"12095"
+			"2"		"1684"
+			"3"		"180368"
+			"4"		"3854"
+			"5"		"1742"
+			"6"		"31275"
+			"7"		"3987"
+			"8"		"7208"
+			"9"		"15277"
+			"10"		"5984"
+			"11"		"5094"
+			"12"		"3799"
+			"13"		"4182"
+			"14"		"6869"
+			"15"		"12057"
+			"16"		"11014"
+			"17"		"1654"
+			"18"		"4166"
+			"19"		"9592"
+		}
+		"review_score"		"8"
+		"review_percentage"		"89"
+	}
+	"extended"
+	{
+		"developer"		"Bible Games"
+		"publisher"		"Bible Games"
+	}
+	"config"
+	{
+		"installdir"		"The Bible"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Bible.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"2167221"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3854767356351096447"
+					"size"		"4106401805"
+					"download"		"3897907936"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testbranch"
+				{
+					"gid"		"B954ED4187F2B6E35B36122329C73F1D"
+					"size"		"C9A369743F09FCF346C574A4F9A9040D"
+					"download"		"204AC3D674EBBB5947DAEBA5BA3805C3"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11589273"
+				"timeupdated"		"1688053948"
+			}
+			"testbranch"
+			{
+				"buildid"		"11589273"
+				"pwdrequired"		"1"
+				"timeupdated"		"1688049570"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"10000"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"SavesDir"
+				"pattern"		"*.sav"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"os"		"Windows"
+				"oscompare"		"="
+				"useinstead"		"gameinstall"
+				"addpath"		""
+			}
+		}
+	}
+}
