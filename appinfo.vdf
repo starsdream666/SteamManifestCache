@@ -1,0 +1,190 @@
+"appinfo"
+{
+	"appid"		"2091640"
+	"common"
+	{
+		"name"		"Hi Eggplant!"
+		"type"		"Game"
+		"releasestate"		"released"
+		"icon"		"e97b8915140c39cfca615a12b97f3e950e44c3ed"
+		"clienttga"		"b559f796308f38edb43cda8204482579190bea56"
+		"clienticns"		"8bdcb4ff0f8b6992f88a6b5b0bd294aa28543f6b"
+		"linuxclienticon"		"f66d9f76268993bb7b8e3487291ee1674587f4e0"
+		"clienticon"		"80ff54d089c200fcdea64070d972b86159644bc6"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64,macosapplesilicon"
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+		}
+		"name_localized"
+		{
+			"schinese"		"你好茄子!"
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1663303673"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"AvaXiang"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"AvaXiang"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"3"
+			"3"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1663309635"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2091640"
+		"store_tags"
+		{
+			"0"		"599"
+			"1"		"122"
+			"2"		"597"
+			"3"		"87918"
+			"4"		"4736"
+			"5"		"10235"
+			"6"		"16689"
+			"7"		"9204"
+			"8"		"4474"
+			"9"		"3871"
+			"10"		"4791"
+			"11"		"3964"
+			"12"		"3839"
+			"13"		"22602"
+			"14"		"1719"
+			"15"		"1654"
+			"16"		"4136"
+			"17"		"1742"
+			"18"		"7332"
+			"19"		"15172"
+		}
+		"review_score"		"7"
+		"review_percentage"		"87"
+	}
+	"extended"
+	{
+		"developer"		"AvaXiang"
+		"publisher"		"AvaXiang"
+	}
+	"config"
+	{
+		"installdir"		"Hi Eggplant!"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"HiEggplant!.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"1"
+			{
+				"executable"		"HiEggplant.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,schinese"
+		"2091641"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4506757053583111417"
+					"size"		"193223145"
+					"download"		"81319232"
+				}
+			}
+		}
+		"2091642"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2395934885213688378"
+					"size"		"172641624"
+					"download"		"75553536"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10861124"
+				"timeupdated"		"1679887401"
+			}
+		}
+	}
+}
