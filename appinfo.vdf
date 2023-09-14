@@ -1,0 +1,361 @@
+"appinfo"
+{
+	"appid"		"1665080"
+	"common"
+	{
+		"name"		"JUMANJI - The Curse Returns"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"4ff8c6f1166700a8cea31d4db7717e1e3500aa27"
+		"clienttga"		"f871cb0c538974f7d318a862f7707201d35f5c35"
+		"icon"		"3a9cddac31bc76883ad1e3541f352b368011cac0"
+		"logo"		"2f60b2213dcd2f1049a8be60f94f8bb51ba3f9c5"
+		"logo_small"		"2f60b2213dcd2f1049a8be60f94f8bb51ba3f9c5_thumb"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1691193600"
+			"tested_build_id"		"9380186"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"french"		"capsule_231x87_french.jpg"
+			"german"		"capsule_231x87_german.jpg"
+			"italian"		"capsule_231x87_italian.jpg"
+			"spanish"		"capsule_231x87_spanish.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"french"		"header_french.jpg"
+			"german"		"header_german.jpg"
+			"italian"		"header_italian.jpg"
+			"spanish"		"header_spanish.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,fr,de,it,es"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"55.58139534883722"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1659720162"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Marmalade Game Studio Ltd"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Marmalade Game Studio Ltd"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"23"
+			"3"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1630491120"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1665080"
+		"store_tags"
+		{
+			"0"		"1770"
+			"1"		"791774"
+			"2"		"32322"
+			"3"		"3843"
+			"4"		"1666"
+			"5"		"3813"
+			"6"		"597"
+			"7"		"6691"
+			"8"		"21"
+			"9"		"4700"
+			"10"		"17389"
+			"11"		"1734"
+			"12"		"16689"
+			"13"		"4195"
+			"14"		"4305"
+			"15"		"5390"
+			"16"		"5350"
+			"17"		"4182"
+			"18"		"4191"
+			"19"		"1685"
+		}
+		"review_score"		"5"
+		"review_percentage"		"52"
+	}
+	"extended"
+	{
+		"developer"		"Marmalade Game Studio Ltd"
+		"publisher"		"Marmalade Game Studio Ltd"
+		"homepage"		"https://marmaladegamestudio.com/"
+		"listofdlc"		"1696600,1843170,2069320"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"JUMANJI - The Curse Returns"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Jumanji.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1665081"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2031598660508075125"
+					"size"		"999968984"
+					"download"		"746056432"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"D236E4747328D5DF7C1A5C881DE82846"
+					"size"		"C17D4702241AC81D3762F2779F52B905"
+					"download"		"C1095D12015256BD78A0DC3628F322B3"
+				}
+				"gameplay_improvements"
+				{
+					"gid"		"28647A0C4221F7C35327B2C10C4C2F8F"
+					"size"		"6B645191B93D8C2F649E7A6040CB536B"
+					"download"		"5090D2C371DD6123EC88C3811399D6AB"
+				}
+				"sony"
+				{
+					"gid"		"80FB26A5890F7EF57A0E6B140F5F87E2"
+					"size"		"B82DC760D02AA187C1C6160279AE1DE0"
+					"download"		"42DF261FC4F434CACFA6896746E67B4E"
+				}
+				"submission"
+				{
+					"gid"		"15DD97AD788B62B1B2A652BCC0B59FA3"
+					"size"		"CBA1B78A8652C971F51E4C6C53ED63B4"
+					"download"		"0D0C640235FEB5B30714AA479951F0A0"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9380186"
+				"timeupdated"		"1661522568"
+			}
+			"development"
+			{
+				"buildid"		"10729618"
+				"pwdrequired"		"1"
+				"timeupdated"		"1678371142"
+			}
+			"gameplay_improvements"
+			{
+				"buildid"		"7360034"
+				"pwdrequired"		"1"
+				"timeupdated"		"1631663023"
+			}
+			"sony"
+			{
+				"buildid"		"7281340"
+				"pwdrequired"		"1"
+				"timeupdated"		"1630442013"
+			}
+			"submission"
+			{
+				"buildid"		"9870330"
+				"pwdrequired"		"1"
+				"timeupdated"		"1667566713"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10485760"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Marmalade Game Studio/Jumanji/{64BitSteamID}/"
+				"pattern"		"*.jj"
+				"recursive"		"1"
+			}
+		}
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#status_mainmenu"		"At the main menu"
+					"#status_friendlobby"		"{#Status_Lobby}: %ROOM_CODE%"
+					"#status_ingame"		"Playing %STAGE%"
+					"#status_lobby"		"Waiting in lobby"
+					"#status_facing"		"{#Status_Ingame}: Facing %ENCOUNTER%"
+					"#status_rolling"		"{#Status_Ingame}: Rolling dice"
+					"#status_upgrade"		"{#Status_Ingame}: Getting an upgrade"
+					"#status_map"		"{#Status_Ingame}: Checking the map"
+				}
+			}
+			"german"
+			{
+				"tokens"
+				{
+					"#status_mainmenu"		"Im Hauptmenü"
+					"#status_friendlobby"		"{#Status_Lobby}: %ROOM_CODE%"
+					"#status_ingame"		"Spielt %STAGE%"
+					"#status_lobby"		"Wartet in der Lobby"
+					"#status_facing"		"{#Status_Ingame}: Tritt %ENCOUNTER% entgegen"
+					"#status_rolling"		"{#Status_Ingame}: Würfelt"
+					"#status_upgrade"		"{#Status_Ingame}: Erhält eine Verbesserung"
+					"#status_map"		"{#Status_Ingame}: Prüft die Karte"
+				}
+			}
+			"french"
+			{
+				"tokens"
+				{
+					"#status_mainmenu"		"Dans le menu principal"
+					"#status_friendlobby"		"{#Status_Lobby}: %ROOM_CODE%"
+					"#status_ingame"		"Joue à %STAGE%"
+					"#status_lobby"		"Attend dans le lobby"
+					"#status_facing"		"{#Status_Ingame} : est dans une %ENCOUNTER%"
+					"#status_rolling"		"{#Status_Ingame} : lance les dés"
+					"#status_upgrade"		"{#Status_Ingame} : reçoit une amélioration"
+					"#status_map"		"{#Status_Ingame} : regarde la carte"
+				}
+			}
+			"italian"
+			{
+				"tokens"
+				{
+					"#status_mainmenu"		"Nel menu principale"
+					"#status_friendlobby"		"{#Status_Lobby}: %ROOM_CODE%"
+					"#status_ingame"		"Giocando a %STAGE%"
+					"#status_lobby"		"In attesa nella lobby"
+					"#status_facing"		"{#Status_Ingame}: %ENCOUNTER%"
+					"#status_rolling"		"{#Status_Ingame}: Tiro dei dadi"
+					"#status_upgrade"		"{#Status_Ingame}: Potenziamento"
+					"#status_map"		"{#Status_Ingame}: Controllo mappa"
+				}
+			}
+			"spanish"
+			{
+				"tokens"
+				{
+					"#status_mainmenu"		"En el menú principal"
+					"#status_friendlobby"		"{#Status_Lobby}: %ROOM_CODE%"
+					"#status_ingame"		"Jugando a %STAGE%"
+					"#status_lobby"		"Esperando en el lobby"
+					"#status_facing"		"{#Status_Ingame}: Enfrentándose a un %ENCOUNTER%"
+					"#status_rolling"		"{#Status_Ingame}: Tirando los dados"
+					"#status_upgrade"		"{#Status_Ingame}: Obteniendo una mejora"
+					"#status_map"		"{#Status_Ingame}: Revisando el mapa"
+				}
+			}
+		}
+	}
+}
