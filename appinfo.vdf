@@ -1,0 +1,277 @@
+"appinfo"
+{
+	"appid"		"436140"
+	"common"
+	{
+		"name"		"Empire of the Gods"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"logo"		"7549625a78721e7794d1b6c2ea3ccdc2ca5f77bd"
+		"logo_small"		"7549625a78721e7794d1b6c2ea3ccdc2ca5f77bd_thumb"
+		"clienticon"		"2e539a90527bb412d30326899ebf5f140af4c874"
+		"clienttga"		"ce78582539f3e57099532468eacf32d4c6bb6ba5"
+		"icon"		"f4afcbd3c6b63f372d42703239f7ac339a4a00f3"
+		"linuxclienticon"		"41ba805eb139be720499d9b1b0b8470d5a54dbba"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"spanish"		"1"
+			"russian"		"1"
+			"ukrainian"		"1"
+		}
+		"clienticns"		"403222d6ea15d02bbfae6229ef935d8803d9c78b"
+		"releasestate"		"released"
+		"osarch"		""
+		"osextended"		"macos64"
+		"name_localized"
+		{
+			"russian"		"Empire of the Gods / Империя Богов"
+			"ukrainian"		"Empire of the Gods / Імперія Богів"
+		}
+		"metacritic_name"		"Empire of the Gods"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"56.53442240373394"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1634131525"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Lonely Troops"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Lonely Troops"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_23"		"1"
+			"category_41"		"1"
+			"category_42"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+			}
+			"slovak"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1210662000"
+		"steam_release_date"		"1453913838"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"436140"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"597"
+			"2"		"9"
+			"3"		"1666"
+			"4"		"4182"
+			"5"		"1664"
+			"6"		"1770"
+			"7"		"1698"
+			"8"		"3987"
+			"9"		"4747"
+			"10"		"17389"
+		}
+		"review_score"		"6"
+		"review_percentage"		"71"
+	}
+	"extended"
+	{
+		"gamedir"		""
+		"developer"		"Lonely Troops"
+		"publisher"		"Lonely Troops"
+		"homepage"		"https://www.lonelytroops.com/eotg/index.htm"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Empire of the Gods"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Empire of the Gods.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Empire of the Gods.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Empire of the Gods"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"3"
+			{
+				"executable"		"Empire of the Gods 32bit.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"6"
+		"steamcontrollertouchtemplateindex"		"8"
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,spanish,russian,ukrainian"
+		"436141"
+		{
+			"config"
+			{
+				"oslist"		"windows,linux"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7130561812847855694"
+					"size"		"177434296"
+					"download"		"99421232"
+				}
+			}
+		}
+		"436142"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2417030565749328076"
+					"size"		"2528832"
+					"download"		"945520"
+				}
+			}
+		}
+		"436143"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2918394198463553579"
+					"size"		"182034729"
+					"download"		"102333136"
+				}
+			}
+		}
+		"436144"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7279973833069295517"
+					"size"		"1523497"
+					"download"		"496736"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5021522"
+				"timeupdated"		"1589379315"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"65536"
+		"maxnumfiles"		"6"
+	}
+}
