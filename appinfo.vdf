@@ -1,0 +1,296 @@
+"appinfo"
+{
+	"appid"		"1696440"
+	"common"
+	{
+		"name"		"绝世好武功 The Matchless Kungfu"
+		"type"		"Game"
+		"icon"		"ce7664ae998c170b61fac977e4ac72a11a9da1f9"
+		"logo"		"d4d510897cc4a6c8a143f13c7c33508f6edb5ee0"
+		"logo_small"		"d4d510897cc4a6c8a143f13c7c33508f6edb5ee0_thumb"
+		"clienttga"		"63e86a5a860e348d9e6204737d935059013b7538"
+		"clienticon"		"5e2708f0a51ae252df6f81e41ff86ab147887e21"
+		"name_localized"
+		{
+			"english"		"The Matchless Kungfu"
+			"schinese"		"绝世好武功"
+			"sc_schinese"		"绝世好武功"
+			"tchinese"		"絕世好武功"
+		}
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestatesteamchina"		"prerelease"
+		"small_capsule"
+		{
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"english"		"capsule_231x87.jpg"
+			"sc_schinese"		"capsule_231x87_sc_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+			"sc_schinese"		"header_sc_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"zh-cn,en,zh-xc"
+			"library_hero"		"zh-cn,en,zh-xc"
+			"library_logo"		"en,zh-cn,zh-xc"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"54.36990358423739"
+				"height_pct"		"84.1630282353018"
+			}
+		}
+		"store_asset_mtime"		"1694439623"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"HuanMos Game"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"bilibili"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"3"
+			"2"		"2"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1693363616"
+		"community_hub_visible"		"1"
+		"gameid"		"1696440"
+		"store_tags"
+		{
+			"0"		"1695"
+			"1"		"3810"
+			"2"		"122"
+			"3"		"6915"
+			"4"		"1662"
+			"5"		"9"
+			"6"		"1643"
+			"7"		"7332"
+			"8"		"1702"
+			"9"		"4182"
+			"10"		"492"
+			"11"		"3834"
+			"12"		"4136"
+			"13"		"32322"
+			"14"		"4252"
+			"15"		"3993"
+			"16"		"4747"
+			"17"		"16094"
+			"18"		"4191"
+			"19"		"17305"
+		}
+		"review_score"		"8"
+		"review_percentage"		"86"
+	}
+	"extended"
+	{
+		"developer"		"HuanMos Game"
+		"publisher"		"bilibili"
+		"homepage"		"https://game.bilibili.com/kungfu/"
+	}
+	"config"
+	{
+		"installdir"		"The Matchless KungFu"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"HMS_00.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steam_china_only"
+		{
+			"steam_china_enable_duration_control"		"1"
+		}
+	}
+	"depots"
+	{
+		"branches"
+		{
+			"steam_china_only"
+			{
+				"sc_schinese"		"仅中国"
+			}
+			"cetest"
+			{
+				"sc_schinese"		"暂时没用"
+				"buildid"		"10282005"
+				"pwdrequired"		"1"
+				"timeupdated"		"1683636774"
+			}
+			"outertest"
+			{
+				"sc_schinese"		"HuanmosGanbei"
+				"buildid"		"12089158"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693575035"
+			}
+			"noblocklimit"
+			{
+				"sc_schinese"		"新品节demo版本"
+				"buildid"		"11504586"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687169303"
+			}
+			"develop_test"
+			{
+				"sc_schinese"		"研发测试用"
+				"buildid"		"12111362"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693906450"
+			}
+			"public"
+			{
+				"buildid"		"12160036"
+				"timeupdated"		"1694442812"
+			}
+			"innertest"
+			{
+				"buildid"		"12160036"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694442606"
+			}
+			"locailization"
+			{
+				"buildid"		"11199771"
+				"pwdrequired"		"1"
+				"timeupdated"		"1683798941"
+			}
+		}
+		"baselanguages"		"english,schinese"
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1696441"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4391389158091612272"
+					"size"		"3119314225"
+					"download"		"2866501600"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"cetest"
+				{
+					"gid"		"9CA34B34B1C258AE77FE3024A6EA9B75"
+					"size"		"8737AFABBC2B428CBEA14C281861B58E"
+					"download"		"C99E4E3A1B88E7BDEDF1AA02D0ED6AF5"
+				}
+				"develop_test"
+				{
+					"gid"		"AA4A70831257F38FA873202DC03BF517"
+					"size"		"C2140C7EA93B7AF9761BB08E603BDD9C"
+					"download"		"6FEE64FA16E6F9247A3F5B9340DC0024"
+				}
+				"innertest"
+				{
+					"gid"		"48C21D99504378126CBDF1C16C50D7B1"
+					"size"		"02E5F6A658D48F063611A45946003BC1"
+					"download"		"A3EAF298539B643A396173938DA5B242"
+				}
+				"locailization"
+				{
+					"gid"		"82F2A758F9EA4D3FCF486C68314AF978"
+					"size"		"9A23BEFF1971B5D6DE5EB5EB5DCBFFB5"
+					"download"		"D49167F9B2F32DBCE8AB6B084CC86895"
+				}
+				"noblocklimit"
+				{
+					"gid"		"D590AF75D8547085A91E43910AE41936"
+					"size"		"D5D80A85F8DE20B4DDA899369E346300"
+					"download"		"28BA032F1F6DDCFF66009A0415E5B7CD"
+				}
+				"outertest"
+				{
+					"gid"		"859DF2849AAAA436905E00561A0D225D"
+					"size"		"1E53F673036C1D63FBE5B79ACB393C12"
+					"download"		"868A3B8B9EF4A5A3C526493367DE307A"
+				}
+			}
+		}
+		"workshopdepot"		"1696440"
+	}
+	"ufs"
+	{
+		"quota"		"1073741824"
+		"maxnumfiles"		"10000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"HMS_00/Saved/PersistentDownloadDir/"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
