@@ -1,0 +1,241 @@
+"appinfo"
+{
+	"appid"		"1517160"
+	"common"
+	{
+		"name"		"Under The Ghost Mountain"
+		"type"		"Game"
+		"releasestate"		"released"
+		"name_localized"
+		{
+			"schinese"		"鬼山之下"
+		}
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64"
+		"icon"		"73de085920afc86ca3647493000bdb27505fe830"
+		"logo"		"43a084605e00939ab933da3c808aa97bd4407c4e"
+		"logo_small"		"43a084605e00939ab933da3c808aa97bd4407c4e_thumb"
+		"clienticon"		"134d6fd7eac26f82832dcbd2258535c59fde4192"
+		"clienttga"		"739c43a0c2d693afa0b63738fe62af8500a70777"
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+		}
+		"clienticns"		"173e053ca0d24c9c8e316d3bf19ef6188270a88f"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"69.65116279069767"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1677338037"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"liangxiegame"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"liangxiegame"
+			}
+		}
+		"primary_genre"		"70"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"3"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1619680077"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1517160"
+		"store_tags"
+		{
+			"0"		"42804"
+			"1"		"922563"
+			"2"		"5379"
+			"3"		"454187"
+			"4"		"29482"
+			"5"		"4885"
+			"6"		"1759"
+			"7"		"1774"
+			"8"		"1625"
+			"9"		"4106"
+			"10"		"1716"
+			"11"		"122"
+			"12"		"21006"
+			"13"		"6052"
+			"14"		"6869"
+			"15"		"3871"
+			"16"		"19"
+			"17"		"3964"
+			"18"		"4094"
+			"19"		"4252"
+		}
+		"review_score"		"7"
+		"review_percentage"		"93"
+	}
+	"extended"
+	{
+		"developer"		"liangxiegame"
+		"publisher"		"liangxiegame"
+	}
+	"config"
+	{
+		"installdir"		"UnderTheGhostMountain"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"UnderTheGhostMountain.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"1"
+			{
+				"executable"		"Under The Ghost Mountain.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"1"
+		"baselanguages"		"english,schinese"
+		"1517162"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5650307029639258162"
+					"size"		"329292553"
+					"download"		"205125728"
+				}
+				"windows"
+				{
+					"gid"		"3875898549655165388"
+					"size"		"268412099"
+					"download"		"103357104"
+				}
+			}
+		}
+		"1517161"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5058619720402859100"
+					"size"		"304811441"
+					"download"		"198219200"
+				}
+				"windows"
+				{
+					"gid"		"2927782742515010693"
+					"size"		"341439908"
+					"download"		"247417920"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11550728"
+				"timeupdated"		"1687605855"
+			}
+			"windows"
+			{
+				"buildid"		"10389300"
+				"description"		"windows version"
+				"timeupdated"		"1674543671"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"104857600"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"MacAppSupport"
+				"path"		"liangxiegame/Under The Ghost Mountain/UserData"
+				"pattern"		"*.sav"
+			}
+			"1"
+			{
+				"root"		"MacAppSupport"
+				"path"		"liangxiegame/Under The Ghost Mountain/CustomLevels"
+				"pattern"		"*.utgm"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"MacAppSupport"
+				"os"		"Windows"
+				"oscompare"		"="
+				"useinstead"		"WinAppDataLocalLow"
+				"addpath"		""
+			}
+		}
+	}
+}
