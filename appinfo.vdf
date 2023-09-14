@@ -1,0 +1,620 @@
+"appinfo"
+{
+	"appid"		"573660"
+	"common"
+	{
+		"name"		"AereA"
+		"type"		"Game"
+		"logo"		"8c17e988d3256eca1b18825df0a526058058c17d"
+		"logo_small"		"8c17e988d3256eca1b18825df0a526058058c17d_thumb"
+		"icon"		"39a325337b1b2889cf66e450073d4b81d315035e"
+		"clienticon"		"bab1298a0579aded69438b07c0572d123dd226eb"
+		"clienttga"		"6292c1ad97dfadac074dc3fcf04db1393526f744"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"releasestate"		"released"
+		"metacritic_name"		"AereA"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1572341181"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Triangle Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"SOEDESCO"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"SOEDESCO"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_24"		"1"
+			"category_28"		"1"
+			"category_39"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_44"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_43"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"arabic"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"romanian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1496411758"
+		"metacritic_score"		"53"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/aerea?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"573660"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"492"
+			"2"		"3841"
+			"3"		"4231"
+			"4"		"1621"
+			"5"		"19"
+			"6"		"122"
+			"7"		"597"
+			"8"		"1756"
+			"9"		"5350"
+			"10"		"1664"
+			"11"		"7481"
+			"12"		"4182"
+		}
+		"review_score"		"5"
+		"review_percentage"		"45"
+	}
+	"extended"
+	{
+		"developer"		"Triangle Studios"
+		"publisher"		"SOEDESCO"
+		"homepage"		"http://aerea-game.com/"
+		"listofdlc"		"624530,624531"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"AereA"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Aerea.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"AereA.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"AereA.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"573661"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8099002469456669230"
+					"size"		"4088413379"
+					"download"		"1298624832"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"artbook"
+				{
+					"gid"		"AF571CE8995C2B37C0E0E41E22B24352"
+					"size"		"F8AD04D7464F51A78AE8FC3FFFA2D99D"
+					"download"		"3DE775C67CAFEE63C8C655AE5BE656C1"
+				}
+				"beta"
+				{
+					"gid"		"D02059D6F7BEE7EB4C2B56FC3ADE746F"
+					"size"		"7C614C29A42AE33E60F06FD011747868"
+					"download"		"4DAFFB78559124D6C2B7F4A173C4CCB9"
+				}
+				"development"
+				{
+					"gid"		"2CA03543344DA0CE767DC31CE318B418"
+					"size"		"1FB10CE313CA8B539E0F34AD55E3E84B"
+					"download"		"B6B344213B175D106DF27B2FB1B8DE63"
+				}
+				"disc"
+				{
+					"gid"		"F1E6DC7136566B655A858F30744FE017"
+					"size"		"254ABBA53C27D652EA951DC5AC68A488"
+					"download"		"D80FD7E1024E70459F4FB867FB4CAA43"
+				}
+				"promotionbuilds"
+				{
+					"gid"		"44B47F6A4291ADC7C7F2AD337E904523"
+					"size"		"CCCE2EA3F5C7CA88FE5C4DB373E97BC3"
+					"download"		"2607EE07C43FBAFB50E5ACC70ECA2D2D"
+				}
+				"qualityassurance"
+				{
+					"gid"		"28B25C0E355028FD61C5B7CA37D74260"
+					"size"		"3FAE1352C8AA020C3883A0F4FED5A372"
+					"download"		"AE323D3FCEC2382D13918DC4AEA86771"
+				}
+				"soundtrack"
+				{
+					"gid"		"85F48D4A2A6A0A404BED62CB8753A694"
+					"size"		"55299D1A600116B5AA9443EAD553E96B"
+					"download"		"35910ACC3FD7019DAEDD196FF19FDE76"
+				}
+			}
+		}
+		"573662"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7263681882303670351"
+					"size"		"4094209187"
+					"download"		"1300179040"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"artbook"
+				{
+					"gid"		"EE6EDB43A7F1780B39D555667A0F6F11"
+					"size"		"3E78ABFBFB62E52BE4C04ADB8AC2E868"
+					"download"		"A7F661727CD766E88315DACAD85CDE6E"
+				}
+				"beta"
+				{
+					"gid"		"CEC2CE58E59E6F97958A50629E5E8553"
+					"size"		"BE8A55836C9DEA3F55CCB8FFADFBEBC6"
+					"download"		"121CCEC2047B47C996FB9A786303A1DF"
+				}
+				"development"
+				{
+					"gid"		"6AB9F5035E31C5639AD5882E2CB0029E"
+					"size"		"3D91E13164018669DAB40A6548BC0B8A"
+					"download"		"05C8A61263573E13D7546083294A0B03"
+				}
+				"disc"
+				{
+					"gid"		"F29834A53DBF4BA5121AE0C06695E702"
+					"size"		"9F18EF0BB4D60CBA152FBB5D58E1EA82"
+					"download"		"0A81AF6E515BECC4E53AECF2131CCF0D"
+				}
+				"promotionbuilds"
+				{
+					"gid"		"F891073EE6C419FBFF2B9B823B135BDB"
+					"size"		"263E721CC47BC55D86C23578851DF919"
+					"download"		"68399F27EA837D953DE35E0CE5A84EF0"
+				}
+				"qualityassurance"
+				{
+					"gid"		"5F6827128B0B935FCA37C66EC1F4127D"
+					"size"		"5E2E0FBB1FC7F4EF0CECFE67DA6657C8"
+					"download"		"7CC13B3838F2B60F1CF8E1DCF9FD892F"
+				}
+				"soundtrack"
+				{
+					"gid"		"DD9B22615EB2CC89BC409AE121D80955"
+					"size"		"A4B8DF953E034C980290154A20F37075"
+					"download"		"8D80AF884B41A22E926E1EA8A6631825"
+				}
+			}
+		}
+		"573663"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2051540884782930595"
+					"size"		"3868258165"
+					"download"		"1309651840"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"2AA61F72E33FCF3F489D13BE0263F989"
+					"size"		"64F2F6FF01AD113AD01AD043FF21AE5C"
+					"download"		"45D583E43089883DFF4906B9B8C0CA25"
+				}
+				"development"
+				{
+					"gid"		"7289CD936FBBD83609DB25ED22F2D776"
+					"size"		"08D3F55856E64A10A76A448A476F4AA4"
+					"download"		"5728A03AAA4E9569FEE62DC940336CF8"
+				}
+				"disc"
+				{
+					"gid"		"63FADAB6172B8DAA27162B60293D5ABD"
+					"size"		"D8561107E84416F023125A2DD1D7EF0C"
+					"download"		"E88D5AA3C173FA4904B93FD64AAC782E"
+				}
+				"qualityassurance"
+				{
+					"gid"		"7533BAEBBE10CEF8720480779EF750C5"
+					"size"		"3BDE24727EBA901437DDFCF62C65ED79"
+					"download"		"60A33254C45FC878571AF7FB5AF85990"
+				}
+			}
+		}
+		"573664"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9216463288354947692"
+					"size"		"3859451510"
+					"download"		"1307870864"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"26A006C5B53B43A26D48113A681997EC"
+					"size"		"C7769CB5A3DA994B9EABF4D38BEB395B"
+					"download"		"B1425592712A4F843BBAB8962D972E33"
+				}
+				"development"
+				{
+					"gid"		"3C8A48A61E4F03A00A8DBEC8C19F1577"
+					"size"		"72C21488FCB255D089517A04434BBA20"
+					"download"		"A8EB5F3BC5F44EE99CDB74DEFC530535"
+				}
+				"qualityassurance"
+				{
+					"gid"		"9D0A334FCF49C8652F18B95FCB7027DE"
+					"size"		"EABB688F729708433DDC7EDFA5694353"
+					"download"		"8721C61D6F10BBB6A09B379586A561EE"
+				}
+			}
+		}
+		"624530"
+		{
+			"dlcappid"		"624530"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4835953558811079773"
+					"size"		"114692166"
+					"download"		"108898480"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"98CEAD01F23DE43C5D66941BB9F8549D"
+					"size"		"128C2E96768F2C212E0024DD5ACD6224"
+					"download"		"03A8717E66403BF40A3430AF8AF7CBD9"
+				}
+				"development"
+				{
+					"gid"		"DDE64BE1E18191C25C47E51CDC622267"
+					"size"		"E3467F80FFE9FCB71E1A3D3A9AB16B97"
+					"download"		"8F773BF6016F90FB4468B992EB68258E"
+				}
+				"qualityassurance"
+				{
+					"gid"		"6E9CEFAABD6CF9F7EE78CD5C01E53D54"
+					"size"		"37A86CE5E431D4BA3595E69DF8040E9D"
+					"download"		"9B6ED1C86FB8354A99A4FB9786FCC36D"
+				}
+				"soundtrack"
+				{
+					"gid"		"04703EB6D8DB5628CAEA110F75FD0BF5"
+					"size"		"01159656DDAD45868CB50484FB442B0A"
+					"download"		"57D1D3FCBF70B8412C8F849279FF2EC7"
+				}
+			}
+		}
+		"624531"
+		{
+			"dlcappid"		"624531"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8420857264750380880"
+					"size"		"65556325"
+					"download"		"60630544"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"artbook"
+				{
+					"gid"		"D3E75B7D4481EB314ADA58A8E2B2C3BB"
+					"size"		"CD1DA2178A7A8AD9DF68063296E265D7"
+					"download"		"36A1C31D33F405B7D79BE0E7884AD997"
+				}
+				"beta"
+				{
+					"gid"		"D1D9DB23FA9564E58EB35964EC2E81BD"
+					"size"		"19731B385D1A7D92560D0B1019E3DC97"
+					"download"		"6C97718802D35595406EC387F2FB9ACC"
+				}
+				"qualityassurance"
+				{
+					"gid"		"A525B5E2294C1D6D7899598816DB6E18"
+					"size"		"BC28B03A40B0C07AD93761E5E2852FB4"
+					"download"		"C4FA9CC3179C3D8CFAEDDA44586458FC"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2011697"
+				"timeupdated"		"1501829987"
+			}
+			"artbook"
+			{
+				"buildid"		"1862095"
+				"pwdrequired"		"1"
+				"timeupdated"		"1496385834"
+			}
+			"beta"
+			{
+				"buildid"		"3322908"
+				"pwdrequired"		"1"
+				"timeupdated"		"1542702977"
+			}
+			"development"
+			{
+				"buildid"		"5932681"
+				"pwdrequired"		"1"
+				"timeupdated"		"1607347510"
+			}
+			"disc"
+			{
+				"buildid"		"1782477"
+				"pwdrequired"		"1"
+				"timeupdated"		"1493217235"
+			}
+			"promotionbuilds"
+			{
+				"buildid"		"1712855"
+				"pwdrequired"		"1"
+				"timeupdated"		"1490366990"
+			}
+			"qualityassurance"
+			{
+				"buildid"		"1862154"
+				"pwdrequired"		"1"
+				"timeupdated"		"1537791116"
+			}
+			"soundtrack"
+			{
+				"buildid"		"1812387"
+				"pwdrequired"		"1"
+				"timeupdated"		"1494424240"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"2097152"
+		"maxnumfiles"		"5"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"SOEDESCO/AereA"
+				"pattern"		"*.aerea"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"SOEDESCO/AereA"
+				"pattern"		"*.dat"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"SOEDESCO/AereA"
+						"replace"		"unity.SOEDESCO.AereA"
+					}
+				}
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxHome"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"SOEDESCO/AereA"
+						"replace"		".config/unity3d/SOEDESCO/AereA"
+					}
+				}
+			}
+		}
+	}
+}
