@@ -1,0 +1,221 @@
+"appinfo"
+{
+	"appid"		"821370"
+	"common"
+	{
+		"name"		"MLB Home Run Derby VR"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"openvrsupport"		"1"
+		"logo"		"05bf6371295931f6dfac3ec61d8a4ff71d83c0f0"
+		"logo_small"		"05bf6371295931f6dfac3ec61d8a4ff71d83c0f0_thumb"
+		"icon"		"986b1a37f1787651cb3220b5cc21d313f836c5aa"
+		"clienttga"		"818edb065185be8312958c0c18682618a7e3c089"
+		"clienticon"		"6cce39c21ee72ece587620361e4e9ab35d647993"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"821370_eula_0"
+				"name"		"MLB Home Run Derby VR EULA"
+				"url"		"http://store.steampowered.com//eula/821370_eula_0"
+			}
+		}
+		"metacritic_name"		"MLB Home Run Derby VR"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"31.257710847275916"
+				"height_pct"		"65.08073001515547"
+			}
+		}
+		"store_asset_mtime"		"1683750940"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"MLB"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"MLB"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"MLB"
+			}
+		}
+		"primary_genre"		"18"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"18"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_25"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_52"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1524762000"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"821370"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"701"
+			"1"		"19"
+			"2"		"21978"
+			"3"		"5727"
+			"4"		"4182"
+			"5"		"5154"
+		}
+		"review_score"		"6"
+		"review_percentage"		"73"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"MLB"
+		"publisher"		"MLB"
+		"homepage"		"https://www.mlb.com/fantasy/home-run-derby-vr/"
+	}
+	"config"
+	{
+		"installdir"		"MLB Home Run Derby VR"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"HRDVR.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"821371"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6793907904456119426"
+					"size"		"14600652083"
+					"download"		"2089770944"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"staging-lgg"
+				{
+					"gid"		"D2AB4B11879531E808FB01EC8FD05922"
+					"size"		"AA239595E8BFF960DDD1DF440E1E6D2B"
+					"download"		"4A950F409DE35B27D80A9AB77B153710"
+				}
+				"staging-lgg2"
+				{
+					"gid"		"9D435D65F91DB0B0BE177E9EF099D873"
+					"size"		"F622573F57D72A5AE4E38E3E8D2DBB08"
+					"download"		"CBDBA4F533153F6A62E1ED3963E3FC1D"
+				}
+				"staging-mlb"
+				{
+					"gid"		"9AC3C1F3CA2C1ECCF8DB273469A9572D"
+					"size"		"1F013EA7E340761534FE69979F15B60C"
+					"download"		"0AD380696F4DDC4322E957AB480E2DE4"
+				}
+				"staging-mlb2"
+				{
+					"gid"		"A1B9E41D95F017ACBFE300CA9F93A926"
+					"size"		"D1B2D4210AA03720B30CF1D0B7211B46"
+					"download"		"9DEF03ECE0FA5A432FBBA43D6987FD87"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11222131"
+				"timeupdated"		"1683938811"
+			}
+			"staging-lgg"
+			{
+				"buildid"		"11236245"
+				"pwdrequired"		"1"
+				"timeupdated"		"1684168347"
+			}
+			"staging-lgg2"
+			{
+				"buildid"		"11966606"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692286412"
+			}
+			"staging-mlb"
+			{
+				"buildid"		"11222131"
+				"pwdrequired"		"1"
+				"timeupdated"		"1683938780"
+			}
+			"staging-mlb2"
+			{
+				"buildid"		"11131794"
+				"pwdrequired"		"1"
+				"timeupdated"		"1683910801"
+			}
+		}
+	}
+}
