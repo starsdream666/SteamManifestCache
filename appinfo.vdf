@@ -1,0 +1,317 @@
+"appinfo"
+{
+	"appid"		"458580"
+	"common"
+	{
+		"name"		"Windlands 2"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"clienttga"		"b7b84a8b53566833416084a3b8442648c72eaacb"
+		"clienticon"		"1b925d6a6fa24f6d4a9236705ddc0e4a65191075"
+		"icon"		"59b2f4fcd22875546f5a4c3fcf836134a1504514"
+		"logo"		"56dd54da55b9d041a4075c6a6966c5fbf1dfa193"
+		"logo_small"		"56dd54da55b9d041a4075c6a6966c5fbf1dfa193_thumb"
+		"releasestate"		"released"
+		"openvrsupport"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1644278400"
+			"tested_build_id"		"0"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_VR"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"55.76251455180443"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1675076034"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Psytec Games Ltd"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Psytec Games Ltd"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Windlands"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_22"		"1"
+			"category_25"		"1"
+			"category_52"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1542322140"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"458580"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"21"
+			"2"		"492"
+			"3"		"21978"
+			"4"		"1685"
+		}
+		"review_score"		"8"
+		"review_percentage"		"80"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Psytec Games Ltd"
+		"publisher"		"Psytec Games Ltd"
+		"homepage"		"http://www.windlands2.com"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Windlands 2"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Windlands2.exe"
+				"arguments"		"-openvr -steam"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"458581"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"569910692763619800"
+					"size"		"6306393190"
+					"download"		"2229958016"
+				}
+				"beta"
+				{
+					"gid"		"569910692763619800"
+					"size"		"6306393190"
+					"download"		"2229958016"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"8F3D07AE2599E17549FD1A566B4A9C28"
+					"size"		"C1B3DA1ADC5BF8B3BFD7E9297EEC9B23"
+					"download"		"A41F0DBDA28B0836323B2E4629B01247"
+				}
+				"bhaptics"
+				{
+					"gid"		"172576775D0DAC877FFD513DC349C92C"
+					"size"		"8757C8B5B066F901BAD324C2EBD3328D"
+					"download"		"0D125C564DFA3B50C729F4AA32F0A1F4"
+				}
+				"test"
+				{
+					"gid"		"E3570326C2C0CBF263EEBF9DDAEC1F18"
+					"size"		"7EC8CFE2F48DA18A232D46B222943614"
+					"download"		"403A8FC7839FAA1C6B7D49557450E0D9"
+				}
+			}
+		}
+		"984090"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4111032354223588465"
+					"size"		"120715296"
+					"download"		"121056640"
+				}
+				"beta"
+				{
+					"gid"		"4111032354223588465"
+					"size"		"120715296"
+					"download"		"121056640"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"455A2FE03EBEDC87CC44F6814DAD9BDB"
+					"size"		"A404CC9A7EF45332711374E2F84FE5BA"
+					"download"		"8F3F26513004347B3343FFC1F36B9841"
+				}
+				"bhaptics"
+				{
+					"gid"		"70891D9A79FCBC69C0556E45CD2453CA"
+					"size"		"FB45459466F4D4EB7FB6642601D1A2FB"
+					"download"		"4F885631A08154A1C3C73F68B9DFB698"
+				}
+				"test"
+				{
+					"gid"		"FB66987777F146CB5D45AE42E7DB5E95"
+					"size"		"8AE2E379E57AEB2CE0637376302BE467"
+					"download"		"11BAA34257EC68DC4BD64455291E485F"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9077967"
+				"timeupdated"		"1657817521"
+			}
+			"alpha"
+			{
+				"buildid"		"9077967"
+				"pwdrequired"		"1"
+				"timeupdated"		"1657817691"
+			}
+			"beta"
+			{
+				"buildid"		"9077967"
+				"description"		"Beta Test Branch"
+				"timeupdated"		"1657191615"
+			}
+			"bhaptics"
+			{
+				"buildid"		"9077967"
+				"pwdrequired"		"1"
+				"timeupdated"		"1657817698"
+			}
+			"test"
+			{
+				"buildid"		"9077967"
+				"pwdrequired"		"1"
+				"timeupdated"		"1657817717"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"50000"
+		"maxnumfiles"		"5"
+		"hidecloudui"		"1"
+		"ignoreexternalfiles"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Psytec Games Ltd/Windlands2/"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Psytec Games Ltd/Windlands2/"
+				"pattern"		"*.dat"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
