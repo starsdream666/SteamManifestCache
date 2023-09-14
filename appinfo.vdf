@@ -1,0 +1,344 @@
+"appinfo"
+{
+	"appid"		"1559680"
+	"common"
+	{
+		"name"		"Amazing Frog ? V3"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64,macosapplesilicon"
+		"icon"		"68451c2ae7e36c75ef2364b893b0fdb87d35db02"
+		"clienttga"		"2a3913959bbfb21b3cf8f1b9efc690ec769ecf04"
+		"clienticon"		"d9fff6d437159f338cce0cce6accadbb3e5056a8"
+		"linuxclienticon"		"feb8f3bbfabe61c664db6545aff3bb0635608707"
+		"clienticns"		"1e4c8de8485af13e42bf81837d9d1c984347e011"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"54.23313660779071"
+				"height_pct"		"93.61152188071763"
+			}
+		}
+		"store_asset_mtime"		"1674243029"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Fayju"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Fayju"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Amazing Frog?®"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"28"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_37"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_23"		"1"
+			"category_44"		"1"
+			"category_28"		"1"
+			"category_49"		"1"
+			"category_9"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1655395319"
+		"community_hub_visible"		"1"
+		"gameid"		"1559680"
+		"store_tags"
+		{
+			"0"		"1695"
+			"1"		"4840"
+			"2"		"7368"
+			"3"		"3814"
+			"4"		"3810"
+			"5"		"5652"
+			"6"		"252854"
+			"7"		"1644"
+			"8"		"4036"
+			"9"		"4747"
+			"10"		"3834"
+			"11"		"19"
+			"12"		"1625"
+			"13"		"3968"
+			"14"		"10816"
+			"15"		"1773"
+			"16"		"1671"
+			"17"		"3841"
+			"18"		"21"
+			"19"		"599"
+		}
+		"review_score"		"8"
+		"review_percentage"		"81"
+	}
+	"extended"
+	{
+		"absolutemousecoordinates"		"0"
+		"remoteplaytogethertestingbranches"		"default"
+		"developer"		"Fayju"
+		"publisher"		"Fayju"
+		"homepage"		"http://www.amazingfrog.com"
+	}
+	"config"
+	{
+		"installdir"		"Amazing Frog V3"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"AmazingFrog.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"AmazingFrog.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"3"
+			{
+				"executable"		"AmazingFrog"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+		"steamcontrollertouchtemplateindex"		"1"
+		"steamcontrollertouchconfigdetails"		""
+		"steamconfigurator3rdpartynative"		"65535"
+		"steamcontrollertemplateindex"		"2"
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"1559681"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7943043988990674140"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"fayju_closed_testing"
+				{
+					"gid"		"4FAF69F2F2290CF183F79487195B019C"
+					"size"		"55900475309FCC632C24BCF4C8C410C5"
+					"download"		"55900475309FCC632C24BCF4C8C410C5"
+				}
+				"fayju_secret_beta_branch"
+				{
+					"gid"		"2AA58751DAE9E66F06692684FC89B514"
+					"size"		"784FD5D3450269563E08515766C98825"
+					"download"		"784FD5D3450269563E08515766C98825"
+				}
+			}
+		}
+		"1559682"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1848505410561332888"
+					"size"		"24314394865"
+					"download"		"5973674368"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"fayju_closed_testing"
+				{
+					"gid"		"F2BAE88459CB4746587B1132393CBD9F"
+					"size"		"CB86E54DFDA82A6A514AE764A5D06C04"
+					"download"		"477DB30D141ADDB5DAEF29398DE7BA88"
+				}
+				"fayju_secret_beta_branch"
+				{
+					"gid"		"D92737F00D915BE98EFF65225BA922DE"
+					"size"		"7E1F68B4405FA831E807B4A996500122"
+					"download"		"2B02C4D8CD95559BFFEA000A84CE56DB"
+				}
+			}
+		}
+		"1559683"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"214544881990743885"
+					"size"		"24325560738"
+					"download"		"5971204528"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"fayju_closed_testing"
+				{
+					"gid"		"721C8A60E5B544C18633F4F0C5E56C6A"
+					"size"		"E84A793536B1C21167097F1006531475"
+					"download"		"30C8C380E0F6D300FB11DFD693BFD707"
+				}
+				"fayju_secret_beta_branch"
+				{
+					"gid"		"A37E2181B4FF2950BCA677B42B1C99BE"
+					"size"		"B22E690716B8E537CF25AEBDB074BCC2"
+					"download"		"231058F7B8DF321325AA99E168D28B0E"
+				}
+			}
+		}
+		"1559684"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7040995210332157229"
+					"size"		"24713591182"
+					"download"		"6092105936"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"fayju_closed_testing"
+				{
+					"gid"		"4B4F8B28552CB0C8131D8E005B132ED5"
+					"size"		"AC68DA6F8FD1B442474972BD24408D1B"
+					"download"		"3551E950190203B7AC99AB5ED9E7D26F"
+				}
+				"fayju_secret_beta_branch"
+				{
+					"gid"		"68785DABDD4F263E4B6213356F50270C"
+					"size"		"405C34D2BDC4B9A0B2034F478E185136"
+					"download"		"7BC0C3D30F5628996C50576C0018209D"
+				}
+			}
+		}
+		"1559685"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6296084259696640797"
+					"size"		"24300605169"
+					"download"		"5969133040"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"fayju_closed_testing"
+				{
+					"gid"		"4E608691CE81813354B06A761E356FF5"
+					"size"		"23DF330D84F921DC6F5A0EF9482C10FC"
+					"download"		"E646DCBE4179617866EBFCA79FD51867"
+				}
+				"fayju_secret_beta_branch"
+				{
+					"gid"		"E890D04EA6953803F1BE1B943D9D691B"
+					"size"		"26E993B09EB3C34CA93ED35559786183"
+					"download"		"6C1F0C275B99F9B1372557CCFC54894E"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10958244"
+				"timeupdated"		"1681001767"
+			}
+			"fayju_closed_testing"
+			{
+				"buildid"		"11196012"
+				"pwdrequired"		"1"
+				"timeupdated"		"1683702342"
+			}
+			"fayju_secret_beta_branch"
+			{
+				"buildid"		"11196012"
+				"pwdrequired"		"1"
+				"timeupdated"		"1683702153"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000"
+		"maxnumfiles"		"100"
+	}
+}
