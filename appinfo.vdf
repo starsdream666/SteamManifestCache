@@ -1,0 +1,193 @@
+"appinfo"
+{
+	"appid"		"727450"
+	"common"
+	{
+		"name"		"Beats Of Fury"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"4d4f8248a5ad27a77e1313747093432c8f0a7211"
+		"logo_small"		"4d4f8248a5ad27a77e1313747093432c8f0a7211_thumb"
+		"icon"		"c609be0eb7c8e37761eed59b99a5707cb3fb7401"
+		"clienticon"		"9920a6102457294ea487f9861c2bc4bd7a0aba6c"
+		"clienttga"		"8d6c0b6211fdaf07eb39f6a2dcd747eda7f12a4d"
+		"releasestate"		"released"
+		"name_localized"
+		{
+			"schinese"		"节奏狂怒"
+			"tchinese"		"節奏狂怒"
+		}
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+		}
+		"metacritic_name"		"Beats Of Fury"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"36.090304826131444"
+				"height_pct"		"97.91666666666666"
+			}
+		}
+		"store_asset_mtime"		"1673260785"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Bubble Head Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Gamera Games"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Gamera Games"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"23"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_18"		"1"
+			"category_15"		"1"
+			"category_25"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1587519840"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"727450"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"1752"
+			"2"		"19"
+			"3"		"492"
+			"4"		"1621"
+			"5"		"4026"
+			"6"		"1714"
+			"7"		"4182"
+			"8"		"4791"
+			"9"		"337964"
+			"10"		"61357"
+			"11"		"4166"
+			"12"		"1773"
+			"13"		"493"
+			"14"		"3871"
+			"15"		"7481"
+			"16"		"4562"
+			"17"		"4195"
+			"18"		"1756"
+			"19"		"4637"
+		}
+		"review_score"		"8"
+		"review_percentage"		"88"
+	}
+	"extended"
+	{
+		"developer"		"Bubble Head Games"
+		"publisher"		"Gamera Games"
+		"homepage"		"http://beatsoffury.com"
+	}
+	"config"
+	{
+		"installdir"		"Beats Of Fury"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"BOF.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,schinese,japanese,latam"
+		"727451"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1437250644815323572"
+					"size"		"1562632786"
+					"download"		"746897360"
+				}
+			}
+		}
+		"727452"
+		{
+			"config"
+			{
+				"language"		"schinese"
+				"oslist"		"windows"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9211094"
+				"timeupdated"		"1659044202"
+			}
+		}
+	}
+}
