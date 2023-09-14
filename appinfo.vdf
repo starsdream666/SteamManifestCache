@@ -1,0 +1,191 @@
+"appinfo"
+{
+	"appid"		"1139160"
+	"common"
+	{
+		"name"		"Divided Reigns"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"27e8cee2b990a37dac8e6bc9bf99af144b514591"
+		"logo_small"		"27e8cee2b990a37dac8e6bc9bf99af144b514591_thumb"
+		"icon"		"2a11e25f45d2060806b9eeb2c57435cf4ac6af24"
+		"clienttga"		"eaa11838744afdb379dac904cf91b648f62743c6"
+		"clienticon"		"3b129913c7def39a93edaf5e5649ef255065c3e4"
+		"metacritic_name"		"Divided Reigns"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"80.63010501750293"
+				"height_pct"		"71.12324863452861"
+			}
+		}
+		"store_asset_mtime"		"1617371692"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Andrew Ryan Henke"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Adam Dover"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Nostalgia Addict Games"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"3"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_43"		"1"
+			"category_28"		"1"
+			"category_33"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1617404425"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1139160"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"4434"
+			"2"		"1684"
+			"3"		"1742"
+			"4"		"3834"
+			"5"		"4325"
+			"6"		"5577"
+			"7"		"1677"
+			"8"		"3916"
+			"9"		"3871"
+			"10"		"3964"
+			"11"		"4004"
+			"12"		"6691"
+			"13"		"6310"
+			"14"		"5350"
+			"15"		"492"
+			"16"		"4057"
+			"17"		"4168"
+			"18"		"4853"
+			"19"		"1678"
+		}
+		"review_score"		"8"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"developer"		"Andrew Ryan Henke"
+		"publisher"		"Nostalgia Addict Games"
+		"homepage"		"http://nostalgiagames.net"
+	}
+	"config"
+	{
+		"installdir"		"Divided Reigns"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Game.exe"
+				"arguments"		"--in-process-gpu"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamcontrollertouchtemplateindex"		"8"
+		"steamconfigurator3rdpartynative"		"65535"
+	}
+	"depots"
+	{
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1139161"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1077534700579408853"
+					"size"		"2717050160"
+					"download"		"2322909952"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10915470"
+				"timeupdated"		"1680492173"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"50000000"
+		"maxnumfiles"		"120"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"save"
+				"pattern"		"*.rpgsave"
+			}
+			"1"
+			{
+				"root"		"gameinstall"
+				"path"		"www/save"
+				"pattern"		"*.rpgsave"
+			}
+		}
+	}
+}
