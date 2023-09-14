@@ -1,0 +1,234 @@
+"appinfo"
+{
+	"appid"		"1998530"
+	"common"
+	{
+		"name"		"Yoiyami Dancers: Twilight Danmaku Dancers"
+		"type"		"Game"
+		"name_localized"
+		{
+			"english"		"Yoiyami Dancers: Twilight Danmaku Dancers"
+			"japanese"		"ヨイヤミダンサーズ"
+		}
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"languages"
+		{
+			"english"		"1"
+			"japanese"		"1"
+		}
+		"clienticon"		"9fdb08b5a77f5672e1b21b2b6047d7247eb6939d"
+		"clienttga"		"575b21adb29430501c6db08ac02329e1ee171574"
+		"icon"		"85b16d734c8690e9fbc84bbe8244cc41ee5e0165"
+		"releasestate"		"released"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"japanese"		"header_japanese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"ja,en"
+			"library_hero"		"en"
+			"library_logo"		"en,ja"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50.08285234537934"
+				"height_pct"		"86.45833333333333"
+			}
+		}
+		"store_asset_mtime"		"1663957615"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"tripper_room"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"以絵会友(ikaikaiyuu)"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Mediascape Co., Ltd."
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1664384422"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1998530"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"1752"
+			"2"		"4726"
+			"3"		"4885"
+			"4"		"3871"
+			"5"		"1684"
+			"6"		"7208"
+			"7"		"4182"
+			"8"		"7481"
+			"9"		"180368"
+			"10"		"4026"
+		}
+		"review_score"		"8"
+		"review_percentage"		"99"
+	}
+	"extended"
+	{
+		"developer"		"tripper_room"
+		"publisher"		"Mediascape Co., Ltd."
+	}
+	"config"
+	{
+		"installdir"		"rumiaDDR_yoiyamidancers"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"rumiaDDR.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Launch"
+					"japanese"		"ゲームを起動"
+				}
+				"description"		"Launch"
+			}
+		}
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigdetails"
+		{
+			"2868774389"
+			{
+				"controller_type"		"controller_xboxone"
+				"enabled_branches"		"default,testbranch"
+				"use_action_block"		"false"
+			}
+		}
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1998531"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7122629215417636492"
+					"size"		"262604254"
+					"download"		"251774288"
+				}
+				"public-beta"
+				{
+					"gid"		"6466713772622793661"
+					"size"		"262626050"
+					"download"		"251789888"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testbranch"
+				{
+					"gid"		"E0B81BC8F106B520A1ADDFC0166B950E"
+					"size"		"53E93BD0BA41F99838BB8BE5DAB3FD68"
+					"download"		"36DDBF7193716674D0329D0050DA5750"
+				}
+			}
+		}
+		"baselanguages"		"english,japanese"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11365426"
+				"timeupdated"		"1687428059"
+			}
+			"public-beta"
+			{
+				"buildid"		"11828473"
+				"description"		"beta testing!"
+				"timeupdated"		"1690805974"
+			}
+			"testbranch"
+			{
+				"buildid"		"11828473"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690805990"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"2000000"
+		"maxnumfiles"		"20"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		""
+				"pattern"		"game_Save.ydn"
+			}
+		}
+	}
+}
