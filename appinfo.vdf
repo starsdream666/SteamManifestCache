@@ -1,0 +1,344 @@
+"appinfo"
+{
+	"appid"		"652340"
+	"common"
+	{
+		"name"		"Flagsplosion"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"clienticon"		"6e39b556812ccea5449e77428fe23ad18646d061"
+		"clienttga"		"7693dc74e14166bb56ebd45e0237bb19cdd2f20f"
+		"icon"		"4679af89ad3e9dfc3535e315ba5f29521da23557"
+		"logo"		"a6c21c258dbed0b5ccc0afc59845209ed710dba2"
+		"logo_small"		"a6c21c258dbed0b5ccc0afc59845209ed710dba2_thumb"
+		"osextended"		"macos64"
+		"metacritic_name"		"Flagsplosion"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+		}
+		"store_asset_mtime"		"1607991011"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Smokey Moose Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Smokey Moose Games"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_15"		"1"
+			"category_25"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1498669215"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"652340"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"597"
+			"2"		"1036"
+			"3"		"10437"
+		}
+		"review_score"		"8"
+		"review_percentage"		"92"
+	}
+	"extended"
+	{
+		"developer"		"Smokey Moose Games"
+		"publisher"		"Smokey Moose Games"
+		"homepage"		"http://flagsplosion.com/"
+	}
+	"config"
+	{
+		"installdir"		"Flagsplosion"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"flagsplosion.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"flagsplosion.x64"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+			"2"
+			{
+				"executable"		"flagsplosion.x32"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"32"
+				}
+			}
+			"3"
+			{
+				"executable"		"Flagsplosion.app"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"4"
+			{
+				"executable"		"Flagsplosion-gd3.exe"
+				"description"		"Flagsplosion (Godot 3)"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"testing"
+				}
+			}
+			"5"
+			{
+				"executable"		"Flagsplosion-gd3.x64"
+				"description"		"Flagsplosion (Godot 3)"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+					"betakey"		"testing"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"652341"
+		{
+			"config"
+			{
+				"oslist"		"windows,linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6530139516693438334"
+					"size"		"41592919"
+					"download"		"32862848"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"84DFCD246A81C51E8E90051879C8880F"
+					"size"		"BE49B1BA3B6605976A021A4B44AD8C3A"
+					"download"		"AF56070C26FDC43788EC66147938E04E"
+				}
+			}
+		}
+		"652342"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6681554064703693259"
+					"size"		"14765856"
+					"download"		"4245744"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"0D90C6BC30D643C8CCCF73BD2B1F10F7"
+					"size"		"DBC9289C95DE2CE463C74242DEF44324"
+					"download"		"1305AD2DFBF1B3445A0BF077891666B1"
+				}
+			}
+		}
+		"652343"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1425547596866903526"
+					"size"		"26284696"
+					"download"		"7009136"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"92E07BCED0EF699B5240A96C4221209C"
+					"size"		"4D5518237A5846A4147E7EC10BDD857E"
+					"download"		"9F8A198C0A3043667C24E5A3064D98B5"
+				}
+			}
+		}
+		"652344"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2981031408823633783"
+					"size"		"26824760"
+					"download"		"7230480"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"3D8C3E6EAFB66303B6C8BF40150EF567"
+					"size"		"3EAD045DF8268781A560C9A65C9A6324"
+					"download"		"1511ECBB6B313F4E8F8819DC9EB6F11E"
+				}
+			}
+		}
+		"652345"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"365672301682566648"
+					"size"		"99503459"
+					"download"		"46143904"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"9931F2DCFE5BBD048F1CB9225FA7297F"
+					"size"		"05AA84B8898C83102B11223B08ED5CA3"
+					"download"		"2EAE4A99DC81CF840501B33E7CB15E3A"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5966595"
+				"timeupdated"		"1608046901"
+			}
+			"testing"
+			{
+				"buildid"		"6965241"
+				"pwdrequired"		"1"
+				"timeupdated"		"1625155546"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1572864"
+		"maxnumfiles"		"25"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"Godot/app_userdata/Flagsplosion"
+				"pattern"		"*"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataRoaming"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxHome"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Godot/app_userdata/Flagsplosion"
+						"replace"		".godot/app_userdata/Flagsplosion"
+					}
+				}
+			}
+			"1"
+			{
+				"root"		"WinAppDataRoaming"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacHome"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Godot/app_userdata/Flagsplosion"
+						"replace"		".godot/app_userdata/Flagsplosion"
+					}
+				}
+			}
+		}
+	}
+}
