@@ -1,0 +1,193 @@
+"appinfo"
+{
+	"appid"		"1867000"
+	"common"
+	{
+		"name"		"Pretty Girls Speed"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"6bec28c14f03da1a97e0725dfa0ffcc072658252"
+		"clienttga"		"1a147f6a633666d35514213ec7ec848236a26db7"
+		"icon"		"5bb7ee352e0924179ecc39d551cee95084715f71"
+		"logo"		"7191fd55b8c5d075bca60df431975df4848bfba1"
+		"logo_small"		"7191fd55b8c5d075bca60df431975df4848bfba1_thumb"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"30.811702925731396"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1675241425"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Zoo Corporation"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Zoo Corporation"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Zoo Corporation"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_25"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1645751196"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1867000"
+		"store_tags"
+		{
+			"0"		"1666"
+			"1"		"4726"
+			"2"		"597"
+			"3"		"17389"
+			"4"		"7208"
+			"5"		"4085"
+			"6"		"4182"
+			"7"		"1773"
+			"8"		"791774"
+			"9"		"12095"
+			"10"		"4115"
+			"11"		"3871"
+			"12"		"4136"
+			"13"		"4295"
+			"14"		"1710"
+			"15"		"3942"
+			"16"		"7481"
+		}
+		"review_score"		"7"
+		"review_percentage"		"100"
+	}
+	"extended"
+	{
+		"developer"		"Zoo Corporation"
+		"publisher"		"Zoo Corporation"
+		"homepage"		"https://game.zoo.jp/"
+	}
+	"config"
+	{
+		"installdir"		"Pretty Girls Speed"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"PGSpeed.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"1867001"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4725603087246426708"
+					"size"		"373370366"
+					"download"		"79345680"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"55A1ED5BE3AB59AA04D1CF3CFA974594"
+					"size"		"59E358C3D367F4CCFDCCB47ADFC7FFBB"
+					"download"		"DD4CA78652C6A709F04B2F9EB76008E7"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8520903"
+				"timeupdated"		"1649405947"
+			}
+			"beta"
+			{
+				"buildid"		"8520903"
+				"pwdrequired"		"1"
+				"timeupdated"		"1649403226"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000"
+		"maxnumfiles"		"2"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"_save"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
