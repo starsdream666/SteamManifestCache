@@ -1,0 +1,162 @@
+"appinfo"
+{
+	"appid"		"756150"
+	"common"
+	{
+		"name"		"Born Tubi Wild"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"c5217df7991d8831261f677c7f6aed234a93ed0f"
+		"logo_small"		"c5217df7991d8831261f677c7f6aed234a93ed0f_thumb"
+		"icon"		"878045141c1455708e413c00c28e36c6dfa6b211"
+		"clienticon"		"a3cdd8d73cf305ed1857ae288ac858a214d00657"
+		"clienttga"		"be6a65fbcb1783bb8851dec819b2494b26b01ec6"
+		"releasestate"		"released"
+		"metacritic_name"		"Born Tubi Wild"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"46.50937297996121"
+				"height_pct"		"67.70833333333334"
+			}
+		}
+		"store_asset_mtime"		"1572979895"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Dzsembori"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Dzsembori"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"hungarian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"original_release_date"		"1324368000"
+		"steam_release_date"		"1513011773"
+		"community_hub_visible"		"1"
+		"gameid"		"756150"
+		"store_tags"
+		{
+			"0"		"599"
+			"1"		"492"
+			"2"		"597"
+			"3"		"4136"
+			"4"		"4182"
+			"5"		"5923"
+			"6"		"1719"
+		}
+		"review_score"		"7"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"developer"		"Dzsembori"
+		"publisher"		"Dzsembori"
+		"homepage"		"https://dzsembori.hu/en"
+	}
+	"config"
+	{
+		"installdir"		"Born Tubi Wild"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"BornTubiWild.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"756151"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3619315853963492348"
+					"size"		"7255390"
+					"download"		"4082000"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2317230"
+				"timeupdated"		"1511719484"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"30"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"."
+				"pattern"		"*.lsd"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
