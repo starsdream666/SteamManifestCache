@@ -1,0 +1,264 @@
+"appinfo"
+{
+	"appid"		"1378370"
+	"common"
+	{
+		"name"		"Fallen Knight"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"28396b171e5bb982c685637e0fd26aa57a26fe53"
+		"logo_small"		"28396b171e5bb982c685637e0fd26aa57a26fe53_thumb"
+		"icon"		"3d5def0944f24bb4634d667eb2cd6b4dfcda6ae6"
+		"clienttga"		"362793d69c334f674d3f6c3e6f64d76764597182"
+		"linuxclienticon"		"af114d6591ab8e1f776bb97207897164a75d330a"
+		"clienticon"		"c9812264a832b06c251a8068dd2454f60f45e231"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1668009854"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"FairPlay Studios Co. Ltd"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"PQube"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"PQube"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"subtitles"		"true"
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"thai"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1626798900"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1378370"
+		"store_tags"
+		{
+			"0"		"3798"
+			"1"		"5379"
+			"2"		"1646"
+			"3"		"1625"
+			"4"		"3871"
+			"5"		"6971"
+			"6"		"19"
+			"7"		"4295"
+			"8"		"3993"
+			"9"		"4182"
+			"10"		"1743"
+		}
+		"review_score"		"5"
+		"review_percentage"		"64"
+	}
+	"extended"
+	{
+		"developer"		"FairPlay Studios Co. Ltd"
+		"publisher"		"PQube"
+		"homepage"		"https://fairplaystudios.net/fallen-knight/"
+		"listofdlc"		"1934060"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Fallen Knight"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Fallen Knight.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"1378371"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4868992745877255383"
+					"size"		"2379536467"
+					"download"		"669543008"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"qa_test"
+				{
+					"gid"		"B876DB627A838F10E31000752815D6A5"
+					"size"		"2E0A195BE59F6F3CBE8335BC6D7C294E"
+					"download"		"C3D72AD5FABABE7902EF5B78358D9580"
+				}
+				"test"
+				{
+					"gid"		"F8F0139D791357EC0B1350675DF39B35"
+					"size"		"A5F1BCE52527B22DA4A211EB340F407E"
+					"download"		"C314D086D284732F6C0B16DC511CEF5D"
+				}
+			}
+		}
+		"1934060"
+		{
+			"dlcappid"		"1934060"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7433734857822432123"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"qa_test"
+				{
+					"gid"		"3621F7F7D23A23A97ACB0EC8D7973729"
+					"size"		"941BC510A0AFF25256E256497AB58B6C"
+					"download"		"941BC510A0AFF25256E256497AB58B6C"
+				}
+				"test"
+				{
+					"gid"		"5A7923731EB6A915E27640DE965D9E95"
+					"size"		"6B8F808E4A4A389E753C89CEC75888D0"
+					"download"		"6B8F808E4A4A389E753C89CEC75888D0"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8970766"
+				"timeupdated"		"1666355852"
+			}
+			"qa_test"
+			{
+				"buildid"		"12168368"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694519460"
+			}
+			"test"
+			{
+				"buildid"		"12168368"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694519449"
+			}
+		}
+	}
+}
