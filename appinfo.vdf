@@ -1,0 +1,329 @@
+"appinfo"
+{
+	"appid"		"1587130"
+	"common"
+	{
+		"name"		"Blood West"
+		"type"		"Game"
+		"releasestate"		"released"
+		"clienticon"		"c44994c07418220a0c8c9ca07ff17b8593a12875"
+		"clienttga"		"dceccc283eb9539c95008a00cbf7fab3497ea440"
+		"icon"		"95e3c56e8a5ed44263be9e3a13b2a400a492cb56"
+		"logo"		"6ba53e4cf7d5af3c09854d8a011ef648d63e3f34"
+		"logo_small"		"6ba53e4cf7d5af3c09854d8a011ef648d63e3f34_thumb"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1692144000"
+			"tested_build_id"		"10902465"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"50.57736720554277"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1686310286"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Hyperstrange"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Hyperstrange"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Hyperstrange"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"hungarian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1644512339"
+		"community_hub_visible"		"1"
+		"gameid"		"1587130"
+		"store_tags"
+		{
+			"0"		"1663"
+			"1"		"1647"
+			"2"		"4004"
+			"3"		"1667"
+			"4"		"3839"
+			"5"		"1687"
+			"6"		"1774"
+			"7"		"19"
+			"8"		"4182"
+			"9"		"4342"
+			"10"		"3978"
+			"11"		"7432"
+			"12"		"4191"
+			"13"		"9541"
+			"14"		"4747"
+			"15"		"6276"
+			"16"		"8945"
+			"17"		"9204"
+			"18"		"6691"
+			"19"		"4057"
+		}
+		"review_score"		"8"
+		"review_percentage"		"92"
+	}
+	"extended"
+	{
+		"developer"		"Hyperstrange"
+		"publisher"		"Hyperstrange"
+	}
+	"config"
+	{
+		"installdir"		"Blood West"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Blood West.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1587131"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8893272482690308509"
+					"size"		"2177235519"
+					"download"		"785294336"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"debug"
+				{
+					"gid"		"E97C7DDA3CB76676D47CF6DECF788262"
+					"size"		"525CDD727EA33C9D3D4CBEE440F18830"
+					"download"		"42BA974F21F42C092406D9B5D2E902AA"
+				}
+				"experimental"
+				{
+					"gid"		"9659F03680A804564B7D4117C4CE8369"
+					"size"		"249A7EB34CE71ED2B98684CBB7737B91"
+					"download"		"6CB3081D042C843A684BA670D9096985"
+				}
+				"expo"
+				{
+					"gid"		"5A10B488A4B455A0E6D7C2E93783BE8F"
+					"size"		"8594C4AA91D5038871B427ABCD9FA053"
+					"download"		"75D25F17617703988DA84A36B13E0BA8"
+				}
+				"laststable"
+				{
+					"gid"		"8AF22B2BFEA3AC86EBB8D28F58DD7899"
+					"size"		"C8D5DA8AF32C9730A4FE7AE3B3023CE6"
+					"download"		"808336444FA950F2F6A3AB0E82E7B6E0"
+				}
+				"marketing"
+				{
+					"gid"		"B6309C8A9EAEA5C00BF10CBF0225E207"
+					"size"		"62A6C0A4F2C6BA82CAB1A89A936FE062"
+					"download"		"320953940C91FDC7560F96E37E88EFCA"
+				}
+				"shipping"
+				{
+					"gid"		"E44F2CB7E6113E24C7C5EA286A2870C9"
+					"size"		"E2CCCF1141CDAA55F45EC47610FBF780"
+					"download"		"0B63C4BED6D765663CABAA8FE0C99EAD"
+				}
+				"testing"
+				{
+					"gid"		"16F4BA7E82A15014481BBA0D4CC88EF1"
+					"size"		"C7F5ED4325DBAFC6455F55942D39E119"
+					"download"		"766D78A31C6452990E21A84636083828"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10902465"
+				"timeupdated"		"1680275508"
+			}
+			"debug"
+			{
+				"buildid"		"11830664"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690822436"
+			}
+			"experimental"
+			{
+				"buildid"		"11648913"
+				"pwdrequired"		"1"
+				"timeupdated"		"1688730051"
+			}
+			"expo"
+			{
+				"buildid"		"11648956"
+				"pwdrequired"		"1"
+				"timeupdated"		"1688730431"
+			}
+			"laststable"
+			{
+				"buildid"		"10647865"
+				"pwdrequired"		"1"
+				"timeupdated"		"1681480606"
+			}
+			"marketing"
+			{
+				"buildid"		"10902498"
+				"pwdrequired"		"1"
+				"timeupdated"		"1681480624"
+			}
+			"shipping"
+			{
+				"buildid"		"12013703"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692801059"
+			}
+			"testing"
+			{
+				"buildid"		"11837046"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690885275"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"10000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Hyperstrange/Blood West"
+				"pattern"		"*.blood_west_save"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
