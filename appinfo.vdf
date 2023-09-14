@@ -1,0 +1,213 @@
+"appinfo"
+{
+	"appid"		"1287540"
+	"common"
+	{
+		"name"		"Dino Hazard: Chronos Blackout"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"60370f4f244794a43af70bed00c94fd2e5fcde8f"
+		"logo"		"5d8674dbc19706f72dcc17da79c0bc427d0eb140"
+		"logo_small"		"5d8674dbc19706f72dcc17da79c0bc427d0eb140_thumb"
+		"clienttga"		"edd2d67ce70eb05c61e5dd13c0921067c651a93e"
+		"clienticon"		"1609c3ab72074b7b2be11dda8b3c70c93f1ed2c9"
+		"linuxclienticon"		"e093d28b92290b68768c967f403d437924c6c246"
+		"clienticns"		"f961b6b6ed5fa5b56a42476557939e3253d69679"
+		"languages"
+		{
+			"english"		"1"
+			"spanish"		"1"
+			"portuguese"		"1"
+			"brazilian"		"1"
+			"latam"		"1"
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"33.27722005101353"
+				"height_pct"		"77.32405438870957"
+			}
+		}
+		"store_asset_mtime"		"1693778295"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Bone Collectors"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Bone Collectors"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"3"
+			"4"		"2"
+			"5"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_33"		"1"
+			"category_13"		"1"
+			"category_23"		"1"
+			"category_43"		"1"
+			"category_22"		"1"
+			"category_16"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1605540460"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1287540"
+		"store_tags"
+		{
+			"0"		"1742"
+			"1"		"5608"
+			"2"		"4726"
+			"3"		"5923"
+			"4"		"6971"
+			"5"		"3964"
+			"6"		"122"
+			"7"		"4004"
+			"8"		"3834"
+			"9"		"4325"
+			"10"		"6815"
+			"11"		"9"
+			"12"		"4434"
+			"13"		"3871"
+			"14"		"21"
+			"15"		"19"
+			"16"		"10695"
+			"17"		"916648"
+			"18"		"4085"
+			"19"		"7208"
+		}
+		"review_score"		"8"
+		"review_percentage"		"92"
+	}
+	"extended"
+	{
+		"developer"		"Bone Collectors"
+		"publisher"		"Bone Collectors"
+		"homepage"		"https://en.dinohazard.com/games"
+	}
+	"config"
+	{
+		"installdir"		"DINOHAZARD"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"DinoHazard.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Game.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamconfigurator3rdpartynative"		"65535"
+		"steamcontrollertouchtemplateindex"		"1"
+		"steamcontrollertouchconfigdetails"
+		{
+			"2300204540"
+			{
+				"controller_type"		"controller_generic"
+				"enabled_branches"		"default"
+				"use_action_block"		"false"
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"baselanguages"		"english,spanish,brazilian"
+		"1287541"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1955585102702202496"
+					"size"		"779739023"
+					"download"		"495177616"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11723836"
+				"timeupdated"		"1689635627"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"10"
+		"appidredirect"		"1287540"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"www/save"
+				"pattern"		"*.rpgsave"
+			}
+		}
+	}
+}
