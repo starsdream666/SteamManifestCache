@@ -1,0 +1,192 @@
+"appinfo"
+{
+	"appid"		"1621560"
+	"common"
+	{
+		"name"		"Black One Blood Brothers"
+		"type"		"Game"
+		"releasestate"		"released"
+		"icon"		"cfb6fb64d7cc35e81dae4fe6204b5c30f24fc5ab"
+		"logo"		"16c1283ca58a1625c97e35b60ad89ff452e23732"
+		"logo_small"		"16c1283ca58a1625c97e35b60ad89ff452e23732_thumb"
+		"clienttga"		"7c80ae2656ac7785b32be328c7cf6c19c1aa1d2b"
+		"clienticon"		"3a33338b689006b32ef0410ffe7dd71f5f308755"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"27.437912739635735"
+				"height_pct"		"14.784582104804954"
+			}
+		}
+		"store_asset_mtime"		"1693994268"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Helios Production"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Helios Production"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"28"
+			"3"		"2"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_30"		"1"
+			"category_17"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1641915394"
+		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1621560"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"19"
+			"2"		"599"
+			"3"		"4168"
+			"4"		"1708"
+			"5"		"1663"
+			"6"		"492"
+			"7"		"4175"
+			"8"		"493"
+			"9"		"1774"
+			"10"		"4182"
+			"11"		"3859"
+			"12"		"3810"
+		}
+		"review_score"		"6"
+		"review_percentage"		"79"
+	}
+	"extended"
+	{
+		"developer"		"Helios Production"
+		"publisher"		"Helios Production"
+	}
+	"config"
+	{
+		"installdir"		"Black One Blood Brothers"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"BOBB.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1621561"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8678009695928557965"
+					"size"		"45923087353"
+					"download"		"17823743824"
+				}
+			}
+		}
+		"baselanguages"		"english"
+		"workshopdepot"		"1621560"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12130470"
+				"timeupdated"		"1694077860"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"5000"
+		"hidecloudui"		"1"
+		"ignoreexternalfiles"		"1"
+		"sync_while_suspended"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"Saved\\SaveGames"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
