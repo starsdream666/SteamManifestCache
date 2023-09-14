@@ -1,0 +1,319 @@
+"appinfo"
+{
+	"appid"		"577940"
+	"common"
+	{
+		"name"		"Killer Instinct"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"76328e4d76fbc2b4f4bb3340e96f54dbd1ce18ac"
+		"logo_small"		"76328e4d76fbc2b4f4bb3340e96f54dbd1ce18ac_thumb"
+		"clienticon"		"d5f7214ad2a9b70b93e1c968573b05d5d5b93ef0"
+		"clienttga"		"bfcf870599448703f59d77ebae19db0d3788c085"
+		"icon"		"bd87b39b2df527a4ddf2e8545445b605cc0eefde"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1644883200"
+			"tested_build_id"		"3017790"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-1"
+				"requires_h264"		"0"
+			}
+		}
+		"metacritic_name"		"Killer Instinct"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+		}
+		"store_asset_mtime"		"1667851169"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Iron Galaxy"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Xbox Game Studios"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_37"		"1"
+			"category_24"		"1"
+			"category_22"		"1"
+			"category_35"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+			"category_49"		"1"
+			"category_44"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1506528000"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"577940"
+		"store_tags"
+		{
+			"0"		"1743"
+			"1"		"19"
+			"2"		"3859"
+			"3"		"1756"
+			"4"		"4736"
+			"5"		"1773"
+			"6"		"4182"
+			"7"		"3878"
+			"8"		"4975"
+			"9"		"7368"
+			"10"		"7481"
+			"11"		"4158"
+			"12"		"4747"
+			"13"		"4345"
+		}
+		"review_score"		"8"
+		"review_percentage"		"91"
+	}
+	"extended"
+	{
+		"allowmicrotxnfromrestrictedcountries"		"0"
+		"microtxnrestrictedcountries"		"RU,BY"
+		"developer"		"Iron Galaxy"
+		"publisher"		"Xbox Game Studios"
+		"homepage"		"https://www.ultra-combo.com/"
+	}
+	"config"
+	{
+		"installdir"		"Killer Instinct"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"KillerInstinctX64_r.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"workshopdepot"		"577940"
+		"baselanguages"		"english,german,french,italian,spanish,schinese,russian,japanese,brazilian"
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"577941"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1691808320871136048"
+					"size"		"45795194068"
+					"download"		"30442697520"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"9F2B3E469011585E01ECDBE9648AD532"
+					"size"		"A8A08AA07C87CB24B9A2A8E5E82A0294"
+					"download"		"2DD42FEB9CDB7671CC2D7BCFEC80C5ED"
+				}
+				"ms-cicd-3.10"
+				{
+					"gid"		"028A96C349748B41892CB17B5F7FEF5C"
+					"size"		"4DB646C7C43A1C5B96B4C8DA13DAE4D1"
+					"download"		"9E3D691A32A7954EB0EEB70ADFB63705"
+				}
+				"ms-cicd-3.10-debug"
+				{
+					"gid"		"0BC4CB37421524A01127847B9526D956"
+					"size"		"15EDDD78F873A9A6B6B74716CE386485"
+					"download"		"908A25F0944763CC3D68B0F8B412E6A5"
+				}
+				"ms-cicd-3.9"
+				{
+					"gid"		"C424426BE185EAE3D758F0A5F86D980B"
+					"size"		"92D5160708161204D0787B7A8BA1B85B"
+					"download"		"EACA00FBF9887F0057E6F5476A85ED7D"
+				}
+				"ms-debug"
+				{
+					"gid"		"7AAA65609B5CF38D89C457EBC21AA2B9"
+					"size"		"0BFE97703CA3C33D5B952B110007D0A8"
+					"download"		"4D7CFCA69C56290E2DD40A1DE12C9A4B"
+				}
+				"ms-release"
+				{
+					"gid"		"EF431C90A15BD8C6A05810B3FA048427"
+					"size"		"5EE73071220765ADA0B93E6E4482675D"
+					"download"		"5D5DA75D5A30EDBD6E0C03EAC5EDE4C1"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11153397"
+				"timeupdated"		"1684347049"
+			}
+			"beta"
+			{
+				"buildid"		"11907578"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691665855"
+			}
+			"ms-cicd-3.10"
+			{
+				"buildid"		"11907578"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691634010"
+			}
+			"ms-cicd-3.10-debug"
+			{
+				"buildid"		"11907613"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691634341"
+			}
+			"ms-cicd-3.9"
+			{
+				"buildid"		"11239928"
+				"pwdrequired"		"1"
+				"timeupdated"		"1684205234"
+			}
+			"ms-debug"
+			{
+				"buildid"		"11530184"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687442586"
+			}
+			"ms-release"
+			{
+				"buildid"		"11153397"
+				"pwdrequired"		"1"
+				"timeupdated"		"1683215178"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000000"
+		"maxnumfiles"		"10000"
+	}
+}
