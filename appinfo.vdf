@@ -1,0 +1,305 @@
+"appinfo"
+{
+	"appid"		"963000"
+	"common"
+	{
+		"name"		"Frog Detective 1: The Haunted Island"
+		"type"		"Game"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"clienticon"		"6b7f57e79bd13b6a5252a8858bb6480ebf1b8e7c"
+		"clienttga"		"878f645c169eb5bfe46cb7bcd23f21afdfeab19a"
+		"icon"		"4e541e06cc4c3cdb6dd1918fe6cfa37ea30b48f6"
+		"clienticns"		"aacf01cfdf13100c9e9e00cda68d6377bc8ed545"
+		"linuxclienticon"		"6ec6c3ebedf401ff97eeae8a94eb4a9a50db2fb7"
+		"logo"		"56a539e44ffd5c52c05d343f00d7219d4ee15a92"
+		"logo_small"		"56a539e44ffd5c52c05d343f00d7219d4ee15a92_thumb"
+		"releasestate"		"released"
+		"osextended"		"macos64"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1667865600"
+			"tested_build_id"		"9805087"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-5"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"The Haunted Island, a Frog Detective Game"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1684379484"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Grace Bruxner"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Thomas Bowker"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"worm club"
+			}
+			"3"
+			{
+				"type"		"publisher"
+				"name"		"SUPERHOT PRESENTS"
+			}
+			"4"
+			{
+				"type"		"franchise"
+				"name"		"Frog Detective"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1542923911"
+		"metacritic_score"		"73"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/the-haunted-island-a-frog-detective-game?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"963000"
+		"store_tags"
+		{
+			"0"		"1719"
+			"1"		"4234"
+			"2"		"597"
+			"3"		"4136"
+			"4"		"4726"
+			"5"		"5613"
+			"6"		"5716"
+			"7"		"1654"
+			"8"		"3834"
+			"9"		"8369"
+			"10"		"4305"
+			"11"		"1698"
+			"12"		"5900"
+			"13"		"11014"
+			"14"		"21"
+			"15"		"7948"
+			"16"		"4182"
+			"17"		"492"
+			"18"		"1756"
+			"19"		"1742"
+		}
+		"review_score"		"8"
+		"review_percentage"		"92"
+	}
+	"extended"
+	{
+		"developer"		"Grace Bruxner"
+		"publisher"		"worm club"
+		"homepage"		"http://frogdetective.net"
+	}
+	"config"
+	{
+		"installdir"		"Frog_Detective_1"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"The_Haunted_Island.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"The_Haunted_Island.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"2"
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"963001"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9066031257767590510"
+					"size"		"295823175"
+					"download"		"189673008"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"A743C9AF70AF726D4412D8B966C52BDC"
+					"size"		"AF9EE12F7EC90AD61B264638950FCEB9"
+					"download"		"E48F45A78BE3B2BB012127A8C7575E54"
+				}
+			}
+		}
+		"963002"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8788560455295431503"
+					"size"		"292831779"
+					"download"		"188124336"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"D89C81B1FA5139B0764C47349BF91866"
+					"size"		"DDDAC96A266F8396211A26BCE4C44CFA"
+					"download"		"F2D0511DC6CF4C9AE4D188B1B9BC9D29"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11073737"
+				"timeupdated"		"1682316543"
+			}
+			"test"
+			{
+				"buildid"		"11073737"
+				"pwdrequired"		"1"
+				"timeupdated"		"1682312017"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10485760"
+		"maxnumfiles"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Worm Club/The Haunted Island"
+				"pattern"		"frog.sav"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Worm Club/The Haunted Island"
+						"replace"		"Worm Club/The Haunted Island"
+					}
+				}
+			}
+		}
+	}
+}
