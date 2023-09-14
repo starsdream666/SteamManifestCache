@@ -1,0 +1,175 @@
+"appinfo"
+{
+	"appid"		"2191950"
+	"common"
+	{
+		"name"		"东方夜雀食堂DLC3扩展包 - 命莲寺&神灵庙"
+		"type"		"DLC"
+		"parent"		"1584090"
+		"releasestate"		"released"
+		"name_localized"
+		{
+			"english"		"Touhou Mystia's Izakaya DLC3 Pack - Myouren Temple & Divine Spirit Mausoleum"
+			"tchinese"		"東方夜雀食堂DLC3擴展包 - 命蓮寺&神靈廟"
+			"japanese"		"東方夜雀食堂DLC3 PACK -命蓮寺&神霊廟"
+			"koreana"		"동방야작식당DLC3 - 명련사 & 신령묘"
+			"schinese"		"东方夜雀食堂DLC3扩展包 - 命莲寺&神灵庙"
+		}
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"icon"		"94fe393999eb72be2c9404da808caa73813b95f7"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_logo"		"en"
+		}
+		"store_asset_mtime"		"1691101537"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"二色幽紫蝶"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"二色幽紫蝶"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"二色幽紫蝶"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"3"
+			"3"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1668773800"
+		"gameid"		"2191950"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"492"
+			"2"		"597"
+			"3"		"599"
+		}
+		"review_score"		"8"
+		"review_percentage"		"99"
+	}
+	"extended"
+	{
+		"dlcforappid"		"1584090"
+		"mustownapptopurchase"		"1584090"
+		"developer"		"二色幽紫蝶"
+		"publisher"		"二色幽紫蝶"
+		"dlcavailableonstore"		"1"
+	}
+	"depots"
+	{
+		"2191951"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3977936828411750505"
+					"size"		"141060207"
+					"download"		"131236080"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal"
+				{
+					"gid"		"04322657D51A3536B0675BDA3FC8016A"
+					"size"		"EA092358E060C8C0F8E7A14E3EDE40C1"
+					"download"		"1C9C8510E3A8B04F851A59D9F78E2DD9"
+				}
+			}
+			"dlcappid"		"2191950"
+		}
+		"2191952"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2712890516295900412"
+					"size"		"141055137"
+					"download"		"131214432"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal"
+				{
+					"gid"		"1139F5C68A2CA19762705F68800A4A0C"
+					"size"		"554F68EE8ECD46D4C01EF30FD9403C33"
+					"download"		"D912726AC2596042694432DB67C3286C"
+				}
+			}
+			"dlcappid"		"2191950"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12038918"
+				"timeupdated"		"1693046245"
+			}
+			"internal"
+			{
+				"buildid"		"12038918"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693046025"
+			}
+		}
+	}
+}
