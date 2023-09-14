@@ -1,0 +1,287 @@
+"appinfo"
+{
+	"appid"		"628290"
+	"common"
+	{
+		"name"		"All Walls Must Fall"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"clienticon"		"1c78ea32038bf5aa955fcf2e0f6d0d56aa8aa22c"
+		"clienttga"		"1c8a89b3c36e1b22b77a7880af6c04465af8747c"
+		"icon"		"ea18dbd20b559766d2d25802d1f680f1e2dfd8f3"
+		"logo"		"84ce5cbc27c153358f8133e0cc62c76e5bc0852c"
+		"logo_small"		"84ce5cbc27c153358f8133e0cc62c76e5bc0852c_thumb"
+		"osextended"		"macos64"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"metacritic_name"		"All Walls Must Fall"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"45.095202540641566"
+				"height_pct"		"76.38981956769317"
+			}
+		}
+		"store_asset_mtime"		"1667124887"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"inbetweengames"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"inbetweengames"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_29"		"1"
+			"category_22"		"1"
+			"category_15"		"1"
+			"category_25"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1519372919"
+		"metacritic_score"		"72"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/all-walls-must-fall?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"628290"
+		"store_tags"
+		{
+			"0"		"21725"
+			"1"		"14139"
+			"2"		"1741"
+			"3"		"9"
+			"4"		"4975"
+			"5"		"1716"
+			"6"		"122"
+			"7"		"5851"
+			"8"		"6052"
+			"9"		"1742"
+			"10"		"4598"
+			"11"		"4182"
+			"12"		"5179"
+			"13"		"4115"
+			"14"		"5796"
+			"15"		"44868"
+			"16"		"5125"
+			"17"		"4325"
+			"18"		"6625"
+			"19"		"1759"
+		}
+		"review_score"		"6"
+		"review_percentage"		"70"
+	}
+	"extended"
+	{
+		"developer"		"inbetweengames"
+		"publisher"		"inbetweengames"
+		"homepage"		"http://www.allwallsmustfall.com/"
+	}
+	"config"
+	{
+		"installdir"		"All Walls Must Fall"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ProjectDisco.exe"
+				"arguments"		"-SaveToUserDir"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"ProjectDisco.app"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"ProjectDisco.sh"
+				"arguments"		"-nocore"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"1"
+		"628291"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7186871633240385128"
+					"size"		"1222824168"
+					"download"		"509215264"
+				}
+			}
+		}
+		"628292"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7513785340949301196"
+					"size"		"1435062746"
+					"download"		"618957520"
+				}
+			}
+		}
+		"628293"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9145298329299377466"
+					"size"		"2357699627"
+					"download"		"730520784"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4305476"
+				"timeupdated"		"1571685489"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"52428800"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"2"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"ProjectDisco/Saved/SaveGames"
+				"pattern"		"*.sav"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"addpath"		"Epic/"
+			}
+			"2"
+			{
+				"root"		"WinAppDataLocal"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxHome"
+				"addpath"		".config/Epic/"
+			}
+		}
+	}
+}
