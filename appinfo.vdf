@@ -1,0 +1,391 @@
+"appinfo"
+{
+	"appid"		"958530"
+	"common"
+	{
+		"name"		"Fury of Dracula: Digital Edition"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"9886bffe74f5f48593e3a810150ef06a9285b7ea"
+		"logo_small"		"9886bffe74f5f48593e3a810150ef06a9285b7ea_thumb"
+		"icon"		"a71a33acca3287d35a0d7c8b70b206e33c51117e"
+		"clienttga"		"f2c85480078d9040c59448f51fc29d8d2542e848"
+		"clienticon"		"28f73bafec2d5b81b5b064c5d3a54e51d7b02c2c"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1672790400"
+			"tested_build_id"		"8368586"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"44.632438739789954"
+				"height_pct"		"79.63666587508908"
+			}
+		}
+		"store_asset_mtime"		"1668687437"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Nomad Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Nomad Games"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Warhammer"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_9"		"1"
+			"category_37"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_44"		"1"
+			"category_36"		"1"
+			"category_23"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1605168000"
+		"steam_release_date"		"1605188940"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"958530"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"1770"
+			"2"		"1667"
+			"3"		"4018"
+			"4"		"17389"
+			"5"		"3916"
+			"6"		"791774"
+			"7"		"3952"
+			"8"		"4364"
+			"9"		"4166"
+			"10"		"10808"
+			"11"		"3871"
+			"12"		"6815"
+			"13"		"3987"
+			"14"		"5716"
+			"15"		"4004"
+			"16"		"1662"
+			"17"		"1708"
+			"18"		"1775"
+			"19"		"3993"
+		}
+		"review_score"		"6"
+		"review_percentage"		"73"
+	}
+	"extended"
+	{
+		"absolutemousecoordinates"		"0"
+		"remoteplaytogethertestingbranches"		"default,beta,gamesworkshop,internal,production,staging"
+		"developer"		"Nomad Games"
+		"publisher"		"Nomad Games"
+		"homepage"		"https://www.furyofdracula.digital/"
+	}
+	"config"
+	{
+		"installdir"		"Fury of Dracula"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Fury of Dracula.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"958531"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"598980627625376041"
+					"size"		"1473218941"
+					"download"		"560393392"
+				}
+				"open-beta"
+				{
+					"gid"		"6731113881081985217"
+					"size"		"1473223885"
+					"download"		"560393792"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"59E7B5AF1F7CC0266CAEE8897B81FEBC"
+					"size"		"34CE49D31754DC96AF023B4FAF686ACC"
+					"download"		"40570CACCAF6FF279051181052D0909D"
+				}
+				"gamesworkshop"
+				{
+					"gid"		"C92AF2037B6968093FE3A5EE88CE28B1"
+					"size"		"17E10FDD2559BE1344F1B7186CC8A7B6"
+					"download"		"CA4701FF4E84AFEBB3457DF6D6F0EB5F"
+				}
+				"internal"
+				{
+					"gid"		"C2F3848FFA5AD42ADC1EF494CD476CD0"
+					"size"		"140977A0DD1D6D3BF3D497DCED3AE611"
+					"download"		"0679FBBC25FAE3A039D058846EF09A1C"
+				}
+				"milestone3"
+				{
+					"gid"		"99FD089CC799A3E3BCBA74A17AA871AE"
+					"size"		"4AE3F53BB0A6737DC27C33C894FE1898"
+					"download"		"45EE800AC2FD08244B6B01AA58A82610"
+				}
+				"milestone4"
+				{
+					"gid"		"C076928AF6042FBB7EEF6C3EE07074B0"
+					"size"		"844558ECC542C50A76A23EE2BCC1A577"
+					"download"		"7FB1C6E2543516F1D2D36BE85F991477"
+				}
+				"milestone5"
+				{
+					"gid"		"1ECC5AD6EA95E700ED6C79FA115AE3A6"
+					"size"		"90FD7DE9F7CF6170180103F76EE7A4C2"
+					"download"		"DD42DF8F59077ED265E5C952ED3361E3"
+				}
+				"milestone6"
+				{
+					"gid"		"FA51EDFBB3553FB440BCFC5C1CAEAB17"
+					"size"		"719F6F6D3FED08E13E886BAE3659E0DF"
+					"download"		"05995B3FA09ADB1A87EB89C0D200EA23"
+				}
+				"milestone7"
+				{
+					"gid"		"FF494BDF8E911FA8D3B493BF4025DF7C"
+					"size"		"65E34C843B8D57CC7D3E74E8C11D6E00"
+					"download"		"3C0B6B478760CDC49AEF8284BE9242F5"
+				}
+				"pre-beta"
+				{
+					"gid"		"2E1D6D56722216DD1250A27063B66746"
+					"size"		"B2CB61BD7F66430EF3E4ABD7E7F45E57"
+					"download"		"96AD42F3876B7013F0704BBA553CFCEC"
+				}
+				"production"
+				{
+					"gid"		"6FC03426853AC74BAFD41CE977E9F7E9"
+					"size"		"3836F71F59321625DC0B642CB715DC10"
+					"download"		"11EFDF6F48D1AAA9F449EA5D2FA047BA"
+				}
+				"staging"
+				{
+					"gid"		"EF39F299049AAB8859A13AACB8E39A90"
+					"size"		"101A6713FBBB36F4C8E29DA11BC9BA45"
+					"download"		"CC90A1C5823C9894724A8FE3FE08D629"
+				}
+				"test"
+				{
+					"gid"		"C70A9E0634468AA08D4734F3328D4826"
+					"size"		"302890DC31FB50F667395E0C2B762B42"
+					"download"		"10A98C0F699D372494F26907E22B7899"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8368586"
+				"timeupdated"		"1647508977"
+			}
+			"beta"
+			{
+				"buildid"		"8368488"
+				"pwdrequired"		"1"
+				"timeupdated"		"1647510001"
+			}
+			"gamesworkshop"
+			{
+				"buildid"		"8368586"
+				"pwdrequired"		"1"
+				"timeupdated"		"1647509962"
+			}
+			"internal"
+			{
+				"buildid"		"8762938"
+				"pwdrequired"		"1"
+				"timeupdated"		"1652880920"
+			}
+			"milestone3"
+			{
+				"buildid"		"4749876"
+				"pwdrequired"		"1"
+				"timeupdated"		"1583488981"
+			}
+			"milestone4"
+			{
+				"buildid"		"4979610"
+				"pwdrequired"		"1"
+				"timeupdated"		"1588589205"
+			}
+			"milestone5"
+			{
+				"buildid"		"5221269"
+				"pwdrequired"		"1"
+				"timeupdated"		"1593417929"
+			}
+			"milestone6"
+			{
+				"buildid"		"5470048"
+				"pwdrequired"		"1"
+				"timeupdated"		"1598600534"
+			}
+			"milestone7"
+			{
+				"buildid"		"5605531"
+				"pwdrequired"		"1"
+				"timeupdated"		"1601307835"
+			}
+			"open-beta"
+			{
+				"buildid"		"8368488"
+				"description"		"Public Beta"
+				"timeupdated"		"1647510014"
+			}
+			"pre-beta"
+			{
+				"buildid"		"8762093"
+				"pwdrequired"		"1"
+				"timeupdated"		"1652872648"
+			}
+			"production"
+			{
+				"buildid"		"8762363"
+				"pwdrequired"		"1"
+				"timeupdated"		"1652875363"
+			}
+			"staging"
+			{
+				"buildid"		"8821427"
+				"pwdrequired"		"1"
+				"timeupdated"		"1653647833"
+			}
+			"test"
+			{
+				"buildid"		"6364387"
+				"pwdrequired"		"1"
+				"timeupdated"		"1629963256"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"33554432"
+		"maxnumfiles"		"512"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"Fury of Dracula_Data/FuryOfDracula/Saves"
+				"pattern"		"*.fod"
+				"recursive"		"1"
+			}
+		}
+	}
+}
