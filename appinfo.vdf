@@ -1,0 +1,221 @@
+"appinfo"
+{
+	"appid"		"1437850"
+	"common"
+	{
+		"name"		"三国群英传4"
+		"type"		"Game"
+		"logo"		"55440ce1c04d4f678397fdcde31a2be791afa0fe"
+		"logo_small"		"55440ce1c04d4f678397fdcde31a2be791afa0fe_thumb"
+		"icon"		"8e06b1f7eaecf0abacf6a9eba5d08f20b848f43f"
+		"clienticon"		"2f600bbe910da33ee6e3201c01dc2a7b2345a935"
+		"clienttga"		"fa49ab974ee18dfe60d9a76e7b0344d04bc09b11"
+		"releasestate"		"released"
+		"name_localized"
+		{
+			"schinese"		"三国群英传4"
+			"tchinese"		"三國群英傳4"
+			"english"		"Heroes of the Three Kingdoms 4"
+		}
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"50.47040641293456"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1693899767"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"USERJOY Technology Co.,Ltd."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"USERJOY Technology Co.,Ltd."
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"三國群英傳"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"USERJOY"
+			}
+			"4"
+			{
+				"type"		"franchise"
+				"name"		"USERJOY Games"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"3"
+			"2"		"28"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1605252829"
+		"community_hub_visible"		"1"
+		"gameid"		"1437850"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"17305"
+			"2"		"4182"
+			"3"		"3871"
+			"4"		"4168"
+			"5"		"14139"
+			"6"		"1676"
+			"7"		"1741"
+			"8"		"4684"
+			"9"		"7332"
+			"10"		"19"
+			"11"		"122"
+			"12"		"599"
+			"13"		"4364"
+			"14"		"3987"
+			"15"		"6730"
+			"16"		"1669"
+		}
+		"review_score"		"6"
+		"review_percentage"		"76"
+	}
+	"extended"
+	{
+		"developer"		"USERJOY Technology Co.,Ltd."
+		"publisher"		"USERJOY Technology Co.,Ltd."
+		"homepage"		"http://sg8.fhyx.com/"
+	}
+	"config"
+	{
+		"installdir"		"Sango4"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Sango4.exe"
+				"type"		"default"
+			}
+			"1"
+			{
+				"executable"		"SGConfig.exe"
+				"description"		"视窗化/窗口化/Windowed"
+				"type"		"option1"
+				"config"
+				{
+					"betakey"		"dev_qa"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1437851"
+		{
+			"config"
+			{
+				"language"		"tchinese"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2468096796289899924"
+					"size"		"987974794"
+					"download"		"940185632"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev_qa"
+				{
+					"gid"		"FD6E194910890F9E30B3AEB80E591F52"
+					"size"		"DDB1D7BE7BE1FCE6B6D7594D1844F2C9"
+					"download"		"57419E2948FCED2FD96E6B804E70BD84"
+				}
+			}
+		}
+		"1437852"
+		{
+			"config"
+			{
+				"language"		"schinese"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4738702881917109576"
+					"size"		"984093155"
+					"download"		"936652320"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev_qa"
+				{
+					"gid"		"C9FB9601AE28AA6D8171ED4C429D14E9"
+					"size"		"DF409EF660E0D7B40A1E63BDAE664DCB"
+					"download"		"7AEBCCADDBED385564EEAD372D77D1B7"
+				}
+			}
+		}
+		"baselanguages"		"schinese,tchinese"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5826571"
+				"timeupdated"		"1605491616"
+			}
+			"dev_qa"
+			{
+				"buildid"		"5908611"
+				"pwdrequired"		"1"
+				"timeupdated"		"1606875354"
+			}
+		}
+	}
+}
