@@ -1,0 +1,248 @@
+"appinfo"
+{
+	"appid"		"1186160"
+	"common"
+	{
+		"name"		"All Day Dying: Redux Edition"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"cfe6541a9d82f78ec87ef5eb00a5464e4edcd1c9"
+		"clienttga"		"d846806533201ec19a50ecafc2a700adc5b7772f"
+		"icon"		"b82a4fe1e7b4baacf5c6b1a8814577f2c56171c4"
+		"logo"		"c9b2ec9d405b2619a174ee4373627b4b5beb1966"
+		"logo_small"		"c9b2ec9d405b2619a174ee4373627b4b5beb1966_thumb"
+		"name_localized"
+		{
+			"english"		"All Day Dying: Redux Edition"
+		}
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"metacritic_name"		"All Day Dying"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"46.266044340723454"
+				"height_pct"		"71.65756352410352"
+			}
+		}
+		"store_asset_mtime"		"1587854186"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Paulo Lopes"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Paulo Lopes"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1575532800"
+		"steam_release_date"		"1575564782"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1186160"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"492"
+			"2"		"4667"
+			"3"		"1663"
+			"4"		"1734"
+			"5"		"5154"
+			"6"		"3839"
+			"7"		"4252"
+			"8"		"5390"
+			"9"		"1773"
+			"10"		"1774"
+			"11"		"3916"
+			"12"		"4026"
+			"13"		"4182"
+			"14"		"3878"
+			"15"		"4711"
+		}
+		"review_score"		"8"
+		"review_percentage"		"83"
+	}
+	"extended"
+	{
+		"developer"		"Paulo Lopes"
+		"publisher"		"Paulo Lopes"
+	}
+	"config"
+	{
+		"installdir"		"All Day Dying"
+		"steamcontrollertemplateindex"		"1"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Celled.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamcontrollerconfigdetails"
+		{
+			"1908540928"
+			{
+				"controller_type"		"controller_xbox360"
+				"enabled_branches"		"default"
+				"use_action_block"		"false"
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229006"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229020"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1186161"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7934748902202238879"
+					"size"		"6613606140"
+					"download"		"3191205152"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"C1936393D99DCC065D190E763A72DDD8"
+					"size"		"C8EF89E7BE2D75A94E9781ABC09DEC09"
+					"download"		"7DA88222CF5E7BF4EB3FDABDBFB7F944"
+				}
+			}
+		}
+		"1186162"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2424097705808448561"
+					"size"		"6585177747"
+					"download"		"3171712384"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"121BB7A653FA00F8B2F270DCD957AE3B"
+					"size"		"1149A0D48002C5276A88A58DB1830AA3"
+					"download"		"6CC9B2A43F11025D7E6BC4BFB12943FD"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8611595"
+				"timeupdated"		"1650730942"
+			}
+			"beta"
+			{
+				"buildid"		"4851494"
+				"pwdrequired"		"1"
+				"timeupdated"		"1585845900"
+			}
+		}
+	}
+}
