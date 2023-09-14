@@ -1,0 +1,566 @@
+"appinfo"
+{
+	"appid"		"770100"
+	"common"
+	{
+		"name"		"One Deck Dungeon"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"logo"		"f6fe05f3cfc665b4e42cda96b076d3acc7f93477"
+		"logo_small"		"f6fe05f3cfc665b4e42cda96b076d3acc7f93477_thumb"
+		"icon"		"1078ec7214e6d18d978d82f5d162edbb5e0ce43b"
+		"clienticon"		"c1ea624e03f2e06c4d1b2d062414ae3d57437523"
+		"clienttga"		"11dab653353e7505b6fc3ebdb344d3e6d8a05d91"
+		"clienticns"		"f477d53a49a7a341331961cdb1ffdc5ea1aa088c"
+		"linuxclienticon"		"4392129c3a98cc05f5ca6b0231961afc5940b99b"
+		"osextended"		"macos64"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1676332800"
+			"tested_build_id"		"8303646"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"One Deck Dungeon"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"90.9778812572759"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1668527308"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Handelabra Games Inc."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Handelabra Games Inc."
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"3"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_22"		"1"
+			"category_15"		"1"
+			"category_25"		"1"
+			"category_29"		"1"
+			"category_44"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1526659491"
+		"steam_deck_blog_url"		"https://steamcommunity.com/games/770100/announcements/detail/3120436560667634825"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"770100"
+		"store_tags"
+		{
+			"0"		"1720"
+			"1"		"1770"
+			"2"		"3959"
+			"3"		"1759"
+			"4"		"1666"
+			"5"		"17389"
+			"6"		"1716"
+			"7"		"7208"
+			"8"		"122"
+			"9"		"9"
+			"10"		"1684"
+			"11"		"4057"
+			"12"		"21"
+			"13"		"1685"
+			"14"		"3841"
+			"15"		"7368"
+			"16"		"4182"
+			"17"		"3859"
+			"18"		"1091588"
+			"19"		"492"
+		}
+		"review_score"		"6"
+		"review_percentage"		"79"
+	}
+	"extended"
+	{
+		"developer"		"Handelabra Games Inc."
+		"publisher"		"Handelabra Games Inc."
+		"homepage"		"http://OneDeckDigital.com"
+		"listofdlc"		"860980,860981,870620,870621,889380,894970,1418480"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"One Deck Dungeon"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"OneDeckDungeon.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"OneDeckDungeon.app"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"OneDeckDungeon.x86"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"32"
+				}
+			}
+			"3"
+			{
+				"executable"		"OneDeckDungeon.x86_64"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"770101"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8387180483427999547"
+					"size"		"265900531"
+					"download"		"216210464"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"268F46CEB57F42DD7972A340AB02EE88"
+					"size"		"D940E5D74950C3F7F7D01E20232F17D5"
+					"download"		"36C8AC4A67D9DB20509B80ADF06B641A"
+				}
+				"internal"
+				{
+					"gid"		"012D0A1DEE020F96ED958A5F890855B1"
+					"size"		"601193A32A50BFD8E88EB2F24F6B175D"
+					"download"		"4E06EC5B84537DB5EB2C096D57EFC9FF"
+				}
+				"partner"
+				{
+					"gid"		"2EF0B3CD7DEFD54E8D085C7FBBA0A8B3"
+					"size"		"B40C5C5F3D343923F5AD1C6B4F8CA132"
+					"download"		"04C48390A61B54DBF8D5DCFD614DEE0B"
+				}
+			}
+		}
+		"770102"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7545971679925401118"
+					"size"		"273827678"
+					"download"		"218799520"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"F8DF6DA075FF8EE41F0BBD6D5694B86B"
+					"size"		"37588FED2C784389CA381829509FB471"
+					"download"		"F8EBB0A778579A239F9068F745FAFEEB"
+				}
+				"internal"
+				{
+					"gid"		"F383175362DFBDC47DA09FD99906A74A"
+					"size"		"424FEA850538CE5D70866F2DA6D5121A"
+					"download"		"AA42ECB043DC5A5B0A8758AE29A7E4B2"
+				}
+				"partner"
+				{
+					"gid"		"DB1E0148112151B661625341949B63C2"
+					"size"		"D2A11EC88AD167745C160530F7475A3C"
+					"download"		"A2D8FD7019B773A52DB8859782922255"
+				}
+			}
+		}
+		"770103"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4463684281511835671"
+					"size"		"283537771"
+					"download"		"220318352"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"0FC80BCC24576F0204E4250D621AD302"
+					"size"		"947DAAE86147350A7532EDED37DBC454"
+					"download"		"0E79420FE44F8940106580B997E11119"
+				}
+				"internal"
+				{
+					"gid"		"6FB2ED4F76EBD9D5D5F58BA89C01C12D"
+					"size"		"5F9710F3B58E177F9DF6814D60BF3D78"
+					"download"		"6B204321985E571285F79E04014AFB6A"
+				}
+				"partner"
+				{
+					"gid"		"CD69706FE419457C15ECFB170C21F662"
+					"size"		"E8D0285DECD92C9F688E5C16082B7605"
+					"download"		"D1E336AF435D940A558B462BCC9BA15D"
+				}
+			}
+		}
+		"860981"
+		{
+			"dlcappid"		"860981"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4838077999054553022"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"37A1E96E5A637FCA645A731158C03820"
+					"size"		"2BFE92505F51D522446B011AB735AF4A"
+					"download"		"2BFE92505F51D522446B011AB735AF4A"
+				}
+				"internal"
+				{
+					"gid"		"CB184B74A44193BE0BFECA6086A1E265"
+					"size"		"C9C3C57539250BE18A5EBF9DDBEBDE5B"
+					"download"		"C9C3C57539250BE18A5EBF9DDBEBDE5B"
+				}
+				"partner"
+				{
+					"gid"		"9FCC3CA579FEA6ADEDF405B1DFD4622D"
+					"size"		"4B0FB2D875D9B41DDC9288CD3AB9CC91"
+					"download"		"4B0FB2D875D9B41DDC9288CD3AB9CC91"
+				}
+			}
+		}
+		"870621"
+		{
+			"dlcappid"		"870621"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5966014977923567965"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"18277898598B114E74BE2E6281EE5C47"
+					"size"		"2BFE92505F51D522446B011AB735AF4A"
+					"download"		"2BFE92505F51D522446B011AB735AF4A"
+				}
+				"internal"
+				{
+					"gid"		"EB5D7177FC25FBF3ED3DF821D59A91E8"
+					"size"		"C9C3C57539250BE18A5EBF9DDBEBDE5B"
+					"download"		"C9C3C57539250BE18A5EBF9DDBEBDE5B"
+				}
+				"partner"
+				{
+					"gid"		"539655FA16C5E85BF760F5BAAF79799B"
+					"size"		"4B0FB2D875D9B41DDC9288CD3AB9CC91"
+					"download"		"4B0FB2D875D9B41DDC9288CD3AB9CC91"
+				}
+			}
+		}
+		"870620"
+		{
+			"dlcappid"		"870620"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7143390211383298765"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"C5248187F30AF4CE4231ABF079F6C124"
+					"size"		"2BFE92505F51D522446B011AB735AF4A"
+					"download"		"2BFE92505F51D522446B011AB735AF4A"
+				}
+				"internal"
+				{
+					"gid"		"2DAFBE92ED0224E1304C2CB7355D9A6E"
+					"size"		"C9C3C57539250BE18A5EBF9DDBEBDE5B"
+					"download"		"C9C3C57539250BE18A5EBF9DDBEBDE5B"
+				}
+				"partner"
+				{
+					"gid"		"440EC0EABB23379588F178A0102D8C25"
+					"size"		"4B0FB2D875D9B41DDC9288CD3AB9CC91"
+					"download"		"4B0FB2D875D9B41DDC9288CD3AB9CC91"
+				}
+			}
+		}
+		"860980"
+		{
+			"dlcappid"		"860980"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8756056082604186776"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"2F2D8805DD9174C4B467693366F72BEA"
+					"size"		"2BFE92505F51D522446B011AB735AF4A"
+					"download"		"2BFE92505F51D522446B011AB735AF4A"
+				}
+				"internal"
+				{
+					"gid"		"F748BA1268D99BEA8314765054774141"
+					"size"		"C9C3C57539250BE18A5EBF9DDBEBDE5B"
+					"download"		"C9C3C57539250BE18A5EBF9DDBEBDE5B"
+				}
+				"partner"
+				{
+					"gid"		"C89C74619EA50ABB15532828465A2190"
+					"size"		"4B0FB2D875D9B41DDC9288CD3AB9CC91"
+					"download"		"4B0FB2D875D9B41DDC9288CD3AB9CC91"
+				}
+			}
+		}
+		"889380"
+		{
+			"dlcappid"		"889380"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"564060956699655864"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"8B71E5B8D8BCFA3622B1B415C5D7B4E6"
+					"size"		"2BFE92505F51D522446B011AB735AF4A"
+					"download"		"2BFE92505F51D522446B011AB735AF4A"
+				}
+				"internal"
+				{
+					"gid"		"7B22655E016ECD51FC6FF4E1DE1B99CE"
+					"size"		"C9C3C57539250BE18A5EBF9DDBEBDE5B"
+					"download"		"C9C3C57539250BE18A5EBF9DDBEBDE5B"
+				}
+				"partner"
+				{
+					"gid"		"24861146D2F81ADFF76411015422C920"
+					"size"		"4B0FB2D875D9B41DDC9288CD3AB9CC91"
+					"download"		"4B0FB2D875D9B41DDC9288CD3AB9CC91"
+				}
+			}
+		}
+		"894970"
+		{
+			"dlcappid"		"894970"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"722188937767027089"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"27E778FA8A6FA69A0963CAF8080BBB11"
+					"size"		"2BFE92505F51D522446B011AB735AF4A"
+					"download"		"2BFE92505F51D522446B011AB735AF4A"
+				}
+				"internal"
+				{
+					"gid"		"433ED218227B14A551DE4AEC4819BD7A"
+					"size"		"C9C3C57539250BE18A5EBF9DDBEBDE5B"
+					"download"		"C9C3C57539250BE18A5EBF9DDBEBDE5B"
+				}
+				"partner"
+				{
+					"gid"		"8B1E75D98B6069622048F3340D158307"
+					"size"		"4B0FB2D875D9B41DDC9288CD3AB9CC91"
+					"download"		"4B0FB2D875D9B41DDC9288CD3AB9CC91"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8303646"
+				"timeupdated"		"1646334400"
+			}
+			"beta"
+			{
+				"buildid"		"8268779"
+				"pwdrequired"		"1"
+				"timeupdated"		"1645729702"
+			}
+			"internal"
+			{
+				"buildid"		"12118099"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693962319"
+			}
+			"partner"
+			{
+				"buildid"		"5597227"
+				"pwdrequired"		"1"
+				"timeupdated"		"1601066012"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000000"
+		"maxnumfiles"		"10000"
+	}
+}
