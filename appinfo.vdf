@@ -1,0 +1,211 @@
+"appinfo"
+{
+	"appid"		"1394930"
+	"common"
+	{
+		"name"		"MAMIYA"
+		"type"		"Game"
+		"releasestate"		"released"
+		"icon"		"7feaa3c152c22816e8aa786b9f2618de2c19f766"
+		"logo"		"0e3179997d6065b85d334f2752f7d11174104f2d"
+		"logo_small"		"0e3179997d6065b85d334f2752f7d11174104f2d_thumb"
+		"clienticon"		"7b9f80ef09196a16357db6d410109b665427ff85"
+		"clienttga"		"870121c0c897be2accce28c36b78817581c96a15"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1656633600"
+			"tested_build_id"		"8235218"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"55.05105133758508"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1640804883"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Kenkou Land"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Fruitbat Factory"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1619802142"
+		"community_hub_visible"		"1"
+		"gameid"		"1394930"
+		"store_tags"
+		{
+			"0"		"1721"
+			"1"		"3799"
+			"2"		"1742"
+			"3"		"6052"
+			"4"		"3871"
+			"5"		"44868"
+			"6"		"1667"
+			"7"		"4085"
+			"8"		"6426"
+			"9"		"597"
+			"10"		"6971"
+			"11"		"5984"
+			"12"		"5608"
+			"13"		"5716"
+			"14"		"19"
+			"15"		"4252"
+			"16"		"4604"
+			"17"		"4166"
+			"18"		"21"
+			"19"		"4342"
+		}
+		"review_score"		"8"
+		"review_percentage"		"99"
+	}
+	"extended"
+	{
+		"developer"		"Kenkou Land"
+		"publisher"		"Fruitbat Factory"
+		"homepage"		"http://fruitbatfactory.com/"
+	}
+	"config"
+	{
+		"installdir"		"Mamiya"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MAMIYA.exe"
+				"arguments"		"--in-process-gpu"
+				"type"		"none"
+			}
+		}
+	}
+	"depots"
+	{
+		"1394931"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8030087346482947491"
+					"size"		"554199871"
+					"download"		"499591360"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8235218"
+				"timeupdated"		"1645261559"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"."
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
