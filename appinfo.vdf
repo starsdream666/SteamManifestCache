@@ -1,0 +1,218 @@
+"appinfo"
+{
+	"appid"		"1498740"
+	"common"
+	{
+		"name"		"Troublemaker"
+		"type"		"Game"
+		"logo"		"8c8abbb4c46e8c299465ca71bd35d8d86155dc5e"
+		"logo_small"		"8c8abbb4c46e8c299465ca71bd35d8d86155dc5e_thumb"
+		"icon"		"ee00a6a85bb251446d11b8668b861907f3d79912"
+		"clienticon"		"bbff90179d115d5b19baf281e91d44ba278a217b"
+		"clienttga"		"ca4489a9cc907d65360b2c1fb1bdf7d6197d2002"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1693231184"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Gamecom Team"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Freedom Games"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Freedom Games"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_23"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"indonesian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1680263911"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1498740"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"4158"
+			"2"		"4231"
+			"3"		"1036"
+			"4"		"6915"
+			"5"		"4434"
+			"6"		"1646"
+			"7"		"6506"
+			"8"		"4106"
+			"9"		"4191"
+			"10"		"4182"
+			"11"		"1743"
+			"12"		"1697"
+			"13"		"4136"
+			"14"		"3810"
+			"15"		"4947"
+			"16"		"6971"
+			"17"		"1695"
+			"18"		"19"
+			"19"		"4085"
+		}
+		"review_score"		"8"
+		"review_percentage"		"89"
+	}
+	"extended"
+	{
+		"developer"		"Gamecom Team"
+		"publisher"		"Freedom Games"
+		"homepage"		"https://gamecomteam.com"
+	}
+	"config"
+	{
+		"installdir"		"Troublemaker"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Troublemaker.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1498741"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6291514855663707214"
+					"size"		"8613988849"
+					"download"		"8041065824"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internaldev"
+				{
+					"gid"		"298714AB4F27893A77441C8012991FFA"
+					"size"		"D9B1E1C6F1E1A5D112584A9749DE49B0"
+					"download"		"69BC803305C0BA7FFF492818C529C1F4"
+				}
+				"internaldev_beta"
+				{
+					"gid"		"902AC5D336FEDD00878F86A800A563FE"
+					"size"		"1A70BA47D758921036560E00052C673D"
+					"download"		"8C563F89AB48723CFEC84F4AE792AA56"
+				}
+				"troubletester"
+				{
+					"gid"		"70452217FE1285DE4C3903BF01A3B753"
+					"size"		"D9A7106A51C94FE1BB441DBAACEE8BBA"
+					"download"		"D7D588A0939F9822867EC37284A08A6F"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11807986"
+				"timeupdated"		"1690569321"
+			}
+			"internaldev"
+			{
+				"buildid"		"11807986"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690515228"
+			}
+			"internaldev_beta"
+			{
+				"buildid"		"11807986"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690515235"
+			}
+			"troubletester"
+			{
+				"buildid"		"11807986"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690515242"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"1000"
+	}
+}
