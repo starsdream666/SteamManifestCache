@@ -1,0 +1,218 @@
+"appinfo"
+{
+	"appid"		"1832050"
+	"common"
+	{
+		"name"		"All Quiet Roads"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64,macosapplesilicon,macosnotarized"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1832050_eula_1"
+				"name"		"All Quiet Roads 4743 EULA"
+				"url"		"https://store.steampowered.com//eula/1832050_eula_1"
+			}
+		}
+		"clienttga"		"fc2128b7673693d2cfdedbea5394b81a606cd406"
+		"icon"		"10d9503a6739f5ce5680b14a1957409dd3efa33c"
+		"clienticon"		"d10049e341ffc7f471a4581e7b66c799e0006ad5"
+		"clienticns"		"06a7c8b04a2e0e412a2bce1eeb5f1c88a5845e4f"
+		"logo"		"56a7bb19224c53d58d1adaf82653bcaadd0905a6"
+		"logo_small"		"56a7bb19224c53d58d1adaf82653bcaadd0905a6_thumb"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"44.883720930232556"
+				"height_pct"		"42.020897649014486"
+			}
+		}
+		"store_asset_mtime"		"1658182938"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Scheme Street"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Scheme Street, LLC"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"28"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_25"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1649702484"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1832050"
+		"store_tags"
+		{
+			"0"		"599"
+			"1"		"9"
+			"2"		"4094"
+			"3"		"4328"
+			"4"		"4791"
+			"5"		"4182"
+			"6"		"1654"
+			"7"		"492"
+			"8"		"3871"
+		}
+		"review_score"		"8"
+		"review_percentage"		"95"
+	}
+	"extended"
+	{
+		"absolutemousecoordinates"		"0"
+		"remoteplaytogethertestingbranches"		"beta"
+		"developer"		"Scheme Street"
+		"publisher"		"Scheme Street, LLC"
+		"homepage"		"https://allquietroads.com"
+	}
+	"config"
+	{
+		"installdir"		"All Quiet Roads 4743"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"aqr4743.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"All Quiet Roads 4743"
+				}
+				"description"		"All Quiet Roads 4743"
+			}
+			"1"
+			{
+				"executable"		"aqr4743.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+				"description_loc"
+				{
+					"english"		"All Quiet Roads 4743"
+				}
+				"description"		"All Quiet Roads 4743"
+			}
+		}
+	}
+	"depots"
+	{
+		"1832051"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7329203607562383858"
+					"size"		"302515947"
+					"download"		"90154368"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"57F9CDC8A189B5A77C10CF0A49789FA8"
+					"size"		"C8E8D86263907AABCD051EF1D9E405BC"
+					"download"		"BA689B510F1CAD19150DD3F90FC3FE0E"
+				}
+			}
+		}
+		"1832052"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6521716187938574630"
+					"size"		"326582532"
+					"download"		"97556768"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"0296626732CC16FF316566BD0F2F5489"
+					"size"		"4AF373F38BB0CF3674A5EABE965AD1F5"
+					"download"		"DC6AC35ED467FD5B550859B7F8AA1B50"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9881938"
+				"timeupdated"		"1667793293"
+			}
+			"beta"
+			{
+				"buildid"		"9121768"
+				"pwdrequired"		"1"
+				"timeupdated"		"1657811384"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"50000000"
+		"maxnumfiles"		"10"
+	}
+}
