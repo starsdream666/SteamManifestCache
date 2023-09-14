@@ -1,0 +1,251 @@
+"appinfo"
+{
+	"appid"		"1999140"
+	"common"
+	{
+		"name"		"Extraneum"
+		"type"		"Game"
+		"oslist"		"windows,linux"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"8b5a005e82bc7dfb7300405275b84a7388e5516a"
+		"clienticon"		"ec09a172489751a43470cff1de125b0ba27ea465"
+		"icon"		"8e1dd37b0173da0b962bb336d74df645cc8753b6"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1693148973"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"David Jalbert"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"David Jalbert"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1655254177"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1999140"
+		"store_tags"
+		{
+			"0"		"4004"
+			"1"		"1663"
+			"2"		"3964"
+			"3"		"3839"
+			"4"		"6691"
+			"5"		"19"
+			"6"		"1774"
+			"7"		"6869"
+			"8"		"4191"
+			"9"		"4137"
+			"10"		"3942"
+			"11"		"1659"
+			"12"		"3834"
+			"13"		"7481"
+			"14"		"4252"
+			"15"		"5030"
+			"16"		"5794"
+			"17"		"4166"
+			"18"		"4195"
+			"19"		"4726"
+		}
+		"review_score"		"7"
+		"review_percentage"		"100"
+	}
+	"extended"
+	{
+		"absolutemousecoordinates"		"1"
+		"remoteplaytogethertestingbranches"		"default"
+		"developer"		"David Jalbert"
+		"publisher"		"David Jalbert"
+	}
+	"config"
+	{
+		"installdir"		"Extraneum"
+		"steamcontrollertemplateindex"		"2"
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"65535"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Extraneum.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"extraneum.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1999141"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7458600494195656663"
+					"size"		"257791994"
+					"download"		"85109088"
+				}
+			}
+		}
+		"1999142"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8593299117270351244"
+					"size"		"263060786"
+					"download"		"85770224"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11629743"
+				"timeupdated"		"1688552981"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"David Jalbert/Extraneum"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"David Jalbert/Extraneum"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"2"
+			{
+				"root"		"LinuxHome"
+				"path"		".config/unity3d/David Jalbert/Extraneum"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Linux"
+				}
+			}
+			"3"
+			{
+				"root"		"LinuxXdgConfigHome"
+				"path"		"unity3d/David Jalbert/Extraneum"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Linux"
+				}
+			}
+			"4"
+			{
+				"root"		"gameinstall"
+				"path"		""
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
