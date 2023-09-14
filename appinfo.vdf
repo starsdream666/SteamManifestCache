@@ -1,0 +1,301 @@
+"appinfo"
+{
+	"appid"		"1483370"
+	"common"
+	{
+		"name"		"The Use of Life"
+		"type"		"Game"
+		"releasestate"		"released"
+		"icon"		"6490e9c2d08efe17ec7c3d85d1680899bcd48a81"
+		"logo"		"25df4b105fb8b536db696f34b3e20ef74001b9e6"
+		"logo_small"		"25df4b105fb8b536db696f34b3e20ef74001b9e6_thumb"
+		"clienticon"		"0ba1767aa0a1f457c0e11a27118164e65988c13e"
+		"clienttga"		"8c133f9e5204c50d292e1f4b17e997fa7ee3ab31"
+		"name_localized"
+		{
+			"english"		"The Use of Life"
+			"schinese"		"命途"
+			"tchinese"		"命途"
+			"japanese"		"いのちのつかいかた"
+		}
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1660953600"
+			"tested_build_id"		"9042274"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-4"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"japanese"		"header_japanese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,ja"
+			"library_hero"		"en"
+			"library_logo"		"en,ja"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"56.046511627906966"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1654072338"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"だらねこげーむず/Daraneko Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"PLAYISM"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"3"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1653130870"
+		"community_hub_visible"		"1"
+		"gameid"		"1483370"
+		"store_tags"
+		{
+			"0"		"4474"
+			"1"		"4486"
+			"2"		"1741"
+			"3"		"4434"
+			"4"		"122"
+			"5"		"3871"
+			"6"		"4325"
+			"7"		"1742"
+			"8"		"4604"
+			"9"		"1684"
+			"10"		"21"
+			"11"		"4004"
+			"12"		"4559"
+			"13"		"4182"
+			"14"		"492"
+			"15"		"493"
+			"16"		"5577"
+			"17"		"113"
+		}
+		"review_score"		"8"
+		"review_percentage"		"91"
+	}
+	"extended"
+	{
+		"developer"		"だらねこげーむず/Daraneko Games"
+		"publisher"		"PLAYISM"
+	}
+	"config"
+	{
+		"installdir"		"TheUseOfLife"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TheUseOfLife.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1483371"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5939961160163413549"
+					"size"		"2748749213"
+					"download"		"653612768"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"0.2.1"
+				{
+					"gid"		"17F869934D58C08C0A8E1154BD4DB9DD"
+					"size"		"77E540EC0F26DB0392E777F47CC513FE"
+					"download"		"9F00401437B6021AE53F334FD4030473"
+				}
+				"0.2.2"
+				{
+					"gid"		"8E5496254C723F50D3FDEDB823393393"
+					"size"		"90CBC9E576C1943D2A20987E863B78E1"
+					"download"		"89B1602FBA815626B33BD56138598699"
+				}
+				"0.2.3"
+				{
+					"gid"		"341B5E00AD23F71A1E200C163AE1F880"
+					"size"		"832E8387B944ED617686A8C6BF0E3C69"
+					"download"		"EE83CC3BFF15B7CE632963BE65E877B6"
+				}
+				"0.3.0"
+				{
+					"gid"		"45C7BAEDA1F91F86EC0E28567897CD04"
+					"size"		"4EDBB1A59FE91614E7F4BF94777C4067"
+					"download"		"7062FC77BDECB0BD53430EB866403AC1"
+				}
+				"test"
+				{
+					"gid"		"33BC8CF07890E5F6AB3C24AB5941585B"
+					"size"		"1E1BD99216AC6B22F4415B8AEB50E0F4"
+					"download"		"835D6F46D7EFF90B4159886934ED83E6"
+				}
+				"test_play"
+				{
+					"gid"		"E1EC7F74E6F1F09CC363CE1BB0FBC4D6"
+					"size"		"F5E5E17F17DFFB70A6EE302E57B083A7"
+					"download"		"A43B7153503A6EFFD02B01D459C4D2FD"
+				}
+			}
+		}
+		"baselanguages"		"english,schinese,tchinese,japanese"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11045051"
+				"timeupdated"		"1681956638"
+			}
+			"0.2.1"
+			{
+				"buildid"		"8815831"
+				"pwdrequired"		"1"
+				"timeupdated"		"1653580676"
+			}
+			"0.2.2"
+			{
+				"buildid"		"8855974"
+				"pwdrequired"		"1"
+				"timeupdated"		"1654137520"
+			}
+			"0.2.3"
+			{
+				"buildid"		"9042274"
+				"pwdrequired"		"1"
+				"timeupdated"		"1656656972"
+			}
+			"0.3.0"
+			{
+				"buildid"		"11045051"
+				"pwdrequired"		"1"
+				"timeupdated"		"1681950184"
+			}
+			"test"
+			{
+				"buildid"		"12094793"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693638749"
+			}
+			"test_play"
+			{
+				"buildid"		"10694399"
+				"pwdrequired"		"1"
+				"timeupdated"		"1678003616"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"TheUseOfLife_Data/"
+				"pattern"		"savedata.json"
+			}
+		}
+	}
+}
