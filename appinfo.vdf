@@ -1,0 +1,235 @@
+"appinfo"
+{
+	"appid"		"2350540"
+	"common"
+	{
+		"name"		"DeathKeep"
+		"type"		"Game"
+		"releasestate"		"released"
+		"icon"		"f8cfc427e6b33c5cae4d5303bb22ddcb8c15a0c2"
+		"clienttga"		"b15070e82f5096147c31aff8649de792561a74e4"
+		"clienticon"		"fa73b1d5e03294c5d3f9dc479f54849b79124b65"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1681948800"
+			"tested_build_id"		"10864717"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"66.78160919540232"
+				"height_pct"		"91.30485801455058"
+			}
+		}
+		"store_asset_mtime"		"1679267379"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Lion Entertainment"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"SNEG"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Greyhawk"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Dungeons &amp; Dragons"
+			}
+			"4"
+			{
+				"type"		"franchise"
+				"name"		"SNEG"
+			}
+			"5"
+			{
+				"type"		"franchise"
+				"name"		"Wizards of the Coast"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1679932986"
+		"community_hub_visible"		"1"
+		"gameid"		"2350540"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"21"
+			"2"		"122"
+			"3"		"4231"
+			"4"		"1720"
+			"5"		"14153"
+			"6"		"1774"
+			"7"		"4191"
+			"8"		"3839"
+			"9"		"1684"
+			"10"		"6691"
+			"11"		"4057"
+			"12"		"4172"
+			"13"		"5716"
+			"14"		"3916"
+			"15"		"4004"
+			"16"		"4155"
+			"17"		"3993"
+			"18"		"4182"
+			"19"		"198631"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Lion Entertainment"
+		"publisher"		"SNEG"
+	}
+	"config"
+	{
+		"installdir"		"DeathKeep"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		".\\Launcher\\Launcher.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2350541"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7783137103106636386"
+					"size"		"243341556"
+					"download"		"191432576"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"B1E17DF08E8CE92794195496B7343618"
+					"size"		"C29DA60D627643FC561D4A07973B3F71"
+					"download"		"03BC3CB3796C08C8F16227DEEAC3F689"
+				}
+			}
+		}
+		"2350542"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"867528026448699707"
+					"size"		"52938014"
+					"download"		"24599632"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"0720C391C15F7060041026DE3B77FEDA"
+					"size"		"3B5A7263D97AF59615FA4F2E2C42DCCF"
+					"download"		"8E9BC2D549B2E1706972B7906358ABDE"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10864717"
+				"timeupdated"		"1679930936"
+			}
+			"beta"
+			{
+				"buildid"		"10890821"
+				"pwdrequired"		"1"
+				"timeupdated"		"1680165595"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"152428800"
+		"maxnumfiles"		"1000"
+	}
+}
