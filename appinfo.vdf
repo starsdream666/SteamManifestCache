@@ -1,0 +1,211 @@
+"appinfo"
+{
+	"appid"		"1388130"
+	"common"
+	{
+		"name"		"Religion inc"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"8657125fc78acf8cdb1a293cb36dfb7664aed59f"
+		"logo"		"aa13fd1f0d0b96000f4fb519b48c9682d3e6009e"
+		"logo_small"		"aa13fd1f0d0b96000f4fb519b48c9682d3e6009e_thumb"
+		"clienticon"		"a4612566e8ed7144291abced930366b7d2df0e7d"
+		"clienttga"		"e8ab4f581cd6bf65e18fc3fed1fec3bdb2d261b2"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"58.37737228253515"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1669124896"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"GameFirst"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"GameFirst"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"28"
+			"3"		"2"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"thai"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1602862659"
+		"community_hub_visible"		"1"
+		"gameid"		"1388130"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"599"
+			"2"		"13782"
+			"3"		"5300"
+			"4"		"1676"
+			"5"		"4486"
+			"6"		"4191"
+			"7"		"4791"
+			"8"		"5851"
+			"9"		"6815"
+			"10"		"4252"
+			"11"		"4305"
+			"12"		"4598"
+			"13"		"180368"
+			"14"		"1742"
+			"15"		"3987"
+			"16"		"4172"
+			"17"		"15277"
+			"18"		"6730"
+			"19"		"4325"
+		}
+		"review_score"		"6"
+		"review_percentage"		"79"
+	}
+	"extended"
+	{
+		"developer"		"GameFirst"
+		"publisher"		"GameFirst"
+		"homepage"		"http://gamefirst.site"
+	}
+	"config"
+	{
+		"installdir"		"Religion inc"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Religion inc.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Religion inc.app/Contents/MacOS/Religion inc"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,spanish,russian,thai,portuguese"
+		"hasdepotsindlc"		"0"
+		"1388131"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"185733064085650276"
+					"size"		"436820429"
+					"download"		"64344640"
+				}
+			}
+		}
+		"1388132"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"627660842487616798"
+					"size"		"166115040"
+					"download"		"38816768"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9858824"
+				"timeupdated"		"1667449767"
+			}
+		}
+	}
+}
