@@ -1,0 +1,477 @@
+"appinfo"
+{
+	"appid"		"1336490"
+	"common"
+	{
+		"name"		"Against the Storm"
+		"type"		"Game"
+		"logo"		"4bfc69a610a9cdcf2dc485e04dac4769e066cebe"
+		"logo_small"		"4bfc69a610a9cdcf2dc485e04dac4769e066cebe_thumb"
+		"icon"		"f26712271f7b0554cc1c6fb0267f122c47cf6e85"
+		"clienticon"		"4b0bd7a14cb94affbc09022e4ae2b1b01c961999"
+		"clienttga"		"b793e1944eeb229839b30af2805f530efc02e31b"
+		"releasestate"		"released"
+		"name_localized"
+		{
+			"schinese"		"风暴之城 Against the Storm"
+			"tchinese"		"風暴之城 Against the Storm"
+		}
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"thai"		"1"
+			"japanese"		"1"
+			"polish"		"1"
+			"hungarian"		"1"
+			"czech"		"1"
+			"turkish"		"1"
+			"brazilian"		"1"
+			"ukrainian"		"1"
+		}
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1669075200"
+			"tested_build_id"		"9836716"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"russian"		"capsule_231x87_russian.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+			"koreana"		"capsule_231x87_koreana.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"japanese"		"header_japanese.jpg"
+			"koreana"		"header_koreana.jpg"
+			"russian"		"header_russian.jpg"
+			"schinese"		"header_schinese.jpg"
+			"tchinese"		"header_tchinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-tw,zh-cn,ja,ko,ru"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"24.026450229746843"
+				"height_pct"		"59.06585327745503"
+			}
+		}
+		"store_asset_mtime"		"1694512720"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Eremite Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Hooded Horse"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Hooded Horse"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"28"
+			"1"		"2"
+			"2"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"hungarian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"thai"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1667293049"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1336490"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"7332"
+			"2"		"4328"
+			"3"		"599"
+			"4"		"8945"
+			"5"		"12472"
+			"6"		"3810"
+			"7"		"1643"
+			"8"		"220585"
+			"9"		"1662"
+			"10"		"1676"
+			"11"		"3871"
+			"12"		"1695"
+			"13"		"4695"
+			"14"		"4182"
+			"15"		"4711"
+			"16"		"4172"
+			"17"		"1669"
+			"18"		"493"
+			"19"		"3987"
+		}
+		"review_score"		"9"
+		"review_percentage"		"95"
+	}
+	"extended"
+	{
+		"developer"		"Eremite Games"
+		"publisher"		"Hooded Horse"
+		"homepage"		"https://eremitegames.com/"
+	}
+	"config"
+	{
+		"installdir"		"Against the Storm"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Against the Storm.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigdetails"
+		{
+			"3031297485"
+			{
+				"controller_type"		"controller_neptune"
+				"enabled_branches"		"steam_deck_beta"
+				"use_action_block"		"false"
+			}
+		}
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"1336491"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"921925979341699728"
+					"size"		"4849503065"
+					"download"		"2751098848"
+				}
+				"experimental"
+				{
+					"gid"		"2038895792219284325"
+					"size"		"4849502824"
+					"download"		"2751098704"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closed_alpha"
+				{
+					"gid"		"90A5D76B564C12279778E093BC7FF6D1"
+					"size"		"0D44BE474F558C2B9EFCAD527952B733"
+					"download"		"0D6303DA7293C04F5D1BDF0C2D5D9896"
+				}
+				"development"
+				{
+					"gid"		"6BFD0496282555322878EB3C23871232"
+					"size"		"518FF39AC40EEC6AEAA2B8B3E1EDE221"
+					"download"		"B248E945F6B93F2A18737CAD0A5B8BA9"
+				}
+				"experimental_internal"
+				{
+					"gid"		"4D646B5EFAD72CDC2222D2FBA4C88695"
+					"size"		"E5BC437B0288CC0C4DA524EF638D6B1E"
+					"download"		"558C5EC21F0EB13E6138E6D350A49D98"
+				}
+				"external_qa"
+				{
+					"gid"		"C3FEC094EC5D7F147A6ED971E9829245"
+					"size"		"6BA65BEE2A578FF9F2018DFB4606B572"
+					"download"		"A52638D0F6B319E026B761E9B90E158E"
+				}
+				"foxes_closed_beta"
+				{
+					"gid"		"C29EDFF8948913D1B45539A12DA7B862"
+					"size"		"5CA6FD0418C53DDA841F1DAD8EF975D7"
+					"download"		"7DEE08DF957C1D31BE3B245D06A14932"
+				}
+				"ftue_tests"
+				{
+					"gid"		"365354F055E2C23A2D9FF71D6387F60F"
+					"size"		"54864139D7A5DDEE0AA7F32FBD381AFC"
+					"download"		"01F57AA4C2ABCB8953CB47E3C68CD877"
+				}
+				"loc_qa"
+				{
+					"gid"		"475C3E2A56B937B0C1ADAE3F67FC6F28"
+					"size"		"790F4D9D9E39062E955DA8A2ACFBE2E8"
+					"download"		"6EFCDA456E8666F039239F66930F211A"
+				}
+				"steam_deck_beta"
+				{
+					"gid"		"2B836F33F7AD05E396EC3B6D6B98F38A"
+					"size"		"24FCB6F4CF96569CD8742C255670162B"
+					"download"		"55AEEA99826FCDD484908CFEEA8FFE56"
+				}
+				"twitch_beta"
+				{
+					"gid"		"48ED84DC18005B5BC5CA9F94F89240B0"
+					"size"		"640F947F8BB63B25504511838C8C2908"
+					"download"		"50546D96696B80B21FFA32026E6AFC9F"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12086505"
+				"timeupdated"		"1693557663"
+			}
+			"closed_alpha"
+			{
+				"buildid"		"5553952"
+				"pwdrequired"		"1"
+				"timeupdated"		"1600280944"
+			}
+			"development"
+			{
+				"buildid"		"12177501"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694603552"
+			}
+			"experimental"
+			{
+				"buildid"		"12086553"
+				"description"		"Experimental Branch"
+				"timeupdated"		"1693557674"
+			}
+			"experimental_internal"
+			{
+				"buildid"		"11964199"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694597302"
+			}
+			"external_qa"
+			{
+				"buildid"		"9752126"
+				"pwdrequired"		"1"
+				"timeupdated"		"1666248565"
+			}
+			"foxes_closed_beta"
+			{
+				"buildid"		"10955355"
+				"pwdrequired"		"1"
+				"timeupdated"		"1680874901"
+			}
+			"ftue_tests"
+			{
+				"buildid"		"6840635"
+				"pwdrequired"		"1"
+				"timeupdated"		"1623252538"
+			}
+			"loc_qa"
+			{
+				"buildid"		"10974884"
+				"pwdrequired"		"1"
+				"timeupdated"		"1681204057"
+			}
+			"steam_deck_beta"
+			{
+				"buildid"		"12113660"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693923314"
+			}
+			"twitch_beta"
+			{
+				"buildid"		"11136284"
+				"pwdrequired"		"1"
+				"timeupdated"		"1683025015"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"10000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Eremite Games/Against the Storm"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
