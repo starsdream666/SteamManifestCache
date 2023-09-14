@@ -1,0 +1,225 @@
+"appinfo"
+{
+	"appid"		"1947530"
+	"common"
+	{
+		"name"		"Fidget Spinner RPG"
+		"type"		"Game"
+		"clienticon"		"cdf021a762597cea535e614b77224951db98e321"
+		"clienttga"		"35c5e1b6fb2256e672c76fb28c957ddc2490161e"
+		"icon"		"d726a4c9e932854c2f5d9494d18b33453c06aaf9"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"50.69767441860466"
+				"height_pct"		"90.88102588458798"
+			}
+		}
+		"store_asset_mtime"		"1648420308"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Bryce Summer"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Bryce Summer"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"3"
+			"3"		"28"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1651518012"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1947530"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"122"
+			"2"		"379975"
+			"3"		"5350"
+			"4"		"1702"
+			"5"		"615955"
+			"6"		"4236"
+			"7"		"599"
+			"8"		"5981"
+			"9"		"4695"
+			"10"		"6276"
+			"11"		"16689"
+			"12"		"8945"
+			"13"		"12472"
+			"14"		"10397"
+			"15"		"1684"
+			"16"		"4136"
+			"17"		"4845"
+			"18"		"255534"
+			"19"		"4182"
+		}
+		"review_score"		"8"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"developer"		"Bryce Summer"
+		"publisher"		"Bryce Summer"
+	}
+	"config"
+	{
+		"installdir"		"Fidget Spinner RPG"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Fidget Spinner RPG.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1947531"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9102576418906028833"
+					"size"		"1178056010"
+					"download"		"786475616"
+				}
+				"experimental"
+				{
+					"gid"		"3928001280566900692"
+					"size"		"1179598178"
+					"download"		"786756640"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"experimental-private"
+				{
+					"gid"		"DFFAA59BE7C4B92976853BDEEF5B3D4C"
+					"size"		"B2836BA3FCE9DE89FFF3ED88986F3B53"
+					"download"		"99D578AF88FB21463C9D0307152B2B27"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11995225"
+				"timeupdated"		"1692727462"
+			}
+			"experimental"
+			{
+				"buildid"		"12160677"
+				"description"		"Latest and potentially buggiest build."
+				"timeupdated"		"1694449387"
+			}
+			"experimental-private"
+			{
+				"buildid"		"12164364"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694481041"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Bryce Summer/Fidget Spinner RPG/SavedData/Users/{64BitSteamID}"
+				"pattern"		"SaveSlotData.dat"
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Bryce Summer/Fidget Spinner RPG/SavedData/Users/{64BitSteamID}"
+				"pattern"		"Save.dat"
+				"recursive"		"1"
+			}
+			"2"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Bryce Summer/Fidget Spinner RPG/SavedData/Users/{64BitSteamID}"
+				"pattern"		"thumbnail.jpg"
+				"recursive"		"1"
+			}
+		}
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#status_atdisclaimers"		"Reading the Fine Print"
+					"#status_atmainmenu"		"At the Main Menu"
+					"#status_loading"		"Loading a Game"
+					"#status_prestiging"		"Prestiging"
+					"#status_rpm"		"RPM: %RPM%"
+				}
+			}
+		}
+	}
+}
