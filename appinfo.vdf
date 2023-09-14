@@ -1,0 +1,518 @@
+"appinfo"
+{
+	"appid"		"527430"
+	"common"
+	{
+		"name"		"Warhammer 40,000: Inquisitor - Martyr"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"clienticon"		"8863b9e5bcfa3d5f845eaf941c7089ba425565e3"
+		"clienttga"		"1d0109f6437294eb47d10e4e97e233c635622ebd"
+		"icon"		"0679e210754d3036b52f46297e5514473ef101e4"
+		"logo"		"7a0f8f043b97b1adc216f0719a839a9ded621e39"
+		"logo_small"		"7a0f8f043b97b1adc216f0719a839a9ded621e39_thumb"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1644451200"
+			"tested_build_id"		"7518651"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"5"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+				}
+				"6"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"1"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+			}
+		}
+		"metacritic_name"		"Warhammer 40,000: Inquisitor - Martyr"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"36"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1684932224"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"NeocoreGames"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"NeocoreGames"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Warhammer"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_28"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_49"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"hungarian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1528218780"
+		"metacritic_score"		"67"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/warhammer-40000-inquisitor---martyr?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"527430"
+		"store_tags"
+		{
+			"0"		"12286"
+			"1"		"4231"
+			"2"		"122"
+			"3"		"1646"
+			"4"		"19"
+			"5"		"4236"
+			"6"		"21"
+			"7"		"1685"
+			"8"		"492"
+			"9"		"5310"
+			"10"		"4667"
+			"11"		"3843"
+			"12"		"5851"
+			"13"		"3859"
+			"14"		"4345"
+			"15"		"3942"
+			"16"		"4182"
+			"17"		"1695"
+			"18"		"4295"
+			"19"		"1673"
+		}
+		"review_score"		"6"
+		"review_percentage"		"75"
+	}
+	"extended"
+	{
+		"developer"		"NeocoreGames"
+		"publisher"		"NeocoreGames"
+		"homepage"		"https://neocoregames.com/en/games/warhammer-40k-inquisitor-martyr"
+		"listofdlc"		"722130,808110,808140,808150,938400,939050,939051,945830,945831,945832,995650,995651,995652,995653,995654,995670,998500,1028890,1028891,1028892,1028893,1028894,1028895,1351990,2138210"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Warhammer 40,000 Inquisitor - Martyr"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Warhammer.exe"
+				"description"		"Launch the game"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"527431"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1563527959689928424"
+					"size"		"85165825071"
+					"download"		"29988058640"
+				}
+				"public_test"
+				{
+					"gid"		"6720010132212388260"
+					"size"		"82064701792"
+					"download"		"28740586560"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"balance_test"
+				{
+					"gid"		"0B04326491AA68C7CB3589D325FE3B0B"
+					"size"		"5B3971C8178333E9F79AA7602B98DE51"
+					"download"		"1EE670C947897CCCE11DACBF930D3126"
+				}
+				"battlesister_test"
+				{
+					"gid"		"BA9CCBF73E85F7D90F75E891E7DB2831"
+					"size"		"7A00DA3FE0BD0D676C548E6458F21BE4"
+					"download"		"FFA28981E60BA690D57DC89EF11D34E3"
+				}
+				"closed_test"
+				{
+					"gid"		"E71DF5600BBEE6C13CA379DC04BEEDD7"
+					"size"		"6F729C6155C3EA5961A5B70A818F3C03"
+					"download"		"555284813CEE2059E6407077217033F0"
+				}
+				"coop_test"
+				{
+					"gid"		"73CBE5C1C1C6D44AA41AD5F74B27DCB8"
+					"size"		"10374F6E16443C3675683AE3B0B998A3"
+					"download"		"75BE21F201431405A19D2C056238B21F"
+				}
+				"daily_build"
+				{
+					"gid"		"1B5366DCD5C7C1EBD8094A571C318821"
+					"size"		"8E53FFDA90BC09842F2E3BEDA8199A01"
+					"download"		"8E53FFDA90BC09842F2E3BEDA8199A01"
+				}
+			}
+		}
+		"527432"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3272542873163855816"
+					"size"		"694597423"
+					"download"		"97633984"
+				}
+				"public_test"
+				{
+					"gid"		"5883836855781655666"
+					"size"		"671598244"
+					"download"		"94221568"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"balance_test"
+				{
+					"gid"		"330D7A6E0222E120FACA739D49FE3B8C"
+					"size"		"1B6157951D581D28C24CB1A163CB0546"
+					"download"		"2132A8F36CF02B2C3021FAB4B2C2E303"
+				}
+				"battlesister_test"
+				{
+					"gid"		"B1655B9F2844392384E55EA77AB5B954"
+					"size"		"689593E1390D6A1EB5BB25FBAA21E26C"
+					"download"		"655F21187086F84574FEBF746C733C1F"
+				}
+				"closed_test"
+				{
+					"gid"		"385871233D7127FD83F0FE5CDC3833B3"
+					"size"		"FF82860B5DD2524F7FBFDC9B59B8F4A3"
+					"download"		"BC9AF2C1D64492929C0D82449A2FD1C4"
+				}
+				"coop_test"
+				{
+					"gid"		"13C83F1DBAF543BCBF09532C290C072F"
+					"size"		"F94CB6636CC9D51D1BA9DC85941ABE71"
+					"download"		"73BAF9792B0FB2158141E48FB8C26ACE"
+				}
+				"daily_build"
+				{
+					"gid"		"2713BC49E9E1D15A9EF027A57C0841B7"
+					"size"		"FA961B1F0E583092B901FF777352A168"
+					"download"		"C8DBE476C55555A4832B56458F1445C3"
+				}
+			}
+		}
+		"878701"
+		{
+			"dlcappid"		"878701"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"724798824679318308"
+					"size"		"881199801"
+					"download"		"429945984"
+				}
+				"public_test"
+				{
+					"gid"		"724798824679318308"
+					"size"		"881199801"
+					"download"		"429945984"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"balance_test"
+				{
+					"gid"		"EC70156AE2AC1CEC8EDD17325CE65FD5"
+					"size"		"D0237520ED2F3FDAB4F9B3127369B353"
+					"download"		"22EDFE93C125F7ADB25F215022CFDFD3"
+				}
+				"battlesister_test"
+				{
+					"gid"		"8F008DA72CBED1F809062C41303D7EDF"
+					"size"		"FC00E2F455560FED4D3A4D10C088A034"
+					"download"		"F865450678E540E3FB7823D03BB39507"
+				}
+				"closed_test"
+				{
+					"gid"		"BE55FC1C150A0A3E8C9F2824F9D48095"
+					"size"		"49E2C9ED22E52A9EFB2B5C53E8374963"
+					"download"		"9170DE92AE4B8652D8EA0E5A80C64132"
+				}
+				"coop_test"
+				{
+					"gid"		"6D33B793DC3A771207E38FF6C3A14CB7"
+					"size"		"F13E17DD9C068359B59BAA1ADCED95F6"
+					"download"		"FF64862508C259B60E66EFEF272F29F5"
+				}
+			}
+		}
+		"808110"
+		{
+			"dlcappid"		"808110"
+		}
+		"929620"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2723965874293278542"
+					"size"		"559902485"
+					"download"		"556924176"
+				}
+				"public_test"
+				{
+					"gid"		"2723965874293278542"
+					"size"		"559902485"
+					"download"		"556924176"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"balance_test"
+				{
+					"gid"		"A7E7515DF57C8F814DC6E574E7957818"
+					"size"		"51150E37C75D181C29C23DFB9B225B24"
+					"download"		"4DCE598423FE531FE60F7D08884A121E"
+				}
+				"battlesister_test"
+				{
+					"gid"		"1C4CD170CAD1D6055A48A2C3361E2279"
+					"size"		"7026A64ED806F581424AA893774C1B65"
+					"download"		"700C4D262905397C9D35E5176D92D51E"
+				}
+				"closed_test"
+				{
+					"gid"		"5C59166514F994806B3C71B3A310D683"
+					"size"		"A764B069F839232BBA3DA412BB2B723B"
+					"download"		"CFAD84C1001FDBE06C198F4CC9B9D210"
+				}
+				"coop_test"
+				{
+					"gid"		"C8032CDE7C8DA87710605E27C7534BDD"
+					"size"		"84BB82A0E95CEB5A91ACB0482E65DBAE"
+					"download"		"EDA8C4D3237C5CBAF840EA1CE4252109"
+				}
+			}
+			"dlcappid"		"929620"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11632985"
+				"timeupdated"		"1688644189"
+			}
+			"balance_test"
+			{
+				"buildid"		"8858426"
+				"pwdrequired"		"1"
+				"timeupdated"		"1654166042"
+			}
+			"battlesister_test"
+			{
+				"buildid"		"10000443"
+				"pwdrequired"		"1"
+				"timeupdated"		"1669209676"
+			}
+			"closed_test"
+			{
+				"buildid"		"11632985"
+				"pwdrequired"		"1"
+				"timeupdated"		"1688579103"
+			}
+			"coop_test"
+			{
+				"buildid"		"3732135"
+				"pwdrequired"		"1"
+				"timeupdated"		"1555068124"
+			}
+			"daily_build"
+			{
+				"buildid"		"2759373"
+				"pwdrequired"		"1"
+				"timeupdated"		"1525885058"
+			}
+			"public_test"
+			{
+				"buildid"		"9162836"
+				"description"		"public test"
+				"timeupdated"		"1658395774"
+			}
+		}
+	}
+}
