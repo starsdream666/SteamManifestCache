@@ -1,0 +1,575 @@
+"appinfo"
+{
+	"appid"		"1734470"
+	"common"
+	{
+		"name"		"ROUGH KUTS: The Thirsty Dead"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"4b6d2c2944526201772e043797bab9d8dbf35fe2"
+		"logo_small"		"4b6d2c2944526201772e043797bab9d8dbf35fe2_thumb"
+		"icon"		"2ae2d3462f59dd7488940e3c8f93fee6efdf61a7"
+		"clienticon"		"c3ddb2c0eacd7bdb7e5c7311945552611559c094"
+		"clienttga"		"0ef9859e067bc2857091dbbe252650fe2583d45b"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"59.18604651162791"
+				"height_pct"		"66.18380432201377"
+			}
+		}
+		"store_asset_mtime"		"1676375578"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"ROUGH KUTS"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"ROUGH KUTS"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1632448426"
+		"community_hub_visible"		"1"
+		"gameid"		"1734470"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"597"
+			"2"		"4106"
+			"3"		"11014"
+			"4"		"1698"
+			"5"		"3799"
+			"6"		"4486"
+			"7"		"4145"
+			"8"		"18594"
+			"9"		"4175"
+			"10"		"1667"
+			"11"		"5716"
+			"12"		"1654"
+			"13"		"4004"
+			"14"		"7208"
+			"15"		"6971"
+			"16"		"4182"
+			"17"		"492"
+			"18"		"1659"
+			"19"		"4342"
+		}
+		"review_score"		"7"
+		"review_percentage"		"87"
+	}
+	"extended"
+	{
+		"developer"		"ROUGH KUTS"
+		"publisher"		"ROUGH KUTS"
+		"listofdlc"		"1734730,1741540,1770430,1776670,1781120,1789200,1791720,1814390"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"ROUGH KUTS"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"\\RK_TTD\\RK_TTD.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"THE THIRSTY DEAD"
+				}
+				"description"		"THE THIRSTY DEAD"
+			}
+			"1"
+			{
+				"executable"		"\\RK_GOTV\\RK_GOTV.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"ownsdlc"		"1734730"
+				}
+				"description_loc"
+				{
+					"english"		"GRAVE OF THE VAMPIRE"
+				}
+				"description"		"GRAVE OF THE VAMPIRE"
+			}
+			"2"
+			{
+				"executable"		"\\RK_THOTD\\RK_THOTD.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"ownsdlc"		"1741540"
+				}
+				"description_loc"
+				{
+					"english"		"THE HOUSE OF THE DEAD"
+				}
+				"description"		"THE HOUSE OF THE DEAD"
+			}
+			"3"
+			{
+				"executable"		"\\RK_MOE\\RK_MOE.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"ownsdlc"		"1770430"
+				}
+				"description_loc"
+				{
+					"english"		"MESSIAH OF EVIL"
+				}
+				"description"		"MESSIAH OF EVIL"
+			}
+			"4"
+			{
+				"executable"		"\\RK_DTF\\RK_DTF.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"ownsdlc"		"1776670"
+				}
+				"description_loc"
+				{
+					"english"		"DEVIL TIMES FIVE"
+				}
+				"description"		"DEVIL TIMES FIVE"
+			}
+			"5"
+			{
+				"executable"		"\\RK_TDK\\RK_TDK.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"ownsdlc"		"1781120"
+				}
+				"description_loc"
+				{
+					"english"		"THE DRILLER KILLER"
+				}
+				"description"		"THE DRILLER KILLER"
+			}
+			"6"
+			{
+				"executable"		"\\RK_SNBN\\RK_SNBN.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"ownsdlc"		"1789200"
+				}
+				"description_loc"
+				{
+					"english"		"SILENT NIGHT, BLOODY NIGHT"
+				}
+				"description"		"SILENT NIGHT, BLOODY NIGHT"
+			}
+			"7"
+			{
+				"executable"		"\\RK_IOTBG\\RK_IOTBG.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"ownsdlc"		"1791720"
+				}
+				"description_loc"
+				{
+					"english"		"INVASION OF THE BEE GIRLS"
+				}
+				"description"		"INVASION OF THE BEE GIRLS"
+			}
+			"8"
+			{
+				"executable"		"\\RK_SW\\RK_SW.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"ownsdlc"		"1814390"
+				}
+				"description_loc"
+				{
+					"english"		"SAVAGE WEEKEND"
+				}
+				"description"		"SAVAGE WEEKEND"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"hasdepotsindlc"		"1"
+		"1734471"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3150329817882442222"
+					"size"		"1230962139"
+					"download"		"1125295648"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dlc_sw"
+				{
+					"gid"		"DC7A8070CC827C9366C05543621BADB2"
+					"size"		"22E521E68F0352264DE69360A7936F3E"
+					"download"		"3E333EC46A59A0EC2C2B39F7D07458C8"
+				}
+				"iotbg_fix"
+				{
+					"gid"		"CBEA1EBFEAEEE562137F931EF0F45CEA"
+					"size"		"2F60A518C5717EDDDBBC288E6869CA51"
+					"download"		"3A3AE62B1A003EA537A10DE2AA1EA2ED"
+				}
+			}
+		}
+		"1734730"
+		{
+			"dlcappid"		"1734730"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7059441439232840711"
+					"size"		"918372843"
+					"download"		"813175952"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dlc_sw"
+				{
+					"gid"		"9FEF310530E81EC707F2FA3714C99990"
+					"size"		"144C00ABFC623C9D7115AD1485FD0909"
+					"download"		"79AA76397F98270BC27277255C89AD76"
+				}
+				"iotbg_fix"
+				{
+					"gid"		"FD9DDAD731869A227CB5951D3D33CFAC"
+					"size"		"48311A89889301F6D48FCC823F371545"
+					"download"		"A0593F52C266BB9DFA34D2F60985F458"
+				}
+			}
+		}
+		"1741540"
+		{
+			"dlcappid"		"1741540"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7853846560971728648"
+					"size"		"929509453"
+					"download"		"806240896"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dlc_sw"
+				{
+					"gid"		"432F500D952E7926A23C8030B8CB1A92"
+					"size"		"41C09FAC02856FA9353CD6E38B15B1F7"
+					"download"		"67EBFDE3BD96FE98912988771CF54D36"
+				}
+				"iotbg_fix"
+				{
+					"gid"		"B0581C3422840200DCDF9B2668A53D8B"
+					"size"		"F6A696B28EBA8A625477D06762BC618D"
+					"download"		"1AD1B6FFA8AC80D0858C62566F2F77C2"
+				}
+			}
+		}
+		"1770430"
+		{
+			"dlcappid"		"1770430"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6942564019112526790"
+					"size"		"876548604"
+					"download"		"767014016"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dlc_sw"
+				{
+					"gid"		"15BA278502DCB1EB8711C936F2A3359F"
+					"size"		"FB4FE9042EA4A571AC1AEFE9B37A36DE"
+					"download"		"037D749DB0470B86CA0922EB95FFDA69"
+				}
+				"iotbg_fix"
+				{
+					"gid"		"104C956EA27F437C1EE3C321E1A29B38"
+					"size"		"44B29A81D83AA73E634DEBF60C84950D"
+					"download"		"6D9A8CE89FC921FE76CBA9C8824EE13F"
+				}
+			}
+		}
+		"1776670"
+		{
+			"dlcappid"		"1776670"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3344915788861069686"
+					"size"		"1035272805"
+					"download"		"925514656"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dlc_sw"
+				{
+					"gid"		"A51DF1C63289DF69157D8B65A2A99D2A"
+					"size"		"B91BCEEF9738DB37C83ECB1A1072B3EF"
+					"download"		"E44D1AD1AD4C779BBC22D086A421185D"
+				}
+				"iotbg_fix"
+				{
+					"gid"		"E69CB56E798FED8F9617E600C9606E29"
+					"size"		"807168D823510CA5F28924E7C48DACAC"
+					"download"		"447F53BEEA75638663A36F058DB1736B"
+				}
+			}
+		}
+		"1781120"
+		{
+			"dlcappid"		"1781120"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6504946753984670173"
+					"size"		"878182534"
+					"download"		"770458560"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dlc_sw"
+				{
+					"gid"		"D5CDD736FD09FAAC6F2C177B5EF8DC36"
+					"size"		"419AED835BFE4400980E1AE9C1BFC9BF"
+					"download"		"21EE60300C221509CE0AE6F987DBC0C1"
+				}
+				"iotbg_fix"
+				{
+					"gid"		"00984C1B591F47D6A4F5755FA980D00C"
+					"size"		"1AD721CB1BDE1B32422E8AB67E80D34C"
+					"download"		"9C7220DA24B35517E6AD29BDFB3BB7E1"
+				}
+			}
+		}
+		"1789200"
+		{
+			"dlcappid"		"1789200"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6477836542271252327"
+					"size"		"1041084353"
+					"download"		"933504128"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dlc_sw"
+				{
+					"gid"		"A920F7ACBA9A5398BBE3B6A79C188548"
+					"size"		"C30BCB07D0D1CEA089A4E73A4F0E19A2"
+					"download"		"92DB007D4FD9A9797EF214AA70FF6DB3"
+				}
+				"iotbg_fix"
+				{
+					"gid"		"2DE8CAC1F35C54C7DE9ECDAB88A0783A"
+					"size"		"D66061A76736C5BC124914C427764647"
+					"download"		"89B9D0DF98E782994412D3DC799AA794"
+				}
+			}
+		}
+		"1791720"
+		{
+			"dlcappid"		"1791720"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4332562565629782701"
+					"size"		"936533146"
+					"download"		"830449600"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dlc_sw"
+				{
+					"gid"		"BA3E51F85B796F6DC53C491DE1F0093E"
+					"size"		"CFCFC8390B4A927ADCA1BC831FA58148"
+					"download"		"D47077A170D000F66EF111706CCF429C"
+				}
+				"iotbg_fix"
+				{
+					"gid"		"4B9E00908D7C996B8F46229052CC72DE"
+					"size"		"0A698B6DF04912249289412EC051D4F3"
+					"download"		"ECC173F9F0094F92D8F23290C0A6DD2B"
+				}
+			}
+		}
+		"1814390"
+		{
+			"dlcappid"		"1814390"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8409231328830705952"
+					"size"		"897215969"
+					"download"		"786142672"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dlc_sw"
+				{
+					"gid"		"CDED4A91691C7DA1ABD142BBDC8FDEE4"
+					"size"		"345FC67668B125066BCF421953C11A96"
+					"download"		"5258944688DABA409B4F0F19FF840E07"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7712256"
+				"timeupdated"		"1637135437"
+			}
+			"dlc_sw"
+			{
+				"buildid"		"7712256"
+				"pwdrequired"		"1"
+				"timeupdated"		"1636943295"
+			}
+			"iotbg_fix"
+			{
+				"buildid"		"7559283"
+				"pwdrequired"		"1"
+				"timeupdated"		"1634641772"
+			}
+		}
+	}
+}
