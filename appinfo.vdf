@@ -1,0 +1,267 @@
+"appinfo"
+{
+	"appid"		"460150"
+	"common"
+	{
+		"name"		"One Last Chance"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"clienticon"		"0cd3e88e3bdec95380148bdeb8b24a2f426bde6a"
+		"clienttga"		"573d258af778e0b8257327a2a0631e5d53d08cc2"
+		"icon"		"811fd8c7ea1548b08718692f0725e069695aa8fd"
+		"logo"		"2771acc732b37b021a2f71a992a42b6185602de6"
+		"logo_small"		"2771acc732b37b021a2f71a992a42b6185602de6_thumb"
+		"releasestate"		"released"
+		"osarch"		""
+		"metacritic_name"		"One Last Chance"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1460002375"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Last Lotus"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Last Lotus"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1460012400"
+		"steam_release_date"		"1460059225"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"460150"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"597"
+			"2"		"3799"
+			"3"		"599"
+			"4"		"1756"
+			"5"		"4085"
+			"6"		"1742"
+		}
+		"review_score"		"5"
+		"review_percentage"		"67"
+	}
+	"extended"
+	{
+		"developer"		"Last Lotus"
+		"publisher"		"Last Lotus"
+		"listofdlc"		"460260"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"One Last Chance"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"nw.exe"
+				"arguments"		"--in-process-gpu"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"nwjs.app"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"nw"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"460151"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4787700102706126572"
+					"size"		"225911679"
+					"download"		"150582640"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"E4B5DFF38B69C526F20D592147922904"
+					"size"		"FEC35FC6ED788782842A8AEBE6D74E28"
+					"download"		"D6B00A53851E5037C6C8D9120ED4C853"
+				}
+			}
+		}
+		"460152"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6586470499239813734"
+					"size"		"233003687"
+					"download"		"149837360"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"15CF2B83DFC36AB1806B6046C19899C2"
+					"size"		"213BF7041D2B06DED3498168B4ED0D86"
+					"download"		"9A1603342862DD449765DF0E29483440"
+				}
+			}
+		}
+		"460260"
+		{
+			"config"
+			{
+				"language"		"english"
+			}
+			"dlcappid"		"460260"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7918876205002180963"
+					"size"		"46627521"
+					"download"		"44721648"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"395E4AB01F58E8C28EC76F0DFB83EDAB"
+					"size"		"FD487C44FBF7972D2B379522DD02F3DD"
+					"download"		"21F6636065BD8AE7C059865FB276C22A"
+				}
+			}
+		}
+		"460153"
+		{
+			"config"
+			{
+				"language"		"english"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8889642556053806631"
+					"size"		"3251974"
+					"download"		"3265392"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"812E40D9F77CBFDCD6C14509FD71BC05"
+					"size"		"2F83357F5CA3DBBAECE0B4DB7FF16B71"
+					"download"		"1B14704D5892359E292C345E516926FC"
+				}
+			}
+		}
+		"460154"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3886143585755463152"
+					"size"		"257401711"
+					"download"		"153791072"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"A14228DA781A46C84366303E3248B5E3"
+					"size"		"947141B7B6C6BFBD2B166965B8A96FD2"
+					"download"		"4F3485BA4AAA9AC7465D52E2FF215ABE"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1701769"
+				"timeupdated"		"1489984284"
+			}
+			"beta"
+			{
+				"buildid"		"1815826"
+				"pwdrequired"		"1"
+				"timeupdated"		"1494522669"
+			}
+		}
+	}
+}
