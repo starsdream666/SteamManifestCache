@@ -1,0 +1,163 @@
+"appinfo"
+{
+	"appid"		"713380"
+	"common"
+	{
+		"name"		"Mr. Barrel"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"411d3d9956fc1938a6d16799c73ec2f845b4a462"
+		"logo_small"		"411d3d9956fc1938a6d16799c73ec2f845b4a462_thumb"
+		"icon"		"dcad6c4c311396a7c06e26b203639494f5beb38a"
+		"clienticon"		"4dad2aece8ff5a95525bdf738b954029eb954ba9"
+		"clienttga"		"3c02a9a367866654fa5f12a37e429119f25e9e1a"
+		"oslist"		"windows"
+		"osarch"		""
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"turkish"		"1"
+		}
+		"osextended"		""
+		"metacritic_name"		"Mr. Barrel"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1597873559"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Fürst"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Fürst"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_25"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1562766647"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"713380"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"597"
+			"2"		"21"
+			"3"		"19"
+			"4"		"1734"
+			"5"		"4026"
+		}
+		"review_score"		"5"
+		"review_percentage"		"58"
+	}
+	"extended"
+	{
+		"developer"		"Fürst"
+		"publisher"		"Fürst"
+		"listofdlc"		"815020,1122530"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Mr. Barrel"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"mr_barrel.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"713381"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7803328240699949274"
+					"size"		"18957108"
+					"download"		"12110160"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5437288"
+				"timeupdated"		"1597927911"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"70000"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"mr_barrel"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
