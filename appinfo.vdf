@@ -1,0 +1,258 @@
+"appinfo"
+{
+	"appid"		"595270"
+	"common"
+	{
+		"name"		"Million to One Hero"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"languages"
+		{
+			"english"		"1"
+			"spanish"		"1"
+		}
+		"clienticon"		"cb5eb12a0b83c0f35e09d45a30d6b150819255e5"
+		"clienttga"		"3de1322ae45f2e04667701ee744983bba99bd13e"
+		"icon"		"781eba80e972fef850d9baca4ca43ef00ffc45ba"
+		"clienticns"		"4f3516dd0cf011c0098bfbf2eb31bd3a3c604719"
+		"logo"		"d05352897b43ed44c6ef689227954f0a112fd8b7"
+		"logo_small"		"d05352897b43ed44c6ef689227954f0a112fd8b7_thumb"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"595270_eula_0"
+				"name"		"Million to One Hero EULA"
+				"url"		"https://store.steampowered.com//eula/595270_eula_0"
+			}
+		}
+		"linuxclienticon"		"8061034f7627cd28a4259498332b8446fb4f73a9"
+		"metacritic_name"		"Million to One Hero"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1667058993"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Over the Top Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Over the Top Games"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_17"		"1"
+			"category_28"		"1"
+			"category_29"		"1"
+			"category_9"		"1"
+			"category_39"		"1"
+			"category_1"		"1"
+			"category_44"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1563872814"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"595270"
+		"store_tags"
+		{
+			"0"		"3877"
+			"1"		"4486"
+			"2"		"1628"
+			"3"		"5379"
+			"4"		"5537"
+			"5"		"4328"
+			"6"		"1664"
+			"7"		"4026"
+			"8"		"1733"
+			"9"		"1625"
+			"10"		"4736"
+			"11"		"4434"
+			"12"		"3871"
+			"13"		"4136"
+			"14"		"5094"
+			"15"		"19"
+			"16"		"4305"
+			"17"		"4094"
+			"18"		"3964"
+			"19"		"16094"
+		}
+		"review_score"		"7"
+		"review_percentage"		"96"
+	}
+	"extended"
+	{
+		"developer"		"Over the Top Games"
+		"publisher"		"Over the Top Games"
+		"homepage"		"https://www.milliontoonehero.com"
+	}
+	"config"
+	{
+		"installdir"		"MillionToOneHero"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MillionToOneHero.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"MillionToOneHero"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"2"
+			{
+				"executable"		"MillionToOneHero.app"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+	}
+	"depots"
+	{
+		"228984"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229020"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english,spanish"
+		"595271"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2086203677336681350"
+					"size"		"62141984"
+					"download"		"55680368"
+				}
+			}
+		}
+		"595272"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2245948735608516188"
+					"size"		"62904048"
+					"download"		"53751872"
+				}
+			}
+		}
+		"595273"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1035891100512058505"
+					"size"		"70872634"
+					"download"		"53613952"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4199558"
+				"timeupdated"		"1568629703"
+			}
+		}
+	}
+}
