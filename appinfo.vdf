@@ -1,0 +1,367 @@
+"appinfo"
+{
+	"appid"		"872670"
+	"common"
+	{
+		"name"		"SCP: 5K - Alpha Testing"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"clienttga"		"bd61763bb9bb8c66d7a9a802e468fb1e4ba0351c"
+		"linuxclienticon"		"29c005e210bdd1768c4edfe9ccd7d395745a0ce0"
+		"clienticon"		"a47fc7307b26a9d7d4a2dbc82e5d9d2097b77a47"
+		"icon"		"698d86a19915899353843b1bf18d32e2def947ec"
+		"logo"		"dafbfc55b44c22d3d50f90dc0070c55adde5dd70"
+		"logo_small"		"dafbfc55b44c22d3d50f90dc0070c55adde5dd70_thumb"
+		"osextended"		""
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"872670_eula_0"
+				"name"		"SCP: 5K (SCP: Pandemic) Alpha Testing EULA"
+				"url"		"https://store.steampowered.com//eula/872670_eula_0"
+				"version"		"1"
+			}
+			"1"
+			{
+				"id"		"872670_eula_1"
+				"name"		"SCP: 5K (SCP: Pandemic) Alpha Testing EULA"
+				"url"		"https://store.steampowered.com//eula/872670_eula_1"
+				"version"		"2"
+			}
+		}
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1670025600"
+			"tested_build_id"		"9091618"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"77.85414115011358"
+				"height_pct"		"84.6923083031107"
+			}
+		}
+		"store_asset_mtime"		"1688854893"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Affray Interactive"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"SCP.GAMES"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"SCP.GAMES"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"SCP Foundation"
+			}
+		}
+		"primary_genre"		"70"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"29"
+			"3"		"2"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_22"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1645536240"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"872670"
+		"store_tags"
+		{
+			"0"		"3993"
+			"1"		"3859"
+			"2"		"3843"
+			"3"		"4182"
+			"4"		"1667"
+			"5"		"1663"
+			"6"		"1708"
+			"7"		"1774"
+			"8"		"3839"
+			"9"		"1742"
+			"10"		"493"
+			"11"		"4175"
+			"12"		"3854"
+			"13"		"5765"
+			"14"		"19"
+			"15"		"1687"
+			"16"		"13190"
+			"17"		"3810"
+			"18"		"6730"
+			"19"		"1775"
+		}
+		"review_score"		"8"
+		"review_percentage"		"82"
+	}
+	"extended"
+	{
+		"anti_cheat_support_url"		"https://www.easy.ac/r/steam/gamebans/?steamAppId=872670"
+		"gamedir"		"Pandemic"
+		"serverbrowsername"		"SCP: Pandemic"
+		"developer"		"Affray Interactive"
+		"publisher"		"SCP.GAMES"
+		"homepage"		"https://scp5k.gg"
+		"listofdlc"		"884101,884102"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"5K"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"WindowsNoEditor/Pandemic.exe"
+				"arguments"		"-d3d12"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"DirectX 12"
+				}
+				"description"		"DirectX 12"
+			}
+			"1"
+			{
+				"executable"		"WindowsNoEditor/Pandemic.exe"
+				"arguments"		"-d3d11"
+				"type"		"option2"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"DirectX 11"
+				}
+				"description"		"DirectX 11"
+			}
+		}
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"baselanguages"		"english"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229005"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229020"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"872671"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7880972096749145693"
+					"size"		"27985675538"
+					"download"		"12049633872"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"03CC60759CD8CBE1A07C949E5C6C3264"
+					"size"		"02514B587E6D07CDCDB0832D05E2D9BD"
+					"download"		"6787E12257C391CA6EAEB6004C2B427F"
+				}
+				"debug"
+				{
+					"gid"		"2E7CAF8CF978D5C0C51DCF85BD38FE28"
+					"size"		"0627483929374C0921243F9377DC516C"
+					"download"		"6B55D31B953B6F6F36F2CB3F3EB3CFAC"
+				}
+				"nda-indev"
+				{
+					"gid"		"EE46CE63CBACB2B32D1DC15489CC9E39"
+					"size"		"FDAA7485238D658A892E202BB9693AC6"
+					"download"		"53ABD836660B57D874562700B6EFD872"
+				}
+				"nostalgia"
+				{
+					"gid"		"A1DA37C2E0C9078B3FDB21A5E445752B"
+					"size"		"B75E1F7163F5D6B5D8EDFE1C9CF89D3F"
+					"download"		"93D7CD1138505D4EB7705BED8A7F73CB"
+				}
+				"privatealpha"
+				{
+					"gid"		"B988AFB037F5E1575BBD243BCFA45B4E"
+					"size"		"A490E18DB46899FD3A4EAAB944B38B5C"
+					"download"		"CC3A25D1AAEEE1EE529709AD77DEBC36"
+				}
+			}
+		}
+		"872672"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11797186"
+				"timeupdated"		"1690438347"
+			}
+			"alpha"
+			{
+				"buildid"		"10830029"
+				"pwdrequired"		"1"
+				"timeupdated"		"1679497230"
+			}
+			"debug"
+			{
+				"buildid"		"8187456"
+				"pwdrequired"		"1"
+				"timeupdated"		"1644626841"
+			}
+			"nda-indev"
+			{
+				"buildid"		"12177151"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694600770"
+			}
+			"nostalgia"
+			{
+				"buildid"		"7217724"
+				"pwdrequired"		"1"
+				"timeupdated"		"1651232897"
+			}
+			"privatealpha"
+			{
+				"buildid"		"5031889"
+				"pwdrequired"		"1"
+				"timeupdated"		"1669095408"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"2000000000"
+		"maxnumfiles"		"20"
+	}
+}
