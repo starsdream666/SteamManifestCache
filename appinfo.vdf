@@ -1,0 +1,157 @@
+"appinfo"
+{
+	"appid"		"1377920"
+	"common"
+	{
+		"name"		"Big Mutha Truckers 2"
+		"type"		"Game"
+		"releasestate"		"released"
+		"icon"		"45d80a1daa35f59102890818cbfbcafff43d7201"
+		"clienttga"		"7263858b4756de5d008d7db7af4364862a45ecfb"
+		"clienticon"		"63079c7b37a1ffcd096ccc98c13e27402b0a7c2b"
+		"logo"		"c968073c96105af7030c131b080fec4e0ac828df"
+		"logo_small"		"c968073c96105af7030c131b080fec4e0ac828df_thumb"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"43.815635939323215"
+				"height_pct"		"65.5782474471622"
+			}
+		}
+		"store_asset_mtime"		"1595875218"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Strategy First"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Strategy First"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Big Mutha Truckers"
+			}
+		}
+		"primary_genre"		"9"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"9"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1124780400"
+		"steam_release_date"		"1598968863"
+		"community_hub_visible"		"1"
+		"gameid"		"1377920"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"699"
+			"2"		"1773"
+			"3"		"4102"
+			"4"		"4191"
+			"5"		"5363"
+			"6"		"19995"
+			"7"		"4136"
+			"8"		"1719"
+			"9"		"4004"
+			"10"		"1644"
+			"11"		"11104"
+			"12"		"4182"
+		}
+		"review_score"		"8"
+		"review_percentage"		"82"
+	}
+	"extended"
+	{
+		"developer"		"Strategy First"
+		"publisher"		"Strategy First"
+	}
+	"config"
+	{
+		"installdir"		"Big Mutha Truckers 2"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Bin\\bmt2.exe"
+				"workingdir"		"Bin\\"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1377921"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"475176681800158047"
+					"size"		"889683035"
+					"download"		"451477296"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5444275"
+				"timeupdated"		"1598039503"
+			}
+		}
+	}
+}
