@@ -1,0 +1,375 @@
+"appinfo"
+{
+	"appid"		"1119970"
+	"common"
+	{
+		"name"		"Elf Manor"
+		"type"		"Game"
+		"clienticon"		"d7d083e733743a36e617ee561f2371ea8bf5ad16"
+		"clienttga"		"17a803396dec5ca9202ad8b4135fe594493b7332"
+		"icon"		"a3525d9472fa0c9482ad0e5631eb9bbf67104598"
+		"logo"		"08aadd4de4cf5a6e71b40dc5e3fb46e42d5f225b"
+		"logo_small"		"08aadd4de4cf5a6e71b40dc5e3fb46e42d5f225b_thumb"
+		"name_localized"
+		{
+			"schinese"		"妖师"
+		}
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"metacritic_name"		"妖师 Elf Manor"
+		"small_capsule"
+		{
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"schinese"		"header_schinese.jpg"
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn"
+			"library_hero"		"en"
+			"library_logo"		"en,zh-cn"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"48.958333333333336"
+			}
+		}
+		"store_asset_mtime"		"1576550416"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"巫师工作室"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"GY Games"
+			}
+		}
+		"primary_genre"		"70"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"28"
+			"3"		"2"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1576807560"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1119970"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"492"
+			"2"		"597"
+			"3"		"9"
+			"4"		"599"
+			"5"		"493"
+			"6"		"1662"
+			"7"		"4726"
+			"8"		"22602"
+			"9"		"4562"
+			"10"		"4325"
+			"11"		"4026"
+			"12"		"4166"
+			"13"		"87918"
+			"14"		"1643"
+			"15"		"3834"
+			"16"		"8945"
+			"17"		"16689"
+			"18"		"4252"
+			"19"		"1684"
+		}
+		"review_score"		"5"
+		"review_percentage"		"59"
+	}
+	"extended"
+	{
+		"developer"		"巫师工作室"
+		"publisher"		"GY Games"
+		"listofdlc"		"1196490,1207170"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Elf Manor"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ElfManor.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,schinese"
+		"hasdepotsindlc"		"1"
+		"228987"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229002"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229020"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1119971"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5733379561849218422"
+					"size"		"506636202"
+					"download"		"232535936"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testproject"
+				{
+					"gid"		"B7E67A13029978265483DA0016686328"
+					"size"		"5DF0D204839A561154FCE8761C77FC40"
+					"download"		"13A422EAB1552C4663F3F5AA5AA194D8"
+				}
+				"testprojectcompare"
+				{
+					"gid"		"5325175446377B56C86A236D3B231783"
+					"size"		"2DD134D6859F6B1C6FF8DFFF72C09355"
+					"download"		"1AF38CB5CDD585549730B01C1356CD44"
+				}
+				"testprojectsaves"
+				{
+					"gid"		"E9238DC10104273E888B183753675E6D"
+					"size"		"C3E84986A4D01435ABAD62D36172D07F"
+					"download"		"F22FBDE265043BE89FB0F72FA32C6D73"
+				}
+			}
+		}
+		"1119972"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7827073516461875080"
+					"size"		"506636202"
+					"download"		"232532656"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testproject"
+				{
+					"gid"		"B932AC5DDC64501A2A195D92583878DF"
+					"size"		"5DF0D204839A561154FCE8761C77FC40"
+					"download"		"4FAAB89D0601F2138439D59D66AA722A"
+				}
+				"testprojectcompare"
+				{
+					"gid"		"F63A2B20CC46589B54C10A7B9ECA33EA"
+					"size"		"2DD134D6859F6B1C6FF8DFFF72C09355"
+					"download"		"36D0F6EA46B690984BBDE82154CA2ED2"
+				}
+				"testprojectsaves"
+				{
+					"gid"		"381D9246F823B7B9DBFB2CBDF80207D0"
+					"size"		"C3E84986A4D01435ABAD62D36172D07F"
+					"download"		"788066C25E925314BD7CF8C9AA0DFD12"
+				}
+			}
+		}
+		"1196490"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"dlcappid"		"1196490"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5110965597181193152"
+					"size"		"36575482"
+					"download"		"36316240"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testproject"
+				{
+					"gid"		"49AA1D3BF3FA3F91FA47029A97168293"
+					"size"		"E59AF37817DA1FDBD4E7AD541B926F88"
+					"download"		"4EF4DB4F0E0CAEF9C16DFC81171E880B"
+				}
+				"testprojectcompare"
+				{
+					"gid"		"32CC38CE0C3FEA636342E6902BB641B8"
+					"size"		"4BD4ECEE5ACB45838DDE2E95092DEEB3"
+					"download"		"8626680C59351DF4FF73F5C92CF85AA9"
+				}
+				"testprojectsaves"
+				{
+					"gid"		"E11717532BDE10A04D578D48913263D1"
+					"size"		"E2EB0E2C81445EA6E478A96F20A24960"
+					"download"		"74C18AC85AE6E15ED31ED50786BC38C4"
+				}
+			}
+		}
+		"1207170"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"dlcappid"		"1207170"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9172515724180148560"
+					"size"		"53683354"
+					"download"		"52334880"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testproject"
+				{
+					"gid"		"99E5C3C1436EED7CBC33A3E3C0D49A48"
+					"size"		"3E13FF5326088E38218BEF4861D1AB6C"
+					"download"		"7F67FDA3CBA0F2CE937B52969EAFF088"
+				}
+				"testprojectcompare"
+				{
+					"gid"		"663C7794E95CD03CAB21FD566198E9D6"
+					"size"		"6D5A276114A807F7BDF1F62DDADF0727"
+					"download"		"995F1C1DC2C139E4B76D0B4E7FBBBD32"
+				}
+				"testprojectsaves"
+				{
+					"gid"		"71F88E645226D901A6D242325618608F"
+					"size"		"036A5B95AC5CB3BB916E33D48DDDB930"
+					"download"		"6FD27E7DA4617D5A2E69AB939BC82EF1"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4562263"
+				"timeupdated"		"1578899022"
+			}
+			"testproject"
+			{
+				"buildid"		"4562263"
+				"pwdrequired"		"1"
+				"timeupdated"		"1578813108"
+			}
+			"testprojectcompare"
+			{
+				"buildid"		"4528055"
+				"pwdrequired"		"1"
+				"timeupdated"		"1577414748"
+			}
+			"testprojectsaves"
+			{
+				"buildid"		"4547208"
+				"pwdrequired"		"1"
+				"timeupdated"		"1578389751"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"2000000000"
+		"maxnumfiles"		"20"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"Saves"
+				"pattern"		"*.txt"
+			}
+		}
+	}
+}
