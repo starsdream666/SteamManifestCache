@@ -1,0 +1,318 @@
+"appinfo"
+{
+	"appid"		"1777000"
+	"common"
+	{
+		"name"		"Cut to the Core"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64,macosapplesilicon"
+		"icon"		"206dbd8aaf62b92f73ac648b82d58a82e6bb4b2a"
+		"clienticon"		"f6af89ef08e70560b1609467eea8f4b8d70955a0"
+		"clienttga"		"9e027cffe0a39958b5da8f0bcaecaf6df158e208"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"2"
+			"2"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"has_adult_content_violence"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"49.770491807871494"
+				"height_pct"		"99.27292553863107"
+			}
+		}
+		"store_asset_mtime"		"1657905392"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Plasma Press"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"AAD Productions"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1659326607"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1777000"
+		"store_tags"
+		{
+			"0"		"4345"
+			"1"		"1667"
+			"2"		"1742"
+			"3"		"3799"
+			"4"		"7250"
+			"5"		"6815"
+			"6"		"1751"
+			"7"		"11014"
+			"8"		"5228"
+			"9"		"4342"
+			"10"		"4252"
+			"11"		"5984"
+			"12"		"1721"
+			"13"		"12095"
+			"14"		"15172"
+			"15"		"597"
+			"16"		"3871"
+			"17"		"4182"
+			"18"		"4486"
+			"19"		"5923"
+		}
+		"review_score"		"8"
+		"review_percentage"		"93"
+	}
+	"extended"
+	{
+		"developer"		"Plasma Press"
+		"publisher"		"AAD Productions"
+	}
+	"config"
+	{
+		"installdir"		"CTTC"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"CTTC.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"CTTC.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"CTTC.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"1"
+		"steamcontrollertouchtemplateindex"		"1"
+		"steamcontrollertouchconfigdetails"		""
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1777001"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"420416381118122061"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"B67EE0D5FD06A1818840198833ABFDA0"
+					"size"		"4A9F358B1C11BE4521CAF4D3F8253DD4"
+					"download"		"4A9F358B1C11BE4521CAF4D3F8253DD4"
+				}
+			}
+		}
+		"1777002"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1795036799250766302"
+					"size"		"6117200153"
+					"download"		"3026115328"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"AC99DFD23CEB78A2925CC60DC5482CE8"
+					"size"		"A7908BA3DAFBBD2498A646B37188F3C9"
+					"download"		"4FE63A1577653D0C2149ACE873982ECB"
+				}
+			}
+		}
+		"1777003"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6008375065541462928"
+					"size"		"6142875280"
+					"download"		"3037285920"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"C8912D447D633FB4C5A8AC001599A55E"
+					"size"		"AD9661DC5C61A1870F59EFFB7FCD591C"
+					"download"		"E9CE4B1DF1A3C7E708133D32968FE16C"
+				}
+			}
+		}
+		"1777004"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4617983237752245279"
+					"size"		"6121076937"
+					"download"		"3024569248"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"E73DFDEE7499663DFC13CB7A4810F5C2"
+					"size"		"C17A60D34D5F8BE1F768F17CE70B8EB8"
+					"download"		"02AFB9C70D2B04B3F6220D8AE781F9BC"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11211880"
+				"timeupdated"		"1684340934"
+			}
+			"beta"
+			{
+				"buildid"		"11211880"
+				"pwdrequired"		"1"
+				"timeupdated"		"1683834350"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"25000000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Plasma Press/CTTC/"
+				"pattern"		"*"
+				"recursive"		"1"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Plasma Press/CTTC/"
+						"replace"		"Plasma Press/CTTC/"
+					}
+				}
+			}
+			"1"
+			{
+				"root"		"MacAppSupport"
+				"os"		"Windows"
+				"oscompare"		"="
+				"useinstead"		"WinAppDataLocalLow"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Plasma Press/CTTC/"
+						"replace"		"Plasma Press/CTTC/"
+					}
+				}
+			}
+		}
+	}
+}
