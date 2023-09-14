@@ -1,0 +1,210 @@
+"appinfo"
+{
+	"appid"		"645330"
+	"common"
+	{
+		"name"		"Frontline Heroes VR"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"logo"		"c8f57c17f4ffe6b4c1399f976477414e6003f28a"
+		"logo_small"		"c8f57c17f4ffe6b4c1399f976477414e6003f28a_thumb"
+		"icon"		"b95da934b1c048ab3fe8a8ff8692c305d478f8e0"
+		"clienttga"		"28c00b3f762fb413c3a7657694590e9c58962e20"
+		"clienticon"		"23df6aec843e64539ecfb87221f03fbedff91aee"
+		"openvrsupport"		"1"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"metacritic_name"		"Frontline Heroes VR"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1529359385"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Indiecode Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Indiecode Games"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"73"
+			"1"		"74"
+			"2"		"1"
+			"3"		"25"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_52"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1530270590"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"645330"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"21"
+			"2"		"4667"
+			"3"		"4345"
+			"4"		"21978"
+		}
+		"review_score"		"4"
+		"review_percentage"		"35"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Indiecode Games"
+		"publisher"		"Indiecode Games"
+		"homepage"		"http://www.indiecode-games.com/"
+		"listofdlc"		"890860"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"FrontlineHeroesVR"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"FrontlineHeroesVR.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"NightmareStories.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"testing"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"hasdepotsindlc"		"1"
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"645331"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5706328768981923631"
+					"size"		"6736852925"
+					"download"		"6626873008"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"40E2727B7123005BE5D7FB657EB0EA52"
+					"size"		"2F27B6F1C2549200975A4E439058F00C"
+					"download"		"E36012091AEB6DD8AE85E0AF84DD8B2D"
+				}
+			}
+		}
+		"890860"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"dlcappid"		"890860"
+			"depotfromapp"		"890860"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2946686"
+				"timeupdated"		"1531617434"
+			}
+			"testing"
+			{
+				"buildid"		"2986617"
+				"pwdrequired"		"1"
+				"timeupdated"		"1532854014"
+			}
+		}
+	}
+}
