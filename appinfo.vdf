@@ -1,0 +1,168 @@
+"appinfo"
+{
+	"appid"		"496990"
+	"common"
+	{
+		"name"		"Ghost Sweeper"
+		"type"		"Game"
+		"oslist"		"windows,macos"
+		"logo"		"fd71680ce88f3fcefc412645460570a9ee6cd604"
+		"logo_small"		"fd71680ce88f3fcefc412645460570a9ee6cd604_thumb"
+		"icon"		"3003f852824b94c7b773b4896df1986e0f36c92f"
+		"clienttga"		"16610a093a4de7dde37aa05d46cc410e63669e5f"
+		"clienticon"		"d250f2bbeb1411354d231ae2a852f4897c07e4f8"
+		"clienticns"		"26fc0122f0487c91359cad120c6796687b9a4ee4"
+		"releasestate"		"released"
+		"metacritic_name"		"Ghost Sweeper"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1469094360"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"7 Raven Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"7 Raven Studios"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1469170800"
+		"steam_release_date"		"1469194617"
+		"community_hub_visible"		"1"
+		"gameid"		"496990"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"21"
+			"2"		"492"
+			"3"		"597"
+			"4"		"1625"
+			"5"		"5537"
+			"6"		"3871"
+			"7"		"4182"
+			"8"		"1773"
+			"9"		"1756"
+			"10"		"3964"
+			"11"		"4085"
+			"12"		"4136"
+			"13"		"1662"
+			"14"		"1693"
+			"15"		"4004"
+			"16"		"4106"
+			"17"		"4166"
+			"18"		"4252"
+			"19"		"4486"
+		}
+		"review_score"		"7"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"developer"		"7 Raven Studios"
+		"publisher"		"7 Raven Studios"
+		"homepage"		"http://www.7ravenstudios.com"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Ghost Sweeper"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"win32\\Ghost_Sweeper-Steam-1.0.0.0.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Ghost Sweeper.app\\Contents\\MacOS\\Mac_Runner"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"496991"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1112036804407562709"
+					"size"		"40346112"
+					"download"		"40772560"
+				}
+			}
+		}
+		"496992"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6402015677491106750"
+					"size"		"50885384"
+					"download"		"42358912"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1227584"
+				"timeupdated"		"1468501121"
+			}
+		}
+	}
+}
