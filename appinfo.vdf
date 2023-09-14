@@ -1,0 +1,248 @@
+"appinfo"
+{
+	"appid"		"1593410"
+	"common"
+	{
+		"name"		"The Awakening of Mummies"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"0525572a1c9a32f2d9915c3e2ed7e34e72ea58a8"
+		"clienticon"		"9669291d5df49d937107c0b48bd1c45f12d5b762"
+		"clienttga"		"9958d96881166640752de0b284db5be651fa07a2"
+		"logo"		"183bd10fa06a9b5e8bc115ab140dfdbda336b0a4"
+		"logo_small"		"183bd10fa06a9b5e8bc115ab140dfdbda336b0a4_thumb"
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"28.24743155598921"
+				"height_pct"		"93.05555555555557"
+			}
+		}
+		"store_asset_mtime"		"1639766131"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Virtual Arts Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Virtual Arts Studio"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Virtual Arts Studio"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Tilt Five"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1620909013"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1593410"
+		"store_tags"
+		{
+			"0"		"1664"
+			"1"		"1720"
+			"2"		"1770"
+			"3"		"597"
+			"4"		"17389"
+			"5"		"4136"
+			"6"		"4191"
+			"7"		"5851"
+			"8"		"1732"
+			"9"		"1736"
+			"10"		"1654"
+			"11"		"492"
+			"12"		"1684"
+			"13"		"4057"
+			"14"		"16094"
+			"15"		"7569"
+			"16"		"4182"
+			"17"		"4195"
+			"18"		"552282"
+		}
+		"review_score"		"7"
+		"review_percentage"		"92"
+	}
+	"extended"
+	{
+		"developer"		"Virtual Arts Studio"
+		"publisher"		"Virtual Arts Studio"
+	}
+	"config"
+	{
+		"installdir"		"The Awakening of Mummies"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"\\The Awakening of Mummies\\The Awakening of Mummies.exe"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"The Awakening of Mummies (Std Version)"
+					"brazilian"		"The Awakening of Mummies (Versão Std)"
+				}
+				"description"		"The Awakening of Mummies (Std Version)"
+			}
+			"1"
+			{
+				"executable"		"\\TAOM-TiltFive\\The Awakening of Mummies.exe"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"The Awakening of Mummies (Tilt Five™ Version)"
+					"brazilian"		"The Awakening of Mummies (Versão Tilt Five™)"
+				}
+				"description"		"The Awakening of Mummies (Tilt Five™ Version)"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,brazilian"
+		"hasdepotsindlc"		"0"
+		"1593411"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6778681790443493571"
+					"size"		"371505890"
+					"download"		"105952752"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"68FF2A2E8E8C42742C27068EA37556DA"
+					"size"		"B905D47758790307F009C126C0189B8C"
+					"download"		"A845D4DE24836CA68693E6C2C1C28BD7"
+				}
+				"tilt5"
+				{
+					"gid"		"80D458C39481920267011BD9B485EC8A"
+					"size"		"D2FB1BA4F40B10D355B2628E64D4E619"
+					"download"		"AE7A56B8A757A150D0CB0E502D3EC758"
+				}
+			}
+		}
+		"1593412"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1951576444603979485"
+					"size"		"377468375"
+					"download"		"105728400"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"tilt5"
+				{
+					"gid"		"77F0862E2435833103D460E99A8745DB"
+					"size"		"3C02FDFA1006ED7DFAE2CF26E7720272"
+					"download"		"6B3920C0D568807589BB100EE4495736"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7871222"
+				"timeupdated"		"1639748927"
+			}
+			"beta"
+			{
+				"buildid"		"7007993"
+				"pwdrequired"		"1"
+				"timeupdated"		"1625873206"
+			}
+			"tilt5"
+			{
+				"buildid"		"7871222"
+				"pwdrequired"		"1"
+				"timeupdated"		"1639347687"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"50"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Virtual Arts Studio/The Awakening of Mummies"
+				"pattern"		"*.save"
+			}
+		}
+	}
+}
