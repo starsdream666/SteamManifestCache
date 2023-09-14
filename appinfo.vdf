@@ -1,0 +1,229 @@
+"appinfo"
+{
+	"appid"		"1209570"
+	"common"
+	{
+		"name"		"Cosmos"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"f2caed994657d4617d4f71fc832be52567663bcc"
+		"logo"		"b59606051f39900685e55d03a0a12c4276888f76"
+		"logo_small"		"b59606051f39900685e55d03a0a12c4276888f76_thumb"
+		"clienttga"		"f06e687caf786bfb2a2fb71b71087f94a4864ceb"
+		"clienticns"		"a6b6ddcd8a9d0342030bf9661122f9c343f7f7aa"
+		"linuxclienticon"		"a6b6ddcd8a9d0342030bf9661122f9c343f7f7aa"
+		"clienticon"		"1a676a53c56eb8569f10594c36d508703943fd0d"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"40.09831201127781"
+				"height_pct"		"99.62004274519117"
+			}
+		}
+		"store_asset_mtime"		"1690133479"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Jacwab"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"PixelPlant"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"PixelPlant"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"original_release_date"		"1575964800"
+		"steam_release_date"		"1577895744"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1209570"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"492"
+			"2"		"21"
+			"3"		"4885"
+			"4"		"3964"
+			"5"		"4026"
+			"6"		"9"
+			"7"		"1716"
+			"8"		"6506"
+			"9"		"42804"
+			"10"		"1773"
+			"11"		"16598"
+			"12"		"3959"
+			"13"		"4637"
+			"14"		"454187"
+			"15"		"4191"
+			"16"		"5851"
+			"17"		"4791"
+			"18"		"1732"
+			"19"		"1755"
+		}
+		"review_score"		"7"
+		"review_percentage"		"100"
+	}
+	"extended"
+	{
+		"developer"		"Jacwab"
+		"publisher"		"PixelPlant"
+		"homepage"		"https://www.artstation.com/jacwab/profile"
+	}
+	"config"
+	{
+		"installdir"		"Cosmos"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Cosmos.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"baselanguages"		"english"
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1209571"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5297242011328777645"
+					"size"		"480913196"
+					"download"		"159864576"
+				}
+				"development"
+				{
+					"gid"		"6413149693951980997"
+					"size"		"480915244"
+					"download"		"159877680"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"experimental"
+				{
+					"gid"		"9BE0C22F91CC02D5C6D0A15AF2D1023F"
+					"size"		"43F3A152FB92FD5241E57B745E2F9DCB"
+					"download"		"DD3C48EF3C85165497764EF4E5C8082D"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12153996"
+				"timeupdated"		"1694366756"
+			}
+			"development"
+			{
+				"buildid"		"12146796"
+				"description"		"For testing developmental patches (Cosmos Developers Only)"
+				"timeupdated"		"1694218608"
+			}
+			"experimental"
+			{
+				"buildid"		"9009436"
+				"pwdrequired"		"1"
+				"timeupdated"		"1679355677"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000"
+		"maxnumfiles"		"5000"
+		"hidecloudui"		"1"
+		"ignoreexternalfiles"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"Steamsaves"
+				"pattern"		"*.sav"
+			}
+			"1"
+			{
+				"root"		"SteamCloudDocuments"
+				"path"		"Steamsaves"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
