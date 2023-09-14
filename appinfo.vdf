@@ -1,0 +1,674 @@
+"appinfo"
+{
+	"appid"		"486310"
+	"common"
+	{
+		"name"		"Meadow"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"logo"		"64c4a6e149c637d680a40d34be93b2fec3b783f8"
+		"logo_small"		"64c4a6e149c637d680a40d34be93b2fec3b783f8_thumb"
+		"clienticon"		"f7da590e6c6f9615e7f58357181453c977ee76c7"
+		"clienttga"		"a36b6228960107c4fc77e52ea5a27b0a98bb48ef"
+		"icon"		"7f3cfce2c211d10ad17dbf007a48f7f164f63d3a"
+		"clienticns"		"673789d2c1eb2328016f1d856f61e215cd46284e"
+		"linuxclienticon"		"071ea81dc19903e6dd3947f7e8eb7e9cbec8fcb7"
+		"osarch"		""
+		"osextended"		"macos64"
+		"metacritic_name"		"Meadows"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"58.500323206205564"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1656002224"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Might and Delight"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Might and Delight"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Shelter Games"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"29"
+		}
+		"category"
+		{
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_25"		"1"
+			"category_23"		"1"
+			"category_1"		"1"
+			"category_20"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"swedish"
+			{
+				"supported"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+			}
+			"finnish"
+			{
+				"supported"		"true"
+			}
+			"danish"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"hungarian"
+			{
+				"supported"		"true"
+			}
+			"arabic"
+			{
+				"supported"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1477493765"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"486310"
+		"store_tags"
+		{
+			"0"		"4726"
+			"1"		"128"
+			"2"		"1695"
+			"3"		"1654"
+			"4"		"21"
+			"5"		"3859"
+			"6"		"492"
+			"7"		"4166"
+			"8"		"3834"
+			"9"		"1756"
+			"10"		"597"
+			"11"		"5900"
+			"12"		"30358"
+			"13"		"5350"
+			"14"		"122"
+			"15"		"599"
+			"16"		"5411"
+			"17"		"4305"
+			"18"		"1685"
+			"19"		"3810"
+		}
+		"review_score"		"8"
+		"review_percentage"		"89"
+	}
+	"extended"
+	{
+		"developer"		"Might and Delight"
+		"publisher"		"Might and Delight"
+		"homepage"		"https://mightanddelight.com/home-2/projects/"
+		"listofdlc"		"813460,815410,942280,1179550"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Meadow"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Meadow.exe"
+				"description"		"Launch"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Meadow.app"
+				"description"		"Launch"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Meadow.x86"
+				"description"		"Launch"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"486311"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3795766356153976002"
+					"size"		"1715795991"
+					"download"		"852191120"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"external_test"
+				{
+					"gid"		"147164E4602111D01D1F281E7F312F8D"
+					"size"		"3E88ABDD52C8089FD0EADE5D06442393"
+					"download"		"3132D2E4BB9019734E9DCC6B2E199CAD"
+				}
+				"internal_test"
+				{
+					"gid"		"7311D7863EDF85086246B66462479276"
+					"size"		"C30D94F214510533F28095021C11393E"
+					"download"		"486A71EAEF3B2D573DE1DE3F39724DAE"
+				}
+				"internal_test_test"
+				{
+					"gid"		"69DB1F9E298BBFDDBB1908836608088C"
+					"size"		"C4C7037CCB5C929634F2144FDEBF35AA"
+					"download"		"989E6DCD549DBAE11AA1CC7AF39F0CCE"
+				}
+				"jens"
+				{
+					"gid"		"F4F327D05549C2A7E89C9BA679D8E5A5"
+					"size"		"6E5A73549CE84436E3C438E5D21401E7"
+					"download"		"667E5826D910801C8BF95BBF0486CE50"
+				}
+				"public_beta"
+				{
+					"gid"		"9DE50601424126038ACB6BC8C07C1FEA"
+					"size"		"E84836DBE759B13A49FCE5ECD2B452C5"
+					"download"		"B4DE0DB33611D5E3BB7D65968F8DBD52"
+				}
+				"qa_debug"
+				{
+					"gid"		"D498A10A667B309745A8D26AAABB7D07"
+					"size"		"2BA5D0F76EEA44565EF04CC4361CCFBC"
+					"download"		"568AE64F4585976778E0B60AD9854C6D"
+				}
+			}
+		}
+		"486312"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6229266921655721855"
+					"size"		"1726518734"
+					"download"		"855902480"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"external_test"
+				{
+					"gid"		"5FC4A8E1FE8DBD300F4E60AB0A5AE2FC"
+					"size"		"16DFCBB0D1C73AD9BD45D47B9CEE0FA4"
+					"download"		"FACCFD4586CF986864F2A57A01D31E3A"
+				}
+				"internal_test"
+				{
+					"gid"		"FCA04E7B1961169766A13E9B6E118541"
+					"size"		"912139AB1003547EAD7BB7E02E3F6E73"
+					"download"		"51D662D262B6E78499EE604DE36396D2"
+				}
+				"internal_test_test"
+				{
+					"gid"		"ECA589207572A9DDF159AD11E4339BC3"
+					"size"		"C230EA06D04A6A7E80052E1E7C15497B"
+					"download"		"140B2A4C8CEC9EC384FC18D31C5A0935"
+				}
+				"jens"
+				{
+					"gid"		"BD9D1456FC536E78CA50A0639B6E9FE6"
+					"size"		"0BCDD78588A896419068A41B22CDFBC0"
+					"download"		"766656AC094FF351EF47ECD52BB49FF1"
+				}
+				"public_beta"
+				{
+					"gid"		"2200DFDF33AB7F479AE1FFCA312C358E"
+					"size"		"AC4D70A93E6D5DF9CEB9C32C9B1B21AC"
+					"download"		"9F3824B5D2960E511FF36E8AC9E6CC93"
+				}
+				"qa_debug"
+				{
+					"gid"		"BEBF911C8784BF144BF79EA850AD896E"
+					"size"		"BDE12671700E2E328A779CEDE4AF587D"
+					"download"		"850EB80B30E5B60D163D0DE408FF4030"
+				}
+			}
+		}
+		"486313"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1253640617296707745"
+					"size"		"1718105526"
+					"download"		"852752928"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"external_test"
+				{
+					"gid"		"76FDB4B3D33F9901E19203D121E60802"
+					"size"		"3571098A5ED9292626EE5BB5F91C7C65"
+					"download"		"B05800CF5F00C84B6D1443F71AB96651"
+				}
+				"internal_test"
+				{
+					"gid"		"BAB3AA660DF1494B6AECB991B5E65C18"
+					"size"		"8479587028013702929FF0EE9581225F"
+					"download"		"CA737D329C638E85D5418195A4A50956"
+				}
+				"internal_test_test"
+				{
+					"gid"		"0E94AFF316FDFA09A74C4334DAAFF97B"
+					"size"		"F4E875A6C2AA6A80AE25820FC8DC0E4A"
+					"download"		"F9B7CEBBD7DDBD46A090782512B9B8B8"
+				}
+				"jens"
+				{
+					"gid"		"11A30741DA1C1F55C27644EC5467641B"
+					"size"		"2ED619072A476DA672EC4905E2164308"
+					"download"		"4CAFEB019DD5F3BA05A8BEEFFC022D59"
+				}
+				"public_beta"
+				{
+					"gid"		"1A93CB290592E5AA415E3225B9F58C83"
+					"size"		"4C6DF191A3C60E87637D141D9D98D5A5"
+					"download"		"4F5EDD7CD287512E243ED8B96C0B7B25"
+				}
+				"qa_debug"
+				{
+					"gid"		"1F810B88A72B165FE1BEB0F4AC0954EF"
+					"size"		"12FBF45DD92A8640C2143A6997877D51"
+					"download"		"332BADB479D8E24C2D9AC398BBEDCA0C"
+				}
+			}
+		}
+		"813460"
+		{
+			"dlcappid"		"813460"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3496172697187397409"
+					"size"		"13443961"
+					"download"		"13134896"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal_test"
+				{
+					"gid"		"15813B245064CC67545A28A244D92674"
+					"size"		"2F653B0DFBB5B7EABA8DA6F10E220089"
+					"download"		"8B48FF75E7F2B04CD17AD0FFD2E76832"
+				}
+				"internal_test_test"
+				{
+					"gid"		"3B572FCFD698D8A380509228567965B2"
+					"size"		"3FD0EA1E11D4FA39AE24992E3CB78F61"
+					"download"		"FB6DDFBB1999CAF10998D4838E29FDEE"
+				}
+				"jens"
+				{
+					"gid"		"B3044480F031DBB080E10C3E3EE09BE7"
+					"size"		"D88565FF7090AD9D52B39D661146C17F"
+					"download"		"2C44411DF71E87055F4E2E68CC0C0753"
+				}
+				"public_beta"
+				{
+					"gid"		"06C6DBF2E3AB8479F5096634D1276E6A"
+					"size"		"24154C35934996FD0DDDB91412631032"
+					"download"		"3A6E0D97926FEC45BEA009E82A7DAC6F"
+				}
+			}
+		}
+		"815410"
+		{
+			"dlcappid"		"815410"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1138534772719145826"
+					"size"		"501290324"
+					"download"		"490016816"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal_test"
+				{
+					"gid"		"7E3EF2771FAF6863313AF1C656BBC895"
+					"size"		"8FD36D380BFEE514AB2F26D3E064F2A7"
+					"download"		"1CBCA3D77A81E9459F86EC3AE842B560"
+				}
+				"internal_test_test"
+				{
+					"gid"		"FB4FA790ED4DC24790A7CB2A9197DA99"
+					"size"		"EF46F253A61736B8220FDFE752DB45E0"
+					"download"		"49F5DA6E49C8084D30B75FFB8325E4A0"
+				}
+				"jens"
+				{
+					"gid"		"0BB0BFE1E4E1D893B62AED5E40427EF2"
+					"size"		"ABC910DCA43E9C5EEDA01817E0C1CB1C"
+					"download"		"811517BC31A367FEBD23CFE06A4345AB"
+				}
+				"public_beta"
+				{
+					"gid"		"CCB507E7A243087257A2E4BA1E2A3380"
+					"size"		"248E7B27ED9D9A45943B13F19E692728"
+					"download"		"FD6A2069E8A3C98C2B451768E1D79050"
+				}
+			}
+		}
+		"942280"
+		{
+			"dlcappid"		"942280"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1281047256000161663"
+					"size"		"403959026"
+					"download"		"158061344"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal_test"
+				{
+					"gid"		"D15C1F448DF7954764F912A7238AA62B"
+					"size"		"88B6E1DBDB65919E269E65E021B595D3"
+					"download"		"38D0CCA6FF8DDA0EAC0D2DFA21F6DE5C"
+				}
+				"internal_test_test"
+				{
+					"gid"		"5FCDB0CD1FAFE55B5560C191E74A5B66"
+					"size"		"4F4CF237245021705EF76771651C57C6"
+					"download"		"4B35B56459634610F9AFB4B98C6ED996"
+				}
+				"jens"
+				{
+					"gid"		"E16480A35B823248585309DF3AA9983B"
+					"size"		"0CB65E22345E19266F97CCD3BD73B56B"
+					"download"		"3F58E67436167136F615F9A1B64DD186"
+				}
+				"public_beta"
+				{
+					"gid"		"BC1CC73D34FDC344099CD52704C9CFC9"
+					"size"		"659C69CF88969F17531623226FAD1657"
+					"download"		"3A9F0A029E0AE1C79081B764BAA9CFA7"
+				}
+			}
+		}
+		"1179550"
+		{
+			"dlcappid"		"1179550"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6359326727835374233"
+					"size"		"99571733"
+					"download"		"100038112"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal_test"
+				{
+					"gid"		"871665444411228DBC163BCF2BC93ADF"
+					"size"		"0421AEB12090F499E6A76B427C94D86E"
+					"download"		"1C241CA16A97B047F5C70B964E5AB565"
+				}
+				"internal_test_test"
+				{
+					"gid"		"7781BF7C2898D317F9E84B0E987F7269"
+					"size"		"8541C4358C9C6349979816E0D52B5245"
+					"download"		"22371ABF90C3C4908A08B193A6714787"
+				}
+				"jens"
+				{
+					"gid"		"C308DEA66A6EFF11F14C64CDCCFC2765"
+					"size"		"B7A7EDE1288068E8C5044DC6EDD6B957"
+					"download"		"3F702B2F6B7EE3A5308DD71A36480142"
+				}
+				"public_beta"
+				{
+					"gid"		"4195A009C1130D0867A709ACD1E2F13F"
+					"size"		"406AA4280E2D113D73999E8AE18F13A5"
+					"download"		"E82806153D6D7F130AC0B39BDBD85980"
+				}
+			}
+		}
+		"486314"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4516534794094541383"
+					"size"		"1729406198"
+					"download"		"856337776"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal_test"
+				{
+					"gid"		"D6FDA53151B3DCFAB65B5C0CA515CEAF"
+					"size"		"72D1DE3D7D736DADED666C56522A376B"
+					"download"		"B0782C5CF0ED9D28DA89BB3E4B7040E7"
+				}
+				"internal_test_test"
+				{
+					"gid"		"F252C3E6418E7FB8127CDCFBE47B33FB"
+					"size"		"051D9112378B1DF8AD221941CE1428FE"
+					"download"		"0591E99BFCC9A69882B6A0FC938135C1"
+				}
+				"jens"
+				{
+					"gid"		"FB4B8C5F0023900AEBDD0F4119BCB9FA"
+					"size"		"BFA7482015D5CDFF81573BE188180BDE"
+					"download"		"25DBA768C7E70FF4A3CE290EBD06E0FE"
+				}
+				"public_beta"
+				{
+					"gid"		"D1C5F51F244DCA08126DD4219B236CC8"
+					"size"		"E777AE11731BCDEEE36DE9646DECB7D5"
+					"download"		"45E3C256B7CD34A363CF3B7DC36B5353"
+				}
+			}
+		}
+		"486315"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"public_beta"
+				{
+					"gid"		"4103773EE538FED43BE2713EFF2F451D"
+					"size"		"6148B001FF5C9824B61E6BD552A733F6"
+					"download"		"7E1A6CF7D733B6B0D32523B4F8829B2D"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6886928"
+				"timeupdated"		"1623938762"
+			}
+			"external_test"
+			{
+				"buildid"		"1784985"
+				"pwdrequired"		"1"
+				"timeupdated"		"1493299135"
+			}
+			"internal_test"
+			{
+				"buildid"		"6886928"
+				"pwdrequired"		"1"
+				"timeupdated"		"1623938467"
+			}
+			"internal_test_test"
+			{
+				"buildid"		"6785996"
+				"pwdrequired"		"1"
+				"timeupdated"		"1622453321"
+			}
+			"jens"
+			{
+				"buildid"		"4750758"
+				"pwdrequired"		"1"
+				"timeupdated"		"1583505761"
+			}
+			"public_beta"
+			{
+				"buildid"		"11613859"
+				"pwdrequired"		"1"
+				"timeupdated"		"1688385498"
+			}
+			"qa_debug"
+			{
+				"buildid"		"1919452"
+				"pwdrequired"		"1"
+				"timeupdated"		"1498651195"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"Saves"
+				"pattern"		".dat"
+			}
+		}
+	}
+}
