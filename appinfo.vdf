@@ -1,0 +1,330 @@
+"appinfo"
+{
+	"appid"		"437060"
+	"common"
+	{
+		"name"		"MOAI 3: Trade Mission Collector's Edition"
+		"type"		"Game"
+		"logo"		"726a8c0e1a2707b4cd3ea5e938e7a3195d0acd3f"
+		"logo_small"		"726a8c0e1a2707b4cd3ea5e938e7a3195d0acd3f_thumb"
+		"icon"		"e867384f0dec10a09a3adfdf8aa7ab245a140984"
+		"clienttga"		"bf8aba20b387fd4ec0fba75ca918c6ff82a7a308"
+		"clienticon"		"87e51fc95115447eee31076224bf690ef59d699a"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1689638400"
+			"tested_build_id"		"2874809"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-3"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"MOAI 3: Trade Mission Collector's Edition"
+		"small_capsule"
+		{
+			"russian"		"capsule_231x87_russian.jpg"
+			"german"		"capsule_231x87_german.jpg"
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"russian"		"header_russian.jpg"
+			"german"		"header_german.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,ru"
+			"library_hero"		"en"
+			"library_logo"		"ru,en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"82.97017066669918"
+				"height_pct"		"87.49728619824796"
+			}
+		}
+		"store_asset_mtime"		"1658506099"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Toyman Interactive"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"ESDigital Games"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1454079624"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"437060"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"9"
+			"2"		"16689"
+		}
+		"review_score"		"8"
+		"review_percentage"		"92"
+	}
+	"extended"
+	{
+		"developer"		"Toyman Interactive"
+		"publisher"		"ESDigital Games"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"MOAI 3 Trade Mission Collector's Edition"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Moai3_TradeMission_CE.exe"
+				"description"		"Launch"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"noupdatesafterinstall"		"1"
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,italian,spanish,russian,brazilian"
+		"437064"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4076849437756000015"
+					"size"		"556598346"
+					"download"		"556777088"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test_final"
+				{
+					"gid"		"EF895A55ECBC326AB59CD0DA278123CC"
+					"size"		"01C476CE77E1F2191240D9460B95C100"
+					"download"		"A2917BA3845CEC41F79A434DDC02C4B5"
+				}
+				"testtestbuka64"
+				{
+					"gid"		"53EABAD6A87C9B9CE0DABF1C25843A90"
+					"size"		"0C8D2A918E6C9E2667CF1B3F4E00E9D8"
+					"download"		"E2321889E635B9BDADDF37CA248B4A9C"
+				}
+			}
+		}
+		"437063"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		"russian"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"499275370354378249"
+					"size"		"556598433"
+					"download"		"556773824"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test_final"
+				{
+					"gid"		"D44299A58751A344F6658113D48B6C87"
+					"size"		"50D314D127163B6854BD7F3613545AEF"
+					"download"		"99F12984BE94E81E711DDBA709EA7287"
+				}
+				"testbuka"
+				{
+					"gid"		"8593411437989DB2E46E79DB6BA5A741"
+					"size"		"D660EB44C2CC25ADEF950DF04B6911C4"
+					"download"		"D6ADD03A5B3AA8151A193EBF29C7E796"
+				}
+			}
+		}
+		"437061"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3172549456423904439"
+					"size"		"512184808"
+					"download"		"512395840"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test_final"
+				{
+					"gid"		"63A3F32FE014B0896D353D0602E91678"
+					"size"		"F616781707DC8493CF8CCFB597DD3D33"
+					"download"		"2C9C5955062B9DBEEE46E81435EA0B16"
+				}
+				"testbuka"
+				{
+					"gid"		"9E140C27CB8D2A7C617DC9C7755FA099"
+					"size"		"A3A56C5B24554846DF425AAD71D8EE64"
+					"download"		"5D58759F06AE38249A61C500144DD35D"
+				}
+				"testtestbuka64"
+				{
+					"gid"		"885BD2DE11EC023E4912CC82E5F984BB"
+					"size"		"DCD209A71AF22FEF51E94B17E99208D1"
+					"download"		"5801D128C997CB5B4C4219D502087913"
+				}
+			}
+		}
+		"437062"
+		{
+			"config"
+			{
+				"language"		"german"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"912072975825248788"
+					"size"		"510540458"
+					"download"		"510729792"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test_final"
+				{
+					"gid"		"5B8E4C002FFE925D9BCC69D9126D670C"
+					"size"		"96D911D9AB9F42E601FCCF3B8D68B2A7"
+					"download"		"AC747DCF34C591D276FC299FC0BD8894"
+				}
+				"testbuka"
+				{
+					"gid"		"45E615EF4DE0BF005B809CE23AED5538"
+					"size"		"4DA413EB731E4EB65DFF99377DEFEFD3"
+					"download"		"5D57623DFF6F7C4A46506FA45171B84D"
+				}
+				"testtestbuka64"
+				{
+					"gid"		"4C58893A696EB3F33C48AC8BA1A5A62C"
+					"size"		"1DB4C19EE102C654C4EE0256F5E9A576"
+					"download"		"349EE7E2B85CE5C25F309FD375F03F0A"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2874809"
+				"timeupdated"		"1529402366"
+			}
+			"test_final"
+			{
+				"buildid"		"2874759"
+				"pwdrequired"		"1"
+				"timeupdated"		"1529401464"
+			}
+			"testbuka"
+			{
+				"buildid"		"2835074"
+				"pwdrequired"		"1"
+				"timeupdated"		"1528201729"
+			}
+			"testtestbuka64"
+			{
+				"buildid"		"2848093"
+				"pwdrequired"		"1"
+				"timeupdated"		"1528523544"
+			}
+		}
+	}
+}
