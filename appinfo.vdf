@@ -1,0 +1,163 @@
+"appinfo"
+{
+	"appid"		"806580"
+	"common"
+	{
+		"name"		"7th Deep"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"clienticon"		"cebd521c5e01f5ec2532b9f27734ca9f7555a00e"
+		"clienttga"		"c9fad56cdb9fa8f8751e2120cfa8e107b133ebd9"
+		"icon"		"22c7ce9502f35ab5f1ed2e62d954facbae06b124"
+		"logo"		"a2c0c1d4c2172eec8adbf50b2106c2b8704d5a1c"
+		"logo_small"		"a2c0c1d4c2172eec8adbf50b2106c2b8704d5a1c_thumb"
+		"metacritic_name"		"7th Deep"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"88.44807467911318"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1669759616"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"G. A. Williams"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"G. A. Williams"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1520569014"
+		"community_hub_visible"		"1"
+		"gameid"		"806580"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"3871"
+			"2"		"492"
+			"3"		"1677"
+			"4"		"1720"
+			"5"		"4046"
+			"6"		"6426"
+			"7"		"4182"
+			"8"		"5577"
+			"9"		"4434"
+			"10"		"1664"
+			"11"		"3964"
+			"12"		"4004"
+			"13"		"4325"
+			"14"		"1662"
+			"15"		"4474"
+			"16"		"4085"
+			"17"		"1684"
+			"18"		"1693"
+			"19"		"21"
+		}
+		"review_score"		"7"
+		"review_percentage"		"92"
+	}
+	"extended"
+	{
+		"developer"		"G. A. Williams"
+		"publisher"		"G. A. Williams"
+	}
+	"config"
+	{
+		"installdir"		"7th Deep"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Game.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"806581"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3168875625522792016"
+					"size"		"274004961"
+					"download"		"152306032"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9816079"
+				"timeupdated"		"1666904445"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"500000"
+		"maxnumfiles"		"20"
+		"hidecloudui"		"1"
+		"ignoreexternalfiles"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"SavesDir"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
