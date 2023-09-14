@@ -1,0 +1,185 @@
+"appinfo"
+{
+	"appid"		"1887540"
+	"common"
+	{
+		"name"		"Saleblazers Playtest"
+		"type"		"Beta"
+		"parent"		"1419850"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"c813e4fd481a4a7c542c19bc05c4ecb32595658b"
+		"logo"		"1ba9ed1699ea893e6218f3e195f3db3f33c2cabd"
+		"logo_small"		"1ba9ed1699ea893e6218f3e195f3db3f33c2cabd_thumb"
+		"clienttga"		"855655be09680e9003e6ce7d703d3cfb0e3fa5c6"
+		"clienticon"		"492d9b150efc1e4579f7c6d25457bbbeb29729c2"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1663898955"
+		"associations"
+		{
+		}
+		"steam_release_date"		"1649890217"
+		"community_hub_visible"		"1"
+		"gameid"		"1887540"
+		"exfgls"		"1"
+		"review_score"		"7"
+		"review_percentage"		"81"
+	}
+	"extended"
+	{
+		"betaforappid"		"1419850"
+		"playtest_type"		"0"
+	}
+	"config"
+	{
+		"installdir"		"Saleblazers Playtest"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Playtest/Saleblazers.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1887541"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5496552364074686123"
+					"size"		"2564779765"
+					"download"		"1010569136"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"developer"
+				{
+					"gid"		"903D27C3F97AD6B80784EBCEF93ED4FF"
+					"size"		"BB5C42F675351CCFF59F5476D5B03273"
+					"download"		"647FCB0438B05F41172E999FE4704EDC"
+				}
+				"developer-1"
+				{
+					"gid"		"7755927F79867625242C906675D2DE72"
+					"size"		"7B78697E89F2B83CAB69071D5BEF9F51"
+					"download"		"519C51C4D029AE02269DF3EBC286FCC0"
+				}
+				"developer-2"
+				{
+					"gid"		"401E923CA5E456964F2A4772F110004E"
+					"size"		"B27F5B8D628E2882ABA70C8B79CC282E"
+					"download"		"732B56C6D863E53ADE10C2DAB76F827B"
+				}
+				"developer-merge"
+				{
+					"gid"		"BF4E0532531D63F9B8D0F90CC89CFBAD"
+					"size"		"504BE6C05581DBF464926E48C06FD6C9"
+					"download"		"E31DEAC89C500A138B146F1E7D8A0823"
+				}
+				"developer-public"
+				{
+					"gid"		"B142474CAFA7F7FBB4AFF0846D51665B"
+					"size"		"B9BE070619BF6F1E7984A23A1CA8D6A2"
+					"download"		"FAB9176188EF0F50A661912F01A22FCE"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10735113"
+				"timeupdated"		"1678501878"
+			}
+			"developer"
+			{
+				"buildid"		"12128752"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694060463"
+			}
+			"developer-1"
+			{
+				"buildid"		"8654343"
+				"pwdrequired"		"1"
+				"timeupdated"		"1651864329"
+			}
+			"developer-2"
+			{
+				"buildid"		"8665531"
+				"pwdrequired"		"1"
+				"timeupdated"		"1651864356"
+			}
+			"developer-merge"
+			{
+				"buildid"		"8693379"
+				"pwdrequired"		"1"
+				"timeupdated"		"1651866834"
+			}
+			"developer-public"
+			{
+				"buildid"		"10141218"
+				"pwdrequired"		"1"
+				"timeupdated"		"1670976649"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"300000000"
+		"maxnumfiles"		"300"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Airstrafe Interactive/Saleblazers/Saves"
+				"pattern"		"*"
+				"recursive"		"1"
+			}
+		}
+	}
+}
