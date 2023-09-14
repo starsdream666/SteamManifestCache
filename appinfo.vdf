@@ -1,0 +1,822 @@
+"appinfo"
+{
+	"appid"		"843810"
+	"common"
+	{
+		"name"		"完美的一天 / A Perfect Day"
+		"type"		"Game"
+		"clienttga"		"3f010139a04f04c0b22b1327cf0aec462653561d"
+		"logo"		"ee41ff143a50a10d3108c9b49c94afa7533820e0"
+		"logo_small"		"ee41ff143a50a10d3108c9b49c94afa7533820e0_thumb"
+		"icon"		"6f262ce24e8c35cd63bbe80e5e63e04a523bef3b"
+		"clienticon"		"25ec8a46b66fe119d10004a3a1a7c6227a54a6f2"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64"
+		"name_localized"
+		{
+			"english"		"A Perfect Day"
+			"schinese"		"完美的一天"
+			"tchinese"		"完美的一天"
+			"sc_schinese"		"完美的一天"
+			"japanese"		"完璧な一日"
+		}
+		"releasestatesteamchina"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"japanese"		"1"
+			"sc_schinese"		"1"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1662595200"
+			"tested_build_id"		"9347305"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"A Perfect Day"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"sc_schinese"		"capsule_231x87_sc_schinese.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+		}
+		"header_image"
+		{
+			"schinese"		"header_schinese.jpg"
+			"english"		"header.jpg"
+			"sc_schinese"		"header_sc_schinese.jpg"
+			"japanese"		"header_japanese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn,zh-xc,ja"
+			"library_hero"		"en,zh-xc,zh-cn,ja"
+			"library_logo"		"en,zh-xc,zh-cn,ja"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"33.55444755947062"
+				"height_pct"		"70.93824813963413"
+			}
+		}
+		"store_asset_mtime"		"1683701617"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Perfect Day Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Perfect Day Studio"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Perfect Day Studio"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"3"
+			"3"		"28"
+			"4"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1645769451"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"843810"
+		"store_tags"
+		{
+			"0"		"4166"
+			"1"		"5094"
+			"2"		"21"
+			"3"		"6426"
+			"4"		"4182"
+			"5"		"6971"
+			"6"		"1664"
+			"7"		"1742"
+			"8"		"5608"
+			"9"		"8369"
+			"10"		"11014"
+			"11"		"10679"
+			"12"		"3834"
+			"13"		"5984"
+			"14"		"16689"
+			"15"		"14720"
+			"16"		"6691"
+			"17"		"4004"
+			"18"		"492"
+			"19"		"6815"
+		}
+		"review_score"		"8"
+		"review_percentage"		"85"
+	}
+	"extended"
+	{
+		"developer"		"Perfect Day Studio"
+		"publisher"		"Perfect Day Studio"
+	}
+	"config"
+	{
+		"installdir"		" A Perfect Day"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"APerfectDay.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"APerfectDay.app/Contents/MacOS/A Perfect Day"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"steam_china_only"
+		{
+			"steam_china_enable_duration_control"		"1"
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"schinese"
+		"branches"
+		{
+			"steam_china_only"
+			{
+				"sc_schinese"		"Steam China Only"
+				"buildid"		"8212545"
+				"pwdrequired"		"1"
+				"timeupdated"		"1645022976"
+			}
+			"1.0.0bugfix"
+			{
+				"sc_schinese"		"1.0.0bugfix"
+			}
+			"1.0.0bugfix1"
+			{
+				"sc_schinese"		"1.0.0bugfix1"
+			}
+			"1.0.0bugfix1release"
+			{
+				"sc_schinese"		"1.0.0bugfix1release"
+				"buildid"		"8256457"
+				"pwdrequired"		"1"
+				"timeupdated"		"1645587012"
+			}
+			"specialpreview1.0"
+			{
+				"sc_schinese"		"specialpreview1.0"
+			}
+			"1.0.1debug"
+			{
+				"sc_schinese"		"1.0.1debug"
+			}
+			"1.0.1"
+			{
+				"sc_schinese"		"1.0.1"
+			}
+			"1.0.1patch1"
+			{
+				"sc_schinese"		"1.0.1patch1"
+			}
+			"1.0.1patch2"
+			{
+				"sc_schinese"		"1.0.1patch2"
+			}
+			"1.0.1patch3"
+			{
+				"sc_schinese"		"1.0.1patch3"
+			}
+			"1.0.1patch4"
+			{
+				"sc_schinese"		"1.0.1patch4"
+			}
+			"1.0.1patch5"
+			{
+				"sc_schinese"		"1.0.1patch5"
+			}
+			"1.0.1patch6"
+			{
+				"sc_schinese"		"1.0.1patch6"
+				"buildid"		"8291151"
+				"pwdrequired"		"1"
+				"timeupdated"		"1646107372"
+			}
+			"1.0.2"
+			{
+				"sc_schinese"		"1.0.2"
+			}
+			"1.0.2patch1"
+			{
+				"sc_schinese"		"1.0.2patch1"
+			}
+			"1.0.2patch2"
+			{
+				"sc_schinese"		"1.0.2patch2"
+			}
+			"1.0.2patch3"
+			{
+				"sc_schinese"		"1.0.2patch3"
+			}
+			"1.0.2patch4"
+			{
+				"sc_schinese"		"1.0.2patch4"
+				"buildid"		"8376438"
+				"pwdrequired"		"1"
+				"timeupdated"		"1647361833"
+			}
+			"experimental"
+			{
+				"sc_schinese"		"Experimental"
+				"buildid"		"9265048"
+				"pwdrequired"		"1"
+				"timeupdated"		"1659758821"
+			}
+			"1.0.3"
+			{
+				"sc_schinese"		"1.0.3"
+				"buildid"		"8409154"
+				"pwdrequired"		"1"
+				"timeupdated"		"1647861608"
+			}
+			"1.0.4"
+			{
+				"sc_schinese"		"1.0.4"
+				"buildid"		"8458085"
+				"pwdrequired"		"1"
+				"timeupdated"		"1648553144"
+			}
+			"1.1.0"
+			{
+				"sc_schinese"		"1.1.0"
+				"buildid"		"8709534"
+				"pwdrequired"		"1"
+				"timeupdated"		"1652167877"
+			}
+			"localizationqa"
+			{
+				"sc_schinese"		"Localization QA"
+				"buildid"		"10654297"
+				"pwdrequired"		"1"
+				"timeupdated"		"1677580043"
+			}
+			"1.1.1"
+			{
+				"sc_schinese"		"1.1.1"
+			}
+			"1.2.0preview"
+			{
+				"sc_schinese"		"1.2.0preview"
+				"buildid"		"8874596"
+				"pwdrequired"		"1"
+				"timeupdated"		"1654415035"
+			}
+			"1.1.1patch1"
+			{
+				"sc_schinese"		"1.1.1patch1"
+				"buildid"		"8893386"
+				"pwdrequired"		"1"
+				"timeupdated"		"1654671437"
+			}
+			"1.2.0"
+			{
+				"sc_schinese"		"1.2.0"
+				"buildid"		"8994681"
+				"pwdrequired"		"1"
+				"timeupdated"		"1655996303"
+			}
+			"1.1.3"
+			{
+				"sc_schinese"		"1.1.3"
+				"buildid"		"8969337"
+				"pwdrequired"		"1"
+				"timeupdated"		"1655706254"
+			}
+			"1.1.3patch1"
+			{
+				"sc_schinese"		"1.1.3patch1"
+				"buildid"		"8969960"
+				"pwdrequired"		"1"
+				"timeupdated"		"1655714080"
+			}
+			"1.1.3patch2"
+			{
+				"sc_schinese"		"1.1.3patch2"
+				"buildid"		"8978179"
+				"pwdrequired"		"1"
+				"timeupdated"		"1655811719"
+			}
+			"1.2.1"
+			{
+				"sc_schinese"		"1.2.1"
+				"buildid"		"9096615"
+				"pwdrequired"		"1"
+				"timeupdated"		"1657514564"
+			}
+			"1.2.2"
+			{
+				"sc_schinese"		"1.2.2"
+				"buildid"		"9183926"
+				"pwdrequired"		"1"
+				"timeupdated"		"1658741256"
+			}
+			"1.2.3"
+			{
+				"sc_schinese"		"1.2.3"
+				"buildid"		"9300824"
+				"pwdrequired"		"1"
+				"timeupdated"		"1660530741"
+			}
+			"1.2.4"
+			{
+				"sc_schinese"		"1.2.4"
+				"buildid"		"9367967"
+				"pwdrequired"		"1"
+				"timeupdated"		"1661229872"
+			}
+			"jpdev"
+			{
+				"sc_schinese"		"japanese dev"
+				"buildid"		"10064129"
+				"pwdrequired"		"1"
+				"timeupdated"		"1669977725"
+			}
+			"overseaplaytest"
+			{
+				"sc_schinese"		"For oversea playtest"
+				"buildid"		"10064128"
+				"pwdrequired"		"1"
+				"timeupdated"		"1669977709"
+			}
+			"public"
+			{
+				"buildid"		"9347305"
+				"timeupdated"		"1660909706"
+			}
+			"closebeta"
+			{
+				"buildid"		"7234183"
+				"pwdrequired"		"1"
+				"timeupdated"		"1629720339"
+			}
+			"developertest"
+			{
+				"buildid"		"9258831"
+				"pwdrequired"		"1"
+				"timeupdated"		"1659687445"
+			}
+			"test"
+			{
+				"buildid"		"9710282"
+				"pwdrequired"		"1"
+				"timeupdated"		"1665632041"
+			}
+		}
+		"843811"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7330008611887251422"
+					"size"		"1438375262"
+					"download"		"1191051456"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"1.0.0bugfix1release"
+				{
+					"gid"		"0B4438006A60207E54A0E5092258C272"
+					"size"		"196DF634762FD1D87BDCE9109DF69C95"
+					"download"		"56D0F3CDC661AD8308FDD5FF8D975C56"
+				}
+				"1.0.1patch6"
+				{
+					"gid"		"5B8D83BD33A4C97F16F1E28CEF833F61"
+					"size"		"1EA8628E45EA660975C368F1435F7D9F"
+					"download"		"059C3947BF177DD973194C8E90FCE8CF"
+				}
+				"1.0.2patch4"
+				{
+					"gid"		"2AE29D13E15CA6122E37F0D7082B257C"
+					"size"		"94260850CCF0DEEF965A122A9B727306"
+					"download"		"9ED89F6600173F1CE3948BCDC068DC23"
+				}
+				"1.0.3"
+				{
+					"gid"		"C92C62E99FC1BC5A29D821734F6952F7"
+					"size"		"CEB6BD91EB177108C6F64B9363EBAB4A"
+					"download"		"6AF16EF0CECA39A62F314D4986CDA037"
+				}
+				"1.0.4"
+				{
+					"gid"		"5876CB43178A3CCC5B81D4BDDF834FA8"
+					"size"		"ADAD582B39F84CA72B221D764207DB94"
+					"download"		"CE0C1CF6D73FBD6852529C87E315204D"
+				}
+				"1.1.0"
+				{
+					"gid"		"A65BBAE9EDE5BDAFBF2F1C2226625D63"
+					"size"		"26261D7335EBA010894B2E9C18C4B6B9"
+					"download"		"BEF6B0FA037283835AFF4F0A7705DEBD"
+				}
+				"1.1.1patch1"
+				{
+					"gid"		"B2FACD6662496652E0188F5BA3BBD9E5"
+					"size"		"BB7201EADA7BF8D51D2CF530568AC68C"
+					"download"		"1DAF3F22574DC6E5D7C11BFC3BB5C02D"
+				}
+				"1.1.3"
+				{
+					"gid"		"3D7591A76676B31C27663C50028E90DB"
+					"size"		"FE2A1EBE811AC8C061B183EA637548FA"
+					"download"		"47626DCB272CF10848AF8D032AF32791"
+				}
+				"1.1.3patch1"
+				{
+					"gid"		"F956CD90DBF1A800A3D75688B682279E"
+					"size"		"85B335713CCB6F67189E72C8045F281C"
+					"download"		"B43909926A5BA9401C9F7B8863597B23"
+				}
+				"1.1.3patch2"
+				{
+					"gid"		"5D3F9C566209AB1C4892482F331CADC7"
+					"size"		"2A62D8E0FC83697CD08DCAC243740CBA"
+					"download"		"AD53BD4FA788DF51C3CDB212FF05B1A0"
+				}
+				"1.2.0"
+				{
+					"gid"		"4E9547F8B56632A96143FFF9B79FA6DA"
+					"size"		"1C97E02BA1DD93227FA91B2E176272BE"
+					"download"		"60E1691605779A6C181CBAF07DF6D9A0"
+				}
+				"1.2.0preview"
+				{
+					"gid"		"93ED77601473815BAF9AE21933DFE0E8"
+					"size"		"B35727DA5DA215779CA0F3DFE8AC3F8C"
+					"download"		"B264E2449ABD313B07E392B33B451229"
+				}
+				"1.2.1"
+				{
+					"gid"		"0E0EA68973CF173873A2F40249193A79"
+					"size"		"646587F3EAACB3785EBF79072DD76CAE"
+					"download"		"43623711F9393FC064E5C12A010E7543"
+				}
+				"1.2.2"
+				{
+					"gid"		"483D1C764F61510366C2A183D71B9052"
+					"size"		"6B08D4F38271938AE3D155340947328B"
+					"download"		"38BDDB2AE718792BD55B8ED02AB459F8"
+				}
+				"1.2.3"
+				{
+					"gid"		"DB2149A6EEF1F1B2A4011164D8ADB0AF"
+					"size"		"227521617D7A9FF8E92527F084BB8684"
+					"download"		"DDCD4C594C346E0F044411EEEA9E93B0"
+				}
+				"1.2.4"
+				{
+					"gid"		"B17CEC0AB693D684A0D46DB6AC2FEE63"
+					"size"		"1BC26B8D8921820AFBEE89459C7D8B70"
+					"download"		"FFDEF0FE3CBA6D6808CBAFDF03BA2EB1"
+				}
+				"closebeta"
+				{
+					"gid"		"96147C241693625C84AA40426F8C9D02"
+					"size"		"BCE29D2B7E1610A4C82C9C3D5B636149"
+					"download"		"17242346C50808610525D0858E7496A0"
+				}
+				"developertest"
+				{
+					"gid"		"C671375DBEE5DD1AE44F199E0340B6C0"
+					"size"		"3A53768A0982D7304BB295AE06CC5A6B"
+					"download"		"9843533641E1A1BBAAFB32182CBC7777"
+				}
+				"experimental"
+				{
+					"gid"		"E4501B205FBB60E78BD8166D5BFC8E1E"
+					"size"		"413DBDDA6EBDFE74A23D758658A7B4FF"
+					"download"		"FD72814153FA67F508E2A3FAF5944337"
+				}
+				"jpdev"
+				{
+					"gid"		"1C5832FEB2ACEA3516B412D9140DB64F"
+					"size"		"4942229AE924803A782D24A3726E1D83"
+					"download"		"E2F13091FF2BE9DA75DDA22B50C060B2"
+				}
+				"localizationqa"
+				{
+					"gid"		"BC3A3E7013C30AC93706FDC19291ED2B"
+					"size"		"432D1D229CBE6BF13DD9EE99F2CF9100"
+					"download"		"29645C6992E416129FC70F3B11B2A2AC"
+				}
+				"overseaplaytest"
+				{
+					"gid"		"C884828341C87D036AA1748BDD04A541"
+					"size"		"D4ED0D176B961A5BC25BFCCA82B457B1"
+					"download"		"23905280495C7C3C1B38614033CBFD96"
+				}
+				"steam_china_only"
+				{
+					"gid"		"95298655EEFC32E4322B75CF07778F81"
+					"size"		"E8D199EAA0EE2A2364430FF6AC2EEC52"
+					"download"		"6E1DD263A1A886FCA5766A4C141E049C"
+				}
+				"test"
+				{
+					"gid"		"28C7CBE05B526B026D887E4E2816F473"
+					"size"		"C62EE3967B095255AEA389034F4AE5D8"
+					"download"		"DE55B16E58E6E73FEED4E567CDBB21A6"
+				}
+			}
+		}
+		"843812"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1129039305694104996"
+					"size"		"1410886351"
+					"download"		"1185506288"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"1.0.0bugfix1release"
+				{
+					"gid"		"376DAD3C2A954A74D0B81E21C11D058F"
+					"size"		"CAFB46A156433901151ACCFD9930F265"
+					"download"		"7BC621BAC745CF7AB34E79439A260C97"
+				}
+				"1.0.1patch6"
+				{
+					"gid"		"8C078762365BD38B49CE648648C78BA7"
+					"size"		"87B7CCEBD5424CDE5E0CBE32E7F92242"
+					"download"		"F24EA3677555272F6E7A5DCF219AF3B2"
+				}
+				"1.0.2patch4"
+				{
+					"gid"		"D295A3B512C3BDE52EE5227B4592516C"
+					"size"		"A3033755601D986A9C200C2F560D50FE"
+					"download"		"2A46E0FE24CF30EF85B478F76B592443"
+				}
+				"1.0.3"
+				{
+					"gid"		"0195C2B43E5650C27F7020AC56F4D710"
+					"size"		"5CFBFCF98A24ABA35234F256F687BBCD"
+					"download"		"CEDF0F76C7A31675375AE41D812E73E5"
+				}
+				"1.0.4"
+				{
+					"gid"		"108E4836D90287A049976E540AAD9FDD"
+					"size"		"3306537913FAEBDCE7C234340E4EC64D"
+					"download"		"3D6AFFDB2D95B288D750C5C3167CDC7D"
+				}
+				"1.1.0"
+				{
+					"gid"		"ED3F47603F4D915BA0FA3006D249D7CF"
+					"size"		"6E6E72E6C34882F36D4E51F9A7C3882A"
+					"download"		"59224C972411C95AD8D4C6C41DB0E343"
+				}
+				"1.1.1patch1"
+				{
+					"gid"		"A776A8AC695A452FC4E9AA0DBC6F021F"
+					"size"		"55F9EB4F6A735F9DDC0D2BCACE88934D"
+					"download"		"B445DA6DFD4B8C845E1A1A7E2B775CAD"
+				}
+				"1.1.3"
+				{
+					"gid"		"1FAFB0C6FFE41EE65143F86C1FB3E662"
+					"size"		"3DF6CDA57851B6AB4748C12E05CBCA0C"
+					"download"		"B4A231AAEA6556F3422BB62E81A566D0"
+				}
+				"1.1.3patch1"
+				{
+					"gid"		"B5528F5333AD6FED996218FD8B7A45D6"
+					"size"		"8A486F5449056AA463D39C615931AFF5"
+					"download"		"808CEEFA5CA330A29C7FA96E895DBA5D"
+				}
+				"1.1.3patch2"
+				{
+					"gid"		"BC56CD8C2FDC6D7D41117ECB6857C312"
+					"size"		"F36F059B10B2E3F7974CE625418E4C98"
+					"download"		"81FC7DF0C3476E409664C115B15935FC"
+				}
+				"1.2.0"
+				{
+					"gid"		"272008175A7949C8F31B52B52034D3C4"
+					"size"		"C72D812B4CCB92F53C707A19E4127D0A"
+					"download"		"2D804EA8B67678EC1AE712B8717CE2BA"
+				}
+				"1.2.0preview"
+				{
+					"gid"		"B581043649054CAD311E3D187B7BDB03"
+					"size"		"F7A85CC9FF1436BC0225CCD456D2D832"
+					"download"		"0233BD64E0498C6CE8FFA15932EA7FFF"
+				}
+				"1.2.1"
+				{
+					"gid"		"052CAA51CA0C8186151E64F0898EED07"
+					"size"		"498DD5990B8C274260697FC1B3DEE23A"
+					"download"		"51AED98CBF8FAA879CD24782F77BCE83"
+				}
+				"1.2.2"
+				{
+					"gid"		"17AF962074CBF6681D68DF9D624F40DA"
+					"size"		"75336BFFB8C1F8CA8ACD6D57BE400481"
+					"download"		"5698A51939E1D4E2BFE26F1D7DA0A364"
+				}
+				"1.2.3"
+				{
+					"gid"		"7DD67FB76B18178C627B9AF8A5C855D4"
+					"size"		"1549C0A1770A85BAFCB4768CFCF3E7CE"
+					"download"		"AFB76C243F58DF86ABCA85D238718EA9"
+				}
+				"1.2.4"
+				{
+					"gid"		"CB71675798872E7CD1A88B13038BFA0B"
+					"size"		"10BEBFBD27EC19F80523963726F02525"
+					"download"		"DC09B86D20B23580D426A35ACDF735B9"
+				}
+				"closebeta"
+				{
+					"gid"		"F5A3F8B0BE90988DDE147F8A18EB9331"
+					"size"		"10285B18EBE17BAE7F1CB6323E39976F"
+					"download"		"E3AD090496B2ACAB1DAEEC1E37307A5A"
+				}
+				"developertest"
+				{
+					"gid"		"C4A1657201D9E0F1E62DF2D42A5E2CEA"
+					"size"		"2E10117469D065868118BA2929DF1E5C"
+					"download"		"40F0F60BB2C9D25E8907B72D1D444BFF"
+				}
+				"experimental"
+				{
+					"gid"		"BAB863508E46F6AAF641490D4C41EE34"
+					"size"		"C58D98B3DA5F351BE691A7D8E25FE77A"
+					"download"		"D4D38FF1C4FC12B862DA1492FF6E6D5F"
+				}
+				"jpdev"
+				{
+					"gid"		"60CDEFDB37859B534E241F5EAF1B84F1"
+					"size"		"17A33ADC70A12B3F61877DF219DA6A71"
+					"download"		"9E1598D0FCD537BF51221D9914C8DE56"
+				}
+				"localizationqa"
+				{
+					"gid"		"797FDCA2C2E848CC8445B0C90F698930"
+					"size"		"EB4352C0D8D0C5D996D3E10ACF2B497C"
+					"download"		"2293B5F164B2530BCD92EE7EBCDAD957"
+				}
+				"overseaplaytest"
+				{
+					"gid"		"1D7DA00F0AFCD3F903871EE57911AC8B"
+					"size"		"59517842C09447D5030D6401858E9A65"
+					"download"		"A26207A40318D8BCD13D203BBA6657F0"
+				}
+				"steam_china_only"
+				{
+					"gid"		"CD64C3C8BF01235FC53F12A169DDD469"
+					"size"		"1B2C9069F0CD4186B401CC6025A20722"
+					"download"		"1BEA034C1E1DC6C4CC6C1125891D6300"
+				}
+				"test"
+				{
+					"gid"		"DD605E00A9859EB1367504113DE8315B"
+					"size"		"31CC2D0BE945D756220A7443BCD6F0B5"
+					"download"		"3C498DB4516206AB9B796DE2264785CE"
+				}
+			}
+		}
+		"1690260"
+		{
+			"dlcappid"		"1690260"
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Perfect Day Studio/A Perfect Day/{64BitSteamID}/Main"
+				"pattern"		"savedata.dat"
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Perfect Day Studio/A Perfect Day/{64BitSteamID}/Prologue"
+				"pattern"		"savedata.dat"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"addpath"		""
+			}
+		}
+	}
+}
