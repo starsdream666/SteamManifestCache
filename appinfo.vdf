@@ -1,0 +1,348 @@
+"appinfo"
+{
+	"appid"		"1036580"
+	"common"
+	{
+		"name"		"National Park Girls"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"clienticon"		"389d3a391092f211320b2c315ef7846c6fa068e1"
+		"clienttga"		"30410e0094583f52e440cbbf5091a12c28524a4a"
+		"icon"		"f25d7967dafa4588f11facfb8631fd7a46897d1b"
+		"logo"		"9dc494de920ad95fbda34c16b506c03b43ddeb02"
+		"logo_small"		"9dc494de920ad95fbda34c16b506c03b43ddeb02_thumb"
+		"osextended"		"macos64"
+		"metacritic_name"		"National Park Girls"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1694201538"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Studio Élan"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Studio Élan"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Studio Elan"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"National Park Girls"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1552600933"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1036580"
+		"store_tags"
+		{
+			"0"		"3799"
+			"1"		"4085"
+			"2"		"7208"
+			"3"		"13190"
+			"4"		"4726"
+			"5"		"10808"
+			"6"		"597"
+			"7"		"7250"
+			"8"		"492"
+			"9"		"4242"
+			"10"		"4136"
+			"11"		"1742"
+			"12"		"44868"
+			"13"		"21"
+			"14"		"1721"
+			"15"		"1719"
+			"16"		"4562"
+			"17"		"4182"
+			"18"		"4305"
+			"19"		"4598"
+		}
+		"review_score"		"8"
+		"review_percentage"		"91"
+	}
+	"extended"
+	{
+		"developer"		"Studio Élan"
+		"publisher"		"Studio Élan"
+		"listofdlc"		"1167520,1448920,1693720,2310480"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"National Park Girls"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"NationalParkGirls-5.1.1-win/NationalParkGirls.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"NationalParkGirls.app"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"NationalParkGirls-5.1.1-linux/NationalParkGirls.sh"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"1"
+		"1036581"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7221352828705553295"
+					"size"		"1172398836"
+					"download"		"1040271776"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta2"
+				{
+					"gid"		"4147817B86D565862F19A67D827C4289"
+					"size"		"DA088F26A0A7D68AD81B24A83688127E"
+					"download"		"1EB7B190EAF0E91E8FC954EF7D4E5283"
+				}
+			}
+		}
+		"1036582"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2552580649700299087"
+					"size"		"1152436212"
+					"download"		"1032590656"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta2"
+				{
+					"gid"		"89AE5327E1E07C5022711A4838028701"
+					"size"		"E4A66B6A08D4CDF2F7AC09FB452985AF"
+					"download"		"C5CC8DC444F420E88DFAF14208373CDB"
+				}
+			}
+		}
+		"1036583"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5429334945703004435"
+					"size"		"1153454373"
+					"download"		"1033283600"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta2"
+				{
+					"gid"		"D022719CB6444A3984A51160C997E0DD"
+					"size"		"A5E262F063F748F671976424D5A512A4"
+					"download"		"419468EA66BAF596171452E3A04A22B0"
+				}
+			}
+		}
+		"1167520"
+		{
+			"config"
+			{
+				"language"		"english"
+			}
+			"dlcappid"		"1167520"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1512861526629065822"
+					"size"		"148415952"
+					"download"		"48666944"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta2"
+				{
+					"gid"		"B9CDBB1E9AAFDAC4DED90735F4029112"
+					"size"		"222763B741B2DBD0C9CEF8ED9BC3F9D9"
+					"download"		"14B220A431925D07E86EEB477D9AA528"
+				}
+			}
+		}
+		"1448920"
+		{
+			"dlcappid"		"1448920"
+			"config"
+			{
+				"language"		"english"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6314785214208637758"
+					"size"		"333688947"
+					"download"		"110414128"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta2"
+				{
+					"gid"		"77D4EA716A0778C4D70DC272083AB9A3"
+					"size"		"8662FF510E4D39A01E4E8243495396D5"
+					"download"		"CAB9616BFB2E7D9512EFBD91675B6FB9"
+				}
+			}
+		}
+		"1693720"
+		{
+			"dlcappid"		"1693720"
+			"config"
+			{
+				"language"		"english"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5689433997469751504"
+					"size"		"371664678"
+					"download"		"120532944"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta2"
+				{
+					"gid"		"16BEA08C5A59069E4B49E000B3EB7C7D"
+					"size"		"FE90B10ABB4BF2B2BE910DCA62C7FACC"
+					"download"		"C670A2AD21FF3CF1098D90B03C04A9CF"
+				}
+			}
+		}
+		"2310480"
+		{
+			"dlcappid"		"2310480"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6459438734575406643"
+					"size"		"783983130"
+					"download"		"250157712"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta2"
+				{
+					"gid"		"B65BBA10C8310EDE98F0E28ECB9F06FF"
+					"size"		"D385415F296581E046D57AA4DA54ED54"
+					"download"		"FB7C9587FF271EB1FFE6BFEE2420857E"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12142685"
+				"timeupdated"		"1694205969"
+			}
+			"beta2"
+			{
+				"buildid"		"12142685"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694181158"
+			}
+		}
+	}
+}
