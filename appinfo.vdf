@@ -1,0 +1,396 @@
+"appinfo"
+{
+	"appid"		"1999360"
+	"common"
+	{
+		"name"		"Placid Plastic Duck Simulator"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"4cef766341cf9b07707be052a93ebedf5f197fac"
+		"clienttga"		"9d6f24e186923812ef199a1037a12508bba19876"
+		"icon"		"4d99367f8c8c43025ca0b4549a7a68ce901391e4"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"polish"		"1"
+			"turkish"		"1"
+			"brazilian"		"1"
+			"ukrainian"		"1"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1664582400"
+			"tested_build_id"		"9129673"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"68.83720930232559"
+				"height_pct"		"95.59487057706008"
+			}
+		}
+		"store_asset_mtime"		"1677511059"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"turbolento games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"turbolento games"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_23"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1657094952"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1999360"
+		"store_tags"
+		{
+			"0"		"4726"
+			"1"		"1721"
+			"2"		"5652"
+			"3"		"1654"
+			"4"		"3968"
+			"5"		"9204"
+			"6"		"4191"
+			"7"		"597"
+			"8"		"4136"
+			"9"		"10235"
+			"10"		"1697"
+			"11"		"599"
+			"12"		"7208"
+			"13"		"4305"
+			"14"		"1710"
+			"15"		"4175"
+			"16"		"5350"
+			"17"		"4166"
+			"18"		"10397"
+			"19"		"6691"
+		}
+		"review_score"		"9"
+		"review_percentage"		"98"
+	}
+	"extended"
+	{
+		"developer"		"turbolento games"
+		"publisher"		"turbolento games"
+		"homepage"		"https://twitter.com/PPDuckSimulator"
+		"listofdlc"		"2142510,2229460,2303400,2400830,2579800"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Placid Plastic Duck Simulator"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Placid Plastic Duck Simulator.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"1"
+		"1999361"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3423296003708900863"
+					"size"		"1957668194"
+					"download"		"1411056928"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testbranch"
+				{
+					"gid"		"C25869DC277401A532350690339B30E5"
+					"size"		"1D64AA687A7955A6A108D90329B7B72E"
+					"download"		"698A9FFAA459491608B5E3E0CC3784A4"
+				}
+			}
+		}
+		"2142510"
+		{
+			"dlcappid"		"2142510"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2821087503224557630"
+					"size"		"13395179"
+					"download"		"13138320"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testbranch"
+				{
+					"gid"		"A539A756904CA572383218124C5AFB3C"
+					"size"		"95E31C439E44B4548BA9B46C43D77CF3"
+					"download"		"373B6452E87F4BF66A8FBF96618864F6"
+				}
+			}
+		}
+		"2229460"
+		{
+			"dlcappid"		"2229460"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6814008795666615500"
+					"size"		"258907003"
+					"download"		"254269744"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testbranch"
+				{
+					"gid"		"CEAE3C1ECBDA651240EC1E3071232C93"
+					"size"		"B8989BFD09AA9AE98E2216D32D9B2F0A"
+					"download"		"7772AE86927AE93F0E650BDCB950B295"
+				}
+			}
+		}
+		"2303400"
+		{
+			"dlcappid"		"2303400"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3282547588959377873"
+					"size"		"15065538"
+					"download"		"14582784"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testbranch"
+				{
+					"gid"		"D326612205A62314BC8D65150FBB09B9"
+					"size"		"65A106DCA93375A3C3787467D81548F2"
+					"download"		"D6E12C667DF25647923375C293E3E932"
+				}
+			}
+		}
+		"2400830"
+		{
+			"dlcappid"		"2400830"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4251813804239175244"
+					"size"		"197959966"
+					"download"		"189989520"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testbranch"
+				{
+					"gid"		"F8AF8E95460F899E611478B0B763AEA2"
+					"size"		"A0DFFBFBF2C1F5E1644DC8EAE299E8E0"
+					"download"		"3EA8D7474C502A451401573116CBD094"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11812497"
+				"timeupdated"		"1690555101"
+			}
+			"testbranch"
+			{
+				"buildid"		"11803471"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690474232"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"50000000"
+		"maxnumfiles"		"24"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Turbolento Games/Placid Plastic Duck Simulator"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
