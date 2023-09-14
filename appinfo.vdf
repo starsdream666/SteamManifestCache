@@ -1,0 +1,325 @@
+"appinfo"
+{
+	"appid"		"620650"
+	"common"
+	{
+		"name"		"Puzzle With Your Friends"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"logo"		"8059a916dc36d49c1f5a703b3f16edc6a186d915"
+		"logo_small"		"8059a916dc36d49c1f5a703b3f16edc6a186d915_thumb"
+		"icon"		"46b9d32aa04fba355a862aeee33d8b28fea4ea50"
+		"clienttga"		"45426d0d3059e2f2d8a6474cc84d0ebca86d6b18"
+		"clienticon"		"17ecde267a437a02eacfb0927a8bc40704c3ebe4"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"45.14611727184143"
+				"height_pct"		"52.14764901448583"
+			}
+		}
+		"store_asset_mtime"		"1623365200"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"SkyCat Games"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"bumblebee."
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"SkyCat Games"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_36"		"1"
+			"category_38"		"1"
+			"category_27"		"1"
+			"category_22"		"1"
+			"category_15"		"1"
+			"category_25"		"1"
+			"category_23"		"1"
+			"category_29"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_9"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1524589802"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"620650"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"1664"
+			"2"		"492"
+			"3"		"3843"
+			"4"		"1685"
+			"5"		"3859"
+			"6"		"4182"
+			"7"		"1770"
+			"8"		"5350"
+			"9"		"17389"
+			"10"		"3871"
+			"11"		"1654"
+			"12"		"5711"
+			"13"		"4085"
+			"14"		"6815"
+			"15"		"4791"
+			"16"		"4305"
+			"17"		"4726"
+			"18"		"3964"
+			"19"		"4166"
+		}
+		"review_score"		"8"
+		"review_percentage"		"87"
+	}
+	"extended"
+	{
+		"developer"		"SkyCat Games"
+		"publisher"		"SkyCat Games"
+	}
+	"config"
+	{
+		"installdir"		"Puzzle With Your Friends"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Puzzle.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Puzzle.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Puzzle.x86"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"32"
+				}
+			}
+			"3"
+			{
+				"executable"		"Puzzle.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,italian,schinese,tchinese,russian,dutch"
+		"620651"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8702983520010877455"
+					"size"		"349407711"
+					"download"		"173414960"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"7889BC7115C14BC0E708C1F9FC76290D"
+					"size"		"A1FE5B795D53B426B0DC3034BB6FECF7"
+					"download"		"6EC09EE05577BDB7B49F5C2040A442DD"
+				}
+			}
+		}
+		"620652"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2186322646197438553"
+					"size"		"360082348"
+					"download"		"174483904"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"971DEBB922B8ED95152DD620F749EDBB"
+					"size"		"27A2D020EF9F25DE6823AFC65238C7B3"
+					"download"		"C8F1FF4DCD0516F58410A37B496CC254"
+				}
+			}
+		}
+		"620653"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2046655559969385437"
+					"size"		"359296827"
+					"download"		"174517616"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"5F4585F804D0719E931A8BEBD3537F9A"
+					"size"		"B868687962E0DAF9971A999FA676987D"
+					"download"		"C61D41F4CE2B7027F790E9DED0422FB8"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6854286"
+				"timeupdated"		"1623425655"
+			}
+			"testing"
+			{
+				"buildid"		"6938937"
+				"pwdrequired"		"1"
+				"timeupdated"		"1624741787"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"10000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Stromsky\\PuzzleWithYourFriends"
+				"pattern"		"*.*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+			"1"
+			{
+				"root"		"MacAppSupport"
+				"path"		"Stromsky\\PuzzleWithYourFriends"
+				"pattern"		"*.*"
+				"platforms"
+				{
+					"1"		"MacOS"
+				}
+				"recursive"		"1"
+			}
+			"2"
+			{
+				"root"		"LinuxXdgDataHome"
+				"path"		"Stromsky\\PuzzleWithYourFriends"
+				"pattern"		"*.*"
+				"platforms"
+				{
+					"1"		"Linux"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
