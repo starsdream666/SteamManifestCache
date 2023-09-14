@@ -1,0 +1,190 @@
+"appinfo"
+{
+	"appid"		"1304470"
+	"common"
+	{
+		"name"		"降妖神兵"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"name_localized"
+		{
+			"schinese"		"降妖神兵"
+		}
+		"clienttga"		"c887749172a2d179460dab99e36ac7c5ffc66cd2"
+		"clienticon"		"5718486d1ccc30a8afa219a79d5e47509a3e926f"
+		"icon"		"d3b4ed942d117f5aa2def8c9761247b2c052e76f"
+		"logo"		"ddb4276f9eef3e9933ac8871501045da166be8d7"
+		"logo_small"		"ddb4276f9eef3e9933ac8871501045da166be8d7_thumb"
+		"clienticns"		"cb9a149177b042a47ffc8510fd518a72c6406b21"
+		"linuxclienticon"		"cb9a149177b042a47ffc8510fd518a72c6406b21"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"schinese"		"header_schinese.jpg"
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"zh-cn,en"
+			"library_hero"		"en,zh-cn"
+			"library_logo"		"en,zh-cn"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"46.92059816881708"
+			}
+		}
+		"store_asset_mtime"		"1688880533"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"易远游戏"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"易远游戏"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"23"
+			"4"		"3"
+			"5"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1680185588"
+		"community_hub_visible"		"1"
+		"gameid"		"1304470"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"599"
+			"2"		"122"
+			"3"		"597"
+			"4"		"492"
+			"5"		"1720"
+			"6"		"3871"
+			"7"		"1684"
+			"8"		"19"
+			"9"		"4236"
+			"10"		"4004"
+			"11"		"3993"
+			"12"		"5981"
+			"13"		"15564"
+			"14"		"4231"
+			"15"		"87918"
+			"16"		"4106"
+			"17"		"3834"
+			"18"		"1697"
+			"19"		"4182"
+		}
+		"review_score"		"6"
+		"review_percentage"		"76"
+	}
+	"extended"
+	{
+		"developer"		"易远游戏"
+		"publisher"		"易远游戏"
+	}
+	"config"
+	{
+		"installdir"		"xiangyaoshenbing"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MZ/game.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"schinese"
+		"1304471"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6407630254423640601"
+					"size"		"569945117"
+					"download"		"340094000"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12159286"
+				"timeupdated"		"1694436974"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"20971520"
+		"maxnumfiles"		"100"
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"SteamCloudDocuments"
+				"os"		"Windows"
+				"oscompare"		"="
+				"useinstead"		"gameinstall"
+				"addpath"		""
+			}
+		}
+		"savefiles"
+		{
+			"1"
+			{
+				"root"		"gameinstall"
+				"path"		"MZ/save"
+				"pattern"		"*.rmmzsave"
+			}
+		}
+	}
+}
