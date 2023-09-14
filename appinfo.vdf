@@ -1,0 +1,348 @@
+"appinfo"
+{
+	"appid"		"558420"
+	"common"
+	{
+		"name"		"Stories Untold"
+		"type"		"Game"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"logo"		"7b69cc8ffac029f061319881f815aa599c7c7e19"
+		"logo_small"		"7b69cc8ffac029f061319881f815aa599c7c7e19_thumb"
+		"icon"		"eab55497ce0a8f8211de67b3e06139fef96fb900"
+		"clienticon"		"89ba4b060c5771df8cc2cf4eac797967d49c10c9"
+		"clienttga"		"305abee0a60206ada952f699da7f1ea6ad337c59"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1652227200"
+			"tested_build_id"		"2177499"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Stories Untold"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"42.67734553775744"
+				"height_pct"		"42.02089764901448"
+			}
+		}
+		"store_asset_mtime"		"1568650742"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"No Code"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Devolver Digital"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1488211214"
+		"metacritic_score"		"81"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/stories-untold?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"558420"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"492"
+			"2"		"31275"
+			"3"		"4166"
+			"4"		"1667"
+			"5"		"1721"
+			"6"		"4182"
+			"7"		"1698"
+			"8"		"4004"
+			"9"		"7743"
+			"10"		"4064"
+			"11"		"3942"
+			"12"		"1742"
+			"13"		"1664"
+			"14"		"1756"
+			"15"		"5716"
+			"16"		"18594"
+			"17"		"3839"
+			"18"		"5900"
+			"19"		"11014"
+		}
+		"review_score"		"8"
+		"review_percentage"		"87"
+	}
+	"extended"
+	{
+		"developer"		"No Code"
+		"publisher"		"Devolver Digital"
+		"homepage"		"http://www.nocodestudio.com/"
+		"listofdlc"		"611740"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Stories Untold"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Stories Untold.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+			}
+			"1"
+			{
+				"executable"		"Stories Untold.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"2"
+			{
+				"executable"		"Stories Untold 1.3 OSX 64 Steam/Stories Untold OSX 64 Steam.app"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"hasdepotsindlc"		"0"
+		"558421"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4849521808959534472"
+					"size"		"1950214084"
+					"download"		"648969424"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"D62ED301B2CEC65D646451CFAB6CEBDB"
+					"size"		"288CDB376020DB913A7C5DF48E3D659D"
+					"download"		"EAFCDBD20F74E0D63983610FCF665EAE"
+				}
+				"stories_untold_beta_test"
+				{
+					"gid"		"E9747D2261C44494723C7DE7394B7A75"
+					"size"		"DB9811D407BC2404F40D4B7CBFDF76F2"
+					"download"		"B11243D385A650F87F9E3135DC210BCC"
+				}
+				"stories_untold_osx_beta"
+				{
+					"gid"		"BA71AA55ADA8F67BE0C620E89C289F88"
+					"size"		"B6338BDAEF87F1AB84AD09E3D939ABE0"
+					"download"		"B8C0BAFEEBF016A658AF5F10BF5A7D74"
+				}
+			}
+		}
+		"558422"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4082092026639290665"
+					"size"		"1942618052"
+					"download"		"647152144"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"845F32BC94EC9E7E67BD2E5BC212EBA1"
+					"size"		"7166593FFF51FA66AC0F27DAD6FF3A9B"
+					"download"		"EC12AE828A52B5558BB6542E24AAFD13"
+				}
+				"stories_untold_beta_test"
+				{
+					"gid"		"0D67C21C1873C3EEEB4FCE9FBD696AB3"
+					"size"		"2BD9397DA51D7EF55E49398C51F4BAC8"
+					"download"		"F181B2A92DECE4856E40156D90E1C514"
+				}
+				"stories_untold_osx_beta"
+				{
+					"gid"		"84EB816A8B5C5F2E6BB8BD6AF269F3A1"
+					"size"		"14F16B196257B64AFC969BC1F83EE771"
+					"download"		"64CC3C991A0531624FBD1AC96F9891F9"
+				}
+			}
+		}
+		"611740"
+		{
+			"dlcappid"		"611740"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5056226484504411006"
+					"size"		"119263901"
+					"download"		"116688912"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"04B53C5061882B7043479926102A79A9"
+					"size"		"BB153D1D50DB66CFA0231572A52AD3ED"
+					"download"		"E4B8BF61A9CC006730023FC43742CE76"
+				}
+				"stories_untold_beta_test"
+				{
+					"gid"		"7A63BD65F78C2666FB7CE63197630ACE"
+					"size"		"0D9A7B33412FEFB673590BA531082E69"
+					"download"		"30920F140AEE3E1C75836697F01A5469"
+				}
+				"stories_untold_osx_beta"
+				{
+					"gid"		"4E56B44B97C1ABE106B58AE485AA50FE"
+					"size"		"26C6CF1544C45F41343BCEEFB33EE5A5"
+					"download"		"378C95324788412472A1A9E9D7A875CF"
+				}
+			}
+		}
+		"558423"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8096117324363856726"
+					"size"		"1938712297"
+					"download"		"644542256"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"stories_untold_osx_beta"
+				{
+					"gid"		"D6E9E403D5EE8A41EFD56205777CB349"
+					"size"		"BEE075B03A1805554CE8EAFD2212354F"
+					"download"		"2875EB37F59C3B6626D5E2282C837069"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2177499"
+				"timeupdated"		"1507295035"
+			}
+			"beta"
+			{
+				"buildid"		"1717623"
+				"pwdrequired"		"1"
+				"timeupdated"		"1490630284"
+			}
+			"stories_untold_beta_test"
+			{
+				"buildid"		"2102734"
+				"pwdrequired"		"1"
+				"timeupdated"		"1504867116"
+			}
+			"stories_untold_osx_beta"
+			{
+				"buildid"		"2177499"
+				"pwdrequired"		"1"
+				"timeupdated"		"1507283588"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"512"
+		"maxnumfiles"		"10"
+	}
+}
