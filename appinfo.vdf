@@ -1,0 +1,176 @@
+"appinfo"
+{
+	"appid"		"2139500"
+	"common"
+	{
+		"name"		"Waste Life 1 消耗阳寿1"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"d8c5f35ad21d5a469e8f8acfcd54657ad07feb3b"
+		"clienttga"		"c57bfcb373a63e2235e48cb1aac813395bb5fcfd"
+		"clienticns"		"316e5dce381a450af10349a5ffdba29e3c0b390f"
+		"linuxclienticon"		"c4244a038f5e1641e8171ba70f8b8069ce5d1c02"
+		"clienticon"		"657de4b8055596dec307706859c658b11dcf72dc"
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+		}
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"40.83101246028127"
+				"height_pct"		"65.89403973509934"
+			}
+		}
+		"store_asset_mtime"		"1667481267"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"电线杆工作室/TPole"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"电线杆工作室/TPole"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"2"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_33"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1664350971"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2139500"
+		"store_tags"
+		{
+			"0"		"4637"
+			"1"		"1774"
+			"2"		"3871"
+			"3"		"4136"
+			"4"		"597"
+			"5"		"4094"
+			"6"		"1708"
+			"7"		"5154"
+			"8"		"3993"
+			"9"		"4182"
+			"10"		"493"
+			"11"		"492"
+			"12"		"9"
+			"13"		"3810"
+			"14"		"1773"
+		}
+	}
+	"extended"
+	{
+		"developer"		"电线杆工作室/TPole"
+		"publisher"		"电线杆工作室/TPole"
+	}
+	"config"
+	{
+		"installdir"		"Waste Life 1"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Waste Life 1.exe"
+				"type"		"default"
+				"description_loc"
+				{
+					"schinese"		"消耗阳寿1"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"6"
+		"steamcontrollertouchtemplateindex"		"8"
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"65535"
+	}
+	"depots"
+	{
+		"baselanguages"		"english,schinese"
+		"hasdepotsindlc"		"1"
+		"2139501"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4797594258937451886"
+					"size"		"95748738"
+					"download"		"27085168"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9861855"
+				"timeupdated"		"1667481111"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"2048"
+		"maxnumfiles"		"100"
+		"sync_while_suspended"		"1"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"SavesDir"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
