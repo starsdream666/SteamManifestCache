@@ -1,0 +1,227 @@
+"appinfo"
+{
+	"appid"		"1795960"
+	"common"
+	{
+		"name"		"Twins Edge"
+		"type"		"Game"
+		"logo"		"8b486f6d616935bbbfe52b5e2eb8717a56a1ee06"
+		"logo_small"		"8b486f6d616935bbbfe52b5e2eb8717a56a1ee06_thumb"
+		"icon"		"52d7969043057c808ab689ad1582e2d600b2d340"
+		"clienticon"		"c12421f5c897e6f24b9786e6f2fdfadf0895c2f0"
+		"clienttga"		"7a3d77d09d41f0ff40647287f91b4c1470f4972e"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"koreana"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+		}
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"32.20025337712465"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1642143948"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Lovely Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Lovely Games"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1643015209"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1795960"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"1664"
+			"2"		"3834"
+			"3"		"9"
+			"4"		"1720"
+			"5"		"4726"
+			"6"		"4172"
+			"7"		"1684"
+			"8"		"5608"
+			"9"		"12095"
+			"10"		"4057"
+			"11"		"4604"
+			"12"		"1773"
+			"13"		"3871"
+			"14"		"5537"
+			"15"		"4085"
+			"16"		"1654"
+			"17"		"4136"
+			"18"		"7208"
+			"19"		"4182"
+		}
+		"review_score"		"5"
+		"review_percentage"		"60"
+	}
+	"extended"
+	{
+		"developer"		"Lovely Games"
+		"publisher"		"Lovely Games"
+		"listofdlc"		"1837310"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Twins Edge"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Twins Edge Back and Forth.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"1795961"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2888555690913567481"
+					"size"		"313791903"
+					"download"		"155582704"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"AF69743FC87CE948ACC8D334D9BBC69F"
+					"size"		"359CB271063FFEF17E73DC668D7BD95D"
+					"download"		"F6CF2C77FAC24C246AF7B70AA7471847"
+				}
+			}
+		}
+		"1837310"
+		{
+			"dlcappid"		"1837310"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"158364411319458616"
+					"size"		"3034668991"
+					"download"		"258258384"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"3484CF74627293550377859267EC9EA0"
+					"size"		"23F191563A90DFDAE81E5DCB9FDEAF29"
+					"download"		"561F46258A55310B3255D01EDD28C65D"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8073933"
+				"timeupdated"		"1643021148"
+			}
+			"test"
+			{
+				"buildid"		"8073933"
+				"pwdrequired"		"1"
+				"timeupdated"		"1643020947"
+			}
+		}
+	}
+}
