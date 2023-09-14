@@ -1,0 +1,217 @@
+"appinfo"
+{
+	"appid"		"1528520"
+	"common"
+	{
+		"name"		"Fenrir's Prelude"
+		"type"		"Game"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		""
+		"name_localized"
+		{
+		}
+		"logo"		"9d825c25033f5f76bfdc4037676e6b1ea094aa67"
+		"logo_small"		"9d825c25033f5f76bfdc4037676e6b1ea094aa67_thumb"
+		"icon"		"985d8757acbc8038cd72d10bbdae13151e70ba30"
+		"clienttga"		"e16c985a2c4f60df74115f10eda26a169f105c27"
+		"clienticon"		"43c78c1927f63a62b1518aea84ed6bb4ca808da9"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"2"
+			"2"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"has_adult_content_violence"		"1"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"18.732181009932262"
+				"height_pct"		"56.924391921051296"
+			}
+		}
+		"store_asset_mtime"		"1622498423"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Ragnarok Aesthetic"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Ragnarok Aesthetic"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1625024603"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1528520"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"21"
+			"2"		"10695"
+			"3"		"1741"
+			"4"		"4434"
+			"5"		"3871"
+			"6"		"4085"
+			"7"		"3964"
+			"8"		"1751"
+			"9"		"4604"
+			"10"		"3952"
+			"11"		"3854"
+			"12"		"7432"
+			"13"		"4057"
+			"14"		"16094"
+			"15"		"10808"
+			"16"		"4325"
+			"17"		"4182"
+			"18"		"12095"
+			"19"		"19"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Ragnarok Aesthetic"
+		"publisher"		"Ragnarok Aesthetic"
+		"homepage"		"http://RagnarokAesthetic.com"
+	}
+	"config"
+	{
+		"installdir"		"Fenrir's Prelude"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Game.exe"
+				"arguments"		"--in-process-gpu"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"game.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1528521"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		"english"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6171568114255783366"
+					"size"		"1413585770"
+					"download"		"970955424"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"4F594144BF6DE9C3157DAE3E15B4AF9A"
+					"size"		"E74C13A148FEB3CFF72F0739C7E7C176"
+					"download"		"AC0A100B3014BC99DF59DBC91DB63EA7"
+				}
+				"mac_ver"
+				{
+					"gid"		"5138E324947CCB49781797B89AA39D9D"
+					"size"		"34D9716244D866F0706A5E91DE3D7819"
+					"download"		"D04BD1BA72EBB4B7C4BF03F2F7D7D1F3"
+				}
+			}
+		}
+		"1528522"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4607541795589706780"
+					"size"		"1100345770"
+					"download"		"585525904"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8553279"
+				"timeupdated"		"1649877193"
+			}
+			"beta"
+			{
+				"buildid"		"8330487"
+				"pwdrequired"		"1"
+				"timeupdated"		"1646704032"
+			}
+			"mac_ver"
+			{
+				"buildid"		"8201798"
+				"pwdrequired"		"1"
+				"timeupdated"		"1644866892"
+			}
+		}
+	}
+}
