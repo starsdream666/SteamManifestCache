@@ -1,0 +1,191 @@
+"appinfo"
+{
+	"appid"		"640380"
+	"common"
+	{
+		"name"		"UBERMOSH Vol.5"
+		"type"		"Game"
+		"oslist"		"windows,linux"
+		"osarch"		""
+		"clienticon"		"426d947d6eed07388e5f1c1ae2402258485da5b5"
+		"clienttga"		"f2f4758e115aa14f01b3f0836b082e353cbeb7cb"
+		"icon"		"0e22b6611485da170ae1d2dc7aa101f87f833e49"
+		"logo"		"f66f4367e98eb5f022ab8fa8c66c376020e06ef1"
+		"logo_small"		"f66f4367e98eb5f022ab8fa8c66c376020e06ef1_thumb"
+		"releasestate"		"released"
+		"metacritic_name"		"UBERMOSH Vol.5"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1568685013"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Walter Machado"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Walter Machado"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Walter Machado"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1495737150"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"640380"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"19"
+			"2"		"1773"
+			"3"		"1734"
+			"4"		"4004"
+			"5"		"3964"
+			"6"		"4885"
+			"7"		"4182"
+			"8"		"4637"
+			"9"		"4026"
+			"10"		"4345"
+			"11"		"1695"
+			"12"		"1774"
+			"13"		"4758"
+			"14"		"4255"
+			"15"		"5851"
+			"16"		"4791"
+			"17"		"4115"
+			"18"		"1716"
+			"19"		"42804"
+		}
+		"review_score"		"8"
+		"review_percentage"		"94"
+	}
+	"extended"
+	{
+		"developer"		"Walter Machado"
+		"publisher"		"Walter Machado"
+	}
+	"config"
+	{
+		"installdir"		"UBERMOSH Vol.5"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"UBERMOSH Vol5.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"run.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"640381"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4576549929807173262"
+					"size"		"413110926"
+					"download"		"343000752"
+				}
+			}
+		}
+		"640382"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2331990115635616182"
+					"size"		"410064978"
+					"download"		"341620096"
+				}
+			}
+		}
+		"baselanguages"		"english"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1972269"
+				"timeupdated"		"1500478486"
+			}
+		}
+	}
+}
