@@ -1,0 +1,158 @@
+"appinfo"
+{
+	"appid"		"1321120"
+	"common"
+	{
+		"name"		"末路调色板"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"6e6ae274065a5f3c349535a6b673dc39116a5bd2"
+		"logo_small"		"6e6ae274065a5f3c349535a6b673dc39116a5bd2_thumb"
+		"icon"		"02c2e89cc36978c01e96c4e3cafbae26898551f6"
+		"clienticon"		"f98dedf2081e6808f32e02c7123cc10813d62f5d"
+		"clienttga"		"52049f8329b3dc57704c29dc51d2a5d485cb3153"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"68.6055461204989"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1602227421"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"SleepingMuseum"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Pujia8 Studio"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"23"
+			"3"		"3"
+			"4"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1602727679"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1321120"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"21"
+			"2"		"122"
+			"3"		"597"
+			"4"		"599"
+		}
+		"review_score"		"8"
+		"review_percentage"		"97"
+	}
+	"extended"
+	{
+		"developer"		"SleepingMuseum"
+		"publisher"		"Pujia8 Studio"
+		"homepage"		"http://www.pujia8.com/"
+	}
+	"config"
+	{
+		"installdir"		"matsuro"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"matsuro.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1321121"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6895134298108455111"
+					"size"		"279605856"
+					"download"		"49577136"
+				}
+			}
+		}
+		"baselanguages"		"schinese"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5556323"
+				"timeupdated"		"1600326153"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"SleepingMuseum/matsuro"
+				"pattern"		"*.*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
