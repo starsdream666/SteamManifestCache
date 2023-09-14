@@ -1,0 +1,726 @@
+"appinfo"
+{
+	"appid"		"1545560"
+	"common"
+	{
+		"name"		"Shadow Gambit: The Cursed Crew"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"7b076818da79e63f2259494b6c2780ebaa98a9bf"
+		"clienticon"		"e7c4096980da22e51cd2675cc4aac499824c7ab2"
+		"clienttga"		"6012ea81d68607ad0dfc5610e61f17101373c1fd"
+		"releasestate"		"released"
+		"name_localized"
+		{
+			"japanese"		"Shadow Gambit: カリブの呪い"
+			"schinese"		"影子诡局：被诅咒的海盗"
+			"tchinese"		"暗影詭計：受詛咒的船員"
+		}
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"polish"		"1"
+			"turkish"		"1"
+			"brazilian"		"1"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1692921600"
+			"tested_build_id"		"11956762"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Shadow Gambit: The Cursed Crew"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"27.187864644107336"
+				"height_pct"		"66.71732445262576"
+			}
+		}
+		"store_asset_mtime"		"1692366260"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Mimimi Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Mimimi Games"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Shadow Gambit"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"3"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1692287818"
+		"metacritic_score"		"85"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/shadow-gambit-the-cursed-crew?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1545560"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"122"
+			"2"		"21725"
+			"3"		"1676"
+			"4"		"1684"
+			"5"		"1687"
+			"6"		"1708"
+			"7"		"4604"
+			"8"		"19"
+			"9"		"3834"
+			"10"		"10695"
+			"11"		"4182"
+			"12"		"4747"
+			"13"		"4166"
+			"14"		"4305"
+			"15"		"1742"
+			"16"		"4057"
+			"17"		"3813"
+			"18"		"7107"
+			"19"		"1681"
+		}
+		"review_score"		"9"
+		"review_percentage"		"95"
+	}
+	"extended"
+	{
+		"developer"		"Mimimi Games"
+		"publisher"		"Mimimi Games"
+		"homepage"		"https://shadowgambit.com"
+		"listofdlc"		"2505850"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Shadow Gambit The Cursed Crew"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ShadowGambit_TCC.exe"
+				"arguments"		"-mimimi"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"skartoffel_unity.exe"
+				"arguments"		"-mimimi"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"bizdev, development, development_debug, kowloon, loca, milestone, nightly, nightly_debug,playtest-internal, playtest-internal-exp,taskforce,temp,testing-external-compatqa ,testing-external-qa ,testing-external-qa-backup ,trailer-capturing ,trailer-capturing-backup"
+				}
+				"description_loc"
+				{
+					"english"		"skartoffel_unity.exe (legacy executable)"
+				}
+				"description"		"skartoffel_unity.exe (legacy executable)"
+			}
+		}
+		"steamdecktouchscreen"		"5"
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1545561"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7022912204298796169"
+					"size"		"23286596934"
+					"download"		"12512499120"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"A7123D7D4578A0FFF0011E1A66303199"
+					"size"		"F86B0E82771DD5ED8E9CA3BCB5C2272D"
+					"download"		"0941ACBFD097DCBF19726F547C776B2F"
+				}
+				"development_debug"
+				{
+					"gid"		"A0FA7EE58E9FCC252FD00C1E1B75C2CC"
+					"size"		"F37FD7E3DEE4B59B2264AB3A544999A1"
+					"download"		"9BB044A3F0EEAEE5F2801040ED6F1C9A"
+				}
+				"development_steam"
+				{
+					"gid"		"D2BFD1F78E94C08C87CBA41DCECB94E2"
+					"size"		"4FC2247C26244F06E7B99267FA880FF2"
+					"download"		"AFFE0941E2173F978E7D14FD8433B724"
+				}
+				"development_steam_debug"
+				{
+					"gid"		"E1BCF963C24ED8B65B6BE267D5275FD3"
+					"size"		"51397DD3E4DC9518122B2141E4740C15"
+					"download"		"856682DF0B3DB3C97ABB9AF2B0B3612B"
+				}
+				"loca"
+				{
+					"gid"		"37DE3658C1626C1CD046DFC30EB19A4A"
+					"size"		"9448652FE815A5F9846CBFE33D58E119"
+					"download"		"59B974BD3E5C7810A93892FC7CADCCCB"
+				}
+				"milestone"
+				{
+					"gid"		"91B084DC08906A65590627686B2F3922"
+					"size"		"5A0D212031FBC6DE1A7B6A2B657AF96E"
+					"download"		"4A2E5C026EBE983CC1CDD8E2B1EEA73F"
+				}
+				"nightly"
+				{
+					"gid"		"A2B337DCD97194E06DC85AFA38CA62B7"
+					"size"		"D28761824ED3F1A562A32E00C25928C4"
+					"download"		"F41A998CD6460827A7AD7009D1148E85"
+				}
+				"nightly_debug"
+				{
+					"gid"		"428ADE6AFA179EF7D1E671EDE59CC13C"
+					"size"		"CF10FFD91572A670CDB62974EEDD468C"
+					"download"		"A446F4837BADCBA796D5D8D95726FCF3"
+				}
+				"nightly_steam"
+				{
+					"gid"		"EC3E77FB793C7A4159956E925DA27224"
+					"size"		"C4F7C7E3DE48A0150DCDBBF1DA632371"
+					"download"		"EF686DBFC6EE80E0206A1639C5E71392"
+				}
+				"nightly_steam_debug"
+				{
+					"gid"		"F5CF73DF5C8BDA70B0E35449C6693654"
+					"size"		"FE7ECDA2995A94382D6ED80767847FAE"
+					"download"		"3AC1DA96CB1DCCF3FCD85BFE9B2CE789"
+				}
+				"playtest-internal"
+				{
+					"gid"		"F4DA273CC11433B8330E2760E77C01C2"
+					"size"		"F5362A5B179C81C2A05A2854ACD63592"
+					"download"		"8B7C0682273464049D33202CFD722BDD"
+				}
+				"playtest-internal-exp"
+				{
+					"gid"		"D44922278AD9BCFCAE7F91B76D77F30B"
+					"size"		"1063B14C7BFFB5F1259E73C2E132050E"
+					"download"		"6FF78CD1C901F2BDE6A1B18EDA3F3AE8"
+				}
+				"review-build"
+				{
+					"gid"		"DFCAFE9ADDCA945D722CBF8AA635FFE2"
+					"size"		"5969300C8DFD910692518B9DED6A794A"
+					"download"		"9673DDBCA5CED88848770F12257BCAD2"
+				}
+				"staging"
+				{
+					"gid"		"8546F106ABD18E17F2645CB57988FBB9"
+					"size"		"76D447891C12BF0D897CAC4202956EEC"
+					"download"		"A4F680B84749793F34FC480EB7E1134B"
+				}
+				"steam-review"
+				{
+					"gid"		"7FC81B4B179BC2002489E0A61771F8FE"
+					"size"		"33D5A3FB84AABD1EC9E2BD5663ECB63B"
+					"download"		"250D967EAC8D5316E0B7319A8F0B156C"
+				}
+				"temp"
+				{
+					"gid"		"55E8CA1BA16E2BA044080802CD7F4ED3"
+					"size"		"AD1A09FB93E54AE6854DF12D286DAFF6"
+					"download"		"3E90E6CFE609BF16BEE5F6632789BF2B"
+				}
+				"testing-external-qa"
+				{
+					"gid"		"EF690C3BAE7954C33F5F6AF871F7622E"
+					"size"		"7AE9B08709063451AF917C2D11406AFB"
+					"download"		"F19D29A92BC9A130F9A4497E2E216396"
+				}
+				"testing-external-qa-backup"
+				{
+					"gid"		"8B6F95E4E27B078E5EE70AFCA18A7FF5"
+					"size"		"389BE7A74E2EE148EBC932FD6F1DA282"
+					"download"		"E1D691972740AC824A9E45E913093F2B"
+				}
+				"trailer-capturing"
+				{
+					"gid"		"060AB05AC51CB3B10BF6D221E3BD6909"
+					"size"		"A2C376192003F28D38BD0591807CDC8B"
+					"download"		"D5448B8CD2C97083F99373E38B476B3C"
+				}
+				"trailer-capturing-backup"
+				{
+					"gid"		"DF4A802C1C381667046C25A17CA5D1FA"
+					"size"		"FEB83CF7986BAA8D17E01A392C0A0F0D"
+					"download"		"2170EAD8C21803EF162BD30E4CF9919C"
+				}
+			}
+		}
+		"2304810"
+		{
+			"dlcappid"		"2304810"
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"loca"
+				{
+					"gid"		"54AE239301C5255DE9DB36E148BA1EE3"
+					"size"		"8C2E32174889A72EC1798BC091EBF485"
+					"download"		"8C209019934EA343AB74C080762DCCA4"
+				}
+				"nightly_debug"
+				{
+					"gid"		"2E208FFDDC297B2D1A57DFDB9EEC041C"
+					"size"		"8C4C67CCD4635CD5CEEA9722EBD70831"
+					"download"		"4567A236FF08F51F1507ECE28A89B1AD"
+				}
+				"playtest-internal"
+				{
+					"gid"		"C65F7B2D44492CEEBCEC2144144A67C8"
+					"size"		"75C48CEF9566B2FC3296AB86CA7A564A"
+					"download"		"E78C84F125FAC6A2DA1712B0F33E79B1"
+				}
+				"playtest-internal-exp"
+				{
+					"gid"		"C1205BC6D94D7E740A52935861234923"
+					"size"		"FE7C2921EEB75BF6D0BF5EA0CF937E42"
+					"download"		"4D15C2570EAD32DAF40331367B06D38E"
+				}
+				"temp"
+				{
+					"gid"		"220F2D796671FE32A83A439BA61FDFF5"
+					"size"		"44C4E64CCC75608CFC619756CB59BAF6"
+					"download"		"CAF6A458785D49FCFDB11A5B1DCFD23D"
+				}
+				"testing-external-qa"
+				{
+					"gid"		"8B1DB908DCB781AD71B481842873DD04"
+					"size"		"8281B1711830F1DBFC8F6E9C575A44C3"
+					"download"		"DE7D8A6982F306C0903BC88FD26A4844"
+				}
+				"testing-external-qa-backup"
+				{
+					"gid"		"244025F0427B9BC0BCC9774140F2717F"
+					"size"		"E0463A2BECCDE1AD5E12A80BD0AC53AA"
+					"download"		"6A66C9BB1B4DCF55A5D14D9634FECB1F"
+				}
+				"trailer-capturing"
+				{
+					"gid"		"E04163B9CD9E6A356BB252D52D5DDB9F"
+					"size"		"272D1BBA0C902DC92B06DCE2C085280F"
+					"download"		"3608B8A2CEB034CC230D59E093F7DA36"
+				}
+				"trailer-capturing-backup"
+				{
+					"gid"		"3990DED8B281881C9C1B686A079391E6"
+					"size"		"F96AB8BB43B90338396377C53F4409E1"
+					"download"		"E63C42A17850E5DE3628B6084D7887C9"
+				}
+			}
+		}
+		"2505850"
+		{
+			"dlcappid"		"2505850"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4895193766798963042"
+					"size"		"251997110"
+					"download"		"242904176"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"nightly_debug"
+				{
+					"gid"		"CB9138A1AE84B7B46C1813CE389B0B98"
+					"size"		"F88A8C8DECDB50FB92EE5E90B9D8DF55"
+					"download"		"733ED1F2D582BEA2985940DE4BB951F5"
+				}
+				"playtest-internal"
+				{
+					"gid"		"859665BF201558CC947E246828A7594E"
+					"size"		"289D90F7206E96AEE3700F04A85CDCEB"
+					"download"		"D092B45FEC180C76543B5EE2AFEE37AD"
+				}
+				"staging"
+				{
+					"gid"		"06A7291FCE86A1245089F3B0595B046D"
+					"size"		"C4A9D5DB94B2BD29E17F9DD66E8C96F0"
+					"download"		"9AEE33060EE965B8D4BC74A01451848C"
+				}
+				"testing-external-qa"
+				{
+					"gid"		"F75CDDA5AD9C44D2C8CF5D5B63F00D44"
+					"size"		"D787E7AEF21042D2E2E1AB6CD1846A60"
+					"download"		"CFCE868DE4EE5A04C5DFEB486C54D181"
+				}
+			}
+		}
+		"workshopdepot"		"1545560"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12090376"
+				"timeupdated"		"1694005330"
+			}
+			"development"
+			{
+				"buildid"		"12164267"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694480118"
+			}
+			"development_debug"
+			{
+				"buildid"		"12164271"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694480178"
+			}
+			"development_steam"
+			{
+				"buildid"		"12165027"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694487977"
+			}
+			"development_steam_debug"
+			{
+				"buildid"		"12165035"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694488036"
+			}
+			"loca"
+			{
+				"buildid"		"11645960"
+				"pwdrequired"		"1"
+				"timeupdated"		"1688716988"
+			}
+			"milestone"
+			{
+				"buildid"		"9398577"
+				"pwdrequired"		"1"
+				"timeupdated"		"1661787253"
+			}
+			"nightly"
+			{
+				"buildid"		"12174546"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694575097"
+			}
+			"nightly_debug"
+			{
+				"buildid"		"12174553"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694575172"
+			}
+			"nightly_steam"
+			{
+				"buildid"		"12139019"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694153614"
+			}
+			"nightly_steam_debug"
+			{
+				"buildid"		"12139034"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694153683"
+			}
+			"playtest-internal"
+			{
+				"buildid"		"12011437"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692783118"
+			}
+			"playtest-internal-exp"
+			{
+				"buildid"		"12032156"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692964845"
+			}
+			"review-build"
+			{
+				"buildid"		"11698833"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689584289"
+			}
+			"staging"
+			{
+				"buildid"		"12177486"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694603474"
+			}
+			"steam-review"
+			{
+				"buildid"		"11907028"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691684922"
+			}
+			"temp"
+			{
+				"buildid"		"11679710"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689179687"
+			}
+			"testing-external-qa"
+			{
+				"buildid"		"11972128"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692341724"
+			}
+			"testing-external-qa-backup"
+			{
+				"buildid"		"11972456"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692341744"
+			}
+			"trailer-capturing"
+			{
+				"buildid"		"11845429"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691056192"
+			}
+			"trailer-capturing-backup"
+			{
+				"buildid"		"11734881"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689952160"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000000"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"ShadowGambit_TCC/user_steam_{64BitSteamID}"
+				"pattern"		"gameplaySettings.save"
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"ShadowGambit_TCC/user_steam_{64BitSteamID}"
+				"pattern"		"userData.save"
+			}
+			"2"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"ShadowGambit_TCC/user_steam_{64BitSteamID}/gameState_00"
+				"pattern"		"*"
+				"recursive"		"1"
+			}
+			"3"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"ShadowGambit_TCC/user_steam_{64BitSteamID}/gameState_01"
+				"pattern"		"*"
+				"recursive"		"1"
+			}
+			"4"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"ShadowGambit_TCC/user_steam_{64BitSteamID}/gameState_02"
+				"pattern"		"*"
+				"recursive"		"1"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"addpath"		""
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocal"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxXdgDataHome"
+				"addpath"		""
+			}
+		}
+	}
+}
