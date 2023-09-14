@@ -1,0 +1,187 @@
+"appinfo"
+{
+	"appid"		"1118050"
+	"common"
+	{
+		"name"		"Terminal squad: Sentinel"
+		"type"		"Game"
+		"clienticon"		"72a33fe7ccc1dfa6b6314cec1ef08a6c2271aef5"
+		"logo"		"0ff9b1091ca7fece5a0b7bc26779a9e6cba381ae"
+		"logo_small"		"0ff9b1091ca7fece5a0b7bc26779a9e6cba381ae_thumb"
+		"icon"		"153001f9ecf041de245448e1ce986cd5c5fb8e2e"
+		"languages"
+		{
+			"english"		"1"
+			"russian"		"1"
+		}
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"metacritic_name"		"Terminal squad: Sentinel"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+		}
+		"store_asset_mtime"		"1693865517"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Droid Riot"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		" Conglomerate 5"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Conglomerate 5"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_22"		"1"
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1576768327"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1118050"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"492"
+			"2"		"1665"
+			"3"		"3942"
+			"4"		"122"
+			"5"		"1645"
+			"6"		"4026"
+			"7"		"1664"
+			"8"		"17305"
+			"9"		"3813"
+			"10"		"3871"
+			"11"		"3964"
+			"12"		"1673"
+			"13"		"4821"
+			"14"		"6129"
+			"15"		"6625"
+			"16"		"5154"
+			"17"		"4202"
+			"18"		"4182"
+			"19"		"3993"
+		}
+		"review_score"		"5"
+		"review_percentage"		"68"
+	}
+	"extended"
+	{
+		"developer"		"Droid Riot"
+		"publisher"		" Conglomerate 5"
+	}
+	"config"
+	{
+		"installdir"		"Terminal squad Sentinel"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"game_3vryad.exe"
+				"type"		"none"
+			}
+		}
+	}
+	"depots"
+	{
+		"1118051"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3882413007249630558"
+					"size"		"38332437"
+					"download"		"30310256"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"824BB6929D6A015A4D7D6EEE0AA65F4F"
+					"size"		"94B252E47F1270664537CA814C282A31"
+					"download"		"F27268CF7A363FBB389AF642CA2D100A"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4482419"
+				"timeupdated"		"1576223008"
+			}
+			"testing"
+			{
+				"buildid"		"4482419"
+				"pwdrequired"		"1"
+				"timeupdated"		"1576084416"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000"
+		"maxnumfiles"		"3"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"game_3vryad"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
