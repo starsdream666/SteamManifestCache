@@ -1,0 +1,195 @@
+"appinfo"
+{
+	"appid"		"1766830"
+	"common"
+	{
+		"name"		"Louder Than Words ~The Story of a Field Trip~"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienttga"		"df1c0d101fd8b131c779fc568ce52e2e5dd100f2"
+		"logo"		"5909b8c377d158d1796a17d3d9e5f35e54044620"
+		"logo_small"		"5909b8c377d158d1796a17d3d9e5f35e54044620_thumb"
+		"icon"		"afaafa3c76f201b1c575d2d916e15fff335b139c"
+		"clienticon"		"040190c3c95995ef20a5b8635c8e33170f7c2a27"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"63.629722600825644"
+				"height_pct"		"88.74852122513693"
+			}
+		}
+		"store_asset_mtime"		"1635181921"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"SRX Gameworks"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"SRX Gameworks "
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1635523330"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1766830"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"122"
+			"2"		"9551"
+			"3"		"3799"
+			"4"		"4486"
+			"5"		"3871"
+			"6"		"4085"
+			"7"		"4342"
+			"8"		"5984"
+			"9"		"4947"
+			"10"		"6426"
+			"11"		"15172"
+			"12"		"6971"
+			"13"		"5094"
+			"14"		"1742"
+			"15"		"4182"
+		}
+	}
+	"extended"
+	{
+		"developer"		"SRX Gameworks"
+		"publisher"		"SRX Gameworks "
+	}
+	"config"
+	{
+		"installdir"		"Louder Than Words ~The Story of a Field Trip~"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Louderthanwords.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1766831"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6098611881696777555"
+					"size"		"468456289"
+					"download"		"187728208"
+				}
+			}
+		}
+		"1766832"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"114796089980352368"
+					"size"		"151079445"
+					"download"		"151887824"
+				}
+			}
+		}
+		"1766833"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7146198970893487864"
+					"size"		"158813476"
+					"download"		"159720512"
+				}
+			}
+		}
+		"baselanguages"		"english"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7903208"
+				"timeupdated"		"1639758855"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"10000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"game/saves"
+				"pattern"		"*.save"
+				"recursive"		"1"
+			}
+		}
+	}
+}
