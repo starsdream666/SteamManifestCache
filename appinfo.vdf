@@ -1,0 +1,377 @@
+"appinfo"
+{
+	"appid"		"511820"
+	"common"
+	{
+		"name"		"Le Havre: The Inland Port"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"logo"		"e58ce08f157f856f157fce5a24baebba1f22ec35"
+		"logo_small"		"e58ce08f157f856f157fce5a24baebba1f22ec35_thumb"
+		"icon"		"60c05f633f3be0c28d1c3a49f60b102e8ab826e3"
+		"clienttga"		"87374818f1ebdd868ed5eadb2483beef4d55e184"
+		"clienticon"		"ce8c0370bdc4346778aaf9cb94fff463ae296417"
+		"clienticns"		"b97da3a6af1c41800d7cf0eaf1e546072a9c6af9"
+		"linuxclienticon"		"2fa3f0601405de0fc51cedebd2afe3674153289b"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1692230400"
+			"tested_build_id"		"2557114"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"5"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Le Havre: The Inland Port"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1692974943"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"DIGIDICED"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Twin Sails Interactive"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Twin Sails Interactive"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_37"		"1"
+			"category_24"		"1"
+			"category_27"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_32"		"1"
+			"category_29"		"1"
+			"category_49"		"1"
+			"category_44"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1472457978"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"511820"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"492"
+			"2"		"597"
+			"3"		"1770"
+		}
+		"review_score"		"5"
+		"review_percentage"		"56"
+	}
+	"extended"
+	{
+		"developer"		"DIGIDICED"
+		"publisher"		"Twin Sails Interactive"
+		"gamemanualurl"		"https://store.steampowered.com/manual/511820/"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Le Havre The Inland Port"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"lhb.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"lhb.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"lhb.x86"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"32"
+				}
+			}
+			"3"
+			{
+				"executable"		"lhb.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,spanish"
+		"511821"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4515865696380912447"
+					"size"		"202205581"
+					"download"		"29351536"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal-qa"
+				{
+					"gid"		"4E084DBCD9AF3169C178AC63C49D6CBF"
+					"size"		"96EB43871E71C08E1DD1F5CBDD8865B6"
+					"download"		"3E05DD8CFD8199A0980DE8FEE4CDC99C"
+				}
+			}
+		}
+		"511822"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4435174467685837014"
+					"size"		"255646655"
+					"download"		"43729296"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal-qa"
+				{
+					"gid"		"2397815FB075773C5FD8FDEFE7C4EB1B"
+					"size"		"3E91FDD349569F8A640B1BC6A919B130"
+					"download"		"BB346DF96F3FDB7DF0829E2D162010CE"
+				}
+			}
+		}
+		"511823"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1198210716292228882"
+					"size"		"220627483"
+					"download"		"34071728"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal-qa"
+				{
+					"gid"		"4E55B7CE1B08719A915163D65A9E23F4"
+					"size"		"87E830FF4BFED6AE7C1CA5C6279676F8"
+					"download"		"9BD58A030678E0FF6966789A8C949CBB"
+				}
+			}
+		}
+		"511824"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5681978882659883568"
+					"size"		"220241263"
+					"download"		"34372496"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal-qa"
+				{
+					"gid"		"0F618315CF3D97AD09BE4D1C7600F945"
+					"size"		"78F2032E9D9AF180EE6018DCEC30A31C"
+					"download"		"265A6DBD50AEB65FCBE32A2908D0A955"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2557114"
+				"timeupdated"		"1519651150"
+			}
+			"internal-qa"
+			{
+				"buildid"		"2898925"
+				"pwdrequired"		"1"
+				"timeupdated"		"1530539036"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"2048"
+		"maxnumfiles"		"10"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"DIGIDICED/Inland Port/games"
+				"pattern"		"*.gam"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"1"
+			{
+				"root"		"LinuxHome"
+				"path"		".config/unity3d/DIGIDICED/Inland Port/games"
+				"pattern"		"*.gam"
+				"platforms"
+				{
+					"1"		"Linux"
+				}
+			}
+			"2"
+			{
+				"root"		"MacAppSupport"
+				"path"		"DIGIDICED/Inland Port/games"
+				"pattern"		"*.gam"
+				"platforms"
+				{
+					"1"		"MacOS"
+				}
+			}
+		}
+	}
+}
