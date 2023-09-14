@@ -1,0 +1,264 @@
+"appinfo"
+{
+	"appid"		"562360"
+	"common"
+	{
+		"name"		"Planes, Bullets and Vodka"
+		"type"		"Game"
+		"logo"		"d02e17130603b834446a418717bdda3dbfd7df46"
+		"logo_small"		"d02e17130603b834446a418717bdda3dbfd7df46_thumb"
+		"icon"		"a0a8985b9b76d6a2a81e79c5eb24a95d5d671d34"
+		"clienticon"		"b6eb0de330d2c0b7fc1675206baf87594126c183"
+		"clienttga"		"859055c24e9b4277de7a034ba4154a85aef3b546"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1648771200"
+			"tested_build_id"		"2733572"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Planes, Bullets and Vodka"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1667226385"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"NukGames"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"NukGames"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"NukGames"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+			"category_29"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1481652138"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"562360"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"492"
+			"2"		"19"
+			"3"		"4255"
+			"4"		"4004"
+			"5"		"4885"
+			"6"		"1773"
+			"7"		"1774"
+			"8"		"3871"
+			"9"		"4182"
+			"10"		"3964"
+			"11"		"1756"
+			"12"		"1678"
+			"13"		"4711"
+			"14"		"4791"
+			"15"		"5154"
+			"16"		"5363"
+			"17"		"7481"
+			"18"		"1621"
+			"19"		"1649"
+		}
+		"review_score"		"8"
+		"review_percentage"		"85"
+	}
+	"extended"
+	{
+		"developer"		"NukGames"
+		"publisher"		"NukGames"
+		"homepage"		"http://nukgames.com/planesbulletsandvodka/"
+		"listofdlc"		"577020"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Planes, Bullets and Vodka"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Planes, Bullets and Vodka.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"562361"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"565900088054633865"
+					"size"		"43231327"
+					"download"		"36354736"
+				}
+			}
+		}
+		"577020"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4065667522588201136"
+					"size"		"57764051"
+					"download"		"57284816"
+				}
+			}
+			"dlcappid"		"577020"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2733572"
+				"timeupdated"		"1525091236"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10240"
+		"maxnumfiles"		"100"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"Planes__Bullets_and_Vodka"
+				"pattern"		"*.sav"
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"Planes_Bullets_and_Vodka"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
