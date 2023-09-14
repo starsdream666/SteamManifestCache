@@ -1,0 +1,181 @@
+"appinfo"
+{
+	"appid"		"1357870"
+	"common"
+	{
+		"name"		"Metel - Horror Escape"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64"
+		"clienttga"		"e2e3ee71b5790aab60925c7642bc63fc2f58cd11"
+		"clienticon"		"551bf7bfd3364ca9bbb71bad9addda4b376d6d36"
+		"icon"		"7f1652172d4a21095e47ed6032b3ab7659566a84"
+		"logo"		"99237886782d58b5579caad988ac0bde4ad210fc"
+		"logo_small"		"99237886782d58b5579caad988ac0bde4ad210fc_thumb"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1607539624"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Anton Shuligin"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Linked Squad"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1598939219"
+		"community_hub_visible"		"1"
+		"gameid"		"1357870"
+		"store_tags"
+		{
+			"0"		"1667"
+			"1"		"1664"
+			"2"		"492"
+			"3"		"4191"
+			"4"		"3839"
+			"5"		"1738"
+			"6"		"3978"
+			"7"		"19"
+			"8"		"8369"
+			"9"		"3834"
+			"10"		"1662"
+			"11"		"1742"
+			"12"		"6625"
+			"13"		"3916"
+			"14"		"4342"
+			"15"		"4175"
+			"16"		"5716"
+			"17"		"7250"
+			"18"		"4182"
+			"19"		"493"
+		}
+		"review_score"		"8"
+		"review_percentage"		"94"
+	}
+	"extended"
+	{
+		"developer"		"Anton Shuligin"
+		"publisher"		"Linked Squad"
+	}
+	"config"
+	{
+		"installdir"		"Metel - Horror Escape"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Metel.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Metel.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,russian"
+		"1357871"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6417700575481369900"
+					"size"		"476231376"
+					"download"		"190753888"
+				}
+			}
+		}
+		"1357872"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3075060655365798352"
+					"size"		"341268899"
+					"download"		"120949024"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12157051"
+				"timeupdated"		"1694418065"
+			}
+		}
+	}
+}
