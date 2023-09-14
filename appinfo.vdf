@@ -1,0 +1,275 @@
+"appinfo"
+{
+	"appid"		"1424910"
+	"common"
+	{
+		"name"		"KEO"
+		"type"		"Game"
+		"logo"		"8ea3110c7492fc45d1e89c91d6828f854ba652e5"
+		"logo_small"		"8ea3110c7492fc45d1e89c91d6828f854ba652e5_thumb"
+		"icon"		"1dd955ea2f432fbc64b5e7562c6dfbf8315ae590"
+		"clienttga"		"3178db6b5147c6afde9e2ef7d53f199253fecc6a"
+		"clienticon"		"8835dab0427a9cc7347de9449683d5e7e34ce48d"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1665187200"
+			"tested_build_id"		"9246669"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50.294309487152866"
+				"height_pct"		"57.9861111111111"
+			}
+		}
+		"store_asset_mtime"		"1639764006"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Redcatpig Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Redcatpig Studio"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"9"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1639069215"
+		"community_hub_visible"		"1"
+		"gameid"		"1424910"
+		"store_tags"
+		{
+			"0"		"11104"
+			"1"		"4155"
+			"2"		"3968"
+			"3"		"19"
+			"4"		"1697"
+			"5"		"1775"
+			"6"		"5055"
+			"7"		"3993"
+			"8"		"699"
+			"9"		"1644"
+			"10"		"9"
+			"11"		"1774"
+			"12"		"4102"
+			"13"		"3813"
+			"14"		"3814"
+			"15"		"4191"
+			"16"		"4305"
+			"17"		"4252"
+			"18"		"4747"
+			"19"		"5711"
+		}
+		"review_score"		"5"
+		"review_percentage"		"52"
+	}
+	"extended"
+	{
+		"developer"		"Redcatpig Studio"
+		"publisher"		"Redcatpig Studio"
+		"homepage"		"https://www.playkeo.com/"
+	}
+	"config"
+	{
+		"installdir"		"KEO"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"KEO.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1424911"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4884533691829120119"
+					"size"		"10450797878"
+					"download"		"3368012912"
+				}
+				"game_tester"
+				{
+					"gid"		"2600469818490580328"
+					"size"		"27803432400"
+					"download"		"15991708224"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"1B18979B84B8DDB16BE3773ED1AE4DFC"
+					"size"		"BAEE8667C5E8E26E1813A907EE5C2577"
+					"download"		"5BDAF4D4408782449FB46FCF90368B42"
+				}
+				"gamescom2023"
+				{
+					"gid"		"108E5DB72B6D9B35102E41C0FC8D0E73"
+					"size"		"4DC8E4767BED9120B77BD7C420EAFE75"
+					"download"		"220AA8BC2C15E1A020B33306554563EC"
+				}
+				"ludeo_tests"
+				{
+					"gid"		"62CD1B368E54051FD3E691685E93DE22"
+					"size"		"E6B0242F1F9A3004C6BECC8459BFE165"
+					"download"		"1D49F03690114FBAB72C1418F04B6A34"
+				}
+				"photon_testers"
+				{
+					"gid"		"206EB4DAFECCB6E6240D05D27B8A7ACE"
+					"size"		"B8E0F932753F14B87528FCE3C81AB4C7"
+					"download"		"F60EA37954551601E59A4CFD2BCD0B1E"
+				}
+				"testing"
+				{
+					"gid"		"4C6B646A2553CC8BB007C7F0BA23325C"
+					"size"		"EB5D562BB80F76F7DF698B2E4C4AEF22"
+					"download"		"073BE9330B097CE48DC4D1BD61080BCF"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9246669"
+				"timeupdated"		"1659548746"
+			}
+			"development"
+			{
+				"buildid"		"11810064"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690537320"
+			}
+			"game_tester"
+			{
+				"buildid"		"11536709"
+				"description"		"For Game Tester play sessions"
+				"timeupdated"		"1687449302"
+			}
+			"gamescom2023"
+			{
+				"buildid"		"11977102"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692375894"
+			}
+			"ludeo_tests"
+			{
+				"buildid"		"12061032"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693328873"
+			}
+			"photon_testers"
+			{
+				"buildid"		"11467795"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686746581"
+			}
+			"testing"
+			{
+				"buildid"		"12114547"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693930842"
+			}
+		}
+	}
+}
