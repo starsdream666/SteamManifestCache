@@ -1,0 +1,279 @@
+"appinfo"
+{
+	"appid"		"1263100"
+	"common"
+	{
+		"name"		"The Last Kids on Earth and the Staff of Doom!"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"name_localized"
+		{
+			"french"		"The Last Kids on Earth et le Sceptre Maudit !"
+			"italian"		"The Last Kids on Earth e il bastone del destino!  "
+			"german"		"Jack der Monster-Schreck und der Stab des Verderbens"
+			"spanish"		"Los Ultimos Frikis y el báculo del destino"
+		}
+		"icon"		"1afe0040f6dcdb7fee53ed0df88b47351bd48a36"
+		"logo"		"e2cf6be797077b151d31c86f626ac4b87684c722"
+		"logo_small"		"e2cf6be797077b151d31c86f626ac4b87684c722_thumb"
+		"clienttga"		"76eb0f2ba79d57eb97e5eda95cc331b4f596015f"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"arabic"		"1"
+			"latam"		"1"
+		}
+		"clienticon"		"325ffb3ba6e9c0e2d713aa484d17e18660d2a648"
+		"releasestate"		"released"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"french"		"capsule_231x87_french.jpg"
+			"italian"		"capsule_231x87_italian.jpg"
+			"spanish"		"capsule_231x87_spanish.jpg"
+			"german"		"capsule_231x87_german.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"french"		"header_french.jpg"
+			"italian"		"header_italian.jpg"
+			"spanish"		"header_spanish.jpg"
+			"german"		"header_german.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"74.32786836562124"
+				"height_pct"		"86.86066185332706"
+			}
+		}
+		"store_asset_mtime"		"1622794171"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Stage Clear Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Outright Games Ltd."
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"The Last Kids on Earth"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_22"		"1"
+			"category_18"		"1"
+			"category_44"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"arabic"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1622794345"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1263100"
+		"store_tags"
+		{
+			"0"		"4231"
+			"1"		"1659"
+			"2"		"1773"
+			"3"		"122"
+			"4"		"1646"
+			"5"		"3841"
+			"6"		"1644"
+			"7"		"4562"
+			"8"		"4305"
+			"9"		"1697"
+			"10"		"4791"
+			"11"		"1719"
+			"12"		"1684"
+			"13"		"3993"
+			"14"		"4136"
+			"15"		"4158"
+			"16"		"4236"
+			"17"		"4191"
+			"18"		"19"
+			"19"		"3835"
+		}
+		"review_score"		"5"
+		"review_percentage"		"63"
+	}
+	"extended"
+	{
+		"developer"		"Stage Clear Studios"
+		"publisher"		"Outright Games Ltd."
+		"homepage"		"https://outrightgames.com/us/games/the-last-kids-on-earth/"
+	}
+	"config"
+	{
+		"installdir"		"Last Kids on Earth"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TLKOE.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1263101"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8737101869346003835"
+					"size"		"9386504763"
+					"download"		"3241992784"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"10D67D77DED06E1348BB1FA6A767EA98"
+					"size"		"B52F1C6A1FF33AA4C773973E84FE323C"
+					"download"		"296CCD37AE4D76D6DB5D460602702775"
+				}
+				"internal"
+				{
+					"gid"		"4ED2C81CCFA503BA09A3BD72A7BD6749"
+					"size"		"22CB364691FABF636C84855C75567478"
+					"download"		"A862F057BD0D47DCB9347E75153828ED"
+				}
+			}
+		}
+		"1263102"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"B5C5C5023DC9F50AED3A7A78EC5500CC"
+					"size"		"8184AEF9E878CFDCFFB555B830C5AC0C"
+					"download"		"B0FB3A18E0C36CF03F0F2E97547F2638"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6540021"
+				"timeupdated"		"1618409501"
+			}
+			"beta"
+			{
+				"buildid"		"7531645"
+				"pwdrequired"		"1"
+				"timeupdated"		"1634202124"
+			}
+			"internal"
+			{
+				"buildid"		"7533321"
+				"pwdrequired"		"1"
+				"timeupdated"		"1634219348"
+			}
+		}
+	}
+}
