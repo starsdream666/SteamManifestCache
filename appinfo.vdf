@@ -1,0 +1,202 @@
+"appinfo"
+{
+	"appid"		"1684100"
+	"common"
+	{
+		"name"		"幻恋の夜宴: ハルーシサノバこいし ~ Halluci-Sabbat of Koishi"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"name_localized"
+		{
+			"english"		"Halluci-Sabbat of Koishi"
+			"schinese"		"幻恋夜宴: 恋恋的幻觉夜宴 ~ Halluci-Sabbat of Koishi"
+			"japanese"		"幻恋の夜宴: ハルーシサノバこいし ~ Halluci-Sabbat of Koishi"
+		}
+		"clienttga"		"1e6e959e13e4e588231544904df6afc601d70251"
+		"clienticon"		"8ad6f0c187c9975e1478facdbc374370121aa1b7"
+		"icon"		"d4f3f87c6274cc8c925da22a3edb4b7e9c212e35"
+		"logo"		"dd5971d480a1b57ee76f41d2717cea75f3c8c2a8"
+		"logo_small"		"dd5971d480a1b57ee76f41d2717cea75f3c8c2a8_thumb"
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+			"japanese"		"1"
+		}
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"41.80645161290323"
+				"height_pct"		"90.97222222222223"
+			}
+		}
+		"store_asset_mtime"		"1688063173"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"地霊研究院"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"地霊研究院"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"ZRIGN"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"3"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1641549620"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1684100"
+		"store_tags"
+		{
+			"0"		"4231"
+			"1"		"4726"
+			"2"		"180368"
+			"3"		"4158"
+			"4"		"29482"
+			"5"		"4085"
+			"6"		"6971"
+			"7"		"122"
+			"8"		"4026"
+			"9"		"4608"
+			"10"		"19"
+			"11"		"4106"
+			"12"		"21"
+			"13"		"5577"
+			"14"		"7208"
+			"15"		"4736"
+			"16"		"492"
+			"17"		"44868"
+			"18"		"1721"
+			"19"		"4182"
+		}
+		"review_score"		"8"
+		"review_percentage"		"97"
+	}
+	"extended"
+	{
+		"absolutemousecoordinates"		"0"
+		"remoteplaytogethertestingbranches"		"default"
+		"developer"		"地霊研究院"
+		"publisher"		"地霊研究院"
+	}
+	"config"
+	{
+		"installdir"		"Halluci-Sabbat of Koishi"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Game.exe"
+				"type"		"default"
+			}
+		}
+		"steamcontrollertemplateindex"		"6"
+		"steamconfigurator3rdpartynative"		"65533"
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"1"
+		"1684101"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2992275698100845449"
+					"size"		"1175544344"
+					"download"		"1008720752"
+				}
+			}
+		}
+		"baselanguages"		"english"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12098108"
+				"timeupdated"		"1693715963"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"500"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"Save"
+				"pattern"		"*"
+				"recursive"		"1"
+			}
+		}
+	}
+}
