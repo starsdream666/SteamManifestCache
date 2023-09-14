@@ -1,0 +1,247 @@
+"appinfo"
+{
+	"appid"		"716100"
+	"common"
+	{
+		"name"		"Bohnanza The Duel"
+		"type"		"Game"
+		"releasestate"		"released"
+		"clienttga"		"5117ead11660fe04e05996cb1648b0e4f6131917"
+		"clienticns"		"6d6b43c3bedfc309fbff38527478c54ecdfc6939"
+		"clienticon"		"a984e046279c4a3ef1fcfd402c02954e51aa87ac"
+		"icon"		"6b5ba88f5043978fa48da7f04c176e9bd7fe5dac"
+		"linuxclienticon"		"2429932196e49004fba4460a7f87a31e4b68f9c6"
+		"logo"		"1e284be64f73014645b93aae79c6b1e235e77099"
+		"logo_small"		"1e284be64f73014645b93aae79c6b1e235e77099_thumb"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"metacritic_name"		"Bohnanza The Duel"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"74.37325801697378"
+				"height_pct"		"89.35666982024597"
+			}
+		}
+		"store_asset_mtime"		"1578935951"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"DIGIDICED"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"DIGIDICED"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_37"		"1"
+			"category_27"		"1"
+			"category_22"		"1"
+			"category_32"		"1"
+			"category_49"		"1"
+			"category_44"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1514385071"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"716100"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"597"
+			"2"		"1770"
+			"3"		"1666"
+		}
+		"review_score"		"5"
+		"review_percentage"		"58"
+	}
+	"extended"
+	{
+		"developer"		"DIGIDICED"
+		"publisher"		"DIGIDICED"
+		"homepage"		"http://digidiced.com/bohnanzatheduel/"
+	}
+	"config"
+	{
+		"installdir"		"Bohnanza The Duel"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"bdd.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"bdd.app"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"bdd.x86"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"32"
+				}
+			}
+			"3"
+			{
+				"executable"		"bdd.x86_64"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"716101"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2871580531234969845"
+					"size"		"137343697"
+					"download"		"32412192"
+				}
+			}
+		}
+		"716102"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"373215730092987060"
+					"size"		"190895583"
+					"download"		"46867152"
+				}
+			}
+		}
+		"716103"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4690306152315568048"
+					"size"		"155897014"
+					"download"		"37124736"
+				}
+			}
+		}
+		"716104"
+		{
+			"config"
+			{
+				"osarch"		"64"
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6424914069113033871"
+					"size"		"155510794"
+					"download"		"37425648"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2848403"
+				"timeupdated"		"1528539681"
+			}
+		}
+	}
+}
