@@ -1,0 +1,318 @@
+"appinfo"
+{
+	"appid"		"2141730"
+	"common"
+	{
+		"name"		"Backrooms: Escape Together"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"d4b430f9594dcad772f320fe8792b2c94cf99e06"
+		"clienttga"		"77c898af750d8434b9496a4d53594d81bce43bf3"
+		"clienticns"		"b59cf8191904cb986e506d5532c3650e602d588b"
+		"linuxclienticon"		"b59cf8191904cb986e506d5532c3650e602d588b"
+		"clienticon"		"603f7140c94e07e310caba22ca4086d954578ee7"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"43.44328363334125"
+				"height_pct"		"37.01793022969153"
+			}
+		}
+		"store_asset_mtime"		"1684385593"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Triiodide Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Triiodide Studios"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"23"
+			"4"		"28"
+			"5"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"swedish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1666098218"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2141730"
+		"store_tags"
+		{
+			"0"		"3859"
+			"1"		"1721"
+			"2"		"3978"
+			"3"		"5716"
+			"4"		"1667"
+			"5"		"4166"
+			"6"		"493"
+			"7"		"4175"
+			"8"		"3843"
+			"9"		"5125"
+			"10"		"3839"
+			"11"		"597"
+			"12"		"21"
+			"13"		"19"
+			"14"		"1685"
+			"15"		"3834"
+			"16"		"4191"
+			"17"		"4182"
+			"18"		"4106"
+			"19"		"3942"
+		}
+		"review_score"		"6"
+		"review_percentage"		"78"
+	}
+	"extended"
+	{
+		"developer"		"Triiodide Studios"
+		"publisher"		"Triiodide Studios"
+	}
+	"config"
+	{
+		"installdir"		"Backrooms_Escape_Together"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Backrooms_Escape.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Launch (Default)"
+				}
+				"description"		"Launch (Default)"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2141731"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5920950071739331106"
+					"size"		"4995779587"
+					"download"		"4276787248"
+				}
+				"beta"
+				{
+					"gid"		"178247940076991956"
+					"size"		"4688801414"
+					"download"		"4239013440"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"AABCADBEB365CC7FB08BBA178B792E56"
+					"size"		"1509EF907A231822BDF08A77B6A70948"
+					"download"		"918B2BDA030478D00532910ADB17E2C7"
+				}
+			}
+		}
+		"2141732"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2153388950806845761"
+					"size"		"4252302115"
+					"download"		"3759468880"
+				}
+				"beta"
+				{
+					"gid"		"2153388950806845761"
+					"size"		"4252302115"
+					"download"		"3759468880"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"0A901D01330073A00D31B43C03FB48E6"
+					"size"		"EE5EDC71B1D3151E210D5ADC2A0C8EFC"
+					"download"		"1AB86DC3A16A609A17CAF7C891501BBD"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11282785"
+				"timeupdated"		"1684692366"
+			}
+			"alpha"
+			{
+				"buildid"		"11778143"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690246120"
+			}
+			"beta"
+			{
+				"buildid"		"11277228"
+				"description"		"Beta builds for testing"
+				"timeupdated"		"1684560874"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"33554432"
+		"maxnumfiles"		"5"
+	}
+}
