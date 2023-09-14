@@ -1,0 +1,368 @@
+"appinfo"
+{
+	"appid"		"868520"
+	"common"
+	{
+		"name"		"killer7"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"b5b79fbbf6ad2b5122d6fa04252a069d7e452308"
+		"logo_small"		"b5b79fbbf6ad2b5122d6fa04252a069d7e452308_thumb"
+		"icon"		"dc348a941170ad1f45c2b670bec129ad4ff54d69"
+		"clienticon"		"10d8cd92fe5bcf592bd9f9b8caa0ebfb9e27f815"
+		"clienttga"		"7d061572687e961ffd51851adf23c27b5e19d15a"
+		"oslist"		"windows"
+		"osarch"		""
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"2"
+			"2"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1646179200"
+			"tested_build_id"		"3468150"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-1"
+				"requires_h264"		"0"
+			}
+		}
+		"metacritic_name"		"killer7"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"84.21115092057823"
+				"height_pct"		"72.64777764584818"
+			}
+		}
+		"store_asset_mtime"		"1668469791"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"GRASSHOPPER MANUFACTURE INC."
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Engine Software BV"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"NIS America, Inc."
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"killer7"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+			"category_23"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1542304818"
+		"metacritic_score"		"78"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/killer7?ftag=MCD-06-10aaa1f"
+		"community_hub_visible"		"1"
+		"gameid"		"868520"
+		"store_tags"
+		{
+			"0"		"7782"
+			"1"		"4667"
+			"2"		"1710"
+			"3"		"56690"
+			"4"		"1756"
+			"5"		"4345"
+			"6"		"19"
+			"7"		"4252"
+			"8"		"21"
+			"9"		"4182"
+			"10"		"1742"
+			"11"		"12095"
+			"12"		"1667"
+			"13"		"4085"
+			"14"		"1693"
+			"15"		"3839"
+			"16"		"1663"
+			"17"		"5228"
+			"18"		"1774"
+			"19"		"4166"
+		}
+		"review_score"		"9"
+		"review_percentage"		"95"
+	}
+	"extended"
+	{
+		"developer"		"GRASSHOPPER MANUFACTURE INC."
+		"publisher"		"NIS America, Inc."
+		"listofdlc"		"909850,909851"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"killer7"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Killer7Win.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Killer7ConfigurationTool.exe"
+				"type"		"config"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Configuration Tool (F11 to open in-game)"
+				}
+				"description"		"Configuration Tool (F11 to open in-game)"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french"
+		"hasdepotsindlc"		"1"
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229004"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"868521"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1950059846274770955"
+					"size"		"2461961591"
+					"download"		"2163386176"
+				}
+				"preview"
+				{
+					"gid"		"1950059846274770955"
+					"size"		"2461961591"
+					"download"		"2163386176"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtest"
+				{
+					"gid"		"DA8A36DBC7C85AE55430AA888AC437FE"
+					"size"		"38CED927F2B3E58FC442438829142D86"
+					"download"		"F3E44972997D8232371CC6E2FEA76A6C"
+				}
+				"nisa_qa"
+				{
+					"gid"		"8A60A6D70CCEEC863824E239450E218F"
+					"size"		"283BF37B6BF87570B3C1209A3293F44F"
+					"download"		"702AAD47075DEECBC9D2B42BFFD41AAA"
+				}
+				"shadercache"
+				{
+					"gid"		"C57F8B6CAA880117DA57C216A51F1D82"
+					"size"		"EF4FB6BB2832BAF46779AF800F15ACF3"
+					"download"		"1A92232CFC51AB95C0E81A4528C065F0"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3468150"
+				"timeupdated"		"1547920283"
+			}
+			"devtest"
+			{
+				"buildid"		"3468150"
+				"pwdrequired"		"1"
+				"timeupdated"		"1547497437"
+			}
+			"nisa_qa"
+			{
+				"buildid"		"3468150"
+				"pwdrequired"		"1"
+				"timeupdated"		"1547497613"
+			}
+			"preview"
+			{
+				"buildid"		"3468150"
+				"timeupdated"		"1547919399"
+			}
+			"shadercache"
+			{
+				"buildid"		"3351583"
+				"pwdrequired"		"1"
+				"timeupdated"		"1543511486"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"50"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinSavedGames"
+				"path"		"killer7"
+				"pattern"		"Killer7eu*"
+				"recursive"		"1"
+			}
+			"1"
+			{
+				"root"		"WinSavedGames"
+				"path"		"killer7"
+				"pattern"		"Killer8eu*"
+				"recursive"		"1"
+			}
+			"2"
+			{
+				"root"		"WinSavedGames"
+				"path"		"killer7"
+				"pattern"		"hopper*"
+				"recursive"		"1"
+			}
+		}
+	}
+}
