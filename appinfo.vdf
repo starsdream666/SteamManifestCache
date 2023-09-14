@@ -1,0 +1,685 @@
+"appinfo"
+{
+	"appid"		"600480"
+	"common"
+	{
+		"name"		"Megaquarium"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"86a520e7705971d7f8743c8950abee78a22042c3"
+		"logo_small"		"86a520e7705971d7f8743c8950abee78a22042c3_thumb"
+		"icon"		"0ae9dbf6dd54e0de796f07b470a72d4a5c348b7b"
+		"clienticon"		"bb9f346dac5c9e3a9970d8f4ff6c7c2808533b86"
+		"clienttga"		"597d3350945ae1bdf445d401fc7629b70f5f92e4"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1646179200"
+			"tested_build_id"		"7894800"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"5"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-1"
+				"requires_h264"		"0"
+			}
+		}
+		"metacritic_name"		"Megaquarium"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"46.538883111773146"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1649241002"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Twice Circled"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Twice Circled"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"28"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_30"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1536822060"
+		"metacritic_score"		"69"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/megaquarium?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"600480"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"599"
+			"2"		"1643"
+			"3"		"3810"
+			"4"		"916648"
+			"5"		"9157"
+			"6"		"4726"
+			"7"		"12472"
+			"8"		"1654"
+			"9"		"492"
+			"10"		"8945"
+			"11"		"1669"
+			"12"		"4695"
+			"13"		"5350"
+			"14"		"15564"
+			"15"		"9"
+			"16"		"4845"
+			"17"		"4182"
+			"18"		"5851"
+			"19"		"4191"
+		}
+		"review_score"		"8"
+		"review_percentage"		"94"
+	}
+	"extended"
+	{
+		"developer"		"Twice Circled"
+		"publisher"		"Twice Circled"
+		"homepage"		"http://www.megaquariumgame.com"
+		"listofdlc"		"1315300,1339440"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Megaquarium"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Megaquarium.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Megaquarium.app"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Megaquarium.x86_64"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigdetails"
+		{
+			"2270123223"
+			{
+				"controller_type"		"controller_xbox360"
+				"enabled_branches"		"default"
+				"use_action_block"		"false"
+			}
+		}
+	}
+	"depots"
+	{
+		"workshopdepot"		"600480"
+		"hasdepotsindlc"		"0"
+		"baselanguages"		"english"
+		"600481"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5546393208514477320"
+					"size"		"509707125"
+					"download"		"243064784"
+				}
+				"beta"
+				{
+					"gid"		"5546393208514477320"
+					"size"		"509707125"
+					"download"		"243064784"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtest"
+				{
+					"gid"		"148A016FAA2C4137281411699392D3BF"
+					"size"		"432A5C4B27DFA743789AB66D91AEB1AE"
+					"download"		"28BF14655530D77378BB60E6C1F13305"
+				}
+				"testing"
+				{
+					"gid"		"96E166F15686F5141FDDA64D62F74207"
+					"size"		"13EBB95910CD79126E291A342F46327E"
+					"download"		"0D53EF1D25DBECA8EF10124FCF52C19E"
+				}
+				"translation"
+				{
+					"gid"		"3579C61ADB39FCF0DF20B25E3CE71C12"
+					"size"		"283CD8AB44BDA74001D272E75937D7A8"
+					"download"		"C0F84D9B19AE041E440CBFFD66480AD1"
+				}
+				"v1.2.1"
+				{
+					"gid"		"870F47F1255D281853131F9A8C5C697D"
+					"size"		"221C7F86229961C0232F09663AD67445"
+					"download"		"C29A884A10F6276F9B6048B4862F5B4A"
+				}
+				"v1.3.2"
+				{
+					"gid"		"4F87E903D68DD5AAAEC80C6A5A4F7397"
+					"size"		"B0A78DF1A818C691547F3D9C81F4E2E4"
+					"download"		"7007BBA81BB1835EAF0997DF1B7D7D75"
+				}
+				"v1.4.4"
+				{
+					"gid"		"DCD56D648BF9F20CABBA4B2FAA7CBD62"
+					"size"		"0A51B6CFD8B434CAC256B1B481427A8A"
+					"download"		"5AD7AB2CC14CB4490241021CBA936F94"
+				}
+			}
+		}
+		"600482"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6055556748736389412"
+					"size"		"511785659"
+					"download"		"243587120"
+				}
+				"beta"
+				{
+					"gid"		"6055556748736389412"
+					"size"		"511785659"
+					"download"		"243587120"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtest"
+				{
+					"gid"		"5680FDC7E29FD1E308A6A1B6788D5873"
+					"size"		"0E636D472CD70DB85AA4F31CECDFD8DC"
+					"download"		"E9A382D0CDDBCE46E9B4D38CB7350618"
+				}
+				"testing"
+				{
+					"gid"		"CAE8A2BAC70913B3BF2A9C604B4B6DD6"
+					"size"		"E465AC7418663800629DBC5E692450DE"
+					"download"		"CC45A75BB927F609B49F5A6056367A0E"
+				}
+				"translation"
+				{
+					"gid"		"CE87092D7ED5E0864CCA24B56C71EB22"
+					"size"		"48197BA9F3FEFAD81D30764B750A52AE"
+					"download"		"0F5156561E87A32B26228FB0B9AF7CD8"
+				}
+				"v1.2.1"
+				{
+					"gid"		"FF98E3A56137BE9E7B4176AD4DACDA25"
+					"size"		"B49AAD76AFD21419647AB489EFAEBF6A"
+					"download"		"619C0A8507EB75ECB3DD2839AB10831E"
+				}
+				"v1.3.2"
+				{
+					"gid"		"CBF549ACF83D98F6C574F327041C5BB6"
+					"size"		"11F05E9BD613117F8D74EA136A8137CE"
+					"download"		"D78BE7E233D3CFD188FA25159BAEBC11"
+				}
+				"v1.4.4"
+				{
+					"gid"		"EF7F8B8CAA216A6D2031F6587569E4B8"
+					"size"		"9945103755F9387AE387B2D33DE28261"
+					"download"		"DA8CF1FD467B5D1497472A8B5135609C"
+				}
+			}
+		}
+		"600483"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7880133244990361957"
+					"size"		"521436188"
+					"download"		"245007280"
+				}
+				"beta"
+				{
+					"gid"		"7880133244990361957"
+					"size"		"521436188"
+					"download"		"245007280"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtest"
+				{
+					"gid"		"C98201C7588C031CF226BD4CA3A6C1FB"
+					"size"		"546C3B5AFD467F1CD186A5943C7E0AF0"
+					"download"		"CC830BCF59EDC9EFE54494EBD8F3A308"
+				}
+				"testing"
+				{
+					"gid"		"1F56701F17C1B7F7969FC3BC4B27CF4B"
+					"size"		"B2A3EF077F3E8EF8941CED3C2CAC7E8F"
+					"download"		"79A178B2ACC3702871AD6E89DBF07EEE"
+				}
+				"translation"
+				{
+					"gid"		"96BF7EC4E7686298BCADB95F4A61F1A3"
+					"size"		"DCE16B305188E8C37184A61B401D1F19"
+					"download"		"5ECD8C06AAE5F4FBB9523BCFE462E7EE"
+				}
+				"v1.2.1"
+				{
+					"gid"		"849789B4BE1974CF7B2CDE9DEC59E656"
+					"size"		"1197A5DC67E0D61A2720B5D4232DE9D6"
+					"download"		"5B7BDAA6019165D36864259CE43F5DD8"
+				}
+				"v1.3.2"
+				{
+					"gid"		"185E7F9DD61BFAA36EB0775B44AB944B"
+					"size"		"84C3AB38B667E4F2C021BFB29EB52DB6"
+					"download"		"8D336ADF51B9DE889B8E8983EB746BB4"
+				}
+				"v1.4.4"
+				{
+					"gid"		"0BC3A7A5ACB6C7122A2642D38B42A2AB"
+					"size"		"5741E227ABCDCB9E861833D58BE9FC73"
+					"download"		"4BD2EBB0289618F6A87AA6E6675D7A51"
+				}
+			}
+		}
+		"1315300"
+		{
+			"dlcappid"		"1315300"
+			"config"
+			{
+				"oslist"		"windows,linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3787169223144829335"
+					"size"		"69760796"
+					"download"		"28644816"
+				}
+				"beta"
+				{
+					"gid"		"3787169223144829335"
+					"size"		"69760796"
+					"download"		"28644816"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtest"
+				{
+					"gid"		"A5E58BB337A18F10A6186163271F6347"
+					"size"		"6AD3BBEAD9C0A75158AFCAE5E2EC6264"
+					"download"		"30E80032A2A08D31E3299906879B6540"
+				}
+				"testing"
+				{
+					"gid"		"F6D22E1764A5DEB3B2379E35BEDA391B"
+					"size"		"7E552906209AB3370985238D85AEEF2D"
+					"download"		"917F234FD6BD5BC536F47B6566F1881F"
+				}
+			}
+		}
+		"1315301"
+		{
+			"dlcappid"		"1315300"
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7992079167536271710"
+					"size"		"69760796"
+					"download"		"28644816"
+				}
+				"beta"
+				{
+					"gid"		"7992079167536271710"
+					"size"		"69760796"
+					"download"		"28644816"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtest"
+				{
+					"gid"		"DD0CFD804859D4D5181788AEF9562789"
+					"size"		"6AD3BBEAD9C0A75158AFCAE5E2EC6264"
+					"download"		"30E80032A2A08D31E3299906879B6540"
+				}
+				"testing"
+				{
+					"gid"		"B0F9B0EFEBDF013103F32458881669D4"
+					"size"		"7E552906209AB3370985238D85AEEF2D"
+					"download"		"917F234FD6BD5BC536F47B6566F1881F"
+				}
+			}
+		}
+		"1339440"
+		{
+			"dlcappid"		"1339440"
+			"config"
+			{
+				"oslist"		"windows,linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1957829688836589244"
+					"size"		"57449101"
+					"download"		"21612624"
+				}
+				"beta"
+				{
+					"gid"		"1957829688836589244"
+					"size"		"57449101"
+					"download"		"21612624"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtest"
+				{
+					"gid"		"A094256212C8DEEBA882240627160A16"
+					"size"		"324422408766B2D8A8FB52C663986F4A"
+					"download"		"CF05D3170A9E493B6BCAF82DC5478250"
+				}
+				"testing"
+				{
+					"gid"		"BC8F93021A560F7B61D4E63F40DAD47E"
+					"size"		"44FB7AF6BD55BADCFF73884ECB553593"
+					"download"		"65AC233639D00321C9A1AD4AE35BD796"
+				}
+			}
+		}
+		"1339441"
+		{
+			"dlcappid"		"1339440"
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1885222367687194887"
+					"size"		"57449101"
+					"download"		"21612624"
+				}
+				"beta"
+				{
+					"gid"		"1885222367687194887"
+					"size"		"57449101"
+					"download"		"21612624"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtest"
+				{
+					"gid"		"24BCF08D1758043FF1B0C456C1BD73E7"
+					"size"		"324422408766B2D8A8FB52C663986F4A"
+					"download"		"CF05D3170A9E493B6BCAF82DC5478250"
+				}
+				"testing"
+				{
+					"gid"		"BEDF6957E8D79269F52C5F67DF12AC8A"
+					"size"		"44FB7AF6BD55BADCFF73884ECB553593"
+					"download"		"65AC233639D00321C9A1AD4AE35BD796"
+				}
+			}
+		}
+		"2574770"
+		{
+			"dlcappid"		"2574770"
+			"config"
+			{
+				"oslist"		"windows,linux"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"FB210C7BF59E58EF3551112A33D2242B"
+					"size"		"0C0A97B1B46BD1B8EBC8D98D1ABFAC86"
+					"download"		"830450B94AF053C99CDCAB6620EC39B5"
+				}
+			}
+		}
+		"2574771"
+		{
+			"dlcappid"		"2574770"
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"08B752C98EBC3F1BCCDA4EAC7CCBB387"
+					"size"		"0C0A97B1B46BD1B8EBC8D98D1ABFAC86"
+					"download"		"830450B94AF053C99CDCAB6620EC39B5"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8329151"
+				"timeupdated"		"1646738113"
+			}
+			"beta"
+			{
+				"buildid"		"8329151"
+				"description"		"Early access to new features. Unstable."
+				"timeupdated"		"1646738104"
+			}
+			"devtest"
+			{
+				"buildid"		"8329151"
+				"pwdrequired"		"1"
+				"timeupdated"		"1646685877"
+			}
+			"testing"
+			{
+				"buildid"		"12161224"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694451780"
+			}
+			"translation"
+			{
+				"buildid"		"5095902"
+				"pwdrequired"		"1"
+				"timeupdated"		"1590762606"
+			}
+			"v1.2.1"
+			{
+				"buildid"		"3568938"
+				"pwdrequired"		"1"
+				"timeupdated"		"1554119904"
+			}
+			"v1.3.2"
+			{
+				"buildid"		"3698447"
+				"pwdrequired"		"1"
+				"timeupdated"		"1554127974"
+			}
+			"v1.4.4"
+			{
+				"buildid"		"3974953"
+				"pwdrequired"		"1"
+				"timeupdated"		"1562084571"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"5000000000"
+		"maxnumfiles"		"1000"
+	}
+}
