@@ -1,0 +1,198 @@
+"appinfo"
+{
+	"appid"		"952730"
+	"common"
+	{
+		"name"		"18层"
+		"type"		"Game"
+		"clienticon"		"ba56c633499bc8ea9d109d78387e0404e0fa8c2e"
+		"clienticns"		"952b5f5f3cc333d1154b21fd0408fb01874a914e"
+		"clienttga"		"3a449f9049aaeb4ea55bfb7f78c239445ce2c41b"
+		"icon"		"94c287a2b421dcf58b684a2adf979db669b8755c"
+		"logo"		"cbdbcac2af530e0b62360ea2dc0d11e5faf38096"
+		"logo_small"		"cbdbcac2af530e0b62360ea2dc0d11e5faf38096_thumb"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"metacritic_name"		"I am the legend"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"29.54817178589549"
+				"height_pct"		"69.67236982147519"
+			}
+		}
+		"store_asset_mtime"		"1646333323"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Dwall工作室"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Dwall工作室"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"恐怖，horror"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"3"
+			"4"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1647535928"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"952730"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"1721"
+			"2"		"1667"
+			"3"		"19"
+			"4"		"5716"
+			"5"		"1664"
+			"6"		"599"
+			"7"		"122"
+			"8"		"9204"
+			"9"		"4106"
+			"10"		"4191"
+			"11"		"3839"
+			"12"		"5984"
+			"13"		"4064"
+			"14"		"3978"
+			"15"		"7250"
+			"16"		"1687"
+			"17"		"4182"
+			"18"		"7743"
+			"19"		"5186"
+		}
+		"review_score"		"5"
+		"review_percentage"		"45"
+	}
+	"extended"
+	{
+		"developer"		"Dwall工作室"
+		"publisher"		"Dwall工作室"
+	}
+	"config"
+	{
+		"installdir"		"18hell"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"18hell.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"18hell.exe"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"schinese"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"952732"
+		{
+			"config"
+			{
+				"language"		"schinese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4551929349308643459"
+					"size"		"5632366716"
+					"download"		"5564065584"
+				}
+				"test_ue5_18hell"
+				{
+					"gid"		"2296517043456381828"
+					"size"		"5828453284"
+					"download"		"4784423264"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8449167"
+				"timeupdated"		"1648447454"
+			}
+			"test_ue5_18hell"
+			{
+				"buildid"		"11495266"
+				"description"		"bate"
+				"timeupdated"		"1687009557"
+			}
+		}
+	}
+}
