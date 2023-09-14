@@ -1,0 +1,234 @@
+"appinfo"
+{
+	"appid"		"473460"
+	"common"
+	{
+		"name"		"Memory Oblivion Box"
+		"type"		"Game"
+		"oslist"		"windows"
+		"logo"		"3de449b54ea96b4a882dd875ee35483a51b1eb07"
+		"logo_small"		"3de449b54ea96b4a882dd875ee35483a51b1eb07_thumb"
+		"icon"		"4ca5ab0c9785141e9c2eea1539b065dac4fc43b4"
+		"clienticon"		"f0469c0ff76b14c92bcb964f97908506e2fc41bd"
+		"clienttga"		"5f25254fbfa5b6cf08f19fa3317f7d1ee07421d0"
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+		}
+		"releasestate"		"released"
+		"name_localized"
+		{
+			"schinese"		"回忆忘却之匣"
+			"tchinese"		"回憶忘卻之匣"
+			"english"		"Memory Oblivion Box"
+		}
+		"osarch"		""
+		"osextended"		""
+		"metacritic_name"		"回忆忘却之匣"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1667657692"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"DreaMory"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"NVLMaker"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_23"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"full_audio"		"true"
+				"subtitles"		"true"
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1465919924"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"473460"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"597"
+			"2"		"21"
+			"3"		"3799"
+			"4"		"4085"
+		}
+		"review_score"		"8"
+		"review_percentage"		"92"
+	}
+	"extended"
+	{
+		"developer"		"DreaMory"
+		"publisher"		"NVLMaker"
+		"homepage"		"http://www.dreamoryavg.com/games/mob/"
+		"listofdlc"		"500850"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"mob"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"mob.exe"
+				"type"		"none"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"schinese,tchinese"
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"473461"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3993630163223290154"
+					"size"		"1786821337"
+					"download"		"1642581616"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"735848B82AD0D6951D656B73E99F5471"
+					"size"		"219D7DE75FE0568E0F3031047E125379"
+					"download"		"AEC03CE2C19BEE440303745CF30A7C23"
+				}
+				"private"
+				{
+					"gid"		"92BBA3BA7EE1BAD8290177697454D7AB"
+					"size"		"E17C07EAF4A6896BF034B698F45BAA88"
+					"download"		"6FDF80726AC860741EB7A2055B13EA46"
+				}
+			}
+		}
+		"500850"
+		{
+			"dlcappid"		"0"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2198065250122522389"
+					"size"		"520381399"
+					"download"		"479470064"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"D6DC2BF96DC26B89E0BC372FB9F7B53C"
+					"size"		"DA3FAE76C1751BF394F1B23770C7B2F5"
+					"download"		"E11735F30CFD1107E90B433AB2431896"
+				}
+				"private"
+				{
+					"gid"		"BF11316B2F8ADBC143BCB5DF6BDB7481"
+					"size"		"3F0A863DB83BAB5F9F216BC690076302"
+					"download"		"8AE2AC62643732C06C0D612320148FEE"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1220620"
+				"timeupdated"		"1468148325"
+			}
+			"beta"
+			{
+				"buildid"		"2381352"
+				"pwdrequired"		"1"
+				"timeupdated"		"1513664687"
+			}
+			"private"
+			{
+				"buildid"		"2381352"
+				"pwdrequired"		"1"
+				"timeupdated"		"1513664370"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000000"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"savedata"
+				"pattern"		"*.*"
+				"recursive"		"1"
+			}
+		}
+	}
+}
