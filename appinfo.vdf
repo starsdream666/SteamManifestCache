@@ -1,0 +1,417 @@
+"appinfo"
+{
+	"appid"		"671980"
+	"common"
+	{
+		"name"		"Close Me"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"logo"		"015ada8529ed6158d83b4b989691a76518a07090"
+		"logo_small"		"015ada8529ed6158d83b4b989691a76518a07090_thumb"
+		"icon"		"fca9f82be5f29b2f5395901e9477250b7a84d02a"
+		"clienticon"		"93a5c30a87751e639e35656197e0f6c7af09e308"
+		"clienttga"		"3a62ae3a7a9b428999e18e06b059a67bd7001248"
+		"metacritic_name"		"Close Me"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1500822066"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Yai Gameworks"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Yai Gameworks"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Close Me"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"72"
+			"1"		"73"
+			"2"		"25"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"arabic"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"bulgarian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"danish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"finnish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"greek"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"hungarian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"norwegian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"romanian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"swedish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"thai"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1502309702"
+		"community_hub_visible"		"1"
+		"gameid"		"671980"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"21"
+			"2"		"4667"
+			"3"		"6650"
+			"4"		"1721"
+			"5"		"1667"
+			"6"		"5577"
+			"7"		"1710"
+			"8"		"3834"
+			"9"		"1714"
+			"10"		"4166"
+			"11"		"5186"
+			"12"		"5716"
+			"13"		"9994"
+			"14"		"13782"
+			"15"		"3978"
+			"16"		"4342"
+			"17"		"3871"
+		}
+		"review_score"		"6"
+		"review_percentage"		"78"
+	}
+	"extended"
+	{
+		"developer"		"Yai Gameworks"
+		"publisher"		"Yai Gameworks"
+		"homepage"		"http://yaigameworks.com/"
+		"listofdlc"		"700290"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Close Me"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"CloseMe.exe"
+				"arguments"		"--in-process-gpu"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Game.app"
+				"arguments"		"--in-process-gpu"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Game"
+				"arguments"		"--in-process-gpu"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"671981"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2110967003057409615"
+					"size"		"194592768"
+					"download"		"85743328"
+				}
+			}
+		}
+		"671982"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5815637545209043050"
+					"size"		"166520316"
+					"download"		"94808560"
+				}
+			}
+		}
+		"671983"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3595447573087957972"
+					"size"		"178767035"
+					"download"		"97785424"
+				}
+			}
+		}
+		"700290"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1498322734379509193"
+					"size"		"288332920"
+					"download"		"159193936"
+				}
+			}
+			"dlcappid"		"700290"
+		}
+		"671984"
+		{
+			"dlcappid"		"700290"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"938385910061223879"
+					"size"		"288332920"
+					"download"		"159193936"
+				}
+			}
+		}
+		"671985"
+		{
+			"dlcappid"		"700290"
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4419777647032856238"
+					"size"		"253680065"
+					"download"		"159640560"
+				}
+			}
+		}
+		"671986"
+		{
+			"dlcappid"		"700290"
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1637324344490109144"
+					"size"		"265926784"
+					"download"		"162617744"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2610566"
+				"timeupdated"		"1521221189"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"20"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"www/save/"
+				"pattern"		"*.rpgsave"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+			"1"
+			{
+				"root"		"gameinstall"
+				"path"		"Game.app/Contents/Resources/app.nw"
+				"pattern"		"*.rpgsave"
+				"platforms"
+				{
+					"1"		"MacOS"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
