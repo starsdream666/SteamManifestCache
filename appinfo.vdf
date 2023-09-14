@@ -1,0 +1,232 @@
+"appinfo"
+{
+	"appid"		"1128310"
+	"common"
+	{
+		"name"		"Koi Unleashed"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,linux"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"3db21f7092933d8cab9d3b397ebe6d0d20c90146"
+		"logo_small"		"3db21f7092933d8cab9d3b397ebe6d0d20c90146_thumb"
+		"icon"		"3f782d69f9ea663bf2d61bf3d713e37653b626f5"
+		"clienticon"		"cee08e452ef2c8358048ece767017c1f43d93765"
+		"clienttga"		"3197d1b5b732a3652e2660881f0ae0bac09b5f4e"
+		"linuxclienticon"		"e949b3f9a3017d2370252c0a8520f9f9a5b966b6"
+		"clienticns"		"918b2143dccef6cb62959e5ac8c916efbf0e4616"
+		"languages"
+		{
+			"english"		"1"
+			"portuguese"		"1"
+		}
+		"app_retired_publisher_request"		"1"
+		"metacritic_name"		"Koi Unleashed"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"29.906978777969726"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1586338304"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Wild Grip"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Wild Grip"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1588158029"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1128310"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"492"
+			"2"		"122"
+			"3"		"4182"
+			"4"		"4747"
+			"5"		"1708"
+			"6"		"4046"
+			"7"		"5851"
+			"8"		"4026"
+			"9"		"4057"
+			"10"		"4231"
+			"11"		"7107"
+			"12"		"10695"
+			"13"		"21725"
+			"14"		"4434"
+			"15"		"9"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Wild Grip"
+		"publisher"		"Wild Grip"
+		"homepage"		"https://www.wild-grip.com"
+	}
+	"config"
+	{
+		"installdir"		"Koi Unleashed"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Koi Unleashed.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Koi_Unleashed"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,portuguese"
+		"1128311"
+		{
+			"config"
+			{
+				"language"		""
+			}
+		}
+		"1128312"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3996297246582620316"
+					"size"		"1315143699"
+					"download"		"1070649664"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"FFAA086A8F098B6F20EF00B051124D57"
+					"size"		"DB78ABE618B82E2B944EDA2B9558A73B"
+					"download"		"CB398C742CA31AB0B32D27ACA5DEC3BC"
+				}
+			}
+		}
+		"1128313"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2488406123512473026"
+					"size"		"1311771252"
+					"download"		"1069903584"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"F9CB7F793FB850102B9BDAB80BC9FAE7"
+					"size"		"7580C2C25DD28F12C87A2E7288425BEE"
+					"download"		"D38708A00E5887C71978CA5780CA5536"
+				}
+			}
+		}
+		"1128314"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4990229"
+				"timeupdated"		"1588780177"
+			}
+			"beta"
+			{
+				"buildid"		"4990229"
+				"pwdrequired"		"1"
+				"timeupdated"		"1588774097"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+	}
+}
