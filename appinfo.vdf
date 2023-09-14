@@ -1,0 +1,182 @@
+"appinfo"
+{
+	"appid"		"1152000"
+	"common"
+	{
+		"name"		"Psihanul"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"95b54af000defa16fb212653ae91777bbda1ad39"
+		"clienticns"		"daa1778b20dfd28e33414e36871631288c3a23e1"
+		"clienticon"		"daa1778b20dfd28e33414e36871631288c3a23e1"
+		"icon"		"eae463bba3019a098a9ca0578944cf98cd35062e"
+		"linuxclienticon"		"daa1778b20dfd28e33414e36871631288c3a23e1"
+		"logo"		"4efedd8ef6d2c84d19ab8e7be3a3c415e2cc37b8"
+		"logo_small"		"4efedd8ef6d2c84d19ab8e7be3a3c415e2cc37b8_thumb"
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+		}
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"metacritic_name"		"Psihanul"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"45.766969055720075"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1671573102"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Orazgylyjov Davut"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Orazgylyjov Davut"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"russian"
+			{
+				"full_audio"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1582531200"
+		"steam_release_date"		"1671613808"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1152000"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"492"
+			"2"		"4345"
+			"3"		"4667"
+			"4"		"599"
+			"5"		"1663"
+			"6"		"493"
+			"7"		"21"
+			"8"		"1734"
+			"9"		"3839"
+			"10"		"4106"
+			"11"		"4182"
+			"12"		"5611"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Orazgylyjov Davut"
+		"publisher"		"Orazgylyjov Davut"
+	}
+	"config"
+	{
+		"installdir"		"Psihanul"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Psihanul.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"baselanguages"		"english"
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1152001"
+		{
+			"config"
+			{
+				"language"		"russian"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2879369465359606425"
+					"size"		"2474988162"
+					"download"		"684361344"
+				}
+			}
+		}
+		"1152002"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10207933"
+				"timeupdated"		"1671816670"
+			}
+		}
+	}
+}
