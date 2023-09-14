@@ -1,0 +1,211 @@
+"appinfo"
+{
+	"appid"		"486630"
+	"common"
+	{
+		"name"		"Toxic Terror"
+		"type"		"Game"
+		"oslist"		"windows"
+		"clienticon"		"292858195a7f8f3e10edec5c77c96d0632b02d69"
+		"clienttga"		"0cf1d46f55e504d884b89d77dd472d378969547d"
+		"icon"		"2e6b52ea7405b37b05fc15276b624a220f9b8fe3"
+		"logo"		"0ac14257b5305b9088ac4fb038295adab522a128"
+		"logo_small"		"0ac14257b5305b9088ac4fb038295adab522a128_thumb"
+		"releasestate"		"released"
+		"metacritic_name"		"Toxic Terror"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1667076882"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Fascimania"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Fascimania"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_29"		"1"
+			"category_28"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1461481200"
+		"steam_release_date"		"1464974119"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"486630"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"21"
+			"2"		"492"
+			"3"		"1664"
+			"4"		"4004"
+		}
+		"review_score"		"5"
+		"review_percentage"		"64"
+	}
+	"extended"
+	{
+		"developer"		"Fascimania"
+		"publisher"		"Fascimania"
+		"homepage"		"http://www.fascimania.com"
+		"listofdlc"		"571820"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Toxic Terror"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Toxic Terror.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"486631"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5617952755154083823"
+					"size"		"13931020"
+					"download"		"8294304"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"C6D3B155087E9E1AF107D403C3BBD00F"
+					"size"		"9996E630B1D203B7470D081701303888"
+					"download"		"23FBC0C0065D4FDC0C6CB99877516EFA"
+				}
+			}
+		}
+		"571820"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3325499322829349687"
+					"size"		"2312487"
+					"download"		"2061552"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"EE69F16F4047EA1A06FA3065E003C070"
+					"size"		"4BB3A1D03BE4AAD4A59D0A021FACD2FB"
+					"download"		"220E3BBD45A0F0B00F079AD3341BB6E1"
+				}
+			}
+			"dlcappid"		"571820"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2258607"
+				"timeupdated"		"1509842217"
+			}
+			"beta"
+			{
+				"buildid"		"1525182"
+				"pwdrequired"		"1"
+				"timeupdated"		"1481924074"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100"
+		"maxnumfiles"		"2"
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"os"		"Windows"
+				"oscompare"		"="
+				"useinstead"		"gameinstall"
+				"addpath"		""
+			}
+		}
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"AGKApps/ToxicTerror/media"
+				"pattern"		"*.settings"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
