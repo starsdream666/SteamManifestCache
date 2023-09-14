@@ -1,0 +1,417 @@
+"appinfo"
+{
+	"appid"		"546900"
+	"common"
+	{
+		"name"		"Fear Effect Sedna"
+		"type"		"Game"
+		"releasestate"		"released"
+		"icon"		"34305ac4e92ee7140ce607602e3738bcb1f47cac"
+		"clienttga"		"4dd41717b60fe62b415d24f1e8f0aa65dd33644a"
+		"clienticon"		"c82935019e5979886a1a7efde8ab103102c00ce6"
+		"logo"		"e8617aa24dc26644ac98f87ae974f8f9125688e9"
+		"logo_small"		"e8617aa24dc26644ac98f87ae974f8f9125688e9_thumb"
+		"oslist"		"windows"
+		"osarch"		""
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+		}
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"546900_eula_0"
+				"name"		"Fear Effect Sedna EULA"
+				"url"		"http://store.steampowered.com//eula/546900_eula_0"
+			}
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1692921600"
+			"tested_build_id"		"2983564"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Fear Effect Sedna"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"60.124284106640005"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1568800651"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Sushee"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Square Enix"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Forever Entertainment S. A."
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+			"category_29"		"1"
+			"category_23"		"1"
+			"category_43"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1520355375"
+		"metacritic_score"		"42"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/fear-effect-sedna?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"546900"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"9"
+			"2"		"492"
+			"3"		"1664"
+			"4"		"5851"
+			"5"		"7208"
+			"6"		"4667"
+			"7"		"44868"
+			"8"		"1687"
+			"9"		"4345"
+		}
+		"review_score"		"5"
+		"review_percentage"		"42"
+	}
+	"extended"
+	{
+		"developer"		"Sushee"
+		"publisher"		"Square Enix"
+		"listofdlc"		"817100"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Fear Effect Sedna"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"FearEffect.exe"
+				"arguments"		"-forcecontrollerappid 546900"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"546901"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7689327501137819889"
+					"size"		"16638968654"
+					"download"		"4617428656"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"age_ratings"
+				{
+					"gid"		"CD89C565E194FD58CD2AC3AE6E0B58E5"
+					"size"		"E3622EA39345CD3A50E3CACC3855AC69"
+					"download"		"094EC96A1C3BE4C465D9B7822C8C1798"
+				}
+				"alpha"
+				{
+					"gid"		"5A498E5BC12822433970305ECD3E2EDC"
+					"size"		"148325E14327CB279F59E408D66130FF"
+					"download"		"94056C5C1114F129FEC17AE7EA85E02A"
+				}
+				"compat_qa"
+				{
+					"gid"		"FBAA1046246C6ACA9A29EF3D8BFA3230"
+					"size"		"0592FAC60D2BD4699A201CDBF72B8812"
+					"download"		"2E3CFC479AE142E9888F43DF74F59F1E"
+				}
+				"kickstarter"
+				{
+					"gid"		"621D3F6724EE1A5B323085D739EC7234"
+					"size"		"5F832A038EA12163F81812C7EC01314B"
+					"download"		"88A9E1E8481771A98EDEFF1B6E49F0C6"
+				}
+				"locqa"
+				{
+					"gid"		"9CAEF5170354E02684F2766023A6F375"
+					"size"		"66DFC1EFB3FD74B31DF114F5B05F1004"
+					"download"		"DF68DA0511F8D18595CDBBCD71457F0B"
+				}
+				"milestones"
+				{
+					"gid"		"5F84D3571DAB51599D34D456CC0D4553"
+					"size"		"5DC5B8C558A2E63C2743EADB70D2AA03"
+					"download"		"924EAC2B83D7CCE21593450586A17B8F"
+				}
+				"press"
+				{
+					"gid"		"AA072843EFA623B6E14AFEFC7B501D86"
+					"size"		"DC625E86EC87F1FBC34FB68EEC4A414A"
+					"download"		"70A436985669A3DC38FD5845EE392C9E"
+				}
+				"squareenixqa"
+				{
+					"gid"		"5A5011B576E08BFED57D981271F8C4D4"
+					"size"		"C0B2EE453D44C409439B87D3F03DABB4"
+					"download"		"3874431A3106AE41751866246FF66E7F"
+				}
+				"technicalqa"
+				{
+					"gid"		"289271BD3B86CA9C7C7DCED585AE2C15"
+					"size"		"7DB885B2A0B2163E93B3FC8C23A8F83D"
+					"download"		"7BA645ED0957BCDA66344C7EADF042E9"
+				}
+			}
+		}
+		"817100"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1563475570356081214"
+					"size"		"185439733"
+					"download"		"164527424"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"C9C92C1881BFB3D5EA870271904DFE1B"
+					"size"		"107EE84BC6D11EAF9BCD3C09D1AD5B66"
+					"download"		"22F8333C5F81A1C18C1C40A206DA5324"
+				}
+				"locqa"
+				{
+					"gid"		"277BB0DF00DFC15E478E55F7F7744365"
+					"size"		"3FEA7B92C0F2ADF56CBD11ADB6A955EB"
+					"download"		"23489AF68CCE8AF0149EFAD7D763C95B"
+				}
+				"milestones"
+				{
+					"gid"		"E0CE6ACC7AC6BF80BB18D7E7BAEE2E81"
+					"size"		"F633C40696A83930040823AD6675E6AB"
+					"download"		"563EAE457C28D9506F90DC81272AE6B5"
+				}
+				"squareenixqa"
+				{
+					"gid"		"435C6DDA3C7C56F1321AAD0AD04499D4"
+					"size"		"2BA0403F2AB11C6B8D54366F33B1726C"
+					"download"		"8764F85FE5E8919989DCAA0219D325FA"
+				}
+				"technicalqa"
+				{
+					"gid"		"3698B40EA987BCEBA3EE5EF5A41CDE09"
+					"size"		"31A607A2890EE18FF6ADC581F341C9A9"
+					"download"		"C1861C7D740940E148FA368E90322B65"
+				}
+			}
+			"dlcappid"		"817100"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2983564"
+				"timeupdated"		"1534436449"
+			}
+			"age_ratings"
+			{
+				"buildid"		"2333056"
+				"pwdrequired"		"1"
+				"timeupdated"		"1512148194"
+			}
+			"alpha"
+			{
+				"buildid"		"2576940"
+				"pwdrequired"		"1"
+				"timeupdated"		"1520324818"
+			}
+			"compat_qa"
+			{
+				"buildid"		"2333056"
+				"pwdrequired"		"1"
+				"timeupdated"		"1512148208"
+			}
+			"kickstarter"
+			{
+				"buildid"		"1457313"
+				"pwdrequired"		"1"
+				"timeupdated"		"1479129680"
+			}
+			"locqa"
+			{
+				"buildid"		"2983564"
+				"pwdrequired"		"1"
+				"timeupdated"		"1532707568"
+			}
+			"milestones"
+			{
+				"buildid"		"2983564"
+				"pwdrequired"		"1"
+				"timeupdated"		"1532707342"
+			}
+			"press"
+			{
+				"buildid"		"2451270"
+				"pwdrequired"		"1"
+				"timeupdated"		"1519634369"
+			}
+			"squareenixqa"
+			{
+				"buildid"		"2983564"
+				"pwdrequired"		"1"
+				"timeupdated"		"1532707548"
+			}
+			"technicalqa"
+			{
+				"buildid"		"2983564"
+				"pwdrequired"		"1"
+				"timeupdated"		"1532707583"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Sushee/FearEffect"
+				"pattern"		"*.json"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Sushee/FearEffect"
+				"pattern"		"*.svd"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
