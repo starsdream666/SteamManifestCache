@@ -1,0 +1,149 @@
+"appinfo"
+{
+	"appid"		"1504860"
+	"common"
+	{
+		"name"		"Hell Let Loose (Public Testing)"
+		"section_type"		"ownersonly"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"f861a8bb56827ef91da0dafd531f5fdd506376c2"
+		"logo_small"		"f861a8bb56827ef91da0dafd531f5fdd506376c2_thumb"
+		"clienticon"		"0fdcc5ceb1fa504077b0f8189afc31498e75183c"
+		"clienttga"		"b0c40cb334d5d5b23888c4cc4440b18a2c2fbf46"
+		"icon"		"4eaacc9b9695577ce335b8b77f2933689e9e673b"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"43.704092743202125"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1614082166"
+		"associations"
+		{
+		}
+		"community_hub_visible"		"1"
+		"gameid"		"1504860"
+	}
+	"config"
+	{
+		"installdir"		"Hell Let Loose (Public Testing)"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Launch_HLL.exe"
+				"arguments"		"-UserDir=Playtest"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"HLL\\Binaries\\Win64\\HLL.exe"
+				"arguments"		"-UserDir=Playtest -noeac"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"2023test"
+				}
+				"description_loc"
+				{
+					"english"		"Development (no EAC)"
+				}
+				"description"		"Development (no EAC)"
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1504861"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5943814048434022138"
+					"size"		"41800392455"
+					"download"		"18237764000"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"2023test"
+				{
+					"gid"		"B6BC912F2B45BE44C2B1AB13E62A4C10"
+					"size"		"887F680FEF0C063F69B61875A574D752"
+					"download"		"4E15CB6EF36619EC0FD3C0A28EEDF458"
+				}
+				"qa_testing"
+				{
+					"gid"		"C027AB15F7934AABFE24332042C8D194"
+					"size"		"E5CD0B351594766A2DDA567BCEEA44A3"
+					"download"		"69A79D74EFBDB0B2BC179C9F9ADAAD5C"
+				}
+			}
+		}
+		"baselanguages"		"english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11963204"
+				"timeupdated"		"1692276683"
+			}
+			"2023test"
+			{
+				"buildid"		"11692199"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689240472"
+			}
+			"qa_testing"
+			{
+				"buildid"		"11963204"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692262986"
+			}
+		}
+	}
+}
