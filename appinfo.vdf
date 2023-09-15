@@ -1,7 +1,6 @@
 "appinfo"
 {
 	"appid"		"1627720"
-	"public_only"		"1"
 	"common"
 	{
 		"name"		"Lies of P"
@@ -240,6 +239,140 @@
 			"17"		"3952"
 			"18"		"4711"
 			"19"		"1695"
+		}
+	}
+	"extended"
+	{
+		"developer"		"NEOWIZ"
+		"publisher"		"NEOWIZ"
+		"homepage"		"https://liesofp.com/"
+		"listofdlc"		"2325281"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Lies of P"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"LOP.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Lies of P"
+				}
+				"description"		"Lies of P"
+			}
+		}
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"65533"
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1627721"
+		{
+			"config"
+			{
+				"oslist"		"windows,linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6414528620246400900"
+					"size"		"42415855232"
+					"download"		"36891347024"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal_test"
+				{
+					"gid"		"EBFCB0BF59AC7D1D2815C98450E6A290"
+					"size"		"0F767DCBC880E15E90B4966BDBD3D91A"
+					"download"		"904389F07441A10020F14171DB5B4515"
+				}
+				"mac_internal"
+				{
+					"gid"		"2847F1C05A84912BF94C7C7EE3A5267D"
+					"size"		"54DAE1DCA89CB9A708C14C66A26896B6"
+					"download"		"AD6359E53A10BEF95529536BADA39375"
+				}
+				"mediabuild"
+				{
+					"gid"		"662FB6C575FC2008CB6BFA7AC690628E"
+					"size"		"A914B7AC5A9FD521C2DD2EFF4633B09C"
+					"download"		"B4431B4DAD1ABB06BDAA67FA81374801"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12195248"
+				"timeupdated"		"1694753253"
+			}
+			"internal_test"
+			{
+				"buildid"		"12140983"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694168849"
+			}
+			"mac_internal"
+			{
+				"buildid"		"12128489"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694057603"
+			}
+			"mediabuild"
+			{
+				"buildid"		"11989890"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692681253"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000000"
+		"maxnumfiles"		"30"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"LiesofP/Saved/SaveGames/{Steam3AccountID}"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
 		}
 	}
 }
