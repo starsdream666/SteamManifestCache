@@ -1,0 +1,379 @@
+"appinfo"
+{
+	"appid"		"251710"
+	"common"
+	{
+		"name"		"Chainsaw Warrior"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"logo"		"416889a3f582ab9d780c0e1e38f897042233957b"
+		"logo_small"		"416889a3f582ab9d780c0e1e38f897042233957b_thumb"
+		"clienticon"		"f00ee2942540e55fcbf77845404670d5eeb9158a"
+		"clienttga"		"8a7dc5c76bf2b077cd092db06b28ed8536525b84"
+		"icon"		"23d07cc6503380795da98e4a0dd78e813fb3af2d"
+		"app_retired_publisher_request"		"1"
+		"metacritic_name"		"Chainsaw Warrior"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"41.48191365227538"
+				"height_pct"		"51.51982901923533"
+			}
+		}
+		"store_asset_mtime"		"1562251681"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Auroch Digital"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Auroch Digital"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Warhammer"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"3"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_25"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1381164540"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"251710"
+		"store_tags"
+		{
+			"0"		"1666"
+			"1"		"1770"
+			"2"		"1659"
+			"3"		"1662"
+			"4"		"9"
+			"5"		"4026"
+			"6"		"1667"
+			"7"		"5310"
+			"8"		"4182"
+			"9"		"492"
+			"10"		"14139"
+			"11"		"21"
+			"12"		"122"
+			"13"		"1720"
+			"14"		"9271"
+			"15"		"3871"
+			"16"		"1751"
+			"17"		"6815"
+			"18"		"3955"
+			"19"		"3839"
+		}
+		"review_score"		"5"
+		"review_percentage"		"53"
+	}
+	"extended"
+	{
+		"developer"		"Auroch Digital"
+		"publisher"		"Auroch Digital"
+		"homepage"		"http://www.chainsawwarrior.net/"
+		"listofdlc"		"706970"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"ChainsawWarrior"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"CWSteamLinux.x86"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"2"
+			{
+				"executable"		"CWSteamMac.app"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"3"
+			{
+				"executable"		"CWSteamPC.exe"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"markdlcdepots"		"1"
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"251712"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2463675481357931637"
+					"size"		"243596532"
+					"download"		"61890336"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"fullbeta"
+				{
+					"gid"		"767D7B4984B50ACE073E8B4A158CCCDB"
+					"size"		"9EBE32B6F828246BDC6C00CE22563A5B"
+					"download"		"C0B22C509AC92456727CB4C392A02578"
+				}
+				"linuxbeta"
+				{
+					"gid"		"9D9833B1E78F4C721FD7D09B42E35A85"
+					"size"		"6733FC14B598B5E0D1F8F8F8E3A81F6B"
+					"download"		"170121E96D3A1DBB4F75ECE153DD11C0"
+				}
+				"macbeta"
+				{
+					"gid"		"5CB055FEA80C70D725D8A0A52E08A1E1"
+					"size"		"2EE7B73DA7EE7E3F4EA9D7BE2F926D7A"
+					"download"		"3813DBDC37C6F0BB8B26627259D76DC1"
+				}
+				"pcbeta"
+				{
+					"gid"		"1184EC612A15A3F65DF79D69E4C2B3AE"
+					"size"		"EE44470F411B0F88F9E7D13529E44122"
+					"download"		"F87FE9FB909FBD4A536EAE9C232FD0A9"
+				}
+				"privatebeta"
+				{
+					"gid"		"F80E09F1A9A135F11CD4B0AAA4E1B18F"
+					"size"		"A1B79192C203EF103F2C92208D0B40A8"
+					"download"		"77B695C2BED3C48A57E807A664F76231"
+				}
+				"privatemacbeta"
+				{
+					"gid"		"3516B35F2C7984208EA91465336EA46C"
+					"size"		"D7903B5D1C4DD7BC0EE76744161F59BE"
+					"download"		"685B8E3B1D6CA8BEA53890379529D35E"
+				}
+			}
+		}
+		"251713"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4375345277207254017"
+					"size"		"250421329"
+					"download"		"57013424"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"fullbeta"
+				{
+					"gid"		"2A0F41ECCC3406171D87628E2B9AC3E5"
+					"size"		"3E4FD548DD48CD801094EB7CA5F1544B"
+					"download"		"603806FDCD8794A4D547DDF7B369C592"
+				}
+				"linuxbeta"
+				{
+					"gid"		"B98D1295A0A5580B592D7FFA4A4F41C7"
+					"size"		"928947325A8EAE79E05426BB227F079E"
+					"download"		"170121E96D3A1DBB4F75ECE153DD11C0"
+				}
+				"privatebeta"
+				{
+					"gid"		"A0D4936EF31284E1235942EAAAFE8916"
+					"size"		"CD0523F8220D23E8E45A42DFE0D4D65B"
+					"download"		"8C464DBCA25699A4BA220E931DC995B7"
+				}
+			}
+		}
+		"251715"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2835679530584515841"
+					"size"		"248845401"
+					"download"		"62379216"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"fullbeta"
+				{
+					"gid"		"8D8B1CA0A15C0C442421981494C4E1EA"
+					"size"		"3118ED7DBFAC8D64869A51567AC737CF"
+					"download"		"2D822FE858266C4E4829A01A2D1E5A41"
+				}
+				"macbeta"
+				{
+					"gid"		"C6FB0A2AC92FFCB9EDC2716BDDE1ACF0"
+					"size"		"E0F097E68F5692581EF6C43AB09965EA"
+					"download"		"3813DBDC37C6F0BB8B26627259D76DC1"
+				}
+				"privatebeta"
+				{
+					"gid"		"A99E1E6D00A81266D95DDF1C0D3F8314"
+					"size"		"1961B732C24F21ACAB14BFE75E727338"
+					"download"		"6D10694CF757ABE714FDA2ED3D546A1D"
+				}
+				"privatemacbeta"
+				{
+					"gid"		"355EAE6B2206A17B7FBEDBFDE6EE0DA1"
+					"size"		"A7E36738F8204B93F3710FD2B81B2D7B"
+					"download"		"685B8E3B1D6CA8BEA53890379529D35E"
+				}
+			}
+		}
+		"706970"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6369450267443907710"
+					"size"		"13740716"
+					"download"		"12156096"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"fullbeta"
+				{
+					"gid"		"E5203BA4EB1FBA3BB734C39BB72ECC51"
+					"size"		"FCD246ED98359824A825903636FEB069"
+					"download"		"3DD5981354FD638402DD92A2B1CF032D"
+				}
+				"privatebeta"
+				{
+					"gid"		"06386BE57A2B239E8AA37337FA76242C"
+					"size"		"4FDE358D5ABDDA510CCA40DDDE8DB103"
+					"download"		"5828C02C8209A4076610250DEBB71D3D"
+				}
+			}
+			"dlcappid"		"706970"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2167664"
+				"timeupdated"		"1507023322"
+			}
+			"fullbeta"
+			{
+				"buildid"		"2167667"
+				"pwdrequired"		"1"
+				"timeupdated"		"1507023349"
+			}
+			"linuxbeta"
+			{
+				"buildid"		"217726"
+				"pwdrequired"		"1"
+			}
+			"macbeta"
+			{
+				"buildid"		"133259"
+				"pwdrequired"		"1"
+			}
+			"pcbeta"
+			{
+				"buildid"		"133385"
+				"pwdrequired"		"1"
+			}
+			"privatebeta"
+			{
+				"buildid"		"2167665"
+				"pwdrequired"		"1"
+				"timeupdated"		"1507023336"
+			}
+			"privatemacbeta"
+			{
+				"buildid"		"133259"
+				"pwdrequired"		"1"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"3000000"
+		"maxnumfiles"		"10"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+	}
+}
