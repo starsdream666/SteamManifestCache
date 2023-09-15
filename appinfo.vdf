@@ -1,0 +1,217 @@
+"appinfo"
+{
+	"appid"		"992910"
+	"common"
+	{
+		"name"		"The Black Masses"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"logo"		"1b035efd192d6c99b27867c222440883a37c7344"
+		"logo_small"		"1b035efd192d6c99b27867c222440883a37c7344_thumb"
+		"icon"		"2dee4ad085485980bf737aedbb9738c76b23b1de"
+		"clienttga"		"032f4dcf95fe552901cba9243195f4267382732a"
+		"clienticon"		"73770814492679b543cf258e217f49cc8bfc5024"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1648684800"
+			"tested_build_id"		"7399787"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"simultaneous_gamepad_mouse"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"1"
+			}
+		}
+		"metacritic_name"		"The Black Masses"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"32.638888888888886"
+			}
+		}
+		"store_asset_mtime"		"1588371114"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Brilliant Game Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Brilliant Game Studios"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"3"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_1"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1583996400"
+		"steam_release_date"		"1584034407"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"992910"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"21"
+			"2"		"122"
+			"3"		"492"
+			"4"		"1659"
+			"5"		"4345"
+			"6"		"1695"
+			"7"		"1685"
+			"8"		"4667"
+			"9"		"493"
+			"10"		"1684"
+			"11"		"3839"
+			"12"		"3859"
+			"13"		"4172"
+			"14"		"1646"
+			"15"		"1662"
+		}
+		"review_score"		"5"
+		"review_percentage"		"65"
+	}
+	"extended"
+	{
+		"developer"		"Brilliant Game Studios"
+		"publisher"		"Brilliant Game Studios"
+		"homepage"		"https://www.brilliantgamestudios.com/"
+	}
+	"config"
+	{
+		"installdir"		"The Black Masses"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"The Black Masses.exe"
+				"description"		"Normal"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"992911"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4872152335799546682"
+					"size"		"37281448691"
+					"download"		"12361988352"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"BA735C5F36CA4D9839DF4C491F7FDAC0"
+					"size"		"C35DB161518AFF45557B12E1E792A8D3"
+					"download"		"0CD2207574D7FC5D9FFCB42A65BDDB0C"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7399787"
+				"timeupdated"		"1632259969"
+			}
+			"test"
+			{
+				"buildid"		"7399787"
+				"pwdrequired"		"1"
+				"timeupdated"		"1632257894"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"TBMAlpha2_Data/"
+				"pattern"		"*.txt"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
