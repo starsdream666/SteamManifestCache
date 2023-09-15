@@ -1,0 +1,735 @@
+"appinfo"
+{
+	"appid"		"252490"
+	"common"
+	{
+		"name"		"Rust"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"logo"		"ced8982cc46ce2b31cdb746f0abf61e9e8935913"
+		"logo_small"		"ced8982cc46ce2b31cdb746f0abf61e9e8935913_thumb"
+		"clienttga"		"35c8e5a3ad4b435df025910d95f24e49a64dbb7b"
+		"clienticon"		"acf87ad23570b3c81f8c9cfc19544a07edd8b632"
+		"icon"		"820be4782639f9c4b64fa3ca7e6c26a95ae4fd1c"
+		"clienticns"		"abb808c6e7bb5e97119f0ae1a80cdd7681fecfc2"
+		"linuxclienticon"		"fdd1ccf5c2013cf6fc87eb0876affd64ba5e938b"
+		"requireskbmouse"		"1"
+		"osarch"		"64"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"252490_eula_0"
+				"name"		"Rust EULA"
+				"url"		"https://store.steampowered.com//eula/252490_eula_0"
+				"version"		"2"
+			}
+		}
+		"osextended"		"macos64"
+		"exfgls"		"1"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"2"
+			"2"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1653436800"
+			"tested_build_id"		"8173552"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_UnsupportedAntiCheatConfiguration"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+				"proton_compat_config"		"nomfdxgiman,"
+			}
+		}
+		"market_presence"		"1"
+		"metacritic_name"		"Rust"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"20"
+				"height_pct"		"18"
+			}
+		}
+		"store_asset_mtime"		"1678975928"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Facepunch Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Facepunch Studios"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"29"
+			"4"		"3"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_27"		"1"
+			"category_8"		"1"
+			"category_20"		"1"
+			"category_30"		"1"
+			"category_35"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_15"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_49"		"1"
+			"category_42"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"arabic"
+			{
+				"supported"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+			}
+			"danish"
+			{
+				"supported"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+			}
+			"finnish"
+			{
+				"supported"		"true"
+			}
+			"greek"
+			{
+				"supported"		"true"
+			}
+			"norwegian"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+			}
+			"swedish"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+			"vietnamese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1518112320"
+		"metacritic_score"		"69"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/rust?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"252490"
+		"store_tags"
+		{
+			"0"		"1662"
+			"1"		"1702"
+			"2"		"3859"
+			"3"		"1695"
+			"4"		"1100689"
+			"5"		"1643"
+			"6"		"1775"
+			"7"		"3810"
+			"8"		"21"
+			"9"		"3839"
+			"10"		"19"
+			"11"		"6650"
+			"12"		"1663"
+			"13"		"1685"
+			"14"		"1774"
+			"15"		"3843"
+			"16"		"492"
+			"17"		"493"
+			"18"		"3835"
+			"19"		"599"
+		}
+		"review_score"		"8"
+		"review_percentage"		"86"
+	}
+	"extended"
+	{
+		"gamedir"		"Rust"
+		"serverbrowsername"		"Rust"
+		"developer"		"Facepunch Studios"
+		"publisher"		"Facepunch Studios"
+		"homepage"		"http://rust.facepunch.com/"
+		"listofdlc"		"494560,1174370,1353060,1374000,1670430"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Rust"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"rust.exe"
+				"arguments"		"-logfile \"output_log.txt\" -disable-gpu-skinning --normal-rendering"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
+			}
+			"1"
+			{
+				"executable"		"./rust.app"
+				"arguments"		"-logfile \"output_log.txt\" -disable-gpu-skinning --normal-rendering"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
+			}
+			"2"
+			{
+				"executable"		"rust"
+				"arguments"		"-logfile \"output_log.txt\" -disable-gpu-skinning"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
+			}
+			"3"
+			{
+				"executable"		"rust.exe"
+				"arguments"		"-logfile \"output_log.txt\""
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"test"
+				}
+				"description_loc"
+				{
+					"english"		"Rust with GPU skinning (experimental)"
+				}
+				"description"		"Rust with GPU skinning (experimental)"
+			}
+			"4"
+			{
+				"executable"		"./rust.app"
+				"arguments"		"-logfile \"output_log.txt\""
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"macos"
+					"betakey"		"test"
+				}
+				"description_loc"
+				{
+					"english"		"Rust with GPU skinning (experimental)"
+				}
+				"description"		"Rust with GPU skinning (experimental)"
+			}
+			"5"
+			{
+				"executable"		"rust"
+				"arguments"		"-logfile \"output_log.txt\""
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"linux"
+					"betakey"		"test"
+				}
+				"description_loc"
+				{
+					"english"		"Rust with GPU skinning (experimental)"
+				}
+				"description"		"Rust with GPU skinning (experimental)"
+			}
+		}
+		"systemprofile"		"1"
+		"steamcontrollertouchtemplateindex"		"1"
+		"steamcontrollertouchconfigdetails"
+		{
+			"2109102606"
+			{
+				"controller_type"		"controller_mobile_touch"
+				"enabled_branches"		"default"
+				"use_action_block"		"false"
+			}
+		}
+		"sdr-groups-global"		"steam-global,ovh"
+	}
+	"depots"
+	{
+		"depotdeltapatches"		"1"
+		"overridescddb"		"1"
+		"markdlcdepots"		"1"
+		"workshopdepot"		"252490"
+		"hasdepotsindlc"		"1"
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229002"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"252494"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6353839747051815883"
+					"size"		"22928049799"
+					"download"		"13576587328"
+				}
+				"last-last-month"
+				{
+					"gid"		"3732538865539399361"
+					"size"		"22008976168"
+					"download"		"13177294112"
+				}
+				"last-month"
+				{
+					"gid"		"1274212985339487699"
+					"size"		"22380605921"
+					"download"		"13349569360"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"debug"
+				{
+					"gid"		"5C2430B1AFA7807D6C15FD88926ABACE"
+					"size"		"E3E5640C08D5D46DCA897EA5AEAA6419"
+					"download"		"6D5FDC8761CF9C75F0C02DCE02EBCB15"
+				}
+				"release"
+				{
+					"gid"		"11525A14CBC7CAE16C10783CAFA64021"
+					"size"		"4251D0ED8B1FD4D5AF47294A289112F5"
+					"download"		"18DB146EA9C59A5F49DF76F83A41DB50"
+				}
+				"release-debug"
+				{
+					"gid"		"5106A7FC383020EFC57E3B0268DF06E2"
+					"size"		"E54DA859122D2F2EF7D88F89A2F86CA3"
+					"download"		"92992D02E73D2D85F6224CE4DFEA7590"
+				}
+				"test"
+				{
+					"gid"		"2255FFCEDA61CC7B5EE7C7A563398DA4"
+					"size"		"32A00E4A91ADADE97CE2F65849BB3BFF"
+					"download"		"F07BBBB6715217C9E5DA36E09D6B3CD9"
+				}
+				"test-debug"
+				{
+					"gid"		"0AD17677FD1CE9EBD51BD8A72D3AA251"
+					"size"		"244089F080FFC81F6A40AEE1E377B4F6"
+					"download"		"5E21650B7B0FD4644EBAF89C5E88ECB7"
+				}
+				"unity2019"
+				{
+					"gid"		"5DFA446015EF2126613F228B11DC0020"
+					"size"		"A40C28213EABD3E1244E4E07A31E4577"
+					"download"		"1A4483CA99CC5F4CD96383D68956B65B"
+				}
+			}
+		}
+		"252492"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6906803076286685398"
+					"size"		"4386109892"
+					"download"		"1603094384"
+				}
+				"last-last-month"
+				{
+					"gid"		"7614824824290035400"
+					"size"		"4276683508"
+					"download"		"1560197296"
+				}
+				"last-month"
+				{
+					"gid"		"4014418054284190440"
+					"size"		"4313858791"
+					"download"		"1569834576"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"debug"
+				{
+					"gid"		"B4B7CBC471F65DFBD060B621FA4EAABE"
+					"size"		"67548332E63739963C5B1A36DC96424D"
+					"download"		"0D876DA392F534BF5BF102DF6B6B0B8A"
+				}
+				"release"
+				{
+					"gid"		"7332E6F40C3A63A610881225EE4A0D7E"
+					"size"		"7E5A1EDE6FA3A4FA5EE6AD5B51693B72"
+					"download"		"48F10148D12013439AEA477EE3BE5951"
+				}
+				"release-debug"
+				{
+					"gid"		"E20EC49DC5FCF4BB39A1EC871BFD1082"
+					"size"		"AF68FE36427804EE59A3426A337D4D26"
+					"download"		"4A2EACE80B2B6DC3B6AB7FAE48CA5094"
+				}
+				"test"
+				{
+					"gid"		"ECFF51385FCB30767DA2EF53DA34831F"
+					"size"		"831B190B19B9C6865F5C5055C8CA4436"
+					"download"		"45E1B62F4D5773F16C9E96D89C5C9D5A"
+				}
+				"test-debug"
+				{
+					"gid"		"BDFD63E5DFC710546BFB9BE627ADD622"
+					"size"		"B9484424FD37DDEE3D7C14B1AF96C2CF"
+					"download"		"7C37BBB7C9FCCF09634B86FC00EA3432"
+				}
+				"unity2019"
+				{
+					"gid"		"2619BA9F706EBC40BBBF1359F04F47FD"
+					"size"		"EB2F8BA9552BB85C035F5A841B5A07C6"
+					"download"		"CB4DBA97E8B74512AC5FFDBD7755473F"
+				}
+			}
+		}
+		"252495"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8145274619064039481"
+					"size"		"720847379"
+					"download"		"511885648"
+				}
+				"last-last-month"
+				{
+					"gid"		"2486676083669216181"
+					"size"		"685627786"
+					"download"		"499817952"
+				}
+				"last-month"
+				{
+					"gid"		"5294776516218840372"
+					"size"		"688482557"
+					"download"		"500409184"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"debug"
+				{
+					"gid"		"0F38BA0983FBC0396CEE7523AE5FCA15"
+					"size"		"A1B35C23C0C6BFABFF50122D3E05F744"
+					"download"		"996EBC730367E487AB0D8CC1D8CC5036"
+				}
+				"release"
+				{
+					"gid"		"A46B0D9611D2FF145BEB56F5D6A655D1"
+					"size"		"A9A93A27B610AEA72F549A2CA9379584"
+					"download"		"6234F7E93F352EAD87004274EE255054"
+				}
+				"release-debug"
+				{
+					"gid"		"8220848738502D61DC0CBA1B6A58F51A"
+					"size"		"372F416EED00A163CF429EED33B5EC45"
+					"download"		"AD6E4154739405FBAA087F5922CFFE1D"
+				}
+				"test"
+				{
+					"gid"		"E469C0346EF11A550A9718477595B3A2"
+					"size"		"0A951E07A4403686E560111E3B152911"
+					"download"		"A8821DFF3F93CCFA64455BC2A6CCED0C"
+				}
+				"test-debug"
+				{
+					"gid"		"0BA2CEE00463011754E3DEADEE527417"
+					"size"		"FDD1EB99C46F59C2260CDC0070C5B5E3"
+					"download"		"AB51D135ABA5A5219236B0DB5049CE8A"
+				}
+				"unity2019"
+				{
+					"gid"		"B991625D68B819FB9CE58D3D64E331FF"
+					"size"		"D17ED4C47F2C785D06413B4F8DF88606"
+					"download"		"53694141ADA6CFF4E5BF57BFDA3F2CA9"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12149590"
+				"timeupdated"		"1694266851"
+			}
+			"debug"
+			{
+				"buildid"		"11029092"
+				"pwdrequired"		"1"
+				"timeupdated"		"1683203214"
+			}
+			"last-last-month"
+			{
+				"buildid"		"11659150"
+				"description"		"Last last months patch"
+				"timeupdated"		"1694115233"
+			}
+			"last-month"
+			{
+				"buildid"		"11924199"
+				"description"		"Last months patch"
+				"timeupdated"		"1694115344"
+			}
+			"release"
+			{
+				"buildid"		"12167992"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694516584"
+			}
+			"release-debug"
+			{
+				"buildid"		"12168008"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694516687"
+			}
+			"test"
+			{
+				"buildid"		"12130591"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694115400"
+			}
+			"test-debug"
+			{
+				"buildid"		"11629378"
+				"pwdrequired"		"1"
+				"timeupdated"		"1688557002"
+			}
+			"unity2019"
+			{
+				"buildid"		"10275073"
+				"pwdrequired"		"1"
+				"timeupdated"		"1673868082"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"2000"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"cfg"
+				"pattern"		"*.cfg"
+			}
+		}
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#status_atmainmenu"		"Main menu"
+					"#status_wilderness"		"Exploring the wilderness"
+					"#status_monument"		"Exploring a monument"
+				}
+			}
+		}
+	}
+}
