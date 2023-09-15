@@ -1,0 +1,892 @@
+"appinfo"
+{
+	"appid"		"237850"
+	"common"
+	{
+		"name"		"Dreamfall Chapters"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"eulas"
+		{
+		}
+		"logo"		"06507734d920cae6fcd5275cf97069bcd0e365c4"
+		"logo_small"		"06507734d920cae6fcd5275cf97069bcd0e365c4_thumb"
+		"icon"		"e1238d11e33f11cb516d460dea2cd1d42d84ec2e"
+		"clienticon"		"6096301e601b4a42b72f25dca9e136f2259fb042"
+		"clienttga"		"21fad6a55df023d74b4069519618d0ddcb86af80"
+		"linuxclienticon"		"d3fb06374a69e06ac7518572f6190b382ac9039a"
+		"clienticns"		"4e99ef801c8083130ab719a53f0ef557a2419c18"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"russian"		"1"
+		}
+		"osarch"		""
+		"osextended"		"macos64"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1665187200"
+			"tested_build_id"		"3202784"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Dreamfall Chapters"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"62.30936819172114"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1579708149"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Red Thread Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Red Thread Games"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1413927780"
+		"metacritic_score"		"71"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/dreamfall-chapters?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"237850"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"1742"
+			"2"		"4166"
+			"3"		"1684"
+			"4"		"7208"
+			"5"		"4115"
+			"6"		"6426"
+			"7"		"4182"
+			"8"		"1698"
+			"9"		"1697"
+			"10"		"1756"
+			"11"		"4242"
+			"12"		"4295"
+			"13"		"3942"
+			"14"		"5153"
+			"15"		"4486"
+			"16"		"3834"
+			"17"		"492"
+			"18"		"5900"
+			"19"		"19"
+		}
+		"review_score"		"8"
+		"review_percentage"		"82"
+	}
+	"extended"
+	{
+		"checkpkgstate"		"1"
+		"developer"		"Red Thread Games"
+		"gamedir"		"ValveTestApp237850"
+		"homepage"		"http://www.dreamfallchapters.com/"
+		"icon"		""
+		"noservers"		"0"
+		"sourcegame"		"1"
+		"state"		"eStateComingSoonNoPreload"
+		"visibleonlywhensubscribed"		"1"
+		"publisher"		"Red Thread Games"
+		"gamemanualurl"		"https://store.steampowered.com/manual/237850/"
+		"listofdlc"		"320530,635300"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Dreamfall Chapters"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Dreamfall Chapters.exe"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Dreamfall Chapters.app"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"macos"
+					"osarch"		"64"
+				}
+			}
+			"2"
+			{
+				"executable"		"Dreamfall Chapters"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"237851"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9091905473115178723"
+					"size"		"21422158444"
+					"download"		"8811006320"
+				}
+				"5.7.4"
+				{
+					"gid"		"9091905473115178723"
+					"size"		"21422158444"
+					"download"		"8811006320"
+				}
+				"beta"
+				{
+					"gid"		"9091905473115178723"
+					"size"		"21422158444"
+					"download"		"8811006320"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"bookfivebeta"
+				{
+					"gid"		"7885FD3496325B574329D81B665DCF9F"
+					"size"		"A0A4B7FE6ACA840051971DCBB0BFF841"
+					"download"		"E909AB6F5A34548F164C45EA39355FF0"
+				}
+				"bookfourbeta"
+				{
+					"gid"		"C5887F3A22D02CE12D5D4E6A25B4FA8E"
+					"size"		"3D7FBFC8658196E8C3EABB0D56874BCA"
+					"download"		"F768C18E31F3C68967A915DAB1B917D7"
+				}
+				"bookonebeta"
+				{
+					"gid"		"6C9505F4514106AF2024BA491181DBD5"
+					"size"		"8963C3E4208DFBAB287A761DCCC97F15"
+					"download"		"AAE0B065A0AAE86DDFEAF83EB3F40D60"
+				}
+				"bookthreebeta"
+				{
+					"gid"		"C99401B1B75CF5625248811018755F5B"
+					"size"		"81462A58A62D8534877B5EA7C4842020"
+					"download"		"34FF90002DAE66E539D95572491FBEC4"
+				}
+				"booktwobeta"
+				{
+					"gid"		"2E40A9AC3B40063FA43A8979482DD4E6"
+					"size"		"5538CDB02F529AEEE8F51CACB49CCECA"
+					"download"		"AF9247C13CF02CC9AA4557A8028720CE"
+				}
+				"finalcut"
+				{
+					"gid"		"8E111AA4B453ABDBBAB45EC963E709A7"
+					"size"		"21FE406221D617176A902B8493490641"
+					"download"		"DD7E693BE77D4F9DAF7951BCFDB281D6"
+				}
+				"finalcutdlc"
+				{
+					"gid"		"555A1E8B9E15EDEC5B017F433C9398B9"
+					"size"		"B46AA544DD921E4055F206A12FE072EB"
+					"download"		"B718121BE345F73D8D3F706DC63ADA19"
+				}
+				"redthread"
+				{
+					"gid"		"539F97374528EA7B7EE2D6AB58DBAF7D"
+					"size"		"5526C6586186315BFBF843DCD3529AF7"
+					"download"		"3651C9A23D6AC92820C2844ABC023D72"
+				}
+			}
+		}
+		"237852"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5377799756318817855"
+					"size"		"21478511851"
+					"download"		"8826980640"
+				}
+				"5.7.4"
+				{
+					"gid"		"5377799756318817855"
+					"size"		"21478511851"
+					"download"		"8826980640"
+				}
+				"beta"
+				{
+					"gid"		"5377799756318817855"
+					"size"		"21478511851"
+					"download"		"8826980640"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"bookfivebeta"
+				{
+					"gid"		"8C6BC5BF3E83411AC03ED360E34BD9BD"
+					"size"		"2B9C062CA52C93A05612AD1F21565BE5"
+					"download"		"0732345525734B12AF083D7E4539C077"
+				}
+				"bookfourbeta"
+				{
+					"gid"		"34F87F175215B2FA5775EFF285AC3122"
+					"size"		"C253D07187B9F953B274DE35B97D7729"
+					"download"		"E495FF89E29AB87E1B60D4260C915704"
+				}
+				"bookonebeta"
+				{
+					"gid"		"1F514DA7E046AF1BD961B55446DAE497"
+					"size"		"0D2FA0C15428F32CA4C780BBF57ED546"
+					"download"		"CA01DBBDAF9364C1DD63161689A46FAF"
+				}
+				"bookthreebeta"
+				{
+					"gid"		"39A3790C39D84E6F2DA2839E16ED197C"
+					"size"		"1340B23157683C231293872BBC2B0B99"
+					"download"		"FD651642D3B51B12CDB4E05BD81E284C"
+				}
+				"booktwobeta"
+				{
+					"gid"		"AE2540ACC807CFE1E3CFD9FA72E5548C"
+					"size"		"501AE29FF95176D86DA8F03D292F6505"
+					"download"		"4FDB723BBF5BD361FE286CB30D3B55D2"
+				}
+				"finalcut"
+				{
+					"gid"		"87FB61F6AFC8D03BFC450FE8C2C3CF2B"
+					"size"		"5409F7AEC27AD40BD248862AD868077B"
+					"download"		"A37DE05418FA9A59B6B35E3BF4A9D570"
+				}
+				"finalcutdlc"
+				{
+					"gid"		"80FED9188B7FC55425244178F60A3801"
+					"size"		"61615446446C3ABA64A9763B99483348"
+					"download"		"A1BA394442F7E6F0EC815D07A49A68F6"
+				}
+				"redthread"
+				{
+					"gid"		"FEFAEC8A3E3C625EC1D72B78D9A4FDD5"
+					"size"		"B941FA4CAA0792AAE9637CC69D107073"
+					"download"		"5637A1C5856E3D1FDFC33A7F1C23BEAC"
+				}
+			}
+		}
+		"237853"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5213459599996496232"
+					"size"		"21425004558"
+					"download"		"8797728544"
+				}
+				"5.7.4"
+				{
+					"gid"		"5213459599996496232"
+					"size"		"21425004558"
+					"download"		"8797728544"
+				}
+				"beta"
+				{
+					"gid"		"5213459599996496232"
+					"size"		"21425004558"
+					"download"		"8797728544"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"bookfivebeta"
+				{
+					"gid"		"5B7577E7EDB0ED8C1BD7662830AAEF03"
+					"size"		"AEDBC8A83DDF2C91AB9D841B134E1AED"
+					"download"		"6710CC251C8C279FF835EB7902E4E33F"
+				}
+				"bookfourbeta"
+				{
+					"gid"		"5D2F3D317DB7710F58C4FA78B9B4F5DA"
+					"size"		"E2C097874A42C93C68C01F70E749F1DE"
+					"download"		"8FDEBCD9D2052DBAC6C3FEAB8C9AEED0"
+				}
+				"bookonebeta"
+				{
+					"gid"		"4C62547C05D3DB5940C9CC871C9AFD83"
+					"size"		"1A8063CDCD5787B53CCFA3A72B6DA68E"
+					"download"		"03F0C8CC338E3493F302EEBEB79A0813"
+				}
+				"bookthreebeta"
+				{
+					"gid"		"90F170F71DE8310893B4B6515BD33820"
+					"size"		"B79DD10FA7A46F425A28D389A9DB8809"
+					"download"		"4DC7D8A3FD260EA82BCD9B8B81C6AFAF"
+				}
+				"booktwobeta"
+				{
+					"gid"		"802A4CD3254B9E690F23E0325F83089F"
+					"size"		"71AA2CF2846098F3041D329567E3EDE4"
+					"download"		"8CB8C35C6120CB11BB288E4BD4B753CF"
+				}
+				"finalcut"
+				{
+					"gid"		"866BCB50120E3C3A8D1F82C9E13390FE"
+					"size"		"24FEF0B283D9AC9D97C468B2F94F8B85"
+					"download"		"BA314A3BF006A55CC7A4194EA2A5D076"
+				}
+				"finalcutdlc"
+				{
+					"gid"		"3E08041BCCBBFAA29A0163C24A6112A4"
+					"size"		"13C9A8FAE385E0A8B79776EAA9F23182"
+					"download"		"8C4F571EFE3FF271625036A3F8EDE5B2"
+				}
+				"redthread"
+				{
+					"gid"		"83B84F3DAEA2BF8F925BB8313A6B972A"
+					"size"		"A1CE470C8B6D6EA61592CE075D3D3323"
+					"download"		"DC7433FE0FEDF95AB0D4260867D399DA"
+				}
+			}
+		}
+		"237854"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2731610869413893804"
+					"size"		"21426423468"
+					"download"		"8750042880"
+				}
+				"5.7.4"
+				{
+					"gid"		"2731610869413893804"
+					"size"		"21426423468"
+					"download"		"8750042880"
+				}
+				"beta"
+				{
+					"gid"		"2731610869413893804"
+					"size"		"21426423468"
+					"download"		"8750042880"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"bookfivebeta"
+				{
+					"gid"		"E4832CA04B9A949D63212C0AC485D61B"
+					"size"		"AE76A79ECA25EDC83A6EDF1FD9CE8AB9"
+					"download"		"7294A00A28DEE829B731A90192E7968C"
+				}
+				"bookfourbeta"
+				{
+					"gid"		"60CB765433BC2E0D47608D37C3CBE686"
+					"size"		"898C91D7B98BFD5CB6853870EABE5C90"
+					"download"		"AECFC24918F93600C64D9A55823A08A8"
+				}
+				"bookonebeta"
+				{
+					"gid"		"26E78EDE4E0A7DC5735FB59B46333935"
+					"size"		"F1158B46FD2E75C707A9CA4ADEEEF375"
+					"download"		"F1158B46FD2E75C707A9CA4ADEEEF375"
+				}
+				"bookthreebeta"
+				{
+					"gid"		"868AF8DE023EBB05CDCF4363D4AA7257"
+					"size"		"EC14AA78D97B1455C3FD99D904E6E10B"
+					"download"		"4A9B881867A1639EF92CD938F0EC60B5"
+				}
+				"booktwobeta"
+				{
+					"gid"		"F215F80D2D70B5B5A87920690A11E8DC"
+					"size"		"FD0E19C8D2D490FD1C81F4783B243F5F"
+					"download"		"FD0E19C8D2D490FD1C81F4783B243F5F"
+				}
+				"finalcut"
+				{
+					"gid"		"6CA19A999E55A2A37EDC54530FB5738A"
+					"size"		"710C019C740D6B5E9AC7ECA3B9148C99"
+					"download"		"C639025A415BC5EE5A1AE393A47DE0CB"
+				}
+				"finalcutdlc"
+				{
+					"gid"		"8C0F23089882C698BF805EABA6FDFA0C"
+					"size"		"FC25F72F1F22351AD4300AC7BE1416D4"
+					"download"		"587CA185952162D42C196AF194E06F74"
+				}
+				"redthread"
+				{
+					"gid"		"6A5EEE060458EA0A95FB3E3E8E5CFAFD"
+					"size"		"09A80E266F4F8149E58E3F631B812D1E"
+					"download"		"CE7508A4FDB931A837D131530D087A67"
+				}
+			}
+		}
+		"320530"
+		{
+			"dlcappid"		"320530"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7844442774255796883"
+					"size"		"486043517"
+					"download"		"7541677547"
+				}
+				"5.7.4"
+				{
+					"gid"		"7844442774255796883"
+					"size"		"486043517"
+					"download"		"7541677547"
+				}
+				"beta"
+				{
+					"gid"		"7844442774255796883"
+					"size"		"486043517"
+					"download"		"7541677547"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"bookfivebeta"
+				{
+					"gid"		"25B465DF6789A92941A6B59618DD42DF"
+					"size"		"75AEF5DEFFA84F28A26FEC7F49F4DEAE"
+					"download"		"36573F6AD7112FD324D8D15DB2D2B45F"
+				}
+				"bookfourbeta"
+				{
+					"gid"		"37357245CE24E34C4B63C247891E0CD9"
+					"size"		"B9292AA6FC77173186BEF155F1BBA773"
+					"download"		"D4D28319C1D308245016EA8238A6024C"
+				}
+				"bookonebeta"
+				{
+					"gid"		"7BF0E0B8CA7F12F673E15B9316C83654"
+					"size"		"7896F14B25485D976C929CEF176CDB8B"
+					"download"		"A4AEDA594501F77A6369D847F29E41AB"
+				}
+				"bookthreebeta"
+				{
+					"gid"		"37F9DEF75EA718D968406B10B7677EF8"
+					"size"		"0ED084319FFF19688E64AA90810F4E6B"
+					"download"		"B29888DC28CC902CF106AB1A5C5FCDC9"
+				}
+				"booktwobeta"
+				{
+					"gid"		"1D8AC7C214548E73BCA3521BCCFF8D5F"
+					"size"		"2155B390F66B834511A786CC1D6FC218"
+					"download"		"BF903C5A43279437EC05309C94AD0665"
+				}
+				"finalcut"
+				{
+					"gid"		"5052D8C0A89429BFA620081FBCC8FCA5"
+					"size"		"4B3A3EA454A17F0021BADE23654BE7C5"
+					"download"		"86889073898FD465A295F997C4E10F5F"
+				}
+				"finalcutdlc"
+				{
+					"gid"		"D77DD6CA7ABDC9BC1DE9B29B9767A022"
+					"size"		"0300A25E88028139B91DE601CA2FED85"
+					"download"		"99A5880F8AFFA24B0CDFDAF6F20E8FC5"
+				}
+				"redthread"
+				{
+					"gid"		"977BE9C53213FF1244211AF47E457F01"
+					"size"		"78383FF136F5F575405EC114D4A8495B"
+					"download"		"8D9B1387934BF9ABAB8A95DB7C664F67"
+				}
+			}
+		}
+		"237855"
+		{
+			"dlcappid"		"635300"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7640080502417526376"
+					"size"		"20753688669"
+					"download"		"9187785792"
+				}
+				"5.7.4"
+				{
+					"gid"		"2398986059326266300"
+					"size"		"20503091922"
+					"download"		"8920511568"
+				}
+				"beta"
+				{
+					"gid"		"7640080502417526376"
+					"size"		"20753688669"
+					"download"		"9187785792"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"finalcut"
+				{
+					"gid"		"D52C8CDA56396D7D37E79C630B826380"
+					"size"		"DA8372E914731A3CBB963C0099420E0E"
+					"download"		"183AFA7933348A8CCE5D4F970CAAFBEE"
+				}
+				"finalcutdlc"
+				{
+					"gid"		"52F2A2D16CD476C719FF0DF1845066F2"
+					"size"		"87ED81CDEC69C63BA59DCE94198EB6CB"
+					"download"		"AABBE523E6DEFD888DC883592A28F15B"
+				}
+				"redthread"
+				{
+					"gid"		"90CAA3B91C8B2F36888B926124097089"
+					"size"		"030D2DC5EEE55B01B2D8B4EE7693B777"
+					"download"		"A91356BEA60F9EE73582D66A6BBFF4C3"
+				}
+			}
+		}
+		"237856"
+		{
+			"dlcappid"		"635300"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4027707964634721302"
+					"size"		"20749455317"
+					"download"		"9184506416"
+				}
+				"5.7.4"
+				{
+					"gid"		"7921993521069423812"
+					"size"		"20498825074"
+					"download"		"8918609552"
+				}
+				"beta"
+				{
+					"gid"		"4027707964634721302"
+					"size"		"20749455317"
+					"download"		"9184506416"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"finalcutdlc"
+				{
+					"gid"		"480582AFAA7451E79AF18A5744335C79"
+					"size"		"9E9AF31CF4B13596DDDB85780D97B162"
+					"download"		"2CF02D6FF465370DA4D1EEC4A588ADFF"
+				}
+				"redthread"
+				{
+					"gid"		"D0CE4CFE979558770006DC47388BF26A"
+					"size"		"7E4A27E1B6F8661F99F05D4316E4BA4C"
+					"download"		"DC913917ECDE695423FB733AC13F17DA"
+				}
+			}
+		}
+		"237857"
+		{
+			"dlcappid"		"635300"
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5172224996277561574"
+					"size"		"20759251736"
+					"download"		"9175607216"
+				}
+				"5.7.4"
+				{
+					"gid"		"5228034531062618776"
+					"size"		"20508640213"
+					"download"		"8907243664"
+				}
+				"beta"
+				{
+					"gid"		"5172224996277561574"
+					"size"		"20759251736"
+					"download"		"9175607216"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"finalcutdlc"
+				{
+					"gid"		"EA29BDA38768D00B7DF1F828F4B45AE4"
+					"size"		"E99BACE9C532E71673A6540F1895A2A0"
+					"download"		"F5F0DE9BA9FBD3FD7041C7F92F4D5339"
+				}
+				"redthread"
+				{
+					"gid"		"7CD785F8B46B4BBA0FC6AF35BF91FE98"
+					"size"		"37567FA6F082E9E4CCCDC8C6DFB7763F"
+					"download"		"120BCA88470D6F31881F01E6FE4ACE73"
+				}
+			}
+		}
+		"237858"
+		{
+			"dlcappid"		"635300"
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5088376926420551891"
+					"size"		"20753521993"
+					"download"		"9173489888"
+				}
+				"5.7.4"
+				{
+					"gid"		"4348793251549668183"
+					"size"		"20502910470"
+					"download"		"8908186016"
+				}
+				"beta"
+				{
+					"gid"		"5088376926420551891"
+					"size"		"20753521993"
+					"download"		"9173489888"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"finalcutdlc"
+				{
+					"gid"		"575E6D729288CC7F40E2B5BF62BA6BFC"
+					"size"		"FC01100DB28200737B5D15C991093DA8"
+					"download"		"B1016E6ED6218806D1E419693628844C"
+				}
+				"redthread"
+				{
+					"gid"		"5D365789C095B2FBA4E917FA9606F292"
+					"size"		"356170C21032FD84D9CE803317A31A1F"
+					"download"		"39CE5AC0E52B960162011BA8B6AB1119"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3202784"
+				"timeupdated"		"1539327615"
+			}
+			"5.7.4"
+			{
+				"buildid"		"2042529"
+				"description"		"Release build 5.7.4"
+				"timeupdated"		"1537265527"
+			}
+			"beta"
+			{
+				"buildid"		"3202784"
+				"description"		"Beta build 5.7.8"
+				"timeupdated"		"1539249645"
+			}
+			"bookfivebeta"
+			{
+				"buildid"		"1612567"
+				"pwdrequired"		"1"
+				"timeupdated"		"1486383402"
+			}
+			"bookfourbeta"
+			{
+				"buildid"		"1002426"
+				"pwdrequired"		"1"
+			}
+			"bookonebeta"
+			{
+				"buildid"		"469831"
+				"pwdrequired"		"1"
+			}
+			"bookthreebeta"
+			{
+				"buildid"		"874467"
+				"pwdrequired"		"1"
+			}
+			"booktwobeta"
+			{
+				"buildid"		"567926"
+				"pwdrequired"		"1"
+			}
+			"finalcut"
+			{
+				"buildid"		"1974796"
+				"pwdrequired"		"1"
+				"timeupdated"		"1500551970"
+			}
+			"finalcutdlc"
+			{
+				"buildid"		"2910964"
+				"pwdrequired"		"1"
+				"timeupdated"		"1530513216"
+			}
+			"redthread"
+			{
+				"buildid"		"3202784"
+				"pwdrequired"		"1"
+				"timeupdated"		"1539249661"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000000"
+		"maxnumfiles"		"1000"
+	}
+}
