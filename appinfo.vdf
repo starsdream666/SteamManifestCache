@@ -1,0 +1,414 @@
+"appinfo"
+{
+	"appid"		"962730"
+	"common"
+	{
+		"name"		"Skater XL"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"icon"		"cfa29291556bc6ec4f9accc641d5e0ce2e1b1fa1"
+		"logo"		"980d4a4a044237de2b3b21dbad0a54b78d417bcd"
+		"logo_small"		"980d4a4a044237de2b3b21dbad0a54b78d417bcd_thumb"
+		"clienticon"		"e7a2bf445414770cadaa7f889bb2639a3362c589"
+		"clienttga"		"b54179bdc2cc258b33e823fc4f255a03bbe635f2"
+		"releasestate"		"released"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"962730_eula_0"
+				"name"		"Skater XL EULA"
+				"url"		"https://store.steampowered.com//eula/962730_eula_0"
+			}
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1644451200"
+			"tested_build_id"		"7152029"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+			}
+		}
+		"metacritic_name"		"Skater XL"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"48.020954598370196"
+				"height_pct"		"37.84136784611731"
+			}
+		}
+		"store_asset_mtime"		"1677776064"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Easy Day Studios Pty Ltd"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Easy Day Studios Pty Ltd"
+			}
+		}
+		"primary_genre"		"18"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"28"
+			"3"		"18"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+			"category_1"		"1"
+			"category_38"		"1"
+			"category_9"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"original_release_date"		"1595919600"
+		"steam_release_date"		"1595948551"
+		"metacritic_score"		"56"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/skater-xl?ftag=MCD-06-10aaa1f"
+		"community_hub_visible"		"1"
+		"gameid"		"962730"
+		"store_tags"
+		{
+			"0"		"1753"
+			"1"		"96359"
+			"2"		"701"
+			"3"		"3810"
+			"4"		"1669"
+			"5"		"5348"
+			"6"		"599"
+			"7"		"3968"
+			"8"		"7481"
+			"9"		"19"
+			"10"		"4182"
+			"11"		"4175"
+			"12"		"21"
+			"13"		"1695"
+			"14"		"4747"
+			"15"		"3859"
+			"16"		"28444"
+			"17"		"492"
+			"18"		"7948"
+			"19"		"493"
+		}
+		"review_score"		"8"
+		"review_percentage"		"86"
+	}
+	"extended"
+	{
+		"developer"		"Easy Day Studios Pty Ltd"
+		"publisher"		"Easy Day Studios Pty Ltd"
+		"homepage"		"http://www.skaterxl.com"
+		"listofdlc"		"1952000"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Skater XL"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SkaterXL.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"alpha"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"962731"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3496915549495505555"
+					"size"		"5466850180"
+					"download"		"4368296128"
+				}
+				"alpha"
+				{
+					"gid"		"3764407388590183995"
+					"size"		"5537243136"
+					"download"		"4438179536"
+				}
+				"beta"
+				{
+					"gid"		"8474755662480763257"
+					"size"		"5540508976"
+					"download"		"4435012960"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alphaprivate"
+				{
+					"gid"		"199E3A0B5830C7BD8A8C94CD7C6D5EF9"
+					"size"		"4367B618E325AEB98AA6C08FFA2176A0"
+					"download"		"FFCBBDB4113500CCA3B76A74B8698FFD"
+				}
+				"dallas"
+				{
+					"gid"		"6F670E3401F8B0497319CE8C2DFB8083"
+					"size"		"21540420AB6F929EB511E31C0A3CB81E"
+					"download"		"AB74A1FC772474B9987885280A9A3332"
+				}
+				"edsinternal"
+				{
+					"gid"		"9E477F72FADB386B8B62E799093EED55"
+					"size"		"887937C5070249537E290D89E3141FB3"
+					"download"		"541B8CCA15D8F1A8214A5B007226AE0B"
+				}
+				"edsinternal1"
+				{
+					"gid"		"A9944CDFBA016C938EAF2BC744B88090"
+					"size"		"422A518BFF4C464DE292E957512AAB78"
+					"download"		"7C649F1BFA33F8FB4797ED93360D07AC"
+				}
+				"fakeskateopen"
+				{
+					"gid"		"9E45B461723183D21CAF08D3B7C5FFF0"
+					"size"		"DD0882308BEA0FE0B887DD6212D7B6B7"
+					"download"		"46465B3543C96BDAECB14C4EC055BF92"
+				}
+				"junetwentysix"
+				{
+					"gid"		"D304B2E331EF9AAB0D8313BC027D6901"
+					"size"		"E6A48ED162ECE94BC021B7F0D0E2B5EC"
+					"download"		"D44AC9A342BBB9B13FE43F74DA5E55F5"
+				}
+				"longbeach"
+				{
+					"gid"		"E14B2E43BCBE66BDC60371B22D3F7900"
+					"size"		"880675C2DB1A003C4E7DDA06D6C2C426"
+					"download"		"3726911C6801E9034270DDE0ABFC5A4C"
+				}
+				"montenegro"
+				{
+					"gid"		"6F33AB9958933C6985008076ECA5F933"
+					"size"		"040FD8B402A5C0A58BC48352D816A821"
+					"download"		"115C2F1A7BB5C7C63E93716714EE89DC"
+				}
+				"munich"
+				{
+					"gid"		"7F2696EFDE72D13C823EF0AA89CCA2DF"
+					"size"		"4BA51273BD73901E0A20FD6EAABE84D0"
+					"download"		"FE7ED9530E00FAA381AFF56B5D74D964"
+				}
+				"saopaulo"
+				{
+					"gid"		"A37725039AB0A432EF92A6E33B98971B"
+					"size"		"61539EC0C12A4372B854D2C7D7B7AAD5"
+					"download"		"72832110122A286AF9B87F92F95A54A1"
+				}
+				"sdktest"
+				{
+					"gid"		"73E948BB79E47BB0032F7CC56E7D8CBD"
+					"size"		"7624F8DC6AF661E3DD34CE64A7073756"
+					"download"		"68F612F20C2B9DFC1847F73B7E33FF7A"
+				}
+				"tempdemo"
+				{
+					"gid"		"B0AADD42A6F04FAE73ABCFC0A4087CC0"
+					"size"		"4BCE4AE4BC244E1CCED9E46CC73717E5"
+					"download"		"85753AD47E9F4CA10AD88FFAFED413D1"
+				}
+				"tempdemo2"
+				{
+					"gid"		"D9632630334DF5A8EEE66935C9AD0227"
+					"size"		"C24137D4AA49798F818301B03C76BDB9"
+					"download"		"EB7A3F8BF58FC960F1E9F42A09B314CC"
+				}
+				"temptest"
+				{
+					"gid"		"18A8F19105FBE5C90D70BA796A1D23CB"
+					"size"		"2D47D8BAD5F537EDFADAA3E68BF0BD0D"
+					"download"		"E0068B868680544822B6E43E7F82010F"
+				}
+			}
+		}
+		"962732"
+		{
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12096748"
+				"timeupdated"		"1694005594"
+			}
+			"alpha"
+			{
+				"buildid"		"8987706"
+				"description"		"alpha builds"
+				"timeupdated"		"1656341849"
+			}
+			"alphaprivate"
+			{
+				"buildid"		"7594698"
+				"pwdrequired"		"1"
+				"timeupdated"		"1635181497"
+			}
+			"beta"
+			{
+				"buildid"		"10684995"
+				"description"		"Open Beta"
+				"timeupdated"		"1677864997"
+			}
+			"dallas"
+			{
+				"buildid"		"6794457"
+				"pwdrequired"		"1"
+				"timeupdated"		"1622567552"
+			}
+			"edsinternal"
+			{
+				"buildid"		"12096748"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693691121"
+			}
+			"edsinternal1"
+			{
+				"buildid"		"12088870"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693589119"
+			}
+			"fakeskateopen"
+			{
+				"buildid"		"8122326"
+				"pwdrequired"		"1"
+				"timeupdated"		"1643688251"
+			}
+			"junetwentysix"
+			{
+				"buildid"		"11569410"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687883603"
+			}
+			"longbeach"
+			{
+				"buildid"		"7771233"
+				"pwdrequired"		"1"
+				"timeupdated"		"1639015791"
+			}
+			"montenegro"
+			{
+				"buildid"		"10676953"
+				"pwdrequired"		"1"
+				"timeupdated"		"1677816999"
+			}
+			"munich"
+			{
+				"buildid"		"7595482"
+				"pwdrequired"		"1"
+				"timeupdated"		"1635181469"
+			}
+			"saopaulo"
+			{
+				"buildid"		"7933854"
+				"pwdrequired"		"1"
+				"timeupdated"		"1640281686"
+			}
+			"sdktest"
+			{
+				"buildid"		"8410184"
+				"pwdrequired"		"1"
+				"timeupdated"		"1647901925"
+			}
+			"tempdemo"
+			{
+				"buildid"		"7796258"
+				"pwdrequired"		"1"
+				"timeupdated"		"1638301936"
+			}
+			"tempdemo2"
+			{
+				"buildid"		"10189535"
+				"pwdrequired"		"1"
+				"timeupdated"		"1671634889"
+			}
+			"temptest"
+			{
+				"buildid"		"8160412"
+				"pwdrequired"		"1"
+				"timeupdated"		"1644277338"
+			}
+		}
+	}
+}
