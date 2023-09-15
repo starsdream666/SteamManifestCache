@@ -1,0 +1,245 @@
+"appinfo"
+{
+	"appid"		"1627720"
+	"public_only"		"1"
+	"common"
+	{
+		"name"		"Lies of P"
+		"type"		"Game"
+		"releasestate"		"prerelease"
+		"clienticon"		"cb88827f3ba39be4bc1c73f34de4dca87a78fc5f"
+		"clienttga"		"e8ef23083d7b4645ff7859e735a994d95752551c"
+		"icon"		"978b39341282c22c22264141f9618c36094b4214"
+		"logo"		"79c275e9e7da35ea7a0e8bf196d8df786a9fe55d"
+		"logo_small"		"79c275e9e7da35ea7a0e8bf196d8df786a9fe55d_thumb"
+		"name_localized"
+		{
+			"koreana"		"P의 거짓 (Lies of P)"
+		}
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1627720_eula_1"
+				"name"		"Lies of P EULA"
+				"url"		"https://store.steampowered.com//eula/1627720_eula_1"
+				"version"		"2"
+			}
+		}
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"polish"		"1"
+			"brazilian"		"1"
+		}
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1687564800"
+			"tested_build_id"		"11286844"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-2"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"41.9767441860465"
+				"height_pct"		"84.95606744241273"
+			}
+		}
+		"store_asset_mtime"		"1694570638"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"NEOWIZ"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"NEOWIZ"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"NEOWIZ"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"community_hub_visible"		"1"
+		"gameid"		"1627720"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"29482"
+			"1"		"19"
+			"2"		"4231"
+			"3"		"3834"
+			"4"		"4604"
+			"5"		"4191"
+			"6"		"21"
+			"7"		"1697"
+			"8"		"4342"
+			"9"		"1742"
+			"10"		"4166"
+			"11"		"122"
+			"12"		"4182"
+			"13"		"1777"
+			"14"		"6426"
+			"15"		"6971"
+			"16"		"4667"
+			"17"		"3952"
+			"18"		"4711"
+			"19"		"1695"
+		}
+	}
+}
