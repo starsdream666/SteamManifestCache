@@ -1,0 +1,278 @@
+"appinfo"
+{
+	"appid"		"1876890"
+	"common"
+	{
+		"name"		"Wandering Sword"
+		"type"		"Game"
+		"icon"		"a84d2eb117aa4d7f32781b5020f9e90d567da183"
+		"clienticon"		"735338ed7291d9bf73c57732e73bcdb6da9e3354"
+		"clienttga"		"e8ec2053bda180835cd997fd235eb9171d6ead8a"
+		"name_localized"
+		{
+			"english"		"Wandering Sword"
+			"tchinese"		"逸劍風雲決"
+			"schinese"		"逸剑风云决"
+		}
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+		}
+		"header_image"
+		{
+			"schinese"		"header_schinese.jpg"
+			"english"		"header.jpg"
+			"tchinese"		"header_tchinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn,zh-tw"
+			"library_hero"		"en"
+			"library_logo"		"en,zh-cn,zh-tw"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"44.83794788710482"
+				"height_pct"		"77.43701224129758"
+			}
+		}
+		"store_asset_mtime"		"1694758277"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"The Swordman Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Spiral Up Games"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"3"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1694746026"
+		"community_hub_visible"		"1"
+		"gameid"		"1876890"
+		"store_tags"
+		{
+			"0"		"6915"
+			"1"		"122"
+			"2"		"3964"
+			"3"		"1677"
+			"4"		"9"
+			"5"		"21"
+			"6"		"1742"
+			"7"		"4182"
+			"8"		"1695"
+			"9"		"4975"
+			"10"		"5984"
+			"11"		"6691"
+			"12"		"51306"
+			"13"		"4608"
+			"14"		"1708"
+			"15"		"4325"
+			"16"		"1741"
+			"17"		"14139"
+			"18"		"15954"
+			"19"		"4231"
+		}
+		"review_score"		"6"
+		"review_percentage"		"74"
+	}
+	"extended"
+	{
+		"developer"		"The Swordman Studio"
+		"publisher"		"Spiral Up Games"
+	}
+	"config"
+	{
+		"installdir"		"Wandering Sword"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"JH.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"baselanguages"		"english,schinese,tchinese"
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1876891"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8840875445319151569"
+					"size"		"3007984340"
+					"download"		"2685168256"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"forqa"
+				{
+					"gid"		"011DB4203E55FED61A1C991FA1423AAE"
+					"size"		"3CD2FCC78DBB5CB4D4A2394CDFC57C54"
+					"download"		"455A2F1B3A9F95F24F48783B4A80CAC8"
+				}
+				"lqatest"
+				{
+					"gid"		"6552BB2E6A27AB86ACCEF833655DA8BE"
+					"size"		"4CE3AF9DE23BC91EF18D85386768D946"
+					"download"		"51E48DBEA6CD61625A483F006B3BAD09"
+				}
+				"performancetest"
+				{
+					"gid"		"D9FF4D457A9C0B439E469085F5F56ABE"
+					"size"		"8C0B9A42B18D6B610689752CEEC520DB"
+					"download"		"E13B6D740FFFDE75F27A6B1343F3743C"
+				}
+				"reviewer"
+				{
+					"gid"		"2658969DA9D4CD9BB6E2DE7A27B2F65F"
+					"size"		"DB2ABD5C1B9C8D79140F47BE347CFF51"
+					"download"		"AFF403AECF3F3523BEB4BC9840DD15FC"
+				}
+				"reviewer2"
+				{
+					"gid"		"6C493DC57C719009F3EFD8BDF02C6059"
+					"size"		"260DD10A736CBD5B155FC5D9CBED62AD"
+					"download"		"FCD2B1B1EC5C19B126546B1A85901DBC"
+				}
+				"xiameng_dev"
+				{
+					"gid"		"5D5CDC4F91D99BAD8909B7CC14FEAA36"
+					"size"		"531392E79A6FAAB32DD4BDEEF0678D00"
+					"download"		"6D8716DC9D6F2B3A4BDD789D4B267EE6"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12166548"
+				"timeupdated"		"1694606692"
+			}
+			"forqa"
+			{
+				"buildid"		"12198440"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694777975"
+			}
+			"lqatest"
+			{
+				"buildid"		"12166548"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694511075"
+			}
+			"performancetest"
+			{
+				"buildid"		"12159890"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694486657"
+			}
+			"reviewer"
+			{
+				"buildid"		"11953645"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692332120"
+			}
+			"reviewer2"
+			{
+				"buildid"		"12141686"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694416749"
+			}
+			"xiameng_dev"
+			{
+				"buildid"		"12198780"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694780482"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"104857600"
+		"maxnumfiles"		"70"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"Wandering_Sword/Saved/{64BitSteamID}/SaveGames"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
