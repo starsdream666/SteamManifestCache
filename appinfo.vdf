@@ -1,0 +1,391 @@
+"appinfo"
+{
+	"appid"		"895400"
+	"common"
+	{
+		"name"		"Deadside"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"logo"		"11024bded90a7b0e80cc6a9d60ddc503625956b8"
+		"logo_small"		"11024bded90a7b0e80cc6a9d60ddc503625956b8_thumb"
+		"icon"		"084d1cc38c922bd38cfe1daff75583f58eb2ead2"
+		"clienttga"		"8141c61786bb40f9168d7390717c0c8bcc8b53f9"
+		"clienticon"		"5ad1ebac1d98735ae8224ee6d06992875960f860"
+		"osextended"		""
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"russian"		"1"
+			"latam"		"1"
+		}
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1658275200"
+			"tested_build_id"		"8841579"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Deadside"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"34.06076729228626"
+				"height_pct"		"80.34658928976835"
+			}
+		}
+		"store_asset_mtime"		"1687868339"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Bad Pixel"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Bad Pixel"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"29"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_36"		"1"
+			"category_38"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_9"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1586862060"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"895400"
+		"store_tags"
+		{
+			"0"		"1662"
+			"1"		"1695"
+			"2"		"3859"
+			"3"		"1100689"
+			"4"		"128"
+			"5"		"7332"
+			"6"		"19"
+			"7"		"3835"
+			"8"		"1702"
+			"9"		"21"
+			"10"		"1774"
+			"11"		"1775"
+			"12"		"1663"
+			"13"		"4175"
+			"14"		"493"
+			"15"		"4182"
+			"16"		"3839"
+			"17"		"492"
+			"18"		"4667"
+			"19"		"4345"
+		}
+		"review_score"		"6"
+		"review_percentage"		"77"
+	}
+	"extended"
+	{
+		"anti_cheat_support_url"		"https://www.easy.ac/r/steam/gamebans/?steamAppId=895400"
+		"additional_dependencies"
+		{
+			"0"
+			{
+				"src_os"		"windows"
+				"dest_os"		"linux"
+				"appid"		"1826330"
+				"comment"		"EAC runtime"
+			}
+		}
+		"developer"		"Bad Pixel"
+		"publisher"		"Bad Pixel"
+		"homepage"		"http://deadsidegame.com"
+		"listofdlc"		"1248380,2060120,2060140"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Deadside"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Deadside.exe"
+				"type"		"none"
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english,german,french,russian,latam"
+		"895401"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3197861229616235334"
+					"size"		"32281720116"
+					"download"		"15225831360"
+				}
+				"closed_test_server"
+				{
+					"gid"		"8673445584574597554"
+					"size"		"32180572131"
+					"download"		"15209516528"
+				}
+				"public_test_server"
+				{
+					"gid"		"3197861229616235334"
+					"size"		"32281720116"
+					"download"		"15225831360"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal"
+				{
+					"gid"		"589D30B881BCC22CD8C77CA4F1C68ADA"
+					"size"		"48927197CFA2F8FBA58F4DAD7FB70ECD"
+					"download"		"F4DCF3DA0EA9A799E6C32C9306F1143E"
+				}
+				"internal-1"
+				{
+					"gid"		"E53F1CD6A726B755C9675B0C65053A4A"
+					"size"		"CE5B9C17C5E0FEDEFB2DB87F3F0AFB66"
+					"download"		"D253CD7814E186EC5DD7167ED17D0A4F"
+				}
+				"internal-2"
+				{
+					"gid"		"B432DCCC7369A8C5308CFC68F92B522E"
+					"size"		"C3EBEE78599D40D36B52B06528E4B6C0"
+					"download"		"88E926E28D3BBC3DF3C7D89FE4F05A94"
+				}
+				"internal-3"
+				{
+					"gid"		"B947DB48BFD2A03C1D85C1F11AF96845"
+					"size"		"5415D10F0C2CDC65E92B5CA6C99C5604"
+					"download"		"0B01B01DD281BA5BC0C646395938A8A1"
+				}
+				"internal-4"
+				{
+					"gid"		"C7FCC5653B0CFE68B3245491908D1609"
+					"size"		"BDFC32BF07B630468E5DBB55215FA3E1"
+					"download"		"EC74AD2192836B16085F86900C0B2584"
+				}
+				"internal-5"
+				{
+					"gid"		"10B6F6551EF15A8DAA918FD85B0D1361"
+					"size"		"F963F804105723A7FB21B7DF03FA0698"
+					"download"		"DCECFF6271BBCA62ABD5D9A9C08037F0"
+				}
+				"internal-6"
+				{
+					"gid"		"A7AD1BD513D15BA87CE4D14EC1B733D4"
+					"size"		"0B08BD631DF365913227961C9DB05DE9"
+					"download"		"F469DA2BE5F56E74A5B8CF2A18EED8D2"
+				}
+				"internal-art"
+				{
+					"gid"		"69AF06C8C5E3835013DCD01DD6559388"
+					"size"		"8CDFA1D1E3FE94F05D9F1429CA6AADA1"
+					"download"		"901355707DA5575745E1F68E8C75104C"
+				}
+				"internal-qa"
+				{
+					"gid"		"92E82A9A1B4C9842D16BF7F1704D3169"
+					"size"		"5477D7B04EAB6707C69F48A6CF4BDD06"
+					"download"		"105A079703B10C887B1D609EAA599AB0"
+				}
+				"nitrado"
+				{
+					"gid"		"E65476269087F91E7D06B755FA5D4138"
+					"size"		"AF0F7DA06B0AAC6D05DA9EFF56DBAA03"
+					"download"		"1090F355A835964E64FCF7AABAF18359"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12162025"
+				"timeupdated"		"1694606702"
+			}
+			"closed_test_server"
+			{
+				"buildid"		"12088356"
+				"description"		"CTS"
+				"timeupdated"		"1693569151"
+			}
+			"internal"
+			{
+				"buildid"		"9461872"
+				"pwdrequired"		"1"
+				"timeupdated"		"1662481914"
+			}
+			"internal-1"
+			{
+				"buildid"		"12160734"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694447569"
+			}
+			"internal-2"
+			{
+				"buildid"		"12054221"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693268598"
+			}
+			"internal-3"
+			{
+				"buildid"		"12161079"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694450420"
+			}
+			"internal-4"
+			{
+				"buildid"		"12199988"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694789034"
+			}
+			"internal-5"
+			{
+				"buildid"		"12079265"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693489476"
+			}
+			"internal-6"
+			{
+				"buildid"		"12178122"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694608422"
+			}
+			"internal-art"
+			{
+				"buildid"		"12188566"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694695493"
+			}
+			"internal-qa"
+			{
+				"buildid"		"12132040"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694088341"
+			}
+			"nitrado"
+			{
+				"buildid"		"9851928"
+				"pwdrequired"		"1"
+				"timeupdated"		"1667507235"
+			}
+			"public_test_server"
+			{
+				"buildid"		"12162025"
+				"description"		"PTS"
+				"timeupdated"		"1694458888"
+			}
+		}
+	}
+}
