@@ -1,0 +1,675 @@
+"appinfo"
+{
+	"appid"		"952070"
+	"common"
+	{
+		"name"		"RESIDENT EVIL RESISTANCE"
+		"type"		"Game"
+		"name_localized"
+		{
+			"japanese"		"BIOHAZARD RESISTANCE"
+			"koreana"		"BIOHAZARD RESISTANCE"
+		}
+		"clienticon"		"a5c0ab756e9cabcb82c605a01bb048426f3ddcb2"
+		"clienttga"		"e56fc5c48ed4a1f840878662cc585ae2cb3b935d"
+		"icon"		"05c0148e8e414361742c38e3709ca9cdd9c637a8"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"952070_eula_0"
+				"name"		"RESIDENT EVIL RESISTANCE / BIOHAZARD RESISTANCE EULA"
+				"url"		"https://store.steampowered.com//eula/952070_eula_0"
+				"version"		"1"
+			}
+		}
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"polish"		"1"
+			"brazilian"		"1"
+		}
+		"releasestate"		"released"
+		"logo"		"fb46454278d808db7577da80eae4bac2e9244724"
+		"logo_small"		"fb46454278d808db7577da80eae4bac2e9244724_thumb"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1666310400"
+			"tested_build_id"		"7725693"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-4"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"RESIDENT EVIL RESISTANCE"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"koreana"		"capsule_231x87_koreana.jpg"
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"japanese"		"header_japanese.jpg"
+			"koreana"		"header_koreana.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,ja,ko"
+			"library_hero"		"en"
+			"library_logo"		"en,ja,ko"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"20.40390097938895"
+				"height_pct"		"24.266792809839174"
+			}
+		}
+		"store_asset_mtime"		"1576029338"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"CAPCOM Co., Ltd."
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"NeoBards Entertainment Ltd."
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"CAPCOM Co., Ltd."
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_35"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"arabic"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"thai"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"952070"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"3859"
+			"2"		"1659"
+			"3"		"3978"
+			"4"		"4345"
+			"5"		"3843"
+			"6"		"1667"
+			"7"		"1685"
+			"8"		"1697"
+			"9"		"9"
+		}
+		"review_score"		"4"
+		"review_percentage"		"38"
+	}
+	"extended"
+	{
+		"onquitdemomsg"		"https://steamstore-a.akamaihd.net/message/8502339569939370479/"
+		"developer"		"CAPCOM Co., Ltd."
+		"publisher"		"CAPCOM Co., Ltd."
+		"listofdlc"		"1108280,1295350"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"RESIDENT EVIL RESISTANCE"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"REResistance.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian"
+		"hasdepotsindlc"		"1"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"952071"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2865174391788741308"
+					"size"		"27213565961"
+					"download"		"23464056640"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"nv_dev_00"
+				{
+					"gid"		"9FC7F9677FE2995E231E8F028F201502"
+					"size"		"D8AD2C5C6C53B824EE848300A51959E9"
+					"download"		"78DDEEEC518F358032A3D16E2EE7A7BA"
+				}
+				"nv_mas_00"
+				{
+					"gid"		"AB0CD4553BCE6A18325A17B7DA389702"
+					"size"		"999C14F9066F00DB6F68A1CBD871D8F6"
+					"download"		"52137A994B3D486A561C4CDEC449BEDF"
+				}
+				"qa_dev_00"
+				{
+					"gid"		"74119FC3AA27C3C932994F1E9F9BC5B0"
+					"size"		"2CA729DC9D6D6FFDD344A89D96566A3F"
+					"download"		"227181FF2FF50A74509D193ED994F55D"
+				}
+				"qa_dev_01"
+				{
+					"gid"		"184352E47AD9C308234612FEDEDDADB2"
+					"size"		"48EB887B51B7CF34E877CD1569A8995E"
+					"download"		"6EDED26B6564654EC58A7A256EF5E5CD"
+				}
+				"qa_ext_00"
+				{
+					"gid"		"9FE86DFA9AF3128D9CA9A0A0E8E2A4BE"
+					"size"		"ED8A5DEBB7EBB8C09DD2F9B8C5C42F9F"
+					"download"		"186FA7888FE8D4B0E8529736B74FA52E"
+				}
+				"qa_ext_01"
+				{
+					"gid"		"91197658F7C35A806E10987BD105F3FA"
+					"size"		"B2D27A3429D5A1C9BD00E7D164BB62DC"
+					"download"		"BD612AB85127FF8D379EEAB84CD29F45"
+				}
+				"qa_ext_02"
+				{
+					"gid"		"25F5CB4B53F188471D65AC947CAE91F5"
+					"size"		"00108B4D611C427B1153B01A769A342F"
+					"download"		"04249B5D4973CBFE302C716B953EA0E6"
+				}
+				"qa_mas_00"
+				{
+					"gid"		"E351453B3EFA625BB97C40F5A763767F"
+					"size"		"4903A2FEBC6F0C07A0C97B27EF03E462"
+					"download"		"0748487BB5813B4D4E95D7A720A58983"
+				}
+				"qa_mas_01"
+				{
+					"gid"		"8E4B09E03D43D64A5DBF54637BF0E76D"
+					"size"		"F55049C675BB5247E716C3008B416BD2"
+					"download"		"03999E359D74EB3C6FD0FD4430EEF6B7"
+				}
+				"t4mc_v2"
+				{
+					"gid"		"6F2CB889C903FD8AEFD426CBC70B3A3A"
+					"size"		"7BEAD18992B295A7298EC9C6E5D5C87A"
+					"download"		"8FBAD894400DD5C6F1D33478EE4ED845"
+				}
+				"t6dc"
+				{
+					"gid"		"F8131C587E6CAF48E8D5FE64B981E203"
+					"size"		"3A5437AB99B96C58302EA74650D964F7"
+					"download"		"45603A60E54EAC50EC7134A9BE39E78B"
+				}
+				"t6mc"
+				{
+					"gid"		"C8CBD32884B58DD768C7D4CE2A2349D0"
+					"size"		"4518B37014A49ABF3019D95D04198143"
+					"download"		"F91D29150C49B02E66B465852EE86DA6"
+				}
+				"t7dc"
+				{
+					"gid"		"7BDBE3AD65F7BEAF037C9FB23D4FEA73"
+					"size"		"FCE5D95EFA2F1B87828577613E6DDC9E"
+					"download"		"A60FC77C0F34567BA716B155EB2BD743"
+				}
+				"t7mc"
+				{
+					"gid"		"20B571DC923883687B82297AFFBE1986"
+					"size"		"D1E34C25FC485C7D74A5F9BFD18DCF23"
+					"download"		"59BBD0F8380B57D7008E9FDCBA208008"
+				}
+				"t8dc"
+				{
+					"gid"		"54058364193EB88F3D5C7F513186DEFC"
+					"size"		"7171F8A6E7BA8320CCA8D3C75FAC6B60"
+					"download"		"5CB1BD333C937B837570A026B074D881"
+				}
+				"t8dc_v2"
+				{
+					"gid"		"85D98362849E3AAB289D31B33385AEEA"
+					"size"		"01564BE21FD5EFB616495825E166A490"
+					"download"		"1F1260C07BBB9028187DC11067304C29"
+				}
+				"t8dn"
+				{
+					"gid"		"538800B73CB3DB36A9B464EDD17CF536"
+					"size"		"DB9B67E6FCBB7320D0CE4D38DD2B6627"
+					"download"		"9F6FD6430CA0C3C9F632E1780241A550"
+				}
+				"t8mc"
+				{
+					"gid"		"877EEC12242D843A28589E05EC9552A0"
+					"size"		"F106ABBF2359B6BA8092C28F742DE783"
+					"download"		"DC43696524127B1CCAC3B5E99D81DE8F"
+				}
+				"t8mc_nd"
+				{
+					"gid"		"AE3826393283339C35C9F5998F8A871D"
+					"size"		"55F726C684BBFA47B38525CDC9FDA0C0"
+					"download"		"9DC86DCEDCBBC3048F1CE18070A344EB"
+				}
+				"t8mc_v2"
+				{
+					"gid"		"4B0FCE70785516CE73DD2B855F07E07E"
+					"size"		"1C400CC5100EE99E6E78066396EEAF0E"
+					"download"		"D0BD6584DA23B7EDFA404DC120B1C1CE"
+				}
+				"t8mn"
+				{
+					"gid"		"F531E0FD7A0D324B53A12A46D460E120"
+					"size"		"FD64A849276A913195A91D71F878B22F"
+					"download"		"3BCAE24C34450AD4B10DCAD4E9A653BB"
+				}
+				"t8mn_nd"
+				{
+					"gid"		"05EDB7A6B81FE90615EF766E5CB5036A"
+					"size"		"3B125340C67AA459090F581C2681D357"
+					"download"		"01913CDB75BBEEA71BBC0B1F412AB4B3"
+				}
+				"t9dn"
+				{
+					"gid"		"C4D83C866AE6FA0CAD7F89CE3DF8D36A"
+					"size"		"1959CC710C7F973267CEC1A10E410A42"
+					"download"		"9A0F15E8A0B0512EE3DEE45D95E677FD"
+				}
+				"t9mn"
+				{
+					"gid"		"A78B3EB510D161126A7EB1E82EFAAF80"
+					"size"		"92E9D62050E71B0EF3823AF220E4CFF2"
+					"download"		"5E1C6E703E343F41A548C119C8B0D65A"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11025986"
+				"timeupdated"		"1682318564"
+			}
+			"nv_dev_00"
+			{
+				"buildid"		"11025812"
+				"pwdrequired"		"1"
+				"timeupdated"		"1681787107"
+			}
+			"nv_mas_00"
+			{
+				"buildid"		"11025986"
+				"pwdrequired"		"1"
+				"timeupdated"		"1681788985"
+			}
+			"qa_dev_00"
+			{
+				"buildid"		"7725623"
+				"pwdrequired"		"1"
+				"timeupdated"		"1637292375"
+			}
+			"qa_dev_01"
+			{
+				"buildid"		"7613765"
+				"pwdrequired"		"1"
+				"timeupdated"		"1635693287"
+			}
+			"qa_ext_00"
+			{
+				"buildid"		"4864436"
+				"pwdrequired"		"1"
+				"timeupdated"		"1630658861"
+			}
+			"qa_ext_01"
+			{
+				"buildid"		"5206604"
+				"pwdrequired"		"1"
+				"timeupdated"		"1630658807"
+			}
+			"qa_ext_02"
+			{
+				"buildid"		"5574231"
+				"pwdrequired"		"1"
+				"timeupdated"		"1634095058"
+			}
+			"qa_mas_00"
+			{
+				"buildid"		"7725693"
+				"pwdrequired"		"1"
+				"timeupdated"		"1637292362"
+			}
+			"qa_mas_01"
+			{
+				"buildid"		"7613813"
+				"pwdrequired"		"1"
+				"timeupdated"		"1635693270"
+			}
+			"t4mc_v2"
+			{
+				"buildid"		"5279340"
+				"pwdrequired"		"1"
+				"timeupdated"		"1594622163"
+			}
+			"t6dc"
+			{
+				"buildid"		"5294391"
+				"pwdrequired"		"1"
+				"timeupdated"		"1594895818"
+			}
+			"t6mc"
+			{
+				"buildid"		"5294414"
+				"pwdrequired"		"1"
+				"timeupdated"		"1594895805"
+			}
+			"t7dc"
+			{
+				"buildid"		"5544989"
+				"pwdrequired"		"1"
+				"timeupdated"		"1600166698"
+			}
+			"t7mc"
+			{
+				"buildid"		"5545046"
+				"pwdrequired"		"1"
+				"timeupdated"		"1600166685"
+			}
+			"t8dc"
+			{
+				"buildid"		"5465636"
+				"pwdrequired"		"1"
+				"timeupdated"		"1598953263"
+			}
+			"t8dc_v2"
+			{
+				"buildid"		"5574231"
+				"pwdrequired"		"1"
+				"timeupdated"		"1600770984"
+			}
+			"t8dn"
+			{
+				"buildid"		"5574231"
+				"pwdrequired"		"1"
+				"timeupdated"		"1600701974"
+			}
+			"t8mc"
+			{
+				"buildid"		"5465664"
+				"pwdrequired"		"1"
+				"timeupdated"		"1598953245"
+			}
+			"t8mc_nd"
+			{
+				"buildid"		"5603944"
+				"pwdrequired"		"1"
+				"timeupdated"		"1601349841"
+			}
+			"t8mc_v2"
+			{
+				"buildid"		"5576574"
+				"pwdrequired"		"1"
+				"timeupdated"		"1600770970"
+			}
+			"t8mn"
+			{
+				"buildid"		"5576574"
+				"pwdrequired"		"1"
+				"timeupdated"		"1600742841"
+			}
+			"t8mn_nd"
+			{
+				"buildid"		"5603944"
+				"pwdrequired"		"1"
+				"timeupdated"		"1601278454"
+			}
+			"t9dn"
+			{
+				"buildid"		"7725623"
+				"pwdrequired"		"1"
+				"timeupdated"		"1637113453"
+			}
+			"t9mn"
+			{
+				"buildid"		"7725693"
+				"pwdrequired"		"1"
+				"timeupdated"		"1637114455"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"10"
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#mode01"		"Menu"
+					"#mode02mastermind"		"Quick Match | Mastermind"
+					"#mode02survivor"		"Quick Match | Survivor"
+					"#mode03mastermind"		"Custom Game | Mastermind"
+					"#mode03survivor"		"Custom Game | Survivor"
+					"#mode04mastermind"		"Practice Mode | Mastermind"
+					"#mode04survivor"		"Practice Mode | Survivor"
+					"#mode05mastermind"		"Tutorial | Mastermind"
+					"#mode05survivor"		"Tutorial | Survivor"
+					"#status"		"engtest"
+				}
+			}
+			"tchinese"
+			{
+				"tokens"
+				{
+					"#mode01"		"主選單"
+					"#mode02mastermind"		"快速配對 | 首腦"
+					"#mode02survivor"		"快速配對 | 生存者"
+					"#mode03mastermind"		"自訂遊戲 | 首腦"
+					"#mode03survivor"		"自訂遊戲 | 生存者"
+					"#mode04mastermind"		"練習模式 | 首腦"
+					"#mode04survivor"		"練習模式 | 生存者"
+					"#mode05mastermind"		"教學模式 | 首腦"
+					"#mode05survivor"		"教學模式 | 生存者"
+					"#status"		"tchinese"
+				}
+			}
+			"japanese"
+			{
+				"tokens"
+				{
+					"#mode01"		"メニュー"
+					"#mode02mastermind"		"クイックマッチ | マスターマインド"
+					"#mode02survivor"		"クイックマッチ | サバイバー"
+					"#mode03mastermind"		"カスタムマッチ | マスターマインド"
+					"#mode03survivor"		"カスタムマッチ | サバイバー"
+					"#mode04mastermind"		"トレーニングモード | マスターマインド"
+					"#mode04survivor"		"トレーニングモード | サバイバー"
+					"#mode05mastermind"		"チュートリアル | マスターマインド"
+					"#mode05survivor"		"チュートリアル | サバイバー"
+					"#status"		"japanese"
+				}
+			}
+		}
+	}
+}
