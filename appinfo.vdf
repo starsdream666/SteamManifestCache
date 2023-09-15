@@ -1,0 +1,238 @@
+"appinfo"
+{
+	"appid"		"1269620"
+	"common"
+	{
+		"name"		"Puzzle - STONE BLOCKS"
+		"type"		"Game"
+		"logo"		"e7fe3ac7a116bcd3e8e39b20bee95fec43e363f5"
+		"logo_small"		"e7fe3ac7a116bcd3e8e39b20bee95fec43e363f5_thumb"
+		"icon"		"e05245906c0d9d7443da5c9585f7aa32ea656dce"
+		"clienttga"		"1fb6710c62517576191101b819b21d134d2875c3"
+		"clienticon"		"e4c7b76c12f46ec7dbcbb64db1658c53e2712fbb"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"73.95348837209306"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1668538923"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"StationGames"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"PuzzleWord"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1608615360"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1269620"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"492"
+			"2"		"1664"
+			"3"		"6129"
+			"4"		"11123"
+			"5"		"4994"
+			"6"		"1654"
+			"7"		"21"
+			"8"		"4094"
+			"9"		"5154"
+			"10"		"4400"
+			"11"		"6815"
+			"12"		"4182"
+			"13"		"84"
+			"14"		"4166"
+			"15"		"3871"
+			"16"		"113"
+			"17"		"1665"
+		}
+		"review_score"		"8"
+		"review_percentage"		"87"
+	}
+	"extended"
+	{
+		"developer"		"StationGames"
+		"publisher"		"PuzzleWord"
+		"listofdlc"		"1464310,1464311,1464312,1485790,1506120"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Puzzle - STONE BLOCKS"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"nw.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"6"
+	}
+	"depots"
+	{
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1269621"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7181730809208998703"
+					"size"		"233056961"
+					"download"		"109029696"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9943517"
+				"timeupdated"		"1668535077"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"10000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"Puzzle_STONE_BLOCKS\\User Data\\Default\\IndexedDB\\chrome-extension_jcgkgjhmmainkjjgomnoglggeflmohpl_0.indexeddb.leveldb"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"Puzzle_STONE_BLOCKS"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+			"2"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"Puzzle_STONE_BLOCKS"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"3"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"PuzzleBlocks"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
