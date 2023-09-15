@@ -1,0 +1,886 @@
+"appinfo"
+{
+	"appid"		"1448440"
+	"common"
+	{
+		"name"		"Wo Long: Fallen Dynasty"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"name_localized"
+		{
+			"tchinese"		"Wo Long: Fallen Dynasty （臥龍：蒼天隕落）"
+			"schinese"		"Wo Long: Fallen Dynasty （卧龙：苍天陨落）"
+		}
+		"clienticon"		"5294dcf986aaec789468172518f4149428c7c790"
+		"clienttga"		"7a3187608b90182193cffb51ca77331fec346ae1"
+		"icon"		"5d520e308b6acd4277b28f6f68db50782a9a9340"
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"brazilian"		"1"
+		}
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1448440_eula_0"
+				"name"		"Wo Long: Fallen Dynasty EULA"
+				"url"		"https://store.steampowered.com//eula/1448440_eula_0"
+				"version"		"1"
+			}
+		}
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1685664000"
+			"tested_build_id"		"11324047"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-experimental"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Wo Long: Fallen Dynasty"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+		}
+		"store_asset_mtime"		"1687835372"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"KOEI TECMO GAMES CO., LTD."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"KOEI TECMO GAMES CO., LTD."
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"CE-Asia(Asia)"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"KOEI TECMO GAMES CO., LTD."
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_25"		"1"
+			"category_33"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_28"		"1"
+			"category_23"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1677830400"
+		"metacritic_score"		"79"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/wo-long-fallen-dynasty?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1448440"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"29482"
+			"2"		"122"
+			"3"		"4026"
+			"4"		"4231"
+			"5"		"4604"
+			"6"		"3987"
+			"7"		"1646"
+			"8"		"4182"
+			"9"		"1684"
+			"10"		"4345"
+			"11"		"4667"
+			"12"		"4434"
+			"13"		"6915"
+			"14"		"4747"
+			"15"		"21"
+			"16"		"1685"
+			"17"		"1697"
+			"18"		"4166"
+			"19"		"7208"
+		}
+		"review_score"		"5"
+		"review_percentage"		"46"
+	}
+	"extended"
+	{
+		"developer"		"KOEI TECMO GAMES CO., LTD."
+		"publisher"		"KOEI TECMO GAMES CO., LTD."
+		"homepage"		"https://teamninja-studio.com/wolong"
+		"listofdlc"		"2205890,2205891,2205892,2205893,2205894,2232890"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"WoLongFallenDynasty"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"WoLong.exe"
+				"type"		"default"
+			}
+			"5"
+			{
+				"executable"		"ArtBookAndMiniSoundtrack\\WoLongArtBookAndMiniSoundtrack.exe"
+				"config"
+				{
+					"ownsdlc"		"2232890"
+				}
+				"description_loc"
+				{
+					"english"		"Launch Digital Art Book & Soundtrack"
+					"german"		"Digital Art Book & Soundtrack starten"
+					"french"		"Ouvrir l'Artbook Numérique et Bande Son"
+					"schinese"		"运行数字美术画集&原声碟"
+					"tchinese"		"執行數位美術畫集&原聲帶"
+					"russian"		"Открыть цифровой артбук и саундтрек"
+					"japanese"		"Digital Art Book & Soundtrackを起動"
+					"brazilian"		"Iniciar Livro de Arte Digital e Banda Sonora"
+				}
+				"description"		"Launch Digital Art Book & Soundtrack"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"hasdepotsindlc"		"1"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1448441"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4977379443044546749"
+					"size"		"47096174987"
+					"download"		"42558091152"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dlc1-profile-build"
+				{
+					"gid"		"8801F74B1EA94A9E95A3A96725BBAE79"
+					"size"		"BF8FC17734EFA33E6D1A645AC6825F4A"
+					"download"		"5A81CE9E6A6B3E2D03D2DFF328545818"
+				}
+				"dlc1-release-build"
+				{
+					"gid"		"2D81F4508D9A03EA97AA07D394998EDD"
+					"size"		"CDF287803754802763CA850A9E30EF09"
+					"download"		"60ED1C1F501055EF8AC6643E6CCD44FB"
+				}
+				"dlc1-release-build-media"
+				{
+					"gid"		"DEAE444F7B30A855C4555BFF315EB969"
+					"size"		"E1CC53FD7164C731F46CEBBB33AAA118"
+					"download"		"F5E841F108B98F934D4C031DEF2A5C6C"
+				}
+				"dlc1-release_debug-build"
+				{
+					"gid"		"C66F0A302E1672BEA96F594C0B07A09D"
+					"size"		"EEFEA24812E9DE47F7ACFF278A2BEE92"
+					"download"		"9B97726D08437586FE15A828C1A56CF3"
+				}
+				"dlc2-release-build"
+				{
+					"gid"		"219B5AC666C9C8265B7745F53A55C9D9"
+					"size"		"2AC75EA4CF57418A33402DB3EFBB61A3"
+					"download"		"F4478279E48BD28553234504EC9A4C85"
+				}
+				"dlc2-release-build-media"
+				{
+					"gid"		"19D67D50E5D7B5B4665BEAB436546E05"
+					"size"		"7CCFC1A5577B0040EB7229CF78BBE906"
+					"download"		"42BF7BCC86ED1B8C91B31D06CD516F6E"
+				}
+				"dlc2-release_debug-build"
+				{
+					"gid"		"08B6ACBF8DF3AFA2EB4A35730854D004"
+					"size"		"CC712731971FA6E6526156CB89B626B3"
+					"download"		"31B03BAE5B4071014D83802E4660BFF6"
+				}
+				"external_check"
+				{
+					"gid"		"4B993ED05F845F48E5B5AC6BE072A183"
+					"size"		"6A25D75EE03E4200846DD928730FF715"
+					"download"		"00935537C601A28B9794B3CC93FB01BD"
+				}
+				"external_check_debug"
+				{
+					"gid"		"133C5D689C68E5A2A6C3BDAECDE795D8"
+					"size"		"1F730B9ECDFE30D5D51388035E50B545"
+					"download"		"1CCC109BD7EFC43A817881D81B2CF384"
+				}
+				"external_graphics_check"
+				{
+					"gid"		"BE3C98D980789D1EBC28A19EDBCB1176"
+					"size"		"03FC2834AF26DD72BCCCBEAD97C65DF1"
+					"download"		"36B2132A1500FB8C8A55B1AAEB88A14F"
+				}
+				"external_graphics_check_2"
+				{
+					"gid"		"F426AFE7969721EC8E6AE20659B5C8D2"
+					"size"		"EE0B1BB4CB3C1469D1D662CE8FB5FC0F"
+					"download"		"34C6CD0C89AF2BC4765A983B3D89A38C"
+				}
+				"spec_survey_version"
+				{
+					"gid"		"7CC1592A2671255E33328453EEEE7140"
+					"size"		"A2A092EBF9B7D528BAFF912135322750"
+					"download"		"83B80E2E3CFE3A49A8B6BEE645A99349"
+				}
+				"trunk-release-build"
+				{
+					"gid"		"AE832570E8142BCB8B7944BBF6BE5298"
+					"size"		"4680208D5BD93DCEA7347DCF93AF1336"
+					"download"		"4B87709E8A9C0D2351A4B1C176137BDC"
+				}
+				"trunk-release_debug-build"
+				{
+					"gid"		"CFCB6CD448CA32B999903A4524EE4D17"
+					"size"		"12957E35EBE3D68C435B4FE603FF7E93"
+					"download"		"6C175303850663998362F9FAC0743AB3"
+				}
+				"upload_check"
+				{
+					"gid"		"7F5F0B368539314E17415667912C6C12"
+					"size"		"1254DFA6B363F09C01115A1519B12E12"
+					"download"		"772155E2D7F4B6270476DAD5851D801F"
+				}
+			}
+		}
+		"1448442"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2318905491626949368"
+					"size"		"130589264"
+					"download"		"74133600"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dlc1-profile-build"
+				{
+					"gid"		"8E970116CBCC5103EFF9CDE50E313E09"
+					"size"		"7B2CD3603524480A138BF0802E34903B"
+					"download"		"D26A1AF853790851A7D076F0B69D79DE"
+				}
+				"dlc1-release-build"
+				{
+					"gid"		"BCDDC3D2E21A535D152D9930DB6994B1"
+					"size"		"279856EA8F09A6C83E9DEA7E4C4EC727"
+					"download"		"50F2A308B84180E902F7C40B196088ED"
+				}
+				"dlc1-release-build-media"
+				{
+					"gid"		"4136F231AA32C22C275DE0D405513C9E"
+					"size"		"1421D436D029B76D071F78A01087C229"
+					"download"		"1B45370735DF1D91941E88200D6B45D8"
+				}
+				"dlc1-release_debug-build"
+				{
+					"gid"		"3C67F2D1F4524EFD44CF64FF56692A38"
+					"size"		"00EB9A95E18096B4D5C8FF137376348E"
+					"download"		"7CD27275DFE3B67893F2749499186C79"
+				}
+				"dlc2-release-build"
+				{
+					"gid"		"EADDE86EF96106F7C39111B10FB8D3C1"
+					"size"		"47207811068CE4E40963ED42C9AB6641"
+					"download"		"575856EC927D563DFD25408339757325"
+				}
+				"dlc2-release-build-media"
+				{
+					"gid"		"7AE609CADBCF21D501A2455BFB51E72C"
+					"size"		"FCB28B698A026CB05453F2111E84335C"
+					"download"		"485A667159D84AE7F3C832387D4BA79B"
+				}
+				"dlc2-release_debug-build"
+				{
+					"gid"		"AEA180401A0E67EA9E1726A62C0230AF"
+					"size"		"2BD589F077C5BA1F502779C3BA62099A"
+					"download"		"A1022074947A46D660B95CC620BE0DFA"
+				}
+				"external_check"
+				{
+					"gid"		"B2D37385E208D9ABF63B3D4CFB2A3930"
+					"size"		"A4EB6BFDBF77E4BB98E09B3F61C469EB"
+					"download"		"01A3DC2483D8513F951D4F75096115E9"
+				}
+				"external_check_debug"
+				{
+					"gid"		"18C61C509717E185A0D3B62407E63BC9"
+					"size"		"B1148C17BABEBC663610B4540870CC64"
+					"download"		"ECEC325C600F3ED95A7DBEC0903DDAB6"
+				}
+				"external_graphics_check"
+				{
+					"gid"		"B4AA6CC8D6A89F81139F842DA4529063"
+					"size"		"4FCFB07C4BF9A6F424211A3B9BB00046"
+					"download"		"57F1388ED4FD30987E995FF3F7A27119"
+				}
+				"external_graphics_check_2"
+				{
+					"gid"		"BBBDE5273EE8ADAC3AFC833867644E19"
+					"size"		"79081AC5D16031B9CDEEEBF271818B3D"
+					"download"		"4BE4481A3B11604637B75655E4AF2385"
+				}
+				"spec_survey_version"
+				{
+					"gid"		"0DF9690D62097879FC87719231E53782"
+					"size"		"3EB26B2703EE9FBA84BF5FC2287D56BC"
+					"download"		"E53F342593C51D8C7E9CAA91C33887C5"
+				}
+				"trunk-release-build"
+				{
+					"gid"		"0FE73AE4BB9BAE76C1D2464B470A97C5"
+					"size"		"6F9DC1927CB44987A71563143B6E3E07"
+					"download"		"6FE90868456B96290BAFDC9C9E9F31B8"
+				}
+				"upload_check"
+				{
+					"gid"		"12D29C596373827A123E5D5969C2BD54"
+					"size"		"BCF1343126FDC689F93380360B5D3D3C"
+					"download"		"128E5FFAC44FBDB8AB0550052FB70E3C"
+				}
+			}
+		}
+		"1448443"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"dlc1-profile-build"
+				{
+					"gid"		"3F9590C5818E1A39473D8EC5045E7410"
+					"size"		"51AC80DA26E0EC95BED3877DABBD1D38"
+					"download"		"26BE90FA9D7B33F2C85D4F17E37B0B62"
+				}
+				"dlc1-release_debug-build"
+				{
+					"gid"		"7D95DBA81209B365D9106267BCD6D356"
+					"size"		"FD412AFD2AAC5C8295BB7EB2CBE9EC5A"
+					"download"		"C3E2BC91A3BF6221C19B93F00A16D73F"
+				}
+				"dlc2-release_debug-build"
+				{
+					"gid"		"B1FFCC3D80EE5EA2F3C94DAA6D3AADF3"
+					"size"		"D091FBD71A1FD02B9D1C7A4716050FCB"
+					"download"		"49453292512334865A371B04E80EBD89"
+				}
+				"external_check_debug"
+				{
+					"gid"		"F7D51E86B355D1C0980CD2AD48F1FAC7"
+					"size"		"5CBE4A34180B48077124AFE5DC1C1793"
+					"download"		"97015974E541D0E333E41EA92B49747E"
+				}
+				"trunk-release_debug-build"
+				{
+					"gid"		"8CCEF671468A1BAB618EF5CD63B61143"
+					"size"		"F9F598C441668D57D6EBB7222946B87A"
+					"download"		"31941F86DD8F47BE2F1999B8D159D6DC"
+				}
+			}
+		}
+		"1448444"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"dlc1-profile-build"
+				{
+					"gid"		"730094F56F1336EF6C8E8589D26875A2"
+					"size"		"460152B17AD534074BF26369CBC7F2D0"
+					"download"		"EE3F9BCCF0657EDB9CBA1C0A7DD326BD"
+				}
+				"dlc1-release_debug-build"
+				{
+					"gid"		"339F8249439997B54D7FC0C0CF1C3CA3"
+					"size"		"F4453411A2DEE38ECC913FA3BC60D1E9"
+					"download"		"1263B76A1E0ED7ED84F745E08ED91A3A"
+				}
+				"dlc2-release_debug-build"
+				{
+					"gid"		"C182E8E51D60977E131228DC6ACB45D0"
+					"size"		"818113F5F11555C293148A8308DA0D80"
+					"download"		"E64A218C35E13D463FC7A647F3F3E488"
+				}
+				"external_check_debug"
+				{
+					"gid"		"5A1ED87D0741CFE427756F8FBAD47A1C"
+					"size"		"FFCBB3C863EA3CE482BB6A5E3C73E3D3"
+					"download"		"7ECEE49A4F28CE9085096831C1F5136D"
+				}
+				"trunk-release_debug-build"
+				{
+					"gid"		"7BCFCAFBAB47766990907E87B1AA2E46"
+					"size"		"9BED728E2F0F73BAD0A023846E32CB17"
+					"download"		"4B36893DFCF4BE37080372C4B25BC016"
+				}
+			}
+		}
+		"1448445"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"dlc1-profile-build"
+				{
+					"gid"		"4814F8D18A6D7BE950CB475B5888BD42"
+					"size"		"A6FBC4C35193C86BA5ECA977F77E1A76"
+					"download"		"1B7A86F04C36D43ECE691EE639D6307C"
+				}
+				"dlc1-release_debug-build"
+				{
+					"gid"		"3D909E674727854687B0C88CAEB38F17"
+					"size"		"B7BE0816E26164B7B50AC1F3F71EF94E"
+					"download"		"9AF4AD1B5987186BDF4DE6A2434983FA"
+				}
+				"dlc2-release_debug-build"
+				{
+					"gid"		"1A7B6E20DE8725B0EAD9BA7F02A4C4C6"
+					"size"		"EA20DA63327A9FDC1600F55082695BCA"
+					"download"		"7E1C4AD5DC168BC46FE864869678BF01"
+				}
+				"external_check_debug"
+				{
+					"gid"		"9747931D67F1B94439D2634A35E0489A"
+					"size"		"22DCAEB83CF893388960F1F5B5711695"
+					"download"		"A697CEF8AD923A1E06F929FCAEC628BC"
+				}
+				"trunk-release_debug-build"
+				{
+					"gid"		"BAC13D01F459315DEF605FBDC652C535"
+					"size"		"4B1F8F75E80C0AC5D9FFA418E24CA4E7"
+					"download"		"27C64FD807FCD073A89B88019228FA79"
+				}
+			}
+		}
+		"2232890"
+		{
+			"dlcappid"		"2232890"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4304578856547169949"
+					"size"		"6088155350"
+					"download"		"5534798800"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dlc1-profile-build"
+				{
+					"gid"		"0AB0608CA49AAD25196DE5100C8EB9CE"
+					"size"		"A891FB2A8993368F208A01571C714BAE"
+					"download"		"770AED3CCA5A945B7751BF68DBFBFBA9"
+				}
+				"dlc1-release-build"
+				{
+					"gid"		"442337164111B0D8E203F76D7BD5B5CD"
+					"size"		"9254128F57F7826DD89716844C2FF7C6"
+					"download"		"641D3627BF0605B02B993AD1DF4BE7BB"
+				}
+				"dlc1-release-build-media"
+				{
+					"gid"		"10D304269BB63B3BC930B5DD5CBD937E"
+					"size"		"7FE97853EB29010AA6C9F8F8CB549B8D"
+					"download"		"D338F1FD3D856F8E431A1CED0118245C"
+				}
+				"dlc1-release_debug-build"
+				{
+					"gid"		"5C6584123F0AEEAD2A68DA69726FCD9B"
+					"size"		"1EDABAA5BF1F76F9D844E6B2BD82BD23"
+					"download"		"AFE413BCBE5D0EC394170E5835B4C6C8"
+				}
+				"dlc2-release-build"
+				{
+					"gid"		"E0DED206E8512F893D906D7C459A1BA0"
+					"size"		"FD07EBA6627B22F41BD7F9E497F8CD93"
+					"download"		"59AC59D67E5DB4A01EDFA240474E15B8"
+				}
+				"dlc2-release-build-media"
+				{
+					"gid"		"1966B09D4C89567D97197AA6FDC848EA"
+					"size"		"8E621C6DF0A27752327A0F301E85E5B3"
+					"download"		"93215F886E47B9C29D2B5393FF70CEF9"
+				}
+				"dlc2-release_debug-build"
+				{
+					"gid"		"80EDDCE292FF1F55598FF28297521C2C"
+					"size"		"250FBB483C28D2274CE71B89BB953659"
+					"download"		"A43EBE76380BE0BEA26611610002E53E"
+				}
+				"external_check"
+				{
+					"gid"		"41EC90582E7E516BA3C6D1E9189B8DDA"
+					"size"		"899ED9A57884A1CE0C18BE4520EA2806"
+					"download"		"A6C02DC3F217014DD2E4A9D082F21C63"
+				}
+				"external_check_debug"
+				{
+					"gid"		"F27C1DA85B6661EC60CD5CDF9395A46F"
+					"size"		"1D9EBCDA265AE5E4E1135CEA827CA254"
+					"download"		"43ACDF4AA4DFCC1172E9B9862AF43132"
+				}
+				"external_graphics_check"
+				{
+					"gid"		"45A903583E96A53FFDEF9A5197EA5608"
+					"size"		"8B37544D5164993DF9D3600FBC53C802"
+					"download"		"187367D04DC6891636E816FEA9957987"
+				}
+				"external_graphics_check_2"
+				{
+					"gid"		"CB917F28A1D265C036DCB24FF1653812"
+					"size"		"A555C91BF435E9014A848F0CB0EE8DF6"
+					"download"		"0C36C30EDF5A220D25A2280CFEC8B69E"
+				}
+				"spec_survey_version"
+				{
+					"gid"		"58B2C6B8B5557965DD08001C7A415CF9"
+					"size"		"E2248B9E6C8AB552A75E60FEC7869BF5"
+					"download"		"5D9D7C3BE67B6C24A748585FAD2BC525"
+				}
+				"trunk-release-build"
+				{
+					"gid"		"C46908FD8425E9E7F49197B9370E6172"
+					"size"		"2A8701723556194F58CF0C6504CE9F39"
+					"download"		"BAD1D5FD80483DBE8AA9A83CC6C13EFD"
+				}
+				"upload_check"
+				{
+					"gid"		"CBB392DD6EA3A8F6F9DC0B6DAE801323"
+					"size"		"387AD40832602A6FD79F19624EAFC1D1"
+					"download"		"CDEBABFED9DF23A253EF16B5D7A7B9EB"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12010616"
+				"timeupdated"		"1693192009"
+			}
+			"dlc1-profile-build"
+			{
+				"buildid"		"11646629"
+				"pwdrequired"		"1"
+				"timeupdated"		"1688712543"
+			}
+			"dlc1-release-build"
+			{
+				"buildid"		"12154421"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694375864"
+			}
+			"dlc1-release-build-media"
+			{
+				"buildid"		"12181735"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694654426"
+			}
+			"dlc1-release_debug-build"
+			{
+				"buildid"		"12154105"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694368650"
+			}
+			"dlc2-release-build"
+			{
+				"buildid"		"12195427"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694755308"
+			}
+			"dlc2-release-build-media"
+			{
+				"buildid"		"12163652"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694498933"
+			}
+			"dlc2-release_debug-build"
+			{
+				"buildid"		"12191019"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694712812"
+			}
+			"external_check"
+			{
+				"buildid"		"11309679"
+				"pwdrequired"		"1"
+				"timeupdated"		"1684975863"
+			}
+			"external_check_debug"
+			{
+				"buildid"		"11311781"
+				"pwdrequired"		"1"
+				"timeupdated"		"1684975965"
+			}
+			"external_graphics_check"
+			{
+				"buildid"		"11294314"
+				"pwdrequired"		"1"
+				"timeupdated"		"1684821233"
+			}
+			"external_graphics_check_2"
+			{
+				"buildid"		"11294534"
+				"pwdrequired"		"1"
+				"timeupdated"		"1684824448"
+			}
+			"spec_survey_version"
+			{
+				"buildid"		"11377181"
+				"pwdrequired"		"1"
+				"timeupdated"		"1685686761"
+			}
+			"trunk-release-build"
+			{
+				"buildid"		"12191643"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694718063"
+			}
+			"trunk-release_debug-build"
+			{
+				"buildid"		"12191546"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694717198"
+			}
+			"upload_check"
+			{
+				"buildid"		"12047564"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693210044"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"300000000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"1"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"KoeiTecmo/Wolong/Savedata/{Steam3AccountID}"
+				"pattern"		"*.BIN"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+			"2"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"KoeiTecmo/WolongDemo/Savedata/{Steam3AccountID}"
+				"pattern"		"*.BIN"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
