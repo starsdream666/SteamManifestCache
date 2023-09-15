@@ -1,0 +1,228 @@
+"appinfo"
+{
+	"appid"		"10220"
+	"common"
+	{
+		"name"		"Postal 3"
+		"languages"
+		{
+			"english"		"1"
+			"russian"		"1"
+		}
+		"icon"		"b2a48dc4eb5d447b925038a222217fcd285b2caf"
+		"clienticon"		"d976fb20470c5357712d5ab060bf35c556ac7fab"
+		"clienttga"		"abebae355ef4fa386da175a9fbd18bcecbf34da8"
+		"logo"		"27fa049f6463cb59be831753c23c8c9d2fb41f99"
+		"logo_small"		"27fa049f6463cb59be831753c23c8c9d2fb41f99_thumb"
+		"app_retired_publisher_request"		"1"
+		"type"		"game"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1653436800"
+			"tested_build_id"		"2853"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Postal III"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1324576958"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Trashmasters"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Akella"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1324454400"
+		"steam_release_date"		"1329501000"
+		"metacritic_score"		"24"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/postal-iii?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"10220"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"4345"
+			"2"		"5923"
+			"3"		"4667"
+			"4"		"3814"
+			"5"		"4136"
+			"6"		"1695"
+			"7"		"1697"
+			"8"		"4182"
+			"9"		"1774"
+			"10"		"1719"
+			"11"		"5611"
+			"12"		"1721"
+			"13"		"6650"
+			"14"		"3810"
+			"15"		"1756"
+			"16"		"21"
+			"17"		"1663"
+			"18"		"12095"
+			"19"		"4085"
+		}
+		"review_score"		"4"
+		"review_percentage"		"38"
+	}
+	"extended"
+	{
+		"developer"		"Trashmasters"
+		"gamedir"		"Postal III"
+		"homepage"		"http://www.postal3.com"
+		"icon"		""
+		"legacykeyregistrationmethod"		"registry"
+		"legacykeyregistrylocation"		"HKEY_CURRENT_USER\\Software\\Valve\\TestApp10220\\SteamKey"
+		"noservers"		"1"
+		"order"		"1"
+		"primarycache"		"10221"
+		"serverbrowsername"		""
+		"showcdkeyonlaunch"		"1"
+		"state"		"eStateAvailable"
+		"supportscdkeycopytoclipboard"		"1"
+		"publisher"		"Akella"
+		"gamemanualurl"		"https://store.steampowered.com/manual/10220/"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Postal III"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"p3.exe"
+			}
+		}
+		"steamcontrollertemplateindex"		"6"
+	}
+	"depots"
+	{
+		"10224"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5806128228678541731"
+					"size"		"4562267793"
+					"download"		"0"
+				}
+			}
+		}
+		"10221"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"378094476456572509"
+					"size"		"102288316"
+					"download"		"0"
+				}
+			}
+		}
+		"10222"
+		{
+			"config"
+			{
+				"language"		"russian"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6486504577995990062"
+					"size"		"10040711920"
+					"download"		"0"
+				}
+			}
+		}
+		"10223"
+		{
+			"config"
+			{
+				"language"		"english"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6965873655786368119"
+					"size"		"9360154580"
+					"download"		"0"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2853"
+			}
+		}
+	}
+}
