@@ -1,0 +1,503 @@
+"appinfo"
+{
+	"appid"		"541300"
+	"common"
+	{
+		"name"		"Survive the Nights"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"2afab987d874a9ef80575598b2c4397d7f4c1d1f"
+		"logo_small"		"2afab987d874a9ef80575598b2c4397d7f4c1d1f_thumb"
+		"clienticns"		"60fcad72b447ea06db2661136214ac0976812865"
+		"clienttga"		"26346d575cdd43c75c8a1de8d91fdc0c0cbe4ff3"
+		"icon"		"459a81435d1dcf36c82eec627c0ed6f521662cb9"
+		"clienticon"		"38a860f31c625adef7fd808fde2b9ac93cd2371e"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"541300_eula_0"
+				"name"		"Survive the Nights EULA"
+				"url"		"https://store.steampowered.com//eula/541300_eula_0"
+			}
+		}
+		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1673395200"
+			"tested_build_id"		"9514195"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Survive the Nights"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1672996182"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"a2z Interactive"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"a2z Interactive"
+			}
+		}
+		"primary_genre"		"70"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"29"
+			"4"		"28"
+			"5"		"70"
+		}
+		"category"
+		{
+			"category_36"		"1"
+			"category_22"		"1"
+			"category_15"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_47"		"1"
+			"category_48"		"1"
+			"category_2"		"1"
+			"category_41"		"1"
+			"category_42"		"1"
+			"category_28"		"1"
+			"category_30"		"1"
+			"category_23"		"1"
+			"category_43"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"arabic"
+			{
+				"supported"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+			}
+			"swedish"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+			}
+			"thai"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1513889940"
+		"steam_deck_blog_url"		"https://steamcommunity.com/games/541300/announcements/detail/3095666762722014807"
+		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"541300"
+		"store_tags"
+		{
+			"0"		"3835"
+			"1"		"122"
+			"2"		"19"
+			"3"		"4175"
+			"4"		"3843"
+			"5"		"128"
+			"6"		"3993"
+			"7"		"1685"
+			"8"		"6276"
+			"9"		"1662"
+			"10"		"1659"
+			"11"		"1702"
+			"12"		"1695"
+			"13"		"3834"
+			"14"		"1667"
+			"15"		"1663"
+			"16"		"1774"
+			"17"		"3810"
+			"18"		"6730"
+			"19"		"3839"
+		}
+		"review_score"		"5"
+		"review_percentage"		"64"
+	}
+	"extended"
+	{
+		"gamedir"		"541300"
+		"serverbrowsername"		"Survive the Nights"
+		"absolutemousecoordinates"		"0"
+		"developer"		"a2z Interactive"
+		"publisher"		"a2z Interactive"
+		"homepage"		"https://www.survivethenights.net"
+	}
+	"config"
+	{
+		"installdir"		"Survive the Nights"
+		"launch"
+		{
+			"2"
+			{
+				"executable"		"SurviveTheNights_Mac.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"3"
+			{
+				"executable"		"SurviveTheNights_Win.exe"
+				"description"		" Executable rename Exp and Dev only"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"uselaunchcommandline"		"1"
+		"steamconfigurator3rdpartynative"		"65523"
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigdetails"
+		{
+			"2771469376"
+			{
+				"controller_type"		"controller_neptune"
+				"enabled_branches"		"default,development,experimental,pre-experimental,pre-master"
+				"use_action_block"		"false"
+			}
+			"2771765783"
+			{
+				"controller_type"		"controller_xboxone"
+				"enabled_branches"		"default,development,experimental,pre-experimental,pre-master"
+				"use_action_block"		"false"
+			}
+		}
+		"steamcontrollertouchtemplateindex"		"8"
+	}
+	"depots"
+	{
+		"541301"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4896115814617911016"
+					"size"		"8535356395"
+					"download"		"6671519456"
+				}
+				"experimental"
+				{
+					"gid"		"4896115814617911016"
+					"size"		"8535356395"
+					"download"		"6671519456"
+				}
+				"insomnia68-event"
+				{
+					"gid"		"4896115814617911016"
+					"size"		"8535356395"
+					"download"		"6671519456"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"4AB7772E1BA664B00F0D624EF847750A"
+					"size"		"9119D79238D8322BF9E5A90052B988F3"
+					"download"		"84E0B3AC441AC077AB7B847A2A74A9BE"
+				}
+				"pre-experimental"
+				{
+					"gid"		"BCAB179F76CAA31D5E6BDBE0B8CD4196"
+					"size"		"E3B651D201617D3661BA00B0E4318B8E"
+					"download"		"A8F58DB6B41C65830EE24AE0EA24CF14"
+				}
+				"pre-master"
+				{
+					"gid"		"2ACC07CDB1F405D884239B508F3EEA82"
+					"size"		"D8A0F2F5C3F0B6CE60A66E7BC701BEAD"
+					"download"		"2F2AD67121A1257BF5BE403686E0BB0D"
+				}
+			}
+		}
+		"541302"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7430296217353685631"
+					"size"		"8187901634"
+					"download"		"5852007552"
+				}
+				"experimental"
+				{
+					"gid"		"7430296217353685631"
+					"size"		"8187901634"
+					"download"		"5852007552"
+				}
+				"insomnia68-event"
+				{
+					"gid"		"7860231754773236546"
+					"size"		"8472625525"
+					"download"		"6642061296"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"5853AAFC7CDD4B6449DEAC20FF168391"
+					"size"		"BE2B59CC2AE8BDD942483AF3D131ABCC"
+					"download"		"976F221B79E3E9AA54DFA0E6BFC0688F"
+				}
+				"pre-experimental"
+				{
+					"gid"		"A5B89A1CF09631CA3A97669A7E1720CD"
+					"size"		"86FAC54E1AE1CB914E234CD5070894ED"
+					"download"		"634C170E11FE30646A91DD7909E00C01"
+				}
+				"pre-master"
+				{
+					"gid"		"BAEDECFC2BF6D84AE6BFD6EABF9E787C"
+					"size"		"CDD9D97A43BF500D3D6D2CD1A323A537"
+					"download"		"215EDF853D7D8D024A6088D41E6523AC"
+				}
+			}
+		}
+		"541309"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"macos"
+			}
+		}
+		"workshopdepot"		"541300"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11459252"
+				"timeupdated"		"1686745727"
+			}
+			"development"
+			{
+				"buildid"		"12013838"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692801928"
+			}
+			"experimental"
+			{
+				"buildid"		"11459252"
+				"description"		"Most up to date testing branch. In here things will be more broken than in the public branch. Expect more DB resets and a lot more bugs. Be in here if you're hunting for the newest issues."
+				"timeupdated"		"1686745248"
+			}
+			"insomnia68-event"
+			{
+				"buildid"		"8570134"
+				"description"		"i68 farm event"
+				"timeupdated"		"1652257492"
+			}
+			"pre-experimental"
+			{
+				"buildid"		"11614141"
+				"pwdrequired"		"1"
+				"timeupdated"		"1688387949"
+			}
+			"pre-master"
+			{
+				"buildid"		"4378542"
+				"pwdrequired"		"1"
+				"timeupdated"		"1573515332"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"1000"
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#status_outofgame"		"{#State_%gameState%}"
+					"#status_ingame"		"{#State_%gameState%} {#Char_Body}{#Status_%charState%} {#Nights_Body} %nightsScore%"
+					"#status_solo"		"{#State_%gameState%} {#Char_Body}{#Status_%charState%} {#Nights_Body} %nightsScore%"
+					"#state_menu"		"In the menu"
+					"#state_solo"		"Solo"
+					"#state_public"		"Public"
+					"#state_private"		"Private"
+					"#nights_body"		" | Nights survived"
+					"#char_body"		" | "
+					"#password_body"		" | Pass: "
+					"#status_eat"		"Eating"
+					"#status_idle"		"Exploring"
+					"#status_heal"		"Healing"
+					"#status_weak"		"Feeling weak"
+					"#status_strong"		"Feeling strong"
+					"#status_fortifying"		"Fortifying!"
+					"#status_driving"		"Driving!"
+					"#status_passenger"		"Riding shotgun!"
+					"#status_chop"		"Felling a tree"
+					"#status_zomb"		"Killing zombies"
+					"#status_hunting"		"Hunting"
+					"#status_looting"		"Looting"
+					"#status_fire"		"Starting a fire"
+					"#status_gen"		"Starting a generator"
+					"#status_trap"		"Setting a trap"
+					"#status_clean"		"Cleaing weapon"
+					"#status_sharp"		"Sharpering tool"
+					"#status_lock"		"Locking a door"
+					"#status_craft"		"Crafting an item"
+					"#status_harvest"		"Scanvenging"
+				}
+			}
+		}
+	}
+}
