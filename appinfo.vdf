@@ -1,0 +1,187 @@
+"appinfo"
+{
+	"appid"		"1957330"
+	"common"
+	{
+		"name"		"VTuber Plus"
+		"type"		"Application"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"27194569e4dd172d098943e01c1438d466cfedf8"
+		"clienticon"		"b5134dd57299352594b10ed7802785276bee6e51"
+		"clienttga"		"120a912cc195857186d8f4714a8f8d0957afe85a"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1957330_eula_0"
+				"name"		"VTuber Plus EULA"
+				"url"		"https://store.steampowered.com//eula/1957330_eula_0"
+				"version"		"1"
+			}
+		}
+		"app_retired_publisher_request"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"63.48837209302326"
+				"height_pct"		"69.37781999525055"
+			}
+		}
+		"store_asset_mtime"		"1650180996"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Arzolath"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Arzolath"
+			}
+		}
+		"primary_genre"		"51"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"51"
+		}
+		"category"
+		{
+			"category_30"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1650352272"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1957330"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"872"
+			"2"		"4191"
+		}
+		"review_score"		"8"
+		"review_percentage"		"91"
+	}
+	"extended"
+	{
+		"developer"		"Arzolath"
+		"publisher"		"Arzolath"
+		"homepage"		"https://vtuberplus.com"
+	}
+	"config"
+	{
+		"installdir"		"VTuber Plus"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"VTuber Plus.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"229002"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1957331"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6370771104301738057"
+					"size"		"268592240"
+					"download"		"78357984"
+				}
+				"v3.9.5"
+				{
+					"gid"		"4388251889914825954"
+					"size"		"259574675"
+					"download"		"62066912"
+				}
+				"v3.9.71"
+				{
+					"gid"		"7267423182639688682"
+					"size"		"268207010"
+					"download"		"64309504"
+				}
+				"v3.9.9a1"
+				{
+					"gid"		"2403079388866073570"
+					"size"		"268576458"
+					"download"		"78360592"
+				}
+			}
+		}
+		"workshopdepot"		"1957330"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10020758"
+				"timeupdated"		"1669438114"
+			}
+			"v3.9.5"
+			{
+				"buildid"		"9097932"
+				"description"		"Archived"
+				"timeupdated"		"1663489527"
+			}
+			"v3.9.71"
+			{
+				"buildid"		"9184380"
+				"description"		"Archived"
+				"timeupdated"		"1663489479"
+			}
+			"v3.9.9a1"
+			{
+				"buildid"		"9575555"
+				"description"		"Archived"
+				"timeupdated"		"1664516765"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"10000"
+	}
+}
