@@ -1,0 +1,98 @@
+"appinfo"
+{
+	"appid"		"1401390"
+	"common"
+	{
+		"name"		"Party Animals Playtest"
+		"type"		"Beta"
+		"parent"		"1260320"
+		"releasestate"		"released"
+		"clienttga"		"76904b7626c6d72cdb2c59031ba54f590bedd080"
+		"icon"		"e8e08a9e75ad004ae6a3772db18c31a231a38a21"
+		"clienticon"		"b772d8b378697db4d148f08694bc33e0a4d94e88"
+		"name_localized"
+		{
+			"schinese"		"猛兽派对测试"
+			"tchinese"		"猛獸派對測試"
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"53.733955659276546"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1692455369"
+		"associations"
+		{
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+		}
+		"steam_release_date"		"1694776041"
+		"community_hub_visible"		"1"
+		"gameid"		"1401390"
+		"exfgls"		"1"
+		"review_score"		"8"
+		"review_percentage"		"87"
+	}
+	"extended"
+	{
+		"betaforappid"		"1260320"
+	}
+	"config"
+	{
+		"installdir"		"Party Animals Playtest"
+		"uselaunchcommandline"		"1"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"PartyAnimals.exe"
+				"arguments"		"-steam -pat -en PartyAnimals"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1401391"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6156093673781675604"
+					"size"		"4109473768"
+					"download"		"2690547376"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12195286"
+				"timeupdated"		"1694764358"
+			}
+		}
+	}
+}
