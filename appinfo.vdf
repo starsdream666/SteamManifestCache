@@ -1,0 +1,421 @@
+"appinfo"
+{
+	"appid"		"2230110"
+	"common"
+	{
+		"name"		"Fae Farm"
+		"type"		"Game"
+		"clienticon"		"6f469e978ffd14b834e6dfb4c4375a7979735d2f"
+		"clienttga"		"ea45796d2f88d6aaa6404d0555343badeca2814b"
+		"icon"		"381beb0cf0db04904fbf310287a27a3f0781230a"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"japanese"		"1"
+			"brazilian"		"1"
+			"latam"		"1"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1694044800"
+			"tested_build_id"		"12036024"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"95.00276098912377"
+				"height_pct"		"79.16681656683079"
+			}
+		}
+		"store_asset_mtime"		"1694191771"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Phoenix Labs"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Phoenix Labs"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"3"
+			"2"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1694188998"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2230110"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"87918"
+			"2"		"4057"
+			"3"		"97376"
+			"4"		"1685"
+			"5"		"3859"
+			"6"		"1654"
+			"7"		"4305"
+			"8"		"4726"
+			"9"		"4947"
+			"10"		"44868"
+			"11"		"5350"
+			"12"		"599"
+			"13"		"1684"
+			"14"		"19"
+			"15"		"4252"
+			"16"		"1697"
+			"17"		"3920"
+			"18"		"1702"
+			"19"		"30358"
+		}
+		"review_score"		"8"
+		"review_percentage"		"83"
+	}
+	"extended"
+	{
+		"developer"		"Phoenix Labs"
+		"publisher"		"Phoenix Labs"
+		"homepage"		"https://fae.farm/42wj4ZW"
+		"listofdlc"		"2480120"
+	}
+	"config"
+	{
+		"installdir"		"Fae Farm"
+		"launch"
+		{
+			"3"
+			{
+				"executable"		"FaeFarmClient.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"4"
+			{
+				"executable"		"FaeFarm/Binaries/Win64/FaeFarmClient-Win64-Test.exe"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"blargle"
+				}
+				"description_loc"
+				{
+					"english"		"Test Configuration"
+				}
+				"description"		"Test Configuration"
+			}
+		}
+		"uselaunchcommandline"		"1"
+		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"5"
+		"steamconfigurator3rdpartynative"		"65533"
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2230111"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8286872550152721118"
+					"size"		"2500557219"
+					"download"		"2106708400"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"blargle"
+				{
+					"gid"		"21BB1905A7C8DFEF0E4EF278978CDC87"
+					"size"		"636E68A71301FF5F6713998EB3038439"
+					"download"		"CA2A57DA9F413FD4D3CC8CEE4959E2CD"
+				}
+				"fornintendo"
+				{
+					"gid"		"6F2E8E110A4BAA16A9C75B89B05F85A6"
+					"size"		"2E166BE51B3792CFE628ECC171BC60BC"
+					"download"		"3E1CE056BA97E403327D8EF7D0238B12"
+				}
+				"forsandy"
+				{
+					"gid"		"CD1A2E8A2E0B5D731E2537B40416424D"
+					"size"		"072AF1CCFD9E78E81A1BECB4BAD34066"
+					"download"		"0549D382B4B4D1F5F8156C122E17F226"
+				}
+				"mainline"
+				{
+					"gid"		"D5C7D99E5D2CC538707E0EA9C20D9FCC"
+					"size"		"67E4EE4A5122ED6C3C4C7965466855E0"
+					"download"		"F5F90F44B886AAC91A1B858A9B30547A"
+				}
+				"pendingforlive"
+				{
+					"gid"		"ECCC4E0C4D8DD6777B1315D92588E2BA"
+					"size"		"33F86800A1BBA491D96536179F4F4B40"
+					"download"		"B493B4CBA2D7B8D2ABE29F3630A72E78"
+				}
+				"pendingforlive-test"
+				{
+					"gid"		"F8A7130397C1FB8396A199186C373B6D"
+					"size"		"DEBE603E18E585DA0954962656CA0624"
+					"download"		"92158972949060021BF19BE968E0DCEB"
+				}
+				"shipping"
+				{
+					"gid"		"9F6B42A390C42F7F7BD191327C2B3E94"
+					"size"		"C9EFDE3CD0B63E95EE56F7A1816B97EF"
+					"download"		"764BCC544588407BC8FD8F3570BB2166"
+				}
+				"test"
+				{
+					"gid"		"29A0B920716D9E51BF66FC9189DB927B"
+					"size"		"B0BFD35A0CE79E927EF932E028452191"
+					"download"		"8A649BD3492A10F326D46E480C3C083D"
+				}
+			}
+		}
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,brazilian,latam"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12146849"
+				"timeupdated"		"1694223511"
+			}
+			"blargle"
+			{
+				"buildid"		"12190064"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694706070"
+			}
+			"fornintendo"
+			{
+				"buildid"		"11863356"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691116232"
+			}
+			"forsandy"
+			{
+				"buildid"		"11833036"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691008374"
+			}
+			"mainline"
+			{
+				"buildid"		"11999798"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692679699"
+			}
+			"pendingforlive"
+			{
+				"buildid"		"12146849"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694219520"
+			}
+			"pendingforlive-test"
+			{
+				"buildid"		"12115855"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694047058"
+			}
+			"shipping"
+			{
+				"buildid"		"12194927"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694749379"
+			}
+			"test"
+			{
+				"buildid"		"12194915"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694749248"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"50000000"
+		"maxnumfiles"		"25"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"FaeFarm/Saved/Worlds"
+				"pattern"		"*"
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"FaeFarm/Saved"
+				"pattern"		"*"
+			}
+			"2"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"FaeFarm/Saved/SaveGames/Steam"
+				"pattern"		"*"
+			}
+		}
+	}
+}
