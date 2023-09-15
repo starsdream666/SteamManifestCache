@@ -1,0 +1,448 @@
+"appinfo"
+{
+	"appid"		"458680"
+	"common"
+	{
+		"name"		"Auto Age: Standoff"
+		"type"		"Game"
+		"oslist"		"windows"
+		"icon"		"4c7632029036cdb685fc394fc8d3710da8917a29"
+		"logo"		"4eeacc2c6ff806ae4c112ae39e139c98f4fe79b0"
+		"logo_small"		"4eeacc2c6ff806ae4c112ae39e139c98f4fe79b0_thumb"
+		"clienticon"		"653b06c6c1313662d478b213dc6e3b9f706419d7"
+		"clienttga"		"c7a269cde24ed68deb27ef5ef3a86c801d30acab"
+		"releasestate"		"released"
+		"app_retired_publisher_request"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1572358294"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Phantom Compass"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Phantom Compass"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_24"		"1"
+			"category_37"		"1"
+			"category_39"		"1"
+			"category_23"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_25"		"1"
+			"category_28"		"1"
+			"category_44"		"1"
+			"category_49"		"1"
+			"category_47"		"1"
+			"category_48"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1506009514"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"458680"
+		"store_tags"
+		{
+			"0"		"8013"
+			"1"		"492"
+			"2"		"4102"
+			"3"		"7368"
+			"4"		"1775"
+			"5"		"1774"
+			"6"		"7743"
+			"7"		"4195"
+			"8"		"3859"
+			"9"		"1644"
+			"10"		"1685"
+			"11"		"19"
+			"12"		"4840"
+			"13"		"1734"
+			"14"		"1756"
+			"15"		"4004"
+			"16"		"5711"
+			"17"		"4711"
+			"18"		"3843"
+			"19"		"3942"
+		}
+		"review_score"		"5"
+		"review_percentage"		"66"
+	}
+	"extended"
+	{
+		"developer"		"Phantom Compass"
+		"publisher"		"Phantom Compass"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Auto Age Standoff"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"AutoAgeStandoff.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"AutoAgeStandoff.app"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"458681"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1016400684127574892"
+					"size"		"2977929013"
+					"download"		"897212784"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"autoagents"
+				{
+					"gid"		"0DA51365DAF1822B508F08DBC2CB6BF7"
+					"size"		"92BB3C345CA9609E79CF7568A19C362D"
+					"download"		"3FF43E0F06B306E39E484B17E3790808"
+				}
+				"devtesting"
+				{
+					"gid"		"7E6F490CE43F5FCB89585C988CEE2C44"
+					"size"		"0F316B425F37E95F511343D31F5E562D"
+					"download"		"20C26069A6678CF781B6FC46D95CB338"
+				}
+				"funders"
+				{
+					"gid"		"76262478EDCB5D09FA7D1335F2CC4AE9"
+					"size"		"C080E0D2216FB846BB4F2996CBC96F8F"
+					"download"		"317840ECAFA42434A65551D54A67314D"
+				}
+				"gameonfinance"
+				{
+					"gid"		"40359D98B2EF6F7845E0C764471A09EB"
+					"size"		"EF03B5EAD1220702A27941EB44812173"
+					"download"		"204E9DBC3DF1844D4F8E9A728EBBA1C7"
+				}
+				"pctesting"
+				{
+					"gid"		"8E256BE286F50575E30752448C81FA68"
+					"size"		"F1D2AE9AC8D7BCBD3640830639183EB8"
+					"download"		"C0FB2DE10377A885B5D98BA7AB1416ED"
+				}
+				"privateserver"
+				{
+					"gid"		"48C69F86B357DC48EB57061BDC756E17"
+					"size"		"0DE33B01C6397A0D19568636F059E0A2"
+					"download"		"EB689E1909BE9A612CACD0320CB5017C"
+				}
+				"sculpin01"
+				{
+					"gid"		"B911F76675462B5CA3C8177D178FB666"
+					"size"		"4B53F7622699C4BC06D4BC641AA01BC6"
+					"download"		"3F3370294C5F79CBBE8C3095361171A1"
+				}
+				"sculpin02"
+				{
+					"gid"		"E99C67A30BD6E2481FE4B2F1D2E611DD"
+					"size"		"B3EA0BD30A1F3F7829EA760D661ED7C7"
+					"download"		"392AD7345099EC293168D7CE63CA4BD3"
+				}
+				"tobii"
+				{
+					"gid"		"D4D1F395A8A269789D437E38B6F06041"
+					"size"		"D39E9A94B31D400269EBC48B2C4776C9"
+					"download"		"B54A5C6B92F5064813EB2D38DDA39C02"
+				}
+			}
+		}
+		"458682"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6114549069121130956"
+					"size"		"3003128243"
+					"download"		"921553248"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"autoagents"
+				{
+					"gid"		"07AD7246AFA3717C2F1235B13209CB63"
+					"size"		"EEF4D1D3A0384E55A2A6453A6F1D0DC2"
+					"download"		"EF10E8C65C99D24686D4D49571744627"
+				}
+				"devtesting"
+				{
+					"gid"		"CA61D35FE301E5F2CCD278C21E0B7747"
+					"size"		"3A436F9406A6FCB707A4603065C74E6C"
+					"download"		"6F4629BD1283B44EC944DC8538C023B3"
+				}
+				"funders"
+				{
+					"gid"		"C945EAD37E66E910E54FE2C50549E556"
+					"size"		"3DEF1B673DF80821B91B9F7A20C64B0C"
+					"download"		"19F0E9FF143443D65ED32E8E01F6979F"
+				}
+				"gameonfinance"
+				{
+					"gid"		"CBFE425DC713B79CFB0BCFF2113F7B91"
+					"size"		"B63C621709994DD50A06064F91A0C519"
+					"download"		"2B85F4473191D0DFE70AD82DD24921EB"
+				}
+				"pctesting"
+				{
+					"gid"		"A84EF39DE347BBE565C82ABA6E7D23CE"
+					"size"		"8D5C60F1AD50DC08050BBE3510931EFB"
+					"download"		"3B1584B8BA98372114293A51BB242530"
+				}
+				"privateserver"
+				{
+					"gid"		"73CA9C79134817190E9EC794AC8B1A22"
+					"size"		"657B02033765A038A2BA0561FBA8069D"
+					"download"		"2B38AB2A51FF8A41C6970CE3DD9DD206"
+				}
+				"sculpin01"
+				{
+					"gid"		"F17099E5BB98A42CA1F65869FA70EF56"
+					"size"		"BD80C59C8B2947479FA34720B3673ED7"
+					"download"		"3342ECB6C8BFB9E5B677461815ED1266"
+				}
+				"sculpin02"
+				{
+					"gid"		"C60A859381E86C4739E6139F3E7146A8"
+					"size"		"B89154A0AC39FEE7DEEC8D75F888490F"
+					"download"		"5CDFA14A1EFCC1A9A8C9C83A52B11A21"
+				}
+				"tobii"
+				{
+					"gid"		"6364F810C8467CAAF455B9F8E5A2C52F"
+					"size"		"7210826791CA711EDCFEF7F3FA2ACD4E"
+					"download"		"97CCE358A94462B2F7CD5DBDEF9B8610"
+				}
+			}
+		}
+		"458683"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3556012586974311086"
+					"size"		"2995788211"
+					"download"		"917300864"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"autoagents"
+				{
+					"gid"		"2A26CEC37B60D5CB8E9FF792D31135F1"
+					"size"		"EDC2AF3AB5D8B8246F9A73BAA62A5223"
+					"download"		"A8211E8CFC8DD6F7AC4D4D77A31D6AE1"
+				}
+				"devtesting"
+				{
+					"gid"		"DD0D17A1246FC232B064BCD675F9406E"
+					"size"		"C263CDD85A64995B9E64494B06383017"
+					"download"		"94961ACB907023110EC50F6D89F2ED14"
+				}
+				"pctesting"
+				{
+					"gid"		"9FDCF009A8C31FE162B3F680B1F5BF31"
+					"size"		"96048386ACCC81C4FFF8E6E67A4AD83D"
+					"download"		"F5508DC15AD0FBC45FC976DAD7F56633"
+				}
+				"privateserver"
+				{
+					"gid"		"3922BBA646C0792A764A4DFBBCEA6A0A"
+					"size"		"1D0B478B8694C89467E9D209145B09A2"
+					"download"		"927D41627BE85B86D9A8063A0B19340C"
+				}
+				"sculpin01"
+				{
+					"gid"		"6AA05CB0D1FFE6A4BB26E6E261267052"
+					"size"		"1A58EEC44CDB90186C997BDAB890B365"
+					"download"		"1F0A9DD1AEBFBB4C1C60DD3F8E7B9A34"
+				}
+				"sculpin02"
+				{
+					"gid"		"E3BC48F9D2E38259529A9A6F717160CF"
+					"size"		"7A818EBBD3DBD82E7020D9E2F9392C04"
+					"download"		"063CC88C47D130CA8F2795A8A7F06823"
+				}
+				"tobii"
+				{
+					"gid"		"7DC8C22EF20CA39B478C7C014B2C12A9"
+					"size"		"ACC2204DC85D061544BBE4F38A7643D4"
+					"download"		"E57E03ED53FB246137DAB13522C5B3B4"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9123150"
+				"timeupdated"		"1657826107"
+			}
+			"autoagents"
+			{
+				"buildid"		"2551366"
+				"pwdrequired"		"1"
+				"timeupdated"		"1519396504"
+			}
+			"devtesting"
+			{
+				"buildid"		"8672131"
+				"pwdrequired"		"1"
+				"timeupdated"		"1651609933"
+			}
+			"funders"
+			{
+				"buildid"		"1222349"
+				"pwdrequired"		"1"
+				"timeupdated"		"1472828225"
+			}
+			"gameonfinance"
+			{
+				"buildid"		"1401340"
+				"pwdrequired"		"1"
+				"timeupdated"		"1476892324"
+			}
+			"pctesting"
+			{
+				"buildid"		"9122675"
+				"pwdrequired"		"1"
+				"timeupdated"		"1657820383"
+			}
+			"privateserver"
+			{
+				"buildid"		"2148944"
+				"pwdrequired"		"1"
+				"timeupdated"		"1506436399"
+			}
+			"sculpin01"
+			{
+				"buildid"		"2133354"
+				"pwdrequired"		"1"
+				"timeupdated"		"1505914707"
+			}
+			"sculpin02"
+			{
+				"buildid"		"2128025"
+				"pwdrequired"		"1"
+				"timeupdated"		"1505834720"
+			}
+			"tobii"
+			{
+				"buildid"		"2392016"
+				"pwdrequired"		"1"
+				"timeupdated"		"1513918252"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"PhantomCompass/AutoAgeStandoff"
+				"pattern"		"*.txt"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"PhantomCompass/AutoAgeStandoff"
+						"replace"		"unity.PhantomCompass.AutoAgeStandoff"
+					}
+				}
+			}
+		}
+	}
+}
