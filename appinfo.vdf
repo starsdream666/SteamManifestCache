@@ -1,0 +1,748 @@
+"appinfo"
+{
+	"appid"		"1556790"
+	"common"
+	{
+		"name"		"Isonzo"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"27bed46f50299a45ee1a2f7bb425bc3d89800391"
+		"logo_small"		"27bed46f50299a45ee1a2f7bb425bc3d89800391_thumb"
+		"icon"		"cfd4412226a3a302490dbefc72b0eacc5a1260f8"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"clienttga"		"36c9385b3f8a7ef4a4d07a22b971e85ed2300621"
+		"clienticon"		"aad8145588c50105fe6a7f26f4dbbc5c206ce2f1"
+		"languages"
+		{
+			"english"		"1"
+		}
+		"name_localized"
+		{
+			"schinese"		"伊松佐河"
+		}
+		"linuxclienticon"		"d80f64642a19d345d84b78689524f6860cc3f406"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1556790_eula_0"
+				"name"		"Isonzo EULA"
+				"url"		"https://store.steampowered.com//eula/1556790_eula_0"
+				"version"		"1"
+			}
+			"1"
+			{
+				"id"		"1556790_eula_1"
+				"name"		"Isonzo EULA"
+				"url"		"https://store.steampowered.com//eula/1556790_eula_1"
+				"version"		"1"
+			}
+		}
+		"clienticns"		"0fcc0ecb7416726c3faac8680ef3a67760431d9f"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1666051200"
+			"tested_build_id"		"9514048"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Isonzo"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"92.2783935814861"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1694092531"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"BlackMill Games"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"M2H"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"BlackMill Games"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"WW1 Game Series"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"29"
+			"3"		"28"
+			"4"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_28"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1663066053"
+		"metacritic_score"		"73"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/isonzo?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1556790"
+		"store_tags"
+		{
+			"0"		"1678"
+			"1"		"4166"
+			"2"		"492"
+			"3"		"599"
+			"4"		"1775"
+			"5"		"4175"
+			"6"		"4168"
+			"7"		"5711"
+			"8"		"128"
+			"9"		"3839"
+			"10"		"3987"
+			"11"		"5382"
+			"12"		"1663"
+			"13"		"1774"
+			"14"		"19"
+			"15"		"1708"
+			"16"		"3859"
+			"17"		"4182"
+			"18"		"3993"
+			"19"		"9"
+		}
+		"review_score"		"8"
+		"review_percentage"		"84"
+	}
+	"extended"
+	{
+		"developer"		"BlackMill Games"
+		"publisher"		"BlackMill Games"
+		"homepage"		"https://www.ww1gameseries.com/isonzo/"
+		"listofdlc"		"1815510,1815511,1815512,1815513,1815514,2128180,2197970,2214670,2214671,2542160"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Isonzo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Isonzo/Isonzo.exe"
+				"arguments"		"isonzo"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Isonzo/Isonzo"
+				"arguments"		"-force-vulkan"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Launch "
+				}
+				"description"		"Launch "
+			}
+			"2"
+			{
+				"executable"		"Isonzo/Isonzo.app/Contents/MacOS/Isonzo"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
+			}
+		}
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"hasdepotsindlc"		"1"
+		"1556791"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8275139931094929411"
+					"size"		"21466722759"
+					"download"		"10436826544"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"publicdebug"
+				{
+					"gid"		"181DD91F16262F9329093A0A6839529A"
+					"size"		"B38B4BBABE23DC8E4C4217C4870E5A03"
+					"download"		"9EE757CCA6CAD8C7E5EFC7F2C65A0342"
+				}
+				"staging"
+				{
+					"gid"		"9D2F7F9367D822D5C50EB05C148DD16A"
+					"size"		"0FFB4B8A94EA27645F0AEBC2A634A927"
+					"download"		"CC902A24A26E9F6A42513785CD529AF0"
+				}
+				"stagingdebug"
+				{
+					"gid"		"6B27C1108BEAE0EDBDB69C89EC71DCA0"
+					"size"		"E2D3DF4563D08E7AC1E25D49E6D2557F"
+					"download"		"FA1180982E908074A79EA9C446272CD1"
+				}
+			}
+		}
+		"1556794"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4204886759519236157"
+					"size"		"21502743233"
+					"download"		"10434325296"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"publicdebug"
+				{
+					"gid"		"F33436DCA44C14D274014EC3547698C7"
+					"size"		"FB966C3584C32D415E1ED4C697B7EB59"
+					"download"		"0503D33BE5582C8EEABE2CB40F419868"
+				}
+				"staging"
+				{
+					"gid"		"5FC55B521B1D38BCF99838932ED67F52"
+					"size"		"FBDB7310AE84702276751FC0C2B594EA"
+					"download"		"80FBC9031041898953E71AF7B322E415"
+				}
+				"stagingdebug"
+				{
+					"gid"		"69F89BECD6649DCBA0FDDFADF3CA513E"
+					"size"		"3479B3AB2F36D447F2288D4BDA8DC93C"
+					"download"		"E96E2E2F446760EA1D046B7E87E2FA22"
+				}
+			}
+		}
+		"1556793"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6011737727655958877"
+					"size"		"21373040448"
+					"download"		"10406973040"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"publicdebug"
+				{
+					"gid"		"0F7377AA0D70A42391B9BCFDC0954846"
+					"size"		"899E8B050CCECA52406D0474A6898F8E"
+					"download"		"0D15D39BCD8D213575D8281D1108690A"
+				}
+				"staging"
+				{
+					"gid"		"01BAAB983C0FF19DF234C7068D78E9BF"
+					"size"		"9ECF08F99A4067E07DBF02FED5351C8B"
+					"download"		"0AC342466DDE769E11D5EDE3F2B13BC1"
+				}
+				"stagingdebug"
+				{
+					"gid"		"EA3B78F77AA570EE6E81F2C26E285144"
+					"size"		"BCE96FDA4E887A15C3B32B15671AAA20"
+					"download"		"F522C3D7BC93D24355AEE32E3CB67657"
+				}
+			}
+		}
+		"2128180"
+		{
+			"dlcappid"		"2128180"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2748140448707553137"
+					"size"		"366040200"
+					"download"		"363447280"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"publicdebug"
+				{
+					"gid"		"C725F589239FED39027D581CD00247AE"
+					"size"		"431C30B958E14B0526D9A462903930B6"
+					"download"		"993A19D4CA44D6C8CB88E517A84B544D"
+				}
+				"staging"
+				{
+					"gid"		"9E53EF6A0C49B5AEF280761C53F2BE7C"
+					"size"		"6159DE3BF2390B839FDD998B81C86482"
+					"download"		"F4E129471C2FB3A6E5FF38CD66B74832"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12126217"
+				"timeupdated"		"1694083149"
+			}
+			"publicdebug"
+			{
+				"buildid"		"12131372"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694083164"
+			}
+			"staging"
+			{
+				"buildid"		"12126217"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694033210"
+			}
+			"stagingdebug"
+			{
+				"buildid"		"12127260"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694043974"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"900"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"WW1 Game Series/Isonzo/Steam/{64BitSteamID}"
+				"pattern"		"SaveData_User.dat*"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"addpath"		""
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxHome"
+				"addpath"		".config/unity3d"
+			}
+		}
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#status_mainmenu"		"In the menu"
+					"#status_playing"		"Playing {#Gamemode_%gamemode%} in {#Map_%map%}"
+					"#gamemode_of"		"Offensive"
+					"#map_caporetto"		"Caporetto"
+					"#map_carso"		"Carso"
+					"#map_sabotino"		"Sabotino"
+					"#map_gorizia"		"Gorizia"
+					"#map_fior"		"Fior"
+					"#map_cengio"		"Cengio"
+					"#map_dolomiti"		"Dolomiti"
+					"#map_piave"		"Piave"
+					"#map_grappa"		"Grappa"
+					"#map_piana"		"Piana"
+				}
+			}
+			"spanish"
+			{
+				"tokens"
+				{
+					"#status_mainmenu"		"En el menú"
+					"#status_playing"		"Jugando a {#Gamemode_%gamemode%} en {#Map_%map%}"
+					"#gamemode_of"		"Ofensiva"
+					"#map_caporetto"		"Caporetto"
+					"#map_carso"		"Carso"
+					"#map_sabotino"		"Sabotino"
+					"#map_gorizia"		"Gorizia"
+					"#map_fior"		"Fior"
+					"#map_cengio"		"Cengio"
+					"#map_dolomiti"		"Dolomitas"
+					"#map_piave"		"Piave"
+					"#map_grappa"		"Grappa"
+					"#map_piana"		"Piana"
+				}
+			}
+			"french"
+			{
+				"tokens"
+				{
+					"#status_mainmenu"		"Dans le menu"
+					"#status_playing"		"Joue à {#Gamemode_%gamemode%} dans {#Map_%map%}"
+					"#gamemode_of"		"Offensive"
+					"#map_caporetto"		"Caporetto"
+					"#map_carso"		"Carso"
+					"#map_sabotino"		"Sabotino"
+					"#map_gorizia"		"Gorizia"
+					"#map_fior"		"Fior"
+					"#map_cengio"		"Cengio"
+					"#map_dolomiti"		"Dolomiti"
+					"#map_piave"		"Piave"
+					"#map_grappa"		"Grappa"
+					"#map_piana"		"Piana"
+				}
+			}
+			"german"
+			{
+				"tokens"
+				{
+					"#status_mainmenu"		"Im Menü"
+					"#status_playing"		"Spielt {#Gamemode_%gamemode%} in {#Map_%map%}"
+					"#gamemode_of"		"Offensive"
+					"#map_caporetto"		"Caporetto"
+					"#map_carso"		"Karst"
+					"#map_sabotino"		"Sabotino"
+					"#map_gorizia"		"Gorizia"
+					"#map_fior"		"Fior"
+					"#map_cengio"		"Cengio"
+					"#map_dolomiti"		"Dolomiti"
+					"#map_piave"		"Piave"
+					"#map_grappa"		"Grappa"
+					"#map_piana"		"Piana"
+				}
+			}
+			"portuguese"
+			{
+				"tokens"
+				{
+					"#status_mainmenu"		"No menu"
+					"#status_playing"		"A jogar {#Gamemode_%gamemode%} em {#Map_%map%}"
+					"#gamemode_of"		"Ofensiva"
+					"#map_caporetto"		"Caporetto"
+					"#map_carso"		"Carso"
+					"#map_sabotino"		"Sabotino"
+					"#map_gorizia"		"Gorizia"
+					"#map_fior"		"Fior"
+					"#map_cengio"		"Cengio"
+					"#map_dolomiti"		"Dolomitas"
+					"#map_piave"		"Piave"
+					"#map_grappa"		"Grappa"
+					"#map_piana"		"Piana"
+				}
+			}
+			"italian"
+			{
+				"tokens"
+				{
+					"#status_mainmenu"		"Nel menu"
+					"#status_playing"		"Sta giocando in {#Gamemode_%gamemode%} a {#Map_%map%}"
+					"#gamemode_of"		"Offensiva"
+					"#map_caporetto"		"Caporetto"
+					"#map_carso"		"Carso"
+					"#map_sabotino"		"Sabotino"
+					"#map_gorizia"		"Gorizia"
+					"#map_fior"		"Fior"
+					"#map_cengio"		"Cengio"
+					"#map_dolomiti"		"Dolomiti"
+					"#map_piave"		"Piave"
+					"#map_grappa"		"Grappa"
+					"#map_piana"		"Piana"
+				}
+			}
+			"russian"
+			{
+				"tokens"
+				{
+					"#status_mainmenu"		"В меню"
+					"#status_playing"		"Игра в режиме «{#Gamemode_%gamemode%}» на карте «{#Map_%map%}»"
+					"#gamemode_of"		"Наступление"
+					"#map_caporetto"		"Капоретто"
+					"#map_carso"		"Карзо"
+					"#map_sabotino"		"Саботино"
+					"#map_gorizia"		"Гориция"
+					"#map_fior"		"Фьор"
+					"#map_cengio"		"Ченджо"
+					"#map_dolomiti"		"Доломиты"
+					"#map_piave"		"Пьяве"
+					"#map_grappa"		"Граппа"
+					"#map_piana"		"Пиана"
+				}
+			}
+			"brazilian"
+			{
+				"tokens"
+				{
+					"#status_mainmenu"		"No menu"
+					"#status_playing"		"Jogando {#Gamemode_%gamemode%} em {#Map_%map%}"
+					"#gamemode_of"		"Ofensiva"
+					"#map_caporetto"		"Caporetto"
+					"#map_carso"		"Carso"
+					"#map_sabotino"		"Sabotino"
+					"#map_gorizia"		"Gorizia"
+					"#map_fior"		"Fior"
+					"#map_cengio"		"Cengio"
+					"#map_dolomiti"		"Dolomiti"
+					"#map_piave"		"Piave"
+					"#map_grappa"		"Grappa"
+					"#map_piana"		"Piana"
+				}
+			}
+			"turkish"
+			{
+				"tokens"
+				{
+					"#status_mainmenu"		"Menüde"
+					"#status_playing"		"{#Gamemode_%gamemode%}, {#Map_%map%} konumunda oynuyor"
+					"#gamemode_of"		"Taarruz"
+					"#map_caporetto"		"Caporetto"
+					"#map_carso"		"Carso"
+					"#map_sabotino"		"Sabotino"
+					"#map_gorizia"		"Gorizia"
+					"#map_fior"		"Fior"
+					"#map_cengio"		"Cengio"
+					"#map_dolomiti"		"Dolomiti"
+					"#map_piave"		"Piave"
+					"#map_grappa"		"Grappa"
+					"#map_piana"		"Piana"
+				}
+			}
+			"polish"
+			{
+				"tokens"
+				{
+					"#status_mainmenu"		"W menu"
+					"#status_playing"		"Gra na mapie {#Map_%map%} w trybie: {#Gamemode_%gamemode%}"
+					"#gamemode_of"		"Ofensywa"
+					"#map_caporetto"		"Caporetto"
+					"#map_carso"		"Carso"
+					"#map_sabotino"		"Sabotino"
+					"#map_gorizia"		"Gorycja"
+					"#map_fior"		"Fior"
+					"#map_cengio"		"Cengio"
+					"#map_dolomiti"		"Dolomiti"
+					"#map_piave"		"Piawa"
+					"#map_grappa"		"Grappa"
+					"#map_piana"		"Piana"
+				}
+			}
+			"japanese"
+			{
+				"tokens"
+				{
+					"#status_mainmenu"		"メニュー内"
+					"#status_playing"		"{#Map_%map%}で{#Gamemode_%gamemode%}をプレイ中"
+					"#gamemode_of"		"攻勢"
+					"#map_caporetto"		"カポレット"
+					"#map_carso"		"クラス地方"
+					"#map_sabotino"		"サボティーノ"
+					"#map_gorizia"		"ゴリツィア"
+					"#map_fior"		"フィオール"
+					"#map_cengio"		"チェンジョ"
+					"#map_dolomiti"		"ドロミテ"
+					"#map_piave"		"ピアーヴェ"
+					"#map_grappa"		"グラッパ"
+					"#map_piana"		"ピアーナ"
+				}
+			}
+			"schinese"
+			{
+				"tokens"
+				{
+					"#status_mainmenu"		"菜单中"
+					"#status_playing"		"在{#Map_%map%}地图玩{#Gamemode_%gamemode%}模式"
+					"#gamemode_of"		"进攻"
+					"#map_caporetto"		"卡波雷托战役"
+					"#map_carso"		"卡尔索"
+					"#map_sabotino"		"萨博蒂诺"
+					"#map_gorizia"		"戈里齐亚"
+					"#map_fior"		"菲奥尔"
+					"#map_cengio"		"琴焦"
+					"#map_dolomiti"		"多洛米蒂"
+					"#map_piave"		"皮阿维"
+					"#map_grappa"		"格拉帕"
+					"#map_piana"		"皮亚纳"
+				}
+			}
+		}
+	}
+}
