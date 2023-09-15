@@ -1,0 +1,450 @@
+"appinfo"
+{
+	"appid"		"1484280"
+	"common"
+	{
+		"name"		"Demeo"
+		"type"		"Game"
+		"releasestate"		"released"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+		}
+		"logo"		"f9e560eb593f9fb3bd6e363f7019981ce641181d"
+		"logo_small"		"f9e560eb593f9fb3bd6e363f7019981ce641181d_thumb"
+		"icon"		"edce14008119095d6c6dea4d10b0c37c0d0031ce"
+		"clienttga"		"dd2fb817d8a5a1b8038954f7c760f7ac94cd8b7a"
+		"clienticon"		"4cdeeb427f6d4839c3b3827740bf0d32a354fd9f"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"openvr_action_manifest_path"		"demeo_Data\\StreamingAssets\\SteamVR\\actions.json"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1484280_eula_0"
+				"name"		"Demeo EULA"
+				"url"		"https://store.steampowered.com//eula/1484280_eula_0"
+				"version"		"1"
+			}
+		}
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"japanese"		"1"
+		}
+		"openvrsupport"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1684972800"
+			"tested_build_id"		"11233604"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-2"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Demeo"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"koreana"		"capsule_231x87_koreana.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"japanese"		"header_japanese.jpg"
+			"koreana"		"header_koreana.jpg"
+			"tchinese"		"header_tchinese.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,ja,ko,zh-tw,zh-cn"
+			"library_hero"		"en"
+			"library_logo"		"en,ja,ko,zh-tw,zh-cn"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"60.96537500785357"
+				"height_pct"		"69.09722222222223"
+			}
+		}
+		"store_asset_mtime"		"1684245550"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Resolution Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Resolution Games"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Resolution Games"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Demeo"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"3"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_27"		"1"
+			"category_2"		"1"
+			"category_52"		"1"
+			"category_28"		"1"
+			"category_22"		"1"
+			"category_53"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1620320400"
+		"metacritic_score"		"83"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/demeo?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1484280"
+		"store_tags"
+		{
+			"0"		"14139"
+			"1"		"1720"
+			"2"		"3959"
+			"3"		"1741"
+			"4"		"1770"
+			"5"		"17389"
+			"6"		"9"
+			"7"		"122"
+			"8"		"21978"
+			"9"		"4191"
+			"10"		"4325"
+			"11"		"1684"
+			"12"		"21"
+			"13"		"1687"
+			"14"		"4057"
+			"15"		"4172"
+			"16"		"4155"
+			"17"		"3916"
+			"18"		"4342"
+			"19"		"1685"
+		}
+		"review_score"		"8"
+		"review_percentage"		"91"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Resolution Games"
+		"publisher"		"Resolution Games"
+		"homepage"		"https://www.resolutiongames.com/demeo"
+	}
+	"config"
+	{
+		"installdir"		"Demeo"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"demeo.exe"
+				"arguments"		"-nonvr"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Demeo in Desktop Mode"
+				}
+				"description"		"Demeo in Desktop Mode"
+			}
+			"3"
+			{
+				"executable"		"demeo.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Demeo"
+				}
+				"description"		"Demeo"
+			}
+			"4"
+			{
+				"executable"		"Demeo.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+				"description_loc"
+				{
+					"english"		"Demeo"
+				}
+				"description"		"Demeo"
+			}
+		}
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigdetails"
+		{
+			"2902423519"
+			{
+				"controller_type"		"controller_neptune"
+				"enabled_branches"		"default,development_content_qa,development_master,external_review_egs,hangoutdev,modding_development,press,release_candidate,trailer"
+				"use_action_block"		"false"
+			}
+		}
+		"steamdecktouchscreen"		"5"
+		"steamconfigurator3rdpartynative"		"6"
+	}
+	"depots"
+	{
+		"1484281"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3773813565697247021"
+					"size"		"3589736501"
+					"download"		"3262931808"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development_content_qa"
+				{
+					"gid"		"A64997724445AAC747AD56EFD634D0B4"
+					"size"		"BD8EE34D9321217B61C06EE91687CCCD"
+					"download"		"68574923E4782AEC14879F1C29EE316D"
+				}
+				"development_master"
+				{
+					"gid"		"ED95B1849906459BCF3D294F3FA26E0E"
+					"size"		"8E1430540947283DEE98811B14AB0F73"
+					"download"		"643D7618B50FD432D146BD82CB5B52D5"
+				}
+				"external_review_egs"
+				{
+					"gid"		"77471E01D4EA303B2722D1969D95D7B0"
+					"size"		"101CEE433D32EBF16E9A90C74C37E6F2"
+					"download"		"B274A50695496679D39D6ACAC0A2D6A9"
+				}
+				"hangoutdev"
+				{
+					"gid"		"03E4E3DDFB3CA2CC925946B961CC811F"
+					"size"		"0D4981A6340AB49A2EB1DD3D1D3550EC"
+					"download"		"EB7BFF2350B45F91ACB01E9A4A4D6FC9"
+				}
+				"modding_development"
+				{
+					"gid"		"EAC152217B5E04FE70B6D535B4AF96C1"
+					"size"		"F536577516FEBCF86AD9460288AF84EE"
+					"download"		"23F53173BEA7863F141649EF3BC5F7D3"
+				}
+				"press"
+				{
+					"gid"		"5406B6C4507BB5D5B7A6974ADB3845AA"
+					"size"		"DB4104B92FBAA79395157D00CA25365C"
+					"download"		"9CED085F8D6FCD48E73F4F1AE2BE0A77"
+				}
+				"release_candidate"
+				{
+					"gid"		"CAA6EA0AB3D3F7166047686AF3D7B7ED"
+					"size"		"E50C15F9581A2B8380AB4EA319358FDB"
+					"download"		"7F0B5973EED152D3A3E3DB0660052904"
+				}
+				"trailer"
+				{
+					"gid"		"8BDEF80867A2210744206D0C99E7146B"
+					"size"		"790428FBA0912396CBFA0FD48540F883"
+					"download"		"2481CE24662BD970A409B0CA2B96FDF4"
+				}
+			}
+		}
+		"1484282"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"development_content_qa"
+				{
+					"gid"		"544692616C8474B04D2F98F3E2A76854"
+					"size"		"35AD64B5FEE392183350545584A662F9"
+					"download"		"78FE2F2FAF8921C3D439983D152F0668"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12130656"
+				"timeupdated"		"1694099021"
+			}
+			"development_content_qa"
+			{
+				"buildid"		"12003306"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692709228"
+			}
+			"development_master"
+			{
+				"buildid"		"12173303"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694561094"
+			}
+			"external_review_egs"
+			{
+				"buildid"		"9892902"
+				"pwdrequired"		"1"
+				"timeupdated"		"1667914402"
+			}
+			"hangoutdev"
+			{
+				"buildid"		"9105835"
+				"pwdrequired"		"1"
+				"timeupdated"		"1657627439"
+			}
+			"modding_development"
+			{
+				"buildid"		"6832462"
+				"pwdrequired"		"1"
+				"timeupdated"		"1623163191"
+			}
+			"press"
+			{
+				"buildid"		"10081814"
+				"pwdrequired"		"1"
+				"timeupdated"		"1670316595"
+			}
+			"release_candidate"
+			{
+				"buildid"		"12195999"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694762402"
+			}
+			"trailer"
+			{
+				"buildid"		"10050618"
+				"pwdrequired"		"1"
+				"timeupdated"		"1669893512"
+			}
+		}
+	}
+}
