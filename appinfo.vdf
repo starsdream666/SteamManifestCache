@@ -1,0 +1,313 @@
+"appinfo"
+{
+	"appid"		"1948980"
+	"common"
+	{
+		"name"		"大侠立志传：碧血丹心"
+		"type"		"Game"
+		"name_localized"
+		{
+			"english"		"Hero's Adventure:Road to Passion"
+			"schinese"		"大侠立志传：碧血丹心"
+			"sc_schinese"		"大侠立志传：碧血丹心"
+		}
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"46e17854f3b2e323faae3f785a3ce8061e64335a"
+		"clienticon"		"88403a8ff173b387fa845deabccec935280e43bf"
+		"icon"		"890a5d1e3b5ff05ca0b38994d899fa96225aefbe"
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+		}
+		"releasestatesteamchina"		"prerelease"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1678924800"
+			"tested_build_id"		"10762112"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-experimental"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"schinese"		"header_schinese.jpg"
+			"tchinese"		"header_tchinese.jpg"
+			"english"		"header.jpg"
+			"sc_schinese"		"header_sc_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn,zh-tw"
+			"library_hero"		"en,zh-cn"
+			"library_logo"		"en,zh-cn,zh-tw"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"20.176450155716395"
+				"height_pct"		"47.85820536161905"
+			}
+		}
+		"store_asset_mtime"		"1693894893"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"半瓶醋工作室"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Paleo"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"3"
+			"3"		"28"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_22"		"1"
+			"category_30"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1678243440"
+		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1948980"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"6915"
+			"2"		"9"
+			"3"		"1695"
+			"4"		"492"
+			"5"		"21"
+			"6"		"1687"
+			"7"		"6971"
+			"8"		"599"
+			"9"		"4182"
+			"10"		"4486"
+			"11"		"1741"
+			"12"		"1677"
+			"13"		"5984"
+			"14"		"493"
+			"15"		"3871"
+			"16"		"4085"
+			"17"		"5577"
+			"18"		"5611"
+			"19"		"12095"
+		}
+		"review_score"		"8"
+		"review_percentage"		"84"
+	}
+	"extended"
+	{
+		"developer"		"半瓶醋工作室"
+		"publisher"		"Paleo"
+	}
+	"config"
+	{
+		"installdir"		"WulinSH"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Wulin.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steam_china_only"
+		{
+			"steam_china_enable_duration_control"		"0"
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"baselanguages"		"schinese,tchinese"
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1948981"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7302781994201195404"
+					"size"		"871815428"
+					"download"		"731928432"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"modtest0823"
+				{
+					"gid"		"48ACEFBD06A6F6291B521045A086FB4B"
+					"size"		"A149096CD350CB83FE74063422605F56"
+					"download"		"026A5241B814343760C650F52A341874"
+				}
+				"playertest0821"
+				{
+					"gid"		"13BF4D8EFD81C16432939EBDC599BD1F"
+					"size"		"6E84D87DDF1A9580E56BDBEF92F5F948"
+					"download"		"DCC49229BEC78B69FE5AC92912DD098E"
+				}
+				"qa_test0113"
+				{
+					"gid"		"D87D05309D9E3C3EC84A0A018E0E7111"
+					"size"		"C58372519B6EF225926921D7A08C3B7F"
+					"download"		"817FCD35E0737B3D13CBF8B33D2FFB33"
+				}
+			}
+		}
+		"workshopdepot"		"1948980"
+		"branches"
+		{
+			"steam_china_only"
+			{
+				"sc_schinese"		"仅中国"
+			}
+			"public"
+			{
+				"buildid"		"12149867"
+				"timeupdated"		"1694273279"
+			}
+			"modtest0823"
+			{
+				"buildid"		"12011102"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692780834"
+			}
+			"playertest0821"
+			{
+				"buildid"		"12001634"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692761181"
+			}
+			"qa_test0113"
+			{
+				"buildid"		"12131222"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694083338"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"200000000"
+		"maxnumfiles"		"10000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"DefaultCompany/Wulin"
+				"pattern"		"*.save"
+				"recursive"		"1"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"Windows"
+				"oscompare"		"="
+				"useinstead"		"WinAppDataLocalLow"
+				"addpath"		""
+			}
+		}
+	}
+}
