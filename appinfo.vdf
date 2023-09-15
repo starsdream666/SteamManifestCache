@@ -1,0 +1,362 @@
+"appinfo"
+{
+	"appid"		"892520"
+	"common"
+	{
+		"name"		"World War 3 PTE"
+		"section_type"		"ownersonly"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"clienttga"		"77586efc1057510e5e57bc69a00ac53ccc441544"
+		"clienticon"		"14804232943214b0d6d50259f591b5a22ca5fcb1"
+		"icon"		"091387afc53c2f1a7488950dd5cd15c7c7745f0a"
+		"metacritic_name"		"World War 3 Beta"
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50.96961861667744"
+				"height_pct"		"53.125"
+			}
+		}
+		"store_asset_mtime"		"1572516800"
+		"associations"
+		{
+		}
+		"community_hub_visible"		"1"
+		"gameid"		"892520"
+	}
+	"extended"
+	{
+		"anti_cheat_support_url"		""
+	}
+	"config"
+	{
+		"installdir"		"World War 3 PTE"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"WW3_launcher.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"default"
+				}
+				"description_loc"
+				{
+					"english"		"Run from executable file"
+				}
+				"description"		"Run from executable file"
+			}
+			"1"
+			{
+				"executable"		"WW3\\Binaries\\Win64\\WW3-Win64-Shipping.exe"
+				"arguments"		"-log -NoMrac"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"production"
+				}
+				"description_loc"
+				{
+					"english"		"Run from executable file"
+				}
+				"description"		"Run from executable file"
+			}
+			"2"
+			{
+				"executable"		"WW3_launcher.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"gc_test"
+				}
+			}
+			"3"
+			{
+				"executable"		"WW3\\Binaries\\Win64\\WW3-Win64-Shipping.exe"
+				"arguments"		"-NodeJSIP=milestone.master.worldwar3.com:8443 -NoMrac"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"development"
+				}
+				"description_loc"
+				{
+					"english"		"Run from executable file"
+				}
+				"description"		"Run from executable file"
+			}
+			"4"
+			{
+				"executable"		"WW3\\Binaries\\Win64\\WW3-Win64-Shipping.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"live"
+				}
+				"description_loc"
+				{
+					"english"		"Run from executable file"
+				}
+				"description"		"Run from executable file"
+			}
+			"5"
+			{
+				"executable"		"WW3\\Binaries\\Win64\\WW3-Win64-Shipping.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"seasons"
+				}
+				"description_loc"
+				{
+					"english"		"Run from executable file"
+				}
+				"description"		"Run from executable file"
+			}
+			"6"
+			{
+				"executable"		"WW3\\Binaries\\Win64\\WW3-Win64-Shipping.exe"
+				"arguments"		"-Continent=pte02 -log -Region=pte02.master.worldwar3.com:8443"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"media_hub"
+				}
+				"description_loc"
+				{
+					"english"		"Run from executable file with params"
+				}
+				"description"		"Run from executable file with params"
+			}
+			"7"
+			{
+				"executable"		"WW3\\Binaries\\Win64\\WW3-Win64-Shipping.exe"
+				"arguments"		"-MyGamesInit -Continent=LQA -MyGamesInit -log -Region=lqa.master.worldwar3.com:8443"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"lqa_tests"
+				}
+				"description_loc"
+				{
+					"english"		"Run from executable file with params"
+				}
+				"description"		"Run from executable file with params"
+			}
+		}
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229005"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"892521"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1718091270379106056"
+					"size"		"394104360"
+					"download"		"177486576"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"EBF28D0DA13A98B90679292971D5E21A"
+					"size"		"1F9D14446528B5E4DF77301DD087EFA7"
+					"download"		"940611BDCF7B540C760C9ACE077278CF"
+				}
+				"gc_test"
+				{
+					"gid"		"5B51E6EADCCACB9B7BC3F09E63DB4A58"
+					"size"		"F886277470D9F2EDA78B5DAE950B3466"
+					"download"		"304FE2FE619D4936E68D51C085F91DF8"
+				}
+				"iem_2019"
+				{
+					"gid"		"0F59B16B360CCDFAD50DEEC2D89F8EAC"
+					"size"		"D3EC40E53C523D790483A2CD939B484B"
+					"download"		"29DB157DF18E6C0B435FBEEDB3E12AC4"
+				}
+				"iem_offline-builds"
+				{
+					"gid"		"B1CEE93BA4A536E2CF9F814B8A23F858"
+					"size"		"161F72720EAF4D614BE35D7A8DC0EFBA"
+					"download"		"E4812A8D3C1FFD161B7273153F3F5372"
+				}
+				"live"
+				{
+					"gid"		"793F015321CBCFBED8377A6E9374A628"
+					"size"		"40547BC44F5155D202F326BB8ECE9B47"
+					"download"		"5B846B441ED2D84C8E48F69E3CF62064"
+				}
+				"lqa_tests"
+				{
+					"gid"		"A664DC37534A2BA21F310B7FC5C8EA2C"
+					"size"		"469D7B7AD496D50DDFEF7E4365EEB36C"
+					"download"		"86F416129CFD0A6FBD891D76A8D2A2A1"
+				}
+				"media_hub"
+				{
+					"gid"		"96180A36E0F5C6D6FB6907B043197E62"
+					"size"		"AB2F998E93F75BE24B59631168F9B13F"
+					"download"		"C962F21F50D2B086081759929F347232"
+				}
+				"production"
+				{
+					"gid"		"23E1C009BC104D12610A446FA57E05AD"
+					"size"		"B7E0639CEAF2630AA3B996C08F0329CB"
+					"download"		"B146E809EBD5D2FABDA51116B07E8847"
+				}
+				"red_23_arch"
+				{
+					"gid"		"EE46BB6688FC0EDB1DE6022644F5B33A"
+					"size"		"75F7FB3A25C1F3156E5E9F521FE7CB66"
+					"download"		"8071FE80F70927A6809B1E96FDCCC247"
+				}
+				"red_23_files"
+				{
+					"gid"		"78DCC42261D940C8DE79F39685A8CCDA"
+					"size"		"E563D280F82CE4C7840910EBAF04E984"
+					"download"		"FF6E1FF27E69323C8693BC860AEE0D2E"
+				}
+				"seasons"
+				{
+					"gid"		"CBF69816C2F4AACA9123778C235572AB"
+					"size"		"ED944B86324663FF29451F74874F845E"
+					"download"		"CE181CE748D503769B3BEEF26A0CDC55"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9578086"
+				"timeupdated"		"1663937809"
+			}
+			"development"
+			{
+				"buildid"		"12062164"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693338277"
+			}
+			"gc_test"
+			{
+				"buildid"		"9578086"
+				"pwdrequired"		"1"
+				"timeupdated"		"1663937585"
+			}
+			"iem_2019"
+			{
+				"buildid"		"3610903"
+				"pwdrequired"		"1"
+				"timeupdated"		"1551579695"
+			}
+			"iem_offline-builds"
+			{
+				"buildid"		"3601649"
+				"pwdrequired"		"1"
+				"timeupdated"		"1551342484"
+			}
+			"live"
+			{
+				"buildid"		"10143022"
+				"pwdrequired"		"1"
+				"timeupdated"		"1671172466"
+			}
+			"lqa_tests"
+			{
+				"buildid"		"11889454"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691492014"
+			}
+			"media_hub"
+			{
+				"buildid"		"12084992"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693577509"
+			}
+			"production"
+			{
+				"buildid"		"12145778"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694206540"
+			}
+			"red_23_arch"
+			{
+				"buildid"		"10680191"
+				"pwdrequired"		"1"
+				"timeupdated"		"1677812154"
+			}
+			"red_23_files"
+			{
+				"buildid"		"10679856"
+				"pwdrequired"		"1"
+				"timeupdated"		"1677809045"
+			}
+			"seasons"
+			{
+				"buildid"		"12159007"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694434669"
+			}
+		}
+	}
+}
