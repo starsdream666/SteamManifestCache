@@ -1,0 +1,332 @@
+"appinfo"
+{
+	"appid"		"262000"
+	"common"
+	{
+		"name"		"Gabriel Knight - Sins of the Fathers"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"clienticon"		"82d27affab89593965bf2e63548a01c49b583454"
+		"clienttga"		"067d8e1a83e094ae1f7415b24651c1860fa644e2"
+		"icon"		"a0b9d1a51d491d684ef26b4911c372f5fdcdee04"
+		"logo"		"d234315c285579229a1a5f856f4d90f2059eb048"
+		"logo_small"		"d234315c285579229a1a5f856f4d90f2059eb048_thumb"
+		"sortas"		"Gabriel Knight 1 - Sins of the Fathers"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1657152000"
+			"tested_build_id"		"2239025"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Gabriel Knight: Sins of the Fathers 20th Anniversary Edition"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1412897997"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Phoenix Online Studios"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Pinkerton Road Studio"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Pinkerton Road Studio"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_15"		"1"
+			"category_29"		"1"
+			"category_23"		"1"
+			"category_13"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1413386160"
+		"metacritic_score"		"74"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/gabriel-knight-sins-of-the-fathers-20th-anniversary-edition?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"262000"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"1698"
+			"2"		"5716"
+			"3"		"5708"
+			"4"		"1693"
+			"5"		"4182"
+			"6"		"1667"
+			"7"		"1742"
+			"8"		"5613"
+			"9"		"10808"
+			"10"		"1664"
+			"11"		"4166"
+			"12"		"1756"
+			"13"		"7782"
+			"14"		"6691"
+			"15"		"1721"
+			"16"		"8369"
+		}
+		"review_score"		"8"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"developer"		"Phoenix Online Studios"
+		"publisher"		"Pinkerton Road Studio"
+		"homepage"		"www.gabrielknight20th.com"
+		"listofdlc"		"322090"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Gabriel Knight 1"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"GK1.exe"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"GK1.app"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"262001"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3699047004336691693"
+					"size"		"3044342357"
+					"download"		"1685697248"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"3C0ECC18E2B24C6A90488C87E4F0E7A7"
+					"size"		"FC526F545147F6000E2AF3418418E2CD"
+					"download"		"1A6BE1B018CFAEC2C155F822C348CF2B"
+				}
+				"unity4version"
+				{
+					"gid"		"A29B72B3FDDDBB5022E3CB5F7E6AF81D"
+					"size"		"82B3A2FD0FB9514446CFF451D1A26DC1"
+					"download"		"346FE9ED86C2E779BF2B40A7FB6C62DC"
+				}
+			}
+		}
+		"262002"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1188698234338795369"
+					"size"		"3056712218"
+					"download"		"1689240032"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"6F3C77E535273370E01A2E7BE5E5FAB5"
+					"size"		"226060C2A2F352779A53C642106CD4B9"
+					"download"		"35DACFAC3E21ABE6AAFDB46514A3B658"
+				}
+				"unity4version"
+				{
+					"gid"		"0A02C81C0BFCC06F11D12ADBCB35BC40"
+					"size"		"C6FFA2F416A16C7023D1E6A08EF6A1D4"
+					"download"		"BE90EFBA7709793D9975B35E436E3C00"
+				}
+			}
+		}
+		"322090"
+		{
+			"config"
+			{
+				"language"		"english"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1940742625972625767"
+					"size"		"241299145"
+					"download"		"203308384"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"0F3C0891E54635B825FE93E4413474A9"
+					"size"		"6A7880777ACFEE9D2B2CFB34A4B6AF4E"
+					"download"		"3DB140EBA9BE890BBA1F76682444B55B"
+				}
+				"unity4version"
+				{
+					"gid"		"8107824526D9E77617AF08A9CEA9806C"
+					"size"		"6DD7A28FB3528054F32A49BDC1B00B8D"
+					"download"		"12480D7FEAC72DFA61D004F38FA6FC51"
+				}
+			}
+			"dlcappid"		"322090"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2239025"
+				"timeupdated"		"1509220121"
+			}
+			"test"
+			{
+				"buildid"		"2239025"
+				"pwdrequired"		"1"
+				"timeupdated"		"1509220051"
+			}
+			"unity4version"
+			{
+				"buildid"		"414544"
+				"pwdrequired"		"1"
+				"timeupdated"		"1465932427"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000000"
+		"maxnumfiles"		"1000"
+	}
+}
