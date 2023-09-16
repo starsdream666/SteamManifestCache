@@ -1,0 +1,565 @@
+"appinfo"
+{
+	"appid"		"1970580"
+	"common"
+	{
+		"name"		"Backpack Hero"
+		"type"		"Game"
+		"icon"		"19d9b22c941cfc77888e08d5c01161a6e5c7f6c2"
+		"clienticon"		"7cba075b7d35759ce56ab5c9ee1d43c2cf880bb3"
+		"clienttga"		"9e5769fb68f30b32b4b5fbd27cb60e00a3914154"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64,macosapplesilicon"
+		"name_localized"
+		{
+			"schinese"		"背包英雄 Backpack Hero"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1680652800"
+			"tested_build_id"		"10911213"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_CrossPlatformCloudSavesNotSupported"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn"
+			"library_hero"		"en"
+			"library_logo"		"en,zh-cn"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"27.666081448965713"
+				"height_pct"		"47.033119196292965"
+			}
+		}
+		"store_asset_mtime"		"1694553705"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Jaspel"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Jaspel"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"IndieArk"
+			}
+			"3"
+			{
+				"type"		"publisher"
+				"name"		"Different Tales"
+			}
+			"4"
+			{
+				"type"		"franchise"
+				"name"		"IndieArk"
+			}
+			"5"
+			{
+				"type"		"franchise"
+				"name"		"Different Tales"
+			}
+		}
+		"primary_genre"		"70"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"23"
+			"3"		"3"
+			"4"		"2"
+			"5"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+			"category_30"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"romanian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1660579080"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1970580"
+		"store_tags"
+		{
+			"0"		"1091588"
+			"1"		"6276"
+			"2"		"1677"
+			"3"		"4711"
+			"4"		"32322"
+			"5"		"122"
+			"6"		"1720"
+			"7"		"791774"
+			"8"		"1716"
+			"9"		"492"
+			"10"		"1741"
+			"11"		"5125"
+			"12"		"3959"
+			"13"		"4325"
+			"14"		"9"
+			"15"		"1708"
+			"16"		"198631"
+			"17"		"3964"
+			"18"		"4182"
+			"19"		"493"
+		}
+		"review_score"		"8"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"developer"		"Jaspel"
+		"publisher"		"Jaspel"
+	}
+	"config"
+	{
+		"installdir"		"Backpack Hero"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Backpack Hero.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Contents\\MacOS\\Backpack Hero"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"linux.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1970581"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"607586403927078253"
+					"size"		"661305319"
+					"download"		"205804720"
+				}
+				"testingbranch"
+				{
+					"gid"		"5323197912467172188"
+					"size"		"683027955"
+					"download"		"215706528"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"demo1"
+				{
+					"gid"		"55649B3A8CFF8F3A57DC6326FA1AEB87"
+					"size"		"D067BF7E548D1E338AD16637F579373F"
+					"download"		"75AED6D375D2CAE89F9C0293A00903D7"
+				}
+				"demo2"
+				{
+					"gid"		"18F55182BA4855DA20661BEEC52025F8"
+					"size"		"DBBA7A64A1376076DF4608FF43669916"
+					"download"		"B2EEB76799A732348CE1B6815F926CE0"
+				}
+				"internal"
+				{
+					"gid"		"1B30278A1F635D670FF81B78469A6E4D"
+					"size"		"9AC607EF00E1D50775C021AC0249BA6C"
+					"download"		"CFF8E9DA137F0754AEA12789574D4EB5"
+				}
+				"modtesters"
+				{
+					"gid"		"3027C79355507D0C417B7D3889BD5A43"
+					"size"		"478DBDC1E84BED00BFFD951E0E392089"
+					"download"		"CE0438285573C3B52214E3E35E3C0C06"
+				}
+				"privatebranch"
+				{
+					"gid"		"284668632BA2E3A5890189D541DAC84D"
+					"size"		"5921E6C2C7D8C5239E858659D69AF644"
+					"download"		"3D41D44FFBF27B29941996CC22C131BC"
+				}
+				"storymodetesting"
+				{
+					"gid"		"600B388271B22A77BD0C1099B959C00F"
+					"size"		"7AF8BD694BEC102281B6917FF65DAF13"
+					"download"		"AFA2AC492A445FDD48F899D17F809EDF"
+				}
+			}
+		}
+		"1970582"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8695740714162257104"
+					"size"		"1033317270"
+					"download"		"386692576"
+				}
+				"testingbranch"
+				{
+					"gid"		"2573624608972063927"
+					"size"		"1055039394"
+					"download"		"396605632"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"demo1"
+				{
+					"gid"		"2C5488CED8DF3835772DC12D2AA0A65D"
+					"size"		"DAAC7A8DBD354963E6F136E8660E4F98"
+					"download"		"899A9BC41F579CCC5CB28F392B3FDCDF"
+				}
+				"demo2"
+				{
+					"gid"		"337AEA96A43C0A122AC5BAB241DEBCF9"
+					"size"		"82A20CAEDBD98F699422DCB81D55945F"
+					"download"		"2D6FE236A35FBEB9C81E054BE0715DBD"
+				}
+				"internal"
+				{
+					"gid"		"999DA7B548B8835B3921D21349BB1313"
+					"size"		"67937C59EEBAD6171431179D1BD51907"
+					"download"		"29F9C2CA1F5F0E83982CF6D8A07DEB69"
+				}
+				"modtesters"
+				{
+					"gid"		"BFB7159BE26EB63A57C9176158CBD308"
+					"size"		"250AAB7F92708F059AD5C010C0B49539"
+					"download"		"1EC68E54B07945821B95794128925E86"
+				}
+				"privatebranch"
+				{
+					"gid"		"DD486AFE36E3F98738F9EA5EE00A641D"
+					"size"		"4BB95F9879DA8687450CD8CFEB93543A"
+					"download"		"C7F97F8E31D623EF66E8D3DF0A7B099E"
+				}
+				"storymodetesting"
+				{
+					"gid"		"4FB96E5C43C34352856CCE083EA1A463"
+					"size"		"CB4A099FAE3A604ADE6D95D2D7D51159"
+					"download"		"FA3698190E13E7923DC967CE761E4C02"
+				}
+			}
+		}
+		"1970583"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4375795255481060969"
+					"size"		"663536414"
+					"download"		"205181728"
+				}
+				"testingbranch"
+				{
+					"gid"		"8293818291192401274"
+					"size"		"685258538"
+					"download"		"215090928"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"demo1"
+				{
+					"gid"		"0625A3687188FA3428FB3709E059A9E3"
+					"size"		"6D389DB343F58D505445B7CCC4749AEF"
+					"download"		"AA86684E1A14EB0A6CA39DC53CF84C7C"
+				}
+				"demo2"
+				{
+					"gid"		"53B04F5A2FA46FDA1F58F6061B3AA556"
+					"size"		"28019035410959A63B72C5BC3E143679"
+					"download"		"8F6D2777BBF8C82A8FAA9197D0696BEC"
+				}
+				"internal"
+				{
+					"gid"		"998B0584A0545BEB0D335DF606C18296"
+					"size"		"5B082E4E9FA22F6065C39C569E10B208"
+					"download"		"5E25B0613B50A9FABD77F7EAFA601415"
+				}
+				"modtesters"
+				{
+					"gid"		"CE888A6304A449CD7EE3AEAFFC6367FB"
+					"size"		"8B9A9702D044657C6329C019C9A4CBD9"
+					"download"		"9D35F0FE1E4441A4E5B750ED8E1F12F8"
+				}
+				"privatebranch"
+				{
+					"gid"		"37367825C794D689D01BFCF8130A5DFB"
+					"size"		"67D473A84B7CE036FBD9B2114FB9DA69"
+					"download"		"449942CAACBD2C6F1171BBCA284CE169"
+				}
+				"storymodetesting"
+				{
+					"gid"		"8E451744271DDCA5B968008D475F8E12"
+					"size"		"9AF13BB88D39A81A0E67792396950949"
+					"download"		"07663B81A7DC6600D3139BA4431607DD"
+				}
+			}
+		}
+		"workshopdepot"		"1970580"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12119004"
+				"timeupdated"		"1693973197"
+			}
+			"demo1"
+			{
+				"buildid"		"12182324"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694640955"
+			}
+			"demo2"
+			{
+				"buildid"		"12033704"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692977127"
+			}
+			"internal"
+			{
+				"buildid"		"12182324"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694640887"
+			}
+			"modtesters"
+			{
+				"buildid"		"11971109"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692327183"
+			}
+			"privatebranch"
+			{
+				"buildid"		"12202611"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694810329"
+			}
+			"storymodetesting"
+			{
+				"buildid"		"11798581"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692977357"
+			}
+			"testingbranch"
+			{
+				"buildid"		"12202611"
+				"description"		"Testing Branch"
+				"timeupdated"		"1694810359"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"15"
+		"savefiles"
+		{
+			"3"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"TheJaspel/Backpack Hero/"
+				"pattern"		"*"
+			}
+		}
+		"sync_while_suspended"		"1"
+		"rootoverrides"
+		{
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"addpath"		""
+			}
+			"2"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxXdgConfigHome"
+				"addpath"		""
+			}
+		}
+	}
+}
