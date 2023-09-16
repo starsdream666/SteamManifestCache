@@ -1,0 +1,488 @@
+"appinfo"
+{
+	"appid"		"1377380"
+	"common"
+	{
+		"name"		"Night of the Dead"
+		"type"		"Game"
+		"logo"		"decef56a7b3cee18109a171fa6ab74397b83a716"
+		"logo_small"		"decef56a7b3cee18109a171fa6ab74397b83a716_thumb"
+		"icon"		"7b9307de9fa2d3fc98b5e56c1f234c0d7f5b1381"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"a0f08699dfb1eea427abddc772b54d850e945f29"
+		"clienticon"		"145fa42bf65662ed01b134df8bff3970a06337dc"
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"koreana"		"1"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1645660800"
+			"tested_build_id"		"8103254"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"simultaneous_gamepad_mouse"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"49.16645629258941"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1690796570"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"jacktostudios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"jacktostudios"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"28"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_23"		"1"
+			"category_47"		"1"
+			"category_48"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"arabic"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+			"thai"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"hungarian"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1598598000"
+		"steam_release_date"		"1598594094"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1377380"
+		"store_tags"
+		{
+			"0"		"1662"
+			"1"		"1659"
+			"2"		"7332"
+			"3"		"1695"
+			"4"		"3859"
+			"5"		"1100689"
+			"6"		"7208"
+			"7"		"1645"
+			"8"		"1643"
+			"9"		"3810"
+			"10"		"6730"
+			"11"		"599"
+			"12"		"9564"
+			"13"		"19"
+			"14"		"1775"
+			"15"		"3978"
+			"16"		"21"
+			"17"		"1697"
+			"18"		"1667"
+			"19"		"4175"
+		}
+		"review_score"		"6"
+		"review_percentage"		"79"
+	}
+	"extended"
+	{
+		"gamedir"		"NightOfTheDead"
+		"serverbrowsername"		"Night of the Dead"
+		"developer"		"jacktostudios"
+		"publisher"		"jacktostudios"
+		"homepage"		"http://jacktostudios.com/"
+	}
+	"config"
+	{
+		"installdir"		"Night of the Dead"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"LF.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"LF.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"1.3.2"
+				}
+				"description_loc"
+				{
+					"english"		"Previous Version (Under 2.X.X)"
+				}
+				"description"		"Previous Version (Under 2.X.X)"
+			}
+			"2"
+			{
+				"executable"		"LF.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"1.2.4"
+				}
+				"description_loc"
+				{
+					"english"		"Previous Version (Under 2.X.X)"
+				}
+				"description"		"Previous Version (Under 2.X.X)"
+			}
+		}
+		"steamcontrollertemplateindex"		"6"
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1377381"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5852156906740631304"
+					"size"		"51299986592"
+					"download"		"12780796384"
+				}
+				"1.2.4"
+				{
+					"gid"		"4808012861772727043"
+					"size"		"28563369305"
+					"download"		"7862910512"
+				}
+				"1.3.2"
+				{
+					"gid"		"7941499401732499872"
+					"size"		"29253574074"
+					"download"		"7862522048"
+				}
+				"2.0.10"
+				{
+					"gid"		"2949843560484504458"
+					"size"		"58697543540"
+					"download"		"13941731232"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha_development"
+				{
+					"gid"		"AF6CA3103DAB40A7EA1EF157662105FB"
+					"size"		"0263EB9769D2E2D1115BB520606CD7F1"
+					"download"		"350DF81270E491D90D158CB9C144EC0C"
+				}
+				"alpha_shipping"
+				{
+					"gid"		"EB19656888A1D2186166A08FE30C7C6B"
+					"size"		"9A962A6D18D40510317A13383F1337F3"
+					"download"		"CD6085DAE96F106C45C590CEE52FF883"
+				}
+				"pre-alpha_development"
+				{
+					"gid"		"6B046E0EB40D7B4D35C350B712D7855D"
+					"size"		"FC90F9E0D4D701EA12B192D8B5DD6AE6"
+					"download"		"0351F093651C017121EDCBDEE59DEEF5"
+				}
+				"pre-alpha_intel_development"
+				{
+					"gid"		"B535551A4A878D96204F2A877E5F8A82"
+					"size"		"3ACF9CC2DC4928D53F6E5A10D8767222"
+					"download"		"F78C8B9D5EBE986D95C0061D0E7170F0"
+				}
+				"pre-alpha_intel_test"
+				{
+					"gid"		"0BA63C82BB1E3CB6CD09EF985AE305AB"
+					"size"		"4D22B69C5F22CBCE2136734127CF72CB"
+					"download"		"EFC746659389E5A2D1466BA90EEB91AE"
+				}
+				"pre-alpha_shipping"
+				{
+					"gid"		"E530A08BA8866B5C08FF172FAE56CE59"
+					"size"		"48CB28D9469A6A867B1883616ABE471E"
+					"download"		"9A1FAC457CD179021A1052382EB0DB85"
+				}
+				"pre-alpha_test_development"
+				{
+					"gid"		"451D69DC9FC3B5B7D8285D35E3A2767E"
+					"size"		"9B2C028298691B836CB54A03D56BF916"
+					"download"		"4869489CFC4F0924F68157839F41A39A"
+				}
+				"pre-alpha_test_shipping"
+				{
+					"gid"		"6132B79A03F582F4CA2A8EE26348FC64"
+					"size"		"2CE73241BF4CCFFF143FAF9D2FA416E8"
+					"download"		"C926EF26020637F89DF77AB5EAF8BACD"
+				}
+			}
+		}
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,hungarian,turkish,arabic,brazilian"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11888983"
+				"timeupdated"		"1691474294"
+			}
+			"1.2.4"
+			{
+				"buildid"		"8257360"
+				"description"		"Stable version of 1.2.x"
+				"timeupdated"		"1649984466"
+			}
+			"1.3.2"
+			{
+				"buildid"		"8833210"
+				"description"		"Stable version of 1.3.x"
+				"timeupdated"		"1664528557"
+			}
+			"2.0.10"
+			{
+				"buildid"		"10915426"
+				"description"		"Stable version of 2.0.x"
+				"timeupdated"		"1683538761"
+			}
+			"alpha_development"
+			{
+				"buildid"		"12198191"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694776172"
+			}
+			"alpha_shipping"
+			{
+				"buildid"		"12190811"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694711200"
+			}
+			"pre-alpha_development"
+			{
+				"buildid"		"12185138"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694669757"
+			}
+			"pre-alpha_intel_development"
+			{
+				"buildid"		"9793876"
+				"pwdrequired"		"1"
+				"timeupdated"		"1666694167"
+			}
+			"pre-alpha_intel_test"
+			{
+				"buildid"		"11864107"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691132326"
+			}
+			"pre-alpha_shipping"
+			{
+				"buildid"		"12158954"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694434348"
+			}
+			"pre-alpha_test_development"
+			{
+				"buildid"		"11788011"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690336137"
+			}
+			"pre-alpha_test_shipping"
+			{
+				"buildid"		"8976217"
+				"pwdrequired"		"1"
+				"timeupdated"		"1655791257"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000000"
+		"maxnumfiles"		"3000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"Saved/SaveGames"
+				"pattern"		"*"
+				"recursive"		"1"
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"LF/Saved/SaveGames"
+				"pattern"		"*"
+				"recursive"		"1"
+			}
+			"2"
+			{
+				"root"		"gameinstall"
+				"path"		"Saved/Avatars"
+				"pattern"		"*"
+				"recursive"		"1"
+			}
+			"3"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"LF/Saved/Avatars"
+				"pattern"		"*"
+				"recursive"		"1"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"os"		"Windows"
+				"oscompare"		"="
+				"useinstead"		"WinAppDataLocal"
+				"addpath"		"LF/"
+			}
+		}
+	}
+}
