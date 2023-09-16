@@ -1,0 +1,357 @@
+"appinfo"
+{
+	"appid"		"1136370"
+	"common"
+	{
+		"name"		"Bear and Breakfast"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"f0117851e7f31b41ed6c30d65798b1ab1dae1470"
+		"logo_small"		"f0117851e7f31b41ed6c30d65798b1ab1dae1470_thumb"
+		"icon"		"575413c5d7980c84ba8cbb325a4ff5e9116a9481"
+		"clienticon"		"1e41d0404280c9fd362ec22eb283be088a223146"
+		"clienttga"		"7ab9d0cd4ece99dc2e2e54e5388410ff0f185898"
+		"releasestate"		"released"
+		"clienticns"		"fd69005e44909a632afd623175a3acf023e76911"
+		"linuxclienticon"		"af8f0b0a5f01546f606e039b3d49fbe58c391773"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1671235200"
+			"tested_build_id"		"10145165"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-6"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"23.028341044869137"
+				"height_pct"		"47.98213673183983"
+			}
+		}
+		"store_asset_mtime"		"1671730901"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Gummy Cat"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Armor Games Studios"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"3"
+			"3"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_29"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1659013493"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1136370"
+		"store_tags"
+		{
+			"0"		"4562"
+			"1"		"4695"
+			"2"		"10235"
+			"3"		"122"
+			"4"		"1654"
+			"5"		"4182"
+			"6"		"597"
+			"7"		"1742"
+			"8"		"4726"
+			"9"		"599"
+			"10"		"4166"
+			"11"		"1702"
+			"12"		"6815"
+			"13"		"4305"
+			"14"		"5350"
+			"15"		"30358"
+			"16"		"8945"
+			"17"		"12472"
+			"18"		"1643"
+			"19"		"4136"
+		}
+		"review_score"		"8"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"developer"		"Gummy Cat"
+		"publisher"		"Armor Games Studios"
+		"homepage"		"https://www.bear.game/"
+	}
+	"config"
+	{
+		"installdir"		"Bear and Breakfast"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"BearAndBreakfast.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1136371"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5805936799137153991"
+					"size"		"2106679161"
+					"download"		"934247760"
+				}
+				"demo"
+				{
+					"gid"		"8442884612868987629"
+					"size"		"3159469482"
+					"download"		"315971728"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"ff-alpha"
+				{
+					"gid"		"6BA6DEEBB5BAB12D0CB551296D84B2E9"
+					"size"		"381ADF5F906C74A4C9E693A62F74D4FA"
+					"download"		"72710BCD9EE6428EA9DA4E1DE911502A"
+				}
+				"localization"
+				{
+					"gid"		"F94EA2EC155B8F3CC182426D6C2C69A7"
+					"size"		"E7B7BFDC253780479D8DABF890805413"
+					"download"		"F30B9CEBBA579DB593A924CF1CE07F41"
+				}
+				"press"
+				{
+					"gid"		"BC00A6197A93EC3DEBDCDB376B55D768"
+					"size"		"B1A71E61BCECC88EE99A7D882751A2B4"
+					"download"		"842482F34127BC6FAD39D4F92AE105EF"
+				}
+				"qa-track"
+				{
+					"gid"		"0018103B5D86ED12BFE4D4B2626280B1"
+					"size"		"61EDE89E30F9B5A1F2FBEC8C3F7459A0"
+					"download"		"2B343C64EA709BF04826FD4CE7278523"
+				}
+				"steam-deck"
+				{
+					"gid"		"0AE4498B4675D335D265692312D169DF"
+					"size"		"2AF618C5EBB0CBE8BEB859191A33BD0F"
+					"download"		"A530A898E0F335D8559EB8FB6DF1538F"
+				}
+				"we-are-devs"
+				{
+					"gid"		"A49ECBE3BD04CDBE944AE94066774A7B"
+					"size"		"1EC42FC5AC21C5F5B774BA52345C9265"
+					"download"		"1A8A58DA6560926E37FF6A60611A988F"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10767373"
+				"timeupdated"		"1678816248"
+			}
+			"demo"
+			{
+				"buildid"		"6882286"
+				"description"		"Archive Branch to keep the Demo Version"
+				"timeupdated"		"1636043924"
+			}
+			"ff-alpha"
+			{
+				"buildid"		"8537511"
+				"pwdrequired"		"1"
+				"timeupdated"		"1649696724"
+			}
+			"localization"
+			{
+				"buildid"		"10356788"
+				"pwdrequired"		"1"
+				"timeupdated"		"1674125621"
+			}
+			"press"
+			{
+				"buildid"		"9141860"
+				"pwdrequired"		"1"
+				"timeupdated"		"1658151015"
+			}
+			"qa-track"
+			{
+				"buildid"		"10767711"
+				"pwdrequired"		"1"
+				"timeupdated"		"1678815320"
+			}
+			"steam-deck"
+			{
+				"buildid"		"10145165"
+				"pwdrequired"		"1"
+				"timeupdated"		"1671016921"
+			}
+			"we-are-devs"
+			{
+				"buildid"		"9247677"
+				"pwdrequired"		"1"
+				"timeupdated"		"1675938853"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"52428800"
+		"maxnumfiles"		"4"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"GummyCat/BearAndBreakfast/"
+				"pattern"		"TOC"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"GummyCat/BearAndBreakfast/"
+				"pattern"		"Save0"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"2"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"GummyCat/BearAndBreakfast/"
+				"pattern"		"Save1"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"3"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"GummyCat/BearAndBreakfast/"
+				"pattern"		"Save2"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
