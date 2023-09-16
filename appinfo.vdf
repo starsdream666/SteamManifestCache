@@ -1,0 +1,228 @@
+"appinfo"
+{
+	"appid"		"1687000"
+	"common"
+	{
+		"name"		"Fading Afternoon"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"d5cbdd377530c0c0c59d346638adb6d1ed42a686"
+		"logo_small"		"d5cbdd377530c0c0c59d346638adb6d1ed42a686_thumb"
+		"icon"		"e5e6195a57d93632d71606685a1008c0be815b70"
+		"clienticon"		"101b36903c155226a3a5d96d1c0c2351f1ff8128"
+		"clienttga"		"ca895a26c91c13fb4ebd8a3dbaa2804ed5644f8a"
+		"releasestate"		"released"
+		"name_localized"
+		{
+			"schinese"		"日薄西山 Fading Afternoon"
+		}
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+		}
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn"
+			"library_hero"		"en"
+			"library_logo"		"en,zh-cn"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"80.58139534883722"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1693444556"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"yeo"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"yeo"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"IndieArk"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"yeo"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+			"category_25"		"1"
+			"category_23"		"1"
+			"category_15"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1694743361"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1687000"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"122"
+			"2"		"19"
+			"3"		"4158"
+			"4"		"3810"
+			"5"		"10235"
+			"6"		"3798"
+			"7"		"3871"
+			"8"		"3964"
+			"9"		"7743"
+			"10"		"4166"
+			"11"		"6915"
+			"12"		"6378"
+			"13"		"5984"
+			"14"		"3916"
+			"15"		"4004"
+			"16"		"3993"
+			"17"		"1742"
+			"18"		"6971"
+			"19"		"1695"
+		}
+		"review_score"		"6"
+		"review_percentage"		"78"
+	}
+	"extended"
+	{
+		"developer"		"yeo"
+		"publisher"		"yeo"
+	}
+	"config"
+	{
+		"installdir"		"Fading Afternoon"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"fading afternoon.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1687001"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3376578785190631593"
+					"size"		"586927801"
+					"download"		"527325968"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12205684"
+				"timeupdated"		"1694854843"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"fading_afternoon"
+				"pattern"		"*.db"
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"fading_afternoon"
+				"pattern"		"*.ini"
+			}
+		}
+	}
+}
