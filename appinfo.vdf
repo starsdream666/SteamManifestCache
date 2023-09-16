@@ -1,0 +1,364 @@
+"appinfo"
+{
+	"appid"		"1084020"
+	"common"
+	{
+		"name"		"TheoTown"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"logo"		"efefa913c0080860913a5670103f6c169324602f"
+		"logo_small"		"efefa913c0080860913a5670103f6c169324602f_thumb"
+		"icon"		"1ec8fedcd81aef5a4ab5be84cbf2f3d00c5b197c"
+		"clienttga"		"718d5c770f5a79fb357ec75a744c3dfc6cd75e75"
+		"linuxclienticon"		"5dc7bedaf070acdec05dc9d09d69e2adaf0899cd"
+		"clienticon"		"8054ee01327d264b3de764854e55b5712cbdfae5"
+		"clienticns"		"bdfcfa0d7b2f1f5b6566a7f9d0708239479a0bb5"
+		"osextended"		"macos64,macosapplesilicon"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"74.97136311569301"
+				"height_pct"		"39.11053743252757"
+			}
+		}
+		"store_asset_mtime"		"1694256305"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Lobby Divinus"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"blueflower"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"23"
+			"3"		"28"
+			"4"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+			}
+			"vietnamese"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1559737500"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1084020"
+		"store_tags"
+		{
+			"0"		"599"
+			"1"		"4328"
+			"2"		"492"
+			"3"		"9"
+			"4"		"3964"
+			"5"		"3810"
+			"6"		"1643"
+			"7"		"597"
+			"8"		"12472"
+			"9"		"21"
+			"10"		"4004"
+			"11"		"1669"
+			"12"		"3859"
+			"13"		"3871"
+			"14"		"5851"
+			"15"		"10235"
+			"16"		"1100687"
+			"17"		"3834"
+			"18"		"4975"
+			"19"		"26921"
+		}
+		"review_score"		"8"
+		"review_percentage"		"93"
+	}
+	"extended"
+	{
+		"developer"		"Lobby Divinus"
+		"publisher"		"blueflower"
+		"homepage"		"https://theotown.com/"
+	}
+	"config"
+	{
+		"installdir"		"TheoTown"
+		"steamcontrollertemplateindex"		"6"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TheoTown.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"TheoTown32"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"32"
+				}
+			}
+			"2"
+			{
+				"executable"		"TheoTown64"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+			"3"
+			{
+				"executable"		"TheoTown"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1084021"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3730345194100360262"
+					"size"		"213834136"
+					"download"		"133912416"
+				}
+				"beta"
+				{
+					"gid"		"7091923780181782110"
+					"size"		"213851433"
+					"download"		"133932176"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"42CEFE7A60A4DC1FABDCB9C225A81D66"
+					"size"		"429B54E3C6EDE6F02686C685B4DC09F5"
+					"download"		"EFA99FA4FE174446992D4EC2DE638732"
+				}
+			}
+		}
+		"1084022"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1498830827891125877"
+					"size"		"236815175"
+					"download"		"136878816"
+				}
+				"beta"
+				{
+					"gid"		"6927051840813883870"
+					"size"		"236832472"
+					"download"		"136898784"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"DA052B09A86A35966A185F4C73B170F2"
+					"size"		"2089C01E97D2F5820476A49D49BF934A"
+					"download"		"A1668848B6C47A3B03EA9908BE5A2ED2"
+				}
+			}
+		}
+		"1084023"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"288618157092795638"
+					"size"		"108826009"
+					"download"		"107818176"
+				}
+				"beta"
+				{
+					"gid"		"7916450043173622149"
+					"size"		"108843306"
+					"download"		"107838192"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"008D8FA73746B5E44FB93AF717C2E082"
+					"size"		"708B8250007DB1724372214338CD51C0"
+					"download"		"C4A3019553F66CA0242E0CEAD38DA98C"
+				}
+			}
+		}
+		"hasdepotsindlc"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12113004"
+				"timeupdated"		"1694255275"
+			}
+			"alpha"
+			{
+				"buildid"		"12188358"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694694227"
+			}
+			"beta"
+			{
+				"buildid"		"12188358"
+				"description"		"Branch for testing new features"
+				"timeupdated"		"1694694233"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"os"		"Windows"
+				"oscompare"		"="
+				"useinstead"		"gameinstall"
+				"addpath"		""
+			}
+		}
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"../TheoTown/maps"
+				"pattern"		"*.city"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"1"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"../TheoTown/regions"
+				"pattern"		"*.city|*.json"
+				"recursive"		"1"
+			}
+		}
+	}
+}
