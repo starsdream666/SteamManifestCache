@@ -1,0 +1,199 @@
+"appinfo"
+{
+	"appid"		"2266770"
+	"common"
+	{
+		"name"		"Pathfinder: Wrath of the Righteous - The Last Sarkorians"
+		"type"		"DLC"
+		"parent"		"1184370"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"icon"		"52ee4c904821fa2ac080a827e39f9a7132c1b8bd"
+		"clienttga"		"89d04847e23b026e0c8f4351a039dfef2bc533f1"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1678208389"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Owlcat Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"META Publishing"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Owlcat Games"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Pathfinder"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"3"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_29"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1678204722"
+		"gameid"		"2266770"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"21"
+			"2"		"9"
+			"3"		"492"
+			"4"		"4345"
+			"5"		"4667"
+		}
+		"review_score"		"8"
+		"review_percentage"		"80"
+	}
+	"extended"
+	{
+		"dlcforappid"		"1184370"
+		"mustownapptopurchase"		"1184370"
+		"developer"		"Owlcat Games"
+		"publisher"		"META Publishing"
+		"homepage"		"https://wrath.owlcatgames.com/"
+		"dlcavailableonstore"		"1"
+	}
+	"depots"
+	{
+		"2266771"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6279353597277787084"
+					"size"		"1083183615"
+					"download"		"861414464"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"owlcat-next-test"
+				{
+					"gid"		"7683F689D5216B662754EDA302DB64AF"
+					"size"		"784D2300313EDB3DF71D215BEA5A7637"
+					"download"		"D15FA23DCE5DFE7A29726ACF4B1D4920"
+				}
+			}
+			"dlcappid"		"2266770"
+		}
+		"2266772"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6859445545627364350"
+					"size"		"1083276488"
+					"download"		"861480064"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"owlcat-next-test"
+				{
+					"gid"		"63BF1D80475F1523A9C43062D8208C93"
+					"size"		"6D01E627FF0C37DFAB0E2F4338464F1C"
+					"download"		"97848EE702367D1399FEF85721F1D321"
+				}
+			}
+			"dlcappid"		"2266770"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11774175"
+				"timeupdated"		"1690208581"
+			}
+			"owlcat-next-test"
+			{
+				"buildid"		"11700506"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689313220"
+			}
+		}
+	}
+}
