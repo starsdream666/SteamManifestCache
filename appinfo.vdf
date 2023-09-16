@@ -1,0 +1,311 @@
+"appinfo"
+{
+	"appid"		"1782120"
+	"common"
+	{
+		"name"		"ZERO Sievert"
+		"type"		"Game"
+		"logo"		"c5f7e8da6ed52fae99bfcc71375eca85dc0e95d7"
+		"logo_small"		"c5f7e8da6ed52fae99bfcc71375eca85dc0e95d7_thumb"
+		"icon"		"601fc060c2566858d3b9677713aae7cbf8c16962"
+		"clienttga"		"8b1b3865e6210560071b5eafc322c1e01fe722a1"
+		"clienticns"		"db7ba5847d952f16f29781ba77f776d6e5546478"
+		"clienticon"		"59f477d9dffd8e89df1edc5b9f0856442b2223e3"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"parent"		"1000"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1666828800"
+			"tested_build_id"		"9786162"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-5"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"1"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"46.038555445515414"
+				"height_pct"		"69.53731898450674"
+			}
+		}
+		"store_asset_mtime"		"1688399031"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"CABO Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Modern Wolf"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Modern Wolf"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"CABO Studio"
+			}
+			"4"
+			{
+				"type"		"franchise"
+				"name"		"ZERO Sievert"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1668527895"
+		"community_hub_visible"		"1"
+		"gameid"		"1782120"
+		"store_tags"
+		{
+			"0"		"1199779"
+			"1"		"1662"
+			"2"		"3835"
+			"3"		"353880"
+			"4"		"19"
+			"5"		"1774"
+			"6"		"493"
+			"7"		"1695"
+			"8"		"4791"
+			"9"		"21"
+			"10"		"599"
+			"11"		"4182"
+			"12"		"492"
+			"13"		"9"
+			"14"		"4166"
+			"15"		"4236"
+			"16"		"3834"
+			"17"		"3978"
+			"18"		"7332"
+			"19"		"4106"
+		}
+		"review_score"		"8"
+		"review_percentage"		"88"
+	}
+	"extended"
+	{
+		"developer"		"CABO Studio"
+		"publisher"		"Modern Wolf"
+		"homepage"		"https://modernwolf.net/game-for-cabo-studio/zero-sievert"
+	}
+	"config"
+	{
+		"installdir"		"ZERO Sievert"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ZERO Sievert.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1782121"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4813310396239205006"
+					"size"		"249640125"
+					"download"		"152976464"
+				}
+				"legacy"
+				{
+					"gid"		"793550806978600796"
+					"size"		"247327276"
+					"download"		"152466144"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"demo"
+				{
+					"gid"		"7905C3E6E34E75B6931E85FFEC1EC0AB"
+					"size"		"640E15904D2BA5C84A6B78240FBCB49C"
+					"download"		"F4F262B274BF41BF87DD745FCEF8A00B"
+				}
+				"designtest"
+				{
+					"gid"		"97C522A43BA54DB7B1C5D6A7E9B12ACA"
+					"size"		"FD1E6E29897F6C4A8FC2001FBB7D4C19"
+					"download"		"CD35E0C8528BACA4AC7E03B597CE023B"
+				}
+				"juju-test"
+				{
+					"gid"		"58FD0A0254571E2CB6A7BAE197FC1E10"
+					"size"		"1438B3D9A6A7EB3987324CF74B527F7B"
+					"download"		"26153B637D57DA610DC8CD5DD6B8E75D"
+				}
+				"mwstable"
+				{
+					"gid"		"B98DE807F925889AC6070867E1AF1F14"
+					"size"		"3F3FB24DEC7436F69224AC6BB32073A3"
+					"download"		"D7F89BD09D0219CB6E2EB264154EE030"
+				}
+				"partners"
+				{
+					"gid"		"75E832033219FAB46C16C32E1D9EA634"
+					"size"		"26E1F77A381EF582FF38DEC55BDE49AE"
+					"download"		"435042DF60DBB033B96FA193EB24067C"
+				}
+				"testdonotdownload"
+				{
+					"gid"		"2830C7B82E5DABC4A63203EEC86B9388"
+					"size"		"0901BF4F588685DE529E946A1161CD1E"
+					"download"		"9689F95722B2BC2B86DAB04F92AC4EA5"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12131835"
+				"timeupdated"		"1694703485"
+			}
+			"demo"
+			{
+				"buildid"		"11162545"
+				"pwdrequired"		"1"
+				"timeupdated"		"1683282561"
+			}
+			"designtest"
+			{
+				"buildid"		"12089103"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693574655"
+			}
+			"juju-test"
+			{
+				"buildid"		"11756286"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689932432"
+			}
+			"legacy"
+			{
+				"buildid"		"11038836"
+				"description"		"Build 0.30"
+				"timeupdated"		"1689584933"
+			}
+			"mwstable"
+			{
+				"buildid"		"9626526"
+				"pwdrequired"		"1"
+				"timeupdated"		"1664906022"
+			}
+			"partners"
+			{
+				"buildid"		"11701271"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689328556"
+			}
+			"testdonotdownload"
+			{
+				"buildid"		"12131835"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694087319"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"8000000"
+		"maxnumfiles"		"4"
+	}
+}
