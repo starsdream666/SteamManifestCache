@@ -1,0 +1,266 @@
+"appinfo"
+{
+	"appid"		"1622800"
+	"common"
+	{
+		"name"		"Super Dungeon Maker"
+		"type"		"Game"
+		"releasestate"		"released"
+		"icon"		"0d73babaa15fe43cf336753e07bec13b5ccc634f"
+		"logo"		"afba364262aa43c4a570f6b3cdfbaa38e17bf502"
+		"logo_small"		"afba364262aa43c4a570f6b3cdfbaa38e17bf502_thumb"
+		"clienticon"		"8e003d338fb60370e561b8976f15bb321db053eb"
+		"clienttga"		"2f29d28cbba94f34118d0514b3161d60e96d4442"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1684800000"
+			"tested_build_id"		"10987835"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn"
+			"library_hero"		"en"
+			"library_logo"		"en,zh-cn"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"36.71292553959479"
+				"height_pct"		"30.525129291010316"
+			}
+		}
+		"store_asset_mtime"		"1684146219"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"FIRECHICK"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"rokaplay"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"rokaplay"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_17"		"1"
+			"category_28"		"1"
+			"category_43"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1683118777"
+		"community_hub_visible"		"1"
+		"gameid"		"1622800"
+		"store_tags"
+		{
+			"0"		"4305"
+			"1"		"4486"
+			"2"		"8122"
+			"3"		"3810"
+			"4"		"3964"
+			"5"		"1720"
+			"6"		"1643"
+			"7"		"122"
+			"8"		"19"
+			"9"		"3871"
+			"10"		"97376"
+			"11"		"4791"
+			"12"		"492"
+			"13"		"4328"
+			"14"		"4182"
+			"15"		"552282"
+			"16"		"4106"
+			"17"		"7481"
+			"18"		"1628"
+			"19"		"493"
+		}
+		"review_score"		"8"
+		"review_percentage"		"89"
+	}
+	"extended"
+	{
+		"developer"		"FIRECHICK"
+		"publisher"		"rokaplay"
+		"homepage"		"https://www.rokaplay.com/"
+	}
+	"config"
+	{
+		"installdir"		"Super Dungeon Maker"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SuperDungeonMaker.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,koreana,schinese,tchinese,japanese,brazilian"
+		"1622801"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3214794131662885117"
+					"size"		"752165871"
+					"download"		"195733584"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"automatic"
+				{
+					"gid"		"C742EC6842F42AFBAE1E6EC96F126A02"
+					"size"		"1271D6628B68F659C26C5567737EE6A0"
+					"download"		"DAD8CE4BE8123956B943A28AF321AC5D"
+				}
+				"preview"
+				{
+					"gid"		"90970EB28DB229CE5F1AE498356726AC"
+					"size"		"A971BF30DFE7E6BD813E2A712F553C6A"
+					"download"		"06D8CB2C7D886D33CBCC0FFC66E52A15"
+				}
+				"test"
+				{
+					"gid"		"5F1486EFC244F33ADA31CF827BFB8F07"
+					"size"		"8B1F2BAEA036823A4CD232B40F1522A5"
+					"download"		"20C6EFD311D81FDECC8A5D5444B85293"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11548152"
+				"timeupdated"		"1687560397"
+			}
+			"automatic"
+			{
+				"buildid"		"12150861"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694291480"
+			}
+			"preview"
+			{
+				"buildid"		"11732342"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689721815"
+			}
+			"test"
+			{
+				"buildid"		"10908464"
+				"pwdrequired"		"1"
+				"timeupdated"		"1680344197"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"10000"
+	}
+}
