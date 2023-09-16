@@ -280,24 +280,10 @@
 		"installdir"		"SC Jogos"
 		"launch"
 		{
-			"0"
-			{
-				"executable"		"Barro 2021/Barro 2021.exe"
-				"type"		"none"
-				"config"
-				{
-					"oslist"		"windows"
-					"betakey"		"old_version"
-				}
-				"description_loc"
-				{
-					"english"		"Old Version"
-				}
-				"description"		"Old Version"
-			}
 			"1"
 			{
-				"executable"		"Barro Racing/Barro Racing.exe"
+				"executable"		"Launcher/SC Jogos Launcher.exe"
+				"arguments"		"appid=1307090"
 				"type"		"default"
 				"config"
 				{
@@ -310,10 +296,6 @@
 	{
 		"1307091"
 		{
-			"config"
-			{
-				"language"		""
-			}
 			"manifests"
 			{
 				"public"
@@ -336,12 +318,30 @@
 				}
 			}
 		}
+		"1307092"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4267123469624308894"
+					"size"		"145144193"
+					"download"		"46946880"
+				}
+				"pre_release"
+				{
+					"gid"		"4267123469624308894"
+					"size"		"145144193"
+					"download"		"46946880"
+				}
+			}
+		}
 		"branches"
 		{
 			"public"
 			{
-				"buildid"		"11915043"
-				"timeupdated"		"1691698572"
+				"buildid"		"12206550"
+				"timeupdated"		"1694874870"
 			}
 			"old_version"
 			{
@@ -351,8 +351,8 @@
 			}
 			"pre_release"
 			{
-				"buildid"		"11915043"
-				"timeupdated"		"1691698561"
+				"buildid"		"12206550"
+				"timeupdated"		"1694874858"
 			}
 		}
 	}
