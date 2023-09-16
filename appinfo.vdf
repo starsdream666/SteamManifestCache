@@ -1,0 +1,459 @@
+"appinfo"
+{
+	"appid"		"1331550"
+	"common"
+	{
+		"name"		"Big Ambitions"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64,macosapplesilicon"
+		"logo"		"bee631995a0ffb11c1111cf3176508679fce4140"
+		"logo_small"		"bee631995a0ffb11c1111cf3176508679fce4140_thumb"
+		"icon"		"3f1e9ad783368a79dca8bf77fa405c627c10cf9f"
+		"clienticon"		"fa84f33ca3546147c61246e23678869532f76268"
+		"clienttga"		"73ff47c557bb5b8fba69e85908a537ade8d93686"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1680134400"
+			"tested_build_id"		"10771170"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"54.53488372093021"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1678385098"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Hovgaard Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Hovgaard Games"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"28"
+			"2"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_30"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1678471239"
+		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1331550"
+		"store_tags"
+		{
+			"0"		"12472"
+			"1"		"599"
+			"2"		"4845"
+			"3"		"4695"
+			"4"		"10235"
+			"5"		"3810"
+			"6"		"16689"
+			"7"		"4182"
+			"8"		"9204"
+			"9"		"6276"
+			"10"		"4191"
+			"11"		"8945"
+			"12"		"1697"
+			"13"		"4791"
+			"14"		"122"
+			"15"		"1695"
+			"16"		"5673"
+			"17"		"4252"
+			"18"		"4474"
+			"19"		"5851"
+		}
+		"review_score"		"8"
+		"review_percentage"		"93"
+	}
+	"extended"
+	{
+		"developer"		"Hovgaard Games"
+		"publisher"		"Hovgaard Games"
+		"homepage"		"https://www.bigambitionsgame.com"
+	}
+	"config"
+	{
+		"installdir"		"Big Ambitions"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Big Ambitions.exe"
+				"arguments"		"-useSteam"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Big Ambitions.app"
+				"arguments"		"-useSteam"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"1331551"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8203164085541095685"
+					"size"		"9419603084"
+					"download"		"2780339088"
+				}
+				"ea-01"
+				{
+					"gid"		"4129820706453058596"
+					"size"		"8062732063"
+					"download"		"2376132848"
+				}
+				"ea-02"
+				{
+					"gid"		"5273303649786047501"
+					"size"		"8406471777"
+					"download"		"2498815456"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal-master"
+				{
+					"gid"		"A97CA2DF86F0BD1771FCD41E27951B6D"
+					"size"		"3094D80B8FF1ECCE7B9ACC22AE08C6DE"
+					"download"		"CDEC0E2557E668B454F874E6F0E3B643"
+				}
+				"unstable"
+				{
+					"gid"		"55A81FA5790840341496805E5A894B79"
+					"size"		"5BCC9695D9C2CDD751E09CCD5BEBC818"
+					"download"		"716F819C44E457393E5943D152C74C67"
+				}
+			}
+		}
+		"1331552"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2949334147232223599"
+					"size"		"8989575158"
+					"download"		"2551282544"
+				}
+				"ea-01"
+				{
+					"gid"		"2041938828473515245"
+					"size"		"7644130795"
+					"download"		"2158287888"
+				}
+				"ea-02"
+				{
+					"gid"		"8577552826167300402"
+					"size"		"7940309115"
+					"download"		"2245127232"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal-master"
+				{
+					"gid"		"5FB0BECED8A9BCAB88624B79DB21DED0"
+					"size"		"C4E6D61F3FCA402D4EC163260F47B0CA"
+					"download"		"3FF3F741EAAEDFBEAB24B07325035EC4"
+				}
+				"unstable"
+				{
+					"gid"		"2FD0D6605215A5EBE15699B435D330BA"
+					"size"		"CB51CF1619D83FA340D25741E17C7C11"
+					"download"		"603C0F4347BAD65DFDC256D2AB5D4C53"
+				}
+			}
+		}
+		"2254190"
+		{
+			"dlcappid"		"2254190"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"131293730837976135"
+					"size"		"0"
+					"download"		"0"
+				}
+				"ea-01"
+				{
+					"gid"		"131293730837976135"
+					"size"		"0"
+					"download"		"0"
+				}
+				"ea-02"
+				{
+					"gid"		"131293730837976135"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal-master"
+				{
+					"gid"		"67C46A8B0E83740D584277A24F855CA4"
+					"size"		"CC87E4C77758471E70785545072D87A9"
+					"download"		"CC87E4C77758471E70785545072D87A9"
+				}
+				"unstable"
+				{
+					"gid"		"4FA325CC5A7FC569808269C7B50F53DD"
+					"size"		"9D6939F37C3FC8BD703BB8E2D9FAA22A"
+					"download"		"9D6939F37C3FC8BD703BB8E2D9FAA22A"
+				}
+			}
+		}
+		"2254191"
+		{
+			"dlcappid"		"2254191"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4858057309773360011"
+					"size"		"0"
+					"download"		"0"
+				}
+				"ea-01"
+				{
+					"gid"		"4858057309773360011"
+					"size"		"0"
+					"download"		"0"
+				}
+				"ea-02"
+				{
+					"gid"		"4858057309773360011"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal-master"
+				{
+					"gid"		"8A32D75B77F8EA8F7EBFD1F1557E4C91"
+					"size"		"CC87E4C77758471E70785545072D87A9"
+					"download"		"CC87E4C77758471E70785545072D87A9"
+				}
+				"unstable"
+				{
+					"gid"		"F51339FD537C966D4C69E43055EE7C7A"
+					"size"		"9D6939F37C3FC8BD703BB8E2D9FAA22A"
+					"download"		"9D6939F37C3FC8BD703BB8E2D9FAA22A"
+				}
+			}
+		}
+		"workshopdepot"		"1331550"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12120450"
+				"timeupdated"		"1694007349"
+			}
+			"ea-01"
+			{
+				"buildid"		"11038881"
+				"description"		"EA 0.1 (Old version)"
+				"timeupdated"		"1685432860"
+			}
+			"ea-02"
+			{
+				"buildid"		"11616475"
+				"description"		"EA 0.2 (Old version)"
+				"timeupdated"		"1693396988"
+			}
+			"internal-master"
+			{
+				"buildid"		"12120450"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693988402"
+			}
+			"unstable"
+			{
+				"buildid"		"12064622"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693363046"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"5073741824"
+		"maxnumfiles"		"2000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Hovgaard Games/Big Ambitions/SaveGames"
+				"pattern"		"*"
+				"recursive"		"1"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxHome"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Hovgaard Games/Big Ambitions/SaveGames"
+						"replace"		".config/unity3d/Hovgaard Games/Big Ambitions/SaveGames"
+					}
+				}
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Hovgaard Games/Big Ambitions/SaveGames"
+						"replace"		"com.Hovgaard-Games.Big-Ambitions/SaveGames"
+					}
+				}
+			}
+		}
+	}
+}
