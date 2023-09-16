@@ -132,30 +132,9 @@
 		{
 			"0"
 			{
-				"executable"		"Andarilho/Andarilho.exe"
+				"executable"		"Launcher/SC Jogos Launcher.exe"
+				"arguments"		"appid=450860"
 				"type"		"default"
-				"config"
-				{
-					"oslist"		"windows"
-				}
-			}
-			"1"
-			{
-				"executable"		"Andarilho/Andarilho.exe"
-				"arguments"		"-force-d3d9"
-				"description"		"Andarilho (DX9)"
-				"type"		"none"
-				"config"
-				{
-					"oslist"		"windows"
-				}
-			}
-			"2"
-			{
-				"executable"		"Andarilho/Andarilho.exe"
-				"arguments"		"-force-glse"
-				"description"		"Andarilho (OpenGL SE)"
-				"type"		"none"
 				"config"
 				{
 					"oslist"		"windows"
@@ -188,17 +167,35 @@
 				}
 			}
 		}
+		"450862"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3493202488665947678"
+					"size"		"145144193"
+					"download"		"46946880"
+				}
+				"pre_release"
+				{
+					"gid"		"3493202488665947678"
+					"size"		"145144193"
+					"download"		"46946880"
+				}
+			}
+		}
 		"branches"
 		{
 			"public"
 			{
-				"buildid"		"11333535"
-				"timeupdated"		"1685196375"
+				"buildid"		"12206511"
+				"timeupdated"		"1694874029"
 			}
 			"pre_release"
 			{
-				"buildid"		"11333535"
-				"timeupdated"		"1685195916"
+				"buildid"		"12206511"
+				"timeupdated"		"1694874019"
 			}
 		}
 	}
