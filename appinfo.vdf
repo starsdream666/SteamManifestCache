@@ -1,0 +1,410 @@
+"appinfo"
+{
+	"appid"		"1657630"
+	"common"
+	{
+		"name"		"Slime Rancher 2"
+		"type"		"Game"
+		"logo"		"eb684f2e49109a35fd7b1be9c3c1ac2da47c4c52"
+		"logo_small"		"eb684f2e49109a35fd7b1be9c3c1ac2da47c4c52_thumb"
+		"icon"		"8028810e9ad73e00c2385a986382c57a6b0e034e"
+		"clienticon"		"a224549477241ae27531ace8872f84ef30d79085"
+		"clienttga"		"6ee69c892d5d1e6807957dd5bf3939a6d0e4f75c"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1664323200"
+			"tested_build_id"		"9390172"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"47.256015652734135"
+				"height_pct"		"76.38888888888891"
+			}
+		}
+		"store_asset_mtime"		"1689754282"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Monomi Park"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Monomi Park"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Slime Rancher"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"23"
+			"4"		"28"
+			"5"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1663865990"
+		"community_hub_visible"		"1"
+		"gameid"		"1657630"
+		"store_tags"
+		{
+			"0"		"4726"
+			"1"		"4305"
+			"2"		"1654"
+			"3"		"1695"
+			"4"		"4182"
+			"5"		"3839"
+			"6"		"21"
+			"7"		"916648"
+			"8"		"5350"
+			"9"		"599"
+			"10"		"597"
+			"11"		"7208"
+			"12"		"4191"
+			"13"		"1684"
+			"14"		"1643"
+			"15"		"4106"
+			"16"		"3859"
+			"17"		"1663"
+			"18"		"19"
+			"19"		"4166"
+		}
+		"review_score"		"9"
+		"review_percentage"		"95"
+	}
+	"extended"
+	{
+		"developer"		"Monomi Park"
+		"publisher"		"Monomi Park"
+		"homepage"		"http://slimerancher.com/"
+	}
+	"config"
+	{
+		"installdir"		"Slime Rancher 2"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SlimeRancher2.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1657631"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7396249326112115908"
+					"size"		"1668124361"
+					"download"		"1179005232"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"0.4.0dev"
+				{
+					"gid"		"47A1B0AC906BC4690543DFA3A17028AD"
+					"size"		"79BC568DC9494167D386BA4F71E500C2"
+					"download"		"67D211957CA8545BDE0BECC4233360B5"
+				}
+				"build-smoke"
+				{
+					"gid"		"C9A46F0478F35B958EA2D59B9B3527C2"
+					"size"		"0F6CE1EDB3494650A1A1800DEC5115FD"
+					"download"		"7E19F40DEFC7D35DA1D83C034831D6E0"
+				}
+				"capture-current"
+				{
+					"gid"		"63EE05FFE956739502D46EE9B8845222"
+					"size"		"A50CE27C571A5F3F26A4D3CA57DB4CC9"
+					"download"		"9F5E64E4F1ED22AC20C05732E25CA8D6"
+				}
+				"dev-gadgets-anywhere"
+				{
+					"gid"		"3E233952460214CDF3534269F4DC38D3"
+					"size"		"9D507BAFD843D625DD0A0AA78AF57C2E"
+					"download"		"5837A5BA0918F4E62B2DE00F0486E873"
+				}
+				"dev-platform"
+				{
+					"gid"		"5A1B5A6F24F1A21E42D6D3519589EA9B"
+					"size"		"15AB6F7383150F5D70CCB8D74C5831C0"
+					"download"		"1BD06100A9F746A047238DDF14B513C2"
+				}
+				"ext-localization"
+				{
+					"gid"		"727E50CC70E3D15D2A1345B3EB434E7D"
+					"size"		"C2C1611291A4E941DFFFEAE5E6065F55"
+					"download"		"D30E8A909211AD434D62C71E63BACF0B"
+				}
+				"ext-qa"
+				{
+					"gid"		"8BB88E9C7009325EB47AB73FCFD93FDB"
+					"size"		"E8E6943AFBFD00904921EF55E6FBD62B"
+					"download"		"341648F18C0068DC6F6B0062582595B3"
+				}
+				"playtest-current"
+				{
+					"gid"		"134189D227DF9C89AC53A78ABDF759D9"
+					"size"		"57FF92690115396F0E84A4E5D9B88B1F"
+					"download"		"A1933A5F1A900CC19B91F2AB04535BE5"
+				}
+				"playtest-prior"
+				{
+					"gid"		"C0D9B1231C2CA4D09E210CA894A00E18"
+					"size"		"B2F5D1C63B335FED2F98F656EC733356"
+					"download"		"3FFCAE62A3CA9B152246EDEF4A8CAD0C"
+				}
+				"qa-bvt"
+				{
+					"gid"		"3456C6B8BFB00456F35FD65AC1899344"
+					"size"		"48675BC3DC82552C7D00517E10B8595B"
+					"download"		"52269C9CC7D754468F7819D64D828303"
+				}
+				"qa-current"
+				{
+					"gid"		"C7D47F6D4382230169204BA09B369B06"
+					"size"		"101654C4579C6B17B0FCF716E72E7C22"
+					"download"		"A7564B374CE88C5333A5EC0DF441598E"
+				}
+				"qa-perf"
+				{
+					"gid"		"E94F03FD534EB4CC58672C78F8F69632"
+					"size"		"630F0862AE93639FF2012FC65FC3C83A"
+					"download"		"C2710617A500FC3B2F0868AAD2F73F94"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10904066"
+				"timeupdated"		"1680714009"
+			}
+			"0.4.0dev"
+			{
+				"buildid"		"12124517"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694018835"
+			}
+			"build-smoke"
+			{
+				"buildid"		"11632505"
+				"pwdrequired"		"1"
+				"timeupdated"		"1688576493"
+			}
+			"capture-current"
+			{
+				"buildid"		"11601104"
+				"pwdrequired"		"1"
+				"timeupdated"		"1688152067"
+			}
+			"dev-gadgets-anywhere"
+			{
+				"buildid"		"11634262"
+				"pwdrequired"		"1"
+				"timeupdated"		"1688592323"
+			}
+			"dev-platform"
+			{
+				"buildid"		"8455470"
+				"pwdrequired"		"1"
+				"timeupdated"		"1648521148"
+			}
+			"ext-localization"
+			{
+				"buildid"		"11968847"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692634508"
+			}
+			"ext-qa"
+			{
+				"buildid"		"10004558"
+				"pwdrequired"		"1"
+				"timeupdated"		"1669935138"
+			}
+			"playtest-current"
+			{
+				"buildid"		"12146012"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694209323"
+			}
+			"playtest-prior"
+			{
+				"buildid"		"12146122"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694210280"
+			}
+			"qa-bvt"
+			{
+				"buildid"		"12073221"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693437436"
+			}
+			"qa-current"
+			{
+				"buildid"		"12063734"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693353567"
+			}
+			"qa-perf"
+			{
+				"buildid"		"10004558"
+				"pwdrequired"		"1"
+				"timeupdated"		"1669757292"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"MonomiPark/SlimeRancher2/Steam/{64BitSteamID}"
+				"pattern"		"*.sav"
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"MonomiPark/SlimeRancher2/Steam/{64BitSteamID}"
+				"pattern"		"slimerancher.prf"
+			}
+		}
+	}
+}
