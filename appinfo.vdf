@@ -1,0 +1,435 @@
+"appinfo"
+{
+	"appid"		"1729900"
+	"common"
+	{
+		"name"		"Rhythm Brawl"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"clienticon"		"421727ae987b82ad9ace176e068ee8487a83246d"
+		"clienttga"		"e7ea0ae60e1704f6fc6bf63e68ed8468403d8160"
+		"icon"		"bb7011025272b594d1b144c4fb06ebbc73a7e066"
+		"clienticns"		"bd20b71da24c537cdb0652f588dfdf17a32cb35b"
+		"linuxclienticon"		"61b4fa62904d412ae4141ee79aa0ddc53ac518b0"
+		"logo"		"c9a17d30850446dbf3b8fbf95ffe75efae67f11b"
+		"logo_small"		"c9a17d30850446dbf3b8fbf95ffe75efae67f11b_thumb"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1658275200"
+			"tested_build_id"		"8116146"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"74.88372093023258"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1676888087"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Mahad Dareshani"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Eren Ozdemir"
+			}
+			"2"
+			{
+				"type"		"developer"
+				"name"		"Spad3s"
+			}
+			"3"
+			{
+				"type"		"developer"
+				"name"		"Meister D Mysterium Mysterium"
+			}
+			"4"
+			{
+				"type"		"publisher"
+				"name"		"dArtist Games "
+			}
+			"5"
+			{
+				"type"		"franchise"
+				"name"		"Rhythm Brawl"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_37"		"1"
+			"category_24"		"1"
+			"category_44"		"1"
+			"category_22"		"1"
+			"category_15"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1681203480"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1729900"
+		"store_tags"
+		{
+			"0"		"1752"
+			"1"		"4736"
+			"2"		"1773"
+			"3"		"4004"
+			"4"		"1621"
+			"5"		"1669"
+			"6"		"1775"
+			"7"		"7368"
+			"8"		"6730"
+			"9"		"4777"
+			"10"		"3871"
+			"11"		"4085"
+			"12"		"19"
+			"13"		"6815"
+			"14"		"3993"
+			"15"		"3859"
+			"16"		"1654"
+			"17"		"6426"
+			"18"		"7250"
+			"19"		"597"
+		}
+		"review_score"		"6"
+		"review_percentage"		"71"
+	}
+	"extended"
+	{
+		"developer"		"Mahad Dareshani"
+		"publisher"		"dArtist Games "
+		"listofdlc"		"1734690"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"RhythmBrawl"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"RB_W\\RhythmBrawl.exe"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"RB_M\\RhythmBrawl\\RhythmBrawl!.app\\Contents\\MacOS\\RhythmBrawl!"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"RB_L\\RhythmBrawl.x86_64"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"3"
+			{
+				"executable"		"SteamTesting\\Win\\SteamTesting.exe"
+				"type"		"option2"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"devtest"
+				}
+				"description_loc"
+				{
+					"english"		"testing stuff"
+				}
+				"description"		"testing stuff"
+			}
+			"4"
+			{
+				"executable"		"SteamTesting/Lin/SteamTesting.x86_64"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"linux"
+					"betakey"		"devtest"
+				}
+				"description_loc"
+				{
+					"english"		"linux"
+				}
+				"description"		"linux"
+			}
+			"5"
+			{
+				"executable"		"RB_Mods/Godot.64"
+				"type"		"option2"
+				"config"
+				{
+					"oslist"		"linux"
+					"ownsdlc"		"1734690"
+				}
+				"description_loc"
+				{
+					"english"		"Open godot for modding"
+				}
+				"description"		"Open godot for modding"
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamcontrollertouchtemplateindex"		"8"
+		"steamconfigurator3rdpartynative"		"7"
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"1"
+		"1729901"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1987244292967441325"
+					"size"		"155111717"
+					"download"		"116160400"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtest"
+				{
+					"gid"		"A59A310C04B730FE7D6D2F1C6BE65BA8"
+					"size"		"4AA0C8E3CDBBD5B4B0FD3914EBFE1A70"
+					"download"		"6F60B1CD437091EF460F563E9B3F043A"
+				}
+				"testers"
+				{
+					"gid"		"565AC1B7D7B139339D5221FF4879B53A"
+					"size"		"66999A815BC217E2E419F5AA97199A3D"
+					"download"		"90DD05E3BE89AE8FFCAFC42BC3FD1C93"
+				}
+			}
+		}
+		"1729902"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8891233096040457267"
+					"size"		"350557816"
+					"download"		"267438560"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtest"
+				{
+					"gid"		"5405C3F35C296420BB1CDBC3E93D06D6"
+					"size"		"E28FB2FC9C5654103D60068618BA0C1C"
+					"download"		"1D41CF46EA876CA491D6251F1DA09E9F"
+				}
+				"testers"
+				{
+					"gid"		"E068D9CDDC4FF38A7F08E94B161B7C8F"
+					"size"		"381DD18FDB1B0317BC6587B0469E2B55"
+					"download"		"D74A4B61BAA2D6A6ACC5DF1D1DBF30D6"
+				}
+			}
+		}
+		"1729903"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4617918486759739927"
+					"size"		"164757091"
+					"download"		"118564256"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtest"
+				{
+					"gid"		"16CADC565C968CA33A38116323151016"
+					"size"		"4AA0C8E3CDBBD5B4B0FD3914EBFE1A70"
+					"download"		"6F60B1CD437091EF460F563E9B3F043A"
+				}
+				"testers"
+				{
+					"gid"		"DBDE0E947AB7D0667930D9BF4CEC7FAE"
+					"size"		"A047CD409AC6314EB9B5C7F3680D9A47"
+					"download"		"4A4A3CA7482047E205CD65B1D104989D"
+				}
+			}
+		}
+		"1729904"
+		{
+			"dlcappid"		"1734690"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7763344043213023136"
+					"size"		"4432640"
+					"download"		"4280624"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testers"
+				{
+					"gid"		"142C199AD75A9B863466B0C80BC5A6F1"
+					"size"		"848A941D54C2A6029F7E2DA32A6114F2"
+					"download"		"74A9EB5EAA6747AA3CDFA123ED5AC34C"
+				}
+			}
+		}
+		"1734690"
+		{
+			"dlcappid"		"1734690"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3661635892885446811"
+					"size"		"679215225"
+					"download"		"618758336"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testers"
+				{
+					"gid"		"95907E23212E096D0CCB35444B068280"
+					"size"		"6C5140518262F6E63A3E11D0A0DA6F49"
+					"download"		"2CF38FB2DC3017C5B890F4E8B80AEA0D"
+				}
+			}
+		}
+		"workshopdepot"		"1729900"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10989831"
+				"timeupdated"		"1681340888"
+			}
+			"devtest"
+			{
+				"buildid"		"9400156"
+				"pwdrequired"		"1"
+				"timeupdated"		"1661596988"
+			}
+			"testers"
+			{
+				"buildid"		"10957872"
+				"pwdrequired"		"1"
+				"timeupdated"		"1680900099"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"1000"
+	}
+}
