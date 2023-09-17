@@ -94,15 +94,15 @@
 		"gameid"		"1876890"
 		"store_tags"
 		{
-			"0"		"122"
-			"1"		"6915"
+			"0"		"6915"
+			"1"		"122"
 			"2"		"3964"
 			"3"		"1677"
 			"4"		"9"
 			"5"		"21"
 			"6"		"1742"
-			"7"		"4182"
-			"8"		"1695"
+			"7"		"1695"
+			"8"		"4182"
 			"9"		"4975"
 			"10"		"5984"
 			"11"		"6691"
@@ -116,7 +116,7 @@
 			"19"		"4231"
 		}
 		"review_score"		"8"
-		"review_percentage"		"80"
+		"review_percentage"		"83"
 	}
 	"extended"
 	{
@@ -133,11 +133,22 @@
 				"executable"		"JH.exe"
 			}
 		}
+		"steamcontrollertemplateindex"		"4"
+		"steamcontrollertouchtemplateindex"		"8"
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"8"
 	}
 	"depots"
 	{
-		"hasdepotsindlc"		"0"
-		"baselanguages"		"english,schinese,tchinese"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
 		"228989"
 		{
 			"config"
@@ -156,6 +167,8 @@
 			"depotfromapp"		"228980"
 			"sharedinstall"		"1"
 		}
+		"hasdepotsindlc"		"0"
+		"baselanguages"		"english,schinese,tchinese"
 		"1876891"
 		{
 			"config"
@@ -167,24 +180,24 @@
 			{
 				"public"
 				{
-					"gid"		"8773260786852500964"
-					"size"		"3010973252"
-					"download"		"2688105344"
+					"gid"		"5955302710129316615"
+					"size"		"2999199102"
+					"download"		"2684818240"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"forqa"
 				{
-					"gid"		"011DB4203E55FED61A1C991FA1423AAE"
-					"size"		"3CD2FCC78DBB5CB4D4A2394CDFC57C54"
-					"download"		"455A2F1B3A9F95F24F48783B4A80CAC8"
+					"gid"		"50450B8A44A6D52F62AFEF4AA36A73FB"
+					"size"		"B2D39AA1A31A0B12B00EDCBF138E50C7"
+					"download"		"57F5A6CB4F858CBD3E39980E72A4FA85"
 				}
 				"lqatest"
 				{
-					"gid"		"6552BB2E6A27AB86ACCEF833655DA8BE"
-					"size"		"4CE3AF9DE23BC91EF18D85386768D946"
-					"download"		"51E48DBEA6CD61625A483F006B3BAD09"
+					"gid"		"6D8C5800BF9255753176457A54B5A426"
+					"size"		"69D9FDF161C5FA0CD980C208009A0173"
+					"download"		"BB2513B2B6483441507E6231E0E3ABB7"
 				}
 				"performancetest"
 				{
@@ -216,20 +229,20 @@
 		{
 			"public"
 			{
-				"buildid"		"12198440"
-				"timeupdated"		"1694783421"
+				"buildid"		"12209449"
+				"timeupdated"		"1694948909"
 			}
 			"forqa"
 			{
-				"buildid"		"12198440"
+				"buildid"		"12209449"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694777975"
+				"timeupdated"		"1694946901"
 			}
 			"lqatest"
 			{
-				"buildid"		"12166548"
+				"buildid"		"12209449"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694511075"
+				"timeupdated"		"1694946909"
 			}
 			"performancetest"
 			{
