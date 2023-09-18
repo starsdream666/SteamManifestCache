@@ -274,9 +274,9 @@
 			{
 				"public"
 				{
-					"gid"		"1068401925787708583"
-					"size"		"29865797105"
-					"download"		"14199986272"
+					"gid"		"8624767202518981564"
+					"size"		"30011266843"
+					"download"		"14236241072"
 				}
 			}
 			"encryptedmanifests"
@@ -307,9 +307,9 @@
 				}
 				"qa_testing"
 				{
-					"gid"		"B16CE9C33F60D174BD87B46DBB50562A"
-					"size"		"27CED933107C8A7CF2D655008C0ADC8F"
-					"download"		"5A8F90A219C1BF4E86CEB5D6225C46BE"
+					"gid"		"E05627673CCA794B7CA059C54637185C"
+					"size"		"9676193BFAA602E4803CC7BD469555C9"
+					"download"		"90AA33DF05C9EE572171053D0A202013"
 				}
 			}
 		}
@@ -344,8 +344,8 @@
 		{
 			"public"
 			{
-				"buildid"		"11500614"
-				"timeupdated"		"1687338404"
+				"buildid"		"12086008"
+				"timeupdated"		"1695027628"
 			}
 			"age_ratings"
 			{
@@ -379,9 +379,9 @@
 			}
 			"qa_testing"
 			{
-				"buildid"		"12086008"
+				"buildid"		"12206337"
 				"pwdrequired"		"1"
-				"timeupdated"		"1693551278"
+				"timeupdated"		"1694869922"
 			}
 			"testbeta5"
 			{
@@ -407,7 +407,19 @@
 			{
 				"root"		"WinAppDataLocal"
 				"path"		"CPPFPS/Saved/SaveGames"
-				"pattern"		"*"
+				"pattern"		"*0.sav"
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"CPPFPS/Saved/SaveGames"
+				"pattern"		"*0_data.sav"
+			}
+			"2"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"CPPFPS/Saved/SaveGames"
+				"pattern"		"*Unlocks.sav"
 			}
 		}
 		"rootoverrides"
