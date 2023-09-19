@@ -1,0 +1,324 @@
+"appinfo"
+{
+	"appid"		"2080690"
+	"common"
+	{
+		"name"		"Sunkenland"
+		"type"		"Game"
+		"icon"		"95b7e6a119fc7f3bce8b72ca7fae345b65c9da3f"
+		"name_localized"
+		{
+			"schinese"		"沉没之地"
+		}
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"562e329e8af6965ae3da0eb4df0688b5006ed3ef"
+		"clienttga"		"0f90005ee13e42da90c5bb392397b06a4f1314ac"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1693526400"
+			"tested_build_id"		"12038838"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_GamepadNotEnabledByDefault"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"5"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"6"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1693511947"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Vector3 Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Vector3 Studio"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_38"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1693011740"
+		"community_hub_visible"		"1"
+		"gameid"		"2080690"
+		"store_tags"
+		{
+			"0"		"1100689"
+			"1"		"9157"
+			"2"		"1662"
+			"3"		"1685"
+			"4"		"7332"
+			"5"		"1702"
+			"6"		"21"
+			"7"		"3834"
+			"8"		"1695"
+			"9"		"1663"
+			"10"		"3810"
+			"11"		"4175"
+			"12"		"3835"
+			"13"		"6730"
+			"14"		"1774"
+			"15"		"19"
+			"16"		"4202"
+			"17"		"4191"
+			"18"		"3859"
+			"19"		"1659"
+		}
+		"review_score"		"6"
+		"review_percentage"		"78"
+	}
+	"extended"
+	{
+		"developer"		"Vector3 Studio"
+		"publisher"		"Vector3 Studio"
+		"homepage"		"https://www.sunkenlandgame.com/"
+	}
+	"config"
+	{
+		"installdir"		"Sunkenland"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Sunkenland.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2080691"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2667258660151110446"
+					"size"		"5351431210"
+					"download"		"2612073888"
+				}
+				"olderversion"
+				{
+					"gid"		"1533719128822010757"
+					"size"		"5288710160"
+					"download"		"2584076800"
+				}
+				"olderversion0104"
+				{
+					"gid"		"1533719128822010757"
+					"size"		"5288710160"
+					"download"		"2584076800"
+				}
+				"publictest"
+				{
+					"gid"		"5508188563373849042"
+					"size"		"5351290323"
+					"download"		"2611750736"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internaltesting"
+				{
+					"gid"		"2E0BBFA699F97D2C7AA9CFE79D373314"
+					"size"		"B74314143A1F5364CA138AF31B4D6294"
+					"download"		"59BF3FE66C65CF34D1C6AAA628A0F692"
+				}
+				"internaltesting-releasebuild"
+				{
+					"gid"		"324D00E86B842433D8B279B80C73173E"
+					"size"		"D99910392F1DAE164DFF7B87E6DF2A00"
+					"download"		"08008836C2BC5CB35618AD165644C023"
+				}
+				"streaming"
+				{
+					"gid"		"CF61BAE2686979DEE3112F633E5A14BE"
+					"size"		"3B35B65B5ECD7A27FC8779B2BDEC5A4C"
+					"download"		"299B38DCE90A265980F7834B02950E2C"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12179539"
+				"timeupdated"		"1694618160"
+			}
+			"internaltesting"
+			{
+				"buildid"		"12212080"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695000451"
+			}
+			"internaltesting-releasebuild"
+			{
+				"buildid"		"12150702"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694288477"
+			}
+			"olderversion"
+			{
+				"buildid"		"12038838"
+				"description"		"older version of the game"
+				"timeupdated"		"1693191237"
+			}
+			"olderversion0104"
+			{
+				"buildid"		"12038838"
+				"description"		"Game Version v0.1.04"
+				"timeupdated"		"1693458414"
+			}
+			"publictest"
+			{
+				"buildid"		"12195196"
+				"description"		"for public beta test only"
+				"timeupdated"		"1694752494"
+			}
+			"streaming"
+			{
+				"buildid"		"12191276"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694714940"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"1000"
+		"hidecloudui"		"1"
+		"ignoreexternalfiles"		"1"
+		"sync_while_suspended"		"1"
+	}
+}
