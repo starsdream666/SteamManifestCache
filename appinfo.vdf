@@ -37,20 +37,20 @@
 		}
 		"steam_deck_compatibility"
 		{
-			"category"		"2"
-			"test_timestamp"		"1689811200"
-			"tested_build_id"		"11534035"
+			"category"		"3"
+			"test_timestamp"		"1694822400"
+			"tested_build_id"		"12088818"
 			"tests"
 			{
 				"0"
 				{
-					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 				}
 				"1"
 				{
-					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
 				}
 				"2"
 				{
@@ -74,11 +74,11 @@
 				"requires_manual_keyboard_invoke"		"0"
 				"requires_non_controller_launcher_nav"		"0"
 				"primary_player_is_controller_slot_0"		"1"
-				"non_deck_display_glyphs"		"1"
+				"non_deck_display_glyphs"		"0"
 				"small_text"		"0"
 				"requires_internet_for_setup"		"0"
 				"requires_internet_for_singleplayer"		"0"
-				"recommended_runtime"		"proton-8.0-3"
+				"recommended_runtime"		"proton-stable"
 				"requires_h264"		"0"
 				"gamescope_frame_limiter_not_supported"		"0"
 			}
@@ -239,9 +239,9 @@
 			{
 				"public"
 				{
-					"gid"		"1508387426012322066"
+					"gid"		"5781006751008751157"
 					"size"		"81551880"
-					"download"		"35578736"
+					"download"		"35579248"
 				}
 			}
 			"encryptedmanifests"
@@ -379,9 +379,9 @@
 			{
 				"public"
 				{
-					"gid"		"8317184083420395870"
-					"size"		"9218491501"
-					"download"		"7631647376"
+					"gid"		"4018544050224359350"
+					"size"		"9218844749"
+					"download"		"7631876960"
 				}
 			}
 			"encryptedmanifests"
@@ -519,9 +519,9 @@
 			{
 				"public"
 				{
-					"gid"		"3672686798558941338"
+					"gid"		"2136135673857516216"
 					"size"		"283951104"
-					"download"		"50921024"
+					"download"		"50919296"
 				}
 			}
 			"encryptedmanifests"
@@ -801,8 +801,8 @@
 			{
 				"public"
 				{
-					"gid"		"3611887701651873317"
-					"size"		"14523801"
+					"gid"		"6989588206539488254"
+					"size"		"14523791"
 					"download"		"14727968"
 				}
 			}
@@ -942,9 +942,9 @@
 			{
 				"public"
 				{
-					"gid"		"4368798728632837480"
-					"size"		"419095"
-					"download"		"408064"
+					"gid"		"730194198374292834"
+					"size"		"419096"
+					"download"		"408080"
 				}
 			}
 			"encryptedmanifests"
@@ -1083,8 +1083,8 @@
 			{
 				"public"
 				{
-					"gid"		"5423840962359700612"
-					"size"		"440901"
+					"gid"		"234991799907813655"
+					"size"		"440902"
 					"download"		"429216"
 				}
 			}
@@ -1224,9 +1224,9 @@
 			{
 				"public"
 				{
-					"gid"		"3517713068351196244"
-					"size"		"413257"
-					"download"		"402048"
+					"gid"		"4253941708520985634"
+					"size"		"413255"
+					"download"		"402064"
 				}
 			}
 			"encryptedmanifests"
@@ -1365,8 +1365,8 @@
 			{
 				"public"
 				{
-					"gid"		"8617367698218498531"
-					"size"		"2904628"
+					"gid"		"3554669850943505515"
+					"size"		"2904626"
 					"download"		"2945536"
 				}
 			}
@@ -1623,9 +1623,9 @@
 			{
 				"public"
 				{
-					"gid"		"5308159108274536095"
-					"size"		"17225372381"
-					"download"		"14518079824"
+					"gid"		"2143890362397583468"
+					"size"		"17228810873"
+					"download"		"14519583104"
 				}
 			}
 			"encryptedmanifests"
@@ -1722,8 +1722,8 @@
 			{
 				"public"
 				{
-					"gid"		"982235707836103834"
-					"size"		"17622380"
+					"gid"		"2845082963836329727"
+					"size"		"17622381"
 					"download"		"17866160"
 				}
 			}
@@ -1920,9 +1920,9 @@
 			{
 				"public"
 				{
-					"gid"		"7047241998467698301"
-					"size"		"215996"
-					"download"		"219568"
+					"gid"		"4750921252317791344"
+					"size"		"215997"
+					"download"		"219584"
 				}
 			}
 			"encryptedmanifests"
@@ -2019,9 +2019,9 @@
 			{
 				"public"
 				{
-					"gid"		"3081547714157994289"
-					"size"		"215538"
-					"download"		"219104"
+					"gid"		"1526136942727488736"
+					"size"		"215541"
+					"download"		"219136"
 				}
 			}
 			"encryptedmanifests"
@@ -2215,6 +2215,12 @@
 			"dlcappid"		"2313104"
 			"manifests"
 			{
+				"public"
+				{
+					"gid"		"6095463527286787136"
+					"size"		"364104617"
+					"download"		"368910016"
+				}
 			}
 			"encryptedmanifests"
 			{
@@ -2261,9 +2267,9 @@
 			{
 				"public"
 				{
-					"gid"		"3296901964921731501"
+					"gid"		"8579209933336504473"
 					"size"		"81551880"
-					"download"		"34840704"
+					"download"		"34841184"
 				}
 			}
 			"encryptedmanifests"
@@ -2360,9 +2366,9 @@
 			{
 				"public"
 				{
-					"gid"		"9432596020950575"
-					"size"		"0"
-					"download"		"0"
+					"gid"		"4995316013800577754"
+					"size"		"7949213"
+					"download"		"8058400"
 				}
 			}
 			"encryptedmanifests"
@@ -2458,9 +2464,9 @@
 			{
 				"public"
 				{
-					"gid"		"5733768936545469544"
-					"size"		"760119296"
-					"download"		"133092624"
+					"gid"		"5329919377410075100"
+					"size"		"764026880"
+					"download"		"133847104"
 				}
 			}
 			"encryptedmanifests"
@@ -2754,6 +2760,12 @@
 			}
 			"manifests"
 			{
+				"public"
+				{
+					"gid"		"4132034745353345496"
+					"size"		"23846040"
+					"download"		"24172816"
+				}
 			}
 			"encryptedmanifests"
 			{
@@ -2793,6 +2805,12 @@
 			}
 			"manifests"
 			{
+				"public"
+				{
+					"gid"		"5261860576349518890"
+					"size"		"1652563"
+					"download"		"1676720"
+				}
 			}
 			"encryptedmanifests"
 			{
@@ -2832,6 +2850,12 @@
 			}
 			"manifests"
 			{
+				"public"
+				{
+					"gid"		"5923578344572939086"
+					"size"		"11128152"
+					"download"		"11280576"
+				}
 			}
 			"encryptedmanifests"
 			{
@@ -2865,8 +2889,8 @@
 		{
 			"public"
 			{
-				"buildid"		"11845249"
-				"timeupdated"		"1692597652"
+				"buildid"		"12088818"
+				"timeupdated"		"1695103309"
 			}
 			"00_test"
 			{
