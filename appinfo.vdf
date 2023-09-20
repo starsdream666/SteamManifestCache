@@ -24,10 +24,10 @@
 			"seated"		"1"
 			"standing"		"1"
 		}
-		"othervrsupport"		"1"
-		"othervrsupport_rift_13"		"1"
 		"osarch"		""
 		"osextended"		"macos64"
+		"othervrsupport"		"1"
+		"othervrsupport_rift_13"		"1"
 		"steam_deck_compatibility"
 		{
 			"category"		"3"
@@ -119,6 +119,7 @@
 			"category_22"		"1"
 			"category_31"		"1"
 			"category_43"		"1"
+			"category_53"		"1"
 		}
 		"supported_languages"
 		{
@@ -232,6 +233,20 @@
 					"oslist"		"windows"
 				}
 			}
+			"6"
+			{
+				"executable"		"Monstrum10thGen.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Play Monstrum with Intel 10th gen CPU or newer"
+				}
+				"description"		"Play Monstrum with Intel 10th gen CPU or newer"
+			}
 		}
 		"vrsupport"		"other"
 	}
@@ -287,9 +302,9 @@
 			{
 				"public"
 				{
-					"gid"		"4776608731800828128"
-					"size"		"40983995"
-					"download"		"12820000"
+					"gid"		"3189670606552251610"
+					"size"		"40989163"
+					"download"		"12822048"
 				}
 				"public_beta"
 				{
@@ -302,9 +317,9 @@
 			{
 				"developer"
 				{
-					"gid"		"3163B7681E4C798E3D1AD5286D8FEBBE"
-					"size"		"31774BB4EB91E85CC7CEE287D1ECFB39"
-					"download"		"E63E0AFC09A18418235C878054101494"
+					"gid"		"64762E2392AEBF8B878CDDA83B2F0304"
+					"size"		"6B5862B0EE3D67687DCC1318A0E5A559"
+					"download"		"6913933A37B06BDB05C7992BADF1C2A9"
 				}
 				"linuxtest"
 				{
@@ -545,14 +560,14 @@
 		{
 			"public"
 			{
-				"buildid"		"1822431"
-				"timeupdated"		"1495204976"
+				"buildid"		"12235013"
+				"timeupdated"		"1695207533"
 			}
 			"developer"
 			{
-				"buildid"		"1822431"
+				"buildid"		"12235013"
 				"pwdrequired"		"1"
-				"timeupdated"		"1494853910"
+				"timeupdated"		"1695205635"
 			}
 			"linuxtest"
 			{
