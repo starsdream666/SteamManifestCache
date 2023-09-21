@@ -1,0 +1,302 @@
+"appinfo"
+{
+	"appid"		"691260"
+	"common"
+	{
+		"name"		"POPULATION: ONE"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"openvrsupport"		"1"
+		"othervrsupport"		"1"
+		"othervrsupport_rift_13"		"1"
+		"logo"		"0cde6cebf20fd399bb43dae97babe3f04ca2b1a1"
+		"logo_small"		"0cde6cebf20fd399bb43dae97babe3f04ca2b1a1_thumb"
+		"icon"		"dba8ab42c8006e8020e3ec61cda94faa29e05ed4"
+		"clienttga"		"d7a0925c5c183c2c0d4c125c1e5da0638bf348ca"
+		"clienticon"		"47a25bcec9162d15f4ca971951a2d3f2c44a8171"
+		"releasestate"		"released"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"691260_eula_0"
+				"name"		"POPULATION: ONE EULA"
+				"url"		"https://store.steampowered.com//eula/691260_eula_0"
+				"version"		"1"
+			}
+		}
+		"openvr_action_manifest_path"		"PopulationONE_Data\\StreamingAssets\\SteamVR\\actions.json"
+		"exfgls"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1644278400"
+			"tested_build_id"		"0"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_VR"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+			}
+		}
+		"metacritic_name"		"POPULATION: ONE"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"54.316930110739875"
+			}
+		}
+		"store_asset_mtime"		"1647546266"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"BigBox VR, Inc."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"BigBox VR, Inc."
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_36"		"1"
+			"category_27"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_35"		"1"
+			"category_52"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1603350000"
+		"steam_release_date"		"1603386035"
+		"community_hub_visible"		"1"
+		"gameid"		"691260"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"176981"
+			"2"		"1774"
+			"3"		"21978"
+			"4"		"1663"
+			"5"		"4305"
+			"6"		"3839"
+			"7"		"1775"
+			"8"		"3859"
+			"9"		"3993"
+			"10"		"4175"
+			"11"		"15045"
+			"12"		"5711"
+			"13"		"1743"
+			"14"		"1643"
+			"15"		"4182"
+			"16"		"7208"
+		}
+		"review_score"		"8"
+		"review_percentage"		"83"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"BigBox VR, Inc."
+		"publisher"		"BigBox VR, Inc."
+		"homepage"		"http://www.PopulationONEVR.com"
+	}
+	"config"
+	{
+		"installdir"		"PopulationONE"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"PopulationONE.exe"
+				"arguments"		"-debug -logFile population_one_client.log"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"691261"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9197952948148161199"
+					"size"		"12478058190"
+					"download"		"5452445552"
+				}
+				"latest"
+				{
+					"gid"		"8711905724473334106"
+					"size"		"12478485243"
+					"download"		"5452427664"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"08DB4B1EA38DDB1D493A27A6039FB842"
+					"size"		"7F032ACA9580FD929490D2D6002C31AB"
+					"download"		"BD47045A93B21FD63CEE2A3582F1E3F5"
+				}
+				"dev-latest"
+				{
+					"gid"		"FC4DA8348CA37F5424211CC68F54578A"
+					"size"		"5A3519E8C5AD0817A5CA3DCAAE1F7685"
+					"download"		"C068417F6515790C74989381848B6B9F"
+				}
+				"earlyaccess"
+				{
+					"gid"		"E01ABF0FFA9435BBF1F3F1B3CE826A08"
+					"size"		"104B2223B225359118F644C549588910"
+					"download"		"25D759578D4DD0610BED03FC7972A221"
+				}
+				"jitter01"
+				{
+					"gid"		"04AC19B0AA035745994AACE3EDFBA426"
+					"size"		"C24E374BA0F9744BD227E0E0B4AA4469"
+					"download"		"301C4E25763A2613D34AAE83E38B0BD4"
+				}
+				"viewer"
+				{
+					"gid"		"63AB9819DE99477F641BBC0E24BB902E"
+					"size"		"CA5E0FEE393256B69B6A913A9ABEEE8E"
+					"download"		"DFB90C924BB0E0918A3A1BC8D8DF023D"
+				}
+				"viewer-alpha"
+				{
+					"gid"		"A8531B556EF1693BBA72ACA6AA6EF7EA"
+					"size"		"85104398D049D2711CF6D0E5538B14F8"
+					"download"		"7C77477BDB55958688B915DB382E01DA"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12084406"
+				"timeupdated"		"1694535224"
+			}
+			"alpha"
+			{
+				"buildid"		"12084406"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693533117"
+			}
+			"dev-latest"
+			{
+				"buildid"		"12242876"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695271507"
+			}
+			"earlyaccess"
+			{
+				"buildid"		"11452108"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686600647"
+			}
+			"jitter01"
+			{
+				"buildid"		"8309138"
+				"pwdrequired"		"1"
+				"timeupdated"		"1646328449"
+			}
+			"latest"
+			{
+				"buildid"		"12172444"
+				"description"		"Beta Build Testing"
+				"timeupdated"		"1694552298"
+			}
+			"viewer"
+			{
+				"buildid"		"12084044"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694535588"
+			}
+			"viewer-alpha"
+			{
+				"buildid"		"12084044"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693529351"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"50000000"
+		"maxnumfiles"		"10000"
+	}
+}
