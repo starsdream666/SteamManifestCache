@@ -1,0 +1,486 @@
+"appinfo"
+{
+	"appid"		"1658150"
+	"common"
+	{
+		"name"		"Moonstone Island"
+		"type"		"Game"
+		"logo"		"bc56ccba7f82c361f2e1646d2cc4ab7f1a0a5e55"
+		"logo_small"		"bc56ccba7f82c361f2e1646d2cc4ab7f1a0a5e55_thumb"
+		"icon"		"1310b68c1b7940473ba677b78fdf40055ac6f709"
+		"clienttga"		"a0c60326ad06f0a835aa208230a7e6e623044238"
+		"clienticon"		"2a141ce9ccb498ec82d2fa2fb2e0221d98438640"
+		"clienticns"		"1f125029390a76cfe1c8df2d14112830330b389b"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"japanese"		"1"
+			"brazilian"		"1"
+		}
+		"name_localized"
+		{
+			"schinese"		"月光石岛"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1694217600"
+			"tested_build_id"		"12117470"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"56.28037662687309"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1695279740"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Studio Supersoft"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Raw Fury"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Moonstone Island"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+			"category_23"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1695228823"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1658150"
+		"store_tags"
+		{
+			"0"		"916648"
+			"1"		"3810"
+			"2"		"4726"
+			"3"		"1643"
+			"4"		"3964"
+			"5"		"3871"
+			"6"		"3834"
+			"7"		"12472"
+			"8"		"87918"
+			"9"		"10235"
+			"10"		"122"
+			"11"		"599"
+			"12"		"791774"
+			"13"		"22602"
+			"14"		"9551"
+			"15"		"1695"
+			"16"		"15564"
+			"17"		"1702"
+			"18"		"5981"
+			"19"		"1684"
+		}
+		"review_score"		"8"
+		"review_percentage"		"88"
+	}
+	"extended"
+	{
+		"developer"		"Studio Supersoft"
+		"publisher"		"Raw Fury"
+		"listofdlc"		"2577920,2581340"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Moonstone Island"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Moonstone Island.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"3"
+			{
+				"executable"		"Moonstone Island"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"4"
+			{
+				"executable"		"Moonstone Island.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1658151"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6290786037707588579"
+					"size"		"391671935"
+					"download"		"223991184"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"D1BAFC2A43032ADFAF993751316EA04A"
+					"size"		"AC41A106F51E8FD02581F2E125C0D039"
+					"download"		"39316AF95800A82662CDE18F071C4C99"
+				}
+				"development"
+				{
+					"gid"		"7FC65DA276DEA36C2AA8D352E14283C4"
+					"size"		"ADAC85AE292E071952FE13A6853798B6"
+					"download"		"9A03B0F75B4C3E803DB023565D2C8A6E"
+				}
+				"partners"
+				{
+					"gid"		"AAE75C9D497C131410E494E98F576591"
+					"size"		"DE1554CDA39FA56534D03D23C19BF152"
+					"download"		"0BA4C3CB4D94E55A50E74CDE6EC720B0"
+				}
+				"steamdeck"
+				{
+					"gid"		"E57C96067F86D97EE69C8EAFB04CB35F"
+					"size"		"21C886C52390FAD45F445C9C0EBDB44B"
+					"download"		"FAF79044C10A9BAF29637566375BE72F"
+				}
+			}
+		}
+		"1658152"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4087441609991596071"
+					"size"		"442442672"
+					"download"		"227324800"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"C1C28B05B4C1BB832398F73A02361C50"
+					"size"		"8E7617E9E450DE766DB1949D902FBF06"
+					"download"		"07D8A093C61B3075C662FBBE08668803"
+				}
+				"development"
+				{
+					"gid"		"EA84F601722CCAF9939B95379077EF7B"
+					"size"		"4D13BEF1F23148E8A2514505B5FFEFD3"
+					"download"		"4C3C76F8C90BCBA2B57139DD260992C5"
+				}
+				"partners"
+				{
+					"gid"		"8AD2A7CABA2BFED6B3D28E1DDD8C62B0"
+					"size"		"D7765A4D3ACBCEEA6747EF6C0B635392"
+					"download"		"F5410393A522BEF793AA1464970BC6D6"
+				}
+				"steamdeck"
+				{
+					"gid"		"1C4A60736440DD66CE80C90F679F0FE3"
+					"size"		"BA3FA85F905900E78DFF5C21B01C4DFD"
+					"download"		"9018AB6A341C6DA13FBD44E31D269EA6"
+				}
+			}
+		}
+		"1658153"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2632910835647496300"
+					"size"		"487337033"
+					"download"		"228265888"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"C4DACD96B1E90E1AF4BB83D8AE2D9B5A"
+					"size"		"3ED378FE9E872767884B372D1CCDBF51"
+					"download"		"8BDD78231185582EFA11DAD897C59428"
+				}
+				"development"
+				{
+					"gid"		"80A5314EC720B1B0F2C5540EB975B87F"
+					"size"		"3D9644C759236FE3D8D33874F6617AA9"
+					"download"		"86C978571226CE83EC15F6C7CBCB3E35"
+				}
+				"partners"
+				{
+					"gid"		"080D87B55C6B38D5B4CC959035843211"
+					"size"		"7B79BAAB6B475D2BBF65DA0E83AA74D2"
+					"download"		"D46869D33F2288E58114A83743307F41"
+				}
+				"steamdeck"
+				{
+					"gid"		"4467474D287006161BFAE452A6A4A455"
+					"size"		"F17960BC8C0540C59FFB1F156FE6B1B1"
+					"download"		"398416443B94E9C27E1E419543986F7C"
+				}
+			}
+		}
+		"2577920"
+		{
+			"dlcappid"		"2577920"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1660015781744199212"
+					"size"		"14"
+					"download"		"64"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"0FF2F27DD45C000DB38D035D0C002E32"
+					"size"		"557B6EF8D7BA7029F8C6BE2C93DC3FDE"
+					"download"		"E7F0A9AA59DFEED10282A1FFAC97B2BB"
+				}
+			}
+		}
+		"2581340"
+		{
+			"dlcappid"		"2581340"
+			"config"
+			{
+				"language"		"english"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3902934010572121052"
+					"size"		"45886458"
+					"download"		"42132960"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"938B3F071B600D5E34B20C311D8B02E0"
+					"size"		"6335B8D972FB0C7E866B4BDFB32D9AF1"
+					"download"		"5ECD13E90D35355EBD32399F9A107DEA"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12232573"
+				"timeupdated"		"1695184332"
+			}
+			"beta"
+			{
+				"buildid"		"12232539"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695184033"
+			}
+			"development"
+			{
+				"buildid"		"12240939"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695252041"
+			}
+			"partners"
+			{
+				"buildid"		"11959311"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692226269"
+			}
+			"steamdeck"
+			{
+				"buildid"		"11975692"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692558629"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"100"
+		"sync_while_suspended"		"1"
+		"savefiles"
+		{
+			"2"
+			{
+				"root"		"WinSavedGames"
+				"path"		"Moonstone Island/"
+				"pattern"		"*"
+				"recursive"		"1"
+			}
+		}
+		"rootoverrides"
+		{
+			"2"
+			{
+				"root"		"WinSavedGames"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacDocuments"
+				"addpath"		""
+			}
+			"3"
+			{
+				"root"		"WinSavedGames"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxHome"
+				"addpath"		""
+			}
+		}
+	}
+}
