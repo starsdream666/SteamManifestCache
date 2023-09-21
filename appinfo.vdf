@@ -47,57 +47,49 @@
 		"osextended"		"macos64,macosapplesilicon,macosnotarized"
 		"steam_deck_compatibility"
 		{
-			"category"		"2"
-			"test_timestamp"		"1644969600"
-			"tested_build_id"		"7411817"
+			"category"		"3"
+			"test_timestamp"		"1694476800"
+			"tested_build_id"		"12130330"
 			"tests"
 			{
 				"0"
 				{
-					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 				}
 				"1"
 				{
-					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
 				}
 				"2"
 				{
-					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
 				}
 				"3"
 				{
-					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
-				}
-				"4"
-				{
 					"display"		"4"
 					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
-				}
-				"5"
-				{
-					"display"		"1"
-					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
 				}
 			}
 			"configuration"
 			{
 				"supported_input"		"gamepad"
-				"requires_manual_keyboard_invoke"		"1"
+				"requires_manual_keyboard_invoke"		"0"
 				"requires_non_controller_launcher_nav"		"0"
-				"primary_player_is_controller_slot_0"		"1"
-				"non_deck_display_glyphs"		"1"
-				"small_text"		"1"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
 				"requires_internet_for_setup"		"0"
 				"requires_internet_for_singleplayer"		"0"
 				"recommended_runtime"		"native"
 				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
 			}
 		}
 		"metacritic_name"		"Factorio"
+		"controllertagwizard"		"1"
 		"controller_support"		"partial"
 		"small_capsule"
 		{
@@ -418,9 +410,9 @@
 			{
 				"public"
 				{
-					"gid"		"127394991534657504"
-					"size"		"1856615695"
-					"download"		"1474227008"
+					"gid"		"3920234051060784355"
+					"size"		"2002049786"
+					"download"		"1494444176"
 				}
 				"0.12.35"
 				{
@@ -532,9 +524,9 @@
 				}
 				"console"
 				{
-					"gid"		"127394991534657504"
-					"size"		"1856615695"
-					"download"		"1474227008"
+					"gid"		"3920234051060784355"
+					"size"		"2002049786"
+					"download"		"1494444176"
 				}
 			}
 			"encryptedmanifests"
@@ -698,9 +690,9 @@
 			{
 				"public"
 				{
-					"gid"		"3053777406207297203"
-					"size"		"1760811364"
-					"download"		"1467717376"
+					"gid"		"2991023016404252309"
+					"size"		"1906440941"
+					"download"		"1487927968"
 				}
 				"0.12.35"
 				{
@@ -812,9 +804,9 @@
 				}
 				"console"
 				{
-					"gid"		"3053777406207297203"
-					"size"		"1760811364"
-					"download"		"1467717376"
+					"gid"		"2991023016404252309"
+					"size"		"1906440941"
+					"download"		"1487927968"
 				}
 			}
 			"encryptedmanifests"
@@ -977,9 +969,9 @@
 			{
 				"public"
 				{
-					"gid"		"791136011383957779"
-					"size"		"1982800007"
-					"download"		"1497574384"
+					"gid"		"4019397484182839989"
+					"size"		"2128356902"
+					"download"		"1517823840"
 				}
 				"0.12.35"
 				{
@@ -1091,9 +1083,9 @@
 				}
 				"console"
 				{
-					"gid"		"791136011383957779"
-					"size"		"1982800007"
-					"download"		"1497574384"
+					"gid"		"4019397484182839989"
+					"size"		"2128356902"
+					"download"		"1517823840"
 				}
 			}
 			"encryptedmanifests"
@@ -1110,8 +1102,8 @@
 		{
 			"public"
 			{
-				"buildid"		"11621827"
-				"timeupdated"		"1689250067"
+				"buildid"		"12179218"
+				"timeupdated"		"1695290838"
 			}
 			"0.12.35"
 			{
@@ -1188,7 +1180,7 @@
 			"1.1.87"
 			{
 				"buildid"		"11621827"
-				"description"		"Factorio Stable 1.1.87"
+				"description"		"Factorio Outdated Stable 1.1.87"
 				"timeupdated"		"1688471907"
 			}
 			"1.1.88"
@@ -1212,7 +1204,7 @@
 			"1.1.91"
 			{
 				"buildid"		"12179218"
-				"description"		"Factorio Experimental 1.1.91"
+				"description"		"Factorio Stable 1.1.91"
 				"timeupdated"		"1694616617"
 			}
 			"1.1.x"
@@ -1229,9 +1221,9 @@
 			}
 			"console"
 			{
-				"buildid"		"11621827"
-				"description"		"Factorio version matching latest console release (1.1.87)"
-				"timeupdated"		"1689250033"
+				"buildid"		"12179218"
+				"description"		"Factorio version matching latest console release (1.1.91)"
+				"timeupdated"		"1695290819"
 			}
 		}
 	}
