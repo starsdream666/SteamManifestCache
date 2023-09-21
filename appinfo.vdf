@@ -1,0 +1,142 @@
+"appinfo"
+{
+	"appid"		"2074930"
+	"common"
+	{
+		"name"		"The First Descendant Crossplay Beta"
+		"type"		"Beta"
+		"parent"		"2074920"
+		"icon"		"9b0ffb5b481f0c76b78919b2dc336a15e12828bb"
+		"clienticon"		"e13e8d82c0ba6b5479e2cb70f73f4e18297501d6"
+		"clienttga"		"5408056b1c9d6829b99d33910e1d84bd2d843633"
+		"name_localized"
+		{
+			"koreana"		"퍼스트 디센던트 Crossplay Beta"
+		}
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"64.05841842792685"
+			}
+		}
+		"store_asset_mtime"		"1694485140"
+		"associations"
+		{
+		}
+		"primary_genre"		"0"
+		"category"
+		{
+		}
+		"steam_release_date"		"1695020536"
+		"community_hub_visible"		"1"
+		"gameid"		"2074930"
+		"exfgls"		"1"
+		"review_score"		"8"
+		"review_percentage"		"80"
+	}
+	"extended"
+	{
+		"betaforappid"		"2074920"
+		"playtest_type"		"1"
+	}
+	"config"
+	{
+		"installdir"		"The First Descendant Steam Beta"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TheFirstDescendant.exe"
+				"arguments"		"-steam"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2074931"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7186747422501013170"
+					"size"		"21972822518"
+					"download"		"21566108624"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev_test"
+				{
+					"gid"		"EC14A2934EC9F3F7D865E4A6DEDECBA1"
+					"size"		"FFA46512A7746635F71B1663C96AF1C7"
+					"download"		"8084B734F1C554D8EA5FABA7658EF247"
+				}
+				"dev_test2"
+				{
+					"gid"		"4E8D51AFE4085C6D0DA591ED7DA2CF07"
+					"size"		"3EB5D5F5701935DA29A4988E52BB5C98"
+					"download"		"EF7CCD5F6DB6AF2DDE5FAFA57072A9BE"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12242858"
+				"timeupdated"		"1695292777"
+			}
+			"dev_test"
+			{
+				"buildid"		"12242858"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695271283"
+			}
+			"dev_test2"
+			{
+				"buildid"		"12243476"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695277417"
+			}
+		}
+	}
+}
