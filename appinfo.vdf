@@ -1,0 +1,189 @@
+"appinfo"
+{
+	"appid"		"2461150"
+	"common"
+	{
+		"name"		"神奏三国詩"
+		"type"		"Game"
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"japanese"		"1"
+		}
+		"name_localized"
+		{
+			"english"		"Twin Blades of the Three Kingdoms"
+			"schinese"		"神奏三国诗"
+			"tchinese"		"神奏三國詩"
+		}
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"a77e85bf3fc1de08db549c5018eeeac1a120da23"
+		"clienticon"		"5bb5cc901cbf3beac772de31f5a10b24751e6498"
+		"clienttga"		"7b9e7acda27559caa957ce9b83ac00d74cf97417"
+		"releasestate"		"released"
+		"controllertagwizard"		"1"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+		}
+		"header_image"
+		{
+			"japanese"		"header_japanese.jpg"
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+			"tchinese"		"header_tchinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"ja,zh-cn,zh-tw,en"
+			"library_hero"		"en,zh-cn,zh-tw,ja"
+			"library_logo"		"zh-cn,zh-tw,en,ja"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"95.35044969007231"
+				"height_pct"		"91.31944444444444"
+			}
+		}
+		"store_asset_mtime"		"1693376461"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"UNICO INC."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"UNICO INC."
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_18"		"1"
+			"category_55"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1695265262"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2461150"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"21725"
+			"2"		"14139"
+			"3"		"1741"
+			"4"		"17305"
+			"5"		"3964"
+			"6"		"7481"
+			"7"		"6971"
+			"8"		"4004"
+			"9"		"7569"
+			"10"		"1708"
+			"11"		"4182"
+			"12"		"6691"
+		}
+	}
+	"extended"
+	{
+		"developer"		"UNICO INC."
+		"publisher"		"UNICO INC."
+		"homepage"		"https://unico-inc.jp/game/cs002/"
+	}
+	"config"
+	{
+		"installdir"		"神奏三国詩"
+		"steamcontrollertemplateindex"		"4"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"神奏三国詩.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"11"
+	}
+	"depots"
+	{
+		"2461151"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5014077029032780217"
+					"size"		"204712784"
+					"download"		"158836512"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12119872"
+				"timeupdated"		"1693983324"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"5242880"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"unico/神奏三国詩"
+				"pattern"		"*.dat"
+			}
+		}
+	}
+}
