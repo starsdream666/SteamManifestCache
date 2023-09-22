@@ -22,6 +22,54 @@
 		"osarch"		"64"
 		"osextended"		""
 		"releasestatesteamchina"		"prerelease"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1694649600"
+			"tested_build_id"		"12124460"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
 		"small_capsule"
 		{
 			"schinese"		"capsule_231x87_schinese.jpg"
@@ -46,7 +94,7 @@
 				"height_pct"		"84.1630282353018"
 			}
 		}
-		"store_asset_mtime"		"1695184056"
+		"store_asset_mtime"		"1695323527"
 		"associations"
 		{
 			"0"
@@ -57,6 +105,11 @@
 			"1"
 			{
 				"type"		"publisher"
+				"name"		"bilibili"
+			}
+			"2"
+			{
+				"type"		"franchise"
 				"name"		"bilibili"
 			}
 		}
@@ -180,20 +233,20 @@
 			"develop_test"
 			{
 				"sc_schinese"		"研发测试用"
-				"buildid"		"12215684"
+				"buildid"		"12248116"
 				"pwdrequired"		"1"
-				"timeupdated"		"1695042460"
+				"timeupdated"		"1695311176"
 			}
 			"public"
 			{
-				"buildid"		"12226594"
-				"timeupdated"		"1695135128"
+				"buildid"		"12248116"
+				"timeupdated"		"1695311506"
 			}
 			"innertest"
 			{
-				"buildid"		"12226594"
+				"buildid"		"12237127"
 				"pwdrequired"		"1"
-				"timeupdated"		"1695134807"
+				"timeupdated"		"1695270107"
 			}
 			"locailization"
 			{
@@ -232,9 +285,9 @@
 			{
 				"public"
 				{
-					"gid"		"8933858545249643396"
-					"size"		"3132221642"
-					"download"		"2879334256"
+					"gid"		"2853866658618428258"
+					"size"		"3149842108"
+					"download"		"2896746240"
 				}
 			}
 			"encryptedmanifests"
@@ -247,15 +300,15 @@
 				}
 				"develop_test"
 				{
-					"gid"		"95A38009E8AA71D77A4AF3BF6FFECD72"
-					"size"		"1B77B862F345ADFE37CAEA5617777092"
-					"download"		"9570B5D80A857E176D2B8959F3BF5EE6"
+					"gid"		"124EEF02D42BD1BC7D78138928688BC8"
+					"size"		"D9B3D7F1DDC0450D05C31C59E7DD53B7"
+					"download"		"794167ADBDB2BBDD79216D0869941603"
 				}
 				"innertest"
 				{
-					"gid"		"6A4DF4BF67EA95605342CFDB0C515921"
-					"size"		"690BD9DF8C8F358244CE373AA39B7652"
-					"download"		"93BA76B5B9AA5A61D28AFBE9C795FD9A"
+					"gid"		"9B6568B56D9E2EFB14AB2E4C78B36A33"
+					"size"		"92210443214D9CEA455FF711100FEB66"
+					"download"		"5427BE0AB193DC091B419FB1615F2A10"
 				}
 				"locailization"
 				{
@@ -281,7 +334,7 @@
 	}
 	"ufs"
 	{
-		"quota"		"1073741824"
+		"quota"		"5368709120"
 		"maxnumfiles"		"10000"
 		"savefiles"
 		{
