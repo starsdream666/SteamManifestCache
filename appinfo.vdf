@@ -1,0 +1,441 @@
+"appinfo"
+{
+	"appid"		"2218400"
+	"common"
+	{
+		"name"		"Greedland"
+		"type"		"Game"
+		"name_localized"
+		{
+			"english"		"Greedland"
+			"schinese"		"贪婪大地"
+			"tchinese"		"貪婪大地"
+			"japanese"		"グリードランド"
+			"koreana"		"그리드랜드"
+		}
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"88302b358da8813d4e0052079fec77b7a347992a"
+		"clienttga"		"7493202808758a90c2237e764e7475bb472287da"
+		"icon"		"227bc1a097ab1277cf75c249476d7831fa828eeb"
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1694131200"
+			"tested_build_id"		"12023643"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"koreana"		"capsule_231x87_koreana.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+			"japanese"		"header_japanese.jpg"
+			"koreana"		"header_koreana.jpg"
+			"tchinese"		"header_tchinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn,ja,ko"
+			"library_hero"		"en"
+			"library_logo"		"en,zh-cn,ja,ko"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1693550918"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"VaMP He"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Gamersky Games"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"2P Games"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Gamersky Games"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"23"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_44"		"1"
+			"category_28"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1691143094"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2218400"
+		"store_tags"
+		{
+			"0"		"493"
+			"1"		"3959"
+			"2"		"4885"
+			"3"		"5154"
+			"4"		"1716"
+			"5"		"42804"
+			"6"		"21"
+			"7"		"19"
+			"8"		"4182"
+			"9"		"4791"
+			"10"		"4637"
+			"11"		"492"
+			"12"		"4758"
+			"13"		"3841"
+			"14"		"3942"
+			"15"		"597"
+			"16"		"4821"
+			"17"		"1773"
+			"18"		"4295"
+			"19"		"1685"
+		}
+		"review_score"		"8"
+		"review_percentage"		"85"
+	}
+	"extended"
+	{
+		"absolutemousecoordinates"		"0"
+		"remoteplaytogethertestingbranches"		"default,earlyaccess"
+		"developer"		"VaMP He"
+		"publisher"		"Gamersky Games"
+		"homepage"		"https://www.gamersky.com/z/greedland/"
+	}
+	"config"
+	{
+		"installdir"		"Greedland"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"NewGreedland.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"NewGreedland.exe"
+				"arguments"		"-DX12"
+				"type"		"option2"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Greedland(DX12)"
+					"schinese"		"贪婪大地（DX12）"
+				}
+				"description"		"Greedland(DX12)"
+			}
+			"2"
+			{
+				"executable"		"NewGreedland.exe"
+				"arguments"		"-vulkan"
+				"type"		"option3"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Greedland（Vulkan）"
+					"schinese"		"贪婪大地（Vulkan）"
+				}
+				"description"		"Greedland（Vulkan）"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,schinese,tchinese,portuguese"
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2218401"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3362006953351556056"
+					"size"		"2790421501"
+					"download"		"2470540384"
+				}
+				"619demo"
+				{
+					"gid"		"4815382504657742887"
+					"size"		"2427976137"
+					"download"		"2109567664"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"0.6.11"
+				{
+					"gid"		"83EA48A6F20B1B443AFE7E2083705AED"
+					"size"		"5BA539950A30EBF4D85C3BC742706868"
+					"download"		"36CDD8F39D40343D2528F399FB7D0A4B"
+				}
+				"earlyaccess"
+				{
+					"gid"		"E234C70BFB36A1A16FFC0F0C606B9253"
+					"size"		"B66C5757EDF3CDC0414298148CF58005"
+					"download"		"BAA5BDE6D260C54514203CE695349752"
+				}
+				"hejubian"
+				{
+					"gid"		"305AB8E8D870DB8FE024A454687CE372"
+					"size"		"D12F2F4034E602A3C1FA65A1C96B886D"
+					"download"		"EC834DA3196F986ED623783B807C3FA2"
+				}
+				"steamdecktest"
+				{
+					"gid"		"D489190D28E5ABE85147A1CE9612266F"
+					"size"		"E5D5D2D014E1BB0E4B8FA8DEBBB9FDC3"
+					"download"		"D50E24AF0FACFF32DF067B5FEE3E0483"
+				}
+				"test"
+				{
+					"gid"		"552F30AC88205EB93DFA88E40BD69B22"
+					"size"		"057738C3F57765D1D2C188F09E059D36"
+					"download"		"16A6D6B9FAA5EA0F31580D58C3879A64"
+				}
+			}
+		}
+		"2218402"
+		{
+			"config"
+			{
+				"language"		"schinese"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12075026"
+				"timeupdated"		"1693456245"
+			}
+			"0.6.11"
+			{
+				"buildid"		"11903050"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691831964"
+			}
+			"619demo"
+			{
+				"buildid"		"11884586"
+				"description"		"新品节的DEMO"
+				"timeupdated"		"1691841402"
+			}
+			"earlyaccess"
+			{
+				"buildid"		"12256937"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695387975"
+			}
+			"hejubian"
+			{
+				"buildid"		"12122500"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694004128"
+			}
+			"steamdecktest"
+			{
+				"buildid"		"12023643"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692889646"
+			}
+			"test"
+			{
+				"buildid"		"12256937"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695387967"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"500000000"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"NewGreedland/Saved/SaveGames"
+				"pattern"		"GLGameSaveOfficial.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"2"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"NewGreedland/Saved/SaveGames"
+				"pattern"		"GLPlayerStatistics.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"3"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"NewGreedland/Saved/SaveGames"
+				"pattern"		"GLGameSaveFormal.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
