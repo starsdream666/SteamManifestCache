@@ -1,0 +1,209 @@
+"appinfo"
+{
+	"appid"		"2059400"
+	"common"
+	{
+		"name"		"Kenomaze"
+		"type"		"Game"
+		"clienttga"		"cf44786c66684eac2e0cdd24768b108b67100f5f"
+		"clienticon"		"995fd38be0388f5e27daad68f2222b5e2fc82925"
+		"icon"		"bede5a20dffbc5df9d7287e3d1be8dbc80639a6b"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"app_retired_publisher_request"		"1"
+		"app_retired_was_free"		"1"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1693699200"
+			"tested_build_id"		"10515131"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"market_presence"		"0"
+		"controller_support"		"partial"
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"de,en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"72.7164887307236"
+				"height_pct"		"24.167118501114544"
+			}
+		}
+		"store_asset_mtime"		"1691652253"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Raphael"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"23"
+			"4"		"3"
+			"5"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1657306020"
+		"community_hub_visible"		"1"
+		"gameid"		"2059400"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"1664"
+			"2"		"21"
+			"3"		"597"
+			"4"		"492"
+			"5"		"122"
+			"6"		"198631"
+			"7"		"21725"
+			"8"		"3871"
+			"9"		"5577"
+			"10"		"4182"
+			"11"		"4342"
+			"12"		"3968"
+			"13"		"19"
+			"14"		"10695"
+			"15"		"9541"
+			"16"		"4736"
+			"17"		"4325"
+			"18"		"4155"
+			"19"		"3993"
+		}
+		"review_score"		"3"
+		"review_percentage"		"18"
+	}
+	"extended"
+	{
+		"developer"		"Raphael"
+	}
+	"config"
+	{
+		"installdir"		"Kenomaze"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Game.exe"
+				"arguments"		"--in-process-gpu"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"german"
+		"2059401"
+		{
+			"config"
+			{
+				"language"		"german"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7435114606847415056"
+					"size"		"492699846"
+					"download"		"378145824"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10515131"
+				"timeupdated"		"1675950315"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"10000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"www/save"
+				"pattern"		"*.rpgsave"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
