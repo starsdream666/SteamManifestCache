@@ -1,0 +1,315 @@
+"appinfo"
+{
+	"appid"		"1595380"
+	"common"
+	{
+		"name"		"The Durka: You will (not) die"
+		"type"		"Game"
+		"oslist"		"windows,linux"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"919fd7083f878c4543171a26412b5ec35c4a0798"
+		"clienticon"		"1999cfcc7664414a28f1658d5b60f5d93cd213c6"
+		"icon"		"8daa4810021be751191cdbb8b15d3c62d4422d20"
+		"logo"		"bd46e67318c93ca20423b7ed68b7001fb4a4bc8d"
+		"logo_small"		"bd46e67318c93ca20423b7ed68b7001fb4a4bc8d_thumb"
+		"clienticns"		"4d61c7174189fd7eabb0da25e5a246ec9ee2727f"
+		"linuxclienticon"		"add52e7f444e28f09d4d51f2bbd750011ac144ca"
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"russian"		"1"
+		}
+		"name_localized"
+		{
+			"russian"		"The Durka: Ты (не) умрешь"
+		}
+		"controllertagwizard"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"russian"		"capsule_231x87_russian.jpg"
+		}
+		"header_image"
+		{
+			"russian"		"header_russian.jpg"
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,ru"
+			"library_hero"		"en"
+			"library_logo"		"ru,en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"43.60465116279071"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1691434449"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Crucial Experiment"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Kochurov-Tools"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"The Durka"
+			}
+		}
+		"primary_genre"		"70"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_30"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+			"category_55"		"1"
+			"category_56"		"1"
+		}
+		"supported_languages"
+		{
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1630968600"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1595380"
+		"store_tags"
+		{
+			"0"		"4486"
+			"1"		"3799"
+			"2"		"3871"
+			"3"		"11014"
+			"4"		"4726"
+			"5"		"6971"
+			"6"		"6426"
+			"7"		"3839"
+			"8"		"1684"
+			"9"		"1719"
+			"10"		"7481"
+			"11"		"21"
+			"12"		"4182"
+			"13"		"492"
+			"14"		"113"
+			"15"		"19"
+			"16"		"9"
+			"17"		"122"
+			"18"		"128"
+			"19"		"597"
+		}
+		"review_score"		"8"
+		"review_percentage"		"89"
+	}
+	"extended"
+	{
+		"absolutemousecoordinates"		"1"
+		"remoteplaytogethertestingbranches"		"default"
+		"developer"		"Crucial Experiment"
+		"publisher"		"Kochurov-Tools"
+		"homepage"		"https://crucialexperiment.su/game/thedurka"
+		"listofdlc"		"1752900"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"The Durka"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TheDurka.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"TheDurka.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"2"
+			{
+				"executable"		"mod tool/mod tool.exe"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Modification tool"
+					"russian"		"Инструмент модификаций"
+				}
+				"description"		"Modification tool"
+			}
+		}
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"229007"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"russian"
+		"hasdepotsindlc"		"1"
+		"workshopdepot"		"1595380"
+		"1595382"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"893009267219291057"
+					"size"		"246065539"
+					"download"		"184505504"
+				}
+			}
+		}
+		"1595381"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"315281477944594342"
+					"size"		"246065539"
+					"download"		"184524672"
+				}
+			}
+		}
+		"1595383"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3871090289486528261"
+					"size"		"246065539"
+					"download"		"184506448"
+				}
+			}
+		}
+		"1595384"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1749009153848960298"
+					"size"		"2631263"
+					"download"		"2212128"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12144934"
+				"timeupdated"		"1694198603"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"game/saves"
+				"pattern"		"*.save"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+			"1"
+			{
+				"root"		"gameinstall"
+				"path"		"game/saves"
+				"pattern"		"*.save"
+				"platforms"
+				{
+					"1"		"Linux"
+				}
+				"recursive"		"1"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"os"		"Windows"
+				"oscompare"		"="
+				"useinstead"		"gameinstall"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"game/saves"
+						"replace"		"game/saves"
+					}
+				}
+			}
+			"1"
+			{
+				"root"		"gameinstall"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"gameinstall"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"game/saves"
+						"replace"		"game/saves"
+					}
+				}
+			}
+		}
+	}
+}
