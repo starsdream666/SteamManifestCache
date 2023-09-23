@@ -1,0 +1,309 @@
+"appinfo"
+{
+	"appid"		"1748390"
+	"common"
+	{
+		"name"		"Rocket Bot Royale"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64,macosapplesilicon,macosnotarized"
+		"logo"		"503761390ddf2826cc3eb9ae4b968e5a2f0b1a86"
+		"logo_small"		"503761390ddf2826cc3eb9ae4b968e5a2f0b1a86_thumb"
+		"icon"		"805d4aaeec6a9b9e451d44279ec10bd4f85173f3"
+		"clienticon"		"40ab229a63e1c22a1e609afcbee574721ae84dd9"
+		"clienttga"		"10266bd3042ff8c9bce4b268898c4fe5036baa89"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1654819200"
+			"tested_build_id"		"8800557"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"53.76308996411666"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1650862873"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Winterpixel Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Winterpixel Games"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+			"3"		"29"
+			"4"		"2"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_20"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_27"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1650489960"
+		"community_hub_visible"		"1"
+		"gameid"		"1748390"
+		"store_tags"
+		{
+			"0"		"3859"
+			"1"		"176981"
+			"2"		"1775"
+			"3"		"5379"
+			"4"		"128"
+			"5"		"1773"
+			"6"		"11104"
+			"7"		"9"
+			"8"		"4004"
+			"9"		"4094"
+			"10"		"13276"
+			"11"		"1708"
+			"12"		"4305"
+			"13"		"19"
+			"14"		"5752"
+			"15"		"4747"
+			"16"		"3993"
+			"17"		"3871"
+			"18"		"7481"
+			"19"		"3968"
+		}
+		"review_score"		"8"
+		"review_percentage"		"86"
+	}
+	"extended"
+	{
+		"developer"		"Winterpixel Games"
+		"publisher"		"Winterpixel Games"
+		"homepage"		"https://rocketbotroyale.winterpixel.io/"
+	}
+	"config"
+	{
+		"installdir"		"Rocket Bot Royale"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"rocketbotroyale.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"RocketBotRoyale.app\\Contents\\MacOS\\RocketBotRoyale"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"steam_launcher.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1748391"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8835268404542250565"
+					"size"		"60"
+					"download"		"112"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"E0218A9A3DA10449235BC8103E09ED88"
+					"size"		"BAE2D6E3367C42D5A967741E6DBC2354"
+					"download"		"35FA3EE26D6B662277A17C85C1076439"
+				}
+			}
+		}
+		"1748392"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"521005673267617889"
+					"size"		"64743672"
+					"download"		"28152640"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"2822ED692882C3EFE344BD6C8D96EA16"
+					"size"		"DD75BD4E4BBC4FBE2251376C3515732B"
+					"download"		"CD9024AC360F92C3EF8158939805E3BC"
+				}
+			}
+		}
+		"1748393"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1472047209049867588"
+					"size"		"75266770"
+					"download"		"30704608"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"15E09E18223C4B2A8B44A80BC19E85A3"
+					"size"		"182CEC4AED745440BAC2C15B67218534"
+					"download"		"7558AAA99C5527AC234543E8E2A528EF"
+				}
+			}
+		}
+		"1748394"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6377321347832355253"
+					"size"		"72003560"
+					"download"		"30163776"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"FE2CFA43C302632401034354D1456491"
+					"size"		"820571A8B564A4E4E1B63C78AF39FB74"
+					"download"		"7C4FAF0972C868C204535A04328EE70A"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12124435"
+				"timeupdated"		"1694197813"
+			}
+			"beta"
+			{
+				"buildid"		"12124435"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694197830"
+			}
+		}
+	}
+}
