@@ -1,0 +1,286 @@
+"appinfo"
+{
+	"appid"		"488440"
+	"common"
+	{
+		"name"		"Angeldust"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"clienticon"		"71d87fc738fc94cd6615b8ff069369888f5fbb71"
+		"clienticns"		"af945f3c5cb13fbd3ab7b595fa447360191caf4a"
+		"clienttga"		"8a7dcb1c897529c7857a996670695dafb125319a"
+		"linuxclienticon"		"27b69d4e91c2a2e4ae7ba0779828d1f308c96c80"
+		"icon"		"9b50e3a4149057fe0bf3b9d310f8c22ab21a06c2"
+		"logo"		"fb2457592d53a1c9e3bc6e4df38d6effb0a761c2"
+		"logo_small"		"fb2457592d53a1c9e3bc6e4df38d6effb0a761c2_thumb"
+		"releasestate"		"released"
+		"osextended"		"macos64,macosnotarized"
+		"metacritic_name"		"Angeldust"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"54.37201907790142"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1673705828"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Frank Lucas"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Metagaming B.V."
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"23"
+			"3"		"29"
+			"4"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_20"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_27"		"1"
+			"category_28"		"1"
+			"category_49"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"thai"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1576947699"
+		"community_hub_visible"		"1"
+		"gameid"		"488440"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"128"
+			"2"		"492"
+			"3"		"19"
+			"4"		"597"
+			"5"		"3859"
+			"6"		"1695"
+			"7"		"1643"
+			"8"		"3810"
+			"9"		"1685"
+			"10"		"3834"
+			"11"		"4195"
+			"12"		"1684"
+			"13"		"3839"
+			"14"		"3843"
+			"15"		"493"
+			"16"		"1754"
+			"17"		"4231"
+			"18"		"5350"
+			"19"		"1697"
+		}
+		"review_score"		"5"
+		"review_percentage"		"64"
+	}
+	"extended"
+	{
+		"developer"		"Frank Lucas"
+		"publisher"		"Metagaming B.V."
+		"homepage"		"http://PlayAngeldust.com"
+		"gamemanualurl"		"https://store.steampowered.com/manual/488440/"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Angeldust"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Angeldust.app\\Contents\\Resources\\Angeldust.exe"
+				"arguments"		"Angeldust (32-bit)"
+				"workingdir"		"Angeldust.app\\Contents\\Resources\\"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+			}
+			"1"
+			{
+				"executable"		"Angeldust.app/Contents/MacOS/Angeldust"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Angeldust.app/Contents/Resources/Angeldust.x86_64"
+				"workingdir"		"Angeldust.app/Contents/Resources/"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+			"3"
+			{
+				"executable"		"Angeldust.app\\Contents\\Resources\\Angeldust64.exe"
+				"workingdir"		"Angeldust.app/Contents/Resources/"
+				"description"		"Angeldust (64-bit)"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"3"
+	}
+	"depots"
+	{
+		"488441"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"550020172066972415"
+					"size"		"373974474"
+					"download"		"364870288"
+				}
+			}
+		}
+		"488442"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8266859225562375147"
+					"size"		"59720270"
+					"download"		"12569312"
+				}
+			}
+		}
+		"488443"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3365917382211121839"
+					"size"		"23990236"
+					"download"		"6604512"
+				}
+			}
+		}
+		"488444"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3327258830688867813"
+					"size"		"13067083"
+					"download"		"3137488"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12038851"
+				"timeupdated"		"1693049359"
+			}
+		}
+	}
+}
