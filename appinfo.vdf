@@ -1,0 +1,478 @@
+"appinfo"
+{
+	"appid"		"2315040"
+	"common"
+	{
+		"name"		"火炬之光：无限"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"0dc6005abd58362d3b68ca32515d8f47d50435d7"
+		"clienttga"		"1a2029588dda928f7980e0f7b722db249966f235"
+		"icon"		"afd8203aa3a3180565a5142b6d00b3060641796b"
+		"releasestate"		"released"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"45.30798591959366"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1693800456"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"XD"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"XD"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"3"
+			"3"		"37"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_27"		"1"
+			"category_35"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1683562020"
+		"community_hub_visible"		"1"
+		"gameid"		"2315040"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"19"
+			"2"		"122"
+			"3"		"4106"
+			"4"		"4236"
+			"5"		"4231"
+			"6"		"1720"
+			"7"		"4791"
+			"8"		"5984"
+			"9"		"1684"
+			"10"		"10679"
+			"11"		"4057"
+			"12"		"1646"
+			"13"		"1742"
+			"14"		"3993"
+			"15"		"4747"
+			"16"		"4182"
+			"17"		"113"
+			"18"		"1685"
+			"19"		"3859"
+		}
+		"review_score"		"5"
+		"review_percentage"		"62"
+	}
+	"extended"
+	{
+		"developer"		"XD"
+		"publisher"		"XD"
+	}
+	"config"
+	{
+		"installdir"		"Torchlight Infinite CN"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"UE_game\\Binaries\\Win64\\torchlight_infinite.exe"
+				"arguments"		"UserDir=TorchLight"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2315041"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3186976638956215984"
+					"size"		"14975376969"
+					"download"		"14262451184"
+				}
+			}
+		}
+		"baselanguages"		"schinese"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12222487"
+				"timeupdated"		"1695108488"
+			}
+		}
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#status_map"		"%map%"
+					"#status_hero"		"%hero%"
+					"#status_level"		"Lv%level%"
+					"#status_playerinfo"		"{#Status_Level} {#Status_Hero} {#Status_Map}"
+				}
+			}
+			"german"
+			{
+				"tokens"
+				{
+					"#status_map"		"%map%"
+					"#status_hero"		"%hero%"
+					"#status_level"		"Lv%level%"
+					"#status_playerinfo"		"{#Status_Level} {#Status_Hero} {#Status_Map}"
+				}
+			}
+			"french"
+			{
+				"tokens"
+				{
+					"#status_map"		"%map%"
+					"#status_hero"		"%hero%"
+					"#status_level"		"Lv%level%"
+					"#status_playerinfo"		"{#Status_Level} {#Status_Hero} {#Status_Map}"
+				}
+			}
+			"italian"
+			{
+				"tokens"
+				{
+					"#status_map"		"%map%"
+					"#status_hero"		"%hero%"
+					"#status_level"		"Lv%level%"
+					"#status_playerinfo"		"{#Status_Level} {#Status_Hero} {#Status_Map}"
+				}
+			}
+			"koreana"
+			{
+				"tokens"
+				{
+					"#status_map"		"%map%"
+					"#status_hero"		"%hero%"
+					"#status_level"		"Lv%level%"
+					"#status_playerinfo"		"{#Status_Level} {#Status_Hero} {#Status_Map}"
+				}
+			}
+			"spanish"
+			{
+				"tokens"
+				{
+					"#status_map"		"%map%"
+					"#status_hero"		"%hero%"
+					"#status_level"		"Lv%level%"
+					"#status_playerinfo"		"{#Status_Level} {#Status_Hero} {#Status_Map}"
+				}
+			}
+			"schinese"
+			{
+				"tokens"
+				{
+					"#status_map"		"%map%"
+					"#status_hero"		"%hero%"
+					"#status_level"		"Lv%level%"
+					"#status_playerinfo"		"{#Status_Level} {#Status_Hero} {#Status_Map}"
+				}
+			}
+			"tchinese"
+			{
+				"tokens"
+				{
+					"#status_map"		"%map%"
+					"#status_hero"		"%hero%"
+					"#status_level"		"Lv%level%"
+					"#status_playerinfo"		"{#Status_Level} {#Status_Hero} {#Status_Map}"
+				}
+			}
+			"russian"
+			{
+				"tokens"
+				{
+					"#status_map"		"%map%"
+					"#status_hero"		"%hero%"
+					"#status_level"		"Lv%level%"
+					"#status_playerinfo"		"{#Status_Level} {#Status_Hero} {#Status_Map}"
+				}
+			}
+			"thai"
+			{
+				"tokens"
+				{
+					"#status_map"		"%map%"
+					"#status_hero"		"%hero%"
+					"#status_level"		"Lv%level%"
+					"#status_playerinfo"		"{#Status_Level} {#Status_Hero} {#Status_Map}"
+				}
+			}
+			"japanese"
+			{
+				"tokens"
+				{
+					"#status_map"		"%map%"
+					"#status_hero"		"%hero%"
+					"#status_level"		"Lv%level%"
+					"#status_playerinfo"		"{#Status_Level} {#Status_Hero} {#Status_Map}"
+				}
+			}
+			"polish"
+			{
+				"tokens"
+				{
+					"#status_map"		"%map%"
+					"#status_hero"		"%hero%"
+					"#status_level"		"Lv%level%"
+					"#status_playerinfo"		"{#Status_Level} {#Status_Hero} {#Status_Map}"
+				}
+			}
+			"portuguese"
+			{
+				"tokens"
+				{
+					"#status_map"		"%map%"
+					"#status_hero"		"%hero%"
+					"#status_level"		"Lv%level%"
+					"#status_playerinfo"		"{#Status_Level} {#Status_Hero} {#Status_Map}"
+				}
+			}
+			"arabic"
+			{
+				"tokens"
+				{
+					"#status_map"		"%map%"
+					"#status_hero"		"%hero%"
+					"#status_level"		"Lv%level%"
+					"#status_playerinfo"		"{#Status_Level} {#Status_Hero} {#Status_Map}"
+				}
+			}
+			"bulgarian"
+			{
+				"tokens"
+				{
+					"#status_map"		"%map%"
+					"#status_hero"		"%hero%"
+					"#status_level"		"Lv%level%"
+					"#status_playerinfo"		"{#Status_Level} {#Status_Hero} {#Status_Map}"
+				}
+			}
+			"czech"
+			{
+				"tokens"
+				{
+					"#status_map"		"%map%"
+					"#status_hero"		"%hero%"
+					"#status_level"		"Lv%level%"
+					"#status_playerinfo"		"{#Status_Level} {#Status_Hero} {#Status_Map}"
+				}
+			}
+			"danish"
+			{
+				"tokens"
+				{
+					"#status_map"		"%map%"
+					"#status_hero"		"%hero%"
+					"#status_level"		"Lv%level%"
+					"#status_playerinfo"		"{#Status_Level} {#Status_Hero} {#Status_Map}"
+				}
+			}
+			"dutch"
+			{
+				"tokens"
+				{
+					"#status_map"		"%map%"
+					"#status_hero"		"%hero%"
+					"#status_level"		"Lv%level%"
+					"#status_playerinfo"		"{#Status_Level} {#Status_Hero} {#Status_Map}"
+				}
+			}
+			"finnish"
+			{
+				"tokens"
+				{
+					"#status_map"		"%map%"
+					"#status_hero"		"%hero%"
+					"#status_level"		"Lv%level%"
+					"#status_playerinfo"		"{#Status_Level} {#Status_Hero} {#Status_Map}"
+				}
+			}
+			"greek"
+			{
+				"tokens"
+				{
+					"#status_map"		"%map%"
+					"#status_hero"		"%hero%"
+					"#status_level"		"Lv%level%"
+					"#status_playerinfo"		"{#Status_Level} {#Status_Hero} {#Status_Map}"
+				}
+			}
+			"hungarian"
+			{
+				"tokens"
+				{
+					"#status_map"		"%map%"
+					"#status_hero"		"%hero%"
+					"#status_level"		"Lv%level%"
+					"#status_playerinfo"		"{#Status_Level} {#Status_Hero} {#Status_Map}"
+				}
+			}
+			"norwegian"
+			{
+				"tokens"
+				{
+					"#status_map"		"%map%"
+					"#status_hero"		"%hero%"
+					"#status_level"		"Lv%level%"
+					"#status_playerinfo"		"{#Status_Level} {#Status_Hero} {#Status_Map}"
+				}
+			}
+			"brazilian"
+			{
+				"tokens"
+				{
+					"#status_map"		"%map%"
+					"#status_hero"		"%hero%"
+					"#status_level"		"Lv%level%"
+					"#status_playerinfo"		"{#Status_Level} {#Status_Hero} {#Status_Map}"
+				}
+			}
+			"romanian"
+			{
+				"tokens"
+				{
+					"#status_map"		"%map%"
+					"#status_hero"		"%hero%"
+					"#status_level"		"Lv%level%"
+					"#status_playerinfo"		"{#Status_Level} {#Status_Hero} {#Status_Map}"
+				}
+			}
+			"latam"
+			{
+				"tokens"
+				{
+					"#status_map"		"%map%"
+					"#status_hero"		"%hero%"
+					"#status_level"		"Lv%level%"
+					"#status_playerinfo"		"{#Status_Level} {#Status_Hero} {#Status_Map}"
+				}
+			}
+			"swedish"
+			{
+				"tokens"
+				{
+					"#status_map"		"%map%"
+					"#status_hero"		"%hero%"
+					"#status_level"		"Lv%level%"
+					"#status_playerinfo"		"{#Status_Level} {#Status_Hero} {#Status_Map}"
+				}
+			}
+			"turkish"
+			{
+				"tokens"
+				{
+					"#status_map"		"%map%"
+					"#status_hero"		"%hero%"
+					"#status_level"		"Lv%level%"
+					"#status_playerinfo"		"{#Status_Level} {#Status_Hero} {#Status_Map}"
+				}
+			}
+			"ukrainian"
+			{
+				"tokens"
+				{
+					"#status_map"		"%map%"
+					"#status_hero"		"%hero%"
+					"#status_level"		"Lv%level%"
+					"#status_playerinfo"		"{#Status_Level} {#Status_Hero} {#Status_Map}"
+				}
+			}
+			"vietnamese"
+			{
+				"tokens"
+				{
+					"#status_map"		"%map%"
+					"#status_hero"		"%hero%"
+					"#status_level"		"Lv%level%"
+					"#status_playerinfo"		"{#Status_Level} {#Status_Hero} {#Status_Map}"
+				}
+			}
+			"indonesian"
+			{
+				"tokens"
+				{
+					"#status_map"		"%map%"
+					"#status_hero"		"%hero%"
+					"#status_level"		"Lv%level%"
+					"#status_playerinfo"		"{#Status_Level} {#Status_Hero} {#Status_Map}"
+				}
+			}
+		}
+	}
+}
