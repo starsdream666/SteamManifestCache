@@ -1,0 +1,266 @@
+"appinfo"
+{
+	"appid"		"1533390"
+	"common"
+	{
+		"name"		"Gorilla Tag"
+		"type"		"Game"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1533390_eula_1"
+				"name"		"Gorilla Tag EULA"
+				"url"		"https://store.steampowered.com//eula/1533390_eula_1"
+				"version"		"3"
+			}
+		}
+		"logo"		"0ba6a777c8d69361e29ed8d482414a58fbec89dd"
+		"logo_small"		"0ba6a777c8d69361e29ed8d482414a58fbec89dd_thumb"
+		"icon"		"50e703e1d3f97380214e300802694cbb78939191"
+		"clienticon"		"869ba51e581ff66829ebf25fac9ea1068eac6f74"
+		"clienttga"		"9756cc99dcff0f41e67dfa6f4898dba0bbf4496a"
+		"releasestate"		"released"
+		"openvrsupport"		"1"
+		"othervrsupport"		"1"
+		"othervrsupport_rift_13"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1644537600"
+			"tested_build_id"		"0"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_VR"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"25.581395348837205"
+				"height_pct"		"51.51982901923534"
+			}
+		}
+		"store_asset_mtime"		"1672251302"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Another Axiom"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Another Axiom"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_27"		"1"
+			"category_35"		"1"
+			"category_52"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1672595580"
+		"community_hub_visible"		"1"
+		"gameid"		"1533390"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"1721"
+			"1"		"21978"
+			"2"		"3859"
+			"3"		"4036"
+			"4"		"1667"
+			"5"		"3839"
+			"6"		"4136"
+			"7"		"3978"
+			"8"		"4191"
+			"9"		"5395"
+			"10"		"19"
+			"11"		"1775"
+			"12"		"1625"
+			"13"		"597"
+			"14"		"3968"
+			"15"		"30358"
+			"16"		"24904"
+			"17"		"4835"
+			"18"		"493"
+			"19"		"4094"
+		}
+		"review_score"		"8"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"0"
+		"developer"		"Another Axiom"
+		"publisher"		"Another Axiom"
+		"homepage"		"https://gorillatagvr.com/"
+		"listofdlc"		"1564750"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Gorilla Tag"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Gorilla Tag.exe"
+				"arguments"		"-vrmode openvr"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Gorilla Tag.exe"
+				"arguments"		"-vrmode oculus"
+				"type"		"othervr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1533391"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7879805303656311610"
+					"size"		"1271417655"
+					"download"		"428562144"
+				}
+				"beta"
+				{
+					"gid"		"2269080217743564656"
+					"size"		"1142386092"
+					"download"		"362667600"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"05F628F265CAE8F2ADC2EFAFE8531A0E"
+					"size"		"9D29C6D3021B4E9A1E6643A3BD331D5B"
+					"download"		"8980194BE8A4D7071B7C4600396F2175"
+				}
+				"gamma"
+				{
+					"gid"		"A87F01C5586BF5F88EBABAC1D0B0627E"
+					"size"		"007729215B235F9C9556E06B05CF4308"
+					"download"		"D69F5DD6CC1703D353BC4EC769BBD7A2"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12252495"
+				"timeupdated"		"1695402171"
+			}
+			"alpha"
+			{
+				"buildid"		"12262002"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695433512"
+			}
+			"beta"
+			{
+				"buildid"		"11818935"
+				"description"		"beta"
+				"timeupdated"		"1690637838"
+			}
+			"gamma"
+			{
+				"buildid"		"12237303"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695221652"
+			}
+		}
+	}
+}
