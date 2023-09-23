@@ -1,0 +1,548 @@
+"appinfo"
+{
+	"appid"		"1061910"
+	"common"
+	{
+		"name"		"Metal: Hellsinger"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"logo"		"1ae5fabc378f6ca3ad2a9f5a3da9dda61f86abd5"
+		"logo_small"		"1ae5fabc378f6ca3ad2a9f5a3da9dda61f86abd5_thumb"
+		"icon"		"380101087101052cd304c1bc107672e6c0da815e"
+		"clienticon"		"2930f56fb1cd3596fd8b1f1214fa9321c56a6e07"
+		"clienttga"		"8fea580e22e72c579cb75325f19776db07b652bb"
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"polish"		"1"
+			"brazilian"		"1"
+			"ukrainian"		"1"
+		}
+		"osextended"		""
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1061910_eula_0"
+				"name"		"Metal: Hellsinger EULA"
+				"url"		"https://store.steampowered.com//eula/1061910_eula_0"
+				"version"		"1"
+			}
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1665187200"
+			"tested_build_id"		"9324567"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"82.23218654866129"
+				"height_pct"		"90.16606583535253"
+			}
+		}
+		"store_asset_mtime"		"1686728682"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"The Outsiders"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Funcom"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_22"		"1"
+			"category_18"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1663228792"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1061910"
+		"store_tags"
+		{
+			"0"		"1752"
+			"1"		"4166"
+			"2"		"1663"
+			"3"		"4182"
+			"4"		"19"
+			"5"		"1621"
+			"6"		"1774"
+			"7"		"9541"
+			"8"		"3993"
+			"9"		"3839"
+			"10"		"21"
+			"11"		"7208"
+			"12"		"5154"
+			"13"		"4191"
+			"14"		"4252"
+			"15"		"4145"
+			"16"		"4342"
+			"17"		"4604"
+			"18"		"5094"
+			"19"		"1684"
+		}
+		"review_score"		"9"
+		"review_percentage"		"97"
+	}
+	"extended"
+	{
+		"developer"		"The Outsiders"
+		"publisher"		"Funcom"
+		"homepage"		"https://www.metalhellsinger.com/"
+		"listofdlc"		"2252490,2392613"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Metal Hellsinger"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"Metal.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamdecktouchscreen"		"1"
+		"steamcontrollertemplateindex"		"2"
+		"steamconfigurator3rdpartynative"		"65532"
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1061912"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5025047290610661768"
+					"size"		"13533993704"
+					"download"		"7454270656"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"baseline"
+				{
+					"gid"		"DDE212B7C0491D5D0AADE9B4874D219F"
+					"size"		"F547F3B79BA39404E79A56C638345E7E"
+					"download"		"727E72DB688A35897BC57E9D426E8868"
+				}
+				"dob_external"
+				{
+					"gid"		"CA49FA30965789DBB5B9D0C86D98A4DB"
+					"size"		"5261F0E44E410F3C4EDA45300799EBA3"
+					"download"		"C929559E588F358E2CB8455D3A64CABE"
+				}
+				"funcom_playtest"
+				{
+					"gid"		"7A9B59F99BC42396FF6BD7125FE97A82"
+					"size"		"F55BAF33F664AE63180E0A079057BDFA"
+					"download"		"45C931227FBFD0F50F555596DF5B2C33"
+				}
+				"funcom_review"
+				{
+					"gid"		"C85CE14634F18B1BBA4FDD6D89843808"
+					"size"		"887166437EDD1ED37B5ED70EA81B47E1"
+					"download"		"46E961AEE6B62BC21F45C407AB9EEB07"
+				}
+				"live_backup"
+				{
+					"gid"		"693A4702DE6F65702F3B7BBAD39CEC35"
+					"size"		"E06454843A83998BE6B5468970F6A2FC"
+					"download"		"C8D58D1937B8257541D81681312B2C2B"
+				}
+				"live_ref_cheat"
+				{
+					"gid"		"5454B492C1513E0CD5FB608F7F66F8E0"
+					"size"		"314E697119A882EEB8ADBD7D12C67B10"
+					"download"		"BFA46C39C42010C2805530035A11D730"
+				}
+				"localization"
+				{
+					"gid"		"9DC3850A43402FB71B05C8548A917262"
+					"size"		"566EEEE6077D8D659423C9983CED6A61"
+					"download"		"D9BA36645C04909B48010C65C7A450E2"
+				}
+				"main_cert_cheat_auto"
+				{
+					"gid"		"8FA441464A8620C65C546B2CE1CAA8E9"
+					"size"		"067A4B47D4530A043DA0B492103C8F33"
+					"download"		"706C549E17E84E136DC8ADD10A76FD54"
+				}
+				"main_cert_final_auto"
+				{
+					"gid"		"0F0CCAFAD0BBCD4EDD558D69D6EAED70"
+					"size"		"8C177ACC65806DA0D43B9BF9A3DD92FA"
+					"download"		"9EBB92253021FFBBD3E425CF830861B3"
+				}
+				"main_final_autoupload"
+				{
+					"gid"		"7A395357F29B7162822922F663FC6A32"
+					"size"		"71C99A6FE32DCDAB7F98CCBF8BEA7700"
+					"download"		"A1A9F58F5696D5E8C7962074BA283A75"
+				}
+				"marketing"
+				{
+					"gid"		"D702C1C7AECFA63D4891EABB921DA71F"
+					"size"		"29DE353EBF0B2E5EE390177A49C86F40"
+					"download"		"67B61776C34FA4542DADAED1D5DEB928"
+				}
+				"marketing_content_rec"
+				{
+					"gid"		"82D68FD48F0C91367AD140F6C4329831"
+					"size"		"C8382795A8ECB7A817E5FE6A7C7B07F0"
+					"download"		"3C5832AA841FD3E1F72A0A2D5071B640"
+				}
+				"qatesting"
+				{
+					"gid"		"FFF5B3BD6A392A8559C0D9FC3777DD2E"
+					"size"		"FF7489004E23E5A0F43E402D3F78A78C"
+					"download"		"072F3EBFEFDE7313BE138D82BB518AD1"
+				}
+				"qatesting2"
+				{
+					"gid"		"52722C50A561950229F272D60496FD13"
+					"size"		"EDE4A7277CFA6E32B052F32082A4D619"
+					"download"		"40A9E58065EDB0EC3AD201753370EB78"
+				}
+				"staging"
+				{
+					"gid"		"39B4EBE52A23076E588F98F796C2FE2F"
+					"size"		"930A8D66DFC6C9E7896EABD9C0BC0A4B"
+					"download"		"B0F5739A1B2D79A46920AB2BBFC8B87D"
+				}
+				"temp_external"
+				{
+					"gid"		"AD25311D1B33B643264FD84C79166776"
+					"size"		"A24D72017DFAE665B765829FD6F1D695"
+					"download"		"859496FF81B75C9559AD6FE7F90F832A"
+				}
+				"testbuilds"
+				{
+					"gid"		"097AB2F23D0714CFE4D131EDF8060CDA"
+					"size"		"8E0E7A4CF0DE583BE785DD4651B0A9F7"
+					"download"		"C56CF54C1EE002701EC90D2816AE605D"
+				}
+				"testbuilds_autoupload"
+				{
+					"gid"		"C5E9698B16EA01F7237AF6D320832D8E"
+					"size"		"1BBCC02526206671A06FEF55A3F8BF07"
+					"download"		"BC60D82342FB8D92BF9EE5796365EBB7"
+				}
+				"testbuilds3"
+				{
+					"gid"		"2021B3719A19460E9D134EA0680DF176"
+					"size"		"E30A8A877102A857BF72A61AD9FB6EC8"
+					"download"		"758D446BED7DE6160F56B0E5CEE0027B"
+				}
+			}
+		}
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,brazilian,ukrainian"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11486595"
+				"timeupdated"		"1687334401"
+			}
+			"baseline"
+			{
+				"buildid"		"9251105"
+				"pwdrequired"		"1"
+				"timeupdated"		"1668502637"
+			}
+			"dob_external"
+			{
+				"buildid"		"10650391"
+				"pwdrequired"		"1"
+				"timeupdated"		"1678712830"
+			}
+			"funcom_playtest"
+			{
+				"buildid"		"12057553"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693466542"
+			}
+			"funcom_review"
+			{
+				"buildid"		"12057553"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693466632"
+			}
+			"live_backup"
+			{
+				"buildid"		"11313851"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687333278"
+			}
+			"live_ref_cheat"
+			{
+				"buildid"		"11049154"
+				"pwdrequired"		"1"
+				"timeupdated"		"1684142106"
+			}
+			"localization"
+			{
+				"buildid"		"11304081"
+				"pwdrequired"		"1"
+				"timeupdated"		"1684912537"
+			}
+			"main_cert_cheat_auto"
+			{
+				"buildid"		"12234256"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695199735"
+			}
+			"main_cert_final_auto"
+			{
+				"buildid"		"12234129"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695198925"
+			}
+			"main_final_autoupload"
+			{
+				"buildid"		"12260863"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695419057"
+			}
+			"marketing"
+			{
+				"buildid"		"11313927"
+				"pwdrequired"		"1"
+				"timeupdated"		"1685003876"
+			}
+			"marketing_content_rec"
+			{
+				"buildid"		"8933568"
+				"pwdrequired"		"1"
+				"timeupdated"		"1655717721"
+			}
+			"qatesting"
+			{
+				"buildid"		"12245981"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695296436"
+			}
+			"qatesting2"
+			{
+				"buildid"		"12255942"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695382407"
+			}
+			"staging"
+			{
+				"buildid"		"11486595"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687256128"
+			}
+			"temp_external"
+			{
+				"buildid"		"12225964"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695132288"
+			}
+			"testbuilds"
+			{
+				"buildid"		"12057553"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693302084"
+			}
+			"testbuilds_autoupload"
+			{
+				"buildid"		"12258353"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695397312"
+			}
+			"testbuilds3"
+			{
+				"buildid"		"11486595"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686922831"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"TheOutsiders/Metal/Save/"
+				"pattern"		"SaveData"
+			}
+		}
+	}
+}
