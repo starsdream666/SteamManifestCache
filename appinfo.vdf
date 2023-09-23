@@ -1,0 +1,730 @@
+"appinfo"
+{
+	"appid"		"598330"
+	"common"
+	{
+		"name"		"SimAirport"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"logo"		"c8a4e706c09bd27bf6ec46787c0368a4d1d0bf96"
+		"logo_small"		"c8a4e706c09bd27bf6ec46787c0368a4d1d0bf96_thumb"
+		"icon"		"abc4bf1c43abce552cdde50f69cd9ba5f9371a09"
+		"clienticon"		"9e2eeabb0088b4854dfff6fb172419ab675322c9"
+		"clienttga"		"6fc7ad19d181ec43bcf4445e72812febd7d8f5be"
+		"linuxclienticon"		"88aeaebf043b4fdb9c56f82fda83242c894b3ee2"
+		"clienticns"		"947eefc1b263ec62c6f63103aa95e2f754a24e43"
+		"releasestate"		"released"
+		"osextended"		"macos64"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1682121600"
+			"tested_build_id"		"9063315"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"SimAirport"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1583218335"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"LVGameDev LLC"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"LVGameDev LLC"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"28"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_29"		"1"
+			"category_30"		"1"
+			"category_22"		"1"
+			"category_17"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1582942946"
+		"steam_deck_blog_url"		"https://steamcommunity.com/app/598330/eventcomments/3182361055549393968"
+		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"598330"
+		"store_tags"
+		{
+			"0"		"15045"
+			"1"		"4328"
+			"2"		"597"
+			"3"		"12472"
+			"4"		"4695"
+			"5"		"7332"
+			"6"		"1643"
+			"7"		"3810"
+			"8"		"9"
+			"9"		"599"
+			"10"		"3871"
+			"11"		"3964"
+			"12"		"8945"
+			"13"		"4182"
+			"14"		"492"
+			"15"		"493"
+			"16"		"19"
+			"17"		"4136"
+			"18"		"113"
+		}
+		"review_score"		"6"
+		"review_percentage"		"78"
+	}
+	"extended"
+	{
+		"developer"		"LVGameDev LLC"
+		"publisher"		"LVGameDev LLC"
+		"homepage"		"http://www.SimAirport.com/"
+		"listofdlc"		"1245110"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"SimAirport"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SimAirport.app\\Contents\\MacOS\\SimAirport"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"1"
+			{
+				"executable"		"SimAirport.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"SimAirport.x86"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"32"
+				}
+			}
+			"3"
+			{
+				"executable"		"SimAirport.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigdetails"
+		{
+			"2764673216"
+			{
+				"controller_type"		"controller_neptune"
+				"enabled_branches"		"default,edge,internal"
+				"use_action_block"		"false"
+			}
+		}
+	}
+	"depots"
+	{
+		"workshopdepot"		"598330"
+		"hasdepotsindlc"		"0"
+		"598331"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8375493940645138150"
+					"size"		"1831493216"
+					"download"		"480055088"
+				}
+				"archived_december_2017"
+				{
+					"gid"		"4764948430680060146"
+					"size"		"1653252249"
+					"download"		"220333632"
+				}
+				"archived_june12_2017"
+				{
+					"gid"		"7452419246599153682"
+					"size"		"1147181334"
+					"download"		"134660080"
+				}
+				"archived_may20_2017"
+				{
+					"gid"		"8702415716216438069"
+					"size"		"1425237730"
+					"download"		"134879504"
+				}
+				"edge"
+				{
+					"gid"		"909300227652782691"
+					"size"		"1831500027"
+					"download"		"480057184"
+				}
+				"prior-default"
+				{
+					"gid"		"2973595994978706245"
+					"size"		"4772130106"
+					"download"		"518291552"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal"
+				{
+					"gid"		"23BBEE1A68FFA06944A764A00693F678"
+					"size"		"71F9A3F644B2D3B1B051DE4BD0BE12F0"
+					"download"		"3520BB7F7BF9DF7F486F9EDC7C9A36B9"
+				}
+				"modding"
+				{
+					"gid"		"5C25ABD0639071A6DAC68E14337FB972"
+					"size"		"6CD78B40B37D0ABED3B08A916FC3C164"
+					"download"		"1FA2AB207C6DB9DF9AF9F4E37B4D8EF0"
+				}
+			}
+		}
+		"598332"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"32"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5741933852282588583"
+					"size"		"0"
+					"download"		"0"
+				}
+				"archived_december_2017"
+				{
+					"gid"		"3487996447123314443"
+					"size"		"1673060415"
+					"download"		"224950592"
+				}
+				"archived_june12_2017"
+				{
+					"gid"		"4988605734205773722"
+					"size"		"1166881027"
+					"download"		"139314960"
+				}
+				"archived_may20_2017"
+				{
+					"gid"		"8267514882878920684"
+					"size"		"1444937503"
+					"download"		"139532528"
+				}
+				"edge"
+				{
+					"gid"		"5741933852282588583"
+					"size"		"0"
+					"download"		"0"
+				}
+				"prior-default"
+				{
+					"gid"		"5741933852282588583"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal"
+				{
+					"gid"		"420EA3B63A6C41A3316647D4264E6364"
+					"size"		"CBDC0A62ABF6EACF881F8D767E234EE8"
+					"download"		"CBDC0A62ABF6EACF881F8D767E234EE8"
+				}
+				"modding"
+				{
+					"gid"		"6D11F624527B9927E03C71DAA91C500C"
+					"size"		"DC15519F1B120BD64050A02CFC4F0657"
+					"download"		"DC15519F1B120BD64050A02CFC4F0657"
+				}
+			}
+		}
+		"598333"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1256018490953285857"
+					"size"		"1839771256"
+					"download"		"482467648"
+				}
+				"archived_december_2017"
+				{
+					"gid"		"5205195674404650342"
+					"size"		"1659519129"
+					"download"		"221404304"
+				}
+				"archived_june12_2017"
+				{
+					"gid"		"9180090054442272940"
+					"size"		"1152827110"
+					"download"		"136720608"
+				}
+				"archived_may20_2017"
+				{
+					"gid"		"9027726093854815953"
+					"size"		"1430883642"
+					"download"		"136901472"
+				}
+				"edge"
+				{
+					"gid"		"7238125266646777122"
+					"size"		"1839778067"
+					"download"		"482470272"
+				}
+				"prior-default"
+				{
+					"gid"		"7075110056093242781"
+					"size"		"4779748498"
+					"download"		"519915712"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal"
+				{
+					"gid"		"A7602F31F84EC749BD26CAD46A4F9B47"
+					"size"		"7B313F10E76A464D6DCA8C6F9C574DDD"
+					"download"		"BE86D2BC8C511B6BBE76BC1AEFFADE99"
+				}
+				"modding"
+				{
+					"gid"		"F363B51CBA329EAD884118D80506CED1"
+					"size"		"E05CF69CA950724387D04BE3C2E10131"
+					"download"		"62EA00594F007E4479CE4C32E7BFB842"
+				}
+			}
+		}
+		"598334"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7667611228206724151"
+					"size"		"1842295957"
+					"download"		"482207520"
+				}
+				"archived_december_2017"
+				{
+					"gid"		"838847705992366726"
+					"size"		"1674128631"
+					"download"		"224480368"
+				}
+				"archived_june12_2017"
+				{
+					"gid"		"3042240150105110661"
+					"size"		"1170236171"
+					"download"		"140236720"
+				}
+				"archived_may20_2017"
+				{
+					"gid"		"1448008293306132604"
+					"size"		"1448292647"
+					"download"		"140398016"
+				}
+				"edge"
+				{
+					"gid"		"3584687519739791392"
+					"size"		"1842303272"
+					"download"		"482208848"
+				}
+				"prior-default"
+				{
+					"gid"		"1217141830282491073"
+					"size"		"4782664529"
+					"download"		"520160720"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal"
+				{
+					"gid"		"8834DDC4CE4D4619BBC344CC11DA0E10"
+					"size"		"1422D0FCD5ED9A9DAE89F51F345D4EA3"
+					"download"		"281E215ACF15A4BCF350D5987F3415B4"
+				}
+				"modding"
+				{
+					"gid"		"698A61BD775D03791D879C9F3EC052EA"
+					"size"		"19155F59F4E2DD80BDB3021162AC7047"
+					"download"		"85A354023ED37CFAF1D3D108C427F205"
+				}
+			}
+		}
+		"598335"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"32"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8034349298547783775"
+					"size"		"0"
+					"download"		"0"
+				}
+				"archived_december_2017"
+				{
+					"gid"		"4271278542835255684"
+					"size"		"1665375825"
+					"download"		"225899968"
+				}
+				"edge"
+				{
+					"gid"		"8034349298547783775"
+					"size"		"0"
+					"download"		"0"
+				}
+				"prior-default"
+				{
+					"gid"		"8034349298547783775"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal"
+				{
+					"gid"		"5756908E2768835615C951582715277A"
+					"size"		"CBDC0A62ABF6EACF881F8D767E234EE8"
+					"download"		"CBDC0A62ABF6EACF881F8D767E234EE8"
+				}
+				"modding"
+				{
+					"gid"		"B7C610EBBF9B0E3497DBB22C77231394"
+					"size"		"DC15519F1B120BD64050A02CFC4F0657"
+					"download"		"DC15519F1B120BD64050A02CFC4F0657"
+				}
+			}
+		}
+		"598336"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2585207710861374203"
+					"size"		"1849347069"
+					"download"		"484579712"
+				}
+				"archived_december_2017"
+				{
+					"gid"		"6418849826290106618"
+					"size"		"1665008009"
+					"download"		"226062112"
+				}
+				"edge"
+				{
+					"gid"		"1976019874829781264"
+					"size"		"1849354392"
+					"download"		"484582288"
+				}
+				"prior-default"
+				{
+					"gid"		"9103950021897888126"
+					"size"		"4781886981"
+					"download"		"522719936"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal"
+				{
+					"gid"		"8FD860CD742599723B64B0FFD05641AD"
+					"size"		"45F3BC63F535D2BC05FE5006CD9FF4B2"
+					"download"		"9557BE9F01F10812BB3553DF1AE22D90"
+				}
+				"modding"
+				{
+					"gid"		"087D33DE63BAB19DDB774C1ABA948075"
+					"size"		"C53DF6C17F92909577C7B4CE3D5365BF"
+					"download"		"35B5DEBF4D8B0F937B8AE6729A80F914"
+				}
+			}
+		}
+		"1245110"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8908916292647536407"
+					"size"		"10481463"
+					"download"		"10624864"
+				}
+				"edge"
+				{
+					"gid"		"8908916292647536407"
+					"size"		"10481463"
+					"download"		"10624864"
+				}
+				"prior-default"
+				{
+					"gid"		"8908916292647536407"
+					"size"		"10481463"
+					"download"		"10624864"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"modding"
+				{
+					"gid"		"45B6B9C7732DFF50DC9F97A2EFAD2DFB"
+					"size"		"B57D6F761B62127D390286C2328215C6"
+					"download"		"972C97E3F7D5C6679A750AEC30FD5A28"
+				}
+			}
+			"dlcappid"		"1245110"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9063315"
+				"timeupdated"		"1657021128"
+			}
+			"archived_december_2017"
+			{
+				"buildid"		"2399518"
+				"timeupdated"		"1523083017"
+			}
+			"archived_june12_2017"
+			{
+				"buildid"		"1885389"
+				"timeupdated"		"1497913819"
+			}
+			"archived_may20_2017"
+			{
+				"buildid"		"1835821"
+				"timeupdated"		"1498105915"
+			}
+			"edge"
+			{
+				"buildid"		"9071059"
+				"timeupdated"		"1657110563"
+			}
+			"internal"
+			{
+				"buildid"		"9071041"
+				"pwdrequired"		"1"
+				"timeupdated"		"1657110318"
+			}
+			"modding"
+			{
+				"buildid"		"7989779"
+				"pwdrequired"		"1"
+				"timeupdated"		"1641657382"
+			}
+			"prior-default"
+			{
+				"buildid"		"5417374"
+				"description"		"prior default"
+				"timeupdated"		"1641055455"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"7500"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"LVGameDev LLC/SimAirport/SavesDir"
+				"pattern"		"*.airport"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"LVGameDev LLC/SimAirport/SavesDir"
+						"replace"		"unity.LVGameDev LLC.SimAirport/SavesDir"
+					}
+				}
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxHome"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"LVGameDev LLC/SimAirport/SavesDir"
+						"replace"		".config/unity3d/LVGameDev LLC/SimAirport/SavesDir"
+					}
+				}
+			}
+		}
+	}
+}
