@@ -1,0 +1,1268 @@
+"appinfo"
+{
+	"appid"		"410900"
+	"common"
+	{
+		"name"		"Forts"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"logo"		"c1f613d7eaea84e15dd67f4caf8cd2438380be1b"
+		"logo_small"		"c1f613d7eaea84e15dd67f4caf8cd2438380be1b_thumb"
+		"icon"		"6f66ef3d1d16c7ce05df792b879f9a799221e3da"
+		"clienttga"		"f6074190296d77bd9d270c8ae6a500152d2ea962"
+		"clienticon"		"eb31410233662accfc2bb99254a73323b43ecf7a"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"portuguese"		"1"
+			"polish"		"1"
+			"hungarian"		"1"
+			"turkish"		"1"
+			"brazilian"		"1"
+		}
+		"osarch"		"64"
+		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1660780800"
+			"tested_build_id"		"8593940"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-3"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Forts"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn"
+			"library_hero"		"en"
+			"library_logo"		"en,zh-cn"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1687181522"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"EarthWork Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"EarthWork Games"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Forts"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_36"		"1"
+			"category_38"		"1"
+			"category_22"		"1"
+			"category_17"		"1"
+			"category_30"		"1"
+			"category_25"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_9"		"1"
+			"category_47"		"1"
+			"category_48"		"1"
+			"category_23"		"1"
+			"category_29"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_13"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"hungarian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"slovak"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1492585200"
+		"steam_release_date"		"1492599600"
+		"metacritic_score"		"74"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/forts?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"410900"
+		"store_tags"
+		{
+			"0"		"7332"
+			"1"		"3859"
+			"2"		"3968"
+			"3"		"5363"
+			"4"		"9"
+			"5"		"1643"
+			"6"		"1669"
+			"7"		"3810"
+			"8"		"19"
+			"9"		"3871"
+			"10"		"4168"
+			"11"		"10397"
+			"12"		"1708"
+			"13"		"492"
+			"14"		"8122"
+			"15"		"4136"
+			"16"		"4182"
+			"17"		"4004"
+			"18"		"3964"
+			"19"		"17337"
+		}
+		"review_score"		"8"
+		"review_percentage"		"91"
+	}
+	"extended"
+	{
+		"gamedir"		"forts"
+		"serverbrowsername"		"Forts"
+		"developer"		"EarthWork Games"
+		"publisher"		"EarthWork Games"
+		"homepage"		"http://www.earthworkgames.com"
+		"listofdlc"		"1033530,1335840,1811550,2278070"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Forts"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Forts.exe"
+				"description"		"Launch"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"workshopdepot"		"410900"
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,hungarian,turkish,brazilian"
+		"410901"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6900370758149136372"
+					"size"		"5"
+					"download"		"64"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"build_21b"
+				{
+					"gid"		"FFC0189C690D94A180AD87D2A5E42BBE"
+					"size"		"4DE692969164C84D4221FA1574763418"
+					"download"		"B96FB6FFE709E5AD49399CAD1D7CDB78"
+				}
+				"build_26b"
+				{
+					"gid"		"49DA95A03006042994D292A557DD23CA"
+					"size"		"E26D7CB7786F3B29702D43C42A83F16D"
+					"download"		"5B3B7843CFA0F372CF33CA0E230DC6F9"
+				}
+				"old_build"
+				{
+					"gid"		"F2048208258E4FF07E03C7BBC8723CBC"
+					"size"		"775370B5E621BB675F6F4411A6D052EC"
+					"download"		"5614D79A198124F722AD30FFDDF5D176"
+				}
+				"private_test"
+				{
+					"gid"		"5F364A615B1A92151981BCBCA4F109A6"
+					"size"		"533FACE86BF7B216A9EF6A22210EF334"
+					"download"		"0CB7CBDCD2DBF724ACAB76F5BEE2F08F"
+				}
+				"private_test_217"
+				{
+					"gid"		"F982FA2D1BEB29AFB7FADAB25BC2DADD"
+					"size"		"D9597C5D1E1FF42725F752736ECBD0F0"
+					"download"		"66E73FAC75F4F1D7B11A5889346FB93F"
+				}
+				"private_test_218"
+				{
+					"gid"		"8838A314F3C9755CAA65D1CA4917542C"
+					"size"		"4DA0C7C2E945B275D48A43F0FDA2B28C"
+					"download"		"0EADDB88C2D084F42769193E3A6F7412"
+				}
+				"private_test_219"
+				{
+					"gid"		"3E1B2AC56F8BC8A02DC6154868994CBE"
+					"size"		"40E5141852C3AFF9BB48A345C1C8D0C8"
+					"download"		"F6AEE87F651333C552178D7EA2D41602"
+				}
+				"private_test_220"
+				{
+					"gid"		"74575DCE1093779AA5AEF4A987A569C3"
+					"size"		"0805071B33956B5D210C3B77FC06EE4C"
+					"download"		"41FFEE5C3D8A4B597FB9FFE0202E0469"
+				}
+				"private_test_221"
+				{
+					"gid"		"8802ED9261D3060DABC5971B97E6B3DB"
+					"size"		"BC89707E1B2F42AB0B56831775917393"
+					"download"		"E18F71A2A0FF7C4632659F4659350262"
+				}
+				"private_test_222"
+				{
+					"gid"		"1E893FFA91E88B7F96063F0D1F94FF44"
+					"size"		"9CDBA421663F679F9DE835CC0945062F"
+					"download"		"BC35A32E9451AA0EB53CEC41C959388C"
+				}
+				"private_test_223"
+				{
+					"gid"		"7F01812A88A68F8D07B178C55D6020B5"
+					"size"		"CABBBE2B724888FE86D86C0EA49FE3CE"
+					"download"		"34D6E37AD090D8EB73DA55459EE24FDB"
+				}
+				"private_test_224"
+				{
+					"gid"		"1B074C75AA3443D94634360F33F7862C"
+					"size"		"00B57903BF9ADC84B8F49297DED3FD61"
+					"download"		"914B961E153B6CF2E66845B03BF7722E"
+				}
+				"private_test_225"
+				{
+					"gid"		"61FFDA4B74324324F9430FB130823CC7"
+					"size"		"96B472C97254D6A8606790655F1C0B59"
+					"download"		"CA03B3DFFDE8BBD62A933E8EC5F25C96"
+				}
+				"private_test_226"
+				{
+					"gid"		"4CA436CA31091BF5B045D5D7CF4A6C43"
+					"size"		"404453A7C5AF0F2DA63C85CC5F81ED4E"
+					"download"		"4BA5719A5818428FC9D68A32145D9DEE"
+				}
+				"private_test_226d"
+				{
+					"gid"		"D5FB6E24AA879DD4C8913A1618584FCC"
+					"size"		"C4AE26C3D7F94306AB53F70F21C39FE7"
+					"download"		"9E81D3FB615B9B0EC482816F62B8FC01"
+				}
+				"private_test_227"
+				{
+					"gid"		"A8B3C8B1E6DD7205A2C9D3B2BA47B1ED"
+					"size"		"0E364167FDDF478E589367E3B0F47CC2"
+					"download"		"5B4711C24EE080470C79617F291C4BCD"
+				}
+				"private_test_228"
+				{
+					"gid"		"9A09C5D66C069A4EDA607A6D7405AC5C"
+					"size"		"00064E01E0191F42FE38EBC880D0E464"
+					"download"		"DABF45DB105A61D56FF3A9AACE026C00"
+				}
+				"private_test_228b"
+				{
+					"gid"		"F96A7FDC95931537517EFF0928C4BE98"
+					"size"		"D915444B6F9834BB8852E9CB0B865273"
+					"download"		"E2EEAB37E4635FA86E5E5C830D0A49FF"
+				}
+				"private_test_229"
+				{
+					"gid"		"24B68D84361E4095EA656EF2A58813B0"
+					"size"		"AF8FA9C398F6F75F18094696F1C8B290"
+					"download"		"0D8D96573D19C988DD69FDFD2E5EDDA2"
+				}
+				"release_2022_02_02b"
+				{
+					"gid"		"C2546F69578C86CA7D88C6F17CA61132"
+					"size"		"98B117D6AC6D60E3B6F5DAFD19AF1A79"
+					"download"		"3CF57AABA967D2EFB2AF3324B1791F2D"
+				}
+				"release_2022_02_04"
+				{
+					"gid"		"34D320A0951C1AAD5CD8BC35DA2FBFBA"
+					"size"		"4BD4E131EE54387825E426111D0E29D5"
+					"download"		"2F75811DB34905DDE5C6B9CEE8D52D5D"
+				}
+				"release_2022_02_07"
+				{
+					"gid"		"2FA8FA7675C648EE3BF3D4E461C006C9"
+					"size"		"22362B80EE5E29ADE34130EE80FDE4E9"
+					"download"		"CCF6F934F94ABF2C5C532F8DB721806C"
+				}
+				"unlimited_test"
+				{
+					"gid"		"A94EAC6FFC67A12FE7182BEBC405B368"
+					"size"		"B5A808B9E471E1E2446D39EF8313B6C7"
+					"download"		"A66E7B2E6D312C29953AAB337451BB07"
+				}
+			}
+		}
+		"410902"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3892884393846149881"
+					"size"		"5"
+					"download"		"64"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"build_21b"
+				{
+					"gid"		"BA9C18F824A52D788427D4D4C0D69908"
+					"size"		"4DE692969164C84D4221FA1574763418"
+					"download"		"B96FB6FFE709E5AD49399CAD1D7CDB78"
+				}
+				"build_26b"
+				{
+					"gid"		"9DDCB8CB5FBFE7EC146F042D8BAB6520"
+					"size"		"E26D7CB7786F3B29702D43C42A83F16D"
+					"download"		"5B3B7843CFA0F372CF33CA0E230DC6F9"
+				}
+				"old_build"
+				{
+					"gid"		"71C1CB3F9A70D8C51B029FD0975FB7BD"
+					"size"		"775370B5E621BB675F6F4411A6D052EC"
+					"download"		"5614D79A198124F722AD30FFDDF5D176"
+				}
+				"private_test"
+				{
+					"gid"		"F60E861179BEA4600AC28EE3343BAA67"
+					"size"		"533FACE86BF7B216A9EF6A22210EF334"
+					"download"		"0CB7CBDCD2DBF724ACAB76F5BEE2F08F"
+				}
+				"private_test_217"
+				{
+					"gid"		"276773FDF39EB23E3FF77DF8C901E0CD"
+					"size"		"D9597C5D1E1FF42725F752736ECBD0F0"
+					"download"		"66E73FAC75F4F1D7B11A5889346FB93F"
+				}
+				"private_test_218"
+				{
+					"gid"		"1E3C19903237888B9CCF5191BA4E0040"
+					"size"		"4DA0C7C2E945B275D48A43F0FDA2B28C"
+					"download"		"0EADDB88C2D084F42769193E3A6F7412"
+				}
+				"private_test_219"
+				{
+					"gid"		"C3FD0C6A66E1DEBCF43E6BA95A840256"
+					"size"		"40E5141852C3AFF9BB48A345C1C8D0C8"
+					"download"		"F6AEE87F651333C552178D7EA2D41602"
+				}
+				"private_test_220"
+				{
+					"gid"		"A19FFC0FD5516B0804C7C1D077DC415C"
+					"size"		"0805071B33956B5D210C3B77FC06EE4C"
+					"download"		"41FFEE5C3D8A4B597FB9FFE0202E0469"
+				}
+				"private_test_221"
+				{
+					"gid"		"35CF2EB5DFB421CD640F1A23B0605FAC"
+					"size"		"BC89707E1B2F42AB0B56831775917393"
+					"download"		"E18F71A2A0FF7C4632659F4659350262"
+				}
+				"private_test_222"
+				{
+					"gid"		"9EBFE3A610DAD3433200A674C2D74EB8"
+					"size"		"9CDBA421663F679F9DE835CC0945062F"
+					"download"		"BC35A32E9451AA0EB53CEC41C959388C"
+				}
+				"private_test_223"
+				{
+					"gid"		"B95FF8E9CF91C3D7B605E8DCAF84ACDE"
+					"size"		"CABBBE2B724888FE86D86C0EA49FE3CE"
+					"download"		"34D6E37AD090D8EB73DA55459EE24FDB"
+				}
+				"private_test_224"
+				{
+					"gid"		"816029D8040D85F6403B29A30F60A8BA"
+					"size"		"00B57903BF9ADC84B8F49297DED3FD61"
+					"download"		"914B961E153B6CF2E66845B03BF7722E"
+				}
+				"private_test_225"
+				{
+					"gid"		"47C5ADF7306A5808741BC6CDF015FFB4"
+					"size"		"96B472C97254D6A8606790655F1C0B59"
+					"download"		"CA03B3DFFDE8BBD62A933E8EC5F25C96"
+				}
+				"private_test_226"
+				{
+					"gid"		"7585EF0E1DACBB8B2E6FA076C719BA47"
+					"size"		"404453A7C5AF0F2DA63C85CC5F81ED4E"
+					"download"		"4BA5719A5818428FC9D68A32145D9DEE"
+				}
+				"private_test_226d"
+				{
+					"gid"		"6946A37E187B32A61569338339B7E780"
+					"size"		"C4AE26C3D7F94306AB53F70F21C39FE7"
+					"download"		"9E81D3FB615B9B0EC482816F62B8FC01"
+				}
+				"private_test_227"
+				{
+					"gid"		"F99AC318269B9E2645A4B46F7C0A337F"
+					"size"		"0E364167FDDF478E589367E3B0F47CC2"
+					"download"		"5B4711C24EE080470C79617F291C4BCD"
+				}
+				"private_test_228"
+				{
+					"gid"		"2669E3D3F70D4DBBD14BC50A84B50408"
+					"size"		"00064E01E0191F42FE38EBC880D0E464"
+					"download"		"DABF45DB105A61D56FF3A9AACE026C00"
+				}
+				"private_test_228b"
+				{
+					"gid"		"E078E424BD96BF16EF4DC9421E0F130E"
+					"size"		"D915444B6F9834BB8852E9CB0B865273"
+					"download"		"E2EEAB37E4635FA86E5E5C830D0A49FF"
+				}
+				"private_test_229"
+				{
+					"gid"		"C5BE9019ABFA84EF9BC615AA7610E7E0"
+					"size"		"AF8FA9C398F6F75F18094696F1C8B290"
+					"download"		"0D8D96573D19C988DD69FDFD2E5EDDA2"
+				}
+				"release_2022_02_02b"
+				{
+					"gid"		"D7B7719723FCBE07C93BE6068FBA249C"
+					"size"		"98B117D6AC6D60E3B6F5DAFD19AF1A79"
+					"download"		"3CF57AABA967D2EFB2AF3324B1791F2D"
+				}
+				"release_2022_02_04"
+				{
+					"gid"		"9EC5A0BC6001C20B863B1583181CA843"
+					"size"		"4BD4E131EE54387825E426111D0E29D5"
+					"download"		"2F75811DB34905DDE5C6B9CEE8D52D5D"
+				}
+				"release_2022_02_07"
+				{
+					"gid"		"9809E3F1C24E41C30F379AC941348E62"
+					"size"		"22362B80EE5E29ADE34130EE80FDE4E9"
+					"download"		"CCF6F934F94ABF2C5C532F8DB721806C"
+				}
+				"unlimited_test"
+				{
+					"gid"		"289ADD8C8B4DECA65401C181190D0798"
+					"size"		"B5A808B9E471E1E2446D39EF8313B6C7"
+					"download"		"A66E7B2E6D312C29953AAB337451BB07"
+				}
+			}
+		}
+		"410903"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3298600813158350894"
+					"size"		"1909354884"
+					"download"		"1391898848"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"build_21b"
+				{
+					"gid"		"071A15F281C6189A3C9BE2F57A6CD8D4"
+					"size"		"EB81FE447541FF8C4B6D45ADE394C44D"
+					"download"		"CA424CEF2A188010F515ED467F796949"
+				}
+				"build_26b"
+				{
+					"gid"		"ECD7E0D044AA5A02D3C54F8BAABA52C0"
+					"size"		"C2243602463639A3E20F34C75ECB6908"
+					"download"		"3381121A97A81B12B0017B7791F56907"
+				}
+				"old_build"
+				{
+					"gid"		"36B43C352163DB4D45FBA5E8C29D79C2"
+					"size"		"2C45E807A6873250AE9F9D94B0201A5C"
+					"download"		"35340BD7DF2FCF688973BBB0691711AE"
+				}
+				"private_test"
+				{
+					"gid"		"4496B9ADAD0E41FAD5404A541ED18E3D"
+					"size"		"EB2875F1B9ED7EC6A8662AAB698FE030"
+					"download"		"02C2095F40D6B1C6C408F3C8AA83C29E"
+				}
+				"private_test_217"
+				{
+					"gid"		"E530741C65C033F2E4F2E3A593531FF4"
+					"size"		"C5AAC4E88CF0C354A57CC3EA4D3D3931"
+					"download"		"47B76FE217ECBF4C2967E8F4872D7216"
+				}
+				"private_test_218"
+				{
+					"gid"		"9558FD2C38D54BB1E2D66FFB20259E98"
+					"size"		"321BF8CC94F30C455E102241802E1A6D"
+					"download"		"47484154AB9322CAC7290E7DB73E5435"
+				}
+				"private_test_219"
+				{
+					"gid"		"C699B7269D3398AA03FF8A308EE4854F"
+					"size"		"ACC210265D5B7D587997E52DB2878C42"
+					"download"		"BF11581D52723434F7855CE9B4D21C5F"
+				}
+				"private_test_220"
+				{
+					"gid"		"F7E7BDF54414B436053BCE3488FE41B1"
+					"size"		"7CA2B286ABA28248FFD45349038CE59D"
+					"download"		"6F12ADB85A825931B2BBB683BDC1E620"
+				}
+				"private_test_221"
+				{
+					"gid"		"E3AC5F4B32B56753A9A8263B1676CE3D"
+					"size"		"471C22054C427CB18F769815D4D91F15"
+					"download"		"6EC2074A231A679A46EACB9E84FE97FF"
+				}
+				"private_test_222"
+				{
+					"gid"		"6673B9B8B57C2A61E4AC383FF1309E37"
+					"size"		"5D70D08336DC28253FE7FDA5C5D19D6C"
+					"download"		"7C8229EEA0521DDDD79A840A3740F889"
+				}
+				"private_test_223"
+				{
+					"gid"		"70E25AD0E7DABC2219663B1B4BEF4AB8"
+					"size"		"38FA6984707C28A16E3A3F9FAF141EC7"
+					"download"		"7957D5BAD20A5AF9D3A6B2F9E289404F"
+				}
+				"private_test_224"
+				{
+					"gid"		"0FB2E6D1B38163377975C6C71F0BAA38"
+					"size"		"763F21CDE009F56A92BA5C7CAFAE64E3"
+					"download"		"01316F197F2488F0C0BFE3F97DFDE4EC"
+				}
+				"private_test_225"
+				{
+					"gid"		"EE374D40582DEBECE31784CB2B78CAF3"
+					"size"		"1C1038C7323022366F2B3179FA4337AF"
+					"download"		"5675922EF8E96193D23D09671548494D"
+				}
+				"private_test_226"
+				{
+					"gid"		"0995759DB947EC4C4BF6976015A18A81"
+					"size"		"A0F19A8C922E95410C04F3C8DE075F48"
+					"download"		"5B64AAD50C77B0C51937A8D02A62BA23"
+				}
+				"private_test_226d"
+				{
+					"gid"		"CBDC255A8FBFAF883A6FF09F2FD29FF1"
+					"size"		"63B6CAEE6A112216F3CAA17F0D1A9B53"
+					"download"		"3DB72DBC1A6F012C6E454AC22A5915C2"
+				}
+				"private_test_227"
+				{
+					"gid"		"13E5097A0FC353C8361651F1279C7D60"
+					"size"		"8A5498623C5C0EDEDCDF846C09BC4D28"
+					"download"		"A18C6C1BD6174150FC938E0CB92D0D23"
+				}
+				"private_test_228"
+				{
+					"gid"		"11BDB53139C33B106CC07AF1954A9490"
+					"size"		"A75637E9436084B7447FD214E4E91B20"
+					"download"		"E4D8FAEC9F05D190060C0F5DA642698C"
+				}
+				"private_test_228b"
+				{
+					"gid"		"1DD238EB604D06E2D0775B946C2583E4"
+					"size"		"A8294DD2485142D67B2ABE165792B01C"
+					"download"		"D1BD6A165E1DA4E70424DF16B7EEB439"
+				}
+				"private_test_229"
+				{
+					"gid"		"D1A7005E78E44E5DDD8B0066641FAE22"
+					"size"		"9CEF6E266A9DC4F88B9E5B50E77EA442"
+					"download"		"239F2A5BDB0F115A458B6480768A1B5F"
+				}
+				"release_2022_02_02b"
+				{
+					"gid"		"5AADA385754ED7BC64FFCC4C1239677E"
+					"size"		"8EDC2EBF410FC9BC6B1A30616055F031"
+					"download"		"8319D287BAD6265DC9F27AFC4C4B8E35"
+				}
+				"release_2022_02_04"
+				{
+					"gid"		"791B3AD9B5743820D85FFD85F3C83D0F"
+					"size"		"3DAA1AB26C06922661D3FD8955608DA3"
+					"download"		"5A99441C0F0D25F45A138543093E426B"
+				}
+				"release_2022_02_07"
+				{
+					"gid"		"56AD381EE8E592EAE5BA13523F3F652F"
+					"size"		"38EE8EB86C8B3589D1771DA15250B607"
+					"download"		"0FE56B7E0C612EB7E286A65CF3AADD49"
+				}
+				"unlimited_test"
+				{
+					"gid"		"7A224519411004E9237216297D5D0D87"
+					"size"		"F80358D617CF8F9D2BB4B28E4E621A1D"
+					"download"		"754E807663CCB641A8884078D59BBC8C"
+				}
+			}
+		}
+		"410904"
+		{
+			"config"
+			{
+				"language"		"schinese"
+			}
+		}
+		"410905"
+		{
+			"config"
+			{
+				"language"		"tchinese"
+			}
+		}
+		"1033530"
+		{
+			"dlcappid"		"1033530"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1190430704806922627"
+					"size"		"235040508"
+					"download"		"231564304"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"build_21b"
+				{
+					"gid"		"4EB418F14C98C6BCECC52866EB2205F3"
+					"size"		"6E8CD1FFF50E341602097DCF8E626B48"
+					"download"		"AF503E4D06C468148A989BD4820311D5"
+				}
+				"build_26b"
+				{
+					"gid"		"1383DA043D4722B34DB01396FB2E3C5F"
+					"size"		"7DF91393C71B67E58FFAFF0C1C42751F"
+					"download"		"AB4940FC69DEAD018B2F6B1DC3D452D3"
+				}
+				"old_build"
+				{
+					"gid"		"2CED2C19D814C39873D74F11D26BC4CE"
+					"size"		"91FD9A036D6FAC08099A6629B2BA596E"
+					"download"		"F04E8ABD1CD591176EE68BBED87AB39E"
+				}
+				"private_test"
+				{
+					"gid"		"A7C1503DA8D1043182FBF9060F722FAC"
+					"size"		"646469E5EFD70F254DECC1CB2E875D06"
+					"download"		"E75901DF05D58A902AEED1A476A69973"
+				}
+				"private_test_217"
+				{
+					"gid"		"AF02C54B13F7CE3A5DF2611FF96B4E4D"
+					"size"		"4B5968C15EFC9EC55123EE6B8AE53FA5"
+					"download"		"6493DB949AEAA41FF3559E0F11D441B0"
+				}
+				"private_test_218"
+				{
+					"gid"		"C19B5CF4651206354B529AF5C4E350F7"
+					"size"		"A7DADF5CEAE86CCA0F397E076E41E00F"
+					"download"		"A78DDE0E3BABF36962C0F87685E0A058"
+				}
+				"private_test_219"
+				{
+					"gid"		"BA940894FD6ECAB7D086F74780D2A5AC"
+					"size"		"A4F310DE40FAD6AA463DFE4F1F570CBD"
+					"download"		"D6CAC787ECA1B19EAA850E00A8F997E8"
+				}
+				"private_test_220"
+				{
+					"gid"		"C6E236CEBE1BFB618D764F28070C4931"
+					"size"		"2985D844B909956E71EE2F0D1931244B"
+					"download"		"164949EEF4D1BFDE5BA3E2DE4B7A9ACD"
+				}
+				"private_test_221"
+				{
+					"gid"		"71EC5114A7837130255A4F94CC40E391"
+					"size"		"14C598D4239F81906BEDA201C75810CA"
+					"download"		"EDB530151F69B0007DD773DCD0B0B8D2"
+				}
+				"private_test_222"
+				{
+					"gid"		"1014841ABDD455B886D51CD066221747"
+					"size"		"C8E686B5A225CF50FD0E095300E6B33C"
+					"download"		"2E397AB96B2CC8958F3E94D9A0FCC2EA"
+				}
+				"private_test_223"
+				{
+					"gid"		"1D2BAB3CFC2A543538BFF4DDF04C46CC"
+					"size"		"0A9948218F1702522D04A2FC1E390737"
+					"download"		"0ADB821832069D82B57C8D3EBD89C6C3"
+				}
+				"private_test_224"
+				{
+					"gid"		"29171AC61A9CECA601F2C8938FF2C7DE"
+					"size"		"76C08BD0BC7790FCBC80F0606322351F"
+					"download"		"0BB334C7C569E0D1873C6D665FEF7F9C"
+				}
+				"private_test_225"
+				{
+					"gid"		"361B4F548CB8F3859073EEF140FD16FA"
+					"size"		"38361D87D0E420880219869495580FE3"
+					"download"		"795E1CFACA7F27C8C95CEF8B88447606"
+				}
+				"private_test_226"
+				{
+					"gid"		"D1653BFD21552B40BAD5C2F07280312C"
+					"size"		"B89220737EE2E4F0BA22C969DAB90C12"
+					"download"		"32BD02B200D1EB5B010A9742F00C6316"
+				}
+				"private_test_226d"
+				{
+					"gid"		"4BFD3BF2353D20AC878F6D0A4D94A11E"
+					"size"		"8122642D5B65913CA94C6B15940555E5"
+					"download"		"5A3923CD3FFE4BCCBCC6F802F000D2FE"
+				}
+				"private_test_227"
+				{
+					"gid"		"37DF6951D90FDC4CD517BA2C14A3379B"
+					"size"		"A7DF723F4A4E92A7CB99FA30333B1E5C"
+					"download"		"23309895477D527A40E54D179373AAC4"
+				}
+				"private_test_228"
+				{
+					"gid"		"077B68BF2C115091D5B88194E5B8CAC5"
+					"size"		"158E9D583502C126BD96E64D2B6EB117"
+					"download"		"C2602B2B7EE5182609823E23FB653B51"
+				}
+				"private_test_228b"
+				{
+					"gid"		"5294291EFEE507B1FF274B6D6AAA74CB"
+					"size"		"317562D2F56CE108A09BD9D624F6AF2A"
+					"download"		"169791D73B0531CD1F769BDE41CF7C61"
+				}
+				"private_test_229"
+				{
+					"gid"		"A7843234D84BFB63A9F0D446C9584BD4"
+					"size"		"8E092C3442CB0CE5E1C125EE8C47E908"
+					"download"		"B074740AA175138205110AFC68DB1C38"
+				}
+				"release_2022_02_02b"
+				{
+					"gid"		"947630427AE5E14BBD4AB673AFCAC328"
+					"size"		"D3018E622F43A3A23B53D952482A5A0B"
+					"download"		"7C65C6B689994F1877211F51257A9F3F"
+				}
+				"release_2022_02_04"
+				{
+					"gid"		"0B1FDDE172800CFC34A4C97A350D6772"
+					"size"		"D2593000C33AD1ECA871012A93AB9B8F"
+					"download"		"3C2F3BAEDDE5253DD4F0792DF5B8927D"
+				}
+				"release_2022_02_07"
+				{
+					"gid"		"1E0F634AC8D88BED13BD983862C5C324"
+					"size"		"C97205B5098CEFB5482D027F4EF9BB27"
+					"download"		"1CF291FE2DF4378E5AF6C870D8088971"
+				}
+				"unlimited_test"
+				{
+					"gid"		"92AC7AFC7A2E0B354674673186769073"
+					"size"		"2B03210E731349B95316B34EFD1FB5DA"
+					"download"		"7FB67DBA1C9CD353A04DC7CE234F3F83"
+				}
+			}
+		}
+		"1811550"
+		{
+			"dlcappid"		"1811550"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3418820920049307439"
+					"size"		"141258276"
+					"download"		"142698688"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"build_21b"
+				{
+					"gid"		"299942F693A68758D55F46D9847445C7"
+					"size"		"CD3ECE134BB8C594F91B6FB8FF73644C"
+					"download"		"59646F32FEB923427E269FB40FDAD1D1"
+				}
+				"build_26b"
+				{
+					"gid"		"67ECB18B6B975288B78BE6ACEB8246FA"
+					"size"		"3BEF4692539485F3728DA3D94C5DC5B9"
+					"download"		"41BF94FC2E7F79E7E165BC6EB305B4F1"
+				}
+				"old_build"
+				{
+					"gid"		"7BA0F8B99B0CDB620A16CBFFA7FDD26A"
+					"size"		"851DE00C94345D21F8309D06B57ACE38"
+					"download"		"C86E3B2241F87D4CFCAD465DC6ECEEDB"
+				}
+				"private_test"
+				{
+					"gid"		"1E3EC6733D92737AA7B06F770FDF5C67"
+					"size"		"38FC70F4CA442E198EAA5F59DF699BB0"
+					"download"		"6D574D60A3947871FCBB601A8FBF289C"
+				}
+				"private_test_217"
+				{
+					"gid"		"037F7410ED065117007AE211C61CD142"
+					"size"		"E90616DA2F4E6B8D53E92950E233689F"
+					"download"		"A0F1D363A3156ED0447C0058C156FF05"
+				}
+				"private_test_218"
+				{
+					"gid"		"DD4AAD0E2186866012C0536E6FDAA525"
+					"size"		"44D415271FFC047175B222265A63A987"
+					"download"		"B115BB15D932AFC280B507C77BCE2427"
+				}
+				"private_test_219"
+				{
+					"gid"		"F9F9EB0D23688976D197FAF28995956C"
+					"size"		"EAB1F1740BEE27F29455D12D1F84EEBA"
+					"download"		"313F701AB845AFFF9D0F6CD9D1EA8E53"
+				}
+				"private_test_220"
+				{
+					"gid"		"C6966C692F03C31999D61A40C44F5206"
+					"size"		"42939C4D54D057FFBF1A3219DF880118"
+					"download"		"87F80EB6F3E23247FFDA7C769FA0A87E"
+				}
+				"private_test_221"
+				{
+					"gid"		"689659A7E149786A683AD0674B287EE1"
+					"size"		"186B0B0F17558E9341DB05475474A161"
+					"download"		"1B9D0A15B34F3B0C818D61CE2BE1BBAA"
+				}
+				"private_test_222"
+				{
+					"gid"		"A1D7D5420A8F1600324BF49CE9513290"
+					"size"		"DCE30636DE53D7AA427475D244509198"
+					"download"		"DB2CF3542B3834C32304B1914E678E36"
+				}
+				"private_test_223"
+				{
+					"gid"		"518E97E84E9E71FD1589E8660411CB78"
+					"size"		"5413405A444832F859A5F5EC1231BE06"
+					"download"		"454EDD3AE58D2563711D4268B7851C47"
+				}
+				"private_test_224"
+				{
+					"gid"		"D07BEB74D121B7A2FF81F543C4CB4483"
+					"size"		"73DD239175DE62AB5FD52DC207FACFFB"
+					"download"		"78326CD53D9978F9E1AE7307B7F70615"
+				}
+				"private_test_225"
+				{
+					"gid"		"3E940E98673FE5EA7AFAE84A24E68FCA"
+					"size"		"9BBA7C24568090B951AFF4793E089D06"
+					"download"		"EF23DD5E16A41A54111C0ADBFE869453"
+				}
+				"private_test_226"
+				{
+					"gid"		"E11EF944221C98F097115321ECEE9357"
+					"size"		"191E9148D646160AE17199070961B746"
+					"download"		"F8567AF7B8D1F3559B5F174DCACEF405"
+				}
+				"private_test_226d"
+				{
+					"gid"		"506577F64E229AAEC230D90C11201EC6"
+					"size"		"A4B5E3BB9C2B6C5606448F338EB7667B"
+					"download"		"5BA00F34573DAA7E721714DDBEC7AAF3"
+				}
+				"private_test_227"
+				{
+					"gid"		"E990757D05D61FBA6869E1188EA2D43E"
+					"size"		"7C357BB3DC01B549762C0293AB314040"
+					"download"		"C2539DAE13C05662E7E3B9D2A40B7AEE"
+				}
+				"private_test_228"
+				{
+					"gid"		"C624B4CCBE127DD46BB5A5271473C13B"
+					"size"		"A20C35DE83F466BA7CF7ABFDB1AFA09B"
+					"download"		"BA12E3F15F743F8AFCE2591453F25673"
+				}
+				"private_test_228b"
+				{
+					"gid"		"B6F4827B370D0763437218DA7BB9F63D"
+					"size"		"3E7C5199BCC94E3849BA66D0C3906671"
+					"download"		"BB1791AFA7CE15DA3F64259972D40656"
+				}
+				"private_test_229"
+				{
+					"gid"		"9C5586FD78B7FAB7CD7E65FDF744E6FB"
+					"size"		"099B117F26108AA78F57CC96F1B793DA"
+					"download"		"7F512C19DC67C33787F6640327657416"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12102438"
+				"timeupdated"		"1693812048"
+			}
+			"build_21b"
+			{
+				"buildid"		"9055380"
+				"pwdrequired"		"1"
+				"timeupdated"		"1665809113"
+			}
+			"build_26b"
+			{
+				"buildid"		"10726484"
+				"pwdrequired"		"1"
+				"timeupdated"		"1678344543"
+			}
+			"old_build"
+			{
+				"buildid"		"12085409"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693812026"
+			}
+			"private_test"
+			{
+				"buildid"		"12233474"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695194615"
+			}
+			"private_test_217"
+			{
+				"buildid"		"8488642"
+				"pwdrequired"		"1"
+				"timeupdated"		"1648963072"
+			}
+			"private_test_218"
+			{
+				"buildid"		"8587118"
+				"pwdrequired"		"1"
+				"timeupdated"		"1650430678"
+			}
+			"private_test_219"
+			{
+				"buildid"		"8593940"
+				"pwdrequired"		"1"
+				"timeupdated"		"1650504339"
+			}
+			"private_test_220"
+			{
+				"buildid"		"8999679"
+				"pwdrequired"		"1"
+				"timeupdated"		"1656058629"
+			}
+			"private_test_221"
+			{
+				"buildid"		"9055380"
+				"pwdrequired"		"1"
+				"timeupdated"		"1656921502"
+			}
+			"private_test_222"
+			{
+				"buildid"		"9709808"
+				"pwdrequired"		"1"
+				"timeupdated"		"1665627027"
+			}
+			"private_test_223"
+			{
+				"buildid"		"9729776"
+				"pwdrequired"		"1"
+				"timeupdated"		"1665878466"
+			}
+			"private_test_224"
+			{
+				"buildid"		"9973660"
+				"pwdrequired"		"1"
+				"timeupdated"		"1668840505"
+			}
+			"private_test_225"
+			{
+				"buildid"		"10215710"
+				"pwdrequired"		"1"
+				"timeupdated"		"1672040210"
+			}
+			"private_test_226"
+			{
+				"buildid"		"10459269"
+				"pwdrequired"		"1"
+				"timeupdated"		"1675324128"
+			}
+			"private_test_226d"
+			{
+				"buildid"		"11029218"
+				"pwdrequired"		"1"
+				"timeupdated"		"1681820136"
+			}
+			"private_test_227"
+			{
+				"buildid"		"11044373"
+				"pwdrequired"		"1"
+				"timeupdated"		"1681942048"
+			}
+			"private_test_228"
+			{
+				"buildid"		"11848303"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690983334"
+			}
+			"private_test_228b"
+			{
+				"buildid"		"12102438"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693812012"
+			}
+			"private_test_229"
+			{
+				"buildid"		"12233474"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695195409"
+			}
+			"release_2022_02_02b"
+			{
+				"buildid"		"8136427"
+				"pwdrequired"		"1"
+				"timeupdated"		"1643869242"
+			}
+			"release_2022_02_04"
+			{
+				"buildid"		"8143443"
+				"pwdrequired"		"1"
+				"timeupdated"		"1643959143"
+			}
+			"release_2022_02_07"
+			{
+				"buildid"		"8233473"
+				"pwdrequired"		"1"
+				"timeupdated"		"1645228987"
+			}
+			"unlimited_test"
+			{
+				"buildid"		"8233473"
+				"pwdrequired"		"1"
+				"timeupdated"		"1645226452"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"5000000"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"1"
+			{
+				"root"		"gameinstall"
+				"path"		"users/{64BitSteamID}"
+				"pattern"		"settings.lua"
+			}
+			"2"
+			{
+				"root"		"gameinstall"
+				"path"		"users/{64BitSteamID}"
+				"pattern"		"keys.lua"
+			}
+			"3"
+			{
+				"root"		"gameinstall"
+				"path"		"users/{64BitSteamID}/campaigns"
+				"pattern"		"*.lua"
+				"recursive"		"1"
+			}
+			"4"
+			{
+				"root"		"gameinstall"
+				"path"		"users/{64BitSteamID}/campaigns"
+				"pattern"		"*.fgs"
+				"recursive"		"1"
+			}
+			"5"
+			{
+				"root"		"gameinstall"
+				"path"		"users/{64BitSteamID}/campaigns"
+				"pattern"		"*.rkf"
+				"recursive"		"1"
+			}
+			"6"
+			{
+				"root"		"gameinstall"
+				"path"		"users/{64BitSteamID}/campaigns"
+				"pattern"		"*.bak"
+				"recursive"		"1"
+			}
+			"7"
+			{
+				"root"		"gameinstall"
+				"path"		"users/{64BitSteamID}"
+				"pattern"		"trainingMapProgress.lua"
+			}
+		}
+	}
+}
