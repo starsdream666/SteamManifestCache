@@ -1,0 +1,336 @@
+"appinfo"
+{
+	"appid"		"1340180"
+	"common"
+	{
+		"name"		"Sherwood Extreme"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"4a406bc624bdcf77335195a877248e3dc2572708"
+		"logo_small"		"4a406bc624bdcf77335195a877248e3dc2572708_thumb"
+		"icon"		"b178a238609fd17cf18f3b6a23f107044792d253"
+		"clienticon"		"12b943b93113539a993be4449db617d268225444"
+		"clienttga"		"4d94c97f38a954c3c68d147b791b69881840d4ba"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1667260800"
+			"tested_build_id"		"8638569"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"51.86697782963825"
+				"height_pct"		"48.86012823557349"
+			}
+		}
+		"store_asset_mtime"		"1662922186"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"CAGE Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"CAGE Studios"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"37"
+			"4"		"23"
+			"5"		"3"
+			"6"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_35"		"1"
+			"category_25"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1620825029"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1340180"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3814"
+			"1"		"13382"
+			"2"		"4036"
+			"3"		"4231"
+			"4"		"6730"
+			"5"		"1774"
+			"6"		"5154"
+			"7"		"19"
+			"8"		"122"
+			"9"		"597"
+			"10"		"1734"
+			"11"		"1773"
+			"12"		"4136"
+			"13"		"4195"
+			"14"		"3968"
+			"15"		"21"
+			"16"		"1685"
+			"17"		"3859"
+			"18"		"5363"
+			"19"		"113"
+		}
+		"review_score"		"6"
+		"review_percentage"		"77"
+	}
+	"extended"
+	{
+		"absolutemousecoordinates"		"0"
+		"remoteplaytogethertestingbranches"		"default"
+		"developer"		"CAGE Studios"
+		"publisher"		"CAGE Studios"
+		"homepage"		"http://cagestudios.net/sherwoodextreme.html"
+		"isfreeapp"		"1"
+		"listofdlc"		"2125520"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Sherwood Extreme"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SherwoodExtreme.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229005"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1340182"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1937782610792919799"
+					"size"		"901470985"
+					"download"		"813309136"
+				}
+			}
+		}
+		"1340181"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+		}
+		"workshopdepot"		"1340180"
+		"hasdepotsindlc"		"0"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10652578"
+				"timeupdated"		"1677742820"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"10000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"SherwoodExtreme/Saved/SaveGames"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"russian"
+			{
+				"tokens"
+				{
+					"#currentlevel"		"%LEVEL_NAME%"
+				}
+			}
+			"english"
+			{
+				"tokens"
+				{
+					"#currentlevel"		"%LEVEL_NAME%"
+				}
+			}
+			"portuguese"
+			{
+				"tokens"
+				{
+					"#currentlevel"		"%LEVEL_NAME%"
+				}
+			}
+			"spanish"
+			{
+				"tokens"
+				{
+					"#currentlevel"		"%LEVEL_NAME%"
+				}
+			}
+			"french"
+			{
+				"tokens"
+				{
+					"#currentlevel"		"%LEVEL_NAME%"
+				}
+			}
+			"german"
+			{
+				"tokens"
+				{
+					"#currentlevel"		"%LEVEL_NAME%"
+				}
+			}
+		}
+	}
+}
