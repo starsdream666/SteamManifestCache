@@ -1,0 +1,506 @@
+"appinfo"
+{
+	"appid"		"1385380"
+	"common"
+	{
+		"name"		"Across the Obelisk"
+		"type"		"Game"
+		"clienticon"		"49e1bfb63d76b3f1713695cfa9475daaaca0d088"
+		"clienttga"		"3098dc3b5f1e37d9de18ce0dbe5b5e09e84efa49"
+		"icon"		"c0deb04b1c38a5f351d937abcbe1b55557915a19"
+		"logo"		"c5b41dbee2ab74e917a09b03bbe42c8b5f0322c2"
+		"logo_small"		"c5b41dbee2ab74e917a09b03bbe42c8b5f0322c2_thumb"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1385380_eula_0"
+				"name"		"Across the Obelisk EULA"
+				"url"		"https://store.steampowered.com//eula/1385380_eula_0"
+				"version"		"1"
+			}
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1664841600"
+			"tested_build_id"		"9423175"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"28.77237851662406"
+				"height_pct"		"60.416666666666664"
+			}
+		}
+		"store_asset_mtime"		"1692269702"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Dreamsite Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Paradox Interactive"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Paradox Arc"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Paradox Arc"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"3"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_22"		"1"
+			"category_25"		"1"
+			"category_23"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1617865200"
+		"steam_release_date"		"1660662270"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1385380"
+		"store_tags"
+		{
+			"0"		"1685"
+			"1"		"1091588"
+			"2"		"1666"
+			"3"		"791774"
+			"4"		"1716"
+			"5"		"122"
+			"6"		"32322"
+			"7"		"3959"
+			"8"		"1677"
+			"9"		"4026"
+			"10"		"4325"
+			"11"		"1684"
+			"12"		"6426"
+			"13"		"4711"
+			"14"		"4182"
+			"15"		"14139"
+			"16"		"5125"
+			"17"		"3871"
+			"18"		"9"
+			"19"		"1741"
+		}
+		"review_score"		"8"
+		"review_percentage"		"89"
+	}
+	"extended"
+	{
+		"developer"		"Dreamsite Games"
+		"publisher"		"Paradox Interactive"
+		"listofdlc"		"2168960,2325780,2511580"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Across the Obelisk"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"AcrossTheObelisk.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Contents/MacOS/AcrossTheObelisk"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"AcrossTheObelisk.x86_64"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"baselanguages"		"english"
+		"1385381"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"847910484900908780"
+					"size"		"1805758221"
+					"download"		"864556512"
+				}
+				"v1110"
+				{
+					"gid"		"2154000615119537261"
+					"size"		"1693666140"
+					"download"		"783761232"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"developer"
+				{
+					"gid"		"2BED83227D0D6E7717853B4603FB1ACE"
+					"size"		"87BB4FF9C91AC20650CBC91C15102305"
+					"download"		"A7E2877C559EC7EC8A17FCB82AE5BACD"
+				}
+				"pdx-experimental"
+				{
+					"gid"		"E7F9A7133C87AEED4420E12933235496"
+					"size"		"D99796034639F7596DBF686522D7D122"
+					"download"		"325D497E22F37BE837E04B1D4BF7C87D"
+				}
+				"sdeck"
+				{
+					"gid"		"C1D00CB33FCCD0D98A028BF21378F53A"
+					"size"		"62D1B63B092CAF81EACDC8D6375FADAD"
+					"download"		"407C62952CCF2C56A2DB0CD97C43803F"
+				}
+			}
+		}
+		"1385382"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"66834751875779395"
+					"size"		"1796430093"
+					"download"		"861740896"
+				}
+				"v1110"
+				{
+					"gid"		"4628016189894489243"
+					"size"		"1684338012"
+					"download"		"780939040"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"developer"
+				{
+					"gid"		"1F917B17A56E062AE3ED59B4A394D83C"
+					"size"		"AA4E414CE3FBB0A1F6C2C5E9ECF80FF7"
+					"download"		"02397621560A4DB467DECBCB5F658AD0"
+				}
+				"pdx-experimental"
+				{
+					"gid"		"3AFC51C36A14C048975067840717B9F8"
+					"size"		"AE75C2AFF4C929E6A255A2FD43619D0D"
+					"download"		"2850C81C0E0410B0BAA6E28AD3E460E1"
+				}
+				"sdeck"
+				{
+					"gid"		"3B3EAE392900C4A397B2153D13308A82"
+					"size"		"34600759CCEB3B03897D7A90016CE9E2"
+					"download"		"D3C81743BE55E1B73F3142720A5EFA5A"
+				}
+			}
+		}
+		"1385383"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8602136326118369838"
+					"size"		"1829172702"
+					"download"		"871856768"
+				}
+				"v1110"
+				{
+					"gid"		"2079951746624397344"
+					"size"		"1717077460"
+					"download"		"791026384"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"developer"
+				{
+					"gid"		"3C7287DE3F43FA5CA123CD24A09B2584"
+					"size"		"42E90C039234D837D3D20E21F00FA649"
+					"download"		"763D999DB6FF7E4FE01FC25F7302FB66"
+				}
+				"pdx-experimental"
+				{
+					"gid"		"9BF7E568F6D982015222659192226CB8"
+					"size"		"466A280A0E1B03818930DF0043647270"
+					"download"		"0CC5077BA180918DAF549A74C0F6B7A0"
+				}
+				"sdeck"
+				{
+					"gid"		"F0A131DF8DB01448AFD757BDAC4C5DE5"
+					"size"		"7E10FB559A7E3FF984089291A599859D"
+					"download"		"EE1BC54844312440765239B094EE47F0"
+				}
+			}
+		}
+		"1385384"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"713795550517305038"
+					"size"		"1805588494"
+					"download"		"863534016"
+				}
+				"v1110"
+				{
+					"gid"		"1359685026633436305"
+					"size"		"1693499597"
+					"download"		"782762480"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"developer"
+				{
+					"gid"		"E2992E3C7E4884F081093110CC3CB3A8"
+					"size"		"128CDA433D8816DB98FB09F6C56F4712"
+					"download"		"CCB224C2ACEC7DD11622E93A814235F1"
+				}
+				"pdx-experimental"
+				{
+					"gid"		"8FDA42FD247CCE914F801AB8C1844C73"
+					"size"		"6237D8EFD385FE8E713B2CAC1F363E28"
+					"download"		"992C20085724294143479E1F3AAB0A41"
+				}
+				"sdeck"
+				{
+					"gid"		"C7446ABE5213710901CC2BB60CC79E3E"
+					"size"		"3B9D4E43BFDC068E99E8635833AEA6F8"
+					"download"		"02E20ADC0D742B644B3B0475DE2B25B1"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12259269"
+				"timeupdated"		"1695403639"
+			}
+			"developer"
+			{
+				"buildid"		"12258160"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695397144"
+			}
+			"pdx-experimental"
+			{
+				"buildid"		"12081738"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693508835"
+			}
+			"sdeck"
+			{
+				"buildid"		"12023208"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695400162"
+			}
+			"v1110"
+			{
+				"buildid"		"11245444"
+				"description"		"v.1.1.10 - 16 Ago 23"
+				"timeupdated"		"1690883962"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Dreamsite Games/AcrossTheObelisk/{64BitSteamID}"
+				"pattern"		"*"
+				"recursive"		"1"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Dreamsite Games/AcrossTheObelisk/{64BitSteamID}"
+						"replace"		"Dreamsite Games/AcrossTheObelisk/{64BitSteamID}"
+					}
+				}
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxHome"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Dreamsite Games/AcrossTheObelisk/{64BitSteamID}"
+						"replace"		".config/unity3d/Dreamsite Games/AcrossTheObelisk/{64BitSteamID}"
+					}
+				}
+			}
+		}
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#status_mainmenu"		"Main Menu"
+					"#status_location"		"%location%"
+					"#status_lobby"		"Multiplayer : Lobby"
+					"#status_lobbyroom"		"Multiplayer : Room"
+					"#status_heroselection"		"Hero Selection"
+					"#status_tome"		"Tome of Knowledge"
+				}
+			}
+		}
+	}
+}
