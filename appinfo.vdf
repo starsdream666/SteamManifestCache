@@ -1,0 +1,375 @@
+"appinfo"
+{
+	"appid"		"2239150"
+	"common"
+	{
+		"name"		"Thronefall"
+		"type"		"Game"
+		"icon"		"33b662f2a7a302f154861643b0e59c87b36a3d5e"
+		"clienticon"		"e3d767adb0bd0ec8603ce35604b08f5d5a85391d"
+		"clienttga"		"9e8bd9b96358639a26229e837ac2f9d4ac67128a"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64,macosapplesilicon,macosnotarized"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1691798400"
+			"tested_build_id"		"11868650"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"99.26308032424467"
+				"height_pct"		"72.56944444444444"
+			}
+		}
+		"store_asset_mtime"		"1690995973"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"GrizzlyGames"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"GrizzlyGames"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Grizzly Games Dev"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"2"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_25"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1690988132"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2239150"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"1645"
+			"2"		"4328"
+			"3"		"4094"
+			"4"		"4172"
+			"5"		"19"
+			"6"		"1723"
+			"7"		"4191"
+			"8"		"4305"
+			"9"		"5851"
+			"10"		"4252"
+			"11"		"1643"
+			"12"		"1684"
+			"13"		"7332"
+			"14"		"3993"
+			"15"		"4182"
+			"16"		"7481"
+			"17"		"492"
+			"18"		"493"
+			"19"		"1646"
+		}
+		"review_score"		"9"
+		"review_percentage"		"97"
+	}
+	"extended"
+	{
+		"developer"		"GrizzlyGames"
+		"publisher"		"GrizzlyGames"
+	}
+	"config"
+	{
+		"installdir"		"Thronefall"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Thronefall.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Thronefall.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2239151"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9067483105085920404"
+					"size"		"427899801"
+					"download"		"151859296"
+				}
+				"previousversionrollback"
+				{
+					"gid"		"35876461469233127"
+					"size"		"434418701"
+					"download"		"159130304"
+				}
+				"publicbeta"
+				{
+					"gid"		"9067483105085920404"
+					"size"		"427899801"
+					"download"		"151859296"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"qa_testing"
+				{
+					"gid"		"15ADC09D2238D84CEFAE2232C336E460"
+					"size"		"E13888AE12B97573EE2A6EAA24D76887"
+					"download"		"7B92F8297E65A25B1611D31CF826EC23"
+				}
+			}
+		}
+		"2239152"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"850045744767577568"
+					"size"		"451580169"
+					"download"		"158840304"
+				}
+				"previousversionrollback"
+				{
+					"gid"		"3835945655205998293"
+					"size"		"450859551"
+					"download"		"158686336"
+				}
+				"publicbeta"
+				{
+					"gid"		"850045744767577568"
+					"size"		"451580169"
+					"download"		"158840304"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"qa_testing"
+				{
+					"gid"		"C7EBDE4A524401CEB3970CC5CA0200B7"
+					"size"		"114D8F4C4EEC1CE3EE9DF014D95398F4"
+					"download"		"F86E865309A333AF80DAE02D37B72BA7"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12023153"
+				"timeupdated"		"1692890020"
+			}
+			"previousversionrollback"
+			{
+				"buildid"		"11868650"
+				"description"		"Roll back to the previous version of Thronefall."
+				"timeupdated"		"1692277821"
+			}
+			"publicbeta"
+			{
+				"buildid"		"12023153"
+				"description"		"Public beta branch"
+				"timeupdated"		"1692884899"
+			}
+			"qa_testing"
+			{
+				"buildid"		"12013443"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692799139"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Grizzly Games\\Thronefall"
+				"pattern"		"*.sav"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Grizzly Games\\Thronefall"
+						"replace"		"Grizzly Games\\Thronefall"
+					}
+				}
+			}
+		}
+	}
+}
