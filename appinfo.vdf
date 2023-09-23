@@ -1,0 +1,3202 @@
+"appinfo"
+{
+	"appid"		"427100"
+	"common"
+	{
+		"name"		"Fernbus Simulator"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"schinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"brazilian"		"1"
+		}
+		"clienticon"		"9b7c173e78ca7894e099b727895a1d7f78358484"
+		"clienttga"		"c756ced534faa277bebe911074fdf376358319ae"
+		"icon"		"7b8d2c569268cdca5410b3bf4ab74baefecb6011"
+		"logo"		"56368b536a544573aba6b0c93bfb03061adb8ba3"
+		"logo_small"		"56368b536a544573aba6b0c93bfb03061adb8ba3_thumb"
+		"eulas"
+		{
+			"1"
+			{
+				"id"		"427100_eula_1"
+				"name"		"Fernbus Simulator EULA 1"
+				"url"		"http://store.steampowered.com//eula/427100_eula_1"
+				"version"		"1"
+			}
+		}
+		"osarch"		"64"
+		"name_localized"
+		{
+			"schinese"		"长途客车模拟"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1688688000"
+			"tested_build_id"		"11535047"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"5"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+				}
+				"6"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"1"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-3"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Fernbus Simulator"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"german"		"capsule_231x87_german.jpg"
+		}
+		"header_image"
+		{
+			"german"		"header_german.jpg"
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,de"
+			"library_hero"		"en"
+			"library_logo"		"en,de"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"30.070011668611414"
+				"height_pct"		"98.10030403947435"
+			}
+		}
+		"store_asset_mtime"		"1687507104"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"TML-Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Aerosoft GmbH"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+			"category_22"		"1"
+			"category_25"		"1"
+			"category_30"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"hungarian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"swedish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"finnish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"arabic"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1472108940"
+		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"427100"
+		"store_tags"
+		{
+			"0"		"1100687"
+			"1"		"599"
+			"2"		"1644"
+			"3"		"4175"
+			"4"		"4182"
+			"5"		"3859"
+			"6"		"1695"
+			"7"		"1669"
+			"8"		"3839"
+			"9"		"4166"
+			"10"		"597"
+			"11"		"3834"
+			"12"		"3968"
+			"13"		"1654"
+			"14"		"12472"
+			"15"		"4305"
+			"16"		"21"
+			"17"		"4711"
+			"18"		"128"
+			"19"		"1721"
+		}
+		"review_score"		"6"
+		"review_percentage"		"73"
+	}
+	"extended"
+	{
+		"developer"		"TML-Studios"
+		"publisher"		"Aerosoft GmbH"
+		"homepage"		"https://www.tml-studios.de/"
+		"gamemanualurl"		"https://store.steampowered.com/manual/427100/"
+		"listofdlc"		"569700,602730,612260,612261,654120,686280,724420,724440,729490,937720,1026740,1121030,1121090,1140660,1140661,1140662,1154770,1158120,1250730,1370010,1446990,1446991,1471310,1847550"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Fernbus Simulator"
+		"steamcontrollertemplateindex"		"2"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Fernbus\\Binaries\\Win64\\Fernbus-Win64-Shipping.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"DirectX 12 (Default)"
+					"german"		"DirectX 12 (Standard)"
+				}
+				"description"		"DirectX 12 (Default)"
+			}
+			"1"
+			{
+				"executable"		"Fernbus\\Binaries\\Win64\\Fernbus-Win64-Shipping.exe"
+				"arguments"		"FDLC_Main"
+				"type"		"option2"
+				"config"
+				{
+					"ownsdlc"		"729490"
+				}
+				"description_loc"
+				{
+					"english"		"Fußball Mannschaftsbus"
+				}
+				"description"		"Fußball Mannschaftsbus"
+			}
+			"2"
+			{
+				"executable"		"Fernbus\\Binaries\\Win64\\Fernbus-Win64-Shipping.exe"
+				"arguments"		"-dx11"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"DirectX 11 (for older hardware)"
+					"german"		"DirectX 11 (für ältere Hardware)"
+				}
+				"description"		"DirectX 11 (for older hardware)"
+			}
+		}
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,italian,spanish,schinese,russian,japanese,portuguese,polish,dutch,finnish,swedish,hungarian,turkish,arabic,brazilian"
+		"workshopdepot"		"427100"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"427101"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3683413939896333101"
+					"size"		"20858059943"
+					"download"		"16298361440"
+				}
+				"beta"
+				{
+					"gid"		"3683413939896333101"
+					"size"		"20858059943"
+					"download"		"16298361440"
+				}
+				"last_ue4"
+				{
+					"gid"		"6006381499418517083"
+					"size"		"17892392368"
+					"download"		"14441037728"
+				}
+				"local"
+				{
+					"gid"		"8873422627890081439"
+					"size"		"20810319637"
+					"download"		"16269609200"
+				}
+				"previousversion"
+				{
+					"gid"		"6006381499418517083"
+					"size"		"17892392368"
+					"download"		"14441037728"
+				}
+				"test_local"
+				{
+					"gid"		"60178351299238544"
+					"size"		"18272755588"
+					"download"		"14867102480"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closed_beta"
+				{
+					"gid"		"7F86D4D90193204618FB4EABC38D35EA"
+					"size"		"06E1F5947B7BF7540A757EAB08499091"
+					"download"		"27AEC7BA3DB78DAABBC9370AB40A66CD"
+				}
+				"halycon"
+				{
+					"gid"		"BA313A4592DEFBB905DB9DE14BBEF24A"
+					"size"		"6FA9D9593E9B98DCBA0645EBF1FE741B"
+					"download"		"98433124349A23719033D214D473CD06"
+				}
+				"localisation"
+				{
+					"gid"		"1A88BB0F2A4745A6D8E813AD2BAC5CDE"
+					"size"		"15E6B436AA2CB29EA4FB8C3B65368AE4"
+					"download"		"F6857553AB306C41EE218C1FB1CE61B3"
+				}
+				"nightlybuild"
+				{
+					"gid"		"7B90F1BA13519C0263C37854038DDA4B"
+					"size"		"8455CC14CA699498B9E4653D253AC342"
+					"download"		"C6673DA087FB9826731CB7E18238E8CC"
+				}
+				"test"
+				{
+					"gid"		"4590C78262A3A39C5EFAD4200AD52FFC"
+					"size"		"68DE61604FE54FE199BB09F6DBD3DB55"
+					"download"		"B3D4BCE9B31044729E22B4C8DD2F9AB3"
+				}
+			}
+		}
+		"427102"
+		{
+			"dlcappid"		"569700"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3039167669064314363"
+					"size"		"0"
+					"download"		"0"
+				}
+				"beta"
+				{
+					"gid"		"3039167669064314363"
+					"size"		"0"
+					"download"		"0"
+				}
+				"last_ue4"
+				{
+					"gid"		"537536275568981351"
+					"size"		"53030151"
+					"download"		"42400864"
+				}
+				"local"
+				{
+					"gid"		"3039167669064314363"
+					"size"		"0"
+					"download"		"0"
+				}
+				"previousversion"
+				{
+					"gid"		"537536275568981351"
+					"size"		"53030151"
+					"download"		"42400864"
+				}
+				"test_local"
+				{
+					"gid"		"4236339887660900826"
+					"size"		"51986439"
+					"download"		"41360624"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closed_beta"
+				{
+					"gid"		"0FEA5C936EBDA93E314BADEFF4A8061F"
+					"size"		"28677B88A965B7A2B6FC4CA91C8BFFAC"
+					"download"		"28677B88A965B7A2B6FC4CA91C8BFFAC"
+				}
+				"halycon"
+				{
+					"gid"		"17366663335C0D8ACFB59721E3AA094E"
+					"size"		"EB04A173985C33611B779860A229D235"
+					"download"		"EB04A173985C33611B779860A229D235"
+				}
+				"localisation"
+				{
+					"gid"		"9167F0D4753C004B8AABCE1882BD9730"
+					"size"		"CE2E743DFBAA9B60BAC09EE497E25834"
+					"download"		"CE2E743DFBAA9B60BAC09EE497E25834"
+				}
+				"nightlybuild"
+				{
+					"gid"		"D62C051633E656FB8DE5E51B1782A9C1"
+					"size"		"83B309F34DF4A0B564C1C255E28A382D"
+					"download"		"83B309F34DF4A0B564C1C255E28A382D"
+				}
+				"test"
+				{
+					"gid"		"5691FF1FA27A97DE8634E63139B3FD66"
+					"size"		"70F3F2496446D64F335A3E28506E263E"
+					"download"		"70F3F2496446D64F335A3E28506E263E"
+				}
+			}
+		}
+		"427103"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"dlcappid"		"602730"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"972740481272995793"
+					"size"		"774404249"
+					"download"		"720910512"
+				}
+				"beta"
+				{
+					"gid"		"972740481272995793"
+					"size"		"774404249"
+					"download"		"720910512"
+				}
+				"last_ue4"
+				{
+					"gid"		"4803355736509766210"
+					"size"		"831536959"
+					"download"		"840845840"
+				}
+				"local"
+				{
+					"gid"		"972740481272995793"
+					"size"		"774404249"
+					"download"		"720910512"
+				}
+				"previousversion"
+				{
+					"gid"		"4803355736509766210"
+					"size"		"831536959"
+					"download"		"840845840"
+				}
+				"test_local"
+				{
+					"gid"		"7565875784580671211"
+					"size"		"831536911"
+					"download"		"840845568"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closed_beta"
+				{
+					"gid"		"1E7735CE4CBC4C33D1AA278D693B037C"
+					"size"		"F8FAE0A2370693B55FAD918E6F57DD85"
+					"download"		"AF4FF26E3059D81811E9DE9AD783367F"
+				}
+				"halycon"
+				{
+					"gid"		"153CAEA7DFCB3016EF9838D367F24321"
+					"size"		"8C77ED34E69A9690AA5CD49A0434F1F3"
+					"download"		"F6C447CD6E58AA9ADB95DC8173AF9026"
+				}
+				"localisation"
+				{
+					"gid"		"F81EE36DC511BD48118E73B58736A94A"
+					"size"		"404F90205FB551BA042049626C3D38A9"
+					"download"		"BB9E6F83D5B63EFD6C8B0132967EBFF5"
+				}
+				"nightlybuild"
+				{
+					"gid"		"816B42EF3BF1DBEDDDC0166971E281A6"
+					"size"		"95EF28BEC58E8F654A9ADC0FD0892C25"
+					"download"		"CEFCADA744C71A63AD5F150CEA97B044"
+				}
+				"test"
+				{
+					"gid"		"758592FA88074C5278CBBBFD60D222BC"
+					"size"		"8503269AB0C97C0C9EFE3D3A199AD39D"
+					"download"		"A099FF1325918D9D087600D6E70CC30B"
+				}
+			}
+		}
+		"427104"
+		{
+			"dlcappid"		"612260"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2529877205447120912"
+					"size"		"197138990"
+					"download"		"133788016"
+				}
+				"beta"
+				{
+					"gid"		"2529877205447120912"
+					"size"		"197138990"
+					"download"		"133788016"
+				}
+				"last_ue4"
+				{
+					"gid"		"21633646188346921"
+					"size"		"180341738"
+					"download"		"129953824"
+				}
+				"local"
+				{
+					"gid"		"2529877205447120912"
+					"size"		"197138990"
+					"download"		"133788016"
+				}
+				"previousversion"
+				{
+					"gid"		"21633646188346921"
+					"size"		"180341738"
+					"download"		"129953824"
+				}
+				"test_local"
+				{
+					"gid"		"6145349862708106935"
+					"size"		"197138989"
+					"download"		"133786928"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closed_beta"
+				{
+					"gid"		"DB150230EFF5D10FE8E2ECAF288F8D81"
+					"size"		"B3125FCF4487B6EF56717CF00D594D43"
+					"download"		"26167BF0413A74D1FB37D8E646EB4C42"
+				}
+				"halycon"
+				{
+					"gid"		"6BC51CCD1EC1EBD3B696538B0A9203C4"
+					"size"		"BBD2ED6C12E05D7AE1ECE8D9DC739F84"
+					"download"		"27CC8B6EFA02B73FB1C483A7344D4968"
+				}
+				"localisation"
+				{
+					"gid"		"41DAA1A9F7592860B0E1AEDE7FE8A1AE"
+					"size"		"CB27CF4C886E4F8DFF0734438891C2A5"
+					"download"		"631A8FC09BF95E35D0E9F45422DA2FAC"
+				}
+				"nightlybuild"
+				{
+					"gid"		"5C950C6516976C09312AD5F364C89400"
+					"size"		"BD67AE43BDE43F761204E2C728EEAD65"
+					"download"		"D1BC2D886762ABD3970DD454052DF89C"
+				}
+				"test"
+				{
+					"gid"		"770FF37429FFFA9DF726132C067ABF5B"
+					"size"		"28EEA6F28BD5AE79E67DDD1AA880E6B0"
+					"download"		"601574FBA987E4F6660E7A63A321988C"
+				}
+			}
+		}
+		"427105"
+		{
+			"dlcappid"		"612261"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"149043235660023468"
+					"size"		"1267782441"
+					"download"		"1085081024"
+				}
+				"beta"
+				{
+					"gid"		"149043235660023468"
+					"size"		"1267782441"
+					"download"		"1085081024"
+				}
+				"last_ue4"
+				{
+					"gid"		"2105150201104052430"
+					"size"		"1302419087"
+					"download"		"1076984672"
+				}
+				"local"
+				{
+					"gid"		"3228892108934302321"
+					"size"		"1266703908"
+					"download"		"1082958832"
+				}
+				"previousversion"
+				{
+					"gid"		"2105150201104052430"
+					"size"		"1302419087"
+					"download"		"1076984672"
+				}
+				"test_local"
+				{
+					"gid"		"7885389745043564124"
+					"size"		"1489661922"
+					"download"		"1257644800"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closed_beta"
+				{
+					"gid"		"19FA0935D775A8BBA7BB81B3B5ED3A5C"
+					"size"		"8C29A6449061D35E8869D198E7547C6E"
+					"download"		"2E9F677AACE54F871B10F2D22A4E4112"
+				}
+				"halycon"
+				{
+					"gid"		"6A7710752AE1B33753E6471EF6AD65CA"
+					"size"		"4C590D7FAB0F572B84777E02910250FC"
+					"download"		"39D8810184577919FF6DD045BF6DD7F0"
+				}
+				"localisation"
+				{
+					"gid"		"08CCBB0425E3CB09EC7A512363BE0A28"
+					"size"		"5B16D6CB27300C716114C7BA152FCCED"
+					"download"		"DD9DC03B85E772FB151899DB5C742459"
+				}
+				"nightlybuild"
+				{
+					"gid"		"CB7FE274636AAC59503AD3DEDE906B50"
+					"size"		"FEBF7A0201B2565B756BED9E1C3B15F5"
+					"download"		"9990A91AA02E5ACDEE0B471CEB8ED2E5"
+				}
+				"test"
+				{
+					"gid"		"7CEC342272DE2493CA7CE8B919C69CF7"
+					"size"		"9CDFC9D6F608BF28B5355387994EB86A"
+					"download"		"FDB97760FFF3B2DD19FEC4AED87A5C3E"
+				}
+			}
+		}
+		"427106"
+		{
+			"dlcappid"		"654120"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"248901205583511138"
+					"size"		"5212806725"
+					"download"		"4398586976"
+				}
+				"beta"
+				{
+					"gid"		"248901205583511138"
+					"size"		"5212806725"
+					"download"		"4398586976"
+				}
+				"last_ue4"
+				{
+					"gid"		"2808688637662165816"
+					"size"		"4702229783"
+					"download"		"3655430640"
+				}
+				"local"
+				{
+					"gid"		"6553593704051663658"
+					"size"		"5200216975"
+					"download"		"4382358352"
+				}
+				"previousversion"
+				{
+					"gid"		"2808688637662165816"
+					"size"		"4702229783"
+					"download"		"3655430640"
+				}
+				"test_local"
+				{
+					"gid"		"597952769251964158"
+					"size"		"5374419109"
+					"download"		"4474963664"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closed_beta"
+				{
+					"gid"		"CE747CF6F465C56FEBD7A0195E2831DA"
+					"size"		"7D8E8EE19B3A4389E2469A3F0FAA74A9"
+					"download"		"E7D2A9647AB865EF7825F91C4FAC51CE"
+				}
+				"halycon"
+				{
+					"gid"		"E7DE3B47558EDE9B09B0A726EC280129"
+					"size"		"DCAECDC448C7D5D66B69D81AE6695E4C"
+					"download"		"40435FF89F087FEDA18DE9EF8CDD4805"
+				}
+				"localisation"
+				{
+					"gid"		"5C68D26A01C117F2274817D1B4B24198"
+					"size"		"5CCFFA0451DE7CE13CBEA51A0A4355AA"
+					"download"		"C5F54ED1E8613A61FD5CDB96CA1B5472"
+				}
+				"nightlybuild"
+				{
+					"gid"		"6BC5AE94F2B2208F7CE9A5EC53CC69B7"
+					"size"		"AF8E74322A420F25C863B70B70B480E1"
+					"download"		"751AC22CBDB7C2017705699FE2E8B63C"
+				}
+				"test"
+				{
+					"gid"		"02BA69088338CD7D7F209DD954641DF4"
+					"size"		"D55A56F4135D53FB28122B7455990EF9"
+					"download"		"F54D30FD189EB1BE73CBF88A1B77F535"
+				}
+			}
+		}
+		"427107"
+		{
+			"dlcappid"		"686280"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9133693638170568216"
+					"size"		"29523362"
+					"download"		"7113776"
+				}
+				"beta"
+				{
+					"gid"		"9133693638170568216"
+					"size"		"29523362"
+					"download"		"7113776"
+				}
+				"last_ue4"
+				{
+					"gid"		"1646432525140859107"
+					"size"		"52329786"
+					"download"		"5764992"
+				}
+				"local"
+				{
+					"gid"		"5824083133114551746"
+					"size"		"29523362"
+					"download"		"7072208"
+				}
+				"previousversion"
+				{
+					"gid"		"1646432525140859107"
+					"size"		"52329786"
+					"download"		"5764992"
+				}
+				"test_local"
+				{
+					"gid"		"3076243429600722652"
+					"size"		"31390391"
+					"download"		"7344816"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closed_beta"
+				{
+					"gid"		"7DEDD3433BAC074798671ABBF0AEF53D"
+					"size"		"DF6CB0BF6A32ACB37AA695DC01FB3EAC"
+					"download"		"CC7DD012288A75DF2DA6265F93D489EB"
+				}
+				"halycon"
+				{
+					"gid"		"D757694352AE70CC4E48C8581EB33E17"
+					"size"		"90436A5A70F20EAD42A8762F7DD91FEF"
+					"download"		"9F44FBB2823C4FD43BDA6503F34AE63F"
+				}
+				"localisation"
+				{
+					"gid"		"174492F699FBF06B872A13FBE505488A"
+					"size"		"E8B1620CE6A8B8696FEA2FC4D49944EC"
+					"download"		"6BA6EFB77B3869881946532AAB8DA3A5"
+				}
+				"nightlybuild"
+				{
+					"gid"		"1162D9AA9ED31B2FDC49141AD777CCD4"
+					"size"		"D5519C0E6B56DFB5F3F1813185B62463"
+					"download"		"23E113C62DA310243C764D12636649E3"
+				}
+				"test"
+				{
+					"gid"		"DF3B9E483E432F6930FDCA9441D6D2E5"
+					"size"		"183D8DF5C0DDF94AA150961EB99F3952"
+					"download"		"F28185D62ACB0C9E23B2A1FF2DDA85A5"
+				}
+			}
+		}
+		"427108"
+		{
+			"dlcappid"		"724420"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6451832587382769975"
+					"size"		"0"
+					"download"		"0"
+				}
+				"beta"
+				{
+					"gid"		"6451832587382769975"
+					"size"		"0"
+					"download"		"0"
+				}
+				"last_ue4"
+				{
+					"gid"		"3551655388300072267"
+					"size"		"146659565"
+					"download"		"128358816"
+				}
+				"local"
+				{
+					"gid"		"6451832587382769975"
+					"size"		"0"
+					"download"		"0"
+				}
+				"previousversion"
+				{
+					"gid"		"3551655388300072267"
+					"size"		"146659565"
+					"download"		"128358816"
+				}
+				"test_local"
+				{
+					"gid"		"6263816147771366561"
+					"size"		"142850613"
+					"download"		"125915264"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closed_beta"
+				{
+					"gid"		"095F4B593CBDCEABF0207680DA76C32D"
+					"size"		"28677B88A965B7A2B6FC4CA91C8BFFAC"
+					"download"		"28677B88A965B7A2B6FC4CA91C8BFFAC"
+				}
+				"halycon"
+				{
+					"gid"		"8D70C944E16A18950F839A7E0F1A18CE"
+					"size"		"EB04A173985C33611B779860A229D235"
+					"download"		"EB04A173985C33611B779860A229D235"
+				}
+				"localisation"
+				{
+					"gid"		"FA82F418E2D8A249FBB52E754A0C645B"
+					"size"		"CE2E743DFBAA9B60BAC09EE497E25834"
+					"download"		"CE2E743DFBAA9B60BAC09EE497E25834"
+				}
+				"nightlybuild"
+				{
+					"gid"		"DA958CD7893A0E29D7CB222B8011D06D"
+					"size"		"83B309F34DF4A0B564C1C255E28A382D"
+					"download"		"83B309F34DF4A0B564C1C255E28A382D"
+				}
+				"test"
+				{
+					"gid"		"3CEF0C392E3DB70E10C9C7A7D76266E9"
+					"size"		"70F3F2496446D64F335A3E28506E263E"
+					"download"		"70F3F2496446D64F335A3E28506E263E"
+				}
+			}
+		}
+		"427109"
+		{
+			"dlcappid"		"724440"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"576903352774981856"
+					"size"		"0"
+					"download"		"0"
+				}
+				"beta"
+				{
+					"gid"		"576903352774981856"
+					"size"		"0"
+					"download"		"0"
+				}
+				"last_ue4"
+				{
+					"gid"		"4377590248487353292"
+					"size"		"127059894"
+					"download"		"108387952"
+				}
+				"local"
+				{
+					"gid"		"576903352774981856"
+					"size"		"0"
+					"download"		"0"
+				}
+				"previousversion"
+				{
+					"gid"		"4377590248487353292"
+					"size"		"127059894"
+					"download"		"108387952"
+				}
+				"test_local"
+				{
+					"gid"		"237909898041903080"
+					"size"		"119755404"
+					"download"		"102602016"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closed_beta"
+				{
+					"gid"		"BC84C8950F03857C3C598D3DE63EAAEB"
+					"size"		"28677B88A965B7A2B6FC4CA91C8BFFAC"
+					"download"		"28677B88A965B7A2B6FC4CA91C8BFFAC"
+				}
+				"halycon"
+				{
+					"gid"		"8324B0AB05DA0CDE76B636FEBD67877E"
+					"size"		"EB04A173985C33611B779860A229D235"
+					"download"		"EB04A173985C33611B779860A229D235"
+				}
+				"localisation"
+				{
+					"gid"		"04A79C5001FF33E733B74C76ABDFCCDB"
+					"size"		"CE2E743DFBAA9B60BAC09EE497E25834"
+					"download"		"CE2E743DFBAA9B60BAC09EE497E25834"
+				}
+				"nightlybuild"
+				{
+					"gid"		"9D5B170463CD3BA474ABA89DA9918DC4"
+					"size"		"83B309F34DF4A0B564C1C255E28A382D"
+					"download"		"83B309F34DF4A0B564C1C255E28A382D"
+				}
+				"test"
+				{
+					"gid"		"BBBA12411F16BDA680893DEFF4EFA31C"
+					"size"		"70F3F2496446D64F335A3E28506E263E"
+					"download"		"70F3F2496446D64F335A3E28506E263E"
+				}
+			}
+		}
+		"427110"
+		{
+			"dlcappid"		"729490"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4059644809171430782"
+					"size"		"117451371"
+					"download"		"91800144"
+				}
+				"beta"
+				{
+					"gid"		"4059644809171430782"
+					"size"		"117451371"
+					"download"		"91800144"
+				}
+				"last_ue4"
+				{
+					"gid"		"4003310702166613993"
+					"size"		"119431357"
+					"download"		"94158800"
+				}
+				"local"
+				{
+					"gid"		"2230085817687250036"
+					"size"		"117451418"
+					"download"		"91800416"
+				}
+				"previousversion"
+				{
+					"gid"		"4003310702166613993"
+					"size"		"119431357"
+					"download"		"94158800"
+				}
+				"test_local"
+				{
+					"gid"		"4587871886037355849"
+					"size"		"120597969"
+					"download"		"92395792"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closed_beta"
+				{
+					"gid"		"950BEDEE36869F45EB7705E84DC0F766"
+					"size"		"3F7FFE0B5FBAEB518B9BB257B411FE9E"
+					"download"		"157351C5EAE02CD29B161744D39E76E1"
+				}
+				"halycon"
+				{
+					"gid"		"F3B93C38E79955E117F1FDE2CECDB85D"
+					"size"		"D02966506F24C298C62CBC72D1ACA0CC"
+					"download"		"905A1F21AA02905C7E00B7E823FA9802"
+				}
+				"localisation"
+				{
+					"gid"		"58A4DA5D7294922FDA90B217F8387156"
+					"size"		"D21FFD0E834B69A5935F6260EB4B6C6C"
+					"download"		"495CD0D840BE62D936F08C15217C5986"
+				}
+				"nightlybuild"
+				{
+					"gid"		"4765ECFA249BC40ABDF8DB2D83F66F06"
+					"size"		"B1410BCC07D968CF82215A4ED8897F9D"
+					"download"		"0B01AD99B5505CE8F2A78C04AF2D26C5"
+				}
+				"test"
+				{
+					"gid"		"FAF5D9A6A0CEFBB4EA9C03C2A6976447"
+					"size"		"04ACDBC5B6EF1BCC53CBA98979555196"
+					"download"		"3F448BEE163580CE4C6B9BC862F28B1A"
+				}
+			}
+		}
+		"427111"
+		{
+			"dlcappid"		"937720"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1717029215271450946"
+					"size"		"5744927"
+					"download"		"4965616"
+				}
+				"beta"
+				{
+					"gid"		"1717029215271450946"
+					"size"		"5744927"
+					"download"		"4965616"
+				}
+				"last_ue4"
+				{
+					"gid"		"749663090472946942"
+					"size"		"4800486"
+					"download"		"4029904"
+				}
+				"local"
+				{
+					"gid"		"1494445668817608041"
+					"size"		"5680088"
+					"download"		"4890800"
+				}
+				"previousversion"
+				{
+					"gid"		"749663090472946942"
+					"size"		"4800486"
+					"download"		"4029904"
+				}
+				"test_local"
+				{
+					"gid"		"3435305949618730126"
+					"size"		"5330724"
+					"download"		"4452704"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closed_beta"
+				{
+					"gid"		"160F6064377DDA60FDE9CD3A32982A02"
+					"size"		"78519513021D1801EA436FFCF44FA494"
+					"download"		"A506218ABFB4FE00B4310E1299829235"
+				}
+				"halycon"
+				{
+					"gid"		"6E2A163C33CE4B4130FDCB799E5584B6"
+					"size"		"F3CCE7EB00E7338958E3EE8E931D25C8"
+					"download"		"43DB9E88CC657755DDB99CB6D0233D47"
+				}
+				"localisation"
+				{
+					"gid"		"20F08990DF6F5DF8A56A74E50CB0F473"
+					"size"		"F765E1E05FF4B6F2419569D865FBD9EB"
+					"download"		"7D6FBF468C4A45CCD7388C1BB04B991D"
+				}
+				"nightlybuild"
+				{
+					"gid"		"4DB8E4A352CA3B67D73363456009E13C"
+					"size"		"9CA4F24B12FEA96B2890DDFFA40D7D2C"
+					"download"		"716318B1437FF396946294CE6CF57393"
+				}
+				"test"
+				{
+					"gid"		"9D7DFB01E26BE33625EA1AEA18E21B8C"
+					"size"		"6D5F9677FC303BF98F92064FD39F2B5F"
+					"download"		"48D0AF0C88FE9E431285908CD88E7660"
+				}
+			}
+		}
+		"427112"
+		{
+			"dlcappid"		"1026740"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6745388767416594167"
+					"size"		"0"
+					"download"		"0"
+				}
+				"beta"
+				{
+					"gid"		"6745388767416594167"
+					"size"		"0"
+					"download"		"0"
+				}
+				"last_ue4"
+				{
+					"gid"		"2413983893752570637"
+					"size"		"57238610"
+					"download"		"49493104"
+				}
+				"local"
+				{
+					"gid"		"6745388767416594167"
+					"size"		"0"
+					"download"		"0"
+				}
+				"previousversion"
+				{
+					"gid"		"2413983893752570637"
+					"size"		"57238610"
+					"download"		"49493104"
+				}
+				"test_local"
+				{
+					"gid"		"3886229262866663412"
+					"size"		"53762447"
+					"download"		"46034000"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closed_beta"
+				{
+					"gid"		"5E4685A0E43DE7663D7E86352E96BBFF"
+					"size"		"28677B88A965B7A2B6FC4CA91C8BFFAC"
+					"download"		"28677B88A965B7A2B6FC4CA91C8BFFAC"
+				}
+				"halycon"
+				{
+					"gid"		"230E042DFC7256C8DD0B2916C1DA0211"
+					"size"		"EB04A173985C33611B779860A229D235"
+					"download"		"EB04A173985C33611B779860A229D235"
+				}
+				"localisation"
+				{
+					"gid"		"3DEDD52C0E16BE838DC7E1E9FBAC6D3B"
+					"size"		"CE2E743DFBAA9B60BAC09EE497E25834"
+					"download"		"CE2E743DFBAA9B60BAC09EE497E25834"
+				}
+				"nightlybuild"
+				{
+					"gid"		"2CB645A1E1D836D20AE6681E4F2BA2E1"
+					"size"		"83B309F34DF4A0B564C1C255E28A382D"
+					"download"		"83B309F34DF4A0B564C1C255E28A382D"
+				}
+				"test"
+				{
+					"gid"		"97E6DCBE87AB24E4029929B1EE3239FB"
+					"size"		"70F3F2496446D64F335A3E28506E263E"
+					"download"		"70F3F2496446D64F335A3E28506E263E"
+				}
+			}
+		}
+		"427113"
+		{
+			"dlcappid"		"1121030"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3246510030392480116"
+					"size"		"0"
+					"download"		"0"
+				}
+				"beta"
+				{
+					"gid"		"3246510030392480116"
+					"size"		"0"
+					"download"		"0"
+				}
+				"last_ue4"
+				{
+					"gid"		"2572650453083588072"
+					"size"		"83729580"
+					"download"		"71645216"
+				}
+				"local"
+				{
+					"gid"		"3246510030392480116"
+					"size"		"0"
+					"download"		"0"
+				}
+				"previousversion"
+				{
+					"gid"		"2572650453083588072"
+					"size"		"83729580"
+					"download"		"71645216"
+				}
+				"test_local"
+				{
+					"gid"		"6339427049637916158"
+					"size"		"86023036"
+					"download"		"73073056"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closed_beta"
+				{
+					"gid"		"07A92311077AD2BA0269CD4628A3912E"
+					"size"		"28677B88A965B7A2B6FC4CA91C8BFFAC"
+					"download"		"28677B88A965B7A2B6FC4CA91C8BFFAC"
+				}
+				"halycon"
+				{
+					"gid"		"363AC9C8A9AE0304677E3E760919B0B8"
+					"size"		"EB04A173985C33611B779860A229D235"
+					"download"		"EB04A173985C33611B779860A229D235"
+				}
+				"localisation"
+				{
+					"gid"		"4FDDE02307685B9651225F76D63A0EF2"
+					"size"		"CE2E743DFBAA9B60BAC09EE497E25834"
+					"download"		"CE2E743DFBAA9B60BAC09EE497E25834"
+				}
+				"nightlybuild"
+				{
+					"gid"		"D3FDD0D98D18E65BF007F70C1090A094"
+					"size"		"83B309F34DF4A0B564C1C255E28A382D"
+					"download"		"83B309F34DF4A0B564C1C255E28A382D"
+				}
+				"test"
+				{
+					"gid"		"220AEE520ECE9312D4B56F614784F9B0"
+					"size"		"70F3F2496446D64F335A3E28506E263E"
+					"download"		"70F3F2496446D64F335A3E28506E263E"
+				}
+			}
+		}
+		"427114"
+		{
+			"dlcappid"		"1121090"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"94009458949462790"
+					"size"		"54438191"
+					"download"		"42284512"
+				}
+				"beta"
+				{
+					"gid"		"94009458949462790"
+					"size"		"54438191"
+					"download"		"42284512"
+				}
+				"last_ue4"
+				{
+					"gid"		"4784540777969433742"
+					"size"		"62311142"
+					"download"		"37704240"
+				}
+				"local"
+				{
+					"gid"		"3525132901518248861"
+					"size"		"54438139"
+					"download"		"42127168"
+				}
+				"previousversion"
+				{
+					"gid"		"4784540777969433742"
+					"size"		"62311142"
+					"download"		"37704240"
+				}
+				"test_local"
+				{
+					"gid"		"71066612701170969"
+					"size"		"55335686"
+					"download"		"42361296"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closed_beta"
+				{
+					"gid"		"8446591D59F55C04805B09872445A687"
+					"size"		"2BAE7BEA54FCAF02CE1D5A26CFEFDBC2"
+					"download"		"9A53A18DE9D65E803FA9EAF8A2F7C802"
+				}
+				"halycon"
+				{
+					"gid"		"EE4CA1C572F289ED6E8B3D9A95499A0C"
+					"size"		"DCCB512D4A1D653F742B4A3676E4B0D9"
+					"download"		"035B07DC88606D59D18476CFF2B1FEF7"
+				}
+				"localisation"
+				{
+					"gid"		"F9FDAB8201E264A93CD36724EC007BB0"
+					"size"		"FA868D978F76452FB0FAE878B1A72B47"
+					"download"		"8E5A0F4CC0F5A0A8292C0A8922B4E2CF"
+				}
+				"nightlybuild"
+				{
+					"gid"		"8C5FA1CFC470BD8DBAC7A92D592298E4"
+					"size"		"1EB91DC97A04040CE9D853B17D8B082C"
+					"download"		"644438189ABF91820BB202B8387D9EA9"
+				}
+				"test"
+				{
+					"gid"		"4FFA741E4A30C7D91A6233A85FD1C509"
+					"size"		"DEBBF31B1EC82AC471F0CE3FD98923B3"
+					"download"		"12F071774676BD86FB4D31C9362A68B9"
+				}
+			}
+		}
+		"427115"
+		{
+			"dlcappid"		"1140660"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2640956299154283565"
+					"size"		"605475459"
+					"download"		"557389952"
+				}
+				"beta"
+				{
+					"gid"		"2640956299154283565"
+					"size"		"605475459"
+					"download"		"557389952"
+				}
+				"last_ue4"
+				{
+					"gid"		"7735897822842432885"
+					"size"		"557274632"
+					"download"		"449182320"
+				}
+				"local"
+				{
+					"gid"		"463827066647337766"
+					"size"		"603377747"
+					"download"		"553755392"
+				}
+				"previousversion"
+				{
+					"gid"		"7735897822842432885"
+					"size"		"557274632"
+					"download"		"449182320"
+				}
+				"test_local"
+				{
+					"gid"		"2741336109913433072"
+					"size"		"567732847"
+					"download"		"517865168"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closed_beta"
+				{
+					"gid"		"A5F8C5F3FBF700595E03EF9CF93A4369"
+					"size"		"596BE193263645E83523B46C1F6EEA16"
+					"download"		"7498BC67C2CAF48790761073AE91E0C6"
+				}
+				"halycon"
+				{
+					"gid"		"3643BC75BAA6518FC47C7688C86B958E"
+					"size"		"06209EFD0205FCDF71146E0D985A2807"
+					"download"		"1651F4255296839E8B419E8C4F8AA35F"
+				}
+				"localisation"
+				{
+					"gid"		"31FD23AFC1D44FE8997AAFC49F02C133"
+					"size"		"C458AE5DD43057E34AA5C3543AB1B8FD"
+					"download"		"0DE7546612A2B1F51D264DDCD0F9F485"
+				}
+				"nightlybuild"
+				{
+					"gid"		"C51DA0A3FA942CA2F1F39329C5529E9A"
+					"size"		"974BB6113E0D294C10CDBD9DCB979F2C"
+					"download"		"2A984EA5AB2B5D4DD3D6DD4DBA6F0948"
+				}
+				"test"
+				{
+					"gid"		"ADA454BDEDEBBE73447AF6578CA6030C"
+					"size"		"B8427C0AF9F7D640CF458F3D287C1901"
+					"download"		"02A6176879656E2F9A46DE387A6FB1C0"
+				}
+			}
+		}
+		"427116"
+		{
+			"dlcappid"		"1140661"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6188939402904210485"
+					"size"		"527507098"
+					"download"		"454344352"
+				}
+				"beta"
+				{
+					"gid"		"6188939402904210485"
+					"size"		"527507098"
+					"download"		"454344352"
+				}
+				"last_ue4"
+				{
+					"gid"		"4359212454903041451"
+					"size"		"527487178"
+					"download"		"387683264"
+				}
+				"local"
+				{
+					"gid"		"2726557721666583946"
+					"size"		"524360259"
+					"download"		"451062160"
+				}
+				"previousversion"
+				{
+					"gid"		"4359212454903041451"
+					"size"		"527487178"
+					"download"		"387683264"
+				}
+				"test_local"
+				{
+					"gid"		"6351780789838929461"
+					"size"		"520170994"
+					"download"		"443124896"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closed_beta"
+				{
+					"gid"		"729E832DB18F8C36EB26315770AA243A"
+					"size"		"2DE2F6606A37DAEE781F7268E5F9A115"
+					"download"		"C78FCA8B01C1A91CD29369B471ECF86F"
+				}
+				"halycon"
+				{
+					"gid"		"4AFC0B0077A46E35A9DB17F5D582B171"
+					"size"		"A7909023FA2372EFEEEEB6DC8FB6E24D"
+					"download"		"6293EBB9A645CE2360F2EBEB8020845D"
+				}
+				"localisation"
+				{
+					"gid"		"A21D8C102367B645D4B1BAC9A208917F"
+					"size"		"BFB775F881F26BCFE246FE84347DF0D5"
+					"download"		"721B46F3BA8578062E513AC6C238222C"
+				}
+				"nightlybuild"
+				{
+					"gid"		"9BBBA0FF3BB6BDE920515E265D9138DA"
+					"size"		"A8B019DF805DF6934A33DEB3D945FE8F"
+					"download"		"8E100F33AEE15806037C72925DC0D3D4"
+				}
+				"test"
+				{
+					"gid"		"651CAD4F77E2527D7FE1E1B313687843"
+					"size"		"2BD74A3EFD2183BBEFDE753E3B020200"
+					"download"		"1C737F1E46526B683441A2D718B22A97"
+				}
+			}
+		}
+		"427117"
+		{
+			"dlcappid"		"1140662"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2222611962168510766"
+					"size"		"84732521"
+					"download"		"78405392"
+				}
+				"beta"
+				{
+					"gid"		"2222611962168510766"
+					"size"		"84732521"
+					"download"		"78405392"
+				}
+				"last_ue4"
+				{
+					"gid"		"495375826196610677"
+					"size"		"78481557"
+					"download"		"68319728"
+				}
+				"local"
+				{
+					"gid"		"1594285026114611227"
+					"size"		"83683909"
+					"download"		"78170576"
+				}
+				"previousversion"
+				{
+					"gid"		"495375826196610677"
+					"size"		"78481557"
+					"download"		"68319728"
+				}
+				"test_local"
+				{
+					"gid"		"2375775049309179499"
+					"size"		"81276669"
+					"download"		"75769856"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closed_beta"
+				{
+					"gid"		"94B6B9D53C43673970A2607845048017"
+					"size"		"53923C7D6E3AF056E09F3C6B9E42CF5D"
+					"download"		"75EFD6586144FEEC5C03D6E360F964DF"
+				}
+				"halycon"
+				{
+					"gid"		"AC5AFDACAB3F55E2E3140F1908949BCF"
+					"size"		"ACF86E80186824B2C97961B5AECEB7D3"
+					"download"		"B57CEF036FC33ED4A9292A2AF98DC225"
+				}
+				"localisation"
+				{
+					"gid"		"9E75DF6FB38F6517764DB5BB0284C842"
+					"size"		"FFD738F3BD98F14143799BAE0F8EAB69"
+					"download"		"54B446531479EAC1C0A1ACFFD87C51C4"
+				}
+				"nightlybuild"
+				{
+					"gid"		"2A99CAEE26C1EBB33ADCBCEAD1B0A05F"
+					"size"		"D4B650F9A1A46CA7F610FE43D611D9E1"
+					"download"		"B86008AC50AAAFAB258258E96DE3AD79"
+				}
+				"test"
+				{
+					"gid"		"47C527611BDE69600604B786F6DB9177"
+					"size"		"0B54FBBD6AB4BF14EC1497F753EBEFED"
+					"download"		"B6711E2A2AB3400A53D49BAC55138A04"
+				}
+			}
+		}
+		"427118"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3040655110273173760"
+					"size"		"3432857"
+					"download"		"2360080"
+				}
+				"beta"
+				{
+					"gid"		"3040655110273173760"
+					"size"		"3432857"
+					"download"		"2360080"
+				}
+				"last_ue4"
+				{
+					"gid"		"2558785952567008502"
+					"size"		"3133531"
+					"download"		"2061312"
+				}
+				"local"
+				{
+					"gid"		"1935544050739181917"
+					"size"		"3424895"
+					"download"		"2352704"
+				}
+				"previousversion"
+				{
+					"gid"		"2558785952567008502"
+					"size"		"3133531"
+					"download"		"2061312"
+				}
+				"test_local"
+				{
+					"gid"		"1741118746951820774"
+					"size"		"3337661"
+					"download"		"2197312"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closed_beta"
+				{
+					"gid"		"24B699F0D086015ACC10B6B618080E52"
+					"size"		"8950D8A9FE1B7B8098AC75FF7AFA94E5"
+					"download"		"AC527DA4C693A465BE3B849F570A60F2"
+				}
+				"halycon"
+				{
+					"gid"		"B10A94AA5E5F3C6D76A62CFC907792FA"
+					"size"		"0156BF5356E2D707EDA589CA33DDF2F1"
+					"download"		"727801146D3821EFEAAD2B9FE0610B83"
+				}
+				"localisation"
+				{
+					"gid"		"FAE316257D0B4EF89D3690BE13F9AA2B"
+					"size"		"FE55F4E05DECA7E57FECFE28F4870B80"
+					"download"		"B4D8C434C4AFD5FE59EBB260F974AA2B"
+				}
+				"nightlybuild"
+				{
+					"gid"		"C2AD15707ECD156856A25EE265886615"
+					"size"		"6D135DA8E57B1BECF86FEF62D314D8AF"
+					"download"		"AEF186F5020E844986AFF4FA0DDF7A88"
+				}
+				"test"
+				{
+					"gid"		"D928117373C2D5E5C008DCF51202E8F7"
+					"size"		"83FA7EF768C9EF75C493FFF7F2E97319"
+					"download"		"00BACFA3A1373B3A58CDDF7777E0106A"
+				}
+			}
+		}
+		"427119"
+		{
+			"dlcappid"		"1158120"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1128993684715194911"
+					"size"		"0"
+					"download"		"0"
+				}
+				"beta"
+				{
+					"gid"		"1128993684715194911"
+					"size"		"0"
+					"download"		"0"
+				}
+				"last_ue4"
+				{
+					"gid"		"2022948793326014009"
+					"size"		"69745089"
+					"download"		"60936576"
+				}
+				"local"
+				{
+					"gid"		"1128993684715194911"
+					"size"		"0"
+					"download"		"0"
+				}
+				"previousversion"
+				{
+					"gid"		"2022948793326014009"
+					"size"		"69745089"
+					"download"		"60936576"
+				}
+				"test_local"
+				{
+					"gid"		"4077823520254791204"
+					"size"		"67662747"
+					"download"		"57095216"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closed_beta"
+				{
+					"gid"		"6226407AB2440E76928477F1AA1D7797"
+					"size"		"28677B88A965B7A2B6FC4CA91C8BFFAC"
+					"download"		"28677B88A965B7A2B6FC4CA91C8BFFAC"
+				}
+				"halycon"
+				{
+					"gid"		"28F2B04B51FB1615E034C7FA0E451770"
+					"size"		"EB04A173985C33611B779860A229D235"
+					"download"		"EB04A173985C33611B779860A229D235"
+				}
+				"localisation"
+				{
+					"gid"		"2BF9901BF21C9667F71211B7CD035C77"
+					"size"		"CE2E743DFBAA9B60BAC09EE497E25834"
+					"download"		"CE2E743DFBAA9B60BAC09EE497E25834"
+				}
+				"nightlybuild"
+				{
+					"gid"		"97F52F6406CFE357F9C5C4C8C5378BAD"
+					"size"		"83B309F34DF4A0B564C1C255E28A382D"
+					"download"		"83B309F34DF4A0B564C1C255E28A382D"
+				}
+				"test"
+				{
+					"gid"		"23C783EBE0A38FD62DE030304C9DAC27"
+					"size"		"70F3F2496446D64F335A3E28506E263E"
+					"download"		"70F3F2496446D64F335A3E28506E263E"
+				}
+			}
+		}
+		"569701"
+		{
+			"dlcappid"		"1250730"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8497909674161473596"
+					"size"		"0"
+					"download"		"0"
+				}
+				"beta"
+				{
+					"gid"		"8497909674161473596"
+					"size"		"0"
+					"download"		"0"
+				}
+				"last_ue4"
+				{
+					"gid"		"3329296700794891310"
+					"size"		"38167506"
+					"download"		"32437584"
+				}
+				"local"
+				{
+					"gid"		"8497909674161473596"
+					"size"		"0"
+					"download"		"0"
+				}
+				"previousversion"
+				{
+					"gid"		"3329296700794891310"
+					"size"		"38167506"
+					"download"		"32437584"
+				}
+				"test_local"
+				{
+					"gid"		"3174388064366178588"
+					"size"		"37204232"
+					"download"		"31810320"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closed_beta"
+				{
+					"gid"		"79ADC0A914D6AF6FB03B7104CF59A6D8"
+					"size"		"28677B88A965B7A2B6FC4CA91C8BFFAC"
+					"download"		"28677B88A965B7A2B6FC4CA91C8BFFAC"
+				}
+				"halycon"
+				{
+					"gid"		"B25FC79EFB32B3A32BCC524704E608C9"
+					"size"		"EB04A173985C33611B779860A229D235"
+					"download"		"EB04A173985C33611B779860A229D235"
+				}
+				"localisation"
+				{
+					"gid"		"835B6177D18BDA8BABABBF81A8135727"
+					"size"		"CE2E743DFBAA9B60BAC09EE497E25834"
+					"download"		"CE2E743DFBAA9B60BAC09EE497E25834"
+				}
+				"nightlybuild"
+				{
+					"gid"		"3EF335D16C26A7B696D9D1218B7698E1"
+					"size"		"83B309F34DF4A0B564C1C255E28A382D"
+					"download"		"83B309F34DF4A0B564C1C255E28A382D"
+				}
+				"test"
+				{
+					"gid"		"30C6D25C28FD2268221484BC6BCEFEB5"
+					"size"		"70F3F2496446D64F335A3E28506E263E"
+					"download"		"70F3F2496446D64F335A3E28506E263E"
+				}
+			}
+		}
+		"569702"
+		{
+			"dlcappid"		"1154770"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2278123645898777675"
+					"size"		"0"
+					"download"		"0"
+				}
+				"beta"
+				{
+					"gid"		"2278123645898777675"
+					"size"		"0"
+					"download"		"0"
+				}
+				"last_ue4"
+				{
+					"gid"		"4356156209048730706"
+					"size"		"150349578"
+					"download"		"129280176"
+				}
+				"local"
+				{
+					"gid"		"2278123645898777675"
+					"size"		"0"
+					"download"		"0"
+				}
+				"previousversion"
+				{
+					"gid"		"4356156209048730706"
+					"size"		"150349578"
+					"download"		"129280176"
+				}
+				"test_local"
+				{
+					"gid"		"7431915255708613368"
+					"size"		"148359234"
+					"download"		"125827872"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closed_beta"
+				{
+					"gid"		"CE78CE9272F79F5096DBFD981271C630"
+					"size"		"28677B88A965B7A2B6FC4CA91C8BFFAC"
+					"download"		"28677B88A965B7A2B6FC4CA91C8BFFAC"
+				}
+				"halycon"
+				{
+					"gid"		"5124D48D14E45B70962B790B6D5B8600"
+					"size"		"EB04A173985C33611B779860A229D235"
+					"download"		"EB04A173985C33611B779860A229D235"
+				}
+				"localisation"
+				{
+					"gid"		"6C2F5DCC21F16DBA8776F333E2371227"
+					"size"		"CE2E743DFBAA9B60BAC09EE497E25834"
+					"download"		"CE2E743DFBAA9B60BAC09EE497E25834"
+				}
+				"nightlybuild"
+				{
+					"gid"		"F80CF0DE90A8751876D3D754D768838E"
+					"size"		"83B309F34DF4A0B564C1C255E28A382D"
+					"download"		"83B309F34DF4A0B564C1C255E28A382D"
+				}
+				"test"
+				{
+					"gid"		"4925C777DB20E05089876D592CD69E99"
+					"size"		"70F3F2496446D64F335A3E28506E263E"
+					"download"		"70F3F2496446D64F335A3E28506E263E"
+				}
+			}
+		}
+		"569703"
+		{
+			"dlcappid"		"1370010"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1588070790492004896"
+					"size"		"0"
+					"download"		"0"
+				}
+				"beta"
+				{
+					"gid"		"1588070790492004896"
+					"size"		"0"
+					"download"		"0"
+				}
+				"last_ue4"
+				{
+					"gid"		"1248739782823975069"
+					"size"		"179086980"
+					"download"		"161795664"
+				}
+				"local"
+				{
+					"gid"		"1588070790492004896"
+					"size"		"0"
+					"download"		"0"
+				}
+				"previousversion"
+				{
+					"gid"		"1248739782823975069"
+					"size"		"179086980"
+					"download"		"161795664"
+				}
+				"test_local"
+				{
+					"gid"		"860547638144978227"
+					"size"		"169150325"
+					"download"		"153554592"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closed_beta"
+				{
+					"gid"		"CD1CCC308AD9A0CC7643BBA0C61B0E7B"
+					"size"		"28677B88A965B7A2B6FC4CA91C8BFFAC"
+					"download"		"28677B88A965B7A2B6FC4CA91C8BFFAC"
+				}
+				"halycon"
+				{
+					"gid"		"D174B17DA38EC464F88C7D8C8F495E45"
+					"size"		"EB04A173985C33611B779860A229D235"
+					"download"		"EB04A173985C33611B779860A229D235"
+				}
+				"localisation"
+				{
+					"gid"		"D4F343D15799046A627F5B38B7706DD7"
+					"size"		"CE2E743DFBAA9B60BAC09EE497E25834"
+					"download"		"CE2E743DFBAA9B60BAC09EE497E25834"
+				}
+				"nightlybuild"
+				{
+					"gid"		"D846FD2E4839DEEAA94716265B0F448A"
+					"size"		"83B309F34DF4A0B564C1C255E28A382D"
+					"download"		"83B309F34DF4A0B564C1C255E28A382D"
+				}
+				"test"
+				{
+					"gid"		"12578C60CE1629B8B96365C98EDEEA94"
+					"size"		"70F3F2496446D64F335A3E28506E263E"
+					"download"		"70F3F2496446D64F335A3E28506E263E"
+				}
+			}
+		}
+		"569704"
+		{
+			"dlcappid"		"1446990"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1596517033144097381"
+					"size"		"387039871"
+					"download"		"328437104"
+				}
+				"beta"
+				{
+					"gid"		"1596517033144097381"
+					"size"		"387039871"
+					"download"		"328437104"
+				}
+				"last_ue4"
+				{
+					"gid"		"75139470031168703"
+					"size"		"0"
+					"download"		"0"
+				}
+				"local"
+				{
+					"gid"		"6721026945112666988"
+					"size"		"387824382"
+					"download"		"327428672"
+				}
+				"previousversion"
+				{
+					"gid"		"75139470031168703"
+					"size"		"0"
+					"download"		"0"
+				}
+				"test_local"
+				{
+					"gid"		"2753801183305861702"
+					"size"		"299301320"
+					"download"		"254873040"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closed_beta"
+				{
+					"gid"		"EA7E9BF6F6047FAB0E1B626CCBAF461A"
+					"size"		"CBD657B86845C9912A681C75D5C465B0"
+					"download"		"D51C8E96F93DDF9103F1933EB5B645BE"
+				}
+				"halycon"
+				{
+					"gid"		"09018E33C17E6000F63E423B2DBA6574"
+					"size"		"BA717F3088A34194D1E90E36E118998D"
+					"download"		"8466852ED9D09DCB14C8E6992E22909A"
+				}
+				"localisation"
+				{
+					"gid"		"FB1269D5A4C44BEFA3EC6B76E6D82EE0"
+					"size"		"DB6E8088DFDB704AD8F4221722A4B33B"
+					"download"		"BD0CE579E44EDCDB74962121218B2BC4"
+				}
+				"nightlybuild"
+				{
+					"gid"		"4800326259B412AF71303FB7B05A6908"
+					"size"		"B92C31F12ABA2ECC1F50FB6CC6764CF3"
+					"download"		"8C49986FE780420843F20037644150D2"
+				}
+				"test"
+				{
+					"gid"		"77509312CF8E7DEFBE07038116AB0630"
+					"size"		"4AA27F3099C7A08407F3C41E545075CE"
+					"download"		"18BDA18BD7EDAF3971CE2004B1032A0C"
+				}
+			}
+		}
+		"569705"
+		{
+			"dlcappid"		"1446991"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5916153530131678799"
+					"size"		"559696970"
+					"download"		"485543552"
+				}
+				"beta"
+				{
+					"gid"		"5916153530131678799"
+					"size"		"559696970"
+					"download"		"485543552"
+				}
+				"last_ue4"
+				{
+					"gid"		"8103434572531024869"
+					"size"		"538757915"
+					"download"		"442864240"
+				}
+				"local"
+				{
+					"gid"		"1043548978212966446"
+					"size"		"548185423"
+					"download"		"475504768"
+				}
+				"previousversion"
+				{
+					"gid"		"8103434572531024869"
+					"size"		"538757915"
+					"download"		"442864240"
+				}
+				"test_local"
+				{
+					"gid"		"1642028011295266052"
+					"size"		"567050973"
+					"download"		"494411184"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closed_beta"
+				{
+					"gid"		"80F38C698D7008EDC058221820E97E6E"
+					"size"		"CE86CBF047B7B97F059CF824684B4588"
+					"download"		"C32B1AAD8A13159B258490B075955C53"
+				}
+				"halycon"
+				{
+					"gid"		"63689A67CB0118C08E704E277EA9145C"
+					"size"		"196B9B946E4CE27CE75E8941F0B1D4ED"
+					"download"		"5BA1EC93CC562E1B45BD8198BE5CE991"
+				}
+				"localisation"
+				{
+					"gid"		"A9EAC693BDE8D914E286FA03508E2B16"
+					"size"		"E0689F523B4BC387AB19D72E4A2FA52E"
+					"download"		"0F6BF1C7C1B8C316833A1D6E9625E961"
+				}
+				"nightlybuild"
+				{
+					"gid"		"A39815D5861DB827AD8032DBB44CD3E0"
+					"size"		"11665DBB2907440C4CF333E115ED90D6"
+					"download"		"BDA7CACF993C9CC01A7FFEAA9B081549"
+				}
+				"test"
+				{
+					"gid"		"99F9794CF9D4889C401D840444FE49A9"
+					"size"		"71F51FDC54F177EC36A4CD89291C8314"
+					"download"		"1311D65D93078E0F31F29E40FD635A9C"
+				}
+			}
+		}
+		"569706"
+		{
+			"dlcappid"		"1471310"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1931755692458931688"
+					"size"		"4979494"
+					"download"		"3313200"
+				}
+				"beta"
+				{
+					"gid"		"1931755692458931688"
+					"size"		"4979494"
+					"download"		"3313200"
+				}
+				"last_ue4"
+				{
+					"gid"		"3064686177672163007"
+					"size"		"3833849"
+					"download"		"2744112"
+				}
+				"local"
+				{
+					"gid"		"1587731379623861105"
+					"size"		"4980317"
+					"download"		"3309488"
+				}
+				"previousversion"
+				{
+					"gid"		"3064686177672163007"
+					"size"		"3833849"
+					"download"		"2744112"
+				}
+				"test_local"
+				{
+					"gid"		"5169359379510952786"
+					"size"		"4885412"
+					"download"		"3234864"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closed_beta"
+				{
+					"gid"		"0B0B6ECBF20EA3F725E18C52135E0487"
+					"size"		"8CDA7E73ED4E55DCCCA8DF627B82949A"
+					"download"		"436A56748F99917FCA1C722B40A2BB05"
+				}
+				"halycon"
+				{
+					"gid"		"07DE04D6DD305FE265377EA085F1ED4F"
+					"size"		"5DA6F1C9555E3F8CACBBD653CF34B0FC"
+					"download"		"2D963BA9F1E64E0FF5E080FA2155C353"
+				}
+				"localisation"
+				{
+					"gid"		"F1FA865377A9AAA838AD0EE38F9B0C41"
+					"size"		"B52588E0D70A72FF77650DD5E308B842"
+					"download"		"51F4E477B7DC9212A54E42DE1364D91D"
+				}
+				"nightlybuild"
+				{
+					"gid"		"1D204F50AF7EED9DFE9CC439FC0208A1"
+					"size"		"34DA268033C02E8BB29E6ABE2FD9787E"
+					"download"		"2A7B2C95FD37FD228C1D3D73EB9D10AB"
+				}
+				"test"
+				{
+					"gid"		"F629EC48029360753FCE38BCDC792E2C"
+					"size"		"52303FDC3B022C2D01EF101E1B630303"
+					"download"		"049EE2747A219A78568E03DEBAF92BA2"
+				}
+			}
+		}
+		"569707"
+		{
+			"dlcappid"		"1635100"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"366950732446986374"
+					"size"		"0"
+					"download"		"0"
+				}
+				"beta"
+				{
+					"gid"		"366950732446986374"
+					"size"		"0"
+					"download"		"0"
+				}
+				"last_ue4"
+				{
+					"gid"		"366950732446986374"
+					"size"		"0"
+					"download"		"0"
+				}
+				"local"
+				{
+					"gid"		"366950732446986374"
+					"size"		"0"
+					"download"		"0"
+				}
+				"previousversion"
+				{
+					"gid"		"366950732446986374"
+					"size"		"0"
+					"download"		"0"
+				}
+				"test_local"
+				{
+					"gid"		"366950732446986374"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closed_beta"
+				{
+					"gid"		"D900776894BAA9894A52B8AB7C2AF20D"
+					"size"		"28677B88A965B7A2B6FC4CA91C8BFFAC"
+					"download"		"28677B88A965B7A2B6FC4CA91C8BFFAC"
+				}
+				"halycon"
+				{
+					"gid"		"7F3F53C3C36F72E6530A6B6C4A9166A4"
+					"size"		"EB04A173985C33611B779860A229D235"
+					"download"		"EB04A173985C33611B779860A229D235"
+				}
+				"localisation"
+				{
+					"gid"		"93348EDA81F1C9ACFCABC0A2CD4F1265"
+					"size"		"CE2E743DFBAA9B60BAC09EE497E25834"
+					"download"		"CE2E743DFBAA9B60BAC09EE497E25834"
+				}
+				"nightlybuild"
+				{
+					"gid"		"41122996D509A9C23A7CC010B48CA1F7"
+					"size"		"83B309F34DF4A0B564C1C255E28A382D"
+					"download"		"83B309F34DF4A0B564C1C255E28A382D"
+				}
+				"test"
+				{
+					"gid"		"BCEF5184C98D2A75E8A8B23DE921EA19"
+					"size"		"70F3F2496446D64F335A3E28506E263E"
+					"download"		"70F3F2496446D64F335A3E28506E263E"
+				}
+			}
+		}
+		"569708"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8063992118282527498"
+					"size"		"0"
+					"download"		"0"
+				}
+				"beta"
+				{
+					"gid"		"8063992118282527498"
+					"size"		"0"
+					"download"		"0"
+				}
+				"last_ue4"
+				{
+					"gid"		"6785822808189121992"
+					"size"		"4600"
+					"download"		"1376"
+				}
+				"local"
+				{
+					"gid"		"8063992118282527498"
+					"size"		"0"
+					"download"		"0"
+				}
+				"previousversion"
+				{
+					"gid"		"6785822808189121992"
+					"size"		"4600"
+					"download"		"1376"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closed_beta"
+				{
+					"gid"		"B3CD18A0F8F72521EB53A1A46908F02B"
+					"size"		"28677B88A965B7A2B6FC4CA91C8BFFAC"
+					"download"		"28677B88A965B7A2B6FC4CA91C8BFFAC"
+				}
+				"halycon"
+				{
+					"gid"		"93643BD3B070A215AE94168302B97AA6"
+					"size"		"EB04A173985C33611B779860A229D235"
+					"download"		"EB04A173985C33611B779860A229D235"
+				}
+				"localisation"
+				{
+					"gid"		"84DADC2D7DE895ADF9CCFE803F2C82B6"
+					"size"		"CE2E743DFBAA9B60BAC09EE497E25834"
+					"download"		"CE2E743DFBAA9B60BAC09EE497E25834"
+				}
+				"nightlybuild"
+				{
+					"gid"		"98E06D1118D0DC3E7B78176442965EF7"
+					"size"		"83B309F34DF4A0B564C1C255E28A382D"
+					"download"		"83B309F34DF4A0B564C1C255E28A382D"
+				}
+				"test"
+				{
+					"gid"		"001243C1ADAD00D4A31456FFFA3AF740"
+					"size"		"70F3F2496446D64F335A3E28506E263E"
+					"download"		"70F3F2496446D64F335A3E28506E263E"
+				}
+			}
+		}
+		"569709"
+		{
+			"dlcappid"		"1840740"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7886967393069406091"
+					"size"		"29522852"
+					"download"		"22913344"
+				}
+				"beta"
+				{
+					"gid"		"7886967393069406091"
+					"size"		"29522852"
+					"download"		"22913344"
+				}
+				"last_ue4"
+				{
+					"gid"		"1924451918602726246"
+					"size"		"28486531"
+					"download"		"22468832"
+				}
+				"local"
+				{
+					"gid"		"7886967393069406091"
+					"size"		"29522852"
+					"download"		"22913344"
+				}
+				"previousversion"
+				{
+					"gid"		"1924451918602726246"
+					"size"		"28486531"
+					"download"		"22468832"
+				}
+				"test_local"
+				{
+					"gid"		"5536575236865260482"
+					"size"		"29522844"
+					"download"		"22913344"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closed_beta"
+				{
+					"gid"		"7C521570D4B7953041099F5B6006AA03"
+					"size"		"3BF4569600E55D0B387B74D2A8A64913"
+					"download"		"C0B3322EDD6582E9463946A0DA03D446"
+				}
+				"halycon"
+				{
+					"gid"		"137D57ED6840696E938C32F7B744192E"
+					"size"		"7BB54EF6A9AB3A36BF7E9006C008A10A"
+					"download"		"5DF8E671F8180F5D33E72573E25FBDBE"
+				}
+				"localisation"
+				{
+					"gid"		"A1F90E3E9E452CD834FA5A25BEFD60A6"
+					"size"		"613C54BF1B17800A3D8641FBA7746492"
+					"download"		"503A5E38E50BA8887821E154BAEB5D1F"
+				}
+				"nightlybuild"
+				{
+					"gid"		"DE3050C153D31E3A0B4B6C1D4E19063D"
+					"size"		"EB69B72F04361FC43844B0386A16AF23"
+					"download"		"81940CC933B84CBCBFC60A04D842CAC7"
+				}
+				"test"
+				{
+					"gid"		"6253F6B2572F83CF5E8A01A4F14DF536"
+					"size"		"14EAF3FD4218AE51C20C5CD8D87510A4"
+					"download"		"2694B262ED0DE9469777DDC886ADC26E"
+				}
+			}
+		}
+		"602731"
+		{
+			"dlcappid"		"1847550"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5949501301683070979"
+					"size"		"0"
+					"download"		"0"
+				}
+				"beta"
+				{
+					"gid"		"5949501301683070979"
+					"size"		"0"
+					"download"		"0"
+				}
+				"last_ue4"
+				{
+					"gid"		"3545566859027106542"
+					"size"		"263536822"
+					"download"		"214616464"
+				}
+				"local"
+				{
+					"gid"		"5949501301683070979"
+					"size"		"0"
+					"download"		"0"
+				}
+				"previousversion"
+				{
+					"gid"		"3545566859027106542"
+					"size"		"263536822"
+					"download"		"214616464"
+				}
+				"test_local"
+				{
+					"gid"		"2500216761274930466"
+					"size"		"252162928"
+					"download"		"206346048"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closed_beta"
+				{
+					"gid"		"A5E47AB123E72B469FF0BF96D307DCB5"
+					"size"		"28677B88A965B7A2B6FC4CA91C8BFFAC"
+					"download"		"28677B88A965B7A2B6FC4CA91C8BFFAC"
+				}
+				"halycon"
+				{
+					"gid"		"ABC30A9AF41ADFD65160CDC0A43921C5"
+					"size"		"EB04A173985C33611B779860A229D235"
+					"download"		"EB04A173985C33611B779860A229D235"
+				}
+				"localisation"
+				{
+					"gid"		"897F84EE959F7E6C5D674A6A0E8D1116"
+					"size"		"CE2E743DFBAA9B60BAC09EE497E25834"
+					"download"		"CE2E743DFBAA9B60BAC09EE497E25834"
+				}
+				"nightlybuild"
+				{
+					"gid"		"565481239AD564631E6B5AEB9D02C9B4"
+					"size"		"83B309F34DF4A0B564C1C255E28A382D"
+					"download"		"83B309F34DF4A0B564C1C255E28A382D"
+				}
+				"test"
+				{
+					"gid"		"EA397B2C9FAB2CB10E4EC7F3DA68A412"
+					"size"		"70F3F2496446D64F335A3E28506E263E"
+					"download"		"70F3F2496446D64F335A3E28506E263E"
+				}
+			}
+		}
+		"602732"
+		{
+			"dlcappid"		"2294411"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1953620346787530125"
+					"size"		"197640093"
+					"download"		"162718688"
+				}
+				"beta"
+				{
+					"gid"		"1953620346787530125"
+					"size"		"197640093"
+					"download"		"162718688"
+				}
+				"last_ue4"
+				{
+					"gid"		"1953620346787530125"
+					"size"		"197640093"
+					"download"		"162718688"
+				}
+				"local"
+				{
+					"gid"		"2599139076305376952"
+					"size"		"197673109"
+					"download"		"164832384"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closed_beta"
+				{
+					"gid"		"8CED86182CB42216902F769D903538E9"
+					"size"		"4957D766D3284D31F6F7848B390623F1"
+					"download"		"97A5BF5E9A38197111E77CDC6C0076C6"
+				}
+				"halycon"
+				{
+					"gid"		"623CC45278A1AC1ABCC25A8813359A9F"
+					"size"		"FDC7B94DA0B2AE0BECF3842E55392507"
+					"download"		"25A0070AD9D03A14C9FC4190E787D2EC"
+				}
+				"localisation"
+				{
+					"gid"		"AB938BBC89C0D26E4F5502745999A546"
+					"size"		"F6FE3BF863BD94751306488BA01090E3"
+					"download"		"78A98032F0A66630B96A10AC821997EB"
+				}
+				"nightlybuild"
+				{
+					"gid"		"E45B7DC4586D3292C5BEB5BB103FDA38"
+					"size"		"52002642230DC8DF307145CAE9C85E71"
+					"download"		"9C678F1EC0C0C500F6C1A7A6D2605EB7"
+				}
+				"test"
+				{
+					"gid"		"5536D09FC9BC7C9848A0143E62ACD7DA"
+					"size"		"BEACE22CD8FB247B848D3BCACDFF8154"
+					"download"		"BAE9457DB6FF7618739A90EC2B1679E4"
+				}
+			}
+		}
+		"602733"
+		{
+			"dlcappid"		"2294412"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1536129242013916077"
+					"size"		"192392340"
+					"download"		"158977584"
+				}
+				"beta"
+				{
+					"gid"		"1536129242013916077"
+					"size"		"192392340"
+					"download"		"158977584"
+				}
+				"last_ue4"
+				{
+					"gid"		"1536129242013916077"
+					"size"		"192392340"
+					"download"		"158977584"
+				}
+				"local"
+				{
+					"gid"		"495343367049155411"
+					"size"		"191361356"
+					"download"		"159908976"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closed_beta"
+				{
+					"gid"		"D91CF399D400FC90E50ECCBC144EA368"
+					"size"		"4A9344BCC2FD9980BA25820C6EB1EA78"
+					"download"		"81EE14183873E61806EC186902926250"
+				}
+				"halycon"
+				{
+					"gid"		"DAA8C1426FEB9B90AD1686DC4EB35581"
+					"size"		"B02333EF6688F1581A4DC4C1E379EEDC"
+					"download"		"D0BE9AA0C138D5DF5C6B1A088B863B27"
+				}
+				"localisation"
+				{
+					"gid"		"0FE6B6B7273F686FFDFD216F014C6B9B"
+					"size"		"14A8F880D1C640700D38AE4C1ACECA37"
+					"download"		"2A7EB22492BB0C2ED48159B33B5DF862"
+				}
+				"nightlybuild"
+				{
+					"gid"		"1B869081057665E16E1652C3CF6DAF63"
+					"size"		"BF2A4AF44B605A4C76614B90465FE1DF"
+					"download"		"4700C2DD1F91AF559F9B473281C686A8"
+				}
+				"test"
+				{
+					"gid"		"6694DE2D33110983BFC06EC7142DDA0B"
+					"size"		"0A7F1700EB887C9E2568F1A9284C885C"
+					"download"		"1799315876BE154236614316F53CB73E"
+				}
+			}
+		}
+		"602734"
+		{
+			"dlcappid"		"2294413"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5323828536312683130"
+					"size"		"191343580"
+					"download"		"157656480"
+				}
+				"beta"
+				{
+					"gid"		"5323828536312683130"
+					"size"		"191343580"
+					"download"		"157656480"
+				}
+				"last_ue4"
+				{
+					"gid"		"5323828536312683130"
+					"size"		"191343580"
+					"download"		"157656480"
+				}
+				"local"
+				{
+					"gid"		"1241107315028520935"
+					"size"		"190312616"
+					"download"		"158947600"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closed_beta"
+				{
+					"gid"		"73849D3CC02B310D8EC77FADA73B53BF"
+					"size"		"2FD1B9037E931EFC499D449A2EC6806C"
+					"download"		"87643A7B8EB257DBF50234B121AD3BE4"
+				}
+				"halycon"
+				{
+					"gid"		"81B2F3F39DAC41EBA625881A1BAB72BB"
+					"size"		"BA0C6F5A9A9A55FCE1431417130B7E7A"
+					"download"		"E4076EAA382D4952ADB446CBB9083021"
+				}
+				"localisation"
+				{
+					"gid"		"A45F84414300A5B094CE2AF3531A7031"
+					"size"		"358B3D85960A92C477A62138F2F4FFB2"
+					"download"		"0890D3731C1F11F0219E7DFA5F26A029"
+				}
+				"nightlybuild"
+				{
+					"gid"		"6EC914ECAF1180B6C1D0DBEC1153CEA0"
+					"size"		"0C0C7922E7EC6DCBFC7E9BC729AA1D30"
+					"download"		"E19967AF33E5919CEA33F559377AF228"
+				}
+				"test"
+				{
+					"gid"		"9DE402F7A61C3844D4AEC7AD307659CF"
+					"size"		"A5F3CC15DE0BC38A504D665EDB872B13"
+					"download"		"6A64DDDB12C9A96ED594B2332B32D753"
+				}
+			}
+		}
+		"602735"
+		{
+			"dlcappid"		"2294410"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1978766946313285252"
+					"size"		"101392254"
+					"download"		"84666144"
+				}
+				"beta"
+				{
+					"gid"		"1978766946313285252"
+					"size"		"101392254"
+					"download"		"84666144"
+				}
+				"last_ue4"
+				{
+					"gid"		"1978766946313285252"
+					"size"		"101392254"
+					"download"		"84666144"
+				}
+				"local"
+				{
+					"gid"		"2806596556602737411"
+					"size"		"103516866"
+					"download"		"88309344"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closed_beta"
+				{
+					"gid"		"89B3489CA5CD367595F957FDC6FA3FAC"
+					"size"		"D971C9234065C7D4292825602A221E95"
+					"download"		"CA28F5631AF8B517BB6DD09D5AEE2240"
+				}
+				"halycon"
+				{
+					"gid"		"E5C80C886C4E1861C44DA18A37DFB9B7"
+					"size"		"60B3F08E4DF906B0876A320523A2484C"
+					"download"		"950F27D8A9F387B407A4315AFCE11F1D"
+				}
+				"localisation"
+				{
+					"gid"		"1DDDAC580C969ABA238600F7B40B1068"
+					"size"		"4D69A6A5BF8E29BFE5A32D0FE5E322FA"
+					"download"		"422B980A373534BCDE78268EF8C5023F"
+				}
+				"nightlybuild"
+				{
+					"gid"		"57CDD5DB9C11C04D5C662A5A88DE7756"
+					"size"		"1396A4E47FC5C014D6EC6CB6D449E38B"
+					"download"		"336B1A0A5907A5608024E7D9EA8BEAF9"
+				}
+				"test"
+				{
+					"gid"		"F194D0335C2E34E40535881CE51A04C1"
+					"size"		"32432165DFC4B4373CFBFE87D63B586E"
+					"download"		"61BA6E65D268E557CA153D35335504C9"
+				}
+			}
+		}
+		"602736"
+		{
+			"dlcappid"		"2407421"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6196634222643787986"
+					"size"		"114930225"
+					"download"		"97778848"
+				}
+				"beta"
+				{
+					"gid"		"6196634222643787986"
+					"size"		"114930225"
+					"download"		"97778848"
+				}
+				"last_ue4"
+				{
+					"gid"		"6196634222643787986"
+					"size"		"114930225"
+					"download"		"97778848"
+				}
+				"local"
+				{
+					"gid"		"1125504161250218025"
+					"size"		"114930225"
+					"download"		"97779312"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closed_beta"
+				{
+					"gid"		"63D61ED51EA116C3C3FE1A832678D3B6"
+					"size"		"B300BBFFC13B11FBE6755858AD999F8D"
+					"download"		"78CB22BB8C3D3BE4BE441FE514690F74"
+				}
+				"halycon"
+				{
+					"gid"		"A65B571471AF84824B9A11737E8AC9BE"
+					"size"		"5315ACB8C2034909446EFBAF1F786DD3"
+					"download"		"0CB3B3FA68F68A45291E58655EAD7B7D"
+				}
+				"localisation"
+				{
+					"gid"		"BC05BDFC8ECFE72BD33365152595E775"
+					"size"		"D0B7F99725B54FD68064828A0F4DBAEE"
+					"download"		"107E92FA7D689F41E6F83C237D6FC855"
+				}
+				"nightlybuild"
+				{
+					"gid"		"AE7261C5EB034505EF0C83AED445680D"
+					"size"		"8145BAE755734FCDF810AA8C13B09D8F"
+					"download"		"54CD4FCEEF2B88EC8A20ABFC96DA2605"
+				}
+				"test"
+				{
+					"gid"		"76E621C8245A33D2F9B23203F59B6BF4"
+					"size"		"70F3F2496446D64F335A3E28506E263E"
+					"download"		"70F3F2496446D64F335A3E28506E263E"
+				}
+			}
+		}
+		"602737"
+		{
+			"dlcappid"		"2407420"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5052617884543312681"
+					"size"		"103350047"
+					"download"		"87238912"
+				}
+				"beta"
+				{
+					"gid"		"5052617884543312681"
+					"size"		"103350047"
+					"download"		"87238912"
+				}
+				"last_ue4"
+				{
+					"gid"		"5052617884543312681"
+					"size"		"103350047"
+					"download"		"87238912"
+				}
+				"local"
+				{
+					"gid"		"5954865761690686320"
+					"size"		"103350047"
+					"download"		"87239536"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closed_beta"
+				{
+					"gid"		"119949B14365DC08E5DDA7CA0F2E2145"
+					"size"		"65FC2D7FBA10A59D8118860F93D4D20F"
+					"download"		"485A46D65B149B8F4F25C007D746E757"
+				}
+				"halycon"
+				{
+					"gid"		"AAEDC46A3278715C8A1B7DF4DF3E58D8"
+					"size"		"1D3F78BDD92F9CD5F2A22A2F9768B288"
+					"download"		"4F278136D8FB0CB09B8D6A040B4C06F8"
+				}
+				"localisation"
+				{
+					"gid"		"40969E12296D2BD685B4E3B7BC3AF843"
+					"size"		"A39069815C7356C7E64E28A8473E2150"
+					"download"		"DC53DDBB74834AE7235B5FDA9BBCBB4E"
+				}
+				"nightlybuild"
+				{
+					"gid"		"7B07B8A12210959D87BD68EA9CF6BEE6"
+					"size"		"7EF62C2CEABA18558966B7C08A99C9C8"
+					"download"		"49311E96BAF4372567165DF408A5E9FC"
+				}
+				"test"
+				{
+					"gid"		"17672664AE5B05B35D9F07CE78B18BB2"
+					"size"		"70F3F2496446D64F335A3E28506E263E"
+					"download"		"70F3F2496446D64F335A3E28506E263E"
+				}
+			}
+		}
+		"hasdepotsindlc"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11535047"
+				"timeupdated"		"1687765653"
+			}
+			"beta"
+			{
+				"buildid"		"11535047"
+				"timeupdated"		"1687439406"
+			}
+			"closed_beta"
+			{
+				"buildid"		"11535047"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687437873"
+			}
+			"halycon"
+			{
+				"buildid"		"11535047"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687437859"
+			}
+			"last_ue4"
+			{
+				"buildid"		"11569137"
+				"description"		"Last Version with Unreal Engine 4"
+				"timeupdated"		"1687871139"
+			}
+			"local"
+			{
+				"buildid"		"12263590"
+				"description"		"Local Content Server"
+				"lcsrequired"		"1"
+				"timeupdated"		"1695462302"
+			}
+			"localisation"
+			{
+				"buildid"		"11535047"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687439455"
+			}
+			"nightlybuild"
+			{
+				"buildid"		"12263619"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695462908"
+			}
+			"previousversion"
+			{
+				"buildid"		"8582078"
+				"timeupdated"		"1687765625"
+			}
+			"test"
+			{
+				"buildid"		"12103000"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693814858"
+			}
+			"test_local"
+			{
+				"buildid"		"9624130"
+				"description"		"-"
+				"lcsrequired"		"1"
+				"timeupdated"		"1666265510"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000000"
+		"maxnumfiles"		"10000"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"Fernbus/Saved/Profiles"
+				"pattern"		"*.*"
+				"recursive"		"1"
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"Fernbus/Settings"
+				"pattern"		"GlobalSettings.cfg"
+			}
+		}
+	}
+}
