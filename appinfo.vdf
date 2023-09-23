@@ -1,0 +1,575 @@
+"appinfo"
+{
+	"appid"		"1641960"
+	"common"
+	{
+		"name"		"Forever Skies"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"237b789b85aa3569376820d30f3409817ea901b7"
+		"logo_small"		"237b789b85aa3569376820d30f3409817ea901b7_thumb"
+		"icon"		"459e0f7f8a90e1b11bd6a30c922ccf0f68ba2208"
+		"clienticon"		"87eef91566e920c0929702e78adcdd89df7e91da"
+		"clienttga"		"1bc350093955974102c2a00c8cec1be5d01d3c0e"
+		"name_localized"
+		{
+			"schinese"		"永恒天空"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1689897600"
+			"tested_build_id"		"11515563"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-3"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1692792426"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Far From Home"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Far From Home"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Forever Skies"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"28"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1687453238"
+		"community_hub_visible"		"1"
+		"gameid"		"1641960"
+		"store_tags"
+		{
+			"0"		"1662"
+			"1"		"7332"
+			"2"		"21"
+			"3"		"3834"
+			"4"		"3810"
+			"5"		"3835"
+			"6"		"1100689"
+			"7"		"1663"
+			"8"		"3942"
+			"9"		"4175"
+			"10"		"19"
+			"11"		"1702"
+			"12"		"4106"
+			"13"		"6276"
+			"14"		"5125"
+			"15"		"5794"
+			"16"		"8945"
+			"17"		"3839"
+			"18"		"4191"
+			"19"		"4182"
+		}
+		"review_score"		"8"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"developer"		"Far From Home"
+		"publisher"		"Far From Home"
+		"homepage"		"https://www.farfromhomegames.com/en/foreverskies"
+	}
+	"config"
+	{
+		"installdir"		"Forever Skies"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ForeverSkies.exe"
+				"type"		"default"
+				"config"
+				{
+					"betakey"		"default"
+				}
+			}
+			"1"
+			{
+				"executable"		"ForeverSkies.exe"
+				"arguments"		"-saveddirsuffix=BetaFlight"
+				"type"		"default"
+				"config"
+				{
+					"betakey"		"beta_flight"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"2"
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english"
+		"hasdepotsindlc"		"0"
+		"1641962"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2876874312000911989"
+					"size"		"17208791545"
+					"download"		"5784209488"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"automation_branch"
+				{
+					"gid"		"6FAB3C8EF1B9D93E50E10A12E2B95E7E"
+					"size"		"6CC4D73D04EAC1BD2ED282A26D4A35C8"
+					"download"		"A16FF770ECD003B6F64A7937F6D2D32A"
+				}
+				"beta_flight"
+				{
+					"gid"		"072D409BBAE7A9794EAE14CA14B32C4A"
+					"size"		"B971DD3A8614ED29555A89D7C224C03F"
+					"download"		"2902EE1AEB6553C06CD4738B5383B945"
+				}
+				"closed_playtests"
+				{
+					"gid"		"84A1F392785994E2038A9ADEC62C3C62"
+					"size"		"7556F2BB95123C6EDA70CD156879E24F"
+					"download"		"6C6EC0CAD2AEBA43FF7049CBAD5FC316"
+				}
+				"debug"
+				{
+					"gid"		"542C2217A3114CF5B8BBADB6DA88F58E"
+					"size"		"E06E0B51574456FFD2F1A69A97E210B2"
+					"download"		"C7BAB40551DD70BFBE14BEAE57529E6E"
+				}
+				"default_development"
+				{
+					"gid"		"17AACC0702FA103ED27738BABE33B357"
+					"size"		"5282CB823EA29562D1AA6FED9C61A846"
+					"download"		"FAA8F3F6E1694944535A1CBA6059E62E"
+				}
+				"default_previous"
+				{
+					"gid"		"EF9039BB0B50B861B2FE24F9FE524A1D"
+					"size"		"C8A92E4C9DCA662077FF17F4F3A8AD82"
+					"download"		"05E80B46FBF6A6B9FB35C1FEA33795EB"
+				}
+				"dev-multiplayer-development"
+				{
+					"gid"		"63EB90B3787C7C15A540E9E5835134E4"
+					"size"		"BA0F2B2CFC66404E1826F60870D36A07"
+					"download"		"BABA0221C56955D0BC28F1F9FC2E6F88"
+				}
+				"development"
+				{
+					"gid"		"5EA5857AD2DE3495D4A7C76A29BFD982"
+					"size"		"389971D31303CBB016EE2EF6B314ACBB"
+					"download"		"25B93F0F1880052BBFBE8AABA693CB7F"
+				}
+				"fs_access"
+				{
+					"gid"		"75E403336F1C402F00EFBC4F6EB0ECCC"
+					"size"		"90836885F5EE8FAAEE19323C36BDD1D0"
+					"download"		"26549A3B99F960662D05D666419B5A0A"
+				}
+				"fs_access_2"
+				{
+					"gid"		"0C54DF021700F13CDA4BB8AFD8060403"
+					"size"		"B8F0B49E9D552D65F99843F277B2229B"
+					"download"		"DB916C2C94CF66ACBADEE916A1306457"
+				}
+				"januaryplaytest"
+				{
+					"gid"		"AFD0825ED0227164FBD51429220584E8"
+					"size"		"E9E0B112D6B40B86727675B74A078F76"
+					"download"		"E079345DF4A40703D8D6AB4AF44C2ECE"
+				}
+				"partner_kraft"
+				{
+					"gid"		"C4EA9BBD076DBE5FE9ECBCF8E2BDF9ED"
+					"size"		"B7A0801A473EAE641CD065F25DDD91F7"
+					"download"		"996420AADCB12E7499D3EDC851FC4CBD"
+				}
+				"partner_s"
+				{
+					"gid"		"401962E4779251F2C8DF696DA0688F4B"
+					"size"		"2AC38921E61749DC72C85164C7228DD3"
+					"download"		"81C805B4D4C172E59165F052B02F7105"
+				}
+				"rel-live-development"
+				{
+					"gid"		"A15F776EBB6053FB989EAC7124DB0C76"
+					"size"		"E8CDF78C7565C1956B485CB67F460340"
+					"download"		"1C3AB9F7AF17E2204505A4BDD8E26C56"
+				}
+				"rel-live-shipping"
+				{
+					"gid"		"37487467B09B3D579191E5F0A54C4E07"
+					"size"		"B1C62FDDD86EED8BACEB405F518F35C7"
+					"download"		"AF608D887C37F63362F23DBEFBA3D86D"
+				}
+				"rel-next-development"
+				{
+					"gid"		"8B6DCD449A92C4877C2994C5C88A0D6D"
+					"size"		"DD81F8F0B721563A7D7512FDF8BE8C58"
+					"download"		"AD711BBE0B9A5961E895FA3E61682298"
+				}
+				"rel-next-shipping"
+				{
+					"gid"		"7DA424AEA36118C0C738129B7061A57F"
+					"size"		"0FCBF0B3100178B79F35650DCB5B4464"
+					"download"		"0FC97496C0139FFD7F97B4C7F442E0EC"
+				}
+				"shipping"
+				{
+					"gid"		"8BB712173DA2BF68BD50706730DC7E86"
+					"size"		"B6818B930478F82BB62A32DBBBED49F4"
+					"download"		"17FCA9ED18F65420DA3B51A428A72ADA"
+				}
+				"tech_partner_a"
+				{
+					"gid"		"C3960CC3A240CB189A8FAC6D8D214BA2"
+					"size"		"5762CEE3DA80090A878418D44F3C63F9"
+					"download"		"B08DB59A17E69AB041B70743C9BFB2C8"
+				}
+				"tech_partner_a_shipping"
+				{
+					"gid"		"3F4C3075FB1E37321C20DEE78EF894E0"
+					"size"		"6A3AD1E0428603C7718D3DAB29377315"
+					"download"		"73C1DC0512FB671CFFCFB5B148269125"
+				}
+				"tech_partner_i"
+				{
+					"gid"		"1359B9EFB8669718903C4085D6A96F1F"
+					"size"		"5A7D3FF978BBF70F9C72858478803900"
+					"download"		"F72BD8DEDC5E9326B12F37F8588E0C67"
+				}
+				"trailer"
+				{
+					"gid"		"BE9B67F52446C201AD03D5654B879C74"
+					"size"		"C91E37D799796565F854265CE8ED8DD8"
+					"download"		"3B88070961AC6AEAAC296513A0A68846"
+				}
+				"trailer_dev"
+				{
+					"gid"		"21576AA04CA4CD4965674AF51955EA61"
+					"size"		"3F813E28B5F3F7B237724E80D94A728F"
+					"download"		"8352C605B430E94291B07B73A142E01D"
+				}
+			}
+		}
+		"1641961"
+		{
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12246539"
+				"timeupdated"		"1695309263"
+			}
+			"automation_branch"
+			{
+				"buildid"		"10708727"
+				"pwdrequired"		"1"
+				"timeupdated"		"1678183296"
+			}
+			"beta_flight"
+			{
+				"buildid"		"12198721"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694787973"
+			}
+			"closed_playtests"
+			{
+				"buildid"		"12123166"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694011994"
+			}
+			"debug"
+			{
+				"buildid"		"11735597"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689755202"
+			}
+			"default_development"
+			{
+				"buildid"		"11515350"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689361486"
+			}
+			"default_previous"
+			{
+				"buildid"		"11515563"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689690523"
+			}
+			"dev-multiplayer-development"
+			{
+				"buildid"		"12239158"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695236161"
+			}
+			"development"
+			{
+				"buildid"		"12261655"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695428014"
+			}
+			"fs_access"
+			{
+				"buildid"		"11466413"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686749110"
+			}
+			"fs_access_2"
+			{
+				"buildid"		"11485971"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686930426"
+			}
+			"januaryplaytest"
+			{
+				"buildid"		"10399989"
+				"pwdrequired"		"1"
+				"timeupdated"		"1674662695"
+			}
+			"partner_kraft"
+			{
+				"buildid"		"10656123"
+				"pwdrequired"		"1"
+				"timeupdated"		"1677690525"
+			}
+			"partner_s"
+			{
+				"buildid"		"11752989"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689929763"
+			}
+			"rel-live-development"
+			{
+				"buildid"		"12255867"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695380107"
+			}
+			"rel-live-shipping"
+			{
+				"buildid"		"12255790"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695379671"
+			}
+			"rel-next-development"
+			{
+				"buildid"		"12261854"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695431434"
+			}
+			"rel-next-shipping"
+			{
+				"buildid"		"12261992"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695433378"
+			}
+			"shipping"
+			{
+				"buildid"		"12261757"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695429762"
+			}
+			"tech_partner_a"
+			{
+				"buildid"		"11409653"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686127804"
+			}
+			"tech_partner_a_shipping"
+			{
+				"buildid"		"11409825"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686127792"
+			}
+			"tech_partner_i"
+			{
+				"buildid"		"11758024"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689946207"
+			}
+			"trailer"
+			{
+				"buildid"		"12159329"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694437222"
+			}
+			"trailer_dev"
+			{
+				"buildid"		"12155247"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694430071"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"300000000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"ProjectZeppelin/Saved/SaveGames"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
