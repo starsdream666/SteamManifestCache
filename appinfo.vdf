@@ -17,8 +17,16 @@
 		"languages"
 		{
 			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
 			"schinese"		"1"
 			"tchinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"brazilian"		"1"
 		}
 		"steam_deck_compatibility"
 		{
@@ -64,6 +72,8 @@
 			}
 		}
 		"metacritic_name"		"Shuyan Saga"
+		"controllertagwizard"		"1"
+		"controller_support"		"full"
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
@@ -85,6 +95,11 @@
 				"type"		"publisher"
 				"name"		"Lofty Sky Entertainment Inc."
 			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"ESDigital Games"
+			}
 		}
 		"primary_genre"		"4"
 		"genres"
@@ -99,6 +114,9 @@
 			"category_2"		"1"
 			"category_22"		"1"
 			"category_29"		"1"
+			"category_28"		"1"
+			"category_55"		"1"
+			"category_56"		"1"
 		}
 		"supported_languages"
 		{
@@ -119,6 +137,41 @@
 				"supported"		"true"
 				"subtitles"		"true"
 				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
 			}
 		}
 		"steam_release_date"		"1502208273"
@@ -191,24 +244,30 @@
 			{
 				"public"
 				{
-					"gid"		"1231326527798699002"
-					"size"		"1835981989"
-					"download"		"875463248"
+					"gid"		"5530513606474921595"
+					"size"		"2064822184"
+					"download"		"944895216"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"press"
 				{
-					"gid"		"09E14916B81130FDDDA2E2DEA93D9EE9"
-					"size"		"F2185DA63594CE7E985A99AC0048F5E8"
-					"download"		"29FA2BA44E855E3D4F795BC1A938E787"
+					"gid"		"1697DBE7ECD0FE7880767D5EB5118812"
+					"size"		"082AC8AF2BE112540A75F350CD3FE198"
+					"download"		"6B4BECECE3F4C77F3467AD960F2064E9"
 				}
 				"preview"
 				{
 					"gid"		"50EA61FA3BC82AF501DA092698E12D29"
 					"size"		"5CAE5E6F817FA922E8A38C4FCCDFF382"
 					"download"		"07A26D41FF80B9C6129D4AC1EF15424F"
+				}
+				"testing"
+				{
+					"gid"		"09B05EFF14A0EA73F934A3C0DC35C27C"
+					"size"		"68B7B38093D506BBE0509F577316E465"
+					"download"		"DFB15A32C09CFCE26819799C94BAD15D"
 				}
 			}
 		}
@@ -241,6 +300,12 @@
 					"size"		"7E288D1AB6F4614AC83AD812C7FD8101"
 					"download"		"7D8E49B52C3C6B57A4AB70F6CC144D96"
 				}
+				"testing"
+				{
+					"gid"		"2E2406AC1D19DF0A1B0E486B1BEC31DC"
+					"size"		"7FA788E2F3A7A9FCB44879DE670F7AAC"
+					"download"		"F697EE3622E54D114CEB6EABB67C63CD"
+				}
 			}
 		}
 		"678080"
@@ -268,6 +333,12 @@
 					"gid"		"786274DBD3610D7593144D09DD4EF890"
 					"size"		"DC239CBDC2D59A0D34E16EC6616D40C1"
 					"download"		"59C1E8112BBEF515163B9D77FE84BBD8"
+				}
+				"testing"
+				{
+					"gid"		"EB8D7AFF6F2C73CEC56EDF7F53CBA4DF"
+					"size"		"0D1B449771E28DC759A6946F52749DBD"
+					"download"		"306E6964A12250C6BC83AEEA733ABFB7"
 				}
 			}
 		}
@@ -299,20 +370,26 @@
 		{
 			"public"
 			{
-				"buildid"		"2464859"
-				"timeupdated"		"1518621809"
+				"buildid"		"12236483"
+				"timeupdated"		"1695390966"
 			}
 			"press"
 			{
-				"buildid"		"12113118"
+				"buildid"		"12236483"
 				"pwdrequired"		"1"
-				"timeupdated"		"1693919243"
+				"timeupdated"		"1695224576"
 			}
 			"preview"
 			{
 				"buildid"		"4515810"
 				"pwdrequired"		"1"
 				"timeupdated"		"1576854976"
+			}
+			"testing"
+			{
+				"buildid"		"12236483"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695215932"
 			}
 		}
 	}
