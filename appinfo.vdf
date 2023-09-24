@@ -1,0 +1,231 @@
+"appinfo"
+{
+	"appid"		"2444350"
+	"common"
+	{
+		"name"		"Enchanted Portals"
+		"type"		"Game"
+		"releasestate"		"released"
+		"icon"		"2a83f08ac30ea9b05ff2cdaa6b6c16c8f9b4e3cb"
+		"clienticon"		"acda96fb6eb9e059e11ebc34c9c72158ccd66788"
+		"clienttga"		"45ed6c8a49e273ff3119d811ce20280a8480a9e7"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"25.232887237271584"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1692212566"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Xixo Games Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Xixo Games Studio"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_9"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_44"		"1"
+			"category_1"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1693954653"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2444350"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"492"
+			"2"		"4106"
+			"3"		"3871"
+			"4"		"4562"
+			"5"		"1685"
+			"6"		"4195"
+			"7"		"3841"
+			"8"		"3798"
+			"9"		"4255"
+			"10"		"1625"
+			"11"		"4182"
+		}
+		"review_score"		"4"
+		"review_percentage"		"32"
+	}
+	"extended"
+	{
+		"developer"		"Xixo Games Studio"
+		"publisher"		"Xixo Games Studio"
+	}
+	"config"
+	{
+		"installdir"		"Enchanted Portals"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"EnchantedPortals.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2444351"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6712149066695136797"
+					"size"		"1331287725"
+					"download"		"1122110448"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"betatesting"
+				{
+					"gid"		"2B8257950F816026DA46B22364A10BC2"
+					"size"		"51908D99AD29EE4026F07F7EBE2A3F82"
+					"download"		"DFA184F96BD3738CACCAEA57F825EB5E"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12267864"
+				"timeupdated"		"1695554642"
+			}
+			"betatesting"
+			{
+				"buildid"		"12263053"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695451668"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"100"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"EnchantedPortals"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
