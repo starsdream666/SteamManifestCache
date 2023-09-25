@@ -172,11 +172,6 @@
 		"installdir"		"Sango6"
 		"launch"
 		{
-			"0"
-			{
-				"executable"		"Sango6.exe"
-				"type"		"default"
-			}
 			"1"
 			{
 				"executable"		"SGConfig.exe"
@@ -186,6 +181,16 @@
 				{
 					"betakey"		"dev_qa"
 				}
+			}
+			"2"
+			{
+				"executable"		"LaunchSango.exe"
+				"type"		"default"
+				"description_loc"
+				{
+					"english"		"Launch Sango 6"
+				}
+				"description"		"Launch Sango 6"
 			}
 		}
 	}
@@ -211,18 +216,18 @@
 			{
 				"public"
 				{
-					"gid"		"6788687608955772718"
-					"size"		"1440740333"
-					"download"		"1341161344"
+					"gid"		"2466594167578295116"
+					"size"		"1441093372"
+					"download"		"1341387888"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"dev_qa"
 				{
-					"gid"		"55F212618082C97A3BA899D184DFF629"
-					"size"		"219A09F64AF4AB102DD0907C9C67F15A"
-					"download"		"6DE4025023C04D70632A0CB199E67D1A"
+					"gid"		"540B6E318D23F06E39BEC572D04970CB"
+					"size"		"1C915D96E7B171012EF5EA9068CB6AC2"
+					"download"		"E90F7B485C7F599A36A2871D451FB0E7"
 				}
 			}
 		}
@@ -236,18 +241,18 @@
 			{
 				"public"
 				{
-					"gid"		"3639755314770572618"
-					"size"		"1440740333"
-					"download"		"1341392688"
+					"gid"		"2519601563419230650"
+					"size"		"1441093372"
+					"download"		"1341619232"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"dev_qa"
 				{
-					"gid"		"76BD1C5E1BC4578EBDD22B7BF422B9AF"
-					"size"		"219A09F64AF4AB102DD0907C9C67F15A"
-					"download"		"B64B786FDE523243626C062D209E2052"
+					"gid"		"8276037146762215EE16E797B50AD178"
+					"size"		"1C915D96E7B171012EF5EA9068CB6AC2"
+					"download"		"C540D3C24C4B69E704C4629682DD03DD"
 				}
 			}
 		}
@@ -255,14 +260,14 @@
 		{
 			"public"
 			{
-				"buildid"		"5827264"
-				"timeupdated"		"1605491683"
+				"buildid"		"12271925"
+				"timeupdated"		"1695623669"
 			}
 			"dev_qa"
 			{
-				"buildid"		"5908642"
+				"buildid"		"12263381"
 				"pwdrequired"		"1"
-				"timeupdated"		"1606875377"
+				"timeupdated"		"1695458741"
 			}
 		}
 	}
