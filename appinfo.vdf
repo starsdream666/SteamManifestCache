@@ -26,7 +26,7 @@
 				"id"		"952060_eula_1"
 				"name"		"Resident Evil 3 EULA"
 				"url"		"https://store.steampowered.com//eula/952060_eula_1"
-				"version"		"1"
+				"version"		"2"
 			}
 		}
 		"languages"
@@ -40,9 +40,12 @@
 			"schinese"		"1"
 			"tchinese"		"1"
 			"russian"		"1"
+			"thai"		"1"
 			"japanese"		"1"
 			"polish"		"1"
+			"arabic"		"1"
 			"brazilian"		"1"
+			"latam"		"1"
 		}
 		"releasestateoverride"		"released"
 		"releasestateoverridecountries"		"US,CA,MX,BR,AR,PM,CL,PE,CO,CR,UY,PR,EC,PA,BO,SV,GT,DO,VE,PY,TT,HN,GP,NI,MQ,BS,JM,GFBB,BM,AW,KY,VI,VG,GD,AN,BZ,GY,LC,SR,KN,AG,DM,HT,VC,TC,AI,FK,MS"
@@ -251,6 +254,11 @@
 				"supported"		"true"
 				"subtitles"		"true"
 			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
 		}
 		"steam_release_date"		"1585886220"
 		"metacritic_score"		"77"
@@ -322,7 +330,7 @@
 	"depots"
 	{
 		"hasdepotsindlc"		"1"
-		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian"
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,arabic,brazilian,latam"
 		"228988"
 		{
 			"config"
@@ -353,9 +361,9 @@
 			{
 				"public"
 				{
-					"gid"		"3067529991586889991"
-					"size"		"24583313114"
-					"download"		"21241495040"
+					"gid"		"685544654781343042"
+					"size"		"25253000979"
+					"download"		"21721106928"
 				}
 				"dx11_non-rt"
 				{
@@ -512,9 +520,9 @@
 			{
 				"public"
 				{
-					"gid"		"6221476444743415063"
-					"size"		"24380414375"
-					"download"		"21199853536"
+					"gid"		"8863028453226553691"
+					"size"		"24854070365"
+					"download"		"21666828800"
 				}
 				"dx11_non-rt"
 				{
@@ -672,9 +680,9 @@
 			{
 				"public"
 				{
-					"gid"		"5434249346131435850"
-					"size"		"680935232"
-					"download"		"565899232"
+					"gid"		"7504296696893507629"
+					"size"		"680936443"
+					"download"		"565900192"
 				}
 				"dx11_non-rt"
 				{
@@ -832,7 +840,7 @@
 			{
 				"public"
 				{
-					"gid"		"327950325670951988"
+					"gid"		"4916965303803227400"
 					"size"		"11404"
 					"download"		"10800"
 				}
@@ -947,8 +955,8 @@
 		{
 			"public"
 			{
-				"buildid"		"11026988"
-				"timeupdated"		"1681979472"
+				"buildid"		"11960962"
+				"timeupdated"		"1695603649"
 			}
 			"dx11_non-rt"
 			{
