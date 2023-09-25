@@ -9,7 +9,7 @@
 		"clienticon"		"dfdfed418332cb30c68696a094adc1bdcac4dead"
 		"clienttga"		"f44bcfc1c5b5ecb389113ed5dfd2afb1df82b2a4"
 		"releasestate"		"released"
-		"oslist"		"windows,macos"
+		"oslist"		"windows,macos,linux"
 		"osarch"		""
 		"osextended"		"macos64,macosapplesilicon"
 		"controller_support"		"full"
@@ -108,7 +108,7 @@
 			"9"		"4004"
 		}
 		"review_score"		"8"
-		"review_percentage"		"82"
+		"review_percentage"		"83"
 	}
 	"extended"
 	{
@@ -138,6 +138,14 @@
 					"oslist"		"macos"
 				}
 			}
+			"2"
+			{
+				"executable"		"neodori_130.x86_64"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
 		}
 	}
 	"depots"
@@ -149,18 +157,18 @@
 			{
 				"public"
 				{
-					"gid"		"4925677421922951429"
-					"size"		"338071219"
-					"download"		"110241024"
+					"gid"		"7679361783764365985"
+					"size"		"607735508"
+					"download"		"158713600"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"beta"
 				{
-					"gid"		"900F450D93BC9044CDC1F10C2E503411"
-					"size"		"6588D5D67FE70DEC96777FE073E0073E"
-					"download"		"9C59D2ADEA2CA0EB3D6A5C51AD6A85CC"
+					"gid"		"9391B72D5CA3BA424AF0BB11131E2381"
+					"size"		"96BCA1ED2F078F39C02CD6443878DCB0"
+					"download"		"0DF0F53144C19DBB884489399D04736B"
 				}
 			}
 		}
@@ -168,14 +176,14 @@
 		{
 			"public"
 			{
-				"buildid"		"10224966"
-				"timeupdated"		"1672422233"
+				"buildid"		"12264624"
+				"timeupdated"		"1695578542"
 			}
 			"beta"
 			{
-				"buildid"		"10224966"
+				"buildid"		"12264624"
 				"pwdrequired"		"1"
-				"timeupdated"		"1672245608"
+				"timeupdated"		"1695482387"
 			}
 		}
 	}
@@ -206,6 +214,21 @@
 					{
 						"find"		"strobetano/NeodoriForever"
 						"replace"		"strobetano/NeodoriForever"
+					}
+				}
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxHome"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"strobetano/NeodoriForever"
+						"replace"		".config/unity3d/strobetano/NeodoriForever"
 					}
 				}
 			}
