@@ -1,0 +1,222 @@
+"appinfo"
+{
+	"appid"		"1958220"
+	"common"
+	{
+		"name"		"WitchSpring R"
+		"type"		"Game"
+		"releasestate"		"released"
+		"name_localized"
+		{
+			"english"		"WitchSpring R"
+			"koreana"		"마녀의샘R"
+			"japanese"		"魔女の泉R"
+			"schinese"		"魔女之泉R"
+			"tchinese"		"魔女之泉R"
+		}
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"098f9f9ebe7bca84ab41be77b87b174d6bdc7f35"
+		"clienttga"		"3c3ee1500d8fa688013abd0d55e598d9e2a72ace"
+		"icon"		"100b5172566ba747c73cacc5c00a13ef25dbf230"
+		"languages"
+		{
+			"english"		"1"
+			"koreana"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"japanese"		"1"
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1694791314"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"KIWIWALKS"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Pixmain"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1695693379"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1958220"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"1742"
+			"2"		"1702"
+			"3"		"3834"
+			"4"		"4726"
+			"5"		"4434"
+			"6"		"7208"
+			"7"		"4085"
+			"8"		"4325"
+			"9"		"4057"
+			"10"		"4486"
+			"11"		"4182"
+			"12"		"4191"
+			"13"		"492"
+			"14"		"4136"
+			"15"		"1741"
+			"16"		"1677"
+			"17"		"1684"
+			"18"		"4747"
+			"19"		"21"
+		}
+	}
+	"extended"
+	{
+		"developer"		"KIWIWALKS"
+		"publisher"		"Pixmain"
+		"homepage"		"https://witchspringr.com"
+	}
+	"config"
+	{
+		"installdir"		"WitchSpring R"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"WitchSpringR.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"1958221"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4951855798998909226"
+					"size"		"6042048765"
+					"download"		"4825736320"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal"
+				{
+					"gid"		"3186DFC2CC1E361C2E877D0FD80A3698"
+					"size"		"1F882B8F8B716D4CD2FEA33404C5F771"
+					"download"		"8913E20F2E8FF0E44BB19449CC00808C"
+				}
+				"review"
+				{
+					"gid"		"EEF77CE85A55D47DF6A3756115D6B6C6"
+					"size"		"283678EFB7BD14FAFEC094277D15D857"
+					"download"		"0324D4908D914CE0A7EE269821C5E33F"
+				}
+				"tgsshowcase"
+				{
+					"gid"		"01DE81E2A5C908CF203E9B90A99719E8"
+					"size"		"5830217E49C8F8D93597B473F618563D"
+					"download"		"9BC23F15FCEFA96C9B9D038D440B7A16"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12276721"
+				"timeupdated"		"1695661093"
+			}
+			"internal"
+			{
+				"buildid"		"12274958"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695647987"
+			}
+			"review"
+			{
+				"buildid"		"12269202"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695581765"
+			}
+			"tgsshowcase"
+			{
+				"buildid"		"12263102"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695452576"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"50000000"
+		"maxnumfiles"		"700"
+		"sync_while_suspended"		"1"
+	}
+}
