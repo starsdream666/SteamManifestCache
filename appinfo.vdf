@@ -10,6 +10,8 @@
 		"clienttga"		"62f5bf0871f6b358bc0471eae84fd8adc094de45"
 		"name_localized"
 		{
+			"schinese"		"碧波之下"
+			"tchinese"		"碧波之下"
 		}
 		"oslist"		"windows"
 		"osarch"		""
@@ -52,24 +54,28 @@
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
 		}
 		"header_image"
 		{
 			"english"		"header.jpg"
+			"tchinese"		"header_tchinese.jpg"
+			"schinese"		"header_schinese.jpg"
 		}
 		"library_assets"
 		{
-			"library_capsule"		"en"
+			"library_capsule"		"zh-cn,zh-tw,en"
 			"library_hero"		"en"
-			"library_logo"		"en"
+			"library_logo"		"en,zh-tw,zh-cn"
 			"logo_position"
 			{
 				"pinned_position"		"BottomLeft"
-				"width_pct"		"50"
-				"height_pct"		"50"
+				"width_pct"		"100"
+				"height_pct"		"100"
 			}
 		}
-		"store_asset_mtime"		"1692979932"
+		"store_asset_mtime"		"1695312611"
 		"associations"
 		{
 			"0"
@@ -227,7 +233,7 @@
 			"13"		"7702"
 		}
 		"review_score"		"6"
-		"review_percentage"		"78"
+		"review_percentage"		"79"
 	}
 	"extended"
 	{
@@ -276,24 +282,24 @@
 			{
 				"public"
 				{
-					"gid"		"6319142901792447982"
-					"size"		"11071696011"
-					"download"		"8752543136"
+					"gid"		"3790019296222758058"
+					"size"		"11121576451"
+					"download"		"8792661968"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"debug"
 				{
-					"gid"		"835D0C4EBB2E20BC332D2E0E5F16BF75"
-					"size"		"F6DAD390016CDA4BEABBD743C5DD509C"
-					"download"		"BD2C1106E39A7F49BF6B3086E9F630C5"
+					"gid"		"628E94CF10499C41BB8CBEDAF8AB4321"
+					"size"		"EA87511D281307FDA0227C12BE8F5C04"
+					"download"		"1C348AEE08ADD36BFD251688252DE54D"
 				}
 				"stage"
 				{
-					"gid"		"36F0B472C2D7A012E4F973EBE61C3CED"
-					"size"		"6B91552212F612EC5E142FDE921E5045"
-					"download"		"27FF9FDCD8E33BFB88AAD4B283998AAE"
+					"gid"		"FFCC8929C687086FBA67348F2FAB6692"
+					"size"		"C3BD90589E82DAA37B7B8AF36B9257FA"
+					"download"		"EDAC574E5A804A7B09D3FA9B4DE8DA22"
 				}
 			}
 		}
@@ -302,20 +308,20 @@
 		{
 			"public"
 			{
-				"buildid"		"12162380"
-				"timeupdated"		"1694531638"
+				"buildid"		"12258395"
+				"timeupdated"		"1695658717"
 			}
 			"debug"
 			{
-				"buildid"		"12216410"
+				"buildid"		"12258450"
 				"pwdrequired"		"1"
-				"timeupdated"		"1695046943"
+				"timeupdated"		"1695397954"
 			}
 			"stage"
 			{
-				"buildid"		"12216406"
+				"buildid"		"12258395"
 				"pwdrequired"		"1"
-				"timeupdated"		"1695046904"
+				"timeupdated"		"1695397910"
 			}
 		}
 	}
@@ -323,8 +329,6 @@
 	{
 		"quota"		"32000000"
 		"maxnumfiles"		"10"
-		"hidecloudui"		"1"
-		"ignoreexternalfiles"		"1"
 		"savefiles"
 		{
 			"0"
