@@ -95,7 +95,7 @@
 				"height_pct"		"100"
 			}
 		}
-		"store_asset_mtime"		"1675945734"
+		"store_asset_mtime"		"1694766500"
 		"associations"
 		{
 			"0"
@@ -175,15 +175,15 @@
 		"gameid"		"1240590"
 		"store_tags"
 		{
-			"0"		"1646"
-			"1"		"4106"
-			"2"		"4231"
-			"3"		"1742"
-			"4"		"19"
-			"5"		"1695"
-			"6"		"1743"
-			"7"		"21"
-			"8"		"492"
+			"0"		"492"
+			"1"		"1646"
+			"2"		"4106"
+			"3"		"4231"
+			"4"		"1742"
+			"5"		"19"
+			"6"		"1695"
+			"7"		"1743"
+			"8"		"21"
 			"9"		"4182"
 			"10"		"17015"
 			"11"		"4136"
@@ -234,9 +234,9 @@
 			{
 				"public"
 				{
-					"gid"		"4221710972433962080"
-					"size"		"24854645663"
-					"download"		"9957805984"
+					"gid"		"3476497931349696962"
+					"size"		"24835803631"
+					"download"		"9955043728"
 				}
 			}
 			"encryptedmanifests"
@@ -357,15 +357,9 @@
 				}
 				"development"
 				{
-					"gid"		"CE3FBD8C7668E580B7D4AEFC63E64285"
-					"size"		"A8D8190D54989D4E342749E58CBF660A"
-					"download"		"D8C869CF6F43E4D52176A7847238563D"
-				}
-				"hungarian-test"
-				{
-					"gid"		"F42BD68D293BAE7641F18EFB44C192B5"
-					"size"		"050EB90A7F317312EEAC45403F4DD1CF"
-					"download"		"36463AB8A30AD7643CA3F6FA2D4138EC"
+					"gid"		"86056BD314B6DF6DBBC2702D26C8BB38"
+					"size"		"E02AD543575A1FC7519511AD8FEF6087"
+					"download"		"823391617C992FB446D6236B76920D5C"
 				}
 			}
 		}
@@ -373,8 +367,8 @@
 		{
 			"public"
 			{
-				"buildid"		"10784331"
-				"timeupdated"		"1678978240"
+				"buildid"		"12288999"
+				"timeupdated"		"1695813066"
 			}
 			"1.0.1-873"
 			{
@@ -492,15 +486,9 @@
 			}
 			"development"
 			{
-				"buildid"		"12170129"
+				"buildid"		"12288999"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694532163"
-			}
-			"hungarian-test"
-			{
-				"buildid"		"10784331"
-				"pwdrequired"		"1"
-				"timeupdated"		"1678970581"
+				"timeupdated"		"1695754826"
 			}
 		}
 	}
@@ -514,13 +502,7 @@
 			{
 				"root"		"WinAppDataLocalLow"
 				"path"		"Atomic Elbow/Sir Whoopass"
-				"pattern"		"savedata.swa"
-			}
-			"1"
-			{
-				"root"		"WinAppDataLocalLow"
-				"path"		"Atomic Elbow/Sir Whoopass"
-				"pattern"		"savedata-old.swa"
+				"pattern"		"savedata*"
 			}
 		}
 	}
