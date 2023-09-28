@@ -5,7 +5,7 @@
 	{
 		"name"		"Lies of P"
 		"type"		"Game"
-		"releasestate"		"prerelease"
+		"releasestate"		"released"
 		"clienticon"		"cb88827f3ba39be4bc1c73f34de4dca87a78fc5f"
 		"clienttga"		"e8ef23083d7b4645ff7859e735a994d95752551c"
 		"icon"		"978b39341282c22c22264141f9618c36094b4214"
@@ -119,7 +119,7 @@
 				"height_pct"		"84.95606744241273"
 			}
 		}
-		"store_asset_mtime"		"1694570638"
+		"store_asset_mtime"		"1695272062"
 		"associations"
 		{
 			"0"
@@ -214,39 +214,42 @@
 				"subtitles"		"true"
 			}
 		}
+		"steam_release_date"		"1695048120"
+		"community_visible_stats"		"1"
 		"community_hub_visible"		"1"
 		"gameid"		"1627720"
-		"exfgls"		"1"
 		"store_tags"
 		{
 			"0"		"29482"
 			"1"		"19"
-			"2"		"4231"
-			"3"		"3834"
+			"2"		"3834"
+			"3"		"4231"
 			"4"		"4604"
-			"5"		"4191"
-			"6"		"21"
-			"7"		"1697"
+			"5"		"1697"
+			"6"		"4191"
+			"7"		"21"
 			"8"		"4342"
-			"9"		"1742"
-			"10"		"4166"
-			"11"		"122"
-			"12"		"4182"
+			"9"		"4166"
+			"10"		"1742"
+			"11"		"4182"
+			"12"		"122"
 			"13"		"1777"
 			"14"		"6426"
-			"15"		"6971"
-			"16"		"4667"
+			"15"		"4667"
+			"16"		"6971"
 			"17"		"3952"
 			"18"		"4711"
 			"19"		"1695"
 		}
+		"review_score"		"8"
+		"review_percentage"		"86"
 	}
 	"extended"
 	{
 		"developer"		"NEOWIZ"
 		"publisher"		"NEOWIZ"
 		"homepage"		"https://liesofp.com/"
-		"listofdlc"		"2325281"
+		"listofdlc"		"2325280,2325281"
 		"dlcavailableonstore"		"1"
 	}
 	"config"
@@ -269,9 +272,17 @@
 				}
 				"description"		"Lies of P"
 			}
+			"1"
+			{
+				"executable"		"LOP-Test.app\\contents\\MacOS\\LOP-Test"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
 		}
 		"steamdecktouchscreen"		"1"
-		"steamconfigurator3rdpartynative"		"65533"
+		"steamconfigurator3rdpartynative"		"65532"
 	}
 	"depots"
 	{
@@ -303,18 +314,18 @@
 			{
 				"public"
 				{
-					"gid"		"6414528620246400900"
-					"size"		"42415855232"
-					"download"		"36891347024"
+					"gid"		"7409018835337378931"
+					"size"		"42335559088"
+					"download"		"36838122224"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"internal_test"
 				{
-					"gid"		"EBFCB0BF59AC7D1D2815C98450E6A290"
-					"size"		"0F767DCBC880E15E90B4966BDBD3D91A"
-					"download"		"904389F07441A10020F14171DB5B4515"
+					"gid"		"DF3C173726301218335F02E01317FB00"
+					"size"		"4E331C60FE5EB690C1137D4D337B9B7F"
+					"download"		"A85399DCB161D5F1E9DB11796AAA4163"
 				}
 				"mac_internal"
 				{
@@ -330,24 +341,56 @@
 				}
 			}
 		}
+		"1627722"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5209544482650701767"
+					"size"		"5"
+					"download"		"64"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal_test"
+				{
+					"gid"		"1F85BDD2375E16FB851579B748A08B0B"
+					"size"		"71B553CE6E4D2EE10CC4DD5E9C9D311F"
+					"download"		"A1DB94DEADD6E7F824B7820F2246AC8E"
+				}
+				"mac_internal"
+				{
+					"gid"		"54DFC1A24AC842957E0EEEF6033DF063"
+					"size"		"0068EDC9C5B7DBD22E2A1D00D548261B"
+					"download"		"05D949C2B73DE61B19E361F6575C18E8"
+				}
+			}
+		}
+		"hasdepotsindlc"		"0"
 		"branches"
 		{
 			"public"
 			{
-				"buildid"		"12195248"
-				"timeupdated"		"1694753253"
+				"buildid"		"12292518"
+				"timeupdated"		"1695790465"
 			}
 			"internal_test"
 			{
-				"buildid"		"12140983"
+				"buildid"		"12283165"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694168849"
+				"timeupdated"		"1695713690"
 			}
 			"mac_internal"
 			{
 				"buildid"		"12128489"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694057603"
+				"timeupdated"		"1695270330"
 			}
 			"mediabuild"
 			{
