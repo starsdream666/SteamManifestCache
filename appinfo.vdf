@@ -31,20 +31,20 @@
 		}
 		"steam_deck_compatibility"
 		{
-			"category"		"2"
-			"test_timestamp"		"1683936000"
-			"tested_build_id"		"11043140"
+			"category"		"3"
+			"test_timestamp"		"1695859200"
+			"tested_build_id"		"12236981"
 			"tests"
 			{
 				"0"
 				{
-					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 				}
 				"1"
 				{
 					"display"		"4"
-					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
 				}
 				"2"
 				{
@@ -63,7 +63,7 @@
 				"requires_manual_keyboard_invoke"		"0"
 				"requires_non_controller_launcher_nav"		"0"
 				"primary_player_is_controller_slot_0"		"0"
-				"non_deck_display_glyphs"		"1"
+				"non_deck_display_glyphs"		"0"
 				"small_text"		"0"
 				"requires_internet_for_setup"		"0"
 				"requires_internet_for_singleplayer"		"0"
@@ -237,9 +237,9 @@
 			{
 				"public"
 				{
-					"gid"		"3745659792296797526"
-					"size"		"7251442332"
-					"download"		"2020333376"
+					"gid"		"3246198044129422112"
+					"size"		"7251442404"
+					"download"		"2020339056"
 				}
 			}
 			"encryptedmanifests"
@@ -252,9 +252,9 @@
 				}
 				"private-test"
 				{
-					"gid"		"0EFE286093ECDF81F02843E3E573DF5D"
-					"size"		"A64CD77FC428CE99958F0E5EAEC298F1"
-					"download"		"DAB4074124268FA22A17FBEB53760F9F"
+					"gid"		"EF6B164CA185B06C906599AFDA75D987"
+					"size"		"FDBB7DA993AD0399BEE5A0EADA973805"
+					"download"		"164E034270B4E4EBF945E4639D06B32A"
 				}
 				"public-test"
 				{
@@ -268,8 +268,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12291876"
-				"timeupdated"		"1695826216"
+				"buildid"		"12297435"
+				"timeupdated"		"1695975011"
 			}
 			"preview"
 			{
@@ -279,9 +279,9 @@
 			}
 			"private-test"
 			{
-				"buildid"		"12297435"
+				"buildid"		"12318721"
 				"pwdrequired"		"1"
-				"timeupdated"		"1695825707"
+				"timeupdated"		"1696002677"
 			}
 			"public-test"
 			{
