@@ -156,7 +156,9 @@
 		{
 			"0"
 			{
-				"executable"		"wlz2/release_vs2015x64/winpc_launcher.exe"
+				"executable"		"wlz2/engine/bin/windows/release_md_vs2015x64/fx_main_steam.exe"
+				"arguments"		"game_framework_package.ini OPEN_PROJECT=\"..\\..\\..\\..\\01_client\\flexi.projectinfo\""
+				"workingdir"		"wlz2/engine/bin/windows/release_md_vs2015x64"
 				"type"		"default"
 				"config"
 				{
@@ -174,9 +176,9 @@
 			{
 				"public"
 				{
-					"gid"		"8553013598886019194"
-					"size"		"12649160725"
-					"download"		"11753549104"
+					"gid"		"6339955603193847928"
+					"size"		"22352388490"
+					"download"		"20334376208"
 				}
 			}
 		}
@@ -185,8 +187,8 @@
 		{
 			"public"
 			{
-				"buildid"		"9369850"
-				"timeupdated"		"1661249521"
+				"buildid"		"12312448"
+				"timeupdated"		"1695948400"
 			}
 		}
 	}
