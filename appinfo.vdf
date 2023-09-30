@@ -1,0 +1,235 @@
+"appinfo"
+{
+	"appid"		"2478020"
+	"common"
+	{
+		"name"		"Ray’z Arcade Chronology"
+		"type"		"Game"
+		"icon"		"6ab2bffb594e102dd4ba453d53dc6f940a40135b"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"f88f0d8dc58389a5ad6a564d396ed20be06e7c71"
+		"clienttga"		"15cb57063fccd16457db5b11129b9d7cf572e781"
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"koreana"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"japanese"		"1"
+		}
+		"controllertagwizard"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"63.55617610795345"
+				"height_pct"		"82.21381267738886"
+			}
+		}
+		"store_asset_mtime"		"1695084050"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"M2 Co.,LTD"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"TAITO CORP."
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_37"		"1"
+			"category_9"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_44"		"1"
+			"category_49"		"1"
+			"category_28"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_60"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1695653979"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2478020"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"4255"
+			"2"		"1774"
+			"3"		"3942"
+			"4"		"7208"
+			"5"		"4182"
+			"6"		"4975"
+			"7"		"3859"
+			"8"		"7368"
+			"9"		"3841"
+			"10"		"4191"
+			"11"		"1773"
+		}
+		"review_score"		"5"
+		"review_percentage"		"66"
+	}
+	"extended"
+	{
+		"developer"		"M2 Co.,LTD"
+		"publisher"		"TAITO CORP."
+		"homepage"		"https://www.taito.co.jp/rayzarcadechronology/"
+	}
+	"config"
+	{
+		"installdir"		"Ray’z Arcade Chronology"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"game.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"65535"
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigdetails"
+		{
+			"2992604132"
+			{
+				"controller_type"		"controller_xbox360"
+				"enabled_branches"		"default,test"
+				"use_action_block"		"false"
+			}
+			"2992610377"
+			{
+				"controller_type"		"controller_ps4"
+				"enabled_branches"		"default,test"
+				"use_action_block"		"false"
+			}
+			"2992611509"
+			{
+				"controller_type"		"controller_xboxone"
+				"enabled_branches"		"default,test"
+				"use_action_block"		"false"
+			}
+			"3010647772"
+			{
+				"controller_type"		"controller_switch_pro"
+				"enabled_branches"		"default,test"
+				"use_action_block"		"false"
+			}
+		}
+	}
+	"depots"
+	{
+		"2478021"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3013639245850135395"
+					"size"		"875401362"
+					"download"		"812698656"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"qatest"
+				{
+					"gid"		"F3B83DA53F3882552DD75E1BAE8BCC73"
+					"size"		"9873373724B80A2F0BEC2E6A0AEB4E6C"
+					"download"		"BB5C6A954514719FAA1A4328921146FF"
+				}
+				"test"
+				{
+					"gid"		"1655155DADAD217DEA6B949E61D90EA0"
+					"size"		"1C4180E7B68B92CA9E690EA18CA24A83"
+					"download"		"0C93E53315656A4E9260053E691B52CB"
+				}
+			}
+		}
+		"baselanguages"		"english,koreana,schinese,tchinese,japanese"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12314398"
+				"timeupdated"		"1695977742"
+			}
+			"qatest"
+			{
+				"buildid"		"12314398"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695977730"
+			}
+			"test"
+			{
+				"buildid"		"12314398"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695971191"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000000"
+		"maxnumfiles"		"256"
+	}
+}
