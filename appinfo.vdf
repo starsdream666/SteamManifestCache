@@ -224,11 +224,11 @@
 			"3"		"1721"
 			"4"		"1664"
 			"5"		"10808"
-			"6"		"3839"
-			"7"		"3859"
+			"6"		"3859"
+			"7"		"3839"
 			"8"		"5125"
-			"9"		"6730"
-			"10"		"4166"
+			"9"		"4166"
+			"10"		"6730"
 			"11"		"4508"
 			"12"		"4106"
 			"13"		"4747"
@@ -299,15 +299,15 @@
 			{
 				"public"
 				{
-					"gid"		"7045101546352271105"
-					"size"		"21427710042"
-					"download"		"10028077904"
+					"gid"		"1198049925078374453"
+					"size"		"21412848236"
+					"download"		"10025972080"
 				}
 				"public_testing"
 				{
-					"gid"		"7045101546352271105"
-					"size"		"21427710042"
-					"download"		"10028077904"
+					"gid"		"1198049925078374453"
+					"size"		"21412848236"
+					"download"		"10025972080"
 				}
 			}
 			"encryptedmanifests"
@@ -320,9 +320,9 @@
 				}
 				"private_testing"
 				{
-					"gid"		"6F65579081FD54C7951C741A0DD2505F"
-					"size"		"5BCD61C7D472DE735EFCCB5A49D79F96"
-					"download"		"43A4A4123C2F2A4D7504F2C44C38EDBE"
+					"gid"		"F4A96E9551C9AE601133716D122CD31F"
+					"size"		"632F2E958B2AD5CA8EB6A807A97A6BA6"
+					"download"		"7BE47F908E4E90C3484C6108EE6D83A0"
 				}
 			}
 		}
@@ -330,8 +330,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12112233"
-				"timeupdated"		"1693999404"
+				"buildid"		"12327214"
+				"timeupdated"		"1696126108"
 			}
 			"closed_testing"
 			{
@@ -341,30 +341,48 @@
 			}
 			"private_testing"
 			{
-				"buildid"		"12112233"
+				"buildid"		"12327214"
 				"pwdrequired"		"1"
-				"timeupdated"		"1693913102"
+				"timeupdated"		"1696123882"
 			}
 			"public_testing"
 			{
-				"buildid"		"12112233"
+				"buildid"		"12327214"
 				"description"		"Public Test Branch"
-				"timeupdated"		"1693999254"
+				"timeupdated"		"1696126099"
 			}
 		}
 	}
 	"ufs"
 	{
 		"quota"		"5000000000"
-		"maxnumfiles"		"50"
+		"maxnumfiles"		"1000"
 		"savefiles"
 		{
 			"0"
 			{
 				"root"		"WinAppDataLocalLow"
 				"path"		"Valko Game Studios/Labyrinthine/{64BitSteamID}"
-				"pattern"		"*.dat"
+				"pattern"		"*"
 				"recursive"		"1"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxHome"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Valko Game Studios/Labyrinthine/{64BitSteamID}"
+						"replace"		".config/unity3d/Valko Game Studios/Labyrinthine/{64BitSteamID}"
+					}
+				}
 			}
 		}
 	}
