@@ -1,0 +1,397 @@
+"appinfo"
+{
+	"appid"		"1599330"
+	"common"
+	{
+		"name"		"Wildmender"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"c12fa2173767b0b410c7832d10ac2d66db5cf424"
+		"clienticon"		"8a52b1c0025f65c16637896668ed0ca27abe7794"
+		"icon"		"7d9874e300ff17b7b2e5f8519c0c99793e45e4e0"
+		"releasestate"		"released"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1599330_eula_0"
+				"name"		"Wildmender EULA"
+				"url"		"https://store.steampowered.com//eula/1599330_eula_0"
+				"version"		"4"
+			}
+		}
+		"name_localized"
+		{
+			"tchinese"		"荒原療者 (Wildmender)"
+			"schinese"		"荒原疗者 (Wildmender)"
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"46.459661481228714"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1695890563"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Muse Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Kwalee"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Kwalee"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"28"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_18"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1695915876"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1599330"
+		"store_tags"
+		{
+			"0"		"4191"
+			"1"		"1697"
+			"2"		"3859"
+			"3"		"599"
+			"4"		"4182"
+			"5"		"87918"
+			"6"		"1685"
+			"7"		"1695"
+			"8"		"22602"
+			"9"		"3834"
+			"10"		"21"
+			"11"		"1662"
+			"12"		"4305"
+			"13"		"1100689"
+			"14"		"1643"
+			"15"		"7332"
+			"16"		"1702"
+			"17"		"30358"
+			"18"		"4166"
+			"19"		"4747"
+		}
+		"review_score"		"8"
+		"review_percentage"		"83"
+	}
+	"extended"
+	{
+		"developer"		"Muse Games"
+		"publisher"		"Kwalee"
+		"listofdlc"		"2540280,2540290"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Wildmender"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Wildmender_win64.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1599331"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7193658681387949948"
+					"size"		"3626873554"
+					"download"		"1369943056"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alex"
+				{
+					"gid"		"CFE1AB2D6CB631790DBBA9E8649916F4"
+					"size"		"4B034429A7310F26F44AA13C99CA4182"
+					"download"		"82FA8A5261A4793DAE593A3F1A35B7F7"
+				}
+				"autobuild"
+				{
+					"gid"		"7ADA7C7A7B0FA185452176F44872112F"
+					"size"		"81017F990A7BF1C86F5C8C0FFEC7786B"
+					"download"		"6BBF468C0B0FFF1037FB1E2340F5A0BD"
+				}
+				"compliance"
+				{
+					"gid"		"C89739ECBC89B9A2ED9DB133B4B535DE"
+					"size"		"3C877812FD480CA15500B27D5175275F"
+					"download"		"1D3BA78916B94EBC23BA063B32E4B66B"
+				}
+				"compliance_witheula"
+				{
+					"gid"		"32DBEABA81254FAB0EE5AEFBED7F7914"
+					"size"		"3C6E65C7903C4536B19F73F157384E87"
+					"download"		"5948BEBA687955790A6F5E70B9FAEE96"
+				}
+				"devdemo"
+				{
+					"gid"		"5416405A6B657DC96F9DD9D7D6D2125F"
+					"size"		"E41D6468174A1715D04FCDFCC05783D2"
+					"download"		"7EB8A8D3CF9BF02D662C3A4712D2F4CE"
+				}
+				"devtest"
+				{
+					"gid"		"645B672E308928EB49295A00F1C51576"
+					"size"		"6989781C6101826C42528E182B43CF9A"
+					"download"		"FE2F35F27E7FEF8EB6E5DA723423AB37"
+				}
+				"external"
+				{
+					"gid"		"C35E863A8DBE184C5143D2371879DB60"
+					"size"		"D6F2D61B660361D04139EC3E7BC7A38F"
+					"download"		"725DF463CADD56CF5F0C44F5F11B2C1C"
+				}
+				"kwalee"
+				{
+					"gid"		"4DE7F77C34F635B07EFB663A4A133588"
+					"size"		"D102B65E847937A3B62E9051A8F9ACAE"
+					"download"		"8CE6CD00198F1F7C3FCEA2EDCB22E25B"
+				}
+				"nightly"
+				{
+					"gid"		"42563D696D2EBFC9322FDB2BE6347983"
+					"size"		"69264E6E4F1ADF4B1690622C42C0AD42"
+					"download"		"8DFB39FC24723E8087D62C0465C015A0"
+				}
+				"weekly"
+				{
+					"gid"		"BB184A67A164E7516218E08CADC68672"
+					"size"		"68E61EB7C4B5AA5B06975ED805361452"
+					"download"		"3521F9336C26FACA80B2642A6CB0C6FC"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12289042"
+				"timeupdated"		"1695893931"
+			}
+			"alex"
+			{
+				"buildid"		"12254197"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695647948"
+			}
+			"autobuild"
+			{
+				"buildid"		"12335323"
+				"pwdrequired"		"1"
+				"timeupdated"		"1696255568"
+			}
+			"compliance"
+			{
+				"buildid"		"12318870"
+				"pwdrequired"		"1"
+				"timeupdated"		"1696004090"
+			}
+			"compliance_witheula"
+			{
+				"buildid"		"12318798"
+				"pwdrequired"		"1"
+				"timeupdated"		"1696003344"
+			}
+			"devdemo"
+			{
+				"buildid"		"11063007"
+				"pwdrequired"		"1"
+				"timeupdated"		"1682108563"
+			}
+			"devtest"
+			{
+				"buildid"		"12329756"
+				"pwdrequired"		"1"
+				"timeupdated"		"1696183330"
+			}
+			"external"
+			{
+				"buildid"		"9409871"
+				"pwdrequired"		"1"
+				"timeupdated"		"1665578054"
+			}
+			"kwalee"
+			{
+				"buildid"		"11062859"
+				"pwdrequired"		"1"
+				"timeupdated"		"1683275428"
+			}
+			"nightly"
+			{
+				"buildid"		"12330776"
+				"pwdrequired"		"1"
+				"timeupdated"		"1696203489"
+			}
+			"weekly"
+			{
+				"buildid"		"11481526"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687295594"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"3000000000"
+		"maxnumfiles"		"10000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Muse Games/Wildmender/worlds"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#mainmenu"		"In main menu"
+					"#dayandlocation"		"{#TimeOfDay_%timeofday%} %day% - {#Location_%location%}"
+					"#timeofday_night"		"Night"
+					"#timeofday_day"		"Day"
+					"#timeofday_dawn"		"Dawn"
+					"#timeofday_dusk"		"Dusk"
+					"#location_none"		"None"
+					"#location_dunes"		"Dunes"
+					"#location_oasis"		"Oasis"
+					"#location_hills"		"Dunes"
+					"#location_saltflats"		"Salt Flats"
+					"#location_canyons"		"Canyons"
+					"#location_mountains"		"Mountains"
+					"#location_crater"		"Crater"
+					"#location_saltflatsisland"		"Salt Flats"
+					"#location_saltflatsislandlarge"		"Salt Flats"
+					"#location_temple_garden"		"Grove Temple"
+					"#location_temple_naia"		"Temple of Naia"
+					"#location_temple_oros"		"Temple of Oros"
+					"#location_temple_stryge"		"Temple of Stryge"
+				}
+			}
+		}
+	}
+}
