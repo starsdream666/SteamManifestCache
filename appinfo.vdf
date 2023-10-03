@@ -1,0 +1,230 @@
+"appinfo"
+{
+	"appid"		"2021410"
+	"common"
+	{
+		"name"		"Make Love Not War"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"01f7996b9e84effe1b65f4b4be429c74da280779"
+		"clienticon"		"1c0187df60093de694b18bc050ad6c383ff92404"
+		"clienttga"		"1b22ee3587ee7043ace2b08098eb9b3dfda535d9"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"3"
+			"2"		"5"
+			"3"		"4"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"restricted_countries"		"CN,DE"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"64.18604651162792"
+				"height_pct"		"67.47803372120643"
+			}
+		}
+		"store_asset_mtime"		"1662387615"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Anime Mania"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Anime Mania"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1664274300"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2021410"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"21"
+			"2"		"1664"
+			"3"		"12095"
+			"4"		"3871"
+			"5"		"4085"
+			"6"		"4094"
+			"7"		"6815"
+			"8"		"5673"
+			"9"		"6650"
+			"10"		"7250"
+			"11"		"492"
+			"12"		"7208"
+			"13"		"4182"
+		}
+		"review_score"		"7"
+		"review_percentage"		"89"
+	}
+	"extended"
+	{
+		"developer"		"Anime Mania"
+		"publisher"		"Anime Mania"
+		"listofdlc"		"2080730"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Make Love Not War"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Make love not war.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2021411"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"663593276983858023"
+					"size"		"390839017"
+					"download"		"262486944"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"016909C60FCA91F3F4277956DA2E1E62"
+					"size"		"7469FA7810AAF227848066E4E3E34653"
+					"download"		"BA7779B5667E2B8DE4FCCA2F831F2145"
+				}
+			}
+		}
+		"2080730"
+		{
+			"dlcappid"		"2080730"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5210041010879175206"
+					"size"		"56738095"
+					"download"		"47217440"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"451158C74D7F5A53EEBBAD8F8646D344"
+					"size"		"C061DA7283AD990776E7E37886D56B42"
+					"download"		"7913E5F0A9FB3922101B28F82804804A"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12228750"
+				"timeupdated"		"1695663629"
+			}
+			"development"
+			{
+				"buildid"		"12228750"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695150561"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"20000"
+		"maxnumfiles"		"30"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+	}
+}
