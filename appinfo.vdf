@@ -1,0 +1,255 @@
+"appinfo"
+{
+	"appid"		"1110640"
+	"common"
+	{
+		"name"		"Double Elf Fantasy"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"logo"		"ac01f028b580e38dd3b457b0195623174c71417f"
+		"logo_small"		"ac01f028b580e38dd3b457b0195623174c71417f_thumb"
+		"icon"		"c8bdd2cbdccea95a69004eee4f2d8ed29ef201fc"
+		"clienttga"		"1b9eb28bb9ce0be3dccbbc502dde46a981deabdf"
+		"clienticon"		"58d19dd47b4da71026ba73ed73e34d0dc4736614"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"3"
+			"2"		"5"
+			"3"		"4"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"restricted_countries"		"CN"
+		"metacritic_name"		"Double Elf Fantasy"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"32.38039673278881"
+				"height_pct"		"42.02089764901448"
+			}
+		}
+		"store_asset_mtime"		"1565734928"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"EXAMGAMES"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"EXAMGAMES"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1565786025"
+		"community_hub_visible"		"1"
+		"gameid"		"1110640"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"12095"
+			"2"		"6650"
+			"3"		"4085"
+			"4"		"9130"
+			"5"		"24904"
+			"6"		"1684"
+			"7"		"3871"
+			"8"		"4182"
+			"9"		"4434"
+			"10"		"10695"
+			"11"		"4474"
+			"12"		"3834"
+			"13"		"3964"
+			"14"		"4726"
+			"15"		"4004"
+			"16"		"4947"
+			"17"		"1719"
+			"18"		"4057"
+			"19"		"4325"
+		}
+		"review_score"		"6"
+		"review_percentage"		"76"
+	}
+	"extended"
+	{
+		"developer"		"EXAMGAMES"
+		"publisher"		"EXAMGAMES"
+	}
+	"config"
+	{
+		"installdir"		"DoubleElfFantasy"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"Game.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,japanese"
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1110641"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"55060381300698419"
+					"size"		"205575196"
+					"download"		"191014080"
+				}
+				"english"
+				{
+					"gid"		"55060381300698419"
+					"size"		"205575196"
+					"download"		"191014080"
+				}
+				"japanese"
+				{
+					"gid"		"55060381300698419"
+					"size"		"205575196"
+					"download"		"191014080"
+				}
+			}
+		}
+		"1110642"
+		{
+			"config"
+			{
+				"language"		"japanese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1926977490516292589"
+					"size"		"205601172"
+					"download"		"190614560"
+				}
+				"english"
+				{
+					"gid"		"1926977490516292589"
+					"size"		"205601172"
+					"download"		"190614560"
+				}
+				"japanese"
+				{
+					"gid"		"1926977490516292589"
+					"size"		"205601172"
+					"download"		"190614560"
+				}
+			}
+		}
+		"1110643"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3820705727552098452"
+					"size"		"205575196"
+					"download"		"190561088"
+				}
+				"english"
+				{
+					"gid"		"3820705727552098452"
+					"size"		"205575196"
+					"download"		"190561088"
+				}
+				"japanese"
+				{
+					"gid"		"3820705727552098452"
+					"size"		"205575196"
+					"download"		"190561088"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4115073"
+				"timeupdated"		"1566052435"
+			}
+			"english"
+			{
+				"buildid"		"4115073"
+				"timeupdated"		"1566052443"
+			}
+			"japanese"
+			{
+				"buildid"		"4115073"
+				"timeupdated"		"1566052452"
+			}
+		}
+	}
+}
