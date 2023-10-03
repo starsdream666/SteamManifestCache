@@ -45,47 +45,52 @@
 		"steam_deck_compatibility"
 		{
 			"category"		"2"
-			"test_timestamp"		"1647648000"
-			"tested_build_id"		"7678575"
+			"test_timestamp"		"1695427200"
+			"tested_build_id"		"11753700"
 			"tests"
 			{
 				"0"
 				{
 					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
 				}
 				"1"
 				{
 					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
 				}
 				"2"
 				{
-					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 				}
 				"3"
 				{
-					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
 				}
 				"4"
 				{
 					"display"		"4"
 					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 				}
+				"5"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
 			}
 			"configuration"
 			{
-				"supported_input"		"other"
-				"requires_manual_keyboard_invoke"		"0"
-				"requires_non_controller_launcher_nav"		"1"
-				"primary_player_is_controller_slot_0"		"0"
-				"non_deck_display_glyphs"		"1"
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
 				"small_text"		"1"
 				"requires_internet_for_setup"		"0"
 				"requires_internet_for_singleplayer"		"0"
-				"recommended_runtime"		"proton-stable"
+				"recommended_runtime"		"proton-8.0-4"
 				"requires_h264"		"0"
 				"gamescope_frame_limiter_not_supported"		"0"
 			}
@@ -120,7 +125,7 @@
 				"height_pct"		"100"
 			}
 		}
-		"store_asset_mtime"		"1692134638"
+		"store_asset_mtime"		"1696268654"
 		"associations"
 		{
 			"0"
@@ -264,6 +269,8 @@
 		"developer"		"ROCKFISH Games"
 		"publisher"		"ROCKFISH Games"
 		"homepage"		"https://everspace.game"
+		"listofdlc"		"2606620"
+		"dlcavailableonstore"		"1"
 	}
 	"config"
 	{
@@ -311,6 +318,21 @@
 					"oslist"		"macos"
 				}
 			}
+			"4"
+			{
+				"executable"		"The Art of EVERSPACE™ 2.pdf"
+				"config"
+				{
+					"oslist"		"windows"
+					"ownsdlc"		"2606620"
+				}
+				"description_loc"
+				{
+					"english"		"Open Digital Artbook"
+					"german"		"Digitales Artbook öffnen"
+				}
+				"description"		"Open Digital Artbook"
+			}
 		}
 		"steamcontrollertemplateindex"		"1"
 		"steamcontrollerconfigdetails"
@@ -332,6 +354,7 @@
 	}
 	"depots"
 	{
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,czech,brazilian,latam"
 		"228988"
 		{
 			"config"
@@ -350,7 +373,6 @@
 			"depotfromapp"		"228980"
 			"sharedinstall"		"1"
 		}
-		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,czech,brazilian,latam"
 		"1128921"
 		{
 			"config"
@@ -362,9 +384,9 @@
 			{
 				"public"
 				{
-					"gid"		"6223689044388016458"
-					"size"		"34862673071"
-					"download"		"33853695664"
+					"gid"		"4559498265710177946"
+					"size"		"35834254965"
+					"download"		"34799245168"
 				}
 				"experimental"
 				{
@@ -389,15 +411,15 @@
 				}
 				"dev_branch"
 				{
-					"gid"		"ECF239BBB8CE1E3037301EC8C31052CC"
-					"size"		"D5BCFB34387F4791DE705D2DAA3100FA"
-					"download"		"3C11BB97557E1A9E4AE02B344C210CB4"
+					"gid"		"0895B1C14F2CE2CDD416E1B932670B82"
+					"size"		"CAA7BEB10768BAAFADB7DEE62BD8C7FA"
+					"download"		"5C666371FC657EB0DD6F59FF40243EAC"
 				}
 				"dev_branch2"
 				{
-					"gid"		"8757BB15F9C99C8EE75A61E4FC144292"
-					"size"		"7C517F79247E05EB4FDE38C349C13DD5"
-					"download"		"8590A48A8254155E53E2C4F65E34C3BF"
+					"gid"		"3F162468BC10FA822E972575876B7325"
+					"size"		"AE22F1883A38C40BFFF8D6AA8B93CDE6"
+					"download"		"78F343982A910BC612F56486D4C206ED"
 				}
 				"ks_branch"
 				{
@@ -419,9 +441,9 @@
 				}
 				"qa_branch2"
 				{
-					"gid"		"588174F0A3217448BF9DCC12E10BC443"
-					"size"		"8C689C7B9094568AF7B57F35FB235BC6"
-					"download"		"F651686D3A83CA6A4D680C36785D89E0"
+					"gid"		"3ED3BE115CED46D6B22516386223F9A8"
+					"size"		"7118558B8090F5832EF6FC17F002AB96"
+					"download"		"3CDA5EF2F4E59D8F244901A34CE19C1F"
 				}
 				"review_branch"
 				{
@@ -440,14 +462,26 @@
 			}
 			"manifests"
 			{
+				"public"
+				{
+					"gid"		"4491906668146617832"
+					"size"		"39996351082"
+					"download"		"34843516160"
+				}
 			}
 			"encryptedmanifests"
 			{
 				"dev_branch"
 				{
-					"gid"		"DF0A96C198669AF427FBD7D60D0E293E"
-					"size"		"A93ACDAFA73F2A7143BCA68D83E11B22"
-					"download"		"FA35523D82A5452CC5D2D3DF5793FDD0"
+					"gid"		"BCEFC49ED28048B9874C1D47B06F9FA6"
+					"size"		"9E25B16ECE32F9B868B3246C37248B30"
+					"download"		"A4BE542FA4179F092C6DAEEA7BC07837"
+				}
+				"dev_branch2"
+				{
+					"gid"		"3DAE7B68A643CE03886803A19529469D"
+					"size"		"2B70AC43A294A7BD1A53170DC6245664"
+					"download"		"282C1610A89C0B724D98C37642284714"
 				}
 				"qa_branch2"
 				{
@@ -457,12 +491,40 @@
 				}
 			}
 		}
+		"2606620"
+		{
+			"dlcappid"		"2606620"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7511934507675995818"
+					"size"		"296783413"
+					"download"		"286718240"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev_branch"
+				{
+					"gid"		"D5A8608EAEE9AC947E9483749D846AF5"
+					"size"		"80E09E728C793A3076FE596D38511D52"
+					"download"		"69BABF51EF131CF8BEEEA44FB4E392E2"
+				}
+				"dev_branch2"
+				{
+					"gid"		"780B6749FB1A7B8450FE376237B7FDCA"
+					"size"		"0486B514F871407B6DA79037B3E4586D"
+					"download"		"D94709B93AB3DA4D489CF69297A85630"
+				}
+			}
+		}
 		"branches"
 		{
 			"public"
 			{
-				"buildid"		"11644168"
-				"timeupdated"		"1688742010"
+				"buildid"		"12336689"
+				"timeupdated"		"1696265292"
 			}
 			"balancing"
 			{
@@ -478,15 +540,15 @@
 			}
 			"dev_branch"
 			{
-				"buildid"		"12196155"
+				"buildid"		"12334028"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694762445"
+				"timeupdated"		"1696246035"
 			}
 			"dev_branch2"
 			{
-				"buildid"		"11644168"
+				"buildid"		"12257995"
 				"pwdrequired"		"1"
-				"timeupdated"		"1689575036"
+				"timeupdated"		"1695394768"
 			}
 			"experimental"
 			{
@@ -514,9 +576,9 @@
 			}
 			"qa_branch2"
 			{
-				"buildid"		"12185439"
+				"buildid"		"12213301"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694672668"
+				"timeupdated"		"1695019084"
 			}
 			"review_branch"
 			{
