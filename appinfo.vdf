@@ -1,0 +1,250 @@
+"appinfo"
+{
+	"appid"		"2074890"
+	"common"
+	{
+		"name"		"少女妖精弹珠台 Elf Girl Pinball"
+		"type"		"Game"
+		"icon"		"29939101d787feaf57be22aa800dfa5aa6fd7917"
+		"clienticon"		"20e09f4649a413042da1c4d45044bf10e03f61dc"
+		"clienttga"		"922418cabd4b68519883c614fa07a9024b559967"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"2"
+			"2"		"3"
+			"3"		"5"
+			"4"		"4"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"has_adult_content_violence"		"1"
+		"restricted_countries"		"CN,DE"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1677283200"
+			"tested_build_id"		"10087138"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DisplayOutputNotCorrectlyScaled"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"sc_schinese"		"capsule_231x87_sc_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+			"sc_schinese"		"header_sc_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn"
+			"library_hero"		"en"
+			"library_logo"		"en,zh-cn"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"30.129032258064512"
+				"height_pct"		"86.80555555555554"
+			}
+		}
+		"store_asset_mtime"		"1684093686"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"OWENO"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"OWENO"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1669824079"
+		"community_hub_visible"		"1"
+		"gameid"		"2074890"
+		"store_tags"
+		{
+			"0"		"12095"
+			"1"		"597"
+			"2"		"599"
+			"3"		"9130"
+			"4"		"1773"
+			"5"		"1774"
+			"6"		"4085"
+			"7"		"3871"
+			"8"		"4885"
+			"9"		"6650"
+			"10"		"4726"
+			"11"		"18594"
+			"12"		"6815"
+			"13"		"1654"
+			"14"		"5611"
+			"15"		"24904"
+			"16"		"4136"
+			"17"		"4182"
+			"18"		"492"
+			"19"		"4667"
+		}
+		"review_score"		"8"
+		"review_percentage"		"93"
+	}
+	"extended"
+	{
+		"developer"		"OWENO"
+		"publisher"		"OWENO"
+	}
+	"config"
+	{
+		"installdir"		"少女妖精弹珠台 Elf Girl Pinball"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Elf Girl Pinball/Elf Girl Pinball.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2074891"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3289699222099749573"
+					"size"		"4358821981"
+					"download"		"151789872"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"ball_test"
+				{
+					"gid"		"7E89436B745D6B509263E2A5016D98EC"
+					"size"		"C4DA2B4C43E63C2B560335CAF24ED2AC"
+					"download"		"608B9997FDCA97E1B0E6981ECA3058FC"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12050798"
+				"timeupdated"		"1693237812"
+			}
+			"ball_test"
+			{
+				"buildid"		"12050798"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693237586"
+			}
+		}
+	}
+}
