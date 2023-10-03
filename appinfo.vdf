@@ -101,7 +101,8 @@
 				"gamescope_frame_limiter_not_supported"		"0"
 			}
 		}
-		"controller_support"		"partial"
+		"controllertagwizard"		"1"
+		"controller_support"		"full"
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
@@ -163,10 +164,11 @@
 			"category_1"		"1"
 			"category_22"		"1"
 			"category_23"		"1"
-			"category_18"		"1"
 			"category_45"		"1"
 			"category_46"		"1"
 			"category_29"		"1"
+			"category_28"		"1"
+			"category_55"		"1"
 		}
 		"supported_languages"
 		{
@@ -330,9 +332,9 @@
 			{
 				"public"
 				{
-					"gid"		"8879430040100487915"
-					"size"		"29376737120"
-					"download"		"22807484544"
+					"gid"		"314074197231436779"
+					"size"		"29330018345"
+					"download"		"22785421648"
 				}
 			}
 			"encryptedmanifests"
@@ -351,33 +353,15 @@
 				}
 				"d13_patches3"
 				{
-					"gid"		"85BADA24227CF94F41262E0BB4D1372D"
-					"size"		"D81C3D3CE1DA3FBE0434DC9C5F54EC0A"
-					"download"		"A4C972CFB11040417BC503B63F594F75"
-				}
-				"d13_preview"
-				{
-					"gid"		"AD5771B214AF95D85407A0BDF2564089"
-					"size"		"CC199C89CF89FE445DC167E14CFA4994"
-					"download"		"307E88CDCFA65D527C4A0529FE982A2D"
-				}
-				"d13_preview_stable"
-				{
-					"gid"		"FF5B03F4EE30C79BD0B4114983A46166"
-					"size"		"DB79426E720845794AC2A2D7FFA0CFC2"
-					"download"		"6A9D863003BEF9772A0EB33F97C97D54"
+					"gid"		"24804B51ACA23007A5DA998233A3389E"
+					"size"		"9FBF2E83E7CD713B537BCEF6C10C3922"
+					"download"		"EE41805E0621F5456714C60DACFDC456"
 				}
 				"d13_qa_temp"
 				{
-					"gid"		"FF5E7AAD2463C6197AB475A8FBB6CA57"
-					"size"		"7871FC56EA5BE03FF3D4C302FFF477B4"
-					"download"		"B285778152B0D92D464BA321F8076FFF"
-				}
-				"d13_qa_test_task"
-				{
-					"gid"		"99D15A0D93145344A701A8C25FCBBF7A"
-					"size"		"10DDEA612C257E0FFAF5162EA79C7D41"
-					"download"		"74379F8FC100357BABFC3D253D32BC24"
+					"gid"		"5E427F95705910489F5864E5AF9861C0"
+					"size"		"10711F5A63CDFA6CCFCB084F3F0E50DB"
+					"download"		"46BF17A8DCC5780D4F4C677D7534B5E8"
 				}
 				"d13_release_test"
 				{
@@ -393,9 +377,9 @@
 				}
 				"d13_test"
 				{
-					"gid"		"B8FDF291E0ED53CB7A8273F6A9925509"
-					"size"		"A6FA3B6F3BE1155803A915DAE5A944FE"
-					"download"		"F785F7C8867E138C8FAFA5B4397F1B8C"
+					"gid"		"AA61FF99C6ED597D9C634008FE9C020A"
+					"size"		"2396C4A0B95337488F049B3D5F748733"
+					"download"		"467740FC1D0B57B08668F8887852958B"
 				}
 				"era_dlc"
 				{
@@ -403,29 +387,11 @@
 					"size"		"214D31757047081AD6A4B5EA7D9525F3"
 					"download"		"FFECED257F605194CDD17E127A65DF5F"
 				}
-				"focus_external_2"
-				{
-					"gid"		"FB069F44FF3D12A198E085DFDCD2D3D7"
-					"size"		"7C99E1EBD5CC74EF8AE19F358A42FC54"
-					"download"		"ED14C5A51F12045CE8DF2F39BE4205FE"
-				}
-				"focus_external_partners"
-				{
-					"gid"		"3E9ED094019078B5079C1F47CC3EB9D8"
-					"size"		"33EA86A802318BB1662A7EFE7685BED8"
-					"download"		"15526C2B549A6A4212801591827EA287"
-				}
-				"focus_hardwre_test_july"
-				{
-					"gid"		"11A9435592949B27E4270BF37EE73E00"
-					"size"		"2424DFA8A2E3D0D16CB572D9C6CF0ABB"
-					"download"		"EA11F965B26065EEE3AFDF9B03A70198"
-				}
 				"focus_lqa"
 				{
-					"gid"		"CB432A555062D1CD55C89D61C7806764"
-					"size"		"18465E7A5D709852CBF8B3B8DF392B23"
-					"download"		"A758DB2D9880C1D07EF4296E53AD0617"
+					"gid"		"F602BF483AEE7BB6242DF9BDD48DA9E9"
+					"size"		"A81E8814ABD60E09BA517199C2DD38FB"
+					"download"		"37157009CE4CDB12DA785FE91C64DA45"
 				}
 				"focus_playtest"
 				{
@@ -433,29 +399,23 @@
 					"size"		"0FB7BA4F3EBC283906508A54C1DA498A"
 					"download"		"DA64833B771FD9AC30FE446597082BD0"
 				}
-				"focus_preview_build"
-				{
-					"gid"		"6F6E93DBEA814D5BD5F95A49A9B7F784"
-					"size"		"ADDB66F3F767761CA817E7DCC5DA3AB3"
-					"download"		"1D6810BC183491144691F8B6F51EFEB1"
-				}
 				"focus_qa_external"
 				{
-					"gid"		"5E2A21103453A48A4D767E1D94283D46"
-					"size"		"E6DE9505246D40B4EC8338698F95085B"
-					"download"		"7D94D53199350F68C94DBCCAD9524704"
+					"gid"		"69F99F938B9FA0210614750139067552"
+					"size"		"59E22B4D739482FD489BE65B58033EA2"
+					"download"		"BDBDC887820D4D90EF38B80680D02ACD"
 				}
 				"patches_latest"
 				{
-					"gid"		"0C5ADC0047DB5B78956F7C76D61DD429"
-					"size"		"66D3C0611BA69527E7ADF9476C2FE122"
-					"download"		"C264C8710FBFEBAB38BFD7DB5806720A"
+					"gid"		"25F53431B5CE92A2F00B04A944241C03"
+					"size"		"BCD7A2C6E0E70075BC259B1ABA136FF0"
+					"download"		"6E64D970D1D927A66DD37C0A2BF636F6"
 				}
 				"qa_test"
 				{
-					"gid"		"06CD68FD6D4EF9020471798E13D12721"
-					"size"		"58535D286A3FF89199183BB594D876B1"
-					"download"		"039831D202B24600664AF14CC569EC7E"
+					"gid"		"619AC955318575DA74BC29FF97BC4E43"
+					"size"		"6BF4ADE2C26B73033776209CEA80F2B8"
+					"download"		"994A18104F7F17A448C1DDAE4422D460"
 				}
 				"release_candidate"
 				{
@@ -465,9 +425,9 @@
 				}
 				"weekly_build"
 				{
-					"gid"		"F901DDEE9180E115199F02B10F16E8AD"
-					"size"		"E7B03F0CAC6EDEE4E4F0ADC988912B6B"
-					"download"		"947FAAAE59DC29EA41860DF390B33821"
+					"gid"		"6BA86B151E24C3BE04E6C581E86759B8"
+					"size"		"D2D24496EF05D5332748D3A218B39BD1"
+					"download"		"DA06CB768F89E09B61450B91F57DCA04"
 				}
 				"weekly_build_unstable"
 				{
@@ -477,9 +437,9 @@
 				}
 				"weekly_build_unstable_2"
 				{
-					"gid"		"A162C16A5AFFB92B541EC17CF934CA8D"
-					"size"		"B01C377D871B8F4E0494C9E82BCC63B6"
-					"download"		"D0375AAF5E21D8FE7468F849A2F2CAAD"
+					"gid"		"EAA8B984F20AC3C6E71B1740CA1BA90E"
+					"size"		"5258A2DB78138648F6480A330FEEAC11"
+					"download"		"F068D310F60DFD37E5CB8CCE133C6934"
 				}
 			}
 		}
@@ -493,9 +453,9 @@
 			{
 				"public"
 				{
-					"gid"		"7001087469468157054"
+					"gid"		"3290392359582694381"
 					"size"		"22572025"
-					"download"		"7214992"
+					"download"		"7214976"
 				}
 			}
 			"encryptedmanifests"
@@ -514,33 +474,15 @@
 				}
 				"d13_patches3"
 				{
-					"gid"		"3AC1007F3ECA62C975E1FC337544C5CC"
+					"gid"		"48FAAE8C2CF7209500CF5D5B221D2E97"
 					"size"		"3E3941AEECA72EF0FF34C9BE1CA34D40"
-					"download"		"7F2702495807552098F388F404404B5B"
-				}
-				"d13_preview"
-				{
-					"gid"		"BD9AE6F2E542F2027B0F79D7F285AF9C"
-					"size"		"EEE12C38EE3D658C904D9444FC35915E"
-					"download"		"1FE922F7D9DE77F6B4F90F47F9F197FA"
-				}
-				"d13_preview_stable"
-				{
-					"gid"		"F06B8A02ADB419A3FE22F5CE9EF79198"
-					"size"		"9FAD19BA6712862F84999BE256C05266"
-					"download"		"9A576628C59E6272A8BAB655F7DF0DAC"
+					"download"		"5ECB7C8A06423F7949D720E8F9E57EB3"
 				}
 				"d13_qa_temp"
 				{
-					"gid"		"7C2F0956D75FAFDC071312275926B402"
+					"gid"		"F5F74BCED320C9A65BA10A65AD726165"
 					"size"		"E246012E5FCA952FB64E5A752834F17E"
-					"download"		"E409828F9841E4C0BD73BBEF99F56F8B"
-				}
-				"d13_qa_test_task"
-				{
-					"gid"		"55F58063DD343EF035A85054D3DE8F17"
-					"size"		"A1744F9E0021C341BB60E617BC6F93DE"
-					"download"		"BAB683718F0E9E3C1626BEE2B6C02CB6"
+					"download"		"04167073BD61182F83383C27F1FFEAFD"
 				}
 				"d13_release_test"
 				{
@@ -556,7 +498,7 @@
 				}
 				"d13_test"
 				{
-					"gid"		"76151ADD14C9B738B34D1B1C902AD3A5"
+					"gid"		"CFA56D93450AE64DA0127CCFE1CB686B"
 					"size"		"5246DB40DB40D78BC7897456A3F15EFE"
 					"download"		"DB4CE2422E8DB64D104FCD13E9BFA636"
 				}
@@ -566,29 +508,11 @@
 					"size"		"9A1A6A843855A782AAA1054FBEC6C4B1"
 					"download"		"98B72E9DACEF7A5631B76A83B2C804ED"
 				}
-				"focus_external_2"
-				{
-					"gid"		"9403DC7BF7403F010C3F4840F39A6A01"
-					"size"		"F1C957B4310D994E6B1938CB9B01E964"
-					"download"		"ED2D1A9D0373AB385D073F5BA9ADB07F"
-				}
-				"focus_external_partners"
-				{
-					"gid"		"6A59449EE6033FE3B3FFA4048FE28B50"
-					"size"		"6BCFF499859E2BA3B510AFEF19097279"
-					"download"		"05970D84A0140A3AAAF8AFA38503E2F7"
-				}
-				"focus_hardwre_test_july"
-				{
-					"gid"		"5719C6AA1D5FDC3E4BDC4CBD776F8A05"
-					"size"		"D0EE59D7943DA6A04DA609D3E3AA9A7F"
-					"download"		"CE13BFA32EFC1D40C6BD0924CC6FBE21"
-				}
 				"focus_lqa"
 				{
-					"gid"		"41CA97EC7699BCC2DF30053CBBD09821"
-					"size"		"31E72E4742F5AA0731CE185CDDC17525"
-					"download"		"1DE22332DBD866B17A443579C8569E73"
+					"gid"		"D7A44997ECBA315743063D2A90E64058"
+					"size"		"721141BB6A8E307B706DC89A3227983B"
+					"download"		"F70EC67D5612BAC2FEF51B06B1DF1DE3"
 				}
 				"focus_playtest"
 				{
@@ -596,29 +520,23 @@
 					"size"		"50C75619F51790C9D971DB2D63DC6AF3"
 					"download"		"B4BA44DA676CE18212513C795687AD73"
 				}
-				"focus_preview_build"
-				{
-					"gid"		"B5063B2D3ECCB35CC216145C53D53027"
-					"size"		"BAF6AD5380E5686399C43F7E010A9F4F"
-					"download"		"602C89DB94898A0DA2C312F133B80AD9"
-				}
 				"focus_qa_external"
 				{
-					"gid"		"E4FAB76226056B8B3D1961233A94174E"
-					"size"		"2E2C13FD1F0FF8C6B382650B6C8CB566"
-					"download"		"23378219EF9C6948F30EA4FA7A77FC70"
+					"gid"		"0006AF040C11603741645CAFCC941A31"
+					"size"		"C3D681D7D84A57E38AC5A202E2803518"
+					"download"		"A04F5AAC259FBBB9E90B884F37DCD6A9"
 				}
 				"patches_latest"
 				{
-					"gid"		"33D2FBB6CBC0F92DDFCD9EFD5DC756E9"
+					"gid"		"C60B8DD485FDCA1333F62A674DCE1CEE"
 					"size"		"5B7D52D1D62706AA9EB38E4B2A2279E6"
-					"download"		"A06F757BCF7426FEE502CD313AC13287"
+					"download"		"94F8395A21506ABFC8787B359330D9DF"
 				}
 				"qa_test"
 				{
-					"gid"		"E6DAF13549ABEFDE582A31554D9F2DCC"
+					"gid"		"DBE55C319E9126B8211394CAA85D9E98"
 					"size"		"20ECD9AC1645F1B5E0BC7A68184CEE5F"
-					"download"		"B8974DD56D96B1B9525C84920D1A7839"
+					"download"		"8ED8DE75E390FF3BA0EF18228D6C914E"
 				}
 				"release_candidate"
 				{
@@ -628,9 +546,9 @@
 				}
 				"weekly_build"
 				{
-					"gid"		"D68847C1179BD34560BF77DFEFC283A9"
+					"gid"		"1AFBA780A4E7E70D6D79A470E28AF17B"
 					"size"		"00B0EEEE8F24E942174C376AC156CE22"
-					"download"		"6C53A3C00F53C89CBB91C6C2CE3C83C7"
+					"download"		"B6038D5A9A8846AF0298C19F29ECB2A4"
 				}
 				"weekly_build_unstable"
 				{
@@ -640,9 +558,9 @@
 				}
 				"weekly_build_unstable_2"
 				{
-					"gid"		"AD003234F28A9E6368E30CC9C8604C0D"
+					"gid"		"8856B674C84D4107FBE9C538678BBBB0"
 					"size"		"1A9B21EA49F16AE8442ADE05EE09F07F"
-					"download"		"0F179AF9C92D0D015C04A9973934BC61"
+					"download"		"A538A5A275BCFCFBEACEDB398F8FB8E8"
 				}
 			}
 		}
@@ -656,7 +574,7 @@
 			{
 				"public"
 				{
-					"gid"		"2670988636743081145"
+					"gid"		"7631402699750963061"
 					"size"		"5172838"
 					"download"		"2136080"
 				}
@@ -677,33 +595,15 @@
 				}
 				"d13_patches3"
 				{
-					"gid"		"0C3B503C44F6B097AA791C39495C6741"
+					"gid"		"722B81401513B154E32CFD87EF85F8D7"
 					"size"		"4FCDDAA5A913E87CF70D82DC4984639C"
 					"download"		"4CD241E40C01EFC0F3B4E3BECF9B10FE"
 				}
-				"d13_preview"
-				{
-					"gid"		"8BFFD6510AE2FA1DA96EF34C5D2048F1"
-					"size"		"EE76F2CB6848B51E536196FA1FB4416C"
-					"download"		"E8537FF1FDC5D7078578269344823BCE"
-				}
-				"d13_preview_stable"
-				{
-					"gid"		"20521AEBAC91960664AEABB1B23ADB32"
-					"size"		"B1B6D40992967D76093C047C3ABEBE27"
-					"download"		"99C298985B14AA9A4942A40AAE1BDF63"
-				}
 				"d13_qa_temp"
 				{
-					"gid"		"7A678DE813A842C82CCC8FF67937598E"
+					"gid"		"BEB7411664DD89A80930D88343B67516"
 					"size"		"BC09AE402F09CC41E9F78B5146782AE4"
 					"download"		"740D9051E424F5904B52AA50BC527500"
-				}
-				"d13_qa_test_task"
-				{
-					"gid"		"577F4CF8DB5721A1D7F79ECCE855720C"
-					"size"		"31CFF9DE60371914529FC8E8F583535C"
-					"download"		"34ECFF6A3A8F5F61FE5A5CEBE45FE908"
 				}
 				"d13_release_test"
 				{
@@ -719,7 +619,7 @@
 				}
 				"d13_test"
 				{
-					"gid"		"0113C2078DD063827113636676AAA07C"
+					"gid"		"40B81EB1BCD992A376E9B9851B02D32E"
 					"size"		"E9C296A46D1E9F4A533F7D40E15E441D"
 					"download"		"D56228589F46F7A87F58524062E883AD"
 				}
@@ -729,29 +629,11 @@
 					"size"		"F6FD2104DECCE1223023FDF21D782ED1"
 					"download"		"67945FF81E0AFC299809BD95EDABAB18"
 				}
-				"focus_external_2"
-				{
-					"gid"		"24742EF753608671BDA2F36F73E629D8"
-					"size"		"E7ABD205113DEE2582CD00D7C0F7CCB2"
-					"download"		"2D5DA341D65291A86A4BB35AB320DFCF"
-				}
-				"focus_external_partners"
-				{
-					"gid"		"B535C37EA4C8796814B17A6757E07880"
-					"size"		"9F585E5D957AAC3A4A7DE920EFC0ED7B"
-					"download"		"FCC3D34F94873F4B374A3D0DFBE1C75C"
-				}
-				"focus_hardwre_test_july"
-				{
-					"gid"		"272DFD9FDA65BA395F11855ED2BD5D46"
-					"size"		"2F7BA2A3806AA57E0579D5D1D848C77D"
-					"download"		"CF874EFA40B0ED42C82AC28C4CFF3BF7"
-				}
 				"focus_lqa"
 				{
-					"gid"		"60DF839DA2E1734FFBD99197B8E0CE4B"
-					"size"		"81C449A86A0A59B8F308FD2E275CE268"
-					"download"		"7BA5487300DD8C8C16682C97866D9CBB"
+					"gid"		"4E0C1A83D3E4F3556469A604D8768CEA"
+					"size"		"3245D6EEB1658F9BD1EBDAB9AF06E89E"
+					"download"		"A192765A8D678DEFA9A9DD949291C1AD"
 				}
 				"focus_playtest"
 				{
@@ -759,27 +641,21 @@
 					"size"		"C2FD3A0E63AB7D5C3D9702C281AA0493"
 					"download"		"9D98C812B76485C0656F78C4C3B58A80"
 				}
-				"focus_preview_build"
-				{
-					"gid"		"D6D97F70FFEBF5C610729FCFA34F02AB"
-					"size"		"14D0831C05ED99DC382E5FA898310AF1"
-					"download"		"811E31D3E450E1BD4D4C93B102683135"
-				}
 				"focus_qa_external"
 				{
-					"gid"		"F38BAC0357A4516F85CD04672E463583"
-					"size"		"AF40F9D6DEFBB21D433B091BF3A106DE"
-					"download"		"CAA347B6D64DD6EE05D01E7C793926DE"
+					"gid"		"89F0310C9B1348969331E350ACC01A0A"
+					"size"		"F53A3AF63816101598B156CAFE5F7AA8"
+					"download"		"DC20ECD6EC2652571FF1487E2AB54E82"
 				}
 				"patches_latest"
 				{
-					"gid"		"FB1A54A98674B2FE8371C86FD9211435"
+					"gid"		"3D38D0925427CB2BF34F774CEB4F1D8E"
 					"size"		"816818388C1D0A0925666055A19D4033"
 					"download"		"C9318DBB1B203FDAFC5147E5BF9CE3E7"
 				}
 				"qa_test"
 				{
-					"gid"		"2703AAF1A48F0E7789D2E0112EA4B808"
+					"gid"		"6D4C18B0A01DB459671C13F8D56BD316"
 					"size"		"0B915AF2770F92B189CF059C07523E32"
 					"download"		"4DEA197A3CA4E938654D10DF5866067F"
 				}
@@ -791,7 +667,7 @@
 				}
 				"weekly_build"
 				{
-					"gid"		"0EC1BFE3B786BF9751D326B06FF8CD0F"
+					"gid"		"8453D185586E800E21B8567B0381C230"
 					"size"		"2E0B6D3A030EB02FDC275C4D3E7E822E"
 					"download"		"020AA1CDBED553061E668F255C70D049"
 				}
@@ -803,7 +679,7 @@
 				}
 				"weekly_build_unstable_2"
 				{
-					"gid"		"6C2E07238FD9395824E6A57F92E877A3"
+					"gid"		"077C64B791DE4252E98396683620C853"
 					"size"		"8E42F8DEBB4280217CCD1CB8C6DB7818"
 					"download"		"23E30DBD61DC725254F64D986DF15A47"
 				}
@@ -813,8 +689,8 @@
 		{
 			"public"
 			{
-				"buildid"		"11960365"
-				"timeupdated"		"1692622802"
+				"buildid"		"12227267"
+				"timeupdated"		"1696323440"
 			}
 			"d1_patch_latest"
 			{
@@ -830,33 +706,15 @@
 			}
 			"d13_patches3"
 			{
-				"buildid"		"12168279"
+				"buildid"		"12284544"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694518757"
-			}
-			"d13_preview"
-			{
-				"buildid"		"11075085"
-				"pwdrequired"		"1"
-				"timeupdated"		"1682347878"
-			}
-			"d13_preview_stable"
-			{
-				"buildid"		"10651692"
-				"pwdrequired"		"1"
-				"timeupdated"		"1678090283"
+				"timeupdated"		"1695722684"
 			}
 			"d13_qa_temp"
 			{
-				"buildid"		"11926054"
+				"buildid"		"12223430"
 				"pwdrequired"		"1"
-				"timeupdated"		"1692080752"
-			}
-			"d13_qa_test_task"
-			{
-				"buildid"		"10654187"
-				"pwdrequired"		"1"
-				"timeupdated"		"1677850276"
+				"timeupdated"		"1695114089"
 			}
 			"d13_release_test"
 			{
@@ -872,9 +730,9 @@
 			}
 			"d13_test"
 			{
-				"buildid"		"12173575"
+				"buildid"		"12339552"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694564071"
+				"timeupdated"		"1696292078"
 			}
 			"era_dlc"
 			{
@@ -882,29 +740,11 @@
 				"pwdrequired"		"1"
 				"timeupdated"		"1693574446"
 			}
-			"focus_external_2"
-			{
-				"buildid"		"11457396"
-				"pwdrequired"		"1"
-				"timeupdated"		"1686663510"
-			}
-			"focus_external_partners"
-			{
-				"buildid"		"11724464"
-				"pwdrequired"		"1"
-				"timeupdated"		"1690381385"
-			}
-			"focus_hardwre_test_july"
-			{
-				"buildid"		"11615505"
-				"pwdrequired"		"1"
-				"timeupdated"		"1688565664"
-			}
 			"focus_lqa"
 			{
-				"buildid"		"11664845"
+				"buildid"		"12223430"
 				"pwdrequired"		"1"
-				"timeupdated"		"1689001826"
+				"timeupdated"		"1695648579"
 			}
 			"focus_playtest"
 			{
@@ -912,29 +752,23 @@
 				"pwdrequired"		"1"
 				"timeupdated"		"1686146728"
 			}
-			"focus_preview_build"
-			{
-				"buildid"		"10651692"
-				"pwdrequired"		"1"
-				"timeupdated"		"1678097522"
-			}
 			"focus_qa_external"
 			{
-				"buildid"		"11664845"
+				"buildid"		"12284544"
 				"pwdrequired"		"1"
-				"timeupdated"		"1688997202"
+				"timeupdated"		"1695828823"
 			}
 			"patches_latest"
 			{
-				"buildid"		"12174233"
+				"buildid"		"12340046"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694571367"
+				"timeupdated"		"1696297468"
 			}
 			"qa_test"
 			{
-				"buildid"		"12132323"
+				"buildid"		"12227267"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694499784"
+				"timeupdated"		"1695223905"
 			}
 			"release_candidate"
 			{
@@ -944,9 +778,9 @@
 			}
 			"weekly_build"
 			{
-				"buildid"		"11960365"
+				"buildid"		"12284544"
 				"pwdrequired"		"1"
-				"timeupdated"		"1692367802"
+				"timeupdated"		"1695730794"
 			}
 			"weekly_build_unstable"
 			{
@@ -956,9 +790,9 @@
 			}
 			"weekly_build_unstable_2"
 			{
-				"buildid"		"12168279"
+				"buildid"		"12313043"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694525503"
+				"timeupdated"		"1695993787"
 			}
 		}
 	}
