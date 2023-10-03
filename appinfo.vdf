@@ -1,0 +1,589 @@
+"appinfo"
+{
+	"appid"		"1072190"
+	"common"
+	{
+		"name"		"Crossfire: Legion"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"logo"		"b72b0fb89825241f7c391f3585ce9bb137a4cf53"
+		"logo_small"		"b72b0fb89825241f7c391f3585ce9bb137a4cf53_thumb"
+		"clienticon"		"12bdae7548005cbe25da0fb090c8201994f18589"
+		"clienttga"		"fd7788927587ad305b1ec9639e6b9baaa0136591"
+		"icon"		"3939fa69850d9f4b1d8fba8fbc6ac3d2f515ab5a"
+		"releasestate"		"released"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1072190_eula_0"
+				"name"		"Crossfire: Legion EULA"
+				"url"		"https://store.steampowered.com//eula/1072190_eula_0"
+				"version"		"1"
+			}
+		}
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"polish"		"1"
+		}
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1662076800"
+			"tested_build_id"		"8839206"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+				"proton_compat_config"		"nomfdxgiman,"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"21.395348837209355"
+				"height_pct"		"54.55948705770601"
+			}
+		}
+		"store_asset_mtime"		"1679667493"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Blackbird Interactive"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Prime Matter"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Crossfire: Legion"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1670518860"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1072190"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"1676"
+			"2"		"1775"
+			"3"		"5851"
+			"4"		"6730"
+			"5"		"1723"
+			"6"		"5055"
+			"7"		"3813"
+			"8"		"7332"
+			"9"		"8945"
+			"10"		"1708"
+			"11"		"3859"
+			"12"		"4295"
+			"13"		"4684"
+			"14"		"1678"
+			"15"		"3843"
+			"16"		"4182"
+			"17"		"19"
+			"18"		"3993"
+			"19"		"1685"
+		}
+		"review_score"		"5"
+		"review_percentage"		"61"
+	}
+	"extended"
+	{
+		"developer"		"Blackbird Interactive"
+		"publisher"		"Prime Matter"
+		"homepage"		"https://crossfire-legion.com"
+	}
+	"config"
+	{
+		"installdir"		"Crossfire Legion (Demo)"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Crossfire_Legion.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Run Orca"
+				}
+				"description"		"Run Orca"
+			}
+			"8"
+			{
+				"executable"		"Crossfire_Legion.exe"
+				"arguments"		"-MapEd"
+				"type"		"editor"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Level Editor"
+				}
+				"description"		"Level Editor"
+			}
+		}
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"1072191"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6413628296635844783"
+					"size"		"7814079336"
+					"download"		"7240144256"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"bbi_demo"
+				{
+					"gid"		"1CBDBE423C7FD89477195656D2ED2C82"
+					"size"		"4CC0B6183349DA3B21D50EE5225503BC"
+					"download"		"A1CAD9B600FD949A978B55908B556864"
+				}
+				"bbi_dev"
+				{
+					"gid"		"2C100E6055CA580E7725C244B800176A"
+					"size"		"4BBFBBF7D9502ACA8A77F9365F3FCDEB"
+					"download"		"0CB6328F3E0FCB6A7ABC94D6B25403C3"
+				}
+				"bbi_qa_beta"
+				{
+					"gid"		"590711A6AD86C69DBB8C55BB4D32D5BC"
+					"size"		"D4F4D1F773860EA2C7BA025B64F6F68A"
+					"download"		"CD77ED0580A0E52D2A7FE4FCE41F85BE"
+				}
+				"content_creator"
+				{
+					"gid"		"5BB418A12F60E2E6E6424DD661BA6BF2"
+					"size"		"1EAFAAB07DB0C7E5BE157F8AE070BF68"
+					"download"		"D343B5B320077633B4C7992840227700"
+				}
+				"ds_fallback"
+				{
+					"gid"		"EF39EC6A026D38C90B900A78FA4FFAAD"
+					"size"		"32A8AB046AB5B4FC796692700CC83C58"
+					"download"		"32A8AB046AB5B4FC796692700CC83C58"
+				}
+				"ds_testing"
+				{
+					"gid"		"A18F21A734A5C3293999D30B4144E336"
+					"size"		"549FA816E614D6251705443BB09043F2"
+					"download"		"CE2AD51DE99B381CB19B76882A1F5285"
+				}
+				"ds_testing_compat"
+				{
+					"gid"		"F25D026A9F61C07BADAEA75DF5CC3F2B"
+					"size"		"011010E1BAEBF564D311B197EA7AE8C4"
+					"download"		"C8CF36C1472D6F1FCFDA1E28F9220FD5"
+				}
+				"ds_testing_demo"
+				{
+					"gid"		"ABD99F971818094EFB8101F08A448ED0"
+					"size"		"EAB9AB864E804E33AF877D3941B4ECC8"
+					"download"		"E50C450F64A09255E9B2FED58CCADEC0"
+				}
+				"ds_testing_earlyaccess"
+				{
+					"gid"		"DA1611EE8CA334F19AC9BCB5CEDAE2E8"
+					"size"		"F802E487669C366AF15720DDD324DBE2"
+					"download"		"8D61CBFD7D81B3D9BF48C60D0C3BAE51"
+				}
+				"external_qa"
+				{
+					"gid"		"FDD4264B1AB74CDDD678299B195A6864"
+					"size"		"053682EA601339029828B7471817526B"
+					"download"		"0A2A638E7F680F0CE6CD246059177CFE"
+				}
+				"external_qa_beta"
+				{
+					"gid"		"0CB8EB1C46ACF014A621C3BC36FCF8B1"
+					"size"		"3B3B33F671640A05E34A7C06E90374B6"
+					"download"		"2D2A6072529A01C7AFDA769D7E1EBDEB"
+				}
+				"influencer_branch"
+				{
+					"gid"		"486A001F2C0F4020B03FAC87589CF718"
+					"size"		"0F664A6655C925637A37F5AABF9538B2"
+					"download"		"896E34DB5F30369A17F40A13A79C1B05"
+				}
+				"km_external_testing"
+				{
+					"gid"		"C3383B759A75254114FDC02CEAE3B21D"
+					"size"		"0E190BBF317607047160CF1994452770"
+					"download"		"AA91759432AE13FB8EC692616AF1B060"
+				}
+				"passwordprotected"
+				{
+					"gid"		"A2817367D0EF4445DF2D9A60C56911B3"
+					"size"		"543325D901279182E42AB09810BE6EAC"
+					"download"		"4D7EED77CD3CF98C14E14FAB82E736B1"
+				}
+				"press_branch"
+				{
+					"gid"		"BD12932544DC8DF4F3B156C140F67FF4"
+					"size"		"A72833B674569BA302B2A74406FF84C3"
+					"download"		"D6665F4D9E8F143CEB0F54A32A57D32E"
+				}
+				"publisherbranch1"
+				{
+					"gid"		"03F913E7CDBCBF0F49CED69AC52C4226"
+					"size"		"2815F1D149758102224B1C070A212B09"
+					"download"		"61B6955150CF1B66EF20FB52B6E28DFF"
+				}
+				"publisherbranch13"
+				{
+					"gid"		"6820431F4719534E62006BD294A90D96"
+					"size"		"03439895BE63453F67EE109B5D5BA4CF"
+					"download"		"925BCC567E1A3D13E8C817A215B273E8"
+				}
+				"publisherbranch3"
+				{
+					"gid"		"D41F38C8CF1A4E0D8847745527D96264"
+					"size"		"38F8177EFB45475F8FA93FAE2AFB0D20"
+					"download"		"E8FC39CEDC315E7D856BFC63B5D7D73F"
+				}
+				"publisherbranch5"
+				{
+					"gid"		"1EEF33FB07C7C9511E17E2072ADFE5CE"
+					"size"		"C0D971392148D45F2B743833878494A3"
+					"download"		"E2646E0804F635883525E6DD869FCF42"
+				}
+				"smilegate"
+				{
+					"gid"		"6ADDF9EFF6646F46A0755DC6F7E112D8"
+					"size"		"EB2DEAEC9C18E815568F753E1E333D04"
+					"download"		"653AF12CD8BA9F1D467A56F99977DBD8"
+				}
+				"smilegate_debug"
+				{
+					"gid"		"C9CBA33C2F642F0CC2570DC4FC1A4B6A"
+					"size"		"D2E634DA4AFE0B0C62447FFD12EC9705"
+					"download"		"60DFFF5EB24DBD89459E11F5FD0075E5"
+				}
+				"smilegate_perf"
+				{
+					"gid"		"4EE72AC00FC84B5184A6E23A228DBA1F"
+					"size"		"56BCF228E5B6D549AAE575107C84398F"
+					"download"		"20E2FB8BFD0BD11047E2DC920BE4DAC1"
+				}
+			}
+		}
+		"workshopdepot"		"1072190"
+		"branches"
+		{
+			"ds_testing_compat"
+			{
+				"buildid"		"8372031"
+				"pwdrequired"		"1"
+				"timeupdated"		"1647389765"
+			}
+			"public"
+			{
+				"buildid"		"12017127"
+				"timeupdated"		"1693238663"
+			}
+			"bbi_demo"
+			{
+				"buildid"		"11410490"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686109978"
+			}
+			"bbi_dev"
+			{
+				"buildid"		"12027609"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692923289"
+			}
+			"bbi_qa_beta"
+			{
+				"buildid"		"12332256"
+				"pwdrequired"		"1"
+				"timeupdated"		"1696230024"
+			}
+			"content_creator"
+			{
+				"buildid"		"9168018"
+				"pwdrequired"		"1"
+				"timeupdated"		"1658492042"
+			}
+			"ds_fallback"
+			{
+				"buildid"		"3826726"
+				"pwdrequired"		"1"
+				"timeupdated"		"1648626820"
+			}
+			"ds_testing"
+			{
+				"buildid"		"10951719"
+				"pwdrequired"		"1"
+				"timeupdated"		"1680832334"
+			}
+			"ds_testing_demo"
+			{
+				"buildid"		"8378891"
+				"pwdrequired"		"1"
+				"timeupdated"		"1647393164"
+			}
+			"ds_testing_earlyaccess"
+			{
+				"buildid"		"12251263"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695336125"
+			}
+			"external_qa"
+			{
+				"buildid"		"12223997"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695116982"
+			}
+			"external_qa_beta"
+			{
+				"buildid"		"12235349"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695207982"
+			}
+			"influencer_branch"
+			{
+				"buildid"		"10033590"
+				"pwdrequired"		"1"
+				"timeupdated"		"1669709528"
+			}
+			"km_external_testing"
+			{
+				"buildid"		"9847954"
+				"pwdrequired"		"1"
+				"timeupdated"		"1667489304"
+			}
+			"passwordprotected"
+			{
+				"buildid"		"11111283"
+				"pwdrequired"		"1"
+				"timeupdated"		"1682656472"
+			}
+			"press_branch"
+			{
+				"buildid"		"10033590"
+				"pwdrequired"		"1"
+				"timeupdated"		"1669709541"
+			}
+			"publisherbranch1"
+			{
+				"buildid"		"7891677"
+				"pwdrequired"		"1"
+				"timeupdated"		"1644240801"
+			}
+			"publisherbranch13"
+			{
+				"buildid"		"10662390"
+				"pwdrequired"		"1"
+				"timeupdated"		"1677712824"
+			}
+			"publisherbranch3"
+			{
+				"buildid"		"6254083"
+				"pwdrequired"		"1"
+				"timeupdated"		"1615404976"
+			}
+			"publisherbranch5"
+			{
+				"buildid"		"7108606"
+				"pwdrequired"		"1"
+				"timeupdated"		"1631061972"
+			}
+			"smilegate"
+			{
+				"buildid"		"12313176"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695955620"
+			}
+			"smilegate_debug"
+			{
+				"buildid"		"12313335"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695957357"
+			}
+			"smilegate_perf"
+			{
+				"buildid"		"4875032"
+				"pwdrequired"		"1"
+				"timeupdated"		"1592333247"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1048576000"
+		"maxnumfiles"		"10000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"Save"
+				"pattern"		"*.Save"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
