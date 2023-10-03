@@ -1,0 +1,224 @@
+"appinfo"
+{
+	"appid"		"1289440"
+	"common"
+	{
+		"name"		"Queen's Coast Casino - Uncut"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"52175bee878a72a2262826aed3e30cac7a1f4460"
+		"logo_small"		"52175bee878a72a2262826aed3e30cac7a1f4460_thumb"
+		"clienticon"		"01cc2da482b2bfca83ff4cb26c154368e3fd98b2"
+		"clienttga"		"9e1ec1ea4c074ffcc05da51833e6d8fe6e3b4113"
+		"icon"		"1a15488b15bc7e839b111ad07c3c76f85f578931"
+		"clienticns"		"816975ad9d45c0095a00ff5612bfb3be70e5800a"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"3"
+			"2"		"5"
+			"3"		"4"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"restricted_countries"		"CN,DE"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1586797940"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Witching Hour Entertainment LLC"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"LarsMidnatt"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Witching Hour Entertainment LLC"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1544688000"
+		"steam_release_date"		"1588759399"
+		"community_hub_visible"		"1"
+		"gameid"		"1289440"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"6650"
+			"2"		"12095"
+			"3"		"4182"
+			"4"		"1666"
+			"5"		"8093"
+		}
+		"review_score"		"5"
+		"review_percentage"		"62"
+	}
+	"extended"
+	{
+		"developer"		"Witching Hour Entertainment LLC"
+		"publisher"		"Witching Hour Entertainment LLC"
+		"listofdlc"		"1570530"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Queen's Coast Casino - Uncut"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Game.exe"
+				"arguments"		"--in-process-gpu"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Game.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1289441"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8546101879320011160"
+					"size"		"213577256"
+					"download"		"148750192"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devonly"
+				{
+					"gid"		"8C3749042DAC0DE6C422B66728D1E9DF"
+					"size"		"807D2A409968873C06BA58064122FB34"
+					"download"		"FECFD72276BD2DF821F57850E7C2B04D"
+				}
+			}
+		}
+		"1289442"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4561995857936653355"
+					"size"		"225749346"
+					"download"		"148708000"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devonly"
+				{
+					"gid"		"651D8023E85ECA7C2B928FB3D91A8F88"
+					"size"		"9B75D0F1C66C4935CBF627E90B11A8DE"
+					"download"		"73C3BE1E7FF1FF48B9FD71F4CCB94B12"
+				}
+			}
+		}
+		"1570530"
+		{
+			"dlcappid"		"1570530"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3651894567141849499"
+					"size"		"64360943"
+					"download"		"62596400"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devonly"
+				{
+					"gid"		"AFBAA3B504C6EBE9FD5DA8FDE44E537A"
+					"size"		"A705D4D4E104AF129B603DB6E685C6A3"
+					"download"		"AECCE12A4A219CD2CF70322D2079BCC3"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6331769"
+				"timeupdated"		"1614889769"
+			}
+			"devonly"
+			{
+				"buildid"		"6331769"
+				"pwdrequired"		"1"
+				"timeupdated"		"1614887490"
+			}
+		}
+	}
+}
