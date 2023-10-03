@@ -1,0 +1,234 @@
+"appinfo"
+{
+	"appid"		"1127540"
+	"common"
+	{
+		"name"		"Eden's Ritter: Paladins of Ecstasy"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"de3d1bb8025956e87a5eca960a9537a78fa7c5ac"
+		"clienttga"		"36bba04519ddc0c3f58ba42d4315942a90de96f0"
+		"icon"		"25b742210ef3caee1e6d32974e1c82bb9a2fc175"
+		"logo"		"f9800c29947296e9d2ad1311674cf0dba52b6da0"
+		"logo_small"		"f9800c29947296e9d2ad1311674cf0dba52b6da0_thumb"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"2"
+			"2"		"3"
+			"3"		"5"
+			"4"		"4"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"has_adult_content_violence"		"1"
+		"restricted_countries"		"CN"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"76.21705058180953"
+			}
+		}
+		"store_asset_mtime"		"1685169607"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Waffle"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Shiravune"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Shiravune"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1596178931"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1127540"
+		"store_tags"
+		{
+			"0"		"3799"
+			"1"		"4085"
+			"2"		"12095"
+			"3"		"4604"
+			"4"		"4172"
+			"5"		"21"
+			"6"		"9541"
+			"7"		"6650"
+			"8"		"4057"
+			"9"		"4046"
+			"10"		"4342"
+			"11"		"180368"
+			"12"		"6971"
+			"13"		"1667"
+			"14"		"1684"
+			"15"		"4345"
+			"16"		"4667"
+			"17"		"3871"
+			"18"		"7208"
+			"19"		"11014"
+		}
+		"review_score"		"8"
+		"review_percentage"		"87"
+	}
+	"extended"
+	{
+		"developer"		"Waffle"
+		"publisher"		"Shiravune"
+		"homepage"		"https://shiravune.com"
+	}
+	"config"
+	{
+		"installdir"		"Eden's Ritter - Paladins of Ecstasy"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"er_paladins.exe"
+				"type"		"default"
+			}
+			"1"
+			{
+				"executable"		"er_paladins.exe"
+				"arguments"		"--noachieve"
+				"description"		"(Achievements disabled)"
+				"type"		"option1"
+			}
+		}
+	}
+	"depots"
+	{
+		"228982"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1127541"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4916416804302626973"
+					"size"		"3617448796"
+					"download"		"3305224128"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"1CC3C78F146AB8E0C9BFC614AB0E3C46"
+					"size"		"8B319555AA1F9418BC43ED96C7F7EDF8"
+					"download"		"BFB6861F6C9F9C50D0758511995D0801"
+				}
+				"beta"
+				{
+					"gid"		"E2BB7E4FC01F64BEC88A4937D9E09E18"
+					"size"		"232ED64DFF5710D6B050CC96E1BC3745"
+					"download"		"CF80778C3C7A14ECE5AFAE7A399B65BD"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5344462"
+				"timeupdated"		"1595991916"
+			}
+			"alpha"
+			{
+				"buildid"		"5344460"
+				"pwdrequired"		"1"
+				"timeupdated"		"1595991784"
+			}
+			"beta"
+			{
+				"buildid"		"5344462"
+				"pwdrequired"		"1"
+				"timeupdated"		"1595991830"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"500000000"
+		"maxnumfiles"		"300"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"waffle/Eden's Ritter - Paladins of Ecstasy"
+				"pattern"		"*"
+				"recursive"		"1"
+			}
+		}
+	}
+}
