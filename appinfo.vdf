@@ -1,0 +1,424 @@
+"appinfo"
+{
+	"appid"		"1590730"
+	"common"
+	{
+		"name"		"Helping the Hotties"
+		"type"		"Game"
+		"icon"		"0ea1e99666f990a49b46f23905ff95d5efaff2a7"
+		"clienttga"		"d2a4fb2552ded42861c1dfeb99ef1b0901a0aa95"
+		"clienticon"		"d98307c98104b4b7bb9273a0637d5a9abdc1a74d"
+		"logo"		"72ded84204f6d9d9e4e7b462c046199c8cc716a0"
+		"logo_small"		"72ded84204f6d9d9e4e7b462c046199c8cc716a0_thumb"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64,macosapplesilicon"
+		"clienticns"		"ebcbe4dc56a2f6d4072da402591402147c777d9b"
+		"linuxclienticon"		"e65f9dd3da9dc79f83050c46c5d802b795dc3206"
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+			"russian"		"1"
+			"turkish"		"1"
+		}
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"3"
+			"2"		"4"
+			"3"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"restricted_countries"		"CN,DE"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1660176000"
+			"tested_build_id"		"9098383"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"77.93256084684737"
+				"height_pct"		"82.1420090239848"
+			}
+		}
+		"store_asset_mtime"		"1693486576"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"xRed Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"xRed Games"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"3"
+			"4"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1693502411"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1590730"
+		"store_tags"
+		{
+			"0"		"12095"
+			"1"		"6650"
+			"2"		"5611"
+			"3"		"24904"
+			"4"		"3799"
+			"5"		"5984"
+			"6"		"1742"
+			"7"		"9130"
+			"8"		"4191"
+			"9"		"4175"
+			"10"		"4947"
+			"11"		"9551"
+			"12"		"4182"
+			"13"		"6426"
+			"14"		"6971"
+			"15"		"4486"
+			"16"		"4711"
+			"17"		"21"
+			"18"		"1719"
+			"19"		"492"
+		}
+		"review_score"		"8"
+		"review_percentage"		"82"
+	}
+	"extended"
+	{
+		"developer"		"xRed Games"
+		"publisher"		"xRed Games"
+		"homepage"		"https://xred.games"
+		"listofdlc"		"2233070,2483780"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Helping the Hotties"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"HelpingTheHotties.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"HelpingTheHotties.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"HelpingTheHotties.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigdetails"
+		{
+			"2784300581"
+			{
+				"controller_type"		"controller_neptune"
+				"enabled_branches"		"default"
+				"use_action_block"		"false"
+			}
+			"2860179455"
+			{
+				"controller_type"		"controller_neptune"
+				"enabled_branches"		"devs"
+				"use_action_block"		"false"
+			}
+		}
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"65535"
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"hasdepotsindlc"		"0"
+		"1590731"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6566888305096023384"
+					"size"		"5563474224"
+					"download"		"5337618016"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"8A16C400AF18B4080A70F2D994F6BFF3"
+					"size"		"0AA901EECB474F326956BA29EF991469"
+					"download"		"15DA1D695046626467FA6C3533113B57"
+				}
+				"alpha.1"
+				{
+					"gid"		"A5D30BF78A0608E11934D44D1D7A4714"
+					"size"		"FD65388019C4451024259615A04D1B5D"
+					"download"		"46324A6CD14ACBE99A213929E56975E2"
+				}
+				"devs"
+				{
+					"gid"		"990662291F6E6C555BAFDB687D84711C"
+					"size"		"C06F89C4A40A19B973D7058E0A23416E"
+					"download"		"26110899186C64C5340FF1A8E865317A"
+				}
+				"test"
+				{
+					"gid"		"E3D70BE32C48A593F76377350D2745B0"
+					"size"		"D602EC0E210057FB704B8C8310CE7EAE"
+					"download"		"4CFA8FD4200A27264D0724CE6E23C23A"
+				}
+			}
+		}
+		"2233070"
+		{
+			"dlcappid"		"2233070"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8357334979241539961"
+					"size"		"257450425"
+					"download"		"240366448"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"3516111D292E6E2BD151DEC81352CC67"
+					"size"		"6D149A8BAE7066E614EED7B6C7864D55"
+					"download"		"5FDADE5FA60690A9683E8B8E11F6E209"
+				}
+				"alpha.1"
+				{
+					"gid"		"6A143C0445E839050849B99D19F1AB55"
+					"size"		"6F6C944AB1A51E4C58D6A8570E5790ED"
+					"download"		"C0C30E9ECAD7D543D5AFE93C2CBFCC21"
+				}
+				"devs"
+				{
+					"gid"		"D1A184A23DE3D8B4FE9580B7D4E3375C"
+					"size"		"1236CA000A5978D46E3F9643F626B9E7"
+					"download"		"CC4062A260105037D50D7EB28FACFA0F"
+				}
+			}
+		}
+		"2483780"
+		{
+			"dlcappid"		"2483780"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6248102011905064150"
+					"size"		"22221610295"
+					"download"		"21677313440"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"D4E35F7A152C5EDFEE3352299A8E960E"
+					"size"		"34DD4A9B30FC97EB637B5E99920617FD"
+					"download"		"3611F96F9C2A17D265BAD01E66B6D108"
+				}
+				"devs"
+				{
+					"gid"		"31E3F959CA2E6C9CF651D99AC2DB0CAE"
+					"size"		"706E6B4E1D1C7E6DC51C9FACDE60E53F"
+					"download"		"7B258EF0DB30E297C78692622541F1E0"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12283304"
+				"timeupdated"		"1695715957"
+			}
+			"alpha"
+			{
+				"buildid"		"12104336"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693827666"
+			}
+			"alpha.1"
+			{
+				"buildid"		"11647274"
+				"pwdrequired"		"1"
+				"timeupdated"		"1688718691"
+			}
+			"devs"
+			{
+				"buildid"		"12283304"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695714602"
+			}
+			"test"
+			{
+				"buildid"		"9346815"
+				"pwdrequired"		"1"
+				"timeupdated"		"1660903207"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000000"
+		"maxnumfiles"		"1000"
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataRoaming"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacHome"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"RenPy/HelpingTheHotties-1591000312"
+						"replace"		"Library/RenPy/HelpingTheHotties-1591000312"
+					}
+				}
+			}
+			"1"
+			{
+				"root"		"WinAppDataRoaming"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"gameinstall"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"RenPy/HelpingTheHotties-1591000312"
+						"replace"		"renpy/HelpingTheHotties-1591000312"
+					}
+				}
+			}
+		}
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"RenPy/HelpingTheHotties-1591000312"
+				"pattern"		"*"
+			}
+			"1"
+			{
+				"root"		"gameinstall"
+				"path"		"game/saves"
+				"pattern"		"*"
+			}
+		}
+	}
+}
