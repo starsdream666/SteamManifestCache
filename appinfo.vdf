@@ -1,0 +1,214 @@
+"appinfo"
+{
+	"appid"		"2351080"
+	"common"
+	{
+		"name"		"Magic Pussy: Chapter 1"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"d2fa45f910658a15a17cd5553cba30204af1f7be"
+		"clienttga"		"dc81b18cc4671433a2ca28516ac452c4c8f3c247"
+		"clienticon"		"dcacee8c6be06c27ddf47125e1789be8e9f3b56e"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"3"
+			"2"		"4"
+			"3"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"restricted_countries"		"CN,DE"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1683849600"
+			"tested_build_id"		"10983473"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_NativeResolutionNotSupported"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-1"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1680964560"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Taboo Tales 💘"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Taboo Tales 💘"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Taboo Tales 💘"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1680963540"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2351080"
+		"store_tags"
+		{
+			"0"		"12095"
+			"1"		"6650"
+			"2"		"4057"
+			"3"		"5611"
+			"4"		"1684"
+			"5"		"24904"
+			"6"		"122"
+			"7"		"1695"
+			"8"		"9551"
+			"9"		"21"
+			"10"		"4166"
+			"11"		"19"
+			"12"		"4231"
+			"13"		"4947"
+			"14"		"4106"
+			"15"		"4747"
+			"16"		"3799"
+			"17"		"4342"
+			"18"		"1742"
+			"19"		"1664"
+		}
+		"review_score"		"5"
+		"review_percentage"		"62"
+	}
+	"extended"
+	{
+		"developer"		"Taboo Tales 💘"
+		"publisher"		"Taboo Tales 💘"
+	}
+	"config"
+	{
+		"installdir"		"Magic Pussy Chapter 1"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Magic Pussy Chapter 1.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"2351081"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3996732226273369111"
+					"size"		"4755718599"
+					"download"		"3088080848"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10983473"
+				"timeupdated"		"1681287742"
+			}
+		}
+	}
+}
