@@ -6,7 +6,7 @@
 		"name"		"Molten Armor"
 		"type"		"Game"
 		"releasestate"		"released"
-		"oslist"		"windows,macos"
+		"oslist"		"windows"
 		"osarch"		""
 		"logo"		"f7fc8be59dbf57ede65f1a024c3ef2f0f67b2d37"
 		"logo_small"		"f7fc8be59dbf57ede65f1a024c3ef2f0f67b2d37_thumb"
@@ -20,6 +20,7 @@
 			"english"		"1"
 			"russian"		"1"
 		}
+		"osextended"		""
 		"metacritic_name"		"Molten Armor"
 		"small_capsule"
 		{
@@ -118,18 +119,21 @@
 	}
 	"config"
 	{
-		"installdir"		"Molten Armor"
+		"installdir"		"Molten_Armor"
 		"launch"
 		{
 			"0"
 			{
-				"executable"		"nw.exe"
-				"description"		"Launch"
-				"type"		"none"
+				"executable"		"MOLTEN_ARMOR.exe"
 				"config"
 				{
 					"oslist"		"windows"
 				}
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
 			}
 			"1"
 			{
@@ -181,9 +185,9 @@
 			{
 				"public"
 				{
-					"gid"		"4361029885971610669"
-					"size"		"937225045"
-					"download"		"850874784"
+					"gid"		"1374147910892416002"
+					"size"		"986016462"
+					"download"		"814894704"
 				}
 			}
 		}
@@ -241,8 +245,29 @@
 		{
 			"public"
 			{
-				"buildid"		"2226174"
-				"timeupdated"		"1508870009"
+				"buildid"		"12328166"
+				"timeupdated"		"1696148231"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"400000000"
+		"maxnumfiles"		"4000"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"MOLTEN_ARMOR"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
 			}
 		}
 	}
