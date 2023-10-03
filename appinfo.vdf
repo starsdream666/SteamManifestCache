@@ -1,0 +1,398 @@
+"appinfo"
+{
+	"appid"		"1539160"
+	"common"
+	{
+		"name"		"Horny Warp"
+		"type"		"Game"
+		"logo"		"4e88c8fb7734df2a4ad175c5a9ad29f788b35cef"
+		"logo_small"		"4e88c8fb7734df2a4ad175c5a9ad29f788b35cef_thumb"
+		"clienticon"		"86af4046ec51e36a8c3f511f8277eedf67aee778"
+		"clienttga"		"dc8fe569dac664f2091c16a2c0456933a48a5eaf"
+		"icon"		"3680a1d7c31b220c24d3da6f031e6c4a4afbd1bc"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64,macosapplesilicon"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"3"
+			"2"		"4"
+			"3"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"restricted_countries"		"CN,DE"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1678752000"
+			"tested_build_id"		"10603426"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"67.67441860465118"
+				"height_pct"		"82.67632391355971"
+			}
+		}
+		"store_asset_mtime"		"1675969083"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"IlluminatiGames"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"IlluminatiGames"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1676653220"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1539160"
+		"store_tags"
+		{
+			"0"		"12095"
+			"1"		"5611"
+			"2"		"9130"
+			"3"		"6650"
+			"4"		"24904"
+			"5"		"1684"
+			"6"		"1719"
+			"7"		"21"
+			"8"		"7332"
+			"9"		"3799"
+			"10"		"4136"
+			"11"		"4726"
+			"12"		"4085"
+			"13"		"1742"
+			"14"		"597"
+			"15"		"1773"
+			"16"		"3871"
+			"17"		"6815"
+			"18"		"9551"
+			"19"		"599"
+		}
+		"review_score"		"8"
+		"review_percentage"		"93"
+	}
+	"extended"
+	{
+		"developer"		"IlluminatiGames"
+		"publisher"		"IlluminatiGames"
+	}
+	"config"
+	{
+		"installdir"		"Horny Warp"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"HornyWarp.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Horny Warp.app"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Horny Warp.x86_64"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1539162"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"295475332887555599"
+					"size"		"1174946425"
+					"download"		"282039760"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"fixesbranch"
+				{
+					"gid"		"B23B6911732820EBF79C7285D97209A1"
+					"size"		"AE8EB1FA32B10A1C6C3CBF349186DD14"
+					"download"		"27218915699FAF809C7B807F53746E24"
+				}
+				"test"
+				{
+					"gid"		"CFBCD8D7C76566154C778A2D5A025F1C"
+					"size"		"F42E7B74C6E7AB2BC511FCBA1E587D37"
+					"download"		"B58CA18C5E194BA755A44AA70834A717"
+				}
+			}
+		}
+		"1539163"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1330686174656326893"
+					"size"		"1167251825"
+					"download"		"279579600"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"fixesbranch"
+				{
+					"gid"		"0B929FFA85AC6BFFC199BE21E1545F7C"
+					"size"		"59D0CBCED38C83B158141EB0DDB373C6"
+					"download"		"9244596312604E368756B7E52D505539"
+				}
+				"test"
+				{
+					"gid"		"007F51BA9230BBF7B0E5008F909A2743"
+					"size"		"83E4265723567E6C6B4E659044AE0B46"
+					"download"		"1B5E80F328369AA2BF6634906C0557F5"
+				}
+			}
+		}
+		"1539164"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3973457400884823138"
+					"size"		"1217481260"
+					"download"		"282903456"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"fixesbranch"
+				{
+					"gid"		"EC6BC400A8271C977BF2FA5CCF95D22F"
+					"size"		"B5F0C5B3F7D34A1A70D4550F53034BFC"
+					"download"		"E0A11B8C93A93FC997E4AF25C8D1F62A"
+				}
+				"test"
+				{
+					"gid"		"E4E97E71AF11B7975B942298230015BB"
+					"size"		"4B1D1E037AB2FCECFB599CDB3CF97920"
+					"download"		"B58E6F347201E214394835ED3DE25C0A"
+				}
+			}
+		}
+		"1539165"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"347294716111860911"
+					"size"		"1167585407"
+					"download"		"279246080"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"fixesbranch"
+				{
+					"gid"		"C00565887008DF8468D30CE171F320DD"
+					"size"		"B20FE857F98252F7B07999C8F5BFB8BE"
+					"download"		"E7598170862E2A6BB25C87169E0C0F70"
+				}
+				"test"
+				{
+					"gid"		"977677B18FAFEBA72E95A681DDDC53EC"
+					"size"		"603D4DFB3E15484EE957F2FE0582A175"
+					"download"		"C2D2B2F41988F6E8C4AF758250819E7C"
+				}
+			}
+		}
+		"1539166"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4593419087630958331"
+					"size"		"1170950431"
+					"download"		"281596032"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"fixesbranch"
+				{
+					"gid"		"E38E2D4913E98CA519DFDBB4624CECFD"
+					"size"		"AE66FACBED2376508158C2DF079D00B4"
+					"download"		"A45D3DE82748D009D05D9D400745648C"
+				}
+				"test"
+				{
+					"gid"		"85417FD3C3FBB507D46922603F2ECD80"
+					"size"		"A459E535677214ED6E4557DF1EE3DB59"
+					"download"		"CC480BDC72FA560E539F338C2B85E825"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12072431"
+				"timeupdated"		"1693430486"
+			}
+			"fixesbranch"
+			{
+				"buildid"		"10683147"
+				"pwdrequired"		"1"
+				"timeupdated"		"1677842774"
+			}
+			"test"
+			{
+				"buildid"		"12072431"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693429398"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"100"
+	}
+}
