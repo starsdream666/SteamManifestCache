@@ -1,0 +1,263 @@
+"appinfo"
+{
+	"appid"		"1455070"
+	"common"
+	{
+		"name"		"Countess in Crimson"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"87b9d4dfa505fb03665e067281a94e91082e8bb2"
+		"logo_small"		"87b9d4dfa505fb03665e067281a94e91082e8bb2_thumb"
+		"icon"		"9972b22a63abb0fc19013f16e699557e5511ac71"
+		"clienticon"		"9145fe16b43a362cda7ce5a3cd14d92ed33afdc2"
+		"clienttga"		"0883ba26c068ef5698256e34f97e6a8547d04318"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"2"
+			"2"		"3"
+			"3"		"5"
+			"4"		"4"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"has_adult_content_violence"		"1"
+		"restricted_countries"		"CN,DE"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1664841600"
+			"tested_build_id"		"8882303"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"92.1259842519685"
+				"height_pct"		"63.33862611586936"
+			}
+		}
+		"store_asset_mtime"		"1652388847"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Digital Seductions"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Digital Seductions"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1652907458"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1455070"
+		"store_tags"
+		{
+			"0"		"12095"
+			"1"		"6650"
+			"2"		"24904"
+			"3"		"5611"
+			"4"		"3799"
+			"5"		"21"
+			"6"		"1698"
+			"7"		"9551"
+			"8"		"4947"
+			"9"		"5716"
+			"10"		"1667"
+			"11"		"1742"
+			"12"		"6971"
+			"13"		"4182"
+			"14"		"3871"
+			"15"		"492"
+			"16"		"3952"
+			"17"		"6426"
+			"18"		"9541"
+			"19"		"5094"
+		}
+		"review_score"		"8"
+		"review_percentage"		"84"
+	}
+	"extended"
+	{
+		"developer"		"Digital Seductions"
+		"publisher"		"Digital Seductions"
+		"homepage"		"https://digitalseductions.com"
+	}
+	"config"
+	{
+		"installdir"		"Countess in Crimson"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Countess in Crimson.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1455071"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"902857280299921466"
+					"size"		"7965737609"
+					"download"		"7925447968"
+				}
+				"legacy"
+				{
+					"gid"		"3903466230063962681"
+					"size"		"7129674114"
+					"download"		"7083239744"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"D862376AF62C30A5C2B8F8FCD966F56E"
+					"size"		"00A115360B8A2E87368D82411BB175E5"
+					"download"		"4FBF019A9053FA919197DB1E483ADA08"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12265605"
+				"timeupdated"		"1695502179"
+			}
+			"legacy"
+			{
+				"buildid"		"11265746"
+				"description"		"previous stable version"
+				"timeupdated"		"1695498874"
+			}
+			"test"
+			{
+				"buildid"		"12265605"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695506257"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"500"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"Digital Seductions/Countess in Crimson/Savegames/"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"1"
+			{
+				"root"		"gameinstall"
+				"path"		"scenes"
+				"pattern"		"bc.x"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
