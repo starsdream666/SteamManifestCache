@@ -1,0 +1,169 @@
+"appinfo"
+{
+	"appid"		"2290270"
+	"common"
+	{
+		"name"		"Habroxia"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"f9cd690eebc8d22b576d441c64a326d27b66c20f"
+		"clienticon"		"f9ca7b4545bfaee90d0ca09860bc58802314f34d"
+		"clienttga"		"8db31e764678c962b3a3da5327db6021ae467d88"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50.583022404657115"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1693243887"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Lillymo Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Lillymo Games"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Lillymo Games"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Habroxia"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+			"category_25"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1696392065"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2290270"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"1773"
+			"2"		"1774"
+			"3"		"4255"
+			"4"		"3798"
+			"5"		"4758"
+			"6"		"3871"
+			"7"		"3964"
+			"8"		"6691"
+			"9"		"4004"
+			"10"		"492"
+			"11"		"1755"
+			"12"		"7481"
+			"13"		"7208"
+			"14"		"5154"
+			"15"		"4182"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Lillymo Games"
+		"publisher"		"Lillymo Games"
+		"homepage"		"https://www.lillymogames.com"
+	}
+	"config"
+	{
+		"installdir"		"Habroxia"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Habroxia.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"65535"
+	}
+	"depots"
+	{
+		"2290271"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"764991355691168450"
+					"size"		"29345846"
+					"download"		"15795536"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12349100"
+				"timeupdated"		"1696380263"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"Habroxia/habroxia_save/"
+				"pattern"		"*.sav"
+				"recursive"		"1"
+			}
+		}
+	}
+}
