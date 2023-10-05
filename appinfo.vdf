@@ -101,6 +101,16 @@
 				"supported"		"true"
 				"subtitles"		"true"
 			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
 		}
 		"steam_release_date"		"1625886100"
 		"community_visible_stats"		"1"
@@ -153,13 +163,14 @@
 	}
 	"depots"
 	{
-		"baselanguages"		"english,schinese,japanese"
+		"baselanguages"		"english,koreana,schinese,tchinese,japanese"
 		"hasdepotsindlc"		"1"
 		"1648591"
 		{
 			"config"
 			{
 				"oslist"		"windows"
+				"language"		"schinese"
 			}
 			"manifests"
 			{
@@ -182,9 +193,57 @@
 			{
 				"public"
 				{
-					"gid"		"1475839266570130913"
-					"size"		"160417831"
-					"download"		"121261888"
+					"gid"		"2275811504042260525"
+					"size"		"172767840"
+					"download"		"115453376"
+				}
+			}
+		}
+		"1648593"
+		{
+			"config"
+			{
+				"language"		"english"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4701998677547470840"
+					"size"		"172788938"
+					"download"		"115473888"
+				}
+			}
+		}
+		"1648594"
+		{
+			"config"
+			{
+				"language"		"tchinese"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4572136291347730573"
+					"size"		"172788425"
+					"download"		"115473488"
+				}
+			}
+		}
+		"1648595"
+		{
+			"config"
+			{
+				"language"		"koreana"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8381971968087360734"
+					"size"		"172788425"
+					"download"		"115473488"
 				}
 			}
 		}
@@ -192,8 +251,8 @@
 		{
 			"public"
 			{
-				"buildid"		"7004940"
-				"timeupdated"		"1625831640"
+				"buildid"		"12362024"
+				"timeupdated"		"1696494505"
 			}
 		}
 	}
