@@ -7,6 +7,9 @@
 		"type"		"DLC"
 		"parent"		"620980"
 		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
@@ -77,9 +80,36 @@
 			{
 				"public"
 				{
+					"gid"		"7563679693983160416"
+					"size"		"13780592"
+					"download"		"11201104"
+				}
+				"legacy1.29.1_unity_ver2019.4.28f1"
+				{
 					"gid"		"5942991127262744665"
 					"size"		"11729182"
 					"download"		"11152432"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"1.32.0_preproduction"
+				{
+					"gid"		"D6EF10CE007CEB89F43EB7A124F95BE1"
+					"size"		"BA22ACAB36D69864865F1CA3B12B40B5"
+					"download"		"494CCE49D53CD97EE1D9320910667FD2"
+				}
+				"qaprivate"
+				{
+					"gid"		"932A4B4BC440370B36DAFC9F5E093B38"
+					"size"		"33E819F2336FE1F0A74CDD18D604C86C"
+					"download"		"8DB2C10BED85ABB7EF1283B5C7716F55"
+				}
+				"qaprivate2"
+				{
+					"gid"		"746BE329EED58FB5B362B7C3F8D5461C"
+					"size"		"FE337CCE144013AE0E8C158D5D3A9A71"
+					"download"		"38DCC4C3C87171AC5AD31C3E31334BE4"
 				}
 			}
 			"dlcappid"		"1375364"
@@ -88,8 +118,32 @@
 		{
 			"public"
 			{
+				"buildid"		"12240874"
+				"timeupdated"		"1696517271"
+			}
+			"1.32.0_preproduction"
+			{
+				"buildid"		"12240874"
+				"pwdrequired"		"1"
+				"timeupdated"		"1696329203"
+			}
+			"legacy1.29.1_unity_ver2019.4.28f1"
+			{
 				"buildid"		"5403032"
-				"timeupdated"		"1597242239"
+				"description"		"Legacy build"
+				"timeupdated"		"1696516817"
+			}
+			"qaprivate"
+			{
+				"buildid"		"12240874"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695377081"
+			}
+			"qaprivate2"
+			{
+				"buildid"		"12240874"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695911934"
 			}
 		}
 	}
