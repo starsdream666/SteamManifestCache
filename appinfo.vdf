@@ -6,8 +6,8 @@
 		"name"		"Bang-On Balls: Chronicles"
 		"type"		"Game"
 		"releasestate"		"released"
-		"clienttga"		"5b433ddf85e18fa306119c3835d10743f47f756c"
-		"clienticon"		"fdf54389cba92df80590dcf5f53207589b0832cf"
+		"clienttga"		"12f07dd20dfb4f7d13a0e3869671ba9d7d76c9af"
+		"clienticon"		"07409e0c4dc52ae7e49f463385239b4d3fa4bf6b"
 		"icon"		"13502e637302618baaf1b26bf4bcca9ee57c1133"
 		"oslist"		"windows"
 		"osarch"		""
@@ -19,6 +19,21 @@
 		{
 			"schinese"		"波兰球：编年史"
 			"tchinese"		"波蘭球：編年史"
+		}
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"polish"		"1"
+			"turkish"		"1"
+			"brazilian"		"1"
 		}
 		"steam_deck_compatibility"
 		{
@@ -88,7 +103,7 @@
 				"height_pct"		"73.95833333333331"
 			}
 		}
-		"store_asset_mtime"		"1694442806"
+		"store_asset_mtime"		"1696519954"
 		"associations"
 		{
 			"0"
@@ -103,6 +118,11 @@
 			}
 			"2"
 			{
+				"type"		"publisher"
+				"name"		"CouchPlay Interactive"
+			}
+			"3"
+			{
 				"type"		"franchise"
 				"name"		"Untold Tales"
 			}
@@ -114,7 +134,6 @@
 			"1"		"25"
 			"2"		"4"
 			"3"		"23"
-			"4"		"70"
 		}
 		"category"
 		{
@@ -186,32 +205,32 @@
 				"subtitles"		"true"
 			}
 		}
-		"steam_release_date"		"1614758719"
+		"steam_release_date"		"1696515676"
 		"community_visible_stats"		"1"
 		"community_hub_visible"		"1"
 		"gameid"		"1227650"
 		"store_tags"
 		{
-			"0"		"21"
-			"1"		"19"
-			"2"		"5395"
-			"3"		"4726"
-			"4"		"4182"
-			"5"		"5350"
-			"6"		"597"
-			"7"		"4305"
-			"8"		"1625"
-			"9"		"4195"
-			"10"		"4136"
-			"11"		"4166"
-			"12"		"3859"
-			"13"		"5652"
-			"14"		"10397"
-			"15"		"3834"
-			"16"		"6730"
-			"17"		"1719"
-			"18"		"4191"
-			"19"		"1773"
+			"0"		"3993"
+			"1"		"1685"
+			"2"		"3841"
+			"3"		"1695"
+			"4"		"3810"
+			"5"		"4182"
+			"6"		"21"
+			"7"		"19"
+			"8"		"3843"
+			"9"		"10816"
+			"10"		"3834"
+			"11"		"4136"
+			"12"		"3968"
+			"13"		"3859"
+			"14"		"5652"
+			"15"		"6730"
+			"16"		"1719"
+			"17"		"4191"
+			"18"		"5395"
+			"19"		"5350"
 		}
 		"review_score"		"9"
 		"review_percentage"		"97"
@@ -221,6 +240,8 @@
 		"developer"		"Exit Plan Games"
 		"publisher"		"Untold Tales"
 		"homepage"		"https://www.exitplangames.com/"
+		"listofdlc"		"2624940"
+		"dlcavailableonstore"		"1"
 	}
 	"config"
 	{
@@ -241,6 +262,7 @@
 	"depots"
 	{
 		"baselanguages"		"english"
+		"hasdepotsindlc"		"1"
 		"228988"
 		{
 			"config"
@@ -265,9 +287,9 @@
 			{
 				"public"
 				{
-					"gid"		"7034572298530315887"
-					"size"		"4658890223"
-					"download"		"4177483728"
+					"gid"		"598189203991363742"
+					"size"		"4376487695"
+					"download"		"4000127680"
 				}
 			}
 			"encryptedmanifests"
@@ -283,6 +305,18 @@
 					"gid"		"AD29F5A82B98983D061CF438C5A30F21"
 					"size"		"0454EC7C45ED28F9F810F056A9420B4F"
 					"download"		"7ACE50CA0281A395125F309C5953F48E"
+				}
+				"pre-release_version_cn"
+				{
+					"gid"		"80FAAB9DEFC8AFE6E616634D6FEE1811"
+					"size"		"BB31869E0C6FE114DC1AFE4E9FD0B32E"
+					"download"		"4A98213CF628B535576CA1AD88C51FEE"
+				}
+				"pre_release"
+				{
+					"gid"		"793236C2102C1AB603360D9D8CBB62A5"
+					"size"		"9A4CAECDBCC3A5460123D89F48EEAF63"
+					"download"		"5332D0B26F353314E8E5A5E415D4B465"
 				}
 				"qatest"
 				{
@@ -306,12 +340,33 @@
 				"osarch"		"64"
 			}
 		}
+		"1227653"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7294809779674063414"
+					"size"		"4376504335"
+					"download"		"3998388528"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"pre-release_version_cn"
+				{
+					"gid"		"F27436A3C4F955EF5473FD53B1CDB396"
+					"size"		"4526B825DFFC07E46632A7B03A8EB8C5"
+					"download"		"B213A4672A6EF01255E3EE89BF387113"
+				}
+			}
+		}
 		"branches"
 		{
 			"public"
 			{
-				"buildid"		"11413125"
-				"timeupdated"		"1686135418"
+				"buildid"		"12354685"
+				"timeupdated"		"1696515125"
 			}
 			"demo"
 			{
@@ -324,6 +379,18 @@
 				"buildid"		"12051320"
 				"pwdrequired"		"1"
 				"timeupdated"		"1693301529"
+			}
+			"pre-release_version_cn"
+			{
+				"buildid"		"12335129"
+				"pwdrequired"		"1"
+				"timeupdated"		"1696254140"
+			}
+			"pre_release"
+			{
+				"buildid"		"12191328"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694715388"
 			}
 			"qatest"
 			{
