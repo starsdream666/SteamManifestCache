@@ -116,7 +116,7 @@
 				"height_pct"		"59.55415438049049"
 			}
 		}
-		"store_asset_mtime"		"1692989321"
+		"store_asset_mtime"		"1696531798"
 		"associations"
 		{
 			"0"
@@ -325,6 +325,7 @@
 	}
 	"depots"
 	{
+		"workshopdepot"		"527230"
 		"527231"
 		{
 			"config"
@@ -607,13 +608,33 @@
 				}
 			}
 		}
-		"workshopdepot"		"527230"
+		"527234"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2513490718335574087"
+					"size"		"225677057"
+					"download"		"228240528"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"qa_branch_release"
+				{
+					"gid"		"114B265C717A6D957AF03CA4D62218C3"
+					"size"		"CB1412EC12F381F1B34919E5A8533C1D"
+					"download"		"5CADE9E8638C3D1C3BCA1C31ED8C2441"
+				}
+			}
+		}
 		"branches"
 		{
 			"public"
 			{
-				"buildid"		"8024379"
-				"timeupdated"		"1643137622"
+				"buildid"		"12367015"
+				"timeupdated"		"1696528472"
 			}
 			"32-bit"
 			{
@@ -652,9 +673,9 @@
 			}
 			"qa_branch_release"
 			{
-				"buildid"		"8024379"
+				"buildid"		"12364963"
 				"pwdrequired"		"1"
-				"timeupdated"		"1642199952"
+				"timeupdated"		"1696513659"
 			}
 			"submission"
 			{
