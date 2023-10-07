@@ -127,14 +127,17 @@
 			{
 				"supported"		"true"
 				"full_audio"		"true"
+				"subtitles"		"true"
 			}
 			"french"
 			{
 				"supported"		"true"
+				"subtitles"		"true"
 			}
 			"german"
 			{
 				"supported"		"true"
+				"subtitles"		"true"
 			}
 			"spanish"
 			{
@@ -143,10 +146,12 @@
 			"polish"
 			{
 				"supported"		"true"
+				"subtitles"		"true"
 			}
 			"russian"
 			{
 				"supported"		"true"
+				"subtitles"		"true"
 			}
 			"italian"
 			{
@@ -155,14 +160,17 @@
 			"japanese"
 			{
 				"supported"		"true"
+				"subtitles"		"true"
 			}
 			"koreana"
 			{
 				"supported"		"true"
+				"subtitles"		"true"
 			}
 			"schinese"
 			{
 				"supported"		"true"
+				"subtitles"		"true"
 			}
 		}
 		"steam_release_date"		"1673878005"
@@ -244,6 +252,7 @@
 	}
 	"depots"
 	{
+		"hasdepotsindlc"		"1"
 		"228988"
 		{
 			"config"
@@ -277,24 +286,52 @@
 			{
 				"public"
 				{
-					"gid"		"6341096718921402901"
-					"size"		"41345169313"
-					"download"		"40109795616"
+					"gid"		"7022029748879886039"
+					"size"		"44096830007"
+					"download"		"42837994512"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"demo"
 				{
-					"gid"		"7CED7F552A31408632CFADAFE982D9CE"
-					"size"		"131EACCD8D16FD5276171A596068247C"
-					"download"		"295866DCAEB4347FDFE58E4A155DB623"
+					"gid"		"5484904FC636B376EB9A6B1B6D0A3882"
+					"size"		"DF23098BEDB9EA8BA4951665F69ACA65"
+					"download"		"43194F8C83717642F6AD147F3A66C78F"
 				}
 				"development"
 				{
-					"gid"		"60A04A6856FC213B0B65A4C5EC1E5926"
-					"size"		"DA3AB19A54DEA5B2685CA993C6A287C2"
-					"download"		"F55A8DBEF4CE2D958998BEB2E878D563"
+					"gid"		"2A65B8F2B6ED96B1BD4E0A94ABE4870B"
+					"size"		"7C578D5C6C73C017FF1436FE81E7AE1B"
+					"download"		"37AEC7603C875704DAC4EF33AC5D51EB"
+				}
+			}
+		}
+		"2506150"
+		{
+			"dlcappid"		"2506150"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5221713082754418694"
+					"size"		"66827919"
+					"download"		"64379328"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"demo"
+				{
+					"gid"		"04977B180140CD991140DE9DCAF22103"
+					"size"		"6D738CC9DE734542206FD5DEB56C15B6"
+					"download"		"4A4CF506F2EC0348688F78DF5F5B8E31"
+				}
+				"development"
+				{
+					"gid"		"6727B0B8CC2DCD676477B5280F3E2183"
+					"size"		"947C39B74572DB084336D1236505F951"
+					"download"		"231D65266A9A09B97FE48F36443D9F60"
 				}
 			}
 		}
@@ -302,20 +339,20 @@
 		{
 			"public"
 			{
-				"buildid"		"11253682"
-				"timeupdated"		"1684331760"
+				"buildid"		"12366847"
+				"timeupdated"		"1696611157"
 			}
 			"demo"
 			{
-				"buildid"		"12090250"
+				"buildid"		"12366847"
 				"pwdrequired"		"1"
-				"timeupdated"		"1693583993"
+				"timeupdated"		"1696527257"
 			}
 			"development"
 			{
-				"buildid"		"12090250"
+				"buildid"		"12366847"
 				"pwdrequired"		"1"
-				"timeupdated"		"1693584001"
+				"timeupdated"		"1696527268"
 			}
 		}
 	}
