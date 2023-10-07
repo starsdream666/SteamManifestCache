@@ -225,59 +225,11 @@
 		{
 			"0"
 			{
-				"executable"		"Launch_BlazingSails.exe"
+				"executable"		"BlazingSails\\Binaries\\Win64\\BlazingSails-Win64-Shipping.exe"
 				"config"
 				{
 					"oslist"		"windows"
 				}
-			}
-			"1"
-			{
-				"executable"		"Launch_BlazingSails_With_Fix.exe"
-				"description_loc"
-				{
-					"english"		"Launch game with intel 10th and 11th gen CPU fix"
-				}
-				"description"		"Launch game with intel 10th and 11th gen CPU fix"
-			}
-			"3"
-			{
-				"executable"		"BlazingSails\\Binaries\\Win64\\BlazingSails-Win64-Shipping.exe"
-				"config"
-				{
-					"betakey"		"publictest"
-				}
-				"description_loc"
-				{
-					"english"		"Launch New Blazing Sails"
-				}
-				"description"		"Launch New Blazing Sails"
-			}
-			"4"
-			{
-				"executable"		"BlazingSails\\Binaries\\Win64\\BlazingSails-Win64-Shipping.exe"
-				"config"
-				{
-					"betakey"		"eostesting"
-				}
-				"description_loc"
-				{
-					"english"		"Launch EOS Blazing Sails"
-				}
-				"description"		"Launch EOS Blazing Sails"
-			}
-			"5"
-			{
-				"executable"		"BlazingSails\\Binaries\\Win64\\BlazingSails-Win64-Shipping.exe"
-				"config"
-				{
-					"betakey"		"preview"
-				}
-				"description_loc"
-				{
-					"english"		"Launch EOS Blazing Sails"
-				}
-				"description"		"Launch EOS Blazing Sails"
 			}
 		}
 	}
@@ -334,18 +286,18 @@
 			{
 				"public"
 				{
-					"gid"		"88109428883594882"
-					"size"		"4019200732"
-					"download"		"3669101104"
+					"gid"		"3691168532711112726"
+					"size"		"8486112979"
+					"download"		"5634965856"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"eostesting"
 				{
-					"gid"		"E49624271DCB2C9A87E0174409E2D691"
-					"size"		"832CC552667DFD371D4AD4D3E8058DA3"
-					"download"		"FC02C221BD783932C0F03AFBA6C73C14"
+					"gid"		"4EDC98FBB617E698B564CD4F90E0C4E8"
+					"size"		"E6758A9BBD38F8AA5A80A78836B9871F"
+					"download"		"F8150A57720D21B62E3A196D071DCE56"
 				}
 				"internaltesting"
 				{
@@ -361,9 +313,9 @@
 				}
 				"publictest"
 				{
-					"gid"		"DB1245E7AD40C523E558BDCDC0FC1216"
-					"size"		"7B3401FC24E820B7707DE47A5850E947"
-					"download"		"FA43A44D71251480285F0B3C67BC235C"
+					"gid"		"8A763A7457A0B7805CE19BA405AF0CD3"
+					"size"		"5CD47CC8DBF915740A9080D9F98E206D"
+					"download"		"023E5DCC089919C563348A4947DF3376"
 				}
 			}
 		}
@@ -371,14 +323,14 @@
 		{
 			"public"
 			{
-				"buildid"		"9407012"
-				"timeupdated"		"1662287005"
+				"buildid"		"12376763"
+				"timeupdated"		"1696611788"
 			}
 			"eostesting"
 			{
-				"buildid"		"12045665"
+				"buildid"		"12376763"
 				"pwdrequired"		"1"
-				"timeupdated"		"1693186332"
+				"timeupdated"		"1696611776"
 			}
 			"internaltesting"
 			{
@@ -394,9 +346,9 @@
 			}
 			"publictest"
 			{
-				"buildid"		"12045665"
+				"buildid"		"12376763"
 				"pwdrequired"		"1"
-				"timeupdated"		"1693185656"
+				"timeupdated"		"1696610815"
 			}
 		}
 	}
