@@ -151,6 +151,10 @@
 			{
 				"supported"		"true"
 			}
+			"polish"
+			{
+				"supported"		"true"
+			}
 		}
 		"steam_release_date"		"1692110782"
 		"workshop_visible"		"1"
@@ -180,7 +184,7 @@
 			"19"		"1695"
 		}
 		"review_score"		"8"
-		"review_percentage"		"86"
+		"review_percentage"		"85"
 	}
 	"extended"
 	{
@@ -256,9 +260,9 @@
 			{
 				"public"
 				{
-					"gid"		"4913895580476829667"
-					"size"		"1304659068"
-					"download"		"1173001088"
+					"gid"		"7622667261355721660"
+					"size"		"1374023942"
+					"download"		"1241823968"
 				}
 				"11146_stable"
 				{
@@ -278,56 +282,38 @@
 					"size"		"1301283270"
 					"download"		"1170341264"
 				}
-				"experimental"
+				"11391_stable"
 				{
 					"gid"		"4913895580476829667"
 					"size"		"1304659068"
 					"download"		"1173001088"
 				}
+				"experimental"
+				{
+					"gid"		"7622667261355721660"
+					"size"		"1374023942"
+					"download"		"1241823968"
+				}
 			}
 			"encryptedmanifests"
 			{
-				"alpha_test"
-				{
-					"gid"		"5850F7274D185187245C72D440937AA5"
-					"size"		"E13F55398EDD2BF4386C26B6B386F108"
-					"download"		"C03FD4207B5591B1F19E7656DA636451"
-				}
 				"demo"
 				{
 					"gid"		"67CD0EC59392753897C38DCD45C4966F"
 					"size"		"CC90D54272B8481C7D1E2A0F55146FD7"
 					"download"		"4C4382732BFC20763BD5BC50BAC1EB25"
 				}
-				"e_test"
+				"external"
 				{
-					"gid"		"C9C3B2949625CF8A05E8EA37E362DB00"
-					"size"		"1839BBBBAA7031B61D1340F5940D22ED"
-					"download"		"BB49142490445CEABB90FB2AE68EF16F"
-				}
-				"internal_test"
-				{
-					"gid"		"4070E8C60474D5EC35FCD55CC4C2BBC4"
-					"size"		"7A462A33D9AE190F88D05401ABC593D3"
-					"download"		"7A462A33D9AE190F88D05401ABC593D3"
-				}
-				"mathtest"
-				{
-					"gid"		"E17360AFD981C662722FFCE84D4CB935"
-					"size"		"502B3AB4789A1036C400464B7B8B3937"
-					"download"		"1F9AB15EECB568139F37132616230A84"
+					"gid"		"AFFF7D03C39ED0D1F1442E2535D10B2E"
+					"size"		"4B9A7EDBBA5B11AF22FE31C086958A7A"
+					"download"		"15F956B12305BD17563D716BF340DDC9"
 				}
 				"stage_dev"
 				{
-					"gid"		"2CE905BDBBBA2B777956A499442B5A24"
-					"size"		"0FA3E1AFEE3E65629F2A7302E566028D"
-					"download"		"68D22A38D04B56D5CF623950E31836B1"
-				}
-				"uiux"
-				{
-					"gid"		"222EB06A23E5BBC93CB347CC66AA6064"
-					"size"		"CD1FAD5E379FFBA74751B18FF01E0CE2"
-					"download"		"BDF40A27AD6647337765A8BDFC6FF362"
+					"gid"		"9EB73CB733D462F97D6AF969116076D2"
+					"size"		"54163304A97460D4E733ED8D961D4BC9"
+					"download"		"45068D8A6599D3AFFBAF1147F66AA91C"
 				}
 			}
 		}
@@ -336,8 +322,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12120243"
-				"timeupdated"		"1694243984"
+				"buildid"		"12377068"
+				"timeupdated"		"1696614171"
 			}
 			"11146_stable"
 			{
@@ -357,11 +343,11 @@
 				"description"		"Desynced Stable 0.1.11263"
 				"timeupdated"		"1694243924"
 			}
-			"alpha_test"
+			"11391_stable"
 			{
-				"buildid"		"10558366"
-				"pwdrequired"		"1"
-				"timeupdated"		"1687177945"
+				"buildid"		"12120243"
+				"description"		"Desynced Stable 0.1.11391"
+				"timeupdated"		"1696593120"
 			}
 			"demo"
 			{
@@ -369,41 +355,23 @@
 				"pwdrequired"		"1"
 				"timeupdated"		"1687786684"
 			}
-			"e_test"
-			{
-				"buildid"		"10627313"
-				"pwdrequired"		"1"
-				"timeupdated"		"1677224294"
-			}
 			"experimental"
 			{
-				"buildid"		"12120243"
+				"buildid"		"12377068"
 				"description"		"Experimental Branch, use at your own risk!"
-				"timeupdated"		"1693987172"
+				"timeupdated"		"1696613136"
 			}
-			"internal_test"
+			"external"
 			{
-				"buildid"		"5980042"
+				"buildid"		"12350426"
 				"pwdrequired"		"1"
-				"timeupdated"		"1689690422"
-			}
-			"mathtest"
-			{
-				"buildid"		"11734119"
-				"pwdrequired"		"1"
-				"timeupdated"		"1689739283"
+				"timeupdated"		"1696397309"
 			}
 			"stage_dev"
 			{
-				"buildid"		"12139501"
+				"buildid"		"12366274"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694158371"
-			}
-			"uiux"
-			{
-				"buildid"		"11884152"
-				"pwdrequired"		"1"
-				"timeupdated"		"1691414112"
+				"timeupdated"		"1696522418"
 			}
 		}
 	}
