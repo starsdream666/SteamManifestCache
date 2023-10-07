@@ -41,6 +41,9 @@
 		}
 		"community_hub_visible"		"1"
 		"gameid"		"1504860"
+		"store_tags"
+		{
+		}
 	}
 	"config"
 	{
@@ -68,6 +71,23 @@
 					"oslist"		"windows"
 					"osarch"		"64"
 					"betakey"		"2023test"
+				}
+				"description_loc"
+				{
+					"english"		"Development (no EAC)"
+				}
+				"description"		"Development (no EAC)"
+			}
+			"2"
+			{
+				"executable"		"HLL\\Binaries\\Win64\\HLL.exe"
+				"arguments"		"-noEAC"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"qa_testing"
 				}
 				"description_loc"
 				{
@@ -103,9 +123,9 @@
 			{
 				"public"
 				{
-					"gid"		"5943814048434022138"
-					"size"		"41800392455"
-					"download"		"18237764000"
+					"gid"		"2933190364167551453"
+					"size"		"42790551180"
+					"download"		"18427236880"
 				}
 			}
 			"encryptedmanifests"
@@ -118,9 +138,9 @@
 				}
 				"qa_testing"
 				{
-					"gid"		"C027AB15F7934AABFE24332042C8D194"
-					"size"		"E5CD0B351594766A2DDA567BCEEA44A3"
-					"download"		"69A79D74EFBDB0B2BC179C9F9ADAAD5C"
+					"gid"		"9721080E7B7B92E339465E35BAEC2204"
+					"size"		"452A0746CC464C421659F46327B709AD"
+					"download"		"1D61D9BCA22169EFA70638B49785100C"
 				}
 			}
 		}
@@ -129,8 +149,8 @@
 		{
 			"public"
 			{
-				"buildid"		"11963204"
-				"timeupdated"		"1692276683"
+				"buildid"		"12374031"
+				"timeupdated"		"1696599477"
 			}
 			"2023test"
 			{
@@ -140,9 +160,9 @@
 			}
 			"qa_testing"
 			{
-				"buildid"		"11963204"
+				"buildid"		"12374031"
 				"pwdrequired"		"1"
-				"timeupdated"		"1692262986"
+				"timeupdated"		"1696592815"
 			}
 		}
 	}
