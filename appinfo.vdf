@@ -288,24 +288,24 @@
 			{
 				"public"
 				{
-					"gid"		"4196258745106094533"
-					"size"		"5627114066"
-					"download"		"3957102176"
+					"gid"		"6529462904046784823"
+					"size"		"5627120210"
+					"download"		"3957105744"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"nightly"
 				{
-					"gid"		"07B848EADF031C1A726DFE2BD3D028AD"
-					"size"		"CF3CAA82712F8547765DADFC5DA6317A"
-					"download"		"32EB2FC2A6EA726C12E9BC8BC423D582"
+					"gid"		"368568E1728051F45153326B1B17ED1D"
+					"size"		"F2D81C904FCC186F625691B9E41D792F"
+					"download"		"E42E331E17B84B33D1FA5AF67852F637"
 				}
 				"test"
 				{
-					"gid"		"0965D9C789C5785B98493467B732CA47"
-					"size"		"718D4C5195C615E4F21CEE977E394BAC"
-					"download"		"96CA0EA282D4F5D8BDB5E515C437EA26"
+					"gid"		"F6C270CCB081B7AF66A63C121C895F69"
+					"size"		"A945E37562ED362FF65F168D36276832"
+					"download"		"5265D6E40C8964398F7A8A811BAE372E"
 				}
 			}
 		}
@@ -315,20 +315,20 @@
 		{
 			"public"
 			{
-				"buildid"		"12225104"
-				"timeupdated"		"1696344662"
+				"buildid"		"12375737"
+				"timeupdated"		"1696863364"
 			}
 			"nightly"
 			{
-				"buildid"		"12324709"
+				"buildid"		"12392914"
 				"pwdrequired"		"1"
-				"timeupdated"		"1696075241"
+				"timeupdated"		"1696852839"
 			}
 			"test"
 			{
-				"buildid"		"12225104"
+				"buildid"		"12375737"
 				"pwdrequired"		"1"
-				"timeupdated"		"1695141545"
+				"timeupdated"		"1696605360"
 			}
 		}
 	}
@@ -512,8 +512,8 @@
 			"18"
 			{
 				"root"		"WinSavedGames"
-				"path"		"Nightdive Studios/Quake II/baseq2"
-				"pattern"		"*"
+				"path"		"Nightdive Studios/Quake II/baseq2/save"
+				"pattern"		"*.pak.gz"
 				"recursive"		"1"
 			}
 			"19"
@@ -521,6 +521,12 @@
 				"root"		"WinSavedGames"
 				"path"		"Nightdive Studios/Quake II/"
 				"pattern"		"system.cfg"
+			}
+			"20"
+			{
+				"root"		"WinSavedGames"
+				"path"		"Nightdive Studios/Quake II/baseq2"
+				"pattern"		"*.cfg"
 			}
 		}
 	}
