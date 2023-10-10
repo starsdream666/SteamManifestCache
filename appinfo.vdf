@@ -7,9 +7,9 @@
 		"type"		"DLC"
 		"parent"		"704850"
 		"releasestate"		"released"
-		"oslist"		"windows"
+		"oslist"		"windows,macos"
 		"osarch"		"64"
-		"osextended"		""
+		"osextended"		"macos64,macosnotarized"
 		"controller_support"		"partial"
 		"small_capsule"
 		{
@@ -128,7 +128,7 @@
 			"3"		"21"
 		}
 		"review_score"		"8"
-		"review_percentage"		"84"
+		"review_percentage"		"85"
 	}
 	"extended"
 	{
@@ -155,14 +155,55 @@
 					"download"		"32939968"
 				}
 			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"28E4E4A3CD559E796D018407E7EDA98A"
+					"size"		"9095072E54268FC63041D421EA60092F"
+					"download"		"8330C5AE3627A3729564983DBF1BF963"
+				}
+			}
+			"dlcappid"		"1840650"
+		}
+		"1840652"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8451773674094920410"
+					"size"		"32495503"
+					"download"		"32939968"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"F173BD501589B34090199FA4D6E90569"
+					"size"		"9095072E54268FC63041D421EA60092F"
+					"download"		"8330C5AE3627A3729564983DBF1BF963"
+				}
+			}
 			"dlcappid"		"1840650"
 		}
 		"branches"
 		{
 			"public"
 			{
-				"buildid"		"10719842"
-				"timeupdated"		"1678282261"
+				"buildid"		"12342806"
+				"timeupdated"		"1696329281"
+			}
+			"test"
+			{
+				"buildid"		"12342806"
+				"pwdrequired"		"1"
+				"timeupdated"		"1696327630"
 			}
 		}
 	}
