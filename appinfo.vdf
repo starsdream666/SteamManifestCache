@@ -263,8 +263,8 @@
 			"5"		"1662"
 			"6"		"4345"
 			"7"		"5711"
-			"8"		"1687"
-			"9"		"5228"
+			"8"		"5228"
+			"9"		"1687"
 			"10"		"1697"
 			"11"		"4667"
 			"12"		"3839"
@@ -387,24 +387,18 @@
 			{
 				"public"
 				{
-					"gid"		"4615585028278987405"
-					"size"		"37829980358"
-					"download"		"37406109184"
-				}
-				"public-test"
-				{
-					"gid"		"4782236061086932431"
-					"size"		"37829711948"
-					"download"		"37404229872"
+					"gid"		"8179140133972653176"
+					"size"		"39089979951"
+					"download"		"38666507568"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"kraken-qa-internal"
 				{
-					"gid"		"579FE66082E03D7D0F7F86223EE5312F"
-					"size"		"768B81D749D9C6A82D64508CB5A01777"
-					"download"		"943B662BF47803552598E4B3CB822A8C"
+					"gid"		"318B563708990A1C2D8005BB5EEE2BD4"
+					"size"		"B6D4853BC49E2CD0F425AB61C7137B5E"
+					"download"		"4C22F8153CC4662EFD0918E38B48D14F"
 				}
 				"public-test-internal"
 				{
@@ -414,27 +408,33 @@
 				}
 				"shipping-cert-internal"
 				{
-					"gid"		"8E40A053B0138A1E3E2FDBEB1995851C"
-					"size"		"49044745E7F9CBEA2E6F277B638F2BE2"
-					"download"		"4D8ABDBF4BF546FB1F40ADDF0E78FED1"
+					"gid"		"444AA7D7B7A49CE1F09DBBBC8F727C9D"
+					"size"		"1595084EFBCA4794EAB70BC1F39ED037"
+					"download"		"3C3BDB2D38BCCAD1EF95F1EA94140F98"
 				}
 				"shipping-live-internal"
 				{
-					"gid"		"B7F01B0F1E2C3F613AFD85B531C8C7F3"
-					"size"		"C197CA7AB469375A0685183663B19A58"
-					"download"		"166B368C7A6CB2786A52531BE83CC373"
+					"gid"		"5423D1928C9F723510D6936A0731EB3C"
+					"size"		"EA2B847466B2D54E89E86DE3439C87E0"
+					"download"		"CD29DB6CC85E39DF9944E4B01449FEB4"
 				}
 				"shipping-qa-internal"
 				{
-					"gid"		"A91811D5E4D3BDDFDC8F473D7CBA4D40"
-					"size"		"1B44386D257A8DA322DB6F93767391A3"
-					"download"		"55F65269304744F0399E68326895FE66"
+					"gid"		"EB68E20F9B2A7F6D18295FF670C290EE"
+					"size"		"E9A2859868F0D109AA5F29DB5DB22331"
+					"download"		"9DE2D9F77A36627CC0C2BEA731F21106"
 				}
 				"shipping-stage-internal"
 				{
-					"gid"		"1A165B99EB2F01893FC570B2771D4A5D"
-					"size"		"1C1E6417C7C99F0BD14467288A004B81"
-					"download"		"AE77F389721AB7AF23409C5AB7A5F95B"
+					"gid"		"A8769F6330BAAE30E785ABFF81E4C844"
+					"size"		"B1561FC0511DC43AFEA1CE135CE6728C"
+					"download"		"3A48D1A465828582909BC214C83ADB3C"
+				}
+				"shipping-uat-internal"
+				{
+					"gid"		"6E8C2B96B315FCFD008C24CF432C8E03"
+					"size"		"6F1EC75D1C9F86CC1B73CB3611E82219"
+					"download"		"C36EBF78D9F2847D4611849B1070AF62"
 				}
 			}
 		}
@@ -444,12 +444,6 @@
 			"manifests"
 			{
 				"public"
-				{
-					"gid"		"5921550076694751899"
-					"size"		"31578081"
-					"download"		"31327728"
-				}
-				"public-test"
 				{
 					"gid"		"5921550076694751899"
 					"size"		"31578081"
@@ -494,26 +488,26 @@
 					"size"		"38374BDE995D34B5C1C93120FF295D03"
 					"download"		"DF55DE03F8E4D485371ED83C81B4703C"
 				}
+				"shipping-uat-internal"
+				{
+					"gid"		"454E6681E98BAA58DFC917380C241623"
+					"size"		"B6CFB8AA57DDA26D6F5EB4A49183AF00"
+					"download"		"1B122739075468C68A5597B735BBC62B"
+				}
 			}
 		}
 		"branches"
 		{
 			"public"
 			{
-				"buildid"		"12184656"
-				"timeupdated"		"1695221856"
+				"buildid"		"12369646"
+				"timeupdated"		"1696949900"
 			}
 			"kraken-qa-internal"
 			{
-				"buildid"		"12184656"
+				"buildid"		"12369646"
 				"pwdrequired"		"1"
-				"timeupdated"		"1695221898"
-			}
-			"public-test"
-			{
-				"buildid"		"12219976"
-				"description"		"External Branch for Public Tests\t"
-				"timeupdated"		"1695135568"
+				"timeupdated"		"1696949911"
 			}
 			"public-test-internal"
 			{
@@ -523,27 +517,33 @@
 			}
 			"shipping-cert-internal"
 			{
-				"buildid"		"12184656"
+				"buildid"		"12408601"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694664207"
+				"timeupdated"		"1696984421"
 			}
 			"shipping-live-internal"
 			{
-				"buildid"		"12184656"
+				"buildid"		"12408601"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694664205"
+				"timeupdated"		"1696984420"
 			}
 			"shipping-qa-internal"
 			{
-				"buildid"		"12184656"
+				"buildid"		"12408601"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694664197"
+				"timeupdated"		"1696984411"
 			}
 			"shipping-stage-internal"
 			{
+				"buildid"		"12408601"
+				"pwdrequired"		"1"
+				"timeupdated"		"1696984421"
+			}
+			"shipping-uat-internal"
+			{
 				"buildid"		"12184656"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694664206"
+				"timeupdated"		"1695735287"
 			}
 		}
 	}
