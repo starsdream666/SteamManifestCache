@@ -1,0 +1,320 @@
+"appinfo"
+{
+	"appid"		"332650"
+	"common"
+	{
+		"name"		"The Exiled"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"icon"		"8d73f4104fe7bc4ea4d46633006f5fe3f9895b69"
+		"clienticon"		"ace2a8d2fac218ecb42cec95096ba6d27f40ffca"
+		"clienttga"		"edc09cd06f044b8c86b111d8e2a37ff6978bf14a"
+		"logo"		"23c04380120ef57c7d1229c80c3117708325c356"
+		"logo_small"		"23c04380120ef57c7d1229c80c3117708325c356_thumb"
+		"releasestate"		"released"
+		"clienticns"		"c1450ea62a65d13790683f68c0ff90d999ca4b45"
+		"linuxclienticon"		"1de6bbac6a39629acec933f0f0f54a3354248f88"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"332650_eula_0"
+				"name"		"The Exiled EULA"
+				"url"		"http://store.steampowered.com//eula/332650_eula_0"
+			}
+		}
+		"app_retired_publisher_request"		"1"
+		"metacritic_name"		"The Exiled"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1490270737"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Fairytale Distillery"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Fairytale Distillery"
+			}
+		}
+		"primary_genre"		"29"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"29"
+			"2"		"3"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_20"		"1"
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_49"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1487857920"
+		"community_hub_visible"		"1"
+		"gameid"		"332650"
+		"store_tags"
+		{
+			"0"		"1775"
+			"1"		"3993"
+			"2"		"1754"
+			"3"		"128"
+			"4"		"3810"
+			"5"		"4791"
+			"6"		"4231"
+			"7"		"19"
+			"8"		"122"
+			"9"		"1695"
+			"10"		"5711"
+			"11"		"4155"
+			"12"		"7332"
+			"13"		"4604"
+			"14"		"4166"
+			"15"		"3835"
+			"16"		"1684"
+			"17"		"492"
+			"18"		"493"
+			"19"		"113"
+		}
+		"review_score"		"5"
+		"review_percentage"		"48"
+	}
+	"extended"
+	{
+		"developer"		"Fairytale Distillery"
+		"publisher"		"Fairytale Distillery"
+		"listofdlc"		"530150,530151,530152"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"The Exiled"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"exiled.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"exiled.x86"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"2"
+			{
+				"executable"		"exiled.app/Contents/MacOS/exiled"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"332651"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6228284534592792928"
+					"size"		"338329431"
+					"download"		"172142560"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"7DEE550053D8D791D88041BDDE74C9D3"
+					"size"		"85CBAFAB0DFA595073AA839DFBA16932"
+					"download"		"968DB74595253B52A75A4F9BEFA146FC"
+				}
+				"staging"
+				{
+					"gid"		"40BFD3AC043F66C9474D5D59410372B9"
+					"size"		"0EEF15B2F3FEE188E9C704EBE5E50DBB"
+					"download"		"F318116FD76FEF0D7992E5FDCC087F1C"
+				}
+			}
+		}
+		"332652"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1043916577912140382"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"C2F2E80D6FBFE523A240C06EB3059597"
+					"size"		"CA2B3D04AAD6CBE699BFD3C48AFD2DCD"
+					"download"		"CA2B3D04AAD6CBE699BFD3C48AFD2DCD"
+				}
+				"staging"
+				{
+					"gid"		"6910E95E72C22F649A40095677B9B1DB"
+					"size"		"0019C92CD650779D92C60F7A73B3749D"
+					"download"		"0019C92CD650779D92C60F7A73B3749D"
+				}
+			}
+		}
+		"332653"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6350859798588673853"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"E7F6E4A4A8AF233EF1FD6C40F1EF86E5"
+					"size"		"CA2B3D04AAD6CBE699BFD3C48AFD2DCD"
+					"download"		"CA2B3D04AAD6CBE699BFD3C48AFD2DCD"
+				}
+				"staging"
+				{
+					"gid"		"4DCA8C62BF8E6B3B474CFDA9C765CF5E"
+					"size"		"0019C92CD650779D92C60F7A73B3749D"
+					"download"		"0019C92CD650779D92C60F7A73B3749D"
+				}
+			}
+		}
+		"530150"
+		{
+			"dlcappid"		"530150"
+		}
+		"530151"
+		{
+			"dlcappid"		"530151"
+		}
+		"530152"
+		{
+			"dlcappid"		"530152"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5150587509767989069"
+					"size"		"163234082"
+					"download"		"125540304"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"FEFBB909D29E8FFF90F3AF0D9D85B722"
+					"size"		"C710965C24FDC58F748E134B9F1D47B8"
+					"download"		"BD76D7D441F38FE04ACC463207C2F63C"
+				}
+				"staging"
+				{
+					"gid"		"7B0E0209C1D0828CF7D095165A23DA39"
+					"size"		"5893E3D887D3FE025CA7F3749ECFDF2B"
+					"download"		"8701D2330A9D66FA22EF9662B2BF07AB"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9404968"
+				"timeupdated"		"1661725968"
+			}
+			"development"
+			{
+				"buildid"		"9404968"
+				"pwdrequired"		"1"
+				"timeupdated"		"1661725861"
+			}
+			"staging"
+			{
+				"buildid"		"9404968"
+				"pwdrequired"		"1"
+				"timeupdated"		"1661725992"
+			}
+		}
+	}
+}
