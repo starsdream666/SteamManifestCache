@@ -1,0 +1,219 @@
+"appinfo"
+{
+	"appid"		"341720"
+	"common"
+	{
+		"name"		"Among Ripples"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"icon"		"78d5af51bd744e255ef485d7dbebcb8afba78a67"
+		"clienticon"		"c70d5c1f05fecb978078a37ae2058a199f8c647d"
+		"clienttga"		"0864e7c3673428f2ae173cbf70187269c1ba6586"
+		"logo"		"936fb0e357b6c79f4109f365501936ed3295d369"
+		"logo_small"		"936fb0e357b6c79f4109f365501936ed3295d369_thumb"
+		"clienticns"		"1b09f5317e20abfba89a0e0d58c628cc448eb4e9"
+		"linuxclienticon"		"4084ee968fd02003b30c013ba536019d9b1af6f1"
+		"releasestate"		"released"
+		"osarch"		""
+		"osextended"		"macos64"
+		"metacritic_name"		"Among Ripples"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"56.06767794632439"
+				"height_pct"		"60.258358186838535"
+			}
+		}
+		"store_asset_mtime"		"1667294737"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Eat Create Sleep"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Eat Create Sleep"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Among Nature"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+			"3"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1421954160"
+		"community_hub_visible"		"1"
+		"gameid"		"341720"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"599"
+			"2"		"597"
+			"3"		"492"
+			"4"		"1654"
+			"5"		"4182"
+			"6"		"9157"
+			"7"		"3871"
+			"8"		"4166"
+			"9"		"3810"
+			"10"		"30358"
+			"11"		"13782"
+			"12"		"5350"
+			"13"		"1756"
+			"14"		"4726"
+			"15"		"4234"
+			"16"		"4711"
+			"17"		"10235"
+			"18"		"3859"
+			"19"		"5125"
+		}
+		"review_score"		"5"
+		"review_percentage"		"68"
+	}
+	"extended"
+	{
+		"gamedir"		""
+		"developer"		"Eat Create Sleep"
+		"publisher"		"Eat Create Sleep"
+		"homepage"		"http://eatcreatesleep.net/amongripples"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"AmongRipples"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"AmongRipples.exe"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"AmongRipples.x86"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"32"
+				}
+			}
+			"2"
+			{
+				"executable"		"AmongRipples.x86_64"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+			"3"
+			{
+				"executable"		"AmongRipples.app"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"341721"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8838920639200184471"
+					"size"		"215365303"
+					"download"		"35067584"
+				}
+			}
+		}
+		"341722"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6950059423225759421"
+					"size"		"265630444"
+					"download"		"50288880"
+				}
+			}
+		}
+		"341723"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7550170620466008741"
+					"size"		"265871258"
+					"download"		"49733264"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4416166"
+				"timeupdated"		"1574425706"
+			}
+		}
+	}
+}
