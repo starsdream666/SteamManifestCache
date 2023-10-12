@@ -1,0 +1,190 @@
+"appinfo"
+{
+	"appid"		"211880"
+	"common"
+	{
+		"name"		"Bullet Run"
+		"type"		"Game"
+		"icon"		"4a8acc755961f4c889bfd4780042687f1779656c"
+		"clienticon"		"7ae9dfd3675433ec6ec90a0140fad69b1c4e9f53"
+		"clienttga"		"3351e143eea047a3dddcf5c132fd6c475b8227b5"
+		"logo"		"768d970f2b3a31f01852cc7c135ef6fde54b8790"
+		"logo_small"		"768d970f2b3a31f01852cc7c135ef6fde54b8790_thumb"
+		"metacritic_name"		"Bullet Run"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1359758348"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"ACONY Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Sony Online Entertainment"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"1"
+		}
+		"category"
+		{
+			"category_1"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1343754000"
+		"metacritic_score"		"53"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/bullet-run?ftag=MCD-06-10aaa1f"
+		"community_hub_visible"		"1"
+		"gameid"		"211880"
+		"review_score"		"6"
+		"review_percentage"		"77"
+	}
+	"extended"
+	{
+		"developer"		"ACONY Games"
+		"gamedir"		"Bullet Run"
+		"homepage"		"http://www.bulletrunthegame.com"
+		"icon"		""
+		"noservers"		"0"
+		"sourcegame"		"1"
+		"state"		"eStateAvailable"
+		"visibleonlywhensubscribed"		"1"
+		"publisher"		"Sony Online Entertainment"
+		"listofdlc"		"216630,216631,216632,216633"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Bullet Run"
+		"installscriptsignature"		"08a4153a339652e53f60eaec31fdbfd58cf42101e2777854c34575f8c98fa0adde51e5e4d41a19ac1e1f889dff0dd7171464ac4395f81439b0cb490f79328ed9193f00dd4d77564131fe17167b821ac0ed9073ff44bb18e435717efdd0c93f7ee44e018cca92acaa29191e5bf2c5fdf5c4984261f5f6e3bc5fbb8b3af412bfd1"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"LaunchPad.exe"
+				"arguments"		"campaignID=1063152 promoID=140 launchArgs=-STEAM_ENABLED launchPoint=steam"
+				"description"		"Main Launch args"
+			}
+		}
+		"installscriptoverride"		"1"
+	}
+	"install"
+	{
+		"run process"
+		{
+			"br_redist"
+			{
+				"hasrunkey"		"HKEY_CURRENT_USER\\Software\\Valve\\Steam\\Apps\\211880"
+				"process 1"		"%INSTALLDIR%\\SOE_BR_Redist.exe"
+				"nocleanup"		"1"
+			}
+			"fixtimestamp"
+			{
+				"hasrunkey"		"HKEY_CURRENT_USER\\Software\\Valve\\Steam\\Apps\\211880"
+				"process 1"		"%INSTALLDIR%\\FixTimestamps.exe"
+				"command 1"		"fix.soe"
+			}
+		}
+	}
+	"depots"
+	{
+		"211881"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4607445331260447039"
+					"size"		"2524510378"
+					"download"		"0"
+				}
+				"local"
+				{
+					"gid"		"5278140069407016036"
+					"size"		"1947791465"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"5B055F0FBDCB13CEC29CD7372E7A475F"
+					"size"		"4B5FF6B8745DE30321AB7411F041A3C2"
+					"download"		"BC70A323F85097D81A74F3380915C47F"
+				}
+				"testing"
+				{
+					"gid"		"7FC3680663C3C4EB077835B5F0C73148"
+					"size"		"A9FE50FBEA9E6E4606E59AB9CA913ED2"
+					"download"		"9FF126E51DA64845B8985524A6CDD6D6"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"43368"
+			}
+			"beta"
+			{
+				"buildid"		"7020"
+				"pwdrequired"		"1"
+			}
+			"local"
+			{
+				"buildid"		"2642"
+				"description"		"Local Content Server"
+				"lcsrequired"		"1"
+			}
+			"testing"
+			{
+				"buildid"		"28339"
+				"pwdrequired"		"1"
+			}
+		}
+	}
+}
