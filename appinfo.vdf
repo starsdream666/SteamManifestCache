@@ -1,0 +1,166 @@
+"appinfo"
+{
+	"appid"		"1384870"
+	"common"
+	{
+		"name"		"Drifters Loot the Galaxy - Beta"
+		"type"		"Game"
+		"releasestate"		"released"
+		"clienttga"		"f5609fe1df46601297375a2dd7642fb0c8cdb62c"
+		"clienticon"		"670db839b78323fbff8698602a79987a6bda5d34"
+		"icon"		"68da8cc6edbea850145dcfb13ce0e34532963a41"
+		"logo"		"9eeb53f41d648e44755c26bdb7ab80f79474fe9d"
+		"logo_small"		"9eeb53f41d648e44755c26bdb7ab80f79474fe9d_thumb"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1605562189"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Blind Squirrel Entertainment, Inc."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Blind Squirrel Publishing"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1597437600"
+		"community_hub_visible"		"1"
+		"gameid"		"1384870"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"113"
+			"2"		"620519"
+			"3"		"5711"
+			"4"		"3814"
+			"5"		"1697"
+			"6"		"5547"
+			"7"		"1774"
+			"8"		"1775"
+			"9"		"3859"
+			"10"		"492"
+			"11"		"3993"
+			"12"		"1755"
+			"13"		"3942"
+			"14"		"4195"
+			"15"		"4305"
+			"16"		"4295"
+			"17"		"4236"
+			"18"		"1673"
+			"19"		"597"
+		}
+		"review_score"		"5"
+		"review_percentage"		"67"
+	}
+	"extended"
+	{
+		"developer"		"Blind Squirrel Entertainment, Inc."
+		"publisher"		"Blind Squirrel Publishing"
+		"homepage"		"https://www.driftersthegame.com/"
+		"listofdlc"		"1393180"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Drifters Loot the Galaxy - Beta"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"DriftersLootTheGalaxy.exe"
+				"arguments"		"FrontEnd?listen"
+				"description"		"Launch Drifters Loot the Galaxy Beta"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"1"
+		"1384871"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8341424388680474935"
+					"size"		"24817538813"
+					"download"		"7541607680"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"drifters-preprod"
+				{
+					"gid"		"C86EE367DCC88622515A0CE256E2A97A"
+					"size"		"C07B76CB94EDE7DB6A52266B2F26DDEE"
+					"download"		"FB60F3A942C3C6C85106DF411455FC42"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6334625"
+				"timeupdated"		"1614971679"
+			}
+			"drifters-preprod"
+			{
+				"buildid"		"6335858"
+				"pwdrequired"		"1"
+				"timeupdated"		"1620430803"
+			}
+		}
+	}
+}
