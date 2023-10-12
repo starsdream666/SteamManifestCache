@@ -1,0 +1,179 @@
+"appinfo"
+{
+	"appid"		"1578470"
+	"common"
+	{
+		"name"		"Hide Seek Survive"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"ab09023b0bd3f83672b890f831f2d1e99456fbd8"
+		"logo_small"		"ab09023b0bd3f83672b890f831f2d1e99456fbd8_thumb"
+		"icon"		"1e0545b30c4621f09ac44831cdfd3ada6367ebb6"
+		"clienticon"		"ca5c7ea7b266c0cd7b0fe1a648a43650abb445a6"
+		"clienttga"		"103084a140f25e53446e4c6e02b469ef3ff5714d"
+		"clienticns"		"22585225aac650eb46e3e41ec6bf4643fb91d25e"
+		"linuxclienticon"		"ef6826999a5ece4aabf8c816d7facf4d2e084fa4"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"19.53488372093024"
+				"height_pct"		"34.80170980764663"
+			}
+		}
+		"store_asset_mtime"		"1645630416"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"CampinCarlStudios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"CampinCarlStudios"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_28"		"1"
+			"category_2"		"1"
+			"category_13"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1631903340"
+		"community_hub_visible"		"1"
+		"gameid"		"1578470"
+		"store_tags"
+		{
+			"0"		"1667"
+			"1"		"3839"
+			"2"		"1733"
+			"3"		"4342"
+			"4"		"9541"
+			"5"		"7481"
+			"6"		"4106"
+			"7"		"1646"
+			"8"		"198631"
+			"9"		"1721"
+			"10"		"4598"
+			"11"		"4046"
+			"12"		"19"
+			"13"		"4064"
+			"14"		"1662"
+			"15"		"5186"
+			"16"		"3978"
+			"17"		"4182"
+			"18"		"1734"
+			"19"		"4667"
+		}
+		"review_score"		"5"
+		"review_percentage"		"53"
+	}
+	"extended"
+	{
+		"developer"		"CampinCarlStudios"
+		"publisher"		"CampinCarlStudios"
+	}
+	"config"
+	{
+		"installdir"		"HideSeekSurvive"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"HideSeekSurvive.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1578471"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8140269919114137331"
+					"size"		"1388058826"
+					"download"		"1292112752"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9682568"
+				"timeupdated"		"1665259276"
+			}
+		}
+	}
+}
