@@ -1,0 +1,430 @@
+"appinfo"
+{
+	"appid"		"512200"
+	"common"
+	{
+		"name"		"Metal Carnage"
+		"type"		"Game"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"clienticon"		"1355481de1121e59ab05619be16cdb9de9521c0c"
+		"clienttga"		"aa1f1d6d0a96e82d242cc913dd8cdc680d27108d"
+		"icon"		"9412c1a209c98642365d47d4ecc7698bec92e930"
+		"clienticns"		"07f45a75d46cf329c7d17347ba87b5384924a023"
+		"logo"		"9164a72a13107e09475b7d11e0e8f53b4ceeddeb"
+		"logo_small"		"9164a72a13107e09475b7d11e0e8f53b4ceeddeb_thumb"
+		"releasestate"		"released"
+		"metacritic_name"		"Metal Carnage"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"russian"		"capsule_231x87_russian.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1495514689"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Playvision"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Playvision"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+			"3"		"29"
+			"4"		"9"
+		}
+		"category"
+		{
+			"category_36"		"1"
+			"category_27"		"1"
+			"category_1"		"1"
+			"category_20"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1479369600"
+		"steam_release_date"		"1479373860"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"512200"
+		"store_tags"
+		{
+			"0"		"699"
+			"1"		"19"
+			"2"		"492"
+			"3"		"1774"
+			"4"		"493"
+			"5"		"1775"
+			"6"		"128"
+			"7"		"4777"
+			"8"		"3878"
+			"9"		"1659"
+			"10"		"3835"
+			"11"		"4255"
+			"12"		"1734"
+			"13"		"3859"
+			"14"		"1644"
+			"15"		"1773"
+			"16"		"4345"
+			"17"		"3814"
+			"18"		"4711"
+			"19"		"4295"
+		}
+		"review_score"		"5"
+		"review_percentage"		"63"
+	}
+	"extended"
+	{
+		"developer"		"Playvision"
+		"publisher"		"Playvision"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Metal Carnage"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"metalcarnage.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"metalcarnage.app"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,russian"
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"512201"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9190177573040156738"
+					"size"		"205878312"
+					"download"		"32724800"
+				}
+				"local"
+				{
+					"gid"		"9120871635583849268"
+					"size"		"205891640"
+					"download"		"32729088"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"office"
+				{
+					"gid"		"16A5114ACD69F9A4EB3F7FEEA12BA8E1"
+					"size"		"B1C424BD5FE869E1BA52B9C8DBF32828"
+					"download"		"54748F1528F450286C885CEB5329809C"
+				}
+				"test"
+				{
+					"gid"		"6104E73A99824054859DE8750D23220B"
+					"size"		"50D723247DAD0BA000682863B4627041"
+					"download"		"31F32CB51B83C2276A038AB6ECCFB75A"
+				}
+			}
+		}
+		"512202"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5183866814404500088"
+					"size"		"3304878846"
+					"download"		"469842816"
+				}
+				"local"
+				{
+					"gid"		"2283287973240288098"
+					"size"		"3472688004"
+					"download"		"515785824"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"office"
+				{
+					"gid"		"E038A54510EFA45ADA2E7106AA61FE51"
+					"size"		"C8EE66BEC2796FBBC414DADC753285F3"
+					"download"		"3932120FFC70B9D31D0D0B2700DADC20"
+				}
+				"test"
+				{
+					"gid"		"0E38DAD7A1A12A205096167EEC0AFC1F"
+					"size"		"7301D7CE01B3ADA0362EE9A7956E9601"
+					"download"		"1E2E484350ACFADD1AA54D2BFCA7C14A"
+				}
+			}
+		}
+		"512203"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9095725442908839517"
+					"size"		"250313186"
+					"download"		"45266128"
+				}
+				"local"
+				{
+					"gid"		"6329279525451037476"
+					"size"		"250307686"
+					"download"		"45253216"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"office"
+				{
+					"gid"		"D2DF692D90406D9181A03E8FE2547E8B"
+					"size"		"0168451FAAECA0A23ACD20E9F34ED2FC"
+					"download"		"786104510F50619CCE5B217CB3537A2C"
+				}
+				"test"
+				{
+					"gid"		"6E2F49E6386EE3DE445B487C8A707E5F"
+					"size"		"4EEAC5833F6C69D7F71A7559C925ADEC"
+					"download"		"E54DF075D7AEA2785F09AB07027ECE0A"
+				}
+			}
+		}
+		"512204"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8406166789117030903"
+					"size"		"210414072"
+					"download"		"34014720"
+				}
+				"local"
+				{
+					"gid"		"4121754685370631752"
+					"size"		"210427400"
+					"download"		"34018704"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"office"
+				{
+					"gid"		"B140480CCEB92D3B7EDE95262EE9BBC4"
+					"size"		"91F38A3E811E1527318E4A937EF23B18"
+					"download"		"2227E0C389A62D6076B66D4F07E04D93"
+				}
+				"test"
+				{
+					"gid"		"64E7FA639604A50F5AFCF72EA2A2DFA7"
+					"size"		"ABB330C4FA75AC4838EF115CACCB6EBE"
+					"download"		"723A4BD4A1696011EC02B37F7B04BB7E"
+				}
+			}
+		}
+		"512205"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2886612271317868477"
+					"size"		"215803847"
+					"download"		"35423616"
+				}
+				"local"
+				{
+					"gid"		"8458589795619914579"
+					"size"		"215798347"
+					"download"		"35410192"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"office"
+				{
+					"gid"		"294522EA96D642555E4A03DB75B73D62"
+					"size"		"A1A320879BFF8C1339C8572A6EF0FCE1"
+					"download"		"DD5BACEC837EE7C7F633E6E264274E49"
+				}
+				"test"
+				{
+					"gid"		"FDCB7AEAA580E728F401330E759C9471"
+					"size"		"FB508CDB7019B4C68B9D3EDA74AB3C94"
+					"download"		"395AD0E26A4832A6BFC23AA7CE9F616D"
+				}
+			}
+		}
+		"512206"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6192559028138501741"
+					"size"		"218699899"
+					"download"		"35847056"
+				}
+				"local"
+				{
+					"gid"		"5743845839053569393"
+					"size"		"218694399"
+					"download"		"35833792"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"office"
+				{
+					"gid"		"6E7A6390998035CBDDD4F8BE7EBE1B70"
+					"size"		"4643280CA9A4A13679A963464A90C7FA"
+					"download"		"7C389F678C589DDA47B058CBEE77785D"
+				}
+				"test"
+				{
+					"gid"		"0BEC0EC60281BDEC25B2D674AF33D8B9"
+					"size"		"2463F3F626A2EF1816BE99015447FF97"
+					"download"		"57D3CA4E090B473E10A3527E3E4D387F"
+				}
+			}
+		}
+		"512207"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9121846068461247143"
+					"size"		"3299248758"
+					"download"		"470454064"
+				}
+				"local"
+				{
+					"gid"		"1794457920038996230"
+					"size"		"3472688004"
+					"download"		"515979360"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"E962EF287D3B9C9444898B98F23B2B7A"
+					"size"		"16AE3B9EC37DB23D88E539822914C951"
+					"download"		"029DF4EA033DF8A3A96C91B88A61F560"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1862419"
+				"timeupdated"		"1496397342"
+			}
+			"local"
+			{
+				"buildid"		"1878677"
+				"description"		"Local Content Server"
+				"lcsrequired"		"1"
+				"timeupdated"		"1496973293"
+			}
+			"office"
+			{
+				"buildid"		"1336441"
+				"pwdrequired"		"1"
+				"timeupdated"		"1473904014"
+			}
+			"test"
+			{
+				"buildid"		"1860635"
+				"pwdrequired"		"1"
+				"timeupdated"		"1496337184"
+			}
+		}
+	}
+}
