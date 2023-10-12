@@ -1,0 +1,222 @@
+"appinfo"
+{
+	"appid"		"2349250"
+	"common"
+	{
+		"name"		"Violations Will Be Punished"
+		"type"		"Game"
+		"icon"		"0ac2bd4717ee8c31db273846b825f5cc25d32b88"
+		"clienticon"		"159d93150c6f9b1df836ba8a02529e5f6740695e"
+		"clienttga"		"9f86307c130b9c64bfdacd4ac9346d74d85c397c"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64,macosapplesilicon"
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"russian"		"1"
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"72.19873078493495"
+				"height_pct"		"68.05555555555556"
+			}
+		}
+		"store_asset_mtime"		"1681814394"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Igor Galochkin"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Igor Galochkin"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_17"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1679640720"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2349250"
+		"store_tags"
+		{
+			"0"		"1741"
+			"1"		"4115"
+			"2"		"1742"
+			"3"		"3916"
+			"4"		"5030"
+			"5"		"3942"
+			"6"		"5923"
+			"7"		"4325"
+			"8"		"14139"
+			"9"		"4684"
+			"10"		"15277"
+			"11"		"5186"
+			"12"		"19995"
+			"13"		"5372"
+			"14"		"4295"
+			"15"		"9"
+			"16"		"7478"
+			"17"		"4136"
+			"18"		"3871"
+			"19"		"4182"
+		}
+		"review_score"		"7"
+		"review_percentage"		"88"
+	}
+	"extended"
+	{
+		"developer"		"Igor Galochkin"
+		"publisher"		"Igor Galochkin"
+		"homepage"		"https://igorgalochkin.com/"
+	}
+	"config"
+	{
+		"installdir"		"Violations Will Be Punished"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ViolationsWillBePunished_Win64\\Violations Will Be Punished.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"ViolationsWillBePunished_Mac.app"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"ViolationsWillBePunished_Linux/ViolationsWillBePunished.x86_64"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2349251"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5266450856195080358"
+					"size"		"784165773"
+					"download"		"261548352"
+				}
+			}
+		}
+		"2349252"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6801810269780344110"
+					"size"		"809052981"
+					"download"		"269456032"
+				}
+			}
+		}
+		"2349253"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5632297580066391372"
+					"size"		"785915064"
+					"download"		"260600976"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11178681"
+				"timeupdated"		"1683535117"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"10000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"SteamCloudSave"
+				"pattern"		"*"
+				"recursive"		"1"
+			}
+		}
+	}
+}
