@@ -1,0 +1,259 @@
+"appinfo"
+{
+	"appid"		"385880"
+	"common"
+	{
+		"name"		"Gladiators Online: Death Before Dishonor"
+		"type"		"Game"
+		"oslist"		"windows"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"russian"		"1"
+			"polish"		"1"
+		}
+		"clienticon"		"16459ebbeb01b7fd1da2b4d9310b8c6175981c0c"
+		"clienttga"		"57152dba9b7b3511951aea7d1b4b583700d9f58a"
+		"icon"		"7f10ed98455fd6f1f89b359b736ec7173f1b5b57"
+		"logo"		"60b38cbb9b22927cabc7962dd0a90cf2cb37757f"
+		"logo_small"		"60b38cbb9b22927cabc7962dd0a90cf2cb37757f_thumb"
+		"clienticns"		"85a42e25f1f2fed3121adc4f43bfb6c8ced26b39"
+		"linuxclienticon"		"bfe1669a8b83c011b9ae346980a14a6a424f2140"
+		"releasestate"		"released"
+		"metacritic_name"		"Gladiators Online: Death Before Dishonor"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1446036786"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Dorado Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Dorado Games"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+			"3"		"29"
+		}
+		"category"
+		{
+			"category_20"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_1"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1446652980"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"385880"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"128"
+			"2"		"19"
+			"3"		"492"
+			"4"		"3859"
+		}
+		"review_score"		"5"
+		"review_percentage"		"41"
+	}
+	"extended"
+	{
+		"gamedir"		""
+		"developer"		"Dorado Games"
+		"publisher"		"Dorado Games"
+		"homepage"		"https://www.gladiatorsonline.com/"
+		"listofdlc"		"399550,399560,399570"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Gladiators Online Death Before Dishonor"
+		"launch"
+		{
+			"2"
+			{
+				"executable"		"gladiator.exe"
+				"arguments"		"-steamversion"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"3"
+			{
+				"executable"		"gladiator.app"
+				"arguments"		"-steamversion"
+				"description"		"MacOS launch"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"385881"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3722585513313633998"
+					"size"		"988945656"
+					"download"		"833755248"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"envqa"
+				{
+					"gid"		"D443311F3D74CA79F0DB597CA8AC3A23"
+					"size"		"52846A153E8E90BBB0C639D3A063D1DD"
+					"download"		"34878953FDA6EC1D8D8D50809F343659"
+				}
+				"evndev"
+				{
+					"gid"		"E82FF8893888A48ED408368663A693DD"
+					"size"		"C8E8115D7268A399E06E0463F5AAD00B"
+					"download"		"C70CBC4D7ADA1009B4832125ED102633"
+				}
+				"qanew"
+				{
+					"gid"		"B4DE2F6222302B43158343FC3A761EFC"
+					"size"		"F6D41B9CD9B1AABCBEED92CD7A1853FE"
+					"download"		"DB632AE45C8747D8C2306D770E38C25F"
+				}
+			}
+		}
+		"385883"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"envqa"
+				{
+					"gid"		"640D01B6A8C1CE475B7A918C16DF06C9"
+					"size"		"47B54AF77EF3E808FE785ABEE0E55291"
+					"download"		"20F00CF29B6F52AE6BBE84C3FBD8991E"
+				}
+			}
+		}
+		"385882"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"envqa"
+				{
+					"gid"		"619378A213CD91F15F87C06230001F9C"
+					"size"		"AFE03FF2DFC5A91E697EB86FABA7AD63"
+					"download"		"E5F6A7EEBB59E8355E0E29E9E026DD61"
+				}
+				"evndev"
+				{
+					"gid"		"B111721632DF0EDD2CFC379F94C09F6E"
+					"size"		"4753DF393C6C28C239F69CB31E7F7097"
+					"download"		"01DC7D87242C332532CF73DB51297440"
+				}
+			}
+		}
+		"385889"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"qanew"
+				{
+					"gid"		"F3E4ABD5B7B2BAD1D956295A323B5BF7"
+					"size"		"1AB22BCA0A344E13A8840ECFB6D979B2"
+					"download"		"4FECEEC388E230AFEF5C862B025B49C0"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"994270"
+			}
+			"envqa"
+			{
+				"buildid"		"883942"
+				"pwdrequired"		"1"
+			}
+			"evndev"
+			{
+				"buildid"		"1023145"
+				"pwdrequired"		"1"
+			}
+			"qanew"
+			{
+				"buildid"		"909637"
+				"pwdrequired"		"1"
+			}
+		}
+	}
+}
