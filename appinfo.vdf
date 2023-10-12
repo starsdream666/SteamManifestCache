@@ -1,0 +1,254 @@
+"appinfo"
+{
+	"appid"		"434110"
+	"common"
+	{
+		"name"		"Premium Pool"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"icon"		"0cffe8badd809db12dea04ed2c2f562a3c0a7c98"
+		"clienttga"		"ed33dc079ff6ee26f79f025818c3a76f1406f05b"
+		"logo"		"f1f680e33f1e2b8df11eed5cbd745443da3f044b"
+		"logo_small"		"f1f680e33f1e2b8df11eed5cbd745443da3f044b_thumb"
+		"clienticon"		"677da824f94611e6728fad9bfb0edf3fb42c25fa"
+		"clienticns"		"742be28684168f513f0e580929a352216fdbbe45"
+		"linuxclienticon"		"4db335e88e9472f49a9485d1f80e5eb48db27a4e"
+		"metacritic_name"		"Premium Pool"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1471518661"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Iceflake Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Iceflake Studios"
+			}
+		}
+		"primary_genre"		"18"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"23"
+			"2"		"28"
+			"3"		"18"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_27"		"1"
+			"category_24"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_35"		"1"
+			"category_2"		"1"
+			"category_36"		"1"
+			"category_37"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"finnish"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1457967720"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"434110"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"17927"
+			"2"		"3859"
+			"3"		"599"
+			"4"		"701"
+			"5"		"492"
+			"6"		"363767"
+		}
+		"review_score"		"5"
+		"review_percentage"		"51"
+	}
+	"extended"
+	{
+		"developer"		"Iceflake Studios"
+		"publisher"		"Iceflake Studios"
+		"homepage"		"http://iceflake.com/#pool"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Premium Pool"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"PremiumPool.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"PremiumPool.app"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"PremiumPool.x86"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"6"
+	}
+	"depots"
+	{
+		"434111"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4391137839142853503"
+					"size"		"171817074"
+					"download"		"36112560"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"42259CAA2B510321975B0645EDCBE3EA"
+					"size"		"F333CD7EC8FBE035258466023CB6DA87"
+					"download"		"2879E0555045FCD6B031BFFE8FF7FA04"
+				}
+				"linuxtest"
+				{
+					"gid"		"6AA90F62E78D06E19DDB00169B5C6175"
+					"size"		"0B4345C0098EA650BD8AF12C0BE33F8B"
+					"download"		"2DE5184AFD4A235AE2E22553E41D542F"
+				}
+			}
+		}
+		"434112"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1448138584439862541"
+					"size"		"187503457"
+					"download"		"40540512"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"0581EF85B6E4CABCB6BD2AD05C680A02"
+					"size"		"E04213EA6B5C288FAEE332A003720E3D"
+					"download"		"D0A156CB1C40EB1516E270119057A456"
+				}
+				"linuxtest"
+				{
+					"gid"		"3635272F8F9C500BFB57EC5F8994E1C3"
+					"size"		"606E7B0C2484B8E7D15662B9F84C8EF2"
+					"download"		"DB9E72080C58005622D5BA50015DDC06"
+				}
+			}
+		}
+		"434113"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3507829981109814930"
+					"size"		"178809552"
+					"download"		"37864016"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"B398A990AC6239FCCCF4F837ECF55E7E"
+					"size"		"903F55C23FB195DF1BC62725B28BFF1E"
+					"download"		"15BE617EDF9FFBD2FE73476183D609AD"
+				}
+				"linuxtest"
+				{
+					"gid"		"71D169547771AF531F6694145091DEBC"
+					"size"		"94D2FB7122D6B15754A6B5BDA825D985"
+					"download"		"60AF8B70915FBDD8E2638DFDAD3F6993"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1916546"
+				"timeupdated"		"1593965274"
+			}
+			"beta"
+			{
+				"buildid"		"1916546"
+				"pwdrequired"		"1"
+				"timeupdated"		"1498471681"
+			}
+			"linuxtest"
+			{
+				"buildid"		"1286088"
+				"pwdrequired"		"1"
+				"timeupdated"		"1471510393"
+			}
+		}
+	}
+}
