@@ -1,0 +1,228 @@
+"appinfo"
+{
+	"appid"		"369200"
+	"common"
+	{
+		"name"		"Ghost in the Shell: Stand Alone Complex - First Assault Online"
+		"type"		"Game"
+		"oslist"		"windows"
+		"releasestate"		"released"
+		"logo"		"f75d9fba3e0eb7693b2d796eb95a52e31f2f54ea"
+		"logo_small"		"f75d9fba3e0eb7693b2d796eb95a52e31f2f54ea_thumb"
+		"icon"		"b963ac9e7f0bc025b6ded210ea8f80005bfe2411"
+		"clienttga"		"2285f2f6e849f94f226f544963a1b0a72a5192e1"
+		"clienticon"		"cf798718c4d72d9148ec87b9a03f5ab35b80c1aa"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"369200_eula_0"
+				"name"		"Ghost in the Shell Stand Alone Complex First Assault Online EULA"
+				"url"		"http://store.steampowered.com//eula/369200_eula_0"
+			}
+		}
+		"metacritic_name"		"Ghost in the Shell: Stand Alone Complex - First Assault Online"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1499987272"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Neople"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Nexon"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"29"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_29"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1469722680"
+		"community_hub_visible"		"1"
+		"gameid"		"369200"
+		"store_tags"
+		{
+			"0"		"1663"
+			"1"		"3859"
+			"2"		"1774"
+			"3"		"113"
+			"4"		"4085"
+			"5"		"19"
+			"6"		"4115"
+			"7"		"3942"
+			"8"		"1775"
+			"9"		"1708"
+			"10"		"3839"
+			"11"		"128"
+			"12"		"4295"
+			"13"		"1685"
+			"14"		"5711"
+			"15"		"7208"
+			"16"		"4182"
+			"17"		"7481"
+			"18"		"493"
+			"19"		"9"
+		}
+		"review_score"		"5"
+		"review_percentage"		"65"
+	}
+	"extended"
+	{
+		"gamedir"		""
+		"developer"		"Neople"
+		"publisher"		"Nexon"
+		"homepage"		"http://firstassault.nexon.net/"
+		"listofdlc"		"412330,412331,412332,412333,439360,453410,483940,483941,494880,494881,494882,494883,504960,539710,583070,601800,670990,671000,671010,671020,671030"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"firstassault"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		".\\Shipping\\nxsteam.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"3"
+	}
+	"depots"
+	{
+		"228984"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"369201"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5527198011875546035"
+					"size"		"5429170835"
+					"download"		"3024332992"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"021461E96B9A8562DEDCDD26794B761F"
+					"size"		"EEADE41F99FB98A9E25136E590AE4237"
+					"download"		"42DB4375C3A6F1613967CBEC1A31B482"
+				}
+				"staging"
+				{
+					"gid"		"066514C72A2539C1C8E2DCED8FA8508B"
+					"size"		"AD58F65F2DAF5CEBBF7F867F111CE559"
+					"download"		"C3565AD84756F5CCF412DA71DA9EB80B"
+				}
+			}
+		}
+		"412330"
+		{
+			"dlcappid"		"412330"
+		}
+		"412331"
+		{
+			"dlcappid"		"412331"
+		}
+		"412332"
+		{
+			"dlcappid"		"412332"
+		}
+		"412333"
+		{
+			"dlcappid"		"412333"
+		}
+		"baselanguages"		"english,german,french,italian,spanish,polish,turkish,brazilian"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2094209"
+				"timeupdated"		"1505402043"
+			}
+			"beta"
+			{
+				"buildid"		"1953403"
+				"pwdrequired"		"1"
+				"timeupdated"		"1499807107"
+			}
+			"staging"
+			{
+				"buildid"		"2094209"
+				"pwdrequired"		"1"
+				"timeupdated"		"1504638696"
+			}
+		}
+	}
+}
