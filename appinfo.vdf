@@ -1,0 +1,331 @@
+"appinfo"
+{
+	"appid"		"1870370"
+	"common"
+	{
+		"name"		"怀旧版三国志Idle RPG"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"d8d6d8bb567df4a3ce534b47a1dfa11dc5838544"
+		"clienttga"		"59064a0d0acb348037333515763b6fcd0cb37bd6"
+		"icon"		"91fc9a5a650511b2f06bcfc65800a63cca567289"
+		"logo"		"84839a0506ce8eb0def09c7a6d32b164b40837d6"
+		"logo_small"		"84839a0506ce8eb0def09c7a6d32b164b40837d6_thumb"
+		"releasestate"		"released"
+		"app_retired_was_free"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1654300800"
+			"tested_build_id"		"8354543"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"100"
+				"height_pct"		"75.8370933270007"
+			}
+		}
+		"store_asset_mtime"		"1644500360"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Three Kingdoms"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Three Kingdoms"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"武林"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"三国"
+			}
+			"4"
+			{
+				"type"		"franchise"
+				"name"		"历史"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"37"
+			"4"		"23"
+			"5"		"29"
+			"6"		"3"
+			"7"		"28"
+			"8"		"2"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_20"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_35"		"1"
+			"category_27"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1652322875"
+		"community_hub_visible"		"1"
+		"gameid"		"1870370"
+		"store_tags"
+		{
+			"0"		"3959"
+			"1"		"597"
+			"2"		"615955"
+			"3"		"122"
+			"4"		"1773"
+			"5"		"19"
+			"6"		"4434"
+			"7"		"21"
+			"8"		"4158"
+			"9"		"42804"
+			"10"		"9"
+			"11"		"7743"
+			"12"		"599"
+			"13"		"1654"
+			"14"		"1628"
+			"15"		"1716"
+			"16"		"922563"
+			"17"		"3859"
+			"18"		"454187"
+			"19"		"3993"
+		}
+		"review_score"		"5"
+		"review_percentage"		"69"
+	}
+	"extended"
+	{
+		"developer"		"Three Kingdoms"
+		"publisher"		"Three Kingdoms"
+		"listofdlc"		"1909000,1916390,1916990,1916991,1916992,1917000,1918600,1918601,1918602,1930080,1930081,1930082,1931100,1931101,1962550,1962551,1962552,1962553,1962554,1962555"
+	}
+	"config"
+	{
+		"installdir"		"Three Kingdoms Idle"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"sgzidle.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"schinese,tchinese"
+		"hasdepotsindlc"		"1"
+		"1870371"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9096958635565968083"
+					"size"		"633312594"
+					"download"		"363537984"
+				}
+			}
+		}
+		"1962554"
+		{
+			"dlcappid"		"1962554"
+		}
+		"1962553"
+		{
+			"dlcappid"		"1962553"
+		}
+		"1962555"
+		{
+			"dlcappid"		"1962555"
+		}
+		"1962552"
+		{
+			"dlcappid"		"1962552"
+		}
+		"1962550"
+		{
+			"dlcappid"		"1962550"
+		}
+		"1931101"
+		{
+			"dlcappid"		"1931101"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"117169139881907263"
+					"size"		"32768"
+					"download"		"192"
+				}
+			}
+		}
+		"1930081"
+		{
+			"dlcappid"		"1930081"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1107419741605217763"
+					"size"		"32768"
+					"download"		"192"
+				}
+			}
+		}
+		"1930080"
+		{
+			"dlcappid"		"1930080"
+		}
+		"1931100"
+		{
+			"dlcappid"		"1931100"
+		}
+		"1930082"
+		{
+			"dlcappid"		"1930082"
+		}
+		"1916990"
+		{
+			"dlcappid"		"1916990"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2645543735312870036"
+					"size"		"54168"
+					"download"		"7392"
+				}
+			}
+		}
+		"1916991"
+		{
+			"dlcappid"		"1916991"
+		}
+		"1916992"
+		{
+			"dlcappid"		"1916992"
+		}
+		"1917000"
+		{
+			"dlcappid"		"1917000"
+		}
+		"1916390"
+		{
+			"dlcappid"		"1916390"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6425835677938966547"
+					"size"		"65536"
+					"download"		"384"
+				}
+			}
+		}
+		"1918601"
+		{
+			"dlcappid"		"1918601"
+		}
+		"1918602"
+		{
+			"dlcappid"		"1918602"
+		}
+		"1962551"
+		{
+			"dlcappid"		"1962551"
+		}
+		"1918600"
+		{
+			"dlcappid"		"1918600"
+		}
+		"1909000"
+		{
+			"dlcappid"		"1909000"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4042210737523254851"
+					"size"		"39311"
+					"download"		"5648"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8354543"
+				"timeupdated"		"1647005650"
+			}
+		}
+	}
+}
