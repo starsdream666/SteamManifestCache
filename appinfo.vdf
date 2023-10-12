@@ -1,0 +1,177 @@
+"appinfo"
+{
+	"appid"		"703940"
+	"common"
+	{
+		"name"		"Ball 2D: Soccer Online"
+		"type"		"Game"
+		"releasestate"		"released"
+		"clienticon"		"1e7a20e6983f90226f4fd2f8be240e4a5331c09f"
+		"clienttga"		"acde71f90d36ce589af9f0138b75488f194f4133"
+		"icon"		"b2d443ab770144483d81297639e4a186f84df47f"
+		"clienticns"		"eddc679800cdc56374b6710defa27d772a967886"
+		"logo"		"ae477a0d263b442693781cfa8379ccea9001886f"
+		"logo_small"		"ae477a0d263b442693781cfa8379ccea9001886f_thumb"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1504072211"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Unusualsoft"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Unusualsoft"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Unusualsoft"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Soccer Online"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"28"
+			"3"		"18"
+		}
+		"category"
+		{
+			"category_36"		"1"
+			"category_38"		"1"
+			"category_27"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_49"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1504854000"
+		"steam_release_date"		"1504886400"
+		"community_hub_visible"		"1"
+		"gameid"		"703940"
+		"store_tags"
+		{
+			"0"		"1254546"
+			"1"		"701"
+			"2"		"3859"
+			"3"		"3968"
+			"4"		"599"
+			"5"		"19"
+			"6"		"1685"
+			"7"		"5711"
+			"8"		"5055"
+			"9"		"3843"
+			"10"		"3878"
+			"11"		"1775"
+			"12"		"1773"
+			"13"		"597"
+			"14"		"492"
+			"15"		"3871"
+			"16"		"4711"
+			"17"		"1734"
+			"18"		"4161"
+			"19"		"3813"
+		}
+		"review_score"		"6"
+		"review_percentage"		"76"
+	}
+	"extended"
+	{
+		"developer"		"Unusualsoft"
+		"publisher"		"Unusualsoft"
+	}
+	"config"
+	{
+		"installdir"		"Ball 2D"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Ball 2D.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Ball 2D.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"703941"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2847835582828243850"
+					"size"		"51019122"
+					"download"		"12233840"
+				}
+			}
+		}
+		"703942"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8927233755026675608"
+					"size"		"67079461"
+					"download"		"15929760"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2701194"
+				"timeupdated"		"1524086973"
+			}
+		}
+	}
+}
