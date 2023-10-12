@@ -1,0 +1,185 @@
+"appinfo"
+{
+	"appid"		"1937160"
+	"common"
+	{
+		"name"		"The Nightmare Catcher"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"0275eb6f260a0c42ce9f0b22da70c66382d851a0"
+		"clienttga"		"ff9aba49cbc176466883494df6098b5da02d9442"
+		"clienticon"		"39933553e10b2e5e1f4290fadff22d6cba450fa8"
+		"releasestate"		"released"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1937160_eula_0"
+				"name"		"The Nightmare Catcher EULA"
+				"url"		"https://store.steampowered.com//eula/1937160_eula_0"
+				"version"		"3"
+			}
+		}
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1659905398"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"XAEON GAMES"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"XAEON GAMES"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1650819840"
+		"community_hub_visible"		"1"
+		"gameid"		"1937160"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"3834"
+			"2"		"1663"
+			"3"		"1774"
+			"4"		"21"
+			"5"		"3839"
+			"6"		"493"
+			"7"		"492"
+			"8"		"5030"
+			"9"		"3942"
+			"10"		"1702"
+			"11"		"4345"
+			"12"		"4667"
+			"13"		"4182"
+			"14"		"3959"
+		}
+		"review_score"		"6"
+		"review_percentage"		"78"
+	}
+	"extended"
+	{
+		"developer"		"XAEON GAMES"
+		"publisher"		"XAEON GAMES"
+		"homepage"		"https://www.facebook.com/xAeonRipper"
+	}
+	"config"
+	{
+		"installdir"		"The Nightmare Catcher"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"NightmareCatcher.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Awesome Game"
+				}
+				"description"		"Awesome Game"
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1937161"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8007816642425020230"
+					"size"		"13715968153"
+					"download"		"13199153152"
+				}
+			}
+		}
+		"baselanguages"		"english"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9270505"
+				"timeupdated"		"1659906573"
+			}
+		}
+	}
+}
