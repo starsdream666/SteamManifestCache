@@ -1,0 +1,206 @@
+"appinfo"
+{
+	"appid"		"291210"
+	"common"
+	{
+		"name"		"UberStrike"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"clienticns"		"3a2374b26bbf23800b0f352d2a8deaf67aef234c"
+		"clienticon"		"a4dbb057e28586d4bb2a3fb3b9ea7235c790297f"
+		"clienttga"		"ef74d4e426b7687467f567db208ea0e3c5e02e05"
+		"icon"		"41e83e553ef3abac6e03a80b1b2c35ce7880afef"
+		"logo"		"eb137b9ab4af2a0cd5280f1716471d0c17e140a3"
+		"logo_small"		"eb137b9ab4af2a0cd5280f1716471d0c17e140a3_thumb"
+		"metacritic_name"		"UberStrike"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1434441423"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Cmune Ltd"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Cmune Ltd"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_27"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"original_release_date"		"1430118000"
+		"steam_release_date"		"1434533280"
+		"community_hub_visible"		"1"
+		"gameid"		"291210"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"19"
+			"2"		"3859"
+			"3"		"1663"
+			"4"		"1774"
+			"5"		"128"
+			"6"		"492"
+			"7"		"3839"
+			"8"		"5502"
+			"9"		"21"
+			"10"		"4136"
+			"11"		"1695"
+			"12"		"5547"
+			"13"		"1685"
+			"14"		"1678"
+			"15"		"4182"
+			"16"		"29363"
+			"17"		"1697"
+			"18"		"1667"
+			"19"		"4085"
+		}
+		"review_score"		"4"
+		"review_percentage"		"39"
+	}
+	"extended"
+	{
+		"developer"		"Cmune Ltd"
+		"publisher"		"Cmune Ltd"
+		"homepage"		"http://uberstrike.com"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"UberStrike"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"UberStrike.app"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"macos"
+					"osarch"		"64"
+				}
+			}
+			"2"
+			{
+				"executable"		"UberStrike.exe"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"baselanguages"		"english"
+		"291211"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7198107249301931430"
+					"size"		"747259772"
+					"download"		"336688800"
+				}
+				"beta"
+				{
+					"gid"		"7198107249301931430"
+					"size"		"747259772"
+					"download"		"336688800"
+				}
+				"local"
+				{
+					"gid"		"7811525390182790887"
+					"size"		"417464460"
+					"download"		"109896264416"
+				}
+			}
+		}
+		"291212"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8147831209968313515"
+					"size"		"740985299"
+					"download"		"333559680"
+				}
+				"beta"
+				{
+					"gid"		"8147831209968313515"
+					"size"		"740985299"
+					"download"		"333559680"
+				}
+				"local"
+				{
+					"gid"		"6216641864827698124"
+					"size"		"417464460"
+					"download"		"114179383248"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"696170"
+			}
+			"beta"
+			{
+				"buildid"		"696170"
+				"description"		"Test builds"
+			}
+			"local"
+			{
+				"buildid"		"380467"
+				"description"		"Local Content Server"
+				"lcsrequired"		"1"
+			}
+		}
+	}
+}
