@@ -1,0 +1,180 @@
+"appinfo"
+{
+	"appid"		"1501980"
+	"common"
+	{
+		"name"		"ChefSquad"
+		"type"		"Game"
+		"logo"		"6f199a1489de831854ad5f35fdf98354bfa0e64f"
+		"logo_small"		"6f199a1489de831854ad5f35fdf98354bfa0e64f_thumb"
+		"icon"		"f020dbaacea70adeff246f87199bd4d802a1bb2c"
+		"clienttga"		"f27a7e9b1832e8bb823d96c28ee496ab3ad89b29"
+		"clienticon"		"44ac3ab947fec5d447a1ab8b5d315e30c632666d"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"app_retired_was_free"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"58.98483080513417"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1634851172"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Vertigo Gaming Inc."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Vertigo Gaming Inc."
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+			"4"		"28"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1634875185"
+		"community_hub_visible"		"1"
+		"gameid"		"1501980"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"597"
+			"2"		"599"
+			"3"		"1773"
+			"4"		"1674"
+			"5"		"3871"
+			"6"		"4305"
+			"7"		"4726"
+			"8"		"3920"
+			"9"		"4094"
+			"10"		"4136"
+			"11"		"5711"
+			"12"		"3859"
+			"13"		"4508"
+		}
+		"review_score"		"7"
+		"review_percentage"		"89"
+	}
+	"extended"
+	{
+		"developer"		"Vertigo Gaming Inc."
+		"publisher"		"Vertigo Gaming Inc."
+		"homepage"		"http://www.vertigogaming.net"
+	}
+	"config"
+	{
+		"installdir"		"ChefSquad"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ChefSquad.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1501981"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1597329043457803194"
+					"size"		"97331806"
+					"download"		"72150704"
+				}
+				"v0.98"
+				{
+					"gid"		"75532489137227427"
+					"size"		"97266142"
+					"download"		"72136224"
+				}
+				"v0.99"
+				{
+					"gid"		"4244449843576940877"
+					"size"		"97299934"
+					"download"		"72147936"
+				}
+				"v1.00"
+				{
+					"gid"		"2739533972481098106"
+					"size"		"97300062"
+					"download"		"72147728"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7631709"
+				"timeupdated"		"1635642944"
+			}
+			"v0.98"
+			{
+				"buildid"		"7562104"
+				"description"		"Stable"
+				"timeupdated"		"1634835098"
+			}
+			"v0.99"
+			{
+				"buildid"		"7571175"
+				"description"		"Stable"
+				"timeupdated"		"1634835112"
+			}
+			"v1.00"
+			{
+				"buildid"		"7579233"
+				"description"		"Launch Version"
+				"timeupdated"		"1635643050"
+			}
+		}
+	}
+}
