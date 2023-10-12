@@ -1,0 +1,280 @@
+"appinfo"
+{
+	"appid"		"523070"
+	"common"
+	{
+		"name"		"Black Forest"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"logo"		"30cc121085686c34f967188b63fa828ae505c4aa"
+		"logo_small"		"30cc121085686c34f967188b63fa828ae505c4aa_thumb"
+		"icon"		"47b9fd49a58665713d7632c1f267121feecb374b"
+		"clienticon"		"05107ab4ff175869d705cfe2d95b5edfed925b71"
+		"clienttga"		"abcbf3097640082cb6865b621f39ab3ec22b280a"
+		"clienticns"		"fa4f770f702893fe44d8a84244604d153249c0b7"
+		"osextended"		"macos64,macosapplesilicon"
+		"metacritic_name"		"Black Forest"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"78.0046674445741"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1696002120"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Lemuria"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Freedom Games"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_25"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1695657661"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"523070"
+		"store_tags"
+		{
+			"0"		"1662"
+			"1"		"597"
+			"2"		"7332"
+			"3"		"9"
+			"4"		"8945"
+			"5"		"6426"
+			"6"		"4182"
+			"7"		"1684"
+			"8"		"4328"
+			"9"		"4172"
+			"10"		"1643"
+			"11"		"220585"
+			"12"		"5300"
+			"13"		"1676"
+			"14"		"4191"
+			"15"		"4175"
+			"16"		"4791"
+			"17"		"4604"
+			"18"		"12472"
+			"19"		"113"
+		}
+		"review_score"		"6"
+		"review_percentage"		"76"
+	}
+	"extended"
+	{
+		"developer"		"Lemuria"
+		"publisher"		"Freedom Games"
+		"listofdlc"		"1799680,2144900"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Black Forest"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Black Forest.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Black Forest.app/Contents/MacOS/Black Forest"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+					"osarch"		"64"
+				}
+			}
+			"2"
+			{
+				"executable"		"Black Forest.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"523071"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2036989735118495240"
+					"size"		"4740881304"
+					"download"		"2344335872"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal"
+				{
+					"gid"		"027D03AA52EC4E75376A256F67A2BBA8"
+					"size"		"BA222AC1241CD5AA02A9564BF55FAD0D"
+					"download"		"9CBDF13064672F0E2FA191611C9F38D1"
+				}
+			}
+		}
+		"523072"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1243242367644867099"
+					"size"		"4699355498"
+					"download"		"2332676800"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal"
+				{
+					"gid"		"3ED9627C55A965DC9BB11D3387BFB2A9"
+					"size"		"AD16FAC63F838D0EE43E2C0AB56588C6"
+					"download"		"91CCAA96CAF49E1EEE93339B35AFD5AD"
+				}
+			}
+		}
+		"523073"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"696486152420031928"
+					"size"		"4843782547"
+					"download"		"2369749376"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal"
+				{
+					"gid"		"656B172A2EF7381251A8A991D4974097"
+					"size"		"761EA2D51918B89A7DA480A7F35B20A8"
+					"download"		"B74184BA8AD93E47E19110D587FB7670"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12336238"
+				"timeupdated"		"1696578806"
+			}
+			"internal"
+			{
+				"buildid"		"12400743"
+				"pwdrequired"		"1"
+				"timeupdated"		"1696923043"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Lemuria/Black Forest"
+				"pattern"		"*.dat"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"addpath"		""
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxXdgConfigHome"
+				"addpath"		""
+			}
+		}
+		"sync_while_suspended"		"1"
+	}
+}
