@@ -1,0 +1,188 @@
+"appinfo"
+{
+	"appid"		"394740"
+	"common"
+	{
+		"name"		"Battleline: Steel Warfare"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"clienttga"		"cc59e46e341841003c1bf7775b59ccb5b934f266"
+		"clienticon"		"05dd74146f9b66b00a512c919a1cfcfd53e63b70"
+		"icon"		"3444a3f1dc0b5f44797a54a1b139237554db58ac"
+		"logo"		"0e513f18d157f7fe85fdb132bbdcb43342820fb8"
+		"logo_small"		"0e513f18d157f7fe85fdb132bbdcb43342820fb8_thumb"
+		"eulas"
+		{
+			"1"
+			{
+				"id"		"394740_eula_1"
+				"name"		"Battleline: Steel Warfare EULA 1"
+				"url"		"http://store.steampowered.com//eula/394740_eula_1"
+			}
+		}
+		"metacritic_name"		"Battleline: Steel Warfare"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1473214337"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"CREANT Co."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"BANDAI NAMCO Entertainment America"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_36"		"1"
+			"category_35"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1472169540"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"394740"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"13276"
+			"2"		"3859"
+			"3"		"1676"
+			"4"		"1718"
+			"5"		"599"
+			"6"		"19"
+			"7"		"9"
+		}
+		"review_score"		"5"
+		"review_percentage"		"60"
+	}
+	"extended"
+	{
+		"developer"		"CREANT Co."
+		"publisher"		"BANDAI NAMCO Entertainment America"
+		"homepage"		"https://www.battlelinegame.com/"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Battleline Steel Warfare"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"BattleLine.exe"
+				"arguments"		"-standalone"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228981"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229031"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"394741"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7136886343239314250"
+					"size"		"1336172404"
+					"download"		"1265748560"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"developer"
+				{
+					"gid"		"A40F7953E7CDB08FC465AB2299963FAF"
+					"size"		"12E0E79CED3F054FBDCD8A894F080A40"
+					"download"		"62FD5D70AB27C0A42094FBBBC8118FF5"
+				}
+				"staging"
+				{
+					"gid"		"280E051DCF67050C9A3D5EC62D6A7CD7"
+					"size"		"9F599C922BD7F8FC148D78BFC0BD5AF5"
+					"download"		"82409A6F060D48E3BB769E2170FA1843"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1798836"
+				"timeupdated"		"1493879343"
+			}
+			"developer"
+			{
+				"buildid"		"1542745"
+				"pwdrequired"		"1"
+				"timeupdated"		"1482909435"
+			}
+			"staging"
+			{
+				"buildid"		"1798812"
+				"pwdrequired"		"1"
+				"timeupdated"		"1493877186"
+			}
+		}
+	}
+}
