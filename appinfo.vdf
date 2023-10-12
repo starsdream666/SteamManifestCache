@@ -1,0 +1,172 @@
+"appinfo"
+{
+	"appid"		"1180030"
+	"common"
+	{
+		"name"		"Wardwell House"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"8ac331ec9762efd511de3b54ffd8b2a49b5bf79b"
+		"logo"		"27a4f812fbe7e1e6ecd0724cbaf9cef0043b3f89"
+		"logo_small"		"27a4f812fbe7e1e6ecd0724cbaf9cef0043b3f89_thumb"
+		"clienticon"		"fe3ae0ba579ba52287176196c56a7a763348e997"
+		"metacritic_name"		"Wardwell House"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1577383720"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Moolion"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Moolion"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1579016880"
+		"community_hub_visible"		"1"
+		"gameid"		"1180030"
+		"store_tags"
+		{
+			"0"		"13190"
+			"1"		"1667"
+			"2"		"4166"
+			"3"		"3834"
+			"4"		"5900"
+			"5"		"1698"
+			"6"		"1742"
+			"7"		"1721"
+			"8"		"4175"
+			"9"		"1663"
+			"10"		"3839"
+			"11"		"4064"
+			"12"		"599"
+			"13"		"5716"
+			"14"		"5984"
+			"15"		"21"
+			"16"		"4342"
+			"17"		"3978"
+			"18"		"4182"
+			"19"		"4085"
+		}
+		"review_score"		"8"
+		"review_percentage"		"82"
+	}
+	"extended"
+	{
+		"developer"		"Moolion"
+		"publisher"		"Moolion"
+	}
+	"config"
+	{
+		"installdir"		"Wardwell House"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Wardwell House Windows/Wardwell House.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Wardwell House Mac.app"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1180031"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4520129076052291757"
+					"size"		"1754848144"
+					"download"		"578673312"
+				}
+			}
+		}
+		"1180032"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5993622107856658281"
+					"size"		"1786226868"
+					"download"		"588955200"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8806816"
+				"timeupdated"		"1682528042"
+			}
+		}
+	}
+}
