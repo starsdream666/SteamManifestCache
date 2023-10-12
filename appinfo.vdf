@@ -1,0 +1,175 @@
+"appinfo"
+{
+	"appid"		"528940"
+	"common"
+	{
+		"name"		"Birthright Cataclysm - Overture"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"clienttga"		"4500ab7c0b33b175fc24f9e5e84dfd4942aa66f9"
+		"logo"		"630eb9e6a82eaddd88a455874033675374ebac33"
+		"logo_small"		"630eb9e6a82eaddd88a455874033675374ebac33_thumb"
+		"icon"		"bcadc42b882f43f2b0893c9279ea4ed38b56f80d"
+		"linuxclienticon"		"7c4a6d4ee91f81f3ad2f2a48a6b9bc6b68ace3b7"
+		"clienticon"		"ae808d3631c0b372bb21dd9a069c483d2193f4c2"
+		"releasestate"		"released"
+		"app_retired_publisher_request"		"1"
+		"app_retired_was_free"		"1"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"2"
+			"2"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"has_adult_content_violence"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"90.12111137497031"
+			}
+		}
+		"store_asset_mtime"		"1606756866"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Hisoka"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Hisoka"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Birthright Cataclysm"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+			"3"		"23"
+			"4"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1605427200"
+		"steam_release_date"		"1607532540"
+		"community_hub_visible"		"1"
+		"gameid"		"528940"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"21"
+			"2"		"122"
+			"3"		"4231"
+			"4"		"1667"
+			"5"		"113"
+			"6"		"4085"
+			"7"		"12095"
+			"8"		"6971"
+			"9"		"492"
+			"10"		"4182"
+			"11"		"4667"
+			"12"		"5611"
+		}
+		"review_score"		"7"
+		"review_percentage"		"80"
+	}
+	"extended"
+	{
+		"developer"		"Hisoka"
+		"publisher"		"Hisoka"
+		"homepage"		"https://echoes-of-monochrome.com/"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"BCO"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Game.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"528941"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8703500782863228354"
+					"size"		"1880019762"
+					"download"		"1147665520"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7048081"
+				"timeupdated"		"1626634024"
+			}
+		}
+	}
+}
