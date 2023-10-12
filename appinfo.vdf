@@ -1,0 +1,186 @@
+"appinfo"
+{
+	"appid"		"421960"
+	"common"
+	{
+		"name"		"World of Fishing"
+		"type"		"Game"
+		"logo"		"25463ad3bba276e4122da7cbf57f59b36b023378"
+		"logo_small"		"25463ad3bba276e4122da7cbf57f59b36b023378_thumb"
+		"icon"		"bff206822977dce9b6348e361cc3865fee777562"
+		"clienttga"		"956e39121de4726cf6f21da09d180db4d0fe2743"
+		"clienticon"		"b2bede2a2b8d014537d9ca96fb893dd27484f59e"
+		"oslist"		"windows"
+		"eulas"
+		{
+			"1"
+			{
+				"id"		"421960_eula_1"
+				"name"		"World of Fishing EULA 1"
+				"url"		"http://store.steampowered.com//eula/421960_eula_1"
+			}
+		}
+		"releasestate"		"released"
+		"metacritic_name"		"World of Fishing"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1473436266"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Masangsoft, Inc."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"InselGames"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"29"
+			"2"		"3"
+			"3"		"28"
+			"4"		"18"
+		}
+		"category"
+		{
+			"category_20"		"1"
+			"category_35"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1473145320"
+		"community_hub_visible"		"1"
+		"gameid"		"421960"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"15564"
+			"2"		"599"
+			"3"		"3859"
+			"4"		"128"
+			"5"		"122"
+			"6"		"701"
+			"7"		"21"
+			"8"		"1695"
+			"9"		"10397"
+			"10"		"7208"
+		}
+		"review_score"		"5"
+		"review_percentage"		"54"
+	}
+	"extended"
+	{
+		"gamedir"		""
+		"developer"		"Masangsoft, Inc."
+		"publisher"		"InselGames"
+		"homepage"		"http://register.worldoffishing.net/steam.html"
+		"listofdlc"		"526010,528780,544070,544071"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"World of Fishing"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"WOF_LogIn_STEAM.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german"
+		"228982"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228984"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229002"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"421961"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2892273374042496092"
+					"size"		"1809652712"
+					"download"		"1632866912"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1317787"
+				"timeupdated"		"1473052112"
+			}
+		}
+	}
+}
