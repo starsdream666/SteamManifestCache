@@ -1,0 +1,170 @@
+"appinfo"
+{
+	"appid"		"559460"
+	"common"
+	{
+		"name"		"Cloud Pirates"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"clienticon"		"eb70052f3efc9ea291ab6a375a62eeb99f1bf619"
+		"clienttga"		"e178666032fde08c83ccdb804f3a1911bbabab9e"
+		"icon"		"14530046d09e00e73dd359638a4334743ce36ba3"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"559460_eula_0"
+				"name"		"Cloud Pirates EULA"
+				"url"		"http://store.steampowered.com//eula/559460_eula_0"
+			}
+		}
+		"logo"		"e9ebe05aa8127717f9d1495af0b92c7e6a97ed26"
+		"logo_small"		"e9ebe05aa8127717f9d1495af0b92c7e6a97ed26_thumb"
+		"metacritic_name"		"Cloud Pirates"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1497602533"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Allods Team"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"my.com"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"29"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_36"		"1"
+			"category_35"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1492622640"
+		"community_hub_visible"		"1"
+		"gameid"		"559460"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"3859"
+			"2"		"5711"
+			"3"		"9"
+			"4"		"1774"
+			"5"		"1775"
+			"6"		"128"
+			"7"		"1685"
+			"8"		"1681"
+			"9"		"3878"
+			"10"		"113"
+			"11"		"6910"
+			"12"		"493"
+			"13"		"1695"
+			"14"		"1718"
+		}
+		"review_score"		"6"
+		"review_percentage"		"71"
+	}
+	"extended"
+	{
+		"developer"		"Allods Team"
+		"publisher"		"my.com"
+		"homepage"		"https://pirates.my.com/"
+		"listofdlc"		"580192,614110,614111"
+	}
+	"config"
+	{
+		"installdir"		"Cloud Pirates"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"WarfaceMycomSteamLoader.exe"
+				"arguments"		"-fromsteam"
+				"type"		"none"
+			}
+		}
+	}
+	"depots"
+	{
+		"559461"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5912306253053982826"
+					"size"		"624242709"
+					"download"		"517836736"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"71681A6578A9156E37D062B6FF2FA3BA"
+					"size"		"24AE1772063BCDDCD5680A77D902F908"
+					"download"		"B8FB2A0C45CA64FEF8DA31DF6655014D"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12362145"
+				"timeupdated"		"1696495492"
+			}
+			"test"
+			{
+				"buildid"		"5116032"
+				"pwdrequired"		"1"
+				"timeupdated"		"1696495135"
+			}
+		}
+	}
+}
