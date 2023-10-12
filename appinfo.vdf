@@ -1,0 +1,302 @@
+"appinfo"
+{
+	"appid"		"1657780"
+	"common"
+	{
+		"name"		"Ultimechs"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"logo"		"0e61e854412c92a9f1d1b960584419650c87058d"
+		"logo_small"		"0e61e854412c92a9f1d1b960584419650c87058d_thumb"
+		"icon"		"09b5ebae9a2c8d0f779c43524633436d9b0793b9"
+		"clienttga"		"5420b990536559e3bbd7643d14540775e65bb9c9"
+		"clienticon"		"46ab819dc33bd3599d21678b18fbbdba95fbc386"
+		"clienticns"		"c9ea89765c75093955347522901f2e66fff332e7"
+		"openvrsupport"		"1"
+		"releasestate"		"released"
+		"openvr_action_manifest_path"		"Ultimechs_Data/StreamingAssets/SteamVR/actions.json"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1657780_eula_0"
+				"name"		"Ultimechs EULA"
+				"url"		"https://store.steampowered.com//eula/1657780_eula_0"
+				"version"		"2"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"63.57308584686775"
+				"height_pct"		"93.74324599593655"
+			}
+		}
+		"store_asset_mtime"		"1675108568"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Resolution Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Resolution Games"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Resolution Games"
+			}
+		}
+		"primary_genre"		"18"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"18"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_27"		"1"
+			"category_35"		"1"
+			"category_52"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1663261109"
+		"community_hub_visible"		"1"
+		"gameid"		"1657780"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"21978"
+			"2"		"701"
+			"3"		"1254546"
+			"4"		"4821"
+			"5"		"1775"
+			"6"		"1773"
+			"7"		"5055"
+			"8"		"5711"
+			"9"		"19"
+			"10"		"4835"
+			"11"		"4155"
+			"12"		"5752"
+			"13"		"3968"
+			"14"		"4295"
+			"15"		"1685"
+			"16"		"3859"
+			"17"		"3843"
+			"18"		"4182"
+			"19"		"3942"
+		}
+		"review_score"		"8"
+		"review_percentage"		"86"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Resolution Games"
+		"publisher"		"Resolution Games"
+		"homepage"		"http://www.resolutiongames.com/ultimechs"
+	}
+	"config"
+	{
+		"installdir"		"Ultimechs"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Ultimechs.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1657781"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8865026887628046235"
+					"size"		"1435169884"
+					"download"		"1022323472"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"betatesting_kws"
+				{
+					"gid"		"C65A1DE999B57589E7420F0932D7703B"
+					"size"		"C2DAA7CE7CEC517DCCF36FA2C076A72E"
+					"download"		"0A0E9F62F3BD22F595BDBA81A3E358F8"
+				}
+				"development"
+				{
+					"gid"		"D195BFF18A9A23B9FD81AF0425D31BA1"
+					"size"		"C6952A0BA107814948F190EC4299F24C"
+					"download"		"5FE67FA23F991FA2D9D8181113923756"
+				}
+				"prerelease"
+				{
+					"gid"		"B310455F277EE7D38F9F98BA4063C765"
+					"size"		"D3D4409425046D287973BCA2A3B5E712"
+					"download"		"7F06CD4376289EC40DB275EA0B4178B1"
+				}
+				"qa_internal"
+				{
+					"gid"		"3A4DE1AE946506D309E223E68378AAF1"
+					"size"		"529BCD3E104881ED4D7269607FB0E346"
+					"download"		"2116CDEDDA079E815238DFE3706E5301"
+				}
+				"release_candidate"
+				{
+					"gid"		"202A2668890A66422D642B3045F0BE3D"
+					"size"		"40C62C9E52D62B928EAB3ACADDAD976C"
+					"download"		"DA1E8604D3DD435D772CAE0AE66CC610"
+				}
+				"staging"
+				{
+					"gid"		"7AF6FFBFC7B90FEE7DEF69C8EA4C49FB"
+					"size"		"53939691C4C0ECA34E635A735FFCC76C"
+					"download"		"75CE21C31096FF3882B674AB9C8D87B5"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12283491"
+				"timeupdated"		"1695996033"
+			}
+			"betatesting_kws"
+			{
+				"buildid"		"9341160"
+				"pwdrequired"		"1"
+				"timeupdated"		"1660894852"
+			}
+			"development"
+			{
+				"buildid"		"11414816"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686147742"
+			}
+			"prerelease"
+			{
+				"buildid"		"11414816"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686152361"
+			}
+			"qa_internal"
+			{
+				"buildid"		"10153450"
+				"pwdrequired"		"1"
+				"timeupdated"		"1671102058"
+			}
+			"release_candidate"
+			{
+				"buildid"		"12283491"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695994129"
+			}
+			"staging"
+			{
+				"buildid"		"12283491"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695715876"
+			}
+		}
+	}
+}
