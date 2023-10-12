@@ -1,0 +1,206 @@
+"appinfo"
+{
+	"appid"		"2257900"
+	"common"
+	{
+		"name"		"When All Guys Turned into Girls"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64"
+		"icon"		"40ceb26586ab778a47319f9bcf09c8cb188b13ad"
+		"clienticon"		"995227bcffc36cd2b770f5c07dea5d6e33b81115"
+		"clienttga"		"798b6101dbcc43d676bfdb25c57e4a95567f3cb2"
+		"releasestate"		"released"
+		"app_retired_publisher_request"		"1"
+		"app_retired_was_free"		"1"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"3"
+			"2"		"5"
+			"3"		"4"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"restricted_countries"		"CN,DE"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"53.88477788736364"
+				"height_pct"		"93.40277777777779"
+			}
+		}
+		"store_asset_mtime"		"1672162299"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Witty Minx"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Witty Minx"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1673332284"
+		"community_hub_visible"		"1"
+		"gameid"		"2257900"
+		"store_tags"
+		{
+			"0"		"12095"
+			"1"		"6650"
+			"2"		"4136"
+			"3"		"1719"
+			"4"		"5186"
+			"5"		"3799"
+			"6"		"44868"
+			"7"		"4878"
+			"8"		"1651"
+			"9"		"4845"
+			"10"		"21"
+			"11"		"5611"
+			"12"		"3871"
+			"13"		"4195"
+			"14"		"1751"
+			"15"		"4947"
+			"16"		"6971"
+			"17"		"1742"
+			"18"		"4182"
+		}
+		"review_score"		"5"
+		"review_percentage"		"67"
+	}
+	"extended"
+	{
+		"developer"		"Witty Minx"
+		"publisher"		"Witty Minx"
+		"homepage"		"https://twitter.com/wittyminxgames"
+	}
+	"config"
+	{
+		"installdir"		"When All Guys Turned into Girls"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"WhenAllGuysTurnedIntoGirls-1.0-pc\\WhenAllGuysTurnedIntoGirls.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"WhenAllGuysTurnedIntoGirls.app"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"WhenAllGuysTurnedIntoGirls-1.0-linux/WhenAllGuysTurnedIntoGirls.sh"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2257901"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3735487048649250014"
+					"size"		"153170841"
+					"download"		"92682832"
+				}
+			}
+		}
+		"2257902"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"56759018333035737"
+					"size"		"103188790"
+					"download"		"78251456"
+				}
+			}
+		}
+		"2257903"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7698658216104380277"
+					"size"		"129353381"
+					"download"		"85120000"
+				}
+			}
+		}
+		"baselanguages"		"english,russian"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10179855"
+				"timeupdated"		"1671487078"
+			}
+		}
+	}
+}
