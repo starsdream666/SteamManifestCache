@@ -1,0 +1,165 @@
+"appinfo"
+{
+	"appid"		"2256920"
+	"common"
+	{
+		"name"		"Friendly Facade"
+		"type"		"Game"
+		"icon"		"354f7b31fecaeec6ae2c56b0d42666b718ef5df2"
+		"clienticon"		"707d4f20f7905c9f80cd5da8aa9112eebfba2b62"
+		"clienttga"		"082a66dd9908f3199e8be47fbde68578bf85851a"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"53.54691075514873"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1695156512"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Emergence"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Emergence"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"2"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1674838800"
+		"community_hub_visible"		"1"
+		"gameid"		"2256920"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"5716"
+			"2"		"3799"
+			"3"		"1742"
+			"4"		"4085"
+			"5"		"5613"
+			"6"		"7208"
+			"7"		"4486"
+			"8"		"4305"
+			"9"		"4182"
+			"10"		"4136"
+			"11"		"3871"
+			"12"		"4342"
+			"13"		"1698"
+			"14"		"1719"
+			"15"		"6971"
+			"16"		"5186"
+			"17"		"5923"
+			"18"		"3978"
+			"19"		"10397"
+		}
+		"review_score"		"7"
+		"review_percentage"		"80"
+	}
+	"extended"
+	{
+		"developer"		"Emergence"
+		"publisher"		"Emergence"
+	}
+	"config"
+	{
+		"installdir"		"Friendly Facade"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Friendly Facade.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2256921"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7031572777115912755"
+					"size"		"3195411834"
+					"download"		"1550122448"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"E881220A90FBB1D04A45D3873F17E34F"
+					"size"		"2A7D58FA4FABA51432BDAAF23D2BFDD2"
+					"download"		"1BA263DC8FA72E91CF9F6085C5D4E391"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12395691"
+				"timeupdated"		"1696873023"
+			}
+			"beta"
+			{
+				"buildid"		"12395691"
+				"pwdrequired"		"1"
+				"timeupdated"		"1696872861"
+			}
+		}
+	}
+}
