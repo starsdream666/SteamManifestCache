@@ -1,0 +1,175 @@
+"appinfo"
+{
+	"appid"		"290140"
+	"common"
+	{
+		"name"		"Echo of Soul"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"icon"		"7c9708110a3d78522904da30e5bb55039cc92924"
+		"clienttga"		"9b8f22e8c8f53b9114e5a9de93f01d23233dcf80"
+		"logo"		"a449f594e7be00f83f04112f701ce544027e967f"
+		"logo_small"		"a449f594e7be00f83f04112f701ce544027e967f_thumb"
+		"clienticon"		"861cb7c78ebbb12122874a82dde529299cf36a4a"
+		"metacritic_name"		"Echo of Soul"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"french"		"capsule_231x87_french.jpg"
+			"german"		"capsule_231x87_german.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"german"		"header_german.jpg"
+			"french"		"header_french.jpg"
+		}
+		"store_asset_mtime"		"1472214424"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Mr. Blue"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Aeria Games"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"29"
+			"2"		"3"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_20"		"1"
+			"category_29"		"1"
+			"category_36"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1434992520"
+		"community_hub_visible"		"1"
+		"gameid"		"290140"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"1754"
+			"2"		"122"
+			"3"		"128"
+			"4"		"1684"
+			"5"		"4085"
+			"6"		"1695"
+			"7"		"3859"
+			"8"		"19"
+			"9"		"21"
+			"10"		"1775"
+			"11"		"1697"
+			"12"		"3843"
+		}
+		"review_score"		"5"
+		"review_percentage"		"59"
+	}
+	"extended"
+	{
+		"gamedir"		""
+		"developer"		"Mr. Blue"
+		"publisher"		"Aeria Games"
+		"homepage"		"http://echoofsoul.aeriagames.com/"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Echo of Soul"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"EOSLauncher.exe"
+				"arguments"		"-steam"
+				"description"		"Launch"
+			}
+		}
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"290141"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6014378016218504216"
+					"size"		"13237317812"
+					"download"		"6368430176"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"aeria_test"
+				{
+					"gid"		"50EEEA0BE54A424229ABACEB30527346"
+					"size"		"B85F7292C887806504C3368BEE302399"
+					"download"		"62AA4C37FC1A60CCDD703B3203AB4607"
+				}
+				"staging"
+				{
+					"gid"		"522D579B11AAA86020C8A5EDA6AA3948"
+					"size"		"7CB79E1BFCEEA4081AB67FAD9D79709D"
+					"download"		"D4660333F24C6FFE7F6FC636BB7AAEE1"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1938533"
+				"timeupdated"		"1499268985"
+			}
+			"aeria_test"
+			{
+				"buildid"		"637344"
+				"pwdrequired"		"1"
+			}
+			"staging"
+			{
+				"buildid"		"1938533"
+				"pwdrequired"		"1"
+				"timeupdated"		"1499266454"
+			}
+		}
+	}
+}
