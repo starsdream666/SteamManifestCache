@@ -1,0 +1,271 @@
+"appinfo"
+{
+	"appid"		"1554400"
+	"common"
+	{
+		"name"		"Paint Chips"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"logo"		"46cf2e31c6925f94b6a724be3356017ed68938c4"
+		"logo_small"		"46cf2e31c6925f94b6a724be3356017ed68938c4_thumb"
+		"clienticon"		"8754412fba66839ae21556fed8c243d5503d83b2"
+		"clienttga"		"d242e163d4b5ff5eb845a7a549e291bf6a8457fe"
+		"icon"		"4d6bf18d2d9a819fd67d37192dd5dcc1e0535bc2"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"27.071299166303106"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1696345260"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"PhatRobit"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"PhatRobit"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1620111600"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1554400"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"1774"
+			"2"		"5547"
+			"3"		"4637"
+			"4"		"4758"
+			"5"		"3871"
+			"6"		"3964"
+			"7"		"4791"
+			"8"		"1775"
+			"9"		"5350"
+			"10"		"492"
+			"11"		"4747"
+			"12"		"3859"
+			"13"		"3993"
+			"14"		"7481"
+			"15"		"113"
+		}
+		"review_score"		"8"
+		"review_percentage"		"91"
+	}
+	"extended"
+	{
+		"developer"		"PhatRobit"
+		"publisher"		"PhatRobit"
+		"homepage"		"https://paintchipsgame.com/"
+	}
+	"config"
+	{
+		"installdir"		"Paint Chips"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Paint Chips.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Paint Chips.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Paint Chips.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+		"steamdecktouchscreen"		"1"
+		"steamcontrollertemplateindex"		"3"
+	}
+	"depots"
+	{
+		"1554401"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8086141110123380905"
+					"size"		"255042982"
+					"download"		"74026784"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"developer"
+				{
+					"gid"		"B99395B49C9BEC74404DEC560D375B9B"
+					"size"		"01DEA55F36416A17A81D79256E8022B3"
+					"download"		"02E03D1220DBE3095593B947886BC3D2"
+				}
+			}
+		}
+		"1554402"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7255431269709232446"
+					"size"		"275630715"
+					"download"		"79701712"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"developer"
+				{
+					"gid"		"D06D1C5AE5BC7DC09E6B8E42E94008EF"
+					"size"		"9275F89DAF231ED5CDD18313181C7E8D"
+					"download"		"1F941C0F7AC7DB82E3657A59B2CC2378"
+				}
+			}
+		}
+		"1554403"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7868134063738284760"
+					"size"		"257883589"
+					"download"		"72982032"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"developer"
+				{
+					"gid"		"8887040DA95D4E1E090B99320949334E"
+					"size"		"67A680C3B6E59B29ED41EC80448CF3F4"
+					"download"		"15AB3753DC1E503031E4000032B3C003"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12329748"
+				"timeupdated"		"1696189397"
+			}
+			"developer"
+			{
+				"buildid"		"12359509"
+				"pwdrequired"		"1"
+				"timeupdated"		"1696467862"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"512000"
+		"maxnumfiles"		"50"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"SaveData"
+				"pattern"		"*.es3"
+			}
+		}
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#status_title"		"Title Screen"
+					"#status_sociallobby"		"Social Lobby"
+					"#status_inlobby"		"{#Status_%gametype%} Lobby"
+					"#status_ingame"		"{#Status_%gametype%}"
+					"#status_results"		"Viewing {#Status_%gametype%} Results"
+					"#status_quickmatch"		"Quick Match"
+					"#status_customgame"		"Custom Game"
+				}
+			}
+		}
+	}
+}
