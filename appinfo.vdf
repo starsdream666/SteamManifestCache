@@ -1,0 +1,186 @@
+"appinfo"
+{
+	"appid"		"1731880"
+	"common"
+	{
+		"name"		"Upgrade VR"
+		"type"		"Game"
+		"releasestate"		"released"
+		"clienticon"		"b5881b4f8bf498c95a29106e42142e96b9c9806a"
+		"clienttga"		"7d76b6d8cd8020788f224bc9fbefe0b3585bc3ec"
+		"icon"		"a5d9544a4e49f1292b14f24f77f5fc0a94c205a5"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"standing"		"1"
+		}
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"7578a7178e2f3f35840feabd9ccd3e55573458af"
+		"logo_small"		"7578a7178e2f3f35840feabd9ccd3e55573458af_thumb"
+		"openvrsupport"		"1"
+		"othervrsupport"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1668032635"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"UPGRADE VR - FZCO"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"UPGRADE VR - FZCO"
+			}
+		}
+		"primary_genre"		"18"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"18"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_52"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1675421340"
+		"community_hub_visible"		"1"
+		"gameid"		"1731880"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"701"
+			"2"		"1752"
+			"3"		"3834"
+			"4"		"21978"
+			"5"		"12057"
+			"6"		"856791"
+			"7"		"4182"
+			"8"		"17770"
+		}
+		"review_score"		"7"
+		"review_percentage"		"82"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"UPGRADE VR - FZCO"
+		"publisher"		"UPGRADE VR - FZCO"
+		"homepage"		"https://vr-upgrade.com/"
+	}
+	"config"
+	{
+		"installdir"		"Upgrade VR"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"UpgradeVR.exe"
+				"arguments"		"-vr"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1731881"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8806232013816654215"
+					"size"		"1040854015"
+					"download"		"759581600"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"private-beta"
+				{
+					"gid"		"01E23C3D90C7D3BAAEEBED64D8DE372B"
+					"size"		"6971116AC581FA01A759B745D58CFD60"
+					"download"		"9999A0AAE32B66F65B562A1CE0461EF0"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11652294"
+				"timeupdated"		"1688758641"
+			}
+			"private-beta"
+			{
+				"buildid"		"10710918"
+				"pwdrequired"		"1"
+				"timeupdated"		"1678200739"
+			}
+		}
+	}
+}
