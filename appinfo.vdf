@@ -91,13 +91,13 @@
 			"7"		"3871"
 		}
 		"review_score"		"7"
-		"review_percentage"		"88"
+		"review_percentage"		"86"
 	}
 	"extended"
 	{
 		"developer"		"GameCreator"
 		"publisher"		"GameCreator"
-		"listofdlc"		"2180560,2187430,2196710,2331200,2549140"
+		"listofdlc"		"2180560,2187430,2196710,2331200,2549140,2605660"
 		"dlcavailableonstore"		"1"
 	}
 	"config"
@@ -147,9 +147,9 @@
 			{
 				"test"
 				{
-					"gid"		"773C6ED4A5426B340CB56B9F401A47FD"
-					"size"		"16A5DBF0C52C9A77BD33F75D89F098C6"
-					"download"		"7DC778CC7D8A6EA5D1E1051F88A4BACD"
+					"gid"		"727CDBE81AD91210829DC760A7F4D80F"
+					"size"		"FE29F443C473C21F1C1D0C86CD24BA03"
+					"download"		"654031EAE7DADC1E8F4976B0CFC19077"
 				}
 			}
 		}
@@ -259,6 +259,27 @@
 				}
 			}
 		}
+		"2605660"
+		{
+			"dlcappid"		"2605660"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"DCA5F3DD363FB520BFF14FE1E7F46C70"
+					"size"		"C20E5C0209C1AF12BF2D9A1FFE76E047"
+					"download"		"1142142C4AA17763B90160F5190B1736"
+				}
+			}
+		}
 		"branches"
 		{
 			"public"
@@ -268,9 +289,9 @@
 			}
 			"test"
 			{
-				"buildid"		"11954055"
+				"buildid"		"12422899"
 				"pwdrequired"		"1"
-				"timeupdated"		"1692182994"
+				"timeupdated"		"1697106964"
 			}
 		}
 	}
