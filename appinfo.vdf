@@ -1,0 +1,186 @@
+"appinfo"
+{
+	"appid"		"251970"
+	"common"
+	{
+		"name"		"Sins of a Dark Age"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"clienticon"		"05ebdc8f445698b284dd0359bbabb94d71cf9181"
+		"clienttga"		"df717574a42f8ebeff0fa6c7455962a54506ccc7"
+		"icon"		"cee4aeadcf73b7b00018c535fa3b850bfcdb9982"
+		"logo"		"b0a998ce21d6fb7639d7d54acf0ed20975b7fbef"
+		"logo_small"		"b0a998ce21d6fb7639d7d54acf0ed20975b7fbef_thumb"
+		"eulas"
+		{
+		}
+		"metacritic_name"		"Sins of a Dark Age"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1431117403"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Ironclad Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Ironclad Games"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+			"3"		"3"
+			"4"		"2"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1431119880"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"251970"
+		"store_tags"
+		{
+			"0"		"1718"
+			"1"		"4604"
+			"2"		"3859"
+			"3"		"9"
+			"4"		"113"
+			"5"		"1684"
+			"6"		"122"
+			"7"		"19"
+			"8"		"4172"
+			"9"		"1756"
+			"10"		"492"
+			"11"		"1676"
+			"12"		"1723"
+			"13"		"493"
+		}
+		"review_score"		"5"
+		"review_percentage"		"66"
+	}
+	"extended"
+	{
+		"developer"		"Ironclad Games"
+		"publisher"		"Ironclad Games"
+		"homepage"		"https://www.sinsofadarkage.com"
+		"listofdlc"		"270900"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Sins of a Dark Age"
+		"launch"
+		{
+		}
+	}
+	"depots"
+	{
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"overridescddb"		"1"
+		"markdlcdepots"		"1"
+		"251971"
+		{
+			"systemdefined"		"1"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7683089303387639817"
+					"size"		"4545337540"
+					"download"		"2548443056"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev"
+				{
+					"gid"		"D11CC92EC1C969A46B15D2CD39E92A95"
+					"size"		"36990EDE81AD3CE1D46BC9A90B9891D9"
+					"download"		"1F9CE4CD513FB68E6E8F0366D0E5F108"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"671229"
+			}
+			"dev"
+			{
+				"buildid"		"670937"
+				"pwdrequired"		"1"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000000"
+		"maxnumfiles"		"1000"
+	}
+}
