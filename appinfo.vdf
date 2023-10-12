@@ -1,0 +1,146 @@
+"appinfo"
+{
+	"appid"		"1769850"
+	"common"
+	{
+		"name"		"zsweep_st"
+		"type"		"Game"
+		"releasestate"		"released"
+		"clienttga"		"1994e59dc7d5e019c37cb7def57657f4911b2d53"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"b20c9f328b00e42c70a8203c4f7a00349dd6c4b9"
+		"logo_small"		"b20c9f328b00e42c70a8203c4f7a00349dd6c4b9_thumb"
+		"icon"		"48bc2a8816ed3c895848f9458401da5819eabd30"
+		"clienticon"		"fc03e9a658c13ea0181d1598174b44fe19558908"
+		"app_retired_was_free"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"27.209302325581405"
+				"height_pct"		"49.62004274519118"
+			}
+		}
+		"store_asset_mtime"		"1633917782"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"zsweep_st"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"zsweep_st"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1634886857"
+		"community_hub_visible"		"1"
+		"gameid"		"1769850"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"1664"
+			"2"		"3871"
+			"3"		"5537"
+			"4"		"6129"
+			"5"		"6052"
+			"6"		"4182"
+		}
+		"review_score"		"5"
+		"review_percentage"		"45"
+	}
+	"extended"
+	{
+		"developer"		"zsweep_st"
+		"publisher"		"zsweep_st"
+	}
+	"config"
+	{
+		"installdir"		"zsweep_st"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"win64_project\\zsweep_st.exe"
+				"workingdir"		"win64_project"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"this is a sweep game"
+					"schinese"		"这是一个扫雷游戏"
+				}
+				"description"		"this is a sweep game"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"schinese"
+		"1769859"
+		{
+			"config"
+			{
+				"language"		"schinese"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1581709236873970769"
+					"size"		"66499391"
+					"download"		"18579744"
+				}
+			}
+		}
+		"hasdepotsindlc"		"0"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7600291"
+				"timeupdated"		"1635233965"
+			}
+		}
+	}
+}
