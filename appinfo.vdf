@@ -1,0 +1,169 @@
+"appinfo"
+{
+	"appid"		"1578810"
+	"common"
+	{
+		"name"		"铁血攻沙"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"feec6f5c29317fd45cd738e818eeff85e27245a3"
+		"logo_small"		"feec6f5c29317fd45cd738e818eeff85e27245a3_thumb"
+		"icon"		"26a78d844b6d53b9367786abf7a4d727b7ca2ceb"
+		"clienttga"		"4fda0749862bca41aa1960c33e31f2fb8391511c"
+		"clienticon"		"0a66fb642bff5263f81a0743c2384a8b40ce332b"
+		"releasestate"		"released"
+		"linuxclienticon"		"1b3d8238daf0469ad40cd60a548c05b64e7660ec"
+		"app_retired_was_free"		"1"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"zh-xc,en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1622893163"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"GAME COLOR NETWORK TECHNOLOGY LTD"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"GAME COLOR NETWORK TECHNOLOGY LTD"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+			"3"		"23"
+			"4"		"29"
+			"5"		"3"
+			"6"		"2"
+		}
+		"category"
+		{
+			"category_20"		"1"
+			"category_1"		"1"
+			"category_35"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1622765033"
+		"community_hub_visible"		"1"
+		"gameid"		"1578810"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"1775"
+			"2"		"1754"
+			"3"		"3871"
+			"4"		"122"
+			"5"		"9"
+			"6"		"3916"
+			"7"		"19"
+			"8"		"1676"
+			"9"		"128"
+			"10"		"3813"
+			"11"		"4975"
+			"12"		"5379"
+			"13"		"3859"
+		}
+		"review_score"		"5"
+		"review_percentage"		"65"
+	}
+	"extended"
+	{
+		"developer"		"GAME COLOR NETWORK TECHNOLOGY LTD"
+		"publisher"		"GAME COLOR NETWORK TECHNOLOGY LTD"
+	}
+	"config"
+	{
+		"installdir"		"txgs"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"game.steam.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"schinese"
+		"1578811"
+		{
+			"config"
+			{
+				"language"		"schinese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1380078830792823066"
+					"size"		"1417893844"
+					"download"		"1400396528"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"2813F7CF57A1244B65F669BBF004B1F1"
+					"size"		"035D77C5323AE107708D49DB4EB90F3D"
+					"download"		"460AAAFC7917772D5197BD1435D043E2"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6943714"
+				"timeupdated"		"1624876728"
+			}
+			"beta"
+			{
+				"buildid"		"6943714"
+				"pwdrequired"		"1"
+				"timeupdated"		"1624873915"
+			}
+		}
+	}
+}
