@@ -1,0 +1,226 @@
+"appinfo"
+{
+	"appid"		"561440"
+	"common"
+	{
+		"name"		"Graffiti Bombing"
+		"type"		"Game"
+		"releasestate"		"released"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"1"
+			}
+		}
+		"oslist"		"windows"
+		"osarch"		"64"
+		"logo"		"c9a0318f9115dac1dffdab4ca3d9ad861cbb6b99"
+		"logo_small"		"c9a0318f9115dac1dffdab4ca3d9ad861cbb6b99_thumb"
+		"clienttga"		"7a3c7faac0f767e063ed5ceaf4f075544fe78e6b"
+		"clienticon"		"d19e4365c2ddd2433856b7d0c667bbd79d4b8daa"
+		"icon"		"047e794d3de700be15d780cbacde681c9bcb3e04"
+		"openvr_action_manifest_path"		"Graffiti Bombing_Data\\\\StreamingAssets\\\\SteamVR\\\\actions.json"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"561440_eula_0"
+				"name"		"Graffiti Bombing EULA"
+				"url"		"https://store.steampowered.com//eula/561440_eula_0"
+			}
+		}
+		"openvrsupport"		"1"
+		"metacritic_name"		"Graffiti Bombing"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"66.63785652549694"
+				"height_pct"		"63.88888888888891"
+			}
+		}
+		"store_asset_mtime"		"1592071124"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Urban Weaponry"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Will Lingard"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Urban Weaponry"
+			}
+			"3"
+			{
+				"type"		"publisher"
+				"name"		"Will Lingard"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"28"
+			"1"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_52"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1598735640"
+		"community_hub_visible"		"1"
+		"gameid"		"561440"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"599"
+			"1"		"493"
+			"2"		"21978"
+			"3"		"113"
+			"4"		"597"
+		}
+		"review_score"		"5"
+		"review_percentage"		"60"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Urban Weaponry"
+		"publisher"		"Urban Weaponry"
+		"homepage"		"http://www.graffitibombing.com"
+		"listofdlc"		"1004680"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Graffiti-Bombing"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Graffiti Bombing.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"561441"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8397628222232939120"
+					"size"		"10010766541"
+					"download"		"3908496704"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"gb-closed-beta-2023"
+				{
+					"gid"		"113658C02B37B6FEA811821BBF0E3AEB"
+					"size"		"86CDCB580DAE6DEF1F772FC19FFF675F"
+					"download"		"A3B6763C479FD85AD46A67A97977912D"
+				}
+				"internal-testing"
+				{
+					"gid"		"91E9F4A7BA3C7BB186F96DFC65AA1A6A"
+					"size"		"6FB77207CCD2D5885C99DCE25BB3FFF8"
+					"download"		"9CA2147F03C7051642022DD49A5F822C"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5479502"
+				"timeupdated"		"1598787034"
+			}
+			"gb-closed-beta-2023"
+			{
+				"buildid"		"11982893"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692459974"
+			}
+			"internal-testing"
+			{
+				"buildid"		"11982893"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692459504"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"512000000"
+		"maxnumfiles"		"2000"
+		"hidecloudui"		"1"
+		"ignoreexternalfiles"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Urban Weaponry/Graffiti Bombing/GameSaves/DefaultGbGameWorld"
+				"pattern"		"*"
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Urban Weaponry/Graffiti Bombing/GameSaves/DefaultGbGameSettings"
+				"pattern"		"*"
+			}
+		}
+	}
+}
