@@ -1,0 +1,168 @@
+"appinfo"
+{
+	"appid"		"2259190"
+	"common"
+	{
+		"name"		"Protos Magos"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"ef1267ff3228dbb46ecb8a0fb0f7491499865fb0"
+		"clienttga"		"6012ea81d68607ad0dfc5610e61f17101373c1fd"
+		"clienticon"		"6a82393f97379e69612b946338d3cf451c8e1c40"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"79.47083624509547"
+				"height_pct"		"74.51262191372398"
+			}
+		}
+		"store_asset_mtime"		"1680868768"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Neverbomb"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Stratisphere Ltd"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1680215800"
+		"community_hub_visible"		"1"
+		"gameid"		"2259190"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"21"
+			"2"		"4106"
+			"3"		"1774"
+			"4"		"1663"
+			"5"		"4191"
+			"6"		"3839"
+			"7"		"9541"
+			"8"		"493"
+			"9"		"4057"
+			"10"		"4345"
+			"11"		"4667"
+			"12"		"4172"
+			"13"		"3916"
+			"14"		"4182"
+		}
+		"review_score"		"5"
+		"review_percentage"		"68"
+	}
+	"extended"
+	{
+		"developer"		"Neverbomb"
+		"publisher"		"Stratisphere Ltd"
+	}
+	"config"
+	{
+		"installdir"		"Protos Magos"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ProtosMagos.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"hasdepotsindlc"		"0"
+		"baselanguages"		"english"
+		"2259191"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2855155778182757504"
+					"size"		"10713000811"
+					"download"		"10457185872"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12081812"
+				"timeupdated"		"1693511023"
+			}
+		}
+	}
+}
