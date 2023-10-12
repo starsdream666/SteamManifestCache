@@ -1,0 +1,183 @@
+"appinfo"
+{
+	"appid"		"1673320"
+	"common"
+	{
+		"name"		"Survivor"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"logo"		"7be22048349c4af5accbd2538ef05dcd42ad7dbc"
+		"logo_small"		"7be22048349c4af5accbd2538ef05dcd42ad7dbc_thumb"
+		"icon"		"323142fb5d9bfd2a53ac5d6167f5892600ef02e2"
+		"clienttga"		"f47051ae2a07160a756eaf560ff1fb5799525e9e"
+		"clienticon"		"d3ff10480d55b9ade3c5c8d4e762654567ac2625"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"31.720641467262766"
+				"height_pct"		"68.43152153424369"
+			}
+		}
+		"store_asset_mtime"		"1696582380"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"kolacape"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"kolacape"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1626078600"
+		"community_hub_visible"		"1"
+		"gameid"		"1673320"
+		"store_tags"
+		{
+			"0"		"1659"
+			"1"		"4166"
+			"2"		"21"
+			"3"		"1774"
+			"4"		"3993"
+			"5"		"3839"
+			"6"		"3835"
+			"7"		"5547"
+			"8"		"19"
+			"9"		"4182"
+			"10"		"1663"
+			"11"		"4026"
+			"12"		"4191"
+			"13"		"1662"
+			"14"		"1667"
+			"15"		"620519"
+			"16"		"4255"
+			"17"		"492"
+			"18"		"597"
+			"19"		"6730"
+		}
+		"review_score"		"5"
+		"review_percentage"		"57"
+	}
+	"extended"
+	{
+		"developer"		"kolacape"
+		"publisher"		"kolacape"
+	}
+	"config"
+	{
+		"installdir"		"Survivor"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"Survivor.exe"
+				"arguments"		"-fullscreen"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1673321"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4642746262008175777"
+					"size"		"2979355257"
+					"download"		"2745767824"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"privatetestingbranch"
+				{
+					"gid"		"6BEA11FB0CB2A982FE9334D3C02DC494"
+					"size"		"B225D8C155B5A3EAFBF8C93D6DFAC541"
+					"download"		"68D021D5BFA1B962DF1D7F4EBF6F9554"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12357152"
+				"timeupdated"		"1696445303"
+			}
+			"privatetestingbranch"
+			{
+				"buildid"		"12409866"
+				"pwdrequired"		"1"
+				"timeupdated"		"1696998072"
+			}
+		}
+	}
+}
