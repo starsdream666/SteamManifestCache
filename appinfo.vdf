@@ -1,0 +1,117 @@
+"appinfo"
+{
+	"appid"		"743650"
+	"common"
+	{
+		"name"		"Quake Champions PTS"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"clienticon"		"f1d4be57d4628c6d6208fb06d37f4f42c19360b7"
+		"clienttga"		"3a7bb47009d37e3eaad9b44097ff362171e10cb3"
+		"icon"		"539032fb1e8b41d0a48ff11bf63bfe7918ace24c"
+		"logo"		"e61f7dfd6088f15d3f4905bff78e4d98c052ea65"
+		"logo_small"		"e61f7dfd6088f15d3f4905bff78e4d98c052ea65_thumb"
+		"associations"
+		{
+		}
+		"community_hub_visible"		"1"
+		"gameid"		"743650"
+	}
+	"config"
+	{
+		"installdir"		"quakechampions_PTS"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"client\\bin\\pc\\QuakeChampions.exe"
+				"arguments"		"--startup --set /Config/Backend_Config/serverIP \"pts-shared-eds.quakeapi.com\"  --set /Config/Bethesda/BaseEndpoint \"https://api.bethesda.net/agora_beam/\" --set /Config/Bethesda/BeamKey \"tPSm2eGedApJvgaqRVV4qvRHN1AmOoz3tIcKVH7UvMLBFIEabm8KKq5Nm5OIPXSf\" --set /Config/GAME_CONFIG/showJumpingWatermark true"
+				"workingdir"		"client\\bin\\pc"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"PTS Default Launch"
+				}
+				"description"		"PTS Default Launch"
+			}
+		}
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"743651"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7156283869254068896"
+					"size"		"34731992994"
+					"download"		"30942407888"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"asun"
+				{
+					"gid"		"486EFA6AA525B7A561D5845A07CD8B38"
+					"size"		"5D388B5597251D8674C6E95012C9C1CB"
+					"download"		"43B64176A0C0F5727173D05390AC8E55"
+				}
+				"test_a"
+				{
+					"gid"		"2A5009243873D19154092DD1F7820D77"
+					"size"		"E30C3524FB71C0E6ECEE3DFB5BADB785"
+					"download"		"23DD0A9BBA50B68A94002E6C5243B94D"
+				}
+				"test_b"
+				{
+					"gid"		"6EDAAA118250A082141DBF3A994A71CD"
+					"size"		"E381AC23FE28B6D04CE7A6EF08388F22"
+					"download"		"BEBDC7268763ECBE2C9BC4D55C2C5B4B"
+				}
+			}
+		}
+		"baselanguages"		"english,german,french,italian,spanish,russian,polish,brazilian,latam"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12253165"
+				"timeupdated"		"1695356390"
+			}
+			"asun"
+			{
+				"buildid"		"12081186"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693503385"
+			}
+			"test_a"
+			{
+				"buildid"		"12253165"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695356373"
+			}
+			"test_b"
+			{
+				"buildid"		"12253165"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695356380"
+			}
+		}
+	}
+}
