@@ -1,0 +1,189 @@
+"appinfo"
+{
+	"appid"		"1747280"
+	"common"
+	{
+		"name"		"塔王之王-三国志经典塔防"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"afcd2d34d36b83b487827f960cf804467594d780"
+		"logo_small"		"afcd2d34d36b83b487827f960cf804467594d780_thumb"
+		"icon"		"f0d53ffa102a2511ff56083da3c8021e18a2927e"
+		"clienticon"		"ff1ee723a94c177410a1e1051dc500fe33d3c6ef"
+		"clienttga"		"236a5f2b60a1642cead1c5f56db8be2f2522498c"
+		"releasestate"		"released"
+		"app_retired_was_free"		"1"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1648684800"
+			"tested_build_id"		"7693558"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-experimental"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1636445376"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"玩家福利群：602548008"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"礼包多多，福利多多！"
+			}
+		}
+		"primary_genre"		"70"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"37"
+			"2"		"23"
+			"3"		"29"
+			"4"		"3"
+			"5"		"2"
+			"6"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_20"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1635992468"
+		"community_hub_visible"		"1"
+		"gameid"		"1747280"
+		"store_tags"
+		{
+			"0"		"1645"
+			"1"		"1084988"
+			"2"		"1666"
+			"3"		"3813"
+			"4"		"9271"
+			"5"		"32322"
+			"6"		"9"
+			"7"		"1775"
+			"8"		"122"
+			"9"		"3859"
+			"10"		"4182"
+			"11"		"3871"
+			"12"		"128"
+			"13"		"3987"
+			"14"		"4004"
+			"15"		"1643"
+			"16"		"4085"
+			"17"		"7332"
+			"18"		"791774"
+			"19"		"1676"
+		}
+		"review_score"		"8"
+		"review_percentage"		"96"
+	}
+	"extended"
+	{
+		"developer"		"玩家福利群：602548008"
+		"publisher"		"礼包多多，福利多多！"
+	}
+	"config"
+	{
+		"installdir"		"塔王之王-三国志经典塔防"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"kot_creator.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"baselanguages"		"schinese"
+		"1747281"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"496602929597752115"
+					"size"		"233073123"
+					"download"		"111297280"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7693558"
+				"timeupdated"		"1636601219"
+			}
+		}
+	}
+}
