@@ -1,0 +1,145 @@
+"appinfo"
+{
+	"appid"		"355070"
+	"common"
+	{
+		"name"		"TDP5 Arena 3D"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"languages"
+		{
+			"english"		"1"
+			"russian"		"1"
+		}
+		"logo"		"838b514897997b8a628fc28e2585bec28f10ea7b"
+		"logo_small"		"838b514897997b8a628fc28e2585bec28f10ea7b_thumb"
+		"icon"		"5129253862bef4842ee8b06bd5c9cf4968c742e3"
+		"clienticon"		"88ab5ee586779ef5cbd2f569783f93ea9cdd2bf9"
+		"clienttga"		"439aa1fac113f64e5b246bdc5cd8d6f287450b8d"
+		"metacritic_name"		"TDP5 Arena 3D"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1426592904"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Javelin OÜ"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Javelin OÜ"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"29"
+		}
+		"category"
+		{
+			"category_1"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1410764400"
+		"steam_release_date"		"1427356690"
+		"community_hub_visible"		"1"
+		"gameid"		"355070"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"19"
+			"2"		"128"
+			"3"		"1774"
+			"4"		"1695"
+			"5"		"3859"
+			"6"		"1685"
+			"7"		"3839"
+			"8"		"1662"
+		}
+		"review_score"		"5"
+		"review_percentage"		"46"
+	}
+	"extended"
+	{
+		"gamedir"		""
+		"developer"		"Javelin OÜ"
+		"publisher"		"Javelin OÜ"
+		"homepage"		"http://www.tdp5.com/"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"TDP5 Arena 3D"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"tdp5.exe"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		""
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"355071"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"71547400993314814"
+					"size"		"39753847"
+					"download"		"9307120"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"567205"
+			}
+		}
+	}
+}
