@@ -1,0 +1,202 @@
+"appinfo"
+{
+	"appid"		"682290"
+	"common"
+	{
+		"name"		"Zeus' Battlegrounds"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"icon"		"808af13446419fa1a055e5af5aafcb63f7de98d1"
+		"logo"		"95d4eabc483d3bd7c5672abbb4f57c3cee2e5792"
+		"logo_small"		"95d4eabc483d3bd7c5672abbb4f57c3cee2e5792_thumb"
+		"clienticon"		"50a5a96f6fbdce7bd639955b48995e5ea812dc2d"
+		"clienttga"		"3f485732562b94a85eec04ec66cc849af1e3f58a"
+		"releasestate"		"released"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"682290_eula_0"
+				"name"		"Zeus' Battlegrounds EULA"
+				"url"		"https://store.steampowered.com//eula/682290_eula_0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1543609710"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Industry Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Industry Games"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"70"
+		}
+		"category"
+		{
+			"category_36"		"1"
+			"category_38"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_9"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1538186340"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"682290"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"176981"
+			"2"		"493"
+			"3"		"3859"
+			"4"		"19"
+			"5"		"4231"
+			"6"		"128"
+		}
+		"review_score"		"5"
+		"review_percentage"		"56"
+	}
+	"extended"
+	{
+		"developer"		"Industry Games"
+		"publisher"		"Industry Games"
+	}
+	"config"
+	{
+		"installdir"		"Zeus"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Zeus\\Binaries\\Win64\\Zeus-Win64-Test.exe"
+				"description"		"Zeus' Battlegrounds (Internal)"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"zeus-internal"
+				}
+			}
+			"1"
+			{
+				"executable"		"Zeus\\Binaries\\Win64\\Zeus-Win64-Shipping.exe"
+				"description"		"Zeus' Battlegrounds"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"usemms"		"1"
+	}
+	"depots"
+	{
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228987"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"hasdepotsindlc"		"1"
+		"682291"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5018191151340447179"
+					"size"		"8913924247"
+					"download"		"3726669280"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"zeus-internal"
+				{
+					"gid"		"7307DB53147660AA9B9FD15F36FCEA94"
+					"size"		"C0F45FD011C57DA2E0118D51E75732A0"
+					"download"		"B870515CE5ECF04F1E874544A44BEB10"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3422383"
+				"timeupdated"		"1545447115"
+			}
+			"zeus-internal"
+			{
+				"buildid"		"3418118"
+				"pwdrequired"		"1"
+				"timeupdated"		"1545344324"
+			}
+		}
+	}
+}
