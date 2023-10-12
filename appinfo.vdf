@@ -1,0 +1,356 @@
+"appinfo"
+{
+	"appid"		"586030"
+	"common"
+	{
+		"name"		"Shardbound"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"icon"		"a28f5696fae7613f5eb7e3c5e0f8f229096a9e75"
+		"clienticon"		"bbde27285c7bd199db57cf6ba651aaf238794a74"
+		"clienttga"		"f1a17b9b452b8af9978dcbf8de7d8d5254e94025"
+		"logo"		"97514e786300068157d6faf26a823cb2c149bf91"
+		"logo_small"		"97514e786300068157d6faf26a823cb2c149bf91_thumb"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"586030_eula_0"
+				"name"		"Shardbound EULA"
+				"url"		"http://store.steampowered.com//eula/586030_eula_0"
+			}
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1682985600"
+			"tested_build_id"		"4753036"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Shardbound"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1490892598"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Spiritwalk Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Spiritwalk Games"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"2"
+			"2"		"70"
+		}
+		"category"
+		{
+			"category_36"		"1"
+			"category_35"		"1"
+			"category_22"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1491494400"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"586030"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"9"
+			"2"		"1666"
+			"3"		"14139"
+			"4"		"3859"
+			"5"		"493"
+			"6"		"1677"
+			"7"		"1708"
+			"8"		"1717"
+			"9"		"1741"
+			"10"		"4325"
+			"11"		"9271"
+			"12"		"492"
+			"13"		"1756"
+			"14"		"1685"
+		}
+		"review_score"		"6"
+		"review_percentage"		"76"
+	}
+	"extended"
+	{
+		"developer"		"Spiritwalk Games"
+		"publisher"		"Spiritwalk Games"
+		"homepage"		"http://www.shardbound.com/"
+		"listofdlc"		"667980"
+	}
+	"config"
+	{
+		"installdir"		"Shardbound"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Tactics\\Binaries\\Win64\\Tactics-Win64-Shipping.exe"
+				"arguments"		"-notinstalled -TacticsServer=https://st-george.spiritwalkgames.com -RequireSteam"
+				"description"		"LKG Shipping"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Tactics\\Binaries\\Win64\\Tactics.exe"
+				"arguments"		"-notinstalled -TacticsServer=https://st-george.spiritwalkgames.com -RequireSteam"
+				"description"		"Beta"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"beta"
+				}
+			}
+			"2"
+			{
+				"executable"		"Tactics/Binaries/Mac/Tactics-Mac-Shipping.app/Contents/MacOS/Tactics-Mac-Shipping"
+				"arguments"		"-TacticsServer=https://st-george.spiritwalkgames.com -RequireSteam"
+				"description"		"LKG Shipping Mac"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+					"osarch"		"64"
+				}
+			}
+			"3"
+			{
+				"executable"		"Tactics/Binaries/Mac/Tactics.app/Contents/MacOS/Tactics"
+				"arguments"		"-TacticsServer=https://st-george.spiritwalkgames.com -RequireSteam"
+				"description"		"Mac Beta"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"macos"
+					"osarch"		"64"
+					"betakey"		"beta"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"586031"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7209537745737423297"
+					"size"		"5836521822"
+					"download"		"2070352416"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"B58FDA287D21B61A06CF0DF4844F0C8F"
+					"size"		"561D92277B0C575CF946766FB414F8B9"
+					"download"		"7D74305A90F91ADA4A6C980542F28313"
+				}
+			}
+		}
+		"586032"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4295304741472444954"
+					"size"		"108362944"
+					"download"		"26496320"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"0EF87604A5A50E53716CB5FE6293C3B3"
+					"size"		"CA5DBC020AC83F4FFCACDFB6633780DB"
+					"download"		"1A267DF6D803D6AAF8E2C0D0F5A03EDC"
+				}
+			}
+		}
+		"586033"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"745242427434994254"
+					"size"		"9097412239"
+					"download"		"4884294384"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"BCC48E3E25DFECBC5CF305CC9F53EE37"
+					"size"		"90AE94375E3151EFC6C5BC0DEB98E753"
+					"download"		"72C4DA69BB1A44E2EA688BC0434A4AEE"
+				}
+			}
+		}
+		"586034"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1941067032851440014"
+					"size"		"189875960"
+					"download"		"35049424"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"8E7B2465DA7107271E0D1F4AFDF3D2EF"
+					"size"		"E1535CF16E821E71F5D04801DDDD3445"
+					"download"		"A039CA4DCEE7F81C9F5673D6C5DBDD85"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4753036"
+				"timeupdated"		"1583555663"
+			}
+			"beta"
+			{
+				"buildid"		"4753037"
+				"pwdrequired"		"1"
+				"timeupdated"		"1583555675"
+			}
+		}
+	}
+}
