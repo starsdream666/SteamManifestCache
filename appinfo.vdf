@@ -1,0 +1,150 @@
+"appinfo"
+{
+	"appid"		"2142200"
+	"common"
+	{
+		"name"		"LonlyToy"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"254a81558009ff2490ecda0b5ef274795ae6d28a"
+		"clienticon"		"c3b88fef143f4b270f28e7e40e7d3e48b71fd596"
+		"clienttga"		"b58670e514f0a16c9ccb1cadc6b54d28da80c83b"
+		"releasestate"		"released"
+		"app_retired_was_free"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"36.81446907817969"
+				"height_pct"		"51.1398717644265"
+			}
+		}
+		"store_asset_mtime"		"1663694822"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"CROW.Gaming"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"CROW.Gaming"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1665022400"
+		"community_hub_visible"		"1"
+		"gameid"		"2142200"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"4106"
+			"2"		"8666"
+			"3"		"4562"
+			"4"		"7743"
+			"5"		"4182"
+		}
+	}
+	"extended"
+	{
+		"developer"		"CROW.Gaming"
+		"publisher"		"CROW.Gaming"
+	}
+	"config"
+	{
+		"installdir"		"LonlyToy"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"GAME\\game_2d.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"lonlyToy"
+				}
+				"description"		"lonlyToy"
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2142201"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4190796520804836604"
+					"size"		"231854469"
+					"download"		"136900896"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9687987"
+				"timeupdated"		"1665385659"
+			}
+		}
+	}
+}
