@@ -1,0 +1,191 @@
+"appinfo"
+{
+	"appid"		"107900"
+	"common"
+	{
+		"name"		"War Inc. Battlezone"
+		"clienticon"		"cbc39a53a39237aefbd685ef34ed3dda18b45e42"
+		"clienttga"		"77b648832b4ad320bd1b773ee1d6d1a602b6bb77"
+		"icon"		"08e57f8f0a4db22e7a4de5ded20344865006a7e7"
+		"logo"		"2021f148e1561e99de090bc36537924c421687e0"
+		"logo_small"		"2021f148e1561e99de090bc36537924c421687e0_thumb"
+		"oslist"		"windows"
+		"type"		"game"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1680566400"
+			"tested_build_id"		"15740"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_Retired"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"War Inc. Battlezone"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1336766507"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Online Warmongers Group Inc."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Online Warmongers Group Inc."
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_20"		"1"
+			"category_9"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1311039420"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"107900"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"19"
+			"2"		"3859"
+			"3"		"1774"
+			"4"		"1663"
+			"5"		"1678"
+			"6"		"3814"
+			"7"		"128"
+			"8"		"1685"
+			"9"		"3839"
+			"10"		"1659"
+			"11"		"4182"
+			"12"		"1695"
+			"13"		"3843"
+			"14"		"1662"
+			"15"		"21"
+			"16"		"1697"
+			"17"		"4136"
+			"18"		"1667"
+			"19"		"4166"
+		}
+		"review_score"		"5"
+		"review_percentage"		"51"
+	}
+	"extended"
+	{
+		"allowpurchasefromrestrictedcountries"		"1"
+		"checkpkgstate"		"1"
+		"developer"		"Online Warmongers Group Inc."
+		"gamedir"		"WarInc"
+		"homepage"		"http://www.thewarinc.com"
+		"icon"		""
+		"inhibitautoversionroll"		"1"
+		"installscript"		"installscript.vdf"
+		"noservers"		"1"
+		"order"		"1"
+		"primarycache"		"107901"
+		"purchaserestrictedcountries"		"AF AX AL DZ AS AD AO AI AQ AG AR AW AU AT BS BH BD BB BE BZ BJ BM BT BO BA BW BV BR IO BN BG BF BI KH CM CA CV KY CF TD CL CN CX CC CO KM CG CD CK CR CI HR CY CZ DK DJ DM DO EC EG SV GQ ER ET FK FO FJ FI FR GF PF TF GA GM DE GH GI GR GL GD GP GU GT GN GW GG GY HT HM VA HN HK HU IS IN ID IE IM IL IT JM JP JE JO KE KI KR KW LA LB LS LR LI LU MO MK MG MW MY MV ML MT MH MQ MR MU YT MX FM MC MN ME MS MA MZ NA NR NP NL AN NC NZ NI NE NG NU NF MP NO OM PK PW PS PA PG PY PE PH PN PL PT PR QA RE RO RW SH KN LC PM VC WS SM ST SA SN RS SC SL SG SK SI SB SO ZA GS ES LK SR SJ SZ SE CH TW TZ TH TL TG TK TO TT TN TR TC TV UG AE GB US UM UY VU VE VN VG VI WF EH YE ZM ZW"
+		"serverbrowsername"		""
+		"state"		"eStateAvailable"
+		"publisher"		"Online Warmongers Group Inc."
+	}
+	"config"
+	{
+		"installscriptsignature"		"2f57ad5fc4495ee01b0ffceb07aeee1f500e7590ca8250f2163f7050146fd2159fb1b01eb9606d49af724706046fb87c9bf3398c5bd038ed0b9c3de4b665e98abcbd570c13d81de68892eb3f801f388481207a5565437b2431108ad47dce1eeee43546b91ead9e811bc0cde988525554caf09a1342f53e267a81bbbb4cefbbaa"
+		"installscriptoverride"		"1"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"rsupdate.exe"
+				"arguments"		"-steam"
+			}
+		}
+		"contenttype"		"3"
+		"installdir"		"WarIncBattleZone"
+		"noupdatesafterinstall"		"1"
+	}
+	"install"
+	{
+		"run process"
+		{
+			"directx"
+			{
+				"hasrunkey"		"HKEY_LOCAL_MACHINE\\Software\\Valve\\Steam\\Apps\\107900"
+				"process 1"		"%INSTALLDIR%\\dxwebsetup.exe"
+				"command 1"		"/q"
+				"nocleanup"		"0"
+			}
+		}
+	}
+	"depots"
+	{
+		"107901"
+		{
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6614680271062821873"
+					"size"		"1948372605"
+					"download"		"0"
+				}
+			}
+		}
+		"overridescddb"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"15740"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+		"hidecloudui"		"0"
+	}
+}
