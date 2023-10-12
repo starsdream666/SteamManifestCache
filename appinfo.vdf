@@ -1,0 +1,1093 @@
+"appinfo"
+{
+	"appid"		"939700"
+	"common"
+	{
+		"name"		"Winning Post 9"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"clienticon"		"9ca6a41ae02bd253c3abd3eecbe1c6f154f3f69e"
+		"clienttga"		"1576dd41ce9a737302cb146c2258199800d357ed"
+		"icon"		"b4000b833e6819b6b2fd274f536a5ae4a79ae367"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"939700_eula_0"
+				"name"		"Winning Post 9 EULA"
+				"url"		"https://store.steampowered.com//eula/939700_eula_0"
+			}
+		}
+		"logo"		"230af5573f3017d04e105b6d2831c994079f6e04"
+		"logo_small"		"230af5573f3017d04e105b6d2831c994079f6e04_thumb"
+		"metacritic_name"		"Winning Post 9"
+		"controllertagwizard"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1551779614"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"KOEI TECMO GAMES CO., LTD."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"KOEI TECMO GAMES CO., LTD."
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"KOEI TECMO GAMES CO., LTD."
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1553733649"
+		"community_hub_visible"		"1"
+		"gameid"		"939700"
+		"store_tags"
+		{
+			"0"		"599"
+			"1"		"699"
+			"2"		"701"
+			"3"		"6041"
+			"4"		"4182"
+		}
+		"review_score"		"4"
+		"review_percentage"		"33"
+	}
+	"extended"
+	{
+		"developer"		"KOEI TECMO GAMES CO., LTD."
+		"publisher"		"KOEI TECMO GAMES CO., LTD."
+		"homepage"		"http://www.gamecity.ne.jp/winningpost9/"
+		"listofdlc"		"1042810,1042811,1042812,1042813,1062510,1062511,1062512,1062513,1062514,1062515,1097320"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Winning Post 9"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"WP9_Launcher.exe"
+				"description"		"Launch"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		""
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"939701"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9181432353063718582"
+					"size"		"3874409872"
+					"download"		"2572900608"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dlc_check"
+				{
+					"gid"		"BC7BDAAD0F1073C59CCDA053235E588E"
+					"size"		"7B2ACEFB9A94A7A164BBCC0D9E71D1A1"
+					"download"		"55C30F04922299403D3FC814BBE948CB"
+				}
+				"master_check"
+				{
+					"gid"		"E5D45057A67F43F9EE9D8AD14A2E3F8E"
+					"size"		"5B844FF3903995993859397A719FCE30"
+					"download"		"08E15434E04203ED338DF34D3DB4C083"
+				}
+				"master2_check"
+				{
+					"gid"		"65094E399919137DA0DE2F853847D16E"
+					"size"		"505507D1DD4026D5DF06760744484919"
+					"download"		"D5FEF5DE621FAE6243A14C3A01B9E977"
+				}
+				"patch1"
+				{
+					"gid"		"E691E2C890B6B15A00764BA58FEDA302"
+					"size"		"020A4814A21EBC364D22ED2ED9AB4AD6"
+					"download"		"B20681C9DC7A8704D3C7C185E029C877"
+				}
+				"patch1_1"
+				{
+					"gid"		"F6D3C8CD89ACF3F580290702D0DC97FF"
+					"size"		"544246DB7970D90AD843A1AE300B8C4F"
+					"download"		"ACB2BAE6FFF2950B465A1592EEC2714D"
+				}
+				"patch2"
+				{
+					"gid"		"58E921185E2A60DD45680146892B12B1"
+					"size"		"EC264F68583C1753FF7C684DB09605C1"
+					"download"		"A08F6C51CF0F122AD7DB6D4797D4C428"
+				}
+				"patch3"
+				{
+					"gid"		"F7BEF181E1983949A006282606E75FE8"
+					"size"		"B040B2D35582083B25DCC35ECBBB933F"
+					"download"		"9F5C59ABA984C8DA74C6351053419782"
+				}
+				"patch4"
+				{
+					"gid"		"73A1B301A487C169C52B2CD7EB5F2DC0"
+					"size"		"077311E6A375A7211CD8DD61CE783226"
+					"download"		"809A1AE27E188021097FA68F5953D850"
+				}
+				"patch4_2nd"
+				{
+					"gid"		"23FCEDA509E91F15E8F29835832914C1"
+					"size"		"ADDFCB08302A8729D7E26820C8E25DB8"
+					"download"		"F44F36BBCFF4DDD3D677B1CA1D6C49E1"
+				}
+				"patch4_3rd"
+				{
+					"gid"		"8D4FD86BA360ED8B336892D0838022F3"
+					"size"		"56BD0ACC1C9CEC3C6E6E4F27C97734C1"
+					"download"		"7D669B510AB3D14BFB6812235D02902E"
+				}
+				"patch4_4th"
+				{
+					"gid"		"6591E017BC9B8A310D5AC92A83CA85DB"
+					"size"		"A58C79C8C4E70BCC3D8CBA13BDD7DAD6"
+					"download"		"6296E9E5FBACA76EE2E44B696DF6A2A9"
+				}
+				"patch4_5th"
+				{
+					"gid"		"58F6829A867E5922421A6B59D4ED2C2B"
+					"size"		"F63569B35A5C60F96A75F50394C383F9"
+					"download"		"99C6BBE7A278151E154CE35BCA90463C"
+				}
+			}
+		}
+		"939702"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9006553177785339031"
+					"size"		"4935044993"
+					"download"		"3226479872"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dlc_check"
+				{
+					"gid"		"D0EB82EC7B3D2DFABC5A73D56FB8CE69"
+					"size"		"01100136791CCECADC5BAA19A704AE38"
+					"download"		"670186E2CB4F391EBB7249B0D2076D34"
+				}
+				"master_check"
+				{
+					"gid"		"CE0AF2B5C721F9ECAA40567DF5EC1F79"
+					"size"		"C34F0BDF36019669A5CA3EB1ED34D45B"
+					"download"		"E287353E16B6820996B62130041DD6C5"
+				}
+				"master2_check"
+				{
+					"gid"		"60E0BDFA1C239FBBF8F2BCACEC061E86"
+					"size"		"AAF3D9FFEE9BCFB32AFD7CC38A37B50C"
+					"download"		"122DC5D87BED99A8B15445ABE23499F4"
+				}
+				"patch1"
+				{
+					"gid"		"EC50C11AC0FD8C397ABFEB9821C7EFAA"
+					"size"		"41862C28188AF54CCCCAA1AAD02AA496"
+					"download"		"16D176BD86C04BEA12DF19557BC6E460"
+				}
+				"patch1_1"
+				{
+					"gid"		"946AC637A9F6B5FBF404791C22EA63A8"
+					"size"		"C0F8DAB5BDF973CE3CBDD9550407D3CA"
+					"download"		"46C75BA5C59AD932465D1736095EFEA4"
+				}
+				"patch2"
+				{
+					"gid"		"2FEF21ECC219CA8FC9249A1EA5FC5DDF"
+					"size"		"C94B271F668908AC341C50B4F73D4582"
+					"download"		"F5B928E3FF6CE1CEF0B7D5753E3BC6E4"
+				}
+				"patch3"
+				{
+					"gid"		"B5EED26C3B4BE26DE12313E0C7F71F66"
+					"size"		"852A0E49C3E8CAFB4152CE83F551BCF5"
+					"download"		"203453BB68D493E42B701556D9141EDA"
+				}
+				"patch4"
+				{
+					"gid"		"3BE398EC7FD82C3388E2B6ECFFEF16F5"
+					"size"		"789349408F5B6914AD76C50F303CB643"
+					"download"		"5A91C8BCCE2B7DAD04E4398D78373939"
+				}
+				"patch4_2nd"
+				{
+					"gid"		"0EFCC3F1A3AFCC00897F52361425C381"
+					"size"		"573C7EA753C20C85D01439822AA09FFF"
+					"download"		"FDD39220564495813992DA625DFAEFE2"
+				}
+				"patch4_3rd"
+				{
+					"gid"		"E833576F0BC2DAD770C208EED2CF1C4B"
+					"size"		"29A8D720DB5C8FF5C67EDF4271260F30"
+					"download"		"A99999DD2CAEF50A715C42E660C577F0"
+				}
+				"patch4_4th"
+				{
+					"gid"		"F95C36FB782F9BC1CF9B2106DBBA7E1C"
+					"size"		"0CB6B7E137CF80D3CBBDA65D50C01303"
+					"download"		"0C9AB2AFEAE38E74ED9667F89288DEE7"
+				}
+				"patch4_5th"
+				{
+					"gid"		"C0B8A62CFBC7705BFD62C51FA91FB560"
+					"size"		"4EA1D2A9316F391A6C646B0737072535"
+					"download"		"C1F34D7F2F3719BE1A10AF34B0CEB83A"
+				}
+			}
+		}
+		"1042810"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"dlcappid"		"1042810"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4389824357201374356"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dlc_check"
+				{
+					"gid"		"F473C84E302B6376B91F7CC7342E768F"
+					"size"		"5189FC3677D0F94A79E037187A462C7F"
+					"download"		"5189FC3677D0F94A79E037187A462C7F"
+				}
+				"patch1"
+				{
+					"gid"		"1EB2ED7DA7499212DE48F4F178E0B782"
+					"size"		"70339EAE5DFC88948D15494AC4C12BE6"
+					"download"		"70339EAE5DFC88948D15494AC4C12BE6"
+				}
+				"patch1_1"
+				{
+					"gid"		"94F2B1BE7BC34217B3A0B9380C1D6076"
+					"size"		"D896BC3B08FD3BFF65D5BA92031B6DFD"
+					"download"		"D896BC3B08FD3BFF65D5BA92031B6DFD"
+				}
+				"patch2"
+				{
+					"gid"		"E426D40977167BF7F866B8120F7E168A"
+					"size"		"A0EB8D970F35D2473576043701987CE0"
+					"download"		"A0EB8D970F35D2473576043701987CE0"
+				}
+				"patch3"
+				{
+					"gid"		"220B261B8312E985D4D20B11479DC991"
+					"size"		"009FB018E956B55D1A0C4818B893D521"
+					"download"		"009FB018E956B55D1A0C4818B893D521"
+				}
+				"patch4"
+				{
+					"gid"		"9992C619CD4CB10670E1E0D5E521DE69"
+					"size"		"534982B52C8BD8D6D20842686A7E158F"
+					"download"		"534982B52C8BD8D6D20842686A7E158F"
+				}
+				"patch4_2nd"
+				{
+					"gid"		"588D1E6DD02733568065FB9A3FBD08C6"
+					"size"		"87EBD693C0660EDEC31929A28F45BB1D"
+					"download"		"87EBD693C0660EDEC31929A28F45BB1D"
+				}
+				"patch4_3rd"
+				{
+					"gid"		"1AEF292F370E42ECB5B52BA26289BC7C"
+					"size"		"3317A8E96525B100F5EC1354FBDFCF8A"
+					"download"		"3317A8E96525B100F5EC1354FBDFCF8A"
+				}
+				"patch4_4th"
+				{
+					"gid"		"DBDED0A0E99D51F3877D2EDA53EF31DE"
+					"size"		"62DA7DB384F89E59EF1CDB03DD858C75"
+					"download"		"62DA7DB384F89E59EF1CDB03DD858C75"
+				}
+				"patch4_5th"
+				{
+					"gid"		"03DA943253B8A01A24C8CA5F9D2AE5B6"
+					"size"		"162E142593291B38B290F3F994EA78ED"
+					"download"		"162E142593291B38B290F3F994EA78ED"
+				}
+			}
+		}
+		"1042811"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"dlcappid"		"1042811"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1145744039266672018"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dlc_check"
+				{
+					"gid"		"4E8A2397340E3FFB8FEBB79814620317"
+					"size"		"5189FC3677D0F94A79E037187A462C7F"
+					"download"		"5189FC3677D0F94A79E037187A462C7F"
+				}
+				"patch1"
+				{
+					"gid"		"CB12CCE82721C0ECE9E64D6849F9788F"
+					"size"		"70339EAE5DFC88948D15494AC4C12BE6"
+					"download"		"70339EAE5DFC88948D15494AC4C12BE6"
+				}
+				"patch1_1"
+				{
+					"gid"		"6A59D1831901E76F89788DE3112B5CD6"
+					"size"		"D896BC3B08FD3BFF65D5BA92031B6DFD"
+					"download"		"D896BC3B08FD3BFF65D5BA92031B6DFD"
+				}
+				"patch2"
+				{
+					"gid"		"9239FF2B315C7B7D6503813217669325"
+					"size"		"A0EB8D970F35D2473576043701987CE0"
+					"download"		"A0EB8D970F35D2473576043701987CE0"
+				}
+				"patch3"
+				{
+					"gid"		"5E84944C7D3A9B73C08E0520FA5C6D9E"
+					"size"		"009FB018E956B55D1A0C4818B893D521"
+					"download"		"009FB018E956B55D1A0C4818B893D521"
+				}
+				"patch4"
+				{
+					"gid"		"0C94F23C1515ED2E136F7836FD2168D2"
+					"size"		"534982B52C8BD8D6D20842686A7E158F"
+					"download"		"534982B52C8BD8D6D20842686A7E158F"
+				}
+				"patch4_2nd"
+				{
+					"gid"		"20468C297064848EFE7A9B20056A9B2D"
+					"size"		"87EBD693C0660EDEC31929A28F45BB1D"
+					"download"		"87EBD693C0660EDEC31929A28F45BB1D"
+				}
+				"patch4_3rd"
+				{
+					"gid"		"8BAD678DE0649FF8A6EAE15F5A436382"
+					"size"		"3317A8E96525B100F5EC1354FBDFCF8A"
+					"download"		"3317A8E96525B100F5EC1354FBDFCF8A"
+				}
+				"patch4_4th"
+				{
+					"gid"		"83AD98018ACAB318097F0E2B579E1CC7"
+					"size"		"62DA7DB384F89E59EF1CDB03DD858C75"
+					"download"		"62DA7DB384F89E59EF1CDB03DD858C75"
+				}
+				"patch4_5th"
+				{
+					"gid"		"AE628811BDD61D99A6F259C2B76DA5B2"
+					"size"		"162E142593291B38B290F3F994EA78ED"
+					"download"		"162E142593291B38B290F3F994EA78ED"
+				}
+			}
+		}
+		"1042812"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"dlcappid"		"1042812"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7460817651080764881"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dlc_check"
+				{
+					"gid"		"A1B1B2760C9740657A46B5424589E431"
+					"size"		"5189FC3677D0F94A79E037187A462C7F"
+					"download"		"5189FC3677D0F94A79E037187A462C7F"
+				}
+				"patch1"
+				{
+					"gid"		"EC7FE4AA540F256420793905E1AE24EB"
+					"size"		"70339EAE5DFC88948D15494AC4C12BE6"
+					"download"		"70339EAE5DFC88948D15494AC4C12BE6"
+				}
+				"patch1_1"
+				{
+					"gid"		"34E8FD15C7A90B870A6CD9DF7E1DEA82"
+					"size"		"D896BC3B08FD3BFF65D5BA92031B6DFD"
+					"download"		"D896BC3B08FD3BFF65D5BA92031B6DFD"
+				}
+				"patch2"
+				{
+					"gid"		"605566AF336E9D04691B1F7A4C7BDDC5"
+					"size"		"A0EB8D970F35D2473576043701987CE0"
+					"download"		"A0EB8D970F35D2473576043701987CE0"
+				}
+				"patch3"
+				{
+					"gid"		"95A230BD560826F502180FDC0E071A09"
+					"size"		"009FB018E956B55D1A0C4818B893D521"
+					"download"		"009FB018E956B55D1A0C4818B893D521"
+				}
+				"patch4"
+				{
+					"gid"		"49EA893362D48EAD0DD678443625196D"
+					"size"		"534982B52C8BD8D6D20842686A7E158F"
+					"download"		"534982B52C8BD8D6D20842686A7E158F"
+				}
+				"patch4_2nd"
+				{
+					"gid"		"7C978977BED52358EBD1FA2B206CF325"
+					"size"		"87EBD693C0660EDEC31929A28F45BB1D"
+					"download"		"87EBD693C0660EDEC31929A28F45BB1D"
+				}
+				"patch4_3rd"
+				{
+					"gid"		"30C724BBA42B45207E7C0D35396C38FA"
+					"size"		"3317A8E96525B100F5EC1354FBDFCF8A"
+					"download"		"3317A8E96525B100F5EC1354FBDFCF8A"
+				}
+				"patch4_4th"
+				{
+					"gid"		"8E8607F9C3B5F338AFCDCB33D17FAAAC"
+					"size"		"62DA7DB384F89E59EF1CDB03DD858C75"
+					"download"		"62DA7DB384F89E59EF1CDB03DD858C75"
+				}
+				"patch4_5th"
+				{
+					"gid"		"37B20E3D8EFB106FD5CE2967EC647401"
+					"size"		"162E142593291B38B290F3F994EA78ED"
+					"download"		"162E142593291B38B290F3F994EA78ED"
+				}
+			}
+		}
+		"1042813"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"dlcappid"		"1042813"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2266029412289974415"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dlc_check"
+				{
+					"gid"		"8C9D2AD817F30581AAC08B22B3985D45"
+					"size"		"5189FC3677D0F94A79E037187A462C7F"
+					"download"		"5189FC3677D0F94A79E037187A462C7F"
+				}
+				"patch1"
+				{
+					"gid"		"6183D4BCF3B808594BEAFEC09DC01A2E"
+					"size"		"70339EAE5DFC88948D15494AC4C12BE6"
+					"download"		"70339EAE5DFC88948D15494AC4C12BE6"
+				}
+				"patch1_1"
+				{
+					"gid"		"8B2C65F49E2E66E9E6E194EA77B41400"
+					"size"		"D896BC3B08FD3BFF65D5BA92031B6DFD"
+					"download"		"D896BC3B08FD3BFF65D5BA92031B6DFD"
+				}
+				"patch2"
+				{
+					"gid"		"F27F2D8B9DB816E117675B6B52FCE033"
+					"size"		"A0EB8D970F35D2473576043701987CE0"
+					"download"		"A0EB8D970F35D2473576043701987CE0"
+				}
+				"patch3"
+				{
+					"gid"		"FEAF18B328E3165714985A912469A74D"
+					"size"		"009FB018E956B55D1A0C4818B893D521"
+					"download"		"009FB018E956B55D1A0C4818B893D521"
+				}
+				"patch4"
+				{
+					"gid"		"F9474747B108A11F6D3E1564B7A85F5E"
+					"size"		"534982B52C8BD8D6D20842686A7E158F"
+					"download"		"534982B52C8BD8D6D20842686A7E158F"
+				}
+				"patch4_2nd"
+				{
+					"gid"		"54C01D172A188E07DF64F3024571603B"
+					"size"		"87EBD693C0660EDEC31929A28F45BB1D"
+					"download"		"87EBD693C0660EDEC31929A28F45BB1D"
+				}
+				"patch4_3rd"
+				{
+					"gid"		"86D9B5FF1D3A0746A3A0F8BD34F608F7"
+					"size"		"3317A8E96525B100F5EC1354FBDFCF8A"
+					"download"		"3317A8E96525B100F5EC1354FBDFCF8A"
+				}
+				"patch4_4th"
+				{
+					"gid"		"029FA076079146E24428A6E440DB2B2F"
+					"size"		"62DA7DB384F89E59EF1CDB03DD858C75"
+					"download"		"62DA7DB384F89E59EF1CDB03DD858C75"
+				}
+				"patch4_5th"
+				{
+					"gid"		"CBE4BA16D0D08B8DD76223C50B75492C"
+					"size"		"162E142593291B38B290F3F994EA78ED"
+					"download"		"162E142593291B38B290F3F994EA78ED"
+				}
+			}
+		}
+		"1062510"
+		{
+			"dlcappid"		"1062510"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1281615715247411450"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"patch2"
+				{
+					"gid"		"7EC43294F861F8E6011C9B6C6D2E56C8"
+					"size"		"A0EB8D970F35D2473576043701987CE0"
+					"download"		"A0EB8D970F35D2473576043701987CE0"
+				}
+				"patch3"
+				{
+					"gid"		"B01DB6B0239985FAE7B2323FD8C3408A"
+					"size"		"009FB018E956B55D1A0C4818B893D521"
+					"download"		"009FB018E956B55D1A0C4818B893D521"
+				}
+				"patch4"
+				{
+					"gid"		"9737F3A72B40513A29E15E9F0627D410"
+					"size"		"534982B52C8BD8D6D20842686A7E158F"
+					"download"		"534982B52C8BD8D6D20842686A7E158F"
+				}
+				"patch4_2nd"
+				{
+					"gid"		"05043DB4EFCD77C07B26D3FAFD808036"
+					"size"		"87EBD693C0660EDEC31929A28F45BB1D"
+					"download"		"87EBD693C0660EDEC31929A28F45BB1D"
+				}
+				"patch4_3rd"
+				{
+					"gid"		"397510815247C351125BE5CED091C35E"
+					"size"		"3317A8E96525B100F5EC1354FBDFCF8A"
+					"download"		"3317A8E96525B100F5EC1354FBDFCF8A"
+				}
+				"patch4_4th"
+				{
+					"gid"		"ED9BEBFE2548633F49CBB09176E1EA8F"
+					"size"		"62DA7DB384F89E59EF1CDB03DD858C75"
+					"download"		"62DA7DB384F89E59EF1CDB03DD858C75"
+				}
+				"patch4_5th"
+				{
+					"gid"		"9061FA1DDAFFE2937B3BC6DACCAC1FB5"
+					"size"		"162E142593291B38B290F3F994EA78ED"
+					"download"		"162E142593291B38B290F3F994EA78ED"
+				}
+			}
+		}
+		"1062511"
+		{
+			"dlcappid"		"1062511"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7911696738872346687"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"patch2"
+				{
+					"gid"		"9D326BD76AD54EC750BCCDFA5F8C6A54"
+					"size"		"A0EB8D970F35D2473576043701987CE0"
+					"download"		"A0EB8D970F35D2473576043701987CE0"
+				}
+				"patch3"
+				{
+					"gid"		"8F92F77EF80E52057A3DF8B544E2DBB1"
+					"size"		"009FB018E956B55D1A0C4818B893D521"
+					"download"		"009FB018E956B55D1A0C4818B893D521"
+				}
+				"patch4"
+				{
+					"gid"		"2A8ECDF62520425867E9BAA5262D72B1"
+					"size"		"534982B52C8BD8D6D20842686A7E158F"
+					"download"		"534982B52C8BD8D6D20842686A7E158F"
+				}
+				"patch4_2nd"
+				{
+					"gid"		"6312D1F76BE842E94FDCA6B56E1517A4"
+					"size"		"87EBD693C0660EDEC31929A28F45BB1D"
+					"download"		"87EBD693C0660EDEC31929A28F45BB1D"
+				}
+				"patch4_3rd"
+				{
+					"gid"		"FC882E98576093EEFF6A023D3B264D36"
+					"size"		"3317A8E96525B100F5EC1354FBDFCF8A"
+					"download"		"3317A8E96525B100F5EC1354FBDFCF8A"
+				}
+				"patch4_4th"
+				{
+					"gid"		"75D67329E2A0C41CA25FA583DF192619"
+					"size"		"62DA7DB384F89E59EF1CDB03DD858C75"
+					"download"		"62DA7DB384F89E59EF1CDB03DD858C75"
+				}
+				"patch4_5th"
+				{
+					"gid"		"E92D7F9B374611A67CA46D147778ECA8"
+					"size"		"162E142593291B38B290F3F994EA78ED"
+					"download"		"162E142593291B38B290F3F994EA78ED"
+				}
+			}
+		}
+		"1062512"
+		{
+			"dlcappid"		"1062512"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1805436545135409111"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"patch2"
+				{
+					"gid"		"7490BE23AC98F17BBB00F40E6BA6377A"
+					"size"		"A0EB8D970F35D2473576043701987CE0"
+					"download"		"A0EB8D970F35D2473576043701987CE0"
+				}
+				"patch3"
+				{
+					"gid"		"38EDFC31809AF09D03FACF3045148F14"
+					"size"		"009FB018E956B55D1A0C4818B893D521"
+					"download"		"009FB018E956B55D1A0C4818B893D521"
+				}
+				"patch4"
+				{
+					"gid"		"F16F0F21A00FB8A5ACABA69253DCD984"
+					"size"		"534982B52C8BD8D6D20842686A7E158F"
+					"download"		"534982B52C8BD8D6D20842686A7E158F"
+				}
+				"patch4_2nd"
+				{
+					"gid"		"77D7585E1D43B5AD46D300A3DE42FADF"
+					"size"		"87EBD693C0660EDEC31929A28F45BB1D"
+					"download"		"87EBD693C0660EDEC31929A28F45BB1D"
+				}
+				"patch4_3rd"
+				{
+					"gid"		"709011D794CE9549F1085B0C7EF7C4BC"
+					"size"		"3317A8E96525B100F5EC1354FBDFCF8A"
+					"download"		"3317A8E96525B100F5EC1354FBDFCF8A"
+				}
+				"patch4_4th"
+				{
+					"gid"		"8782022E8BD53FEAD779AF728C5E45EE"
+					"size"		"62DA7DB384F89E59EF1CDB03DD858C75"
+					"download"		"62DA7DB384F89E59EF1CDB03DD858C75"
+				}
+				"patch4_5th"
+				{
+					"gid"		"908F6C4BFE6FB6C50790029FA206E2E5"
+					"size"		"162E142593291B38B290F3F994EA78ED"
+					"download"		"162E142593291B38B290F3F994EA78ED"
+				}
+			}
+		}
+		"1062513"
+		{
+			"dlcappid"		"1062513"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3848421963878654715"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"patch2"
+				{
+					"gid"		"89D1970D587256330F89F9511A1CC610"
+					"size"		"A0EB8D970F35D2473576043701987CE0"
+					"download"		"A0EB8D970F35D2473576043701987CE0"
+				}
+				"patch3"
+				{
+					"gid"		"83555519CC4B3F96691BE85FF712EFDD"
+					"size"		"009FB018E956B55D1A0C4818B893D521"
+					"download"		"009FB018E956B55D1A0C4818B893D521"
+				}
+				"patch4"
+				{
+					"gid"		"6B24D1336B319A7565041E585A3EEE6B"
+					"size"		"534982B52C8BD8D6D20842686A7E158F"
+					"download"		"534982B52C8BD8D6D20842686A7E158F"
+				}
+				"patch4_2nd"
+				{
+					"gid"		"4C9C2DEAEC318A9C8EFB27281CE230DB"
+					"size"		"87EBD693C0660EDEC31929A28F45BB1D"
+					"download"		"87EBD693C0660EDEC31929A28F45BB1D"
+				}
+				"patch4_3rd"
+				{
+					"gid"		"2B6B885461BF5CAE5F734F375B586BEC"
+					"size"		"3317A8E96525B100F5EC1354FBDFCF8A"
+					"download"		"3317A8E96525B100F5EC1354FBDFCF8A"
+				}
+				"patch4_4th"
+				{
+					"gid"		"BBBC6A630F54777B2E53AE9815687149"
+					"size"		"62DA7DB384F89E59EF1CDB03DD858C75"
+					"download"		"62DA7DB384F89E59EF1CDB03DD858C75"
+				}
+				"patch4_5th"
+				{
+					"gid"		"B8EA868DD5412837CE930AF580BAB185"
+					"size"		"162E142593291B38B290F3F994EA78ED"
+					"download"		"162E142593291B38B290F3F994EA78ED"
+				}
+			}
+		}
+		"1062514"
+		{
+			"dlcappid"		"1062514"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8134060463972040778"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"patch2"
+				{
+					"gid"		"F4991CF347907B69C15C3D67277AF91F"
+					"size"		"A0EB8D970F35D2473576043701987CE0"
+					"download"		"A0EB8D970F35D2473576043701987CE0"
+				}
+				"patch3"
+				{
+					"gid"		"FD2CEACAA12DC620347CA8CFA2BA2B5A"
+					"size"		"009FB018E956B55D1A0C4818B893D521"
+					"download"		"009FB018E956B55D1A0C4818B893D521"
+				}
+				"patch4"
+				{
+					"gid"		"711BD16B26FBB34C36A1DC8B4B386F24"
+					"size"		"534982B52C8BD8D6D20842686A7E158F"
+					"download"		"534982B52C8BD8D6D20842686A7E158F"
+				}
+				"patch4_2nd"
+				{
+					"gid"		"532B38A95C43E1830C4A4B0435069049"
+					"size"		"87EBD693C0660EDEC31929A28F45BB1D"
+					"download"		"87EBD693C0660EDEC31929A28F45BB1D"
+				}
+				"patch4_3rd"
+				{
+					"gid"		"8B2C4C271F9230A44C54E3B0A0918BCF"
+					"size"		"3317A8E96525B100F5EC1354FBDFCF8A"
+					"download"		"3317A8E96525B100F5EC1354FBDFCF8A"
+				}
+				"patch4_4th"
+				{
+					"gid"		"16CE16542CB3DD984FF6C2AD0F149A31"
+					"size"		"62DA7DB384F89E59EF1CDB03DD858C75"
+					"download"		"62DA7DB384F89E59EF1CDB03DD858C75"
+				}
+				"patch4_5th"
+				{
+					"gid"		"048EEBC502B0EE5AB50900DA3744581A"
+					"size"		"162E142593291B38B290F3F994EA78ED"
+					"download"		"162E142593291B38B290F3F994EA78ED"
+				}
+			}
+		}
+		"1097320"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4415869915149818315"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"patch4_3rd"
+				{
+					"gid"		"B6C53EAF883444AF9BC2DCC5716DDA51"
+					"size"		"3317A8E96525B100F5EC1354FBDFCF8A"
+					"download"		"3317A8E96525B100F5EC1354FBDFCF8A"
+				}
+				"patch4_4th"
+				{
+					"gid"		"57610C9067287B588D1AB827539D10DD"
+					"size"		"62DA7DB384F89E59EF1CDB03DD858C75"
+					"download"		"62DA7DB384F89E59EF1CDB03DD858C75"
+				}
+				"patch4_5th"
+				{
+					"gid"		"0FB5CC4795BA968BAA52ECE819F5A525"
+					"size"		"162E142593291B38B290F3F994EA78ED"
+					"download"		"162E142593291B38B290F3F994EA78ED"
+				}
+			}
+			"dlcappid"		"1097320"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3892571"
+				"timeupdated"		"1560905475"
+			}
+			"dlc_check"
+			{
+				"buildid"		"3640943"
+				"pwdrequired"		"1"
+				"timeupdated"		"1552469263"
+			}
+			"master_check"
+			{
+				"buildid"		"3566794"
+				"pwdrequired"		"1"
+				"timeupdated"		"1550296206"
+			}
+			"master2_check"
+			{
+				"buildid"		"3573320"
+				"pwdrequired"		"1"
+				"timeupdated"		"1550550883"
+			}
+			"patch1"
+			{
+				"buildid"		"3643870"
+				"pwdrequired"		"1"
+				"timeupdated"		"1552540007"
+			}
+			"patch1_1"
+			{
+				"buildid"		"3669814"
+				"pwdrequired"		"1"
+				"timeupdated"		"1553222900"
+			}
+			"patch2"
+			{
+				"buildid"		"3710935"
+				"pwdrequired"		"1"
+				"timeupdated"		"1554426345"
+			}
+			"patch3"
+			{
+				"buildid"		"3745353"
+				"pwdrequired"		"1"
+				"timeupdated"		"1555497659"
+			}
+			"patch4"
+			{
+				"buildid"		"3824908"
+				"pwdrequired"		"1"
+				"timeupdated"		"1557906519"
+			}
+			"patch4_2nd"
+			{
+				"buildid"		"3828437"
+				"pwdrequired"		"1"
+				"timeupdated"		"1557987904"
+			}
+			"patch4_3rd"
+			{
+				"buildid"		"3886884"
+				"pwdrequired"		"1"
+				"timeupdated"		"1559652819"
+			}
+			"patch4_4th"
+			{
+				"buildid"		"3890325"
+				"pwdrequired"		"1"
+				"timeupdated"		"1559734285"
+			}
+			"patch4_5th"
+			{
+				"buildid"		"3892571"
+				"pwdrequired"		"1"
+				"timeupdated"		"1559781796"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"KoeiTecmo/Winning Post 9/Savedata"
+				"pattern"		"WPS*.SD9"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"1"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"KoeiTecmo/Winning Post 9/EDIT"
+				"pattern"		"EDIT.SD9"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
