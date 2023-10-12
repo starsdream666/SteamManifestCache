@@ -1,0 +1,261 @@
+"appinfo"
+{
+	"appid"		"662320"
+	"common"
+	{
+		"name"		"Metro Conflict: The Origin"
+		"type"		"Game"
+		"languages"
+		{
+			"english"		"1"
+			"koreana"		"1"
+		}
+		"oslist"		"windows"
+		"osarch"		""
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"662320_eula_0"
+				"name"		"Metro Conflict: The Origin EULA"
+				"url"		"http://store.steampowered.com//eula/662320_eula_0"
+			}
+		}
+		"logo"		"9651726cba11620cf6fa1179df64e02fc262bb9f"
+		"logo_small"		"9651726cba11620cf6fa1179df64e02fc262bb9f_thumb"
+		"icon"		"74ffa4482e4570d5c941cc1202893fc734dc1494"
+		"clienticon"		"73669c3f58b72162366b8490fe6177c6a71bd425"
+		"clienttga"		"cbff51c047a0ceffc59ef13cac0677fd1673bb8c"
+		"releasestate"		"released"
+		"metacritic_name"		"METRO CONFLICT: THE ORIGIN"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1518072956"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"RED DUCK, INC."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"RED DUCK, INC."
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"73"
+			"1"		"74"
+			"2"		"1"
+			"3"		"25"
+			"4"		"4"
+			"5"		"37"
+			"6"		"29"
+		}
+		"category"
+		{
+			"category_36"		"1"
+			"category_22"		"1"
+			"category_2"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1510128000"
+		"steam_release_date"		"1513225920"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"662320"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"1663"
+			"2"		"19"
+			"3"		"3859"
+			"4"		"128"
+			"5"		"21"
+			"6"		"1774"
+			"7"		"4667"
+			"8"		"1775"
+			"9"		"4345"
+			"10"		"597"
+			"11"		"1695"
+			"12"		"1685"
+			"13"		"4182"
+			"14"		"3839"
+		}
+		"review_score"		"5"
+		"review_percentage"		"54"
+	}
+	"extended"
+	{
+		"developer"		"RED DUCK, INC."
+		"publisher"		"RED DUCK, INC."
+		"homepage"		"http://www.metroconflict.com"
+		"listofdlc"		"758910,773971,779530"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Metro Conflict - The Origin"
+		"launch"
+		{
+			"2"
+			{
+				"executable"		"Binaries/Win32/MetroConflict.exe"
+				"arguments"		"ent-rance?-nocheckscriptoutdate -gate_ip=gate.mcgategroup.com -localev=70 -P=ST1"
+				"description"		"MC 실행 + AWS"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"3"
+			{
+				"executable"		"Binaries/Win32/MetroConflict.exe"
+				"arguments"		"ent-rance?-nocheckscriptoutdate -gate_ip=10.20.7.44:10306 -localev=70"
+				"description"		"MetroConflict + 내부 서버"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"redduck-test"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"228982"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229000"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229033"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"662321"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6247569096656590398"
+					"size"		"6595631392"
+					"download"		"5078315568"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"redduck-test"
+				{
+					"gid"		"123B38F624BC297C62C588D1963556E9"
+					"size"		"117D99A2D2EEFA0B12147B4396873EEA"
+					"download"		"F6FD77405042B62B4EA87FE6D6E29987"
+				}
+			}
+		}
+		"758910"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"dlcappid"		"758910"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2517251"
+				"timeupdated"		"1518401382"
+			}
+			"redduck-test"
+			{
+				"buildid"		"2517251"
+				"pwdrequired"		"1"
+				"timeupdated"		"1524539480"
+			}
+		}
+	}
+}
