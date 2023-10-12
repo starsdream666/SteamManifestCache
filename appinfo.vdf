@@ -1,0 +1,167 @@
+"appinfo"
+{
+	"appid"		"612290"
+	"common"
+	{
+		"name"		"ASTA Online"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"icon"		"fec87ebe956366ead6a0c627bee089bd7cffcd34"
+		"logo"		"68702bee081084cab24cff9c5984ed7ae5e3fc36"
+		"logo_small"		"68702bee081084cab24cff9c5984ed7ae5e3fc36_thumb"
+		"clienticon"		"2ba1d95a2cd10577e53bfde7061ee2ace69f6b5c"
+		"clienttga"		"6ebc71739703b9ee64412bf4f0d2df92b624e547"
+		"releasestate"		"released"
+		"metacritic_name"		"ASTA Online"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1502933908"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"POLYGON GAMES"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"MOVE ON USA Co."
+			}
+		}
+		"primary_genre"		"29"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+			"3"		"29"
+			"4"		"3"
+			"5"		"2"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_20"		"1"
+			"category_38"		"1"
+			"category_35"		"1"
+			"category_29"		"1"
+			"category_2"		"1"
+			"category_30"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1493190000"
+		"steam_release_date"		"1493207700"
+		"community_hub_visible"		"1"
+		"gameid"		"612290"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"128"
+			"2"		"1754"
+			"3"		"122"
+			"4"		"19"
+			"5"		"21"
+			"6"		"9"
+			"7"		"3859"
+			"8"		"4085"
+			"9"		"1695"
+			"10"		"1667"
+		}
+		"review_score"		"5"
+		"review_percentage"		"66"
+	}
+	"extended"
+	{
+		"developer"		"POLYGON GAMES"
+		"publisher"		"MOVE ON USA Co."
+		"homepage"		"https://www.facebook.com/asta4steam"
+	}
+	"config"
+	{
+		"installdir"		"ASTA Online"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"AstaPatch.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228982"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english"
+		"hasdepotsindlc"		"1"
+		"612291"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8712492516056949468"
+					"size"		"9938158194"
+					"download"		"8631248656"
+				}
+			}
+		}
+		"612292"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2154665"
+				"timeupdated"		"1506586126"
+			}
+		}
+	}
+}
