@@ -1,0 +1,242 @@
+"appinfo"
+{
+	"appid"		"380770"
+	"common"
+	{
+		"name"		"Wind of Luck: Arena"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"eulas"
+		{
+			"1"
+			{
+				"id"		"380770_eula_1"
+				"name"		"Wind of Luck: Arena EULA 1"
+				"url"		"http://store.steampowered.com//eula/380770_eula_1"
+			}
+		}
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"italian"		"1"
+			"spanish"		"1"
+			"russian"		"1"
+			"polish"		"1"
+		}
+		"clienttga"		"d15619a160b9662a43bfd96f4f5cc39a18138522"
+		"clienticon"		"fb6e48be9ee14a0b7768335d638cbe2da64fe167"
+		"icon"		"f41012bd4cf7e39bf364dc78a88776938cb8e39f"
+		"logo"		"c59e873ae86439cbda2de89eb58e4337cf2f1a86"
+		"logo_small"		"c59e873ae86439cbda2de89eb58e4337cf2f1a86_thumb"
+		"metacritic_name"		"Wind of Luck: Arena"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1440159110"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Trazzy Entertainment"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Trazzy Entertainment"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+			"3"		"29"
+			"4"		"28"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_20"		"1"
+			"category_22"		"1"
+			"category_25"		"1"
+			"category_9"		"1"
+			"category_15"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1439899020"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"380770"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"1678"
+			"2"		"19"
+			"3"		"1681"
+			"4"		"128"
+			"5"		"6910"
+			"6"		"1695"
+			"7"		"4172"
+			"8"		"3859"
+			"9"		"599"
+			"10"		"1774"
+			"11"		"13577"
+			"12"		"1663"
+			"13"		"492"
+			"14"		"1718"
+			"15"		"21"
+			"16"		"122"
+			"17"		"3987"
+			"18"		"4166"
+			"19"		"4835"
+		}
+		"review_score"		"5"
+		"review_percentage"		"55"
+	}
+	"extended"
+	{
+		"gamedir"		""
+		"developer"		"Trazzy Entertainment"
+		"publisher"		"Trazzy Entertainment"
+		"homepage"		"https://www.facebook.com/WindOfLuck"
+		"gamemanualurl"		"https://store.steampowered.com/manual/380770/"
+		"listofdlc"		"383370,384340,384520,386910,386911,386913,386920"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Wind of Luck Arena"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Game\\SteamLauncher.exe"
+				"arguments"		"BUY_GOLD_ENABLED=FALSE"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,italian,spanish,russian,polish"
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"380771"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2660962988998354010"
+					"size"		"1881666301"
+					"download"		"872411664"
+				}
+			}
+		}
+		"383370"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"dlcappid"		"383370"
+		}
+		"384520"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"optionaldlc"		"384520"
+			}
+			"dlcappid"		"384520"
+		}
+		"386910"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"dlcappid"		"386910"
+		}
+		"386911"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"dlcappid"		"386911"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"734804"
+			}
+		}
+		"appmanagesdlc"		"1"
+	}
+}
