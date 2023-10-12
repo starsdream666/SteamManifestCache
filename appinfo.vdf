@@ -1,0 +1,215 @@
+"appinfo"
+{
+	"appid"		"1634870"
+	"common"
+	{
+		"name"		"Open Brush"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"logo"		"0894ca2001315a1110aee3b12dfe8d183daaec86"
+		"logo_small"		"0894ca2001315a1110aee3b12dfe8d183daaec86_thumb"
+		"clienticon"		"94da44a97f4812b4c5b985e98f98d5cf0db032ac"
+		"clienttga"		"4bc18ba8fed44f90f4b11131a570c825c79c3f71"
+		"icon"		"581f7913da2ad18803e9ac96dec31c2a3839782a"
+		"releasestate"		"released"
+		"openvrsupport"		"1"
+		"openxrsupport"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1622068892"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Icosa Foundation"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Icosa Foundation"
+			}
+		}
+		"primary_genre"		"53"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"51"
+			"3"		"53"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_52"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1623167520"
+		"community_hub_visible"		"1"
+		"gameid"		"1634870"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"872"
+			"1"		"84"
+			"2"		"597"
+			"3"		"113"
+			"4"		"21978"
+			"5"		"4305"
+		}
+		"review_score"		"8"
+		"review_percentage"		"95"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"0"
+		"developer"		"Icosa Foundation"
+		"publisher"		"Icosa Foundation"
+		"homepage"		"https://openbrush.app"
+	}
+	"config"
+	{
+		"installdir"		"Open Brush"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"OpenBrush.exe"
+				"type"		"openxr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"OpenBrush.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"previous"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228985"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1634871"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5205686528272413909"
+					"size"		"609613768"
+					"download"		"177996736"
+				}
+				"beta"
+				{
+					"gid"		"6292421474086373117"
+					"size"		"631799459"
+					"download"		"187099680"
+				}
+				"previous"
+				{
+					"gid"		"2057730924779657023"
+					"size"		"512037163"
+					"download"		"127620272"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11504155"
+				"timeupdated"		"1687169272"
+			}
+			"beta"
+			{
+				"buildid"		"12343910"
+				"description"		"Pre-release build which contains features coming soon, but may also contain bugs!"
+				"timeupdated"		"1696336460"
+			}
+			"previous"
+			{
+				"buildid"		"8090994"
+				"description"		"The previous official release. Use this if you need to check for a regression in the latest official build"
+				"timeupdated"		"1675978906"
+			}
+		}
+	}
+}
