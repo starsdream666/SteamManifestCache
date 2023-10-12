@@ -1,0 +1,186 @@
+"appinfo"
+{
+	"appid"		"1638080"
+	"common"
+	{
+		"name"		"末日远征"
+		"type"		"Game"
+		"icon"		"c89aa037063e7ac159b4f5bf3c9a434a0679b717"
+		"logo"		"d3842aef0017c6a929b2e1670fb36327410cf56b"
+		"logo_small"		"d3842aef0017c6a929b2e1670fb36327410cf56b_thumb"
+		"clienticon"		"8729295adc142eed8f14e7e4d4d904bd2965ae79"
+		"clienttga"		"17baec2375484392e68dd6ea524c25b32caaa33b"
+		"name_localized"
+		{
+			"english"		"AMG"
+		}
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"app_retired_was_free"		"1"
+		"market_presence"		"0"
+		"small_capsule"
+		{
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"schinese"		"header_schinese.jpg"
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"zh-cn,en"
+			"library_hero"		"en"
+			"library_logo"		"zh-cn,en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"45.37465303369362"
+				"height_pct"		"43.94512771996216"
+			}
+		}
+		"store_asset_mtime"		"1622771711"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"iDeaction"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"iDeaction"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"37"
+			"2"		"29"
+			"3"		"28"
+			"4"		"2"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_2"		"1"
+			"category_20"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1624414560"
+		"community_hub_visible"		"1"
+		"gameid"		"1638080"
+		"store_tags"
+		{
+			"0"		"3942"
+			"1"		"16598"
+			"2"		"3859"
+			"3"		"4168"
+			"4"		"1755"
+			"5"		"128"
+			"6"		"1775"
+			"7"		"4364"
+			"8"		"4684"
+			"9"		"9"
+			"10"		"1678"
+			"11"		"3813"
+			"12"		"7332"
+			"13"		"4191"
+			"14"		"3810"
+			"15"		"599"
+			"16"		"8945"
+			"17"		"3834"
+			"18"		"4182"
+			"19"		"21"
+		}
+		"review_score"		"5"
+		"review_percentage"		"59"
+	}
+	"extended"
+	{
+		"developer"		"iDeaction"
+		"publisher"		"iDeaction"
+	}
+	"config"
+	{
+		"installdir"		"末日远征"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"AMG.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,schinese,tchinese"
+		"1638081"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7640893897219528239"
+					"size"		"740139116"
+					"download"		"195628992"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"E24D433E5721314F36B9BD1B40538EA1"
+					"size"		"084602FB4344F871BB0FB262E05D8F5A"
+					"download"		"1C050E7D628E9383F6CAB24F69E160ED"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7967162"
+				"timeupdated"		"1641267135"
+			}
+			"test"
+			{
+				"buildid"		"7967162"
+				"pwdrequired"		"1"
+				"timeupdated"		"1641266982"
+			}
+		}
+	}
+}
