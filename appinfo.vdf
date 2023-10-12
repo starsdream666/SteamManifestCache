@@ -1,0 +1,180 @@
+"appinfo"
+{
+	"appid"		"1649920"
+	"common"
+	{
+		"name"		"Coronation"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"5009670b365f61f11d6a7825f739a0d70d5adf8a"
+		"logo_small"		"5009670b365f61f11d6a7825f739a0d70d5adf8a_thumb"
+		"icon"		"18bc5676900a4a09b04bf780a26b40fcfdb49f3b"
+		"clienttga"		"28af24aeb3e6b4f484e068be8d4db8ebb9eb88a3"
+		"clienticon"		"b3d22de6944d8b7685f31f6621d047cfc7b07763"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"89.88372093023253"
+				"height_pct"		"90.88102588458801"
+			}
+		}
+		"store_asset_mtime"		"1683966197"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Twin Sword Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Twin Sword Studio"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"37"
+			"3"		"23"
+			"4"		"29"
+			"5"		"3"
+			"6"		"28"
+			"7"		"2"
+			"8"		"70"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1633111560"
+		"community_hub_visible"		"1"
+		"gameid"		"1649920"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"9"
+			"2"		"4231"
+			"3"		"4328"
+			"4"		"3813"
+			"5"		"4684"
+			"6"		"4191"
+			"7"		"4252"
+			"8"		"12472"
+			"9"		"4172"
+			"10"		"7332"
+			"11"		"3993"
+			"12"		"1702"
+			"13"		"1695"
+			"14"		"6730"
+			"15"		"1775"
+			"16"		"8945"
+			"17"		"3859"
+			"18"		"493"
+			"19"		"4667"
+		}
+		"review_score"		"5"
+		"review_percentage"		"69"
+	}
+	"extended"
+	{
+		"developer"		"Twin Sword Studio"
+		"publisher"		"Twin Sword Studio"
+		"homepage"		"https://coronationgame.com/"
+	}
+	"config"
+	{
+		"installdir"		"Coronation"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"CoronationGame\\Windows\\GGP.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1649921"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1767631522134951099"
+					"size"		"1860498933"
+					"download"		"1702762864"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9893573"
+				"timeupdated"		"1667920399"
+			}
+		}
+	}
+}
