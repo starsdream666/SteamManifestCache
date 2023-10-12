@@ -1,0 +1,169 @@
+"appinfo"
+{
+	"appid"		"870890"
+	"common"
+	{
+		"name"		"Museum of Symmetry"
+		"type"		"Game"
+		"releasestate"		"released"
+		"playareavr"
+		{
+			"roomscale"
+			{
+				"width"		"3"
+				"depth"		"3"
+				"360_required"		"0"
+			}
+		}
+		"oslist"		"windows"
+		"osarch"		""
+		"openvrsupport"		"1"
+		"controllervr"
+		{
+			"steamvr"		"1"
+		}
+		"logo"		"99c011a0d47147dddcd3acb37dbd0eec1c3eb8f6"
+		"logo_small"		"99c011a0d47147dddcd3acb37dbd0eec1c3eb8f6_thumb"
+		"icon"		"961e01ecb247e01884cfaf25221ac9fa472beb1c"
+		"clienticon"		"a09659eb454f390ab63fb5054f4171e654042bd7"
+		"clienttga"		"0b910877630e6a976240aa743f798c90eac394fe"
+		"metacritic_name"		"Museum of Symmetry"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"fr,en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"65.58139534883722"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1667581786"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"National Film Board of Canada"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Casa Rara"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Astrea"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Astrea"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"23"
+			"3"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_52"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1533837032"
+		"community_hub_visible"		"1"
+		"gameid"		"870890"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"492"
+			"2"		"597"
+			"3"		"599"
+			"4"		"21978"
+		}
+		"review_score"		"8"
+		"review_percentage"		"95"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"National Film Board of Canada"
+		"publisher"		"Astrea"
+		"homepage"		"https://www.nfb.ca/interactive/museum_of_symmetry"
+	}
+	"config"
+	{
+		"installdir"		"Museum of Symmetry"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MuseumOfSymmetry.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,french"
+		"870891"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1295103818496967333"
+					"size"		"4316133319"
+					"download"		"707633312"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3365623"
+				"timeupdated"		"1543942573"
+			}
+		}
+	}
+}
