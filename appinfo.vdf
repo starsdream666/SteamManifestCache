@@ -1,0 +1,253 @@
+"appinfo"
+{
+	"appid"		"1316460"
+	"common"
+	{
+		"name"		"Bounty"
+		"type"		"Game"
+		"icon"		"2a07e267259fd08ef7329ebe7f0aa5b9bbbddc87"
+		"clienticon"		"ed30b39e32ff9eb8e706ceb2e071388307378afd"
+		"clienttga"		"d0ca88a7df349cc747d18ef87bd0548a887bdcca"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"56.62790697674419"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1671691051"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Wormbrain, Inc."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Wormbrain, Inc."
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"29"
+			"4"		"3"
+			"5"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_1"		"1"
+			"category_20"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_13"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1655394120"
+		"community_hub_visible"		"1"
+		"gameid"		"1316460"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"122"
+			"2"		"492"
+			"3"		"21"
+			"4"		"4637"
+			"5"		"4231"
+			"6"		"4106"
+			"7"		"3834"
+			"8"		"1646"
+			"9"		"3871"
+			"10"		"4305"
+			"11"		"3964"
+			"12"		"4166"
+			"13"		"4342"
+			"14"		"3835"
+			"15"		"4004"
+			"16"		"3942"
+			"17"		"3993"
+			"18"		"1754"
+			"19"		"4562"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Wormbrain, Inc."
+		"publisher"		"Wormbrain, Inc."
+	}
+	"config"
+	{
+		"installdir"		"Bounty"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Bounty.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"bounty.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1316461"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7664902380765214954"
+					"size"		"313983254"
+					"download"		"145183824"
+				}
+				"local"
+				{
+					"gid"		"7051582284508902809"
+					"size"		"239543940"
+					"download"		"128727232"
+				}
+				"singleplayer"
+				{
+					"gid"		"826963974822577612"
+					"size"		"154748955"
+					"download"		"58234128"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"multiplayer"
+				{
+					"gid"		"337F473AC3B2AFF1E5083E0EFE25480F"
+					"size"		"6DBE4E78EADF779BE7B57292C5A6399D"
+					"download"		"94EDE0CD429FEC47B137CDDD04CFB8FD"
+				}
+			}
+		}
+		"1316462"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7543526694902570807"
+					"size"		"185250060"
+					"download"		"65487344"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"multiplayer"
+				{
+					"gid"		"0F69A7A43252E87966D451E788335773"
+					"size"		"C2E8406D62245B513B557421C5171F0D"
+					"download"		"58F81FBA5870AD194397A2109B6AF937"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10263930"
+				"timeupdated"		"1672948504"
+			}
+			"local"
+			{
+				"buildid"		"9582250"
+				"description"		"Local Content Server"
+				"lcsrequired"		"1"
+				"timeupdated"		"1663982216"
+			}
+			"multiplayer"
+			{
+				"buildid"		"10263930"
+				"pwdrequired"		"1"
+				"timeupdated"		"1672948147"
+			}
+			"singleplayer"
+			{
+				"buildid"		"8861425"
+				"description"		"the original singleplayer alpha"
+				"timeupdated"		"1671700407"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"50"
+		"sync_while_suspended"		"1"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"saves"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
