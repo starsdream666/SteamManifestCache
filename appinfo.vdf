@@ -1,0 +1,225 @@
+"appinfo"
+{
+	"appid"		"392060"
+	"common"
+	{
+		"name"		"BattleSouls"
+		"type"		"Game"
+		"oslist"		"windows,macos"
+		"clienticon"		"8bd0a635bb41340726109b2e8a033a915f3e09d5"
+		"clienttga"		"11803495afc21229df5d069eb697c736908a77aa"
+		"icon"		"316f40237ae1aca334db68ff53e5b5761ad5ecb6"
+		"logo"		"daf725c278dea49f7e99c1da81f56c1ddc305697"
+		"logo_small"		"daf725c278dea49f7e99c1da81f56c1ddc305697_thumb"
+		"releasestate"		"released"
+		"metacritic_name"		"BattleSouls"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1462997249"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Pixeleap"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Pixeleap"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_27"		"1"
+			"category_29"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1463072100"
+		"community_hub_visible"		"1"
+		"gameid"		"392060"
+		"store_tags"
+		{
+			"0"		"3859"
+			"1"		"113"
+			"2"		"1718"
+			"3"		"1775"
+			"4"		"620519"
+			"5"		"19"
+			"6"		"1695"
+		}
+		"review_score"		"5"
+		"review_percentage"		"68"
+	}
+	"extended"
+	{
+		"gamedir"		"battlesouls"
+		"serverbrowsername"		"BattleSouls"
+		"developer"		"Pixeleap"
+		"publisher"		"Pixeleap"
+		"homepage"		"http://www.battlesouls.com"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"BattleSouls"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"BattleSouls.exe"
+				"description"		"Launch"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"BattleSouls.app"
+				"description"		"Launch"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"392061"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5849813807024577311"
+					"size"		"2360936017"
+					"download"		"627306032"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtestbranch"
+				{
+					"gid"		"76A5FFC7F9DDA0E8F38BE52DD4110CFA"
+					"size"		"81379635D62101A912E269411808C51B"
+					"download"		"940F1901FBCB216A077CB48D201F5957"
+				}
+			}
+		}
+		"392062"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7170239928685394909"
+					"size"		"2458478003"
+					"download"		"650380256"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtestbranch"
+				{
+					"gid"		"91813499EA69134F5EA66950FFDF181B"
+					"size"		"B84979608FCBB2B7D437F68732B29BB2"
+					"download"		"E9938ADECF5296A0CA6C578697157B13"
+				}
+			}
+		}
+		"392063"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"devtestbranch"
+				{
+					"gid"		"65544FCCEC93B0767F9BCC4DA6B72D73"
+					"size"		"81379635D62101A912E269411808C51B"
+					"download"		"5D73B548BAEF1E5AD1DA79E88EC0DDF0"
+				}
+			}
+		}
+		"392064"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2534450812055291123"
+					"size"		"2354737789"
+					"download"		"625663024"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1206087"
+				"timeupdated"		"1467286065"
+			}
+			"devtestbranch"
+			{
+				"buildid"		"1092739"
+				"pwdrequired"		"1"
+				"timeupdated"		"1461576439"
+			}
+		}
+	}
+}
