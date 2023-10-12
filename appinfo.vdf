@@ -1,0 +1,169 @@
+"appinfo"
+{
+	"appid"		"2097100"
+	"common"
+	{
+		"name"		"Jylko: Through The Song"
+		"type"		"Game"
+		"icon"		"f96f2f7dda5dfdf602b8c6bb80cc01aa86d78d63"
+		"clienticon"		"7afd1900015fc7911a7e71ff9833648002b4a8ba"
+		"clienttga"		"2357a8ac29b59ab9be74668f12a3421b4c68e1ff"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"24.30232558139535"
+				"height_pct"		"35.94158157207315"
+			}
+		}
+		"store_asset_mtime"		"1693666074"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"PERK"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"PERK"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_22"		"1"
+			"category_25"		"1"
+			"category_15"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1680870933"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2097100"
+		"store_tags"
+		{
+			"0"		"4885"
+			"1"		"4758"
+			"2"		"19"
+			"3"		"3871"
+			"4"		"3964"
+			"5"		"4604"
+			"6"		"4791"
+			"7"		"4166"
+			"8"		"492"
+			"9"		"3993"
+			"10"		"6730"
+			"11"		"4182"
+			"12"		"4736"
+			"13"		"1773"
+			"14"		"1720"
+			"15"		"4305"
+			"16"		"4342"
+			"17"		"42804"
+			"18"		"3959"
+			"19"		"493"
+		}
+		"review_score"		"5"
+		"review_percentage"		"69"
+	}
+	"extended"
+	{
+		"developer"		"PERK"
+		"publisher"		"PERK"
+	}
+	"config"
+	{
+		"installdir"		"Jylko Through The Song"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Jylko.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"2097101"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2025865208962186808"
+					"size"		"1615444879"
+					"download"		"1299925024"
+				}
+			}
+		}
+		"baselanguages"		"english"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12207160"
+				"timeupdated"		"1694886963"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"100"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"SavesDir"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
