@@ -1,0 +1,181 @@
+"appinfo"
+{
+	"appid"		"1784750"
+	"common"
+	{
+		"name"		"Die After Sunset Prologue"
+		"type"		"Game"
+		"logo"		"9d0c2803deb1acdde3ab0259cc28f21597becb93"
+		"logo_small"		"9d0c2803deb1acdde3ab0259cc28f21597becb93_thumb"
+		"icon"		"ff8056f44be913116341b84b2714788754d44dae"
+		"clienticon"		"0d5a4e6aabc477243f2abebcaa22b9cbee2ba827"
+		"clienttga"		"e54211de87914c06522995664ab6310cab757b8d"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"app_retired_publisher_request"		"1"
+		"app_retired_was_free"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1634569576"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Playstark"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"PQube "
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"PQube"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1635322087"
+		"community_hub_visible"		"1"
+		"gameid"		"1784750"
+		"store_tags"
+		{
+			"0"		"3959"
+			"1"		"6730"
+			"2"		"1697"
+			"3"		"4562"
+			"4"		"1774"
+			"5"		"19"
+			"6"		"4236"
+			"7"		"5125"
+			"8"		"1759"
+			"9"		"42804"
+			"10"		"3810"
+			"11"		"4195"
+			"12"		"1673"
+			"13"		"1719"
+			"14"		"21"
+			"15"		"3993"
+			"16"		"4182"
+			"17"		"492"
+		}
+		"review_score"		"5"
+		"review_percentage"		"68"
+	}
+	"extended"
+	{
+		"developer"		"Playstark"
+		"publisher"		"PQube "
+		"homepage"		"https://www.dieaftersunset.com"
+	}
+	"config"
+	{
+		"installdir"		"Die After Sunset Prologue"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Die After Sunset.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1784751"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"561342019984859938"
+					"size"		"4232506867"
+					"download"		"1543466224"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"8180277712B9FDB2BDA0214DC6F25F41"
+					"size"		"11329D8FC39E9CED63321519F6D3E7C1"
+					"download"		"29EFC6228F814E01CCBCC79C994958A6"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7560436"
+				"timeupdated"		"1634653303"
+			}
+			"test"
+			{
+				"buildid"		"7663432"
+				"pwdrequired"		"1"
+				"timeupdated"		"1636114778"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+	}
+}
