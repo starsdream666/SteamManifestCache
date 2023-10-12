@@ -1,0 +1,373 @@
+"appinfo"
+{
+	"appid"		"708550"
+	"common"
+	{
+		"name"		"Skydome"
+		"type"		"Game"
+		"clienticon"		"6585b5297ebb81913e0503d3a98f0584c65329dc"
+		"clienttga"		"5334d0c6a13fed1f9b299d906af8b7b249aa3433"
+		"icon"		"c00fbd1c2fd607fa650a78902ba340362a0c6945"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"logo"		"485023c204f6fc8726e4ba7f8cb71cbee0222919"
+		"logo_small"		"485023c204f6fc8726e4ba7f8cb71cbee0222919_thumb"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"708550_eula_0"
+				"name"		"Skydome EULA"
+				"url"		"http://store.steampowered.com//eula/708550_eula_0"
+				"version"		"2"
+			}
+		}
+		"releasestate"		"released"
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"51.12903225806451"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1633704023"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Kinship Entertainment"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Nomad EGL"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"2"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_36"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"brazilian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1605031080"
+		"community_hub_visible"		"1"
+		"gameid"		"708550"
+		"store_tags"
+		{
+			"0"		"1645"
+			"1"		"3859"
+			"2"		"5711"
+			"3"		"9"
+			"4"		"1718"
+			"5"		"19"
+			"6"		"4747"
+			"7"		"1643"
+			"8"		"3993"
+			"9"		"8945"
+			"10"		"6730"
+			"11"		"1775"
+			"12"		"3843"
+			"13"		"4155"
+			"14"		"7332"
+			"15"		"1676"
+			"16"		"3955"
+			"17"		"1684"
+			"18"		"4791"
+			"19"		"16094"
+		}
+		"review_score"		"6"
+		"review_percentage"		"76"
+	}
+	"extended"
+	{
+		"developer"		"Kinship Entertainment"
+		"publisher"		"Nomad EGL"
+		"homepage"		"https://www.playskydome.com.br/br/"
+		"listofdlc"		"1456840,1456841,1456842,1456843"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Skydome"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Skydome.exe"
+				"arguments"		"-region saopaulo -stage production -platform steam -steamOverlay"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"default"
+				}
+			}
+			"1"
+			{
+				"executable"		"Skydome.exe"
+				"arguments"		"-region saopaulo -stage development -platform steam -steamOverlay"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"nomad"
+				}
+				"description_loc"
+				{
+					"english"		"Nomad QA"
+				}
+				"description"		"Nomad QA"
+			}
+			"2"
+			{
+				"executable"		"Skydome.exe"
+				"arguments"		"-region saopaulo -stage development -platform steam -steamOverlay"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"qa-kinship"
+				}
+				"description_loc"
+				{
+					"english"		"Kinship QA"
+				}
+				"description"		"Kinship QA"
+			}
+			"3"
+			{
+				"executable"		"Skydome.exe"
+				"arguments"		"-region saopaulo -stage development -platform steam -steamOverlay"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"qa-public"
+				}
+				"description_loc"
+				{
+					"english"		"Kinship Public QA"
+				}
+				"description"		"Kinship Public QA"
+			}
+			"4"
+			{
+				"executable"		"Skydome.exe"
+				"arguments"		"-region saopaulo -stage defense -platform steam -steamOverlay"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"defense2021"
+				}
+				"description_loc"
+				{
+					"english"		"Defense Championship 2021"
+				}
+				"description"		"Defense Championship 2021"
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"708551"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4118551108087346079"
+					"size"		"6828981668"
+					"download"		"2241050464"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"audio"
+				{
+					"gid"		"38AA78EDB0EA6E820A17DB2C2382C1A0"
+					"size"		"2DE34C8DBABA22D02AE02B9F1FB07A75"
+					"download"		"401E84D2085F7EDDAA87B4EB1097499A"
+				}
+				"bgs2017"
+				{
+					"gid"		"B4622EC8EBBD62BD9916EAC3EC61D2FF"
+					"size"		"85AD9F509DDB4F12E7BAA019C84999C7"
+					"download"		"44265A27A0DDBFF7FB8FFF4E7C03CED7"
+				}
+				"defense2021"
+				{
+					"gid"		"F4F2866FFC9864E718185C786C6438D7"
+					"size"		"EA68CC314593A1C8CD3A79F2ED1CD6A9"
+					"download"		"A233E75ABC42D9D5715E557ABE16348E"
+				}
+				"development-kinship"
+				{
+					"gid"		"1A06A08165AD2D8A42162BCF461BC998"
+					"size"		"FA91698E89C04F0D1000E200B6C63063"
+					"download"		"1E7874EC98EFA35252D6527376917EE1"
+				}
+				"nomad"
+				{
+					"gid"		"8F19BBCFF7B35114A6808455A6B6B6B4"
+					"size"		"4DB04B65428CB86A87B78E36C884A087"
+					"download"		"AB81FB9276863FA0424B9ED53911D363"
+				}
+				"partners-01-test"
+				{
+					"gid"		"6778198091F6F97D68C6E4CD290B8ADC"
+					"size"		"7BBA1CD99DACFF6099723ABBA91014A5"
+					"download"		"6FE06F8DACBA9FFDDEA6A6D5EF465FDE"
+				}
+				"partners-02-test"
+				{
+					"gid"		"893B6F31146940EB73666219AAD33743"
+					"size"		"2A0E4669B588A0FBF3B40447A8A6ACE8"
+					"download"		"F608EC2545E1EB307F32CE65E8114049"
+				}
+				"qa-kinship"
+				{
+					"gid"		"1E338676467FECF5CF427AC29A9CE796"
+					"size"		"BA9F8A4A7933A9975F9AF032AC7DB6A2"
+					"download"		"E39058A7BC8D6E72C54C0EF3E23892B6"
+				}
+				"qa-kinship2"
+				{
+					"gid"		"6A36E6E23F2E6843D87F87CDDAF3B812"
+					"size"		"18D6AB2FB58F23AD8606BEF5C1CD17BB"
+					"download"		"A16F64B104B1D2D3EAEA4714C62C5E89"
+				}
+				"qa-public"
+				{
+					"gid"		"4B37105DF04413046E1A9651B8847DF1"
+					"size"		"2D4B8B8878963D945F1E89BA4558D0D3"
+					"download"		"0C2193A4DC68718DBC57990E7632A34D"
+				}
+			}
+		}
+		"726220"
+		{
+			"dlcappid"		"726220"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7612530"
+				"timeupdated"		"1635369617"
+			}
+			"audio"
+			{
+				"buildid"		"7411945"
+				"pwdrequired"		"1"
+				"timeupdated"		"1632422336"
+			}
+			"bgs2017"
+			{
+				"buildid"		"2223204"
+				"pwdrequired"		"1"
+				"timeupdated"		"1581629406"
+			}
+			"defense2021"
+			{
+				"buildid"		"7167396"
+				"pwdrequired"		"1"
+				"timeupdated"		"1628608264"
+			}
+			"development-kinship"
+			{
+				"buildid"		"6793990"
+				"pwdrequired"		"1"
+				"timeupdated"		"1623285568"
+			}
+			"nomad"
+			{
+				"buildid"		"7543699"
+				"pwdrequired"		"1"
+				"timeupdated"		"1634563731"
+			}
+			"partners-01-test"
+			{
+				"buildid"		"6936047"
+				"pwdrequired"		"1"
+				"timeupdated"		"1624666122"
+			}
+			"partners-02-test"
+			{
+				"buildid"		"6660195"
+				"pwdrequired"		"1"
+				"timeupdated"		"1621539900"
+			}
+			"qa-kinship"
+			{
+				"buildid"		"7612530"
+				"pwdrequired"		"1"
+				"timeupdated"		"1635369600"
+			}
+			"qa-kinship2"
+			{
+				"buildid"		"7143884"
+				"pwdrequired"		"1"
+				"timeupdated"		"1628174740"
+			}
+			"qa-public"
+			{
+				"buildid"		"7054037"
+				"pwdrequired"		"1"
+				"timeupdated"		"1626796932"
+			}
+		}
+	}
+}
