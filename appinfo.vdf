@@ -1,0 +1,172 @@
+"appinfo"
+{
+	"appid"		"755080"
+	"common"
+	{
+		"name"		"Genesis"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"a6edf3002e6f377a0fd977ebad547f9d12386e24"
+		"logo_small"		"a6edf3002e6f377a0fd977ebad547f9d12386e24_thumb"
+		"icon"		"dc63238956ead673d1e16029f4cf6d9b3043134e"
+		"clienttga"		"a35267475ad2f09a6949f76bd6a6590a9681f59b"
+		"clienticon"		"0eb59e8b667bf79e658b61211aa1d81f14d94229"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"755080_eula_0"
+				"name"		"Genesis EULA"
+				"url"		"http://store.steampowered.com//eula/755080_eula_0"
+			}
+		}
+		"releasestate"		"released"
+		"metacritic_name"		"Genesis"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1551927159"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Rampage Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Hainan Legendkey Network Technology Co., Ltd."
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+			"3"		"29"
+			"4"		"2"
+			"5"		"70"
+		}
+		"category"
+		{
+			"category_36"		"1"
+			"category_28"		"1"
+			"category_33"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1552546800"
+		"steam_release_date"		"1552528948"
+		"community_hub_visible"		"1"
+		"gameid"		"755080"
+		"store_tags"
+		{
+			"0"		"1718"
+			"1"		"113"
+			"2"		"9"
+			"3"		"19"
+			"4"		"128"
+			"5"		"493"
+			"6"		"597"
+		}
+		"review_score"		"5"
+		"review_percentage"		"53"
+	}
+	"extended"
+	{
+		"developer"		"Rampage Games"
+		"publisher"		"Hainan Legendkey Network Technology Co., Ltd."
+		"homepage"		"http://www.genesismoba.com/"
+	}
+	"config"
+	{
+		"installdir"		"Genesis"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MobaGame.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228987"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english,schinese,tchinese"
+		"755081"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3513929113926743179"
+					"size"		"5052589844"
+					"download"		"4698949264"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3602001"
+				"timeupdated"		"1551321179"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"5242880"
+		"maxnumfiles"		"1"
+	}
+}
