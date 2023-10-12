@@ -17,7 +17,9 @@
 		"name_localized"
 		{
 			"english"		"Shanhe"
+			"sc_schinese"		"山河伏妖录"
 		}
+		"releasestatesteamchina"		"prerelease"
 		"steam_deck_compatibility"
 		{
 			"category"		"2"
@@ -177,12 +179,23 @@
 			}
 		}
 		"uselaunchcommandline"		"1"
+		"steam_china_only"
+		{
+			"steam_china_enable_duration_control"		"0"
+		}
 	}
 	"depots"
 	{
 		"baselanguages"		"schinese"
 		"branches"
 		{
+			"steam_china_only"
+			{
+				"sc_schinese"		"仅中国"
+				"buildid"		"12087711"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693564182"
+			}
 			"public"
 			{
 				"buildid"		"11762849"
@@ -211,6 +224,12 @@
 			}
 			"encryptedmanifests"
 			{
+				"steam_china_only"
+				{
+					"gid"		"593D9A0FA33FA970A123873F37369425"
+					"size"		"60F83082CF1247D1DDFD04327DEE4E39"
+					"download"		"90954F35D48C7BC360B851ED267654F6"
+				}
 			}
 		}
 		"1817751"
@@ -227,6 +246,12 @@
 			}
 			"encryptedmanifests"
 			{
+				"steam_china_only"
+				{
+					"gid"		"8313E06F9D52E666AD69CCFD89483DCC"
+					"size"		"845C204A34DBFBE92CCCAC4842DCE090"
+					"download"		"2BA043A6FD8076F27244BB5AB2FB8776"
+				}
 			}
 		}
 		"1817750"
@@ -243,6 +268,12 @@
 			}
 			"encryptedmanifests"
 			{
+				"steam_china_only"
+				{
+					"gid"		"4C187F85E3051B61F4BEB9ED50346218"
+					"size"		"845C204A34DBFBE92CCCAC4842DCE090"
+					"download"		"2BA043A6FD8076F27244BB5AB2FB8776"
+				}
 			}
 		}
 		"1912260"
@@ -259,6 +290,12 @@
 			}
 			"encryptedmanifests"
 			{
+				"steam_china_only"
+				{
+					"gid"		"0C51CE6D5E0CDB99D7A2CAC2EDA0A3E9"
+					"size"		"845C204A34DBFBE92CCCAC4842DCE090"
+					"download"		"2BA043A6FD8076F27244BB5AB2FB8776"
+				}
 			}
 		}
 		"2194120"
@@ -275,6 +312,34 @@
 			}
 			"encryptedmanifests"
 			{
+				"steam_china_only"
+				{
+					"gid"		"F7BA1F0B4CDC1C618D572224E0A7245A"
+					"size"		"845C204A34DBFBE92CCCAC4842DCE090"
+					"download"		"2BA043A6FD8076F27244BB5AB2FB8776"
+				}
+			}
+		}
+		"1598732"
+		{
+			"config"
+			{
+				"language"		"schinese"
+				"oslist"		"windows"
+				"osarch"		"64"
+				"realm"		"steamchina"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"steam_china_only"
+				{
+					"gid"		"4CABF9BCC86AC867616E6D1A1C5198AB"
+					"size"		"9EA722533AF937D3755E8179DD2CFCD4"
+					"download"		"F7C1F1E1DEA27B39C3F64717BE865C9F"
+				}
 			}
 		}
 	}
