@@ -1,0 +1,316 @@
+"appinfo"
+{
+	"appid"		"1981570"
+	"common"
+	{
+		"name"		"Land of the Vikings"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"fca3b1528fd80f93a6352ed976a294e02e52c530"
+		"clienttga"		"1e6570bda99cf87244c790469c3ca5e5794121e3"
+		"icon"		"b13963f2b4b2c6ef0902f109cf8ff836bb92ce90"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1669075200"
+			"tested_build_id"		"9933423"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"4"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-5"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"75.69767441860465"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1696867890"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Laps Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Iceberg Interactive"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_22"		"1"
+			"category_30"		"1"
+			"category_23"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1696863833"
+		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1981570"
+		"store_tags"
+		{
+			"0"		"220585"
+			"1"		"4328"
+			"2"		"9"
+			"3"		"11634"
+			"4"		"1662"
+			"5"		"3810"
+			"6"		"1643"
+			"7"		"12472"
+			"8"		"4695"
+			"9"		"7332"
+			"10"		"3987"
+			"11"		"599"
+			"12"		"4191"
+			"13"		"8945"
+			"14"		"4175"
+			"15"		"1708"
+			"16"		"16094"
+			"17"		"4182"
+			"18"		"493"
+			"19"		"3859"
+		}
+		"review_score"		"8"
+		"review_percentage"		"81"
+	}
+	"extended"
+	{
+		"developer"		"Laps Games"
+		"publisher"		"Iceberg Interactive"
+	}
+	"config"
+	{
+		"installdir"		"Land of the Vikings"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"VikingOyunu.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"1981571"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6518292116966090592"
+					"size"		"9963496945"
+					"download"		"3992623952"
+				}
+				"v8.1"
+				{
+					"gid"		"8105617138282253350"
+					"size"		"7892152986"
+					"download"		"3188110448"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"demo"
+				{
+					"gid"		"F8170F5F8F0691A7F3A96AC05E0CF825"
+					"size"		"4600F44C8EDC72A4CD7133E6C5374B9F"
+					"download"		"89E7ED371566C8E6432B069D0B534F30"
+				}
+				"devbuild"
+				{
+					"gid"		"B8E372F0BBB78CA94C8625553787EA42"
+					"size"		"0B4E72C67CBF6C51890B15F59F6FCD43"
+					"download"		"77E6CC9BDD758DD4AE1990E24D7338EF"
+				}
+				"pressv1.0"
+				{
+					"gid"		"5BEB387C9196F7B9D0383075990E3B74"
+					"size"		"02AB56F6B5E197451899C3FFC509BF82"
+					"download"		"AEDFBD894685E7F590C1B8D8CB848DEC"
+				}
+				"test"
+				{
+					"gid"		"AB7B543C9CAB7174EDDEFAE1FB265DD3"
+					"size"		"A327E658D85C8FB2579527679FACC820"
+					"download"		"3005E4B03C03F8613154A630A032345C"
+				}
+				"v1.0"
+				{
+					"gid"		"0169D4F6AF0C7D1EE186E567E02DAF95"
+					"size"		"B2C5E678E57FD0B07072EC98EE323CBF"
+					"download"		"34E71F2655C7F6E886A67C6ED740ECBF"
+				}
+			}
+		}
+		"workshopdepot"		"1981570"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12402770"
+				"timeupdated"		"1696950393"
+			}
+			"demo"
+			{
+				"buildid"		"12423394"
+				"pwdrequired"		"1"
+				"timeupdated"		"1697110437"
+			}
+			"devbuild"
+			{
+				"buildid"		"12424514"
+				"pwdrequired"		"1"
+				"timeupdated"		"1697118635"
+			}
+			"pressv1.0"
+			{
+				"buildid"		"12402770"
+				"pwdrequired"		"1"
+				"timeupdated"		"1696950350"
+			}
+			"test"
+			{
+				"buildid"		"12087247"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693560840"
+			}
+			"v1.0"
+			{
+				"buildid"		"12402770"
+				"pwdrequired"		"1"
+				"timeupdated"		"1696950358"
+			}
+			"v8.1"
+			{
+				"buildid"		"10954167"
+				"description"		"LOTV 0.8.1v"
+				"timeupdated"		"1693481638"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"10000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"VikingOyunu"
+				"pattern"		"*"
+				"recursive"		"1"
+			}
+		}
+	}
+}
