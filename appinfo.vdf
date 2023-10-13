@@ -3,12 +3,12 @@
 	"appid"		"520950"
 	"common"
 	{
-		"name"		"Drift21"
+		"name"		"DRIFTCE"
 		"type"		"Game"
 		"releasestate"		"released"
 		"logo"		"aa9c92937d11633acde336b32f95179b2f0aee74"
 		"logo_small"		"aa9c92937d11633acde336b32f95179b2f0aee74_thumb"
-		"icon"		"b6247bd9eb9074f024bb58a0a98f9a314e0753a8"
+		"icon"		"b33a23f70f381ac2799b6e2d7598068ac4e8f233"
 		"clienticon"		"98de5736ff8daa2a4e8fa4d39bb34265f5c07fc3"
 		"clienttga"		"031a1904baac4f304bb730d78c5cd6d19e827431"
 		"oslist"		"windows"
@@ -79,7 +79,7 @@
 				"height_pct"		"100"
 			}
 		}
-		"store_asset_mtime"		"1648460522"
+		"store_asset_mtime"		"1697124463"
 		"associations"
 		{
 			"0"
@@ -191,8 +191,8 @@
 			"1"		"599"
 			"2"		"1100687"
 			"3"		"1644"
-			"4"		"3859"
-			"5"		"701"
+			"4"		"701"
+			"5"		"3859"
 			"6"		"4175"
 			"7"		"4182"
 			"8"		"1643"
@@ -246,18 +246,24 @@
 			{
 				"public"
 				{
-					"gid"		"8267656303203473315"
-					"size"		"6339289682"
-					"download"		"2908011328"
+					"gid"		"4953386174977029647"
+					"size"		"6357751705"
+					"download"		"2905904928"
 				}
 			}
 			"encryptedmanifests"
 			{
+				"dailybuilds"
+				{
+					"gid"		"F47BEC49F88365DDBF433A8EB3CD1C4D"
+					"size"		"887AA0DD517458E694877E1CE4D5B0CA"
+					"download"		"4B2C0ABAC2D0F270724CBC6AC3FC9BAF"
+				}
 				"ea_branch"
 				{
-					"gid"		"A17651BC9171AF26A34056FABDC20C04"
-					"size"		"3F9998636D706FFA4600E662A11FE427"
-					"download"		"AAF8A429CD89C5D766A031ADA74654BE"
+					"gid"		"8EC90F9253A2BB346137F1E3473EB97E"
+					"size"		"D1C51DEE78734343D4EE7FC1F0D41DD0"
+					"download"		"74DE00F48B41693D27DF7E93C72CF721"
 				}
 				"wer0.8"
 				{
@@ -301,6 +307,18 @@
 					"size"		"F0264F97D8688489105EFB41D531B9B2"
 					"download"		"D905527C53D45A2D029C7398BF7AD31E"
 				}
+				"wer1.5"
+				{
+					"gid"		"E0A2C403E29C766F809436446BEE9454"
+					"size"		"4A29D5DC6D902047781483E0B6AA14E0"
+					"download"		"2F9E9C001F8BBDC9783192E392C3A294"
+				}
+				"wer1.6"
+				{
+					"gid"		"35CE6EF1B403371E2877597B4D51B19D"
+					"size"		"2C0946840CC722E438009CEB1C4131DE"
+					"download"		"B2058DC39FB000DCAB050F7EA8F7C30E"
+				}
 			}
 		}
 		"520952"
@@ -314,14 +332,20 @@
 		{
 			"public"
 			{
-				"buildid"		"12060102"
-				"timeupdated"		"1693495393"
+				"buildid"		"12415240"
+				"timeupdated"		"1697122638"
+			}
+			"dailybuilds"
+			{
+				"buildid"		"12415240"
+				"pwdrequired"		"1"
+				"timeupdated"		"1697039778"
 			}
 			"ea_branch"
 			{
-				"buildid"		"12169133"
+				"buildid"		"12415240"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694524829"
+				"timeupdated"		"1697039856"
 			}
 			"wer0.8"
 			{
@@ -364,6 +388,18 @@
 				"buildid"		"12060102"
 				"pwdrequired"		"1"
 				"timeupdated"		"1694519896"
+			}
+			"wer1.5"
+			{
+				"buildid"		"12415240"
+				"pwdrequired"		"1"
+				"timeupdated"		"1697039872"
+			}
+			"wer1.6"
+			{
+				"buildid"		"12315388"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695983121"
 			}
 		}
 	}
