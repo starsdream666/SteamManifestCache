@@ -14,6 +14,49 @@
 		"oslist"		"windows"
 		"osarch"		"64"
 		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1697068800"
+			"tested_build_id"		"12404424"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-4"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
 		"controller_support"		"full"
 		"small_capsule"
 		{
@@ -139,6 +182,11 @@
 				"supported"		"true"
 				"subtitles"		"true"
 			}
+			"ukrainian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
 		}
 		"steam_release_date"		"1696424179"
 		"community_visible_stats"		"1"
@@ -204,9 +252,9 @@
 			{
 				"public"
 				{
-					"gid"		"7717368341524916254"
-					"size"		"13046845459"
-					"download"		"5056605408"
+					"gid"		"4998016435496616418"
+					"size"		"13046491995"
+					"download"		"5056786432"
 				}
 			}
 			"encryptedmanifests"
@@ -225,9 +273,9 @@
 				}
 				"testing"
 				{
-					"gid"		"EA0D4251E80945FBF9C0DAD3E0C9F635"
-					"size"		"C58983B3CD78B02BBB1B6335188A98C7"
-					"download"		"884111C137017F65BAC947A245B0629D"
+					"gid"		"783812FD5C191FB7F79B663CD98EABAA"
+					"size"		"C649A8B988DD419DBE19083EC0DA9E2F"
+					"download"		"8E1E71B65F80C6ADB07C7583F1DAE2E8"
 				}
 			}
 		}
@@ -235,8 +283,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12413685"
-				"timeupdated"		"1697029336"
+				"buildid"		"12424462"
+				"timeupdated"		"1697118856"
 			}
 			"demo"
 			{
@@ -252,9 +300,9 @@
 			}
 			"testing"
 			{
-				"buildid"		"12413685"
+				"buildid"		"12424462"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697028879"
+				"timeupdated"		"1697118380"
 			}
 		}
 	}
