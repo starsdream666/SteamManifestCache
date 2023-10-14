@@ -1,0 +1,218 @@
+"appinfo"
+{
+	"appid"		"2142260"
+	"common"
+	{
+		"name"		"Mercenaries Wings: The False Phoenix"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"japanese"		"1"
+		}
+		"clienticon"		"27e09f04836c01649ce6ba9649051f160cd31d95"
+		"clienttga"		"5d8102fe9b70b56495e0f98e8827210f93840a24"
+		"icon"		"9811f156d138ff3662907c5a7b1c60d78c131634"
+		"name_localized"
+		{
+			"japanese"		"マーセナリーズウィングス 偽りの不死鳥"
+			"schinese"		"佣兵之翼：伪之不死鸟"
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"japanese"		"header_japanese.jpg"
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,ja"
+			"library_hero"		"en"
+			"library_logo"		"ja,en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"39.14819136522754"
+				"height_pct"		"89.46995633130162"
+			}
+		}
+		"store_asset_mtime"		"1681785494"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"ESQUADRA,inc."
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"RideonJapan"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Flyhigh Works"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"FHWPublishing"
+			}
+			"4"
+			{
+				"type"		"franchise"
+				"name"		"Mercenaries Saga Series"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"3"
+			"1"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1697076400"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2142260"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"9"
+			"2"		"599"
+			"3"		"4434"
+			"4"		"17305"
+			"5"		"1741"
+			"6"		"14139"
+			"7"		"5851"
+			"8"		"4085"
+			"9"		"3964"
+			"10"		"1684"
+			"11"		"4172"
+			"12"		"1708"
+			"13"		"4057"
+			"14"		"7569"
+			"15"		"4325"
+			"16"		"4182"
+			"17"		"1677"
+		}
+	}
+	"extended"
+	{
+		"developer"		"ESQUADRA,inc."
+		"publisher"		"Flyhigh Works"
+	}
+	"config"
+	{
+		"installdir"		"Mercenaries Wings"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Mercenaries Wings.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"13"
+		"steamdecktouchscreen"		"5"
+		"steaminputmanifestpath"		"steam_input_manifest.vdf"
+		"steamconfigurator3rdpartynative"		"3"
+	}
+	"depots"
+	{
+		"2142261"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6760377621978674269"
+					"size"		"267484023"
+					"download"		"122991008"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"___develop"
+				{
+					"gid"		"1EDF73F9DB3DE84BE41DF5FB5F96C0ED"
+					"size"		"D53FC20D334C5278E8E50643BF988A06"
+					"download"		"493C126C4979943A4004AC02E91D7B6B"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11483605"
+				"timeupdated"		"1686878442"
+			}
+			"___develop"
+			{
+				"buildid"		"11476507"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686822718"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10485760"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"©RideonJapan,Inc_/Mercenaries Wings"
+				"pattern"		"SaveData.dat"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
