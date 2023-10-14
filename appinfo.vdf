@@ -20,7 +20,7 @@
 			"tchinese"		"1"
 			"russian"		"1"
 		}
-		"openvrsupport"		"1"
+		"openxrsupport"		"1"
 		"steam_deck_compatibility"
 		{
 			"category"		"3"
@@ -110,8 +110,7 @@
 			"0"		"1"
 			"1"		"23"
 			"2"		"29"
-			"3"		"37"
-			"4"		"70"
+			"3"		"70"
 		}
 		"category"
 		{
@@ -123,7 +122,6 @@
 			"category_22"		"1"
 			"category_28"		"1"
 			"category_52"		"1"
-			"category_53"		"1"
 		}
 		"supported_languages"
 		{
@@ -144,6 +142,10 @@
 				"supported"		"true"
 			}
 			"japanese"
+			{
+				"supported"		"true"
+			}
+			"german"
 			{
 				"supported"		"true"
 			}
@@ -176,7 +178,7 @@
 			"19"		"4255"
 		}
 		"review_score"		"8"
-		"review_percentage"		"89"
+		"review_percentage"		"90"
 	}
 	"extended"
 	{
@@ -203,20 +205,26 @@
 				"type"		"option1"
 				"description_loc"
 				{
-					"english"		"Combots Vulkan"
+					"english"		"Combots - Vulkan"
 				}
-				"description"		"Combots Vulkan"
+				"description"		"Combots - Vulkan"
 			}
-			"2"
+			"3"
+			{
+				"executable"		"Combots.exe"
+				"arguments"		"-FeatureLevelES31"
+				"type"		"option1"
+				"description_loc"
+				{
+					"english"		"Combots - Mobile Emulation"
+				}
+				"description"		"Combots - Mobile Emulation"
+			}
+			"4"
 			{
 				"executable"		"Combots.exe"
 				"arguments"		"-vr"
-				"type"		"vr"
-				"description_loc"
-				{
-					"english"		"Combots"
-				}
-				"description"		"Combots"
+				"type"		"openxr"
 			}
 		}
 	}
@@ -247,9 +255,9 @@
 			{
 				"public"
 				{
-					"gid"		"1041293168131698477"
-					"size"		"579892859"
-					"download"		"421655472"
+					"gid"		"7090973385917170117"
+					"size"		"590092330"
+					"download"		"428390816"
 				}
 				"v200"
 				{
@@ -262,9 +270,9 @@
 			{
 				"test"
 				{
-					"gid"		"7B89B5A1E76509C2FDF7DA21D1C3A0C9"
-					"size"		"0D5F71C473394E62A5D31CA0A54FA791"
-					"download"		"36E614F9A58FEC0408E4371C228FA910"
+					"gid"		"580713F1F8FD8D46D6AA2ADC58F84230"
+					"size"		"A123F5361C30E14C7AFA531844C68AD9"
+					"download"		"1614AFA526853F2DA8804CE0EF03B7BF"
 				}
 			}
 		}
@@ -272,14 +280,14 @@
 		{
 			"public"
 			{
-				"buildid"		"12270813"
-				"timeupdated"		"1695609479"
+				"buildid"		"12440737"
+				"timeupdated"		"1697277597"
 			}
 			"test"
 			{
-				"buildid"		"12270813"
+				"buildid"		"12440737"
 				"pwdrequired"		"1"
-				"timeupdated"		"1695609495"
+				"timeupdated"		"1697274146"
 			}
 			"v200"
 			{
