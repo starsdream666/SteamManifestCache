@@ -6,7 +6,7 @@
 		"name"		"Wings of Justice"
 		"type"		"Game"
 		"releasestate"		"released"
-		"oslist"		"windows,macos"
+		"oslist"		"windows,macos,linux"
 		"osarch"		""
 		"osextended"		"macos64,macosapplesilicon"
 		"clienttga"		"60f039a687929c118ae4a5960ca5b43c90da83f6"
@@ -35,7 +35,7 @@
 				"height_pct"		"100"
 			}
 		}
-		"store_asset_mtime"		"1696050969"
+		"store_asset_mtime"		"1697223222"
 		"associations"
 		{
 			"0"
@@ -139,6 +139,15 @@
 					"oslist"		"macos"
 				}
 			}
+			"2"
+			{
+				"executable"		"JetRush.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
 		}
 		"uselaunchcommandline"		"1"
 	}
@@ -178,12 +187,28 @@
 				}
 			}
 		}
+		"1778043"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9065418407964345097"
+					"size"		"1686551339"
+					"download"		"565002208"
+				}
+			}
+		}
 		"branches"
 		{
 			"public"
 			{
-				"buildid"		"12430782"
-				"timeupdated"		"1697176978"
+				"buildid"		"12436416"
+				"timeupdated"		"1697218838"
 			}
 		}
 	}
