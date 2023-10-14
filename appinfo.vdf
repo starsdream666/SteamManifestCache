@@ -1,0 +1,229 @@
+"appinfo"
+{
+	"appid"		"2142230"
+	"common"
+	{
+		"name"		"Mercenaries Saga -Will of the White Lions-"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+			"japanese"		"1"
+		}
+		"clienttga"		"14676b0e6c69767ecf8f9122ad0cdbfa339a2f90"
+		"clienticon"		"5b4840fde0b386b28be213c953e95d22d9656c73"
+		"icon"		"061ac72cc3eac63f1b7b1b15c72071a406325c5b"
+		"name_localized"
+		{
+			"japanese"		"マーセナリーズサーガ1 はじまりの白き獅子"
+			"schinese"		"佣兵传说1 白狮序曲"
+		}
+		"small_capsule"
+		{
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"japanese"		"header_japanese.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"ja,en,zh-cn"
+			"library_hero"		"en"
+			"library_logo"		"ja,en,zh-cn"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"38.914819136522766"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1682067261"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"ESQUADRA,inc."
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"RideonJapan"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Flyhigh Works"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"FHWPublishing"
+			}
+			"4"
+			{
+				"type"		"franchise"
+				"name"		"Mercenaries Saga Series"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"3"
+			"1"		"2"
+		}
+		"category"
+		{
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1697076185"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2142230"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"599"
+			"2"		"4434"
+			"3"		"17305"
+			"4"		"1741"
+			"5"		"14139"
+			"6"		"5851"
+			"7"		"4085"
+			"8"		"3964"
+			"9"		"1684"
+			"10"		"4172"
+			"11"		"1708"
+			"12"		"4057"
+			"13"		"7569"
+			"14"		"4325"
+			"15"		"122"
+			"16"		"4182"
+			"17"		"1677"
+		}
+	}
+	"extended"
+	{
+		"developer"		"ESQUADRA,inc."
+		"publisher"		"Flyhigh Works"
+	}
+	"config"
+	{
+		"installdir"		"Mercenaries Saga 1"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Marcenaries Saga.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamdecktouchscreen"		"5"
+		"steamconfigurator3rdpartynative"		"3"
+		"steamcontrollertemplateindex"		"13"
+		"steaminputmanifestpath"		"steam_input_manifest.vdf"
+	}
+	"depots"
+	{
+		"2142231"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1065796771538875409"
+					"size"		"336745320"
+					"download"		"158896080"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"___develop"
+				{
+					"gid"		"215EFE7066590A918C869B83297A33FB"
+					"size"		"33353A93F6F423C9A55580E6D4D0F0AA"
+					"download"		"BE3C87F981F43820521C80E11E822E6A"
+				}
+				"test_release"
+				{
+					"gid"		"CB48AE91F759F60D421805E8B0EB87DF"
+					"size"		"019718D4C6B1B72C501CA455EF0D45F1"
+					"download"		"FB80A9C723D0A88F198E5AC79396D3EB"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11231062"
+				"timeupdated"		"1684116453"
+			}
+			"___develop"
+			{
+				"buildid"		"11231064"
+				"pwdrequired"		"1"
+				"timeupdated"		"1684116399"
+			}
+			"test_release"
+			{
+				"buildid"		"11231062"
+				"pwdrequired"		"1"
+				"timeupdated"		"1684116407"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10485760"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"©RideonJapan,Inc_/Marcenaries Saga"
+				"pattern"		"SaveData.dat"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
