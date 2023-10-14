@@ -1,0 +1,220 @@
+"appinfo"
+{
+	"appid"		"2142250"
+	"common"
+	{
+		"name"		"Mercenaries Saga 3 -Gray Wolves of War-"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"c8963462ce57c88ce1cdd9622cf21e09fd2a4f70"
+		"clienttga"		"7ea533904326452f8cb699b48a327fbb9cca3ef9"
+		"icon"		"df7574906596d81f92befc6bbda04e5b855f85c9"
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+			"japanese"		"1"
+		}
+		"name_localized"
+		{
+			"japanese"		"マーセナリーズサーガ3 キリアロスの灰狼"
+			"schinese"		"佣兵传说3 战场灰狼"
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"japanese"		"header_japanese.jpg"
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"ja,en,zh-cn"
+			"library_hero"		"en"
+			"library_logo"		"ja,en,zh-cn"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"68.43640606767795"
+				"height_pct"		"87.23581097126575"
+			}
+		}
+		"store_asset_mtime"		"1682069010"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"ESQUADRA,inc."
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"RideonJapan"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Flyhigh Works"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"FHWPublishing"
+			}
+			"4"
+			{
+				"type"		"franchise"
+				"name"		"Mercenaries Saga Series"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"3"
+			"1"		"28"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1697076359"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2142250"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"9"
+			"2"		"599"
+			"3"		"4434"
+			"4"		"17305"
+			"5"		"1741"
+			"6"		"14139"
+			"7"		"5851"
+			"8"		"4085"
+			"9"		"3964"
+			"10"		"1684"
+			"11"		"4172"
+			"12"		"1708"
+			"13"		"4057"
+			"14"		"7569"
+			"15"		"4325"
+			"16"		"4182"
+			"17"		"1677"
+		}
+	}
+	"extended"
+	{
+		"developer"		"ESQUADRA,inc."
+		"publisher"		"Flyhigh Works"
+	}
+	"config"
+	{
+		"installdir"		"Mercenaries Saga 3"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Marcenaries Saga3.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"13"
+		"steamdecktouchscreen"		"5"
+		"steaminputmanifestpath"		"steam_input_manifest.vdf"
+		"steamconfigurator3rdpartynative"		"3"
+	}
+	"depots"
+	{
+		"2142251"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8007073444009280738"
+					"size"		"336745081"
+					"download"		"158980704"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"_debug"
+				{
+					"gid"		"EB18FA3926E41C3230CF041652629122"
+					"size"		"049786B2053941855ABDBAE64DEDFD8D"
+					"download"		"C0E5165677371325CE1F5742DFA0B61A"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11185020"
+				"timeupdated"		"1683596583"
+			}
+			"_debug"
+			{
+				"buildid"		"11185015"
+				"pwdrequired"		"1"
+				"timeupdated"		"1683596575"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10485760"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"©RideonJapan,Inc_/Marcenaries Saga3"
+				"pattern"		"SaveData.dat"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
