@@ -12,6 +12,49 @@
 		"osarch"		""
 		"osextended"		""
 		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1697068800"
+			"tested_build_id"		"12371175"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-4"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"1"
+			}
+		}
 		"controller_support"		"full"
 		"small_capsule"
 		{
@@ -154,7 +197,7 @@
 			"14"		"4182"
 		}
 		"review_score"		"8"
-		"review_percentage"		"88"
+		"review_percentage"		"87"
 	}
 	"extended"
 	{
@@ -188,25 +231,25 @@
 			{
 				"public"
 				{
-					"gid"		"6188031287031701211"
-					"size"		"1479201429"
-					"download"		"872896528"
-				}
-				"alpha"
-				{
-					"gid"		"351374772981334474"
-					"size"		"1479201429"
-					"download"		"872892048"
+					"gid"		"2103206540863503108"
+					"size"		"1484859285"
+					"download"		"872987456"
 				}
 				"beta"
 				{
-					"gid"		"4100473290726130794"
-					"size"		"1502206966"
-					"download"		"878487360"
+					"gid"		"8935567225377018351"
+					"size"		"1507915403"
+					"download"		"878587632"
 				}
 			}
 			"encryptedmanifests"
 			{
+				"alpha"
+				{
+					"gid"		"DD386EA5EE6C5AC7D17105A3232B3153"
+					"size"		"7F38F38F71BD7E45536EC921D70A9A92"
+					"download"		"A6FA3F3330CD24CE17E2108C96C23B4F"
+				}
 				"demotgs"
 				{
 					"gid"		"BD569E956947793A8C1918ABC7ECFE25"
@@ -225,20 +268,20 @@
 		{
 			"public"
 			{
-				"buildid"		"12390576"
-				"timeupdated"		"1696832209"
+				"buildid"		"12438157"
+				"timeupdated"		"1697234857"
 			}
 			"alpha"
 			{
-				"buildid"		"12390475"
-				"description"		"alpha"
-				"timeupdated"		"1696830953"
+				"buildid"		"12433215"
+				"pwdrequired"		"1"
+				"timeupdated"		"1697195865"
 			}
 			"beta"
 			{
-				"buildid"		"12390483"
+				"buildid"		"12437774"
 				"description"		"Beta build of Savant - Ascent REMIX"
-				"timeupdated"		"1696831124"
+				"timeupdated"		"1697230947"
 			}
 			"demotgs"
 			{
