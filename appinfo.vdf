@@ -79,6 +79,18 @@
 			{
 				"supported"		"true"
 			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+			}
 		}
 		"steam_release_date"		"1541249340"
 		"community_visible_stats"		"1"
@@ -169,6 +181,12 @@
 					"size"		"905976886"
 					"download"		"847431568"
 				}
+				"spanishtranslation"
+				{
+					"gid"		"7100718794405609939"
+					"size"		"905976886"
+					"download"		"847431568"
+				}
 			}
 		}
 		"959412"
@@ -204,6 +222,12 @@
 					"size"		"908625292"
 					"download"		"852681472"
 				}
+				"spanishtranslation"
+				{
+					"gid"		"4988756065207626364"
+					"size"		"908625292"
+					"download"		"852681472"
+				}
 			}
 		}
 		"959413"
@@ -233,6 +257,12 @@
 					"size"		"903976478"
 					"download"		"848545424"
 				}
+				"spanishtranslation"
+				{
+					"gid"		"6187052575074365815"
+					"size"		"903976478"
+					"download"		"848545424"
+				}
 			}
 		}
 		"959414"
@@ -256,14 +286,43 @@
 					"size"		"905487830"
 					"download"		"850584672"
 				}
+				"spanishtranslation"
+				{
+					"gid"		"5666048921579683891"
+					"size"		"905437970"
+					"download"		"850776848"
+				}
+			}
+		}
+		"959415"
+		{
+			"config"
+			{
+				"language"		"latam"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6200756791730601441"
+					"size"		"906287023"
+					"download"		"847766992"
+				}
+				"spanishtranslation"
+				{
+					"gid"		"6200756791730601441"
+					"size"		"906287023"
+					"download"		"847766992"
+				}
 			}
 		}
 		"branches"
 		{
 			"public"
 			{
-				"buildid"		"11933150"
-				"timeupdated"		"1691962868"
+				"buildid"		"12437195"
+				"timeupdated"		"1697225693"
 			}
 			"chinesetranslation"
 			{
@@ -282,6 +341,12 @@
 				"buildid"		"7371074"
 				"description"		"Russian Translation of TEE"
 				"timeupdated"		"1631803614"
+			}
+			"spanishtranslation"
+			{
+				"buildid"		"12437195"
+				"description"		"spanish translation of The Endless Empty"
+				"timeupdated"		"1697225660"
 			}
 		}
 	}
