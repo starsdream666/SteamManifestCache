@@ -25,6 +25,49 @@
 			"japanese"		"1"
 			"brazilian"		"1"
 		}
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1697155200"
+			"tested_build_id"		"12399084"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-4"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
 		"controllertagwizard"		"1"
 		"controller_support"		"full"
 		"small_capsule"
@@ -114,7 +157,7 @@
 			}
 		}
 		"steam_release_date"		"1695059987"
-		"steam_deck_blog_url"		"https://steamcommunity.com/games/2292060/announcements/detail/5448836977155000081"
+		"steam_deck_blog_url"		"https://steamcommunity.com/games/2292060/announcements/detail/6688466724226247718?snr=2_9_100000_"
 		"community_visible_stats"		"1"
 		"community_hub_visible"		"1"
 		"gameid"		"2292060"
@@ -175,18 +218,18 @@
 			{
 				"public"
 				{
-					"gid"		"1404056552897032179"
-					"size"		"1101764692"
-					"download"		"222054176"
+					"gid"		"297735705101257444"
+					"size"		"1224032668"
+					"download"		"231064640"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"devbuild"
 				{
-					"gid"		"16D2E90FFA1C54FD8156207A42FB7951"
-					"size"		"84CDE4BA33D345E538F522B38509D40B"
-					"download"		"8C38E3D0420B987F5026DD9E1E15F6E7"
+					"gid"		"FBDB63A30B90733B74C3E15A950902B6"
+					"size"		"977D08B0023247194B653263BD2583EF"
+					"download"		"6EB3892996B33A74287AE5814531B1AF"
 				}
 			}
 		}
@@ -194,14 +237,14 @@
 		{
 			"public"
 			{
-				"buildid"		"12399084"
-				"timeupdated"		"1696904002"
+				"buildid"		"12443502"
+				"timeupdated"		"1697327040"
 			}
 			"devbuild"
 			{
-				"buildid"		"12398128"
+				"buildid"		"12442954"
 				"pwdrequired"		"1"
-				"timeupdated"		"1696893632"
+				"timeupdated"		"1697316209"
 			}
 		}
 	}
