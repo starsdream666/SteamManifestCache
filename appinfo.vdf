@@ -1,0 +1,385 @@
+"appinfo"
+{
+	"appid"		"1355090"
+	"common"
+	{
+		"name"		"RAILGRADE"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"clienticon"		"97ab2f005ddf6268c8dd2e5f0d0c14847dc25fcd"
+		"clienttga"		"1cce3e3d2a365ed60b15324f9a4cf248157e7d47"
+		"icon"		"43db035487ed5332e3f579f70b86b8eb8dff0f75"
+		"logo"		"3146d62a81fd35d140fb02bdee1f7bf7d7391b1a"
+		"logo_small"		"3146d62a81fd35d140fb02bdee1f7bf7d7391b1a_thumb"
+		"name_localized"
+		{
+			"schinese"		"异星铁路"
+			"tchinese"		"異星鐵路"
+		}
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+		}
+		"metacritic_name"		"RAILGRADE"
+		"controllertagwizard"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn"
+			"library_hero"		"en"
+			"library_logo"		"en,zh-cn"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50.91954281901166"
+				"height_pct"		"70.48611111111111"
+			}
+		}
+		"store_asset_mtime"		"1697193432"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Minakata Dynamics"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Minakata Dynamics"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Gamera Games"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"RAILGRADE"
+			}
+			"4"
+			{
+				"type"		"franchise"
+				"name"		"Gamera Games"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"28"
+			"1"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+			"category_29"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1697180407"
+		"metacritic_score"		"77"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/railgrade?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1355090"
+		"store_tags"
+		{
+			"0"		"1616"
+			"1"		"255534"
+			"2"		"8945"
+			"3"		"9"
+			"4"		"599"
+			"5"		"4328"
+			"6"		"12472"
+			"7"		"1643"
+			"8"		"4695"
+			"9"		"1702"
+			"10"		"3810"
+			"11"		"1695"
+			"12"		"7332"
+			"13"		"5981"
+			"14"		"10383"
+			"15"		"9204"
+			"16"		"3834"
+			"17"		"4175"
+			"18"		"4182"
+			"19"		"597"
+		}
+		"review_score"		"8"
+		"review_percentage"		"80"
+	}
+	"extended"
+	{
+		"developer"		"Minakata Dynamics"
+		"publisher"		"Minakata Dynamics"
+		"homepage"		"http://railgrade.com/"
+	}
+	"config"
+	{
+		"installdir"		"Railgrade"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Railgrade.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Railgrade/Binaries/Mac/Railgrade-Mac-Shipping.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"2"
+		"steamconfigurator3rdpartynative"		"15"
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229007"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1355091"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7729895436048498337"
+					"size"		"3905632642"
+					"download"		"3748000752"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"press"
+				{
+					"gid"		"141B21B0721E67C4BE3C21EDD622A5D6"
+					"size"		"FFF262318F2AE376A98A776C39DBB024"
+					"download"		"383B38D6A6FA3448332F1DE98EF070ED"
+				}
+				"secret"
+				{
+					"gid"		"8233688ABE308E0D9408ABAD15532E31"
+					"size"		"D5F6EC855DCCC5D5483402CFBB11B70A"
+					"download"		"0EE83CD00D4089E4D3ECD835ECF71F34"
+				}
+			}
+		}
+		"1355092"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6865173349570188190"
+					"size"		"4060972884"
+					"download"		"3856708960"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"press"
+				{
+					"gid"		"9BE416EEF54141B862B888D4F2A852F1"
+					"size"		"91C80E0997BA7EF3CA8D6D25D843247F"
+					"download"		"D2C5F0CD11D1841BA87CE5E4BCBECF59"
+				}
+				"secret"
+				{
+					"gid"		"AF1FBC8C297CB31D7D2D1E219352FD80"
+					"size"		"8094481E176BAB31C1607FFB1DFA3243"
+					"download"		"6954688C4C144DD783CB738C84DCD5DF"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12411535"
+				"timeupdated"		"1697171682"
+			}
+			"press"
+			{
+				"buildid"		"12315376"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695989785"
+			}
+			"secret"
+			{
+				"buildid"		"12431008"
+				"pwdrequired"		"1"
+				"timeupdated"		"1697179657"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"104857600"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"Railgrade/Saved/SaveGames"
+				"pattern"		"*.sav"
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"Railgrade/Saved/saves"
+				"pattern"		"*.spaghetti"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"addpath"		"Epic/"
+			}
+		}
+	}
+}
