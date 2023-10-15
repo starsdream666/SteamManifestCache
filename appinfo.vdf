@@ -101,7 +101,7 @@
 				"height_pct"		"50"
 			}
 		}
-		"store_asset_mtime"		"1693550918"
+		"store_asset_mtime"		"1697083858"
 		"associations"
 		{
 			"0"
@@ -144,6 +144,8 @@
 			"category_44"		"1"
 			"category_28"		"1"
 			"category_23"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
 		}
 		"supported_languages"
 		{
@@ -204,8 +206,8 @@
 			"5"		"42804"
 			"6"		"21"
 			"7"		"19"
-			"8"		"4182"
-			"9"		"4791"
+			"8"		"4791"
+			"9"		"4182"
 			"10"		"4637"
 			"11"		"492"
 			"12"		"4758"
@@ -311,24 +313,24 @@
 			{
 				"public"
 				{
-					"gid"		"6331440272852921556"
-					"size"		"2860584021"
-					"download"		"2540401664"
+					"gid"		"696223060269088244"
+					"size"		"2869249534"
+					"download"		"2549811344"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"earlyaccess"
 				{
-					"gid"		"9122A02C5A82862CFC400AAAD67C8FDF"
-					"size"		"E079DA767F1FC7DAD25F3F66FA1C0776"
-					"download"		"E9EC02F943BDEBCB64DA24087B29940A"
+					"gid"		"5427987D5F0A23635B267B04EF75FA8F"
+					"size"		"FDC4822C2D4D9359CB86E2F720700AC7"
+					"download"		"150B251BE395E6EA9608A66B1614DD03"
 				}
 				"test"
 				{
-					"gid"		"60945C32B74B0FB24B36F302CE0D5598"
-					"size"		"0B13F550E647E9E2BA063FAD1929F70D"
-					"download"		"268D8E20FE87339D0939BAAD9E5592A5"
+					"gid"		"0098EF36CC0CE7BD8C8EE236BFC7805A"
+					"size"		"A1F794EF14D18A0881167FF73FC705CD"
+					"download"		"8E94937102C19E15B783DA8D0796D2D9"
 				}
 			}
 		}
@@ -345,20 +347,20 @@
 		{
 			"public"
 			{
-				"buildid"		"12329111"
-				"timeupdated"		"1696170220"
+				"buildid"		"12443965"
+				"timeupdated"		"1697342590"
 			}
 			"earlyaccess"
 			{
-				"buildid"		"12329111"
+				"buildid"		"12443965"
 				"pwdrequired"		"1"
-				"timeupdated"		"1696170206"
+				"timeupdated"		"1697338780"
 			}
 			"test"
 			{
-				"buildid"		"12329111"
+				"buildid"		"12443965"
 				"pwdrequired"		"1"
-				"timeupdated"		"1696170213"
+				"timeupdated"		"1697337948"
 			}
 		}
 	}
@@ -373,30 +375,24 @@
 				"root"		"WinAppDataLocal"
 				"path"		"NewGreedland/Saved/SaveGames"
 				"pattern"		"GLGameSaveOfficial.sav"
-				"platforms"
-				{
-					"1"		"Windows"
-				}
 			}
 			"2"
 			{
 				"root"		"WinAppDataLocal"
 				"path"		"NewGreedland/Saved/SaveGames"
 				"pattern"		"GLPlayerStatistics.sav"
-				"platforms"
-				{
-					"1"		"Windows"
-				}
 			}
 			"3"
 			{
 				"root"		"WinAppDataLocal"
 				"path"		"NewGreedland/Saved/SaveGames"
 				"pattern"		"GLGameSaveFormal.sav"
-				"platforms"
-				{
-					"1"		"Windows"
-				}
+			}
+			"4"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"NewGreedland/Saved/SaveGames"
+				"pattern"		"GLGameSaveAuto.sav"
 			}
 		}
 	}
