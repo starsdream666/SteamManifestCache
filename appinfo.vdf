@@ -1,0 +1,574 @@
+"appinfo"
+{
+	"appid"		"2022670"
+	"common"
+	{
+		"name"		"Sonic Superstars"
+		"type"		"Game"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"thai"		"1"
+			"japanese"		"1"
+			"polish"		"1"
+			"brazilian"		"1"
+		}
+		"icon"		"3397ce5539495e9eea77c92357a4a3141fb63c1c"
+		"clienticon"		"88fdeba9238508c7f5a5f77908c08f2c6490fc6f"
+		"clienttga"		"68bfff27be0ff3ac2c2da19f3c3e7160af4cb2f6"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"2022670_eula_0"
+				"name"		"Sonic Superstars EULA"
+				"url"		"https://store.steampowered.com//eula/2022670_eula_0"
+				"version"		"2"
+			}
+		}
+		"name_localized"
+		{
+			"japanese"		"ソニックスーパースターズ"
+			"koreana"		"소닉 슈퍼스타즈"
+			"tchinese"		"索尼克 超級巨星"
+			"schinese"		"索尼克 超级巨星"
+			"thai"		"โซนิค ซูเปอร์สตาร์"
+		}
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1697155200"
+			"tested_build_id"		"12140851"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"1"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-4"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"koreana"		"capsule_231x87_koreana.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"thai"		"capsule_231x87_thai.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"japanese"		"header_japanese.jpg"
+			"koreana"		"header_koreana.jpg"
+			"tchinese"		"header_tchinese.jpg"
+			"schinese"		"header_schinese.jpg"
+			"thai"		"header_thai.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,ja,ko,zh-tw,zh-cn,th"
+			"library_hero"		"en"
+			"library_logo"		"en,ja,ko,zh-tw,zh-cn,th"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"100"
+				"height_pct"		"51.041591283284674"
+			}
+		}
+		"store_asset_mtime"		"1697521590"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"SEGA"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"SEGA"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Sonic the Hedgehog"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_28"		"1"
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_37"		"1"
+			"category_9"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_27"		"1"
+			"category_44"		"1"
+			"category_29"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"thai"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1697515200"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2022670"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"21"
+			"2"		"1625"
+			"3"		"597"
+			"4"		"5379"
+			"5"		"4106"
+			"6"		"4305"
+			"7"		"3871"
+			"8"		"4562"
+			"9"		"4182"
+			"10"		"4166"
+			"11"		"1734"
+			"12"		"1756"
+			"13"		"3859"
+			"14"		"7368"
+			"15"		"4840"
+			"16"		"3841"
+			"17"		"5350"
+			"18"		"1721"
+			"19"		"7208"
+		}
+		"review_score"		"5"
+		"review_percentage"		"61"
+	}
+	"extended"
+	{
+		"developer"		"SEGA"
+		"publisher"		"SEGA"
+		"homepage"		"https://www.sonicsuperstars.com"
+		"listofdlc"		"2376681,2376682,2376683,2376686,2378680,2504600,2549530"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Sonic Superstars"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SonicSuperstars_boot.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"SONIC SUPERSTARS"
+				}
+				"description"		"SONIC SUPERSTARS"
+			}
+			"3"
+			{
+				"executable"		"SonicSuperstarsArtAndMusic.exe"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"ownsdlc"		"2376686"
+				}
+				"description_loc"
+				{
+					"english"		"SONIC SUPERSTARS Digital Art Book with Mini Digital Soundtrack"
+				}
+				"description"		"SONIC SUPERSTARS Digital Art Book with Mini Digital Soundtrack"
+			}
+		}
+		"steamdecktouchscreen"		"5"
+		"steamcontrollertemplateindex"		"2"
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229007"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,brazilian"
+		"hasdepotsindlc"		"1"
+		"2022671"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4361985241034755733"
+					"size"		"12606762929"
+					"download"		"10246774000"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"2nd_patch_rom"
+				{
+					"gid"		"DF0BF92EF19732B8E308E8F4D7E42420"
+					"size"		"BA6EE463A258988759A68392E3B06CC0"
+					"download"		"311270E3C9868748DFC11F537CC0E1FF"
+				}
+				"2nd_patch_rom_reldbg"
+				{
+					"gid"		"3C43598436EAF9A908ED6AB77DD46555"
+					"size"		"C9BBDE184F78A7FAC540E287C3C50A1D"
+					"download"		"A95D79480D19872B99D9BEC198AE8669"
+				}
+				"beta"
+				{
+					"gid"		"0920A0CFEF8A03746BF9FD5AE886CF8C"
+					"size"		"70EA0B7A1DC3D4698FCFD624628281BA"
+					"download"		"F003C829E13D102338BB927CA467F09C"
+				}
+				"beta_reldbg"
+				{
+					"gid"		"90B4317FDFA5E446AABDA90AEDAE1943"
+					"size"		"61E70EA8F68758D9052550DC5024B651"
+					"download"		"E9AF8AD5B149A70A6D4AA5AA8D4A91DA"
+				}
+				"encryption-test"
+				{
+					"gid"		"BEDD48E8806C897CBE25328834F22DA0"
+					"size"		"E026114ED46994D6260FEBF00B544B33"
+					"download"		"E40B06E1EB3FFBAA6B4F792123344E8E"
+				}
+				"mkt_01"
+				{
+					"gid"		"C716B8C35E3482F155C60DE6B13E7CBE"
+					"size"		"9DD9CC7F2E59B314D785F60EC1B041F5"
+					"download"		"22172495B3AA15F92128C8B92FF116F8"
+				}
+				"mkt_02"
+				{
+					"gid"		"7E31F7E8888B832C3A2B48950BC65895"
+					"size"		"E509476046465DAA81E12979087B969C"
+					"download"		"BF8AA4EEEF401B3D5100F85A5FA19C95"
+				}
+				"performance_test"
+				{
+					"gid"		"B578760152FEBCBD613CCEC0D95CDD03"
+					"size"		"88377B8B7BD220575360F8B49E7FA021"
+					"download"		"0142A44D1F34ECDE87FCF3DFD992AE74"
+				}
+				"ratings"
+				{
+					"gid"		"E52FB1284732FAE851D0CF935B6D2A70"
+					"size"		"BCED27AFB3C2EABB48BD90B092A53B9D"
+					"download"		"05A2F0F3E2D8E16C32A7E739DF998DCF"
+				}
+				"review"
+				{
+					"gid"		"868E6C7F5DDE1CA428D49E4817CDD24A"
+					"size"		"79DAF8CE5D8BB3A798BBB99E6D1AC75A"
+					"download"		"AF6973977A9FE17577C27F0FA6A2B202"
+				}
+				"test-arzest"
+				{
+					"gid"		"CE6C4309B939035A2BE89A957401062C"
+					"size"		"D716ED931B4A8FDA1436AED0D0EBC68D"
+					"download"		"44F821F0F980BB7495C8D6840BD90316"
+				}
+				"test-arzest2"
+				{
+					"gid"		"45B54D64A86A400B8F21DD47783BDD42"
+					"size"		"D2FF6603A3D3F0716A1C8B55E8E8AD28"
+					"download"		"A9C99DC04406512CDDFA1FF81BC82925"
+				}
+				"test-e"
+				{
+					"gid"		"6C4BABC55E6374066F3CB9AA45C09FD1"
+					"size"		"1DD28F25AC6F6306C5CBD3DAE29C4D8D"
+					"download"		"5BBC39D269C46BF9D7E419C7259904E0"
+				}
+				"test-network"
+				{
+					"gid"		"0A688AFC160076A84C2CA268C5C2D395"
+					"size"		"8F207D1FE7BD7F1E53C8DA4AE432792B"
+					"download"		"BF9287DCCF657DD2A1300CA80B7637E3"
+				}
+				"test-soj"
+				{
+					"gid"		"E68057F1054BC507327E6CC923FF72FB"
+					"size"		"6E93881EDA454065D1B1D9018F511CEF"
+					"download"		"82F0FC59E9A4EF5A1F1D9D7BBC0DAA7E"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12343642"
+				"timeupdated"		"1696979670"
+			}
+			"2nd_patch_rom"
+			{
+				"buildid"		"12399468"
+				"pwdrequired"		"1"
+				"timeupdated"		"1696946342"
+			}
+			"2nd_patch_rom_reldbg"
+			{
+				"buildid"		"12399457"
+				"pwdrequired"		"1"
+				"timeupdated"		"1696943703"
+			}
+			"beta"
+			{
+				"buildid"		"12343642"
+				"pwdrequired"		"1"
+				"timeupdated"		"1696334718"
+			}
+			"beta_reldbg"
+			{
+				"buildid"		"12313475"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695959214"
+			}
+			"encryption-test"
+			{
+				"buildid"		"11908991"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691649809"
+			}
+			"mkt_01"
+			{
+				"buildid"		"12343642"
+				"pwdrequired"		"1"
+				"timeupdated"		"1696975783"
+			}
+			"mkt_02"
+			{
+				"buildid"		"12343642"
+				"pwdrequired"		"1"
+				"timeupdated"		"1696334766"
+			}
+			"performance_test"
+			{
+				"buildid"		"12140851"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694196056"
+			}
+			"ratings"
+			{
+				"buildid"		"11303868"
+				"pwdrequired"		"1"
+				"timeupdated"		"1685486854"
+			}
+			"review"
+			{
+				"buildid"		"12343642"
+				"pwdrequired"		"1"
+				"timeupdated"		"1696334798"
+			}
+			"test-arzest"
+			{
+				"buildid"		"12421050"
+				"pwdrequired"		"1"
+				"timeupdated"		"1697093387"
+			}
+			"test-arzest2"
+			{
+				"buildid"		"12430908"
+				"pwdrequired"		"1"
+				"timeupdated"		"1697178807"
+			}
+			"test-e"
+			{
+				"buildid"		"12140851"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694450657"
+			}
+			"test-network"
+			{
+				"buildid"		"12424338"
+				"pwdrequired"		"1"
+				"timeupdated"		"1697117701"
+			}
+			"test-soj"
+			{
+				"buildid"		"11542465"
+				"pwdrequired"		"1"
+				"timeupdated"		"1688093180"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"524288000"
+		"maxnumfiles"		"25"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"SEGA/SonicSuperstars/Steam/{64BitSteamID}/"
+				"pattern"		"SonicSuperstarsStoryData.bin"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"1"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"SEGA/SonicSuperstars/Steam/{64BitSteamID}/"
+				"pattern"		"SonicSuperstarsSystemData.bin"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"2"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"SEGA/SonicSuperstars/Steam/{64BitSteamID}/"
+				"pattern"		"SonicSuperstarsTimeAttackData_*.bin"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"os"		"Windows"
+				"oscompare"		"="
+				"useinstead"		"gameinstall"
+				"addpath"		""
+			}
+		}
+	}
+}
