@@ -15,9 +15,9 @@
 		{
 			"koreana"		"P의 거짓 (Lies of P)"
 		}
-		"oslist"		"windows"
+		"oslist"		"windows,macos"
 		"osarch"		"64"
-		"osextended"		""
+		"osextended"		"macos64,macosapplesilicon,macosnotarized"
 		"eulas"
 		{
 			"0"
@@ -119,7 +119,7 @@
 				"height_pct"		"84.95606744241273"
 			}
 		}
-		"store_asset_mtime"		"1695272062"
+		"store_asset_mtime"		"1696396671"
 		"associations"
 		{
 			"0"
@@ -229,20 +229,20 @@
 			"6"		"4191"
 			"7"		"21"
 			"8"		"4342"
-			"9"		"4166"
+			"9"		"4182"
 			"10"		"1742"
-			"11"		"4182"
-			"12"		"122"
-			"13"		"1777"
+			"11"		"4166"
+			"12"		"1777"
+			"13"		"122"
 			"14"		"6426"
-			"15"		"4667"
-			"16"		"6971"
+			"15"		"6971"
+			"16"		"4667"
 			"17"		"3952"
 			"18"		"4711"
 			"19"		"1695"
 		}
 		"review_score"		"8"
-		"review_percentage"		"86"
+		"review_percentage"		"89"
 	}
 	"extended"
 	{
@@ -274,7 +274,7 @@
 			}
 			"1"
 			{
-				"executable"		"LOP-Test.app\\contents\\MacOS\\LOP-Test"
+				"executable"		"LiesofP.app\\contents\\MacOS\\LiesofP"
 				"config"
 				{
 					"oslist"		"macos"
@@ -323,21 +323,15 @@
 			{
 				"internal_test"
 				{
-					"gid"		"DF3C173726301218335F02E01317FB00"
-					"size"		"4E331C60FE5EB690C1137D4D337B9B7F"
-					"download"		"A85399DCB161D5F1E9DB11796AAA4163"
+					"gid"		"2D736F1DC116016740B23C985BA85DC0"
+					"size"		"8ED69F582C0220E9640D736AE584B905"
+					"download"		"433342FB8BBD950F7D472707DE34532C"
 				}
 				"mac_internal"
 				{
 					"gid"		"2847F1C05A84912BF94C7C7EE3A5267D"
 					"size"		"54DAE1DCA89CB9A708C14C66A26896B6"
 					"download"		"AD6359E53A10BEF95529536BADA39375"
-				}
-				"mediabuild"
-				{
-					"gid"		"662FB6C575FC2008CB6BFA7AC690628E"
-					"size"		"A914B7AC5A9FD521C2DD2EFF4633B09C"
-					"download"		"B4431B4DAD1ABB06BDAA67FA81374801"
 				}
 			}
 		}
@@ -351,18 +345,18 @@
 			{
 				"public"
 				{
-					"gid"		"5209544482650701767"
-					"size"		"5"
-					"download"		"64"
+					"gid"		"7062591207838662424"
+					"size"		"42569382414"
+					"download"		"36792508800"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"internal_test"
 				{
-					"gid"		"1F85BDD2375E16FB851579B748A08B0B"
-					"size"		"71B553CE6E4D2EE10CC4DD5E9C9D311F"
-					"download"		"A1DB94DEADD6E7F824B7820F2246AC8E"
+					"gid"		"821217644AD393DCB84880E75E2478C9"
+					"size"		"77EC3A7736AA4366EF5FA1D4E6C81300"
+					"download"		"4C2CDB4256AAEDC54D8FFAFDF73ABAF9"
 				}
 				"mac_internal"
 				{
@@ -377,26 +371,20 @@
 		{
 			"public"
 			{
-				"buildid"		"12292518"
-				"timeupdated"		"1695790465"
+				"buildid"		"12448856"
+				"timeupdated"		"1697435911"
 			}
 			"internal_test"
 			{
-				"buildid"		"12283165"
+				"buildid"		"12447802"
 				"pwdrequired"		"1"
-				"timeupdated"		"1695713690"
+				"timeupdated"		"1697420234"
 			}
 			"mac_internal"
 			{
 				"buildid"		"12128489"
 				"pwdrequired"		"1"
 				"timeupdated"		"1695270330"
-			}
-			"mediabuild"
-			{
-				"buildid"		"11989890"
-				"pwdrequired"		"1"
-				"timeupdated"		"1692681253"
 			}
 		}
 	}
@@ -414,6 +402,16 @@
 				"platforms"
 				{
 					"1"		"Windows"
+				}
+			}
+			"1"
+			{
+				"root"		"MacAppSupport"
+				"path"		"Neowiz/LiesofP/Saved/SaveGames/{Steam3AccountID}"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"MacOS"
 				}
 			}
 		}
