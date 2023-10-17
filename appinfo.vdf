@@ -14,6 +14,8 @@
 		"logo"		"83fe223658f244d4596a176e31965d8b9f6fa978"
 		"logo_small"		"83fe223658f244d4596a176e31965d8b9f6fa978_thumb"
 		"releasestate"		"released"
+		"controllertagwizard"		"1"
+		"controller_support"		"full"
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
@@ -34,7 +36,7 @@
 				"height_pct"		"100"
 			}
 		}
-		"store_asset_mtime"		"1675945544"
+		"store_asset_mtime"		"1697481056"
 		"associations"
 		{
 			"0"
@@ -57,12 +59,19 @@
 		"genres"
 		{
 			"0"		"25"
-			"1"		"23"
-			"2"		"3"
+			"1"		"4"
+			"2"		"23"
+			"3"		"3"
 		}
 		"category"
 		{
 			"category_2"		"1"
+			"category_28"		"1"
+			"category_55"		"1"
+			"category_56"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
 		}
 		"supported_languages"
 		{
@@ -87,9 +96,8 @@
 			"7"		"3993"
 			"8"		"4182"
 			"9"		"492"
+			"10"		"597"
 		}
-		"review_score"		"7"
-		"review_percentage"		"96"
 	}
 	"extended"
 	{
@@ -130,6 +138,32 @@
 					"oslist"		"linux"
 				}
 			}
+			"2"
+			{
+				"executable"		"SpacefarerTCG/Official Spacefarer Card Game.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Play Spacefarer Card Game"
+				}
+				"description"		"Play Spacefarer Card Game"
+			}
+			"3"
+			{
+				"executable"		"SpacefarerTCG/SFTCGLinux.x86_64"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+				"description_loc"
+				{
+					"english"		"Play Spacefarer Card Game"
+				}
+				"description"		"Play Spacefarer Card Game"
+			}
 		}
 	}
 	"depots"
@@ -158,9 +192,9 @@
 			{
 				"public"
 				{
-					"gid"		"8722618376306806358"
-					"size"		"2295314446"
-					"download"		"222787184"
+					"gid"		"8926143414977856683"
+					"size"		"2763293425"
+					"download"		"339572256"
 				}
 			}
 		}
@@ -175,8 +209,8 @@
 		{
 			"public"
 			{
-				"buildid"		"11954573"
-				"timeupdated"		"1692187303"
+				"buildid"		"12460123"
+				"timeupdated"		"1697536026"
 			}
 		}
 	}
