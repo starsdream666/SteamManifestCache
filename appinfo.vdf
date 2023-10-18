@@ -4,9 +4,8 @@
 	"common"
 	{
 		"name"		"Forza Motorsport"
-		"section_type"		"ownersonly"
 		"type"		"Game"
-		"releasestate"		"preloadonly"
+		"releasestate"		"released"
 		"languages"
 		{
 			"english"		"1"
@@ -40,6 +39,34 @@
 		{
 			"schinese"		"Forza Motorsport 极限竞速"
 		}
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1696550400"
+			"tested_build_id"		"12266515"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-4"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
 		"controller_support"		"full"
 		"small_capsule"
 		{
@@ -48,6 +75,7 @@
 		"header_image"
 		{
 			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
 		}
 		"library_assets"
 		{
@@ -61,7 +89,7 @@
 				"height_pct"		"50"
 			}
 		}
-		"store_asset_mtime"		"1696450099"
+		"store_asset_mtime"		"1697493787"
 		"associations"
 		{
 			"0"
@@ -98,10 +126,10 @@
 			"category_28"		"1"
 			"category_49"		"1"
 			"category_36"		"1"
-			"category_9"		"1"
-			"category_38"		"1"
 			"category_27"		"1"
 			"category_29"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
 		}
 		"supported_languages"
 		{
@@ -217,9 +245,10 @@
 				"subtitles"		"true"
 			}
 		}
+		"steam_release_date"		"1696910328"
+		"community_visible_stats"		"1"
 		"community_hub_visible"		"1"
 		"gameid"		"2440510"
-		"exfgls"		"1"
 		"store_tags"
 		{
 			"0"		"699"
@@ -227,29 +256,31 @@
 			"2"		"1100687"
 			"3"		"701"
 			"4"		"3839"
-			"5"		"3859"
-			"6"		"4175"
+			"5"		"4175"
+			"6"		"3859"
 			"7"		"1644"
 			"8"		"1697"
 			"9"		"4182"
 			"10"		"3968"
 			"11"		"9204"
 			"12"		"1775"
-			"13"		"1685"
-			"14"		"5350"
-			"15"		"12472"
-			"16"		"5794"
-			"17"		"10383"
-			"18"		"4747"
-			"19"		"6426"
+			"13"		"5350"
+			"14"		"12472"
+			"15"		"5794"
+			"16"		"10383"
+			"17"		"4747"
+			"18"		"6426"
+			"19"		"3878"
 		}
+		"review_score"		"5"
+		"review_percentage"		"42"
 	}
 	"extended"
 	{
 		"developer"		"Turn 10"
 		"publisher"		"Xbox Game Studios"
 		"homepage"		"http://www.forzamotorsport.net"
-		"listofdlc"		"2557390,2557400,2557410,2557420,2573690,2613770"
+		"listofdlc"		"2557390,2557400,2557410,2557420,2573690,2573700,2613770"
 		"dlcavailableonstore"		"1"
 	}
 	"config"
@@ -291,18 +322,18 @@
 			{
 				"public"
 				{
-					"gid"		"8895399350141980807"
-					"size"		"127276023130"
-					"download"		"107349288608"
+					"gid"		"4171465027671645411"
+					"size"		"127293078867"
+					"download"		"107383183488"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"internalstaging"
 				{
-					"gid"		"7D8AE635CFE40C6303DB0C55AB3F89C6"
-					"size"		"CC459B4C5AE4F99819D8705C4DE17393"
-					"download"		"191C89CF54884ACF976613DB97A8FF56"
+					"gid"		"49EB2AD4D4DC5FC0907E63AEEDB61D37"
+					"size"		"4D944049523BA7B78515F7324B93C1D8"
+					"download"		"A0E58E95B7959A4D4A4748EF528F54A1"
 				}
 			}
 		}
@@ -310,14 +341,14 @@
 		{
 			"public"
 			{
-				"buildid"		"12266515"
-				"timeupdated"		"1696354401"
+				"buildid"		"12401539"
+				"timeupdated"		"1697562021"
 			}
 			"internalstaging"
 			{
-				"buildid"		"12266515"
+				"buildid"		"12428892"
 				"pwdrequired"		"1"
-				"timeupdated"		"1695667053"
+				"timeupdated"		"1697562136"
 			}
 		}
 	}
