@@ -5,7 +5,7 @@
 	{
 		"name"		"The Dawning Clocks Of Time"
 		"type"		"Game"
-		"oslist"		"windows"
+		"oslist"		"windows,linux"
 		"osarch"		""
 		"osextended"		""
 		"logo"		"95e4db0a434a1e8c2d1ee0a76afb47213e6cf312"
@@ -80,6 +80,7 @@
 			"category_1"		"1"
 			"category_49"		"1"
 			"category_36"		"1"
+			"category_27"		"1"
 		}
 		"supported_languages"
 		{
@@ -159,6 +160,20 @@
 				}
 				"description"		"Play Spacefarer Card Game"
 			}
+			"2"
+			{
+				"executable"		"SFTCGLinux.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+				"description_loc"
+				{
+					"english"		"Play Spacefarer Card Game"
+				}
+				"description"		"Play Spacefarer Card Game"
+			}
 		}
 		"steamconfigurator3rdpartynative"		"65535"
 		"steamcontrollertemplateindex"		"4"
@@ -189,9 +204,9 @@
 			{
 				"public"
 				{
-					"gid"		"6408678530944312134"
-					"size"		"4474877460"
-					"download"		"2723465056"
+					"gid"		"4269787023625980253"
+					"size"		"4715707112"
+					"download"		"2746766688"
 				}
 			}
 		}
@@ -200,8 +215,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12460038"
-				"timeupdated"		"1697535354"
+				"buildid"		"12463919"
+				"timeupdated"		"1697562859"
 			}
 		}
 	}
