@@ -93,6 +93,7 @@
 				"gamescope_frame_limiter_not_supported"		"0"
 			}
 		}
+		"controllertagwizard"		"1"
 		"controller_support"		"full"
 		"small_capsule"
 		{
@@ -147,6 +148,7 @@
 			"category_29"		"1"
 			"category_41"		"1"
 			"category_42"		"1"
+			"category_56"		"1"
 		}
 		"supported_languages"
 		{
@@ -238,7 +240,7 @@
 		"developer"		"Saber Interactive"
 		"publisher"		"Focus Entertainment"
 		"homepage"		"https://www.focus-home.com/games/snowrunner"
-		"listofdlc"		"1533000,1533001,1533002,1533003,1533004,1533005,1533006,1533007,1533008,1533009,1533010,1533011,1585810,1585811,1585812,1585813,1585814,1585815,1585816,1613110,1613111,1785850,1838500,2058880,2058881,2154170,2154171,2154172,2353720"
+		"listofdlc"		"1533000,1533001,1533002,1533003,1533004,1533005,1533006,1533007,1533008,1533009,1533010,1533011,1585810,1585811,1585812,1585813,1585814,1585815,1585816,1613110,1613111,1785850,1838500,2058880,2058881,2154170,2154171,2154172,2154173,2353720"
 		"dlcavailableonstore"		"1"
 	}
 	"config"
@@ -281,6 +283,15 @@
 	}
 	"depots"
 	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
 		"1465361"
 		{
 			"config"
@@ -292,9 +303,9 @@
 			{
 				"public"
 				{
-					"gid"		"6650539406622078664"
-					"size"		"46636313627"
-					"download"		"31835789616"
+					"gid"		"3150675055273753837"
+					"size"		"48882161621"
+					"download"		"33504902112"
 				}
 			}
 			"encryptedmanifests"
@@ -319,15 +330,15 @@
 				}
 				"sbr_dev_internal"
 				{
-					"gid"		"B9728E2A5B5EBF2008A9B0D2B3226899"
-					"size"		"7E1A7AEC05FB012EDD02A0D4E3C079A3"
-					"download"		"5BE5FD5B7472B43F912582DC25CE5E9F"
+					"gid"		"3711A0E08CC8C79DD507D7B56C3E17F0"
+					"size"		"DEC88DE5EBA84B52CEBE2DDC524337D8"
+					"download"		"FCD25017CFF3107D6BAB150809BFD086"
 				}
 				"sbr_fhi"
 				{
-					"gid"		"534F05E2AB6DD359750B3287C48AFDC6"
-					"size"		"7B1CF05BDD6CB58AE3105F2B38671C9D"
-					"download"		"F8175A40A6515E1134661D62C897B60E"
+					"gid"		"1BB55ACE5E2019AD12C4014A758BC620"
+					"size"		"026F7B68A518477568E494DCBDD2FA37"
+					"download"		"2960D8DCB948B438D26475CD28EFF3C1"
 				}
 				"sbr_fhi_crossplay"
 				{
@@ -337,9 +348,9 @@
 				}
 				"sbr_fhi_dev"
 				{
-					"gid"		"2B6654EBA00D914637277CA95D834AB7"
-					"size"		"9C49D2B974B4F716408A9FC662B63A7F"
-					"download"		"7E2608BF9B5DCCB7BFC0616FD071296C"
+					"gid"		"43E7A45588C519C5DE8DA6BFBA746330"
+					"size"		"861D5DE5A8ADFF200F4C32A3C9C6C077"
+					"download"		"13B5871348CE1DA0E30B67C18900F06F"
 				}
 				"sbr_mac"
 				{
@@ -355,15 +366,15 @@
 				}
 				"sbr_qa_dev"
 				{
-					"gid"		"5CC8DD07D67C17F3D3F542BF9952E7ED"
-					"size"		"9AAA2EEBE14B2D643918A643F63B7469"
-					"download"		"0297CC61A59087C3EE40939AAA6AD1E7"
+					"gid"		"93A123F34A5226F34798466B38E1581B"
+					"size"		"B870282BC055810833518DB7E4510A40"
+					"download"		"4958675223DB97527882E6A6F2726395"
 				}
 				"sbr_qa_retail"
 				{
-					"gid"		"E3C7D1988C1F150840E2AD20D1E4142E"
-					"size"		"F84FD58565CB738A89003A5E2E9225C2"
-					"download"		"3AB3001112AD358A3A32C8679AF65521"
+					"gid"		"799FA9CB72602079C9744A21D0FB63A8"
+					"size"		"F270EF7796E37CCC2E4777AB68A9C071"
+					"download"		"9F53513511DD9E928DF2616E1A69BFD4"
 				}
 			}
 		}
@@ -387,9 +398,9 @@
 				}
 				"sbr_mac_test"
 				{
-					"gid"		"9827ECE01A6FA59A1DC5ECECA7DC51C2"
-					"size"		"92B084158E85C71888AECF0FCE2025E6"
-					"download"		"52FA4EBC16DF0BE30B9B828E169397E0"
+					"gid"		"7E3A6E398229DCEDA38CECEDE0D3B51B"
+					"size"		"4035D181A5989F6FDA53E174D69FF7A0"
+					"download"		"2855B88F9941FBDF5EA216D928CE6587"
 				}
 			}
 		}
@@ -397,8 +408,8 @@
 		{
 			"public"
 			{
-				"buildid"		"11515065"
-				"timeupdated"		"1689670425"
+				"buildid"		"12435210"
+				"timeupdated"		"1697705660"
 			}
 			"external_review"
 			{
@@ -420,15 +431,15 @@
 			}
 			"sbr_dev_internal"
 			{
-				"buildid"		"11793610"
+				"buildid"		"12451137"
 				"pwdrequired"		"1"
-				"timeupdated"		"1690386469"
+				"timeupdated"		"1697456004"
 			}
 			"sbr_fhi"
 			{
-				"buildid"		"12143400"
+				"buildid"		"12435210"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694185992"
+				"timeupdated"		"1697209949"
 			}
 			"sbr_fhi_crossplay"
 			{
@@ -438,9 +449,9 @@
 			}
 			"sbr_fhi_dev"
 			{
-				"buildid"		"12143617"
+				"buildid"		"12435277"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694187340"
+				"timeupdated"		"1697210557"
 			}
 			"sbr_mac"
 			{
@@ -450,21 +461,21 @@
 			}
 			"sbr_mac_test"
 			{
-				"buildid"		"12168137"
+				"buildid"		"12470091"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694517657"
+				"timeupdated"		"1697619995"
 			}
 			"sbr_qa_dev"
 			{
-				"buildid"		"12175755"
+				"buildid"		"12479650"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694590046"
+				"timeupdated"		"1697699785"
 			}
 			"sbr_qa_retail"
 			{
-				"buildid"		"12166413"
+				"buildid"		"12458992"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694503741"
+				"timeupdated"		"1697527376"
 			}
 		}
 	}
