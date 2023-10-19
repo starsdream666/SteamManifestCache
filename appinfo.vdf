@@ -109,7 +109,7 @@
 				"height_pct"		"62.15863215388269"
 			}
 		}
-		"store_asset_mtime"		"1666998484"
+		"store_asset_mtime"		"1697637335"
 		"associations"
 		{
 			"0"
@@ -148,6 +148,52 @@
 			{
 				"supported"		"true"
 				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
 			}
 		}
 		"steam_release_date"		"1382979120"
@@ -166,8 +212,8 @@
 			"5"		"4342"
 			"6"		"1721"
 			"7"		"4182"
-			"8"		"5900"
-			"9"		"4166"
+			"8"		"4166"
+			"9"		"5900"
 			"10"		"21"
 			"11"		"1662"
 			"12"		"19"
@@ -176,8 +222,8 @@
 			"15"		"7208"
 			"16"		"3834"
 			"17"		"1685"
-			"18"		"21978"
-			"19"		"42089"
+			"18"		"42089"
+			"19"		"21978"
 		}
 		"review_score"		"8"
 		"review_percentage"		"88"
@@ -199,12 +245,16 @@
 			"0"
 			{
 				"executable"		"Slender - The Arrival.exe"
-				"description"		"Launch"
 				"config"
 				{
 					"oslist"		"windows"
-					"osarch"		"32"
+					"betakey"		"version2013"
 				}
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
 			}
 			"1"
 			{
@@ -233,6 +283,27 @@
 				{
 					"oslist"		"windows"
 					"betakey"		"release"
+				}
+			}
+			"4"
+			{
+				"executable"		"SlenderTheArrival.exe"
+				"arguments"		"-d3d12"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"public"
+				}
+			}
+			"5"
+			{
+				"executable"		"Slender - The Arrival.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"version2015"
 				}
 			}
 		}
@@ -289,36 +360,42 @@
 			{
 				"public"
 				{
-					"gid"		"3427863990072356148"
-					"size"		"1040740243"
-					"download"		"1193886727663"
+					"gid"		"6887847787177794488"
+					"size"		"10662180786"
+					"download"		"10208860096"
 				}
-				"legacy"
+				"version2013"
 				{
 					"gid"		"7387218470703861878"
 					"size"		"1477841834"
 					"download"		"0"
 				}
+				"version2015"
+				{
+					"gid"		"3427863990072356148"
+					"size"		"1040740243"
+					"download"		"1193886727663"
+				}
 			}
 			"encryptedmanifests"
 			{
+				"default-staging"
+				{
+					"gid"		"D9073521E8A116CA4AEC9A99D5B72B65"
+					"size"		"5F76892DBE0080A16FC6A039D37F130D"
+					"download"		"D29427246D73B54DEF769B440DD65417"
+				}
 				"development"
 				{
-					"gid"		"7FBFB3918E1A2139985A5F0D9C6AB584"
-					"size"		"326AD5CE780F201CE3C21B3C2FAE0F4B"
-					"download"		"6AC9ACA1E94EB9F5AC1CEB812BEAFDC2"
+					"gid"		"0EE63980D44B81FDCBB4121CAA29A752"
+					"size"		"029943739472745577F72651FE413D07"
+					"download"		"13A7DBC78CD3C3BAC6CDB261EB35E9C4"
 				}
 				"release"
 				{
-					"gid"		"1DB104AC62EE5D5DBC5661AD51774199"
-					"size"		"4C08745BFEBA00488B7F808FD19F5C96"
-					"download"		"1C2E3E24A22258D126EF0AFE2C18A367"
-				}
-				"test"
-				{
-					"gid"		"C4FE572ED7B288476D643E112A58CAE2"
-					"size"		"D26E2C93CB74824E5217B1084C06FF17"
-					"download"		"B3220BE40791DBE1296C7E333161849B"
+					"gid"		"582DA82179A974B2E902DB5EAB21A870"
+					"size"		"45DC1120AB705D0B925F3FB543DBBA04"
+					"download"		"487A01967C81F925103B6638C88B4263"
 				}
 			}
 		}
@@ -337,15 +414,27 @@
 					"size"		"1020725151"
 					"download"		"1610594111059"
 				}
-				"legacy"
+				"version2013"
 				{
 					"gid"		"1002226133068022095"
 					"size"		"1000831206"
 					"download"		"529708592951"
 				}
+				"version2015"
+				{
+					"gid"		"3269406983956120028"
+					"size"		"1020725151"
+					"download"		"1610594111059"
+				}
 			}
 			"encryptedmanifests"
 			{
+				"default-staging"
+				{
+					"gid"		"52E9583F14C6DF8C93C173FCC1F363C9"
+					"size"		"CC1F7DF5688422B568746CEA4B53A243"
+					"download"		"1BD39DF66079513847FC39455CC49D25"
+				}
 				"development"
 				{
 					"gid"		"461DB50B7D0FCE559068A16C23B3C26A"
@@ -357,12 +446,6 @@
 					"gid"		"377ED26F7C915122D3C2CE2B01611A40"
 					"size"		"A956498CE9EF1C64D34EC073F2325BDB"
 					"download"		"9B6A91B96615DB5A7B72304092F342D7"
-				}
-				"test"
-				{
-					"gid"		"5948BD1AB1FB658B1A756C9B32AE7CFA"
-					"size"		"D4B336563EB9E468FED4FCAC3CE49945"
-					"download"		"F721D3AE069A86FE0A35C5D1A8DBC849"
 				}
 			}
 		}
@@ -377,15 +460,27 @@
 					"size"		"75978177"
 					"download"		"51455169851"
 				}
-				"legacy"
+				"version2013"
 				{
 					"gid"		"8380177433480725238"
 					"size"		"65197020"
 					"download"		"63224192"
 				}
+				"version2015"
+				{
+					"gid"		"643807341307717112"
+					"size"		"75978177"
+					"download"		"51455169851"
+				}
 			}
 			"encryptedmanifests"
 			{
+				"default-staging"
+				{
+					"gid"		"46204A9E2F7CC755ACB6D61167BFE056"
+					"size"		"605F6C997D71D4CF9982F05C824A27DF"
+					"download"		"C9E1A76EE295CCEF61F9FED129521409"
+				}
 				"development"
 				{
 					"gid"		"241368045166AA5B4707D053B2E64FE8"
@@ -398,41 +493,44 @@
 					"size"		"737D9A49928D9359D9D25B01EF817749"
 					"download"		"FD254C19A223820B481FA4C78A78FCB8"
 				}
-				"test"
-				{
-					"gid"		"04D1810C203B0A593797BE30161FB97F"
-					"size"		"801BD411B0FB083064CCCC2198B3C603"
-					"download"		"054251B6B806E52551F29A51C6AD6223"
-				}
 			}
 		}
 		"branches"
 		{
 			"public"
 			{
-				"buildid"		"421982"
+				"buildid"		"12457786"
+				"timeupdated"		"1697637415"
+			}
+			"default-staging"
+			{
+				"buildid"		"12457786"
+				"pwdrequired"		"1"
+				"timeupdated"		"1697555625"
 			}
 			"development"
 			{
-				"buildid"		"12174954"
+				"buildid"		"12448134"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694580647"
-			}
-			"legacy"
-			{
-				"buildid"		"410829"
-				"description"		"Public legacy branch"
+				"timeupdated"		"1697424908"
 			}
 			"release"
 			{
-				"buildid"		"11896435"
+				"buildid"		"12478090"
 				"pwdrequired"		"1"
-				"timeupdated"		"1691528791"
+				"timeupdated"		"1697683109"
 			}
-			"test"
+			"version2013"
 			{
-				"buildid"		"421387"
-				"pwdrequired"		"1"
+				"buildid"		"410829"
+				"description"		"Slender The Arrival (2013)"
+				"timeupdated"		"1697636535"
+			}
+			"version2015"
+			{
+				"buildid"		"421982"
+				"description"		"Slender The Arrival (2015)"
+				"timeupdated"		"1697636521"
 			}
 		}
 	}
@@ -440,5 +538,19 @@
 	{
 		"quota"		"1048576"
 		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"/SlenderTheArrival/Saved/Config/"
+				"pattern"		"*.ini"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
 	}
 }
