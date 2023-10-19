@@ -1,0 +1,274 @@
+"appinfo"
+{
+	"appid"		"2218190"
+	"common"
+	{
+		"name"		"XALADIA: Rise of the Space Pirates X2"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"name_localized"
+		{
+		}
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"japanese"		"1"
+			"polish"		"1"
+			"brazilian"		"1"
+		}
+		"clienticon"		"997f9c0339064d57c0541c2fe1b7961a1f422551"
+		"clienttga"		"454a75764b35a13cb29c2cb28ec312c1737c3fa1"
+		"icon"		"4366878e4a98f55996675ce1944338d76ebe62b7"
+		"releasestate"		"released"
+		"controllertagwizard"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"japanese"		"header_japanese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,ja"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"64.74074617691866"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1697703610"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"ACQUIRE Corp."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"ACQUIRE Corp."
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+			"category_55"		"1"
+			"category_57"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1697702439"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2218190"
+		"store_tags"
+		{
+			"0"		"42804"
+			"1"		"4777"
+			"2"		"4758"
+			"3"		"4885"
+			"4"		"9"
+			"5"		"3959"
+			"6"		"1645"
+			"7"		"1774"
+			"8"		"1676"
+			"9"		"1773"
+			"10"		"1716"
+			"11"		"4191"
+			"12"		"4115"
+			"13"		"6426"
+			"14"		"19"
+			"15"		"3942"
+			"16"		"1702"
+			"17"		"1673"
+			"18"		"4295"
+			"19"		"4182"
+		}
+	}
+	"extended"
+	{
+		"developer"		"ACQUIRE Corp."
+		"publisher"		"ACQUIRE Corp."
+		"listofdlc"		"2249400,2249401"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"XALADIA Rise of the Space Pirates X2"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"XALADIA.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,spanish,schinese,tchinese,japanese,polish,brazilian"
+		"2218191"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5862864861054920344"
+					"size"		"1805367531"
+					"download"		"593212752"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"develop"
+				{
+					"gid"		"3C4A6E6951B6AEA8866B60178708F6CB"
+					"size"		"A2B52ED8D96E89E83C4543D90EAD3EF6"
+					"download"		"E853148454BE7CB00FC3A7489E4E1629"
+				}
+				"develop_qa"
+				{
+					"gid"		"43BB8638EEB5C14424BC332E6763B361"
+					"size"		"E3DCC2670D57D4A6609B7B504F0779B6"
+					"download"		"F45293A46A00AE7AD8A2D1328320B804"
+				}
+				"develop_qa_prod"
+				{
+					"gid"		"AB60FC2B95FCEED9477306A98B44D20A"
+					"size"		"5B7FF67ABAD0EB70EAA1557399FB9432"
+					"download"		"B0C1DA904D05A83419277A34C5F46CAA"
+				}
+				"event"
+				{
+					"gid"		"3DA2DA5EB1899435C054BBEF43F9E5C6"
+					"size"		"3855936B48A928215E66103637177A55"
+					"download"		"734E7F060CF1EBD2DC9642C1B470A050"
+				}
+				"media"
+				{
+					"gid"		"569F0DBA3009E90FC3140E54AF1B2DB4"
+					"size"		"C61C3E21D406351C681BAFF15DB0ADF4"
+					"download"		"33FB37CE9690D22FFE5BCA1D8BFAA002"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12046537"
+				"timeupdated"		"1693197865"
+			}
+			"develop"
+			{
+				"buildid"		"10372193"
+				"pwdrequired"		"1"
+				"timeupdated"		"1674271419"
+			}
+			"develop_qa"
+			{
+				"buildid"		"11348769"
+				"pwdrequired"		"1"
+				"timeupdated"		"1685441041"
+			}
+			"develop_qa_prod"
+			{
+				"buildid"		"11347424"
+				"pwdrequired"		"1"
+				"timeupdated"		"1685428813"
+			}
+			"event"
+			{
+				"buildid"		"12153296"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694353006"
+			}
+			"media"
+			{
+				"buildid"		"11604511"
+				"pwdrequired"		"1"
+				"timeupdated"		"1688200582"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"ACQUIRE Corp/XALADIA/{64BitSteamID}/SaveData"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
