@@ -27,6 +27,34 @@
 			"tchinese"		"荒原療者 (Wildmender)"
 			"schinese"		"荒原疗者 (Wildmender)"
 		}
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1697068800"
+			"tested_build_id"		"12289042"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-4"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
 		"controller_support"		"partial"
 		"small_capsule"
 		{
@@ -163,7 +191,7 @@
 			"19"		"4747"
 		}
 		"review_score"		"8"
-		"review_percentage"		"84"
+		"review_percentage"		"85"
 	}
 	"extended"
 	{
@@ -206,9 +234,9 @@
 			{
 				"public"
 				{
-					"gid"		"1136800734582590628"
-					"size"		"3628709516"
-					"download"		"1382090496"
+					"gid"		"4053532076467045012"
+					"size"		"3628715148"
+					"download"		"1382093680"
 				}
 				"crossplay"
 				{
@@ -227,15 +255,15 @@
 				}
 				"autobuild"
 				{
-					"gid"		"B3057D0F00F49E93F834FB0A2E7D39D5"
-					"size"		"6AA913D946AB5BC63AF60E639F469D43"
-					"download"		"BE25CBBD705D3446866BC6E142EC33C1"
+					"gid"		"0AE60B92CCAA915430FA24B989C8F12B"
+					"size"		"3C6EC738555623011AE1A7BBCEC7B77E"
+					"download"		"9AD8B82CF5631D33D8B68713AE264C6A"
 				}
 				"compliance"
 				{
-					"gid"		"27165EF125F57B00C69DD160B7AD7DE6"
-					"size"		"03542A800EF5EBEB5CCAEF8FD8239537"
-					"download"		"5A4154E954EFDF2BD3F228D30C0404A8"
+					"gid"		"98885E3F51FD681F6FD1248FAB6D8989"
+					"size"		"6FE0B1EE69D4DB7CAB2C768653CD5BFB"
+					"download"		"DA0EFEDB308301D8E99526272818FC46"
 				}
 				"compliance_witheula"
 				{
@@ -251,9 +279,9 @@
 				}
 				"devtest"
 				{
-					"gid"		"2046280E51904E48552D19BA84E7ED7E"
-					"size"		"35CFFEE1D537D96E7EF838C2463F9F2E"
-					"download"		"31D8565153F33145BB1404D665C3EE29"
+					"gid"		"A6158FFF5A49088B3603F3F5AF70EFC7"
+					"size"		"922161835BFE542BB68CA6A3B9ED8B62"
+					"download"		"DF0E5DC30312022CC0C457932D1BC909"
 				}
 				"external"
 				{
@@ -269,9 +297,9 @@
 				}
 				"nightly"
 				{
-					"gid"		"7A6388DA74A6845D0E4C59B7F8B5C827"
-					"size"		"C76B0EAB0523E779EF72E85EF07AD8DC"
-					"download"		"F9007B27ECDE7DB58B64CBE477CA5B77"
+					"gid"		"2DECDF92906C03379DAB25755AE1CD49"
+					"size"		"6D0A2D36CC3A137EAABA3ADE375EB90C"
+					"download"		"3F0743C557AAE673A5B9FC263856092F"
 				}
 				"weekly"
 				{
@@ -285,8 +313,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12397507"
-				"timeupdated"		"1697042809"
+				"buildid"		"12431329"
+				"timeupdated"		"1697640159"
 			}
 			"alex"
 			{
@@ -296,15 +324,15 @@
 			}
 			"autobuild"
 			{
-				"buildid"		"12417874"
+				"buildid"		"12476049"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697060303"
+				"timeupdated"		"1697663165"
 			}
 			"compliance"
 			{
-				"buildid"		"12417874"
+				"buildid"		"12431329"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697060332"
+				"timeupdated"		"1697182317"
 			}
 			"compliance_witheula"
 			{
@@ -326,9 +354,9 @@
 			}
 			"devtest"
 			{
-				"buildid"		"12417825"
+				"buildid"		"12476049"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697060171"
+				"timeupdated"		"1697663218"
 			}
 			"external"
 			{
@@ -344,9 +372,9 @@
 			}
 			"nightly"
 			{
-				"buildid"		"12418577"
+				"buildid"		"12477001"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697067282"
+				"timeupdated"		"1697672101"
 			}
 			"weekly"
 			{
