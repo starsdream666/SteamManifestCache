@@ -7,14 +7,30 @@
 		"type"		"Game"
 		"logo"		"a16c4ab6db88bee592045da12d919896f98bbd8e"
 		"logo_small"		"a16c4ab6db88bee592045da12d919896f98bbd8e_thumb"
-		"icon"		"6bd3e71556de0ff8cf444c20a2f52b605b3e12b5"
-		"clienttga"		"c8210b452f301af07699e9e1a500d1c6d75aa1bb"
-		"clienticon"		"6c7f09c561182c64d84fce35ad9291ead65defeb"
+		"icon"		"7500efe3664b8b1a6358acb950247c65a84afdf2"
+		"clienttga"		"280fe9ae761035895ebf111dfb03478ebc20e200"
+		"clienticon"		"146adbf99ae164cb9f31c7f849459899c171a73c"
 		"linuxclienticon"		"a2fd1fa714ba90d35a73da6c9611fe359530af89"
 		"releasestate"		"released"
 		"oslist"		"windows"
 		"osarch"		""
 		"osextended"		""
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"russian"		"1"
+			"polish"		"1"
+			"hungarian"		"1"
+			"czech"		"1"
+			"turkish"		"1"
+			"brazilian"		"1"
+		}
 		"content_descriptors"
 		{
 			"0"		"5"
@@ -69,7 +85,7 @@
 				"height_pct"		"98.95833333333334"
 			}
 		}
-		"store_asset_mtime"		"1693054201"
+		"store_asset_mtime"		"1697806489"
 		"associations"
 		{
 			"0"
@@ -107,13 +123,14 @@
 			"3"		"23"
 			"4"		"3"
 			"5"		"28"
-			"6"		"70"
 		}
 		"category"
 		{
 			"category_2"		"1"
 			"category_22"		"1"
 			"category_23"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
 		}
 		"supported_languages"
 		{
@@ -169,32 +186,48 @@
 				"supported"		"true"
 				"subtitles"		"true"
 			}
+			"czech"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"hungarian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
 		}
-		"steam_release_date"		"1628168168"
+		"steam_release_date"		"1697806579"
+		"community_visible_stats"		"1"
 		"community_hub_visible"		"1"
 		"gameid"		"1137750"
 		"store_tags"
 		{
-			"0"		"493"
-			"1"		"3810"
-			"2"		"1719"
-			"3"		"599"
-			"4"		"87918"
-			"5"		"597"
-			"6"		"19"
-			"7"		"3839"
-			"8"		"9204"
-			"9"		"492"
-			"10"		"4182"
-			"11"		"4175"
-			"12"		"1036"
-			"13"		"22602"
-			"14"		"10235"
-			"15"		"1643"
-			"16"		"4136"
-			"17"		"21"
-			"18"		"1695"
-			"19"		"122"
+			"0"		"1719"
+			"1"		"4191"
+			"2"		"4520"
+			"3"		"3810"
+			"4"		"599"
+			"5"		"9204"
+			"6"		"87918"
+			"7"		"1695"
+			"8"		"12472"
+			"9"		"22602"
+			"10"		"5350"
+			"11"		"10235"
+			"12"		"3839"
+			"13"		"597"
+			"14"		"492"
+			"15"		"4182"
+			"16"		"1036"
+			"17"		"4136"
+			"18"		"21"
+			"19"		"493"
 		}
 		"review_score"		"8"
 		"review_percentage"		"84"
@@ -225,30 +258,30 @@
 			{
 				"public"
 				{
-					"gid"		"2401763861398186344"
-					"size"		"7132936457"
-					"download"		"3427078416"
+					"gid"		"8894487320792652011"
+					"size"		"7718469144"
+					"download"		"3793647888"
 				}
 				"openbeta"
 				{
-					"gid"		"1865823881502668957"
-					"size"		"7469693069"
-					"download"		"3559325264"
+					"gid"		"5436565427973732928"
+					"size"		"7709358096"
+					"download"		"3792268832"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"beta"
 				{
-					"gid"		"77E140730B522E08FC519EC3B8A5B615"
-					"size"		"52C3D5B44DB89A2A484D3A9EB2AA388F"
-					"download"		"3148616F38E3F53324028D61981E5C41"
+					"gid"		"65D494D2712CD9388F11A9B45C7CC475"
+					"size"		"12459371017F5BF04D21DB61B1D0A0BB"
+					"download"		"7A4DBB6FD4A592902F84AD494FEFD3B2"
 				}
 				"betajsz"
 				{
-					"gid"		"66DEBD13DD8B5F3EA7AA52C614C990CE"
-					"size"		"95852A15B748AE0D66DE67A7C7A6ABBE"
-					"download"		"6C32A57642E2FD1FBA412D32CD5CC94D"
+					"gid"		"3E72368A7FE84E0D02F96BAFD01697A4"
+					"size"		"FC9311ADABFE6E8AB5230345D41AA15D"
+					"download"		"F21044DF301CF1459EAC5E04BA1FC5B7"
 				}
 			}
 		}
@@ -256,26 +289,26 @@
 		{
 			"public"
 			{
-				"buildid"		"11648065"
-				"timeupdated"		"1688724851"
+				"buildid"		"12491149"
+				"timeupdated"		"1697806502"
 			}
 			"beta"
 			{
-				"buildid"		"12141559"
+				"buildid"		"12491049"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694172522"
+				"timeupdated"		"1697793246"
 			}
 			"betajsz"
 			{
-				"buildid"		"12059955"
+				"buildid"		"12432741"
 				"pwdrequired"		"1"
-				"timeupdated"		"1693320740"
+				"timeupdated"		"1697192987"
 			}
 			"openbeta"
 			{
-				"buildid"		"12142521"
+				"buildid"		"12481047"
 				"description"		"Public beta"
-				"timeupdated"		"1694180490"
+				"timeupdated"		"1697709311"
 			}
 		}
 	}
