@@ -33,25 +33,25 @@
 		"releasestate"		"released"
 		"steam_deck_compatibility"
 		{
-			"category"		"2"
-			"test_timestamp"		"1695168000"
-			"tested_build_id"		"12159748"
+			"category"		"3"
+			"test_timestamp"		"1696550400"
+			"tested_build_id"		"12274920"
 			"tests"
 			{
 				"0"
 				{
-					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 				}
 				"1"
 				{
 					"display"		"4"
-					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
 				}
 				"2"
 				{
 					"display"		"4"
-					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
 				}
 				"3"
 				{
@@ -71,10 +71,10 @@
 				"requires_non_controller_launcher_nav"		"0"
 				"primary_player_is_controller_slot_0"		"1"
 				"non_deck_display_glyphs"		"0"
-				"small_text"		"1"
+				"small_text"		"0"
 				"requires_internet_for_setup"		"0"
 				"requires_internet_for_singleplayer"		"0"
-				"recommended_runtime"		"proton-stable"
+				"recommended_runtime"		"proton-8.0-4"
 				"requires_h264"		"1"
 				"gamescope_frame_limiter_not_supported"		"0"
 			}
@@ -293,18 +293,18 @@
 			{
 				"public"
 				{
-					"gid"		"6804682973400188466"
-					"size"		"32165797224"
-					"download"		"22455021904"
+					"gid"		"7235608366400929829"
+					"size"		"32166853504"
+					"download"		"22457700880"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"development"
 				{
-					"gid"		"2243B9DECB2278234919F42C2CEC6D2C"
-					"size"		"0F63801D0F080BECE5D1C11BC4DF1DD5"
-					"download"		"C4023D98CAD0DE2DAA0036B2CD9BC907"
+					"gid"		"38A57F4FB415D965DEF864AF75FB4670"
+					"size"		"570B2F05A7CAB3C3BC6918BF2EC7DB80"
+					"download"		"AD641A3EAEF2B20CD913B64BCEA5580C"
 				}
 				"ignreview"
 				{
@@ -399,14 +399,14 @@
 		{
 			"public"
 			{
-				"buildid"		"12274920"
-				"timeupdated"		"1696857894"
+				"buildid"		"12460344"
+				"timeupdated"		"1697727827"
 			}
 			"development"
 			{
-				"buildid"		"12288183"
+				"buildid"		"12460344"
 				"pwdrequired"		"1"
-				"timeupdated"		"1695747842"
+				"timeupdated"		"1697537145"
 			}
 			"ignreview"
 			{
