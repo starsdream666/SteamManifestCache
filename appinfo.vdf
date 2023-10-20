@@ -1,0 +1,218 @@
+"appinfo"
+{
+	"appid"		"2233790"
+	"common"
+	{
+		"name"		"Legendary Creatures 2"
+		"type"		"Game"
+		"name_localized"
+		{
+			"schinese"		"传奇生物2"
+			"japanese"		"伝説の生き物2"
+		}
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"d092e2e406c753a9ff7318cc52e92743324b6032"
+		"clienttga"		"831917ee4f2b5a431745662494eb440c6b384561"
+		"clienticon"		"44b62065690fe20b5d5105d22eaedef01ff615f1"
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"japanese"		"1"
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+		}
+		"header_image"
+		{
+			"japanese"		"header_japanese.jpg"
+			"schinese"		"header_schinese.jpg"
+			"tchinese"		"header_tchinese.jpg"
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"ja,en,zh-cn,zh-tw"
+			"library_hero"		"en"
+			"library_logo"		"en,zh-cn,zh-tw,ja"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"42.91630803495369"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1697788415"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"HideChara"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Thermite Games"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Thermite Games"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"3"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1697526022"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2233790"
+		"store_tags"
+		{
+			"0"		"3834"
+			"1"		"1670"
+			"2"		"1720"
+			"3"		"1084988"
+			"4"		"17305"
+			"5"		"1716"
+			"6"		"9"
+			"7"		"1741"
+			"8"		"5125"
+			"9"		"21"
+			"10"		"14139"
+			"11"		"4711"
+			"12"		"4325"
+			"13"		"8945"
+			"14"		"4182"
+			"15"		"122"
+			"16"		"3959"
+			"17"		"1684"
+			"18"		"1708"
+			"19"		"3871"
+		}
+		"review_score"		"6"
+		"review_percentage"		"74"
+	}
+	"extended"
+	{
+		"developer"		"HideChara"
+		"publisher"		"Thermite Games"
+	}
+	"config"
+	{
+		"installdir"		"Legend Creatures 2"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"lc2.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2233791"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2265571011186679381"
+					"size"		"335391087"
+					"download"		"283077504"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"DBEAE2CCFB39C66DD59B48F92112F747"
+					"size"		"041A10965D3BA7B81BAC7D3030166D5A"
+					"download"		"2CD2136EBB03EC868FF9AB752D291897"
+				}
+			}
+		}
+		"baselanguages"		"english,schinese"
+		"hasdepotsindlc"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12492988"
+				"timeupdated"		"1697806244"
+			}
+			"test"
+			{
+				"buildid"		"12456822"
+				"pwdrequired"		"1"
+				"timeupdated"		"1697503746"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1048576000"
+		"maxnumfiles"		"5000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"Godot/app_userdata/Legendary Creatures 2"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
