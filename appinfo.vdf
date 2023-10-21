@@ -49,6 +49,59 @@
 		}
 		"has_adult_content"		"1"
 		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1697241600"
+			"tested_build_id"		"12426419"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"5"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-experimental"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
 		"controllertagwizard"		"1"
 		"controller_support"		"partial"
 		"small_capsule"
@@ -264,9 +317,9 @@
 			{
 				"public"
 				{
-					"gid"		"7305139388177361396"
-					"size"		"34734444243"
-					"download"		"33822960784"
+					"gid"		"2135095393805898168"
+					"size"		"34522141258"
+					"download"		"33615790320"
 				}
 			}
 			"encryptedmanifests"
@@ -279,9 +332,9 @@
 				}
 				"day0"
 				{
-					"gid"		"D53D0C128A20FFEF1640AAA76EF180DD"
-					"size"		"9C0BFA9131E53FF4194E49499FD70B75"
-					"download"		"D4548DEE1F508CBFC6EEA7C2719E2DD9"
+					"gid"		"40D1294A4F0FF24C782973D60DF312B7"
+					"size"		"9B58BFB7B0E9899203A11B46CDD4D10E"
+					"download"		"46C554E6B1C83EBBED785AFEE320E0AA"
 				}
 				"gold1"
 				{
@@ -381,9 +434,9 @@
 				}
 				"prelaunch"
 				{
-					"gid"		"1A7F383E5275E1114914D6059370B198"
-					"size"		"98F1A299F093B804ECF3760602CE895B"
-					"download"		"2A1C5CBC84A01C2B234C429949C6A7D8"
+					"gid"		"79AE04CD1E4C56A3B4DE41756DE72929"
+					"size"		"F4F77531D0B5154E0C8B1DD606A505D9"
+					"download"		"6F0EB6228751836F6DF5947E259D173A"
 				}
 				"ratings"
 				{
@@ -422,8 +475,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12493701"
-				"timeupdated"		"1697815367"
+				"buildid"		"12495961"
+				"timeupdated"		"1697837559"
 			}
 			"amdtesting"
 			{
@@ -433,9 +486,9 @@
 			}
 			"day0"
 			{
-				"buildid"		"12491417"
+				"buildid"		"12497588"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697795562"
+				"timeupdated"		"1697843588"
 			}
 			"gold1"
 			{
@@ -535,9 +588,9 @@
 			}
 			"prelaunch"
 			{
-				"buildid"		"12493701"
+				"buildid"		"12498480"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697810796"
+				"timeupdated"		"1697854890"
 			}
 			"ratings"
 			{
