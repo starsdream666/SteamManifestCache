@@ -7,7 +7,7 @@
 		"type"		"Game"
 		"oslist"		"windows,macos,linux"
 		"osarch"		"64"
-		"osextended"		"macos64"
+		"osextended"		"macos64,macosapplesilicon"
 		"clienticon"		"11caadae3597b336e7818bf96e23c5bcdfa273fe"
 		"clienttga"		"a302054aaaa942ff8c7dad49b36bf62d21a4dd9e"
 		"icon"		"231144911bc0088cb9bda9d9034e72385b98648a"
@@ -168,15 +168,15 @@
 			{
 				"public"
 				{
-					"gid"		"6723826757156331013"
-					"size"		"250580586"
-					"download"		"117361888"
+					"gid"		"5713138881585461341"
+					"size"		"252215710"
+					"download"		"118529312"
 				}
 				"beta"
 				{
-					"gid"		"6723826757156331013"
-					"size"		"250580586"
-					"download"		"117361888"
+					"gid"		"5713138881585461341"
+					"size"		"252215710"
+					"download"		"118529312"
 				}
 			}
 		}
@@ -190,15 +190,15 @@
 			{
 				"public"
 				{
-					"gid"		"7499550915583472152"
-					"size"		"256126656"
-					"download"		"112485120"
+					"gid"		"4737403618275144690"
+					"size"		"255624044"
+					"download"		"113317952"
 				}
 				"beta"
 				{
-					"gid"		"7499550915583472152"
-					"size"		"256126656"
-					"download"		"112485120"
+					"gid"		"4737403618275144690"
+					"size"		"255624044"
+					"download"		"113317952"
 				}
 			}
 		}
@@ -207,20 +207,44 @@
 			"config"
 			{
 				"oslist"		"macos"
+				"osarch"		"64"
 			}
 			"manifests"
 			{
 				"public"
 				{
-					"gid"		"5959233446635119520"
-					"size"		"609151023"
-					"download"		"111791760"
+					"gid"		"6960578647701950352"
+					"size"		"612165906"
+					"download"		"113268752"
 				}
 				"beta"
 				{
-					"gid"		"5959233446635119520"
-					"size"		"609151023"
-					"download"		"111791760"
+					"gid"		"6960578647701950352"
+					"size"		"612165906"
+					"download"		"113268752"
+				}
+			}
+		}
+		"1694454"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6717127061002318694"
+					"size"		"606294050"
+					"download"		"106992816"
+				}
+				"beta"
+				{
+					"gid"		"6717127061002318694"
+					"size"		"606294050"
+					"download"		"106992816"
 				}
 			}
 		}
@@ -228,14 +252,14 @@
 		{
 			"public"
 			{
-				"buildid"		"8922125"
-				"timeupdated"		"1655074175"
+				"buildid"		"12482235"
+				"timeupdated"		"1697833317"
 			}
 			"beta"
 			{
-				"buildid"		"8922125"
+				"buildid"		"12482235"
 				"description"		"Beta release branch"
-				"timeupdated"		"1655074167"
+				"timeupdated"		"1697717110"
 			}
 		}
 	}
