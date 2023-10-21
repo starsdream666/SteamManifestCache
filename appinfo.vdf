@@ -273,9 +273,9 @@
 			{
 				"public"
 				{
-					"gid"		"1635186521840427578"
-					"size"		"10863778984"
-					"download"		"620642640"
+					"gid"		"7460552058593912885"
+					"size"		"10863697760"
+					"download"		"620558304"
 				}
 				"patch1.0.2"
 				{
@@ -297,9 +297,9 @@
 				}
 				"stablerollbackbranch"
 				{
-					"gid"		"5469232333722763500"
-					"size"		"10081221158"
-					"download"		"561426560"
+					"gid"		"7094050330534143931"
+					"size"		"10111711501"
+					"download"		"564370800"
 				}
 			}
 			"encryptedmanifests"
@@ -324,9 +324,15 @@
 				}
 				"publicbetaenvironment"
 				{
-					"gid"		"CE45D30693993613E03D935EE4C4BFAC"
-					"size"		"8A6649BC1F2104B403F7BE579251E3E1"
-					"download"		"AB1DC1E1CCC94DD0C1AD56CAD5030AE1"
+					"gid"		"95CA9F5A39F808ABB90A68513D7D7455"
+					"size"		"1ED8849AFC35870A48F5DD4ABAD6BAD4"
+					"download"		"4F73DA806B9B3E9AB830C53F956DD265"
+				}
+				"secondaryrollbackbranch"
+				{
+					"gid"		"3536A32C00B4A857BCCA14AE151B03AB"
+					"size"		"86EE63EFD33C1AAA2E0995109033AA07"
+					"download"		"7D7AAA25EA04825495A3D359A6A3A4D0"
 				}
 			}
 		}
@@ -361,9 +367,9 @@
 			{
 				"public"
 				{
-					"gid"		"4860119331149998165"
-					"size"		"10730813476"
-					"download"		"587637328"
+					"gid"		"8167887879056045844"
+					"size"		"10730815596"
+					"download"		"587637584"
 				}
 				"patch1.0.2"
 				{
@@ -385,9 +391,9 @@
 				}
 				"stablerollbackbranch"
 				{
-					"gid"		"7496601066377063923"
-					"size"		"9948797813"
-					"download"		"527457040"
+					"gid"		"7330944402037269366"
+					"size"		"9979213390"
+					"download"		"527408320"
 				}
 			}
 			"encryptedmanifests"
@@ -406,9 +412,15 @@
 				}
 				"publicbetaenvironment"
 				{
-					"gid"		"F040EDAEF54F57088D57B5F629BDD0CF"
-					"size"		"73A44E0C67DB2D4E8EF183B7D6695CF5"
-					"download"		"0175418C85885ACC17B2E00B6C79B85A"
+					"gid"		"211C1DAE965E3938C6B9804F3B1D123D"
+					"size"		"B1373C8DA7C50EEAD58EFB973CA5DF16"
+					"download"		"B5788FDCCBF44761E9AE0A9F12591493"
+				}
+				"secondaryrollbackbranch"
+				{
+					"gid"		"4DC216853B8940AC2B66D245D47D62FD"
+					"size"		"6832C08AF72C096883D6B5B63C06014A"
+					"download"		"8E310D8F0C3CD0E0B501E1AFC26A808F"
 				}
 			}
 		}
@@ -429,8 +441,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12498640"
-				"timeupdated"		"1697858991"
+				"buildid"		"12499615"
+				"timeupdated"		"1697875940"
 			}
 			"internal"
 			{
@@ -470,15 +482,21 @@
 			}
 			"publicbetaenvironment"
 			{
-				"buildid"		"12498640"
+				"buildid"		"12499615"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697857827"
+				"timeupdated"		"1697874869"
+			}
+			"secondaryrollbackbranch"
+			{
+				"buildid"		"11742015"
+				"pwdrequired"		"1"
+				"timeupdated"		"1697864623"
 			}
 			"stablerollbackbranch"
 			{
-				"buildid"		"11742015"
+				"buildid"		"11889144"
 				"description"		"has last patch in case of emergencies(not always)"
-				"timeupdated"		"1690843713"
+				"timeupdated"		"1697864635"
 			}
 		}
 	}
