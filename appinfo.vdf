@@ -16,6 +16,10 @@
 		"osarch"		""
 		"osextended"		""
 		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+		}
 		"content_descriptors"
 		{
 			"0"		"2"
@@ -101,6 +105,11 @@
 				"supported"		"true"
 				"subtitles"		"true"
 			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
 		}
 		"steam_release_date"		"1613505488"
 		"community_visible_stats"		"1"
@@ -174,16 +183,16 @@
 	}
 	"depots"
 	{
-		"baselanguages"		"english,schinese,polish,brazilian"
+		"baselanguages"		"english,koreana,schinese,polish,brazilian"
 		"1532511"
 		{
 			"manifests"
 			{
 				"public"
 				{
-					"gid"		"7500098635542284731"
-					"size"		"316617003"
-					"download"		"181748224"
+					"gid"		"8795924055077127887"
+					"size"		"338839287"
+					"download"		"192104384"
 				}
 			}
 		}
@@ -191,8 +200,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12053492"
-				"timeupdated"		"1693261256"
+				"buildid"		"12499419"
+				"timeupdated"		"1697873502"
 			}
 		}
 	}
