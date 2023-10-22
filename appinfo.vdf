@@ -1,0 +1,481 @@
+"appinfo"
+{
+	"appid"		"1622900"
+	"common"
+	{
+		"name"		"Star Trek: Infinite"
+		"type"		"Game"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"icon"		"cba1af3381af6684301ac02e84e4161cfcf1ab98"
+		"clienticon"		"8e13d64f04d3d40121f05984fa985af6ee56fb6f"
+		"releasestate"		"released"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1622900_eula_0"
+				"name"		"Star Trek: Infinite EULA"
+				"url"		"https://store.steampowered.com//eula/1622900_eula_0"
+				"version"		"1"
+			}
+		}
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1697119533"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Nimble Giant Entertainment"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Paradox Interactive"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Star Trek"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"28"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1697119288"
+		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1622900"
+		"store_tags"
+		{
+			"0"		"4364"
+			"1"		"1670"
+			"2"		"1755"
+			"3"		"3834"
+			"4"		"3810"
+			"5"		"12472"
+			"6"		"1676"
+			"7"		"6310"
+			"8"		"6730"
+			"9"		"1775"
+			"10"		"16598"
+			"11"		"5794"
+			"12"		"9"
+			"13"		"4191"
+			"14"		"4168"
+			"15"		"6426"
+			"16"		"1695"
+			"17"		"15045"
+			"18"		"599"
+			"19"		"1742"
+		}
+		"review_score"		"5"
+		"review_percentage"		"57"
+	}
+	"extended"
+	{
+		"developer"		"Nimble Giant Entertainment"
+		"publisher"		"Paradox Interactive"
+		"listofdlc"		"2620810,2620820,2651890"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Infinite"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"dowser.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"hornblower_RD.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"nightly"
+				}
+				"description_loc"
+				{
+					"english"		"ST: Infinite (DevBuild)"
+				}
+				"description"		"ST: Infinite (DevBuild)"
+			}
+			"2"
+			{
+				"executable"		"dowser"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+				"description_loc"
+				{
+					"english"		"ST: Infinite"
+				}
+				"description"		"ST: Infinite"
+			}
+			"3"
+			{
+				"executable"		"infinite_RD.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+					"betakey"		"nightly"
+				}
+				"description_loc"
+				{
+					"english"		"ST: Infinite (DevBuild)"
+				}
+				"description"		"ST: Infinite (DevBuild)"
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1622901"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5484572751416955652"
+					"size"		"16252603533"
+					"download"		"6925811248"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"0BE81807456C0E68CCDA1A3E5D8032EA"
+					"size"		"0775D9650C969D543380333445E38BAE"
+					"download"		"A2D641B187652713DAFCB7E0B3EB2710"
+				}
+				"early_access"
+				{
+					"gid"		"1232101AC4EBC8B7D292E6CDFC48F369"
+					"size"		"928D42F26B955A81A389ED2BC80DEB5A"
+					"download"		"BCB288AC505E6CF834BD3D88F59245D6"
+				}
+				"nightly"
+				{
+					"gid"		"6F2E8B50583292574D757AC1C05F1421"
+					"size"		"B57F4C1173A1A1F4F56E73356CE148BB"
+					"download"		"A6409CAB957A3D4E57FB715D260CE3FA"
+				}
+				"pre_release"
+				{
+					"gid"		"C6B456FBE77E4811DE318089F2F02D68"
+					"size"		"79F272FB38D0BCE5CB01B85B9B39D79E"
+					"download"		"43E31F1C9C7CE686A475DC08E3674234"
+				}
+				"staging"
+				{
+					"gid"		"B766BFDD7DD3A667D5652C29A50334A8"
+					"size"		"CD16B41F812176DBA0082589F6782C03"
+					"download"		"0FB54745DB10721DAAC1CDD94E0C433C"
+				}
+				"weekly"
+				{
+					"gid"		"E206A208C8635E79ADCC9599C2144DE1"
+					"size"		"D28804D99DA8D14E24A5970A508EF172"
+					"download"		"D80D4046E4C287A1BD840D680F20DDE4"
+				}
+			}
+		}
+		"1622902"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4034715865031150001"
+					"size"		"16406904171"
+					"download"		"7058183296"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"E874EABEE5FC895020049B77750508AC"
+					"size"		"80374FDF60B9CD59A72D85BFD416878E"
+					"download"		"EF42C33032F38B7BAC5DCC19E19B0CAA"
+				}
+				"early_access"
+				{
+					"gid"		"14E604CEAA3EC106BCF67C3E69B8F483"
+					"size"		"A3CACC70DDA2A59A1C35EA4F0384C326"
+					"download"		"2A485B24D01125A2872E81D0A4EE4BE9"
+				}
+				"nightly"
+				{
+					"gid"		"DDC3FBFF50FFA5AD42C793EF8FF9732C"
+					"size"		"573A828A366C4CDFC98A96B046254A11"
+					"download"		"D5B998F39EC9A446CA582E861C6169F0"
+				}
+				"pre_release"
+				{
+					"gid"		"BAEF2A740BF40FD66FED4079EC2C93B4"
+					"size"		"194C8AB3746239FB044B5B43BEB79914"
+					"download"		"441B0F5ABC10BB6FB31CDA90FDAB1ED5"
+				}
+				"staging"
+				{
+					"gid"		"06B3FB5D59960DC26B70179B9487B3FB"
+					"size"		"A5C6652816DF6C9D4444672F6A15185F"
+					"download"		"65D346B5623FA2B82A0266DDD2885228"
+				}
+				"weekly"
+				{
+					"gid"		"7946D464FAB690D9F511396058A1BEEE"
+					"size"		"3D00E671133C57DE0D50207EEF8B3924"
+					"download"		"383B10B609A81E9432C7848D4E1F8A89"
+				}
+			}
+		}
+		"2620810"
+		{
+			"dlcappid"		"2620810"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5074381735861419462"
+					"size"		"192579219"
+					"download"		"179008560"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"early_access"
+				{
+					"gid"		"C1D25D53AFEDF52FBFBEE0D297B0E255"
+					"size"		"34898145BAA876F17CAD27D9DCC52D65"
+					"download"		"C42B11D0766D87C2833FC93862A86DA7"
+				}
+				"nightly"
+				{
+					"gid"		"8E0BD60668D869A0EF67FEA3385C6EE4"
+					"size"		"154EFE655593BE21C3D60D68E2105B7E"
+					"download"		"775D9A69B85F7CD4DC46AE5F78796633"
+				}
+				"weekly"
+				{
+					"gid"		"62143BF1C1F291F2F292316F7B439E5B"
+					"size"		"367CB3EE60B3C7129D7E72216DE81E3D"
+					"download"		"C04AEB89EC39B87CF6B8E2F554FAEEA0"
+				}
+			}
+		}
+		"workshopdepot"		"1622900"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12483525"
+				"timeupdated"		"1697725770"
+			}
+			"development"
+			{
+				"buildid"		"12494496"
+				"pwdrequired"		"1"
+				"timeupdated"		"1697816154"
+			}
+			"early_access"
+			{
+				"buildid"		"12460618"
+				"pwdrequired"		"1"
+				"timeupdated"		"1697539062"
+			}
+			"nightly"
+			{
+				"buildid"		"12491115"
+				"pwdrequired"		"1"
+				"timeupdated"		"1697793342"
+			}
+			"pre_release"
+			{
+				"buildid"		"12437155"
+				"pwdrequired"		"1"
+				"timeupdated"		"1697225213"
+			}
+			"staging"
+			{
+				"buildid"		"12495458"
+				"pwdrequired"		"1"
+				"timeupdated"		"1697823781"
+			}
+			"weekly"
+			{
+				"buildid"		"12433276"
+				"pwdrequired"		"1"
+				"timeupdated"		"1697425447"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"SavesDir"
+				"pattern"		"*.sav"
+			}
+			"1"
+			{
+				"root"		"WinMyDocuments"
+				"path"		"Paradox Interactive/Infinite/save games"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+			"2"
+			{
+				"root"		"MacDocuments"
+				"path"		"Paradox Interactive/Infinite/save games"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"MacOS"
+				}
+			}
+		}
+	}
+}
