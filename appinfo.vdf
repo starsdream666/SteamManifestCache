@@ -1,0 +1,179 @@
+"appinfo"
+{
+	"appid"		"2618840"
+	"common"
+	{
+		"name"		"末世少女 Zombie Girl"
+		"type"		"Game"
+		"icon"		"7da7047ecdb27496f2e2309232640105f744b736"
+		"clienticon"		"6de3cb7fad6b73f49f155d520030db81568c9ddd"
+		"clienttga"		"1359781ddcdb07571a43e25aa77160f90cda7015"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"controllertagwizard"		"1"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"71.27906976744185"
+				"height_pct"		"54.55948705770602"
+			}
+		}
+		"store_asset_mtime"		"1697039776"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Utopia Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Utopia Game"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+			"category_30"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1697180874"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2618840"
+		"store_tags"
+		{
+			"0"		"12095"
+			"1"		"5611"
+			"2"		"6650"
+			"3"		"24904"
+			"4"		"3814"
+			"5"		"7208"
+			"6"		"1659"
+			"7"		"3835"
+			"8"		"1774"
+			"9"		"1697"
+			"10"		"4191"
+			"11"		"31579"
+			"12"		"19"
+			"13"		"3959"
+			"14"		"4168"
+			"15"		"5395"
+			"16"		"4182"
+			"17"		"21"
+			"18"		"122"
+			"19"		"492"
+		}
+		"review_score"		"5"
+		"review_percentage"		"56"
+	}
+	"extended"
+	{
+		"developer"		"Utopia Studio"
+		"publisher"		"Utopia Game"
+	}
+	"config"
+	{
+		"installdir"		"ZombieGirl"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"FAG.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2618841"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"123352545949028013"
+					"size"		"14670418557"
+					"download"		"14390741584"
+				}
+			}
+		}
+		"baselanguages"		"english,schinese"
+		"workshopdepot"		"2618840"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12500758"
+				"timeupdated"		"1697897353"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000000"
+		"maxnumfiles"		"10000"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+	}
+}
