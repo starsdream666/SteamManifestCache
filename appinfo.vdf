@@ -39,7 +39,57 @@
 		"has_adult_content"		"1"
 		"has_adult_content_sex"		"1"
 		"has_adult_content_violence"		"1"
-		"controller_support"		"full"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1696291200"
+			"tested_build_id"		"12019521"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-4"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Fate/Samurai Remnant"
+		"controllertagwizard"		"1"
+		"controller_support"		"partial"
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
@@ -62,7 +112,7 @@
 			"library_hero"		"en,ja,zh-tw,zh-cn,ko"
 			"library_logo"		"en,ja,zh-tw,zh-cn,ko"
 		}
-		"store_asset_mtime"		"1695949121"
+		"store_asset_mtime"		"1695956865"
 		"associations"
 		{
 			"0"
@@ -89,11 +139,16 @@
 		}
 		"category"
 		{
-			"category_28"		"1"
 			"category_2"		"1"
 			"category_22"		"1"
 			"category_33"		"1"
 			"category_23"		"1"
+			"category_18"		"1"
+			"category_55"		"1"
+			"category_56"		"1"
+			"category_57"		"1"
+			"category_58"		"1"
+			"category_60"		"1"
 		}
 		"supported_languages"
 		{
@@ -125,6 +180,8 @@
 			}
 		}
 		"steam_release_date"		"1695949025"
+		"metacritic_score"		"80"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/fatesamurai-remnant?ftag=MCD-06-10aaa1f"
 		"community_visible_stats"		"1"
 		"community_hub_visible"		"1"
 		"gameid"		"1902690"
@@ -141,16 +198,18 @@
 			"8"		"4057"
 			"9"		"5984"
 			"10"		"6971"
-			"11"		"4252"
-			"12"		"4182"
-			"13"		"4667"
-			"14"		"4345"
-			"15"		"1646"
-			"16"		"323922"
+			"11"		"4182"
+			"12"		"4252"
+			"13"		"1646"
+			"14"		"323922"
+			"15"		"3799"
+			"16"		"4667"
 			"17"		"1684"
-			"18"		"3799"
+			"18"		"4345"
 			"19"		"4726"
 		}
+		"review_score"		"8"
+		"review_percentage"		"91"
 	}
 	"extended"
 	{
@@ -311,9 +370,9 @@
 			{
 				"public"
 				{
-					"gid"		"3228887177812494729"
-					"size"		"23715952232"
-					"download"		"22691977312"
+					"gid"		"4709740106928856529"
+					"size"		"23473587020"
+					"download"		"22410057024"
 				}
 			}
 			"encryptedmanifests"
@@ -421,9 +480,9 @@
 			{
 				"public"
 				{
-					"gid"		"7384374615384271405"
-					"size"		"23712216057"
-					"download"		"22689156576"
+					"gid"		"1150903243246507001"
+					"size"		"23717633961"
+					"download"		"22692638400"
 				}
 			}
 			"encryptedmanifests"
@@ -466,15 +525,15 @@
 				}
 				"patch2"
 				{
-					"gid"		"01AF08B83F27EE03968775F919C5C135"
-					"size"		"3FC3A5B5276866FE97497CF9CE880F85"
-					"download"		"DC7698242F6A8475B6143ACBA46259E5"
+					"gid"		"D312C27B43CD286BB8A9A3BA72E7E772"
+					"size"		"28AD724F3684F5041E52B8F9B07D295A"
+					"download"		"581ACAEBF47227FB3210401523992BB2"
 				}
 				"test"
 				{
-					"gid"		"594DE5410C4F7605E507596FB8266CCA"
-					"size"		"F466DF3D8F780D8BFB99D07D678CCBE8"
-					"download"		"1563F0649D5D4512E740CA207875779D"
+					"gid"		"A2AAC8437B2F253545CD2EEEB7DCC6EE"
+					"size"		"75A3511FF2819B7A380588961F6F4765"
+					"download"		"EB13599A0BF3BBBC88B0A0D944989AB8"
 				}
 				"trialplay"
 				{
@@ -488,8 +547,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12019521"
-				"timeupdated"		"1695778862"
+				"buildid"		"12431541"
+				"timeupdated"		"1698022802"
 			}
 			"build-check"
 			{
@@ -529,15 +588,15 @@
 			}
 			"patch2"
 			{
-				"buildid"		"12302003"
+				"buildid"		"12431541"
 				"pwdrequired"		"1"
-				"timeupdated"		"1695864249"
+				"timeupdated"		"1697184272"
 			}
 			"test"
 			{
-				"buildid"		"11989505"
+				"buildid"		"12401843"
 				"pwdrequired"		"1"
-				"timeupdated"		"1692596806"
+				"timeupdated"		"1696930974"
 			}
 			"trialplay"
 			{
