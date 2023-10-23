@@ -33,6 +33,7 @@
 		}
 		"has_adult_content"		"1"
 		"has_adult_content_sex"		"1"
+		"controllertagwizard"		"1"
 		"controller_support"		"partial"
 		"small_capsule"
 		{
@@ -144,6 +145,8 @@
 		"remoteplaytogethertestingbranches"		"default"
 		"developer"		"地霊研究院"
 		"publisher"		"地霊研究院"
+		"listofdlc"		"2653140"
+		"dlcavailableonstore"		"1"
 	}
 	"config"
 	{
@@ -154,6 +157,20 @@
 			{
 				"executable"		"Game.exe"
 				"type"		"default"
+			}
+			"1"
+			{
+				"executable"		"DLC/Halluci-Sabbat of Koishi Guide Book - None-Heart Secret Sword.pdf"
+				"config"
+				{
+					"ownsdlc"		"2653140"
+				}
+				"description_loc"
+				{
+					"english"		"Guide Book - None-Heart Secret Sword"
+					"schinese"		"攻略集《秘传·古明地无心流秘籍》"
+				}
+				"description"		"Guide Book - None-Heart Secret Sword"
 			}
 		}
 		"steamcontrollertemplateindex"		"6"
@@ -168,9 +185,9 @@
 			{
 				"public"
 				{
-					"gid"		"7470522091122887146"
-					"size"		"1204547857"
-					"download"		"1026362800"
+					"gid"		"6820741182418494927"
+					"size"		"1215586433"
+					"download"		"1037048800"
 				}
 			}
 		}
@@ -179,8 +196,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12437447"
-				"timeupdated"		"1697227878"
+				"buildid"		"12510778"
+				"timeupdated"		"1698064410"
 			}
 		}
 	}
