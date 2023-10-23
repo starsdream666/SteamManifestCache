@@ -22,32 +22,54 @@
 		}
 		"steam_deck_compatibility"
 		{
-			"category"		"1"
-			"test_timestamp"		"1646179200"
-			"tested_build_id"		"5008606"
+			"category"		"3"
+			"test_timestamp"		"1695686400"
+			"tested_build_id"		"12207830"
 			"tests"
 			{
 				"0"
 				{
-					"display"		"2"
-					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
 				}
 			}
 			"configuration"
 			{
-				"supported_input"		"other"
+				"supported_input"		"gamepad"
 				"requires_manual_keyboard_invoke"		"0"
-				"requires_non_controller_launcher_nav"		"1"
-				"primary_player_is_controller_slot_0"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
 				"non_deck_display_glyphs"		"0"
 				"small_text"		"0"
 				"requires_internet_for_setup"		"0"
 				"requires_internet_for_singleplayer"		"0"
-				"recommended_runtime"		"proton-7.0-1"
+				"recommended_runtime"		"native"
 				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
 			}
 		}
-		"controller_support"		"partial"
+		"controllertagwizard"		"1"
+		"controller_support"		"full"
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
@@ -68,7 +90,7 @@
 				"height_pct"		"77.5348622664433"
 			}
 		}
-		"store_asset_mtime"		"1686536815"
+		"store_asset_mtime"		"1698039823"
 		"associations"
 		{
 			"0"
@@ -105,8 +127,9 @@
 			"category_22"		"1"
 			"category_23"		"1"
 			"category_29"		"1"
-			"category_18"		"1"
 			"category_55"		"1"
+			"category_28"		"1"
+			"category_57"		"1"
 		}
 		"supported_languages"
 		{
@@ -194,7 +217,6 @@
 				"config"
 				{
 					"oslist"		"windows"
-					"betakey"		"beta"
 				}
 				"description_loc"
 				{
@@ -209,7 +231,6 @@
 				"config"
 				{
 					"oslist"		"macos"
-					"betakey"		"beta"
 				}
 				"description_loc"
 				{
@@ -224,7 +245,6 @@
 				"config"
 				{
 					"oslist"		"linux"
-					"betakey"		"beta"
 				}
 				"description_loc"
 				{
@@ -245,21 +265,6 @@
 					"english"		"Anodyne Classic (Not Recommended)"
 				}
 				"description"		"Anodyne Classic (Not Recommended)"
-			}
-			"7"
-			{
-				"executable"		"run.sh"
-				"workingdir"		"."
-				"type"		"option2"
-				"config"
-				{
-					"oslist"		"linux"
-				}
-				"description_loc"
-				{
-					"english"		"Anodyne Classic (Unstable/Not recommended)"
-				}
-				"description"		"Anodyne Classic (Unstable/Not recommended)"
 			}
 			"8"
 			{
@@ -291,15 +296,15 @@
 			{
 				"public"
 				{
-					"gid"		"8222303852321694707"
-					"size"		"105467172"
-					"download"		"79604224"
+					"gid"		"3037525968856114347"
+					"size"		"236104222"
+					"download"		"163019216"
 				}
 				"beta"
 				{
-					"gid"		"961473095308710520"
-					"size"		"238291157"
-					"download"		"162846144"
+					"gid"		"3037525968856114347"
+					"size"		"236104222"
+					"download"		"163019216"
 				}
 			}
 			"encryptedmanifests"
@@ -323,15 +328,15 @@
 			{
 				"public"
 				{
-					"gid"		"2483505542789051418"
-					"size"		"98106002"
-					"download"		"69069392"
+					"gid"		"6711570160496749314"
+					"size"		"265184375"
+					"download"		"161971504"
 				}
 				"beta"
 				{
-					"gid"		"6490965168387709273"
-					"size"		"267371712"
-					"download"		"161798416"
+					"gid"		"6711570160496749314"
+					"size"		"265184375"
+					"download"		"161971504"
 				}
 			}
 			"encryptedmanifests"
@@ -355,15 +360,15 @@
 			{
 				"public"
 				{
-					"gid"		"2142952785263999518"
-					"size"		"124997836"
-					"download"		"0"
+					"gid"		"6364211590309932777"
+					"size"		"161776423"
+					"download"		"92609392"
 				}
 				"beta"
 				{
-					"gid"		"7258445577720159256"
-					"size"		"163942584"
-					"download"		"92428896"
+					"gid"		"6364211590309932777"
+					"size"		"161776423"
+					"download"		"92609392"
 				}
 			}
 			"encryptedmanifests"
@@ -380,13 +385,13 @@
 		{
 			"public"
 			{
-				"buildid"		"5008606"
-				"timeupdated"		"1589171072"
+				"buildid"		"12385594"
+				"timeupdated"		"1698038317"
 			}
 			"beta"
 			{
-				"buildid"		"12156459"
-				"timeupdated"		"1694410498"
+				"buildid"		"12385594"
+				"timeupdated"		"1696742846"
 			}
 			"es_pt"
 			{
