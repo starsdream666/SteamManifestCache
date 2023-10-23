@@ -166,8 +166,8 @@
 			"4"		"4115"
 			"5"		"4345"
 			"6"		"1667"
-			"7"		"3942"
-			"8"		"1625"
+			"7"		"1625"
+			"8"		"3942"
 			"9"		"1659"
 			"10"		"492"
 			"11"		"3871"
@@ -188,6 +188,8 @@
 		"developer"		"Mirari&amp;Co."
 		"publisher"		"Mirari&Co."
 		"homepage"		"https://www.darklight-game.com/"
+		"listofdlc"		"2603730"
+		"dlcavailableonstore"		"1"
 	}
 	"config"
 	{
@@ -223,36 +225,35 @@
 			"config"
 			{
 				"oslist"		"windows"
-				"language"		""
 			}
 			"manifests"
 			{
 				"public"
 				{
-					"gid"		"4781037281995691797"
-					"size"		"7457371762"
-					"download"		"1949307184"
+					"gid"		"8129684670582241660"
+					"size"		"8222263886"
+					"download"		"2016050144"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"alpha"
 				{
-					"gid"		"E6F26AE347FF83E0EE642C8D88A9B790"
-					"size"		"D8233E7B42E0C854BFD184EA00145709"
-					"download"		"15B0698D0D0EA10163613EF76735A34D"
+					"gid"		"8800A734B1AC7337DA6EF8A9111B9289"
+					"size"		"31D6CE2E4A38902986572DF9D4A6464B"
+					"download"		"006D916C2E79D4F604E3D0EF3D743E42"
 				}
 				"alphadebug"
 				{
-					"gid"		"758ED868354D19665D1E5B44E390AD84"
-					"size"		"C7C84031FD71A9D8754B45F7961F9FAC"
-					"download"		"25CF0A2EA514BAD10D3DC7198B438529"
+					"gid"		"A1F51E8E42D7E0AD0143FF6CB67C3888"
+					"size"		"444EA6EB82280F32835CEA2BA59D41FB"
+					"download"		"8DE28F1505725383B79045FF2D4BB5F1"
 				}
 				"alphasave"
 				{
-					"gid"		"D04E28CA11607DB5AB51EBE85A298BA0"
-					"size"		"4C82F744A4FF8DF0C5AD6A58D51D27C4"
-					"download"		"AE744FA8DDB1FC15E19A3181BD485F49"
+					"gid"		"E905D6611F20C8349CD94BEC39920812"
+					"size"		"84E0EB9327E3DF283D0F252BBDBDFB59"
+					"download"		"A710B4D58F1D292443CA42084C72E1CA"
 				}
 				"beta"
 				{
@@ -279,36 +280,35 @@
 			"config"
 			{
 				"oslist"		"macos"
-				"language"		""
 			}
 			"manifests"
 			{
 				"public"
 				{
-					"gid"		"4762054332344362226"
-					"size"		"7465095370"
-					"download"		"1951066432"
+					"gid"		"2007333289375238556"
+					"size"		"7449327219"
+					"download"		"1946630960"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"alpha"
 				{
-					"gid"		"E33E4B7B76F8383BE8AA08D328A7C700"
-					"size"		"2758758DFE64DC806359B6E36B2068DA"
-					"download"		"8580DC9716066C8168622D612887AF56"
+					"gid"		"E6B15ED26BAFB1B1F0831940F337C098"
+					"size"		"7B3CFB1D8F0D491267BEE74E9C04CE34"
+					"download"		"7DB87FF8896DF5EF3399DCAC411B2F27"
 				}
 				"alphadebug"
 				{
-					"gid"		"B30A092D2D85B0A8C75941D2832AF795"
-					"size"		"8B2010DF675694583A4706D5D3F34C7B"
-					"download"		"7C308E8A6A64B10E47144BDB915A67C5"
+					"gid"		"FA4AD68740880F43E747816F18F6B30A"
+					"size"		"9FB3F083696C62D655B83BCA3A1F4F5B"
+					"download"		"D07F628BECFD9D8478AF88E4FBB87B7B"
 				}
 				"alphasave"
 				{
-					"gid"		"82E1AB9920379C2423C2CF49D73DE361"
-					"size"		"6712F692213EDC7BAD5A65AF4339BFB1"
-					"download"		"9F002BE16A81C1110F9E491D83CAA14F"
+					"gid"		"3BAC48B52DF46A5E427F7EB2A2903365"
+					"size"		"7D1BAEC198925D3C37FF835794A1D74D"
+					"download"		"B9C9CB70009EA7B27961FA0667102243"
 				}
 				"beta"
 				{
@@ -330,30 +330,46 @@
 				}
 			}
 		}
+		"2603730"
+		{
+			"dlcappid"		"2603730"
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"AD63B7F3150C6D243B9ED1DBFE1283C4"
+					"size"		"EB00B7FC802B1A5F695D38A4A14CC645"
+					"download"		"0BDD680835871F4787DF35E783D66C52"
+				}
+			}
+		}
 		"branches"
 		{
 			"public"
 			{
-				"buildid"		"11547485"
-				"timeupdated"		"1687752645"
+				"buildid"		"12484037"
+				"timeupdated"		"1698020279"
 			}
 			"alpha"
 			{
-				"buildid"		"11547485"
+				"buildid"		"12485627"
 				"pwdrequired"		"1"
-				"timeupdated"		"1687553765"
+				"timeupdated"		"1697742214"
 			}
 			"alphadebug"
 			{
-				"buildid"		"11510546"
+				"buildid"		"12445439"
 				"pwdrequired"		"1"
-				"timeupdated"		"1687221610"
+				"timeupdated"		"1697400330"
 			}
 			"alphasave"
 			{
-				"buildid"		"11500760"
+				"buildid"		"12465335"
 				"pwdrequired"		"1"
-				"timeupdated"		"1687114312"
+				"timeupdated"		"1697574766"
 			}
 			"beta"
 			{
