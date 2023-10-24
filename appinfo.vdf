@@ -33,15 +33,35 @@
 		}
 		"steam_deck_compatibility"
 		{
-			"category"		"1"
-			"test_timestamp"		"1651795200"
-			"tested_build_id"		"8465203"
+			"category"		"2"
+			"test_timestamp"		"1695168000"
+			"tested_build_id"		"12069350"
 			"tests"
 			{
 				"0"
 				{
-					"display"		"2"
-					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DeviceCompatibilityWarningsShown"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 				}
 			}
 			"configuration"
@@ -60,6 +80,7 @@
 			}
 		}
 		"metacritic_name"		"The Riftbreaker"
+		"controllertagwizard"		"1"
 		"controller_support"		"full"
 		"small_capsule"
 		{
@@ -83,7 +104,7 @@
 				"height_pct"		"90.09880113259834"
 			}
 		}
-		"store_asset_mtime"		"1687786143"
+		"store_asset_mtime"		"1695898108"
 		"associations"
 		{
 			"0"
@@ -308,9 +329,9 @@
 			{
 				"public"
 				{
-					"gid"		"2789210460852198904"
-					"size"		"9163749613"
-					"download"		"8703150448"
+					"gid"		"6147750213295488405"
+					"size"		"9181210080"
+					"download"		"8711589632"
 				}
 			}
 			"encryptedmanifests"
@@ -329,15 +350,15 @@
 				}
 				"amd_tech"
 				{
-					"gid"		"FEF96D22EE803ECD3284C0477D816F01"
-					"size"		"50CC680D576789AD35C73C7E7B892B2B"
-					"download"		"2BD801596E04B48402B5C4E92F6C000F"
+					"gid"		"E9D891FFE9D5BDD227A611C43CEA29F6"
+					"size"		"3D9A228ECB07F91E49626F7C5400D88B"
+					"download"		"F85328FDC9F6D35F91092296A39B4DCA"
 				}
 				"beta_dev"
 				{
-					"gid"		"C6222AC75F4278BA4C778F57F6BA4D26"
-					"size"		"90D28559D8E714B1977E6464CFE2BDAB"
-					"download"		"A2D5C9362E568A29E69D50E2A9898152"
+					"gid"		"1725CE8E517A22F4C66E6D1B61D26D14"
+					"size"		"FFCA74E9445D145DC682695E2BCD142A"
+					"download"		"B2F4C6025009F70921A645C47A399A28"
 				}
 				"beta_dev_multiplayer"
 				{
@@ -347,9 +368,9 @@
 				}
 				"closed_beta"
 				{
-					"gid"		"404AB7025BBA7F7488032A0405C6A555"
-					"size"		"9FBDE59EAAF6588CE9E3E407E7488520"
-					"download"		"7D2C8C11446BA570E8D0301C29484E82"
+					"gid"		"C2A59E7C1361192F9FB4DF2D7A5115B5"
+					"size"		"E604BF4B06EA7C9AA1AE24FF0D808B88"
+					"download"		"1CC8AD7C56FE7517B429EE58536A8FDA"
 				}
 				"e3_2019_demo"
 				{
@@ -359,9 +380,9 @@
 				}
 				"experimental"
 				{
-					"gid"		"B51C8F54110CB80E51E9589E6CCD1CE3"
-					"size"		"C8DD3B4FDE086EC5624FA59217CFE5B4"
-					"download"		"E1D3407AD3F77F34220CE1B35632D466"
+					"gid"		"954D518ACED3774D82FE17CA9E100CB3"
+					"size"		"D49790802BFFC3ADF60F2D7E53022B8B"
+					"download"		"C62C3CAF2BE447D6E39CA47470D99F46"
 				}
 				"gamescom_2019_demo"
 				{
@@ -377,15 +398,15 @@
 				}
 				"intel_tech"
 				{
-					"gid"		"86FEB480FDD9BFC1F378E05DD4ACC852"
-					"size"		"4E2C5DA6ED230DF19560154CAC3905F1"
-					"download"		"E256C63DE87E36F1FB0B98706A440391"
+					"gid"		"93E42CE812A59A3EB90203D56E5BBBDB"
+					"size"		"105AA9279DDEFC7E500F979BFCF649A7"
+					"download"		"A969EB4EB7AF547FD4236A4782CAB7B0"
 				}
 				"nvidia_tech"
 				{
-					"gid"		"0F5380B447F947D3A19BDC826B5A0585"
-					"size"		"F4149E2A4BDE638E0C7BA166CDEA0F1D"
-					"download"		"D022277BB9AF4BC84134450E04BA4FD6"
+					"gid"		"FEC084B3CAB9B5E29FD9CC19A45A57E3"
+					"size"		"806FE513A6C296D3A29B69201E0261EF"
+					"download"		"093CCEDF172D6E292DFD65363FBA624B"
 				}
 				"pax_2019_demo"
 				{
@@ -413,9 +434,9 @@
 				}
 				"thirdparty_testing"
 				{
-					"gid"		"DE1B61DA06222B3C101569F6E3911FDB"
-					"size"		"32E1BA4EC091B3916953406455609485"
-					"download"		"0BD68C62C2AB48C26251A6F063384E6A"
+					"gid"		"C866C8B49C9960B0FF63F0E58B67295F"
+					"size"		"BADE2FFC1353B7763BC3529933AE9964"
+					"download"		"366E9AC34C38DD4889F5F3B813B8ED6D"
 				}
 			}
 		}
@@ -563,8 +584,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12068350"
-				"timeupdated"		"1693405015"
+				"buildid"		"12393057"
+				"timeupdated"		"1698146651"
 			}
 			"alpha2"
 			{
@@ -580,15 +601,15 @@
 			}
 			"amd_tech"
 			{
-				"buildid"		"12068350"
+				"buildid"		"12393057"
 				"pwdrequired"		"1"
-				"timeupdated"		"1693405110"
+				"timeupdated"		"1698146670"
 			}
 			"beta_dev"
 			{
-				"buildid"		"12068350"
+				"buildid"		"12393057"
 				"pwdrequired"		"1"
-				"timeupdated"		"1693399017"
+				"timeupdated"		"1696858325"
 			}
 			"beta_dev_multiplayer"
 			{
@@ -598,9 +619,9 @@
 			}
 			"closed_beta"
 			{
-				"buildid"		"12068350"
+				"buildid"		"12393057"
 				"pwdrequired"		"1"
-				"timeupdated"		"1693405120"
+				"timeupdated"		"1698146684"
 			}
 			"e3_2019_demo"
 			{
@@ -610,9 +631,9 @@
 			}
 			"experimental"
 			{
-				"buildid"		"12068350"
+				"buildid"		"12393057"
 				"pwdrequired"		"1"
-				"timeupdated"		"1693405051"
+				"timeupdated"		"1698146705"
 			}
 			"gamescom_2019_demo"
 			{
@@ -628,15 +649,15 @@
 			}
 			"intel_tech"
 			{
-				"buildid"		"12068350"
+				"buildid"		"12393057"
 				"pwdrequired"		"1"
-				"timeupdated"		"1693405132"
+				"timeupdated"		"1698146744"
 			}
 			"nvidia_tech"
 			{
-				"buildid"		"12068350"
+				"buildid"		"12393057"
 				"pwdrequired"		"1"
-				"timeupdated"		"1693405146"
+				"timeupdated"		"1698146755"
 			}
 			"pax_2019_demo"
 			{
@@ -664,9 +685,9 @@
 			}
 			"thirdparty_testing"
 			{
-				"buildid"		"12068350"
+				"buildid"		"12393057"
 				"pwdrequired"		"1"
-				"timeupdated"		"1693405155"
+				"timeupdated"		"1698146771"
 			}
 		}
 	}
