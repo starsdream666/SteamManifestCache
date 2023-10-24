@@ -29,20 +29,20 @@
 		"osextended"		""
 		"steam_deck_compatibility"
 		{
-			"category"		"2"
-			"test_timestamp"		"1691798400"
-			"tested_build_id"		"11788864"
+			"category"		"3"
+			"test_timestamp"		"1697673600"
+			"tested_build_id"		"12404820"
 			"tests"
 			{
 				"0"
 				{
-					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 				}
 				"1"
 				{
 					"display"		"4"
-					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
 				}
 				"2"
 				{
@@ -61,7 +61,7 @@
 				"requires_manual_keyboard_invoke"		"0"
 				"requires_non_controller_launcher_nav"		"0"
 				"primary_player_is_controller_slot_0"		"0"
-				"non_deck_display_glyphs"		"1"
+				"non_deck_display_glyphs"		"0"
 				"small_text"		"0"
 				"requires_internet_for_setup"		"0"
 				"requires_internet_for_singleplayer"		"0"
@@ -204,9 +204,9 @@
 			"4"		"5186"
 			"5"		"5395"
 			"6"		"1710"
-			"7"		"5923"
+			"7"		"21"
 			"8"		"4106"
-			"9"		"21"
+			"9"		"5923"
 			"10"		"3968"
 			"11"		"4166"
 			"12"		"5094"
@@ -301,9 +301,9 @@
 			{
 				"public"
 				{
-					"gid"		"2648518578298662596"
-					"size"		"15347663095"
-					"download"		"6043068272"
+					"gid"		"3086948026555098456"
+					"size"		"15347663063"
+					"download"		"6043060960"
 				}
 				"v1.0.5"
 				{
@@ -388,9 +388,9 @@
 				}
 				"release_build"
 				{
-					"gid"		"7A47D74CB381C90A40EB250EE6ED4EC7"
-					"size"		"6C1C5E79DE55EEAD1D78A938533F27B3"
-					"download"		"941B0B2E62BC9FE49241A364A39B598C"
+					"gid"		"B8470238B79DA0A7414F5D0E7A85800A"
+					"size"		"8323D4085AA08039EEF772E55AD1ECD7"
+					"download"		"C0A443D7FBF0B4C7F9443BE6FCFBCF4D"
 				}
 				"release_preview"
 				{
@@ -400,9 +400,9 @@
 				}
 				"release_qa"
 				{
-					"gid"		"C127B670B4A346400E8D71C4C5ECB9BE"
-					"size"		"90BC4CCE398605E9956ACD821F338BD1"
-					"download"		"355A08D548BAD6C130C91658A9FB77D6"
+					"gid"		"C9253DD6B6220A0950965A408C81FAAC"
+					"size"		"424E7EAEE8292C2CC48F4AFB6F0B238F"
+					"download"		"5057436344F4FBD3A153C2C18F82E6C9"
 				}
 				"stable"
 				{
@@ -412,9 +412,9 @@
 				}
 				"stable_build"
 				{
-					"gid"		"CB43A8FED8A5A25C30EB44F69CA5C543"
-					"size"		"689BB28CF6544B93EBDD4BB96DE59B59"
-					"download"		"40237D93ADA769F98A774257CF521AC3"
+					"gid"		"3DD5DBF13F9BFFB0BC301F3C747B5D3B"
+					"size"		"B2AB4EA908C436B886D86C1648163F7D"
+					"download"		"307B4F1BBD4030A9794971C454ADE20E"
 				}
 				"stable_candidate"
 				{
@@ -424,9 +424,9 @@
 				}
 				"stable_qa"
 				{
-					"gid"		"D73D8011F5FDC91B51921B6DA88273ED"
-					"size"		"10ED99A7CCD938A6C9F4C7EBAE69752A"
-					"download"		"B0AFABF3F477E8C3C3E04BF80F40D6AD"
+					"gid"		"6935B7402B87271894909A820BA7B53D"
+					"size"		"530346EA18EB7B63AFA1CDA9739EE1E9"
+					"download"		"A5D05851C0FD038D602CF64DA747B4B1"
 				}
 				"trailer"
 				{
@@ -442,9 +442,9 @@
 				}
 				"unstable_dayone"
 				{
-					"gid"		"C011D7C6A7EB38E7B044011A00BAE904"
-					"size"		"CEFE2A4DEA29C9F5DAF5CC847831C4A3"
-					"download"		"8860BD0D82E38E30B0536B6FC0360C16"
+					"gid"		"D2D9A3B78890D24213F25C5B414C5A4E"
+					"size"		"D9C7F2E5ECB83B475012D8B861B701C4"
+					"download"		"6F5851F0F062B94F94866D75C5035C0F"
 				}
 				"vfplaytest"
 				{
@@ -458,8 +458,8 @@
 		{
 			"public"
 			{
-				"buildid"		"11788864"
-				"timeupdated"		"1690803349"
+				"buildid"		"12404820"
+				"timeupdated"		"1698139947"
 			}
 			"alpha"
 			{
@@ -535,9 +535,9 @@
 			}
 			"release_build"
 			{
-				"buildid"		"11803092"
+				"buildid"		"12404820"
 				"pwdrequired"		"1"
-				"timeupdated"		"1690471516"
+				"timeupdated"		"1696951837"
 			}
 			"release_preview"
 			{
@@ -547,9 +547,9 @@
 			}
 			"release_qa"
 			{
-				"buildid"		"11788864"
+				"buildid"		"12404820"
 				"pwdrequired"		"1"
-				"timeupdated"		"1690378046"
+				"timeupdated"		"1697024511"
 			}
 			"stable"
 			{
@@ -559,9 +559,9 @@
 			}
 			"stable_build"
 			{
-				"buildid"		"11803085"
+				"buildid"		"12404781"
 				"pwdrequired"		"1"
-				"timeupdated"		"1690471463"
+				"timeupdated"		"1696951609"
 			}
 			"stable_candidate"
 			{
@@ -571,9 +571,9 @@
 			}
 			"stable_qa"
 			{
-				"buildid"		"11788859"
+				"buildid"		"12404781"
 				"pwdrequired"		"1"
-				"timeupdated"		"1690378257"
+				"timeupdated"		"1697024525"
 			}
 			"trailer"
 			{
@@ -589,9 +589,9 @@
 			}
 			"unstable_dayone"
 			{
-				"buildid"		"11801562"
+				"buildid"		"12372205"
 				"pwdrequired"		"1"
-				"timeupdated"		"1690460499"
+				"timeupdated"		"1696579737"
 			}
 			"v1.0.5"
 			{
