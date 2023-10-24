@@ -1,0 +1,328 @@
+"appinfo"
+{
+	"appid"		"2131640"
+	"common"
+	{
+		"name"		"METAL GEAR SOLID 2: Sons of Liberty - Master Collection Version"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"spanish"		"1"
+			"japanese"		"1"
+		}
+		"name_localized"
+		{
+			"japanese"		"METAL GEAR SOLID 2 SONS OF LIBERTY (MASTER COLLECTION版)"
+		}
+		"icon"		"d36232c8ad04a966a24289948bc7a619c43f95b1"
+		"clienticon"		"7bf586be4f7f547edcaa4a9618df86db4d5f0eb7"
+		"clienttga"		"a652cef37772ee07bae1313a7bb5543bc579c96f"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"2131640_eula_0"
+				"name"		"METAL GEAR SOLID: MASTER COLLECTION Vol.1 METAL GEAR SOLID 2: Sons of Liberty EULA"
+				"url"		"https://store.steampowered.com//eula/2131640_eula_0"
+				"version"		"1"
+			}
+		}
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"2"
+			"2"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"has_adult_content_violence"		"1"
+		"controllertagwizard"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"58.401400233372236"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1688562741"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"KONAMI"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"KONAMI"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Metal Gear"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+			"category_55"		"1"
+			"category_60"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1698131317"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2131640"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"21"
+			"2"		"4106"
+			"3"		"1687"
+			"4"		"3814"
+			"5"		"3834"
+			"6"		"4191"
+			"7"		"4145"
+			"8"		"1697"
+			"9"		"1742"
+			"10"		"5984"
+			"11"		"4168"
+			"12"		"1678"
+			"13"		"1708"
+			"14"		"4667"
+			"15"		"4182"
+			"16"		"13276"
+			"17"		"1756"
+		}
+		"review_score"		"5"
+		"review_percentage"		"42"
+	}
+	"extended"
+	{
+		"developer"		"KONAMI"
+		"publisher"		"KONAMI"
+		"listofdlc"		"2314260,2314261"
+	}
+	"config"
+	{
+		"installdir"		"MGS2"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"launcher.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"13"
+	}
+	"depots"
+	{
+		"baselanguages"		"english,japanese"
+		"hasdepotsindlc"		"1"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2131642"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5915926012597222203"
+					"size"		"16423516188"
+					"download"		"12065611216"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"staging"
+				{
+					"gid"		"A6826047AB5FEB2B56F9487446C8F187"
+					"size"		"7DD67E9F33346DBBE403E1D09780743D"
+					"download"		"AA7363AA75E38F47CDFE4642A0DC719C"
+				}
+			}
+		}
+		"2131641"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5236431448056204510"
+					"size"		"16325887686"
+					"download"		"12041176976"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"staging"
+				{
+					"gid"		"2EB37321879B122C63004C22C7F12881"
+					"size"		"4E0C248FA186B3AFD95A9693BC8B3A4C"
+					"download"		"4105938D975F3C75C188F66D8BB8ACFF"
+				}
+			}
+		}
+		"2314260"
+		{
+			"dlcappid"		"2314260"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8894992228688380475"
+					"size"		"7082693787"
+					"download"		"6032434192"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"staging"
+				{
+					"gid"		"1A5384B2329FD018643FC05352B45B13"
+					"size"		"A60D913DF332BA4414BFAD8EE8CAD597"
+					"download"		"25AFD9419C9E0F2D81EC52F9685E2AE1"
+				}
+			}
+			"config"
+			{
+				"optionaldlc"		"2314260"
+			}
+		}
+		"2314261"
+		{
+			"dlcappid"		"2314261"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3468824289777474826"
+					"size"		"7180322289"
+					"download"		"6056376272"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"staging"
+				{
+					"gid"		"04C1BEFECEA13D82025AD44D776A60F8"
+					"size"		"429C172D010FB6C6B4F63C8BAEFED917"
+					"download"		"2C8C6E6BA597EC0C7F0EF6FDED53F40F"
+				}
+			}
+			"config"
+			{
+				"optionaldlc"		"2314261"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12490681"
+				"timeupdated"		"1698048085"
+			}
+			"staging"
+			{
+				"buildid"		"12490681"
+				"pwdrequired"		"1"
+				"timeupdated"		"1697790653"
+			}
+		}
+		"appmanagesdlc"		"1"
+	}
+}
