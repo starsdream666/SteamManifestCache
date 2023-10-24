@@ -214,13 +214,41 @@
 				}
 				"description"		"32Bit"
 			}
+			"4"
+			{
+				"executable"		"ChronoArk.exe"
+				"config"
+				{
+					"betakey"		"oldversion"
+				}
+				"description_loc"
+				{
+					"english"		"ForOldVersion (Must Need Save File Backup)"
+				}
+				"description"		"ForOldVersion (Must Need Save File Backup)"
+			}
+			"5"
+			{
+				"executable"		"ChronoArk.exe"
+				"config"
+				{
+					"betakey"		"1.42version"
+				}
+				"description_loc"
+				{
+					"english"		"ForOldVersion (Must Need Save File Backup)"
+				}
+				"description"		"ForOldVersion (Must Need Save File Backup)"
+			}
 		}
 		"steamcontrollertemplateindex"		"4"
 		"steamdecktouchscreen"		"1"
-		"steamconfigurator3rdpartynative"		"2"
+		"steamconfigurator3rdpartynative"		"65535"
 	}
 	"depots"
 	{
+		"baselanguages"		"english"
+		"workshopdepot"		"1188930"
 		"228990"
 		{
 			"config"
@@ -239,42 +267,60 @@
 			"depotfromapp"		"228980"
 			"sharedinstall"		"1"
 		}
-		"baselanguages"		"english"
 		"1188931"
 		{
-			"config"
-			{
-				"language"		""
-			}
 			"manifests"
 			{
 				"public"
 				{
-					"gid"		"2188042704373114167"
-					"size"		"6990737544"
-					"download"		"4626932080"
+					"gid"		"4876743110773733904"
+					"size"		"7185388621"
+					"download"		"5118065872"
 				}
-				"beta"
+				"1.42version"
 				{
-					"gid"		"98263986516988646"
-					"size"		"7172850214"
-					"download"		"5118117232"
+					"gid"		"7848386646008608882"
+					"size"		"2713588347"
+					"download"		"727957296"
+				}
+				"oldversion"
+				{
+					"gid"		"7093871576950937671"
+					"size"		"2330963343"
+					"download"		"561148272"
 				}
 			}
 		}
-		"workshopdepot"		"1188930"
+		"1188932"
+		{
+			"manifests"
+			{
+				"1.42version"
+				{
+					"gid"		"6956304823553428052"
+					"size"		"2713588219"
+					"download"		"727449776"
+				}
+			}
+		}
 		"branches"
 		{
 			"public"
 			{
-				"buildid"		"12494055"
-				"timeupdated"		"1697813250"
+				"buildid"		"12519361"
+				"timeupdated"		"1698139295"
 			}
-			"beta"
+			"1.42version"
 			{
-				"buildid"		"12493543"
-				"description"		"Beta Test Build"
-				"timeupdated"		"1697809835"
+				"buildid"		"5390237"
+				"description"		"Warning!!! Must Need SaveFile Backup!"
+				"timeupdated"		"1698075140"
+			}
+			"oldversion"
+			{
+				"buildid"		"4537250"
+				"description"		"Warning!!! Must Need SaveFile Backup!"
+				"timeupdated"		"1698068934"
 			}
 		}
 	}
