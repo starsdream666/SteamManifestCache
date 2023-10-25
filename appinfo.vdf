@@ -17,6 +17,8 @@
 			"english"		"1"
 			"russian"		"1"
 		}
+		"osarch"		""
+		"osextended"		""
 		"steam_deck_compatibility"
 		{
 			"category"		"3"
@@ -200,7 +202,6 @@
 			"config"
 			{
 				"language"		"english"
-				"oslist"		"windows"
 			}
 			"manifests"
 			{
@@ -223,8 +224,15 @@
 		}
 		"983500"
 		{
+			"dlcappid"		"983500"
 			"manifests"
 			{
+				"public"
+				{
+					"gid"		"4138855055126059693"
+					"size"		"17173434"
+					"download"		"14542528"
+				}
 			}
 			"encryptedmanifests"
 			{
@@ -235,14 +243,13 @@
 					"download"		"9A350C748D4EE74C235670CE9504E714"
 				}
 			}
-			"dlcappid"		"983500"
 		}
 		"branches"
 		{
 			"public"
 			{
-				"buildid"		"1060242"
-				"timeupdated"		"1459942407"
+				"buildid"		"12530001"
+				"timeupdated"		"1698226850"
 			}
 			"alpha"
 			{
