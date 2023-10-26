@@ -70,12 +70,15 @@
 			}
 		}
 		"metacritic_name"		"A Perfect Day"
+		"controllertagwizard"		"1"
+		"controller_support"		"partial"
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
 			"sc_schinese"		"capsule_231x87_sc_schinese.jpg"
 			"schinese"		"capsule_231x87_schinese.jpg"
 			"japanese"		"capsule_231x87_japanese.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
 		}
 		"header_image"
 		{
@@ -83,12 +86,13 @@
 			"english"		"header.jpg"
 			"sc_schinese"		"header_sc_schinese.jpg"
 			"japanese"		"header_japanese.jpg"
+			"tchinese"		"header_tchinese.jpg"
 		}
 		"library_assets"
 		{
-			"library_capsule"		"en,zh-cn,zh-xc,ja"
+			"library_capsule"		"en,zh-cn,zh-xc,ja,zh-tw"
 			"library_hero"		"en,zh-xc,zh-cn,ja"
-			"library_logo"		"en,zh-xc,zh-cn,ja"
+			"library_logo"		"en,zh-xc,zh-cn,ja,zh-tw"
 			"logo_position"
 			{
 				"pinned_position"		"BottomLeft"
@@ -96,7 +100,7 @@
 				"height_pct"		"70.93824813963413"
 			}
 		}
-		"store_asset_mtime"		"1683701617"
+		"store_asset_mtime"		"1697682640"
 		"associations"
 		{
 			"0"
@@ -130,12 +134,30 @@
 			"category_22"		"1"
 			"category_23"		"1"
 			"category_29"		"1"
+			"category_18"		"1"
 		}
 		"supported_languages"
 		{
 			"schinese"
 			{
 				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
 				"subtitles"		"true"
 			}
 		}
@@ -202,6 +224,10 @@
 		{
 			"steam_china_enable_duration_control"		"1"
 		}
+		"steamcontrollertemplateindex"		"4"
+		"steamcontrollertouchtemplateindex"		"8"
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"65528"
 	}
 	"depots"
 	{
@@ -229,9 +255,9 @@
 			"steam_china_only"
 			{
 				"sc_schinese"		"Steam China Only"
-				"buildid"		"8212545"
+				"buildid"		"12532968"
 				"pwdrequired"		"1"
-				"timeupdated"		"1645022976"
+				"timeupdated"		"1698290479"
 			}
 			"1.0.0bugfix"
 			{
@@ -283,9 +309,6 @@
 			"1.0.1patch6"
 			{
 				"sc_schinese"		"1.0.1patch6"
-				"buildid"		"8291151"
-				"pwdrequired"		"1"
-				"timeupdated"		"1646107372"
 			}
 			"1.0.2"
 			{
@@ -306,9 +329,6 @@
 			"1.0.2patch4"
 			{
 				"sc_schinese"		"1.0.2patch4"
-				"buildid"		"8376438"
-				"pwdrequired"		"1"
-				"timeupdated"		"1647361833"
 			}
 			"experimental"
 			{
@@ -320,16 +340,10 @@
 			"1.0.3"
 			{
 				"sc_schinese"		"1.0.3"
-				"buildid"		"8409154"
-				"pwdrequired"		"1"
-				"timeupdated"		"1647861608"
 			}
 			"1.0.4"
 			{
 				"sc_schinese"		"1.0.4"
-				"buildid"		"8458085"
-				"pwdrequired"		"1"
-				"timeupdated"		"1648553144"
 			}
 			"1.1.0"
 			{
@@ -352,9 +366,6 @@
 			"1.2.0preview"
 			{
 				"sc_schinese"		"1.2.0preview"
-				"buildid"		"8874596"
-				"pwdrequired"		"1"
-				"timeupdated"		"1654415035"
 			}
 			"1.1.1patch1"
 			{
@@ -373,9 +384,6 @@
 			"1.1.3"
 			{
 				"sc_schinese"		"1.1.3"
-				"buildid"		"8969337"
-				"pwdrequired"		"1"
-				"timeupdated"		"1655706254"
 			}
 			"1.1.3patch1"
 			{
@@ -433,10 +441,48 @@
 				"pwdrequired"		"1"
 				"timeupdated"		"1669977709"
 			}
+			"1.3.0"
+			{
+				"sc_schinese"		"1.3.0"
+				"buildid"		"12501055"
+				"pwdrequired"		"1"
+				"timeupdated"		"1697902765"
+			}
+			"1.3.0preview"
+			{
+				"sc_schinese"		"1.3.0preview"
+				"buildid"		"12478591"
+				"pwdrequired"		"1"
+				"timeupdated"		"1697688185"
+			}
 			"public"
 			{
-				"buildid"		"9347305"
-				"timeupdated"		"1660909706"
+				"buildid"		"12532968"
+				"timeupdated"		"1698290459"
+			}
+			"1.3.0debug"
+			{
+				"buildid"		"12468016"
+				"pwdrequired"		"1"
+				"timeupdated"		"1697902721"
+			}
+			"1.3.0hotfix1"
+			{
+				"buildid"		"12532968"
+				"pwdrequired"		"1"
+				"timeupdated"		"1698246524"
+			}
+			"1.3.0rc2debug"
+			{
+				"buildid"		"12506842"
+				"pwdrequired"		"1"
+				"timeupdated"		"1698023297"
+			}
+			"1.3.0rc2release"
+			{
+				"buildid"		"12521572"
+				"pwdrequired"		"1"
+				"timeupdated"		"1698154319"
 			}
 			"closebeta"
 			{
@@ -467,9 +513,9 @@
 			{
 				"public"
 				{
-					"gid"		"7330008611887251422"
-					"size"		"1438375262"
-					"download"		"1191051456"
+					"gid"		"8652998814288729750"
+					"size"		"1664446591"
+					"download"		"1400517680"
 				}
 			}
 			"encryptedmanifests"
@@ -479,30 +525,6 @@
 					"gid"		"0B4438006A60207E54A0E5092258C272"
 					"size"		"196DF634762FD1D87BDCE9109DF69C95"
 					"download"		"56D0F3CDC661AD8308FDD5FF8D975C56"
-				}
-				"1.0.1patch6"
-				{
-					"gid"		"5B8D83BD33A4C97F16F1E28CEF833F61"
-					"size"		"1EA8628E45EA660975C368F1435F7D9F"
-					"download"		"059C3947BF177DD973194C8E90FCE8CF"
-				}
-				"1.0.2patch4"
-				{
-					"gid"		"2AE29D13E15CA6122E37F0D7082B257C"
-					"size"		"94260850CCF0DEEF965A122A9B727306"
-					"download"		"9ED89F6600173F1CE3948BCDC068DC23"
-				}
-				"1.0.3"
-				{
-					"gid"		"C92C62E99FC1BC5A29D821734F6952F7"
-					"size"		"CEB6BD91EB177108C6F64B9363EBAB4A"
-					"download"		"6AF16EF0CECA39A62F314D4986CDA037"
-				}
-				"1.0.4"
-				{
-					"gid"		"5876CB43178A3CCC5B81D4BDDF834FA8"
-					"size"		"ADAD582B39F84CA72B221D764207DB94"
-					"download"		"CE0C1CF6D73FBD6852529C87E315204D"
 				}
 				"1.1.0"
 				{
@@ -515,12 +537,6 @@
 					"gid"		"B2FACD6662496652E0188F5BA3BBD9E5"
 					"size"		"BB7201EADA7BF8D51D2CF530568AC68C"
 					"download"		"1DAF3F22574DC6E5D7C11BFC3BB5C02D"
-				}
-				"1.1.3"
-				{
-					"gid"		"3D7591A76676B31C27663C50028E90DB"
-					"size"		"FE2A1EBE811AC8C061B183EA637548FA"
-					"download"		"47626DCB272CF10848AF8D032AF32791"
 				}
 				"1.1.3patch1"
 				{
@@ -539,12 +555,6 @@
 					"gid"		"4E9547F8B56632A96143FFF9B79FA6DA"
 					"size"		"1C97E02BA1DD93227FA91B2E176272BE"
 					"download"		"60E1691605779A6C181CBAF07DF6D9A0"
-				}
-				"1.2.0preview"
-				{
-					"gid"		"93ED77601473815BAF9AE21933DFE0E8"
-					"size"		"B35727DA5DA215779CA0F3DFE8AC3F8C"
-					"download"		"B264E2449ABD313B07E392B33B451229"
 				}
 				"1.2.1"
 				{
@@ -569,6 +579,42 @@
 					"gid"		"B17CEC0AB693D684A0D46DB6AC2FEE63"
 					"size"		"1BC26B8D8921820AFBEE89459C7D8B70"
 					"download"		"FFDEF0FE3CBA6D6808CBAFDF03BA2EB1"
+				}
+				"1.3.0"
+				{
+					"gid"		"50A5244A5FB83E739E75B555B8D2A470"
+					"size"		"02E0A25A5497D5629E6256A2BA560FA3"
+					"download"		"EE5BD90E6D922146CCDD8C957AD2E3ED"
+				}
+				"1.3.0debug"
+				{
+					"gid"		"7330AD688EB991738B04124795CD0AD9"
+					"size"		"9311F9ACBC1B83A4FDD6F1934ECB2E94"
+					"download"		"2E153B10B02E46840296CA3D6D065EC6"
+				}
+				"1.3.0hotfix1"
+				{
+					"gid"		"A9CC796423B2520B9774ABC05E2BD33C"
+					"size"		"A332715CC3C26AACD578145BEF80E93D"
+					"download"		"9D0348518A3A09635EB6C1DB5959EDA1"
+				}
+				"1.3.0preview"
+				{
+					"gid"		"28D75A40163A7FC35A41E7B8E87A193A"
+					"size"		"BF4FE6531D08766092375B9DFA27C0C4"
+					"download"		"47AE4D4A4FEAD0408AC8C48CE6E3147F"
+				}
+				"1.3.0rc2debug"
+				{
+					"gid"		"05E04207E4F7077A2217F085D1352B0A"
+					"size"		"865C3702EC840F9D2D6953D3F42D872A"
+					"download"		"B96E4EE9E79F4FC19ABBA8BD841A15A1"
+				}
+				"1.3.0rc2release"
+				{
+					"gid"		"CE8D0D7628B04DD654EA408B7FD87363"
+					"size"		"1C3472A2F1EA02062A36743EA25C37BC"
+					"download"		"E87F00D1DB9BB10AE4F8173CE31E5E24"
 				}
 				"closebeta"
 				{
@@ -608,9 +654,9 @@
 				}
 				"steam_china_only"
 				{
-					"gid"		"95298655EEFC32E4322B75CF07778F81"
-					"size"		"E8D199EAA0EE2A2364430FF6AC2EEC52"
-					"download"		"6E1DD263A1A886FCA5766A4C141E049C"
+					"gid"		"64640711B38E1DAC6A2873A88AD7467B"
+					"size"		"4239FAF7203A386D069BDD38B3F0D98A"
+					"download"		"12C75F86C446B4BFD8C01005F733F245"
 				}
 				"test"
 				{
@@ -630,9 +676,9 @@
 			{
 				"public"
 				{
-					"gid"		"1129039305694104996"
-					"size"		"1410886351"
-					"download"		"1185506288"
+					"gid"		"372356529316181623"
+					"size"		"1769989622"
+					"download"		"1513491648"
 				}
 			}
 			"encryptedmanifests"
@@ -642,30 +688,6 @@
 					"gid"		"376DAD3C2A954A74D0B81E21C11D058F"
 					"size"		"CAFB46A156433901151ACCFD9930F265"
 					"download"		"7BC621BAC745CF7AB34E79439A260C97"
-				}
-				"1.0.1patch6"
-				{
-					"gid"		"8C078762365BD38B49CE648648C78BA7"
-					"size"		"87B7CCEBD5424CDE5E0CBE32E7F92242"
-					"download"		"F24EA3677555272F6E7A5DCF219AF3B2"
-				}
-				"1.0.2patch4"
-				{
-					"gid"		"D295A3B512C3BDE52EE5227B4592516C"
-					"size"		"A3033755601D986A9C200C2F560D50FE"
-					"download"		"2A46E0FE24CF30EF85B478F76B592443"
-				}
-				"1.0.3"
-				{
-					"gid"		"0195C2B43E5650C27F7020AC56F4D710"
-					"size"		"5CFBFCF98A24ABA35234F256F687BBCD"
-					"download"		"CEDF0F76C7A31675375AE41D812E73E5"
-				}
-				"1.0.4"
-				{
-					"gid"		"108E4836D90287A049976E540AAD9FDD"
-					"size"		"3306537913FAEBDCE7C234340E4EC64D"
-					"download"		"3D6AFFDB2D95B288D750C5C3167CDC7D"
 				}
 				"1.1.0"
 				{
@@ -678,12 +700,6 @@
 					"gid"		"A776A8AC695A452FC4E9AA0DBC6F021F"
 					"size"		"55F9EB4F6A735F9DDC0D2BCACE88934D"
 					"download"		"B445DA6DFD4B8C845E1A1A7E2B775CAD"
-				}
-				"1.1.3"
-				{
-					"gid"		"1FAFB0C6FFE41EE65143F86C1FB3E662"
-					"size"		"3DF6CDA57851B6AB4748C12E05CBCA0C"
-					"download"		"B4A231AAEA6556F3422BB62E81A566D0"
 				}
 				"1.1.3patch1"
 				{
@@ -702,12 +718,6 @@
 					"gid"		"272008175A7949C8F31B52B52034D3C4"
 					"size"		"C72D812B4CCB92F53C707A19E4127D0A"
 					"download"		"2D804EA8B67678EC1AE712B8717CE2BA"
-				}
-				"1.2.0preview"
-				{
-					"gid"		"B581043649054CAD311E3D187B7BDB03"
-					"size"		"F7A85CC9FF1436BC0225CCD456D2D832"
-					"download"		"0233BD64E0498C6CE8FFA15932EA7FFF"
 				}
 				"1.2.1"
 				{
@@ -732,6 +742,42 @@
 					"gid"		"CB71675798872E7CD1A88B13038BFA0B"
 					"size"		"10BEBFBD27EC19F80523963726F02525"
 					"download"		"DC09B86D20B23580D426A35ACDF735B9"
+				}
+				"1.3.0"
+				{
+					"gid"		"E9E5CE2F3DE5D862463D2AA1CEDC9B7F"
+					"size"		"88BD31C41A9F5886DEC6D0D9D265D6C1"
+					"download"		"B70E25EF8C3777C901E97C2EFDAB9631"
+				}
+				"1.3.0debug"
+				{
+					"gid"		"8FDAC9BF12B4FFDA65373CCF2F114143"
+					"size"		"416A8BA8FE71749605EBBAFB2E7E7451"
+					"download"		"ED2EA75BDFFFEFFCF5B3381120F3A0DD"
+				}
+				"1.3.0hotfix1"
+				{
+					"gid"		"48797681FE085175ABAE596F4E7905FE"
+					"size"		"EB2656855B3DCA667BDFA77BE718A11E"
+					"download"		"360123A41525F39068D3DAEBBA127770"
+				}
+				"1.3.0preview"
+				{
+					"gid"		"D8FBF2CCF833E66D4CF271EF2988F888"
+					"size"		"FD39C687C50E2C1AFB05E60F6F09418A"
+					"download"		"B391FB0045CF7152B5D7CACE14A148E1"
+				}
+				"1.3.0rc2debug"
+				{
+					"gid"		"8A37584E32CAC89A714341758F336AEC"
+					"size"		"BD12B1CAC408EA4F4ED5FAD58E9C3CA9"
+					"download"		"F923100C4C2F41C1F9F9809346A34891"
+				}
+				"1.3.0rc2release"
+				{
+					"gid"		"AD10492AFB366B58C3675AE34E7FB8C2"
+					"size"		"C117838B572D2B6328D1F99EEBDCAD51"
+					"download"		"CD4905513F892DB04BEB4C3B68AC9FC5"
 				}
 				"closebeta"
 				{
@@ -771,9 +817,9 @@
 				}
 				"steam_china_only"
 				{
-					"gid"		"CD64C3C8BF01235FC53F12A169DDD469"
-					"size"		"1B2C9069F0CD4186B401CC6025A20722"
-					"download"		"1BEA034C1E1DC6C4CC6C1125891D6300"
+					"gid"		"102D180BC096CE5A98A212A4177B4208"
+					"size"		"C599F1CC08CA862FAF7C539169FDEE7D"
+					"download"		"74EE2C66A238A835CC8C10922E786753"
 				}
 				"test"
 				{
