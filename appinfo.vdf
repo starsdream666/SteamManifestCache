@@ -188,20 +188,20 @@
 		{
 			"0"		"1667"
 			"1"		"4345"
-			"2"		"3978"
-			"3"		"1721"
+			"2"		"1721"
+			"3"		"3978"
 			"4"		"4166"
 			"5"		"1664"
 			"6"		"3839"
 			"7"		"6650"
 			"8"		"4342"
-			"9"		"21"
-			"10"		"7432"
+			"9"		"7432"
+			"10"		"21"
 			"11"		"492"
 			"12"		"4182"
 			"13"		"1687"
-			"14"		"19"
-			"15"		"3834"
+			"14"		"3834"
+			"15"		"19"
 			"16"		"5900"
 			"17"		"3968"
 			"18"		"1710"
@@ -326,6 +326,7 @@
 	}
 	"depots"
 	{
+		"workshopdepot"		"57300"
 		"228983"
 		{
 			"config"
@@ -342,9 +343,9 @@
 			{
 				"public"
 				{
-					"gid"		"5889176161373409028"
-					"size"		"2470459749"
-					"download"		"1319981632"
+					"gid"		"2816460104685216467"
+					"size"		"2470988151"
+					"download"		"1319977472"
 				}
 				"achievement_beta"
 				{
@@ -442,9 +443,9 @@
 			{
 				"public"
 				{
-					"gid"		"5070332666970694004"
-					"size"		"37655171"
-					"download"		"12988928"
+					"gid"		"3548342042787046968"
+					"size"		"31590784"
+					"download"		"11230704"
 				}
 				"achievement_beta"
 				{
@@ -454,9 +455,9 @@
 				}
 				"public_beta"
 				{
-					"gid"		"8381709891023719496"
-					"size"		"63264387"
-					"download"		"21808352"
+					"gid"		"3548342042787046968"
+					"size"		"31590784"
+					"download"		"11230704"
 				}
 			}
 			"encryptedmanifests"
@@ -533,6 +534,7 @@
 		}
 		"98002"
 		{
+			"dlcappid"		"98002"
 			"manifests"
 			{
 				"public"
@@ -575,15 +577,35 @@
 					"download"		"0B3D14DDEAFDF0F50F67C760D4C85C02"
 				}
 			}
-			"dlcappid"		"98002"
 		}
-		"workshopdepot"		"57300"
+		"57305"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5757397230637410833"
+					"size"		"34735935"
+					"download"		"11314592"
+				}
+				"public_beta"
+				{
+					"gid"		"5757397230637410833"
+					"size"		"34735935"
+					"download"		"11314592"
+				}
+			}
+		}
 		"branches"
 		{
 			"public"
 			{
-				"buildid"		"11382430"
-				"timeupdated"		"1685728844"
+				"buildid"		"12531804"
+				"timeupdated"		"1698238972"
 			}
 			"achievement_beta"
 			{
@@ -605,9 +627,9 @@
 			}
 			"public_beta"
 			{
-				"buildid"		"12106252"
+				"buildid"		"12531804"
 				"description"		"Public total conversion support beta"
-				"timeupdated"		"1693841836"
+				"timeupdated"		"1698238946"
 			}
 			"steam_achievement"
 			{
