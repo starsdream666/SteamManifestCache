@@ -9,12 +9,13 @@
 		"logo"		"21b99630d2c0b972c5524e512aad506d35bb8503"
 		"logo_small"		"21b99630d2c0b972c5524e512aad506d35bb8503_thumb"
 		"icon"		"fa61ec8b8887cc6eb7aac1b386e200d50335bd96"
-		"oslist"		"windows,macos"
+		"oslist"		"windows,macos,linux"
 		"osarch"		""
 		"clienttga"		"616faf5c404734e0724ef99be1f326ed32f79aa8"
 		"clienticon"		"cc55614e16973ef522ad09977ddf27eacc0ee75c"
 		"osextended"		"macos64,macosapplesilicon,macosnotarized"
 		"clienticns"		"4f4a9e59f4818e59b2afb3a0616fdc9e93796e6c"
+		"linuxclienticon"		"15a8e823acf15e95b59184e105f3a52b4df0e260"
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
@@ -166,10 +167,21 @@
 					"oslist"		"macos"
 				}
 			}
+			"2"
+			{
+				"executable"		"sevenchambers_steam_linux_x64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
 		}
 	}
 	"depots"
 	{
+		"baselanguages"		"english,german,french,italian,spanish,dutch"
 		"228988"
 		{
 			"config"
@@ -238,19 +250,44 @@
 				}
 			}
 		}
-		"baselanguages"		"english,german,french,italian,spanish,dutch"
+		"984173"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7223542179501908307"
+					"size"		"636690143"
+					"download"		"571591296"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"51249D8E95F184D1D6681037414A5156"
+					"size"		"0D3D732F9A4810E8014A441C66DA6533"
+					"download"		"51619B44371BDFF4142FE08486DE0E1B"
+				}
+			}
+		}
 		"branches"
 		{
 			"public"
 			{
-				"buildid"		"11848954"
-				"timeupdated"		"1691053857"
+				"buildid"		"12523083"
+				"timeupdated"		"1698245043"
 			}
 			"development"
 			{
-				"buildid"		"11848954"
+				"buildid"		"12523083"
 				"pwdrequired"		"1"
-				"timeupdated"		"1690986137"
+				"timeupdated"		"1698164113"
 			}
 		}
 	}
