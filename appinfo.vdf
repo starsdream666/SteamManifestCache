@@ -1,0 +1,279 @@
+"appinfo"
+{
+	"appid"		"2287560"
+	"common"
+	{
+		"name"		"Vengeance of Mr. Peppermint"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64,macosapplesilicon"
+		"icon"		"d15d2173848d983d32b4bb906f9ae1daef1d44f7"
+		"clienticon"		"fc5554db9f360835e05d99a1cf7b12bcdd2d2b39"
+		"clienttga"		"4657cad78df34ab42bcccd82eaa75614a66a9e80"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"controllertagwizard"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1698071575"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Hack The Publisher"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Freedom Games"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+			"category_55"		"1"
+			"category_56"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1698076752"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2287560"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"4158"
+			"2"		"3964"
+			"3"		"3798"
+			"4"		"3871"
+			"5"		"21"
+			"6"		"4252"
+			"7"		"6915"
+			"8"		"6052"
+			"9"		"3916"
+			"10"		"3993"
+			"11"		"1646"
+			"12"		"7250"
+			"13"		"4182"
+			"14"		"4667"
+			"15"		"5228"
+			"16"		"4345"
+			"17"		"6378"
+			"18"		"5613"
+			"19"		"492"
+		}
+		"review_score"		"8"
+		"review_percentage"		"88"
+	}
+	"extended"
+	{
+		"developer"		"Hack The Publisher"
+		"publisher"		"Freedom Games"
+		"homepage"		"https://hack-the-publisher.com/vomp_pitch/"
+	}
+	"config"
+	{
+		"installdir"		"VOMP"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"VOMP.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"VOMP.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2287562"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7464700660467954478"
+					"size"		"1062731343"
+					"download"		"288023472"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"manual_hotfix"
+				{
+					"gid"		"B1BF9FFC29B97D1969DD348F286CB674"
+					"size"		"19CD2F054A8C3D262E875B9A6039EBF9"
+					"download"		"226954E67848B1DAB1726E7C287B6B17"
+				}
+				"master"
+				{
+					"gid"		"703DB0F1815C3B0DE52ECF1B447206F7"
+					"size"		"25445ECFFE436D859BCCF92EF91A400B"
+					"download"		"42BB9745A5DD4B41C25488CAB91FABBB"
+				}
+			}
+		}
+		"2287563"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4668814849329805283"
+					"size"		"1038670669"
+					"download"		"280915136"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"manual_hotfix"
+				{
+					"gid"		"643B1EC280291541DDDF76F30B8845B0"
+					"size"		"5331103209A9A836C91E76B4B5B63D14"
+					"download"		"8E5BC8C1FDC3BF00F7B88A3F732395F9"
+				}
+				"master"
+				{
+					"gid"		"82096EE7A1E3B258988EE76FA3AA0091"
+					"size"		"249124154C469163734E122841395B7A"
+					"download"		"3A7CBF4A4B80DDFDC8AD301BCA44D4EB"
+				}
+			}
+		}
+		"2287564"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12513079"
+				"timeupdated"		"1698081667"
+			}
+			"manual_hotfix"
+			{
+				"buildid"		"12512366"
+				"pwdrequired"		"1"
+				"timeupdated"		"1698075158"
+			}
+			"master"
+			{
+				"buildid"		"12523761"
+				"pwdrequired"		"1"
+				"timeupdated"		"1698168609"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"512000"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"VOMP_Data"
+				"pattern"		"progress.json"
+			}
+			"1"
+			{
+				"root"		"gameinstall"
+				"path"		"VOMP_Data"
+				"pattern"		"stats.json"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"gameinstall"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"VOMP_Data"
+						"replace"		"VOMP.app/Contents"
+					}
+				}
+			}
+		}
+	}
+}
