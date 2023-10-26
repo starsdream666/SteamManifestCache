@@ -16,7 +16,7 @@
 				"version"		"2"
 			}
 		}
-		"oslist"		"windows,macos,linux"
+		"oslist"		"windows,linux"
 		"osarch"		""
 		"osextended"		""
 		"icon"		"c3a598539363ad8d40bade1990ad4097a3aee632"
@@ -128,13 +128,26 @@
 	}
 	"config"
 	{
-		"installdir"		"Plunge The Plumber"
+		"installdir"		"Plunge_The_Plumber_Main_Builds"
 		"launch"
 		{
 			"0"
 			{
 				"executable"		"Plunge The Plumber.exe"
 				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Plunge_The_Plumber.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
 			}
 		}
 		"steamcontrollertemplateindex"		"2"
@@ -143,8 +156,13 @@
 	}
 	"depots"
 	{
+		"baselanguages"		"english"
 		"1928411"
 		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
 			"manifests"
 			{
 				"public"
@@ -155,12 +173,28 @@
 				}
 			}
 		}
+		"1928412"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"838390814690668063"
+					"size"		"440143745"
+					"download"		"136727072"
+				}
+			}
+		}
 		"branches"
 		{
 			"public"
 			{
-				"buildid"		"12270846"
-				"timeupdated"		"1695609857"
+				"buildid"		"12537635"
+				"timeupdated"		"1698284954"
 			}
 		}
 	}
