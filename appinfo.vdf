@@ -27,6 +27,7 @@
 			"japanese"		"FREDERICA（フレデリカ）"
 			"tchinese"		"FREDERICA（芙蕾德利卡）"
 			"schinese"		"FREDERICA（芙蕾德利卡）"
+			"koreana"		"프레데리카"
 		}
 		"releasestate"		"released"
 		"controller_support"		"full"
@@ -133,6 +134,11 @@
 				"supported"		"true"
 				"subtitles"		"true"
 			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
 		}
 		"steam_release_date"		"1696351860"
 		"community_visible_stats"		"1"
@@ -162,7 +168,7 @@
 			"19"		"4182"
 		}
 		"review_score"		"6"
-		"review_percentage"		"78"
+		"review_percentage"		"79"
 	}
 	"extended"
 	{
@@ -193,7 +199,7 @@
 	}
 	"depots"
 	{
-		"baselanguages"		"english,german,french,spanish,schinese,tchinese,japanese"
+		"baselanguages"		"english,german,french,koreana,spanish,schinese,tchinese,japanese"
 		"hasdepotsindlc"		"1"
 		"228988"
 		{
@@ -224,9 +230,9 @@
 			{
 				"public"
 				{
-					"gid"		"5804158486773736849"
-					"size"		"2489949304"
-					"download"		"2282062608"
+					"gid"		"4937693507034837739"
+					"size"		"2495088496"
+					"download"		"2287188080"
 				}
 			}
 			"encryptedmanifests"
@@ -239,15 +245,15 @@
 				}
 				"kr_development"
 				{
-					"gid"		"C0226ED2D5A0B60CC7B325F1EA296952"
-					"size"		"619BCA9BE139EC8CFA0690DB862D0BC2"
-					"download"		"8DA08E0DFD86AAD0A4824A62A263216A"
+					"gid"		"90512EFE5118B2D962B7DF1085862519"
+					"size"		"7BBBC27B0090405A59C244FB49A5D560"
+					"download"		"3782326EFE54990F6E8F5A69F62C401B"
 				}
 				"kr_shipping"
 				{
-					"gid"		"82C7C0AD7694189B2A44EE316440B5DD"
-					"size"		"922C74859BB38EC1AD44B9F1BB3025A0"
-					"download"		"A293EB6E675FFA7E4CF0D6229FBDEBA2"
+					"gid"		"92C0B1DAF2BC576325577F3F9DE80E22"
+					"size"		"04D9E3F46C9CA5DEECE70D5AC7BD37A9"
+					"download"		"0D8ED8726041D0D6F33075F3A954E978"
 				}
 				"shipping"
 				{
@@ -267,8 +273,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12295386"
-				"timeupdated"		"1697504353"
+				"buildid"		"12507627"
+				"timeupdated"		"1698281913"
 			}
 			"development_stable"
 			{
@@ -278,15 +284,15 @@
 			}
 			"kr_development"
 			{
-				"buildid"		"12299919"
+				"buildid"		"12507425"
 				"pwdrequired"		"1"
-				"timeupdated"		"1695845123"
+				"timeupdated"		"1698031945"
 			}
 			"kr_shipping"
 			{
-				"buildid"		"12300401"
+				"buildid"		"12507627"
 				"pwdrequired"		"1"
-				"timeupdated"		"1695849206"
+				"timeupdated"		"1698034917"
 			}
 			"shipping"
 			{
