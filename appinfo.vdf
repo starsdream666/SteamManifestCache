@@ -74,6 +74,12 @@
 			"koreana"
 			{
 				"subtitles"		"true"
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
 			}
 		}
 		"steam_release_date"		"1634886095"
@@ -149,9 +155,9 @@
 			{
 				"public"
 				{
-					"gid"		"2938163296233029273"
-					"size"		"2543540107"
-					"download"		"809213104"
+					"gid"		"779655278925917983"
+					"size"		"2696985684"
+					"download"		"856158448"
 				}
 			}
 			"encryptedmanifests"
@@ -161,6 +167,12 @@
 					"gid"		"46724EECBEC7FB649E1539DC68B2B4BA"
 					"size"		"0F84FBF6A73D749CA9536DAE0CF8DE38"
 					"download"		"571EFDABCD5C24B29024B60E7C8C2CFE"
+				}
+				"test2"
+				{
+					"gid"		"24967D6B33C64C8D6FF6CDEC8CAE62C1"
+					"size"		"C8D99F82A512F1D1C99561C5A1627860"
+					"download"		"AA69509B07638C98A8394002AA9178BC"
 				}
 			}
 		}
@@ -179,19 +191,34 @@
 					"download"		"23347120"
 				}
 			}
+			"encryptedmanifests"
+			{
+				"test2"
+				{
+					"gid"		"E293ABD9F32195BAA98AA7FED799235A"
+					"size"		"36A6C5AFDE5C788C09406057A321DB95"
+					"download"		"9B4AB206308A3B0F672AE0058F4DFE63"
+				}
+			}
 		}
 		"branches"
 		{
 			"public"
 			{
-				"buildid"		"7570743"
-				"timeupdated"		"1634774959"
+				"buildid"		"12551282"
+				"timeupdated"		"1698403442"
 			}
 			"test"
 			{
 				"buildid"		"7215789"
 				"pwdrequired"		"1"
 				"timeupdated"		"1629376457"
+			}
+			"test2"
+			{
+				"buildid"		"12551282"
+				"pwdrequired"		"1"
+				"timeupdated"		"1698396256"
 			}
 		}
 	}
