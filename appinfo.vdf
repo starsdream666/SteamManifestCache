@@ -51,37 +51,32 @@
 		"has_adult_content_violence"		"1"
 		"steam_deck_compatibility"
 		{
-			"category"		"2"
-			"test_timestamp"		"1697241600"
-			"tested_build_id"		"12426419"
+			"category"		"3"
+			"test_timestamp"		"1698364800"
+			"tested_build_id"		"12533190"
 			"tests"
 			{
 				"0"
 				{
-					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
-				}
-				"1"
-				{
-					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
-				}
-				"2"
-				{
 					"display"		"4"
 					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 				}
-				"3"
+				"1"
 				{
 					"display"		"4"
 					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
 				}
-				"4"
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
 				{
 					"display"		"4"
 					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 				}
-				"5"
+				"4"
 				{
 					"display"		"1"
 					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
@@ -90,11 +85,11 @@
 			"configuration"
 			{
 				"supported_input"		"gamepad"
-				"requires_manual_keyboard_invoke"		"1"
+				"requires_manual_keyboard_invoke"		"0"
 				"requires_non_controller_launcher_nav"		"0"
 				"primary_player_is_controller_slot_0"		"1"
 				"non_deck_display_glyphs"		"0"
-				"small_text"		"1"
+				"small_text"		"0"
 				"requires_internet_for_setup"		"0"
 				"requires_internet_for_singleplayer"		"0"
 				"recommended_runtime"		"proton-experimental"
@@ -317,9 +312,9 @@
 			{
 				"public"
 				{
-					"gid"		"4258578706517064202"
-					"size"		"34520987657"
-					"download"		"33613458816"
+					"gid"		"7529610292237042253"
+					"size"		"34520538382"
+					"download"		"33613592240"
 				}
 			}
 			"encryptedmanifests"
@@ -426,17 +421,11 @@
 					"size"		"9327FA3177FEF5F3621472422191E139"
 					"download"		"CB4282467BB4194E484134CA9B4B3E3B"
 				}
-				"playtesting"
-				{
-					"gid"		"74A3C22EBCCB636AF0B2058BDF0558AD"
-					"size"		"FB388BA1AFED21B9956A295DCDC96B6D"
-					"download"		"61001975ADEA7BBCE2E5F2DC71A9F74C"
-				}
 				"prelaunch"
 				{
-					"gid"		"F06BB8B79A7C4C5A6836FF3464B62A5B"
-					"size"		"E05B3ECC753491E0AFD546936CF02CB1"
-					"download"		"48D2423021E1D381408FE2CF99D7DD7E"
+					"gid"		"CBFB626D34A2100C483AA542CA2F97BB"
+					"size"		"288C7DF788101093F90875E95CD053BB"
+					"download"		"5A457EBA8EF1BF195B9868F6D9650D44"
 				}
 				"ratings"
 				{
@@ -446,9 +435,9 @@
 				}
 				"review"
 				{
-					"gid"		"C21A2DF3D01EA9E5621B15F02688148B"
-					"size"		"A8A9397083ED8589CA115D0D00893633"
-					"download"		"989FDB7456791CFB088984B47B3C3A46"
+					"gid"		"2BFFAA85D391918BB9313B09B1B7B2FE"
+					"size"		"29D81CC88A825637991D5CA99E7E7787"
+					"download"		"DB45138864754B540EAECEBE1DFFC0E9"
 				}
 				"shippingtest"
 				{
@@ -464,9 +453,9 @@
 				}
 				"weekly"
 				{
-					"gid"		"1641C62DF6B9E5557E5215212D88F64E"
-					"size"		"7726412C400E3310530C63284308ADDE"
-					"download"		"936ACE563182EE0A9311C67F91BAFF67"
+					"gid"		"841E14F36EA8BC82048B5A5AA4AE2E04"
+					"size"		"90090542EE646F4F1B0FD8DA54C824BD"
+					"download"		"A2BCC3CE9060B443762D10674D1DC07B"
 				}
 			}
 		}
@@ -475,8 +464,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12533190"
-				"timeupdated"		"1698275950"
+				"buildid"		"12543520"
+				"timeupdated"		"1698351888"
 			}
 			"amdtesting"
 			{
@@ -580,17 +569,11 @@
 				"pwdrequired"		"1"
 				"timeupdated"		"1698222010"
 			}
-			"playtesting"
-			{
-				"buildid"		"12359381"
-				"pwdrequired"		"1"
-				"timeupdated"		"1696496210"
-			}
 			"prelaunch"
 			{
-				"buildid"		"12540419"
+				"buildid"		"12543520"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698311137"
+				"timeupdated"		"1698331093"
 			}
 			"ratings"
 			{
@@ -600,9 +583,9 @@
 			}
 			"review"
 			{
-				"buildid"		"12535170"
+				"buildid"		"12545301"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698261776"
+				"timeupdated"		"1698399298"
 			}
 			"shippingtest"
 			{
@@ -618,9 +601,9 @@
 			}
 			"weekly"
 			{
-				"buildid"		"12531609"
+				"buildid"		"12544305"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698237488"
+				"timeupdated"		"1698335694"
 			}
 		}
 	}
