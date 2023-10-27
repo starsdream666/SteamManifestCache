@@ -16,9 +16,9 @@
 		"icon"		"5bc05db4461cfdf77f078f0acd029fbd52cfc8c6"
 		"clienttga"		"481d669bc5fabb80652347a93439b8ce000048fe"
 		"clienticon"		"59c5e08575e9b9ccd0f6451df2f7391c3e89ee83"
-		"oslist"		"windows"
+		"oslist"		"windows,macos,linux"
 		"osarch"		"64"
-		"osextended"		""
+		"osextended"		"macos64"
 		"content_descriptors"
 		{
 			"0"		"1"
@@ -125,6 +125,7 @@
 		"genres"
 		{
 			"0"		"4"
+			"1"		"3"
 		}
 		"category"
 		{
@@ -206,8 +207,8 @@
 			"2"		"11014"
 			"3"		"9551"
 			"4"		"1664"
-			"5"		"4085"
-			"6"		"5652"
+			"5"		"5652"
+			"6"		"4085"
 			"7"		"9130"
 			"8"		"3871"
 			"9"		"12095"
@@ -240,6 +241,26 @@
 			"0"
 			{
 				"executable"		"Mosaique Neko Waifus 5.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Mosaique Neko Waifus 5.x86_64"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"2"
+			{
+				"executable"		"Contents/MacOS/Mosaique Neko Waifus 5"
+				"config"
+				{
+					"oslist"		"macos"
+				}
 			}
 		}
 	}
@@ -248,28 +269,6 @@
 		"hasdepotsindlc"		"0"
 		"2165611"
 		{
-			"manifests"
-			{
-				"public"
-				{
-					"gid"		"6012705475409542650"
-					"size"		"1642875695"
-					"download"		"328329952"
-				}
-			}
-			"encryptedmanifests"
-			{
-				"beta"
-				{
-					"gid"		"DEA6DBAC29806878B55D2254713D7B77"
-					"size"		"4F0D01188DEFB69BCB899A03B4311E97"
-					"download"		"7C1912062B44C1C0AEF33D0A2D8D7D6D"
-				}
-			}
-		}
-		"2190360"
-		{
-			"dlcappid"		"2190360"
 			"config"
 			{
 				"oslist"		"windows"
@@ -278,18 +277,91 @@
 			{
 				"public"
 				{
-					"gid"		"5334608158938470726"
-					"size"		"87694687"
-					"download"		"88894128"
+					"gid"		"7719272190958383914"
+					"size"		"1652752026"
+					"download"		"330892416"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"beta"
 				{
-					"gid"		"3B147326DCE7052FE60CCAD3659CC0C1"
-					"size"		"6527B76B2A0F272550A9552C4DB241A8"
-					"download"		"F19026120A0424699AD74BC819C6FB20"
+					"gid"		"106D1DB54BBEA7490712DCD6B9DA0304"
+					"size"		"854BDDBF6884CF29868F76708BA50640"
+					"download"		"75906B063AD8BC3496D580F878F62FD7"
+				}
+			}
+		}
+		"2190360"
+		{
+			"dlcappid"		"2190360"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6172860352733874063"
+					"size"		"241151055"
+					"download"		"244450368"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"EE43183A07196DCD941911E0D5D93A26"
+					"size"		"6B1B654DB45AE5990ADA7B7C0F86FCD8"
+					"download"		"25CC0F4AA3388EEA8DCD77BC864A9D05"
+				}
+			}
+		}
+		"2165612"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9086167431709148316"
+					"size"		"1652227868"
+					"download"		"329276320"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"25A7D5C8B8874FE306B61681759DF123"
+					"size"		"9F3D78BFD8F9F92459435123D4283581"
+					"download"		"6E4CA98F89C6535034653902323DD100"
+				}
+			}
+		}
+		"2165613"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5027294273657922256"
+					"size"		"1644180600"
+					"download"		"328665344"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"787E3B55E4407CB0B7C35A0C7E427F9C"
+					"size"		"970B2AB1DC8D24F039AEE9D22B363254"
+					"download"		"01A647962039501FB957ABDA828B554A"
 				}
 			}
 		}
@@ -297,14 +369,14 @@
 		{
 			"public"
 			{
-				"buildid"		"11305850"
-				"timeupdated"		"1684927795"
+				"buildid"		"12550688"
+				"timeupdated"		"1698396665"
 			}
 			"beta"
 			{
-				"buildid"		"11305850"
+				"buildid"		"12550688"
 				"pwdrequired"		"1"
-				"timeupdated"		"1684926885"
+				"timeupdated"		"1698392216"
 			}
 		}
 	}
