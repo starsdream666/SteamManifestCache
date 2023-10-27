@@ -224,8 +224,8 @@
 		"store_tags"
 		{
 			"0"		"1663"
-			"1"		"5796"
-			"2"		"4036"
+			"1"		"4036"
+			"2"		"5796"
 			"3"		"19"
 			"4"		"1774"
 			"5"		"3839"
@@ -368,6 +368,12 @@
 			{
 				"public"
 				{
+					"gid"		"25010577877909720"
+					"size"		"3205780729"
+					"download"		"1445720144"
+				}
+				"oldleaderboards"
+				{
 					"gid"		"7038995986383674598"
 					"size"		"3172486968"
 					"download"		"1431142736"
@@ -375,12 +381,6 @@
 			}
 			"encryptedmanifests"
 			{
-				"ffrevamptest"
-				{
-					"gid"		"5A5C24EF09BD4C8126E52F1B823A7012"
-					"size"		"0642336230EA635DB7BF2DE52D3930CD"
-					"download"		"2CDF5E4295387AB42AE9D8531A83EE9C"
-				}
 				"internal"
 				{
 					"gid"		"81363AA1456FDB48CD190B1C07123706"
@@ -399,24 +399,6 @@
 					"size"		"8D3507572ECE8302A5FDF75662DF7892"
 					"download"		"0BE3501C4CB945239C37219C43D5C913"
 				}
-				"rogue2test"
-				{
-					"gid"		"D3D15A7CA6F214F8D7112ABAC17BBE53"
-					"size"		"BC4A1B754DA40EA015BF33A7052531B6"
-					"download"		"DE146C31CEF8D05246E2F0179E519052"
-				}
-				"roguetest"
-				{
-					"gid"		"C654B317502EEE095D8D58C089C9BAF5"
-					"size"		"33651B14B39DD3315A23D4884281BD68"
-					"download"		"F7AEC64CC0BF44B7C6D46D5D0A29EFC9"
-				}
-				"secondanniversary"
-				{
-					"gid"		"DC3E14BDF7A1C57617D90D8250F95708"
-					"size"		"C6FA79A5601F4B0A8E73F7A4E49B6517"
-					"download"		"06204C9B784E1CDC80740A3B982336A1"
-				}
 			}
 		}
 		"1754230"
@@ -434,15 +416,15 @@
 					"size"		"12401807"
 					"download"		"11516528"
 				}
+				"oldleaderboards"
+				{
+					"gid"		"2121775993643672375"
+					"size"		"12401807"
+					"download"		"11516528"
+				}
 			}
 			"encryptedmanifests"
 			{
-				"ffrevamptest"
-				{
-					"gid"		"42CE0C1947D9E9CC332BBC2537EDC0AC"
-					"size"		"94F95DFB4C8CB99412A7916CBA5C7841"
-					"download"		"B192CBC768CC7BF08BFAF0E68A1FF76C"
-				}
 				"internal"
 				{
 					"gid"		"85F525E78E7F2CAE247367E747A8313B"
@@ -461,38 +443,14 @@
 					"size"		"A2E28BFD7B8655938DD6BAFA82C05A16"
 					"download"		"F2607E1FDC821481D5FA8F762CD060C2"
 				}
-				"rogue2test"
-				{
-					"gid"		"90B04442F7CA508F360C34ED6739FA06"
-					"size"		"36F00D59FA52386E9EEA56744B6A0D14"
-					"download"		"FD2624E053E70F1118D2B1FAC2A08AAC"
-				}
-				"roguetest"
-				{
-					"gid"		"9B5D7BAEC4CE66BFFA1A8629965027AF"
-					"size"		"892802E20C760785057363EDBB3E204E"
-					"download"		"40A4C2F9E0A2AF93C261F9E689AC7AC3"
-				}
-				"secondanniversary"
-				{
-					"gid"		"8C27ED68C10498EE141D0D71B73EAB8E"
-					"size"		"B35E3BD3A6004C6E9D05AAB2AF874AC0"
-					"download"		"ABE1727617C5E1A3D635915810EE37A0"
-				}
 			}
 		}
 		"branches"
 		{
 			"public"
 			{
-				"buildid"		"12212370"
-				"timeupdated"		"1695005008"
-			}
-			"ffrevamptest"
-			{
-				"buildid"		"12369141"
-				"pwdrequired"		"1"
-				"timeupdated"		"1696546266"
+				"buildid"		"12555822"
+				"timeupdated"		"1698425662"
 			}
 			"internal"
 			{
@@ -512,23 +470,11 @@
 				"pwdrequired"		"1"
 				"timeupdated"		"1677792541"
 			}
-			"rogue2test"
+			"oldleaderboards"
 			{
-				"buildid"		"11987894"
-				"pwdrequired"		"1"
-				"timeupdated"		"1694045443"
-			}
-			"roguetest"
-			{
-				"buildid"		"9633980"
-				"pwdrequired"		"1"
-				"timeupdated"		"1664642058"
-			}
-			"secondanniversary"
-			{
-				"buildid"		"12210870"
-				"pwdrequired"		"1"
-				"timeupdated"		"1694977112"
+				"buildid"		"12212370"
+				"description"		"last build witih old leaderboards"
+				"timeupdated"		"1698415071"
 			}
 		}
 	}
@@ -542,7 +488,27 @@
 			{
 				"root"		"WinAppDataLocal"
 				"path"		"ThankYouVeryCool/Saved/SaveGames"
-				"pattern"		"*.sav"
+				"pattern"		"arcadesave_rel.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"ThankYouVeryCool/Saved/SaveGames"
+				"pattern"		"chapters_rel.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"2"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"ThankYouVeryCool/Saved/SaveGames"
+				"pattern"		"rogue_rel.sav"
 				"platforms"
 				{
 					"1"		"Windows"
