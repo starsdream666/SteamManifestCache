@@ -88,7 +88,7 @@
 				"height_pct"		"100"
 			}
 		}
-		"store_asset_mtime"		"1688758141"
+		"store_asset_mtime"		"1696608304"
 		"associations"
 		{
 			"0"
@@ -231,7 +231,6 @@
 			"0"
 			{
 				"executable"		"anacrusis.exe"
-				"arguments"		"-ab.namespace=\"TheAnacrusis\" -ab.baseurl=\"https://accounts.straybombay.com\" -ab.clientid=\"95c1eb5e8a854e388a334dcba7c9035c\" -ab.clientsecret=\"KZu;GVeZ7eQ;&l%^[RR+91Z1P;]0CqK2\""
 				"type"		"default"
 				"config"
 				{
@@ -245,80 +244,15 @@
 				}
 				"description"		"The Anacrusis"
 			}
-			"1"
-			{
-				"executable"		"anacrusis.exe"
-				"arguments"		"-ab.environment=cert"
-				"type"		"default"
-				"config"
-				{
-					"oslist"		"windows"
-					"osarch"		"64"
-					"betakey"		"staging"
-				}
-				"description_loc"
-				{
-					"english"		"The Anacrusis (staging)"
-				}
-				"description"		"The Anacrusis (staging)"
-			}
-			"2"
-			{
-				"executable"		"anacrusis.exe"
-				"arguments"		"-ab.environment=prod"
-				"type"		"default"
-				"config"
-				{
-					"oslist"		"windows"
-					"osarch"		"64"
-					"betakey"		"playtest"
-				}
-				"description_loc"
-				{
-					"english"		"Private Playtest"
-				}
-				"description"		"Private Playtest"
-			}
-			"3"
-			{
-				"executable"		"SteamABSwitcher\\PlayWithAB.bat"
-				"type"		"option1"
-				"config"
-				{
-					"oslist"		"windows"
-					"osarch"		"64"
-					"betakey"		"development"
-				}
-				"description_loc"
-				{
-					"english"		"Development (AccelByte)"
-				}
-				"description"		"Development (AccelByte)"
-			}
-			"4"
-			{
-				"executable"		"SteamABSwitcher\\PlayWithSteam.bat"
-				"type"		"option2"
-				"config"
-				{
-					"oslist"		"windows"
-					"osarch"		"64"
-					"betakey"		"development"
-				}
-				"description_loc"
-				{
-					"english"		"Development (Steam)"
-				}
-				"description"		"Development (Steam)"
-			}
 			"6"
 			{
 				"executable"		"anacrusis.exe"
-				"arguments"		"-ab.environment=dev"
+				"arguments"		"-EpicApp=BetaUniverse"
 				"type"		"default"
 				"config"
 				{
 					"oslist"		"windows"
+					"osarch"		"64"
 					"betakey"		"dailyplaytest"
 				}
 				"description_loc"
@@ -330,36 +264,57 @@
 			"7"
 			{
 				"executable"		"anacrusis.exe"
-				"arguments"		"-ab.environment=dev"
-				"type"		"default"
+				"type"		"option1"
 				"config"
 				{
 					"oslist"		"windows"
 					"osarch"		"64"
-					"betakey"		"marchplaytest"
+					"betakey"		"dailyplaytest"
 				}
 				"description_loc"
 				{
-					"english"		"Beta Playtest"
+					"english"		"in Public Universe"
 				}
-				"description"		"Beta Playtest"
+				"description"		"in Public Universe"
 			}
 			"8"
 			{
 				"executable"		"anacrusis.exe"
-				"arguments"		"-ab.environment=dev"
 				"type"		"default"
 				"config"
 				{
 					"oslist"		"windows"
 					"osarch"		"64"
-					"betakey"		"update6preview"
+					"betakey"		"staging"
+				}
+			}
+			"9"
+			{
+				"executable"		"anacrusis.exe"
+				"arguments"		"-EpicApp=BetaUniverse"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"staging"
 				}
 				"description_loc"
 				{
-					"english"		"Update 6 Preview"
+					"english"		"in Beta Universe"
 				}
-				"description"		"Update 6 Preview"
+				"description"		"in Beta Universe"
+			}
+			"10"
+			{
+				"executable"		"anacrusis.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"externalplaytest"
+				}
 			}
 		}
 	}
@@ -404,18 +359,24 @@
 			{
 				"public"
 				{
-					"gid"		"6594052922382063592"
-					"size"		"17584639183"
-					"download"		"16044036480"
+					"gid"		"5061935187479676943"
+					"size"		"17763900036"
+					"download"		"16208717392"
 				}
 			}
 			"encryptedmanifests"
 			{
+				"amdtest"
+				{
+					"gid"		"B1A1652D35D55784769250E2D11618F2"
+					"size"		"72F5DFF92E726D2BE3B75FC0FFC7BAE9"
+					"download"		"CD06602A176EAEB58F1A3E5D69A5B20F"
+				}
 				"dailyplaytest"
 				{
-					"gid"		"E8654BE866FBF6656C3CE4A6F7B6DCA9"
-					"size"		"02EBF5402532F8A9C2F8DBF255182665"
-					"download"		"E0B811610DBC15557072E804A6085DC6"
+					"gid"		"5D8479422B09EEF0984B37563587CD7A"
+					"size"		"C7E41D3FD4E57211D10F8A6D0E763F45"
+					"download"		"2BD7BAA3D4EA3CA4F54297C3EEBB3411"
 				}
 				"development"
 				{
@@ -431,15 +392,15 @@
 				}
 				"staging"
 				{
-					"gid"		"9DD0E0E427D70E42A14D6173D0072FCE"
-					"size"		"29E5F2B682151361A827689D3D869B4A"
-					"download"		"E5703A7BAA0CB930883571286CD33246"
+					"gid"		"706BED52DBCCFC40267A321F00C9BAA8"
+					"size"		"5EE9CED54C762E736D628CE24CD65EB1"
+					"download"		"08552BEA33517180BA5EDEF5345E4465"
 				}
 				"verycoolbranch"
 				{
-					"gid"		"57F8C54DB69028C3771EBE8F7AEFBA82"
-					"size"		"B142EC1B1524DBA8667576ADB6E66753"
-					"download"		"AD701A82B5D1E4F32A6AA98559CEC11F"
+					"gid"		"0BDED8DC8C11092B07F19DFFAE776FF3"
+					"size"		"17D76CE62BF07DC444F74AD9980683CB"
+					"download"		"28DC06060C97FD31A6A6A5ECAA938324"
 				}
 			}
 		}
@@ -448,14 +409,20 @@
 		{
 			"public"
 			{
-				"buildid"		"12146137"
-				"timeupdated"		"1694279489"
+				"buildid"		"12548384"
+				"timeupdated"		"1698431484"
+			}
+			"amdtest"
+			{
+				"buildid"		"12525290"
+				"pwdrequired"		"1"
+				"timeupdated"		"1698184098"
 			}
 			"dailyplaytest"
 			{
-				"buildid"		"12177422"
+				"buildid"		"12552445"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694603036"
+				"timeupdated"		"1698403871"
 			}
 			"development"
 			{
@@ -471,15 +438,15 @@
 			}
 			"staging"
 			{
-				"buildid"		"12146137"
+				"buildid"		"12548384"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694210311"
+				"timeupdated"		"1698368917"
 			}
 			"verycoolbranch"
 			{
-				"buildid"		"12174946"
+				"buildid"		"12519035"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694580554"
+				"timeupdated"		"1698137077"
 			}
 		}
 	}
