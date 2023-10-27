@@ -73,7 +73,7 @@
 				"height_pct"		"44"
 			}
 		}
-		"store_asset_mtime"		"1693488096"
+		"store_asset_mtime"		"1698049105"
 		"associations"
 		{
 			"0"
@@ -223,7 +223,7 @@
 		"developer"		"Keen Software House"
 		"publisher"		"Keen Software House"
 		"homepage"		"http://www.SpaceEngineersGame.com"
-		"listofdlc"		"573160,573900,1049790,1084680,1135960,1167910,1241550,1307680,1374610,1475830,1676100,1783760,1958640,2504720"
+		"listofdlc"		"573160,573900,1049790,1084680,1135960,1167910,1241550,1307680,1374610,1475830,1676100,1783760,1958640,2504720,2569770"
 		"dlcavailableonstore"		"1"
 	}
 	"config"
@@ -246,18 +246,47 @@
 			{
 				"executable"		"Bin64\\SpaceEngineers.exe"
 				"workingdir"		"Bin64"
-				"description"		"Launch"
-				"type"		"none"
+				"type"		"default"
 				"config"
 				{
 					"oslist"		"windows"
 					"osarch"		"64"
 				}
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
+			}
+			"2"
+			{
+				"executable"		"DeluxeDLC\\FirstRelease\\FirstRelease\\SpaceEngineers.exe"
+				"workingdir"		"DeluxeDLC\\FirstRelease\\FirstRelease"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"ownsdlc"		"573160"
+				}
+				"description_loc"
+				{
+					"english"		"First Release"
+				}
+				"description"		"First Release"
 			}
 		}
 	}
 	"depots"
 	{
+		"228984"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
 		"228985"
 		{
 			"config"
@@ -316,15 +345,9 @@
 			{
 				"public"
 				{
-					"gid"		"9219885989471383746"
-					"size"		"38424016784"
-					"download"		"14391350624"
-				}
-				"1.178"
-				{
-					"gid"		"4944455249377422211"
-					"size"		"11771171334"
-					"download"		"4634963792"
+					"gid"		"273147919281708153"
+					"size"		"38908454154"
+					"download"		"14735561392"
 				}
 				"1.187"
 				{
@@ -439,9 +462,9 @@
 				}
 				"playtest"
 				{
-					"gid"		"2322B117FA6EAFAEE4671972CFA31141"
-					"size"		"DF5FF84884E25622789A2FA7938153DB"
-					"download"		"45ED7E753ECA01281F1CADABAD55BFFB"
+					"gid"		"9E44831C5B4893566E26900B67EE7A47"
+					"size"		"2749C31376A754F8E50C2A9357870E84"
+					"download"		"EC71B0BCA2EA28EF56213AACAAB2702A"
 				}
 				"publictest"
 				{
@@ -457,15 +480,15 @@
 				}
 				"steamctg"
 				{
-					"gid"		"275CBCE40B631FBBBE8A385012B17060"
-					"size"		"7C568004B4EAF42EBAC097FE95C7C736"
-					"download"		"566E029585BA9F441DA1C813EFAA29D8"
+					"gid"		"ED16018BCAC1958ED92CC95F7372C607"
+					"size"		"C4913FF1C0CC8360DD369C01AF6BC142"
+					"download"		"86E69B16FEBB5EB56868F36C70DF53EA"
 				}
 				"test"
 				{
-					"gid"		"CA0ED1AB10F523631C7F1B0D3A915657"
-					"size"		"BCC63D07B960466B70684E8B7D54BB8F"
-					"download"		"E04290C86B6DCA36BFC3D42BE07A7167"
+					"gid"		"DDBA95B8ADB9195C30A82C0A0230127A"
+					"size"		"EBCC3D8782090F193B0380A863C5184C"
+					"download"		"2363C69CE42D96EA977F1CFBF28F2029"
 				}
 			}
 		}
@@ -483,12 +506,6 @@
 					"gid"		"6259215023678162597"
 					"size"		"3144352413"
 					"download"		"2432983632"
-				}
-				"1.178"
-				{
-					"gid"		"3551483158564463079"
-					"size"		"2005930255"
-					"download"		"1676069728"
 				}
 				"1.187"
 				{
@@ -635,12 +652,6 @@
 					"gid"		"272427715373238919"
 					"size"		"639955408"
 					"download"		"306523072"
-				}
-				"1.178"
-				{
-					"gid"		"2038154678640562523"
-					"size"		"639955449"
-					"download"		"306523168"
 				}
 				"1.187"
 				{
@@ -870,9 +881,9 @@
 				}
 				"test"
 				{
-					"gid"		"2EAAC3D95FF6B09114D0DA4025BB11F5"
-					"size"		"2FBD9F79D94F3ED4D2B0BC7920B0E4E5"
-					"download"		"C09ECC2EBF886F155EB39F48D55BA620"
+					"gid"		"1ECD7355A29269555DC13073AC9B41B7"
+					"size"		"0D439F343732E435630A360B70A23E54"
+					"download"		"26F15977A9A12585CA94C277CED3A3F5"
 				}
 			}
 			"dlcappid"		"1241550"
@@ -882,14 +893,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12143844"
-				"timeupdated"		"1694613635"
-			}
-			"1.178"
-			{
-				"buildid"		"1701147"
-				"description"		"Multiplayer Improvements & LOD Optimizations"
-				"timeupdated"		"1490291630"
+				"buildid"		"12473200"
+				"timeupdated"		"1698342820"
 			}
 			"1.187"
 			{
@@ -1000,9 +1005,9 @@
 			}
 			"playtest"
 			{
-				"buildid"		"11868583"
+				"buildid"		"12244657"
 				"pwdrequired"		"1"
-				"timeupdated"		"1691488739"
+				"timeupdated"		"1695287003"
 			}
 			"publictest"
 			{
@@ -1018,15 +1023,15 @@
 			}
 			"steamctg"
 			{
-				"buildid"		"12199973"
+				"buildid"		"12473200"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694788969"
+				"timeupdated"		"1697640564"
 			}
 			"test"
 			{
-				"buildid"		"7782734"
+				"buildid"		"12547519"
 				"pwdrequired"		"1"
-				"timeupdated"		"1637924009"
+				"timeupdated"		"1698360273"
 			}
 		}
 	}
