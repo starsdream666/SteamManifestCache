@@ -6,9 +6,9 @@
 		"name"		"Mosaique Neko Waifus 4"
 		"type"		"Game"
 		"releasestate"		"released"
-		"oslist"		"windows,linux"
+		"oslist"		"windows,macos,linux"
 		"osarch"		"64"
-		"osextended"		""
+		"osextended"		"macos64"
 		"logo"		"16fb0fffcaa5b31d5604231e514475467665684e"
 		"logo_small"		"16fb0fffcaa5b31d5604231e514475467665684e_thumb"
 		"icon"		"8c54f03ed4af5a25c99a03fa9dd71a10fac7ef3d"
@@ -222,6 +222,14 @@
 					"oslist"		"linux"
 				}
 			}
+			"2"
+			{
+				"executable"		"Contents/MacOS/Mosaique Neko Waifus 4"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
 		}
 	}
 	"depots"
@@ -238,18 +246,18 @@
 			{
 				"public"
 				{
-					"gid"		"6563338750163122635"
-					"size"		"1284949844"
-					"download"		"231713696"
+					"gid"		"1380014405662068934"
+					"size"		"1284947949"
+					"download"		"231719296"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"beta"
 				{
-					"gid"		"E8CF1DE6DCEF2B7BEE1DB4920E4EBE51"
-					"size"		"5F59498842D790FE8C8C73FF7A3523E6"
-					"download"		"3F9389D06FF1BAE53656828A5ACBC4D2"
+					"gid"		"C3631F28D0CF37BED3A415276A11D664"
+					"size"		"B95B6E69527AA1D355B9EB2D18CD6F72"
+					"download"		"9026AD1C0C699C892A171E74DD02EF80"
 				}
 			}
 		}
@@ -260,18 +268,18 @@
 			{
 				"public"
 				{
-					"gid"		"2173654824270059613"
-					"size"		"82340903"
-					"download"		"83468240"
+					"gid"		"5712006644168207168"
+					"size"		"205820029"
+					"download"		"208636432"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"beta"
 				{
-					"gid"		"6E9D1EB9B96A4380C1165AC4C3A4607B"
-					"size"		"26C7129ABFFDE8BAD89C1E4DC376401D"
-					"download"		"574A26534816E9524C00A3A91602EF86"
+					"gid"		"6AC81109A2C0323BB9188E7E36C0CB87"
+					"size"		"A2212A70B8BC7C971971A9D179F30DF0"
+					"download"		"9F6E2F10680450EDD6E1C06BE644B32C"
 				}
 			}
 		}
@@ -282,18 +290,18 @@
 			{
 				"public"
 				{
-					"gid"		"2684920986584948490"
-					"size"		"668756448"
-					"download"		"673335264"
+					"gid"		"2504537830010958839"
+					"size"		"514921585"
+					"download"		"518561776"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"beta"
 				{
-					"gid"		"AE5946015E171C13E7DADBD036C44937"
-					"size"		"6DCD49C958D7C3EDDF3B834D498C10EE"
-					"download"		"49CCD72E45CAE699E7D4551060C88BAA"
+					"gid"		"815E7D319E72BF8ACF0F1A857B9D77CA"
+					"size"		"A77DF6B0F0C536BDE6233D3362CC7186"
+					"download"		"06F3C7FB4CB0625A7E1B875E949A04D4"
 				}
 			}
 		}
@@ -307,18 +315,44 @@
 			{
 				"public"
 				{
-					"gid"		"5281717036119102915"
-					"size"		"1303667367"
-					"download"		"235137152"
+					"gid"		"2412317901089087857"
+					"size"		"1150809502"
+					"download"		"218347200"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"beta"
 				{
-					"gid"		"1BDBDC1922DC184DB2FB70F322873FD9"
-					"size"		"BB96340B8DC40382E4EF45968FDC533D"
-					"download"		"122375C5FD0A947EC91F411970538B79"
+					"gid"		"E2209E6E2FB803147F28A973D7675AF2"
+					"size"		"85A4757CCF1FBB6F2D4498DB2E765C3A"
+					"download"		"158E40980D7441119D5F7CAEFE19694B"
+				}
+			}
+		}
+		"1504023"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1719003389972917217"
+					"size"		"1289715304"
+					"download"		"233196304"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"B0287A550E082587759CBD140E424E34"
+					"size"		"5114C466E85882B6B41F517705AA530C"
+					"download"		"3785E343669CC5E8B497972312BAE992"
 				}
 			}
 		}
@@ -326,14 +360,14 @@
 		{
 			"public"
 			{
-				"buildid"		"6933400"
-				"timeupdated"		"1624627586"
+				"buildid"		"12554925"
+				"timeupdated"		"1698419772"
 			}
 			"beta"
 			{
-				"buildid"		"6933400"
+				"buildid"		"12554925"
 				"pwdrequired"		"1"
-				"timeupdated"		"1624627365"
+				"timeupdated"		"1698419563"
 			}
 		}
 	}
