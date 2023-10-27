@@ -93,7 +93,7 @@
 				"height_pct"		"79.77777777777777"
 			}
 		}
-		"store_asset_mtime"		"1691685659"
+		"store_asset_mtime"		"1698427516"
 		"associations"
 		{
 			"0"
@@ -104,6 +104,11 @@
 			"1"
 			{
 				"type"		"publisher"
+				"name"		"Yogscast Games"
+			}
+			"2"
+			{
+				"type"		"franchise"
 				"name"		"Yogscast Games"
 			}
 		}
@@ -167,7 +172,7 @@
 			"19"		"6730"
 		}
 		"review_score"		"8"
-		"review_percentage"		"84"
+		"review_percentage"		"83"
 	}
 	"extended"
 	{
@@ -183,7 +188,28 @@
 			"1"
 			{
 				"executable"		"TalesAndTactics.exe"
-				"type"		"default"
+				"arguments"		"-dx12"
+				"type"		"option1"
+				"description_loc"
+				{
+					"english"		"Using DirectX 12 (Default)"
+				}
+				"description"		"Using DirectX 12 (Default)"
+			}
+			"2"
+			{
+				"executable"		"TalesAndTactics.exe"
+				"arguments"		"-dx11"
+				"type"		"option2"
+				"config"
+				{
+					"betakey"		"experimental"
+				}
+				"description_loc"
+				{
+					"english"		"Using DirectX 11 (Windows 7 or Earlier)"
+				}
+				"description"		"Using DirectX 11 (Windows 7 or Earlier)"
 			}
 		}
 	}
@@ -215,11 +241,17 @@
 			{
 				"public"
 				{
-					"gid"		"423375095195285731"
-					"size"		"2628507581"
-					"download"		"2440391232"
+					"gid"		"8943585324069573923"
+					"size"		"2836833646"
+					"download"		"2503809600"
 				}
 				"experimental"
+				{
+					"gid"		"962692729594148355"
+					"size"		"2836833646"
+					"download"		"2504540784"
+				}
+				"win7compatible"
 				{
 					"gid"		"423375095195285731"
 					"size"		"2628507581"
@@ -236,9 +268,9 @@
 				}
 				"devtestbranch"
 				{
-					"gid"		"B8C2AA9760BBDF5113F2FE91996A018E"
-					"size"		"E5D705C132EA819987F319E13E86F0CF"
-					"download"		"0DC2472F99CE1710A965CA813CA45BE5"
+					"gid"		"E79A154B1FB31ABEC15373E70B565A97"
+					"size"		"87D958DA7E08FDB40BCC873E60B83C2E"
+					"download"		"D2C51CC191247FA695A05AE33F48F2B5"
 				}
 				"perftest"
 				{
@@ -261,8 +293,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12213875"
-				"timeupdated"		"1695026556"
+				"buildid"		"12549290"
+				"timeupdated"		"1698425976"
 			}
 			"creator"
 			{
@@ -272,15 +304,15 @@
 			}
 			"devtestbranch"
 			{
-				"buildid"		"12175660"
+				"buildid"		"12497360"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694589054"
+				"timeupdated"		"1697840849"
 			}
 			"experimental"
 			{
-				"buildid"		"12213875"
+				"buildid"		"12556123"
 				"description"		"Pre-Release Stability Testing"
-				"timeupdated"		"1695025242"
+				"timeupdated"		"1698427895"
 			}
 			"perftest"
 			{
@@ -293,6 +325,12 @@
 				"buildid"		"11911896"
 				"pwdrequired"		"1"
 				"timeupdated"		"1691673409"
+			}
+			"win7compatible"
+			{
+				"buildid"		"12213875"
+				"description"		"Windows 7 Compatible Branch - Pre-October Update"
+				"timeupdated"		"1698421659"
 			}
 		}
 	}
