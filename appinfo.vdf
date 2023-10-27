@@ -24,6 +24,7 @@
 			"schinese"		"1"
 			"polish"		"1"
 			"hungarian"		"1"
+			"turkish"		"1"
 			"brazilian"		"1"
 		}
 		"content_descriptors"
@@ -95,7 +96,7 @@
 				"height_pct"		"100"
 			}
 		}
-		"store_asset_mtime"		"1694766500"
+		"store_asset_mtime"		"1697202620"
 		"associations"
 		{
 			"0"
@@ -115,7 +116,6 @@
 			"0"		"1"
 			"1"		"25"
 			"2"		"23"
-			"3"		"3"
 		}
 		"category"
 		{
@@ -175,29 +175,29 @@
 		"gameid"		"1240590"
 		"store_tags"
 		{
-			"0"		"492"
-			"1"		"1646"
-			"2"		"4106"
-			"3"		"4231"
-			"4"		"1742"
-			"5"		"19"
-			"6"		"1695"
-			"7"		"1743"
-			"8"		"21"
-			"9"		"4182"
-			"10"		"17015"
-			"11"		"4136"
+			"0"		"7481"
+			"1"		"1684"
+			"2"		"10397"
+			"3"		"1651"
+			"4"		"4136"
+			"5"		"1646"
+			"6"		"4106"
+			"7"		"1719"
+			"8"		"19"
+			"9"		"1743"
+			"10"		"21"
+			"11"		"4182"
 			"12"		"3993"
-			"13"		"3834"
-			"14"		"1719"
-			"15"		"1697"
-			"16"		"4158"
-			"17"		"122"
-			"18"		"4046"
-			"19"		"198631"
+			"13"		"4236"
+			"14"		"1697"
+			"15"		"3834"
+			"16"		"1742"
+			"17"		"4046"
+			"18"		"17015"
+			"19"		"492"
 		}
 		"review_score"		"8"
-		"review_percentage"		"86"
+		"review_percentage"		"85"
 	}
 	"extended"
 	{
@@ -234,9 +234,9 @@
 			{
 				"public"
 				{
-					"gid"		"3476497931349696962"
-					"size"		"24835803631"
-					"download"		"9955043728"
+					"gid"		"2701488867881413947"
+					"size"		"24642569887"
+					"download"		"9602139888"
 				}
 			}
 			"encryptedmanifests"
@@ -357,9 +357,15 @@
 				}
 				"development"
 				{
-					"gid"		"86056BD314B6DF6DBBC2702D26C8BB38"
-					"size"		"E02AD543575A1FC7519511AD8FEF6087"
-					"download"		"823391617C992FB446D6236B76920D5C"
+					"gid"		"E430E64121D509AB591E5A5D1611A922"
+					"size"		"958C52B667C2001685986DF866066ECD"
+					"download"		"876ED960DA3CD2F4A7F5304F7FD28A6D"
+				}
+				"test-turkish"
+				{
+					"gid"		"94EEE2350F18C9E1B0923328BD267F5C"
+					"size"		"092D93CACAA680CB37F1CCEC75CEF3ED"
+					"download"		"E55301FAFBE3631A4B262A4A78453526"
 				}
 			}
 		}
@@ -367,8 +373,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12288999"
-				"timeupdated"		"1695813066"
+				"buildid"		"12492328"
+				"timeupdated"		"1698392958"
 			}
 			"1.0.1-873"
 			{
@@ -486,9 +492,15 @@
 			}
 			"development"
 			{
-				"buildid"		"12288999"
+				"buildid"		"12492328"
 				"pwdrequired"		"1"
-				"timeupdated"		"1695754826"
+				"timeupdated"		"1697801643"
+			}
+			"test-turkish"
+			{
+				"buildid"		"12492328"
+				"pwdrequired"		"1"
+				"timeupdated"		"1697803343"
 			}
 		}
 	}
