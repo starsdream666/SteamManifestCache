@@ -15,7 +15,7 @@
 		"linuxclienticon"		"066b683c730f8f58537ff7830147d9149c09d2a1"
 		"releasestate"		"released"
 		"osarch"		"64"
-		"osextended"		"macos64,macosnotarized"
+		"osextended"		"macos64"
 		"steam_deck_compatibility"
 		{
 			"category"		"2"
@@ -184,6 +184,15 @@
 					"oslist"		"linux"
 				}
 			}
+			"3"
+			{
+				"executable"		"bin/flamebreak"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
 		}
 		"steamcontrollertemplateindex"		"1"
 		"steamcontrollerconfigfileids"		"578426241"
@@ -209,15 +218,15 @@
 			{
 				"public"
 				{
-					"gid"		"2099537136783797666"
-					"size"		"144315579"
-					"download"		"137728480"
+					"gid"		"482999711748877435"
+					"size"		"0"
+					"download"		"0"
 				}
 				"beta"
 				{
-					"gid"		"2099537136783797666"
-					"size"		"144315579"
-					"download"		"137728480"
+					"gid"		"482999711748877435"
+					"size"		"0"
+					"download"		"0"
 				}
 			}
 		}
@@ -233,15 +242,15 @@
 			{
 				"public"
 				{
-					"gid"		"4155957356228048799"
-					"size"		"73505411"
-					"download"		"22081312"
+					"gid"		"4785991838123485151"
+					"size"		"247025525"
+					"download"		"190581040"
 				}
 				"beta"
 				{
-					"gid"		"4155957356228048799"
-					"size"		"73505411"
-					"download"		"22081312"
+					"gid"		"4785991838123485151"
+					"size"		"247025525"
+					"download"		"190581040"
 				}
 			}
 		}
@@ -257,15 +266,15 @@
 			{
 				"public"
 				{
-					"gid"		"3804225060836715139"
-					"size"		"76481745"
-					"download"		"20317520"
+					"gid"		"3350865766235876270"
+					"size"		"252534218"
+					"download"		"190568224"
 				}
 				"beta"
 				{
-					"gid"		"3804225060836715139"
-					"size"		"76481745"
-					"download"		"20317520"
+					"gid"		"3350865766235876270"
+					"size"		"252534218"
+					"download"		"190568224"
 				}
 			}
 		}
@@ -281,15 +290,15 @@
 			{
 				"public"
 				{
-					"gid"		"1935082352100976511"
-					"size"		"84753721"
-					"download"		"24007104"
+					"gid"		"6681532109078778732"
+					"size"		"260922806"
+					"download"		"194004976"
 				}
 				"beta"
 				{
-					"gid"		"1935082352100976511"
-					"size"		"84753721"
-					"download"		"24007104"
+					"gid"		"6681532109078778732"
+					"size"		"260922806"
+					"download"		"194004976"
 				}
 			}
 		}
@@ -297,13 +306,13 @@
 		{
 			"public"
 			{
-				"buildid"		"11496609"
-				"timeupdated"		"1687118827"
+				"buildid"		"12559797"
+				"timeupdated"		"1698468062"
 			}
 			"beta"
 			{
-				"buildid"		"11496609"
-				"timeupdated"		"1687023263"
+				"buildid"		"12559797"
+				"timeupdated"		"1698467491"
 			}
 		}
 	}
@@ -318,6 +327,36 @@
 				"root"		"gameinstall"
 				"path"		"config_cloud"
 				"pattern"		"*"
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"NimblyGames\\Flamebreak\\config_cloud"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"2"
+			{
+				"root"		"MacHome"
+				"path"		"/NimblyGames/Flamebreak/config_cloud"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"MacOS"
+				}
+			}
+			"3"
+			{
+				"root"		"LinuxHome"
+				"path"		".local/NimblyGames/Flamebreak/config_cloud"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Linux"
+				}
 			}
 		}
 	}
