@@ -18,7 +18,7 @@
 			"schinese"		"森灵之心"
 			"tchinese"		"森靈之心"
 		}
-		"osextended"		"macos64"
+		"osextended"		"macos64,macosapplesilicon"
 		"clienticns"		"43494d0e40869e333a8cb9a814206040992d6a79"
 		"linuxclienticon"		"b9e8b310331a4d17f675f2a757fb8c34c3ab11e9"
 		"content_descriptors"
@@ -27,7 +27,8 @@
 		}
 		"has_adult_content"		"1"
 		"metacritic_name"		"Heart of the Woods"
-		"controller_support"		"partial"
+		"controllertagwizard"		"1"
+		"controller_support"		"full"
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
@@ -81,7 +82,11 @@
 			"category_46"		"1"
 			"category_23"		"1"
 			"category_13"		"1"
-			"category_18"		"1"
+			"category_28"		"1"
+			"category_55"		"1"
+			"category_56"		"1"
+			"category_57"		"1"
+			"category_58"		"1"
 		}
 		"supported_languages"
 		{
@@ -122,8 +127,8 @@
 			"0"		"44868"
 			"1"		"3799"
 			"2"		"4604"
-			"3"		"7208"
-			"4"		"4085"
+			"3"		"4085"
+			"4"		"7208"
 			"5"		"11014"
 			"6"		"4947"
 			"7"		"6426"
@@ -196,18 +201,42 @@
 			{
 				"public"
 				{
+					"gid"		"6544874083345549680"
+					"size"		"1863088314"
+					"download"		"1348515888"
+				}
+				"downgrade-2.1"
+				{
 					"gid"		"6329877547068345179"
 					"size"		"1680514696"
 					"download"		"1287784864"
+				}
+				"downgrade-2.1.1"
+				{
+					"gid"		"2444122644140179553"
+					"size"		"1710821598"
+					"download"		"1303396720"
+				}
+				"downgrade-2.1.1.1"
+				{
+					"gid"		"6232783438672094469"
+					"size"		"1710828540"
+					"download"		"1303399104"
+				}
+				"downgrade-2.1.2"
+				{
+					"gid"		"1387447044477108045"
+					"size"		"1857400178"
+					"download"		"1347905280"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"devtesting"
 				{
-					"gid"		"0DDC217900177CFCC4B2550844039553"
-					"size"		"8FB8EFEB4A1FC5BA5462A011B619879E"
-					"download"		"74EA0BBDF4B37F59D7BA3EB1F224D16E"
+					"gid"		"FD895C187F946F220079D40C0F6CF9FA"
+					"size"		"168EDDEA3F8E66C83FBCA09997BDC660"
+					"download"		"FE60340E428EBAF1C984B722BAFDA18F"
 				}
 			}
 		}
@@ -217,6 +246,30 @@
 			"manifests"
 			{
 				"public"
+				{
+					"gid"		"7321377751464412989"
+					"size"		"90288808"
+					"download"		"87064912"
+				}
+				"downgrade-2.1"
+				{
+					"gid"		"7321377751464412989"
+					"size"		"90288808"
+					"download"		"87064912"
+				}
+				"downgrade-2.1.1"
+				{
+					"gid"		"7321377751464412989"
+					"size"		"90288808"
+					"download"		"87064912"
+				}
+				"downgrade-2.1.1.1"
+				{
+					"gid"		"7321377751464412989"
+					"size"		"90288808"
+					"download"		"87064912"
+				}
+				"downgrade-2.1.2"
 				{
 					"gid"		"7321377751464412989"
 					"size"		"90288808"
@@ -238,14 +291,38 @@
 		{
 			"public"
 			{
-				"buildid"		"10588659"
-				"timeupdated"		"1676852129"
+				"buildid"		"12558671"
+				"timeupdated"		"1698452613"
 			}
 			"devtesting"
 			{
-				"buildid"		"11262385"
+				"buildid"		"12558671"
 				"pwdrequired"		"1"
-				"timeupdated"		"1684409736"
+				"timeupdated"		"1698451814"
+			}
+			"downgrade-2.1"
+			{
+				"buildid"		"10588659"
+				"description"		"Select this to downgrade to 2.1. (※ Save data from newer versions may not work correctly.)"
+				"timeupdated"		"1698452355"
+			}
+			"downgrade-2.1.1"
+			{
+				"buildid"		"12558562"
+				"description"		"Select this to downgrade to 2.1.1. (※ Save data from newer versions may not work correctly.)"
+				"timeupdated"		"1698452400"
+			}
+			"downgrade-2.1.1.1"
+			{
+				"buildid"		"12558585"
+				"description"		"Select this to downgrade to 2.1.1.1. (※ Save data from newer versions may not work correctly.)"
+				"timeupdated"		"1698452502"
+			}
+			"downgrade-2.1.2"
+			{
+				"buildid"		"12558612"
+				"description"		"Select this to downgrade to 2.1.2. (※ Save data from newer versions may not work correctly.)"
+				"timeupdated"		"1698452550"
 			}
 		}
 	}
