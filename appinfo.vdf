@@ -140,6 +140,7 @@
 			}
 		}
 		"steam_release_date"		"1695657524"
+		"community_visible_stats"		"1"
 		"community_hub_visible"		"1"
 		"gameid"		"1932680"
 		"store_tags"
@@ -197,18 +198,18 @@
 			{
 				"public"
 				{
-					"gid"		"8127037832437426184"
-					"size"		"426976794"
-					"download"		"375808880"
+					"gid"		"8839178979732489146"
+					"size"		"427943492"
+					"download"		"376201024"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"dev_build"
 				{
-					"gid"		"F3F845ADBE30B31DA61BA27D3E6215D7"
-					"size"		"41638B7995F16DFFEEF0F855AFBE6E04"
-					"download"		"C912B405354D1AC29D37F10949B54FD7"
+					"gid"		"AC6306E8A9092C772C9955A5A975AE46"
+					"size"		"8FCC3C017A9F391BE7FD242A6681E96A"
+					"download"		"43C49C6A58D59FC0396F6AA92268D6E5"
 				}
 			}
 		}
@@ -216,14 +217,29 @@
 		{
 			"public"
 			{
-				"buildid"		"12401225"
-				"timeupdated"		"1696974413"
+				"buildid"		"12552044"
+				"timeupdated"		"1698450649"
 			}
 			"dev_build"
 			{
-				"buildid"		"12165776"
+				"buildid"		"12526387"
 				"pwdrequired"		"1"
-				"timeupdated"		"1696974404"
+				"timeupdated"		"1698450664"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"LunarLux"
+				"pattern"		"*.sav"
+				"recursive"		"1"
 			}
 		}
 	}
