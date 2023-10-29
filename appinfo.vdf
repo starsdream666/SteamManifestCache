@@ -175,18 +175,9 @@
 					"oslist"		"macos"
 				}
 			}
-			"2"
-			{
-				"executable"		"flamebreak"
-				"type"		"default"
-				"config"
-				{
-					"oslist"		"linux"
-				}
-			}
 			"3"
 			{
-				"executable"		"bin/flamebreak"
+				"executable"		"flamebreak"
 				"type"		"default"
 				"config"
 				{
@@ -218,15 +209,15 @@
 			{
 				"public"
 				{
-					"gid"		"482999711748877435"
-					"size"		"0"
-					"download"		"0"
+					"gid"		"2099537136783797666"
+					"size"		"144315579"
+					"download"		"137728480"
 				}
 				"beta"
 				{
-					"gid"		"482999711748877435"
-					"size"		"0"
-					"download"		"0"
+					"gid"		"2099537136783797666"
+					"size"		"144315579"
+					"download"		"137728480"
 				}
 			}
 		}
@@ -242,15 +233,15 @@
 			{
 				"public"
 				{
-					"gid"		"4785991838123485151"
-					"size"		"247025525"
-					"download"		"190581040"
+					"gid"		"4155957356228048799"
+					"size"		"73505411"
+					"download"		"22081312"
 				}
 				"beta"
 				{
-					"gid"		"4785991838123485151"
-					"size"		"247025525"
-					"download"		"190581040"
+					"gid"		"4155957356228048799"
+					"size"		"73505411"
+					"download"		"22081312"
 				}
 			}
 		}
@@ -266,15 +257,15 @@
 			{
 				"public"
 				{
-					"gid"		"3350865766235876270"
-					"size"		"252534218"
-					"download"		"190568224"
+					"gid"		"3804225060836715139"
+					"size"		"76481745"
+					"download"		"20317520"
 				}
 				"beta"
 				{
-					"gid"		"3350865766235876270"
-					"size"		"252534218"
-					"download"		"190568224"
+					"gid"		"3804225060836715139"
+					"size"		"76481745"
+					"download"		"20317520"
 				}
 			}
 		}
@@ -290,15 +281,15 @@
 			{
 				"public"
 				{
-					"gid"		"6681532109078778732"
-					"size"		"260922806"
-					"download"		"194004976"
+					"gid"		"1935082352100976511"
+					"size"		"84753721"
+					"download"		"24007104"
 				}
 				"beta"
 				{
-					"gid"		"6681532109078778732"
-					"size"		"260922806"
-					"download"		"194004976"
+					"gid"		"1935082352100976511"
+					"size"		"84753721"
+					"download"		"24007104"
 				}
 			}
 		}
@@ -306,13 +297,13 @@
 		{
 			"public"
 			{
-				"buildid"		"12559797"
-				"timeupdated"		"1698468062"
+				"buildid"		"11496609"
+				"timeupdated"		"1698559540"
 			}
 			"beta"
 			{
-				"buildid"		"12559797"
-				"timeupdated"		"1698467491"
+				"buildid"		"11496609"
+				"timeupdated"		"1698559452"
 			}
 		}
 	}
@@ -322,40 +313,93 @@
 		"maxnumfiles"		"200"
 		"savefiles"
 		{
-			"0"
-			{
-				"root"		"gameinstall"
-				"path"		"config_cloud"
-				"pattern"		"*"
-			}
 			"1"
 			{
 				"root"		"WinAppDataLocal"
 				"path"		"NimblyGames\\Flamebreak\\config_cloud"
 				"pattern"		"*"
-				"platforms"
-				{
-					"1"		"Windows"
-				}
 			}
 			"2"
 			{
-				"root"		"MacHome"
-				"path"		"/NimblyGames/Flamebreak/config_cloud"
+				"root"		"MacAppSupport"
+				"path"		"NimblyGames/Flamebreak/config_cloud"
 				"pattern"		"*"
-				"platforms"
-				{
-					"1"		"MacOS"
-				}
 			}
 			"3"
 			{
 				"root"		"LinuxHome"
 				"path"		".local/NimblyGames/Flamebreak/config_cloud"
 				"pattern"		"*"
-				"platforms"
+			}
+			"4"
+			{
+				"root"		"gameinstall"
+				"path"		"config_cloud"
+				"pattern"		"*"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"os"		"Windows"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"addpath"		""
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocal"
+				"os"		"Windows"
+				"oscompare"		"="
+				"useinstead"		"LinuxHome"
+				"addpath"		".local/"
+			}
+			"2"
+			{
+				"root"		"MacAppSupport"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"WinAppDataLocal"
+				"addpath"		""
+			}
+			"3"
+			{
+				"root"		"MacAppSupport"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"LinuxHome"
+				"addpath"		".local/"
+			}
+			"4"
+			{
+				"root"		"LinuxHome"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"WinAppDataLocal"
+				"pathtransforms"
 				{
-					"1"		"Linux"
+					"0"
+					{
+						"find"		".local/NimblyGames/Flamebreak/config_cloud"
+						"replace"		"NimblyGames\\Flamebreak\\config_cloud"
+					}
+				}
+			}
+			"5"
+			{
+				"root"		"LinuxHome"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		".local/NimblyGames/Flamebreak/config_cloud"
+						"replace"		"NimblyGames/Flamebreak/config_cloud"
+					}
 				}
 			}
 		}
