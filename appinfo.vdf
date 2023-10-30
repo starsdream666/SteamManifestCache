@@ -23,7 +23,19 @@
 		{
 			"english"		"header.jpg"
 		}
-		"store_asset_mtime"		"1468493142"
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"96.97508896797154"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1698632850"
 		"associations"
 		{
 			"0"
@@ -49,7 +61,6 @@
 			"category_29"		"1"
 			"category_22"		"1"
 			"category_23"		"1"
-			"category_25"		"1"
 			"category_28"		"1"
 		}
 		"supported_languages"
@@ -74,6 +85,19 @@
 			"0"		"492"
 			"1"		"597"
 			"2"		"1664"
+			"3"		"4026"
+			"4"		"3871"
+			"5"		"3834"
+			"6"		"1730"
+			"7"		"4295"
+			"8"		"5502"
+			"9"		"12472"
+			"10"		"5752"
+			"11"		"7481"
+			"12"		"7569"
+			"13"		"6869"
+			"14"		"6625"
+			"15"		"4182"
 		}
 		"review_score"		"6"
 		"review_percentage"		"71"
@@ -82,7 +106,7 @@
 	{
 		"developer"		"SaintHeiser"
 		"publisher"		"Half-Face Games"
-		"homepage"		"http://digital-synthesis.com/game/signull"
+		"homepage"		"https://half-face.games/games/signull"
 	}
 	"config"
 	{
@@ -92,7 +116,7 @@
 		{
 			"0"
 			{
-				"executable"		"SigNULL.exe"
+				"executable"		"Sig_NULL.exe"
 				"type"		"default"
 				"config"
 				{
@@ -113,24 +137,38 @@
 			{
 				"public"
 				{
-					"gid"		"6606594152117108362"
-					"size"		"23718400"
-					"download"		"23974368"
+					"gid"		"841255245848236174"
+					"size"		"74829712"
+					"download"		"58769520"
 				}
 			}
 		}
+		"baselanguages"		"english,russian"
 		"branches"
 		{
 			"public"
 			{
-				"buildid"		"1335697"
-				"timeupdated"		"1473878388"
+				"buildid"		"12567983"
+				"timeupdated"		"1698633649"
 			}
 		}
 	}
 	"ufs"
 	{
-		"quota"		"10000"
+		"quota"		"500000"
 		"maxnumfiles"		"5"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"Sig_NULL/asyncsavegroup/"
+				"pattern"		"*.ini"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
 	}
 }
