@@ -14,6 +14,54 @@
 		"oslist"		"windows"
 		"osarch"		"64"
 		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1698192000"
+			"tested_build_id"		"12484116"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
@@ -192,29 +240,29 @@
 		"gameid"		"1059900"
 		"store_tags"
 		{
-			"0"		"12472"
+			"0"		"9204"
 			"1"		"599"
 			"2"		"255534"
 			"3"		"1654"
 			"4"		"5350"
 			"5"		"6276"
-			"6"		"8945"
-			"7"		"3839"
-			"8"		"21"
-			"9"		"4182"
-			"10"		"15564"
-			"11"		"4328"
+			"6"		"1643"
+			"7"		"8945"
+			"8"		"7332"
+			"9"		"15564"
+			"10"		"4328"
+			"11"		"220585"
 			"12"		"10235"
-			"13"		"7332"
-			"14"		"1643"
-			"15"		"3834"
-			"16"		"597"
-			"17"		"4175"
-			"18"		"4695"
-			"19"		"1702"
+			"13"		"597"
+			"14"		"1662"
+			"15"		"16689"
+			"16"		"4182"
+			"17"		"3839"
+			"18"		"21"
+			"19"		"1742"
 		}
 		"review_score"		"8"
-		"review_percentage"		"84"
+		"review_percentage"		"85"
 	}
 	"extended"
 	{
@@ -290,6 +338,12 @@
 			{
 				"public"
 				{
+					"gid"		"8475971675782297658"
+					"size"		"6123027097"
+					"download"		"5872479824"
+				}
+				"old-version-1.1.3"
+				{
 					"gid"		"3614468566844660249"
 					"size"		"6122806254"
 					"download"		"5872155840"
@@ -305,21 +359,21 @@
 				}
 				"beta"
 				{
-					"gid"		"6989F1CED84240A9157BF2207EE462BD"
-					"size"		"626732BAE51A3156D537FF0B6D452B7D"
-					"download"		"95B49FF300058ABFDFB7A7E2BFB65EB1"
+					"gid"		"C481BA54311425026D0CCA4AE23817D6"
+					"size"		"4DB07753A140759373EEE8FE3FE42A50"
+					"download"		"DC1337D9A191A13BFA7FE0D04E6811F7"
 				}
 				"smoke-test"
 				{
-					"gid"		"EEFC8D87B82612D76DF77AFD2B001EC1"
-					"size"		"B3B361D88D2E9B0762C61E495FA0722D"
-					"download"		"4169B1B9994C22EE44CFC9B2723DCD5E"
+					"gid"		"856830FC23315F03D999E4B1877FE332"
+					"size"		"9AA0905A007BB0DEE8A4B0553ABF431F"
+					"download"		"FD629A0682749FFA4CD2611D88EE7F04"
 				}
 				"smoke-test-beta"
 				{
-					"gid"		"354D416A74FA83AA31F76B2F109D8D04"
-					"size"		"AA0D8FF66D5DBA8B12DB484696CE14FD"
-					"download"		"0595C1B66E61E720D71AA4CD04573EB4"
+					"gid"		"CA09C6B3ABABC90F28A6B594EDB238A7"
+					"size"		"04D7D35CFDAB6885A2E78A1071E10907"
+					"download"		"A8E341F899D077DB5DD6222638FD78B1"
 				}
 			}
 		}
@@ -327,8 +381,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12504605"
-				"timeupdated"		"1697982151"
+				"buildid"		"12570753"
+				"timeupdated"		"1698673452"
 			}
 			"1.0.17"
 			{
@@ -338,21 +392,27 @@
 			}
 			"beta"
 			{
-				"buildid"		"12494888"
+				"buildid"		"12570980"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697819086"
+				"timeupdated"		"1698664298"
+			}
+			"old-version-1.1.3"
+			{
+				"buildid"		"12504605"
+				"description"		"Old Version 1.1.3"
+				"timeupdated"		"1698663022"
 			}
 			"smoke-test"
 			{
-				"buildid"		"12504605"
+				"buildid"		"12570753"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697981050"
+				"timeupdated"		"1698662973"
 			}
 			"smoke-test-beta"
 			{
-				"buildid"		"12494888"
+				"buildid"		"12570980"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697819095"
+				"timeupdated"		"1698664290"
 			}
 		}
 	}
