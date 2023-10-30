@@ -1,0 +1,199 @@
+"appinfo"
+{
+	"appid"		"2536840"
+	"common"
+	{
+		"name"		"GINKA"
+		"type"		"Game"
+		"clienticon"		"92b3befb8fbdbf59073fc24c6f576c37080e6b85"
+		"clienttga"		"6012ea81d68607ad0dfc5610e61f17101373c1fd"
+		"icon"		"8bc70458776dcfa5ddb5d464ec3c3f70bce1a8eb"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"58.584085281181835"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1698228213"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Frontwing"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Frontwing USA"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Bushiroad Inc."
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1698282020"
+		"community_hub_visible"		"1"
+		"gameid"		"2536840"
+		"store_tags"
+		{
+			"0"		"3799"
+			"1"		"4085"
+			"2"		"5608"
+			"3"		"21"
+			"4"		"597"
+			"5"		"1742"
+			"6"		"4947"
+			"7"		"4726"
+			"8"		"1710"
+			"9"		"5984"
+			"10"		"4166"
+			"11"		"12095"
+			"12"		"4182"
+			"13"		"16094"
+			"14"		"5094"
+			"15"		"7250"
+		}
+		"review_score"		"8"
+		"review_percentage"		"91"
+	}
+	"extended"
+	{
+		"developer"		"Frontwing"
+		"publisher"		"Frontwing USA"
+		"homepage"		"http://ginka.frontwing.jp/"
+	}
+	"config"
+	{
+		"installdir"		"GINKA"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"GINKA.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2536841"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8476116338465943243"
+					"size"		"3553990841"
+					"download"		"2888442880"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"7C811F71C50168B5BE1C89985CFECDC8"
+					"size"		"0AD9D228C35FA7C0AB80305E41E8A57E"
+					"download"		"3991E8959EFE9BF0A18DC8CF78CFFB50"
+				}
+			}
+		}
+		"2536842"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2898948434429906227"
+					"size"		"24891225"
+					"download"		"22655168"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"97C33142E866D911F497F43C6AE6B1E1"
+					"size"		"FBC5A1C28F5706851E40C0051C857F94"
+					"download"		"BB795E60629828ABA44A1502D7A55ECF"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12551125"
+				"timeupdated"		"1698395270"
+			}
+			"test"
+			{
+				"buildid"		"12550966"
+				"pwdrequired"		"1"
+				"timeupdated"		"1698393800"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"50000000"
+		"maxnumfiles"		"400"
+	}
+}
