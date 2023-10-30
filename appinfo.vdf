@@ -19,8 +19,8 @@
 			"english"		"1"
 			"schinese"		"1"
 		}
-		"osarch"		""
-		"osextended"		"macos64"
+		"osarch"		"64"
+		"osextended"		"macos64,macosapplesilicon"
 		"steam_deck_compatibility"
 		{
 			"category"		"1"
@@ -50,6 +50,7 @@
 			}
 		}
 		"metacritic_name"		"Highway Blossoms"
+		"controllertagwizard"		"1"
 		"controller_support"		"partial"
 		"small_capsule"
 		{
@@ -106,6 +107,10 @@
 			"category_45"		"1"
 			"category_46"		"1"
 			"category_13"		"1"
+			"category_55"		"1"
+			"category_56"		"1"
+			"category_57"		"1"
+			"category_58"		"1"
 		}
 		"supported_languages"
 		{
@@ -208,14 +213,128 @@
 		{
 			"manifests"
 			{
+				"public"
+				{
+					"gid"		"158683156950159178"
+					"size"		"1689039846"
+					"download"		"1207321328"
+				}
+				"downgrade-1.2"
+				{
+					"gid"		"6403110861612075991"
+					"size"		"1683439156"
+					"download"		"1206709136"
+				}
 			}
 			"encryptedmanifests"
 			{
 				"devtesting"
 				{
-					"gid"		"A9431B52AAFB52622F68A7517E5A92E6"
-					"size"		"B8725B7FA455F0FEF3A349B94800EB4E"
-					"download"		"66F12833063917284420C481381C12E9"
+					"gid"		"FCC9F195DFFCFC22D84F8E46AF0CA4D6"
+					"size"		"F6E76EE543FD4F07CDB883C0D15F6552"
+					"download"		"43C9DEB9560FF97B787D328BBECA2ABC"
+				}
+			}
+		}
+		"490278"
+		{
+			"dlcappid"		"490270"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5238047019276924277"
+					"size"		"500737789"
+					"download"		"477610544"
+				}
+				"downgrade-1.2"
+				{
+					"gid"		"6311029614220398554"
+					"size"		"500737782"
+					"download"		"477610688"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtesting"
+				{
+					"gid"		"45F4B41A5ABFB18EF63B14AEA96285A9"
+					"size"		"51B745ADF6E59C6F2B73DFCD1EEA71C9"
+					"download"		"3EE7025D44DEB933F4662946F649E071"
+				}
+			}
+		}
+		"451769"
+		{
+			"dlcappid"		"943720"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"332980949463580064"
+					"size"		"20090754"
+					"download"		"18843152"
+				}
+				"downgrade-1.2"
+				{
+					"gid"		"7722694985519264146"
+					"size"		"20090748"
+					"download"		"18843072"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtesting"
+				{
+					"gid"		"319E06C8A3F06EE195909289F7EF94FD"
+					"size"		"238A97971D0830114D7A469E985F58F7"
+					"download"		"CB9E7324E1256D9C0D2B9D68FFAD8E3F"
+				}
+			}
+		}
+		"1412300"
+		{
+			"dlcappid"		"1412300"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3728642197670550600"
+					"size"		"133295445"
+					"download"		"123927024"
+				}
+				"downgrade-1.0"
+				{
+					"gid"		"4064036159996580098"
+					"size"		"133290117"
+					"download"		"123926560"
+				}
+				"downgrade-1.1"
+				{
+					"gid"		"4064036159996580098"
+					"size"		"133290117"
+					"download"		"123926560"
+				}
+				"downgrade-1.1.1"
+				{
+					"gid"		"4064036159996580098"
+					"size"		"133290117"
+					"download"		"123926560"
+				}
+				"downgrade-1.2"
+				{
+					"gid"		"3728642197670550600"
+					"size"		"133295445"
+					"download"		"123927024"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtesting"
+				{
+					"gid"		"E40CBBB6F4372EFC76EE7A374F5EB806"
+					"size"		"876A1D4E7E987FC35B32AC67840D0750"
+					"download"		"B6DF68BA6D83BAC2707D36B63DA57D15"
 				}
 			}
 		}
@@ -229,67 +348,42 @@
 			{
 				"public"
 				{
-					"gid"		"3393917060265593859"
-					"size"		"1013043790"
-					"download"		"863207200"
+					"gid"		"3022693068229822212"
+					"size"		"83"
+					"download"		"128"
 				}
-				"original"
+				"downgrade-1.0"
 				{
 					"gid"		"2496060998740377510"
 					"size"		"485269527"
 					"download"		"454681536"
 				}
-				"tempreversion"
+				"downgrade-1.1"
 				{
 					"gid"		"7258408473659318437"
 					"size"		"883462987"
 					"download"		"826970560"
 				}
-			}
-			"encryptedmanifests"
-			{
-				"devtesting"
+				"downgrade-1.1.1"
 				{
-					"gid"		"41C6EC1EECD6782E058C70EE40119F89"
-					"size"		"55EFE27A3BC9EA21CE485E91A09C6856"
-					"download"		"C019A78BEC3640564D417CFCCCE35984"
-				}
-			}
-		}
-		"451763"
-		{
-			"config"
-			{
-				"oslist"		"linux"
-			}
-			"manifests"
-			{
-				"public"
-				{
-					"gid"		"2960695205790650480"
+					"gid"		"3393917060265593859"
 					"size"		"1013043790"
 					"download"		"863207200"
 				}
-				"original"
+				"downgrade-1.2"
 				{
-					"gid"		"7389243301059847364"
-					"size"		"505688048"
-					"download"		"459944192"
-				}
-				"tempreversion"
-				{
-					"gid"		"4287172956752997079"
-					"size"		"909554255"
-					"download"		"833677504"
+					"gid"		"3022693068229822212"
+					"size"		"83"
+					"download"		"128"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"devtesting"
 				{
-					"gid"		"26675ED95709004AABB4108823A284FA"
-					"size"		"55EFE27A3BC9EA21CE485E91A09C6856"
-					"download"		"C019A78BEC3640564D417CFCCCE35984"
+					"gid"		"F816D3D1A77EE5423C88E8F7CE98237B"
+					"size"		"818F676FB06DE0EAFB88B72EA6917DE3"
+					"download"		"09B8495077035AB25EC060FC6EE8D7BF"
 				}
 			}
 		}
@@ -303,174 +397,47 @@
 			{
 				"public"
 				{
-					"gid"		"190388903719221425"
-					"size"		"1013043790"
-					"download"		"863207200"
+					"gid"		"1149221883303914937"
+					"size"		"83"
+					"download"		"128"
 				}
-				"original"
+				"downgrade-1.0"
 				{
 					"gid"		"1481520477007044410"
 					"size"		"487657103"
 					"download"		"455618224"
 				}
-				"tempreversion"
+				"downgrade-1.1"
 				{
 					"gid"		"5612525612123414069"
 					"size"		"885924723"
 					"download"		"827887184"
 				}
-			}
-			"encryptedmanifests"
-			{
-				"devtesting"
+				"downgrade-1.1.1"
 				{
-					"gid"		"48461CFDB0A71241593BBE7D3E73CB7A"
-					"size"		"55EFE27A3BC9EA21CE485E91A09C6856"
-					"download"		"C019A78BEC3640564D417CFCCCE35984"
+					"gid"		"190388903719221425"
+					"size"		"1013043790"
+					"download"		"863207200"
 				}
-			}
-		}
-		"451765"
-		{
-			"config"
-			{
-				"language"		"russian"
-			}
-			"manifests"
-			{
-				"public"
+				"downgrade-1.2"
 				{
-					"gid"		"318004338578586137"
-					"size"		"61"
-					"download"		"112"
-				}
-				"original"
-				{
-					"gid"		"8564752004093436791"
-					"size"		"61"
-					"download"		"112"
-				}
-				"tempreversion"
-				{
-					"gid"		"318004338578586137"
-					"size"		"61"
-					"download"		"112"
+					"gid"		"1149221883303914937"
+					"size"		"83"
+					"download"		"128"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"devtesting"
 				{
-					"gid"		"2CA0D675497DA9D1A1F59C7802239FC7"
-					"size"		"B66E2F6EF4DBE15D622B15A6DCBF6E61"
-					"download"		"852104D7833DDEACA937FC0D879D4AF2"
+					"gid"		"DF3C699BA67CBBDF5E2F01F0DC125D56"
+					"size"		"818F676FB06DE0EAFB88B72EA6917DE3"
+					"download"		"09B8495077035AB25EC060FC6EE8D7BF"
 				}
 			}
 		}
-		"451766"
+		"451763"
 		{
-			"config"
-			{
-				"language"		"schinese"
-			}
-			"manifests"
-			{
-				"public"
-				{
-					"gid"		"1766956453712296006"
-					"size"		"61"
-					"download"		"112"
-				}
-				"tempreversion"
-				{
-					"gid"		"1766956453712296006"
-					"size"		"61"
-					"download"		"112"
-				}
-			}
-			"encryptedmanifests"
-			{
-				"devtesting"
-				{
-					"gid"		"E7CFDC569ACAB0684F1430A703D4CDFE"
-					"size"		"B66E2F6EF4DBE15D622B15A6DCBF6E61"
-					"download"		"852104D7833DDEACA937FC0D879D4AF2"
-				}
-			}
-		}
-		"943720"
-		{
-			"config"
-			{
-				"oslist"		"windows"
-			}
-			"dlcappid"		"943720"
-			"manifests"
-			{
-				"public"
-				{
-					"gid"		"81686643022734386"
-					"size"		"20268518"
-					"download"		"18556624"
-				}
-				"tempreversion"
-				{
-					"gid"		"81686643022734386"
-					"size"		"20268518"
-					"download"		"18556624"
-				}
-			}
-			"encryptedmanifests"
-			{
-				"devtesting"
-				{
-					"gid"		"D3FC46D3A28B002F8C454DAC6C481465"
-					"size"		"5BD0468B05A1821BFC5AD59BBE1A652A"
-					"download"		"0ECA94DEAB2A06BD8FB5A36427AD6410"
-				}
-			}
-		}
-		"451761"
-		{
-			"dlcappid"		"943720"
-			"config"
-			{
-				"oslist"		"macos"
-			}
-			"manifests"
-			{
-				"public"
-				{
-					"gid"		"8036332774312601664"
-					"size"		"20268518"
-					"download"		"18556624"
-				}
-				"original"
-				{
-					"gid"		"8245721974601704803"
-					"size"		"490771716"
-					"download"		"422562560"
-				}
-				"tempreversion"
-				{
-					"gid"		"8036332774312601664"
-					"size"		"20268518"
-					"download"		"18556624"
-				}
-			}
-			"encryptedmanifests"
-			{
-				"devtesting"
-				{
-					"gid"		"CFFB7421B237C95B8768AAD19129604E"
-					"size"		"5BD0468B05A1821BFC5AD59BBE1A652A"
-					"download"		"0ECA94DEAB2A06BD8FB5A36427AD6410"
-				}
-			}
-		}
-		"451767"
-		{
-			"dlcappid"		"943720"
 			"config"
 			{
 				"oslist"		"linux"
@@ -479,80 +446,42 @@
 			{
 				"public"
 				{
-					"gid"		"7634841603401969229"
-					"size"		"20268518"
-					"download"		"18556624"
+					"gid"		"2648954764365395999"
+					"size"		"83"
+					"download"		"128"
 				}
-				"tempreversion"
+				"downgrade-1.0"
 				{
-					"gid"		"7634841603401969229"
-					"size"		"20268518"
-					"download"		"18556624"
+					"gid"		"7389243301059847364"
+					"size"		"505688048"
+					"download"		"459944192"
 				}
-			}
-			"encryptedmanifests"
-			{
-				"devtesting"
+				"downgrade-1.1"
 				{
-					"gid"		"B0B2653704F4ADC0BFF9A25D1958B02D"
-					"size"		"5BD0468B05A1821BFC5AD59BBE1A652A"
-					"download"		"0ECA94DEAB2A06BD8FB5A36427AD6410"
+					"gid"		"4287172956752997079"
+					"size"		"909554255"
+					"download"		"833677504"
 				}
-			}
-		}
-		"1412300"
-		{
-			"dlcappid"		"1412300"
-			"manifests"
-			{
-				"public"
+				"downgrade-1.1.1"
 				{
-					"gid"		"4064036159996580098"
-					"size"		"133290117"
-					"download"		"123926560"
+					"gid"		"2960695205790650480"
+					"size"		"1013043790"
+					"download"		"863207200"
 				}
-				"tempreversion"
+				"downgrade-1.2"
 				{
-					"gid"		"4064036159996580098"
-					"size"		"133290117"
-					"download"		"123926560"
+					"gid"		"2648954764365395999"
+					"size"		"83"
+					"download"		"128"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"devtesting"
 				{
-					"gid"		"E40CBBB6F4372EFC76EE7A374F5EB806"
-					"size"		"876A1D4E7E987FC35B32AC67840D0750"
-					"download"		"B6DF68BA6D83BAC2707D36B63DA57D15"
-				}
-			}
-		}
-		"490270"
-		{
-			"dlcappid"		"490270"
-			"manifests"
-			{
-				"public"
-				{
-					"gid"		"111770558116322297"
-					"size"		"498287198"
-					"download"		"476408016"
-				}
-				"tempreversion"
-				{
-					"gid"		"3367197161221139906"
-					"size"		"81662614"
-					"download"		"74553184"
-				}
-			}
-			"encryptedmanifests"
-			{
-				"devtesting"
-				{
-					"gid"		"D66374A52600EEB83C6493984365F545"
-					"size"		"98EA713D07F1948E0D27A61A754E7ED5"
-					"download"		"1868A349E18965299DCFCFC7F579D776"
+					"gid"		"C66030FBC66C0D90E71169A2D8921EA3"
+					"size"		"818F676FB06DE0EAFB88B72EA6917DE3"
+					"download"		"09B8495077035AB25EC060FC6EE8D7BF"
 				}
 			}
 		}
@@ -567,24 +496,42 @@
 			{
 				"public"
 				{
+					"gid"		"3159981697728392811"
+					"size"		"83"
+					"download"		"128"
+				}
+				"downgrade-1.0"
+				{
 					"gid"		"1674338977352768580"
 					"size"		"498287248"
 					"download"		"476408496"
 				}
-				"tempreversion"
+				"downgrade-1.1"
 				{
 					"gid"		"7290738028510380393"
 					"size"		"496055986"
 					"download"		"475456528"
+				}
+				"downgrade-1.1.1"
+				{
+					"gid"		"1674338977352768580"
+					"size"		"498287248"
+					"download"		"476408496"
+				}
+				"downgrade-1.2"
+				{
+					"gid"		"3159981697728392811"
+					"size"		"83"
+					"download"		"128"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"devtesting"
 				{
-					"gid"		"388516EDBEB529CFAB6B6C5D85F611DA"
-					"size"		"F13C9CE85998553075C1D6E9BCECF53A"
-					"download"		"895F515AD8EB42ACEF0DD71514D8CF86"
+					"gid"		"3209A4A9C14FAF9DE662DB9083D653DC"
+					"size"		"818F676FB06DE0EAFB88B72EA6917DE3"
+					"download"		"09B8495077035AB25EC060FC6EE8D7BF"
 				}
 			}
 		}
@@ -593,30 +540,346 @@
 			"dlcappid"		"490270"
 			"config"
 			{
-				"oslist"		"windows,linux"
+				"oslist"		"windows"
 			}
 			"manifests"
 			{
 				"public"
 				{
+					"gid"		"779064507319565881"
+					"size"		"83"
+					"download"		"128"
+				}
+				"downgrade-1.0"
+				{
 					"gid"		"8104763558557604528"
 					"size"		"498287198"
 					"download"		"476408016"
 				}
-				"tempreversion"
+				"downgrade-1.1"
 				{
 					"gid"		"5419628032884756214"
 					"size"		"496055986"
 					"download"		"475456528"
+				}
+				"downgrade-1.1.1"
+				{
+					"gid"		"8104763558557604528"
+					"size"		"498287198"
+					"download"		"476408016"
+				}
+				"downgrade-1.2"
+				{
+					"gid"		"779064507319565881"
+					"size"		"83"
+					"download"		"128"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"devtesting"
 				{
-					"gid"		"E5022DAF90149258DE6613E66EDA22AB"
-					"size"		"98EA713D07F1948E0D27A61A754E7ED5"
-					"download"		"1868A349E18965299DCFCFC7F579D776"
+					"gid"		"B7E9839074CF838DED6BA34982255073"
+					"size"		"818F676FB06DE0EAFB88B72EA6917DE3"
+					"download"		"09B8495077035AB25EC060FC6EE8D7BF"
+				}
+			}
+		}
+		"490270"
+		{
+			"dlcappid"		"490270"
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5767662136383313620"
+					"size"		"83"
+					"download"		"128"
+				}
+				"downgrade-1.0"
+				{
+					"gid"		"111770558116322297"
+					"size"		"498287198"
+					"download"		"476408016"
+				}
+				"downgrade-1.1"
+				{
+					"gid"		"3367197161221139906"
+					"size"		"81662614"
+					"download"		"74553184"
+				}
+				"downgrade-1.1.1"
+				{
+					"gid"		"111770558116322297"
+					"size"		"498287198"
+					"download"		"476408016"
+				}
+				"downgrade-1.2"
+				{
+					"gid"		"5767662136383313620"
+					"size"		"83"
+					"download"		"128"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtesting"
+				{
+					"gid"		"67EEDEC1971AB34A00277B09C238E9E1"
+					"size"		"818F676FB06DE0EAFB88B72EA6917DE3"
+					"download"		"09B8495077035AB25EC060FC6EE8D7BF"
+				}
+			}
+		}
+		"451761"
+		{
+			"dlcappid"		"943720"
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4248537854735814882"
+					"size"		"83"
+					"download"		"128"
+				}
+				"downgrade-1.0"
+				{
+					"gid"		"8245721974601704803"
+					"size"		"490771716"
+					"download"		"422562560"
+				}
+				"downgrade-1.1"
+				{
+					"gid"		"8036332774312601664"
+					"size"		"20268518"
+					"download"		"18556624"
+				}
+				"downgrade-1.1.1"
+				{
+					"gid"		"8036332774312601664"
+					"size"		"20268518"
+					"download"		"18556624"
+				}
+				"downgrade-1.2"
+				{
+					"gid"		"4248537854735814882"
+					"size"		"83"
+					"download"		"128"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtesting"
+				{
+					"gid"		"D398706AA132236D18DFC1A23C2FC5C0"
+					"size"		"818F676FB06DE0EAFB88B72EA6917DE3"
+					"download"		"09B8495077035AB25EC060FC6EE8D7BF"
+				}
+			}
+		}
+		"943720"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"dlcappid"		"943720"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3475856355152556399"
+					"size"		"83"
+					"download"		"128"
+				}
+				"downgrade-1.0"
+				{
+					"gid"		"81686643022734386"
+					"size"		"20268518"
+					"download"		"18556624"
+				}
+				"downgrade-1.1"
+				{
+					"gid"		"81686643022734386"
+					"size"		"20268518"
+					"download"		"18556624"
+				}
+				"downgrade-1.1.1"
+				{
+					"gid"		"81686643022734386"
+					"size"		"20268518"
+					"download"		"18556624"
+				}
+				"downgrade-1.2"
+				{
+					"gid"		"3475856355152556399"
+					"size"		"83"
+					"download"		"128"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtesting"
+				{
+					"gid"		"D439220D051F6C636B0D8B862E515C21"
+					"size"		"818F676FB06DE0EAFB88B72EA6917DE3"
+					"download"		"09B8495077035AB25EC060FC6EE8D7BF"
+				}
+			}
+		}
+		"451767"
+		{
+			"dlcappid"		"943720"
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2552694113557068723"
+					"size"		"83"
+					"download"		"128"
+				}
+				"downgrade-1.0"
+				{
+					"gid"		"7634841603401969229"
+					"size"		"20268518"
+					"download"		"18556624"
+				}
+				"downgrade-1.1"
+				{
+					"gid"		"7634841603401969229"
+					"size"		"20268518"
+					"download"		"18556624"
+				}
+				"downgrade-1.1.1"
+				{
+					"gid"		"7634841603401969229"
+					"size"		"20268518"
+					"download"		"18556624"
+				}
+				"downgrade-1.2"
+				{
+					"gid"		"2552694113557068723"
+					"size"		"83"
+					"download"		"128"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtesting"
+				{
+					"gid"		"1086473E3F5AB8C15B49970840AB5DAD"
+					"size"		"818F676FB06DE0EAFB88B72EA6917DE3"
+					"download"		"09B8495077035AB25EC060FC6EE8D7BF"
+				}
+			}
+		}
+		"451766"
+		{
+			"config"
+			{
+				"language"		"schinese"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3654140942863713756"
+					"size"		"83"
+					"download"		"128"
+				}
+				"downgrade-1.0"
+				{
+					"gid"		"1766956453712296006"
+					"size"		"61"
+					"download"		"112"
+				}
+				"downgrade-1.1"
+				{
+					"gid"		"1766956453712296006"
+					"size"		"61"
+					"download"		"112"
+				}
+				"downgrade-1.1.1"
+				{
+					"gid"		"1766956453712296006"
+					"size"		"61"
+					"download"		"112"
+				}
+				"downgrade-1.2"
+				{
+					"gid"		"3654140942863713756"
+					"size"		"83"
+					"download"		"128"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtesting"
+				{
+					"gid"		"E2298E3990251CA26AAA96A473EF49BE"
+					"size"		"818F676FB06DE0EAFB88B72EA6917DE3"
+					"download"		"09B8495077035AB25EC060FC6EE8D7BF"
+				}
+			}
+		}
+		"451765"
+		{
+			"config"
+			{
+				"language"		"russian"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3376195825332797889"
+					"size"		"83"
+					"download"		"128"
+				}
+				"downgrade-1.0"
+				{
+					"gid"		"8564752004093436791"
+					"size"		"61"
+					"download"		"112"
+				}
+				"downgrade-1.1"
+				{
+					"gid"		"318004338578586137"
+					"size"		"61"
+					"download"		"112"
+				}
+				"downgrade-1.1.1"
+				{
+					"gid"		"318004338578586137"
+					"size"		"61"
+					"download"		"112"
+				}
+				"downgrade-1.2"
+				{
+					"gid"		"3376195825332797889"
+					"size"		"83"
+					"download"		"128"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtesting"
+				{
+					"gid"		"44F444A0D58785526A6A7F61C43A7599"
+					"size"		"818F676FB06DE0EAFB88B72EA6917DE3"
+					"download"		"09B8495077035AB25EC060FC6EE8D7BF"
 				}
 			}
 		}
@@ -624,26 +887,38 @@
 		{
 			"public"
 			{
-				"buildid"		"9889113"
-				"timeupdated"		"1667873578"
+				"buildid"		"12571594"
+				"timeupdated"		"1698673057"
 			}
 			"devtesting"
 			{
-				"buildid"		"10588608"
+				"buildid"		"12571594"
 				"pwdrequired"		"1"
-				"timeupdated"		"1676850017"
+				"timeupdated"		"1698668502"
 			}
-			"original"
+			"downgrade-1.0"
 			{
-				"buildid"		"2786714"
-				"description"		"For those who still need the original Highway Blossoms. Please note the DLC will be incompatible."
-				"timeupdated"		"1526663783"
+				"buildid"		"12571223"
+				"description"		"Select this to downgrade to 1.0. (※ Save data from newer versions may not work correctly. The Next Exit DLC is also not available in this version.)"
+				"timeupdated"		"1698665802"
 			}
-			"tempreversion"
+			"downgrade-1.1"
 			{
 				"buildid"		"5991382"
-				"description"		"reverts to a stable version of the game while we make corrections"
-				"timeupdated"		"1668220225"
+				"description"		"Select this to downgrade to 1.1. (※ Save data from newer versions may not work correctly.)"
+				"timeupdated"		"1698665876"
+			}
+			"downgrade-1.1.1"
+			{
+				"buildid"		"9889113"
+				"description"		"Select this to downgrade to 1.1.1. (※ Save data from newer versions may not work correctly.)"
+				"timeupdated"		"1698666040"
+			}
+			"downgrade-1.2"
+			{
+				"buildid"		"12571193"
+				"description"		"Select this to downgrade to 1.2. (※ Save data from newer versions may not work correctly.)"
+				"timeupdated"		"1698673040"
 			}
 		}
 	}
