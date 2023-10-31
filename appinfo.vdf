@@ -30,25 +30,25 @@
 		"releasestatesteamchina"		"prerelease"
 		"steam_deck_compatibility"
 		{
-			"category"		"2"
-			"test_timestamp"		"1692921600"
-			"tested_build_id"		"12021906"
+			"category"		"3"
+			"test_timestamp"		"1697760000"
+			"tested_build_id"		"12263810"
 			"tests"
 			{
 				"0"
 				{
-					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 				}
 				"1"
 				{
 					"display"		"4"
-					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
 				}
 				"2"
 				{
 					"display"		"4"
-					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
 				}
 				"3"
 				{
@@ -63,7 +63,7 @@
 				"requires_non_controller_launcher_nav"		"0"
 				"primary_player_is_controller_slot_0"		"0"
 				"non_deck_display_glyphs"		"0"
-				"small_text"		"1"
+				"small_text"		"0"
 				"requires_internet_for_setup"		"0"
 				"requires_internet_for_singleplayer"		"0"
 				"recommended_runtime"		"proton-stable"
@@ -98,7 +98,7 @@
 				"height_pct"		"62.196089542498186"
 			}
 		}
-		"store_asset_mtime"		"1693549907"
+		"store_asset_mtime"		"1697772787"
 		"associations"
 		{
 			"0"
@@ -154,15 +154,15 @@
 		{
 			"0"		"42804"
 			"1"		"4106"
-			"2"		"1625"
-			"3"		"1628"
+			"2"		"1628"
+			"3"		"1625"
 			"4"		"3964"
 			"5"		"4711"
-			"6"		"5125"
-			"7"		"19"
-			"8"		"3871"
-			"9"		"492"
-			"10"		"3959"
+			"6"		"19"
+			"7"		"3871"
+			"8"		"5125"
+			"9"		"3959"
+			"10"		"492"
 			"11"		"4158"
 			"12"		"4115"
 			"13"		"3835"
@@ -174,7 +174,7 @@
 			"19"		"4182"
 		}
 		"review_score"		"8"
-		"review_percentage"		"87"
+		"review_percentage"		"88"
 	}
 	"extended"
 	{
@@ -228,14 +228,14 @@
 			}
 			"public"
 			{
-				"buildid"		"12263810"
-				"timeupdated"		"1695467038"
+				"buildid"		"12572611"
+				"timeupdated"		"1698718849"
 			}
 			"innertest"
 			{
-				"buildid"		"12263810"
+				"buildid"		"12572611"
 				"pwdrequired"		"1"
-				"timeupdated"		"1695465906"
+				"timeupdated"		"1698675835"
 			}
 			"onlyfor91ceo"
 			{
@@ -273,18 +273,18 @@
 			{
 				"public"
 				{
-					"gid"		"181023323220617828"
-					"size"		"4945440677"
-					"download"		"4127855088"
+					"gid"		"4676196043494597081"
+					"size"		"5436798398"
+					"download"		"4600506176"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"innertest"
 				{
-					"gid"		"1D64EAC87AB9916EB3A4F36E31153938"
-					"size"		"324A51888B4BC4C0EACEE07BFCC99230"
-					"download"		"A7B1FFFD0B734B0CA160A32EBF1841F2"
+					"gid"		"6B007BD03B24ED8A644C9EC09C0CAABF"
+					"size"		"D661E49B037524B6409E6EC3FAFC091A"
+					"download"		"43881E299B9773BCB6B51AC2061FCE48"
 				}
 				"onlyfor91ceo"
 				{
