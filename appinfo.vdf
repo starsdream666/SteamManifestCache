@@ -37,7 +37,7 @@
 				"height_pct"		"100"
 			}
 		}
-		"store_asset_mtime"		"1656002224"
+		"store_asset_mtime"		"1698312180"
 		"associations"
 		{
 			"0"
@@ -179,8 +179,8 @@
 	{
 		"developer"		"Might and Delight"
 		"publisher"		"Might and Delight"
-		"homepage"		"https://mightanddelight.com/home-2/projects/"
-		"listofdlc"		"813460,815410,942280,1179550"
+		"homepage"		"https://www.mightanddelight.com/shelter"
+		"listofdlc"		"813460,815410,942280,1179550,2615950,2615960,2615980,2615990,2616000,2616010"
 		"dlcavailableonstore"		"1"
 	}
 	"config"
@@ -211,13 +211,16 @@
 			}
 			"2"
 			{
-				"executable"		"Meadow.x86"
-				"description"		"Launch"
-				"type"		"none"
+				"executable"		"Meadow.x86_64"
 				"config"
 				{
 					"oslist"		"linux"
 				}
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
 			}
 		}
 	}
@@ -232,6 +235,12 @@
 			"manifests"
 			{
 				"public"
+				{
+					"gid"		"6856692824461875550"
+					"size"		"1783163662"
+					"download"		"862954928"
+				}
+				"meadow_classic"
 				{
 					"gid"		"3795766356153976002"
 					"size"		"1715795991"
@@ -248,9 +257,9 @@
 				}
 				"internal_test"
 				{
-					"gid"		"7311D7863EDF85086246B66462479276"
-					"size"		"C30D94F214510533F28095021C11393E"
-					"download"		"486A71EAEF3B2D573DE1DE3F39724DAE"
+					"gid"		"3F97EE105BA1CA737C2ECEE78D13FF70"
+					"size"		"7C2F16A36A80B48B886874068CCF4282"
+					"download"		"5222F5CE03117CC39CC84FA8697D38E3"
 				}
 				"internal_test_test"
 				{
@@ -266,9 +275,9 @@
 				}
 				"public_beta"
 				{
-					"gid"		"9DE50601424126038ACB6BC8C07C1FEA"
-					"size"		"E84836DBE759B13A49FCE5ECD2B452C5"
-					"download"		"B4DE0DB33611D5E3BB7D65968F8DBD52"
+					"gid"		"03C3125BB65D6B72C1BCD1380A44B316"
+					"size"		"BAE4969FF37631D6BC9BC301041617B4"
+					"download"		"22690EF15D0480CAE24F14E04777A21A"
 				}
 				"qa_debug"
 				{
@@ -287,6 +296,12 @@
 			"manifests"
 			{
 				"public"
+				{
+					"gid"		"6229266921655721855"
+					"size"		"1726518734"
+					"download"		"855902480"
+				}
+				"meadow_classic"
 				{
 					"gid"		"6229266921655721855"
 					"size"		"1726518734"
@@ -321,9 +336,9 @@
 				}
 				"public_beta"
 				{
-					"gid"		"2200DFDF33AB7F479AE1FFCA312C358E"
-					"size"		"AC4D70A93E6D5DF9CEB9C32C9B1B21AC"
-					"download"		"9F3824B5D2960E511FF36E8AC9E6CC93"
+					"gid"		"A522601C1588FA231C4344B7476397B7"
+					"size"		"E16A7B690247ECDCC9DCF74A8F3C7A06"
+					"download"		"0A2F66C7DE62EBB5F2053926434DC6A3"
 				}
 				"qa_debug"
 				{
@@ -343,6 +358,12 @@
 			{
 				"public"
 				{
+					"gid"		"6312655219385206387"
+					"size"		"1793298066"
+					"download"		"865772544"
+				}
+				"meadow_classic"
+				{
 					"gid"		"1253640617296707745"
 					"size"		"1718105526"
 					"download"		"852752928"
@@ -358,9 +379,9 @@
 				}
 				"internal_test"
 				{
-					"gid"		"BAB3AA660DF1494B6AECB991B5E65C18"
-					"size"		"8479587028013702929FF0EE9581225F"
-					"download"		"CA737D329C638E85D5418195A4A50956"
+					"gid"		"6958D8260E4F05216DD3F19F0D415A51"
+					"size"		"81FAB10C1690162E7362F17349A826C3"
+					"download"		"69B645BB5C46C5C847AF4B1C11A02B23"
 				}
 				"internal_test_test"
 				{
@@ -376,9 +397,9 @@
 				}
 				"public_beta"
 				{
-					"gid"		"1A93CB290592E5AA415E3225B9F58C83"
-					"size"		"4C6DF191A3C60E87637D141D9D98D5A5"
-					"download"		"4F5EDD7CD287512E243ED8B96C0B7B25"
+					"gid"		"F1FF13A0D4A27FFD4AACBE9FEDCC7CD6"
+					"size"		"4FC14553848B1565F8CC44159CE685CC"
+					"download"		"7E0D6C712015A30E07A23FD507A2E58C"
 				}
 				"qa_debug"
 				{
@@ -394,6 +415,12 @@
 			"manifests"
 			{
 				"public"
+				{
+					"gid"		"3496172697187397409"
+					"size"		"13443961"
+					"download"		"13134896"
+				}
+				"meadow_classic"
 				{
 					"gid"		"3496172697187397409"
 					"size"		"13443961"
@@ -439,6 +466,12 @@
 					"size"		"501290324"
 					"download"		"490016816"
 				}
+				"meadow_classic"
+				{
+					"gid"		"1138534772719145826"
+					"size"		"501290324"
+					"download"		"490016816"
+				}
 			}
 			"encryptedmanifests"
 			{
@@ -474,6 +507,12 @@
 			"manifests"
 			{
 				"public"
+				{
+					"gid"		"1281047256000161663"
+					"size"		"403959026"
+					"download"		"158061344"
+				}
+				"meadow_classic"
 				{
 					"gid"		"1281047256000161663"
 					"size"		"403959026"
@@ -519,6 +558,12 @@
 					"size"		"99571733"
 					"download"		"100038112"
 				}
+				"meadow_classic"
+				{
+					"gid"		"6359326727835374233"
+					"size"		"99571733"
+					"download"		"100038112"
+				}
 			}
 			"encryptedmanifests"
 			{
@@ -559,6 +604,12 @@
 			{
 				"public"
 				{
+					"gid"		"8659184868380370157"
+					"size"		"1809852768"
+					"download"		"874195200"
+				}
+				"meadow_classic"
+				{
 					"gid"		"4516534794094541383"
 					"size"		"1729406198"
 					"download"		"856337776"
@@ -568,9 +619,9 @@
 			{
 				"internal_test"
 				{
-					"gid"		"D6FDA53151B3DCFAB65B5C0CA515CEAF"
-					"size"		"72D1DE3D7D736DADED666C56522A376B"
-					"download"		"B0782C5CF0ED9D28DA89BB3E4B7040E7"
+					"gid"		"CCB1BC25FE07D12E4F95B6A838785072"
+					"size"		"13A3EF66DEE77AF08840D4B56009528F"
+					"download"		"895A1E437092421ED8154E1FC52995CA"
 				}
 				"internal_test_test"
 				{
@@ -586,9 +637,9 @@
 				}
 				"public_beta"
 				{
-					"gid"		"D1C5F51F244DCA08126DD4219B236CC8"
-					"size"		"E777AE11731BCDEEE36DE9646DECB7D5"
-					"download"		"45E3C256B7CD34A363CF3B7DC36B5353"
+					"gid"		"8ABEBE228903928EEC9AA0BEECC2BDFE"
+					"size"		"431E6B6516EA0612EE264FAAFABE9EB8"
+					"download"		"71783ED7AC9BA61B29A0A2B2B232A4AC"
 				}
 			}
 		}
@@ -601,14 +652,26 @@
 			}
 			"manifests"
 			{
+				"public"
+				{
+					"gid"		"247994332587576623"
+					"size"		"1792944398"
+					"download"		"867042992"
+				}
 			}
 			"encryptedmanifests"
 			{
+				"internal_test"
+				{
+					"gid"		"7E291F8A055A1424CD6D93B8C2DB2E66"
+					"size"		"9B594EC36F0A212880796CB84B425427"
+					"download"		"052EE177C356E06022B63B9624D7971F"
+				}
 				"public_beta"
 				{
-					"gid"		"4103773EE538FED43BE2713EFF2F451D"
-					"size"		"6148B001FF5C9824B61E6BD552A733F6"
-					"download"		"7E1A6CF7D733B6B0D32523B4F8829B2D"
+					"gid"		"D6D1B7E1FF99F683B8CC7D2C4EBFA18B"
+					"size"		"6C7173C80366FF9653C18B3CAC8B8850"
+					"download"		"78BD3D89E61E4069A8151E5D57B8A8A7"
 				}
 			}
 		}
@@ -616,8 +679,8 @@
 		{
 			"public"
 			{
-				"buildid"		"6886928"
-				"timeupdated"		"1623938762"
+				"buildid"		"12592539"
+				"timeupdated"		"1698847333"
 			}
 			"external_test"
 			{
@@ -627,9 +690,9 @@
 			}
 			"internal_test"
 			{
-				"buildid"		"6886928"
+				"buildid"		"12592074"
 				"pwdrequired"		"1"
-				"timeupdated"		"1623938467"
+				"timeupdated"		"1698843452"
 			}
 			"internal_test_test"
 			{
@@ -643,11 +706,17 @@
 				"pwdrequired"		"1"
 				"timeupdated"		"1583505761"
 			}
+			"meadow_classic"
+			{
+				"buildid"		"6886928"
+				"description"		"a branch to preserve the classic meadow build"
+				"timeupdated"		"1696850496"
+			}
 			"public_beta"
 			{
-				"buildid"		"11613859"
+				"buildid"		"12590968"
 				"pwdrequired"		"1"
-				"timeupdated"		"1688385498"
+				"timeupdated"		"1698837283"
 			}
 			"qa_debug"
 			{
