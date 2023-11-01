@@ -149,17 +149,17 @@
 			"7"		"4145"
 			"8"		"1697"
 			"9"		"1742"
-			"10"		"5984"
-			"11"		"4168"
-			"12"		"1678"
-			"13"		"1708"
+			"10"		"4168"
+			"11"		"1708"
+			"12"		"5984"
+			"13"		"1678"
 			"14"		"4667"
 			"15"		"4182"
 			"16"		"13276"
 			"17"		"1756"
 		}
 		"review_score"		"5"
-		"review_percentage"		"42"
+		"review_percentage"		"53"
 	}
 	"extended"
 	{
@@ -217,18 +217,30 @@
 			{
 				"public"
 				{
-					"gid"		"5915926012597222203"
-					"size"		"16423516188"
-					"download"		"12065611216"
+					"gid"		"8299978135686283913"
+					"size"		"16423558918"
+					"download"		"12065651520"
 				}
 			}
 			"encryptedmanifests"
 			{
+				"beta"
+				{
+					"gid"		"C104A303DCFF1D53DB8EAC272843CBE1"
+					"size"		"718F75320D4113CDC9CAE810059FB5C5"
+					"download"		"2464E74A95007E4C8DC9324D445C2267"
+				}
+				"develop"
+				{
+					"gid"		"5E09D3972D60156F1AC9CB6642866BA5"
+					"size"		"62E0FA91F404F0423B4A06FDE074CE61"
+					"download"		"4091109A3388C0F2375E217A9E6457C2"
+				}
 				"staging"
 				{
-					"gid"		"A6826047AB5FEB2B56F9487446C8F187"
-					"size"		"7DD67E9F33346DBBE403E1D09780743D"
-					"download"		"AA7363AA75E38F47CDFE4642A0DC719C"
+					"gid"		"14A2108A0B29BE3C693CCA2FE1F6F148"
+					"size"		"AAD98B75E7438786736A8A641D19DF0F"
+					"download"		"5DC245351D3307674CB54232B3DDFEF0"
 				}
 			}
 		}
@@ -242,18 +254,30 @@
 			{
 				"public"
 				{
-					"gid"		"5236431448056204510"
-					"size"		"16325887686"
-					"download"		"12041176976"
+					"gid"		"6331026824342138225"
+					"size"		"16325930416"
+					"download"		"12041214688"
 				}
 			}
 			"encryptedmanifests"
 			{
+				"beta"
+				{
+					"gid"		"8E350AD015E703EEDA9FCAA0B007F43C"
+					"size"		"F5EEC30C63A07A2671EAE0E1E5B6E032"
+					"download"		"8481AC6B4BB428CAD64BAD17EEB5897A"
+				}
+				"develop"
+				{
+					"gid"		"472F7A052175410E18C62A6A59E816A5"
+					"size"		"18EAE3DE09F75C495E53A6E7A740358C"
+					"download"		"D80F97C6CB9491B4B5A63352CA7AEAED"
+				}
 				"staging"
 				{
-					"gid"		"2EB37321879B122C63004C22C7F12881"
-					"size"		"4E0C248FA186B3AFD95A9693BC8B3A4C"
-					"download"		"4105938D975F3C75C188F66D8BB8ACFF"
+					"gid"		"A46F601A31D65199937B936BE51625DF"
+					"size"		"9FB51AFCC4F26A5A20B9EAEBB41AC7E1"
+					"download"		"CDCEB5602A5B236321D25469FB048A0F"
 				}
 			}
 		}
@@ -271,6 +295,18 @@
 			}
 			"encryptedmanifests"
 			{
+				"beta"
+				{
+					"gid"		"6829A3629F73E9F6B3A67AF7D3FF5BA9"
+					"size"		"DE4A5813A16D8AD9035E1A56FEDA9231"
+					"download"		"2E6A6F531B2CF2E3973B8DE16E6C07E1"
+				}
+				"develop"
+				{
+					"gid"		"E2809088E3A213A26426F4320D8724EE"
+					"size"		"94FAA0353BBDD7FBFA91F4D2A9BCF686"
+					"download"		"DEB0323F7B07754678AD098392562FF6"
+				}
 				"staging"
 				{
 					"gid"		"1A5384B2329FD018643FC05352B45B13"
@@ -297,6 +333,18 @@
 			}
 			"encryptedmanifests"
 			{
+				"beta"
+				{
+					"gid"		"5F846B6323A4AFE51FE6610BFEC83605"
+					"size"		"6B7FD80B20F682F9540336164068BD7D"
+					"download"		"B8F86C72E6BDAF0A411B5BE984B72F03"
+				}
+				"develop"
+				{
+					"gid"		"E2BE7051374DE700CE3A6D67E7A29DBF"
+					"size"		"94F79D245241145893AF75C8B8620236"
+					"download"		"08F099B9E181AE5E4EC452B73727F92D"
+				}
 				"staging"
 				{
 					"gid"		"04C1BEFECEA13D82025AD44D776A60F8"
@@ -313,16 +361,47 @@
 		{
 			"public"
 			{
-				"buildid"		"12490681"
-				"timeupdated"		"1698048085"
+				"buildid"		"12551250"
+				"timeupdated"		"1698833359"
+			}
+			"beta"
+			{
+				"buildid"		"12551250"
+				"pwdrequired"		"1"
+				"timeupdated"		"1698657658"
+			}
+			"develop"
+			{
+				"buildid"		"12551250"
+				"pwdrequired"		"1"
+				"timeupdated"		"1698396275"
 			}
 			"staging"
 			{
-				"buildid"		"12490681"
+				"buildid"		"12540186"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697790653"
+				"timeupdated"		"1698309491"
 			}
 		}
 		"appmanagesdlc"		"1"
+	}
+	"ufs"
+	{
+		"quota"		"70000000"
+		"maxnumfiles"		"600"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"mgs2_savedata_win/{64BitSteamID}"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
 	}
 }
