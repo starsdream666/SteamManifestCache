@@ -35,7 +35,7 @@
 		{
 			"library_logo"		"en,zh-xc"
 		}
-		"store_asset_mtime"		"1673866215"
+		"store_asset_mtime"		"1698906104"
 		"associations"
 		{
 			"0"
@@ -57,6 +57,11 @@
 		"steam_release_date"		"1653530220"
 		"gameid"		"1720400"
 		"exfgls"		"1"
+		"store_tags"
+		{
+		}
+		"review_score"		"7"
+		"review_percentage"		"100"
 	}
 	"extended"
 	{
@@ -77,6 +82,31 @@
 	}
 	"depots"
 	{
+		"branches"
+		{
+			"steam_china_only"
+			{
+				"sc_schinese"		"仅中国"
+			}
+			"public"
+			{
+				"buildid"		"12601900"
+				"timeupdated"		"1698929978"
+			}
+			"local"
+			{
+				"buildid"		"7806599"
+				"description"		"Local Content Server"
+				"lcsrequired"		"1"
+				"timeupdated"		"1638339520"
+			}
+			"test"
+			{
+				"buildid"		"12601900"
+				"pwdrequired"		"1"
+				"timeupdated"		"1698929886"
+			}
+		}
 		"1720401"
 		{
 			"config"
@@ -87,9 +117,9 @@
 			{
 				"public"
 				{
-					"gid"		"2142533582318538832"
-					"size"		"1466433590"
-					"download"		"1294208688"
+					"gid"		"3040806650766807720"
+					"size"		"1811214904"
+					"download"		"1615936464"
 				}
 				"local"
 				{
@@ -102,62 +132,37 @@
 			{
 				"test"
 				{
-					"gid"		"B88223CA90CD269E02A12486ED4CCF79"
-					"size"		"C40D6340FAD88CF915AB515DFC478DAC"
-					"download"		"D9A82EE962B1354A9408F721BAA91FEC"
+					"gid"		"74D46BECBA3A5A0B73A3D34908A94F85"
+					"size"		"FF1CF4ACB38581FDA34A3E853AA3F98C"
+					"download"		"645219EC79C46BAA941FA266EE26C01F"
 				}
 			}
 		}
-		"1720403"
+		"1720402"
 		{
 			"manifests"
 			{
 				"public"
 				{
-					"gid"		"1035251475985330113"
-					"size"		"284861982"
-					"download"		"242507936"
+					"gid"		"7379608686024701447"
+					"size"		"310787052"
+					"download"		"268470416"
 				}
 				"local"
 				{
-					"gid"		"7484659813989937363"
-					"size"		"253690661"
-					"download"		"215537392"
+					"gid"		"1541011561493913878"
+					"size"		"1143239200"
+					"download"		"990034128"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"test"
 				{
-					"gid"		"3908ACA4A0E4BC9DF7F2678BDF3B3A11"
-					"size"		"B483DA7E06162537E805D5A0F7836937"
-					"download"		"4A5ACF5C22185859D9BCC62784B7AF27"
+					"gid"		"2BE9506F6D23D1495441C4E4F26D7122"
+					"size"		"1D496B9190F1844660FEC2CA6B14750E"
+					"download"		"4A0681E6F6FC9EB74EA8ECC010821D9E"
 				}
-			}
-		}
-		"branches"
-		{
-			"steam_china_only"
-			{
-				"sc_schinese"		"仅中国"
-			}
-			"public"
-			{
-				"buildid"		"9423309"
-				"timeupdated"		"1662106556"
-			}
-			"local"
-			{
-				"buildid"		"7806599"
-				"description"		"Local Content Server"
-				"lcsrequired"		"1"
-				"timeupdated"		"1638339520"
-			}
-			"test"
-			{
-				"buildid"		"9423309"
-				"pwdrequired"		"1"
-				"timeupdated"		"1661941935"
 			}
 		}
 	}
@@ -694,6 +699,196 @@
 				"m"		"1"
 				"s"		"1"
 				"internationalname"		"The Outlaw"
+				"languagecode"		"zh-cn"
+			}
+			"40"
+			{
+				"discnumber"		"1"
+				"tracknumber"		"41"
+				"originalname"		"发掘旧世界"
+				"m"		"1"
+				"s"		"44"
+				"internationalname"		"From the Sky to Underground"
+				"languagecode"		"zh-cn"
+			}
+			"41"
+			{
+				"discnumber"		"1"
+				"tracknumber"		"42"
+				"originalname"		"过去与未来"
+				"m"		"1"
+				"s"		"28"
+				"internationalname"		"Launch Delayed"
+				"languagecode"		"zh-cn"
+			}
+			"42"
+			{
+				"discnumber"		"1"
+				"tracknumber"		"43"
+				"originalname"		"深入虎穴"
+				"m"		"1"
+				"s"		"43"
+				"internationalname"		"The Tiger's Den"
+				"languagecode"		"zh-cn"
+			}
+			"43"
+			{
+				"discnumber"		"1"
+				"tracknumber"		"44"
+				"originalname"		"存亡一战"
+				"m"		"0"
+				"s"		"56"
+				"internationalname"		"The Ultimate Weapon"
+				"languagecode"		"zh-cn"
+			}
+			"44"
+			{
+				"discnumber"		"1"
+				"tracknumber"		"45"
+				"originalname"		"沉睡的秘密"
+				"m"		"1"
+				"s"		"4"
+				"internationalname"		"Rediscovery"
+				"languagecode"		"zh-cn"
+			}
+			"45"
+			{
+				"discnumber"		"1"
+				"tracknumber"		"46"
+				"originalname"		"生物危机"
+				"m"		"0"
+				"s"		"52"
+				"internationalname"		"Biohazard"
+				"languagecode"		"zh-cn"
+			}
+			"46"
+			{
+				"discnumber"		"1"
+				"tracknumber"		"47"
+				"originalname"		"意外一战"
+				"m"		"1"
+				"s"		"44"
+				"internationalname"		"Biohazard Sequel"
+				"languagecode"		"zh-cn"
+			}
+			"47"
+			{
+				"discnumber"		"1"
+				"tracknumber"		"48"
+				"originalname"		"科学气息"
+				"m"		"1"
+				"s"		"28"
+				"internationalname"		"Birthplace of Invention"
+				"languagecode"		"zh-cn"
+			}
+			"48"
+			{
+				"discnumber"		"1"
+				"tracknumber"		"49"
+				"originalname"		"幸福的开始"
+				"m"		"0"
+				"s"		"30"
+				"internationalname"		"Sandrock Wedding in E"
+				"languagecode"		"zh-cn"
+			}
+			"49"
+			{
+				"discnumber"		"1"
+				"tracknumber"		"50"
+				"originalname"		"静静生长"
+				"m"		"0"
+				"s"		"48"
+				"internationalname"		"Cradle of Green"
+				"languagecode"		"zh-cn"
+			}
+			"50"
+			{
+				"discnumber"		"1"
+				"tracknumber"		"51"
+				"originalname"		"圆满落幕"
+				"m"		"2"
+				"s"		"8"
+				"internationalname"		"Time Well Spent"
+				"languagecode"		"zh-cn"
+			}
+			"51"
+			{
+				"discnumber"		"1"
+				"tracknumber"		"52"
+				"originalname"		"鼠鼠大作战"
+				"m"		"1"
+				"s"		"8"
+				"internationalname"		"Holy Whac-a-moley"
+				"languagecode"		"zh-cn"
+			}
+			"52"
+			{
+				"discnumber"		"1"
+				"tracknumber"		"53"
+				"originalname"		"金沙飞舞"
+				"m"		"0"
+				"s"		"32"
+				"internationalname"		"Not Sandsledding, Sandrunning!"
+				"languagecode"		"zh-cn"
+			}
+			"53"
+			{
+				"discnumber"		"1"
+				"tracknumber"		"54"
+				"originalname"		"手舞足蹈"
+				"m"		"1"
+				"s"		"7"
+				"internationalname"		"Hoedown at High Noon"
+				"languagecode"		"zh-cn"
+			}
+			"54"
+			{
+				"discnumber"		"1"
+				"tracknumber"		"55"
+				"originalname"		"节奏达人"
+				"m"		"0"
+				"s"		"54"
+				"internationalname"		"Hoedown Throwdown"
+				"languagecode"		"zh-cn"
+			}
+			"55"
+			{
+				"discnumber"		"1"
+				"tracknumber"		"56"
+				"originalname"		"宇宙淘金"
+				"m"		"0"
+				"s"		"56"
+				"internationalname"		"Grabulous Prizes"
+				"languagecode"		"zh-cn"
+			}
+			"56"
+			{
+				"discnumber"		"1"
+				"tracknumber"		"57"
+				"originalname"		"惬意麻将"
+				"m"		"0"
+				"s"		"58"
+				"internationalname"		"Mahjong and Chill"
+				"languagecode"		"zh-cn"
+			}
+			"57"
+			{
+				"discnumber"		"1"
+				"tracknumber"		"58"
+				"originalname"		"拳拳高分"
+				"m"		"0"
+				"s"		"55"
+				"internationalname"		"Punch-out"
+				"languagecode"		"zh-cn"
+			}
+			"58"
+			{
+				"discnumber"		"1"
+				"tracknumber"		"59"
+				"originalname"		"冒险旅程"
+				"m"		"0"
+				"s"		"37"
+				"internationalname"		"Adventure within an Adventure"
 				"languagecode"		"zh-cn"
 			}
 		}
