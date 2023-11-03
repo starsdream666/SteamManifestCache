@@ -1,0 +1,245 @@
+"appinfo"
+{
+	"appid"		"2450820"
+	"common"
+	{
+		"name"		"Radiant Silvergun"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"spanish"		"1"
+			"japanese"		"1"
+		}
+		"clienticon"		"e7a6fadaf0a1beecdc42023f6f9bce7bd7e16fe5"
+		"clienttga"		"4695b553f61532173f7ff5d31fe6e4f61efc6615"
+		"icon"		"45354c5a566a312ff12b3811665619d434818bca"
+		"releasestate"		"released"
+		"controllertagwizard"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1698941797"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Live Wire"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Treasure"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Live Wire"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_25"		"1"
+			"category_44"		"1"
+			"category_28"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_55"		"1"
+			"category_56"		"1"
+			"category_57"		"1"
+			"category_58"		"1"
+			"category_59"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1698937291"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2450820"
+		"store_tags"
+		{
+			"0"		"4255"
+			"1"		"4885"
+			"2"		"4637"
+			"3"		"4026"
+			"4"		"1774"
+			"5"		"1773"
+			"6"		"122"
+			"7"		"4975"
+			"8"		"3835"
+			"9"		"7481"
+			"10"		"1742"
+			"11"		"4191"
+			"12"		"19"
+			"13"		"4085"
+			"14"		"3942"
+			"15"		"5154"
+			"16"		"4342"
+			"17"		"4295"
+			"18"		"4004"
+			"19"		"4182"
+		}
+		"review_score"		"7"
+		"review_percentage"		"81"
+	}
+	"extended"
+	{
+		"anti_cheat_support_url"		"https://www.easy.ac/r/steam/gamebans/?steamAppId=2450820"
+		"developer"		"Live Wire"
+		"publisher"		"Live Wire"
+		"homepage"		"https://www.live-wire.co.jp/radiantsilvergun"
+	}
+	"config"
+	{
+		"installdir"		"Radiant Silvergun"
+		"steamdecktouchscreen"		"5"
+		"steamconfigurator3rdpartynative"		"65535"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"RS.exe"
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,italian,spanish,japanese"
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2450822"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8956686512233937598"
+					"size"		"1019083436"
+					"download"		"915842896"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"quality_assurance"
+				{
+					"gid"		"06529EC6E7974A8C0134ABBE84E43D3B"
+					"size"		"5A5EDBA4538D20E78E1BF58F21D0BAF0"
+					"download"		"A4DA42CB9BE07C870D7C9F3BE0595CBE"
+				}
+				"staging"
+				{
+					"gid"		"00582C50124CEDEDF4423FC39F534D16"
+					"size"		"C3FACAF239E2179FAA0DB9CFA8368A4B"
+					"download"		"1630D2489A2B9403A85A6495527B7ECC"
+				}
+			}
+		}
+		"2450829"
+		{
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12598641"
+				"timeupdated"		"1698913510"
+			}
+			"quality_assurance"
+			{
+				"buildid"		"12598641"
+				"pwdrequired"		"1"
+				"timeupdated"		"1698903021"
+			}
+			"staging"
+			{
+				"buildid"		"12598641"
+				"pwdrequired"		"1"
+				"timeupdated"		"1698903539"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"500"
+	}
+}
