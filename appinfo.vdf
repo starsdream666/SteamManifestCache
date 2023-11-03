@@ -311,7 +311,7 @@
 			"0"
 			{
 				"executable"		"rust.exe"
-				"arguments"		"-logfile \"output_log.txt\" -disable-gpu-skinning --normal-rendering"
+				"arguments"		"-logfile \"output_log.txt\" -disable-gpu-skinning --normal-rendering \"-graphics.dlss -1\" -graphics.dlss 1- \" -graphics.dlss 1-\""
 				"type"		"default"
 				"config"
 				{
@@ -326,7 +326,7 @@
 			"1"
 			{
 				"executable"		"./rust.app"
-				"arguments"		"-logfile \"output_log.txt\" -disable-gpu-skinning --normal-rendering"
+				"arguments"		"-logfile \"output_log.txt\" -disable-gpu-skinning --normal-rendering \"-graphics.dlss -1\" -graphics.dlss 1-"
 				"type"		"default"
 				"config"
 				{
@@ -341,7 +341,7 @@
 			"2"
 			{
 				"executable"		"rust"
-				"arguments"		"-logfile \"output_log.txt\" -disable-gpu-skinning --normal-rendering"
+				"arguments"		"-logfile \"output_log.txt\" -disable-gpu-skinning --normal-rendering \"-graphics.dlss -1\" \"-graphics.dlss -1\" -graphics.dlss 1-"
 				"type"		"default"
 				"config"
 				{
@@ -450,21 +450,21 @@
 			{
 				"public"
 				{
-					"gid"		"190813975237000913"
-					"size"		"23090141850"
-					"download"		"13657171904"
+					"gid"		"5837360396479896946"
+					"size"		"24047441645"
+					"download"		"14317952560"
 				}
 				"last-last-month"
-				{
-					"gid"		"525363828947076535"
-					"size"		"22380605921"
-					"download"		"13349565872"
-				}
-				"last-month"
 				{
 					"gid"		"6353839747051815883"
 					"size"		"22928049799"
 					"download"		"13576587328"
+				}
+				"last-month"
+				{
+					"gid"		"190813975237000913"
+					"size"		"23090141850"
+					"download"		"13657171904"
 				}
 			}
 			"encryptedmanifests"
@@ -477,15 +477,15 @@
 				}
 				"release"
 				{
-					"gid"		"093DD5231A299EB77E964B2FE5F1DE43"
-					"size"		"1F8A287C796310631A3F12B29EE459C5"
-					"download"		"D62BD22C77DF95234B44BC087C0A708B"
+					"gid"		"FD87BE30B517132429234CE6B7D33D3E"
+					"size"		"F99A5599D4BAC971C1C88EDD91ED1D1F"
+					"download"		"A62640D3DCC89464F73896B7249CEA57"
 				}
 				"release-debug"
 				{
-					"gid"		"3125972A21A25237DF38C3BA2C746A8B"
-					"size"		"056803318856FFB5C1DF2B51FC9848A3"
-					"download"		"2834F2697CD2BC6262C45C4261DA857D"
+					"gid"		"F37CAF92CC8CB1A6CF612C1EB2A3EF71"
+					"size"		"1020E0FB802ADBD2D384FCD45A88C7F7"
+					"download"		"B4CF6DF1F89585CE4D7A19222E42A98A"
 				}
 				"test"
 				{
@@ -518,21 +518,21 @@
 			{
 				"public"
 				{
-					"gid"		"8392277340374865262"
-					"size"		"4422915550"
-					"download"		"1617302368"
+					"gid"		"817944276003360416"
+					"size"		"4605392482"
+					"download"		"1683027360"
 				}
 				"last-last-month"
-				{
-					"gid"		"2078835669068126299"
-					"size"		"5254883543"
-					"download"		"1724136224"
-				}
-				"last-month"
 				{
 					"gid"		"6906803076286685398"
 					"size"		"4386109892"
 					"download"		"1603094384"
+				}
+				"last-month"
+				{
+					"gid"		"8392277340374865262"
+					"size"		"4422915550"
+					"download"		"1617302368"
 				}
 			}
 			"encryptedmanifests"
@@ -545,15 +545,15 @@
 				}
 				"release"
 				{
-					"gid"		"7DB94DEBD97E11C81A91AB524E37065E"
-					"size"		"EA19C8B328256E826DAD2C650BA76601"
-					"download"		"C2B5FA3EFDDF90426BF7BBBDA47AC547"
+					"gid"		"A95D355A3935FE03692202FD28A0873B"
+					"size"		"8C1630971BA6D1CF9D6A4557B8732EDD"
+					"download"		"5A601B1F980F28D5A8A6F83AFD07BF11"
 				}
 				"release-debug"
 				{
-					"gid"		"C2BF637B1056298D8733A85C0D6EAFCE"
-					"size"		"B839B9EFEEA22E0C2C2BA4B8095C20E3"
-					"download"		"65CD488F8E66857DCA3BB49A10531961"
+					"gid"		"7B815854D646A949AFACD5BB4B07AD67"
+					"size"		"2B9FC95EE008789D589DFE1DC4E09E51"
+					"download"		"89008B13F136C569101B1FE2FA43C83E"
 				}
 				"test"
 				{
@@ -587,21 +587,21 @@
 			{
 				"public"
 				{
-					"gid"		"7795605663591131209"
-					"size"		"735182301"
-					"download"		"512202816"
+					"gid"		"3249065395422601070"
+					"size"		"707973916"
+					"download"		"513331680"
 				}
 				"last-last-month"
-				{
-					"gid"		"1501541649945306305"
-					"size"		"842296339"
-					"download"		"529596688"
-				}
-				"last-month"
 				{
 					"gid"		"8145274619064039481"
 					"size"		"720847379"
 					"download"		"511885648"
+				}
+				"last-month"
+				{
+					"gid"		"7795605663591131209"
+					"size"		"735182301"
+					"download"		"512202816"
 				}
 			}
 			"encryptedmanifests"
@@ -614,15 +614,15 @@
 				}
 				"release"
 				{
-					"gid"		"CEEDBB555D2162A5A028E105A09F5779"
-					"size"		"DA61D87E7B6ADD93B03D2C25D9BB49E5"
-					"download"		"2C16384CF968BED087954E2EBCC77510"
+					"gid"		"FEAF59E76583103272481AAB279ED764"
+					"size"		"BDE0FB2BB7B92006F72DF6985D87A897"
+					"download"		"BF2BD7447CF47BE6ED0FBD2256290CD6"
 				}
 				"release-debug"
 				{
-					"gid"		"89393D205A8751882F9FE4226D176D66"
-					"size"		"AE1311418FD5597B27BE083DE12E62D6"
-					"download"		"5286446B218CF36EB3FD6C5D728BE3C7"
+					"gid"		"3640841C8CF7961DE3854FE340EE451A"
+					"size"		"CA7CD42461FE5C35D65474C5328AF8F3"
+					"download"		"C4AAEE2D35FCF591D4B3930F7C9D988D"
 				}
 				"test"
 				{
@@ -648,8 +648,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12510696"
-				"timeupdated"		"1698083452"
+				"buildid"		"12606298"
+				"timeupdated"		"1698962066"
 			}
 			"debug"
 			{
@@ -659,27 +659,27 @@
 			}
 			"last-last-month"
 			{
-				"buildid"		"11874098"
+				"buildid"		"12149590"
 				"description"		"Last last months patch"
-				"timeupdated"		"1696524082"
+				"timeupdated"		"1698949851"
 			}
 			"last-month"
 			{
-				"buildid"		"12149590"
+				"buildid"		"12510696"
 				"description"		"Last months patch"
-				"timeupdated"		"1696523996"
+				"timeupdated"		"1698949895"
 			}
 			"release"
 			{
-				"buildid"		"12514756"
+				"buildid"		"12606298"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698094059"
+				"timeupdated"		"1698961590"
 			}
 			"release-debug"
 			{
-				"buildid"		"12514774"
+				"buildid"		"12606311"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698094152"
+				"timeupdated"		"1698961689"
 			}
 			"test"
 			{
