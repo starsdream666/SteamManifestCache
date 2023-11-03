@@ -71,6 +71,8 @@
 			}
 		}
 		"metacritic_name"		"Ranch Simulator"
+		"controllertagwizard"		"1"
+		"controller_support"		"full"
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
@@ -91,7 +93,7 @@
 				"height_pct"		"100"
 			}
 		}
-		"store_asset_mtime"		"1673966539"
+		"store_asset_mtime"		"1699019782"
 		"associations"
 		{
 			"0"
@@ -114,7 +116,6 @@
 		"genres"
 		{
 			"0"		"28"
-			"1"		"70"
 		}
 		"category"
 		{
@@ -127,6 +128,7 @@
 			"category_23"		"1"
 			"category_45"		"1"
 			"category_46"		"1"
+			"category_28"		"1"
 		}
 		"supported_languages"
 		{
@@ -179,7 +181,7 @@
 				"supported"		"true"
 			}
 		}
-		"steam_release_date"		"1614868200"
+		"steam_release_date"		"1699030538"
 		"community_hub_visible"		"1"
 		"gameid"		"1119730"
 		"store_tags"
@@ -196,13 +198,13 @@
 			"9"		"9564"
 			"10"		"3810"
 			"11"		"4182"
-			"12"		"5363"
-			"13"		"12472"
+			"12"		"12472"
+			"13"		"5363"
 			"14"		"4202"
 			"15"		"4695"
 			"16"		"9204"
-			"17"		"492"
-			"18"		"1654"
+			"17"		"1654"
+			"18"		"492"
 			"19"		"3839"
 		}
 		"review_score"		"8"
@@ -318,9 +320,9 @@
 			{
 				"public"
 				{
-					"gid"		"2950070988431665156"
-					"size"		"15221653219"
-					"download"		"6453377984"
+					"gid"		"2316553871890637395"
+					"size"		"15814658651"
+					"download"		"7209169808"
 				}
 				"previousupdate"
 				{
@@ -328,20 +330,32 @@
 					"size"		"15120536665"
 					"download"		"6460976640"
 				}
-				"unstable_branch"
+				"unreal_engine_4_branch"
 				{
 					"gid"		"2950070988431665156"
 					"size"		"15221653219"
 					"download"		"6453377984"
 				}
+				"unstable_branch"
+				{
+					"gid"		"2316553871890637395"
+					"size"		"15814658651"
+					"download"		"7209169808"
+				}
 			}
 			"encryptedmanifests"
 			{
+				"crash_test"
+				{
+					"gid"		"E6ECB55B6DA3EF6B97AC6F4E99605613"
+					"size"		"DD900A64FC0115A1EC3FFBC229397570"
+					"download"		"6CCCE538E4EE3BA53EF36FE5DAAD241A"
+				}
 				"internal_testing"
 				{
-					"gid"		"14F9D1D3CC3EBFC67ABC4DE694AB06BE"
-					"size"		"70C927AE548E1FBA3E220054FF9C4848"
-					"download"		"BEDAB219FACFA0F1185CAA65B7AA665F"
+					"gid"		"CEDD9084D8F1CC6E85DB0661310831E1"
+					"size"		"4ACC91B1CCF9D5215F37906CE3752581"
+					"download"		"545273202FD9B3B7476651EBE6826716"
 				}
 				"moderator_testing"
 				{
@@ -355,14 +369,20 @@
 		{
 			"public"
 			{
-				"buildid"		"10892409"
-				"timeupdated"		"1681739942"
+				"buildid"		"12571201"
+				"timeupdated"		"1699030597"
+			}
+			"crash_test"
+			{
+				"buildid"		"12393038"
+				"pwdrequired"		"1"
+				"timeupdated"		"1697820604"
 			}
 			"internal_testing"
 			{
-				"buildid"		"12177241"
+				"buildid"		"12571201"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694605916"
+				"timeupdated"		"1698665831"
 			}
 			"moderator_testing"
 			{
@@ -376,11 +396,17 @@
 				"description"		"Holds the last previous update to the game"
 				"timeupdated"		"1681739958"
 			}
-			"unstable_branch"
+			"unreal_engine_4_branch"
 			{
 				"buildid"		"10892409"
+				"description"		"Holds the last version of the Ue4 version"
+				"timeupdated"		"1698842637"
+			}
+			"unstable_branch"
+			{
+				"buildid"		"12571201"
 				"description"		"Unstable test branch"
-				"timeupdated"		"1681739919"
+				"timeupdated"		"1698675980"
 			}
 		}
 	}
