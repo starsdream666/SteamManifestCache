@@ -1,0 +1,187 @@
+"appinfo"
+{
+	"appid"		"2390080"
+	"common"
+	{
+		"name"		"Legend of Heroes"
+		"type"		"Game"
+		"name_localized"
+		{
+			"english"		"Legend of Heroes"
+			"schinese"		"英雄传说"
+			"tchinese"		"英雄傳說"
+			"russian"		"Легенда о героях"
+			"japanese"		"英雄伝説"
+			"koreana"		"레전드 오브 히어로즈"
+			"french"		"La légende des héros"
+		}
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"61db95408b084d132437683a1be4436d32e26a46"
+		"clienticon"		"27d032cf51a1d0689611d2a197d22b86375f35b8"
+		"clienttga"		"c1434c4fe1e72b282de73233c5ed74cc6b25f516"
+		"releasestate"		"released"
+		"app_retired_was_free"		"1"
+		"small_capsule"
+		{
+			"russian"		"capsule_231x87_russian.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+			"koreana"		"capsule_231x87_koreana.jpg"
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"russian"		"header_russian.jpg"
+			"schinese"		"header_schinese.jpg"
+			"tchinese"		"header_tchinese.jpg"
+			"french"		"header_french.jpg"
+			"koreana"		"header_koreana.jpg"
+			"japanese"		"header_japanese.jpg"
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"ru,zh-cn,zh-tw,fr,ko,ja,en"
+			"library_hero"		"en"
+			"library_logo"		"en,zh-cn,ru,zh-tw,ko"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1692366099"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Idle Game"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Idle Game"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+			"3"		"29"
+			"4"		"3"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_20"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1695953159"
+		"community_hub_visible"		"1"
+		"gameid"		"2390080"
+		"store_tags"
+		{
+			"0"		"615955"
+			"1"		"1666"
+			"2"		"1754"
+			"3"		"791774"
+			"4"		"3959"
+			"5"		"597"
+			"6"		"122"
+			"7"		"1720"
+			"8"		"4305"
+			"9"		"4252"
+			"10"		"19"
+			"11"		"6052"
+			"12"		"4172"
+			"13"		"1659"
+			"14"		"5984"
+			"15"		"1654"
+			"16"		"4018"
+			"17"		"4004"
+			"18"		"1684"
+			"19"		"4604"
+		}
+		"review_score"		"6"
+		"review_percentage"		"78"
+	}
+	"extended"
+	{
+		"developer"		"Idle Game"
+		"publisher"		"Idle Game"
+		"listofdlc"		"2551320,2551330,2551340,2551350,2551360,2551370,2551390,2551400,2551410,2552690,2552700,2552710,2552720"
+	}
+	"config"
+	{
+		"installdir"		"LegendofHeroes"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Domain.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"2390081"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3157473443114630312"
+					"size"		"4937091104"
+					"download"		"1093089120"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11900744"
+				"timeupdated"		"1691574261"
+			}
+		}
+	}
+}
