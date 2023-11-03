@@ -1,0 +1,307 @@
+"appinfo"
+{
+	"appid"		"2488510"
+	"common"
+	{
+		"name"		"FatalZone"
+		"type"		"Game"
+		"releasestate"		"released"
+		"icon"		"616da007ca777b5a7bb53509cd67234bca18cf96"
+		"clienttga"		"42290795ec44f58f377605892623f068eca54503"
+		"clienticon"		"835afea12576a174727735489e82ec871b2b0dfe"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"polish"		"1"
+			"brazilian"		"1"
+		}
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"57.11785297549591"
+				"height_pct"		"90.65542626454524"
+			}
+		}
+		"store_asset_mtime"		"1698066066"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Midhard Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"101XP"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"101XP"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"23"
+			"3"		"3"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1698066018"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2488510"
+		"store_tags"
+		{
+			"0"		"42804"
+			"1"		"4885"
+			"2"		"1659"
+			"3"		"1662"
+			"4"		"3959"
+			"5"		"4637"
+			"6"		"19"
+			"7"		"5547"
+			"8"		"4231"
+			"9"		"4791"
+			"10"		"1716"
+			"11"		"122"
+			"12"		"3835"
+			"13"		"3871"
+			"14"		"5125"
+			"15"		"4182"
+			"16"		"5154"
+			"17"		"492"
+			"18"		"5851"
+			"19"		"1759"
+		}
+		"review_score"		"6"
+		"review_percentage"		"73"
+	}
+	"extended"
+	{
+		"developer"		"Midhard Games"
+		"publisher"		"101XP"
+	}
+	"config"
+	{
+		"installdir"		"FatalZone"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"FatalZone.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2488511"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3894817262274972294"
+					"size"		"2222374530"
+					"download"		"360489808"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"hotfix"
+				{
+					"gid"		"3E0046A9D7C7455515819B850C71A4A5"
+					"size"		"FCEBBC0505C9205D82E17030EB936188"
+					"download"		"84398AFAFEADFD961163587633378AE4"
+				}
+				"release"
+				{
+					"gid"		"D2A6736A329B87FCA831001AF4FC94AF"
+					"size"		"BD07FF9884EA4CC619DA5F69AAD01816"
+					"download"		"FE08906EA8301729611A3B1ECB1F15CE"
+				}
+				"testing"
+				{
+					"gid"		"74CE770C040FC1B23324F221FE4CF7B4"
+					"size"		"2C8EC01CA7776BB957F2DFE8AD801601"
+					"download"		"1F0F8A0F43289907649F93F2843D0FBD"
+				}
+				"testing_graphics"
+				{
+					"gid"		"3E8600F01E6AD9EB1C96CD4DD99AA6B6"
+					"size"		"22830944E3FEBCCD39CDA4D6F5B52361"
+					"download"		"EADA32F34F807148721EAA24DCF228BB"
+				}
+				"testing_graphics_dynamic_batch"
+				{
+					"gid"		"07C33D865991ADB37308B71D51D8B353"
+					"size"		"199B7C5BA431BBFF8838137A33458424"
+					"download"		"63981F76603C2C26E06BAE9548BDBA74"
+				}
+				"testing_physics"
+				{
+					"gid"		"E735DAB9A6171B63248B0C086276C5AC"
+					"size"		"0D3EEFA6FC59801A9F0B41D1BCEC597A"
+					"download"		"7823D3E1DF999E74C509C5CCA7E01865"
+				}
+				"update1"
+				{
+					"gid"		"BFC539DFAA28A4928C85F28D0B341A80"
+					"size"		"2A5D1C80EF6EDF04282934A19AA47806"
+					"download"		"AC3BF0A0B206128825F0B5EB6CA6FF1C"
+				}
+			}
+		}
+		"baselanguages"		"english,german,french,koreana,spanish,schinese,russian,japanese,polish,brazilian"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12592726"
+				"timeupdated"		"1698915685"
+			}
+			"hotfix"
+			{
+				"buildid"		"12604384"
+				"pwdrequired"		"1"
+				"timeupdated"		"1698945994"
+			}
+			"release"
+			{
+				"buildid"		"12592726"
+				"pwdrequired"		"1"
+				"timeupdated"		"1698848682"
+			}
+			"testing"
+			{
+				"buildid"		"12592794"
+				"pwdrequired"		"1"
+				"timeupdated"		"1698849262"
+			}
+			"testing_graphics"
+			{
+				"buildid"		"12532010"
+				"pwdrequired"		"1"
+				"timeupdated"		"1698240195"
+			}
+			"testing_graphics_dynamic_batch"
+			{
+				"buildid"		"12553021"
+				"pwdrequired"		"1"
+				"timeupdated"		"1698407316"
+			}
+			"testing_physics"
+			{
+				"buildid"		"12602924"
+				"pwdrequired"		"1"
+				"timeupdated"		"1698936695"
+			}
+			"update1"
+			{
+				"buildid"		"12579975"
+				"pwdrequired"		"1"
+				"timeupdated"		"1698740766"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"5000000"
+		"maxnumfiles"		"500"
+		"sync_while_suspended"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Midhard/FatalZone"
+				"pattern"		"*.es3"
+			}
+		}
+	}
+}
