@@ -1,0 +1,201 @@
+"appinfo"
+{
+	"appid"		"513650"
+	"common"
+	{
+		"name"		"Zula Europe"
+		"type"		"Game"
+		"clienttga"		"fc735f3a3212096a894be0a3f58540cb67ba0063"
+		"clienticon"		"6aefcdf53303ce2dc972cfee44e90619ccf2937f"
+		"icon"		"c0f5a5ef3d5053d1ce5adad8d810800bd5d830e3"
+		"logo"		"9a9fd8d9c996e2228ee3994e7311814a2e614b69"
+		"logo_small"		"9a9fd8d9c996e2228ee3994e7311814a2e614b69_thumb"
+		"oslist"		"windows"
+		"osarch"		""
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"spanish"		"1"
+			"portuguese"		"1"
+			"polish"		"1"
+			"turkish"		"1"
+		}
+		"metacritic_name"		"Zula - Europe"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"34.70646156257065"
+				"height_pct"		"63.18055555555556"
+			}
+		}
+		"store_asset_mtime"		"1569255559"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Madbyte Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"IDC/Games"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+			"2"		"29"
+		}
+		"category"
+		{
+			"category_36"		"1"
+			"category_38"		"1"
+			"category_35"		"1"
+			"category_22"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_9"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1480002600"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"513650"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"1663"
+			"2"		"3859"
+			"3"		"19"
+			"4"		"1774"
+			"5"		"128"
+			"6"		"3839"
+			"7"		"1685"
+			"8"		"4182"
+			"9"		"7481"
+			"10"		"21"
+			"11"		"3878"
+			"12"		"1695"
+			"13"		"9"
+			"14"		"4085"
+		}
+		"review_score"		"5"
+		"review_percentage"		"69"
+	}
+	"extended"
+	{
+		"developer"		"Madbyte Games"
+		"publisher"		"IDC/Games"
+		"homepage"		"https://en.idcgames.com/zula/"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Zula EU"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"zula_launcher.exe"
+				"arguments"		"-Steam"
+				"type"		"none"
+			}
+		}
+	}
+	"depots"
+	{
+		"228982"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"513651"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8463224418815973561"
+					"size"		"4739570172"
+					"download"		"3728574096"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4193250"
+				"timeupdated"		"1568368118"
+			}
+		}
+	}
+}
