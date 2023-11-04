@@ -19,6 +19,49 @@
 		}
 		"has_adult_content"		"1"
 		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1698364800"
+			"tested_build_id"		"12513079"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
 		"controllertagwizard"		"1"
 		"controller_support"		"full"
 		"small_capsule"
@@ -110,7 +153,7 @@
 			"19"		"492"
 		}
 		"review_score"		"8"
-		"review_percentage"		"88"
+		"review_percentage"		"89"
 	}
 	"extended"
 	{
@@ -156,9 +199,9 @@
 			{
 				"public"
 				{
-					"gid"		"7464700660467954478"
-					"size"		"1062731343"
-					"download"		"288023472"
+					"gid"		"2015946287750170768"
+					"size"		"1106690012"
+					"download"		"289281520"
 				}
 			}
 			"encryptedmanifests"
@@ -171,9 +214,9 @@
 				}
 				"master"
 				{
-					"gid"		"703DB0F1815C3B0DE52ECF1B447206F7"
-					"size"		"25445ECFFE436D859BCCF92EF91A400B"
-					"download"		"42BB9745A5DD4B41C25488CAB91FABBB"
+					"gid"		"E28361065C5B10094108D0296AAD7141"
+					"size"		"70869DE21C7337CFD614F4F85E5FA824"
+					"download"		"CC2C6457D8C967F81A2C8BBEFDC586C9"
 				}
 			}
 		}
@@ -188,9 +231,9 @@
 			{
 				"public"
 				{
-					"gid"		"4668814849329805283"
-					"size"		"1038670669"
-					"download"		"280915136"
+					"gid"		"1377777442554063585"
+					"size"		"1083076781"
+					"download"		"282350000"
 				}
 			}
 			"encryptedmanifests"
@@ -203,9 +246,9 @@
 				}
 				"master"
 				{
-					"gid"		"82096EE7A1E3B258988EE76FA3AA0091"
-					"size"		"249124154C469163734E122841395B7A"
-					"download"		"3A7CBF4A4B80DDFDC8AD301BCA44D4EB"
+					"gid"		"D43219245297D626AFC4874A748E7613"
+					"size"		"A5917E217E495BCD8BE256ACF2FED7E9"
+					"download"		"4599F3F1165B501461426353037D4C17"
 				}
 			}
 		}
@@ -221,8 +264,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12513079"
-				"timeupdated"		"1698081667"
+				"buildid"		"12613447"
+				"timeupdated"		"1699033737"
 			}
 			"manual_hotfix"
 			{
@@ -232,9 +275,9 @@
 			}
 			"master"
 			{
-				"buildid"		"12523761"
+				"buildid"		"12613447"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698168609"
+				"timeupdated"		"1699025883"
 			}
 		}
 	}
