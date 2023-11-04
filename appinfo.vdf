@@ -1,0 +1,209 @@
+"appinfo"
+{
+	"appid"		"2448460"
+	"common"
+	{
+		"name"		"SHIMAZU"
+		"type"		"Game"
+		"releasestate"		"released"
+		"icon"		"bad7b969d54df597d470ff1f30e6a6e89272728f"
+		"clienticon"		"c1748b3d2c10438f5c4069a573e51975f0a8d462"
+		"clienttga"		"78bf0f620ac14003333fd883a82a8723d32facc2"
+		"oslist"		"windows,linux"
+		"osarch"		""
+		"osextended"		""
+		"controllertagwizard"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"27.6887871853547"
+				"height_pct"		"29.86322281842807"
+			}
+		}
+		"store_asset_mtime"		"1697562156"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Spacefarer Games Ltd"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Spacefarer Games Ltd"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_55"		"1"
+			"category_56"		"1"
+			"category_27"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1686213890"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2448460"
+		"store_tags"
+		{
+			"0"		"3877"
+			"1"		"3798"
+			"2"		"5379"
+			"3"		"1646"
+			"4"		"8666"
+			"5"		"5652"
+			"6"		"1625"
+			"7"		"19"
+			"8"		"4106"
+			"9"		"3871"
+			"10"		"4085"
+			"11"		"4305"
+			"12"		"1708"
+			"13"		"3968"
+			"14"		"4342"
+			"15"		"3993"
+			"16"		"4182"
+			"17"		"492"
+			"18"		"597"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Spacefarer Games Ltd"
+		"publisher"		"Spacefarer Games Ltd"
+		"homepage"		"https://spacefarergames.com/shimazu"
+		"listofdlc"		"2453850"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"SHIMAZU"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Shimazu.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"ShimazuLinux.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"2"
+			{
+				"executable"		"SpacefarerTGC/Official Spacefarer Card Game.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Play Spacefarer Card Game"
+				}
+				"description"		"Play Spacefarer Card Game"
+			}
+			"3"
+			{
+				"executable"		"SpacefarerTCG/SFTCGLinux.x86_64"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+				"description_loc"
+				{
+					"english"		"Play Spacefarer Card Game"
+				}
+				"description"		"Play Spacefarer Card Game"
+			}
+		}
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"2448461"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2586357406976610222"
+					"size"		"1479448143"
+					"download"		"301054000"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12469672"
+				"timeupdated"		"1697617000"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"50000"
+		"maxnumfiles"		"500"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Spacefarer Games/Shimazu"
+				"pattern"		"*.dat"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+	}
+}
