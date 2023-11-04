@@ -1,0 +1,386 @@
+"appinfo"
+{
+	"appid"		"1475400"
+	"common"
+	{
+		"name"		"Run Prop, Run!"
+		"type"		"Game"
+		"logo"		"6d86f3f8979deef13e3c65ff07898bec730f38af"
+		"logo_small"		"6d86f3f8979deef13e3c65ff07898bec730f38af_thumb"
+		"icon"		"a4d5be63d4e32a07997ff0cfca3d7756e83c43bf"
+		"clienttga"		"37d288af22434dca61208436ff253f834864ad02"
+		"clienticon"		"c4be540c749fe997e91ee1b7cc5d6cbcab236d9c"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1650499200"
+			"tested_build_id"		"8280535"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"5"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1666983865"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"PlayTogether Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"PlayTogether Studio"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"PlayTogether Studio"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"70"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_18"		"1"
+			"category_27"		"1"
+			"category_15"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1624453080"
+		"community_hub_visible"		"1"
+		"gameid"		"1475400"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"1775"
+			"2"		"4036"
+			"3"		"7178"
+			"4"		"1687"
+			"5"		"1719"
+			"6"		"3843"
+			"7"		"3814"
+			"8"		"5395"
+			"9"		"1773"
+			"10"		"4747"
+			"11"		"1697"
+			"12"		"4191"
+			"13"		"4136"
+			"14"		"4562"
+			"15"		"597"
+			"16"		"4195"
+			"17"		"19"
+			"18"		"5350"
+			"19"		"3859"
+		}
+		"review_score"		"8"
+		"review_percentage"		"80"
+	}
+	"extended"
+	{
+		"developer"		"PlayTogether Studio"
+		"publisher"		"PlayTogether Studio"
+		"homepage"		"https://www.playtogether-studio.com/"
+		"listofdlc"		"1648090,2470970"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"RunPropRun"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Run Prop Run.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"runproprun.app\\Contents\\MacOS\\Run Prop Run"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"3"
+			{
+				"executable"		"run_prop_run.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229033"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1475401"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2137189992289444748"
+					"size"		"1057631786"
+					"download"		"274394672"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"38692DE37D5F5B13AF7BAE846BEF894D"
+					"size"		"07C5D7E6EDC1286A67189DA92B191552"
+					"download"		"E12483B3A2AAB1ACFA2F3032ED185E7B"
+				}
+			}
+		}
+		"1475402"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2326525221206448338"
+					"size"		"1062596867"
+					"download"		"278906048"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"37479440A4E6C6437638341635E1EFC6"
+					"size"		"FAC675C7FF720B300D478D87C6BC8DFF"
+					"download"		"4A1C21E73DBA75D065407C859E0F3806"
+				}
+			}
+		}
+		"1475403"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5357695662051075291"
+					"size"		"1098199710"
+					"download"		"280818112"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"3BF2D528468E486034EA4A4047C1F489"
+					"size"		"E6F3B5F7741A5428B2033F406865EB0D"
+					"download"		"00E259BB317401C331BF427FDC23955C"
+				}
+			}
+		}
+		"1648090"
+		{
+			"dlcappid"		"1648090"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+		}
+		"2470970"
+		{
+			"dlcappid"		"2470970"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12301784"
+				"timeupdated"		"1695862516"
+			}
+			"beta"
+			{
+				"buildid"		"8934293"
+				"pwdrequired"		"1"
+				"timeupdated"		"1655214952"
+			}
+		}
+	}
+}
