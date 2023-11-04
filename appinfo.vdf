@@ -32,8 +32,8 @@
 		"steam_deck_compatibility"
 		{
 			"category"		"3"
-			"test_timestamp"		"1667520000"
-			"tested_build_id"		"9843245"
+			"test_timestamp"		"1699056000"
+			"tested_build_id"		"10904905"
 			"tests"
 			{
 				"0"
@@ -67,7 +67,7 @@
 				"small_text"		"0"
 				"requires_internet_for_setup"		"0"
 				"requires_internet_for_singleplayer"		"0"
-				"recommended_runtime"		"proton-stable"
+				"recommended_runtime"		"native"
 				"requires_h264"		"0"
 				"gamescope_frame_limiter_not_supported"		"0"
 			}
@@ -208,8 +208,8 @@
 			"8"		"1742"
 			"9"		"19"
 			"10"		"4182"
-			"11"		"3841"
-			"12"		"3871"
+			"11"		"3871"
+			"12"		"3841"
 			"13"		"21"
 			"14"		"7368"
 			"15"		"1721"
@@ -231,6 +231,7 @@
 			"0"
 			{
 				"executable"		"Rhythm Doctor.exe"
+				"arguments"		"-force-d3d11"
 				"type"		"default"
 				"config"
 				{
@@ -281,15 +282,15 @@
 			{
 				"public"
 				{
-					"gid"		"1484489063394039632"
-					"size"		"856370071"
-					"download"		"350375344"
+					"gid"		"5378039240991620548"
+					"size"		"991294490"
+					"download"		"389950512"
 				}
 				"beta"
 				{
-					"gid"		"1484489063394039632"
-					"size"		"856370071"
-					"download"		"350375344"
+					"gid"		"5378039240991620548"
+					"size"		"991294490"
+					"download"		"389950512"
 				}
 			}
 			"encryptedmanifests"
@@ -314,15 +315,21 @@
 				}
 				"deephospital"
 				{
-					"gid"		"A48095EF1F1043529AB53D680E7688D6"
-					"size"		"18BAA6F1E327E4081C40973995A30DC3"
-					"download"		"676E2B3FFFC352D027231317AD9BCE53"
+					"gid"		"9C361456566EE9C3608044751A39B3B2"
+					"size"		"FA7C985F6F6F13EB3B145DCA7296329B"
+					"download"		"D327B64E44D5FE0F2426940DD0ADD895"
 				}
 				"deephospold"
 				{
 					"gid"		"37B64C644D262647A8EFDC32A64C890B"
 					"size"		"D460FE82441F2E3A40EBEBE9E5BD9B0A"
 					"download"		"FC931261D10731788E2382B651CDE6A7"
+				}
+				"five"
+				{
+					"gid"		"E04E1EF3872B5BD95D194D0D1C19D296"
+					"size"		"4AC1CEE780E7162173C44D43F8370589"
+					"download"		"8CC173681CB1880D63D56BE40D860D7C"
 				}
 				"test"
 				{
@@ -343,15 +350,15 @@
 			{
 				"public"
 				{
-					"gid"		"8685844649158996797"
-					"size"		"865537431"
-					"download"		"353174416"
+					"gid"		"7490151190246925299"
+					"size"		"1002182682"
+					"download"		"392313248"
 				}
 				"beta"
 				{
-					"gid"		"8685844649158996797"
-					"size"		"865537431"
-					"download"		"353174416"
+					"gid"		"7490151190246925299"
+					"size"		"1002182682"
+					"download"		"392313248"
 				}
 			}
 			"encryptedmanifests"
@@ -376,15 +383,21 @@
 				}
 				"deephospital"
 				{
-					"gid"		"DA6B3FA502989A0E35BE43D6C498AAC3"
-					"size"		"0E38818903CB687603A2FA33BD4788A5"
-					"download"		"CE5ACCEF68B0E44A4E194D4A51A2A8BA"
+					"gid"		"C54B546077842ADD6FF7CD12C0B73BB9"
+					"size"		"04E6C6C5DE146FC191BF8E94779DF278"
+					"download"		"BD256E4DE05B9BAB3D8D9ACF704A6913"
 				}
 				"deephospold"
 				{
 					"gid"		"C3F4114355FEF9BB811DA8C903F6B151"
 					"size"		"17144379FB191FD2328953AFBDB40BEF"
 					"download"		"2E06580FCF2796EB646BE9A58056B143"
+				}
+				"five"
+				{
+					"gid"		"EB7F8F4A9BFCADE85A790653DF232080"
+					"size"		"6C4271E95CA87C0AD69287882B314FD2"
+					"download"		"4A00D21FA1326DE12C68F02DB0CA2B77"
 				}
 			}
 		}
@@ -398,15 +411,15 @@
 			{
 				"public"
 				{
-					"gid"		"5556059894152325627"
-					"size"		"887811489"
-					"download"		"359441616"
+					"gid"		"6918167739438576744"
+					"size"		"1024299016"
+					"download"		"400784448"
 				}
 				"beta"
 				{
-					"gid"		"5556059894152325627"
-					"size"		"887811489"
-					"download"		"359441616"
+					"gid"		"6918167739438576744"
+					"size"		"1024299016"
+					"download"		"400784448"
 				}
 			}
 			"encryptedmanifests"
@@ -425,21 +438,27 @@
 				}
 				"booth"
 				{
-					"gid"		"D9FDB9E04E90054892B43180DC872132"
-					"size"		"F3A98D87AD4773C5901F129895435F42"
-					"download"		"AB105D31226A125403961C6672ED2093"
+					"gid"		"904D5F2C43B85D0A6E2A237D9000830C"
+					"size"		"57656E2E9B206DC3DFCEC402FAA05F86"
+					"download"		"3D2E7295E664B1D6C3383AFB055EFB74"
 				}
 				"deephospital"
 				{
-					"gid"		"D8790710374B04A350396E19CB2BE152"
-					"size"		"1F781E729AC0AE92AFEF7E080523C0A8"
-					"download"		"5AFF07CD1CC7C3161861B80A2CFE92C8"
+					"gid"		"5A1596E91ABC1AB356E45C7183A59B88"
+					"size"		"DAD7CEB0D403B8ED342A7EE6CDD151CF"
+					"download"		"F33EBF2151CEFE81061D811DDCDEB266"
 				}
 				"deephospold"
 				{
 					"gid"		"13D597ED368470B2FB460102C27911E8"
 					"size"		"DF7E367120E035839DE6424786A8BDFE"
 					"download"		"A19FE6578FCA673A4AA8D66F40A7DCC7"
+				}
+				"five"
+				{
+					"gid"		"EE5E03D0089B0770C58DADE57875501F"
+					"size"		"3898FEFE4E1B732FE333D068474266D0"
+					"download"		"B5197130B59B871177EF0B421257A4FE"
 				}
 				"test"
 				{
@@ -459,15 +478,15 @@
 			{
 				"public"
 				{
-					"gid"		"8831527748189053024"
-					"size"		"864444785"
-					"download"		"351287328"
+					"gid"		"7804185479996110019"
+					"size"		"998377283"
+					"download"		"390564752"
 				}
 				"beta"
 				{
-					"gid"		"8831527748189053024"
-					"size"		"864444785"
-					"download"		"351287328"
+					"gid"		"7804185479996110019"
+					"size"		"998377283"
+					"download"		"390564752"
 				}
 			}
 			"encryptedmanifests"
@@ -492,9 +511,9 @@
 				}
 				"deephospital"
 				{
-					"gid"		"48ADA0FF66F08B747E40A479F8391124"
-					"size"		"457E44BF26178B78CA000F0B5F437552"
-					"download"		"46A026DACE8C89D315126E13C7E6073A"
+					"gid"		"4EDAB7C40A5E16EA6352F3AED16F0731"
+					"size"		"030071FA015CA0884EA2D22AD0283726"
+					"download"		"85AC305ABE93EBF70D8563707A01A625"
 				}
 				"deephospold"
 				{
@@ -502,14 +521,20 @@
 					"size"		"C3E168A277F519AB132665DF0EB766DB"
 					"download"		"23919A3C89B9F5854F6B2AD21CE42D1A"
 				}
+				"five"
+				{
+					"gid"		"C6FBE14B018A08604E14F8FAB32F5A7E"
+					"size"		"AAD9828640181F922BC1B387AE2FEBB1"
+					"download"		"FADD2C461F170CA177150FFAF9B16E66"
+				}
 			}
 		}
 		"branches"
 		{
 			"public"
 			{
-				"buildid"		"10904905"
-				"timeupdated"		"1680290501"
+				"buildid"		"12620853"
+				"timeupdated"		"1699127524"
 			}
 			"accessibility"
 			{
@@ -525,27 +550,33 @@
 			}
 			"beta"
 			{
-				"buildid"		"10904905"
+				"buildid"		"12620853"
 				"description"		"public beta testing"
-				"timeupdated"		"1680290493"
+				"timeupdated"		"1699127535"
 			}
 			"booth"
 			{
-				"buildid"		"12130444"
+				"buildid"		"12303392"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694076713"
+				"timeupdated"		"1695878939"
 			}
 			"deephospital"
 			{
-				"buildid"		"12142395"
+				"buildid"		"12620853"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694178976"
+				"timeupdated"		"1699127455"
 			}
 			"deephospold"
 			{
 				"buildid"		"11777975"
 				"pwdrequired"		"1"
 				"timeupdated"		"1690990888"
+			}
+			"five"
+			{
+				"buildid"		"12620853"
+				"pwdrequired"		"1"
+				"timeupdated"		"1699127555"
 			}
 			"test"
 			{
