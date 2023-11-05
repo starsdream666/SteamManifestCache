@@ -1,0 +1,996 @@
+"appinfo"
+{
+	"appid"		"1971870"
+	"common"
+	{
+		"name"		"Mortal Kombat 1"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"fa7894d0d339239667a8fe34af4fae43a2a9bd8c"
+		"clienttga"		"598fc1f19e6f0d95903e51c766500ae304473dc9"
+		"icon"		"8b1c5aa33466802fc2a5df95505be71fae0b8d47"
+		"name_localized"
+		{
+			"schinese"		"真人快打 1 "
+			"tchinese"		"真人快打 1 "
+		}
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"polish"		"1"
+			"arabic"		"1"
+			"brazilian"		"1"
+			"latam"		"1"
+		}
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1971870_eula_0"
+				"name"		"Mortal Kombat 1 EULA"
+				"url"		"https://store.steampowered.com//eula/1971870_eula_0"
+				"version"		"1"
+			}
+		}
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1695168000"
+			"tested_build_id"		"12186884"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-4"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Mortal Kombat 1"
+		"controllertagwizard"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"27.415599534342263"
+				"height_pct"		"46.20740740740741"
+			}
+		}
+		"store_asset_mtime"		"1696029508"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"NetherRealm Studios"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"QLOC"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Warner Bros. Games"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"WB Games"
+			}
+			"4"
+			{
+				"type"		"franchise"
+				"name"		"Mortal Kombat"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_28"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_22"		"1"
+			"category_35"		"1"
+			"category_37"		"1"
+			"category_24"		"1"
+			"category_23"		"1"
+			"category_43"		"1"
+			"category_44"		"1"
+			"category_55"		"1"
+			"category_56"		"1"
+			"category_57"		"1"
+			"category_58"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"arabic"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1695142728"
+		"metacritic_score"		"82"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/mortal-kombat-1?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1971870"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"4345"
+			"2"		"1743"
+			"3"		"5228"
+			"4"		"6915"
+			"5"		"3859"
+			"6"		"4667"
+			"7"		"4736"
+			"8"		"1775"
+			"9"		"1773"
+			"10"		"1742"
+			"11"		"4747"
+			"12"		"4975"
+			"13"		"4182"
+			"14"		"4166"
+			"15"		"1667"
+			"16"		"3878"
+			"17"		"4191"
+			"18"		"5611"
+			"19"		"24904"
+		}
+		"review_score"		"6"
+		"review_percentage"		"72"
+	}
+	"extended"
+	{
+		"absolutemousecoordinates"		"0"
+		"remoteplaytogethertestingbranches"		"default,develop,drop,phantom,prod"
+		"developer"		"NetherRealm Studios"
+		"publisher"		"Warner Bros. Games"
+		"homepage"		"https://www.mortalkombat.com/"
+		"listofdlc"		"2576730,2576740,2576750,2576760,2576770,2576780,2576790,2576800,2576810,2586300"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Mortal Kombat 1"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MK12.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"MK12.exe"
+				"arguments"		"-bootconfig=Test"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"develop drop prod moon phantom elks moose reindeer cookie"
+				}
+				"description_loc"
+				{
+					"english"		"Mortal Kombat 1 Debug"
+				}
+				"description"		"Mortal Kombat 1 Debug"
+			}
+			"2"
+			{
+				"executable"		"MK12.exe"
+				"arguments"		"-bootconfig=Test -logpso"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"develop drop prod"
+				}
+				"description_loc"
+				{
+					"english"		"Mortal Kombat 1 Debug + PSO Cache Collecting"
+				}
+				"description"		"Mortal Kombat 1 Debug + PSO Cache Collecting"
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,russian,polish,arabic,brazilian,latam"
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1971874"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1500051537484320910"
+					"size"		"78151013528"
+					"download"		"74555368432"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"based"
+				{
+					"gid"		"24F05AAAB3D30F50A35DBF04E8A92F60"
+					"size"		"0AC43B7BDE0424F136225C0F41EA0ADF"
+					"download"		"9D8E80F8C2C58D4CE141FFA768D34189"
+				}
+				"cake"
+				{
+					"gid"		"020FBD64035FE2F03F1D58640D013194"
+					"size"		"1B2C302C15068A2661E94004555F0DA6"
+					"download"		"C125A60574E9E87EAA3283552BBA246F"
+				}
+				"carrot"
+				{
+					"gid"		"18A04CD06A833ABAABB780BA5CE78FF3"
+					"size"		"658D13D82A800F73414EF008DEACD3C0"
+					"download"		"4054D024E805E6452B92325ED9AB9F4A"
+				}
+				"cheese"
+				{
+					"gid"		"AA03FA117D41ED5B72A4A171AED2E50D"
+					"size"		"39E82DE9F16428468DCD3D918966C243"
+					"download"		"628D7D96A1B9CA61B49532CA0E7E8A41"
+				}
+				"cookie"
+				{
+					"gid"		"A1BE2F778AB92B51692FD11DF0508FE6"
+					"size"		"3014E8828F733637AC20AEA65156D1CA"
+					"download"		"1AF2313757FD601344CC3953ABD5BC5E"
+				}
+				"develop"
+				{
+					"gid"		"4A3A7F01CC1E7F4433F3BE468B201E1F"
+					"size"		"D8C4A4AD678A37BFC5B5087DEB729B85"
+					"download"		"D68AFF930DF80CFF18A41445D03BC29A"
+				}
+				"drop"
+				{
+					"gid"		"AE9527C4CDA70FEECD3401E25C3687EF"
+					"size"		"53B1CE6888B62A17B161A524CE4795DF"
+					"download"		"77A3730E042037615CA8A089D04036AB"
+				}
+				"elks"
+				{
+					"gid"		"18A701BEFD9082F0B67838AE96291FB5"
+					"size"		"EAD3102245F09BB77A1003D844F3E4D5"
+					"download"		"1B6E06635E0B8B0E3BFBE8CEDA4E19CD"
+				}
+				"gandalf"
+				{
+					"gid"		"BC9451DB11A1DD14C0E94EE8B5ADF565"
+					"size"		"30DF5107BBAECBC01CD423B84AA9A6CE"
+					"download"		"EF4062BE997E60FAF36228DE892AAD5F"
+				}
+				"moon"
+				{
+					"gid"		"40710B7D177B29F3A05C85283B09E0D9"
+					"size"		"EA9004D76D0A9D8996479B3BBC4179CE"
+					"download"		"9C0D11C7594D94286258DAB26FAEF551"
+				}
+				"moose"
+				{
+					"gid"		"6C092F9CFF0B7C5FA4F6161EC0294CC9"
+					"size"		"28F31BC9D98542D6DD6F6D3541206608"
+					"download"		"46602AA29B1DC6F9BF2DC14465511B27"
+				}
+				"moshi"
+				{
+					"gid"		"BA5418B2864F0821E25B596988ED0CD7"
+					"size"		"799264BFFA200FA2B2BB6C85C1C2EE26"
+					"download"		"5CF24CFA2F161C7C52ADA7CC5DFC0152"
+				}
+				"phantom"
+				{
+					"gid"		"290BBD8FD0A0D24B73BCD57C46CA853C"
+					"size"		"D7C003614D16AE673A4D2488A3E1C359"
+					"download"		"47A1DAFB06B2029B85BDCBF715BB161E"
+				}
+				"prod"
+				{
+					"gid"		"7AD4C85704EFD5AC08993CDE2E8BF251"
+					"size"		"C1D29A2157E1FB25CAAC3FEEAA11FB79"
+					"download"		"6E4A7DE49291DB9932F217D383FC4273"
+				}
+				"reindeer"
+				{
+					"gid"		"8A5B0CD2D9BD601B7873A61B240DB872"
+					"size"		"2446E4F3648E548ECF93E88135BA062F"
+					"download"		"C5E32FDDE6CA880C6F3DDD127C37B40F"
+				}
+				"stage"
+				{
+					"gid"		"9E50FB00191F04E3206FDBC12A351AE1"
+					"size"		"CB4B89197D6EE7BBD2258DB8C45B856E"
+					"download"		"338DA15939CCE9FCF5A10B378789349A"
+				}
+			}
+		}
+		"1971875"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1868917857813619404"
+					"size"		"24082036294"
+					"download"		"22283409616"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"based"
+				{
+					"gid"		"56E350FB77A1DBA13C35980B8578993E"
+					"size"		"778B9E148B67696B13A9D7DB7EB3A53F"
+					"download"		"94F3F44C25508D459FE50A86A11A6DFE"
+				}
+				"cake"
+				{
+					"gid"		"6A64D3E424DCCE8081E651E473834A7C"
+					"size"		"354FE37F4F079A64D74B7C8E5D7CF7E1"
+					"download"		"719BA4AD0008E472D7746056DC8798A2"
+				}
+				"carrot"
+				{
+					"gid"		"B16B5FA51D6547C8C693B31BA8DD48AF"
+					"size"		"C7D5D9501A1255F9F0C36557245AE8C4"
+					"download"		"DD63DA6E87331CA37CACAA737592CBA2"
+				}
+				"cheese"
+				{
+					"gid"		"49CC0DC0347CC9DE02575BC151F765BA"
+					"size"		"87B34017535E7120D014B57EDD95DAD1"
+					"download"		"65581237515E1266ABBE0B973FA8492F"
+				}
+				"cookie"
+				{
+					"gid"		"935F75B0942AADE499C8F20ECBEBA569"
+					"size"		"DA40E663F881C4F74358A781C3AAB348"
+					"download"		"3DB4186183871EB0F37FE3E220A048D6"
+				}
+				"develop"
+				{
+					"gid"		"6E14DAB8A74A2D3D88E87AF8085552CE"
+					"size"		"7F14D4C099C3E4023E09EE6046DE15E5"
+					"download"		"9F809E725FDE248F1B3872FAE3231B28"
+				}
+				"drop"
+				{
+					"gid"		"48AFCDF8DE78F9CE426BA82A8878EE78"
+					"size"		"8FEDE147091DA76874101D66312197CD"
+					"download"		"A4F0653D05557FFF16EE12BA774A099A"
+				}
+				"elks"
+				{
+					"gid"		"5FD0070D69F14BF684324F526F531252"
+					"size"		"273A15CC854689E9FE2534E3F7B3B380"
+					"download"		"2DC0AA7AE61154F5F2537939987E5EC4"
+				}
+				"gandalf"
+				{
+					"gid"		"3149AB4569962DF3461CE7079E162A57"
+					"size"		"FE6C7FD7D4EBC4237FACA385DB4CF03B"
+					"download"		"7293138AFEC7AB230AF65446A86820CC"
+				}
+				"moon"
+				{
+					"gid"		"A9DA15534FACCEFD8F5D5795143B4535"
+					"size"		"5EDF839B3F58CD825E8B8E9756241BF1"
+					"download"		"C27AD7133B2FE9003E2F040B5E3495DC"
+				}
+				"moose"
+				{
+					"gid"		"14A413FD1D783014C2AA84C2D452C0AE"
+					"size"		"9F11561C71A3C8DC9718C2BCED5C26F3"
+					"download"		"97C7ED5894C8B68355743564F94B70EA"
+				}
+				"moshi"
+				{
+					"gid"		"F8436A39686594FEF01D3FB396A33A47"
+					"size"		"DDA21AF79974E886CDA9FDC45770799E"
+					"download"		"EAB2EF6AD867431E67EB1753711D6D19"
+				}
+				"phantom"
+				{
+					"gid"		"E920F0694B57907640A9DDF915FCF200"
+					"size"		"7C73893E5BBC409391F8E83DE3245AB4"
+					"download"		"9B51FD9FA74520D4C5F208DCB9F0AB15"
+				}
+				"prod"
+				{
+					"gid"		"FA4F44C336B7A587DCE7D3E639486088"
+					"size"		"A4702ABEFE0DA9502DAA1237CD1B47D5"
+					"download"		"748D49A8CC7AFB7134E9D4CECB4B58E2"
+				}
+				"reindeer"
+				{
+					"gid"		"C3B5B8D04D78129AC77DD89B8EACE041"
+					"size"		"1FC751EBACED954909CAB1431E190937"
+					"download"		"62CEF9AADA8764DD1BE586B0EA4D024E"
+				}
+				"stage"
+				{
+					"gid"		"60EE7C09A762EFC44D52521A3CA6CCE5"
+					"size"		"DDA28730A92E5E5C283C21E9FB95C06C"
+					"download"		"B1463631D011CF81E7D5D5B9CB3036C2"
+				}
+			}
+		}
+		"1971872"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1064291058673885565"
+					"size"		"795553920"
+					"download"		"423132736"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"based"
+				{
+					"gid"		"227F0FC7230D537CACFE5BD3DB0C7EC8"
+					"size"		"46328D6F3DC6F6634BFCF3F0A53124F7"
+					"download"		"A1DA70F4F89E83A1196A2A37DD7603BD"
+				}
+				"cake"
+				{
+					"gid"		"B49117B931B835A1ED92E6FE1F5FC85D"
+					"size"		"459432B88322B48E698FFC5B9117A9A9"
+					"download"		"8E92F80409B80F80342E11F95DE9E3FA"
+				}
+				"carrot"
+				{
+					"gid"		"2719121FE4E855936EE3E7E1E9962C9F"
+					"size"		"01DE794A8A80EC06AA2ECE421E5E8BF4"
+					"download"		"EDDB4E4405AAF3080D38C1CC169FD44C"
+				}
+				"cheese"
+				{
+					"gid"		"64944CD74A185E4F212E58160783D166"
+					"size"		"9AC36F88220F62B075582F47135A8851"
+					"download"		"9D8EF4B3FE7DE443E3566AAF793F00ED"
+				}
+				"cookie"
+				{
+					"gid"		"17498BFD84F828CC678125CAE1EAA34D"
+					"size"		"6BB09AB2A74DE841C1D25723462B558C"
+					"download"		"6175508F331E7BA7E752222DC9E035AA"
+				}
+				"develop"
+				{
+					"gid"		"C4E7CB9C8E3DCD89760CD32B39E3DA05"
+					"size"		"C5C3838CD8704B2EFD28BDDCEAE7EE65"
+					"download"		"CE762AC804448ACDC557D7D39EBA3579"
+				}
+				"drop"
+				{
+					"gid"		"28128B0F749C5F50BF7C81D1C26A3871"
+					"size"		"FF13702636E21D278A90AC6880A783D4"
+					"download"		"F8A0583472222C4FA82E1989C65A11F7"
+				}
+				"elks"
+				{
+					"gid"		"473DE496C8378F0E0F0E050728D541DE"
+					"size"		"D82FF509F6E2DEAF4BA7DCC15A823BBF"
+					"download"		"1F81E5EAD796C617D988745156EB9446"
+				}
+				"gandalf"
+				{
+					"gid"		"F09B48CFC3B363DD8B1B6C0A35563277"
+					"size"		"C51F67EFE0AC2D5574A908C1E464CD9D"
+					"download"		"5D53A457239341988C00C1A126A4D5CA"
+				}
+				"moon"
+				{
+					"gid"		"4598E9D837463375C95DC0C5B567608D"
+					"size"		"75DBAB12BCB143A3D780F2489D34F705"
+					"download"		"42304C5D6BF680A5A4799E9E372409B3"
+				}
+				"moose"
+				{
+					"gid"		"666CA967428CC49A2108BFE25DAD6539"
+					"size"		"DA817E490634F2BDB64DE596B35CA71A"
+					"download"		"E57A43817CDA2A2CF85315C7E20DDB18"
+				}
+				"moshi"
+				{
+					"gid"		"FBE571CF162658630F02FB2D4BAE9AB6"
+					"size"		"8113D0DFCC7B21CF6007511D9FE19262"
+					"download"		"BDCB3788DC41EED217F9FC036F9F506A"
+				}
+				"phantom"
+				{
+					"gid"		"4EFAFC27CF0B465D5083B2AB901F3D8E"
+					"size"		"9886148E05123ED00104332CEDA764E2"
+					"download"		"48EED3787C276E33DCCD04082935C97A"
+				}
+				"prod"
+				{
+					"gid"		"2667C5F4E91C3D396AD39BD491C43F19"
+					"size"		"C40AEC4DDC3EF8E01C46FA0CA3DDC249"
+					"download"		"187D1C903578D0D1ECABDB637F661904"
+				}
+				"reindeer"
+				{
+					"gid"		"95F2921FD9872D70CD28B484F93F1AA0"
+					"size"		"11E5E6E1DDC8FCB842B8F0989D53F191"
+					"download"		"7EEAED8476D6B40CE5DA760C71832D58"
+				}
+				"stage"
+				{
+					"gid"		"1BC0BBC48B67BD085C3A4E2F794D7636"
+					"size"		"A1BCA751A29E05FC099E92C1DB0D1A71"
+					"download"		"052C7A6772B4336F1C5CD0568DFEA35F"
+				}
+			}
+		}
+		"1971873"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5676539294652549514"
+					"size"		"138"
+					"download"		"160"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"based"
+				{
+					"gid"		"49CF36AD05DBC26C14C9916838EC6AB1"
+					"size"		"9715D82D0B5B0D3A5A4B371CAEFEE648"
+					"download"		"2DF0A1C27531A963979131566B03ED71"
+				}
+				"cake"
+				{
+					"gid"		"C678496D39C12639C4B9515E53B5977A"
+					"size"		"012440ED86FFCA624ED74C366522F8A0"
+					"download"		"6D8C0BA14CD497FE7F107A223CB231CE"
+				}
+				"carrot"
+				{
+					"gid"		"B8D5D20862B4841022102178A834F8B8"
+					"size"		"35544E2DA7D2A54FAD2105B062284207"
+					"download"		"7DD34C2E950109054EED9E6D4D3DFAE7"
+				}
+				"cheese"
+				{
+					"gid"		"93FA14929F287F3CE998D1DD16195AD5"
+					"size"		"E818488638A130E9F5B37D1BD13BEA48"
+					"download"		"F34CBE91D69F745DD0EBE0ABCE6F9CA2"
+				}
+				"cookie"
+				{
+					"gid"		"2123CD73ED37F465A1E523E937D1C02E"
+					"size"		"8B1F4484A1C792DD1674A8B727355A72"
+					"download"		"84552FC25679B5C3F74966341403F4FE"
+				}
+				"develop"
+				{
+					"gid"		"81996129FB65A619A842AE60C40C5D34"
+					"size"		"0663BC6C83022E407927F366EEF8BE20"
+					"download"		"32AE482B4CAE87285A955286DC523707"
+				}
+				"drop"
+				{
+					"gid"		"02FD6922E96B4FD9E60D78C4438B5DC3"
+					"size"		"D6E221191389DC1BA98E4FF2BB1CD669"
+					"download"		"9823A41E5C0D19271E04D5339AAD1128"
+				}
+				"elks"
+				{
+					"gid"		"FD9FA698BD1E6A7F7232C53F109E5C68"
+					"size"		"63694B2323C99FAE857C9C4379EA7378"
+					"download"		"0C05D4817706679E7F03B2B8FF50DF64"
+				}
+				"gandalf"
+				{
+					"gid"		"0370F69EB256A15ADA158D3C66A72EFB"
+					"size"		"558C2798EA9771B3AD44B44AB6A7CEF3"
+					"download"		"AB0D3557E22D237B1F623100654E0A03"
+				}
+				"moon"
+				{
+					"gid"		"18F253CBF08D7E59AA142C36CAE32501"
+					"size"		"179A02ADC0E6193604CD565B8C90CF0A"
+					"download"		"BBBFBFED0BD9183DEF5342601CACB5BF"
+				}
+				"moose"
+				{
+					"gid"		"9DB7BB810ADA5102A3D9C698D7551EAF"
+					"size"		"41F7A702270545B794C7F109A595ED6F"
+					"download"		"0E362DEC584FC6BA57E41D6F8EEAC512"
+				}
+				"moshi"
+				{
+					"gid"		"CE502D2E69637EC495DFAD24D20AFC87"
+					"size"		"563F5C1415C70B76125F7416A8859CAF"
+					"download"		"7B236C39DFC0D4192857F8F7A50ADA61"
+				}
+				"phantom"
+				{
+					"gid"		"C394DBA819B3C0C0046A52BB429AC66D"
+					"size"		"939724B9283B7C247C09A529AF8592CC"
+					"download"		"41870E20E7271B54FB89A6D78F347213"
+				}
+				"prod"
+				{
+					"gid"		"88B3F616642AF5CA20D6A5C9BA100D8F"
+					"size"		"8EF789EB397FCC18F2786A969590484E"
+					"download"		"14598F3CBF042AE07E942D09859BDF15"
+				}
+				"reindeer"
+				{
+					"gid"		"2FCB89DA0FFC0CB92AFD7078D0D7A95F"
+					"size"		"028FBDA902ED0761C93A36495FB23415"
+					"download"		"9C64715815E9DCF70C4311610D372CB8"
+				}
+				"stage"
+				{
+					"gid"		"0CF17A7264933B1F4732EFD223D96DBF"
+					"size"		"E6891831E7E8230DB231ABF959B23747"
+					"download"		"5BFF9D0DC1537CB9FEAF0C876B2C18AD"
+				}
+			}
+		}
+		"2615191"
+		{
+			"dlcappid"		"2615190"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3384663532847971770"
+					"size"		"44420486210"
+					"download"		"42412490848"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"develop"
+				{
+					"gid"		"D57FEB08B7A0E4346EC671E34846FF58"
+					"size"		"152F4F6124816B397BF2043D103A393A"
+					"download"		"61F90A4DA2A9AA3B002FAFBE63ABEFF1"
+				}
+				"drop"
+				{
+					"gid"		"B2B68E3D46963B3E6394F9A45EEF1EE9"
+					"size"		"EEEC95909B629623DFDFA8EBBE653102"
+					"download"		"BE733B024BB01CA2B0CAF0257D26EC89"
+				}
+				"elks"
+				{
+					"gid"		"AC3E1597216D95F7C01B676C694E9650"
+					"size"		"451585C780444E8E592AF2C7851E8BDD"
+					"download"		"4A5418261F2ED6475808DBEE2D71A0DD"
+				}
+				"moshi"
+				{
+					"gid"		"25E5821B24FDCD2B7958AD22A23263D9"
+					"size"		"C9D29ABD1E1473A243E62BFD21F21983"
+					"download"		"B1BF605E3427F243432DFE67975385F3"
+				}
+				"phantom"
+				{
+					"gid"		"4A5C7E45189907DD4C7D9A775FBC2317"
+					"size"		"FB856BBD044E5E92B01161C9ABCDEFF6"
+					"download"		"6127EB7EAD7A8640B5429321A651DE38"
+				}
+				"prod"
+				{
+					"gid"		"24DBD32D576D3772EA9F0A58DCD059AC"
+					"size"		"E318E148CE12AE98BAA907EF16223AA2"
+					"download"		"F24C246323DB81AF88324440DC31F10B"
+				}
+				"stage"
+				{
+					"gid"		"10ACB49FE7237E52864F302D5299F21A"
+					"size"		"26EBEC56ED826069BB14EF4AA59D6924"
+					"download"		"A35F1CA86CC8D8B8AFADFB8B7E06E491"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12523925"
+				"timeupdated"		"1698169902"
+			}
+			"based"
+			{
+				"buildid"		"11972260"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692339906"
+			}
+			"cake"
+			{
+				"buildid"		"9908189"
+				"pwdrequired"		"1"
+				"timeupdated"		"1668073966"
+			}
+			"carrot"
+			{
+				"buildid"		"11295910"
+				"pwdrequired"		"1"
+				"timeupdated"		"1684836047"
+			}
+			"cheese"
+			{
+				"buildid"		"10365398"
+				"pwdrequired"		"1"
+				"timeupdated"		"1674207295"
+			}
+			"cookie"
+			{
+				"buildid"		"11773629"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690204049"
+			}
+			"develop"
+			{
+				"buildid"		"12617943"
+				"pwdrequired"		"1"
+				"timeupdated"		"1699071624"
+			}
+			"drop"
+			{
+				"buildid"		"12543192"
+				"pwdrequired"		"1"
+				"timeupdated"		"1698329193"
+			}
+			"elks"
+			{
+				"buildid"		"12424631"
+				"pwdrequired"		"1"
+				"timeupdated"		"1697119511"
+			}
+			"gandalf"
+			{
+				"buildid"		"12204490"
+				"pwdrequired"		"1"
+				"timeupdated"		"1696951002"
+			}
+			"moon"
+			{
+				"buildid"		"12068645"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693825583"
+			}
+			"moose"
+			{
+				"buildid"		"11868000"
+				"pwdrequired"		"1"
+				"timeupdated"		"1691158631"
+			}
+			"moshi"
+			{
+				"buildid"		"12561099"
+				"pwdrequired"		"1"
+				"timeupdated"		"1698492751"
+			}
+			"phantom"
+			{
+				"buildid"		"12612327"
+				"pwdrequired"		"1"
+				"timeupdated"		"1699017897"
+			}
+			"prod"
+			{
+				"buildid"		"12613400"
+				"pwdrequired"		"1"
+				"timeupdated"		"1699025610"
+			}
+			"reindeer"
+			{
+				"buildid"		"12123417"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694011019"
+			}
+			"stage"
+			{
+				"buildid"		"12512528"
+				"pwdrequired"		"1"
+				"timeupdated"		"1698076210"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"2147483648"
+		"maxnumfiles"		"200"
+		"sync_while_suspended"		"1"
+	}
+}
