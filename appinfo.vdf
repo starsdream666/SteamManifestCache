@@ -1,0 +1,639 @@
+"appinfo"
+{
+	"appid"		"1286320"
+	"common"
+	{
+		"name"		"Exoprimal"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"arabic"		"1"
+			"brazilian"		"1"
+			"latam"		"1"
+		}
+		"clienttga"		"a5473901eef6aa60e07d950fa88c893266417135"
+		"clienticon"		"1a4d73a649a5616977c22b0b63a1d23b0ab376c2"
+		"icon"		"8821f5dfe0ef9fb38574e1716af1a9d6f5802dd2"
+		"name_localized"
+		{
+			"japanese"		"EXOPRIMAL"
+		}
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1286320_eula_0"
+				"name"		"Exoprimal EULA"
+				"url"		"https://store.steampowered.com//eula/1286320_eula_0"
+				"version"		"2"
+			}
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1687996800"
+			"tested_build_id"		"11312111"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-2"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"34.65363543781473"
+				"height_pct"		"27.083333333333314"
+			}
+		}
+		"store_asset_mtime"		"1698752925"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"CAPCOM Co., Ltd."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"CAPCOM Co., Ltd."
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_28"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"arabic"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1689264000"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1286320"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"1774"
+			"2"		"3942"
+			"3"		"5160"
+			"4"		"4191"
+			"5"		"1708"
+			"6"		"1663"
+			"7"		"4295"
+			"8"		"1775"
+			"9"		"5363"
+			"10"		"1662"
+			"11"		"6730"
+			"12"		"3859"
+			"13"		"5711"
+			"14"		"3843"
+			"15"		"3814"
+			"16"		"4747"
+			"17"		"1697"
+			"18"		"4821"
+		}
+		"review_score"		"6"
+		"review_percentage"		"72"
+	}
+	"extended"
+	{
+		"additional_dependencies"
+		{
+			"0"
+			{
+				"src_os"		"windows"
+				"dest_os"		"linux"
+				"h264"		"1"
+			}
+		}
+		"developer"		"CAPCOM Co., Ltd."
+		"publisher"		"CAPCOM Co., Ltd."
+		"homepage"		"https://www.exoprimal.com/"
+		"listofdlc"		"1940850,1940851,1940852,1940853,2076050,2076051,2076052,2076053,2076054,2076055,2076056,2104480,2104481,2104482,2104483,2104484,2104485,2104486,2104487,2104488,2104489,2104490,2104491,2104492,2104493,2104494,2104495,2104496,2104497,2104498,2384370,2397170,2459910,2459911,2459912,2459913,2459914,2459915,2459916,2467360,2467361"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Exoprimal"
+		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"7"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"start_protected_game.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"EXOPRIMAL.exe"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"p1sa,p3am,p4in,p5nv,st_lac"
+				}
+				"description_loc"
+				{
+					"english"		"without Anti-Cheat Bootstrapper(for Develop)"
+				}
+				"description"		"without Anti-Cheat Bootstrapper(for Develop)"
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,arabic,brazilian,latam"
+		"1286321"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6710479831288148539"
+					"size"		"55159243125"
+					"download"		"48514790672"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"ev_m"
+				{
+					"gid"		"85B4A8F02FCF8D1906C0E3788FE2A03C"
+					"size"		"8935C25674089AABA0A94E71EA6CFE17"
+					"download"		"5C67C518631BF93DB00288894B0FD4C3"
+				}
+				"ev_m2"
+				{
+					"gid"		"C63F64412710D605DD7471B6604FF7F4"
+					"size"		"9731D3F7FFB2AD5E837A478FC98CDF94"
+					"download"		"E91CD96540D35872C4EBAEEEDB6FE954"
+				}
+				"ev_m2_ac"
+				{
+					"gid"		"D082C790221CA3CACF7F80DE98A490D6"
+					"size"		"3955DAA15E0885CEB9ECA70400B856A5"
+					"download"		"140B722ABE0C90D6C578CDE252EA1C60"
+				}
+				"ev_m3"
+				{
+					"gid"		"AA7D2F4AAA5A6983A9AF41E43DF9F408"
+					"size"		"3D955C98E750A1F79ECE5B3E1331AEE2"
+					"download"		"6310C82706203AEEC007122A086CDEB1"
+				}
+				"ev_m4"
+				{
+					"gid"		"80C7918B5ECD73273D508E85C84ABCFA"
+					"size"		"D097B5200D4D5D6C6ED0BD8E1DAA745B"
+					"download"		"ED705BB42BD2CCA8B8FC99C4E90BEC94"
+				}
+				"p3am"
+				{
+					"gid"		"E5E358763E25412A5AFA91002FA259B6"
+					"size"		"833ED88DC58084B2B1BF6C31B595359A"
+					"download"		"D0685A16D9681A971C0F5E575B8D1EA4"
+				}
+				"p4in"
+				{
+					"gid"		"CCD150B903D67174EFD2A2A4B00832F9"
+					"size"		"D80C1CC27B5C83CC37CF8E353C9E55D1"
+					"download"		"49FD28F0F48C60E25D8409BBCD4DCD45"
+				}
+				"p5nv"
+				{
+					"gid"		"1761F745647C173AE45FEAC888CC3714"
+					"size"		"9484625EF7ADE085098CF8EC95CAA79D"
+					"download"		"BD88D0DBCB450DB953912709A0CCA6A1"
+				}
+				"qa1b"
+				{
+					"gid"		"9827C40F5E091ABFEAA62ADBEC141B26"
+					"size"		"9FC605BDF93E6CFE86367F35BA67B0FE"
+					"download"		"040FA463676A21CA00759A6FE211097D"
+				}
+				"qa3a"
+				{
+					"gid"		"FAE67ACE6BF8C19D9AAF52AA02D877C1"
+					"size"		"357898C85A2B7DCA014B87186B453918"
+					"download"		"CC0379439406CD2E387B12015230D325"
+				}
+				"qa4c"
+				{
+					"gid"		"31A22771117D82C2A4CFD7858BA10C73"
+					"size"		"2B4234D01C57F7CBE0FC214F820D62C0"
+					"download"		"C72A0959658AF50DB81A7F81D870C472"
+				}
+				"qa4cmst"
+				{
+					"gid"		"8CF31B0311AD1CEDFC5DABFFC5EA6E5E"
+					"size"		"51F88015A45F56AA21BD7DCBA44195F4"
+					"download"		"65C99585FB3EA485D7636FF8029BA643"
+				}
+				"qa5a"
+				{
+					"gid"		"7F1AD92EBFD2D14933722C574DC4A53F"
+					"size"		"6C73BF3314233C86DA353FC01A79BE37"
+					"download"		"E8580F1A3FECC392F885B43482D01383"
+				}
+				"qa5amst"
+				{
+					"gid"		"564E6D9055A9B89BA99440FEF33D4193"
+					"size"		"976279FDC8CF05D67999D06FF7559D59"
+					"download"		"D86DFEF65F2C3F9039EAEA3BC8C02FD7"
+				}
+				"qa5b"
+				{
+					"gid"		"7329AB0BDB128105E5D26EAC7C66DA49"
+					"size"		"F2D0F297B15C5BB47F27621F973EBD99"
+					"download"		"4C1EA51FD5BF6E11AAA8849241B2B547"
+				}
+				"qa5bmst"
+				{
+					"gid"		"D5B418546AEB1A720E53A55FAF99E25A"
+					"size"		"7BDFAE4602D9D44F479C4586099F395D"
+					"download"		"C90D014DFD9D53F10DF34B5EBA071963"
+				}
+				"qa5c"
+				{
+					"gid"		"4744460BC17791E662C793520B178092"
+					"size"		"E71982615C5BA013A69052D419F8C918"
+					"download"		"3D2F4CE61DCAE85B0DA800A4FBF40DD9"
+				}
+				"qa5cmst"
+				{
+					"gid"		"EED192FA4AF0B8D13D1B6DF3B9E55CD9"
+					"size"		"1488649CB68BA71E3A11B6F1CE0A92B5"
+					"download"		"290B6B8B92F8532C06902C54B1E1B289"
+				}
+				"qa6a"
+				{
+					"gid"		"D39D5746B7E9DC71AF9C9FD8F9031383"
+					"size"		"9CAFD4D3EB7CE60B5655F95A063B84CA"
+					"download"		"57090E9E64C02744DCADDF3E8D0040CB"
+				}
+				"qa6amst"
+				{
+					"gid"		"1DC9605E4587B60C66DFA47D7C819EEE"
+					"size"		"99EF01CAE5C67D8646A723FCC8763D9A"
+					"download"		"6212F757062A3B34B1AB92497113862D"
+				}
+				"qa6b"
+				{
+					"gid"		"7356C74BFCBB5E98607A4B831E185700"
+					"size"		"A17D0D4C0FC9D268216C4CBB0E4E22DF"
+					"download"		"07C4B49BEB64746E9E68676B7D53BAD8"
+				}
+				"qa6bmst"
+				{
+					"gid"		"79C4DD000B7513CF71ED382F8F6E866F"
+					"size"		"111160FA7D7D8A1345A822D6A147AE30"
+					"download"		"E8FF06D39DDFC01B80C376F84BAEAE3C"
+				}
+				"qa6c"
+				{
+					"gid"		"212D62D7C21E6DF5CD606C6B8C3D6D40"
+					"size"		"9025A443E5B8B5FE6B3CD4F8BEEFF981"
+					"download"		"EF74DE04FA6C6E115FFE36F5F6F39C5C"
+				}
+				"qa6cmst"
+				{
+					"gid"		"B697AA021AF87354523A2D2AFE2D29FA"
+					"size"		"17B078D22682F1B4A44C739F366463AF"
+					"download"		"F0416D584DCA420BE1C0C5A167E3F97B"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12195322"
+				"timeupdated"		"1697612419"
+			}
+			"ev_m"
+			{
+				"buildid"		"11312111"
+				"pwdrequired"		"1"
+				"timeupdated"		"1684980206"
+			}
+			"ev_m2"
+			{
+				"buildid"		"11566829"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687866666"
+			}
+			"ev_m2_ac"
+			{
+				"buildid"		"12579216"
+				"pwdrequired"		"1"
+				"timeupdated"		"1698732559"
+			}
+			"ev_m3"
+			{
+				"buildid"		"11690735"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689227529"
+			}
+			"ev_m4"
+			{
+				"buildid"		"12195322"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694754246"
+			}
+			"p3am"
+			{
+				"buildid"		"11533543"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687425142"
+			}
+			"p4in"
+			{
+				"buildid"		"11534009"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687429143"
+			}
+			"p5nv"
+			{
+				"buildid"		"11535044"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687436813"
+			}
+			"qa1b"
+			{
+				"buildid"		"10159505"
+				"pwdrequired"		"1"
+				"timeupdated"		"1671161933"
+			}
+			"qa3a"
+			{
+				"buildid"		"11566350"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687864388"
+			}
+			"qa4c"
+			{
+				"buildid"		"11690032"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689224750"
+			}
+			"qa4cmst"
+			{
+				"buildid"		"11689982"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689224797"
+			}
+			"qa5a"
+			{
+				"buildid"		"12074174"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693456703"
+			}
+			"qa5amst"
+			{
+				"buildid"		"12074632"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693456715"
+			}
+			"qa5b"
+			{
+				"buildid"		"12127536"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694048837"
+			}
+			"qa5bmst"
+			{
+				"buildid"		"12127508"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694046723"
+			}
+			"qa5c"
+			{
+				"buildid"		"12184151"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694658995"
+			}
+			"qa5cmst"
+			{
+				"buildid"		"12184091"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694659027"
+			}
+			"qa6a"
+			{
+				"buildid"		"12597074"
+				"pwdrequired"		"1"
+				"timeupdated"		"1698894984"
+			}
+			"qa6amst"
+			{
+				"buildid"		"12597980"
+				"pwdrequired"		"1"
+				"timeupdated"		"1698895000"
+			}
+			"qa6b"
+			{
+				"buildid"		"12476334"
+				"pwdrequired"		"1"
+				"timeupdated"		"1697674156"
+			}
+			"qa6bmst"
+			{
+				"buildid"		"12476356"
+				"pwdrequired"		"1"
+				"timeupdated"		"1697674123"
+			}
+			"qa6c"
+			{
+				"buildid"		"12537216"
+				"pwdrequired"		"1"
+				"timeupdated"		"1698281912"
+			}
+			"qa6cmst"
+			{
+				"buildid"		"12538158"
+				"pwdrequired"		"1"
+				"timeupdated"		"1698295287"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"16"
+	}
+}
