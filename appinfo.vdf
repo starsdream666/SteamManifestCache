@@ -33,15 +33,35 @@
 		}
 		"steam_deck_compatibility"
 		{
-			"category"		"1"
-			"test_timestamp"		"1687219200"
-			"tested_build_id"		"11203756"
+			"category"		"2"
+			"test_timestamp"		"1694736000"
+			"tested_build_id"		"12004767"
 			"tests"
 			{
 				"0"
 				{
-					"display"		"2"
-					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_AudioOutputHasNonblockingIssues"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 				}
 			}
 			"configuration"
@@ -54,7 +74,7 @@
 				"small_text"		"1"
 				"requires_internet_for_setup"		"0"
 				"requires_internet_for_singleplayer"		"0"
-				"recommended_runtime"		"proton-8.0-3"
+				"recommended_runtime"		"proton-8.0-4"
 				"requires_h264"		"1"
 				"gamescope_frame_limiter_not_supported"		"0"
 			}
@@ -82,7 +102,7 @@
 				"height_pct"		"100"
 			}
 		}
-		"store_asset_mtime"		"1686317936"
+		"store_asset_mtime"		"1699277576"
 		"associations"
 		{
 			"0"
@@ -192,8 +212,8 @@
 			"8"		"4726"
 			"9"		"4305"
 			"10"		"1684"
-			"11"		"3843"
-			"12"		"7368"
+			"11"		"7368"
+			"12"		"3843"
 			"13"		"4994"
 			"14"		"4182"
 			"15"		"3993"
@@ -201,8 +221,8 @@
 			"17"		"1756"
 			"18"		"6910"
 		}
-		"review_score"		"8"
-		"review_percentage"		"80"
+		"review_score"		"6"
+		"review_percentage"		"79"
 	}
 	"extended"
 	{
@@ -211,7 +231,7 @@
 		"developer"		"Fika Productions"
 		"publisher"		"Team17"
 		"homepage"		"https://shipoffoolsgame.com/"
-		"listofdlc"		"2342680"
+		"listofdlc"		"2342680,2512030"
 		"dlcavailableonstore"		"1"
 	}
 	"config"
@@ -280,9 +300,9 @@
 			{
 				"public"
 				{
-					"gid"		"126340936082862263"
-					"size"		"1206984599"
-					"download"		"997384560"
+					"gid"		"5094846028153380149"
+					"size"		"2320563376"
+					"download"		"967771984"
 				}
 			}
 			"encryptedmanifests"
@@ -295,15 +315,15 @@
 				}
 				"development"
 				{
-					"gid"		"AB9CB037A73CD6829D6F8C5C09D005F5"
-					"size"		"960E5B85F8F3E131990513E09A340B73"
-					"download"		"EF53462F648F78FB409A6190A20C503B"
+					"gid"		"25DEDD2D36978322F59006DA45679A39"
+					"size"		"79EF9EC137226A8CCA2E6DB4363EF5A3"
+					"download"		"4EFEA1AED5DAB3C7B3AC55F6F5C78DDA"
 				}
 				"development_2"
 				{
-					"gid"		"D9E953DAE71B6505A7B0CC17AC5250AC"
-					"size"		"372781143B73D3974B3D8E959AF34678"
-					"download"		"90761DF95465D6F0864B2841CB190DE5"
+					"gid"		"7C33DA218092D6C159BD79BA57D98C03"
+					"size"		"A7DB913A05D5546F6B52848F435BF9A0"
+					"download"		"5C81514758B0507973555251B43EFB47"
 				}
 				"fish_and_ship_backup"
 				{
@@ -319,9 +339,9 @@
 				}
 				"nightly"
 				{
-					"gid"		"A4FC984BCBFAA49E4470C7F59BD02093"
-					"size"		"EBD4879F79764FC1268976B5A4C030E7"
-					"download"		"B076B6BC4722399D83A3FD3C14E1A5AB"
+					"gid"		"5CDBB8864B5F4A20DF7FB2E48751B119"
+					"size"		"6BF2768186DC24530189E5DA6DA1C7FC"
+					"download"		"1C4A15C0CB8F0C23E988F89E0886A725"
 				}
 				"release_candidate"
 				{
@@ -331,9 +351,9 @@
 				}
 				"staging"
 				{
-					"gid"		"FDFDFE876B890AD81D2A5D9B538DE58E"
-					"size"		"9FD24141868FBF932DABEE7E08B12055"
-					"download"		"55388D35A0CB128A0884468B7BFD1FA1"
+					"gid"		"063B416B621A359798611B74A6A6DD9C"
+					"size"		"BBBC4527C813F473F7329C67F7521020"
+					"download"		"C2670F3FFCF1476CBAFD6F3A8918319A"
 				}
 				"usability"
 				{
@@ -353,9 +373,9 @@
 			{
 				"public"
 				{
-					"gid"		"7975279707033028460"
-					"size"		"1089609774"
-					"download"		"860106240"
+					"gid"		"4491337005345644529"
+					"size"		"1225759611"
+					"download"		"905644960"
 				}
 			}
 			"encryptedmanifests"
@@ -374,9 +394,9 @@
 				}
 				"development_2"
 				{
-					"gid"		"876CCE8CCA974A66F5CA03EC72868A92"
-					"size"		"174E94FE80C56364E8D4E329F29874E1"
-					"download"		"9D11A2B808B2AAB8806181FA33B39D43"
+					"gid"		"A939D9F9D487C3B6300977668CAD74A6"
+					"size"		"74F98300C9ECA91A74EC955724DB6A94"
+					"download"		"7981609F9943169E931B2B9097596F59"
 				}
 				"fish_and_ship_backup"
 				{
@@ -392,9 +412,9 @@
 				}
 				"nightly"
 				{
-					"gid"		"17C5B080CE8F81F3E8B43F6DD9F7387B"
-					"size"		"817EC1EA9E083A9AAE4A67C45BF1B243"
-					"download"		"024A5E4DDA5D9FC189A4945CF327A3DB"
+					"gid"		"2F028BB7EE0FE6310C4F18228A1449DB"
+					"size"		"D05DFB240820945EE47A89E9EE244A90"
+					"download"		"231B2C30A548CB3B59CB25A9ACE8A74D"
 				}
 				"release_candidate"
 				{
@@ -404,9 +424,9 @@
 				}
 				"staging"
 				{
-					"gid"		"7F403429CABDCA206407F45B0B767EC1"
-					"size"		"1B782C39C328964A7DCCF58AA787EC7D"
-					"download"		"6C548178E10135420873AAA460B6FA21"
+					"gid"		"C60702C5001C2DA955FB70580DDD8256"
+					"size"		"63C4E3401E6D22DB63D2C9776CFDCB1F"
+					"download"		"1D859C67793BC4F9111E2AEECF7F0AE6"
 				}
 				"usability"
 				{
@@ -428,36 +448,36 @@
 			{
 				"public"
 				{
-					"gid"		"7971987004439919916"
-					"size"		"1496759922"
-					"download"		"849007952"
+					"gid"		"5961248495866746710"
+					"size"		"3913358511"
+					"download"		"1286450416"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"development"
 				{
-					"gid"		"C054C133C3CB25BFCC37F3E6C497B7BC"
-					"size"		"4798EFBDF1AE5B6C887904D64B8AA024"
-					"download"		"F67E03ACE03FCE5FD07D61EB97A7EF8D"
+					"gid"		"146103230658760BF0BD2B12A6C108BD"
+					"size"		"ACF3360C7E44DE136D4BCE44A6F7CA98"
+					"download"		"795C057B7AB10392BBBD26CA2E72A3EF"
 				}
 				"development_2"
 				{
-					"gid"		"26D3B525C21789C999A35F2C97043110"
-					"size"		"D45F04681FB7C3B1844010A65F254DC1"
-					"download"		"B015082F501DE3B4B27AD3F23EE93F80"
+					"gid"		"A476511CA3C84073EF04E97C6A6ED93E"
+					"size"		"FDB760D36046A80E963607FD7CB6FC76"
+					"download"		"7188EE80E39F54328FCF78D753CCAFB7"
 				}
 				"nightly"
 				{
-					"gid"		"C59BD59D4B03A3E4FD6A3E893760DD86"
-					"size"		"43CC85298BBA8824E17A268ACA0B94B5"
-					"download"		"1EC88E876B5D6A345FED16991580644B"
+					"gid"		"5B0BCD4AA6F8A4174A1FB08FDB352B51"
+					"size"		"2BAB0EE6A317C85538724396F2C36DF2"
+					"download"		"DAB01AB8117A600C87C57A56B78BD211"
 				}
 				"staging"
 				{
-					"gid"		"2F22C1A255C3507EE7F8D8D79CF0FD34"
-					"size"		"0E378F304B811CCA58DE23EC9D589471"
-					"download"		"55930B954439B4A93A3831AB14C3242B"
+					"gid"		"43868764449078C264CF54A6D7533754"
+					"size"		"1C64E05B2C5C9217C324A8926D0A8A53"
+					"download"		"07CF7AFAE83E9A0EADAC6FF871B2AB34"
 				}
 			}
 		}
@@ -465,8 +485,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12004767"
-				"timeupdated"		"1692719486"
+				"buildid"		"12585589"
+				"timeupdated"		"1699280488"
 			}
 			"demo"
 			{
@@ -476,15 +496,15 @@
 			}
 			"development"
 			{
-				"buildid"		"12169858"
+				"buildid"		"12585589"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694530080"
+				"timeupdated"		"1698778074"
 			}
 			"development_2"
 			{
-				"buildid"		"12014201"
+				"buildid"		"12585120"
 				"pwdrequired"		"1"
-				"timeupdated"		"1692804032"
+				"timeupdated"		"1698774569"
 			}
 			"fish_and_ship_backup"
 			{
@@ -500,9 +520,9 @@
 			}
 			"nightly"
 			{
-				"buildid"		"12172151"
+				"buildid"		"12219496"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694549429"
+				"timeupdated"		"1695072946"
 			}
 			"release_candidate"
 			{
@@ -512,9 +532,9 @@
 			}
 			"staging"
 			{
-				"buildid"		"12081476"
+				"buildid"		"12545696"
 				"pwdrequired"		"1"
-				"timeupdated"		"1693505854"
+				"timeupdated"		"1698349057"
 			}
 			"usability"
 			{
