@@ -26,16 +26,18 @@
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
+			"koreana"		"capsule_231x87_koreana.jpg"
 		}
 		"header_image"
 		{
 			"english"		"header.jpg"
+			"koreana"		"header_koreana.jpg"
 		}
 		"library_assets"
 		{
-			"library_capsule"		"en"
-			"library_hero"		"en"
-			"library_logo"		"en"
+			"library_capsule"		"en,ko"
+			"library_hero"		"en,ko"
+			"library_logo"		"en,ko"
 			"logo_position"
 			{
 				"pinned_position"		"BottomLeft"
@@ -43,7 +45,7 @@
 				"height_pct"		"50"
 			}
 		}
-		"store_asset_mtime"		"1639932916"
+		"store_asset_mtime"		"1699192681"
 		"associations"
 		{
 			"0"
@@ -59,7 +61,12 @@
 			"2"
 			{
 				"type"		"publisher"
-				"name"		"BD Games"
+				"name"		"Mayflower Entertainment"
+			}
+			"3"
+			{
+				"type"		"publisher"
+				"name"		"小鹿遊戲"
 			}
 		}
 		"primary_genre"		"25"
@@ -88,6 +95,11 @@
 				"supported"		"true"
 				"subtitles"		"true"
 			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
 		}
 		"steam_release_date"		"1639021380"
 		"community_visible_stats"		"1"
@@ -106,14 +118,14 @@
 			"8"		"1742"
 			"9"		"4182"
 		}
-		"review_score"		"8"
-		"review_percentage"		"94"
+		"review_score"		"7"
+		"review_percentage"		"93"
 	}
 	"extended"
 	{
 		"developer"		"GameNobility 遊戲貴族"
 		"publisher"		"Interwise Multimedia Corp.英特衛多媒體股份有限公司"
-		"homepage"		"https://www.GameNobility.club/SunnyCafe/"
+		"homepage"		"https://www.GameNobility.club/sunnycafe/"
 		"listofdlc"		"1723430"
 		"dlcavailableonstore"		"1"
 	}
@@ -169,15 +181,15 @@
 			{
 				"public"
 				{
-					"gid"		"4885072820023243778"
-					"size"		"3092414186"
-					"download"		"2507965856"
+					"gid"		"8626849267449308367"
+					"size"		"5325941745"
+					"download"		"4725749488"
 				}
 				"beta"
 				{
-					"gid"		"3607344724192875884"
-					"size"		"4118846708"
-					"download"		"3516067872"
+					"gid"		"8626849267449308367"
+					"size"		"5325941745"
+					"download"		"4725749488"
 				}
 			}
 		}
@@ -210,9 +222,9 @@
 			{
 				"public"
 				{
-					"gid"		"1143057767285421722"
-					"size"		"495511861"
-					"download"		"420157072"
+					"gid"		"3150947178491636190"
+					"size"		"298764471"
+					"download"		"204970224"
 				}
 				"beta"
 				{
@@ -226,14 +238,14 @@
 		{
 			"public"
 			{
-				"buildid"		"10215569"
-				"timeupdated"		"1672035845"
+				"buildid"		"12627825"
+				"timeupdated"		"1699260667"
 			}
 			"beta"
 			{
-				"buildid"		"12133076"
+				"buildid"		"12627825"
 				"description"		"beta test"
-				"timeupdated"		"1694095976"
+				"timeupdated"		"1699260205"
 			}
 		}
 	}
