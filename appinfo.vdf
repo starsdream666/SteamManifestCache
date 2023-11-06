@@ -55,27 +55,22 @@
 		"clienticns"		"715bf794261f8780f44b187dfb37cb2cced36c36"
 		"steam_deck_compatibility"
 		{
-			"category"		"2"
-			"test_timestamp"		"1681430400"
-			"tested_build_id"		"10946898"
+			"category"		"3"
+			"test_timestamp"		"1698710400"
+			"tested_build_id"		"12424814"
 			"tests"
 			{
 				"0"
 				{
-					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
-				}
-				"1"
-				{
-					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
-				}
-				"2"
-				{
 					"display"		"4"
 					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 				}
-				"3"
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"2"
 				{
 					"display"		"4"
 					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
@@ -84,11 +79,11 @@
 			"configuration"
 			{
 				"supported_input"		"gamepad"
-				"requires_manual_keyboard_invoke"		"1"
+				"requires_manual_keyboard_invoke"		"0"
 				"requires_non_controller_launcher_nav"		"0"
 				"primary_player_is_controller_slot_0"		"0"
 				"non_deck_display_glyphs"		"0"
-				"small_text"		"1"
+				"small_text"		"0"
 				"requires_internet_for_setup"		"0"
 				"requires_internet_for_singleplayer"		"0"
 				"recommended_runtime"		"proton-stable"
@@ -296,6 +291,7 @@
 			"2"
 			{
 				"executable"		"Passpartout2.exe"
+				"arguments"		"-force-glcore"
 				"type"		"option2"
 				"config"
 				{
@@ -309,6 +305,17 @@
 				"description"		"OpenGL"
 			}
 		}
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigdetails"
+		{
+			"3052050277"
+			{
+				"controller_type"		"controller_neptune"
+				"enabled_branches"		"default,beta,internal,localization,quality-assurance,steamdeck-review"
+				"use_action_block"		"false"
+			}
+		}
+		"steamdecktouchscreen"		"1"
 	}
 	"depots"
 	{
@@ -324,15 +331,15 @@
 			{
 				"public"
 				{
-					"gid"		"8969904812317223094"
-					"size"		"3211289353"
-					"download"		"1667508352"
+					"gid"		"2045742410024892938"
+					"size"		"4311213823"
+					"download"		"2656373376"
 				}
 				"beta"
 				{
-					"gid"		"1685345132997721455"
-					"size"		"3225093292"
-					"download"		"1674313200"
+					"gid"		"2045742410024892938"
+					"size"		"4311213823"
+					"download"		"2656373376"
 				}
 			}
 			"encryptedmanifests"
@@ -351,9 +358,9 @@
 				}
 				"internal"
 				{
-					"gid"		"2001F576023EAAA531A2500BD8539BA0"
-					"size"		"38280A35C5ECA1DF522FD70EFF88D1A4"
-					"download"		"44F50D6E3002B0952CA4469EF62DC954"
+					"gid"		"46D5AF15457FD0D95A1BE381205A5467"
+					"size"		"5D202AA50B96776CD38039BF30F6686B"
+					"download"		"B25B26962B0D6DD4EC801EBF15C30977"
 				}
 				"localization"
 				{
@@ -373,6 +380,12 @@
 					"size"		"93A15EE4ACE90F3DC4E3724677537563"
 					"download"		"DFC12FF959F33D587E87F6FA25F66405"
 				}
+				"steamdeck-review"
+				{
+					"gid"		"43B95A6FE9E2C06D44AA67D5D1813C6F"
+					"size"		"70C722A9247EC500AEB93DEE49A9D520"
+					"download"		"EF565F52B290644F0CF36EF60425629D"
+				}
 			}
 		}
 		"1571102"
@@ -386,15 +399,15 @@
 			{
 				"public"
 				{
-					"gid"		"5473444408985241439"
-					"size"		"3232609867"
-					"download"		"1670782848"
+					"gid"		"4179543317311301461"
+					"size"		"3969600392"
+					"download"		"2547765792"
 				}
 				"beta"
 				{
-					"gid"		"8914884410636310727"
-					"size"		"3245113051"
-					"download"		"1676874576"
+					"gid"		"4179543317311301461"
+					"size"		"3969600392"
+					"download"		"2547765792"
 				}
 			}
 			"encryptedmanifests"
@@ -413,9 +426,9 @@
 				}
 				"internal"
 				{
-					"gid"		"198D75643441BD490D063C89887045A8"
-					"size"		"52BB9AF118D2CC93FE930A3620045053"
-					"download"		"0BD12471012258CA0528453C8426C9F1"
+					"gid"		"EF8205263D4F7AD65790D1068D8FE291"
+					"size"		"3437B26946E822F46D016A503847EEA6"
+					"download"		"5A0759A95A8E9EE142FB348A8750F6BD"
 				}
 				"localization"
 				{
@@ -435,20 +448,26 @@
 					"size"		"AC63A2B4F7CED5F9842F4C3BAF262E5E"
 					"download"		"AC63A2B4F7CED5F9842F4C3BAF262E5E"
 				}
+				"steamdeck-review"
+				{
+					"gid"		"9438F28437EED9E55B7ADAF20A4FBA74"
+					"size"		"8E249A550AC61B6B4B6539C9AAEBAABF"
+					"download"		"750CF1220BD96080124873620AF074CE"
+				}
 			}
 		}
 		"branches"
 		{
 			"public"
 			{
-				"buildid"		"11558885"
-				"timeupdated"		"1687856535"
+				"buildid"		"12613150"
+				"timeupdated"		"1699275778"
 			}
 			"beta"
 			{
-				"buildid"		"11002088"
+				"buildid"		"12613150"
 				"description"		"Experimental changes & aspring bugfixes"
-				"timeupdated"		"1681477659"
+				"timeupdated"		"1699275764"
 			}
 			"demo"
 			{
@@ -464,9 +483,9 @@
 			}
 			"internal"
 			{
-				"buildid"		"12224081"
+				"buildid"		"12613150"
 				"pwdrequired"		"1"
-				"timeupdated"		"1695117422"
+				"timeupdated"		"1699023969"
 			}
 			"localization"
 			{
@@ -485,6 +504,12 @@
 				"buildid"		"10822116"
 				"pwdrequired"		"1"
 				"timeupdated"		"1679425052"
+			}
+			"steamdeck-review"
+			{
+				"buildid"		"12424814"
+				"pwdrequired"		"1"
+				"timeupdated"		"1697448532"
 			}
 		}
 	}
