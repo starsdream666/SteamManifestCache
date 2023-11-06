@@ -23,6 +23,49 @@
 			"german"		"Eishockey Manager 20|20"
 			"english"		"Hockey Manager 20|20"
 		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1695859200"
+			"tested_build_id"		"11377874"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
 		"metacritic_name"		"Hockey Manager 20|20"
 		"small_capsule"
 		{
@@ -128,7 +171,7 @@
 			"19"		"9"
 		}
 		"review_score"		"6"
-		"review_percentage"		"73"
+		"review_percentage"		"72"
 	}
 	"extended"
 	{
@@ -176,9 +219,9 @@
 			{
 				"public"
 				{
-					"gid"		"3498279281536877805"
+					"gid"		"2647364301300662764"
 					"size"		"4959460939"
-					"download"		"765408544"
+					"download"		"765407440"
 				}
 			}
 		}
@@ -186,8 +229,8 @@
 		{
 			"public"
 			{
-				"buildid"		"11377874"
-				"timeupdated"		"1685693265"
+				"buildid"		"12628085"
+				"timeupdated"		"1699262495"
 			}
 		}
 	}
