@@ -1,0 +1,205 @@
+"appinfo"
+{
+	"appid"		"2193880"
+	"common"
+	{
+		"name"		"名酱三国"
+		"type"		"Game"
+		"releasestate"		"released"
+		"clienticon"		"08d984866b4289c0812760af8e94e51e553fe771"
+		"clienttga"		"5f6c7f001800ed387d65c8eb4abf1636e1e25e6e"
+		"icon"		"48170dfd9e58001f9482e28aea338be0b9404a0a"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"2193880_eula_0"
+				"name"		"名酱三国 EULA"
+				"url"		"https://store.steampowered.com//eula/2193880_eula_0"
+				"version"		"1"
+			}
+		}
+		"app_retired_was_free"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1676073600"
+			"tested_build_id"		"9997074"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"1"
+				"recommended_runtime"		"proton-7.0-6"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1669868641"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"羁绊合击，策略无双！"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"重温经典三国，邂逅千年爱恋！"
+			}
+		}
+		"primary_genre"		"70"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"37"
+			"2"		"29"
+			"3"		"3"
+			"4"		"2"
+			"5"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_20"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1669952242"
+		"community_hub_visible"		"1"
+		"gameid"		"2193880"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"493"
+			"2"		"9"
+			"3"		"122"
+			"4"		"128"
+			"5"		"1666"
+			"6"		"4328"
+			"7"		"9271"
+			"8"		"1645"
+			"9"		"791774"
+			"10"		"3871"
+			"11"		"4085"
+			"12"		"4562"
+			"13"		"5984"
+			"14"		"3987"
+			"15"		"4004"
+			"16"		"1742"
+			"17"		"14139"
+			"18"		"4182"
+			"19"		"3859"
+		}
+		"review_score"		"8"
+		"review_percentage"		"87"
+	}
+	"extended"
+	{
+		"developer"		"羁绊合击，策略无双！"
+		"publisher"		"重温经典三国，邂逅千年爱恋！"
+	}
+	"config"
+	{
+		"installdir"		"名酱三国"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"mingjiang.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"2193881"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9065084601300021111"
+					"size"		"204395414"
+					"download"		"71896560"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9997074"
+				"timeupdated"		"1669173237"
+			}
+		}
+	}
+}
