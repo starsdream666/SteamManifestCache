@@ -31,7 +31,7 @@
 				"id"		"704270_eula_0"
 				"name"		"Generation Zero® EULA"
 				"url"		"https://store.steampowered.com//eula/704270_eula_0"
-				"version"		"3"
+				"version"		"4"
 			}
 			"1"
 			{
@@ -202,8 +202,8 @@
 			"6"		"5752"
 			"7"		"1663"
 			"8"		"3835"
-			"9"		"3843"
-			"10"		"4182"
+			"9"		"4182"
+			"10"		"3843"
 			"11"		"1667"
 			"12"		"3839"
 			"13"		"4821"
@@ -222,7 +222,7 @@
 		"developer"		"Systemic Reaction™"
 		"publisher"		"Systemic Reaction™"
 		"homepage"		"https://generationzero.com/en/"
-		"listofdlc"		"974380,1062400,1062420,1099600,1103830,1157550,1173930,1252740,1301740,1450340,1580920,1610690,1610720,1771050,1850670,2009530,2144760,2144761,2200740,2334430,2473770"
+		"listofdlc"		"974380,1062400,1062420,1099600,1103830,1157550,1173930,1252740,1301740,1450340,1580920,1610690,1610720,1771050,1850670,2009530,2144760,2144761,2200740,2334430,2473770,2591100"
 		"dlcavailableonstore"		"1"
 	}
 	"config"
@@ -388,6 +388,23 @@
 				}
 				"description"		"Release Buid"
 			}
+			"13"
+			{
+				"executable"		"GenerationZero_F.exe"
+				"arguments"		"-netlagsim"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"development"
+				}
+				"description_loc"
+				{
+					"english"		"Final Build netlagsim"
+				}
+				"description"		"Final Build netlagsim"
+			}
 		}
 	}
 	"depots"
@@ -422,9 +439,9 @@
 			{
 				"public"
 				{
-					"gid"		"8015333060402266032"
-					"size"		"59590169830"
-					"download"		"37059093024"
+					"gid"		"421202389414330121"
+					"size"		"61054974054"
+					"download"		"37578527808"
 				}
 			}
 			"encryptedmanifests"
@@ -449,27 +466,33 @@
 				}
 				"design_review"
 				{
-					"gid"		"871BE9801CC06EB6D508E1B7E5002E70"
-					"size"		"B3D274AE2BD5180CE5229A92FE517629"
-					"download"		"AFB7758C2BA22EBBD0DF395B6C911500"
+					"gid"		"E75F1542D3337EFC777B845E43754C6B"
+					"size"		"3C7D13DD59E5FF6FD533206C16113A3D"
+					"download"		"04DA2E2B6F84D85671EB99A9FB6BBBFE"
 				}
 				"development"
 				{
-					"gid"		"4C21DA4FB029AEE9B57C4858E9CFB940"
-					"size"		"A6D3EEC586DDFF111EDFF284D8A6E6B8"
-					"download"		"5CC1CEDECF109FCC8A091C5819D9EC1B"
+					"gid"		"33FBD8516CC060DF1A60CAD276721A69"
+					"size"		"26985F865579385D1F437EEBB20BB29B"
+					"download"		"136726940ACA9FC4FEFF4814F6F069F0"
 				}
 				"gz_friends"
 				{
-					"gid"		"D20C742B0CD8C7DA5133558927B7F3D4"
-					"size"		"516399AABFE62B3A28BBE53430CA2F49"
-					"download"		"B928B2E63AA800E60AECCB5D2DD2B4E4"
+					"gid"		"5BEA3ED78C5EE9FE9E30903EB33B2235"
+					"size"		"0EC2DC4162FE2BB7AB5D805203DE0E86"
+					"download"		"7BE503EEA1BB0BDFB1FF4C989CE2D4CE"
 				}
 				"gz_rm"
 				{
-					"gid"		"C102E9C4DF56D54B60F62583274DC798"
-					"size"		"D5E4ED106A707729F54F3D659C130F6F"
-					"download"		"90492CD4739FA076156806FC02030BE0"
+					"gid"		"F6893DB5B945D385C93A4AED524035DD"
+					"size"		"D90310D48AC99DBED913406C40AA7969"
+					"download"		"9D1783FBC172E623C5D5B73D7351D112"
+				}
+				"gz_ur_external"
+				{
+					"gid"		"C8ADC42E4F58A12023A435E686EEF132"
+					"size"		"AA98FC22421268FD31303A4432C28066"
+					"download"		"A081BF89478912E074B0506A79414E45"
 				}
 				"gz_ur_test"
 				{
@@ -485,39 +508,39 @@
 				}
 				"localization"
 				{
-					"gid"		"C8FD3AAFCB9C48DD4FF5D5641B77487A"
-					"size"		"4B319D4782D9A09FF987FAF6D506B750"
-					"download"		"21090A8AAC14E8C3138650A1ACBF165E"
+					"gid"		"8CDD2252920DD5416251BA896A771055"
+					"size"		"4716984D9252ACACFF45551BF16AF464"
+					"download"		"77FE51AFBD6DC8B0A462ECF07654F0CA"
 				}
 				"marketing"
 				{
-					"gid"		"C02463F58B11F7B11CC74359048CB151"
-					"size"		"ADACC939807282F282082974A9E617F9"
-					"download"		"897829567BD29EC8DA10BB5BB350FCBA"
+					"gid"		"02101FBFA77210DF41BA5D5AA3D29FDE"
+					"size"		"61363636D3E46D48C96A3A3079ADB1A7"
+					"download"		"1D6260AD773D9FB100D53B99715DF31B"
 				}
 				"marketing_2"
 				{
-					"gid"		"07BB4FE9D38777F2F69CA8D1408CB46C"
-					"size"		"F9E5AC1DD561C6971175644348C4A3CE"
-					"download"		"386C565D1A67C27ACE168E1553D4F2FE"
+					"gid"		"4A7392D069A4FCF05ECE992F491FE54C"
+					"size"		"93C194B21094D615AB9B90E1598549F5"
+					"download"		"1F2A8E56BB5345AEA9054F3D03130257"
 				}
 				"qa_1"
 				{
-					"gid"		"7B009D9F14806279F2329DB661F15563"
-					"size"		"F81AFB4A667DEC5C5E1F47B68FDB2143"
-					"download"		"B8E5680ADD3263B55377EF8D224DFB67"
+					"gid"		"CF0281AD15C3A84D7A1F0F4363FF063E"
+					"size"		"02E5F0B6D0EF0291F651021569335000"
+					"download"		"596FF298B65CDD103FA79733D308595D"
 				}
 				"qa_2"
 				{
-					"gid"		"D97688E2844214AE3C07E533685537DB"
-					"size"		"BC0C533B933B90578A71A6FB5DBAEA68"
-					"download"		"19D1F4946A3F11758F184BA6DD397639"
+					"gid"		"3FAF863046CBFED1217137227DB28D6E"
+					"size"		"54CD17906EE66194F69CF42D5E32687E"
+					"download"		"1E630938FA96C5498F3807CBE7717DF7"
 				}
 				"qa_3"
 				{
-					"gid"		"6E74D128522DA91AE78C0E9A60C75ADD"
-					"size"		"7BDCB57C9B576769C0691979F3E600F0"
-					"download"		"B2E5B4290759B4DC03AEE345C5AF4BC5"
+					"gid"		"B1EBBD2C236ACFFE0F5D14C9306DE656"
+					"size"		"19F28A2D613EFF228A15CF74BD5150A2"
+					"download"		"7D27F21F782691329D3FA9F5246AA505"
 				}
 				"svensson"
 				{
@@ -538,9 +561,9 @@
 			{
 				"public"
 				{
-					"gid"		"5012169948130220794"
-					"size"		"2026645132"
-					"download"		"344839264"
+					"gid"		"783835391108307176"
+					"size"		"1915103420"
+					"download"		"327259360"
 				}
 			}
 			"encryptedmanifests"
@@ -565,27 +588,33 @@
 				}
 				"design_review"
 				{
-					"gid"		"12A6EB74B818A0DF438FC0BBA5813E55"
-					"size"		"CC29F3F8E6C3086E012A6C04DF718CFE"
-					"download"		"D6DD0AB7E5170E19C63EDB81048AA54A"
+					"gid"		"2CEC259A21FF0CE83BC59C3541AA000C"
+					"size"		"7E9ECF6402947DD5308E5ED1308EC1B2"
+					"download"		"CDCB3C91614E67C7BCEA28F7E7130563"
 				}
 				"development"
 				{
-					"gid"		"35194E99ACE785EF96C09598670112E4"
-					"size"		"47599EB30153FC05ED41D4CACD1C12EE"
-					"download"		"A7C1FACFCE3ED90C355BF1701D32AAE5"
+					"gid"		"3686C85E806F56AC89B5361480EF1C3E"
+					"size"		"74B189CCF05B73778CD19CFF9CF49B16"
+					"download"		"1C12001AF7904A33A8B6AAFAD853D9D1"
 				}
 				"gz_friends"
 				{
-					"gid"		"C0317E01B616DBFB0563A8992EBD8EEE"
-					"size"		"7CDD3CBA4B5479CC8D29CC901555ABE4"
-					"download"		"68C712461714AC9CDEEAD836DEE48455"
+					"gid"		"12A71097873869CAE9972F8E0F260186"
+					"size"		"F379B63F5DD84424F79CDC8C19639CAF"
+					"download"		"900CA2366FD30FC0E41C6761C143109B"
 				}
 				"gz_rm"
 				{
-					"gid"		"206471ECFE64036976EBE210220BEAA5"
-					"size"		"79BB688F8D6FA8443FC03D07D45AA75B"
-					"download"		"DD8715987092293AB93323B5F09919E8"
+					"gid"		"A29D2AB872D72D945F1B060EC5DCB579"
+					"size"		"19BBDCCA16F4BAE2FD0D5B449F847D11"
+					"download"		"56B96E4331C8EEEFF8255841C18C57D1"
+				}
+				"gz_ur_external"
+				{
+					"gid"		"CCD41EE7D3F9AEC584034ED5FB54B87E"
+					"size"		"27B1F08BD5A5C95EC5CBD07CD7C595F1"
+					"download"		"32B20F0DBB3B706D2737EF1050838E8F"
 				}
 				"gz_ur_test"
 				{
@@ -601,39 +630,39 @@
 				}
 				"localization"
 				{
-					"gid"		"93FB4E235A6CB78250CDF97C32CF55C5"
-					"size"		"05E5D34B895A8348C3ED18A73112E899"
-					"download"		"34EF94F70BE853FCDA4D073B8ECD77AE"
+					"gid"		"7703D5C48A8D1C9848ECD3283C209B3C"
+					"size"		"43D8E7D4DC94BD6BA88C5527E1A72651"
+					"download"		"E841A22B8C9A5B8C4946F1272D7F1D88"
 				}
 				"marketing"
 				{
-					"gid"		"A131ACDE1550F438CD68579407C9D21C"
-					"size"		"78AD3FF5BBDF975B181E3C94DB443165"
-					"download"		"54DFFE4DB6B96B019461503C3DDE1D8A"
+					"gid"		"A0A6154E21E716B501C229964E38E7A3"
+					"size"		"7952DA370AC5B8B2A4DDD9B098C919F5"
+					"download"		"0C80BFD6AA9C2A6EDF2F9462B680B893"
 				}
 				"marketing_2"
 				{
-					"gid"		"076CD18A2560511F317900639F1349B9"
-					"size"		"075BB1F245761ADC629B33FF479B6E1D"
-					"download"		"55EE1A955739ED8EE407590B82BA9B6C"
+					"gid"		"33D0006FA26D40D633C5A0EE64CDC3AE"
+					"size"		"7ABBF9DA0AD9AD8CD3265E9856D09939"
+					"download"		"3C7EC1BFBE5C14CE54C3B3AE73DBB859"
 				}
 				"qa_1"
 				{
-					"gid"		"40618C76EF3ABB955140FB2753E04F80"
-					"size"		"2E14E2E341B0679598D61AA81D7FFA44"
-					"download"		"E67FE08958EDE66C7F21137C87DE93DE"
+					"gid"		"D98D568121EC4C79400D33A32CF6704B"
+					"size"		"06D35EE4C3B8DD1F69AE664E633518DD"
+					"download"		"F8B2F44E9A33544E085DF76466EFBA66"
 				}
 				"qa_2"
 				{
-					"gid"		"EB09A4C45417AB91F9FE2A6BBCBB7567"
-					"size"		"3A502912027E93600B9E86ECEACB4B12"
-					"download"		"097300426D583EA2313EBE412626EE46"
+					"gid"		"C2138AE89E668110FCF2AAA7D2B9CB0A"
+					"size"		"6BE99BF8D2452D96EC887CD7FCFCB7DC"
+					"download"		"09DA6971CB1E962E157FEED1A455F5E2"
 				}
 				"qa_3"
 				{
-					"gid"		"5208CD0F75AE5EA21182EBBD8346AE91"
-					"size"		"449D0E7BCA5A6CAF4FAED9B56C5F98F3"
-					"download"		"D3002FA3A9092A091568B0AAAED20CEC"
+					"gid"		"C00B5EA97265F90F2BC1B3795B766B10"
+					"size"		"F19F97FDC07E68C6DD7FA49548271170"
+					"download"		"CA73A7F7B46E069C41D7AF08AB38766A"
 				}
 				"svensson"
 				{
@@ -647,8 +676,8 @@
 		{
 			"public"
 			{
-				"buildid"		"11950398"
-				"timeupdated"		"1693900791"
+				"buildid"		"12431825"
+				"timeupdated"		"1699347583"
 			}
 			"apex"
 			{
@@ -670,27 +699,33 @@
 			}
 			"design_review"
 			{
-				"buildid"		"11159626"
+				"buildid"		"12498620"
 				"pwdrequired"		"1"
-				"timeupdated"		"1683295033"
+				"timeupdated"		"1698045860"
 			}
 			"development"
 			{
-				"buildid"		"12164285"
+				"buildid"		"12635449"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694518485"
+				"timeupdated"		"1699341133"
 			}
 			"gz_friends"
 			{
-				"buildid"		"12155409"
+				"buildid"		"12602230"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694441606"
+				"timeupdated"		"1698935226"
 			}
 			"gz_rm"
 			{
-				"buildid"		"11950398"
+				"buildid"		"12431825"
 				"pwdrequired"		"1"
-				"timeupdated"		"1692858969"
+				"timeupdated"		"1697198458"
+			}
+			"gz_ur_external"
+			{
+				"buildid"		"12431825"
+				"pwdrequired"		"1"
+				"timeupdated"		"1698922364"
 			}
 			"gz_ur_test"
 			{
@@ -706,39 +741,39 @@
 			}
 			"localization"
 			{
-				"buildid"		"11428588"
+				"buildid"		"12520401"
 				"pwdrequired"		"1"
-				"timeupdated"		"1686295050"
+				"timeupdated"		"1698149892"
 			}
 			"marketing"
 			{
-				"buildid"		"12155409"
+				"buildid"		"12577785"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694438734"
+				"timeupdated"		"1698763843"
 			}
 			"marketing_2"
 			{
-				"buildid"		"9650083"
+				"buildid"		"12431825"
 				"pwdrequired"		"1"
-				"timeupdated"		"1665575448"
+				"timeupdated"		"1697630662"
 			}
 			"qa_1"
 			{
-				"buildid"		"12164285"
+				"buildid"		"12635449"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694499375"
+				"timeupdated"		"1699341056"
 			}
 			"qa_2"
 			{
-				"buildid"		"12054002"
+				"buildid"		"12520401"
 				"pwdrequired"		"1"
-				"timeupdated"		"1693291324"
+				"timeupdated"		"1698147137"
 			}
 			"qa_3"
 			{
-				"buildid"		"11428472"
+				"buildid"		"12431825"
 				"pwdrequired"		"1"
-				"timeupdated"		"1686315075"
+				"timeupdated"		"1698217445"
 			}
 			"svensson"
 			{
