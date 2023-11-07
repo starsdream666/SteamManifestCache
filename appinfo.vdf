@@ -1,0 +1,237 @@
+"appinfo"
+{
+	"appid"		"1853670"
+	"common"
+	{
+		"name"		"九天剑侠传Idle RPG"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"name_localized"
+		{
+			"schinese"		"九天剑侠传Idle RPG"
+			"english"		"JiuTian Idle RPG"
+		}
+		"icon"		"6f9b8e45766265577150885ede33047cc0118b9a"
+		"clienticon"		"a00b491abedcd65fd349a05add0d19835aa8aae8"
+		"clienttga"		"7697dde72709584351b1f420a226ccb70b396c3e"
+		"logo"		"0e8fb3b8ded888dce92b8c1259fbddd7a3c85392"
+		"logo_small"		"0e8fb3b8ded888dce92b8c1259fbddd7a3c85392_thumb"
+		"releasestate"		"released"
+		"app_retired_was_free"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1646179200"
+			"tested_build_id"		"8111023"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-1"
+				"requires_h264"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn"
+			"library_hero"		"en,zh-cn"
+			"library_logo"		"en,zh-cn"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"66.74418604651169"
+				"height_pct"		"71.2776062692947"
+			}
+		}
+		"store_asset_mtime"		"1643080111"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"WuLin"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"WuLin"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"剑侠"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"仙剑"
+			}
+			"4"
+			{
+				"type"		"franchise"
+				"name"		"武侠"
+			}
+			"5"
+			{
+				"type"		"franchise"
+				"name"		"古风"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+			"4"		"29"
+			"5"		"3"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_20"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1648088564"
+		"community_hub_visible"		"1"
+		"gameid"		"1853670"
+		"store_tags"
+		{
+			"0"		"615955"
+			"1"		"597"
+			"2"		"21"
+			"3"		"122"
+			"4"		"4106"
+			"5"		"4231"
+			"6"		"255534"
+			"7"		"1754"
+			"8"		"1716"
+			"9"		"5379"
+			"10"		"5395"
+			"11"		"198631"
+			"12"		"42804"
+			"13"		"3959"
+			"14"		"4191"
+			"15"		"4085"
+			"16"		"4195"
+			"17"		"5984"
+			"18"		"16094"
+			"19"		"128"
+		}
+		"review_score"		"5"
+		"review_percentage"		"61"
+	}
+	"extended"
+	{
+		"developer"		"WuLin"
+		"publisher"		"WuLin"
+		"listofdlc"		"1887891,1891540,1891541,1891542"
+	}
+	"config"
+	{
+		"installdir"		"jiutianjianxian"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"JiuTian.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"schinese"
+		"hasdepotsindlc"		"0"
+		"1853672"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5394454108936552586"
+					"size"		"1411673939"
+					"download"		"1113106992"
+				}
+			}
+		}
+		"1887891"
+		{
+			"dlcappid"		"1887891"
+		}
+		"1891540"
+		{
+			"dlcappid"		"1891540"
+		}
+		"1891541"
+		{
+			"dlcappid"		"1891541"
+		}
+		"1891542"
+		{
+			"dlcappid"		"1891542"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"8111023"
+				"timeupdated"		"1643528367"
+			}
+		}
+	}
+}
