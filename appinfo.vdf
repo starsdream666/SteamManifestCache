@@ -23,6 +23,12 @@
 			"schinese"		"1"
 			"russian"		"1"
 		}
+		"name_localized"
+		{
+			"schinese"		"弹反者"
+			"tchinese"		"彈反者"
+			"japanese"		"弾き返しの英雄"
+		}
 		"steam_deck_compatibility"
 		{
 			"category"		"3"
@@ -70,16 +76,20 @@
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
 		}
 		"header_image"
 		{
 			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+			"japanese"		"header_japanese.jpg"
 		}
 		"library_assets"
 		{
-			"library_capsule"		"en"
+			"library_capsule"		"en,zh-cn,ja"
 			"library_hero"		"en"
-			"library_logo"		"en"
+			"library_logo"		"en,zh-cn,ja"
 			"logo_position"
 			{
 				"pinned_position"		"CenterCenter"
@@ -87,7 +97,7 @@
 				"height_pct"		"100"
 			}
 		}
-		"store_asset_mtime"		"1694173006"
+		"store_asset_mtime"		"1699326424"
 		"associations"
 		{
 			"0"
@@ -227,36 +237,36 @@
 			{
 				"public"
 				{
-					"gid"		"4122408042656857452"
-					"size"		"1242265615"
-					"download"		"466507056"
+					"gid"		"7949876875391949310"
+					"size"		"1255904140"
+					"download"		"468299120"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"dev_branch"
 				{
-					"gid"		"386FCF642BBF660A4460357A58284332"
-					"size"		"CED1A5CAB0D24BB93402164597DA50EC"
-					"download"		"EE124C078373CD7B227AB4A5D46B5964"
+					"gid"		"54D055A8C9158DEA6EDCD1BBA07B72A3"
+					"size"		"15031B5CBB977A07EBE4AD8D23A996F4"
+					"download"		"3149B336F427C62C0A479FC79140EE4E"
 				}
 				"localization_qa"
 				{
-					"gid"		"611F9A3AF180294C0FBADCF8A8ACE2E1"
-					"size"		"08C57A2AC7F5334CC6AFD492A1A43FF1"
-					"download"		"7680EF155F0F8E0944162CB0238F461D"
+					"gid"		"B8AE38F53716C33DFBD4BFA77342E5A3"
+					"size"		"1F1EC9539F9C00B7CC30D441513482D2"
+					"download"		"4B92D7AD6D3A8EB0570B135C8A3D5A51"
 				}
 				"press"
 				{
-					"gid"		"749804840023A66EED0A646CB55C17CB"
-					"size"		"D5E773DCA8FCCBDCFA14FF5618E358AB"
-					"download"		"B1C039671B8A44A90742BDD6B830EDC1"
+					"gid"		"D0905C2625E3C491EB7EA062C1A93412"
+					"size"		"A967040A29EB60176F1711C5DF88C76E"
+					"download"		"D1864B619E97D6061F603283568D27E7"
 				}
 				"release_ready"
 				{
-					"gid"		"393885B90B06F52BDF5607DD8A2198C3"
-					"size"		"1D14D3CC2201127EBB1620927467EB3D"
-					"download"		"C64E65FEB2203F60DCE1B8F0BA4D54B7"
+					"gid"		"7BC6342EE9FF1FE42FB77279A3EA2FF6"
+					"size"		"878CC8C7568D948F8C8B94D50ABA0BC3"
+					"download"		"6080D4570BCE9741D555E587AFB34950"
 				}
 			}
 		}
@@ -264,32 +274,32 @@
 		{
 			"public"
 			{
-				"buildid"		"11944868"
-				"timeupdated"		"1692100332"
+				"buildid"		"12623518"
+				"timeupdated"		"1699290120"
 			}
 			"dev_branch"
 			{
-				"buildid"		"11503776"
+				"buildid"		"12500085"
 				"pwdrequired"		"1"
-				"timeupdated"		"1692358585"
+				"timeupdated"		"1697884403"
 			}
 			"localization_qa"
 			{
-				"buildid"		"11503776"
+				"buildid"		"12500085"
 				"pwdrequired"		"1"
-				"timeupdated"		"1687162919"
+				"timeupdated"		"1697884412"
 			}
 			"press"
 			{
-				"buildid"		"11003420"
+				"buildid"		"11944868"
 				"pwdrequired"		"1"
-				"timeupdated"		"1686041250"
+				"timeupdated"		"1697565116"
 			}
 			"release_ready"
 			{
-				"buildid"		"11944868"
+				"buildid"		"12623518"
 				"pwdrequired"		"1"
-				"timeupdated"		"1692095118"
+				"timeupdated"		"1699185031"
 			}
 		}
 	}
