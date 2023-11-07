@@ -41,6 +41,54 @@
 		}
 		"has_adult_content"		"1"
 		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1698796800"
+			"tested_build_id"		"12491628"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
 		"controllertagwizard"		"1"
 		"controller_support"		"full"
 		"small_capsule"
@@ -181,10 +229,10 @@
 			"6"		"21"
 			"7"		"4166"
 			"8"		"7948"
-			"9"		"4345"
-			"10"		"3942"
-			"11"		"4667"
-			"12"		"4115"
+			"9"		"3942"
+			"10"		"4345"
+			"11"		"4115"
+			"12"		"4667"
 			"13"		"122"
 			"14"		"4231"
 			"15"		"5030"
@@ -194,7 +242,7 @@
 			"19"		"5611"
 		}
 		"review_score"		"8"
-		"review_percentage"		"94"
+		"review_percentage"		"93"
 	}
 	"extended"
 	{
@@ -247,9 +295,9 @@
 			{
 				"public"
 				{
-					"gid"		"2473042776697230724"
-					"size"		"42335925768"
-					"download"		"40771509584"
+					"gid"		"8202235478945281222"
+					"size"		"42336160824"
+					"download"		"40782744848"
 				}
 			}
 			"encryptedmanifests"
@@ -298,9 +346,9 @@
 				}
 				"external_testing"
 				{
-					"gid"		"8FF719011E9EA7BBC9717AD1201499A1"
-					"size"		"994E9753431EE5E54E53FA296398255F"
-					"download"		"0C05AC280680F292A73494A77C642A56"
+					"gid"		"711A1059569706AC2AD923AD885BEEA0"
+					"size"		"97A21D54C18FF2E6C9E9F6E75CC224EC"
+					"download"		"97E87E0224CCF7AC6352B97524A2CCC6"
 				}
 				"gamescom"
 				{
@@ -400,8 +448,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12591097"
-				"timeupdated"		"1698937648"
+				"buildid"		"12601932"
+				"timeupdated"		"1699349878"
 			}
 			"10progressbuild"
 			{
@@ -447,9 +495,9 @@
 			}
 			"external_testing"
 			{
-				"buildid"		"12571709"
+				"buildid"		"12601932"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698671220"
+				"timeupdated"		"1699283076"
 			}
 			"gamescom"
 			{
