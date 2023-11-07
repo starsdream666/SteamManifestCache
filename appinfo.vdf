@@ -278,18 +278,18 @@
 			{
 				"public"
 				{
-					"gid"		"5510443652558102561"
-					"size"		"9250252049"
-					"download"		"3394569344"
+					"gid"		"7949540083510355678"
+					"size"		"9252522539"
+					"download"		"3395584416"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"test"
 				{
-					"gid"		"EB57F45924EEC963F6E1B93E98C595CF"
-					"size"		"CF62BF127129319BF267E5D30D3B5B02"
-					"download"		"9EC0E43113C121EA16A8F6365D6AEDAB"
+					"gid"		"C3B608AACC26031FDE7322798194FA9A"
+					"size"		"252D4268FD5874B5412E29F35D963E88"
+					"download"		"EEA2EFA95948864AF8B0C48D36EE4040"
 				}
 			}
 		}
@@ -366,14 +366,14 @@
 		{
 			"public"
 			{
-				"buildid"		"12617956"
-				"timeupdated"		"1699074185"
+				"buildid"		"12638522"
+				"timeupdated"		"1699353181"
 			}
 			"test"
 			{
-				"buildid"		"12617956"
+				"buildid"		"12638522"
 				"pwdrequired"		"1"
-				"timeupdated"		"1699071982"
+				"timeupdated"		"1699351692"
 			}
 		}
 	}
@@ -388,29 +388,23 @@
 				"root"		"WinAppDataLocalLow"
 				"path"		"IceSitruuna/Frontier_Hunter/PlayerPrefs"
 				"pattern"		"*.*"
-				"platforms"
-				{
-					"1"		"Windows"
-				}
 			}
+		}
+		"rootoverrides"
+		{
 			"1"
 			{
-				"root"		"MacAppSupport"
-				"path"		"com.IceSitruuna.Frontier-Hunter/PlayerPrefs"
-				"pattern"		"*.*"
-				"platforms"
-				{
-					"1"		"MacOS"
-				}
-			}
-			"2"
-			{
 				"root"		"WinAppDataLocalLow"
-				"path"		"IceSitruuna/Frontier_Hunter/PlayerPrefs"
-				"pattern"		"*.*"
-				"platforms"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
 				{
-					"1"		"Linux"
+					"0"
+					{
+						"find"		"IceSitruuna/Frontier_Hunter/PlayerPrefs"
+						"replace"		"com.IceSitruuna.Frontier-Hunter/PlayerPrefs"
+					}
 				}
 			}
 		}
