@@ -1,0 +1,227 @@
+"appinfo"
+{
+	"appid"		"2382300"
+	"common"
+	{
+		"name"		"Aether"
+		"type"		"Game"
+		"icon"		"1c301669ad519693ff7f44cb973841301db2091b"
+		"clienttga"		"183f10aca10c3fe14cb36f6b3a35058555be8ca3"
+		"clienticns"		"af2d70e359271bf2c4b827e3e17846a4a6a6fc37"
+		"linuxclienticon"		"af2d70e359271bf2c4b827e3e17846a4a6a6fc37"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"351395cbdfefb9db54050274a4035ef1da3b3524"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"2382300_eula_0"
+				"name"		"Cards of Ethernity EULA"
+				"url"		"https://store.steampowered.com//eula/2382300_eula_0"
+				"version"		"1"
+			}
+		}
+		"releasestate"		"released"
+		"app_retired_was_free"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"85.46910755148741"
+				"height_pct"		"76.59574344735915"
+			}
+		}
+		"store_asset_mtime"		"1697579056"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Aether Games Inc."
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Red Rift Inc."
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Aether Games Inc."
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Aether"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"3"
+			"1"		"2"
+			"2"		"37"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_1"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1696247823"
+		"community_hub_visible"		"1"
+		"gameid"		"2382300"
+		"store_tags"
+		{
+			"0"		"1666"
+			"1"		"4604"
+			"2"		"1775"
+			"3"		"113"
+			"4"		"791774"
+			"5"		"4325"
+			"6"		"32322"
+			"7"		"3859"
+			"8"		"1702"
+			"9"		"4202"
+			"10"		"12057"
+			"11"		"9"
+			"12"		"9541"
+			"13"		"4191"
+			"14"		"4046"
+			"15"		"1667"
+			"16"		"4057"
+			"17"		"4172"
+			"18"		"16094"
+			"19"		"1741"
+		}
+		"review_score"		"6"
+		"review_percentage"		"76"
+	}
+	"extended"
+	{
+		"developer"		"Aether Games Inc."
+		"publisher"		"Aether Games Inc."
+		"homepage"		"https://coe.gg/"
+	}
+	"config"
+	{
+		"installdir"		"AetherTCG"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"CoE_Win64.exe"
+				"arguments"		"-steamenvcoe=prod"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Aether"
+				}
+				"description"		"Aether"
+			}
+			"2"
+			{
+				"executable"		"CoE_Win64.exe"
+				"arguments"		"-steamenvcoe=stage"
+				"type"		"option2"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"stage"
+				}
+				"description_loc"
+				{
+					"english"		"Aether - Staging Env"
+				}
+				"description"		"Aether - Staging Env"
+			}
+			"3"
+			{
+				"executable"		"CoE_Win64.exe"
+				"arguments"		"-steamenvcoe=localhost"
+				"type"		"option3"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"stage"
+				}
+				"description_loc"
+				{
+					"english"		"Aether - Localhost Env"
+				}
+				"description"		"Aether - Localhost Env"
+			}
+		}
+	}
+	"depots"
+	{
+		"2382301"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4960630718488081027"
+					"size"		"2929708807"
+					"download"		"778043056"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"stage"
+				{
+					"gid"		"C81D6EA3846BAF48BAAF3C1AA2B17BE4"
+					"size"		"47966B377C48132366108179B93747A5"
+					"download"		"51860443C915B70456C3079424BF2510"
+				}
+			}
+		}
+		"hasdepotsindlc"		"0"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12417223"
+				"timeupdated"		"1697112849"
+			}
+			"stage"
+			{
+				"buildid"		"12613344"
+				"pwdrequired"		"1"
+				"timeupdated"		"1699025171"
+			}
+		}
+	}
+}
