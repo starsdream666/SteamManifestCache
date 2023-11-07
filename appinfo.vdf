@@ -8,12 +8,28 @@
 		"oslist"		"windows"
 		"osarch"		"64"
 		"osextended"		""
-		"icon"		"6f9662dab0709d9831b3c3d8e8651d4859e015a3"
+		"icon"		"3312e8dd4028e24c438abefeea65c28f21aeeaf9"
 		"logo"		"5da7e707b9e3b73efee43ef7b3feed6175b8c820"
 		"logo_small"		"5da7e707b9e3b73efee43ef7b3feed6175b8c820_thumb"
 		"clienttga"		"d31e69aea42e943a9797fe11072fe11794eb5a29"
 		"clienticon"		"fe634bd380a567e3fdb0601af0cadf0c553e34a0"
 		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"hungarian"		"1"
+			"brazilian"		"1"
+			"bulgarian"		"1"
+		}
 		"steam_deck_compatibility"
 		{
 			"category"		"2"
@@ -84,7 +100,7 @@
 				"height_pct"		"55.07707063134503"
 			}
 		}
-		"store_asset_mtime"		"1675355140"
+		"store_asset_mtime"		"1699287977"
 		"associations"
 		{
 			"0"
@@ -108,7 +124,6 @@
 		{
 			"0"		"1"
 			"1"		"23"
-			"2"		"70"
 		}
 		"category"
 		{
@@ -118,6 +133,11 @@
 			"category_9"		"1"
 			"category_18"		"1"
 			"category_23"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_27"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
 		}
 		"supported_languages"
 		{
@@ -151,8 +171,33 @@
 			{
 				"supported"		"true"
 			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"bulgarian"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
 		}
-		"steam_release_date"		"1597939765"
+		"steam_release_date"		"1699363944"
+		"community_visible_stats"		"1"
 		"community_hub_visible"		"1"
 		"gameid"		"692890"
 		"store_tags"
@@ -173,8 +218,8 @@
 			"13"		"4252"
 			"14"		"492"
 			"15"		"4305"
-			"16"		"4182"
-			"17"		"3839"
+			"16"		"3839"
+			"17"		"4182"
 			"18"		"3859"
 			"19"		"1716"
 		}
@@ -235,48 +280,42 @@
 			{
 				"public"
 				{
-					"gid"		"5901963510545845379"
-					"size"		"3113335664"
-					"download"		"2837932912"
+					"gid"		"5368270638851547806"
+					"size"		"4654848162"
+					"download"		"4391585136"
 				}
 			}
 			"encryptedmanifests"
 			{
-				"closedplaytest"
-				{
-					"gid"		"35579CAF4EAE303DCCA1B7903D26954F"
-					"size"		"A64105E5F6D28CA24A93292B04A89DDD"
-					"download"		"95F931E2C70757A7EFC4585328704A14"
-				}
 				"dev_crossnetwork"
 				{
-					"gid"		"C90F3998EC331E3C155EFD5E01219B68"
-					"size"		"51AAFA818425EB481951C8A71DADE567"
-					"download"		"5BB36504BF627AE4DA7BFDBC794FFBC8"
+					"gid"		"6CB7A1F968F6F517122ADD9AE05C2612"
+					"size"		"BD050AF33F925E641B53636508FC481C"
+					"download"		"9EB750CCD4615F4EA5FCC709FA14D396"
 				}
 				"developer"
 				{
-					"gid"		"62E4D090A0333CBADEB5E8CE5770C717"
-					"size"		"5F5182199A4F59559A6EBEEACEB49C6D"
-					"download"		"E146CB7C530BDABCF1AC7CAA66C71285"
+					"gid"		"8E0984951E67E25DCC1E23C3BF41844B"
+					"size"		"559CCCF31C14E405967916C4C878D81D"
+					"download"		"5749AE5AFA40D9497EFB7BA8461EE458"
 				}
 				"eos_dev"
 				{
-					"gid"		"95E6C9D012B4401C374DC857BE3606EA"
-					"size"		"C2990851B0457CB6E9A74B1DBE0C326E"
-					"download"		"37D51D43E54D6E3485F28992456D7329"
+					"gid"		"DAF99BF51E0B265EB5F2B924E812FA50"
+					"size"		"275FE16160AA80EA41728FE09B4C6CEF"
+					"download"		"197E894D268AC8241DB79C879C899B93"
 				}
 				"gamescom"
 				{
-					"gid"		"700297E69B7439BA8A5349A928343397"
-					"size"		"C61FBE5D72B80FA85E51413684F12982"
-					"download"		"71BC0B0F1E71FA4ACE3C819E2C617D79"
+					"gid"		"11EECA7E64C8E4B151A98299A3798FEE"
+					"size"		"F920B32CA489673AC683A5D50AECEE0F"
+					"download"		"4AF96666216A9B600C1734621DFB8718"
 				}
 				"gigachad_trad"
 				{
-					"gid"		"58E7EAFD17795AC9374DDA7F3263913E"
-					"size"		"E0FFC413BFDB384CDD7F335283495C98"
-					"download"		"48020930473E5FE8136A0BBE00FEC59F"
+					"gid"		"254479FEC9D46007C71221434A3A937D"
+					"size"		"B3A4F0543E58866D0F25C10653C50356"
+					"download"		"3074E88104B8B91503F50D317C01BEAD"
 				}
 				"gigachadquest"
 				{
@@ -310,9 +349,27 @@
 				}
 				"record"
 				{
-					"gid"		"A6FC089E34AF519A5709FD91ED866348"
-					"size"		"B542A32D7D9044CBA8F35B07C44D9EFD"
-					"download"		"1C7F9E11804210BD069F76057B101897"
+					"gid"		"0A7713C89CEA286997C9E93709650A47"
+					"size"		"480C62625B4A8CC93649A53FE5F175FA"
+					"download"		"3D42474116070851DCFFB70F7F8ECA82"
+				}
+				"roboquest_prerelease"
+				{
+					"gid"		"326AFF159F5C22B0BC64EABD8C3C2264"
+					"size"		"82BF90A4AE1E818EA02057B0747E8EEB"
+					"download"		"5207565692CE11C7E8F2EF008922E1F6"
+				}
+				"rqdemo"
+				{
+					"gid"		"8A29549CF3055B06A548984D7AD141BE"
+					"size"		"0AC2D510F7B894BD1CB1B721BC309333"
+					"download"		"86C5D0C036FE486BD5E7AE7F15B1C56F"
+				}
+				"staging"
+				{
+					"gid"		"655CA019A1F74B06A749D442AAB4369E"
+					"size"		"8F9EBCF77151C0E51CC8AA526E840BB8"
+					"download"		"1DFB60F71CAB15CBC265CCCA60B3EBA1"
 				}
 			}
 		}
@@ -329,44 +386,38 @@
 		{
 			"public"
 			{
-				"buildid"		"10470407"
-				"timeupdated"		"1675447363"
-			}
-			"closedplaytest"
-			{
-				"buildid"		"12170430"
-				"pwdrequired"		"1"
-				"timeupdated"		"1694535621"
+				"buildid"		"12571638"
+				"timeupdated"		"1699363849"
 			}
 			"dev_crossnetwork"
 			{
-				"buildid"		"11866343"
+				"buildid"		"12542405"
 				"pwdrequired"		"1"
-				"timeupdated"		"1691144867"
+				"timeupdated"		"1698330286"
 			}
 			"developer"
 			{
-				"buildid"		"12169730"
+				"buildid"		"12611635"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694529249"
+				"timeupdated"		"1699013174"
 			}
 			"eos_dev"
 			{
-				"buildid"		"11847558"
+				"buildid"		"12363659"
 				"pwdrequired"		"1"
-				"timeupdated"		"1690978219"
+				"timeupdated"		"1696506646"
 			}
 			"gamescom"
 			{
-				"buildid"		"12005428"
+				"buildid"		"12461476"
 				"pwdrequired"		"1"
-				"timeupdated"		"1692726079"
+				"timeupdated"		"1697613311"
 			}
 			"gigachad_trad"
 			{
-				"buildid"		"12170843"
+				"buildid"		"12403005"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694538237"
+				"timeupdated"		"1697126205"
 			}
 			"gigachadquest"
 			{
@@ -400,9 +451,27 @@
 			}
 			"record"
 			{
-				"buildid"		"10017187"
+				"buildid"		"12422893"
 				"pwdrequired"		"1"
-				"timeupdated"		"1669626215"
+				"timeupdated"		"1697110400"
+			}
+			"roboquest_prerelease"
+			{
+				"buildid"		"12425427"
+				"pwdrequired"		"1"
+				"timeupdated"		"1697124828"
+			}
+			"rqdemo"
+			{
+				"buildid"		"12491697"
+				"pwdrequired"		"1"
+				"timeupdated"		"1697798244"
+			}
+			"staging"
+			{
+				"buildid"		"12571638"
+				"pwdrequired"		"1"
+				"timeupdated"		"1698743108"
 			}
 		}
 	}
@@ -412,41 +481,61 @@
 		"maxnumfiles"		"3"
 		"savefiles"
 		{
-			"0"
+			"4"
 			{
 				"root"		"WinAppDataLocal"
 				"path"		"RoboQuest/Saved/SaveGames"
-				"pattern"		"Controls.sav"
+				"pattern"		"*.sav"
 				"platforms"
 				{
 					"1"		"Windows"
 				}
 			}
-			"1"
+			"5"
 			{
 				"root"		"WinAppDataLocal"
 				"path"		"RoboQuest/Saved/SaveGames"
-				"pattern"		"Profile.sav"
+				"pattern"		"RQProfile.sav"
 				"platforms"
 				{
 					"1"		"Windows"
 				}
 			}
-			"2"
+			"6"
 			{
 				"root"		"WinAppDataLocal"
 				"path"		"RoboQuest/Saved/SaveGames"
-				"pattern"		"Settings.sav"
+				"pattern"		"RQControls.sav"
 				"platforms"
 				{
 					"1"		"Windows"
 				}
 			}
-			"3"
+			"7"
 			{
 				"root"		"WinAppDataLocal"
 				"path"		"RoboQuest/Saved/SaveGames"
-				"pattern"		"ProfileCopy.sav"
+				"pattern"		"RQGraphics.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"8"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"RoboQuest/Saved/SaveGames"
+				"pattern"		"RQSettings.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"9"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"RoboQuest/Saved/SaveGames"
+				"pattern"		"RQProfileCopy.sav"
 				"platforms"
 				{
 					"1"		"Windows"
