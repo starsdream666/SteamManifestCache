@@ -32,6 +32,54 @@
 			"0"		"5"
 		}
 		"has_adult_content"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1698883200"
+			"tested_build_id"		"12508286"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"1"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
 		"controllertagwizard"		"1"
 		"small_capsule"
 		{
@@ -224,9 +272,18 @@
 			{
 				"public"
 				{
-					"gid"		"7426325931387512422"
-					"size"		"15477281358"
-					"download"		"14873253264"
+					"gid"		"1670348671334329512"
+					"size"		"15477510706"
+					"download"		"14873278080"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"A7F58F18B3864C78E8860954B5F15147"
+					"size"		"B43AE3D80A496749960768B9D96DB8B2"
+					"download"		"5380F851F090FC96D20363FD214D4514"
 				}
 			}
 		}
@@ -240,9 +297,18 @@
 			{
 				"public"
 				{
-					"gid"		"6025348845554464379"
-					"size"		"15627115397"
-					"download"		"14904056608"
+					"gid"		"8413337731934202537"
+					"size"		"15627751396"
+					"download"		"14904011584"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"2B38A40C92C591B5C294C1F5968B3652"
+					"size"		"8CA7D73B382AB3E27124E506C555E580"
+					"download"		"7605AD3C3436743600720ECB2F50F618"
 				}
 			}
 		}
@@ -256,9 +322,18 @@
 			{
 				"public"
 				{
-					"gid"		"6070160315802253715"
-					"size"		"15288341946"
-					"download"		"14792490768"
+					"gid"		"1651435970785091680"
+					"size"		"15288883100"
+					"download"		"14792611952"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"A00C69B6874BFF7E6CD6832D70936428"
+					"size"		"23C00BE1039CA66B58B7E2E63F525EE5"
+					"download"		"551581FAD36E84C23FCAFABA38FC2670"
 				}
 			}
 		}
@@ -266,8 +341,14 @@
 		{
 			"public"
 			{
-				"buildid"		"12639014"
-				"timeupdated"		"1699355046"
+				"buildid"		"12650294"
+				"timeupdated"		"1699499428"
+			}
+			"development"
+			{
+				"buildid"		"12650294"
+				"pwdrequired"		"1"
+				"timeupdated"		"1699495723"
 			}
 		}
 	}
