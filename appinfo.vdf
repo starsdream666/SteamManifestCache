@@ -36,24 +36,24 @@
 		"steam_deck_compatibility"
 		{
 			"category"		"2"
-			"test_timestamp"		"1690588800"
-			"tested_build_id"		"11802884"
+			"test_timestamp"		"1698192000"
+			"tested_build_id"		"12433346"
 			"tests"
 			{
 				"0"
 				{
 					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
 				}
 				"1"
 				{
-					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 				}
 				"2"
 				{
 					"display"		"4"
-					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
 				}
 				"3"
 				{
@@ -72,11 +72,11 @@
 				"requires_manual_keyboard_invoke"		"0"
 				"requires_non_controller_launcher_nav"		"0"
 				"primary_player_is_controller_slot_0"		"1"
-				"non_deck_display_glyphs"		"1"
+				"non_deck_display_glyphs"		"0"
 				"small_text"		"1"
 				"requires_internet_for_setup"		"0"
 				"requires_internet_for_singleplayer"		"0"
-				"recommended_runtime"		"proton-8.0-3"
+				"recommended_runtime"		"proton-stable"
 				"requires_h264"		"1"
 				"gamescope_frame_limiter_not_supported"		"0"
 			}
@@ -179,6 +179,11 @@
 				"supported"		"true"
 				"subtitles"		"true"
 			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
 		}
 		"steam_release_date"		"1690472804"
 		"metacritic_score"		"76"
@@ -194,8 +199,8 @@
 			"3"		"42804"
 			"4"		"4026"
 			"5"		"1734"
-			"6"		"5547"
-			"7"		"3959"
+			"6"		"3959"
+			"7"		"5547"
 			"8"		"1774"
 			"9"		"3839"
 			"10"		"4252"
@@ -229,7 +234,6 @@
 				"config"
 				{
 					"oslist"		"windows"
-					"osarch"		"64"
 				}
 				"description_loc"
 				{
@@ -244,7 +248,6 @@
 				"config"
 				{
 					"oslist"		"windows"
-					"osarch"		"64"
 				}
 				"description_loc"
 				{
@@ -255,7 +258,21 @@
 			"2"
 			{
 				"executable"		"Deadlink.exe"
-				"arguments"		"-dx11 -xessdisabled"
+				"arguments"		"-dx12 -xessenabled -ngxdisable"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Play Deadlink (DirectX 12 + XeSS)"
+				}
+				"description"		"Play Deadlink (DirectX 12 + XeSS)"
+			}
+			"3"
+			{
+				"executable"		"Deadlink.exe"
+				"arguments"		"-dx11 -xessdisabled -ngxdisable"
 				"config"
 				{
 					"oslist"		"windows"
@@ -302,9 +319,9 @@
 			{
 				"public"
 				{
-					"gid"		"1539430690855864514"
-					"size"		"8009255102"
-					"download"		"2786217056"
+					"gid"		"6937585787488227015"
+					"size"		"8009777532"
+					"download"		"2786287104"
 				}
 			}
 			"encryptedmanifests"
@@ -329,9 +346,9 @@
 				}
 				"ea-preview"
 				{
-					"gid"		"6C8804B321CBABF99E04A373931ED48B"
-					"size"		"62794F841DB0EFD9479FBA6C43B49D61"
-					"download"		"0181C79DA431F3CC5BBA47CE6E7834B1"
+					"gid"		"4D2B99E1DEEAEA56B260449342D64D95"
+					"size"		"6F6387EC771C1680075CBDBF3FA31C75"
+					"download"		"65A34C367621504FB4A48C72D4B7F939"
 				}
 				"ea-rc"
 				{
@@ -365,15 +382,15 @@
 				}
 				"latest"
 				{
-					"gid"		"445605236A3987036FA1D759E6E62FC6"
-					"size"		"590E02635F8A610F7129906261973FDA"
-					"download"		"A93FE0C4A93CA187DDEDE1B36CC484E2"
+					"gid"		"5B763AFEB177B5D925BEB17391B142EF"
+					"size"		"B1B9C47269C3486460081D19EC06928C"
+					"download"		"22A2A297AF56515AAA704738A368198F"
 				}
 				"localization"
 				{
-					"gid"		"082E9E723FA396C6DD85BB91126DA40F"
-					"size"		"36DB53E58C87B016875B88372B255D46"
-					"download"		"BD5E7D1BA0397256EC2897C364A06668"
+					"gid"		"45363A5B873CD87D1D3F871B1BAEFC49"
+					"size"		"D7BBCF722B8AD990CDBAD2E085DFE104"
+					"download"		"297E66DC399B26573F4C8DDEFC9638C1"
 				}
 				"ms-5"
 				{
@@ -413,9 +430,9 @@
 				}
 				"shipping"
 				{
-					"gid"		"2E3F95B2F378A07BDD8DBD642B918A56"
-					"size"		"4007C6D745C003EA50A2AA50395F4378"
-					"download"		"6162EB4C73D6870810D109A1648FA7B8"
+					"gid"		"F606D615713CF204D39F4D17CF44DD53"
+					"size"		"74CFB9EE6BC5950CB24CE4B5C14CD0EB"
+					"download"		"E262F22B2692DF77352E84C753CCE3DE"
 				}
 			}
 		}
@@ -423,8 +440,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12295313"
-				"timeupdated"		"1695818064"
+				"buildid"		"12651464"
+				"timeupdated"		"1699457094"
 			}
 			"demo"
 			{
@@ -446,9 +463,9 @@
 			}
 			"ea-preview"
 			{
-				"buildid"		"12295313"
+				"buildid"		"12651464"
 				"pwdrequired"		"1"
-				"timeupdated"		"1695811379"
+				"timeupdated"		"1699455622"
 			}
 			"ea-rc"
 			{
@@ -482,15 +499,15 @@
 			}
 			"latest"
 			{
-				"buildid"		"12291862"
+				"buildid"		"12639237"
 				"pwdrequired"		"1"
-				"timeupdated"		"1695783328"
+				"timeupdated"		"1699356673"
 			}
 			"localization"
 			{
-				"buildid"		"12194696"
+				"buildid"		"12639237"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694774956"
+				"timeupdated"		"1699457041"
 			}
 			"ms-5"
 			{
@@ -530,9 +547,9 @@
 			}
 			"shipping"
 			{
-				"buildid"		"12291925"
+				"buildid"		"12467794"
 				"pwdrequired"		"1"
-				"timeupdated"		"1695783922"
+				"timeupdated"		"1697598236"
 			}
 		}
 	}
