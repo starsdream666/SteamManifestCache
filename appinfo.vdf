@@ -49,31 +49,26 @@
 		"steam_deck_compatibility"
 		{
 			"category"		"2"
-			"test_timestamp"		"1697155200"
-			"tested_build_id"		"12140851"
+			"test_timestamp"		"1697760000"
+			"tested_build_id"		"12343642"
 			"tests"
 			{
 				"0"
 				{
 					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
 				}
 				"1"
 				{
 					"display"		"4"
-					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
 				}
 				"2"
 				{
 					"display"		"4"
-					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
-				}
-				"3"
-				{
-					"display"		"4"
 					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
 				}
-				"4"
+				"3"
 				{
 					"display"		"4"
 					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
@@ -83,13 +78,13 @@
 			{
 				"supported_input"		"gamepad"
 				"requires_manual_keyboard_invoke"		"0"
-				"requires_non_controller_launcher_nav"		"1"
+				"requires_non_controller_launcher_nav"		"0"
 				"primary_player_is_controller_slot_0"		"0"
 				"non_deck_display_glyphs"		"0"
 				"small_text"		"0"
 				"requires_internet_for_setup"		"0"
 				"requires_internet_for_singleplayer"		"0"
-				"recommended_runtime"		"proton-8.0-4"
+				"recommended_runtime"		"proton-stable"
 				"requires_h264"		"0"
 				"gamescope_frame_limiter_not_supported"		"0"
 			}
@@ -125,7 +120,7 @@
 				"height_pct"		"51.041591283284674"
 			}
 		}
-		"store_asset_mtime"		"1697521590"
+		"store_asset_mtime"		"1698334604"
 		"associations"
 		{
 			"0"
@@ -171,52 +166,54 @@
 			"english"
 			{
 				"supported"		"true"
-				"subtitles"		"true"
 			}
 			"french"
 			{
 				"supported"		"true"
-				"subtitles"		"true"
 			}
 			"italian"
 			{
 				"supported"		"true"
-				"subtitles"		"true"
 			}
 			"german"
 			{
 				"supported"		"true"
-				"subtitles"		"true"
 			}
 			"spanish"
 			{
 				"supported"		"true"
-				"subtitles"		"true"
 			}
 			"japanese"
 			{
 				"supported"		"true"
-				"subtitles"		"true"
 			}
 			"koreana"
 			{
 				"supported"		"true"
-				"subtitles"		"true"
 			}
 			"schinese"
 			{
 				"supported"		"true"
-				"subtitles"		"true"
 			}
 			"thai"
 			{
 				"supported"		"true"
-				"subtitles"		"true"
 			}
 			"tchinese"
 			{
 				"supported"		"true"
-				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
 			}
 		}
 		"steam_release_date"		"1697515200"
@@ -226,28 +223,28 @@
 		"store_tags"
 		{
 			"0"		"19"
-			"1"		"21"
-			"2"		"1625"
+			"1"		"1625"
+			"2"		"21"
 			"3"		"597"
 			"4"		"5379"
 			"5"		"4106"
-			"6"		"4305"
-			"7"		"3871"
+			"6"		"3871"
+			"7"		"4305"
 			"8"		"4562"
-			"9"		"4182"
-			"10"		"4166"
-			"11"		"1734"
+			"9"		"1734"
+			"10"		"4182"
+			"11"		"4166"
 			"12"		"1756"
 			"13"		"3859"
 			"14"		"7368"
 			"15"		"4840"
 			"16"		"3841"
 			"17"		"5350"
-			"18"		"1721"
-			"19"		"7208"
+			"18"		"4004"
+			"19"		"4975"
 		}
 		"review_score"		"5"
-		"review_percentage"		"61"
+		"review_percentage"		"68"
 	}
 	"extended"
 	{
@@ -324,36 +321,36 @@
 			{
 				"public"
 				{
-					"gid"		"4361985241034755733"
-					"size"		"12606762929"
-					"download"		"10246774000"
+					"gid"		"3937851969012756056"
+					"size"		"12504601545"
+					"download"		"10140296112"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"2nd_patch_rom"
 				{
-					"gid"		"DF0BF92EF19732B8E308E8F4D7E42420"
-					"size"		"BA6EE463A258988759A68392E3B06CC0"
-					"download"		"311270E3C9868748DFC11F537CC0E1FF"
+					"gid"		"3C35D5CE24736337CBC0C191F940A1C6"
+					"size"		"477161519D560948205B90426036DBDE"
+					"download"		"B92811DDB78501D90C5C2266F9DDA2C5"
 				}
 				"2nd_patch_rom_reldbg"
 				{
-					"gid"		"3C43598436EAF9A908ED6AB77DD46555"
-					"size"		"C9BBDE184F78A7FAC540E287C3C50A1D"
-					"download"		"A95D79480D19872B99D9BEC198AE8669"
+					"gid"		"9E8F9C6F84188775A4E75801651A7DAB"
+					"size"		"9BCFF3C92D0069787E639B896AA89C70"
+					"download"		"E94A7293971AF085AD1D768C78314C08"
 				}
 				"beta"
 				{
-					"gid"		"0920A0CFEF8A03746BF9FD5AE886CF8C"
-					"size"		"70EA0B7A1DC3D4698FCFD624628281BA"
-					"download"		"F003C829E13D102338BB927CA467F09C"
+					"gid"		"7D58FC303FDFEC873539A32F33B4F5C5"
+					"size"		"940EBFC12BFAF4A4FA220F25BD921EAA"
+					"download"		"A1A90BDC77D94781824E749A780373C3"
 				}
 				"beta_reldbg"
 				{
-					"gid"		"90B4317FDFA5E446AABDA90AEDAE1943"
-					"size"		"61E70EA8F68758D9052550DC5024B651"
-					"download"		"E9AF8AD5B149A70A6D4AA5AA8D4A91DA"
+					"gid"		"144106F0ECD4F695F4D761F85B6ADBEE"
+					"size"		"E7BF3556C254C448CBFC42B207731F65"
+					"download"		"54487E041926AE3FBBD3C9A5A4C68B7D"
 				}
 				"encryption-test"
 				{
@@ -399,9 +396,9 @@
 				}
 				"test-arzest2"
 				{
-					"gid"		"45B54D64A86A400B8F21DD47783BDD42"
-					"size"		"D2FF6603A3D3F0716A1C8B55E8E8AD28"
-					"download"		"A9C99DC04406512CDDFA1FF81BC82925"
+					"gid"		"2B8D3253869E537A102F83E3ECEF372A"
+					"size"		"EE844BBB388C9EDE46F51C98AE8215A0"
+					"download"		"3689A86F3F3309002C6A6864602C4818"
 				}
 				"test-e"
 				{
@@ -427,32 +424,32 @@
 		{
 			"public"
 			{
-				"buildid"		"12343642"
-				"timeupdated"		"1696979670"
+				"buildid"		"12600655"
+				"timeupdated"		"1699488022"
 			}
 			"2nd_patch_rom"
 			{
-				"buildid"		"12399468"
+				"buildid"		"12642428"
 				"pwdrequired"		"1"
-				"timeupdated"		"1696946342"
+				"timeupdated"		"1699407381"
 			}
 			"2nd_patch_rom_reldbg"
 			{
-				"buildid"		"12399457"
+				"buildid"		"12644608"
 				"pwdrequired"		"1"
-				"timeupdated"		"1696943703"
+				"timeupdated"		"1699407400"
 			}
 			"beta"
 			{
-				"buildid"		"12343642"
+				"buildid"		"12600655"
 				"pwdrequired"		"1"
-				"timeupdated"		"1696334718"
+				"timeupdated"		"1698923289"
 			}
 			"beta_reldbg"
 			{
-				"buildid"		"12313475"
+				"buildid"		"12625950"
 				"pwdrequired"		"1"
-				"timeupdated"		"1695959214"
+				"timeupdated"		"1699245810"
 			}
 			"encryption-test"
 			{
@@ -498,9 +495,9 @@
 			}
 			"test-arzest2"
 			{
-				"buildid"		"12430908"
+				"buildid"		"12648248"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697178807"
+				"timeupdated"		"1699432811"
 			}
 			"test-e"
 			{
