@@ -248,9 +248,9 @@
 			{
 				"public"
 				{
-					"gid"		"3403100843357404797"
-					"size"		"483151245"
-					"download"		"173568000"
+					"gid"		"1930509535970270377"
+					"size"		"476239353"
+					"download"		"166339488"
 				}
 				"previousversionrollback"
 				{
@@ -260,13 +260,19 @@
 				}
 				"publicbeta"
 				{
-					"gid"		"3403100843357404797"
-					"size"		"483151245"
-					"download"		"173568000"
+					"gid"		"1930509535970270377"
+					"size"		"476239353"
+					"download"		"166339488"
 				}
 			}
 			"encryptedmanifests"
 			{
+				"internal_testing"
+				{
+					"gid"		"5CCAADFC8632B68EA0765975401A3520"
+					"size"		"193FB0CF86886A7EAFCF5288C081B874"
+					"download"		"63B1C162D74541C5D5CC9EF58FBA0AE2"
+				}
 				"qa_testing"
 				{
 					"gid"		"8E5F92370080312C467338D59C49127E"
@@ -286,9 +292,9 @@
 			{
 				"public"
 				{
-					"gid"		"7583421361316102664"
-					"size"		"499673653"
-					"download"		"173182992"
+					"gid"		"8685266067982790760"
+					"size"		"500006559"
+					"download"		"173318336"
 				}
 				"previousversionrollback"
 				{
@@ -298,13 +304,19 @@
 				}
 				"publicbeta"
 				{
-					"gid"		"7583421361316102664"
-					"size"		"499673653"
-					"download"		"173182992"
+					"gid"		"8685266067982790760"
+					"size"		"500006559"
+					"download"		"173318336"
 				}
 			}
 			"encryptedmanifests"
 			{
+				"internal_testing"
+				{
+					"gid"		"85B5BE4E33B4276452C1E8AC775897E4"
+					"size"		"B500C8562A6C5083F3511F12F408A15E"
+					"download"		"2DFDE681D11031AF0EA8D481AB3248A6"
+				}
 				"qa_testing"
 				{
 					"gid"		"1A141DC236842E0A636EFBE4BA342217"
@@ -317,8 +329,14 @@
 		{
 			"public"
 			{
-				"buildid"		"12481077"
-				"timeupdated"		"1697709474"
+				"buildid"		"12658794"
+				"timeupdated"		"1699522009"
+			}
+			"internal_testing"
+			{
+				"buildid"		"12659697"
+				"pwdrequired"		"1"
+				"timeupdated"		"1699527063"
 			}
 			"previousversionrollback"
 			{
@@ -328,9 +346,9 @@
 			}
 			"publicbeta"
 			{
-				"buildid"		"12481077"
+				"buildid"		"12658794"
 				"description"		"Public beta branch"
-				"timeupdated"		"1697709457"
+				"timeupdated"		"1699520744"
 			}
 			"qa_testing"
 			{
@@ -351,6 +369,12 @@
 				"root"		"WinAppDataLocalLow"
 				"path"		"Grizzly Games\\Thronefall"
 				"pattern"		"*.sav"
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Grizzly Games\\Thronefall"
+				"pattern"		"*.json"
 			}
 		}
 		"rootoverrides"
