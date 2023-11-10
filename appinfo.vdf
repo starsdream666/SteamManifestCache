@@ -17,6 +17,49 @@
 			"schinese"		"机场：模拟地勤"
 			"tchinese"		"機場：模擬地勤"
 		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1698883200"
+			"tested_build_id"		"12501772"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
 		"controllertagwizard"		"1"
 		"controller_support"		"full"
 		"small_capsule"
@@ -153,7 +196,7 @@
 			"19"		"3859"
 		}
 		"review_score"		"6"
-		"review_percentage"		"74"
+		"review_percentage"		"72"
 	}
 	"extended"
 	{
@@ -257,9 +300,9 @@
 			{
 				"public"
 				{
-					"gid"		"6321991362132926825"
-					"size"		"7804025706"
-					"download"		"3665678240"
+					"gid"		"9126882572766860539"
+					"size"		"7897911811"
+					"download"		"3694831360"
 				}
 			}
 			"encryptedmanifests"
@@ -272,9 +315,9 @@
 				}
 				"demotest"
 				{
-					"gid"		"5341F39E427896723BAA3E0E2A839005"
-					"size"		"D942BAA09678AD8EE35198BE71B4317B"
-					"download"		"68BC82647389A048DC93265F91E60892"
+					"gid"		"E77B531D055BBB1201AD8B557225B476"
+					"size"		"61B79737763FDAA41A05090FF7732371"
+					"download"		"E55A921C79FF001E649CB79E8C8CDD5C"
 				}
 				"gamescom_press"
 				{
@@ -290,9 +333,9 @@
 				}
 				"inhouse"
 				{
-					"gid"		"1FA95E4FFFA4839769D8CF72EE98AA10"
-					"size"		"3BF201535E8AC2FE1EFEBD2E58C7AC39"
-					"download"		"9F9A34A5F8FFDB75DAF1573712BBB9A6"
+					"gid"		"01C4D414FD224C1A588D1959BA25F905"
+					"size"		"8B1E58544440EF0DD2AC39633DD4686F"
+					"download"		"65FA19B02A97646DC755815296CCA977"
 				}
 				"insideras"
 				{
@@ -326,8 +369,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12602565"
-				"timeupdated"		"1698941378"
+				"buildid"		"12660778"
+				"timeupdated"		"1699548497"
 			}
 			"demo_steamfest"
 			{
@@ -337,9 +380,9 @@
 			}
 			"demotest"
 			{
-				"buildid"		"12480601"
+				"buildid"		"12612799"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697706089"
+				"timeupdated"		"1699028669"
 			}
 			"gamescom_press"
 			{
@@ -355,9 +398,9 @@
 			}
 			"inhouse"
 			{
-				"buildid"		"12602565"
+				"buildid"		"12660778"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698934610"
+				"timeupdated"		"1699534482"
 			}
 			"insideras"
 			{
