@@ -1,0 +1,338 @@
+"appinfo"
+{
+	"appid"		"1763510"
+	"common"
+	{
+		"name"		"X8"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"d7fd5838fbfa0667a4e920e25af37e8968f60f4c"
+		"clienttga"		"6012ea81d68607ad0dfc5610e61f17101373c1fd"
+		"clienticon"		"a03f84b7e6b5773ccae3eddc122a384887c04694"
+		"othervrsupport"		"1"
+		"othervrsupport_rift_13"		"1"
+		"openxrsupport"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"japanese"		"header_japanese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,ja"
+			"library_hero"		"en,ja"
+			"library_logo"		"en,ja"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"37.53532745257576"
+				"height_pct"		"78.04653644113714"
+			}
+		}
+		"store_asset_mtime"		"1699557937"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Thirdverse, Co., Ltd."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Thirdverse, Co., Ltd."
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_27"		"1"
+			"category_52"		"1"
+			"category_2"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1699552802"
+		"community_hub_visible"		"1"
+		"gameid"		"1763510"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"1774"
+			"2"		"1663"
+			"3"		"21978"
+			"4"		"1671"
+			"5"		"1775"
+			"6"		"3859"
+			"7"		"1708"
+			"8"		"113"
+		}
+		"review_score"		"8"
+		"review_percentage"		"81"
+	}
+	"extended"
+	{
+		"gamedir"		"X8"
+		"serverbrowsername"		"X8"
+		"developer"		"Thirdverse, Co., Ltd."
+		"publisher"		"Thirdverse, Co., Ltd."
+		"homepage"		"https://playx8vr.com/"
+	}
+	"config"
+	{
+		"installdir"		"X8"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"X8SteamClient.exe"
+				"arguments"		"-hmd=OpenXR"
+				"type"		"openxr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Play"
+				}
+				"description"		"Play"
+			}
+			"1"
+			{
+				"executable"		"X8SteamClient.exe"
+				"arguments"		"-hmd=Oculus"
+				"type"		"othervr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Play"
+				}
+				"description"		"Play"
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1763511"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9026612511870864847"
+					"size"		"3194329479"
+					"download"		"2910855472"
+				}
+				"pico-beta"
+				{
+					"gid"		"4756768127471971987"
+					"size"		"3309321463"
+					"download"		"3062569664"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"candidate"
+				{
+					"gid"		"9210E5D8EF2674F0AE6B29A7B677D4AB"
+					"size"		"0D2601FA1EE3677AF7F47E3856C06244"
+					"download"		"D98F9174369F1D792174A6B144E9D3C8"
+				}
+				"demo"
+				{
+					"gid"		"F2D58E37A81543063DC129481A8B9175"
+					"size"		"53C50255FF220734E138792FE8A765C3"
+					"download"		"2E08888669CFBBC9FA4783D03EA2625C"
+				}
+				"development"
+				{
+					"gid"		"EC88FFB6F33DF8634E925DADCA34AE99"
+					"size"		"CFA15849A1C41652033E31F62FE67FE3"
+					"download"		"448E391A04136F6D73D7DC3359C2136D"
+				}
+				"jp-qa"
+				{
+					"gid"		"AF2F11183CE7A2B0507F76C94C852A4E"
+					"size"		"35BA421D8F67B2C85657AAEBD2EA6847"
+					"download"		"20AD6D6969C9C2A926BE5475FB328A6B"
+				}
+				"psvr2merge"
+				{
+					"gid"		"E46E1B907207ACEA7C1E064F87FD28D3"
+					"size"		"9298E411A9AEBC85F083B7DADAF2B386"
+					"download"		"0BE1750BBB040D79C4F05E2C5E18EC53"
+				}
+				"staging"
+				{
+					"gid"		"A5227EE1377C763235802C2DE6945189"
+					"size"		"8E0FCD6587C5F685259ECD9F7855C445"
+					"download"		"D9D46887C19E4422C869B88FAC907B37"
+				}
+				"tournament"
+				{
+					"gid"		"6883851B7783706EC13C2CA881229606"
+					"size"		"C3AA21E9948A0AF72024DAE72D38C699"
+					"download"		"DC43444BD5763533ECB41B7E40D9077A"
+				}
+			}
+		}
+		"1763512"
+		{
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"staging"
+				{
+					"gid"		"35A0A783B7427BD0F24E864724E7690F"
+					"size"		"0B0C965981BD579D8C32583BF1D93C63"
+					"download"		"1CBDB6CDFD0BF4D7F563784BCBDA03CB"
+				}
+			}
+		}
+		"hasdepotsindlc"		"0"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12660265"
+				"timeupdated"		"1699552996"
+			}
+			"candidate"
+			{
+				"buildid"		"12660265"
+				"pwdrequired"		"1"
+				"timeupdated"		"1699551069"
+			}
+			"demo"
+			{
+				"buildid"		"11677005"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689099183"
+			}
+			"development"
+			{
+				"buildid"		"12662380"
+				"pwdrequired"		"1"
+				"timeupdated"		"1699545099"
+			}
+			"jp-qa"
+			{
+				"buildid"		"12646369"
+				"pwdrequired"		"1"
+				"timeupdated"		"1699413058"
+			}
+			"pico-beta"
+			{
+				"buildid"		"12029563"
+				"description"		"build for Pico4 users"
+				"timeupdated"		"1693411544"
+			}
+			"psvr2merge"
+			{
+				"buildid"		"11807208"
+				"pwdrequired"		"1"
+				"timeupdated"		"1690506720"
+			}
+			"staging"
+			{
+				"buildid"		"12660952"
+				"pwdrequired"		"1"
+				"timeupdated"		"1699535347"
+			}
+			"tournament"
+			{
+				"buildid"		"12596411"
+				"pwdrequired"		"1"
+				"timeupdated"		"1698879839"
+			}
+		}
+	}
+}
