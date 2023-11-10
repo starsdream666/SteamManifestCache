@@ -25,7 +25,7 @@
 			"schinese"		"1"
 		}
 		"clienticns"		"293dc95c4832b9378e3e5480baecc9ff2caab8dc"
-		"releasestatesteamchina"		"prerelease"
+		"releasestatesteamchina"		"released"
 		"steam_deck_compatibility"
 		{
 			"category"		"2"
@@ -254,8 +254,8 @@
 			"8"		"1643"
 			"9"		"1695"
 			"10"		"3871"
-			"11"		"597"
-			"12"		"1664"
+			"11"		"1664"
+			"12"		"597"
 			"13"		"1669"
 			"14"		"599"
 			"15"		"4400"
@@ -323,6 +323,21 @@
 	{
 		"baselanguages"		"english"
 		"hasdepotsindlc"		"0"
+		"branches"
+		{
+			"steam_china_only"
+			{
+				"sc_schinese"		"仅中国"
+				"buildid"		"12518776"
+				"pwdrequired"		"1"
+				"timeupdated"		"1698135161"
+			}
+			"public"
+			{
+				"buildid"		"12518776"
+				"timeupdated"		"1698246153"
+			}
+		}
 		"228988"
 		{
 			"config"
@@ -338,6 +353,7 @@
 			{
 				"oslist"		"windows"
 				"osarch"		"64"
+				"realm"		"steamglobal"
 			}
 			"manifests"
 			{
@@ -348,6 +364,15 @@
 					"download"		"243699808"
 				}
 			}
+			"encryptedmanifests"
+			{
+				"steam_china_only"
+				{
+					"gid"		"B2486175DA691AC2A5837A3AD01CF6D8"
+					"size"		"ECAA7A295727C56FCBE652B432B42C44"
+					"download"		"9814C41C862429029543D8EDA35E6DC6"
+				}
+			}
 		}
 		"1318692"
 		{
@@ -355,6 +380,7 @@
 			{
 				"oslist"		"linux"
 				"osarch"		"64"
+				"realm"		"steamglobal"
 			}
 			"manifests"
 			{
@@ -365,6 +391,15 @@
 					"download"		"240695696"
 				}
 			}
+			"encryptedmanifests"
+			{
+				"steam_china_only"
+				{
+					"gid"		"052E8B983F2E65CF47C7E4D99440A6A7"
+					"size"		"E66F7614601F439D60BDF3D56879FC14"
+					"download"		"C8CA942AFBC7EC0A2B0D6F20C21613B4"
+				}
+			}
 		}
 		"1318694"
 		{
@@ -373,6 +408,7 @@
 				"language"		"schinese"
 				"oslist"		"windows"
 				"osarch"		"64"
+				"realm"		"steamglobal"
 			}
 			"manifests"
 			{
@@ -383,6 +419,15 @@
 					"download"		"243644992"
 				}
 			}
+			"encryptedmanifests"
+			{
+				"steam_china_only"
+				{
+					"gid"		"17E61FC640959A9593EBA887B131D37A"
+					"size"		"9625A1A05186574C646FE1784035C778"
+					"download"		"ED92DA0E000C13C02056A53D25113AB5"
+				}
+			}
 		}
 		"1318695"
 		{
@@ -391,6 +436,7 @@
 				"language"		"schinese"
 				"oslist"		"linux"
 				"osarch"		"64"
+				"realm"		"steamglobal"
 			}
 			"manifests"
 			{
@@ -401,6 +447,15 @@
 					"download"		"240689104"
 				}
 			}
+			"encryptedmanifests"
+			{
+				"steam_china_only"
+				{
+					"gid"		"420ADBFF8B09E343424846841DE65F7D"
+					"size"		"8448E9655CCE3A09CD254CB8CD140619"
+					"download"		"A7951F4F06D3AF837104D4DB5648FC82"
+				}
+			}
 		}
 		"1318693"
 		{
@@ -408,6 +463,7 @@
 			{
 				"oslist"		"macos"
 				"osarch"		"64"
+				"realm"		"steamglobal"
 			}
 			"manifests"
 			{
@@ -418,17 +474,41 @@
 					"download"		"244770544"
 				}
 			}
-		}
-		"branches"
-		{
-			"steam_china_only"
+			"encryptedmanifests"
 			{
-				"sc_schinese"		"仅中国"
+				"steam_china_only"
+				{
+					"gid"		"4371A59157F6F10FCC3798A0817AE90A"
+					"size"		"73D5DCC95596BC9F020B15E5E7B4E5FC"
+					"download"		"F2ACD6D656640DFC6066390AFB864A84"
+				}
 			}
-			"public"
+		}
+		"1318696"
+		{
+			"config"
 			{
-				"buildid"		"9714000"
-				"timeupdated"		"1665668104"
+				"oslist"		"windows"
+				"osarch"		"64"
+				"realm"		"steamchina"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2409426337186460552"
+					"size"		"390731739"
+					"download"		"243702688"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"steam_china_only"
+				{
+					"gid"		"29EB919FBB5CF5BEBBF5E71540D9096F"
+					"size"		"845D675F97B213F37AA2E2DB295D2923"
+					"download"		"56BFBE351402DB90DE51B01DB80F2E94"
+				}
 			}
 		}
 	}
