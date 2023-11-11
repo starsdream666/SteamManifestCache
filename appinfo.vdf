@@ -281,7 +281,7 @@
 		"developer"		"Giants Software"
 		"publisher"		"Giants Software"
 		"homepage"		"https://farming-simulator.com/"
-		"listofdlc"		"1673990,1731910,1767680,1767690,1767691,1879480,1967740,1988850,1992250,2024410,2052720,2060460,2118730,2118740,2171790,2178810,2243160,2243170,2243180,2243190,2243200"
+		"listofdlc"		"1673990,1731910,1767680,1767690,1767691,1879480,1967740,1988850,1992250,2024410,2052720,2060460,2118730,2118740,2171790,2178810,2243160,2243170,2243180,2243190,2243200,2620980"
 		"dlcavailableonstore"		"1"
 	}
 	"config"
@@ -3406,9 +3406,21 @@
 			"dlcappid"		"2620980"
 			"manifests"
 			{
+				"public"
+				{
+					"gid"		"3199981134047764534"
+					"size"		"40960"
+					"download"		"35088"
+				}
 			}
 			"encryptedmanifests"
 			{
+				"release1.13.1.0"
+				{
+					"gid"		"627FA0B3C31087270DCC5030129FA9D5"
+					"size"		"4FF75CF33151C39EFB97CEBC47BA3CCA"
+					"download"		"A22F21DF97A3F8E9F0D43E70C9591F2A"
+				}
 				"testing"
 				{
 					"gid"		"F3C3DB02AF3DD5FFEFFDD7813D107FDC"
@@ -3421,8 +3433,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12672601"
-				"timeupdated"		"1699630198"
+				"buildid"		"12672977"
+				"timeupdated"		"1699632772"
 			}
 			"release1.1"
 			{
@@ -3450,9 +3462,9 @@
 			}
 			"release1.13.1.0"
 			{
-				"buildid"		"12672444"
+				"buildid"		"12672937"
 				"pwdrequired"		"1"
-				"timeupdated"		"1699629121"
+				"timeupdated"		"1699632567"
 			}
 			"release1.13.1.1"
 			{
