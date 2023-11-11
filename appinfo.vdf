@@ -14,13 +14,22 @@
 		"oslist"		"windows"
 		"osarch"		"64"
 		"osextended"		""
+		"languages"
+		{
+			"english"		"1"
+			"french"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"polish"		"1"
+			"latam"		"1"
+		}
 		"content_descriptors"
 		{
 			"0"		"1"
 			"1"		"2"
 			"2"		"3"
-			"3"		"5"
-			"4"		"4"
+			"3"		"4"
+			"4"		"5"
 		}
 		"has_adult_content"		"1"
 		"has_adult_content_sex"		"1"
@@ -94,7 +103,7 @@
 				"height_pct"		"63.33862611586936"
 			}
 		}
-		"store_asset_mtime"		"1652388847"
+		"store_asset_mtime"		"1699660156"
 		"associations"
 		{
 			"0"
@@ -117,10 +126,38 @@
 		"category"
 		{
 			"category_2"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_23"		"1"
 		}
 		"supported_languages"
 		{
 			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
 			{
 				"supported"		"true"
 				"subtitles"		"true"
@@ -190,9 +227,9 @@
 			{
 				"public"
 				{
-					"gid"		"7834995685281198701"
-					"size"		"8363402351"
-					"download"		"8307003312"
+					"gid"		"6677964852312194455"
+					"size"		"8920085953"
+					"download"		"8752022848"
 				}
 				"legacy"
 				{
@@ -205,9 +242,9 @@
 			{
 				"test"
 				{
-					"gid"		"D862376AF62C30A5C2B8F8FCD966F56E"
-					"size"		"00A115360B8A2E87368D82411BB175E5"
-					"download"		"4FBF019A9053FA919197DB1E483ADA08"
+					"gid"		"02FA870775F3119477B69486D12B843E"
+					"size"		"1ECD0E6E170FE33E8ABAE033BEED99E9"
+					"download"		"6C4CC1CE1375ABF11196E22770930DF5"
 				}
 			}
 		}
@@ -215,8 +252,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12544213"
-				"timeupdated"		"1698335123"
+				"buildid"		"12674177"
+				"timeupdated"		"1699642910"
 			}
 			"legacy"
 			{
@@ -226,9 +263,9 @@
 			}
 			"test"
 			{
-				"buildid"		"12265605"
+				"buildid"		"12674177"
 				"pwdrequired"		"1"
-				"timeupdated"		"1695506257"
+				"timeupdated"		"1699642598"
 			}
 		}
 	}
