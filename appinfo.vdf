@@ -18,6 +18,59 @@
 			"schinese"		"阿拉斯加卡车司机"
 		}
 		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1698883200"
+			"tested_build_id"		"12513272"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"5"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"1"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
 		"controllertagwizard"		"1"
 		"controller_support"		"partial"
 		"small_capsule"
@@ -166,7 +219,7 @@
 			"19"		"1697"
 		}
 		"review_score"		"5"
-		"review_percentage"		"67"
+		"review_percentage"		"66"
 	}
 	"extended"
 	{
@@ -202,9 +255,9 @@
 			{
 				"public"
 				{
-					"gid"		"5353967533815543405"
-					"size"		"34594204901"
-					"download"		"23466104080"
+					"gid"		"3746303402539122500"
+					"size"		"34634520305"
+					"download"		"23497023648"
 				}
 			}
 			"encryptedmanifests"
@@ -235,9 +288,9 @@
 				}
 				"dev_daily"
 				{
-					"gid"		"24105BFF39EDDC2CE1A4A2903A472A57"
-					"size"		"1AC5559518E484C97F5B3F0BE7E393A9"
-					"download"		"414D6A732DF052D32A18FAAC43757896"
+					"gid"		"808FE8FB30E0B468C83AC6C6182DEDB1"
+					"size"		"1BBBFB7E9D18D0A5AAD3D66DDF64346D"
+					"download"		"9A37F1753F0A1FB3E4226BE2868BD95E"
 				}
 				"gmg_gamescom"
 				{
@@ -301,9 +354,9 @@
 				}
 				"qa_testing"
 				{
-					"gid"		"085B68BAC6CFE00185A08E69E1054BF9"
-					"size"		"2B652EFE649648497F8DE76DB77738FB"
-					"download"		"0254BE9AD072B23E294A5E77A6784845"
+					"gid"		"CEE3980A62B52B2E93A2E35A68D55E5E"
+					"size"		"C660752ECBF2F1B4B80BA7FA5D04D6CD"
+					"download"		"FACE8596DE85E300C352D194C8D95C9B"
 				}
 				"release_candidate"
 				{
@@ -316,6 +369,12 @@
 					"gid"		"3B28437A4424F4EFD000EBB3CFD7DA38"
 					"size"		"65A7E417676CB39ECAB294080BC6C251"
 					"download"		"6EF0E57C626193220181B8E7701A2F29"
+				}
+				"test_team1"
+				{
+					"gid"		"B024877991CDC7A6FCA407126A0A0220"
+					"size"		"867E5BB4C5964BAD675960573CC2CE22"
+					"download"		"0723F8E21E9520220A8ED8FA5F6A956D"
 				}
 				"update_testing"
 				{
@@ -338,8 +397,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12588462"
-				"timeupdated"		"1699034966"
+				"buildid"		"12674369"
+				"timeupdated"		"1699648087"
 			}
 			"art_review"
 			{
@@ -367,9 +426,9 @@
 			}
 			"dev_daily"
 			{
-				"buildid"		"12588462"
+				"buildid"		"12674369"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698832589"
+				"timeupdated"		"1699644558"
 			}
 			"gmg_gamescom"
 			{
@@ -433,9 +492,9 @@
 			}
 			"qa_testing"
 			{
-				"buildid"		"12588462"
+				"buildid"		"12674369"
 				"pwdrequired"		"1"
-				"timeupdated"		"1699005360"
+				"timeupdated"		"1699644572"
 			}
 			"release_candidate"
 			{
@@ -448,6 +507,12 @@
 				"buildid"		"12547545"
 				"pwdrequired"		"1"
 				"timeupdated"		"1698360905"
+			}
+			"test_team1"
+			{
+				"buildid"		"12467108"
+				"pwdrequired"		"1"
+				"timeupdated"		"1699279078"
 			}
 			"update_testing"
 			{
