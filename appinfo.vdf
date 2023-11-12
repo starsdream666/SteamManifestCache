@@ -1,0 +1,262 @@
+"appinfo"
+{
+	"appid"		"2405270"
+	"common"
+	{
+		"name"		"Project Asteroids"
+		"type"		"Game"
+		"icon"		"673dd6c54b12579c030a121eabd0c2294f418e80"
+		"clienticon"		"4dfa3f08086d8fa23d2c28fc53fd6315fc6ce57a"
+		"clienttga"		"94f36d51cf2126c8f83ad62620780e7bc4df0dc3"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1698105600"
+			"tested_build_id"		"12474074"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"47.84592332834172"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1697305621"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Aleksandr Serdiuk"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Aleksandr Serdiuk"
+			}
+		}
+		"primary_genre"		"29"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"29"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_20"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_22"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1690553485"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2405270"
+		"store_tags"
+		{
+			"0"		"1662"
+			"1"		"1702"
+			"2"		"3859"
+			"3"		"1695"
+			"4"		"128"
+			"5"		"1755"
+			"6"		"1663"
+			"7"		"19"
+			"8"		"4106"
+			"9"		"3834"
+			"10"		"1643"
+			"11"		"3839"
+			"12"		"16598"
+			"13"		"7332"
+			"14"		"493"
+			"15"		"21"
+			"16"		"3843"
+			"17"		"1775"
+			"18"		"492"
+			"19"		"4295"
+		}
+		"review_score"		"6"
+		"review_percentage"		"75"
+	}
+	"extended"
+	{
+		"developer"		"Aleksandr Serdiuk"
+		"publisher"		"Aleksandr Serdiuk"
+	}
+	"config"
+	{
+		"installdir"		"Project Asteroids"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ProjectAsteroids.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Default play"
+				}
+				"description"		"Default play"
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2405271"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7502163157859159005"
+					"size"		"1823154966"
+					"download"		"1355128416"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"prerelease"
+				{
+					"gid"		"6D202F879F0A6EB74259B386E36828E4"
+					"size"		"31E39FFB0DE8C931A0FCB448B25F6F91"
+					"download"		"445B698A388E60B6C904AA3D9342D01C"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12682105"
+				"timeupdated"		"1699783504"
+			}
+			"prerelease"
+			{
+				"buildid"		"12682105"
+				"pwdrequired"		"1"
+				"timeupdated"		"1699783523"
+			}
+		}
+	}
+}
