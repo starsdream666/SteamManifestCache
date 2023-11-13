@@ -1,0 +1,291 @@
+"appinfo"
+{
+	"appid"		"2262880"
+	"common"
+	{
+		"name"		"Heli-Cats"
+		"type"		"Game"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64,macosapplesilicon"
+		"icon"		"3b6db285b37af050380dcacc0385d71e2ee7d1d9"
+		"clienticns"		"7e604e5880ee81f9633de3e0b7d2305d54d2b1c7"
+		"clienticon"		"36b91376ae18ee117b09974e70a860467bb6f53b"
+		"clienttga"		"e81a6ea0486fa6c2e1782405dbb69ea45a9c3c31"
+		"releasestate"		"released"
+		"controllertagwizard"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"40.56603773584907"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1696739377"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"DrearyWeary"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"DrearyWeary"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_39"		"1"
+			"category_24"		"1"
+			"category_28"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_25"		"1"
+			"category_55"		"1"
+			"category_60"		"1"
+			"category_57"		"1"
+			"category_43"		"1"
+			"category_44"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1699873269"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2262880"
+		"store_tags"
+		{
+			"0"		"4255"
+			"1"		"19"
+			"2"		"3841"
+			"3"		"3964"
+			"4"		"3798"
+			"5"		"1773"
+			"6"		"3871"
+			"7"		"4168"
+			"8"		"5673"
+			"9"		"3916"
+			"10"		"5154"
+			"11"		"4004"
+			"12"		"492"
+			"13"		"6971"
+			"14"		"7481"
+			"15"		"3859"
+			"16"		"4182"
+			"17"		"1685"
+			"18"		"7368"
+			"19"		"7208"
+		}
+	}
+	"extended"
+	{
+		"absolutemousecoordinates"		"0"
+		"developer"		"DrearyWeary"
+		"publisher"		"DrearyWeary"
+		"homepage"		"https://www.drearyweary.com"
+	}
+	"config"
+	{
+		"installdir"		"Heli-Cats"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Heli-Cats.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Heli-Cats.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"15"
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"2262881"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2193725064773563539"
+					"size"		"108876320"
+					"download"		"70404064"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"demo"
+				{
+					"gid"		"676FFD9E38420FB4897F490ECB52EBB4"
+					"size"		"E2FB75CDC5CC86D5D454DFA533BE88AD"
+					"download"		"5EE06F94A88CB242BA531D8D24B696E7"
+				}
+				"internal"
+				{
+					"gid"		"BCF07F16315FA8879A987A169A5CC2CA"
+					"size"		"D0593C5A34E0B4126EECD28E85CDDCDD"
+					"download"		"4E082919249DA01874E0A6D1E13B9358"
+				}
+				"press"
+				{
+					"gid"		"3024F05885693182F9F54290C004B93D"
+					"size"		"C80A632C8B6C8FEDA7C370DE967DE3F0"
+					"download"		"9BCCD8649BAC856799BC11D370C83AAC"
+				}
+			}
+		}
+		"2262882"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5519264644135036225"
+					"size"		"165088498"
+					"download"		"83493872"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"demo"
+				{
+					"gid"		"108F938D8C716A98FC1A1B8CA55FDB0B"
+					"size"		"EF3D40B3F15BC9F93FB7D3E79CDC13BA"
+					"download"		"7CD9D65D54F17A02876D441C5D29B653"
+				}
+				"internal"
+				{
+					"gid"		"C689AD3AC6BCAC41AD2E11DA5CACD060"
+					"size"		"EB75969E7432F84E3983FCB3DE182F25"
+					"download"		"0B1FD17B0C7127FDE1EA567E40DA78A6"
+				}
+				"press"
+				{
+					"gid"		"C42ED82824FD9935A52901FA46089321"
+					"size"		"3004EABD59DA80E64ADEEA2402016531"
+					"download"		"4E54F55F49CEFA91134A9FC9D5273E1E"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12682185"
+				"timeupdated"		"1699780836"
+			}
+			"demo"
+			{
+				"buildid"		"12682285"
+				"pwdrequired"		"1"
+				"timeupdated"		"1699782625"
+			}
+			"internal"
+			{
+				"buildid"		"12682151"
+				"pwdrequired"		"1"
+				"timeupdated"		"1699780804"
+			}
+			"press"
+			{
+				"buildid"		"12682170"
+				"pwdrequired"		"1"
+				"timeupdated"		"1699780817"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"15000"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"DrearyWeary/heli-cats"
+				"pattern"		"*.dwx"
+				"recursive"		"1"
+			}
+			"1"
+			{
+				"root"		"gameinstall"
+				"path"		"DrearyWeary/heli-cats"
+				"pattern"		"*.cfg"
+				"recursive"		"1"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"os"		"Windows"
+				"oscompare"		"="
+				"useinstead"		"WinAppDataRoaming"
+				"addpath"		""
+			}
+			"1"
+			{
+				"root"		"gameinstall"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"addpath"		""
+			}
+		}
+	}
+}
