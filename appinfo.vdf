@@ -69,6 +69,7 @@
 			"category_24"		"1"
 			"category_22"		"1"
 			"category_23"		"1"
+			"category_44"		"1"
 		}
 		"supported_languages"
 		{
@@ -123,13 +124,13 @@
 		"gameid"		"1337520"
 		"store_tags"
 		{
-			"0"		"3859"
-			"1"		"3843"
-			"2"		"6730"
-			"3"		"42804"
+			"0"		"3843"
+			"1"		"3859"
+			"2"		"42804"
+			"3"		"6730"
 			"4"		"3841"
-			"5"		"353880"
-			"6"		"3871"
+			"5"		"3871"
+			"6"		"353880"
 			"7"		"3942"
 			"8"		"7481"
 			"9"		"19"
@@ -138,19 +139,19 @@
 			"12"		"4155"
 			"13"		"4236"
 			"14"		"4166"
-			"15"		"3993"
-			"16"		"4182"
-			"17"		"1685"
-			"18"		"1716"
+			"15"		"1716"
+			"16"		"3993"
+			"17"		"4182"
+			"18"		"1685"
 			"19"		"4840"
 		}
 		"review_score"		"8"
-		"review_percentage"		"90"
+		"review_percentage"		"83"
 	}
 	"extended"
 	{
 		"absolutemousecoordinates"		"0"
-		"remoteplaytogethertestingbranches"		"qa_production"
+		"remoteplaytogethertestingbranches"		"default,development,experimental,funhouse,funhouse2,press,qa_internal,qa_locqa,qa_production,qa_stable"
 		"developer"		"Hopoo Games"
 		"publisher"		"Gearbox Publishing"
 	}
@@ -180,18 +181,18 @@
 			{
 				"public"
 				{
-					"gid"		"4664246204522969567"
-					"size"		"521231949"
-					"download"		"397847728"
+					"gid"		"7660272631193066248"
+					"size"		"521248626"
+					"download"		"397858640"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"development"
 				{
-					"gid"		"07826B888EE083DAB376BCFAB9DE49B4"
-					"size"		"5BF0F5770FC40EFEA3E6ED8CA1754A32"
-					"download"		"8BE23FAEF64E8C00CFC3BFC362CA769D"
+					"gid"		"DD495F6DF10AB9C65B959D9B33EA26B5"
+					"size"		"466AC8491FF0060C5987BEFE239F0F6D"
+					"download"		"CAC64436D016201FFE2205D36CE18C48"
 				}
 				"experimental"
 				{
@@ -219,21 +220,21 @@
 				}
 				"qa_internal"
 				{
-					"gid"		"B5806BBB2FE120D99356D6E8A940980D"
-					"size"		"0FC496088C0E16F0B7D89C8B77D6DE1D"
-					"download"		"9C47BDBC66E9ADD7A33982D974F30DD5"
+					"gid"		"DF2108EE814CF8C371098BDE04B7769D"
+					"size"		"CD0032B0C5CB7026F8E2EEBAB58C7A5B"
+					"download"		"02A9C3B1C440104FB1C2E0DCD05FF919"
 				}
 				"qa_locqa"
 				{
-					"gid"		"E0020BCC686AEC615A31C966BEC3B3CE"
-					"size"		"DC21FEAB324461A73FFF89C822ACD9E5"
-					"download"		"DCC34FC7D09D15EAEE4AA2322D9A10E4"
+					"gid"		"A46FBAFF36B5E8D635914CD3BEF96FE7"
+					"size"		"57886375F6C2225E9CDB322658A6120C"
+					"download"		"DFE6999312C3E21F119DE28034213690"
 				}
 				"qa_production"
 				{
-					"gid"		"73CA8C5B468FCC96B41545C102CE1B59"
-					"size"		"48B8E31282A13EE599AADBCFE7AD36C4"
-					"download"		"EE3E87EE4EA8B6E7A04F5DF54399C133"
+					"gid"		"30BE13E386D693FECF2555623DBB3695"
+					"size"		"52374927FB419F91C1A18857A676AED5"
+					"download"		"CD93D4B349E1026D9AD540A71D93291D"
 				}
 				"qa_stable"
 				{
@@ -249,14 +250,14 @@
 		{
 			"public"
 			{
-				"buildid"		"12514793"
-				"timeupdated"		"1698364532"
+				"buildid"		"12659048"
+				"timeupdated"		"1699655335"
 			}
 			"development"
 			{
-				"buildid"		"12659254"
+				"buildid"		"12680109"
 				"pwdrequired"		"1"
-				"timeupdated"		"1699523777"
+				"timeupdated"		"1699735067"
 			}
 			"experimental"
 			{
@@ -284,21 +285,21 @@
 			}
 			"qa_internal"
 			{
-				"buildid"		"12656057"
+				"buildid"		"12659254"
 				"pwdrequired"		"1"
-				"timeupdated"		"1699494117"
+				"timeupdated"		"1699545171"
 			}
 			"qa_locqa"
 			{
-				"buildid"		"12656057"
+				"buildid"		"12659254"
 				"pwdrequired"		"1"
-				"timeupdated"		"1699494144"
+				"timeupdated"		"1699545190"
 			}
 			"qa_production"
 			{
-				"buildid"		"12656265"
+				"buildid"		"12659048"
 				"pwdrequired"		"1"
-				"timeupdated"		"1699516304"
+				"timeupdated"		"1699545160"
 			}
 			"qa_stable"
 			{
