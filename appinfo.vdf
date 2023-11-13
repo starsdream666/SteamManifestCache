@@ -41,8 +41,57 @@
 			"koreana"		"골프 픽스 - Golf Peaks"
 			"japanese"		"ゴルフ・ピークス - Golf Peaks"
 		}
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1698883200"
+			"tested_build_id"		"12543036"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
 		"metacritic_name"		"Golf Peaks"
-		"controller_support"		"partial"
+		"controllertagwizard"		"1"
+		"controller_support"		"full"
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
@@ -59,11 +108,11 @@
 			"logo_position"
 			{
 				"pinned_position"		"BottomLeft"
-				"width_pct"		"32.37986270022884"
-				"height_pct"		"51.36547138446925"
+				"width_pct"		"35.639466891148516"
+				"height_pct"		"61.62431726430777"
 			}
 		}
-		"store_asset_mtime"		"1683120619"
+		"store_asset_mtime"		"1699870702"
 		"associations"
 		{
 			"0"
@@ -94,8 +143,8 @@
 			"category_2"		"1"
 			"category_22"		"1"
 			"category_23"		"1"
-			"category_18"		"1"
 			"category_29"		"1"
+			"category_28"		"1"
 		}
 		"supported_languages"
 		{
@@ -281,24 +330,24 @@
 			{
 				"public"
 				{
-					"gid"		"8109697149237018610"
-					"size"		"116496354"
-					"download"		"47632112"
-				}
-				"test"
-				{
-					"gid"		"8109697149237018610"
-					"size"		"116496354"
-					"download"		"47632112"
+					"gid"		"5815959460395352326"
+					"size"		"123873834"
+					"download"		"51099264"
 				}
 			}
 			"encryptedmanifests"
 			{
+				"steamdeckreview"
+				{
+					"gid"		"EBF0EBB6CADA0FC9B63503253605267D"
+					"size"		"B77227E8DEC0B8801201B6FE5313E6C6"
+					"download"		"315B30B6966BD2E444CCBD85793912DF"
+				}
 				"testbranch"
 				{
-					"gid"		"0BE2CA3F9E12413CEC00213750773BC4"
-					"size"		"152881EA813B85F962A67DD656EAEA83"
-					"download"		"A1401B5C97FA42D004D95A47B490038C"
+					"gid"		"A2CC9425385907EE80A1EAB6F794C077"
+					"size"		"54D528E559060A958A7981A033532323"
+					"download"		"B5F34B4EE14DE61FDD5D44042333D99E"
 				}
 			}
 		}
@@ -312,24 +361,24 @@
 			{
 				"public"
 				{
-					"gid"		"1548410937340697993"
-					"size"		"175781583"
-					"download"		"61641600"
-				}
-				"test"
-				{
-					"gid"		"1548410937340697993"
-					"size"		"175781583"
-					"download"		"61641600"
+					"gid"		"1147224921109306484"
+					"size"		"211020342"
+					"download"		"68268288"
 				}
 			}
 			"encryptedmanifests"
 			{
+				"steamdeckreview"
+				{
+					"gid"		"10B8EDA64CBB15210FF7201178C1978A"
+					"size"		"71C05B0828D3602B45D98D699A60EB5F"
+					"download"		"B07F1BE30ADCDADFCECB3E248D0DB773"
+				}
 				"testbranch"
 				{
-					"gid"		"AEC3B58A6575B85639D6A823A2B2F746"
-					"size"		"422632ACB18F3CD217DC50CCCE9318E2"
-					"download"		"1D8AAD4294CCC61CD7BC11B195756D3F"
+					"gid"		"E00B2D7F741A287F69E98E331B56E5C1"
+					"size"		"C57C862C533AC889C18416F3CD481AE2"
+					"download"		"385D6E667436ABFECE3F1B5AC17599C5"
 				}
 			}
 		}
@@ -337,19 +386,20 @@
 		{
 			"public"
 			{
-				"buildid"		"4232463"
-				"timeupdated"		"1569516907"
+				"buildid"		"12661965"
+				"timeupdated"		"1699869814"
 			}
-			"test"
+			"steamdeckreview"
 			{
-				"buildid"		"4232463"
-				"timeupdated"		"1569516473"
+				"buildid"		"12661965"
+				"pwdrequired"		"1"
+				"timeupdated"		"1699869830"
 			}
 			"testbranch"
 			{
-				"buildid"		"11621507"
+				"buildid"		"12661965"
 				"pwdrequired"		"1"
-				"timeupdated"		"1688467192"
+				"timeupdated"		"1699542544"
 			}
 		}
 	}
@@ -362,22 +412,33 @@
 			"0"
 			{
 				"root"		"WinAppDataLocalLow"
-				"path"		"/Afterburn/Golf Peaks"
-				"pattern"		"*.es3"
-				"platforms"
-				{
-					"1"		"Windows"
-				}
+				"path"		"Afterburn/Golf Peaks"
+				"pattern"		"SaveData.ES3"
 			}
 			"1"
 			{
 				"root"		"MacAppSupport"
-				"path"		"/Afterburn/Golf Peaks"
-				"pattern"		"*.es3"
-				"platforms"
-				{
-					"1"		"MacOS"
-				}
+				"path"		"Afterburn/Golf Peaks"
+				"pattern"		"SaveData.ES3"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"addpath"		""
+			}
+			"1"
+			{
+				"root"		"MacAppSupport"
+				"os"		"Windows"
+				"oscompare"		"="
+				"useinstead"		"WinAppDataLocalLow"
+				"addpath"		""
 			}
 		}
 	}
