@@ -1,0 +1,203 @@
+"appinfo"
+{
+	"appid"		"2182630"
+	"common"
+	{
+		"name"		"Mob Factory"
+		"type"		"Game"
+		"clienttga"		"7fda762a1eab12a3b50fa0bbc0996352cad032c5"
+		"clienticon"		"d4589a085a80f27f1e4c4b304896c66953655f25"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"a271a12a9adbfb9a9cf98a7143e099f2e5d509b0"
+		"releasestate"		"released"
+		"name_localized"
+		{
+			"schinese"		"浮岛工厂 Mob Factory"
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn"
+			"library_hero"		"en"
+			"library_logo"		"en,zh-cn"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"38.6670548823285"
+				"height_pct"		"52.72632523285576"
+			}
+		}
+		"store_asset_mtime"		"1699413648"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"LiterallyEveryone Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"LiterallyEveryone Games"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"IndieArk"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"IndieArk"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"28"
+			"1"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1699563613"
+		"community_hub_visible"		"1"
+		"gameid"		"2182630"
+		"store_tags"
+		{
+			"0"		"255534"
+			"1"		"599"
+			"2"		"1645"
+			"3"		"8945"
+			"4"		"7332"
+			"5"		"1695"
+			"6"		"9"
+			"7"		"1702"
+			"8"		"3810"
+			"9"		"1684"
+			"10"		"1643"
+			"11"		"12472"
+			"12"		"1676"
+			"13"		"3871"
+			"14"		"4791"
+			"15"		"4182"
+			"16"		"3964"
+		}
+		"review_score"		"6"
+		"review_percentage"		"72"
+	}
+	"extended"
+	{
+		"developer"		"LiterallyEveryone Games"
+		"publisher"		"LiterallyEveryone Games"
+	}
+	"config"
+	{
+		"installdir"		"Mob Factory"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Mob Factory Windows/MobFarm.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,koreana,schinese,tchinese,japanese,latam"
+		"2182631"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1244412681486527095"
+					"size"		"216289869"
+					"download"		"54417840"
+				}
+				"beta"
+				{
+					"gid"		"1244412681486527095"
+					"size"		"216289869"
+					"download"		"54417840"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12684602"
+				"timeupdated"		"1699828245"
+			}
+			"beta"
+			{
+				"buildid"		"12684602"
+				"description"		"Beta branch (unstable)"
+				"timeupdated"		"1699827417"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000000"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"LiterallyEveryoneGames/MobFarm"
+				"pattern"		"savegame.dat"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
