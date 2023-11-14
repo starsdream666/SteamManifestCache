@@ -242,11 +242,16 @@
 			{
 				"executable"		"EndlessLegend.exe"
 				"arguments"		"-single-instance"
-				"description"		"Launch"
 				"config"
 				{
 					"oslist"		"windows"
+					"osarch"		"32"
 				}
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
 			}
 			"1"
 			{
@@ -257,6 +262,16 @@
 				"config"
 				{
 					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"EndlessLegend.cmd"
+				"arguments"		"-single-instance"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
 				}
 			}
 		}
@@ -391,9 +406,9 @@
 			{
 				"public"
 				{
-					"gid"		"2376726609200287465"
-					"size"		"5151954940"
-					"download"		"3170387360"
+					"gid"		"6354550935373175009"
+					"size"		"5151955005"
+					"download"		"3170387472"
 				}
 				"32-bit"
 				{
@@ -424,9 +439,9 @@
 				}
 				"test"
 				{
-					"gid"		"31FA735E9D4037FB66E6181AAAAD5763"
-					"size"		"4C77D9B89BB412AD8D074BA74716B67A"
-					"download"		"A8AC0CF29690E15D81FC25BCB3DB5E65"
+					"gid"		"A9100414B5801407F7FAE50822285F43"
+					"size"		"91E67F04C1E054C4BDA6471BFDC24DAA"
+					"download"		"D58F1614C6B6C1DE505714A84B9F9D4B"
 				}
 				"test32"
 				{
@@ -1067,8 +1082,8 @@
 		{
 			"public"
 			{
-				"buildid"		"7021068"
-				"timeupdated"		"1626167944"
+				"buildid"		"12542457"
+				"timeupdated"		"1699959543"
 			}
 			"32-bit"
 			{
@@ -1095,9 +1110,9 @@
 			}
 			"test"
 			{
-				"buildid"		"7021068"
+				"buildid"		"12542457"
 				"pwdrequired"		"1"
-				"timeupdated"		"1626167759"
+				"timeupdated"		"1698324161"
 			}
 			"test32"
 			{
