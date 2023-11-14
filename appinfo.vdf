@@ -16,10 +16,20 @@
 		"releasestate"		"released"
 		"name_localized"
 		{
-			"schinese"		"星座上升"
-			"tchinese"		"星座上升"
+			"schinese"		"星界战士"
+			"tchinese"		"星界戰士"
 			"japanese"		"アストラル アセント"
 			"koreana"		"애스트럴 어센트"
+		}
+		"languages"
+		{
+			"english"		"1"
+			"french"		"1"
+			"koreana"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
 		}
 		"steam_deck_compatibility"
 		{
@@ -64,6 +74,7 @@
 				"gamescope_frame_limiter_not_supported"		"0"
 			}
 		}
+		"controllertagwizard"		"1"
 		"controller_support"		"full"
 		"small_capsule"
 		{
@@ -85,7 +96,7 @@
 				"height_pct"		"62.53858940869152"
 			}
 		}
-		"store_asset_mtime"		"1693223883"
+		"store_asset_mtime"		"1699976427"
 		"associations"
 		{
 			"0"
@@ -101,6 +112,11 @@
 			"2"
 			{
 				"type"		"publisher"
+				"name"		"MP2 Games"
+			}
+			"3"
+			{
+				"type"		"publisher"
 				"name"		"Maple Whispering Limited"
 			}
 		}
@@ -110,7 +126,6 @@
 			"0"		"1"
 			"1"		"25"
 			"2"		"23"
-			"3"		"70"
 		}
 		"category"
 		{
@@ -121,6 +136,13 @@
 			"category_44"		"1"
 			"category_1"		"1"
 			"category_28"		"1"
+			"category_55"		"1"
+			"category_56"		"1"
+			"category_57"		"1"
+			"category_58"		"1"
+			"category_60"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
 		}
 		"supported_languages"
 		{
@@ -161,7 +183,7 @@
 				"subtitles"		"true"
 			}
 		}
-		"steam_release_date"		"1649775635"
+		"steam_release_date"		"1699977240"
 		"community_visible_stats"		"1"
 		"community_hub_visible"		"1"
 		"gameid"		"1280930"
@@ -189,7 +211,7 @@
 			"19"		"492"
 		}
 		"review_score"		"8"
-		"review_percentage"		"92"
+		"review_percentage"		"93"
 	}
 	"extended"
 	{
@@ -198,6 +220,8 @@
 		"developer"		"Hibernian Workshop"
 		"publisher"		"Hibernian Workshop"
 		"homepage"		"https://hibernian-workshop.com/"
+		"listofdlc"		"2633220"
+		"dlcavailableonstore"		"1"
 	}
 	"config"
 	{
@@ -236,27 +260,26 @@
 	}
 	"depots"
 	{
+		"hasdepotsindlc"		"1"
 		"1280931"
 		{
 			"config"
 			{
 				"oslist"		"windows"
-				"osarch"		"64"
-				"language"		""
 			}
 			"manifests"
 			{
 				"public"
 				{
-					"gid"		"3909565039760995903"
-					"size"		"992409188"
-					"download"		"728276272"
+					"gid"		"6913104552533411580"
+					"size"		"1114389784"
+					"download"		"810513088"
 				}
 				"beta.public"
 				{
-					"gid"		"3909565039760995903"
-					"size"		"992409188"
-					"download"		"728276272"
+					"gid"		"6913104552533411580"
+					"size"		"1114389784"
+					"download"		"810513088"
 				}
 				"coral.archipelago.backup"
 				{
@@ -269,27 +292,27 @@
 			{
 				"alpha"
 				{
-					"gid"		"702720F2954D68F3594FE115AAF53C82"
-					"size"		"3C133B5F79CC9B8ECA3E2396F40F763A"
-					"download"		"51745F1228870B69AC7AD875105E16D4"
+					"gid"		"1B46F5E2922534AE19DCE885080D8BC6"
+					"size"		"850AA60907683E151B72D6B1DC356656"
+					"download"		"0E64FC4D3C7ECB321A5DE88225A7A14B"
 				}
 				"beta.closed"
 				{
-					"gid"		"FAB96DB68E951D4499BCEF3C55ECD628"
-					"size"		"1A456974634F2A560DE278FA8E84C838"
-					"download"		"C1DF4371923835823F795B94F39A5C69"
+					"gid"		"F8672002E9C7F83D77471FEF89FAFC37"
+					"size"		"989AC313D25342D369687ABD0471E0A9"
+					"download"		"F904A4D3257AD114D3F4E83E85034F05"
 				}
 				"chowdren"
 				{
-					"gid"		"3F9BEE4D8A062FAB091772B8674011AD"
-					"size"		"AE885A25CED9B4F533F7C4C73F2ED45B"
-					"download"		"FBBD2DA08528D796CC9A69A0F8BCAED7"
+					"gid"		"3C7ADDD6D3D4FF5C4B15FA9758E0ABC5"
+					"size"		"4F18D9218F9EC6134F25010B33704866"
+					"download"		"6E458A5AF0AC71AA0116DB159F417FCA"
 				}
 				"medias"
 				{
-					"gid"		"A189D84D5258C44D8D51CC90963F1FBA"
-					"size"		"84C3D72C75112CF6E692D4392A89A6AE"
-					"download"		"8B3B7EA1B40F6C6FF790724B09D23123"
+					"gid"		"F3058C58EAFC481845F9EA60DC241D2E"
+					"size"		"138DBE50E6570B74CAA2FC9E7E8C444D"
+					"download"		"07FF3566A3AAB2543ADA98DF98763703"
 				}
 			}
 		}
@@ -298,22 +321,20 @@
 			"config"
 			{
 				"oslist"		"macos"
-				"osarch"		"64"
-				"language"		""
 			}
 			"manifests"
 			{
 				"public"
 				{
-					"gid"		"7219666835338112879"
-					"size"		"994887804"
-					"download"		"729079040"
+					"gid"		"6595224689712207400"
+					"size"		"1117758595"
+					"download"		"829708416"
 				}
 				"beta.public"
 				{
-					"gid"		"7219666835338112879"
-					"size"		"994887804"
-					"download"		"729079040"
+					"gid"		"6595224689712207400"
+					"size"		"1117758595"
+					"download"		"829708416"
 				}
 				"coral.archipelago.backup"
 				{
@@ -326,27 +347,27 @@
 			{
 				"alpha"
 				{
-					"gid"		"6865FD19BA98EFF0961C2A5CC8C08B98"
-					"size"		"9E7C9E35A045B8D18C05C972545C8909"
-					"download"		"B0BB04F112EC6993965A56EFCC359F30"
+					"gid"		"C9FF86370B97A023AA45F0997591FF4B"
+					"size"		"03C80E3D16A6FE2097A3876AC320BB18"
+					"download"		"2CC206211C608E9045C0AC0DE678921F"
 				}
 				"beta.closed"
 				{
-					"gid"		"BB0D5F41AD29D6CB6E9B49255CEBBE23"
-					"size"		"419DA94683EC8A39370B47A6C4F33BC2"
-					"download"		"BCD901B7BB49FA9096C18EFD86B6194F"
+					"gid"		"1371D4ACB51D871496BADFC3B6909A79"
+					"size"		"37F94C4164CD091D723BC071637F1173"
+					"download"		"18086A7D72DDE36104BF3D2AE84501E4"
 				}
 				"chowdren"
 				{
-					"gid"		"72CD28A71238B1FF5133B8ADFED4D2BA"
-					"size"		"567312002CE579296A5F994E2ED84209"
-					"download"		"19A78503BD106C2E3F6AE7924A635D39"
+					"gid"		"5F195C28348177DC7F8676A284C0333A"
+					"size"		"9F72482AA7C784B2059499C8C7ECDA11"
+					"download"		"9951E6583640477CBF7AE2A6406CA56D"
 				}
 				"medias"
 				{
-					"gid"		"07FF303DFEE9687AD7CF564B0C18F824"
-					"size"		"91604EA7DBFF3F2D167459CB8F696689"
-					"download"		"E22994138081E161815C437101037661"
+					"gid"		"38068617F5D83C48E18EAA99E3F8981D"
+					"size"		"DDEEF42FF0426BE3985FE05686541A7F"
+					"download"		"CA0686BEDB5F93993DA3D00C1CCF82B1"
 				}
 			}
 		}
@@ -355,22 +376,20 @@
 			"config"
 			{
 				"oslist"		"linux"
-				"osarch"		"64"
-				"language"		""
 			}
 			"manifests"
 			{
 				"public"
 				{
-					"gid"		"2060828648555284435"
-					"size"		"1230488193"
-					"download"		"748688480"
+					"gid"		"3280665552730429450"
+					"size"		"1295769881"
+					"download"		"849855056"
 				}
 				"beta.public"
 				{
-					"gid"		"2060828648555284435"
-					"size"		"1230488193"
-					"download"		"748688480"
+					"gid"		"3280665552730429450"
+					"size"		"1295769881"
+					"download"		"849855056"
 				}
 				"coral.archipelago.backup"
 				{
@@ -383,27 +402,27 @@
 			{
 				"alpha"
 				{
-					"gid"		"ABC1700D1681187E86B715A1810C2B44"
-					"size"		"0DE6380AE49AB973F5200474A760875B"
-					"download"		"C09B20A1BC39510BE3ECA8491F04A2F9"
+					"gid"		"26FE711CFFB544BDDBE500F6FED07851"
+					"size"		"CB062CEB4CBDB0A0E9F5FE64F4CBE0EF"
+					"download"		"EA102C4A1BF07AF6EB4525B29587336D"
 				}
 				"beta.closed"
 				{
-					"gid"		"16E2C8BC7760E4DDE14241C0F684112C"
-					"size"		"109105E1343878F297ECB9A167FB7A06"
-					"download"		"4D70BA9BBFB9D05C304F3186946E29D2"
+					"gid"		"FCE954FD4AB7FCB30BB570FB7F214A5D"
+					"size"		"B0B01A8DAEA9ED65B8731C180BFE3F43"
+					"download"		"E773808FB56D5D0983506AD99BCFCDE4"
 				}
 				"chowdren"
 				{
-					"gid"		"9185C471962F3EABC23557F5450C47F5"
-					"size"		"A0F9D4AA3376231F7DE88365A40B0ECA"
-					"download"		"B73B4D5A16E103583F98381DCA3DB0B0"
+					"gid"		"0FA4654E60F6D96FFE614B513AB27385"
+					"size"		"7380D9F765508573B651C0135915C0F6"
+					"download"		"94086EFAF3E3020DD8443216B4254992"
 				}
 				"medias"
 				{
-					"gid"		"6DC8BA626CA11AFCEEF7F116A606CBB0"
-					"size"		"64F79966AD344BBE3834E8F234A8A9E4"
-					"download"		"26C60CEFD429030C72B0F6C2D912BC70"
+					"gid"		"988C918B456A41B07539808CD7A9083E"
+					"size"		"EC44FCBEA1E665290AD35BE35D349BE6"
+					"download"		"3899BD50B926A51B13E3ED53B3AF5C65"
 				}
 			}
 		}
@@ -411,32 +430,32 @@
 		{
 			"public"
 			{
-				"buildid"		"12071604"
-				"timeupdated"		"1693494770"
+				"buildid"		"12699878"
+				"timeupdated"		"1699976642"
 			}
 			"alpha"
 			{
-				"buildid"		"11175758"
+				"buildid"		"12699878"
 				"pwdrequired"		"1"
-				"timeupdated"		"1683535316"
+				"timeupdated"		"1699976499"
 			}
 			"beta.closed"
 			{
-				"buildid"		"12071604"
+				"buildid"		"12699878"
 				"pwdrequired"		"1"
-				"timeupdated"		"1693494743"
+				"timeupdated"		"1699976507"
 			}
 			"beta.public"
 			{
-				"buildid"		"12071604"
+				"buildid"		"12699878"
 				"description"		"unstable versions"
-				"timeupdated"		"1693494751"
+				"timeupdated"		"1699976516"
 			}
 			"chowdren"
 			{
-				"buildid"		"12174222"
+				"buildid"		"12699878"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694571205"
+				"timeupdated"		"1699970398"
 			}
 			"coral.archipelago.backup"
 			{
@@ -446,9 +465,9 @@
 			}
 			"medias"
 			{
-				"buildid"		"12071604"
+				"buildid"		"12699878"
 				"pwdrequired"		"1"
-				"timeupdated"		"1693494761"
+				"timeupdated"		"1699976580"
 			}
 		}
 	}
