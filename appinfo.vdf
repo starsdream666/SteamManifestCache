@@ -41,6 +41,50 @@
 		}
 		"has_adult_content"		"1"
 		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1699920000"
+			"tested_build_id"		"12661877"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Ghostrunner 2"
 		"controllertagwizard"		"1"
 		"controller_support"		"partial"
 		"small_capsule"
@@ -71,7 +115,7 @@
 				"height_pct"		"56.385185185185136"
 			}
 		}
-		"store_asset_mtime"		"1698853070"
+		"store_asset_mtime"		"1699898915"
 		"associations"
 		{
 			"0"
@@ -94,6 +138,8 @@
 		"genres"
 		{
 			"0"		"1"
+			"1"		"25"
+			"2"		"2"
 		}
 		"category"
 		{
@@ -175,6 +221,8 @@
 			}
 		}
 		"steam_release_date"		"1698331994"
+		"metacritic_score"		"81"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/ghostrunner-2?ftag=MCD-06-10aaa1f"
 		"community_visible_stats"		"1"
 		"community_hub_visible"		"1"
 		"gameid"		"2144740"
@@ -182,24 +230,24 @@
 		{
 			"0"		"19"
 			"1"		"4115"
-			"2"		"1734"
-			"3"		"3839"
-			"4"		"4026"
-			"5"		"4182"
-			"6"		"4667"
-			"7"		"4608"
-			"8"		"4295"
-			"9"		"1646"
-			"10"		"3942"
-			"11"		"4106"
-			"12"		"3993"
-			"13"		"21"
-			"14"		"1743"
-			"15"		"3835"
-			"16"		"9"
-			"17"		"1774"
-			"18"		"198913"
-			"19"		"1688"
+			"2"		"1646"
+			"3"		"8666"
+			"4"		"4608"
+			"5"		"1734"
+			"6"		"3839"
+			"7"		"4026"
+			"8"		"11104"
+			"9"		"4667"
+			"10"		"1621"
+			"11"		"21"
+			"12"		"4106"
+			"13"		"3835"
+			"14"		"3993"
+			"15"		"198913"
+			"16"		"1688"
+			"17"		"4182"
+			"18"		"9"
+			"19"		"1743"
 		}
 		"review_score"		"8"
 		"review_percentage"		"89"
@@ -366,9 +414,9 @@
 			{
 				"public"
 				{
-					"gid"		"5715550822087990400"
-					"size"		"71260669869"
-					"download"		"28361962976"
+					"gid"		"5303334239530676451"
+					"size"		"71364989336"
+					"download"		"28364893456"
 				}
 			}
 			"encryptedmanifests"
@@ -381,9 +429,9 @@
 				}
 				"beta"
 				{
-					"gid"		"68D7F0C9AAA293A1CF06AE41245691CB"
-					"size"		"80ADD5B2817D02D663D32790211709B3"
-					"download"		"0CC8BB0D1604266DFD9349A67FE952C9"
+					"gid"		"093A887EDEEED719E1B667A3587B3708"
+					"size"		"58321A85CA0260D9A46543058FB99834"
+					"download"		"DD861BFA989688C16BFC483FF97FA2FA"
 				}
 				"beta_external"
 				{
@@ -405,9 +453,9 @@
 				}
 				"full_development"
 				{
-					"gid"		"EA1FD143DB98F858F67DF95F3BF95AD4"
-					"size"		"B652B10286E2CCFADCCF3134D52DFA32"
-					"download"		"413B35F7D173A68A07999BBC2B4A4B47"
+					"gid"		"012D4D18191CB8A50BE8F41BEB5FAE0F"
+					"size"		"B91F974C45F2BC2C089271F411D4B559"
+					"download"		"482FCF9DC6D118BD204090B12AD7192A"
 				}
 				"gfusion"
 				{
@@ -423,15 +471,15 @@
 				}
 				"gr2_razer"
 				{
-					"gid"		"5B16F957B1C93328265E3F09C44800BC"
-					"size"		"EDE2D35F7BB12A95EE68A5678B164187"
-					"download"		"2FD7E562A76CB721D60923AEE612876F"
+					"gid"		"75B4F8FE058E3EE2F199A9B08139C531"
+					"size"		"49B6F62DBF503F10E0DC8717CF025D5E"
+					"download"		"B2EA5D8BACF239BF6E77C03869439767"
 				}
 				"internal_tests"
 				{
-					"gid"		"72B9A00347E5507A09E8474B0F35A3C8"
-					"size"		"8CA6B3E7EF5722A4882346BC3DFA5477"
-					"download"		"263C0F596D515A6D8594D814B0EBEA0F"
+					"gid"		"9BB551C8B7E86416B3A6391887AB56CE"
+					"size"		"FBFC958F1A25EAF87CEE39912A6DF5EB"
+					"download"		"EC3CC64FF366DA209DFFEB2E7C872044"
 				}
 				"internal_tests2"
 				{
@@ -441,15 +489,15 @@
 				}
 				"internal_tests3"
 				{
-					"gid"		"329E6DC771071E33C8477002EAAE727E"
-					"size"		"F78018CC533B2DA29538C7C023AB74B6"
-					"download"		"D52504EB42403D3536448D678F3E406C"
+					"gid"		"68B26B1868C3C4626F2691878EA37C1C"
+					"size"		"0FB9369E01D309C8AEE8578354786998"
+					"download"		"7C918B09F8AED649D226B6977ECABB5F"
 				}
 				"lqa_shipping"
 				{
-					"gid"		"F5C8E0D4AAD0F894925555DE5AE47C07"
-					"size"		"E0A9C84269C8B8F4451047C8B63AAF7A"
-					"download"		"8061FE7BED40743EA96D67855AC5C1DD"
+					"gid"		"1B6757753BEA5D41D68A0DF53409F6A7"
+					"size"		"C40A22D482A81BBD1FDB596C223851E5"
+					"download"		"AAE4F078A4A17D641908EBB749F7246B"
 				}
 				"milestone"
 				{
@@ -489,9 +537,9 @@
 				}
 				"steam_deck_review"
 				{
-					"gid"		"B299627DFBA1DFC3031CC8EBFF9000A4"
-					"size"		"E11F853B0F7CCDDF2536F9CF4DE5894C"
-					"download"		"A022143394825907628833B6C65DC9EF"
+					"gid"		"AABD24FFDDEEB7CA250920F4426469A8"
+					"size"		"B8AFB32485285623CD117E2F18228E6E"
+					"download"		"8C6B2EE536F3D44E15DB34972A47C0B3"
 				}
 				"vertical_slice"
 				{
@@ -507,9 +555,9 @@
 				}
 				"zenith_shipping"
 				{
-					"gid"		"C8A86AB7AB214C87298892884FAE06B8"
-					"size"		"02A428F32A0E31F64F572936C1A11A6C"
-					"download"		"7D152CC2A2BAD61298C2902A5FB82A01"
+					"gid"		"9275C284F39A8ECC67E27082D619B98A"
+					"size"		"1ABF8C3BAAF31D2FAD869B0349B0AE52"
+					"download"		"FD9B9962D84A86CBE3E1E0DB81705F85"
 				}
 			}
 		}
@@ -517,8 +565,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12614633"
-				"timeupdated"		"1699036536"
+				"buildid"		"12666971"
+				"timeupdated"		"1699974846"
 			}
 			"alpha"
 			{
@@ -528,9 +576,9 @@
 			}
 			"beta"
 			{
-				"buildid"		"12580600"
+				"buildid"		"12697303"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698745288"
+				"timeupdated"		"1699952224"
 			}
 			"beta_external"
 			{
@@ -552,9 +600,9 @@
 			}
 			"full_development"
 			{
-				"buildid"		"12504734"
+				"buildid"		"12698962"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697983658"
+				"timeupdated"		"1699963984"
 			}
 			"gfusion"
 			{
@@ -570,15 +618,15 @@
 			}
 			"gr2_razer"
 			{
-				"buildid"		"12483307"
+				"buildid"		"12634423"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697724507"
+				"timeupdated"		"1699354452"
 			}
 			"internal_tests"
 			{
-				"buildid"		"12553929"
+				"buildid"		"12688902"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698412923"
+				"timeupdated"		"1699878190"
 			}
 			"internal_tests2"
 			{
@@ -588,15 +636,15 @@
 			}
 			"internal_tests3"
 			{
-				"buildid"		"12570374"
+				"buildid"		"12666971"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698660204"
+				"timeupdated"		"1699957172"
 			}
 			"lqa_shipping"
 			{
-				"buildid"		"12535106"
+				"buildid"		"12649835"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698275393"
+				"timeupdated"		"1699445107"
 			}
 			"milestone"
 			{
@@ -636,9 +684,9 @@
 			}
 			"steam_deck_review"
 			{
-				"buildid"		"12499964"
+				"buildid"		"12661877"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697882293"
+				"timeupdated"		"1699546860"
 			}
 			"vertical_slice"
 			{
@@ -654,9 +702,9 @@
 			}
 			"zenith_shipping"
 			{
-				"buildid"		"12541619"
+				"buildid"		"12691769"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698320589"
+				"timeupdated"		"1699897797"
 			}
 		}
 	}
