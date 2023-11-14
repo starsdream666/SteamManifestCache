@@ -154,7 +154,7 @@
 			"19"		"5900"
 		}
 		"review_score"		"6"
-		"review_percentage"		"79"
+		"review_percentage"		"78"
 	}
 	"extended"
 	{
@@ -185,9 +185,9 @@
 			{
 				"public"
 				{
-					"gid"		"5407187367928507988"
-					"size"		"25484256262"
-					"download"		"7596419248"
+					"gid"		"7016037583743909601"
+					"size"		"25480049574"
+					"download"		"7596151680"
 				}
 				"previousversion"
 				{
@@ -210,8 +210,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12585554"
-				"timeupdated"		"1698777914"
+				"buildid"		"12694596"
+				"timeupdated"		"1699924700"
 			}
 			"previousversion"
 			{
@@ -224,6 +224,60 @@
 				"buildid"		"12173681"
 				"pwdrequired"		"1"
 				"timeupdated"		"1694565289"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"EQ Studios/Scene Investigators/"
+				"pattern"		"SaveData.txt"
+				"recursive"		"1"
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"EQ Studios/Scene Investigators/"
+				"pattern"		"*.jpg"
+				"recursive"		"1"
+			}
+			"2"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"EQ Studios/Scene Investigators/"
+				"pattern"		"notepadData.txt"
+				"recursive"		"1"
+			}
+			"3"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"EQ Studios/Scene Investigators/"
+				"pattern"		"images.txt"
+				"recursive"		"1"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxHome"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"EQ Studios/Scene Investigators/"
+						"replace"		".steam/steam/steamapps/compatdata/1159830/pfx/drive_c/users/steamuser/AppData/LocalLow/EQ Studios/Scene Investigators"
+					}
+				}
 			}
 		}
 	}
