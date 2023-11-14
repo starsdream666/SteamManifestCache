@@ -29,8 +29,8 @@
 			"koreana"		"1"
 			"spanish"		"1"
 			"schinese"		"1"
+			"tchinese"		"1"
 			"russian"		"1"
-			"thai"		"1"
 			"japanese"		"1"
 			"polish"		"1"
 		}
@@ -126,7 +126,7 @@
 				"height_pct"		"95.13888888888889"
 			}
 		}
-		"store_asset_mtime"		"1670593209"
+		"store_asset_mtime"		"1697561059"
 		"associations"
 		{
 			"0"
@@ -247,15 +247,15 @@
 			"11"		"3987"
 			"12"		"4486"
 			"13"		"4754"
-			"14"		"1742"
+			"14"		"12472"
 			"15"		"1685"
-			"16"		"12472"
-			"17"		"6426"
-			"18"		"1643"
+			"16"		"1742"
+			"17"		"1643"
+			"18"		"6426"
 			"19"		"6971"
 		}
 		"review_score"		"8"
-		"review_percentage"		"81"
+		"review_percentage"		"80"
 	}
 	"extended"
 	{
@@ -279,7 +279,24 @@
 				{
 					"oslist"		"windows"
 					"osarch"		"64"
+					"ownsdlc"		"2681080"
 				}
+			}
+			"1"
+			{
+				"executable"		"Bin\\Win64\\Anno1800.exe"
+				"arguments"		"-upc_steam_free_package_id 63790 -uplay_steam_mode"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"ownsdlc"		"2681040"
+				}
+				"description_loc"
+				{
+					"english"		"Free Weekend"
+				}
+				"description"		"Free Weekend"
 			}
 		}
 	}
@@ -291,18 +308,18 @@
 			{
 				"public"
 				{
-					"gid"		"2341577571231509245"
-					"size"		"92778537029"
-					"download"		"42718185632"
+					"gid"		"1971639371932709300"
+					"size"		"93710115536"
+					"download"		"42989570304"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"devqa"
 				{
-					"gid"		"DCE3F39D0A91336315B8E958620FEF4B"
-					"size"		"18D04EE19A3D499558CF55D95D6332BF"
-					"download"		"F08BFDE9A18249317913EBF222D7BF31"
+					"gid"		"5F416F9F80836198C12CAFAD607C26ED"
+					"size"		"E5F5349FDBFFA0ADF48CD693F588FA58"
+					"download"		"09A362B6CA02E1358397D6AAF9A34B8C"
 				}
 			}
 		}
@@ -416,14 +433,14 @@
 		{
 			"public"
 			{
-				"buildid"		"11901885"
-				"timeupdated"		"1692709158"
+				"buildid"		"12433471"
+				"timeupdated"		"1699970337"
 			}
 			"devqa"
 			{
-				"buildid"		"11901885"
+				"buildid"		"12433471"
 				"pwdrequired"		"1"
-				"timeupdated"		"1691594047"
+				"timeupdated"		"1697202405"
 			}
 		}
 	}
