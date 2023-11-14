@@ -24,6 +24,49 @@
 			"japanese"		"マーセナリーズウィングス 偽りの不死鳥"
 			"schinese"		"佣兵之翼：伪之不死鸟"
 		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1699315200"
+			"tested_build_id"		"12479881"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
 		"controller_support"		"full"
 		"small_capsule"
 		{
@@ -132,6 +175,8 @@
 			"16"		"4182"
 			"17"		"1677"
 		}
+		"review_score"		"5"
+		"review_percentage"		"66"
 	}
 	"extended"
 	{
@@ -167,18 +212,24 @@
 			{
 				"public"
 				{
-					"gid"		"6760377621978674269"
-					"size"		"267484023"
-					"download"		"122991008"
+					"gid"		"5661998130689897065"
+					"size"		"272879783"
+					"download"		"124627760"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"___develop"
 				{
-					"gid"		"1EDF73F9DB3DE84BE41DF5FB5F96C0ED"
-					"size"		"D53FC20D334C5278E8E50643BF988A06"
-					"download"		"493C126C4979943A4004AC02E91D7B6B"
+					"gid"		"B795CDC46E682F35CB5D4564F823741F"
+					"size"		"67B8C26A6F7565AA844A29A7F9443C50"
+					"download"		"D5063740CAFB002B15B58EB89098D158"
+				}
+				"develop"
+				{
+					"gid"		"EDA931EC79B45ED6E84CDA268DF4C277"
+					"size"		"CE49F4ACC0E365FFC7D0B8D9D045A277"
+					"download"		"D5BF5C0A90CF515C592EEA816705D169"
 				}
 			}
 		}
@@ -186,14 +237,20 @@
 		{
 			"public"
 			{
-				"buildid"		"11483605"
-				"timeupdated"		"1686878442"
+				"buildid"		"12479881"
+				"timeupdated"		"1697704374"
 			}
 			"___develop"
 			{
-				"buildid"		"11476507"
+				"buildid"		"12479827"
 				"pwdrequired"		"1"
-				"timeupdated"		"1686822718"
+				"timeupdated"		"1697701367"
+			}
+			"develop"
+			{
+				"buildid"		"12479881"
+				"pwdrequired"		"1"
+				"timeupdated"		"1697703790"
 			}
 		}
 	}
