@@ -94,7 +94,7 @@
 				"height_pct"		"35.025000659647986"
 			}
 		}
-		"store_asset_mtime"		"1683563626"
+		"store_asset_mtime"		"1699987483"
 		"associations"
 		{
 			"0"
@@ -106,6 +106,11 @@
 			{
 				"type"		"publisher"
 				"name"		"Tuxedo Labs"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Saber Interactive"
 			}
 		}
 		"primary_genre"		"28"
@@ -131,6 +136,38 @@
 		"supported_languages"
 		{
 			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
 			{
 				"supported"		"true"
 			}
@@ -173,6 +210,8 @@
 		"developer"		"Tuxedo Labs"
 		"publisher"		"Tuxedo Labs"
 		"homepage"		"http://teardowngame.com"
+		"listofdlc"		"2657050,2657070,2657080"
+		"dlcavailableonstore"		"1"
 	}
 	"config"
 	{
@@ -201,25 +240,23 @@
 	}
 	"depots"
 	{
+		"workshopdepot"		"1167630"
+		"hasdepotsindlc"		"1"
 		"1167634"
 		{
-			"config"
-			{
-				"language"		""
-			}
 			"manifests"
 			{
 				"public"
 				{
-					"gid"		"4282929340218880996"
-					"size"		"3428450262"
-					"download"		"2988327520"
+					"gid"		"8571295180477342243"
+					"size"		"3626575442"
+					"download"		"2806925248"
 				}
 				"experimental"
 				{
-					"gid"		"4282929340218880996"
-					"size"		"3428450262"
-					"download"		"2988327520"
+					"gid"		"4307658481355495939"
+					"size"		"3627445548"
+					"download"		"2834393200"
 				}
 				"local"
 				{
@@ -254,11 +291,23 @@
 					"size"		"860FB9B41FFAF24FFBCB1BF0BABD8577"
 					"download"		"383AA6E174DEC492807DDB681B63F2D8"
 				}
+				"dlc-test"
+				{
+					"gid"		"09C5DD8BA7D55485CF5C98C2F1E51C82"
+					"size"		"A01DE7BD12F59270F91D39C23C744409"
+					"download"		"057BE955FCA62F3F2CA4865505CFF12F"
+				}
 				"hydra"
 				{
-					"gid"		"90165BF27B45B2F32C44828C169694D0"
-					"size"		"B1ED48ACF33CD84B25BEF075F43F602A"
-					"download"		"2555E7FED732DA4E8990E50DE05709ED"
+					"gid"		"EB8D80E98DE6ED31CA48C7F23F2801B6"
+					"size"		"FBCDC071BA291372BB4207EEC67E7CCB"
+					"download"		"A255E058DE3DF62D0A7D064AE62F45EF"
+				}
+				"press_branch"
+				{
+					"gid"		"DD37053123DB379EFE8277B4CAE753DD"
+					"size"		"0CF986BEA86BCDA74751DE2FBCF7F221"
+					"download"		"9D1208BC37386FCA7353B7697939B927"
 				}
 				"saber"
 				{
@@ -268,13 +317,12 @@
 				}
 			}
 		}
-		"workshopdepot"		"1167630"
 		"branches"
 		{
 			"public"
 			{
-				"buildid"		"11527952"
-				"timeupdated"		"1687776292"
+				"buildid"		"12701647"
+				"timeupdated"		"1700053384"
 			}
 			"alpha"
 			{
@@ -300,17 +348,23 @@
 				"pwdrequired"		"1"
 				"timeupdated"		"1603884941"
 			}
+			"dlc-test"
+			{
+				"buildid"		"12701647"
+				"pwdrequired"		"1"
+				"timeupdated"		"1699982474"
+			}
 			"experimental"
 			{
-				"buildid"		"11527952"
+				"buildid"		"12629877"
 				"description"		"The latest features and fixes"
-				"timeupdated"		"1687378042"
+				"timeupdated"		"1699278110"
 			}
 			"hydra"
 			{
-				"buildid"		"12051668"
+				"buildid"		"12592822"
 				"pwdrequired"		"1"
-				"timeupdated"		"1693244699"
+				"timeupdated"		"1698849437"
 			}
 			"local"
 			{
@@ -318,6 +372,12 @@
 				"description"		"Local Content Server"
 				"lcsrequired"		"1"
 				"timeupdated"		"1668769654"
+			}
+			"press_branch"
+			{
+				"buildid"		"12701647"
+				"pwdrequired"		"1"
+				"timeupdated"		"1699983217"
 			}
 			"saber"
 			{
