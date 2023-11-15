@@ -3,7 +3,7 @@
 	"appid"		"2142230"
 	"common"
 	{
-		"name"		"Mercenaries Saga -Will of the White Lions-"
+		"name"		"Mercenaries Saga 1 -Will of the White Lions-"
 		"type"		"Game"
 		"releasestate"		"released"
 		"oslist"		"windows"
@@ -22,6 +22,49 @@
 		{
 			"japanese"		"マーセナリーズサーガ1 はじまりの白き獅子"
 			"schinese"		"佣兵传说1 白狮序曲"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1698883200"
+			"tested_build_id"		"11231062"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
 		}
 		"small_capsule"
 		{
@@ -131,6 +174,8 @@
 			"16"		"4182"
 			"17"		"1677"
 		}
+		"review_score"		"7"
+		"review_percentage"		"100"
 	}
 	"extended"
 	{
@@ -166,18 +211,18 @@
 			{
 				"public"
 				{
-					"gid"		"1065796771538875409"
-					"size"		"336745320"
-					"download"		"158896080"
+					"gid"		"502587712564938838"
+					"size"		"336745208"
+					"download"		"158887552"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"___develop"
 				{
-					"gid"		"215EFE7066590A918C869B83297A33FB"
-					"size"		"33353A93F6F423C9A55580E6D4D0F0AA"
-					"download"		"BE3C87F981F43820521C80E11E822E6A"
+					"gid"		"483FCB2C085CCA4BDA202A2D511AA081"
+					"size"		"6370EFE3E2BE02C8045C53AA58B46CF2"
+					"download"		"25C25966438FB47E80E7D924CA58114A"
 				}
 				"test_release"
 				{
@@ -191,14 +236,14 @@
 		{
 			"public"
 			{
-				"buildid"		"11231062"
-				"timeupdated"		"1684116453"
+				"buildid"		"12685705"
+				"timeupdated"		"1700036364"
 			}
 			"___develop"
 			{
-				"buildid"		"11231064"
+				"buildid"		"12685705"
 				"pwdrequired"		"1"
-				"timeupdated"		"1684116399"
+				"timeupdated"		"1700010965"
 			}
 			"test_release"
 			{
