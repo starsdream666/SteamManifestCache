@@ -28,7 +28,7 @@
 			"tchinese"		"1"
 			"japanese"		"1"
 		}
-		"releasestatesteamchina"		"prerelease"
+		"releasestatesteamchina"		"released"
 		"content_descriptors"
 		{
 			"0"		"2"
@@ -111,7 +111,7 @@
 				"height_pct"		"57.4079061975221"
 			}
 		}
-		"store_asset_mtime"		"1695633780"
+		"store_asset_mtime"		"1699604521"
 		"associations"
 		{
 			"0"
@@ -163,7 +163,7 @@
 				"subtitles"		"true"
 			}
 		}
-		"steam_release_date"		"1686711077"
+		"steam_release_date"		"1686711060"
 		"community_visible_stats"		"1"
 		"community_hub_visible"		"1"
 		"gameid"		"1952370"
@@ -226,19 +226,53 @@
 	"depots"
 	{
 		"baselanguages"		"english,schinese,tchinese,japanese"
+		"branches"
+		{
+			"steam_china_only"
+			{
+				"sc_schinese"		"仅中国"
+				"buildid"		"12708576"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700044421"
+			}
+			"public"
+			{
+				"buildid"		"12708607"
+				"timeupdated"		"1700044607"
+			}
+			"beta_test_build"
+			{
+				"buildid"		"12304382"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695890531"
+			}
+			"steam_china_dev"
+			{
+				"buildid"		"12459777"
+				"pwdrequired"		"1"
+				"timeupdated"		"1697533093"
+			}
+			"testin"
+			{
+				"buildid"		"12707482"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700036792"
+			}
+		}
 		"1952371"
 		{
 			"config"
 			{
 				"oslist"		"windows"
+				"realm"		"steamglobal"
 			}
 			"manifests"
 			{
 				"public"
 				{
-					"gid"		"7134570426450299770"
-					"size"		"2683822407"
-					"download"		"2034777984"
+					"gid"		"1948034530844460874"
+					"size"		"2740116785"
+					"download"		"2081422272"
 				}
 			}
 			"encryptedmanifests"
@@ -249,36 +283,56 @@
 					"size"		"330EB40C4DCC23686A62B0318581FB92"
 					"download"		"89225315EAD798FA825C7E053CD32F2E"
 				}
+				"steam_china_dev"
+				{
+					"gid"		"AF3BECB91DB5359BACBD38622A37CA75"
+					"size"		"D650E008AFC7505D4767D951DB716FC9"
+					"download"		"38D5C76A9A6142EF9B17727866F9C6B2"
+				}
+				"steam_china_only"
+				{
+					"gid"		"DF11E4C2706EA4EA1E66580929B6BE21"
+					"size"		"44168F2BCA9E6DFB3753ED0C72DB5B39"
+					"download"		"565CEF78F62EF663ABC9F755E7E1E175"
+				}
 				"testin"
 				{
-					"gid"		"D55A16805FA56583258A943CEC8D7070"
-					"size"		"B13CD70BFF5EB0CD7D2E951111F2B82E"
-					"download"		"F0FD07D24948D3DB2DAC21B18E6772F5"
+					"gid"		"539AF41B96A2657990B6DB9D0D81852D"
+					"size"		"244499AA7EF047DD0F901C422F29A4C8"
+					"download"		"E41CDF259F6BEA9766DBC519ADE68623"
 				}
 			}
 		}
-		"branches"
+		"1952372"
 		{
-			"steam_china_only"
+			"config"
 			{
-				"sc_schinese"		"仅中国"
+				"oslist"		"windows"
+				"realm"		"steamchina"
 			}
-			"public"
+			"manifests"
 			{
-				"buildid"		"12304382"
-				"timeupdated"		"1695890551"
+				"public"
+				{
+					"gid"		"8727970564875859122"
+					"size"		"2756157425"
+					"download"		"2078042128"
+				}
 			}
-			"beta_test_build"
+			"encryptedmanifests"
 			{
-				"buildid"		"12304382"
-				"pwdrequired"		"1"
-				"timeupdated"		"1695890531"
-			}
-			"testin"
-			{
-				"buildid"		"12304382"
-				"pwdrequired"		"1"
-				"timeupdated"		"1695887980"
+				"steam_china_dev"
+				{
+					"gid"		"E04924EAF9677C2F92519E282025A5D6"
+					"size"		"EB9E8137755ED4B4D8DCA11A53970A52"
+					"download"		"9CF4D93E6B5FC2FA7230F510A210B27F"
+				}
+				"steam_china_only"
+				{
+					"gid"		"F5DCC45AFE9A952942EC7BE4ED9D1504"
+					"size"		"D2CF1402CA501E5C90DEDE49BCF04A47"
+					"download"		"C2CE38FF260B7173D544A39E9BD16E77"
+				}
 			}
 		}
 	}
