@@ -25,6 +25,7 @@
 			"tchinese"		"夜光"
 			"japanese"		"夜光"
 		}
+		"osextended"		"macos64,macosapplesilicon"
 		"content_descriptors"
 		{
 			"0"		"2"
@@ -96,7 +97,7 @@
 				"height_pct"		"46.42602707195441"
 			}
 		}
-		"store_asset_mtime"		"1681495589"
+		"store_asset_mtime"		"1700016169"
 		"associations"
 		{
 			"0"
@@ -145,6 +146,17 @@
 				"subtitles"		"true"
 			}
 			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
 			{
 				"supported"		"true"
 				"subtitles"		"true"
@@ -220,18 +232,18 @@
 			{
 				"public"
 				{
-					"gid"		"1551538066348932911"
-					"size"		"1532521598"
-					"download"		"565690176"
+					"gid"		"3034611669783141754"
+					"size"		"1856787761"
+					"download"		"965326976"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"test"
 				{
-					"gid"		"8E823F3A0237A6EB86CF49E749352F54"
-					"size"		"D55F8A8978AD9005F153B0C1769F9BF2"
-					"download"		"C82931488D15A19629FB2B8E78443287"
+					"gid"		"73C2E06EC9E27AF0CDA5FACF5DB0363A"
+					"size"		"724EBAD063D4BDC873F71D7269243650"
+					"download"		"FC50DB3797FB1DB0D0AD14D3A6DA274F"
 				}
 			}
 		}
@@ -240,23 +252,24 @@
 			"config"
 			{
 				"oslist"		"macos"
+				"osarch"		"64"
 			}
 			"manifests"
 			{
 				"public"
 				{
-					"gid"		"1715382922552918477"
-					"size"		"1536480436"
-					"download"		"568154912"
+					"gid"		"6429369813671545680"
+					"size"		"1908430575"
+					"download"		"977207264"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"test"
 				{
-					"gid"		"4B05AEB31CB9487307C6CACC95698DBF"
-					"size"		"23EEC6F66BABDB87E94522015066796E"
-					"download"		"F02A49556A6C400C27ED7222B4FD317F"
+					"gid"		"B6BC088A41ADCD2B0ED37682D3A8F213"
+					"size"		"CE7831F81D7E697BA521F5BB5B80A026"
+					"download"		"C09763985C2EC57ACF6D657676FE672E"
 				}
 			}
 		}
@@ -308,14 +321,14 @@
 		{
 			"public"
 			{
-				"buildid"		"4145144"
-				"timeupdated"		"1566985606"
+				"buildid"		"12705243"
+				"timeupdated"		"1700013275"
 			}
 			"test"
 			{
-				"buildid"		"12137597"
+				"buildid"		"12687061"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694136855"
+				"timeupdated"		"1699863765"
 			}
 		}
 	}
