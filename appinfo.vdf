@@ -33,25 +33,25 @@
 		"osextended"		"macos64,macosapplesilicon,macosnotarized"
 		"steam_deck_compatibility"
 		{
-			"category"		"2"
-			"test_timestamp"		"1658275200"
-			"tested_build_id"		"9102210"
+			"category"		"3"
+			"test_timestamp"		"1699920000"
+			"tested_build_id"		"12563603"
 			"tests"
 			{
 				"0"
 				{
-					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 				}
 				"1"
 				{
-					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
 				}
 				"2"
 				{
 					"display"		"4"
-					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
 				}
 				"3"
 				{
@@ -65,8 +65,8 @@
 				"requires_manual_keyboard_invoke"		"0"
 				"requires_non_controller_launcher_nav"		"0"
 				"primary_player_is_controller_slot_0"		"0"
-				"non_deck_display_glyphs"		"1"
-				"small_text"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
 				"requires_internet_for_setup"		"0"
 				"requires_internet_for_singleplayer"		"0"
 				"recommended_runtime"		"native"
@@ -562,6 +562,12 @@
 					"size"		"CC7735CA56710669695044449EF5002D"
 					"download"		"F7476D0908CDA473B337821ADE013E59"
 				}
+				"v4_testing"
+				{
+					"gid"		"741D952B4F4EC951E019160B61AF0D59"
+					"size"		"252E6629092468DA94DF58BBD814EAAF"
+					"download"		"870D6E7535536D9DBBB94FB0178FEF4D"
+				}
 				"zone5"
 				{
 					"gid"		"A895BE7BB432D86EF7A88EB4B9146C80"
@@ -605,6 +611,12 @@
 					"size"		"9B24C045720F2EC4AA8732AE8786E1A9"
 					"download"		"104E9938BF5F476AC782D29E33440CC2"
 				}
+				"v4_testing"
+				{
+					"gid"		"BE1E15938FAB1394D8FC713E8F4C744A"
+					"size"		"DE98D0E63B889ACA104E22C936F4C59F"
+					"download"		"3C7A8DECC25E4BB76AFA6FA39AB2F85D"
+				}
 				"zone5"
 				{
 					"gid"		"88AB9F0D98644AF6A12981D503A57E48"
@@ -647,6 +659,12 @@
 					"gid"		"66BAF498020EB8ED97F0A41E275A4747"
 					"size"		"BC0F4FDB50B78EDB86E709638E9507AC"
 					"download"		"20E5BE284E1BA2648E4721CBA0E79DDD"
+				}
+				"v4_testing"
+				{
+					"gid"		"492CDD1F15A4813C97168749B4A9E750"
+					"size"		"1FB142FD26EA53B706FC48AC7F37A0CE"
+					"download"		"8D6538FD6B9A36AC8CA97D27A3127AE4"
 				}
 				"zone5"
 				{
@@ -692,6 +710,12 @@
 					"size"		"117229BA8CAD0B4C60DE71421D17AE2A"
 					"download"		"117229BA8CAD0B4C60DE71421D17AE2A"
 				}
+				"v4_testing"
+				{
+					"gid"		"BD3A05F4D31E58C7C65A1872E25541CC"
+					"size"		"6790D4ECBAD3BC761D324BEC25B76FBB"
+					"download"		"6790D4ECBAD3BC761D324BEC25B76FBB"
+				}
 				"zone5"
 				{
 					"gid"		"1B5B8552F5123695C31942C8D224D829"
@@ -735,6 +759,12 @@
 					"gid"		"097A5BF9D578ADE5CFD34A8FBCEFB685"
 					"size"		"117229BA8CAD0B4C60DE71421D17AE2A"
 					"download"		"117229BA8CAD0B4C60DE71421D17AE2A"
+				}
+				"v4_testing"
+				{
+					"gid"		"809E46602E0248FB02F192A53BC9F13E"
+					"size"		"6790D4ECBAD3BC761D324BEC25B76FBB"
+					"download"		"6790D4ECBAD3BC761D324BEC25B76FBB"
 				}
 				"zone5"
 				{
@@ -780,6 +810,12 @@
 					"size"		"117229BA8CAD0B4C60DE71421D17AE2A"
 					"download"		"117229BA8CAD0B4C60DE71421D17AE2A"
 				}
+				"v4_testing"
+				{
+					"gid"		"7CF937FB913AF7E2C60B803AE943957B"
+					"size"		"6790D4ECBAD3BC761D324BEC25B76FBB"
+					"download"		"6790D4ECBAD3BC761D324BEC25B76FBB"
+				}
 				"zone5"
 				{
 					"gid"		"9F2A995B6E3DFF0BB8DEC92CA93BF1D4"
@@ -818,6 +854,12 @@
 					"gid"		"373BC1485037C8456D0DD2B17EFD35D7"
 					"size"		"E9751E1EC03DA199FE5392EA0B10E03B"
 					"download"		"A138E4DC7AC77B006A1DFE3251060C45"
+				}
+				"v4_testing"
+				{
+					"gid"		"CCBDC327F097B3A693AFE6D39EA863A8"
+					"size"		"6C40AA1F06DCBB1AE890A5DC8B896DC6"
+					"download"		"E939DEC3AE653A6346BB4690F488C3DB"
 				}
 				"zone5"
 				{
@@ -858,6 +900,12 @@
 					"gid"		"3249A46BEB5F4CC9F086DA2611616DB9"
 					"size"		"DC82D484BD4F0DF80A051B68E80686D7"
 					"download"		"89B908C36AADCA9D41F47650F2A8BB78"
+				}
+				"v4_testing"
+				{
+					"gid"		"40C77AF5C4AA7D2D54DDAFA9F4B2629B"
+					"size"		"9156584301C57CEAA407A7CA5F7EFD00"
+					"download"		"EE59C95A80DD8E3AE06CE9AA007FA448"
 				}
 				"zone5"
 				{
@@ -903,6 +951,12 @@
 					"size"		"745586E3A4DEA309BE07AC121E1E5D5B"
 					"download"		"88B0FA3D061EB8299AF63A75AC09D7A1"
 				}
+				"v4_testing"
+				{
+					"gid"		"E29777663F0807FF5ACEA0D897F65CE1"
+					"size"		"10CF44CE032B4563A12652B4E5548F18"
+					"download"		"E4965D999300F8DB69CAAB04DBD2B5F2"
+				}
 				"zone5"
 				{
 					"gid"		"F19B5309D932489EAD3C15699737A010"
@@ -947,6 +1001,12 @@
 					"size"		"3CEE6618FE9B7A1AB18DD984293A3FE9"
 					"download"		"F1A777C6CA3B3B89AB423ABD64A714F7"
 				}
+				"v4_testing"
+				{
+					"gid"		"65D14FE9F9486B01CBF185D9AC7F477A"
+					"size"		"BDB01F97AAE9F0A75736608B8238023D"
+					"download"		"9F3F9EA5F838B8B6D0D624863AB2EA23"
+				}
 			}
 		}
 		"554002"
@@ -985,6 +1045,12 @@
 					"size"		"1218432051849B32048B50B53E57C338"
 					"download"		"70B7F6912A48B2078D408EC1C9ED62DA"
 				}
+				"v4_testing"
+				{
+					"gid"		"19F1F9ED0EA338E8824F4EDB98377123"
+					"size"		"7F6230F89662B3D7318C65142EFA61F9"
+					"download"		"2530191B07E8EA1A82024D3DFC5BE7BA"
+				}
 			}
 		}
 		"247084"
@@ -997,18 +1063,18 @@
 			{
 				"public"
 				{
-					"gid"		"3488554739712412368"
-					"size"		"235766674"
-					"download"		"72115504"
+					"gid"		"845042445285665040"
+					"size"		"235777627"
+					"download"		"72212096"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"experimental_client"
 				{
-					"gid"		"30CE24F1EEBCB65F2B3C4782267C3D40"
-					"size"		"CAA3EF5A7727855C74FCBD6E059AD693"
-					"download"		"672967B7D2FFCB674612D9F7809EB8E4"
+					"gid"		"D46D9B1827EBAA13ACFD2BC110199D9A"
+					"size"		"B3B54796DA87349FB9ED79160F5D216F"
+					"download"		"5A6342ADC8AD3FB7401975D2D61A6A0F"
 				}
 				"mactesting"
 				{
@@ -1018,9 +1084,15 @@
 				}
 				"razorsedge"
 				{
-					"gid"		"91A9877604AFAC8DFD6B45564BFE7BC0"
-					"size"		"128D1D7D3C6B6014562DB82FB46E3D6C"
-					"download"		"FDDC498AAC6F33F0523FAFE81A67AA05"
+					"gid"		"762C30E2F9145ACD1834E6B27E1B0C7D"
+					"size"		"D7731D628526A4BC101F3915353BE593"
+					"download"		"04F52274C09F01D8B57177958A43BC28"
+				}
+				"v4_testing"
+				{
+					"gid"		"9B0A3B8067289F8828D49222B021D843"
+					"size"		"D5A8548DB8B8F110B1656D58D8EF6F67"
+					"download"		"FAA31F39D85C3A08F9A571AD6C887184"
 				}
 			}
 		}
@@ -1035,18 +1107,18 @@
 			{
 				"public"
 				{
-					"gid"		"7442826736025487414"
-					"size"		"266205121"
-					"download"		"87962240"
+					"gid"		"1206045201537588146"
+					"size"		"266249110"
+					"download"		"88200544"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"experimental_client"
 				{
-					"gid"		"D9B1F2EE2437A484FE1E0A7698CAB20E"
-					"size"		"38778D59E03CE92011D952036991EFE9"
-					"download"		"BBC8D92AEE1C66456EE0B92A68F6BF58"
+					"gid"		"FB461415E3D2D52817270E4368350825"
+					"size"		"275258985DAA7BF185348A11AD00487D"
+					"download"		"688B41D3338674459453CE63C71C4A99"
 				}
 				"mactesting"
 				{
@@ -1056,9 +1128,15 @@
 				}
 				"razorsedge"
 				{
-					"gid"		"C52592C612D94341201856FE575B9F4C"
-					"size"		"3E56CE700331008EE4653B2887B74B60"
-					"download"		"147E19D05DF409E6EA94E0725E67E4AC"
+					"gid"		"903A5C64F94D85D8D9BE2CA6066007CC"
+					"size"		"8B95AD83C4A96D2116E3694452480AC9"
+					"download"		"61E4F3C3A90C1DAEE256D06307C4745D"
+				}
+				"v4_testing"
+				{
+					"gid"		"56C4E5619E9F80A64EF8A0A53885687F"
+					"size"		"CFD8CE5AE0D0A142D6FD994FD3646DC6"
+					"download"		"A180B405497DE3F6C7358CAD9F6603B5"
 				}
 			}
 		}
@@ -1073,18 +1151,18 @@
 			{
 				"public"
 				{
-					"gid"		"3957702174113965717"
-					"size"		"71237892"
-					"download"		"39056464"
+					"gid"		"3237576505887945458"
+					"size"		"71239286"
+					"download"		"39061328"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"experimental_client"
 				{
-					"gid"		"3F3522D7C898202252888CC48877F8D7"
-					"size"		"19B110A0B2DBE9DBD284A1032509A5F6"
-					"download"		"9584E91259598FF39B9C4E2444634EF3"
+					"gid"		"6890821E4D26A7093EEC19F52B64678A"
+					"size"		"4A1CC956C124DC8B8E2D5F5F7E84FB9A"
+					"download"		"830C398132EBC49D1221780F4E1BD16D"
 				}
 				"mactesting"
 				{
@@ -1094,9 +1172,15 @@
 				}
 				"razorsedge"
 				{
-					"gid"		"8F7E7F4BDC347D417BC42BB663558D40"
-					"size"		"50A238F4872B2CEB4B9DCE2B80009C7E"
-					"download"		"8082BEB7BC8AD980AECA16D099DF6CAE"
+					"gid"		"00CF2F2F6627F78AFD048A19D3F3E20A"
+					"size"		"8550B626BB92FEB17A7D3E137AA7EED6"
+					"download"		"1F479E64B73304640A1D3B4F40C86C2C"
+				}
+				"v4_testing"
+				{
+					"gid"		"EFE7041499030883AD7D758FEF65DB94"
+					"size"		"B50E0B7AAA328D626F5CCFA7F2F9CA33"
+					"download"		"95380FCA0C7BAE9BB20105DA3D7AD18B"
 				}
 			}
 		}
@@ -1112,18 +1196,18 @@
 			{
 				"public"
 				{
-					"gid"		"2810255782783456531"
-					"size"		"84355713"
-					"download"		"52027328"
+					"gid"		"3575407032547324475"
+					"size"		"83988468"
+					"download"		"51952032"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"experimental_client"
 				{
-					"gid"		"2283562D66D1C094F3865A39C038B532"
-					"size"		"6B5DB35CCECEFA7CD4776BA5E0F77395"
-					"download"		"B97EAC15D4B21610FAC3A141EC546C88"
+					"gid"		"629F17061AD2134169A54B1DA62F7B2F"
+					"size"		"2CEF72EE98E0DEE54E38668B0B895FA3"
+					"download"		"9AF43E14350684FD9EC1CC2DD9E5F9D6"
 				}
 				"mactesting"
 				{
@@ -1133,9 +1217,15 @@
 				}
 				"razorsedge"
 				{
-					"gid"		"29ADC3A789781624233DEA9BD2EC1DA1"
-					"size"		"EAE0D79ADFB800BDF79B6705A390E748"
-					"download"		"3DF7E391E575F7DE506B3446F803A07C"
+					"gid"		"310DBF413C8AFD1889F63CD71C00A97F"
+					"size"		"02047091793B5AFE82C53979DFDA3981"
+					"download"		"8874630ED855FE4ADF7E908F6584ADB9"
+				}
+				"v4_testing"
+				{
+					"gid"		"12C13B2B80A7E617FF70715E06995465"
+					"size"		"F4CFCE12B9D253C20E5338E2D2D37907"
+					"download"		"A3738124D2FCB6220295612297129A6E"
 				}
 			}
 		}
@@ -1150,18 +1240,18 @@
 			{
 				"public"
 				{
-					"gid"		"8140648936310794393"
-					"size"		"107731045"
-					"download"		"44484624"
+					"gid"		"8699474925881294027"
+					"size"		"107732603"
+					"download"		"44491936"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"experimental_client"
 				{
-					"gid"		"BBAE75611274FCE197F951060712ADBC"
-					"size"		"C569987BFA6DCE5B94F8F4B1919100A2"
-					"download"		"3A170DABF78A7B60FB410CD8425254D4"
+					"gid"		"15FD056FD27323E28D917C832080433D"
+					"size"		"55AB73A951A4A271E8CCBFB5864CEADF"
+					"download"		"E9BA33BD9575D369AF276D908E3A5EE1"
 				}
 				"mactesting"
 				{
@@ -1174,6 +1264,12 @@
 					"gid"		"A37F6660B9ADB90E50DD3D2036F727E4"
 					"size"		"1C527DE1BE6C48A5877B846EB39CE298"
 					"download"		"2A49DFFA02548D2B5959838A4DBAC475"
+				}
+				"v4_testing"
+				{
+					"gid"		"054D329136201A41E8FE3D98E7D6A901"
+					"size"		"F7EE14AC1F35E0EE4C8A0CD72E55CB73"
+					"download"		"943B2224A1E1BB2F6A1ABC1EAB15D2EA"
 				}
 			}
 		}
@@ -1189,18 +1285,18 @@
 			{
 				"public"
 				{
-					"gid"		"4781678728817698108"
-					"size"		"120472041"
-					"download"		"57372400"
+					"gid"		"5097556165488698169"
+					"size"		"120477325"
+					"download"		"57386160"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"experimental_client"
 				{
-					"gid"		"FACB683C68DD2E5ADB4A6735CB241475"
-					"size"		"70AAD5F8C15FB19CEBDD24BA6CA6EA4D"
-					"download"		"63410ACE2081CD833F8B0185395B4ED0"
+					"gid"		"AEB9C808CEC659381A7AE2ADED2E24AF"
+					"size"		"2B57DDCD92DF1E281A0C225EE461A231"
+					"download"		"CA9059600C7755AD6489AA496405E9DD"
 				}
 				"razorsedge"
 				{
@@ -1208,20 +1304,26 @@
 					"size"		"286B852BA35FF05B3B169E7C5926EEF4"
 					"download"		"5AD05FF60765F1D53754CA5C10BA9C3D"
 				}
+				"v4_testing"
+				{
+					"gid"		"9C82BF9E6789CA1A7DD261578DC880B1"
+					"size"		"9790BB70AEAEDED2B69536D52FB684C9"
+					"download"		"49DF1863805875855DEE5FB957E6EAEA"
+				}
 			}
 		}
 		"branches"
 		{
 			"public"
 			{
-				"buildid"		"12467183"
-				"timeupdated"		"1697592312"
+				"buildid"		"12703508"
+				"timeupdated"		"1699996968"
 			}
 			"experimental_client"
 			{
-				"buildid"		"12466980"
+				"buildid"		"12703508"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697590239"
+				"timeupdated"		"1699996900"
 			}
 			"mactesting"
 			{
@@ -1231,9 +1333,15 @@
 			}
 			"razorsedge"
 			{
-				"buildid"		"12465235"
+				"buildid"		"12658222"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697573818"
+				"timeupdated"		"1699516195"
+			}
+			"v4_testing"
+			{
+				"buildid"		"12658222"
+				"pwdrequired"		"1"
+				"timeupdated"		"1699516185"
 			}
 			"zone5"
 			{
