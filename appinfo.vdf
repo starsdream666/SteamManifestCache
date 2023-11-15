@@ -35,6 +35,34 @@
 			"tchinese"		"方舟: 生存飛升"
 			"schinese"		"方舟: 生存飞升"
 		}
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1699315200"
+			"tested_build_id"		"12538639"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_UnsupportedAntiCheatConfiguration"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
 		"controllertagwizard"		"1"
 		"controller_support"		"full"
 		"small_capsule"
@@ -218,15 +246,15 @@
 			"3"		"21"
 			"4"		"19"
 			"5"		"1643"
-			"6"		"1702"
-			"7"		"3810"
-			"8"		"3859"
+			"6"		"3859"
+			"7"		"1702"
+			"8"		"3810"
 			"9"		"7332"
 			"10"		"4747"
 			"11"		"6276"
 			"12"		"1775"
-			"13"		"4182"
-			"14"		"6730"
+			"13"		"6730"
+			"14"		"4182"
 			"15"		"128"
 			"16"		"3942"
 			"17"		"1684"
@@ -325,18 +353,18 @@
 			{
 				"public"
 				{
-					"gid"		"8168469421031485844"
-					"size"		"85833050378"
-					"download"		"81673181328"
+					"gid"		"2510951603018404062"
+					"size"		"85832765706"
+					"download"		"81673048992"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"arktx"
 				{
-					"gid"		"70C36B1EF0A65CFCBED6684A8EF6AC38"
-					"size"		"7CF15174EE8E4772D2EF3596D1E4E102"
-					"download"		"E25F0850D079107B2087DF395A2CF829"
+					"gid"		"FBC1A9F86D536D36F82707724B0A1B16"
+					"size"		"EDE45F0EF76B28A25358F97BDCB63C52"
+					"download"		"E443BA8113DBB49128CEDD9F57E964E4"
 				}
 				"cachechecks"
 				{
@@ -346,15 +374,15 @@
 				}
 				"continuous"
 				{
-					"gid"		"40FBBB256B212AFA927C897868704A84"
-					"size"		"5837A7FBEDE8BE2446F250F51F700A36"
-					"download"		"7482E901F5D8CA7D39F29FB30A7AFF74"
+					"gid"		"5CD026F6FC1781F8A0947DE65FCA8AFD"
+					"size"		"120B240009C50AE4A0CAD7631013B78B"
+					"download"		"E169E323EFBF39915B2CF22BFFD04052"
 				}
 				"crossplay"
 				{
-					"gid"		"1DBFEBE0244EA164EE091CECC6C98CDF"
-					"size"		"B2580F0F3F48AF038668EE4DC396AD9C"
-					"download"		"097F123AD98F31B63A5B1E5523921C29"
+					"gid"		"9AB1323137166E1CB09CBE3A4D16FDB3"
+					"size"		"6A747A9B006649F9E84BFAAF7E152EF8"
+					"download"		"99C22E26F138305C0A9C702C283EDF00"
 				}
 				"epicark"
 				{
@@ -376,9 +404,9 @@
 				}
 				"hamoverdon"
 				{
-					"gid"		"B0518A132EE31683E7F1E5AE3B913B25"
-					"size"		"86638C97821254EF4311B56ED64A24E4"
-					"download"		"CAF257B41C64028216583A6486F611C4"
+					"gid"		"1D863F20B655AA15A3BD2A6C8EBD39F6"
+					"size"		"C9E147F54417CCF3542B18CC54FAEDDD"
+					"download"		"B8FE460244C439640C448CEFCC7A323E"
 				}
 				"intelark"
 				{
@@ -424,9 +452,9 @@
 				}
 				"qa_staging"
 				{
-					"gid"		"8D27914BDEC60DAF7DE368B1D175A3C9"
-					"size"		"B3E86995D4B480D3F6E14846E0691A42"
-					"download"		"80EB5AF731A732B9F3BAB9AE51DBAC9B"
+					"gid"		"3B0E07D2EC41ABA0D7DCC10ED1490A92"
+					"size"		"542178A8980C60A8D31F3EC80C21BB36"
+					"download"		"4B8F667C8F0690F06649F5CF333DB57A"
 				}
 				"rating_test"
 				{
@@ -436,21 +464,21 @@
 				}
 				"refeldest"
 				{
-					"gid"		"49C1C17154CEF6AAC2A9038F195684B2"
-					"size"		"5AF4D86EC4F4FA91918B7303B077F9DC"
-					"download"		"BAE4D8D01A8C5AD58E75673824B8FC70"
+					"gid"		"6350F55F3D6FBCE2CA934B92E9D0A7C3"
+					"size"		"C3DC3D457C7F58CB6DA0C8615BD530C5"
+					"download"		"5B0077110B974C4A9983B07B81FACB9E"
 				}
 				"spam"
 				{
-					"gid"		"FCE8E49E015763B4B165D3605738B6B1"
-					"size"		"2383251EFC2D2940BC56E4C76F01C6C7"
-					"download"		"0C6499BD4C2F75ADA302C4AEF894F0D2"
+					"gid"		"7F53E415F3FC77EB54B3C674399EB3DD"
+					"size"		"5FDF069C0141890C9B3490C1EDDB73FD"
+					"download"		"0E347AD2B89A0F83E8F56242A5456F87"
 				}
 				"testmaps"
 				{
-					"gid"		"BC1755E54846910F360DCE49EEFC9F7C"
-					"size"		"78F2EF75851CAF40E06E72A23EB37700"
-					"download"		"072F37676B003A50C47F125AAF1A1878"
+					"gid"		"D5C1AC72406621047B7B22A94087EF77"
+					"size"		"1BB1CE295256D598553362251DA9EDC8"
+					"download"		"93B88EF9F76949F79EFEEEF411FB168A"
 				}
 				"vector"
 				{
@@ -470,14 +498,14 @@
 		{
 			"public"
 			{
-				"buildid"		"12641785"
-				"timeupdated"		"1699393722"
+				"buildid"		"12704957"
+				"timeupdated"		"1700018496"
 			}
 			"arktx"
 			{
-				"buildid"		"12647299"
+				"buildid"		"12667100"
 				"pwdrequired"		"1"
-				"timeupdated"		"1699422764"
+				"timeupdated"		"1699586098"
 			}
 			"cachechecks"
 			{
@@ -487,15 +515,15 @@
 			}
 			"continuous"
 			{
-				"buildid"		"12443561"
+				"buildid"		"12692536"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697327953"
+				"timeupdated"		"1699904564"
 			}
 			"crossplay"
 			{
-				"buildid"		"12467572"
+				"buildid"		"12705205"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697596194"
+				"timeupdated"		"1700012850"
 			}
 			"epicark"
 			{
@@ -517,9 +545,9 @@
 			}
 			"hamoverdon"
 			{
-				"buildid"		"12440562"
+				"buildid"		"12647299"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697270763"
+				"timeupdated"		"1699495124"
 			}
 			"intelark"
 			{
@@ -565,9 +593,9 @@
 			}
 			"qa_staging"
 			{
-				"buildid"		"12641785"
+				"buildid"		"12704957"
 				"pwdrequired"		"1"
-				"timeupdated"		"1699373253"
+				"timeupdated"		"1700010789"
 			}
 			"rating_test"
 			{
@@ -577,21 +605,21 @@
 			}
 			"refeldest"
 			{
-				"buildid"		"12517616"
+				"buildid"		"12685678"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698123557"
+				"timeupdated"		"1699934958"
 			}
 			"spam"
 			{
-				"buildid"		"12539040"
+				"buildid"		"12656150"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698472448"
+				"timeupdated"		"1700020353"
 			}
 			"testmaps"
 			{
-				"buildid"		"12479274"
+				"buildid"		"12693433"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697695801"
+				"timeupdated"		"1700012382"
 			}
 			"vector"
 			{
