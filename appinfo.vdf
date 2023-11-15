@@ -3,7 +3,7 @@
 	"appid"		"1092630"
 	"common"
 	{
-		"name"		"Rogue Glitch"
+		"name"		"Rogue Glitch Ultra"
 		"type"		"Game"
 		"oslist"		"windows,macos"
 		"osarch"		""
@@ -14,6 +14,20 @@
 		"clienticon"		"766c849c18ce6e88c457fcce31c375b2523457ef"
 		"releasestate"		"released"
 		"osextended"		"macos64"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"polish"		"1"
+			"turkish"		"1"
+			"brazilian"		"1"
+			"ukrainian"		"1"
+		}
 		"steam_deck_compatibility"
 		{
 			"category"		"3"
@@ -58,6 +72,7 @@
 			}
 		}
 		"metacritic_name"		"Rogue Glitch"
+		"controllertagwizard"		"1"
 		"controller_support"		"full"
 		"small_capsule"
 		{
@@ -74,12 +89,12 @@
 			"library_logo"		"en"
 			"logo_position"
 			{
-				"pinned_position"		"CenterCenter"
-				"width_pct"		"48.949824970828445"
-				"height_pct"		"88.75379759472332"
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"37.879880432560796"
+				"height_pct"		"100"
 			}
 		}
-		"store_asset_mtime"		"1634147983"
+		"store_asset_mtime"		"1699986162"
 		"associations"
 		{
 			"0"
@@ -116,6 +131,10 @@
 			"category_28"		"1"
 			"category_44"		"1"
 			"category_22"		"1"
+			"category_55"		"1"
+			"category_56"		"1"
+			"category_57"		"1"
+			"category_58"		"1"
 		}
 		"supported_languages"
 		{
@@ -124,29 +143,83 @@
 				"supported"		"true"
 				"subtitles"		"true"
 			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
 		}
-		"steam_release_date"		"1615397762"
+		"steam_release_date"		"1615397760"
 		"community_visible_stats"		"1"
 		"community_hub_visible"		"1"
 		"gameid"		"1092630"
-		"exfgls"		"1"
 		"store_tags"
 		{
-			"0"		"492"
-			"1"		"19"
-			"2"		"42804"
-			"3"		"113"
-			"4"		"3843"
-			"5"		"1625"
-			"6"		"3959"
-			"7"		"3841"
-			"8"		"493"
-			"9"		"3871"
-			"10"		"3859"
-			"11"		"1716"
-			"12"		"5379"
-			"13"		"1685"
-			"14"		"7368"
+			"0"		"19"
+			"1"		"42804"
+			"2"		"3843"
+			"3"		"1625"
+			"4"		"3959"
+			"5"		"3841"
+			"6"		"3871"
+			"7"		"3859"
+			"8"		"1716"
+			"9"		"5379"
+			"10"		"1685"
+			"11"		"7368"
+			"12"		"3964"
+			"13"		"4305"
+			"14"		"4182"
+			"15"		"5350"
+			"16"		"4747"
+			"17"		"3993"
+			"18"		"7481"
+			"19"		"4840"
 		}
 		"review_score"		"8"
 		"review_percentage"		"93"
@@ -155,7 +228,6 @@
 	{
 		"developer"		"Lino Slahuschek"
 		"publisher"		"Rarebyte"
-		"isfreeapp"		"1"
 		"listofdlc"		"1567970"
 		"dlcavailableonstore"		"1"
 	}
@@ -208,6 +280,18 @@
 			{
 				"public"
 				{
+					"gid"		"5516890924591599061"
+					"size"		"175709717"
+					"download"		"81078208"
+				}
+				"beta"
+				{
+					"gid"		"5516890924591599061"
+					"size"		"175709717"
+					"download"		"81078208"
+				}
+				"legacy"
+				{
 					"gid"		"850341436511767566"
 					"size"		"171675332"
 					"download"		"80440496"
@@ -228,14 +312,95 @@
 					"size"		"218471072"
 					"download"		"92869184"
 				}
+				"beta"
+				{
+					"gid"		"6000362056051555669"
+					"size"		"218471072"
+					"download"		"92869184"
+				}
+				"legacy"
+				{
+					"gid"		"6000362056051555669"
+					"size"		"218471072"
+					"download"		"92869184"
+				}
+			}
+		}
+		"2698210"
+		{
+			"dlcappid"		"2698210"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2643590407652565786"
+					"size"		"295143084"
+					"download"		"141189232"
+				}
+				"beta"
+				{
+					"gid"		"2643590407652565786"
+					"size"		"295143084"
+					"download"		"141189232"
+				}
+				"legacy"
+				{
+					"gid"		"5326860992951307703"
+					"size"		"175709717"
+					"download"		"81092592"
+				}
+			}
+		}
+		"1092633"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6395671259384542841"
+					"size"		"295143084"
+					"download"		"141189296"
+				}
+				"beta"
+				{
+					"gid"		"6395671259384542841"
+					"size"		"295143084"
+					"download"		"141189296"
+				}
+				"legacy"
+				{
+					"gid"		"422153973482278019"
+					"size"		"175709717"
+					"download"		"81103136"
+				}
 			}
 		}
 		"branches"
 		{
 			"public"
 			{
-				"buildid"		"10059336"
-				"timeupdated"		"1669924604"
+				"buildid"		"12707655"
+				"timeupdated"		"1700047855"
+			}
+			"beta"
+			{
+				"buildid"		"12707655"
+				"description"		"Beta"
+				"timeupdated"		"1700038094"
+			}
+			"legacy"
+			{
+				"buildid"		"12708947"
+				"description"		"Rogue Glitch Legacy"
+				"timeupdated"		"1700046943"
 			}
 		}
 	}
@@ -253,6 +418,26 @@
 				"platforms"
 				{
 					"1"		"Windows"
+				}
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"LinosGames/RogueGlitch/."
+				"pattern"		"*.glitch"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"2"
+			{
+				"root"		"MacAppSupport"
+				"path"		"LinosGames/RogueGlitch/."
+				"pattern"		"*.glitch"
+				"platforms"
+				{
+					"1"		"MacOS"
 				}
 			}
 		}
