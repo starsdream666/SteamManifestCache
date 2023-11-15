@@ -10,6 +10,7 @@
 		{
 			"schinese"		"巴别十书：如何逃离二重迷宫"
 			"tchinese"		"巴別十書：如何逃離二重迷宮"
+			"japanese"		"バベル十書 -ドッペルゲンガー・ラビリンス-"
 		}
 		"oslist"		"windows,macos"
 		"osarch"		""
@@ -24,6 +25,7 @@
 			"english"		"1"
 			"schinese"		"1"
 			"tchinese"		"1"
+			"japanese"		"1"
 		}
 		"content_descriptors"
 		{
@@ -33,16 +35,20 @@
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
 		}
 		"header_image"
 		{
 			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+			"japanese"		"header_japanese.jpg"
 		}
 		"library_assets"
 		{
-			"library_capsule"		"en"
+			"library_capsule"		"en,zh-cn,ja"
 			"library_hero"		"en"
-			"library_logo"		"en"
+			"library_logo"		"en,zh-cn,ja"
 			"logo_position"
 			{
 				"pinned_position"		"BottomLeft"
@@ -50,7 +56,7 @@
 				"height_pct"		"100"
 			}
 		}
-		"store_asset_mtime"		"1690171870"
+		"store_asset_mtime"		"1699938025"
 		"associations"
 		{
 			"0"
@@ -88,6 +94,17 @@
 				"supported"		"true"
 				"subtitles"		"true"
 			}
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
 		}
 		"steam_release_date"		"1647222520"
 		"community_visible_stats"		"1"
@@ -105,11 +122,12 @@
 			"7"		"3871"
 			"8"		"5716"
 			"9"		"1684"
-			"10"		"492"
-			"11"		"6426"
+			"10"		"6426"
+			"11"		"492"
 			"12"		"1664"
 			"13"		"31579"
 			"14"		"4182"
+			"15"		"5577"
 		}
 		"review_score"		"8"
 		"review_percentage"		"93"
@@ -144,7 +162,7 @@
 	}
 	"depots"
 	{
-		"baselanguages"		"schinese"
+		"baselanguages"		"english,schinese,japanese"
 		"1900341"
 		{
 			"config"
@@ -155,18 +173,18 @@
 			{
 				"public"
 				{
-					"gid"		"5298443492989164157"
-					"size"		"992216349"
-					"download"		"911998128"
+					"gid"		"6759787458745325256"
+					"size"		"106673184"
+					"download"		"35024448"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"beta"
 				{
-					"gid"		"DD94C7C8DCBE21CD8701C7F76304A21E"
-					"size"		"9E68434B48817F8F756AFD10FB9E8F1E"
-					"download"		"7993AF18C2F68A75FFEEA34808A2E8DF"
+					"gid"		"01E20C40D2CBB6377B24A71383CE0498"
+					"size"		"BF479965DC0A6DA715416A4F46DDCBD3"
+					"download"		"6950C0E5AAAF8088A701CFEAE0BDE9A8"
 				}
 			}
 		}
@@ -181,18 +199,93 @@
 			{
 				"public"
 				{
-					"gid"		"6053271479687042772"
-					"size"		"1005293252"
-					"download"		"913293072"
+					"gid"		"6404374959904231408"
+					"size"		"1007080465"
+					"download"		"915035712"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"beta"
 				{
-					"gid"		"D191A77133985156ED99C1AB51FBC7D8"
-					"size"		"CF479BC40494DF67DD81777F00B43FD9"
-					"download"		"30B9F0F64BC71E9AADB99AA88D347A58"
+					"gid"		"828A99FFE962485CBB9B09AE592687D5"
+					"size"		"EFA8FB226D7100171F43B856B5E272BF"
+					"download"		"068B380DBE8440EB63888020C88B3CBA"
+				}
+			}
+		}
+		"1900343"
+		{
+			"config"
+			{
+				"language"		"schinese"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8274582161204347999"
+					"size"		"887330378"
+					"download"		"878526304"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"13466DCDC34E099248B2CF1D8A9A8DCD"
+					"size"		"732C68AC30F3BA2DE934C508053F5750"
+					"download"		"EFFCB2B41DDE53B653D5F5270F8A539C"
+				}
+			}
+		}
+		"1900344"
+		{
+			"config"
+			{
+				"language"		"japanese"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8615147374279403194"
+					"size"		"890413698"
+					"download"		"879423216"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"53DBC63C67F04437478963FA1A289ADB"
+					"size"		"BF73DDDE5388A518EEE20E282D037675"
+					"download"		"EE9E96F2D4A247012F8E76ECB9422BAE"
+				}
+			}
+		}
+		"1900345"
+		{
+			"config"
+			{
+				"language"		"english"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8962524720850668276"
+					"size"		"889973872"
+					"download"		"879325824"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"F6391D4EEED43BAE2C04554845A060B3"
+					"size"		"1500804705F82EB9D30319C8463073D7"
+					"download"		"4DDECBDB22AD2DC49008529AEAC00039"
 				}
 			}
 		}
@@ -200,14 +293,14 @@
 		{
 			"public"
 			{
-				"buildid"		"11839392"
-				"timeupdated"		"1690903339"
+				"buildid"		"12706132"
+				"timeupdated"		"1700044141"
 			}
 			"beta"
 			{
-				"buildid"		"11839392"
+				"buildid"		"12706132"
 				"pwdrequired"		"1"
-				"timeupdated"		"1690903279"
+				"timeupdated"		"1700022034"
 			}
 		}
 	}
