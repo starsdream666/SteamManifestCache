@@ -83,11 +83,11 @@
 			"logo_position"
 			{
 				"pinned_position"		"BottomLeft"
-				"width_pct"		"27.666081448965713"
-				"height_pct"		"47.033119196292965"
+				"width_pct"		"23.921730254646747"
+				"height_pct"		"80.55555555555556"
 			}
 		}
-		"store_asset_mtime"		"1694553705"
+		"store_asset_mtime"		"1699970703"
 		"associations"
 		{
 			"0"
@@ -98,7 +98,7 @@
 			"1"
 			{
 				"type"		"publisher"
-				"name"		"Jaspel"
+				"name"		"Different Tales"
 			}
 			"2"
 			{
@@ -107,7 +107,7 @@
 			}
 			"3"
 			{
-				"type"		"publisher"
+				"type"		"franchise"
 				"name"		"Different Tales"
 			}
 			"4"
@@ -115,13 +115,8 @@
 				"type"		"franchise"
 				"name"		"IndieArk"
 			}
-			"5"
-			{
-				"type"		"franchise"
-				"name"		"Different Tales"
-			}
 		}
-		"primary_genre"		"70"
+		"primary_genre"		"25"
 		"genres"
 		{
 			"0"		"25"
@@ -129,7 +124,6 @@
 			"2"		"23"
 			"3"		"3"
 			"4"		"2"
-			"5"		"70"
 		}
 		"category"
 		{
@@ -137,6 +131,7 @@
 			"category_23"		"1"
 			"category_28"		"1"
 			"category_30"		"1"
+			"category_22"		"1"
 		}
 		"supported_languages"
 		{
@@ -220,33 +215,44 @@
 				"supported"		"true"
 				"subtitles"		"true"
 			}
+			"ukrainian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"irish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
 		}
-		"steam_release_date"		"1660579080"
+		"steam_release_date"		"1699984609"
+		"community_visible_stats"		"1"
 		"workshop_visible"		"1"
 		"community_hub_visible"		"1"
 		"gameid"		"1970580"
 		"store_tags"
 		{
-			"0"		"1091588"
-			"1"		"6276"
-			"2"		"1677"
-			"3"		"4711"
-			"4"		"32322"
-			"5"		"122"
-			"6"		"1720"
-			"7"		"791774"
-			"8"		"1716"
-			"9"		"492"
-			"10"		"1741"
-			"11"		"5125"
+			"0"		"14139"
+			"1"		"7208"
+			"2"		"1091588"
+			"3"		"6276"
+			"4"		"1677"
+			"5"		"4711"
+			"6"		"32322"
+			"7"		"122"
+			"8"		"1720"
+			"9"		"1716"
+			"10"		"492"
+			"11"		"1741"
 			"12"		"3959"
-			"13"		"4325"
-			"14"		"9"
-			"15"		"1708"
-			"16"		"198631"
-			"17"		"3964"
-			"18"		"4182"
-			"19"		"493"
+			"13"		"5125"
+			"14"		"21"
+			"15"		"597"
+			"16"		"4325"
+			"17"		"9"
+			"18"		"1708"
+			"19"		"3964"
 		}
 		"review_score"		"8"
 		"review_percentage"		"90"
@@ -254,7 +260,7 @@
 	"extended"
 	{
 		"developer"		"Jaspel"
-		"publisher"		"Jaspel"
+		"publisher"		"Different Tales"
 	}
 	"config"
 	{
@@ -272,7 +278,7 @@
 			}
 			"1"
 			{
-				"executable"		"Contents\\MacOS\\Backpack Hero"
+				"executable"		"BackpackHero.app"
 				"type"		"default"
 				"config"
 				{
@@ -303,19 +309,25 @@
 			{
 				"public"
 				{
-					"gid"		"5323197912467172188"
-					"size"		"683027955"
-					"download"		"215706528"
+					"gid"		"6849580209440307146"
+					"size"		"527128298"
+					"download"		"150557136"
 				}
 				"testingbranch"
 				{
-					"gid"		"5323197912467172188"
-					"size"		"683027955"
-					"download"		"215706528"
+					"gid"		"6849580209440307146"
+					"size"		"527128298"
+					"download"		"150557136"
 				}
 			}
 			"encryptedmanifests"
 			{
+				"bphlaunchreview"
+				{
+					"gid"		"0112C266879B6CEB5C8DBDA84E1C3965"
+					"size"		"3CE9CDFD9EA3390A37B58B2FF0E2F79A"
+					"download"		"519FB2DAF56411479BC020D398B403CA"
+				}
 				"demo1"
 				{
 					"gid"		"55649B3A8CFF8F3A57DC6326FA1AEB87"
@@ -328,11 +340,23 @@
 					"size"		"DBBA7A64A1376076DF4608FF43669916"
 					"download"		"B2EEB76799A732348CE1B6815F926CE0"
 				}
+				"demotest"
+				{
+					"gid"		"E45090FDC4D42940918A0E4C40DB3DA3"
+					"size"		"DDB5FE5A6B1ED0972C25B66A78D1B230"
+					"download"		"B8A0CA29A75BC0950E2E431A1EE36E98"
+				}
+				"differenttales"
+				{
+					"gid"		"E7DEDCD45FD21B250A8AC064BF43095E"
+					"size"		"E34E4BBADFAED23A0B4B4818100B2E44"
+					"download"		"8CD3435B57AE5CDDCF9051FA733E3346"
+				}
 				"internal"
 				{
-					"gid"		"1B30278A1F635D670FF81B78469A6E4D"
-					"size"		"9AC607EF00E1D50775C021AC0249BA6C"
-					"download"		"CFF8E9DA137F0754AEA12789574D4EB5"
+					"gid"		"71233CE32AD638FFB2D554F008788BA4"
+					"size"		"55B13B804BF861E275C6D76E44C8DA10"
+					"download"		"C955D2A7B93FAC06DC72A0CE0E8A7340"
 				}
 				"modtesters"
 				{
@@ -342,15 +366,15 @@
 				}
 				"privatebranch"
 				{
-					"gid"		"284668632BA2E3A5890189D541DAC84D"
-					"size"		"5921E6C2C7D8C5239E858659D69AF644"
-					"download"		"3D41D44FFBF27B29941996CC22C131BC"
+					"gid"		"09B261EBC889FDC93B30DE789D45C06B"
+					"size"		"32B84ECF9C33FEDC0B16B3D444923EDD"
+					"download"		"5D3E6D7B001383377CDE1CE10114C541"
 				}
 				"storymodetesting"
 				{
-					"gid"		"600B388271B22A77BD0C1099B959C00F"
-					"size"		"7AF8BD694BEC102281B6917FF65DAF13"
-					"download"		"AFA2AC492A445FDD48F899D17F809EDF"
+					"gid"		"D1BFD3B660DE7471CC52EE60334D2924"
+					"size"		"1ECA527A8F4F9D39CB6892587A6F5226"
+					"download"		"51A81E6633F1EE06B811823EDC19990A"
 				}
 			}
 		}
@@ -364,19 +388,25 @@
 			{
 				"public"
 				{
-					"gid"		"2573624608972063927"
-					"size"		"1055039394"
-					"download"		"396605632"
+					"gid"		"8584040939804267009"
+					"size"		"561689102"
+					"download"		"159636528"
 				}
 				"testingbranch"
 				{
-					"gid"		"2573624608972063927"
-					"size"		"1055039394"
-					"download"		"396605632"
+					"gid"		"8584040939804267009"
+					"size"		"561689102"
+					"download"		"159636528"
 				}
 			}
 			"encryptedmanifests"
 			{
+				"bphlaunchreview"
+				{
+					"gid"		"C9857AD41E2CF41B5DC7498C8AC62261"
+					"size"		"EA3855F607F9CB420ED3AF650EE26D6F"
+					"download"		"B4D8C435B4A8179F3C0366268DB42EDF"
+				}
 				"demo1"
 				{
 					"gid"		"2C5488CED8DF3835772DC12D2AA0A65D"
@@ -389,11 +419,23 @@
 					"size"		"82A20CAEDBD98F699422DCB81D55945F"
 					"download"		"2D6FE236A35FBEB9C81E054BE0715DBD"
 				}
+				"demotest"
+				{
+					"gid"		"5ABEB460461A5F929AE6A2B50082589F"
+					"size"		"AA682D70F4C85D23CAB53A3E6B63F16C"
+					"download"		"D5C65A9115F5D0CF7D6A25A09DF45EE9"
+				}
+				"differenttales"
+				{
+					"gid"		"260B11FF28F01A95BD8555414285F656"
+					"size"		"A18A45743A4AB01AECC49DCE37C6DD22"
+					"download"		"44F56045E7499652CA89F4EBD4202273"
+				}
 				"internal"
 				{
-					"gid"		"999DA7B548B8835B3921D21349BB1313"
-					"size"		"67937C59EEBAD6171431179D1BD51907"
-					"download"		"29F9C2CA1F5F0E83982CF6D8A07DEB69"
+					"gid"		"BC346DC3D4E5D8BCDDEA73B95539B600"
+					"size"		"90CA05094A88137E354B0FCA90512024"
+					"download"		"881E7F9B777C0D5D9E4F6325AAB511C6"
 				}
 				"modtesters"
 				{
@@ -403,15 +445,15 @@
 				}
 				"privatebranch"
 				{
-					"gid"		"DD486AFE36E3F98738F9EA5EE00A641D"
-					"size"		"4BB95F9879DA8687450CD8CFEB93543A"
-					"download"		"C7F97F8E31D623EF66E8D3DF0A7B099E"
+					"gid"		"89E40E3225874CCEC86A057F5AAD7122"
+					"size"		"12CFD1D7C03BE78C89AECE0639C8ECF2"
+					"download"		"DC737A52A090AB05B22A2F27902EF49E"
 				}
 				"storymodetesting"
 				{
-					"gid"		"4FB96E5C43C34352856CCE083EA1A463"
-					"size"		"CB4A099FAE3A604ADE6D95D2D7D51159"
-					"download"		"FA3698190E13E7923DC967CE761E4C02"
+					"gid"		"DED8BD734B5016BC954BC2748894B96E"
+					"size"		"B689F9E0191AC8A7C5E1CD9D0B38704C"
+					"download"		"747A27AC82258FB828D3CDEE63150481"
 				}
 			}
 		}
@@ -425,19 +467,25 @@
 			{
 				"public"
 				{
-					"gid"		"8293818291192401274"
-					"size"		"685258538"
-					"download"		"215090928"
+					"gid"		"6887335299779719015"
+					"size"		"521953808"
+					"download"		"147108240"
 				}
 				"testingbranch"
 				{
-					"gid"		"8293818291192401274"
-					"size"		"685258538"
-					"download"		"215090928"
+					"gid"		"6887335299779719015"
+					"size"		"521953808"
+					"download"		"147108240"
 				}
 			}
 			"encryptedmanifests"
 			{
+				"bphlaunchreview"
+				{
+					"gid"		"073449823ACEFB1CDA3D86EA672B095C"
+					"size"		"623BD1EBEC7676286978C112A0A1F3D4"
+					"download"		"1EB32DD3D5912BA408FF793661958BA2"
+				}
 				"demo1"
 				{
 					"gid"		"0625A3687188FA3428FB3709E059A9E3"
@@ -450,11 +498,23 @@
 					"size"		"28019035410959A63B72C5BC3E143679"
 					"download"		"8F6D2777BBF8C82A8FAA9197D0696BEC"
 				}
+				"demotest"
+				{
+					"gid"		"B627823CB32AFEDAE938DDE96E8A6EE3"
+					"size"		"1B9FFE7D469D837B6F00A1BF88657C3F"
+					"download"		"9E52A690EFB50D3E3EB1F0DE3D7E4C41"
+				}
+				"differenttales"
+				{
+					"gid"		"B380C02BB7DC7F2F28DAD65F8412219B"
+					"size"		"5AE82D6EEC499714B78EF6D6C27AFB86"
+					"download"		"5E1F20C7FDD1CE78106ACFA7600284B7"
+				}
 				"internal"
 				{
-					"gid"		"998B0584A0545BEB0D335DF606C18296"
-					"size"		"5B082E4E9FA22F6065C39C569E10B208"
-					"download"		"5E25B0613B50A9FABD77F7EAFA601415"
+					"gid"		"3E96FF6060ED524C3BD821732492808C"
+					"size"		"E0D4C61E6B7181FECD115E04FB9489ED"
+					"download"		"2AE88C0CA4A772A3267BF802A985CEA4"
 				}
 				"modtesters"
 				{
@@ -464,15 +524,15 @@
 				}
 				"privatebranch"
 				{
-					"gid"		"37367825C794D689D01BFCF8130A5DFB"
-					"size"		"67D473A84B7CE036FBD9B2114FB9DA69"
-					"download"		"449942CAACBD2C6F1171BBCA284CE169"
+					"gid"		"8422C1C1C8FCC6614414C11643EF396C"
+					"size"		"101E5EDC418564C3A7B5F53A42CCBD2D"
+					"download"		"DE03C770FB254E1A4D4A81176CC5010B"
 				}
 				"storymodetesting"
 				{
-					"gid"		"8E451744271DDCA5B968008D475F8E12"
-					"size"		"9AF13BB88D39A81A0E67792396950949"
-					"download"		"07663B81A7DC6600D3139BA4431607DD"
+					"gid"		"8C495EF045B172F090F02ED223569C72"
+					"size"		"C9CD17D89EBF8919A2081F251EC5E6DE"
+					"download"		"453A8D7356E69CEE0DDBC012FB165218"
 				}
 			}
 		}
@@ -481,8 +541,14 @@
 		{
 			"public"
 			{
-				"buildid"		"12202611"
-				"timeupdated"		"1694883474"
+				"buildid"		"12695213"
+				"timeupdated"		"1699983607"
+			}
+			"bphlaunchreview"
+			{
+				"buildid"		"12695213"
+				"pwdrequired"		"1"
+				"timeupdated"		"1699930367"
 			}
 			"demo1"
 			{
@@ -496,11 +562,23 @@
 				"pwdrequired"		"1"
 				"timeupdated"		"1692977127"
 			}
+			"demotest"
+			{
+				"buildid"		"12701721"
+				"pwdrequired"		"1"
+				"timeupdated"		"1699982997"
+			}
+			"differenttales"
+			{
+				"buildid"		"12248839"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695316141"
+			}
 			"internal"
 			{
-				"buildid"		"12182324"
+				"buildid"		"12695213"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694640887"
+				"timeupdated"		"1699983013"
 			}
 			"modtesters"
 			{
@@ -510,21 +588,21 @@
 			}
 			"privatebranch"
 			{
-				"buildid"		"12202611"
+				"buildid"		"12695213"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694810329"
+				"timeupdated"		"1699930377"
 			}
 			"storymodetesting"
 			{
-				"buildid"		"11798581"
+				"buildid"		"12695213"
 				"pwdrequired"		"1"
-				"timeupdated"		"1692977357"
+				"timeupdated"		"1699983567"
 			}
 			"testingbranch"
 			{
-				"buildid"		"12202611"
+				"buildid"		"12695213"
 				"description"		"Testing Branch"
-				"timeupdated"		"1694810359"
+				"timeupdated"		"1699983577"
 			}
 		}
 	}
