@@ -44,6 +44,54 @@
 		"has_adult_content"		"1"
 		"has_adult_content_sex"		"1"
 		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1698364800"
+			"tested_build_id"		"12459477"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"1"
+			}
+		}
 		"controllertagwizard"		"1"
 		"controller_support"		"full"
 		"small_capsule"
@@ -66,7 +114,7 @@
 				"height_pct"		"100"
 			}
 		}
-		"store_asset_mtime"		"1688561199"
+		"store_asset_mtime"		"1698734908"
 		"associations"
 		{
 			"0"
@@ -142,15 +190,15 @@
 		{
 			"0"		"19"
 			"1"		"21"
-			"2"		"4106"
-			"3"		"1687"
+			"2"		"1687"
+			"3"		"4106"
 			"4"		"3814"
 			"5"		"3834"
-			"6"		"1742"
-			"7"		"4145"
-			"8"		"4191"
-			"9"		"4791"
-			"10"		"4168"
+			"6"		"4145"
+			"7"		"4191"
+			"8"		"1742"
+			"9"		"4168"
+			"10"		"4791"
 			"11"		"1708"
 			"12"		"5984"
 			"13"		"4182"
@@ -161,7 +209,7 @@
 			"18"		"1693"
 		}
 		"review_score"		"5"
-		"review_percentage"		"54"
+		"review_percentage"		"57"
 	}
 	"extended"
 	{
@@ -236,9 +284,9 @@
 			{
 				"public"
 				{
-					"gid"		"3501856502384680747"
-					"size"		"8684419708"
-					"download"		"5811210144"
+					"gid"		"3859455577254192403"
+					"size"		"8684415614"
+					"download"		"5811207904"
 				}
 			}
 			"encryptedmanifests"
@@ -251,9 +299,9 @@
 				}
 				"staging"
 				{
-					"gid"		"48BA27E38C96ED973D12D23EEB4BA933"
-					"size"		"5D78102786FB59C84271C9768713417C"
-					"download"		"C1287763C00CD76789AF1C89200C25F7"
+					"gid"		"98D2F8249716F9DEAE5E74CDC3BA851D"
+					"size"		"C1DD966C1B4825551219668DBCBCF3BC"
+					"download"		"AE60D71339010084776C975C09C30D3B"
 				}
 			}
 		}
@@ -267,9 +315,9 @@
 			{
 				"public"
 				{
-					"gid"		"287415917056692241"
-					"size"		"4615966946"
-					"download"		"3293656432"
+					"gid"		"1798087394669341208"
+					"size"		"4615962850"
+					"download"		"3293652048"
 				}
 			}
 			"encryptedmanifests"
@@ -282,9 +330,9 @@
 				}
 				"staging"
 				{
-					"gid"		"7B80EC97B155D24F5DB9529848318AE8"
-					"size"		"83BD8619C07D009744C0517BDDA6F8EB"
-					"download"		"5FF913BF869E108067F38FA8A1E7281C"
+					"gid"		"0A38786EA4E7B49B13AFF5DEF1E635EF"
+					"size"		"708711EC5BE3C66A433A90D705F5F376"
+					"download"		"EC87C7095D221F6AFC95DF9953DFB60A"
 				}
 			}
 		}
@@ -298,9 +346,9 @@
 			{
 				"public"
 				{
-					"gid"		"8101599744684691010"
-					"size"		"3153021038"
-					"download"		"2400708784"
+					"gid"		"2967604556605022260"
+					"size"		"3153016943"
+					"download"		"2400703808"
 				}
 			}
 			"encryptedmanifests"
@@ -313,9 +361,9 @@
 				}
 				"staging"
 				{
-					"gid"		"983FB39CC699A6DEC23D03D435FC8729"
-					"size"		"DB23E769AFD87199E1D7BB37CC3DB162"
-					"download"		"4A8EDA11BBDBB58DAE9E4F90B44B0F13"
+					"gid"		"2001794BAFED19D3A374BA590304DDF1"
+					"size"		"0E8EBBB166A9F60786435DA1952454AB"
+					"download"		"A88F0B5E96F07CC48E1152F855A42354"
 				}
 			}
 		}
@@ -380,8 +428,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12579763"
-				"timeupdated"		"1698833304"
+				"buildid"		"12659763"
+				"timeupdated"		"1699952223"
 			}
 			"beta"
 			{
@@ -391,9 +439,9 @@
 			}
 			"staging"
 			{
-				"buildid"		"12579763"
+				"buildid"		"12659763"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698739085"
+				"timeupdated"		"1699527405"
 			}
 		}
 	}
