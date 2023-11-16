@@ -97,7 +97,7 @@
 				"height_pct"		"70.74329137971979"
 			}
 		}
-		"store_asset_mtime"		"1649427665"
+		"store_asset_mtime"		"1699356408"
 		"associations"
 		{
 			"0"
@@ -127,6 +127,8 @@
 			"category_2"		"1"
 			"category_28"		"1"
 			"category_22"		"1"
+			"category_13"		"1"
+			"category_23"		"1"
 		}
 		"supported_languages"
 		{
@@ -200,8 +202,8 @@
 			"2"		"5900"
 			"3"		"4486"
 			"4"		"7208"
-			"5"		"7743"
-			"6"		"97376"
+			"5"		"97376"
+			"6"		"7743"
 			"7"		"1695"
 			"8"		"6971"
 			"9"		"6426"
@@ -210,8 +212,8 @@
 			"12"		"21"
 			"13"		"5611"
 			"14"		"552282"
-			"15"		"44868"
-			"16"		"1719"
+			"15"		"1719"
+			"16"		"44868"
 			"17"		"1697"
 			"18"		"4182"
 			"19"		"4947"
@@ -279,18 +281,24 @@
 			{
 				"public"
 				{
-					"gid"		"4673707585561827537"
-					"size"		"2363373396"
-					"download"		"918209824"
+					"gid"		"1554472024347278682"
+					"size"		"1183824608"
+					"download"		"925063056"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"development"
 				{
-					"gid"		"1807B215552E28702028D86B5F90EAF6"
-					"size"		"79857E595EDC6B51917FE890C3586597"
-					"download"		"504CF0673E18C5170AECEDDEEE6C15FF"
+					"gid"		"5108D0D8048ECCAEFEA16C408DBE4379"
+					"size"		"CEFDD9A5D445EB944A247B33B14B79D7"
+					"download"		"E09F0DC658B8AD7E0D73F9B88CFFE0D3"
+				}
+				"dlc_preview"
+				{
+					"gid"		"4B6EFDA8CBF8BF3B88A809C245F9F3F9"
+					"size"		"24C3EA261264BB154320EF97FCFA0589"
+					"download"		"ACE2D170045A8E19726FEA2EB31A0A5D"
 				}
 				"edge"
 				{
@@ -300,9 +308,9 @@
 				}
 				"internal_testing"
 				{
-					"gid"		"68B495F4CEF7A63A222E9B7B4267178F"
-					"size"		"AA749789D8A86E7911A16CF793870F62"
-					"download"		"34F222905A5774098586D47774CF0E23"
+					"gid"		"2913C89CFF99D95BB794F0163068387D"
+					"size"		"7BE387740A648B62E9C3215AAC9D9D11"
+					"download"		"5AED3A55426FDEEAF2867052D7CCF889"
 				}
 				"playtest"
 				{
@@ -339,14 +347,32 @@
 			}
 			"manifests"
 			{
+				"public"
+				{
+					"gid"		"1003670437528692069"
+					"size"		"411796724"
+					"download"		"356960928"
+				}
 			}
 			"encryptedmanifests"
 			{
+				"development"
+				{
+					"gid"		"15799959AABD749E85A875A01A8572BB"
+					"size"		"F1B39B6696C7810E13766118B4E9BE31"
+					"download"		"B7189350A7DC7E679B13188596DDF10D"
+				}
+				"dlc_preview"
+				{
+					"gid"		"F72B2F77312B0590D48070465EFFE029"
+					"size"		"532A6F8FD48BF3681B53847042C5A8DC"
+					"download"		"CCA3BEC41AE7FD5FC6E99066D46A219D"
+				}
 				"internal_testing"
 				{
-					"gid"		"E46E890C134695E714F636DE6C8CBBE3"
-					"size"		"364C96D49EA92449EA0C4695C04E7C3A"
-					"download"		"E00594F1A24AE8A6A0D47F67EE2853BA"
+					"gid"		"8796B888386D10526236EDD34DD645FD"
+					"size"		"A4A587A25B6EC1B0E28095ED95A3EE99"
+					"download"		"6FC26BB496768EFAEBF744B64A5C6538"
 				}
 			}
 		}
@@ -354,14 +380,20 @@
 		{
 			"public"
 			{
-				"buildid"		"10451296"
-				"timeupdated"		"1676378707"
+				"buildid"		"12709027"
+				"timeupdated"		"1700059239"
 			}
 			"development"
 			{
-				"buildid"		"10451286"
+				"buildid"		"12690801"
 				"pwdrequired"		"1"
-				"timeupdated"		"1676900147"
+				"timeupdated"		"1699891050"
+			}
+			"dlc_preview"
+			{
+				"buildid"		"12709027"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700047770"
 			}
 			"edge"
 			{
@@ -371,9 +403,9 @@
 			}
 			"internal_testing"
 			{
-				"buildid"		"12078621"
+				"buildid"		"12519749"
 				"pwdrequired"		"1"
-				"timeupdated"		"1693485022"
+				"timeupdated"		"1698142012"
 			}
 			"playtest"
 			{
@@ -405,8 +437,6 @@
 	{
 		"quota"		"1000000000"
 		"maxnumfiles"		"1000"
-		"hidecloudui"		"1"
-		"ignoreexternalfiles"		"1"
 		"savefiles"
 		{
 			"0"
