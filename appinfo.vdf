@@ -27,32 +27,27 @@
 		"releasestatesteamchina"		"prerelease"
 		"steam_deck_compatibility"
 		{
-			"category"		"2"
-			"test_timestamp"		"1678924800"
-			"tested_build_id"		"10762112"
+			"category"		"3"
+			"test_timestamp"		"1699920000"
+			"tested_build_id"		"12661543"
 			"tests"
 			{
 				"0"
 				{
-					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 				}
 				"1"
 				{
-					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
 				}
 				"2"
 				{
 					"display"		"4"
-					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
-				}
-				"3"
-				{
-					"display"		"4"
 					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
 				}
-				"4"
+				"3"
 				{
 					"display"		"4"
 					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
@@ -60,11 +55,11 @@
 			}
 			"configuration"
 			{
-				"supported_input"		"other"
-				"requires_manual_keyboard_invoke"		"1"
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
 				"requires_non_controller_launcher_nav"		"0"
 				"primary_player_is_controller_slot_0"		"0"
-				"non_deck_display_glyphs"		"1"
+				"non_deck_display_glyphs"		"0"
 				"small_text"		"0"
 				"requires_internet_for_setup"		"0"
 				"requires_internet_for_singleplayer"		"0"
@@ -98,13 +93,13 @@
 				"height_pct"		"47.85820536161905"
 			}
 		}
-		"store_asset_mtime"		"1695892045"
+		"store_asset_mtime"		"1700101339"
 		"associations"
 		{
 			"0"
 			{
 				"type"		"developer"
-				"name"		"半瓶醋工作室"
+				"name"		"半瓶醋工作室（Half Amateur Studio）"
 			}
 			"1"
 			{
@@ -119,7 +114,6 @@
 			"1"		"23"
 			"2"		"3"
 			"3"		"28"
-			"4"		"70"
 		}
 		"category"
 		{
@@ -146,7 +140,7 @@
 				"subtitles"		"true"
 			}
 		}
-		"steam_release_date"		"1678243440"
+		"steam_release_date"		"1700103038"
 		"community_visible_stats"		"1"
 		"workshop_visible"		"1"
 		"community_hub_visible"		"1"
@@ -165,10 +159,10 @@
 			"9"		"4182"
 			"10"		"4486"
 			"11"		"1741"
-			"12"		"5984"
-			"13"		"1677"
-			"14"		"493"
-			"15"		"3871"
+			"12"		"1677"
+			"13"		"5984"
+			"14"		"3871"
+			"15"		"493"
 			"16"		"4085"
 			"17"		"5577"
 			"18"		"5611"
@@ -179,7 +173,7 @@
 	}
 	"extended"
 	{
-		"developer"		"半瓶醋工作室"
+		"developer"		"半瓶醋工作室（Half Amateur Studio）"
 		"publisher"		"Paleo"
 	}
 	"config"
@@ -225,30 +219,30 @@
 			{
 				"public"
 				{
-					"gid"		"5495962571329195537"
-					"size"		"986943380"
-					"download"		"816395536"
+					"gid"		"486061348257793818"
+					"size"		"1196361569"
+					"download"		"1018966528"
 				}
 			}
 			"encryptedmanifests"
 			{
-				"modtest0823"
-				{
-					"gid"		"ED765245F6C34B81CAF0983A6EB81565"
-					"size"		"0EF6F53BFED1A0745E1CFF52DDCD8549"
-					"download"		"CC2B5B209910E0E1350CE7FE1170C6EF"
-				}
-				"playertest0821"
-				{
-					"gid"		"FA2906F272F982CE265C876139E115A1"
-					"size"		"89BA7A98B0FF8BEC86F28B2F33FB77EC"
-					"download"		"EE7193DA6ABC8E87F1865771AF594FF4"
-				}
 				"qa_test0113"
 				{
-					"gid"		"5A683B6DC7C61234944A889AB36D1D58"
-					"size"		"113CB2BAD98F440540BD40CFDA325F92"
-					"download"		"67FC4296946ED40B8C9FD76C9DEA0A74"
+					"gid"		"CDB8385EB54206F26A375674C3CF10C4"
+					"size"		"A7B108A0161362848BB9EF435C4B602F"
+					"download"		"CDBB152453EA9EA8DA6150254ACE7C90"
+				}
+				"v1.0mediatest"
+				{
+					"gid"		"069B15594B32E439632A53A6C5956C9A"
+					"size"		"420CF69D340D42D15FB8F6CD81BCAC9B"
+					"download"		"CC3A6341F2CADF358AF83C76D8C91FA6"
+				}
+				"v1.0playertest"
+				{
+					"gid"		"22C1068A1399846CEDC7FF9A933F0A56"
+					"size"		"6AFEAD763F9BD47BAB20F04A49902ECD"
+					"download"		"A7E55C87123BD2E92370A709F3BC1B61"
 				}
 			}
 		}
@@ -261,26 +255,26 @@
 			}
 			"public"
 			{
-				"buildid"		"12460475"
-				"timeupdated"		"1697617424"
-			}
-			"modtest0823"
-			{
-				"buildid"		"12431886"
-				"pwdrequired"		"1"
-				"timeupdated"		"1697188026"
-			}
-			"playertest0821"
-			{
-				"buildid"		"12247083"
-				"pwdrequired"		"1"
-				"timeupdated"		"1695303797"
+				"buildid"		"12710045"
+				"timeupdated"		"1700103359"
 			}
 			"qa_test0113"
 			{
-				"buildid"		"12460460"
+				"buildid"		"12710003"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697539775"
+				"timeupdated"		"1700055099"
+			}
+			"v1.0mediatest"
+			{
+				"buildid"		"12710045"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700103883"
+			}
+			"v1.0playertest"
+			{
+				"buildid"		"12699636"
+				"pwdrequired"		"1"
+				"timeupdated"		"1699969050"
 			}
 		}
 	}
