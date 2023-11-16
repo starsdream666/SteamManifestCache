@@ -85,7 +85,7 @@
 				"height_pct"		"92.02127696579225"
 			}
 		}
-		"store_asset_mtime"		"1692146716"
+		"store_asset_mtime"		"1697116858"
 		"associations"
 		{
 			"0"
@@ -155,6 +155,22 @@
 			{
 				"supported"		"true"
 			}
+			"czech"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
 		}
 		"steam_release_date"		"1692110782"
 		"workshop_visible"		"1"
@@ -163,25 +179,25 @@
 		"store_tags"
 		{
 			"0"		"9"
-			"1"		"255534"
-			"2"		"7332"
-			"3"		"1676"
-			"4"		"3942"
-			"5"		"3859"
-			"6"		"4328"
-			"7"		"1662"
-			"8"		"12472"
-			"9"		"8945"
-			"10"		"1643"
-			"11"		"4182"
-			"12"		"599"
-			"13"		"3843"
-			"14"		"3810"
-			"15"		"1685"
-			"16"		"4191"
-			"17"		"493"
-			"18"		"4791"
-			"19"		"1695"
+			"1"		"5432"
+			"2"		"255534"
+			"3"		"7332"
+			"4"		"3810"
+			"5"		"4328"
+			"6"		"599"
+			"7"		"3942"
+			"8"		"1676"
+			"9"		"3859"
+			"10"		"1662"
+			"11"		"1643"
+			"12"		"12472"
+			"13"		"8945"
+			"14"		"4182"
+			"15"		"4791"
+			"16"		"3843"
+			"17"		"1685"
+			"18"		"4191"
+			"19"		"493"
 		}
 		"review_score"		"8"
 		"review_percentage"		"85"
@@ -260,9 +276,9 @@
 			{
 				"public"
 				{
-					"gid"		"4362067877875350293"
-					"size"		"1374448679"
-					"download"		"1242042736"
+					"gid"		"2358006957294988661"
+					"size"		"1504547187"
+					"download"		"1332986096"
 				}
 				"11146_stable"
 				{
@@ -288,11 +304,17 @@
 					"size"		"1304659068"
 					"download"		"1173001088"
 				}
-				"experimental"
+				"11646_stable"
 				{
 					"gid"		"4362067877875350293"
 					"size"		"1374448679"
 					"download"		"1242042736"
+				}
+				"experimental"
+				{
+					"gid"		"2358006957294988661"
+					"size"		"1504547187"
+					"download"		"1332986096"
 				}
 			}
 			"encryptedmanifests"
@@ -305,15 +327,21 @@
 				}
 				"external"
 				{
-					"gid"		"AFFF7D03C39ED0D1F1442E2535D10B2E"
-					"size"		"4B9A7EDBBA5B11AF22FE31C086958A7A"
-					"download"		"15F956B12305BD17563D716BF340DDC9"
+					"gid"		"AC5A00DBBEE6D4C46F12F12B469BE190"
+					"size"		"8E394BEDC301103137648DF9467F45B2"
+					"download"		"291466063E674E8272C1D118D6132146"
+				}
+				"external2"
+				{
+					"gid"		"82137620C8048F44D70ECCC631741EA4"
+					"size"		"17A386FB03935D762FBBB910EAF9BB9A"
+					"download"		"B5E48457DA3CBB10DA747FEBAA99F171"
 				}
 				"stage_dev"
 				{
-					"gid"		"F01D77D62864588526CDF1365B5DC325"
-					"size"		"C281400F793DDDFCC049B615781009B7"
-					"download"		"D68543EF22FE58392BD190ACFEA83BBD"
+					"gid"		"939D1F57B3FC30B86D63338903BF9717"
+					"size"		"94C4B739CEC8F9C779862B44BDB321BC"
+					"download"		"4F5CCA06D673AC7C0ED0E7CFF5CB5535"
 				}
 			}
 		}
@@ -322,8 +350,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12394873"
-				"timeupdated"		"1696991493"
+				"buildid"		"12719483"
+				"timeupdated"		"1700135371"
 			}
 			"11146_stable"
 			{
@@ -349,6 +377,12 @@
 				"description"		"Desynced Stable 0.1.11391"
 				"timeupdated"		"1696593120"
 			}
+			"11646_stable"
+			{
+				"buildid"		"12394873"
+				"description"		"Desynced Stable.0.1.11646"
+				"timeupdated"		"1700125114"
+			}
 			"demo"
 			{
 				"buildid"		"11560250"
@@ -357,21 +391,27 @@
 			}
 			"experimental"
 			{
-				"buildid"		"12394873"
+				"buildid"		"12719483"
 				"description"		"Experimental Branch, use at your own risk!"
-				"timeupdated"		"1696866300"
+				"timeupdated"		"1700132260"
 			}
 			"external"
 			{
-				"buildid"		"12350426"
+				"buildid"		"12677827"
 				"pwdrequired"		"1"
-				"timeupdated"		"1696397309"
+				"timeupdated"		"1699689202"
+			}
+			"external2"
+			{
+				"buildid"		"12708579"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700044597"
 			}
 			"stage_dev"
 			{
-				"buildid"		"12394873"
+				"buildid"		"12719483"
 				"pwdrequired"		"1"
-				"timeupdated"		"1696866047"
+				"timeupdated"		"1700132068"
 			}
 		}
 	}
