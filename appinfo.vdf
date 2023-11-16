@@ -1,0 +1,165 @@
+"appinfo"
+{
+	"appid"		"629840"
+	"common"
+	{
+		"name"		"Caligo"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"logo"		"d50b86acc6b893ff0b82eb3deda73213b16a7162"
+		"logo_small"		"d50b86acc6b893ff0b82eb3deda73213b16a7162_thumb"
+		"icon"		"c4a357acbf68673ac7c503df35df112b2ffe0864"
+		"clienticon"		"c3e9ca2cd8de13add258939266ced0e0d2e63548"
+		"clienttga"		"e5809d0aca7a5f1660dafbbde7d08d48ce5d2c55"
+		"languages"
+		{
+			"english"		"1"
+			"russian"		"1"
+		}
+		"metacritic_name"		"Caligo"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1504630499"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Krealit"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Krealit"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_23"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"original_release_date"		"1506063600"
+		"steam_release_date"		"1506092294"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"629840"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"21"
+			"2"		"5900"
+			"3"		"4166"
+			"4"		"1756"
+			"5"		"1742"
+			"6"		"3839"
+			"7"		"1667"
+			"8"		"4182"
+			"9"		"5186"
+			"10"		"1721"
+			"11"		"4342"
+		}
+		"review_score"		"6"
+		"review_percentage"		"74"
+	}
+	"extended"
+	{
+		"developer"		"Krealit"
+		"publisher"		"Krealit"
+	}
+	"config"
+	{
+		"installdir"		"Caligo"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Caligo.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"629841"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2114075819588668003"
+					"size"		"9575674008"
+					"download"		"3023261440"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devbrunch"
+				{
+					"gid"		"26F9C1E9641F191894635DEB3021AA2E"
+					"size"		"A170A9009038022ACAF32B383F2FD7D8"
+					"download"		"53480E1285AFBAE17B3CA6CE1E0811FF"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"2166081"
+				"timeupdated"		"1506972311"
+			}
+			"devbrunch"
+			{
+				"buildid"		"2166081"
+				"pwdrequired"		"1"
+				"timeupdated"		"1506969124"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"01000000"
+		"maxnumfiles"		"01000"
+	}
+}
