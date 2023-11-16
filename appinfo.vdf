@@ -17,12 +17,56 @@
 		"name_localized"
 		{
 			"schinese"		"猛兽派对"
+			"tchinese"		"猛獸派對"
 		}
 		"languages"
 		{
 			"english"		"1"
 			"schinese"		"1"
 			"tchinese"		"1"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1698364800"
+			"tested_build_id"		"12268050"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
 		}
 		"controller_support"		"full"
 		"small_capsule"
@@ -106,7 +150,7 @@
 				"subtitles"		"true"
 			}
 		}
-		"steam_release_date"		"1695208683"
+		"steam_release_date"		"1695208680"
 		"community_visible_stats"		"1"
 		"community_hub_visible"		"1"
 		"gameid"		"1260320"
@@ -123,18 +167,18 @@
 			"8"		"1685"
 			"9"		"7108"
 			"10"		"5350"
-			"11"		"3968"
-			"12"		"492"
-			"13"		"3843"
-			"14"		"4840"
-			"15"		"6506"
-			"16"		"5711"
-			"17"		"7368"
+			"11"		"3843"
+			"12"		"3968"
+			"13"		"6506"
+			"14"		"492"
+			"15"		"4840"
+			"16"		"7368"
+			"17"		"5711"
 			"18"		"4106"
 			"19"		"3841"
 		}
 		"review_score"		"5"
-		"review_percentage"		"58"
+		"review_percentage"		"67"
 	}
 	"extended"
 	{
@@ -181,9 +225,9 @@
 			{
 				"public"
 				{
-					"gid"		"6916705486481951913"
-					"size"		"6732217256"
-					"download"		"4240868336"
+					"gid"		"8413149531996735143"
+					"size"		"7781827872"
+					"download"		"4865467056"
 				}
 			}
 			"encryptedmanifests"
@@ -196,15 +240,15 @@
 				}
 				"interal"
 				{
-					"gid"		"E9FD8D9BFC23F4A050F482799331F41C"
-					"size"		"194C241C10BD8D2B6F2CA167801866C7"
-					"download"		"00A8C910A11BC44EA2157AC63E436F69"
+					"gid"		"27BB37D0EB2795ADCC8D5A880514F90B"
+					"size"		"9C00E0CECB5A1E469697688158F5301E"
+					"download"		"02035F78D88794552029529C8B73B32B"
 				}
 				"re-cand"
 				{
-					"gid"		"2DCEE2B3A8D3FEB7F01CD4406D81629C"
-					"size"		"C2B4D9355EF9DA8C1A8D11BDA25AD031"
-					"download"		"A3FF9B7479294CB0CCE7A050EE973289"
+					"gid"		"7F75EC3225FBAC2C3BA6DA63C9746A0C"
+					"size"		"F5B40768B90DD4469A65D703549E5551"
+					"download"		"3FC2F2AF10FC5B0CDC8773096E19012A"
 				}
 			}
 		}
@@ -212,8 +256,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12263834"
-				"timeupdated"		"1695482815"
+				"buildid"		"12656821"
+				"timeupdated"		"1699523024"
 			}
 			"festival-autumn-edition"
 			{
@@ -223,15 +267,15 @@
 			}
 			"interal"
 			{
-				"buildid"		"12217091"
+				"buildid"		"12704743"
 				"pwdrequired"		"1"
-				"timeupdated"		"1695052238"
+				"timeupdated"		"1700020389"
 			}
 			"re-cand"
 			{
-				"buildid"		"12263834"
+				"buildid"		"12704743"
 				"pwdrequired"		"1"
-				"timeupdated"		"1695466693"
+				"timeupdated"		"1700050034"
 			}
 		}
 	}
