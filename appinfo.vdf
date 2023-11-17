@@ -1,0 +1,154 @@
+"appinfo"
+{
+	"appid"		"2116000"
+	"common"
+	{
+		"name"		"阴桃花"
+		"type"		"Game"
+		"clienticon"		"b3f6e48b154fcedd62f06b1ef3e4b68509bd7154"
+		"clienttga"		"085ade951419b061f607e1054c70269c47f2e0d6"
+		"icon"		"c08784dcb72d3569414819037b97f47195e7d58b"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1688534941"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Snowy"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"听眠"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Snowy"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1669897579"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2116000"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"11014"
+			"1"		"6426"
+			"2"		"31275"
+			"3"		"4947"
+			"4"		"1710"
+			"5"		"4486"
+			"6"		"1742"
+			"7"		"6971"
+			"8"		"5608"
+			"9"		"113"
+			"10"		"4182"
+			"11"		"597"
+		}
+		"review_score"		"7"
+		"review_percentage"		"94"
+	}
+	"extended"
+	{
+		"disableoverlay"		"1"
+		"developer"		"Snowy"
+		"publisher"		"Snowy"
+		"isfreeapp"		"1"
+		"listofdlc"		"2190830"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"YinTaohua"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"YinTaohua.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"229005"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2116001"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"675908348832493123"
+					"size"		"697957"
+					"download"		"211936"
+				}
+			}
+		}
+		"baselanguages"		"english"
+		"hasdepotsindlc"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11415363"
+				"timeupdated"		"1687620850"
+			}
+		}
+	}
+}
