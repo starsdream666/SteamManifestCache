@@ -227,22 +227,6 @@
 				}
 				"description"		"Dungeons of Sundaria"
 			}
-			"1"
-			{
-				"executable"		"Archon\\Binaries\\Win64\\Archon-Win64-Shipping.exe"
-				"arguments"		"-d3d12"
-				"type"		"option2"
-				"config"
-				{
-					"oslist"		"windows"
-					"osarch"		"64"
-				}
-				"description_loc"
-				{
-					"english"		"Dungeons of Sundaria (DirectX 12)"
-				}
-				"description"		"Dungeons of Sundaria (DirectX 12)"
-			}
 			"2"
 			{
 				"executable"		"Archon\\Binaries\\Win64\\Archon-Win64-Test.exe"
@@ -262,7 +246,7 @@
 			"3"
 			{
 				"executable"		"Archon\\Binaries\\Win64\\Archon-Win64-Test.exe"
-				"arguments"		"-d3d12"
+				"arguments"		"-crossplay"
 				"type"		"option2"
 				"config"
 				{
@@ -272,9 +256,9 @@
 				}
 				"description_loc"
 				{
-					"english"		"Dungeons of Sundaria (DirectX 12) [Test]"
+					"english"		"Dungeons of Sundaria (Crossplay) [Test]"
 				}
-				"description"		"Dungeons of Sundaria (DirectX 12) [Test]"
+				"description"		"Dungeons of Sundaria (Crossplay) [Test]"
 			}
 			"4"
 			{
@@ -307,10 +291,28 @@
 				}
 				"description"		"Dungeons of Sundaria [Test]"
 			}
+			"6"
+			{
+				"executable"		"Archon/Build/LinuxNoEditor/Launch/Archon-Linux-Test.sh"
+				"arguments"		"-crossplay"
+				"type"		"option2"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+					"betakey"		"test"
+				}
+				"description_loc"
+				{
+					"english"		"Dungeons of Sundaria (Crossplay) [Test]"
+				}
+				"description"		"Dungeons of Sundaria (Crossplay) [Test]"
+			}
 		}
 		"steamcontrollertemplateindex"		"2"
 		"steamdecktouchscreen"		"1"
 		"steamconfigurator3rdpartynative"		"7"
+		"uselaunchcommandline"		"1"
 	}
 	"depots"
 	{
@@ -344,18 +346,18 @@
 			{
 				"public"
 				{
-					"gid"		"1764987662377639048"
-					"size"		"4936419691"
-					"download"		"4581237984"
+					"gid"		"4533862074276334742"
+					"size"		"6504589229"
+					"download"		"6094648944"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"test"
 				{
-					"gid"		"619660DDCF75987E8E52AD7429EE7AE6"
-					"size"		"B76D424D341D8378110EB9F1DA88BED0"
-					"download"		"67AFC30D67B4A68FEA9DEDD8EFE85B78"
+					"gid"		"4E3F361F3827C5E48CEC8C2CCC4C8891"
+					"size"		"561F921C590E9BD64EFA647BC88E7920"
+					"download"		"61209AC7FC3DD9B9AEFC555BC40FC9D3"
 				}
 			}
 		}
@@ -370,18 +372,18 @@
 			{
 				"public"
 				{
-					"gid"		"1020954581385113501"
-					"size"		"8848453038"
-					"download"		"8566729520"
+					"gid"		"4992437883487759784"
+					"size"		"9837073626"
+					"download"		"9533092032"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"test"
 				{
-					"gid"		"43B3BC0C75A015CA8790299BD268AA9F"
-					"size"		"F1FAAFC22A507CEE280D93312F2EDB84"
-					"download"		"E06CBF6E3ACBA93E360B774E755CB444"
+					"gid"		"1770B37AC3D975CE5F7DCA87932232A9"
+					"size"		"F712EEF35AE719930A52F4A4B4031994"
+					"download"		"71AF01E3EBB1B8D96825D6241E6908F2"
 				}
 			}
 		}
@@ -397,14 +399,14 @@
 		{
 			"public"
 			{
-				"buildid"		"12596346"
-				"timeupdated"		"1698879277"
+				"buildid"		"12726077"
+				"timeupdated"		"1700181893"
 			}
 			"test"
 			{
-				"buildid"		"12595480"
+				"buildid"		"12727887"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698871707"
+				"timeupdated"		"1700200049"
 			}
 		}
 	}
