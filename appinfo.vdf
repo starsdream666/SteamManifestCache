@@ -1,0 +1,203 @@
+"appinfo"
+{
+	"appid"		"1835020"
+	"common"
+	{
+		"name"		"BornWild • Versus S1 - Prologue"
+		"type"		"Game"
+		"releasestate"		"released"
+		"icon"		"a64ce8213c35c50d8f6e55b6f8ecefc24137ebc6"
+		"clienticon"		"dcc3f2189d3f2157970e5771ea4fae3a7ffa1d94"
+		"clienttga"		"2a1420768de7ee3f0df3592b4fac8cfaed922c7c"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"2"
+			"2"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"has_adult_content_violence"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"65.50373292335775"
+				"height_pct"		"99.63727567058308"
+			}
+		}
+		"store_asset_mtime"		"1662016993"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"West Dragon Productions"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"OG-ZONE Digital Entertainment"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"BornWild • Versus"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1655530963"
+		"community_hub_visible"		"1"
+		"gameid"		"1835020"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3799"
+			"1"		"1742"
+			"2"		"19"
+			"3"		"11014"
+			"4"		"5984"
+			"5"		"21"
+			"6"		"4252"
+			"7"		"1751"
+			"8"		"18594"
+			"9"		"7250"
+			"10"		"597"
+			"11"		"6426"
+			"12"		"4182"
+			"13"		"4242"
+			"14"		"4085"
+			"15"		"4562"
+			"16"		"4168"
+			"17"		"3942"
+			"18"		"4295"
+			"19"		"5030"
+		}
+		"review_score"		"8"
+		"review_percentage"		"86"
+	}
+	"extended"
+	{
+		"developer"		"West Dragon Productions"
+		"publisher"		"OG-ZONE Digital Entertainment"
+		"homepage"		"https://www.bornwildversus.com"
+		"isfreeapp"		"1"
+		"listofdlc"		"1995270"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"BornWild Versus S1 - Prologue"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"BWvs S1V1.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"BWvs S1V1.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1835021"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5886287963433637358"
+					"size"		"2287814507"
+					"download"		"1898998848"
+				}
+			}
+		}
+		"1835022"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6406293789721422978"
+					"size"		"2306943478"
+					"download"		"1904380384"
+				}
+			}
+		}
+		"1995270"
+		{
+			"dlcappid"		"1995270"
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+		}
+		"hasdepotsindlc"		"1"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9983784"
+				"timeupdated"		"1669040771"
+			}
+		}
+	}
+}
