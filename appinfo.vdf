@@ -1,0 +1,382 @@
+"appinfo"
+{
+	"appid"		"528060"
+	"common"
+	{
+		"name"		"東周列萌志 Philosophic Love"
+		"type"		"Game"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"logo"		"61d6a85c37e5c0afc821fa1f436f16106fd0244a"
+		"logo_small"		"61d6a85c37e5c0afc821fa1f436f16106fd0244a_thumb"
+		"clienttga"		"63152e4ff67de2ba3c621f1fe4ae87ab5503daf8"
+		"clienticon"		"f424c9b6776ec2b0ab03c0ebb1d1690d1388e862"
+		"icon"		"6071490adfc1f512d60cdddbe22615eb7fedeb77"
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+		}
+		"clienticns"		"090e7210a4457c17defbaaa9693df6b7920c67b9"
+		"osextended"		"macos64"
+		"metacritic_name"		"東周列萌志 Philosophic Love"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"100"
+				"height_pct"		"49.24314096499527"
+			}
+		}
+		"store_asset_mtime"		"1582010612"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"IWPLAY WORLD INTERACTIVE ENTERTAINMENT TECHNOLOGY CO., LTD."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"IWPLAY WORLD INTERACTIVE ENTERTAINMENT TECHNOLOGY CO., LTD."
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"schinese"
+			{
+				"subtitles"		"true"
+				"full_audio"		"true"
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1534489260"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"528060"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"492"
+			"2"		"597"
+			"3"		"9551"
+			"4"		"31579"
+			"5"		"3799"
+			"6"		"7208"
+			"7"		"3987"
+			"8"		"1742"
+			"9"		"4085"
+		}
+		"review_score"		"8"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"developer"		"IWPLAY WORLD INTERACTIVE ENTERTAINMENT TECHNOLOGY CO., LTD."
+		"publisher"		"IWPLAY WORLD INTERACTIVE ENTERTAINMENT TECHNOLOGY CO., LTD."
+		"homepage"		"http://3chistudio.iwplay.com.tw/"
+		"isfreeapp"		"1"
+		"listofdlc"		"894500,895130,1249920"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Philosophic Love"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"PhilosophicLove.exe"
+				"arguments"		"-windowed"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"PhilosophicLove.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"1"
+		"baselanguages"		"schinese,tchinese"
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229020"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"528061"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4606600723586354335"
+					"size"		"1880180750"
+					"download"		"1805767584"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"F1415AEC27C50966F0584C426A29C7DA"
+					"size"		"A1C1681C66E62326DCF6410EE6135D26"
+					"download"		"471B4DDCA100B7DA552C8506453325E3"
+				}
+			}
+		}
+		"528062"
+		{
+			"config"
+			{
+				"language"		"schinese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5145423642201180584"
+					"size"		"32691424"
+					"download"		"31050064"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"2F64A36BFFAB570EB999403F53A0FDD7"
+					"size"		"9230453497C28FE09CA034A3ADED90FF"
+					"download"		"96B7F990311C7786F48F77C69A6A6F26"
+				}
+			}
+		}
+		"528063"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2106557479149957137"
+					"size"		"1955965913"
+					"download"		"1873981520"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"89EBBE7F3D065D5AD43B4DD63FFB8EF6"
+					"size"		"BCDA08CF5E9A5018D6290E047109A871"
+					"download"		"4CB68C3975CB9C08D414B94225632E82"
+				}
+			}
+		}
+		"528064"
+		{
+			"config"
+			{
+				"language"		"schinese"
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7584590912658197589"
+					"size"		"115778792"
+					"download"		"112237568"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"67C06903BFD14A6BD35515A38DB35317"
+					"size"		"9230453497C28FE09CA034A3ADED90FF"
+					"download"		"96B7F990311C7786F48F77C69A6A6F26"
+				}
+			}
+		}
+		"528065"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2343477355928847528"
+					"size"		"672190800"
+					"download"		"647171824"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"90386F04C5CE08CE4FEDC23AB2C97C28"
+					"size"		"E17F14250BA98908D806CE312C1918EE"
+					"download"		"A266432F15910726CD085032800F4E7B"
+				}
+			}
+		}
+		"528066"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		"schinese"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4123516373982753340"
+					"size"		"33444888"
+					"download"		"31665072"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"14E9BE5A71B26798B252AE973B900AA0"
+					"size"		"DF1F6DA2C2ADE35017E979B7D0D9E5B7"
+					"download"		"04464FCA2EAC551F1198F13DF4141053"
+				}
+			}
+		}
+		"528067"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1951318184132444328"
+					"size"		"672190800"
+					"download"		"647171824"
+				}
+			}
+		}
+		"528068"
+		{
+			"config"
+			{
+				"language"		"schinese"
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3501183717717604377"
+					"size"		"33444888"
+					"download"		"31665072"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"4340060"
+				"timeupdated"		"1572441957"
+			}
+			"test"
+			{
+				"buildid"		"3846874"
+				"pwdrequired"		"1"
+				"timeupdated"		"1558524554"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"209715200"
+		"maxnumfiles"		"2000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"SaveData"
+				"pattern"		"*"
+				"recursive"		"1"
+			}
+		}
+	}
+}
