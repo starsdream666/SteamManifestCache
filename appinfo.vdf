@@ -1,0 +1,213 @@
+"appinfo"
+{
+	"appid"		"2509830"
+	"common"
+	{
+		"name"		"MGCM Combat Edition"
+		"type"		"Game"
+		"icon"		"7e1dcc040aec3d7c873bcba6bb9b8697b5803da5"
+		"clienticon"		"38fc68d50b593cdc67bc73270c9abf99e0624d63"
+		"clienttga"		"ddd42e95969961c36f3058ecb269402c0ade253d"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"2"
+			"2"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"has_adult_content_violence"		"1"
+		"controllertagwizard"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"47.95703932620427"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1699161140"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"くまくま（でん）"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"マジカミ格ゲー部"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"マジカミ格ゲー部"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_37"		"1"
+			"category_24"		"1"
+			"category_23"		"1"
+			"category_44"		"1"
+			"category_47"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"subtitles"		"true"
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1698251007"
+		"community_hub_visible"		"1"
+		"gameid"		"2509830"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"4736"
+			"2"		"4726"
+			"3"		"7208"
+			"4"		"5055"
+			"5"		"1773"
+			"6"		"4057"
+			"7"		"5379"
+			"8"		"4085"
+			"9"		"4305"
+			"10"		"3942"
+			"11"		"9541"
+			"12"		"5673"
+			"13"		"1710"
+			"14"		"3993"
+			"15"		"10808"
+			"16"		"6730"
+			"17"		"1775"
+			"18"		"4182"
+			"19"		"3859"
+		}
+		"review_score"		"7"
+		"review_percentage"		"84"
+	}
+	"extended"
+	{
+		"developer"		"くまくま（でん）"
+		"publisher"		"マジカミ格ゲー部"
+		"homepage"		"https://gamerch.com/mgcmce/"
+		"isfreeapp"		"1"
+		"listofdlc"		"2655200"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"MGCMCE"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MGCMCE.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"1"
+		"2509831"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1107043187900558973"
+					"size"		"993395713"
+					"download"		"468384368"
+				}
+			}
+		}
+		"2655200"
+		{
+			"dlcappid"		"2655200"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"305539305109940980"
+					"size"		"31"
+					"download"		"80"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12553438"
+				"timeupdated"		"1698409816"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"5"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"save"
+				"pattern"		"config.json"
+				"recursive"		"1"
+			}
+			"1"
+			{
+				"root"		"gameinstall"
+				"path"		"save"
+				"pattern"		"stats.json"
+			}
+		}
+	}
+}
