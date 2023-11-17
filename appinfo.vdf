@@ -1,0 +1,199 @@
+"appinfo"
+{
+	"appid"		"2102020"
+	"common"
+	{
+		"name"		"Different Strokes"
+		"type"		"Game"
+		"icon"		"9275ae82ec5ec06b74f13424a4997e34edb489c2"
+		"clienttga"		"059e12ea7b413b46606e61d4ffaeccdc158b6baf"
+		"clienticon"		"d6546664c4c0d9594a0c25424bd1111f334bda24"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1699466188"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Different Folks"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Different Folks"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"29"
+			"2"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_27"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1668057146"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2102020"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1654"
+			"1"		"4726"
+			"2"		"3834"
+			"3"		"6815"
+			"4"		"4562"
+			"5"		"84"
+			"6"		"4191"
+			"7"		"9204"
+			"8"		"10235"
+			"9"		"4085"
+			"10"		"3839"
+			"11"		"17770"
+			"12"		"6869"
+			"13"		"597"
+			"14"		"128"
+			"15"		"4094"
+			"16"		"3859"
+			"17"		"113"
+			"18"		"3843"
+			"19"		"4182"
+		}
+		"review_score"		"8"
+		"review_percentage"		"94"
+	}
+	"extended"
+	{
+		"developer"		"Different Folks"
+		"publisher"		"Different Folks"
+		"homepage"		"https://www.differentstrokes.xyz/"
+		"isfreeapp"		"1"
+		"listofdlc"		"2182660"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Different Strokes"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"DifferentStrokes.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"1"
+		"2102021"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3435461860569994641"
+					"size"		"88087954"
+					"download"		"31573168"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"1C485B61F65591637411F08B2B3B0B5A"
+					"size"		"9C3954DD8E76597305B61D3C16D56AA0"
+					"download"		"FEA56367D2B80A2D4A8A1AD9801DB35E"
+				}
+			}
+		}
+		"2182660"
+		{
+			"dlcappid"		"2182660"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5336018535396814796"
+					"size"		"88087442"
+					"download"		"31578672"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"49234C5718A67015AB13549B6081DA66"
+					"size"		"C07684054D7FA7F732040CB9F045366B"
+					"download"		"3115C8C7C62969B6ED97782FE21E6C25"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12673700"
+				"timeupdated"		"1699639053"
+			}
+			"test"
+			{
+				"buildid"		"12680200"
+				"pwdrequired"		"1"
+				"timeupdated"		"1699736574"
+			}
+		}
+	}
+}
