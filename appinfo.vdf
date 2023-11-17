@@ -1,0 +1,187 @@
+"appinfo"
+{
+	"appid"		"1509820"
+	"common"
+	{
+		"name"		"Cloud Climber"
+		"type"		"Game"
+		"icon"		"54b2c59880a063b7d1035c695be71440bfb68fd3"
+		"logo"		"6b63b0eeced01a5281c083b3fc1b4b0316753fef"
+		"logo_small"		"6b63b0eeced01a5281c083b3fc1b4b0316753fef_thumb"
+		"clienticon"		"a9ddb490df25f3c92b686b5689580e4d267be5a5"
+		"clienttga"		"1bb9a0f9da9cf459993ea1ed53cf1978f6db624e"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"48.645161290322584"
+				"height_pct"		"55.208333333333336"
+			}
+		}
+		"store_asset_mtime"		"1633120562"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Two Star Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Two Star Games"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1610632563"
+		"community_hub_visible"		"1"
+		"gameid"		"1509820"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"5900"
+			"2"		"597"
+			"3"		"21"
+			"4"		"4166"
+			"5"		"4182"
+			"6"		"3839"
+			"7"		"3835"
+			"8"		"3834"
+			"9"		"1654"
+			"10"		"4191"
+			"11"		"1742"
+			"12"		"1664"
+			"13"		"4252"
+			"14"		"6815"
+			"15"		"4604"
+			"16"		"1684"
+			"17"		"1756"
+			"18"		"4598"
+			"19"		"4136"
+		}
+		"review_score"		"8"
+		"review_percentage"		"92"
+	}
+	"extended"
+	{
+		"developer"		"Two Star Games"
+		"publisher"		"Two Star Games"
+		"homepage"		"https://twitter.com/TwoStarGames"
+		"isfreeapp"		"1"
+		"listofdlc"		"1533460"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Cloud Climber"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"WindowsNoEditor\\TowerGame.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"hasdepotsindlc"		"1"
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1509822"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4262134994811789763"
+					"size"		"312276226"
+					"download"		"239466000"
+				}
+			}
+		}
+		"1509821"
+		{
+			"dlcappid"		"1533460"
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7468997"
+				"timeupdated"		"1633233622"
+			}
+		}
+	}
+}
