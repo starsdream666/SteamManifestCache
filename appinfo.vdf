@@ -76,7 +76,8 @@
 			}
 		}
 		"metacritic_name"		"Green Hell"
-		"controller_support"		"full"
+		"controllertagwizard"		"1"
+		"controller_support"		"partial"
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
@@ -97,7 +98,7 @@
 				"height_pct"		"29.990539262062356"
 			}
 		}
-		"store_asset_mtime"		"1694523392"
+		"store_asset_mtime"		"1700216773"
 		"associations"
 		{
 			"0"
@@ -136,7 +137,7 @@
 			"category_22"		"1"
 			"category_29"		"1"
 			"category_42"		"1"
-			"category_28"		"1"
+			"category_18"		"1"
 		}
 		"supported_languages"
 		{
@@ -232,6 +233,11 @@
 				"subtitles"		"true"
 			}
 			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"indonesian"
 			{
 				"supported"		"true"
 				"subtitles"		"true"
@@ -359,6 +365,12 @@
 					"size"		"4A61DCE92E0671942EA4810BB42B8848"
 					"download"		"FEB8A8795093814D9778571526E0B114"
 				}
+				"indonesian_loc"
+				{
+					"gid"		"65E2D888EC4EC1F4EFAB64F8FF9811AA"
+					"size"		"919DEB16AE47F8D3968C4A9F39345550"
+					"download"		"E834871326D3C2AA1E59855D3E3769CB"
+				}
 				"local_qa"
 				{
 					"gid"		"72EAECEC59DE4DB22D01C3202B4FE0B2"
@@ -419,18 +431,6 @@
 					"size"		"A67DB4BEA370B64CA501D97705092A0F"
 					"download"		"ECB566100F1500AA340D82BF037ECD4E"
 				}
-				"playtest"
-				{
-					"gid"		"BAA24C95C27430F8DA05B42F736DCCF0"
-					"size"		"259D0F45B8622F60397480F8D9CBCB5C"
-					"download"		"A74DF10F7772A4C59EBCC416AF1B5CB3"
-				}
-				"pr_01"
-				{
-					"gid"		"27DD5610E2C68B82306EDC03BE3C0034"
-					"size"		"FE93276856736EC866DCD041A86D603D"
-					"download"		"752CAC9CC269641FCA99753EFC4378F0"
-				}
 				"retail_dev"
 				{
 					"gid"		"A52DA576E08A220674676EAFF4C16BA8"
@@ -463,9 +463,9 @@
 			{
 				"public"
 				{
-					"gid"		"2113282425600494118"
-					"size"		"8089338530"
-					"download"		"5500583856"
+					"gid"		"4585115757365051961"
+					"size"		"8089835470"
+					"download"		"5500659680"
 				}
 				"early_access"
 				{
@@ -484,15 +484,15 @@
 			{
 				"debug"
 				{
-					"gid"		"1E89E5812756B0504775EAF9F9319B3F"
-					"size"		"11147B90A4614AF8F41105BC0ABC06C7"
-					"download"		"87F62C08A684DB9AFF9FDA5985E291B1"
+					"gid"		"508091D75E3AD4996153A61496BF31C8"
+					"size"		"2C066B6BBF45AEF0034AC838E182731D"
+					"download"		"4FEE0916A09008E47C836668FB5D3B87"
 				}
 				"develop_dev"
 				{
-					"gid"		"058E1EDFD1016F7C1256CE742F1B7F1E"
-					"size"		"0AB9121C700105FFBACC26FD4055A0AB"
-					"download"		"ECF69A5CEE995299CF2CB57FD864B294"
+					"gid"		"D6D991081D1E38E30F799DD7CDC4DC6C"
+					"size"		"381DE7AFF551582BE8381E81A991EF21"
+					"download"		"24016CD9C3C6EBD88D28E9D7A451BFC8"
 				}
 				"develop_rel"
 				{
@@ -512,23 +512,29 @@
 					"size"		"F1A5DCDB6916ADAA6CA01BC29C42425B"
 					"download"		"E4B282B7D58E6D3A3A5B77CD7E84DE09"
 				}
+				"indonesian_loc"
+				{
+					"gid"		"11BBFE964B596F3741C949B005610E79"
+					"size"		"268D820C18782188FC047E3DB227D6BB"
+					"download"		"297B624DD40F9F4BDD43ED1EB164FF95"
+				}
 				"local_qa"
 				{
-					"gid"		"6E61672A0DCC5B0D61D76ED6C2799E4C"
-					"size"		"5385CBC950292F70C44E09911EEBFBB1"
-					"download"		"E0530B23027D9ADC8607CB698B4EE042"
+					"gid"		"CBBEA442EFFD55643F710E3B828611BA"
+					"size"		"D3178DFA3D8443FFFDCF17CA661DFDA2"
+					"download"		"65FC98052235AF8EF990DB717532F356"
 				}
 				"local_qa2"
 				{
-					"gid"		"303FB631FC28F05590F6200C4D1E64B8"
-					"size"		"C4420B72CE79E51BFCDFDADF418C035A"
-					"download"		"A1572E83DFE53B7D9F7274AC7A3EB1B1"
+					"gid"		"5A31BC46F16376A225AB4919B9AF414D"
+					"size"		"2B2FBC25AB948595D6BC5109BA6A2EF5"
+					"download"		"BB58B7E044AB2E590F8F91D1D17C0676"
 				}
 				"local_qa3"
 				{
-					"gid"		"F137592359BAAE2D8D6C05B837000BDA"
-					"size"		"DE5C80A016C7E47676AE65A4A0B13C1D"
-					"download"		"34ED7E725998A23FF506F8784D041CA7"
+					"gid"		"15CB23A85C3CBE19B087C031660F5A90"
+					"size"		"24A352C05ECBD8C4FA48C87439E76DD8"
+					"download"		"42767A075C406F68A88267233846C54D"
 				}
 				"local_qa4"
 				{
@@ -572,23 +578,11 @@
 					"size"		"8225683928F529D065FDBE09BDC242E7"
 					"download"		"EAB412F905BD5DA2AF120DD3910A2C39"
 				}
-				"playtest"
-				{
-					"gid"		"7B20B22BC7ECD21081195CD67C0D106C"
-					"size"		"7E3A2666943D2363075757D2AC69E5A8"
-					"download"		"3536DED590DFE6B4282B5C2BFD0F3B74"
-				}
-				"pr_01"
-				{
-					"gid"		"0BED37CE738779A8837C1B3A5AF45FA6"
-					"size"		"765AC7D2F00DC64D6656F2DA49497F55"
-					"download"		"868A9CD175291CC9CCC2C24DF4FC57D2"
-				}
 				"retail_dev"
 				{
-					"gid"		"1D777FDC3AB5E3C31AA03A3CB9E4D88B"
-					"size"		"F4470207B3309A719A78B80E788DBF78"
-					"download"		"17C5C8981BCB7F3EE1823346D26F9256"
+					"gid"		"9C81694EDEE41E4DC77E45A96294B20B"
+					"size"		"4BEFA6C45A7EA9669B7BDFDC32297382"
+					"download"		"A147A07636406FAEBBC2B3F27A74DF3A"
 				}
 				"trailer1"
 				{
@@ -614,20 +608,20 @@
 		{
 			"public"
 			{
-				"buildid"		"12411690"
-				"timeupdated"		"1697024805"
+				"buildid"		"12721221"
+				"timeupdated"		"1700215323"
 			}
 			"debug"
 			{
-				"buildid"		"12178358"
+				"buildid"		"12721491"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694611523"
+				"timeupdated"		"1700215375"
 			}
 			"develop_dev"
 			{
-				"buildid"		"12409125"
+				"buildid"		"12727082"
 				"pwdrequired"		"1"
-				"timeupdated"		"1696989799"
+				"timeupdated"		"1700191094"
 			}
 			"develop_rel"
 			{
@@ -653,23 +647,29 @@
 				"pwdrequired"		"1"
 				"timeupdated"		"1691758575"
 			}
+			"indonesian_loc"
+			{
+				"buildid"		"12690910"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700056572"
+			}
 			"local_qa"
 			{
-				"buildid"		"12411241"
+				"buildid"		"12719328"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697011637"
+				"timeupdated"		"1700130993"
 			}
 			"local_qa2"
 			{
-				"buildid"		"12411690"
+				"buildid"		"12721221"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697015072"
+				"timeupdated"		"1700144050"
 			}
 			"local_qa3"
 			{
-				"buildid"		"11288685"
+				"buildid"		"12721491"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697027596"
+				"timeupdated"		"1700145790"
 			}
 			"local_qa4"
 			{
@@ -713,18 +713,6 @@
 				"pwdrequired"		"1"
 				"timeupdated"		"1681916904"
 			}
-			"playtest"
-			{
-				"buildid"		"6896821"
-				"pwdrequired"		"1"
-				"timeupdated"		"1624056735"
-			}
-			"pr_01"
-			{
-				"buildid"		"6873799"
-				"pwdrequired"		"1"
-				"timeupdated"		"1623788195"
-			}
 			"public_test"
 			{
 				"buildid"		"7223899"
@@ -733,9 +721,9 @@
 			}
 			"retail_dev"
 			{
-				"buildid"		"12177723"
+				"buildid"		"12719328"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694614226"
+				"timeupdated"		"1700215403"
 			}
 			"trailer1"
 			{
