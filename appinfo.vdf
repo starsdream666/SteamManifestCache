@@ -1,0 +1,233 @@
+"appinfo"
+{
+	"appid"		"1359160"
+	"common"
+	{
+		"name"		"Rocket Bots"
+		"type"		"Game"
+		"oslist"		"windows,linux"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"30cf74200de66adbf17659ba9f112caf7a511183"
+		"logo"		"e55b10cdd5324ff9f5a320b91e598a04d00f014d"
+		"logo_small"		"e55b10cdd5324ff9f5a320b91e598a04d00f014d_thumb"
+		"clienticon"		"58e07aa395a9add1713ffb8b72d6a8f298ab46b5"
+		"clienttga"		"badaf707841a0a2e78fb8b450666eae3af30bee2"
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"russian"		"1"
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"34.883720930232556"
+				"height_pct"		"73.40299216338164"
+			}
+		}
+		"store_asset_mtime"		"1680977095"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"ic3bug"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"ic3bug"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Rocket Bots"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_30"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1595948400"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1359160"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"1663"
+			"2"		"4191"
+			"3"		"19"
+			"4"		"5752"
+			"5"		"4182"
+			"6"		"3859"
+			"7"		"3942"
+		}
+		"review_score"		"6"
+		"review_percentage"		"75"
+	}
+	"extended"
+	{
+		"developer"		"ic3bug"
+		"publisher"		"ic3bug"
+		"isfreeapp"		"1"
+		"listofdlc"		"1366190"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Rocket Bots"
+		"steamcontrollertemplateindex"		"6"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"rb.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Play Rocket Bots"
+					"russian"		"Играть в Rocket Bots"
+				}
+				"description"		"Play Rocket Bots"
+			}
+			"2"
+			{
+				"executable"		"rb.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Play Rocket Bots"
+					"russian"		"Играть в Rocket Bots"
+				}
+				"description"		"Play Rocket Bots"
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"1"
+		"workshopdepot"		"1359160"
+		"1359162"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8853436131294932307"
+					"size"		"172163488"
+					"download"		"53008016"
+				}
+			}
+		}
+		"1359161"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8924857357696132804"
+					"size"		"181824536"
+					"download"		"55544016"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12501669"
+				"timeupdated"		"1697914754"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"100"
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#is_wreaking_havoc"		"Is Wreaking Havoc"
+					"#is_in_multiplayer"		"Is Playing Multiplayer"
+					"#is_fighting_aliens"		"Is Fighting Aliens"
+				}
+			}
+			"russian"
+			{
+				"tokens"
+				{
+					"#is_wreaking_havoc"		"Сеет Хаос"
+					"#is_in_multiplayer"		"Играет в Мультиплеер"
+					"#is_fighting_aliens"		"Сражается с Инопланетянами"
+				}
+			}
+		}
+	}
+}
