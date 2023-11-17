@@ -52,6 +52,49 @@
 		"has_adult_content"		"1"
 		"has_adult_content_sex"		"1"
 		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1699401600"
+			"tested_build_id"		"12539695"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
 		"controller_support"		"full"
 		"small_capsule"
 		{
@@ -81,7 +124,7 @@
 				"height_pct"		"100"
 			}
 		}
-		"store_asset_mtime"		"1698305510"
+		"store_asset_mtime"		"1699522153"
 		"associations"
 		{
 			"0"
@@ -173,7 +216,7 @@
 				"subtitles"		"true"
 			}
 		}
-		"steam_release_date"		"1699455651"
+		"steam_release_date"		"1699455600"
 		"community_visible_stats"		"1"
 		"community_hub_visible"		"1"
 		"gameid"		"2375550"
@@ -184,24 +227,27 @@
 			"2"		"4231"
 			"3"		"4106"
 			"4"		"4667"
-			"5"		"4345"
+			"5"		"4434"
 			"6"		"1742"
-			"7"		"4434"
+			"7"		"4345"
 			"8"		"6915"
-			"9"		"1719"
-			"10"		"4182"
-			"11"		"1695"
-			"12"		"1646"
-			"13"		"12095"
-			"14"		"21"
+			"9"		"1695"
+			"10"		"1719"
+			"11"		"4182"
+			"12"		"12095"
+			"13"		"21"
+			"14"		"1646"
 			"15"		"1638"
 			"16"		"1756"
 		}
+		"review_score"		"9"
+		"review_percentage"		"96"
 	}
 	"extended"
 	{
 		"developer"		"Ryu Ga Gotoku Studio"
 		"publisher"		"SEGA"
+		"homepage"		"https://gaiden.sega.com/"
 		"listofdlc"		"2438750"
 		"dlcavailableonstore"		"1"
 	}
@@ -303,18 +349,18 @@
 			{
 				"public"
 				{
-					"gid"		"7594765092672610548"
-					"size"		"93028756360"
-					"download"		"69806373696"
+					"gid"		"2450603409476971550"
+					"size"		"93017777616"
+					"download"		"69792641360"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"aabbd"
 				{
-					"gid"		"197D428D3D3651B9DAD5C143E76E026E"
-					"size"		"419CA29816ADB744C52C3CD7184C895F"
-					"download"		"9A06FC9A607F7690C3BA58DF849A17FB"
+					"gid"		"E6119B3A4FCF9016D8ADD3CE7C894F2C"
+					"size"		"3EF8F14E808F72077831A3701B5A6E21"
+					"download"		"C5CC5E6A17DBAF9A083FE3C26CCD7C36"
 				}
 				"compat"
 				{
@@ -372,15 +418,15 @@
 				}
 				"work98"
 				{
-					"gid"		"368930A00D9D662176EAAF5C17B5799A"
-					"size"		"010F27C99895166E96051CDF0ADE7A82"
-					"download"		"D3EA4ECD1182B0172BDA2E38519F929C"
+					"gid"		"B4226C828917525F618448F81A0C07E0"
+					"size"		"0C0DBB54647A36CCEC8313EB119BCFC7"
+					"download"		"94D04E901A7879FE3A636422ECBE7B07"
 				}
 				"work99"
 				{
-					"gid"		"B85E06BA3D954C666005C2B6BF6C3566"
-					"size"		"2623523CF425F77A4823C785BE403923"
-					"download"		"67D8A4B4CD3495C185BAC08D3B6A3FE8"
+					"gid"		"B89F158AC6EFF6C3E1A5D0BFCA6501F1"
+					"size"		"A892CE332A67C3FB2E8B15233424BB9F"
+					"download"		"C33F12D45A128BE0B855FB259B18C5D6"
 				}
 			}
 		}
@@ -389,14 +435,14 @@
 		{
 			"public"
 			{
-				"buildid"		"12539695"
-				"timeupdated"		"1698718092"
+				"buildid"		"12676262"
+				"timeupdated"		"1700190198"
 			}
 			"aabbd"
 			{
-				"buildid"		"12567354"
+				"buildid"		"12676262"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698635704"
+				"timeupdated"		"1700129049"
 			}
 			"compat"
 			{
@@ -454,15 +500,15 @@
 			}
 			"work98"
 			{
-				"buildid"		"12539695"
+				"buildid"		"12676262"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698631363"
+				"timeupdated"		"1699838370"
 			}
 			"work99"
 			{
-				"buildid"		"12539180"
+				"buildid"		"12675807"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698631344"
+				"timeupdated"		"1699841941"
 			}
 		}
 	}
