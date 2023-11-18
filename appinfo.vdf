@@ -1,0 +1,593 @@
+"appinfo"
+{
+	"appid"		"1233410"
+	"common"
+	{
+		"name"		"MicroWorks"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"500c5ee9c0b7ecef35117e55dca7922b0c3e5ab2"
+		"clienttga"		"77e0aeabfdd7dc0a0cc9b7ca5c53187dab9d1de7"
+		"icon"		"ce146617a11047d579c756af7125b3b69e348f42"
+		"logo"		"2aaa1635ecb10eb9f2930145872e28a3faff7965"
+		"logo_small"		"2aaa1635ecb10eb9f2930145872e28a3faff7965_thumb"
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"schinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"polish"		"1"
+			"dutch"		"1"
+			"brazilian"		"1"
+			"ukrainian"		"1"
+			"latam"		"1"
+		}
+		"name_localized"
+		{
+			"schinese"		"MicroWorks / 微机派对"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1694563200"
+			"tested_build_id"		"11764522"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controllertagwizard"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"37.1943243714802"
+				"height_pct"		"64.28169033977059"
+			}
+		}
+		"store_asset_mtime"		"1684982643"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Agiriko"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Agiriko"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"23"
+			"3"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_22"		"1"
+			"category_30"		"1"
+			"category_23"		"1"
+			"category_15"		"1"
+			"category_25"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"hebrew"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"lithuanian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"croatian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"belarusian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1662137760"
+		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1233410"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"597"
+			"2"		"3859"
+			"3"		"1734"
+			"4"		"8093"
+			"5"		"19"
+			"6"		"4747"
+			"7"		"4136"
+			"8"		"7178"
+			"9"		"1773"
+			"10"		"3810"
+			"11"		"4191"
+			"12"		"4195"
+			"13"		"4305"
+			"14"		"4726"
+			"15"		"3839"
+			"16"		"4094"
+			"17"		"4252"
+			"18"		"1697"
+			"19"		"5350"
+		}
+		"review_score"		"8"
+		"review_percentage"		"83"
+	}
+	"extended"
+	{
+		"developer"		"Agiriko"
+		"publisher"		"Agiriko"
+		"homepage"		"https://agiriko.digital/"
+		"isfreeapp"		"1"
+		"listofdlc"		"2355460"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"MicroWorks"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MicroWorks.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"workshopdepot"		"1233410"
+		"1233411"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"933123571639212417"
+					"size"		"8593251184"
+					"download"		"3327257664"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"developer"
+				{
+					"gid"		"F76442760A310017D5EEEE539B30431D"
+					"size"		"FF5380076658BAC2BAD0BF69DDBED10D"
+					"download"		"7FDF3808603467267B65C887401AD533"
+				}
+				"testing"
+				{
+					"gid"		"6E503EFC253FA74C25D0B21D4770E0B3"
+					"size"		"9AD5C5A1E29C40BDFC158FE64363DF36"
+					"download"		"2739FDB048DA6D0EECDBAFE3D5B343AD"
+				}
+			}
+		}
+		"2355460"
+		{
+			"dlcappid"		"2355460"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5922436281349297016"
+					"size"		"587694867"
+					"download"		"496770048"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"developer"
+				{
+					"gid"		"949CBB43BCA1DCBBE45D51622E1D9A7C"
+					"size"		"4A15FB68FB9A07F0DE910D1F787FFD34"
+					"download"		"C75C10A57106348DBA2533233FE49BDF"
+				}
+				"testing"
+				{
+					"gid"		"9D34EB17DF985B34DB1A48ABDAF9B6AA"
+					"size"		"8C335A2082CC674FDFA1A26F2FC71B30"
+					"download"		"D27CBEE85EFF954140F99037F8DF74E0"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12724313"
+				"timeupdated"		"1700243979"
+			}
+			"developer"
+			{
+				"buildid"		"12724313"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700165777"
+			}
+			"testing"
+			{
+				"buildid"		"12724313"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700243942"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"64000000"
+		"maxnumfiles"		"1500"
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#statusgeneric"		"{#Status_%leveltype%} {#Status_%countertype%}"
+					"#status_inmenu"		"In Main Menu"
+					"#status_ineditor"		"In Workshop Editor"
+					"#status_ingame"		"In Game: %LOBBYNAME%"
+					"#status_inboss"		"In Boss: %BOSSNAME%"
+					"#status_inlobby"		"In Lobby: %LOBBYNAME%"
+					"#status_insandbox"		"In Sandbox"
+					"#status_intutorial"		"In Tutorial"
+					"#status_inmodded"		"In Custom Level: %LEVELNAME%"
+					"#status_empty"		" "
+					"#status_counter"		"(%CURRENT%/%MAX%)"
+				}
+			}
+			"brazilian"
+			{
+				"tokens"
+				{
+					"#statusgeneric"		"{#Status_%leveltype%} {#Status_%countertype%}"
+					"#status_inmenu"		"No menu"
+					"#status_ineditor"		"No Editor"
+					"#status_ingame"		"Em uma partida: %LOBBYNAME%"
+					"#status_inboss"		"Em fase suprema: %BOSSNAME%"
+					"#status_inlobby"		"Em uma sala: %LOBBYNAME%"
+					"#status_insandbox"		"Na Área Livre"
+					"#status_intutorial"		"No tutorial"
+					"#status_inmodded"		"Em mapa personalizado: %LEVELNAME%"
+					"#status_empty"		" "
+					"#status_counter"		"(%CURRENT%/%MAX%)"
+				}
+			}
+			"koreana"
+			{
+				"tokens"
+				{
+					"#statusgeneric"		"{#Status_%leveltype%} {#Status_%countertype%}"
+					"#status_inmenu"		"메뉴에 있음"
+					"#status_ineditor"		"편집기 사용 중"
+					"#status_ingame"		"게임 플레이 중: %LOBBYNAME%"
+					"#status_inboss"		"보스 스테이지 플레이 중: %BOSSNAME%"
+					"#status_inlobby"		"로비에 있음: %LOBBYNAME%"
+					"#status_insandbox"		"샌드박스에 있음"
+					"#status_intutorial"		"튜토리얼 플레이 중"
+					"#status_inmodded"		"커스텀 레벨 플레이 중: %LEVELNAME%"
+					"#status_empty"		" "
+					"#status_counter"		"(%CURRENT%/%MAX%)"
+				}
+			}
+			"dutch"
+			{
+				"tokens"
+				{
+					"#statusgeneric"		"{#Status_%leveltype%} {#Status_%countertype%}"
+					"#status_inmenu"		"In het hoofdmenu"
+					"#status_ineditor"		"In de accessoire-editor"
+					"#status_ingame"		"In een potje: %LOBBYNAME%"
+					"#status_inboss"		"In een finale: %BOSSNAME%"
+					"#status_inlobby"		"In een lobby: %LOBBYNAME%"
+					"#status_insandbox"		"In de Testzone"
+					"#status_intutorial"		"In de Training"
+					"#status_inmodded"		"In een speciale zone: %LEVELNAME%"
+					"#status_empty"		" "
+					"#status_counter"		"(%CURRENT%/%MAX%)"
+				}
+			}
+			"french"
+			{
+				"tokens"
+				{
+					"#statusgeneric"		"{#Status_%leveltype%} {#Status_%countertype%}"
+					"#status_inmenu"		"Dans le menu"
+					"#status_ineditor"		"Dans l'éditeur"
+					"#status_ingame"		"En jeu: %LOBBYNAME%"
+					"#status_inboss"		"Dans un boss: %BOSSNAME%"
+					"#status_inlobby"		"Dans un salon: %LOBBYNAME%"
+					"#status_insandbox"		"Dans le bac à sable"
+					"#status_intutorial"		"En didactiel"
+					"#status_inmodded"		"Dans un niveau personnalisé: %LEVELNAME%"
+					"#status_empty"		" "
+					"#status_counter"		"(%CURRENT%/%MAX%)"
+				}
+			}
+			"german"
+			{
+				"tokens"
+				{
+					"#statusgeneric"		"{#Status_%leveltype%} {#Status_%countertype%}"
+					"#status_inmenu"		"Im Menü"
+					"#status_ineditor"		"Im Editor"
+					"#status_ingame"		"Im Spiel: %LOBBYNAME%"
+					"#status_inboss"		"In Boss: %BOSSNAME%"
+					"#status_inlobby"		"In einer Lobby: %LOBBYNAME%"
+					"#status_insandbox"		"Im Sandkasten"
+					"#status_intutorial"		"In Tutorial"
+					"#status_inmodded"		"In Custom Level: %LEVELNAME%"
+					"#status_empty"		" "
+					"#status_counter"		"(%CURRENT%/%MAX%)"
+				}
+			}
+			"japanese"
+			{
+				"tokens"
+				{
+					"#statusgeneric"		"{#Status_%leveltype%} {#Status_%countertype%}"
+					"#status_inmenu"		"メニューを利用中"
+					"#status_ineditor"		"エディターを利用中"
+					"#status_ingame"		"ゲームをプレイ中: %LOBBYNAME%"
+					"#status_inboss"		"ボスステージをプレイ中: %BOSSNAME%"
+					"#status_inlobby"		"ロビーにいます: %LOBBYNAME%"
+					"#status_insandbox"		"サンドボックスにいます"
+					"#status_intutorial"		"チュートリアル中"
+					"#status_inmodded"		"カスタムレベル中: %LEVELNAME%"
+					"#status_empty"		" "
+					"#status_counter"		"(%CURRENT%/%MAX%)"
+				}
+			}
+			"latam"
+			{
+				"tokens"
+				{
+					"#statusgeneric"		"{#Status_%leveltype%} {#Status_%countertype%}"
+					"#status_inmenu"		"En el Menú"
+					"#status_ineditor"		"En el Editor"
+					"#status_ingame"		"En Partida: %LOBBYNAME%"
+					"#status_inboss"		"En Jefe: %BOSSNAME%"
+					"#status_inlobby"		"En Sala: %LOBBYNAME%"
+					"#status_insandbox"		"En Sandbox"
+					"#status_intutorial"		"En Tutorial"
+					"#status_inmodded"		"En Nivel Personalizado: %LEVELNAME%"
+					"#status_empty"		" "
+					"#status_counter"		"(%CURRENT%/%MAX%)"
+				}
+			}
+			"polish"
+			{
+				"tokens"
+				{
+					"#statusgeneric"		"{#Status_%leveltype%} {#Status_%countertype%}"
+					"#status_inmenu"		"W menu głównym"
+					"#status_ineditor"		"W edytorze"
+					"#status_ingame"		"W grze: %LOBBYNAME%"
+					"#status_inboss"		"W trakcie rundy finałowej: %BOSSNAME%"
+					"#status_inlobby"		"W poczekalni: %LOBBYNAME%"
+					"#status_insandbox"		"W piaskownicy"
+					"#status_intutorial"		"W samouczku"
+					"#status_inmodded"		"W poziomie z Warsztatu: %LEVELNAME%"
+					"#status_empty"		" "
+					"#status_counter"		"(%CURRENT%/%MAX%)"
+				}
+			}
+			"russian"
+			{
+				"tokens"
+				{
+					"#statusgeneric"		"{#Status_%leveltype%} {#Status_%countertype%}"
+					"#status_inmenu"		"В меню"
+					"#status_ineditor"		"В редакторе"
+					"#status_ingame"		"В игре: %LOBBYNAME%"
+					"#status_inboss"		"На босс-раунде: %BOSSNAME%"
+					"#status_inlobby"		"В лобби: %LOBBYNAME%"
+					"#status_insandbox"		"В песочница"
+					"#status_intutorial"		"В обучении"
+					"#status_inmodded"		"На уровне из мастерской: %LEVELNAME%"
+					"#status_empty"		" "
+					"#status_counter"		"(%CURRENT%/%MAX%)"
+				}
+			}
+			"schinese"
+			{
+				"tokens"
+				{
+					"#statusgeneric"		"{#Status_%leveltype%} {#Status_%countertype%}"
+					"#status_inmenu"		"在菜单中"
+					"#status_ineditor"		"在编辑器中"
+					"#status_ingame"		"在游戏中: %LOBBYNAME%"
+					"#status_inboss"		"在最终决战: %BOSSNAME%"
+					"#status_inlobby"		"在大厅里: %LOBBYNAME%"
+					"#status_insandbox"		"在沙盒中"
+					"#status_intutorial"		"在教程中"
+					"#status_inmodded"		"在自定义关卡中: %LEVELNAME%"
+					"#status_empty"		" "
+					"#status_counter"		"(%CURRENT%/%MAX%)"
+				}
+			}
+			"italian"
+			{
+				"tokens"
+				{
+					"#statusgeneric"		"{#Status_%leveltype%} {#Status_%countertype%}"
+					"#status_inmenu"		"Nel Menù"
+					"#status_ineditor"		"Nell'Editor"
+					"#status_ingame"		"Nella Partita: %LOBBYNAME%"
+					"#status_inboss"		"Dal Boss: %BOSSNAME%"
+					"#status_inlobby"		"Nella Lobby: %LOBBYNAME%"
+					"#status_insandbox"		"Nel Sandbox"
+					"#status_intutorial"		"Nel Tutorial"
+					"#status_inmodded"		"Nel livello personalizzato: %LEVELNAME%"
+					"#status_empty"		" "
+					"#status_counter"		"(%CURRENT%/%MAX%)"
+				}
+			}
+			"ukrainian"
+			{
+				"tokens"
+				{
+					"#statusgeneric"		"{#Status_%leveltype%} {#Status_%countertype%}"
+					"#status_inmenu"		"В меню"
+					"#status_ineditor"		"В редакторі"
+					"#status_ingame"		"У грі: %LOBBYNAME%"
+					"#status_inboss"		"На босі: %BOSSNAME%"
+					"#status_inlobby"		"У лобі: %LOBBYNAME%"
+					"#status_insandbox"		"У пісочниці"
+					"#status_intutorial"		"У навчанні"
+					"#status_inmodded"		"На кастомному рівні: %LEVELNAME%"
+					"#status_empty"		" "
+					"#status_counter"		"(%CURRENT%/%MAX%)"
+				}
+			}
+		}
+	}
+}
