@@ -1,0 +1,187 @@
+"appinfo"
+{
+	"appid"		"2114320"
+	"common"
+	{
+		"name"		"Paradise Puzzle!"
+		"type"		"Game"
+		"releasestate"		"released"
+		"icon"		"bed4e0045be7e5e1caaa08962d47d9e896841f2c"
+		"clienttga"		"e32710e2e5cce3e3c15936e4f7d81f1f8a56851d"
+		"clienticon"		"b6e31a414836bc8e11483248286678a92ed13f9b"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"2"
+			"2"		"3"
+			"3"		"5"
+			"4"		"4"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"has_adult_content_violence"		"1"
+		"restricted_countries"		"CN,DE"
+		"small_capsule"
+		{
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+			"japanese"		"header_japanese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn,ja"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1664278355"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"PIXEL MINT"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"PRODUCTION PENCIL"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1662787713"
+		"community_hub_visible"		"1"
+		"gameid"		"2114320"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"597"
+			"2"		"1664"
+			"3"		"5537"
+			"4"		"3871"
+			"5"		"6650"
+			"6"		"12095"
+			"7"		"4085"
+			"8"		"1654"
+			"9"		"113"
+			"10"		"51306"
+			"11"		"5154"
+			"12"		"4667"
+			"13"		"14139"
+			"14"		"4182"
+		}
+		"review_score"		"4"
+		"review_percentage"		"32"
+	}
+	"extended"
+	{
+		"developer"		"PIXEL MINT"
+		"publisher"		"PRODUCTION PENCIL"
+		"homepage"		"https://www.facebook.com/Production-Pencil%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9A%E3%83%B3%E3%82%B7%E3%83%AB-108569011966415"
+		"isfreeapp"		"1"
+		"listofdlc"		"2115410"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Paradise Puzzle!"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"PARADISE PUZZLE!.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,schinese,japanese"
+		"hasdepotsindlc"		"0"
+		"2114321"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3428967626866344402"
+					"size"		"457106950"
+					"download"		"276537312"
+				}
+			}
+		}
+		"2115410"
+		{
+			"dlcappid"		"2115410"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7931506387825775941"
+					"size"		"116660764"
+					"download"		"114862736"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9321542"
+				"timeupdated"		"1660623350"
+			}
+		}
+	}
+}
