@@ -1,0 +1,387 @@
+"appinfo"
+{
+	"appid"		"1508630"
+	"common"
+	{
+		"name"		"Star Melody Yumemi Dreamer"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"d6500b5d0cac31ff58ff82d6b60032972da066c3"
+		"logo_small"		"d6500b5d0cac31ff58ff82d6b60032972da066c3_thumb"
+		"icon"		"17ba3fe2c98ae895ca29c1e1a0971aa0bc4498e9"
+		"clienticon"		"36b649f0d0e445ce204cd97577eb2a7aaa022438"
+		"clienttga"		"a0654a90276442132dab7f81686dae91620d04f0"
+		"name_localized"
+		{
+			"japanese"		"スターメロディー ユメミドリーマー"
+			"tchinese"		"星之旋律 守夢星少女"
+			"schinese"		"星之旋律 梦美梦战士"
+			"koreana"		"스타 멜로디 유메미 드리머"
+		}
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"2"
+			"2"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1679616000"
+			"tested_build_id"		"8060506"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"japanese"		"header_japanese.jpg"
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"ja,en"
+			"library_hero"		"ja,en"
+			"library_logo"		"ja,en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"35.93023255813954"
+				"height_pct"		"70.13773450486823"
+			}
+		}
+		"store_asset_mtime"		"1693945839"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"KOGADO STUDIO"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"KOMODO"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1642751720"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1508630"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"122"
+			"2"		"3799"
+			"3"		"1752"
+			"4"		"4085"
+			"5"		"12095"
+			"6"		"4726"
+			"7"		"4057"
+			"8"		"6650"
+			"9"		"4325"
+			"10"		"4345"
+			"11"		"4667"
+			"12"		"4182"
+			"13"		"7208"
+			"14"		"113"
+		}
+		"review_score"		"6"
+		"review_percentage"		"76"
+	}
+	"extended"
+	{
+		"developer"		"KOGADO STUDIO"
+		"publisher"		"KOMODO"
+		"homepage"		"https://yumemi.kogado.com/"
+		"isfreeapp"		"1"
+		"listofdlc"		"1711760,1711761,1711762,1796860,1796940,1796941,1796942,1796943,1796944,1796945,1796946,1797030"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Yumemi Dreamer"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"YumemiWin.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"japanese"
+		"1508631"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6280420271317385373"
+					"size"		"1713405027"
+					"download"		"1653918736"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"A8BD0EFDA458AEB190AE3BEA48731EB9"
+					"size"		"8073342782F1869E653EF96D116DDA90"
+					"download"		"9315D65A0AE7A948622833BFA6C8DCCD"
+				}
+			}
+		}
+		"1711760"
+		{
+			"dlcappid"		"1711760"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7753485141641847762"
+					"size"		"3129033746"
+					"download"		"2976700192"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"20B9643D0F6018FFB23A40AC38CB47D0"
+					"size"		"F0E4BA69893AC38002F0029038A0CD80"
+					"download"		"DFF50CE0DFF88966A85C1DB6CBE6FD8F"
+				}
+			}
+		}
+		"1508632"
+		{
+			"config"
+			{
+				"language"		"english"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8593730135432833143"
+					"size"		"29"
+					"download"		"80"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"1282325AA03994A82EC8819617CDAAB2"
+					"size"		"9C48AF5518CB9042BB40CD84C1377AAA"
+					"download"		"5FC275F13EA526A7C5E5350DFFE41541"
+				}
+			}
+		}
+		"1508633"
+		{
+			"config"
+			{
+				"language"		"japanese"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2205665787324982183"
+					"size"		"29"
+					"download"		"80"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"857E766D2E6081CD6BBC90C675B89C52"
+					"size"		"9C48AF5518CB9042BB40CD84C1377AAA"
+					"download"		"5FC275F13EA526A7C5E5350DFFE41541"
+				}
+			}
+		}
+		"1508634"
+		{
+			"config"
+			{
+				"language"		"schinese"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2542140814948674679"
+					"size"		"27"
+					"download"		"80"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"A941ABC5F176DAD7FBAA2CE2FF988244"
+					"size"		"062BC451AB2CD71B3DC6BD17803CDD12"
+					"download"		"5FC275F13EA526A7C5E5350DFFE41541"
+				}
+			}
+		}
+		"1508635"
+		{
+			"config"
+			{
+				"language"		"tchinese"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2844970027176680113"
+					"size"		"29"
+					"download"		"80"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"1DAAEA18D774D48C1A13D88D3B813820"
+					"size"		"9C48AF5518CB9042BB40CD84C1377AAA"
+					"download"		"5FC275F13EA526A7C5E5350DFFE41541"
+				}
+			}
+		}
+		"1508636"
+		{
+			"config"
+			{
+				"language"		"koreana"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5189741542378809346"
+					"size"		"29"
+					"download"		"80"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"0A4F13F1813D2293DFE6AD54B028EE68"
+					"size"		"9C48AF5518CB9042BB40CD84C1377AAA"
+					"download"		"5FC275F13EA526A7C5E5350DFFE41541"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11483734"
+				"timeupdated"		"1699499077"
+			}
+			"test"
+			{
+				"buildid"		"11483734"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686880961"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"Kogado/Yumemi"
+				"pattern"		"*.bin"
+			}
+		}
+	}
+}
