@@ -1,0 +1,848 @@
+"appinfo"
+{
+	"appid"		"1121310"
+	"common"
+	{
+		"name"		"ViRo Playspace"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"27debf020361155ef3dabca8f60bbe38d4a44f94"
+		"logo_small"		"27debf020361155ef3dabca8f60bbe38d4a44f94_thumb"
+		"icon"		"a158f4a657945ccc0250cb4b8a9a7cb7646fb4df"
+		"clienticon"		"b42f8d34485e696adba4546d57398a82ad953ecf"
+		"clienttga"		"c4edabd46ca2efbb5ee0219a281ab1e91ede4854"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+			"kbm"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+		}
+		"openvr_action_manifest_path"		"actions.json"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1121310_eula_0"
+				"name"		"Virtual Romance Club EULA"
+				"url"		"https://store.steampowered.com//eula/1121310_eula_0"
+			}
+		}
+		"releasestate"		"released"
+		"openvrsupport"		"1"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"3"
+			"2"		"5"
+			"3"		"4"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"restricted_countries"		"CN"
+		"metacritic_name"		"Virtual Romance Club"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"81.85128220181696"
+				"height_pct"		"47.92043583576674"
+			}
+		}
+		"store_asset_mtime"		"1671841174"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"LewdTube LLC"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"LewdTube LLC"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"23"
+			"3"		"28"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_35"		"1"
+			"category_18"		"1"
+			"category_52"		"1"
+			"category_53"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1568416260"
+		"community_hub_visible"		"1"
+		"gameid"		"1121310"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"12095"
+			"1"		"21978"
+			"2"		"5611"
+			"3"		"24904"
+			"4"		"9130"
+			"5"		"6650"
+			"6"		"9204"
+			"7"		"44868"
+			"8"		"11014"
+			"9"		"4947"
+			"10"		"9551"
+			"11"		"4726"
+			"12"		"599"
+			"13"		"3839"
+			"14"		"7250"
+			"15"		"493"
+			"16"		"492"
+			"17"		"4085"
+			"18"		"4182"
+			"19"		"1684"
+		}
+		"review_score"		"5"
+		"review_percentage"		"42"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"absolutemousecoordinates"		"0"
+		"remoteplaytogethertestingbranches"		"private_spaces_beta"
+		"developer"		"LewdTube LLC"
+		"publisher"		"LewdTube LLC"
+		"homepage"		"https://viro.club"
+		"isfreeapp"		"1"
+		"listofdlc"		"1369450,1369451,1369452,1369453,1369454,1369455,1369456,1402170,1547850,1771670,1841620,1961610,1989580,2180470,2236690"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Virtual Romance Club"
+		"launch"
+		{
+			"3"
+			{
+				"executable"		"ViRoPlayspace.exe"
+				"arguments"		"-runxr"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"ViRo Playspace SteamVR (Both VR/Non-VR)"
+				}
+				"description"		"ViRo Playspace SteamVR (Both VR/Non-VR)"
+			}
+			"4"
+			{
+				"executable"		"ViRoPlayspace.exe"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"ViRo Playspace (Non-VR)"
+				}
+				"description"		"ViRo Playspace (Non-VR)"
+			}
+		}
+		"steamcontrollertemplateindex"		"13"
+		"steamdecktouchscreen"		"1"
+		"steaminputmanifestpath"		"ViRoPlayspace_Data/StreamingAssets/input/actions.json"
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"hasdepotsindlc"		"0"
+		"1121311"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9101375245574238288"
+					"size"		"1579871223"
+					"download"		"594262208"
+				}
+				"public_beta"
+				{
+					"gid"		"6160895875594863256"
+					"size"		"1579871735"
+					"download"		"594263184"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"F070394E0588F8F0BF232B8D3349C4A1"
+					"size"		"CA5901F68E8E96A50FB587299CFA9212"
+					"download"		"EBB0BF85E0D9779CE805C8F43620B03A"
+				}
+				"private_spaces_beta"
+				{
+					"gid"		"1DE18DE54BEE75F992CFB44A9397C155"
+					"size"		"2671DEB957368D1098FAC2713DFC5FF4"
+					"download"		"42B409B8C85ED3C2F4DABD314096696A"
+				}
+			}
+		}
+		"1369450"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"dlcappid"		"1369450"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1303726233789313519"
+					"size"		"86350946"
+					"download"		"87532928"
+				}
+				"public_beta"
+				{
+					"gid"		"1303726233789313519"
+					"size"		"86350946"
+					"download"		"87532928"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"EBD15A93224A312CC3B92DC92A393062"
+					"size"		"205F4B2E5AE7403E201B825EF890A396"
+					"download"		"CD6A03D99EC490B37FD2BC5BFA111A9B"
+				}
+				"private_spaces_beta"
+				{
+					"gid"		"58FB87643588A5856A1BC2A02B86DA25"
+					"size"		"927162A860DC421D43C5D06604D0D4AE"
+					"download"		"F0C61AD82AAAA6B218401F7C62FE7A92"
+				}
+			}
+		}
+		"1369451"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"dlcappid"		"1369451"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3153482626308710352"
+					"size"		"39351305"
+					"download"		"39889792"
+				}
+				"public_beta"
+				{
+					"gid"		"3153482626308710352"
+					"size"		"39351305"
+					"download"		"39889792"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"896738ACD1C4962F7E59691910ACACE9"
+					"size"		"78E03FB222BF16CBD6FEEBA10538D7AD"
+					"download"		"BDE96A971A7F61859DC753FF32D7334E"
+				}
+				"private_spaces_beta"
+				{
+					"gid"		"1AC07FD549D5BF15EFD261E412FA831D"
+					"size"		"A91543BF3BA8A86F744DFEF1078BEFD1"
+					"download"		"6FD6585423301BBB74EE81B976317FFE"
+				}
+			}
+		}
+		"1369452"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"dlcappid"		"1369452"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5965649526381389241"
+					"size"		"55776839"
+					"download"		"56540528"
+				}
+				"public_beta"
+				{
+					"gid"		"5965649526381389241"
+					"size"		"55776839"
+					"download"		"56540528"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"5C971E6A30FA75F72282FD01D1E14C33"
+					"size"		"C28A1EE242753AB054B81614A15A0094"
+					"download"		"C2308923EF603E16D352DF4760BF7A52"
+				}
+				"private_spaces_beta"
+				{
+					"gid"		"2FDBB5158B6D52CA1BDA91FD14CD87EB"
+					"size"		"14ED99CC9373BA0BD63F155972298C98"
+					"download"		"861FFAC6BE3ED1FDE479570D5BA0F0DD"
+				}
+			}
+		}
+		"1369453"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"dlcappid"		"1369453"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1397412189265993928"
+					"size"		"91294366"
+					"download"		"92543712"
+				}
+				"public_beta"
+				{
+					"gid"		"1397412189265993928"
+					"size"		"91294366"
+					"download"		"92543712"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"AF849624B0899493D5020A479ECADC21"
+					"size"		"BB867AC73BD64C5BABEFC97973C73D08"
+					"download"		"BB81C987EC9031BC70B74AB47E919F9E"
+				}
+				"private_spaces_beta"
+				{
+					"gid"		"0EC3708071792A46639F7C26F3F3AA49"
+					"size"		"5E73724ED7E77E6573A8A90A9B04A661"
+					"download"		"E6A3EE6E8F7096113E4D91F8EE09E034"
+				}
+			}
+		}
+		"1369454"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"dlcappid"		"1369454"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1735166696061845910"
+					"size"		"59058857"
+					"download"		"59867504"
+				}
+				"public_beta"
+				{
+					"gid"		"1735166696061845910"
+					"size"		"59058857"
+					"download"		"59867504"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"2BCCA35E46E313C8C4AF7221375CA2E4"
+					"size"		"C196929F54B1566581700F6D2A3AA8F8"
+					"download"		"D7220B506CFE17E703F1DB0249D3CFA9"
+				}
+				"private_spaces_beta"
+				{
+					"gid"		"BF9F005DB7D41F1D6557E10CFB947D83"
+					"size"		"6E5EB135ADDD54C203808845A3CCC31C"
+					"download"		"BA942ECBA574E3EDBBC0984E7E6F57FA"
+				}
+			}
+		}
+		"1369455"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"dlcappid"		"1369455"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1102315906148220018"
+					"size"		"50430106"
+					"download"		"51119600"
+				}
+				"public_beta"
+				{
+					"gid"		"1102315906148220018"
+					"size"		"50430106"
+					"download"		"51119600"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"AC19C3E0C42FC4ADE0CA50C69BFC75B8"
+					"size"		"747663D5A9CE4059F04C83E29CDA534F"
+					"download"		"A41CB5FCB8990251BEC4D91C8E3A2EF7"
+				}
+				"private_spaces_beta"
+				{
+					"gid"		"79382AE942AB54F83B5AB3A435BB1E97"
+					"size"		"D37FB0E67E019EF9A085980B9407CE75"
+					"download"		"497873E06198FFF0AE3B750911613DC5"
+				}
+			}
+		}
+		"1369456"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"dlcappid"		"1369456"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"72919877073943469"
+					"size"		"84024098"
+					"download"		"85173408"
+				}
+				"public_beta"
+				{
+					"gid"		"72919877073943469"
+					"size"		"84024098"
+					"download"		"85173408"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"426B34285A7D2269AE054A11FF6D159E"
+					"size"		"744811A33697E020BA20D435557EDBF0"
+					"download"		"BDDE3BB5B7979327A610C7958981967F"
+				}
+				"private_spaces_beta"
+				{
+					"gid"		"84C6C4C463C8B2664D3A8F779B917C52"
+					"size"		"4C54E2E5AA9E7C4FD7D3C2678CFDF040"
+					"download"		"26418C7E069EB04712593FB8F61B36B9"
+				}
+			}
+		}
+		"1402170"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"dlcappid"		"1402170"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1935407313462560676"
+					"size"		"81414668"
+					"download"		"82527872"
+				}
+				"public_beta"
+				{
+					"gid"		"1935407313462560676"
+					"size"		"81414668"
+					"download"		"82527872"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"B7932CF9F8B42F55530E8B5684EECDEB"
+					"size"		"EB0988E7438FA7B90036C4DAE5F6B4E3"
+					"download"		"86EFD6F9A1A045B53CEB82EA1D1E3DE3"
+				}
+				"private_spaces_beta"
+				{
+					"gid"		"817230BE069BAC2AA9DBE88DC75E3FD2"
+					"size"		"B806337BAA1516D36E9C4F5C0D3C19DE"
+					"download"		"8C8863A0188073D59E04ACB8A57BBB48"
+				}
+			}
+		}
+		"1547850"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"dlcappid"		"1547850"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6928867706979701452"
+					"size"		"149254447"
+					"download"		"151295952"
+				}
+				"public_beta"
+				{
+					"gid"		"6928867706979701452"
+					"size"		"149254447"
+					"download"		"151295952"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"104BA2CDD1C9FDC1DE7ED4AB580298D6"
+					"size"		"4E489827E162DEA141F144C721DCCFC7"
+					"download"		"D2997DB8FC9EB2DEAE83AF4830227795"
+				}
+				"private_spaces_beta"
+				{
+					"gid"		"3EDD0B6B953DD0527E6D2DB609399386"
+					"size"		"12034214AD759CB0F2E290CB3ECAB8E9"
+					"download"		"5FD577C135B6EAC402EDC056CE2CDFAF"
+				}
+			}
+		}
+		"1771670"
+		{
+			"dlcappid"		"1771670"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"778941221529922684"
+					"size"		"151638868"
+					"download"		"153713392"
+				}
+				"public_beta"
+				{
+					"gid"		"778941221529922684"
+					"size"		"151638868"
+					"download"		"153713392"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"7A7FB42B7948E7EF8DB7635A18CE63E9"
+					"size"		"A7EF86CEC7E97086956826EF622F2E5F"
+					"download"		"B96F5F2E947339E8A6E7536EA48356BD"
+				}
+				"private_spaces_beta"
+				{
+					"gid"		"649FE5920E8BF11F22502A9D1BDA138A"
+					"size"		"5A86717ED1C0B303D70EF99E61E0EBC3"
+					"download"		"75FC08F9F3D5DA0818ECA580C0D5BBAA"
+				}
+			}
+		}
+		"1841620"
+		{
+			"dlcappid"		"1841620"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6190652881950094304"
+					"size"		"170661699"
+					"download"		"172996880"
+				}
+				"public_beta"
+				{
+					"gid"		"6190652881950094304"
+					"size"		"170661699"
+					"download"		"172996880"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"766E77238CAB81C483025D62D8824005"
+					"size"		"22F103C7F0DB98DCF8250AD42C47C827"
+					"download"		"4477269170C46882E09A5F74420A9897"
+				}
+				"private_spaces_beta"
+				{
+					"gid"		"5D82307146C644F3900BAA5B29202114"
+					"size"		"403FEB0E3C0797DD6FC543F6E88F0CCB"
+					"download"		"BC14694DEDCFAA843D0A7C7CB270C8CB"
+				}
+			}
+		}
+		"1961610"
+		{
+			"dlcappid"		"1961610"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2004538842289408603"
+					"size"		"158054235"
+					"download"		"160216912"
+				}
+				"public_beta"
+				{
+					"gid"		"2004538842289408603"
+					"size"		"158054235"
+					"download"		"160216912"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"249565F0B2D7F99EC87A67B395DC525C"
+					"size"		"10F5E83BD04562F8500F6813DD9A2D20"
+					"download"		"0356AD494D8FFAC3F85379FA5E694551"
+				}
+				"private_spaces_beta"
+				{
+					"gid"		"0BA91CC49444EBE10D6D6BBFF8D950B2"
+					"size"		"B14D308A3B4B235FE10F0056E9FB321F"
+					"download"		"CDDECB51D4EE9DB0DEBD2EFA1F8B270D"
+				}
+			}
+		}
+		"1989580"
+		{
+			"dlcappid"		"1989580"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1476884339648892660"
+					"size"		"191459668"
+					"download"		"194080176"
+				}
+				"public_beta"
+				{
+					"gid"		"1476884339648892660"
+					"size"		"191459668"
+					"download"		"194080176"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"B695F5EBE823024CF1E13221F1695668"
+					"size"		"7187573CB84A239EF6E1D4B9665A9BBD"
+					"download"		"2297199DA0CDACCD1A65AD7626923ECB"
+				}
+				"private_spaces_beta"
+				{
+					"gid"		"7BF4972B9CF6E1EDAAEF1C3A48D5E007"
+					"size"		"75F6212B955531937D002A5628894721"
+					"download"		"C6D3B0711B0C3C3B3989D42240124813"
+				}
+			}
+		}
+		"2180470"
+		{
+			"dlcappid"		"2180470"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"940289545900458937"
+					"size"		"150819272"
+					"download"		"152883536"
+				}
+				"public_beta"
+				{
+					"gid"		"940289545900458937"
+					"size"		"150819272"
+					"download"		"152883536"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"B3495A894926CBD896920B66D5C63DEC"
+					"size"		"A19EE095B6BD8C5B24C3A76698774496"
+					"download"		"F4026EA86474F573BDD877B87706634A"
+				}
+				"private_spaces_beta"
+				{
+					"gid"		"D73691D5BEF2C7A4ACE2F638ECE86888"
+					"size"		"87094ECFC6DB4460AA6C03C5E0E4D1AD"
+					"download"		"2A5C21387BFA5D684DB77F107373A6EE"
+				}
+			}
+		}
+		"2236690"
+		{
+			"dlcappid"		"2236690"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7875640433356066821"
+					"size"		"130729526"
+					"download"		"132517792"
+				}
+				"public_beta"
+				{
+					"gid"		"7540034960429861395"
+					"size"		"130695935"
+					"download"		"132484336"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"98CE8A586A1EFA460B8ABEBD220893E7"
+					"size"		"0FD937E6EB70A599E2A941E6AA65DAB9"
+					"download"		"0B87873DCFC13DA5B037F922DE0EABBE"
+				}
+				"private_spaces_beta"
+				{
+					"gid"		"7FF267B0528495AEEB7C5B22F00D0068"
+					"size"		"B3B8F8E678D2BE36D4D50C76A2099219"
+					"download"		"8FA9B00660CABABF4FA5005F02D7112B"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10195797"
+				"timeupdated"		"1671666481"
+			}
+			"beta"
+			{
+				"buildid"		"10195535"
+				"pwdrequired"		"1"
+				"timeupdated"		"1671663628"
+			}
+			"private_spaces_beta"
+			{
+				"buildid"		"10181196"
+				"pwdrequired"		"1"
+				"timeupdated"		"1671505296"
+			}
+			"public_beta"
+			{
+				"buildid"		"10209079"
+				"description"		"ViRo Public Beta Test"
+				"timeupdated"		"1671836322"
+			}
+		}
+	}
+}
