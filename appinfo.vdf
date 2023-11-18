@@ -1,0 +1,406 @@
+"appinfo"
+{
+	"appid"		"351790"
+	"common"
+	{
+		"name"		"Invisible Apartment"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"icon"		"113868c92cb87dd9aefa472c7be53360a53d4c27"
+		"clienttga"		"b56199d485afd7dba1c2fb0c2c6f27d1be618950"
+		"linuxclienticon"		"276922a1cb7546e3d9220b484ec14f0f4a227095"
+		"clienticon"		"cda28b1fa4f25b9807c6b21d20d083f66d60706f"
+		"logo"		"9c17514e6047358c03faf05655295768a012749b"
+		"logo_small"		"9c17514e6047358c03faf05655295768a012749b_thumb"
+		"releasestate"		"released"
+		"metacritic_name"		"Invisible Apartment"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1429560806"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Milan Kazarka"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Jeroen van Oosten"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Vysoko Anime Production"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"37"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1425289350"
+		"community_hub_visible"		"1"
+		"gameid"		"351790"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"4085"
+			"2"		"3799"
+			"3"		"21"
+			"4"		"7208"
+			"5"		"4115"
+			"6"		"492"
+			"7"		"5502"
+			"8"		"3871"
+			"9"		"6650"
+			"10"		"4234"
+		}
+		"review_score"		"6"
+		"review_percentage"		"70"
+	}
+	"extended"
+	{
+		"developer"		"Milan Kazarka"
+		"publisher"		"Vysoko Anime Production"
+		"homepage"		"http://invisibleapartment.com"
+		"isfreeapp"		"1"
+		"listofdlc"		"353000,532060,543220,543230"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Invisible Apartment"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ia.exe"
+				"description"		"Launch"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"ia.sh"
+				"description"		"Launch"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+			"2"
+			{
+				"executable"		"ia.app/Contents/MacOS/ia"
+				"description"		"Launch"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+					"osarch"		"64"
+				}
+			}
+			"3"
+			{
+				"executable"		"ia.exe"
+				"description"		"Invisible Apartment Bundle"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"bundle"
+				}
+			}
+			"4"
+			{
+				"executable"		"ia.sh"
+				"description"		"Invisible Apartment Bundle"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"linux"
+					"betakey"		"bundle"
+				}
+			}
+			"5"
+			{
+				"executable"		"ia.app/Contents/MacOS/ia"
+				"description"		"Invisible Apartment bundle"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"macos"
+					"betakey"		"bundle"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"351791"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2095609884684449029"
+					"size"		"61739204"
+					"download"		"20918768"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"bundle"
+				{
+					"gid"		"3E180E0268FE9ED39480BE18FD72E99A"
+					"size"		"CE39D891EB7914A1B6415A783AB0341B"
+					"download"		"3013695B3477EC59F7C1BA152A0A3EAB"
+				}
+				"development"
+				{
+					"gid"		"DD98E69F14783780C576CDCB8A41BF0E"
+					"size"		"29A6A0389B7AFDA38DCB47BFE8F53820"
+					"download"		"5AD4C14C6F4393688B17122D8D61BC3A"
+				}
+			}
+		}
+		"351792"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5692609767087053053"
+					"size"		"62029097"
+					"download"		"21168576"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"bundle"
+				{
+					"gid"		"567AA0FD2DD7EDE7B87DDC57098F65E5"
+					"size"		"82606A0E408940FE10CD014C25FD17BC"
+					"download"		"FC4E63187C1375444E2FD9DF5CB2B5AA"
+				}
+				"development"
+				{
+					"gid"		"1B98CC6FF120B92477AB4208F91ADE05"
+					"size"		"1963CCD9BCA0992E142546F038EB7B21"
+					"download"		"EBD93CD01FA7FD8BD1AFE58C8A3BF5CB"
+				}
+			}
+		}
+		"353000"
+		{
+			"dlcappid"		"353000"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3592511055778910152"
+					"size"		"39017880"
+					"download"		"37830352"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"bundle"
+				{
+					"gid"		"24B1185BFE86116944794429B56AD17C"
+					"size"		"401600BA8D2BEE05C00005E33AE1849D"
+					"download"		"F53CC38FAB1613FD52194E139A98CFB5"
+				}
+				"development"
+				{
+					"gid"		"C9C4C6795D3EBEF9A8BAC85F9F320525"
+					"size"		"544D81647182F6AF0B7E4B5586BFA4F0"
+					"download"		"BC9FE3B0A813E366CDCFF9F6A86FF9DA"
+				}
+			}
+		}
+		"351793"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7600242239232469805"
+					"size"		"32810926"
+					"download"		"13466736"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"bundle"
+				{
+					"gid"		"D5DAD34747DB443B283B72F5661BCD70"
+					"size"		"6AFBD5BD9EB8949E82C7358C8FF96745"
+					"download"		"EDF17C4EB9BB1AFDDFE3E82C669F7FA4"
+				}
+				"development"
+				{
+					"gid"		"9B920F0CB1747A2F5DC94533F3973804"
+					"size"		"AF66CA77CD76EE4B2FAE8A5F22330D58"
+					"download"		"8E1F20BF1C65EEB2EEDBF6CA724F9AFD"
+				}
+			}
+		}
+		"351794"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8855135606445242349"
+					"size"		"89298176"
+					"download"		"86077424"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"bundle"
+				{
+					"gid"		"D5A5FD13E41C3C7128F61318F0DEF6C2"
+					"size"		"A7D03F738858AFDB45FC93132584DBB6"
+					"download"		"F42B9B6B533527FC68CA5E00608E6DB8"
+				}
+				"development"
+				{
+					"gid"		"BCE69671E768714565242842F7DD5B5F"
+					"size"		"4FBC2275F978FC20CDA9F159C2241A99"
+					"download"		"89A2DF5FDE028671ADFC454DE7034932"
+				}
+			}
+		}
+		"532060"
+		{
+			"dlcappid"		"532060"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3664149332149633093"
+					"size"		"205346816"
+					"download"		"182679392"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"bundle"
+				{
+					"gid"		"E2E7CDEFB66D955BB6D093BB90E45AB4"
+					"size"		"571BE86E7777F9BC7E0844332D97CD53"
+					"download"		"3CFACAF5BFCD4EB153C232497DC63F76"
+				}
+			}
+		}
+		"543230"
+		{
+			"dlcappid"		"0"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7224927949523704507"
+					"size"		"55135232"
+					"download"		"52539280"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"bundle"
+				{
+					"gid"		"AD10CD5E0759286D1CEF15DED4B5901E"
+					"size"		"FE43E10DC353D5FB66EE6C54980201FC"
+					"download"		"98FEA7CDAEAEF1B24AB0A67BB7633627"
+				}
+			}
+		}
+		"543220"
+		{
+			"dlcappid"		"0"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1106165746377468723"
+					"size"		"413414912"
+					"download"		"234311952"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"bundle"
+				{
+					"gid"		"DAF4B682C39D79873F1032C822792E88"
+					"size"		"443999277852029ADDDF1FDA87C416CA"
+					"download"		"A24DC8E177976F19EF21212A9E36CE45"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1396907"
+				"timeupdated"		"1476728081"
+			}
+			"bundle"
+			{
+				"buildid"		"1395259"
+				"pwdrequired"		"1"
+				"timeupdated"		"1476653912"
+			}
+			"development"
+			{
+				"buildid"		"860271"
+				"pwdrequired"		"1"
+			}
+		}
+	}
+}
