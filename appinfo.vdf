@@ -1,0 +1,629 @@
+"appinfo"
+{
+	"appid"		"345390"
+	"common"
+	{
+		"name"		"King's Quest"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"logo"		"e081f01d987c51d591919dc29c15f5caf4a43d45"
+		"logo_small"		"e081f01d987c51d591919dc29c15f5caf4a43d45_thumb"
+		"clienticon"		"1a8e5ae5a08c75aa01629a4e3b15d991aed40b75"
+		"clienttga"		"be1bce0c4d1ae3d7206efd81ceda396ea37bc19a"
+		"icon"		"0912bcb4cd46f70a0a01cb74ed37843121e2d561"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+		}
+		"exfgls"		"0"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1646956800"
+			"tested_build_id"		"1487864"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+			}
+		}
+		"metacritic_name"		"King's Quest"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"63.76896149358227"
+				"height_pct"		"57.21918784136784"
+			}
+		}
+		"store_asset_mtime"		"1571099222"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"The Odd Gentlemen"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Sierra"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1438102680"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"345390"
+		"store_tags"
+		{
+			"0"		"21"
+			"1"		"1664"
+			"2"		"1698"
+			"3"		"1684"
+			"4"		"1742"
+			"5"		"4182"
+			"6"		"1719"
+			"7"		"4136"
+			"8"		"1693"
+			"9"		"4242"
+			"10"		"5708"
+			"11"		"1756"
+			"12"		"4172"
+			"13"		"4004"
+			"14"		"7782"
+			"15"		"6691"
+			"16"		"3871"
+			"17"		"6426"
+			"18"		"113"
+			"19"		"769306"
+		}
+		"review_score"		"8"
+		"review_percentage"		"89"
+	}
+	"extended"
+	{
+		"developer"		"The Odd Gentlemen"
+		"publisher"		"Sierra"
+		"homepage"		"http://www.sierra.com/kingsquest"
+		"isfreeapp"		"1"
+		"listofdlc"		"360270,360280,373490,373491,384620,384621,385720,385721"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"King's Quest"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Binaries/Win/KingsQuest.exe"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigfileids"		"535276890"
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french"
+		"228981"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228982"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229004"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"345391"
+		{
+			"config"
+			{
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4994429950066138149"
+					"size"		"43666432"
+					"download"		"12561008"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"baseline"
+				{
+					"gid"		"2FF6396B8E29C131C0A79940F77C49DB"
+					"size"		"C43146A07968D4352BB44811B15DB6D5"
+					"download"		"8B3A2A8FBA28D77E05F76A53EEB4534D"
+				}
+				"beta"
+				{
+					"gid"		"03AA2B8DC93EB691298A5CED159D3304"
+					"size"		"992EC36C580ABBA0E0E0F4BBBB62701B"
+					"download"		"B609F6EB6C5C186622DB2B8DCD66149A"
+				}
+				"press"
+				{
+					"gid"		"7D872132AD8D723F562194B59606109A"
+					"size"		"90380C11F008B2C92FB5E154DDAF00EF"
+					"download"		"20FEB53D1D116FD13A9C851EF00B76CC"
+				}
+			}
+		}
+		"345393"
+		{
+			"config"
+			{
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8949539713193871343"
+					"size"		"54198784"
+					"download"		"15009920"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"baseline"
+				{
+					"gid"		"A971C0246D1F933516BDAA5F4DC0A95B"
+					"size"		"0780261AA20029A3CC3A27B066422890"
+					"download"		"F4340B677C1EE204B8BEAD1EE5828163"
+				}
+				"beta"
+				{
+					"gid"		"137AE1C941B182CE56270CB441642411"
+					"size"		"CF701217AF499529818679C90E6A9812"
+					"download"		"D3358867AB8AE98EC2A12E868AF10603"
+				}
+				"press"
+				{
+					"gid"		"6BD3EE9FC433B276024C1995282A7A75"
+					"size"		"F439C612E62D23751A772205CF1D6064"
+					"download"		"74CDD45597E7998473E4DFB985436741"
+				}
+			}
+		}
+		"345392"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7537609144334940285"
+					"size"		"4323419821"
+					"download"		"3436819968"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"baseline"
+				{
+					"gid"		"559D84CF821DDF8F7BF11A84BFF372A2"
+					"size"		"104FDEB59F3BF884BD4246F976676A39"
+					"download"		"087B2566505B54488D36F7AA7EA21B7A"
+				}
+				"beta"
+				{
+					"gid"		"3321F257317B79E1E0BC5EE7E2324073"
+					"size"		"29E8E0792EA139DE190F18058BE15C79"
+					"download"		"710D41EBE68A4FF6D445489FE32D729A"
+				}
+				"press"
+				{
+					"gid"		"08F8251CB5CCEBA294BC094D6BC1DECE"
+					"size"		"4075956E79AF5105F56AC867B3C9BA6C"
+					"download"		"8F81093DE11AF2DD6CF515B4FFA2703C"
+				}
+			}
+		}
+		"345394"
+		{
+			"config"
+			{
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3092915760229310120"
+					"size"		"68143128"
+					"download"		"28548064"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"baseline"
+				{
+					"gid"		"2B154D4866B3F95A31964893B4B7A4B2"
+					"size"		"68B227713C007355B631825D0263359F"
+					"download"		"B0BC707841AC81323B669566473ED58C"
+				}
+				"beta"
+				{
+					"gid"		"0EF9659D16C85616A66EDB94E6C4C6AC"
+					"size"		"0C9AF2D19E9D9B4C7F207F64025F0B8A"
+					"download"		"137F40C491EE0E3108212E23CA5F808D"
+				}
+				"press"
+				{
+					"gid"		"BA5E8D684B0AF571E347E370E0F1A179"
+					"size"		"F50145F2B22D4509C4E4684BF7805D55"
+					"download"		"FB43AC40E0B9A14859381FC9B4792737"
+				}
+			}
+		}
+		"345395"
+		{
+			"config"
+			{
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6522583905759024897"
+					"size"		"75753848"
+					"download"		"30981056"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"baseline"
+				{
+					"gid"		"B537AB72054043C19149C6FD37786D63"
+					"size"		"9E94117DFB31277613CE70D998913617"
+					"download"		"0F89FC21C22D17E1966453C922AF6333"
+				}
+				"beta"
+				{
+					"gid"		"7CB6F48735F619A19D9E999E402C1C94"
+					"size"		"B63CA370BB800C7A09B2C9582E6F0611"
+					"download"		"53142B2521F4A7646DBAB6392BBFCC78"
+				}
+				"press"
+				{
+					"gid"		"5C8D6803FA2BD6C5EA928269F5590B41"
+					"size"		"BAB6C3E53370F271360B4C42F0EF42F9"
+					"download"		"7F0F09C7A89CAC7EA8ED88A97931D23A"
+				}
+			}
+		}
+		"360270"
+		{
+			"dlcappid"		"360270"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"648574608910822444"
+					"size"		"2767608034"
+					"download"		"2189800528"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"8B9CC1556548B04CEB5465916A6B1DB1"
+					"size"		"4F4EE6F67F53D5346C83DC2543CFCEA6"
+					"download"		"40FECEAC9E379AEED7BA7A3524EE4B60"
+				}
+				"press"
+				{
+					"gid"		"E32D7C5C56110B142ED8830D41E19B66"
+					"size"		"FE32874D60EFD618CEA5585373A21345"
+					"download"		"6B1BE8B8FABE4106BFBCCFEA58F04329"
+				}
+			}
+		}
+		"360280"
+		{
+			"dlcappid"		"360280"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3263640479152106158"
+					"size"		"3269037036"
+					"download"		"2599593856"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"59F112CE8F40119E3483A396584A8F90"
+					"size"		"F991029AA23CB0E3AD402AF908D55744"
+					"download"		"C4AA6A1BB70BD94CBFA92858274F3AA4"
+				}
+				"press"
+				{
+					"gid"		"8497C6B5B6F42C843D886432C29C0413"
+					"size"		"B2BECDFA5D815CB00A7ED263FDA7573C"
+					"download"		"84CBC775CEA9A3A2B6A8B859D159CE04"
+				}
+			}
+		}
+		"373490"
+		{
+			"dlcappid"		"373490"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1464059817440716607"
+					"size"		"3305092465"
+					"download"		"2623031088"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"CC4D7D1B869E760D577CE0E650510A2B"
+					"size"		"CE8C89ED63F97296C7DC2D738847092C"
+					"download"		"E569C4EE2C7C0D194459D2F8A709740F"
+				}
+				"press"
+				{
+					"gid"		"5EB59B5C8F6938B49CF2C6FAE00EA2A3"
+					"size"		"77A04D946C1A417B9D90EE2E251AEB7A"
+					"download"		"D2B95D0BD4350BF10786B8A3D297B9E2"
+				}
+			}
+		}
+		"373491"
+		{
+			"dlcappid"		"373491"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4195459067883297695"
+					"size"		"2965820766"
+					"download"		"2389484128"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"F9639B2723843270F78F557706F0CDC2"
+					"size"		"71126BA2C5455CCE13C1996F4F80AEC3"
+					"download"		"19416F88CBC49DBA9CC01A486C4D0B69"
+				}
+				"press"
+				{
+					"gid"		"AA5189E1BD2EF29E746C461226363000"
+					"size"		"B4E7969287F96885C2E2CA35375B18CD"
+					"download"		"BB887C9EFE65F8537CAFD7CB7102632F"
+				}
+			}
+		}
+		"384620"
+		{
+			"dlcappid"		"0"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"949264708492472192"
+					"size"		"540489768"
+					"download"		"423572064"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"FF5E3D3A27BA52A33C31680E2E4F0828"
+					"size"		"67A00EC71966D0F2E636CFCC23AA0B80"
+					"download"		"7735FF7A2807610490711B88EDDDDE5F"
+				}
+			}
+		}
+		"384621"
+		{
+			"dlcappid"		"384621"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"319877860974963741"
+					"size"		"14529540"
+					"download"		"14653008"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"baseline"
+				{
+					"gid"		"27FCCDDB80CC48417E009EDDC705128E"
+					"size"		"574D5FD4002C5877F0B3224B280940D1"
+					"download"		"F1637F2F9A314F9322460F222C884066"
+				}
+				"beta"
+				{
+					"gid"		"34E726F04E10F6346E929135B230BEA1"
+					"size"		"6C826AB9631D19C6104C692CABDDB824"
+					"download"		"5D5C2C408E2F9D374535C1D620162733"
+				}
+				"press"
+				{
+					"gid"		"78B48FDE50262E35A409A1F19EA482CE"
+					"size"		"F68E7AB7220C345341D104877CC86A2D"
+					"download"		"5DC685A5000A4E37CB123BC92062C52C"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1487864"
+				"timeupdated"		"1482256853"
+			}
+			"baseline"
+			{
+				"buildid"		"708354"
+				"pwdrequired"		"1"
+			}
+			"beta"
+			{
+				"buildid"		"1487864"
+				"pwdrequired"		"1"
+				"timeupdated"		"1480451793"
+			}
+			"press"
+			{
+				"buildid"		"707475"
+				"pwdrequired"		"1"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10485760"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"Binaries"
+				"pattern"		"KQSave.*"
+				"recursive"		"1"
+			}
+		}
+		"hidecloudui"		"1"
+		"ignoreexternalfiles"		"1"
+	}
+}
