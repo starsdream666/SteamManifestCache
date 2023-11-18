@@ -1,0 +1,448 @@
+"appinfo"
+{
+	"appid"		"1706340"
+	"common"
+	{
+		"name"		"Big Klondike"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64"
+		"clienticon"		"8de1614839a62ee2efd5da39ff2bc0849a20e041"
+		"clienttga"		"601ec6e4f44bbc74b9b76ef5e3e23a09b60c5b68"
+		"icon"		"753d327ee45f178c9f552087006c0a23a8f8cb75"
+		"logo"		"b87396fbf3203780dcdd8a27e360a897f4adc45f"
+		"logo_small"		"b87396fbf3203780dcdd8a27e360a897f4adc45f_thumb"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"61.3953488372093"
+				"height_pct"		"85.94158157207318"
+			}
+		}
+		"store_asset_mtime"		"1627424795"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Subsoap"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Pixcade.com"
+			}
+			"2"
+			{
+				"type"		"developer"
+				"name"		"SolitairePlease.com"
+			}
+			"3"
+			{
+				"type"		"publisher"
+				"name"		"Subsoap"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1631131666"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1706340"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"1666"
+			"2"		"1770"
+			"3"		"13070"
+			"4"		"1664"
+			"5"		"4305"
+			"6"		"4166"
+			"7"		"6129"
+			"8"		"1654"
+			"9"		"4182"
+			"10"		"6971"
+		}
+		"review_score"		"8"
+		"review_percentage"		"92"
+	}
+	"extended"
+	{
+		"developer"		"Subsoap"
+		"publisher"		"Subsoap"
+		"homepage"		"https://www.bigklondike.com/"
+		"isfreeapp"		"1"
+		"listofdlc"		"1712190,2634670,2667390,2684870"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Big Klondike"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"BigKlondikeClassicSolitaire.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
+			}
+			"1"
+			{
+				"executable"		"Big Klondike - Classic Solitaire.app\\Contents\\MacOS\\BigKlondikeClassicSolitaire"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+				"description_loc"
+				{
+					"english"		"Launch macOS"
+				}
+				"description"		"Launch macOS"
+			}
+			"2"
+			{
+				"executable"		"BigKlondikeClassicSolitaire.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
+			}
+		}
+	}
+	"depots"
+	{
+		"229020"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1706341"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9217848761485450074"
+					"size"		"55319676"
+					"download"		"17079152"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"D8BF3139D88BDC786E5C73E57E6A0711"
+					"size"		"CAB348C953E4BF7F9BA462C301BD5BB1"
+					"download"		"693DD77F7F9BFAA93CF0BF8B85D08C26"
+				}
+			}
+		}
+		"1706342"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"855767960257137354"
+					"size"		"26161310"
+					"download"		"12038240"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"2B11063030448BC3C03E214EF0843283"
+					"size"		"61891DE5FB5684DFBEEC18912FB77752"
+					"download"		"8B7AB4BF69D332DE15206D8E433BFB74"
+				}
+			}
+		}
+		"1706343"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2003278898559895470"
+					"size"		"18861138"
+					"download"		"10733872"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"BAD356E609DD7F444D431872687EF075"
+					"size"		"2112FEBEA0E066127D7B53300B1D157D"
+					"download"		"7B130B66E6E0EAC4F7DA666D184B293C"
+				}
+			}
+		}
+		"1712190"
+		{
+			"dlcappid"		"1712190"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6513642561364288548"
+					"size"		"1095"
+					"download"		"704"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"AFA4B51500CECC3E66946C8B4FDCA593"
+					"size"		"4131FB6C2E9F0B20B2F3F26C643A250C"
+					"download"		"EACC822662F66E15B37BC06AD4E74681"
+				}
+			}
+		}
+		"1712201"
+		{
+			"dlcappid"		"1712201"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2862834582770050599"
+					"size"		"1130"
+					"download"		"720"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"D4592DD9374FA74BA501565B2A9055FD"
+					"size"		"94242BDB72C04EC291368EA057AC06D6"
+					"download"		"C5CF99B482FD4A05345C1E4EB9FB669C"
+				}
+			}
+		}
+		"1712200"
+		{
+			"dlcappid"		"1712200"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"149304447253703288"
+					"size"		"1028"
+					"download"		"688"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"8C09D0E9F7342D41E5E218A6236570B5"
+					"size"		"6EC96497987917750595D53BAD31E6BD"
+					"download"		"E5783ABBFA9FB4AC6C586946C9A9EC80"
+				}
+			}
+		}
+		"1712191"
+		{
+			"dlcappid"		"1712191"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1615861260306144014"
+					"size"		"1030"
+					"download"		"672"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"F2894F98BCC45A5F9AFAB75FD9D4BFDD"
+					"size"		"B711A3BC98D358E75698D4E29DD77868"
+					"download"		"FE895F223C34969738FDADEECCF6111C"
+				}
+			}
+		}
+		"2634670"
+		{
+			"dlcappid"		"2634670"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5503799891653036094"
+					"size"		"1856"
+					"download"		"1232"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"B08ED927F32174BD8DFD81E8AEC739C0"
+					"size"		"E42FBECBC0AC28A74F27E885CEC694F7"
+					"download"		"E1EF05306543CA6F7F2B7A8BEDE72929"
+				}
+			}
+		}
+		"2667390"
+		{
+			"dlcappid"		"2667390"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2602839646886390287"
+					"size"		"1857"
+					"download"		"1232"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"5FA54B34D0C29CFCFA5383AD7B3F31CD"
+					"size"		"6C31DBF73F4A5A313C3E9CEDBC42599E"
+					"download"		"E1EF05306543CA6F7F2B7A8BEDE72929"
+				}
+			}
+		}
+		"2684870"
+		{
+			"dlcappid"		"2684870"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3454580201390518686"
+					"size"		"1859"
+					"download"		"1232"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"E46D1E34DDA3BC1CCF1B93C3AA2C13FC"
+					"size"		"2DE1907EC491159590FF293CAA584904"
+					"download"		"E1EF05306543CA6F7F2B7A8BEDE72929"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12716754"
+				"timeupdated"		"1700250984"
+			}
+			"beta"
+			{
+				"buildid"		"12716754"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700107646"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"10000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"Big Klondike"
+				"pattern"		"*"
+				"recursive"		"1"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataRoaming"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"addpath"		""
+			}
+			"1"
+			{
+				"root"		"WinAppDataRoaming"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxXdgConfigHome"
+				"addpath"		""
+			}
+		}
+	}
+}
