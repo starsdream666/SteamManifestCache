@@ -16,57 +16,55 @@
 		"type"		"game"
 		"steam_deck_compatibility"
 		{
-			"category"		"2"
-			"test_timestamp"		"1645833600"
-			"tested_build_id"		"5433873"
+			"category"		"3"
+			"test_timestamp"		"1700265600"
+			"tested_build_id"		"12705647"
 			"tests"
 			{
 				"0"
 				{
-					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 				}
 				"1"
 				{
-					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
 				}
 				"2"
 				{
-					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
 				}
 				"3"
 				{
-					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 				}
 				"4"
 				{
-					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_NativeResolutionNotSupported"
-				}
-				"5"
-				{
-					"display"		"4"
-					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
 				}
 			}
 			"configuration"
 			{
 				"supported_input"		"gamepad"
-				"requires_manual_keyboard_invoke"		"1"
+				"requires_manual_keyboard_invoke"		"0"
 				"requires_non_controller_launcher_nav"		"0"
-				"primary_player_is_controller_slot_0"		"0"
+				"primary_player_is_controller_slot_0"		"1"
 				"non_deck_display_glyphs"		"0"
-				"small_text"		"1"
+				"small_text"		"0"
 				"requires_internet_for_setup"		"0"
 				"requires_internet_for_singleplayer"		"0"
-				"recommended_runtime"		"proton-stable"
+				"recommended_runtime"		"native"
 				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
 			}
 		}
 		"metacritic_name"		"Half-Life"
+		"controllertagwizard"		"1"
+		"controller_support"		"full"
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
@@ -83,11 +81,11 @@
 			"logo_position"
 			{
 				"pinned_position"		"BottomCenter"
-				"width_pct"		"78"
-				"height_pct"		"27"
+				"width_pct"		"77.01516064953753"
+				"height_pct"		"43.685387882494695"
 			}
 		}
-		"store_asset_mtime"		"1666824241"
+		"store_asset_mtime"		"1700269067"
 		"associations"
 		{
 			"0"
@@ -124,6 +122,11 @@
 			"category_42"		"1"
 			"category_45"		"1"
 			"category_46"		"1"
+			"category_28"		"1"
+			"category_55"		"1"
+			"category_56"		"1"
+			"category_57"		"1"
+			"category_58"		"1"
 		}
 		"supported_languages"
 		{
@@ -176,8 +179,8 @@
 		"store_tags"
 		{
 			"0"		"1663"
-			"1"		"1693"
-			"2"		"3942"
+			"1"		"3942"
+			"2"		"1693"
 			"3"		"6691"
 			"4"		"4182"
 			"5"		"3859"
@@ -185,14 +188,14 @@
 			"7"		"1774"
 			"8"		"3839"
 			"9"		"1673"
-			"10"		"1742"
-			"11"		"15954"
+			"10"		"15954"
+			"11"		"1742"
 			"12"		"4166"
 			"13"		"1669"
 			"14"		"21"
 			"15"		"4004"
-			"16"		"4106"
-			"17"		"4345"
+			"16"		"4345"
+			"17"		"4106"
 			"18"		"4026"
 			"19"		"1775"
 		}
@@ -266,9 +269,23 @@
 				"use_action_block"		"false"
 			}
 		}
+		"steamdecktouchscreen"		"1"
+		"steamcontrollertemplateindex"		"13"
+		"uselaunchcommandline"		"1"
+		"steaminputmanifestpath"		"valve\\controller_configs\\hl1_manifest.vdf"
+		"steamconfigurator3rdpartynative"		"65531"
 	}
 	"depots"
 	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
 		"overridescddb"		"1"
 		"1"
 		{
@@ -281,15 +298,30 @@
 			{
 				"public"
 				{
-					"gid"		"5928322771446233610"
-					"size"		"429833890"
-					"download"		"245303808"
+					"gid"		"8474943113327689461"
+					"size"		"512567408"
+					"download"		"264598800"
 				}
 				"beta"
 				{
 					"gid"		"5928322771446233610"
 					"size"		"429833890"
 					"download"		"245303808"
+				}
+				"steam_legacy"
+				{
+					"gid"		"5928322771446233610"
+					"size"		"429833890"
+					"download"		"245303808"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"FE854A4336D43E87F0A7BAFEBF6B4894"
+					"size"		"C9159F61AB410A4438D800ED729B5554"
+					"download"		"5F3AF8ADB970824737C502B0E8D0EDF9"
 				}
 			}
 		}
@@ -304,15 +336,30 @@
 			{
 				"public"
 				{
-					"gid"		"8096513071444961518"
-					"size"		"895434"
-					"download"		"148592"
+					"gid"		"8677918445794389773"
+					"size"		"891064"
+					"download"		"146960"
 				}
 				"beta"
 				{
 					"gid"		"8096513071444961518"
 					"size"		"895434"
 					"download"		"148592"
+				}
+				"steam_legacy"
+				{
+					"gid"		"8096513071444961518"
+					"size"		"895434"
+					"download"		"148592"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"E19BAC3B0A8B8FCB8077F8E57D294FE4"
+					"size"		"3473C82A01429EF3CEB6CD1B10A6239D"
+					"download"		"3ABD4556273E0EB81B3605D95268FBEF"
 				}
 			}
 		}
@@ -327,15 +374,30 @@
 			{
 				"public"
 				{
-					"gid"		"9183617604528345869"
-					"size"		"15302314"
-					"download"		"3886448"
+					"gid"		"4810518696754112547"
+					"size"		"16379159"
+					"download"		"4174320"
 				}
 				"beta"
 				{
 					"gid"		"9183617604528345869"
 					"size"		"15302314"
 					"download"		"3886448"
+				}
+				"steam_legacy"
+				{
+					"gid"		"9183617604528345869"
+					"size"		"15302314"
+					"download"		"3886448"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"AFF2BB5A55AADC1420D74852D3D764BF"
+					"size"		"CEB2A0EBDA68EE52FE36059D9FC03A8A"
+					"download"		"11AFA600EC2AE884BC2C77F6F94A72E9"
 				}
 			}
 		}
@@ -359,6 +421,21 @@
 					"size"		"8060176"
 					"download"		"5689520"
 				}
+				"steam_legacy"
+				{
+					"gid"		"8007990985538868417"
+					"size"		"8060176"
+					"download"		"5689520"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"BEC9F031F8DA01D97A9A889233B8D521"
+					"size"		"C7E1AE74A02E096EE0429195D28D3BA2"
+					"download"		"3ED1431AA7733B6DA5F6DE6748614F1B"
+				}
 			}
 		}
 		"9"
@@ -373,15 +450,30 @@
 			{
 				"public"
 				{
-					"gid"		"5920416249792874591"
-					"size"		"52997165"
-					"download"		"19007840"
+					"gid"		"7678592515477258089"
+					"size"		"55480049"
+					"download"		"19253680"
 				}
 				"beta"
 				{
 					"gid"		"5920416249792874591"
 					"size"		"52997165"
 					"download"		"19007840"
+				}
+				"steam_legacy"
+				{
+					"gid"		"5920416249792874591"
+					"size"		"52997165"
+					"download"		"19007840"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"27F0947B93053A185843F23BB5E8A13A"
+					"size"		"11478502D134DD99A522C0FD52463042"
+					"download"		"FA767B3CB59BBC7FE836E60B3AD43845"
 				}
 			}
 		}
@@ -397,15 +489,30 @@
 			{
 				"public"
 				{
-					"gid"		"8088891443299905514"
-					"size"		"101276917"
-					"download"		"34443152"
+					"gid"		"2809540380682473923"
+					"size"		"127556964"
+					"download"		"42453984"
 				}
 				"beta"
 				{
 					"gid"		"8088891443299905514"
 					"size"		"101276917"
 					"download"		"34443152"
+				}
+				"steam_legacy"
+				{
+					"gid"		"8088891443299905514"
+					"size"		"101276917"
+					"download"		"34443152"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"E63B7E6851C3005E281311251EF01416"
+					"size"		"98DF7BB8147B1415D05C0588343B8541"
+					"download"		"F1C841759168B091101395CFD9568766"
 				}
 			}
 		}
@@ -421,15 +528,30 @@
 			{
 				"public"
 				{
-					"gid"		"2139852524811213490"
-					"size"		"43425161"
-					"download"		"18630208"
+					"gid"		"3716178136436536937"
+					"size"		"49638917"
+					"download"		"18896800"
 				}
 				"beta"
 				{
 					"gid"		"2139852524811213490"
 					"size"		"43425161"
 					"download"		"18630208"
+				}
+				"steam_legacy"
+				{
+					"gid"		"2139852524811213490"
+					"size"		"43425161"
+					"download"		"18630208"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"3AC92A3F23AAC01144DFC1EC63D22D0A"
+					"size"		"B83926A10C8891B52C3E54C35E3D41C6"
+					"download"		"AB9BD7162BCB8BE8F7EE7C10A7C09222"
 				}
 			}
 		}
@@ -444,15 +566,30 @@
 			{
 				"public"
 				{
-					"gid"		"672119804007398607"
-					"size"		"52196726"
-					"download"		"27950304"
+					"gid"		"8518478957342391261"
+					"size"		"52196711"
+					"download"		"27950128"
 				}
 				"beta"
 				{
 					"gid"		"672119804007398607"
 					"size"		"52196726"
 					"download"		"27950304"
+				}
+				"steam_legacy"
+				{
+					"gid"		"672119804007398607"
+					"size"		"52196726"
+					"download"		"27950304"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"C620010A422D098F0A8083DED8C0455F"
+					"size"		"0F592D9ABB8BD673AFEB5AE932EF8199"
+					"download"		"A1857AC080D47136189A37F88F68665C"
 				}
 			}
 		}
@@ -466,15 +603,30 @@
 			{
 				"public"
 				{
-					"gid"		"9076462543170487900"
-					"size"		"39371535"
-					"download"		"29623536"
+					"gid"		"2141025744664328429"
+					"size"		"39330993"
+					"download"		"29617296"
 				}
 				"beta"
 				{
 					"gid"		"9076462543170487900"
 					"size"		"39371535"
 					"download"		"29623536"
+				}
+				"steam_legacy"
+				{
+					"gid"		"9076462543170487900"
+					"size"		"39371535"
+					"download"		"29623536"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"5401DC2163079D2890AD84C49E7FF351"
+					"size"		"23560CEBDDB1AF68FE8FD7D864FAE6DA"
+					"download"		"CA279FAE5BD2F86F7508FF5428AA2359"
 				}
 			}
 		}
@@ -488,15 +640,30 @@
 			{
 				"public"
 				{
-					"gid"		"8955354892932449263"
-					"size"		"54732725"
-					"download"		"36533488"
+					"gid"		"1722264968234549745"
+					"size"		"54692067"
+					"download"		"36527040"
 				}
 				"beta"
 				{
 					"gid"		"8955354892932449263"
 					"size"		"54732725"
 					"download"		"36533488"
+				}
+				"steam_legacy"
+				{
+					"gid"		"8955354892932449263"
+					"size"		"54732725"
+					"download"		"36533488"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"6E38AFBAD2873E5C8BC815ABD5EE9324"
+					"size"		"C9EE30EBAEC9A1F0E910E2C609270305"
+					"download"		"EF6CF337669235A5331D4C7AB64E10AB"
 				}
 			}
 		}
@@ -510,15 +677,30 @@
 			{
 				"public"
 				{
-					"gid"		"5000716531281502924"
-					"size"		"52452190"
-					"download"		"35271056"
+					"gid"		"5006839850931738281"
+					"size"		"52411317"
+					"download"		"35264592"
 				}
 				"beta"
 				{
 					"gid"		"5000716531281502924"
 					"size"		"52452190"
 					"download"		"35271056"
+				}
+				"steam_legacy"
+				{
+					"gid"		"5000716531281502924"
+					"size"		"52452190"
+					"download"		"35271056"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"2A1CD1EFE366D665B9609AB7B651427B"
+					"size"		"B61392DC7443DF0620D705FBAA393851"
+					"download"		"812AA0AD1B857CB469B8CD1AF00EC749"
 				}
 			}
 		}
@@ -532,15 +714,30 @@
 			{
 				"public"
 				{
-					"gid"		"5346937471339178026"
-					"size"		"48056236"
-					"download"		"37932592"
+					"gid"		"5325874620395614361"
+					"size"		"48053778"
+					"download"		"37929856"
 				}
 				"beta"
 				{
 					"gid"		"5346937471339178026"
 					"size"		"48056236"
 					"download"		"37932592"
+				}
+				"steam_legacy"
+				{
+					"gid"		"5346937471339178026"
+					"size"		"48056236"
+					"download"		"37932592"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"0833327245120A98917FDE0380FF098C"
+					"size"		"94A2C273776CE489553DFE55664CD743"
+					"download"		"9F05068FC351861334C00A510FD44E49"
 				}
 			}
 		}
@@ -554,15 +751,30 @@
 			{
 				"public"
 				{
-					"gid"		"6840227080551199882"
-					"size"		"45740712"
-					"download"		"32821248"
+					"gid"		"7411056699616671453"
+					"size"		"45707698"
+					"download"		"32815600"
 				}
 				"beta"
 				{
 					"gid"		"6840227080551199882"
 					"size"		"45740712"
 					"download"		"32821248"
+				}
+				"steam_legacy"
+				{
+					"gid"		"6840227080551199882"
+					"size"		"45740712"
+					"download"		"32821248"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"A3578DE6A06B8EB59118C40FD20717D3"
+					"size"		"65A5725E8FF71DDE5D1EFD4A72835E3D"
+					"download"		"85FEA7D9B76BD52F4F3A98AA5666BB3E"
 				}
 			}
 		}
@@ -576,15 +788,30 @@
 			{
 				"public"
 				{
-					"gid"		"896621515282850048"
-					"size"		"45548818"
-					"download"		"33767664"
+					"gid"		"8533028865808097805"
+					"size"		"45547419"
+					"download"		"33765440"
 				}
 				"beta"
 				{
 					"gid"		"896621515282850048"
 					"size"		"45548818"
 					"download"		"33767664"
+				}
+				"steam_legacy"
+				{
+					"gid"		"896621515282850048"
+					"size"		"45548818"
+					"download"		"33767664"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"8B6DBE610141F6FA0EFCBFA940AABC5E"
+					"size"		"225FE24A854EFEB0F000BDC7C1575BF4"
+					"download"		"DEB92E89A9AD07094615735F77B95652"
 				}
 			}
 		}
@@ -598,15 +825,30 @@
 			{
 				"public"
 				{
-					"gid"		"6324191722012548347"
-					"size"		"45741130"
-					"download"		"32821488"
+					"gid"		"2283652065145063989"
+					"size"		"45739787"
+					"download"		"32819312"
 				}
 				"beta"
 				{
 					"gid"		"6324191722012548347"
 					"size"		"45741130"
 					"download"		"32821488"
+				}
+				"steam_legacy"
+				{
+					"gid"		"6324191722012548347"
+					"size"		"45741130"
+					"download"		"32821488"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"9F51DAB1538A0695F60B4806B940830D"
+					"size"		"4F6678DFCB9E25E8918AD89A5EE1A8F8"
+					"download"		"13CFFE093D34682B0A2314BCBD9965BA"
 				}
 			}
 		}
@@ -630,20 +872,47 @@
 					"size"		"79628"
 					"download"		"14352"
 				}
+				"steam_legacy"
+				{
+					"gid"		"6510631708251431404"
+					"size"		"79628"
+					"download"		"14352"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"25685A300132D44C822216DCA7D9F5B4"
+					"size"		"03DB4C97916AD4ABD34369FAD67E7E39"
+					"download"		"96FEC25D4B423B7534B6716A00A3D657"
+				}
 			}
 		}
 		"branches"
 		{
 			"public"
 			{
-				"buildid"		"5433873"
-				"timeupdated"		"1597950383"
+				"buildid"		"12732492"
+				"timeupdated"		"1700244376"
 			}
 			"beta"
 			{
 				"buildid"		"5433873"
 				"description"		"Beta"
 				"timeupdated"		"1597870441"
+			}
+			"steam_legacy"
+			{
+				"buildid"		"5433873"
+				"description"		"Pre-25th Anniversary Build"
+				"timeupdated"		"1700243650"
+			}
+			"test"
+			{
+				"buildid"		"12737873"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700276850"
 			}
 		}
 	}
