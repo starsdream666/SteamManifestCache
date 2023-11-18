@@ -1,0 +1,304 @@
+"appinfo"
+{
+	"appid"		"949060"
+	"common"
+	{
+		"name"		"Love Thyself - A Horatio Story"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"logo"		"c4460bae76d2c9c95c942452d51c1d4c64bac7d7"
+		"logo_small"		"c4460bae76d2c9c95c942452d51c1d4c64bac7d7_thumb"
+		"icon"		"ba9d20fe3c5fbb2e354aedb9058e8790840d6ad4"
+		"clienttga"		"0b1fa6eba18913b06240b8d105a5aeafab2d7506"
+		"clienticon"		"7104d2ebd971a4106f2cc470666400b673aa7c49"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"949060_eula_0"
+				"name"		"Love Thyself - A Horatio Story EULA"
+				"url"		"https://store.steampowered.com//eula/949060_eula_0"
+			}
+		}
+		"clienticns"		"70c80a71b78b48a1361599c175089b846e390dda"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1665014400"
+			"tested_build_id"		"3890173"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"SOE Unused App"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"97.49465685110425"
+			}
+		}
+		"store_asset_mtime"		"1602513162"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"AMPLITUDE Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"SEGA"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"AmplitudeStudios"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1554130803"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"949060"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3799"
+			"1"		"597"
+			"2"		"492"
+			"3"		"599"
+			"4"		"9551"
+			"5"		"4136"
+			"6"		"4182"
+			"7"		"1756"
+			"8"		"113"
+			"9"		"3942"
+		}
+		"review_score"		"8"
+		"review_percentage"		"92"
+	}
+	"extended"
+	{
+		"developer"		"AMPLITUDE Studios"
+		"publisher"		"SEGA"
+		"homepage"		"https://www.games2gether.com"
+		"isfreeapp"		"1"
+		"listofdlc"		"1087900"
+	}
+	"config"
+	{
+		"installdir"		"LoveThyself"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"LoveThyself.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"LoveThyself.app"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229004"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"949061"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7335981433319872232"
+					"size"		"202097594"
+					"download"		"145304832"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"backup"
+				{
+					"gid"		"05B61DB36AE06C8D0AB22242BABA12F6"
+					"size"		"69ADD2735AD31D20B35884D2A48F1C49"
+					"download"		"D8E3D95DBD4434977862E26F92B2A92A"
+				}
+				"backup2"
+				{
+					"gid"		"CB7E922B50C59D76EB2A428803E3C6ED"
+					"size"		"481C1194DEAFA1D40BE24AFD9D788BD1"
+					"download"		"0ABFF90CA082AABF921E18688B0265B1"
+				}
+				"internal"
+				{
+					"gid"		"48A5774FD9DC26606ECC091BCDDCB59D"
+					"size"		"DFA329B79E7E7FFE3D36DCE7CAC19D1D"
+					"download"		"398831F12DF5436A1F2EFC0391FE64EF"
+				}
+				"preview"
+				{
+					"gid"		"81545BD748DE713F9EDE820BCA80D3BB"
+					"size"		"4CA46C70BCF6DB169AE10A6D77BCF3C5"
+					"download"		"3B0CF39B9E3864ACDBA2031F162A954F"
+				}
+			}
+		}
+		"1087900"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3957657392943954695"
+					"size"		"10392"
+					"download"		"9088"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"backup2"
+				{
+					"gid"		"431EAD31B60553F0EBA238FE253E0403"
+					"size"		"F4508F39CA750ECCE8F3A6A09954503A"
+					"download"		"12E8C0F412494FD752FB014CBCA9CCA5"
+				}
+				"internal"
+				{
+					"gid"		"AEB3748C6213B082AFAE04AA469482B5"
+					"size"		"66948404A5482E2F662B664DA2CE5EBE"
+					"download"		"FB32DE448C6BEA41D932BD7FAEF53656"
+				}
+				"preview"
+				{
+					"gid"		"4749A0B10FAC940B2033159C473AB521"
+					"size"		"6AAB895C8C6D7338D1DC6EBE0635D219"
+					"download"		"4D28513A304F3BC7759F658EECE0777D"
+				}
+			}
+			"dlcappid"		"1087900"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"3890173"
+				"timeupdated"		"1561628453"
+			}
+			"backup"
+			{
+				"buildid"		"3698300"
+				"pwdrequired"		"1"
+				"timeupdated"		"1559652265"
+			}
+			"backup2"
+			{
+				"buildid"		"3890173"
+				"pwdrequired"		"1"
+				"timeupdated"		"1561032695"
+			}
+			"internal"
+			{
+				"buildid"		"3937242"
+				"pwdrequired"		"1"
+				"timeupdated"		"1561020686"
+			}
+			"preview"
+			{
+				"buildid"		"3847178"
+				"pwdrequired"		"1"
+				"timeupdated"		"1558531088"
+			}
+		}
+	}
+}
