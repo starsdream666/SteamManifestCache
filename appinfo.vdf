@@ -1,0 +1,158 @@
+"appinfo"
+{
+	"appid"		"2588220"
+	"common"
+	{
+		"name"		"Telluria: Forebodings Gear Minigame"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"ea8f54723a7fa0c382447858651ab147a1df3f6b"
+		"clienticon"		"74c39e1ecd293564089d72ae885632ea489366ed"
+		"clienttga"		"e7aa0060e5f6355ab131785f0b3047dd7f0804af"
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"italian"		"1"
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,it"
+			"library_hero"		"en,it"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"81.22098288840928"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1695286721"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Paolo Roncaglia"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Altocorno"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2588220"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"597"
+			"2"		"1664"
+			"3"		"5537"
+			"4"		"4191"
+			"5"		"4726"
+			"6"		"1697"
+			"7"		"1684"
+			"8"		"6129"
+			"9"		"7208"
+			"10"		"4182"
+			"11"		"1698"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Paolo Roncaglia"
+		"publisher"		"Altocorno"
+		"isfreeapp"		"1"
+		"listofdlc"		"2624770"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"TFBGear"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TFBGear.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"2588221"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3500161618920452104"
+					"size"		"375748195"
+					"download"		"132341792"
+				}
+			}
+		}
+		"2624770"
+		{
+			"dlcappid"		"2624770"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"486096488417264164"
+					"size"		"317145681"
+					"download"		"98157440"
+				}
+			}
+		}
+		"baselanguages"		"english"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12619741"
+				"timeupdated"		"1699106329"
+			}
+		}
+	}
+}
