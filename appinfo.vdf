@@ -1,0 +1,597 @@
+"appinfo"
+{
+	"appid"		"625430"
+	"common"
+	{
+		"name"		"Doodle God Blitz"
+		"type"		"Game"
+		"clienttga"		"0dd7f799fdbae94c85c62caf48ca4b268d992b5d"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"portuguese"		"1"
+			"polish"		"1"
+			"dutch"		"1"
+			"swedish"		"1"
+		}
+		"oslist"		"windows,macos,linux"
+		"logo"		"8ed714acde7b344cf81309f4e96718fe4055f999"
+		"logo_small"		"8ed714acde7b344cf81309f4e96718fe4055f999_thumb"
+		"clienticon"		"58700a5807fe93553ea22420ddcedfd165bd955e"
+		"icon"		"9b1429433740bfcb2fe1e89a2b0be15d908bafb7"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1676419200"
+			"tested_build_id"		"9713789"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-5"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Doodle God Blitz"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1496331546"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"JoyBits Ltd."
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"JoyBits Ltd."
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"28"
+			"3"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_23"		"1"
+			"category_35"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"swedish"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1504292101"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"625430"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"597"
+			"2"		"492"
+			"3"		"599"
+			"4"		"1664"
+			"5"		"5300"
+			"6"		"4182"
+		}
+		"review_score"		"5"
+		"review_percentage"		"67"
+	}
+	"extended"
+	{
+		"developer"		"JoyBits Ltd."
+		"publisher"		"JoyBits Ltd."
+		"homepage"		"http://doodlegod.com"
+		"isfreeapp"		"1"
+		"listofdlc"		"707740,726660,733880,746180,794890,819300,832100,836040,844680,845130,862930,862931,894860,894870,915690,942360,1042440"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Doodle God Blitz"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"DoodleGod.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"DoodleGame"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"osarch"		"64"
+				}
+			}
+			"2"
+			{
+				"executable"		"DoodleGodBlitz.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228987"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,polish,dutch,swedish"
+		"625431"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4607065586620625464"
+					"size"		"287801762"
+					"download"		"237781616"
+				}
+				"bug_version"
+				{
+					"gid"		"6640195105637170973"
+					"size"		"152970703"
+					"download"		"110538352"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"previos_release"
+				{
+					"gid"		"7CC900A6F50BB3F13E29E0D12A4E33D1"
+					"size"		"24830608ABF5BED96199BD5FDE42B085"
+					"download"		"3F5B28CDCDA9A1EC5F3EEA84B2B0263E"
+				}
+				"test"
+				{
+					"gid"		"33FF3EE8228B850969FE177E6100377D"
+					"size"		"F05B79C1FB2CEEB19D2785EABF0BAF17"
+					"download"		"89FC6C0D24A01F5CB25529705A78827D"
+				}
+			}
+		}
+		"625432"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3804030497206588712"
+					"size"		"10266654"
+					"download"		"3544512"
+				}
+				"bug_version"
+				{
+					"gid"		"2361242506139500610"
+					"size"		"9565142"
+					"download"		"3255648"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"previos_release"
+				{
+					"gid"		"F67AE5BD23068250C44CC02DBBE44924"
+					"size"		"106DF841B425823D456427AF10156532"
+					"download"		"CBEABC576CF23C501056BFDCCDF94771"
+				}
+				"test"
+				{
+					"gid"		"5B35EE92052946E10205F683E3C82785"
+					"size"		"AC187F02B02948C2D165F9BBC544CD40"
+					"download"		"A0A2CB997D2968845C57D1036FBA7CED"
+				}
+			}
+		}
+		"625433"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8444521145381974516"
+					"size"		"22244651"
+					"download"		"6379776"
+				}
+				"bug_version"
+				{
+					"gid"		"8054616833323912942"
+					"size"		"22239777"
+					"download"		"6379440"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"previos_release"
+				{
+					"gid"		"E08191C094EB8571D33B47039B6FCDDE"
+					"size"		"88BCDCABC597B4CE75E8F2186817D116"
+					"download"		"0C29662CB2A30493CE4EAD4BF1DEFD26"
+				}
+				"test"
+				{
+					"gid"		"88A26C53B104C1EB0B43CD1D71324149"
+					"size"		"2244BC0ACB8326AC767B00DDA62D61B7"
+					"download"		"5BF5028E00FF0F7A4D8A2BF2583600F0"
+				}
+			}
+		}
+		"625434"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9121319555443559033"
+					"size"		"159273933"
+					"download"		"110480080"
+				}
+				"bug_version"
+				{
+					"gid"		"3450958384150100896"
+					"size"		"159240387"
+					"download"		"110466080"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"previos_release"
+				{
+					"gid"		"2854BD4EF956E39DDDE19E6AA8F529C1"
+					"size"		"6C050DEBFA4E3CAEC0D6BB10AD428755"
+					"download"		"4EC2822B6F778DA13E5DB67D68660667"
+				}
+				"test"
+				{
+					"gid"		"E5F2BFEEB0AB721980AE54A5303994E0"
+					"size"		"5663DA1653CFBC9A163683387C8A049F"
+					"download"		"BA3AEE812A49BF45058C91B1574D1B78"
+				}
+			}
+		}
+		"625435"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6513161662132403061"
+					"size"		"287801762"
+					"download"		"237781616"
+				}
+				"bug_version"
+				{
+					"gid"		"3125709089821955407"
+					"size"		"152970703"
+					"download"		"110538352"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"previos_release"
+				{
+					"gid"		"23BD49BCDB7E93E1C85CBC2DA9AE5221"
+					"size"		"24830608ABF5BED96199BD5FDE42B085"
+					"download"		"3F5B28CDCDA9A1EC5F3EEA84B2B0263E"
+				}
+				"test"
+				{
+					"gid"		"C5C0D747B92B4DE80B3EB89BBF59F6E4"
+					"size"		"F05B79C1FB2CEEB19D2785EABF0BAF17"
+					"download"		"89FC6C0D24A01F5CB25529705A78827D"
+				}
+			}
+		}
+		"707740"
+		{
+			"dlcappid"		"707740"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"319234996824230377"
+					"size"		"16136"
+					"download"		"4144"
+				}
+				"bug_version"
+				{
+					"gid"		"319234996824230377"
+					"size"		"16136"
+					"download"		"4144"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"previos_release"
+				{
+					"gid"		"0BBF9D35975A3136EB13AB219A1741BE"
+					"size"		"A56315B18443A5EE0DCD9E6DB0AA20DC"
+					"download"		"1C4EC16A16AAD31F0FDE247CDD564BBE"
+				}
+				"test"
+				{
+					"gid"		"D2126453C8C2BF6D64085A080A1FB87A"
+					"size"		"F1356A47BC9B3D320B16936D07033848"
+					"download"		"AFF43EA6ACD78F022EA117A0254799C2"
+				}
+			}
+		}
+		"726660"
+		{
+			"dlcappid"		"726660"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2557494182197099050"
+					"size"		"4761"
+					"download"		"1568"
+				}
+				"bug_version"
+				{
+					"gid"		"2557494182197099050"
+					"size"		"4761"
+					"download"		"1568"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"previos_release"
+				{
+					"gid"		"BBD089247538D545967308B532E42B6B"
+					"size"		"995A884FA390059EF7B2DAABFDD721DD"
+					"download"		"31DC88E9C37A2666895E6FCCC4350E42"
+				}
+				"test"
+				{
+					"gid"		"F8EE7D6EA4A5F58325DE0D7F82324A9B"
+					"size"		"74DBAE26506BD30E86BDE616DD4F7A6A"
+					"download"		"F8124ECC97C256351EC6732610E8D7E8"
+				}
+			}
+		}
+		"733880"
+		{
+			"dlcappid"		"733880"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1209344788249760120"
+					"size"		"19730"
+					"download"		"4448"
+				}
+				"bug_version"
+				{
+					"gid"		"1209344788249760120"
+					"size"		"19730"
+					"download"		"4448"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"previos_release"
+				{
+					"gid"		"D5E020935C455216241D42B54DCF51CE"
+					"size"		"407340194FC056ED667E5F9620AB3426"
+					"download"		"DC9D06717F24DA00BDADECF3F38DFD96"
+				}
+				"test"
+				{
+					"gid"		"0102AF02FF5C967BAA64EDE12E617A04"
+					"size"		"2F5CEF9454CCDF1FC6FF8409C4BA3ED4"
+					"download"		"B468D50A9714E00730F3A1A64DE560D2"
+				}
+			}
+		}
+		"625436"
+		{
+			"dlcappid"		"746180"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8441135658089704865"
+					"size"		"39455184"
+					"download"		"38777040"
+				}
+				"bug_version"
+				{
+					"gid"		"8441135658089704865"
+					"size"		"39455184"
+					"download"		"38777040"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"previos_release"
+				{
+					"gid"		"BFF597880F1DF0C957274C96E64C74A6"
+					"size"		"B587ECD91FDA304F88F5692178CA6DB6"
+					"download"		"35D6BD6D3568EF9AD7A901B1311444D6"
+				}
+				"test"
+				{
+					"gid"		"C0C8F2D5B2415CF063D2ADBC5EDA8F8C"
+					"size"		"A5A045E1A0732ED8E0B9A7F0F493DCA9"
+					"download"		"E479204EC67138538BA268632AAB7BD8"
+				}
+			}
+		}
+		"794890"
+		{
+			"dlcappid"		"794890"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11968618"
+				"timeupdated"		"1693478762"
+			}
+			"bug_version"
+			{
+				"buildid"		"3158397"
+				"timeupdated"		"1539881294"
+			}
+			"previos_release"
+			{
+				"buildid"		"3229065"
+				"pwdrequired"		"1"
+				"timeupdated"		"1555604666"
+			}
+			"test"
+			{
+				"buildid"		"11968618"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692302515"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"104857600"
+		"maxnumfiles"		"100"
+	}
+}
