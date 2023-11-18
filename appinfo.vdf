@@ -1,0 +1,349 @@
+"appinfo"
+{
+	"appid"		"218450"
+	"common"
+	{
+		"name"		"Jagged Alliance Online - Steam Edition"
+		"type"		"Game"
+		"oslist"		"windows"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+		}
+		"logo"		"8759c1a6b9b2c0593d452591aead80efbc2b90c0"
+		"logo_small"		"8759c1a6b9b2c0593d452591aead80efbc2b90c0_thumb"
+		"icon"		"36739c11a693b8071cd79382767b24f2f5aa4028"
+		"clienttga"		"6f7c7b65a85629e4e638b4dac4c3514c2482fda4"
+		"clienticon"		"613925c5eec8feee660c34700fc385d81dd131f6"
+		"clienticns"		"2f9f32b4edf3d28a7a0a30272f05da3acd0f65e7"
+		"releasestate"		"released"
+		"linuxclienticon"		"b1847750c09b35d0437e0e4fe757ac3c7f13ca67"
+		"metacritic_name"		"Jagged Alliance Online"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"store_asset_mtime"		"1437994781"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Cliffhanger Productions"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Cliffhanger Productions"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"29"
+			"2"		"3"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_27"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"1"
+				"full_audio"		"1"
+			}
+			"german"
+			{
+				"supported"		"1"
+			}
+		}
+		"steam_release_date"		"1370451060"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"218450"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"9"
+			"2"		"1677"
+			"3"		"122"
+			"4"		"128"
+		}
+		"review_score"		"5"
+		"review_percentage"		"53"
+	}
+	"extended"
+	{
+		"developer"		"Cliffhanger Productions"
+		"gamedir"		""
+		"homepage"		""
+		"icon"		""
+		"noservers"		"0"
+		"sourcegame"		"1"
+		"state"		"eStateAvailable"
+		"thirdpartycdkey"		"1"
+		"visibleonlywhensubscribed"		"1"
+		"publisher"		"Cliffhanger Productions"
+		"isfreeapp"		"1"
+		"listofdlc"		"218455,218461,218462,218463"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Jagged Alliance Online"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"JAO.exe"
+				"description"		"Launch"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"overridescddb"		"1"
+		"preloadonly"		"1"
+		"markdlcdepots"		"1"
+		"228983"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228984"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"218451"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9050821388634407996"
+					"size"		"1243500221"
+					"download"		"1114007504"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"stg03"
+				{
+					"gid"		"E6638F8322808388809E72E529F70C1F"
+					"size"		"0D788D86FBC7AC09C7AE3D8A80A958C5"
+					"download"		"26DCB20B9A22F0A8EEF8CF22934EBF32"
+				}
+			}
+		}
+		"218452"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"systemdefined"		"1"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3325983730718079996"
+					"size"		"1275083021"
+					"download"		"1122450032"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"stg03"
+				{
+					"gid"		"6DCE069742AB24D84D20CEAF4F0712AB"
+					"size"		"F7E08939CC66645B3D6F426FDE8664BC"
+					"download"		"AB2BC5AB1CD491412FDF97933E10EA0F"
+				}
+			}
+		}
+		"218453"
+		{
+			"config"
+			{
+				"language"		"german"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5744048462826634994"
+					"size"		"2052728"
+					"download"		"242912"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"stg03"
+				{
+					"gid"		"295B67341E4E87058AD7C05E2F056844"
+					"size"		"7393C17656944BC600690DA5BD198DDB"
+					"download"		"8BC8748EE82C281D3FD20C0987368484"
+				}
+			}
+		}
+		"218454"
+		{
+			"config"
+			{
+				"language"		"german"
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7397387304214626686"
+					"size"		"2052728"
+					"download"		"242912"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"stg03"
+				{
+					"gid"		"BF79F46724017709BC04A6A3EAE2E752"
+					"size"		"7393C17656944BC600690DA5BD198DDB"
+					"download"		"8BC8748EE82C281D3FD20C0987368484"
+				}
+			}
+		}
+		"218455"
+		{
+			"dlcappid"		"218455"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3255919883620238267"
+					"size"		"9"
+					"download"		"144"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"stg03"
+				{
+					"gid"		"F77CFFC1519F709894FC8A3DE406B13E"
+					"size"		"D09EA218245539C1EACEB6BFC53C8D7B"
+					"download"		"6E0D4B65945A68937AF592AABEAC24EB"
+				}
+			}
+		}
+		"218461"
+		{
+			"dlcappid"		"218461"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5815850594340891138"
+					"size"		"6"
+					"download"		"128"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"stg03"
+				{
+					"gid"		"66D4A46641EB9AC0F5CDCE94326CABE5"
+					"size"		"9F4BDB5D38BA07775A4B9D5AE79D6718"
+					"download"		"B5F2E73EB155D27DB871E321F559AAD0"
+				}
+			}
+		}
+		"218462"
+		{
+			"dlcappid"		"218462"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2158012908168418643"
+					"size"		"4"
+					"download"		"128"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"stg03"
+				{
+					"gid"		"4ED807FAA292918A20182368D9B74A86"
+					"size"		"440CC07B688374FBE0C2E814126C4EE8"
+					"download"		"B5F2E73EB155D27DB871E321F559AAD0"
+				}
+			}
+		}
+		"218463"
+		{
+			"dlcappid"		"218463"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2794519357294947078"
+					"size"		"4"
+					"download"		"128"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"stg03"
+				{
+					"gid"		"6160844C7D1DFAD13A4F7F636ED5F939"
+					"size"		"440CC07B688374FBE0C2E814126C4EE8"
+					"download"		"B5F2E73EB155D27DB871E321F559AAD0"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"927981"
+			}
+			"stg03"
+			{
+				"buildid"		"927981"
+				"pwdrequired"		"1"
+			}
+		}
+	}
+}
