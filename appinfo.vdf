@@ -1,0 +1,329 @@
+"appinfo"
+{
+	"appid"		"1860120"
+	"common"
+	{
+		"name"		"Fractal Fly"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"76f63bcae5e2ad4484f913255ca0e9360a2a9a7e"
+		"logo_small"		"76f63bcae5e2ad4484f913255ca0e9360a2a9a7e_thumb"
+		"icon"		"f75e04cd7e54f0abe89097138ee3e54d1a3401e8"
+		"clienttga"		"902e8bddd717db53da6842978d16fb2f3008812d"
+		"clienticon"		"67e1bfb60dfde97c6e96841620240d87af9876e5"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"openxrsupport"		"1"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"seated"		"1"
+			"standing"		"1"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1648857600"
+			"tested_build_id"		"8411523"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"29.116557741354768"
+				"height_pct"		"49.29044465468307"
+			}
+		}
+		"store_asset_mtime"		"1698611543"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Tectrid"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Tectrid"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_35"		"1"
+			"category_28"		"1"
+			"category_52"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1644510976"
+		"community_hub_visible"		"1"
+		"gameid"		"1860120"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1654"
+			"1"		"5608"
+			"2"		"15045"
+			"3"		"3834"
+			"4"		"1714"
+			"5"		"4400"
+			"6"		"1710"
+			"7"		"21"
+			"8"		"4305"
+			"9"		"597"
+			"10"		"5900"
+			"11"		"4191"
+			"12"		"21978"
+			"13"		"5125"
+			"14"		"29363"
+			"15"		"4182"
+			"16"		"3839"
+			"17"		"113"
+			"18"		"3810"
+			"19"		"4166"
+		}
+		"review_score"		"6"
+		"review_percentage"		"71"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Tectrid"
+		"publisher"		"Tectrid"
+		"homepage"		"https://fractal-fly.com/"
+		"isfreeapp"		"1"
+		"listofdlc"		"1860170,1860171,1860172,2344860"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"FractalFly"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"FractalFly.exe"
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
+			}
+			"1"
+			{
+				"executable"		"FractalFlyVR.exe"
+				"type"		"vr"
+			}
+		}
+		"steamcontrollertemplateindex"		"2"
+	}
+	"depots"
+	{
+		"1860121"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4580081386384593630"
+					"size"		"973526232"
+					"download"		"309073520"
+				}
+				"fractal_fly_before_fall_2023_version"
+				{
+					"gid"		"1171644437006682719"
+					"size"		"596972166"
+					"download"		"177500832"
+				}
+				"local"
+				{
+					"gid"		"3025101694282433776"
+					"size"		"253458883"
+					"download"		"130856480"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"18DC5CAC874205B160BC5FD2AEC01AD3"
+					"size"		"0179FD28CFEE5525EB8CECF23F69F600"
+					"download"		"EEB62CA2FC61A810BCFEAB59E577CA29"
+				}
+			}
+		}
+		"1860170"
+		{
+			"dlcappid"		"1860170"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3294370557580190400"
+					"size"		"256"
+					"download"		"256"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"33E40773DD7DC636336FFB06BCB3D867"
+					"size"		"BA0DA53C04E74A6BCF94869823ED3BA5"
+					"download"		"BA0DA53C04E74A6BCF94869823ED3BA5"
+				}
+			}
+		}
+		"1860171"
+		{
+			"dlcappid"		"1860171"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6012454372998119933"
+					"size"		"256"
+					"download"		"256"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"57BADE389BAC4B877E16BF5BC4F96A17"
+					"size"		"BA0DA53C04E74A6BCF94869823ED3BA5"
+					"download"		"BA0DA53C04E74A6BCF94869823ED3BA5"
+				}
+			}
+		}
+		"1860172"
+		{
+			"dlcappid"		"1860172"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3017000687647415207"
+					"size"		"256"
+					"download"		"256"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"FD1010077E9DD015952E80A4ACA1A78E"
+					"size"		"BA0DA53C04E74A6BCF94869823ED3BA5"
+					"download"		"BA0DA53C04E74A6BCF94869823ED3BA5"
+				}
+			}
+		}
+		"2344860"
+		{
+			"dlcappid"		"2344860"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6005778161746841499"
+					"size"		"256"
+					"download"		"256"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"AB5290CDBA167C26B205E06268CB622A"
+					"size"		"BA0DA53C04E74A6BCF94869823ED3BA5"
+					"download"		"BA0DA53C04E74A6BCF94869823ED3BA5"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12679593"
+				"timeupdated"		"1699737856"
+			}
+			"fractal_fly_before_fall_2023_version"
+			{
+				"buildid"		"11657894"
+				"description"		"old version of fractal fly, before fall 2023 update"
+				"timeupdated"		"1698873588"
+			}
+			"local"
+			{
+				"buildid"		"8155311"
+				"description"		"Local Content Server"
+				"lcsrequired"		"1"
+				"timeupdated"		"1699573209"
+			}
+			"test"
+			{
+				"buildid"		"12679593"
+				"pwdrequired"		"1"
+				"timeupdated"		"1699725262"
+			}
+		}
+	}
+}
