@@ -1,0 +1,344 @@
+"appinfo"
+{
+	"appid"		"1253880"
+	"common"
+	{
+		"name"		"Heart Fragment"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"e51bca2a6e917e40df73717cb6629f11f409810c"
+		"logo_small"		"e51bca2a6e917e40df73717cb6629f11f409810c_thumb"
+		"icon"		"9d3e449a1afdbd01d893d9ac8be054df39f97d41"
+		"clienttga"		"c228d522b1c9f636ce971e81f41766271151f5e4"
+		"clienticon"		"abf99ce36127d01814cd330c26385cd3aff353fa"
+		"metacritic_name"		"Heart Fragment"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"31.16279069767441"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1654153269"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Starfield Gaming"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Starfield Gaming"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"3"
+			"2"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1627664400"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1253880"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"492"
+			"1"		"599"
+			"2"		"122"
+			"3"		"3799"
+			"4"		"31579"
+			"5"		"5186"
+			"6"		"4947"
+			"7"		"1742"
+			"8"		"7208"
+			"9"		"9551"
+			"10"		"4085"
+			"11"		"1684"
+			"12"		"4182"
+			"13"		"6426"
+			"14"		"44868"
+			"15"		"1721"
+			"16"		"5716"
+		}
+		"review_score"		"8"
+		"review_percentage"		"92"
+	}
+	"extended"
+	{
+		"developer"		"Starfield Gaming"
+		"publisher"		"Starfield Gaming"
+		"isfreeapp"		"1"
+		"listofdlc"		"1775680,1775681"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Heart Fragment"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Heart Fragment.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"MacOS\\Heart Fragment"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Heart Fragment.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"1"
+		"1253881"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7853504988598002146"
+					"size"		"1135239463"
+					"download"		"998260384"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beliefbeta"
+				{
+					"gid"		"3D322A10C1D5A8E871096AE3EE1D4751"
+					"size"		"F73BBE4FB8B7688404EA1B3DC0461E80"
+					"download"		"16BFF90A84DF0D094F91B203D6A7E73D"
+				}
+				"betatest"
+				{
+					"gid"		"3BD53AE03FF509E8837C35EBB8FE214B"
+					"size"		"A6CEC4463C9B1CB321E30C52CE3D65C3"
+					"download"		"CF97F48F8DB763C82FD4937F131FD736"
+				}
+			}
+		}
+		"1253882"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"917216985014966683"
+					"size"		"1135239463"
+					"download"		"998260384"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beliefbeta"
+				{
+					"gid"		"7412E33491DCA706805AFD5227A3205F"
+					"size"		"F73BBE4FB8B7688404EA1B3DC0461E80"
+					"download"		"16BFF90A84DF0D094F91B203D6A7E73D"
+				}
+				"betatest"
+				{
+					"gid"		"8DA6DCEAC5FB33483536BD3CBC839A6C"
+					"size"		"A6CEC4463C9B1CB321E30C52CE3D65C3"
+					"download"		"CF97F48F8DB763C82FD4937F131FD736"
+				}
+			}
+		}
+		"1253883"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8492455026453142940"
+					"size"		"1041309933"
+					"download"		"970649696"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beliefbeta"
+				{
+					"gid"		"8591A32F67D73454D8874628C712F93F"
+					"size"		"CC4A6865139283FE9A6AE7C83133BC46"
+					"download"		"3FAE266F4801EAD3E64A449C6FCDF012"
+				}
+				"betatest"
+				{
+					"gid"		"B1957B95351BEE678D6C189DD4C92443"
+					"size"		"9CB2C31864AFFE448F7DB36F0CF627AB"
+					"download"		"DB7DCD2083233107E4F530C087D728AC"
+				}
+			}
+		}
+		"1775680"
+		{
+			"dlcappid"		"1775680"
+			"config"
+			{
+				"oslist"		"windows,linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4680349791275484950"
+					"size"		"208874843"
+					"download"		"199283856"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beliefbeta"
+				{
+					"gid"		"E446C8A598029DE4845145F53E17D207"
+					"size"		"8776F0A103278EE2B54D40E8D05266BF"
+					"download"		"FC6B5123DC3F00E29594E20B9F17A864"
+				}
+				"betatest"
+				{
+					"gid"		"ABEB1665D78781E873EA469B8808B211"
+					"size"		"04D0CD9FE9430F61D2697052A2E9605E"
+					"download"		"AAC3C351D52E253CFF167906ED01800D"
+				}
+			}
+		}
+		"1775683"
+		{
+			"dlcappid"		"1775680"
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5255247902812630076"
+					"size"		"208874843"
+					"download"		"199209184"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beliefbeta"
+				{
+					"gid"		"A8898D4E708728C373D92FB65DDB4EF0"
+					"size"		"8776F0A103278EE2B54D40E8D05266BF"
+					"download"		"8C0562275B5BAF4841DBC9B4962A8069"
+				}
+				"betatest"
+				{
+					"gid"		"3B2E4B4A99AE9579B86331EE9331632D"
+					"size"		"04D0CD9FE9430F61D2697052A2E9605E"
+					"download"		"1530DCBFAAAD11475A35DEF068889F9E"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12488215"
+				"timeupdated"		"1697765675"
+			}
+			"beliefbeta"
+			{
+				"buildid"		"12488215"
+				"pwdrequired"		"1"
+				"timeupdated"		"1697765662"
+			}
+			"betatest"
+			{
+				"buildid"		"12488215"
+				"pwdrequired"		"1"
+				"timeupdated"		"1697765669"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"50000000"
+		"maxnumfiles"		"100"
+		"sync_while_suspended"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"game/saves"
+				"pattern"		"*"
+			}
+			"1"
+			{
+				"root"		"gameinstall"
+				"path"		"HeartFragment-pc/game/saves"
+				"pattern"		"*"
+			}
+		}
+	}
+}
