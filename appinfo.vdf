@@ -117,25 +117,25 @@
 		"store_tags"
 		{
 			"0"		"1663"
-			"1"		"1693"
-			"2"		"4345"
-			"3"		"4004"
-			"4"		"4667"
-			"5"		"5228"
-			"6"		"1667"
-			"7"		"3839"
-			"8"		"1774"
-			"9"		"19"
-			"10"		"6691"
-			"11"		"7782"
-			"12"		"3916"
-			"13"		"4182"
-			"14"		"3964"
-			"15"		"4975"
-			"16"		"4342"
-			"17"		"4166"
-			"18"		"1685"
-			"19"		"4026"
+			"1"		"1774"
+			"2"		"4975"
+			"3"		"3839"
+			"4"		"1667"
+			"5"		"19"
+			"6"		"3964"
+			"7"		"4166"
+			"8"		"6691"
+			"9"		"4840"
+			"10"		"4342"
+			"11"		"3916"
+			"12"		"4004"
+			"13"		"1685"
+			"14"		"4508"
+			"15"		"3841"
+			"16"		"3859"
+			"17"		"7368"
+			"18"		"3843"
+			"19"		"4182"
 		}
 		"review_score"		"9"
 		"review_percentage"		"95"
@@ -182,7 +182,6 @@
 				{
 					"oslist"		"windows"
 					"osarch"		"64"
-					"betakey"		"private_beta"
 				}
 				"description_loc"
 				{
@@ -213,12 +212,6 @@
 					"size"		"162208981"
 					"download"		"114432736"
 				}
-				"beta"
-				{
-					"gid"		"2769166224076846660"
-					"size"		"162208981"
-					"download"		"114432736"
-				}
 			}
 			"encryptedmanifests"
 			{
@@ -244,12 +237,6 @@
 					"size"		"11134425"
 					"download"		"5887472"
 				}
-				"beta"
-				{
-					"gid"		"459099542391407503"
-					"size"		"11134425"
-					"download"		"5887472"
-				}
 			}
 			"encryptedmanifests"
 			{
@@ -269,13 +256,19 @@
 			}
 			"manifests"
 			{
+				"public"
+				{
+					"gid"		"1711047979116669865"
+					"size"		"640253421"
+					"download"		"456291840"
+				}
 			}
 			"encryptedmanifests"
 			{
 				"private_beta"
 				{
-					"gid"		"9592775589DC8FB682CE02AD78CAF12A"
-					"size"		"813CAC067ED39E502749649C014ADD7D"
+					"gid"		"92883D435DE5A9E1563D5CFD024953E7"
+					"size"		"C3660C2652A63E94374C9F99419797D6"
 					"download"		"2F65A0CE4D9C69273899B5F543D02E12"
 				}
 			}
@@ -284,20 +277,14 @@
 		{
 			"public"
 			{
-				"buildid"		"4076831"
-				"timeupdated"		"1565029566"
-			}
-			"beta"
-			{
-				"buildid"		"4076831"
-				"description"		"Public Beta - Use at your own risk!"
-				"timeupdated"		"1565028185"
+				"buildid"		"12746499"
+				"timeupdated"		"1700446328"
 			}
 			"private_beta"
 			{
-				"buildid"		"11763186"
+				"buildid"		"12746480"
 				"pwdrequired"		"1"
-				"timeupdated"		"1690000994"
+				"timeupdated"		"1700445847"
 			}
 		}
 	}
