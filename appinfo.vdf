@@ -1,0 +1,208 @@
+"appinfo"
+{
+	"appid"		"2487640"
+	"common"
+	{
+		"name"		"A NOT Troll Game"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"c63c3f04d4a731f2a04b1559b5e3b26fdca0b506"
+		"clienttga"		"ffb7a3a6ea75c0cca344a950286277295cd4f644"
+		"clienticns"		"72b42864aaba1cbf36a162ccb1795a398b4a3577"
+		"clienticon"		"72b42864aaba1cbf36a162ccb1795a398b4a3577"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1696636800"
+			"tested_build_id"		"12153810"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-4"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controllertagwizard"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"46.03236001072683"
+				"height_pct"		"81.14023097001073"
+			}
+		}
+		"store_asset_mtime"		"1700232245"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Garanty Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Garanty Studios"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"2"
+			"2"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_17"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1689246000"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2487640"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"1773"
+			"2"		"1625"
+			"3"		"1664"
+			"4"		"5379"
+			"5"		"5537"
+			"6"		"3871"
+			"7"		"4562"
+			"8"		"4094"
+			"9"		"3964"
+			"10"		"4166"
+			"11"		"1654"
+			"12"		"5350"
+			"13"		"1667"
+			"14"		"6129"
+			"15"		"4004"
+			"16"		"4136"
+			"17"		"12057"
+			"18"		"4182"
+			"19"		"113"
+		}
+		"review_score"		"5"
+		"review_percentage"		"68"
+	}
+	"extended"
+	{
+		"developer"		"Garanty Studios"
+		"publisher"		"Garanty Studios"
+		"homepage"		"https://www.garantystudios.com"
+	}
+	"config"
+	{
+		"installdir"		"A NOT Troll Game"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"release/A NOT Troll Game.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2487641"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7456673212292120894"
+					"size"		"130413624"
+					"download"		"57300368"
+				}
+			}
+		}
+		"2487642"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3557987683650977201"
+					"size"		"130413624"
+					"download"		"57300368"
+				}
+			}
+		}
+		"2487643"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"234082802076170560"
+					"size"		"130413624"
+					"download"		"57300848"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12743631"
+				"timeupdated"		"1700391013"
+			}
+		}
+	}
+}
