@@ -1,0 +1,248 @@
+"appinfo"
+{
+	"appid"		"2334730"
+	"common"
+	{
+		"name"		"Death Must Die"
+		"type"		"Game"
+		"clienticon"		"fd03d480fffa2cde131c5a3c5ad01db4ea0ca037"
+		"clienttga"		"3d1829bf6d033b61cac724b51e611850ecb6ecab"
+		"icon"		"8bb324e3520441323adf02215b66f5c0c685d6c8"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64,macosapplesilicon"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1699422860"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Realm Archive"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Realm Archive"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"23"
+			"3"		"3"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1699997659"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2334730"
+		"store_tags"
+		{
+			"0"		"4885"
+			"1"		"42804"
+			"2"		"122"
+			"3"		"3959"
+			"4"		"19"
+			"5"		"3964"
+			"6"		"1646"
+			"7"		"3871"
+			"8"		"4231"
+			"9"		"1716"
+			"10"		"4604"
+			"11"		"5851"
+			"12"		"7481"
+			"13"		"5125"
+			"14"		"4236"
+			"15"		"4182"
+			"16"		"1684"
+			"17"		"6276"
+			"18"		"4057"
+			"19"		"4758"
+		}
+		"review_score"		"8"
+		"review_percentage"		"91"
+	}
+	"extended"
+	{
+		"developer"		"Realm Archive"
+		"publisher"		"Realm Archive"
+	}
+	"config"
+	{
+		"installdir"		"Death Must Die"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Death Must Die.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Death Must Die.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"2334731"
+		{
+			"config"
+			{
+				"oslist"		"windows,linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5096914669573198723"
+					"size"		"1643694688"
+					"download"		"466931664"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"45434E040C2F423641480AC27C57669E"
+					"size"		"590CF8F0C6A652046A9ADE8D978D4BE2"
+					"download"		"641367C7CCD9DDB73E213E092699FDC2"
+				}
+				"devs"
+				{
+					"gid"		"28160AEDD8F997CA530182CA91AF07AC"
+					"size"		"69DAD253F4BC0A00DC43DC1E26AAA690"
+					"download"		"DA491714FD25D2CC06EFB26DE4250A54"
+				}
+			}
+		}
+		"2334732"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7294244140004561089"
+					"size"		"1675575595"
+					"download"		"476396560"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"49054DCC99098BEBCE48BF5810A66CB4"
+					"size"		"4505ECDB3D015777AC011434134262AF"
+					"download"		"FD8E25AF73633A49EA9236128DE3D1E9"
+				}
+				"devs"
+				{
+					"gid"		"434E14FFB8841F6DE79C2C6C09CF828A"
+					"size"		"52ED22F31620B0779CE2B82688057BF8"
+					"download"		"9B8202A3C59C7408A02F375E0E34E445"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12730444"
+				"timeupdated"		"1700222510"
+			}
+			"beta"
+			{
+				"buildid"		"12730444"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700222477"
+			}
+			"devs"
+			{
+				"buildid"		"12730444"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700220621"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"600000"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Realm Archive/Death Must Die/Saves"
+				"pattern"		"*.sav"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"addpath"		""
+			}
+		}
+	}
+}
