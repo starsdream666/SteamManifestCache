@@ -40,6 +40,44 @@
 			"vietnamese"		"1"
 			"indonesian"		"1"
 		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1699401600"
+			"tested_build_id"		"12509750"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
@@ -207,16 +245,17 @@
 			"5"		"3871"
 			"6"		"13070"
 			"7"		"4747"
-			"8"		"4726"
-			"9"		"1654"
+			"8"		"1654"
+			"9"		"4726"
 			"10"		"492"
 			"11"		"599"
 			"12"		"4195"
 			"13"		"5350"
 			"14"		"4182"
+			"15"		"1721"
 		}
 		"review_score"		"8"
-		"review_percentage"		"87"
+		"review_percentage"		"86"
 	}
 	"extended"
 	{
@@ -275,9 +314,9 @@
 			{
 				"public"
 				{
-					"gid"		"2790506390804709178"
-					"size"		"222195916"
-					"download"		"45882080"
+					"gid"		"7471418190733892059"
+					"size"		"235670108"
+					"download"		"52872608"
 				}
 			}
 		}
@@ -291,9 +330,9 @@
 			{
 				"public"
 				{
-					"gid"		"4721628633469379299"
-					"size"		"224977986"
-					"download"		"45675040"
+					"gid"		"2522333476662967728"
+					"size"		"317203466"
+					"download"		"62574416"
 				}
 			}
 		}
@@ -307,9 +346,9 @@
 			{
 				"public"
 				{
-					"gid"		"3908015336567177936"
-					"size"		"246327002"
-					"download"		"53091808"
+					"gid"		"5326731013890847892"
+					"size"		"409744454"
+					"download"		"74391264"
 				}
 			}
 		}
@@ -317,8 +356,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12509750"
-				"timeupdated"		"1698056669"
+				"buildid"		"12748651"
+				"timeupdated"		"1700474159"
 			}
 		}
 	}
