@@ -15,8 +15,10 @@
 		"releasestate"		"released"
 		"name_localized"
 		{
-			"schinese"		"苏维埃共和国 (Soviet Republic)"
+			"schinese"		"工人与资源：苏维埃共和国 Workers & Resources: Soviet Republic"
+			"tchinese"		"工人與資源：蘇維埃共和國 Workers & Resources: Soviet Republic"
 		}
+		"osextended"		""
 		"steam_deck_compatibility"
 		{
 			"category"		"2"
@@ -74,26 +76,20 @@
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
-			"hungarian"		"capsule_231x87_hungarian.jpg"
-			"russian"		"capsule_231x87_russian.jpg"
-			"ukrainian"		"capsule_231x87_ukrainian.jpg"
-			"czech"		"capsule_231x87_czech.jpg"
-			"german"		"capsule_231x87_german.jpg"
-			"polish"		"capsule_231x87_polish.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
 		}
 		"header_image"
 		{
 			"english"		"header.jpg"
-			"hungarian"		"header_hungarian.jpg"
-			"russian"		"header_russian.jpg"
-			"ukrainian"		"header_ukrainian.jpg"
-			"german"		"header_german.jpg"
-			"czech"		"header_czech.jpg"
-			"polish"		"header_polish.jpg"
+			"japanese"		"header_japanese.jpg"
+			"tchinese"		"header_tchinese.jpg"
+			"schinese"		"header_schinese.jpg"
 		}
 		"library_assets"
 		{
-			"library_capsule"		"en"
+			"library_capsule"		"en,ja,zh-cn,zh-tw"
 			"library_hero"		"en"
 			"library_logo"		"en"
 			"logo_position"
@@ -103,7 +99,7 @@
 				"height_pct"		"63.57903370159228"
 			}
 		}
-		"store_asset_mtime"		"1690821155"
+		"store_asset_mtime"		"1700451815"
 		"associations"
 		{
 			"0"
@@ -207,25 +203,25 @@
 		"gameid"		"784150"
 		"store_tags"
 		{
-			"0"		"4328"
-			"1"		"599"
+			"0"		"599"
+			"1"		"4328"
 			"2"		"1643"
-			"3"		"12472"
-			"4"		"9"
-			"5"		"4695"
-			"6"		"3810"
-			"7"		"8945"
+			"3"		"3810"
+			"4"		"12472"
+			"5"		"9"
+			"6"		"4695"
+			"7"		"4175"
 			"8"		"1669"
-			"9"		"1695"
-			"10"		"4711"
-			"11"		"597"
-			"12"		"4175"
-			"13"		"5673"
+			"9"		"1654"
+			"10"		"597"
+			"11"		"8945"
+			"12"		"4166"
+			"13"		"1695"
 			"14"		"4182"
-			"15"		"7107"
-			"16"		"5350"
-			"17"		"19"
-			"18"		"4136"
+			"15"		"4711"
+			"16"		"5673"
+			"17"		"7107"
+			"18"		"5350"
 			"19"		"493"
 		}
 		"review_score"		"8"
@@ -238,7 +234,7 @@
 		"developer"		"3Division"
 		"publisher"		"Hooded Horse"
 		"homepage"		"http://sovietrepublic.net"
-		"listofdlc"		"1049900,1948180"
+		"listofdlc"		"1948180"
 		"dlcavailableonstore"		"1"
 	}
 	"config"
@@ -294,9 +290,9 @@
 			{
 				"public"
 				{
-					"gid"		"6576254840481136816"
-					"size"		"7707072764"
-					"download"		"2411610256"
+					"gid"		"3740818269940538809"
+					"size"		"7711725599"
+					"download"		"2411825760"
 				}
 				"oldversion_0.8.2.x"
 				{
@@ -336,9 +332,9 @@
 				}
 				"test"
 				{
-					"gid"		"6576254840481136816"
-					"size"		"7707072764"
-					"download"		"2411610256"
+					"gid"		"3740818269940538809"
+					"size"		"7711725599"
+					"download"		"2411825760"
 				}
 			}
 			"encryptedmanifests"
@@ -357,97 +353,15 @@
 				}
 				"test_internal"
 				{
-					"gid"		"9244561476BAE913CDA8BFF7FD1F4AC9"
-					"size"		"302C3CBDCE3908D2E5DAB337D2509DE9"
-					"download"		"D8D0E6A2A76EF6E2C843A107206AFF02"
+					"gid"		"CACB1B69A92F499A0E374618A1CB1C44"
+					"size"		"6A8F817F28591D95B7EAD302962177D0"
+					"download"		"A56F8B54E2C20A86BE27D9719788B7F0"
 				}
 				"test_top_secret"
 				{
-					"gid"		"5571E6E0AC60F77DD2A903774E036027"
-					"size"		"B823838407B176B569847AC7BDE5E03C"
-					"download"		"38ED55A9875AD44D3FEC3BECF9652B7D"
-				}
-			}
-		}
-		"1049900"
-		{
-			"dlcappid"		"1049900"
-			"manifests"
-			{
-				"public"
-				{
-					"gid"		"3041646131680902551"
-					"size"		"159116162"
-					"download"		"146909824"
-				}
-				"oldversion_0.8.2.x"
-				{
-					"gid"		"344761606902954534"
-					"size"		"136686526"
-					"download"		"124442064"
-				}
-				"oldversion_0.8.3.x"
-				{
-					"gid"		"344761606902954534"
-					"size"		"136686526"
-					"download"		"124442064"
-				}
-				"oldversion_0.8.4.x"
-				{
-					"gid"		"344761606902954534"
-					"size"		"136686526"
-					"download"		"124442064"
-				}
-				"oldversion_0.8.5.x"
-				{
-					"gid"		"6979134202789051424"
-					"size"		"136893158"
-					"download"		"124643872"
-				}
-				"oldversion_0.8.7.x"
-				{
-					"gid"		"1555890636766912792"
-					"size"		"136893158"
-					"download"		"124643872"
-				}
-				"oldversion_0.8.8.x"
-				{
-					"gid"		"543757980117123329"
-					"size"		"137053534"
-					"download"		"124799984"
-				}
-				"test"
-				{
-					"gid"		"3041646131680902551"
-					"size"		"159116162"
-					"download"		"146909824"
-				}
-			}
-			"encryptedmanifests"
-			{
-				"previoustesting2"
-				{
-					"gid"		"59FECEAA264340E7229ADEF403BC267E"
-					"size"		"290AAA0C4F80318FD03CBFBA313F2A56"
-					"download"		"A58311156A942EC2292452785127CC65"
-				}
-				"previousversion"
-				{
-					"gid"		"2DDD0DBE87992C543D495D967ED19889"
-					"size"		"D2D370FD2B100144253709C3C3E0681B"
-					"download"		"960360188D9B2077EC6DCF4AFF9B2E30"
-				}
-				"test_internal"
-				{
-					"gid"		"F92A34A770391E710244450552A2676A"
-					"size"		"E202F4F36026E55F7E55D2D8E943078D"
-					"download"		"642FB3C2BDFED092AEA47E4118CB6AAA"
-				}
-				"test_top_secret"
-				{
-					"gid"		"1D49DF15AEC6E72A819FA086A0B13FD9"
-					"size"		"D6AA43E1BBEC153BAC806BCFB0B9010F"
-					"download"		"75ADDFA2E883314EC950C2E115FE2965"
+					"gid"		"1026E14AE82D33649F0BDFBC6EFB5788"
+					"size"		"50775B151E247A76CFD2A39C7FE24DA4"
+					"download"		"4CF517243940DFAE8B2B45CC1295A211"
 				}
 			}
 		}
@@ -485,15 +399,15 @@
 			{
 				"test_internal"
 				{
-					"gid"		"C3ABBE78D700730F6DC269E545F58DA6"
-					"size"		"C899148B05D4A66B8D2E40D418C61488"
-					"download"		"2796FAF95524C58170473083552E69AB"
+					"gid"		"209CC57ED3C953299BEEA5BAD50AED3B"
+					"size"		"B41CD9FFCE8E9461C5AF8431E96D2E03"
+					"download"		"435392296BC2B68F2C6ABADBF74C66FF"
 				}
 				"test_top_secret"
 				{
-					"gid"		"AF101CB0F804FE3DBD630D4F8BB82B49"
-					"size"		"523DCD3E13D30D41E21B2B74771EFEB7"
-					"download"		"E807DDF2C421835FAEA268E0EFEED900"
+					"gid"		"4C24A6E96611482D417858315D4430BC"
+					"size"		"0047A9DC3F8084FCBAF92DCE49BE58A9"
+					"download"		"8B4C7DCC4CD736550A7416BB70892F67"
 				}
 			}
 		}
@@ -501,8 +415,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12114901"
-				"timeupdated"		"1695639433"
+				"buildid"		"12619896"
+				"timeupdated"		"1700557083"
 			}
 			"oldversion_0.8.2.x"
 			{
@@ -554,21 +468,21 @@
 			}
 			"test"
 			{
-				"buildid"		"12114901"
+				"buildid"		"12619896"
 				"description"		"beta branch - public testing of new features"
-				"timeupdated"		"1693932726"
+				"timeupdated"		"1699109705"
 			}
 			"test_internal"
 			{
-				"buildid"		"12114901"
+				"buildid"		"12710224"
 				"pwdrequired"		"1"
-				"timeupdated"		"1693932711"
+				"timeupdated"		"1700055827"
 			}
 			"test_top_secret"
 			{
-				"buildid"		"12114901"
+				"buildid"		"12710224"
 				"pwdrequired"		"1"
-				"timeupdated"		"1693932718"
+				"timeupdated"		"1700055837"
 			}
 		}
 	}
