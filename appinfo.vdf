@@ -35,6 +35,15 @@
 		"osarch"		""
 		"osextended"		""
 		"releasestatesteamchina"		"prerelease"
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"japanese"		"1"
+		}
+		"controllertagwizard"		"1"
+		"controller_support"		"full"
 		"small_capsule"
 		{
 			"schinese"		"capsule_231x87_schinese.jpg"
@@ -93,6 +102,9 @@
 		{
 			"category_2"		"1"
 			"category_23"		"1"
+			"category_28"		"1"
+			"category_55"		"1"
+			"category_56"		"1"
 		}
 		"supported_languages"
 		{
@@ -122,12 +134,13 @@
 			}
 		}
 		"steam_release_date"		"1698891892"
+		"community_visible_stats"		"1"
 		"community_hub_visible"		"1"
 		"gameid"		"2103140"
 		"store_tags"
 		{
-			"0"		"122"
-			"1"		"1716"
+			"0"		"1716"
+			"1"		"122"
 			"2"		"4885"
 			"3"		"3959"
 			"4"		"32322"
@@ -138,9 +151,10 @@
 			"9"		"492"
 			"10"		"19"
 			"11"		"493"
+			"12"		"4057"
 		}
 		"review_score"		"8"
-		"review_percentage"		"85"
+		"review_percentage"		"86"
 	}
 	"extended"
 	{
@@ -173,24 +187,24 @@
 			{
 				"public"
 				{
-					"gid"		"4520348159811454767"
-					"size"		"954718851"
-					"download"		"190672528"
+					"gid"		"9021281555739442489"
+					"size"		"967423147"
+					"download"		"190546544"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"banbenyanshou"
 				{
-					"gid"		"92B3C765A91A98659B4DDF29F295B233"
-					"size"		"6F5CEF71D59136EF12B8C78F0C1C4D78"
-					"download"		"5D6341BB9BFD1B4FF34AE1A0A9DC2848"
+					"gid"		"6FD616FF96929636928C260B15EFEDCD"
+					"size"		"426F8F7298FAC1E603C8D087D6F52DE3"
+					"download"		"22308DC9C023F810A6A94FE7F3866B20"
 				}
 				"bilibiliqatesting"
 				{
-					"gid"		"F2C66D5D66BF09C698517FDE0D95F21B"
-					"size"		"1EEE146F7FCFBF0C37A1D01828D3242F"
-					"download"		"EDE0E969BDF1543BE2B31F4AF3462632"
+					"gid"		"2B420187CB4EF790727798AB19BDEB53"
+					"size"		"A8B6D805C5F44761D0B822FA5426103C"
+					"download"		"0C4853CC6677675B786AB9505967840B"
 				}
 				"bilibiliqatesting2"
 				{
@@ -206,9 +220,9 @@
 				}
 				"fullcontenttest"
 				{
-					"gid"		"B193B315ED572776FE08338204639151"
-					"size"		"BF782DA2604A9691F74A8DDB7038DC84"
-					"download"		"FA8FBD90954C8A2E80459DE437AE4EEA"
+					"gid"		"C25D9366B35E8679263D1CB52C427F99"
+					"size"		"BBDB43B32359B17042772DD3E1868432"
+					"download"		"CA216A68F69365E95E1820304422D623"
 				}
 				"suibian"
 				{
@@ -221,12 +235,6 @@
 					"gid"		"78EB5B678F102A64EC6255C443A2EF15"
 					"size"		"545EB18DDC4E897AD9E3C307310DDFB4"
 					"download"		"D470E87D44C073B65BD59ACD787484BB"
-				}
-				"yonghuqatesting"
-				{
-					"gid"		"404F79D838153943A9ACD48492A87393"
-					"size"		"6783D49761AA01DA83E4B28B1F7C94D7"
-					"download"		"7659AC58F00F3E48D434E6B0849217B2"
 				}
 			}
 		}
@@ -245,20 +253,20 @@
 			}
 			"public"
 			{
-				"buildid"		"12670020"
-				"timeupdated"		"1699620265"
+				"buildid"		"12749163"
+				"timeupdated"		"1700481314"
 			}
 			"banbenyanshou"
 			{
-				"buildid"		"12670020"
+				"buildid"		"12759644"
 				"pwdrequired"		"1"
-				"timeupdated"		"1699613221"
+				"timeupdated"		"1700566891"
 			}
 			"bilibiliqatesting"
 			{
-				"buildid"		"12629169"
+				"buildid"		"12759609"
 				"pwdrequired"		"1"
-				"timeupdated"		"1699270575"
+				"timeupdated"		"1700566519"
 			}
 			"bilibiliqatesting2"
 			{
@@ -274,21 +282,15 @@
 			}
 			"fullcontenttest"
 			{
-				"buildid"		"12670020"
+				"buildid"		"12759609"
 				"pwdrequired"		"1"
-				"timeupdated"		"1699612815"
+				"timeupdated"		"1700566152"
 			}
 			"uptesting"
 			{
 				"buildid"		"12491765"
 				"pwdrequired"		"1"
 				"timeupdated"		"1697807081"
-			}
-			"yonghuqatesting"
-			{
-				"buildid"		"12629193"
-				"pwdrequired"		"1"
-				"timeupdated"		"1699270643"
 			}
 		}
 	}
