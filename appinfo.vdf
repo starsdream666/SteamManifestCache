@@ -260,6 +260,9 @@
 				"description"		"Launch"
 			}
 		}
+		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"7"
 	}
 	"depots"
 	{
@@ -270,24 +273,24 @@
 			{
 				"public"
 				{
-					"gid"		"1200381886636166611"
-					"size"		"3519800471"
-					"download"		"3215799184"
+					"gid"		"8722024740412456850"
+					"size"		"4020052370"
+					"download"		"3712453968"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"beta"
 				{
-					"gid"		"9F99BF3611B035C534624776F3C403FF"
-					"size"		"E3E8CD13680BD2ED47229097C5E5DE7B"
-					"download"		"C5A007B29244632D066EC3486BC5003A"
+					"gid"		"EBFA36886A3F5398D8900713CD2416BD"
+					"size"		"808D5B02FC7C9543D9FAAF6E6A8CC400"
+					"download"		"58C833497B17B895993783343E34BF9D"
 				}
 				"part2_beta"
 				{
-					"gid"		"439BD1BFE4AD63D0A98209E04D46FA92"
-					"size"		"0BC8946FC95A33D7A0301FDEFDA4D643"
-					"download"		"F864120787EC5C95C241C3992949C8A3"
+					"gid"		"C12E44DD2521C23E0449289A0328BCD6"
+					"size"		"60D0F9A36B4FD8FA590E0B005F336100"
+					"download"		"80A18B1E32228DF06AAAF5DAA090C74F"
 				}
 				"release_branch"
 				{
@@ -295,32 +298,44 @@
 					"size"		"4A332013C8EE725D4E51BD835CDED951"
 					"download"		"5BB9B5C2122D5760BEFF820D34ECCD27"
 				}
+				"steam_deck_test"
+				{
+					"gid"		"C9E3FBB00DCC55B31D944F21914D1B06"
+					"size"		"E9590DFE30D32E4162D0172895D1D9D9"
+					"download"		"25E703C6CD61C70A5C43A4E098F83E46"
+				}
 			}
 		}
 		"branches"
 		{
 			"public"
 			{
-				"buildid"		"11880627"
-				"timeupdated"		"1691421004"
+				"buildid"		"12753959"
+				"timeupdated"		"1700515405"
 			}
 			"beta"
 			{
-				"buildid"		"11854206"
+				"buildid"		"12746671"
 				"pwdrequired"		"1"
-				"timeupdated"		"1691034050"
+				"timeupdated"		"1700448896"
 			}
 			"part2_beta"
 			{
-				"buildid"		"12724136"
+				"buildid"		"12736859"
 				"pwdrequired"		"1"
-				"timeupdated"		"1700164289"
+				"timeupdated"		"1700264212"
 			}
 			"release_branch"
 			{
 				"buildid"		"11880627"
 				"pwdrequired"		"1"
 				"timeupdated"		"1691377128"
+			}
+			"steam_deck_test"
+			{
+				"buildid"		"12756826"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700543883"
 			}
 		}
 	}
