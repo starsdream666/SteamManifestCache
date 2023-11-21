@@ -232,8 +232,8 @@
 			"6"		"1644"
 			"7"		"4191"
 			"8"		"1036"
-			"9"		"9204"
-			"10"		"3839"
+			"9"		"3839"
+			"10"		"9204"
 			"11"		"4182"
 			"12"		"1664"
 			"13"		"1695"
@@ -251,7 +251,7 @@
 	{
 		"developer"		"Red Dot Games"
 		"publisher"		"PlayWay S.A."
-		"listofdlc"		"1685720,1685721,1748990,1748991,1773800,1773801,1931780,1981550,2085260,2112230,2112231,2112232,2282030,2464230,2546830"
+		"listofdlc"		"1685720,1685721,1748990,1748991,1773800,1773801,1931780,1981550,2085260,2112230,2112231,2112232,2282030,2464230,2546830,2601200"
 		"dlcavailableonstore"		"1"
 	}
 	"config"
@@ -348,24 +348,42 @@
 			{
 				"public"
 				{
+					"gid"		"3667523454117973265"
+					"size"		"25826513682"
+					"download"		"13140270656"
+				}
+				"previous"
+				{
 					"gid"		"3681195643684392208"
 					"size"		"25621342514"
 					"download"		"13025386448"
 				}
-				"previous"
-				{
-					"gid"		"3698393956748226811"
-					"size"		"25412525827"
-					"download"		"12903606448"
-				}
 			}
 			"encryptedmanifests"
 			{
-				"playwaypowertesting"
+				"mailer"
 				{
-					"gid"		"8616B25B0B7C1DB09A65AA07E70A042A"
-					"size"		"1F7DE21CD785D7D053CF32C3F72AC14D"
-					"download"		"19B9252F1E7630CDC43036C3E7A802EB"
+					"gid"		"EA3A4AE0387C172D300283407EF27584"
+					"size"		"EA8DEA7921594516465457E75ED47F85"
+					"download"		"B7ECAB40F9062A148695509DD6D4946F"
+				}
+				"plwtesting"
+				{
+					"gid"		"B67887E32DA4EC43FFA12065CF54A16C"
+					"size"		"11EEE254056EE1C236D7DC220EA021D3"
+					"download"		"F3CBDE05B5B0F569BE466913580210DE"
+				}
+				"privatebeta"
+				{
+					"gid"		"863D76C14EF045F1060DF3B3182AA26F"
+					"size"		"ECEEFE9E1797A43CD387EF1A37D76EEB"
+					"download"		"41C0BD39F1A35F0BFF7C0B585CA3B30F"
+				}
+				"testing"
+				{
+					"gid"		"E91755B37FB6034C50065795B462CF21"
+					"size"		"67BB7FE6EF5E85157E42DC3938F48081"
+					"download"		"B27A25EF46EF86846CCE7C074DCCDDBF"
 				}
 			}
 		}
@@ -374,20 +392,38 @@
 		{
 			"public"
 			{
-				"buildid"		"12166430"
-				"timeupdated"		"1694529311"
+				"buildid"		"12747801"
+				"timeupdated"		"1700554627"
 			}
-			"playwaypowertesting"
+			"mailer"
 			{
-				"buildid"		"12166430"
+				"buildid"		"12747801"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694505820"
+				"timeupdated"		"1700553865"
+			}
+			"plwtesting"
+			{
+				"buildid"		"12747801"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700553873"
 			}
 			"previous"
 			{
-				"buildid"		"11637895"
+				"buildid"		"12166430"
 				"description"		"Previous vesion of game"
-				"timeupdated"		"1694529299"
+				"timeupdated"		"1700554616"
+			}
+			"privatebeta"
+			{
+				"buildid"		"12747801"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700553881"
+			}
+			"testing"
+			{
+				"buildid"		"12747801"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700466319"
 			}
 		}
 	}
