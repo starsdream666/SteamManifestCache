@@ -21,6 +21,34 @@
 		"clienttga"		"4695b553f61532173f7ff5d31fe6e4f61efc6615"
 		"icon"		"45354c5a566a312ff12b3811665619d434818bca"
 		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1699920000"
+			"tested_build_id"		"12598641"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
 		"controllertagwizard"		"1"
 		"controller_support"		"full"
 		"small_capsule"
@@ -132,8 +160,8 @@
 			"4"		"1774"
 			"5"		"1773"
 			"6"		"122"
-			"7"		"4975"
-			"8"		"3835"
+			"7"		"3835"
+			"8"		"4975"
 			"9"		"7481"
 			"10"		"1742"
 			"11"		"4191"
@@ -146,8 +174,8 @@
 			"18"		"4004"
 			"19"		"4182"
 		}
-		"review_score"		"7"
-		"review_percentage"		"81"
+		"review_score"		"8"
+		"review_percentage"		"83"
 	}
 	"extended"
 	{
@@ -192,9 +220,9 @@
 			{
 				"public"
 				{
-					"gid"		"8956686512233937598"
+					"gid"		"7928095092697678499"
 					"size"		"1019083436"
-					"download"		"915842896"
+					"download"		"915842912"
 				}
 			}
 			"encryptedmanifests"
@@ -207,9 +235,9 @@
 				}
 				"staging"
 				{
-					"gid"		"00582C50124CEDEDF4423FC39F534D16"
+					"gid"		"9933335360C2375D212BDD7C4845E174"
 					"size"		"C3FACAF239E2179FAA0DB9CFA8368A4B"
-					"download"		"1630D2489A2B9403A85A6495527B7ECC"
+					"download"		"56656203D32E366B0AA21D74A30939A7"
 				}
 			}
 		}
@@ -220,8 +248,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12598641"
-				"timeupdated"		"1698913510"
+				"buildid"		"12727930"
+				"timeupdated"		"1700201761"
 			}
 			"quality_assurance"
 			{
@@ -231,9 +259,9 @@
 			}
 			"staging"
 			{
-				"buildid"		"12598641"
+				"buildid"		"12727930"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698903539"
+				"timeupdated"		"1700200808"
 			}
 		}
 	}
