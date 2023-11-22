@@ -33,24 +33,24 @@
 		"steam_deck_compatibility"
 		{
 			"category"		"2"
-			"test_timestamp"		"1684886400"
+			"test_timestamp"		"1700006400"
 			"tested_build_id"		"10470407"
 			"tests"
 			{
 				"0"
 				{
 					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
 				}
 				"1"
 				{
-					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 				}
 				"2"
 				{
 					"display"		"4"
-					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
 				}
 				"3"
 				{
@@ -69,11 +69,11 @@
 				"requires_manual_keyboard_invoke"		"0"
 				"requires_non_controller_launcher_nav"		"0"
 				"primary_player_is_controller_slot_0"		"1"
-				"non_deck_display_glyphs"		"1"
+				"non_deck_display_glyphs"		"0"
 				"small_text"		"1"
 				"requires_internet_for_setup"		"0"
 				"requires_internet_for_singleplayer"		"0"
-				"recommended_runtime"		"proton-8.0-1"
+				"recommended_runtime"		"proton-stable"
 				"requires_h264"		"1"
 				"gamescope_frame_limiter_not_supported"		"0"
 				"proton_compat_config"		"nomfdxgiman,"
@@ -209,8 +209,8 @@
 			"4"		"3843"
 			"5"		"1774"
 			"6"		"1734"
-			"7"		"3835"
-			"8"		"353880"
+			"7"		"353880"
+			"8"		"3835"
 			"9"		"4885"
 			"10"		"19"
 			"11"		"1759"
@@ -280,9 +280,9 @@
 			{
 				"public"
 				{
-					"gid"		"5368270638851547806"
-					"size"		"4654848162"
-					"download"		"4391585136"
+					"gid"		"2094611030962397695"
+					"size"		"4691051831"
+					"download"		"4427355232"
 				}
 			}
 			"encryptedmanifests"
@@ -295,9 +295,9 @@
 				}
 				"developer"
 				{
-					"gid"		"8E0984951E67E25DCC1E23C3BF41844B"
-					"size"		"559CCCF31C14E405967916C4C878D81D"
-					"download"		"5749AE5AFA40D9497EFB7BA8461EE458"
+					"gid"		"68EE9F779752CFD69944369A276F7492"
+					"size"		"A0EFE9E5EFB7670771871269F3A90E83"
+					"download"		"704A482DD7A2FDC7020C927103934483"
 				}
 				"eos_dev"
 				{
@@ -367,9 +367,9 @@
 				}
 				"staging"
 				{
-					"gid"		"655CA019A1F74B06A749D442AAB4369E"
-					"size"		"8F9EBCF77151C0E51CC8AA526E840BB8"
-					"download"		"1DFB60F71CAB15CBC265CCCA60B3EBA1"
+					"gid"		"3E35195B834AD7EA331042FEC432B44A"
+					"size"		"9F294A454E86ED945488D9DFC626F2BA"
+					"download"		"2639BCF51D323C3E70C727DE213B4451"
 				}
 			}
 		}
@@ -386,8 +386,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12571638"
-				"timeupdated"		"1699363849"
+				"buildid"		"12731373"
+				"timeupdated"		"1700642968"
 			}
 			"dev_crossnetwork"
 			{
@@ -397,9 +397,9 @@
 			}
 			"developer"
 			{
-				"buildid"		"12611635"
+				"buildid"		"12720960"
 				"pwdrequired"		"1"
-				"timeupdated"		"1699013174"
+				"timeupdated"		"1700149507"
 			}
 			"eos_dev"
 			{
@@ -469,28 +469,18 @@
 			}
 			"staging"
 			{
-				"buildid"		"12571638"
+				"buildid"		"12731373"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698743108"
+				"timeupdated"		"1700237365"
 			}
 		}
 	}
 	"ufs"
 	{
 		"quota"		"100000"
-		"maxnumfiles"		"3"
+		"maxnumfiles"		"100"
 		"savefiles"
 		{
-			"4"
-			{
-				"root"		"WinAppDataLocal"
-				"path"		"RoboQuest/Saved/SaveGames"
-				"pattern"		"*.sav"
-				"platforms"
-				{
-					"1"		"Windows"
-				}
-			}
 			"5"
 			{
 				"root"		"WinAppDataLocal"
@@ -506,16 +496,6 @@
 				"root"		"WinAppDataLocal"
 				"path"		"RoboQuest/Saved/SaveGames"
 				"pattern"		"RQControls.sav"
-				"platforms"
-				{
-					"1"		"Windows"
-				}
-			}
-			"7"
-			{
-				"root"		"WinAppDataLocal"
-				"path"		"RoboQuest/Saved/SaveGames"
-				"pattern"		"RQGraphics.sav"
 				"platforms"
 				{
 					"1"		"Windows"
