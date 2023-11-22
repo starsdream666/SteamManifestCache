@@ -33,30 +33,35 @@
 		}
 		"steam_deck_compatibility"
 		{
-			"category"		"2"
-			"test_timestamp"		"1689638400"
-			"tested_build_id"		"11646625"
+			"category"		"3"
+			"test_timestamp"		"1700265600"
+			"tested_build_id"		"12730401"
 			"tests"
 			{
 				"0"
 				{
-					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 				}
 				"1"
 				{
-					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
 				}
 				"2"
 				{
 					"display"		"4"
-					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
 				}
 				"3"
 				{
 					"display"		"4"
 					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
 				}
 			}
 			"configuration"
@@ -64,12 +69,12 @@
 				"supported_input"		"gamepad"
 				"requires_manual_keyboard_invoke"		"0"
 				"requires_non_controller_launcher_nav"		"0"
-				"primary_player_is_controller_slot_0"		"0"
-				"non_deck_display_glyphs"		"1"
-				"small_text"		"1"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
 				"requires_internet_for_setup"		"0"
 				"requires_internet_for_singleplayer"		"0"
-				"recommended_runtime"		"proton-8.0-3"
+				"recommended_runtime"		"proton-stable"
 				"requires_h264"		"0"
 				"gamescope_frame_limiter_not_supported"		"0"
 			}
@@ -94,7 +99,7 @@
 				"height_pct"		"100"
 			}
 		}
-		"store_asset_mtime"		"1688999204"
+		"store_asset_mtime"		"1700579844"
 		"associations"
 		{
 			"0"
@@ -212,7 +217,7 @@
 			"19"		"4791"
 		}
 		"review_score"		"6"
-		"review_percentage"		"74"
+		"review_percentage"		"75"
 	}
 	"extended"
 	{
@@ -250,7 +255,7 @@
 		}
 		"steamcontrollerconfigdetails"
 		{
-			"2922378152"
+			"3056314148"
 			{
 				"controller_type"		"controller_neptune"
 				"enabled_branches"		"default,early,ernestas,experimental,preview,qa_rc,qa_stable,qa_test,trailer,usability"
@@ -290,15 +295,15 @@
 			{
 				"public"
 				{
-					"gid"		"4285955205697654891"
-					"size"		"2785524256"
-					"download"		"1765735872"
+					"gid"		"615003841221381647"
+					"size"		"2874477122"
+					"download"		"1825418896"
 				}
 				"experimental"
 				{
-					"gid"		"4813829957572446162"
-					"size"		"2870551154"
-					"download"		"1822767360"
+					"gid"		"4620093873646840389"
+					"size"		"2874478198"
+					"download"		"1825418160"
 				}
 				"v.0.2"
 				{
@@ -318,20 +323,26 @@
 					"size"		"2395421657"
 					"download"		"1512695472"
 				}
+				"v.0.5"
+				{
+					"gid"		"4285955205697654891"
+					"size"		"2785524256"
+					"download"		"1765735872"
+				}
 			}
 			"encryptedmanifests"
 			{
 				"early"
 				{
-					"gid"		"7ED248009C6869BC4CD8ECEC14CD06C8"
-					"size"		"8A11BC42C65296ADB1F2FE339B2E3A26"
-					"download"		"765475ADF8692CC03A956A331DF96BAC"
+					"gid"		"3D5CD41CE1F23A869E37F887AAF9261F"
+					"size"		"CE922DF925C2F81AEBDEE25892C3D7E9"
+					"download"		"36D05ACD48362CB12A049C48F56641C4"
 				}
 				"ernestas"
 				{
-					"gid"		"8AD993F6EE01184E04DACAFFFB5F3133"
-					"size"		"872D499E0F67C0961B86BC3043CDAA1A"
-					"download"		"E0D2ABBCB773C613794A448B129EBD57"
+					"gid"		"CE015091E75718A2C90C4F38E31BB01E"
+					"size"		"F100DB407A4299618E8668B208CCA95F"
+					"download"		"60D426871E5203BF9EE9A512CBC9B06B"
 				}
 				"preview"
 				{
@@ -347,9 +358,9 @@
 				}
 				"qa_test"
 				{
-					"gid"		"4FD074DF4D67522873B0AE070E02EEAE"
-					"size"		"09BFC0FA3788315EB01E51F68826D02D"
-					"download"		"DE2A8AFAC8D7FBF94C6DA060C0271166"
+					"gid"		"A896140E4F04ACF36A6E7482C98C7066"
+					"size"		"C56862E52C4E4C1335D6D9E048B97DE5"
+					"download"		"98300ACD4A12FB997A8EB77048B9C459"
 				}
 				"trailer"
 				{
@@ -377,26 +388,26 @@
 		{
 			"public"
 			{
-				"buildid"		"11794952"
-				"timeupdated"		"1690549448"
+				"buildid"		"12750555"
+				"timeupdated"		"1700574600"
 			}
 			"early"
 			{
-				"buildid"		"12462253"
+				"buildid"		"12769585"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697551185"
+				"timeupdated"		"1700647398"
 			}
 			"ernestas"
 			{
-				"buildid"		"12462253"
+				"buildid"		"12769585"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697551099"
+				"timeupdated"		"1700647346"
 			}
 			"experimental"
 			{
-				"buildid"		"12462253"
+				"buildid"		"12769585"
 				"description"		"Experimental branch."
-				"timeupdated"		"1697551191"
+				"timeupdated"		"1700647405"
 			}
 			"preview"
 			{
@@ -412,9 +423,9 @@
 			}
 			"qa_test"
 			{
-				"buildid"		"12462253"
+				"buildid"		"12769585"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697551199"
+				"timeupdated"		"1700647412"
 			}
 			"trailer"
 			{
@@ -445,6 +456,12 @@
 				"buildid"		"11061974"
 				"description"		"Sweet Transit v.0.4"
 				"timeupdated"		"1689018324"
+			}
+			"v.0.5"
+			{
+				"buildid"		"11794952"
+				"description"		"Sweet Transit v.0.5"
+				"timeupdated"		"1700635649"
 			}
 		}
 	}
