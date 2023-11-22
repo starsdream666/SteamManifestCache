@@ -16,15 +16,35 @@
 		"osextended"		""
 		"steam_deck_compatibility"
 		{
-			"category"		"1"
-			"test_timestamp"		"1645488000"
-			"tested_build_id"		"7821538"
+			"category"		"2"
+			"test_timestamp"		"1698192000"
+			"tested_build_id"		"12463046"
 			"tests"
 			{
 				"0"
 				{
-					"display"		"2"
-					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 				}
 			}
 			"configuration"
@@ -32,13 +52,14 @@
 				"supported_input"		"other"
 				"requires_manual_keyboard_invoke"		"0"
 				"requires_non_controller_launcher_nav"		"0"
-				"primary_player_is_controller_slot_0"		"1"
+				"primary_player_is_controller_slot_0"		"0"
 				"non_deck_display_glyphs"		"1"
-				"small_text"		"0"
+				"small_text"		"1"
 				"requires_internet_for_setup"		"0"
 				"requires_internet_for_singleplayer"		"0"
 				"recommended_runtime"		"proton-stable"
-				"requires_h264"		"0"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
 			}
 		}
 		"small_capsule"
@@ -61,7 +82,7 @@
 				"height_pct"		"100"
 			}
 		}
-		"store_asset_mtime"		"1696497624"
+		"store_asset_mtime"		"1700590019"
 		"associations"
 		{
 			"0"
@@ -344,9 +365,9 @@
 			{
 				"public"
 				{
-					"gid"		"1510441188573147922"
-					"size"		"24207570623"
-					"download"		"11311410240"
+					"gid"		"5189488157892248317"
+					"size"		"25595362686"
+					"download"		"11862182240"
 				}
 			}
 			"encryptedmanifests"
@@ -359,9 +380,9 @@
 				}
 				"non_steam"
 				{
-					"gid"		"2A3C3FFEF8A62F51CF92BD8374346E30"
-					"size"		"A7D9455487246FF80FF1DC6AB7E3E091"
-					"download"		"CF975AA8E7003B11749E39A6711B5904"
+					"gid"		"0D30F7BC001DD01CC639614AFD081B40"
+					"size"		"CE249E94053CF51617278A7EAAD2CCA2"
+					"download"		"0225E5CC49DFE887332584516551B984"
 				}
 				"sandbox"
 				{
@@ -371,9 +392,9 @@
 				}
 				"testing"
 				{
-					"gid"		"125A341324F7213B2AB9C350265AD5C7"
-					"size"		"8974E8F7CBE838DD3CBA1AFFC22D658E"
-					"download"		"CBA0A217DAD36629517C9A9183777E27"
+					"gid"		"0FD1C658A6C704F387A8FF85A23AD59D"
+					"size"		"08BF3D28B9C9E2A3FE752F73D52F3494"
+					"download"		"656FEC849B707E25E69CAFFF0C46C68B"
 				}
 			}
 		}
@@ -382,8 +403,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12463046"
-				"timeupdated"		"1697617776"
+				"buildid"		"12719430"
+				"timeupdated"		"1700587268"
 			}
 			"kandydat1"
 			{
@@ -393,9 +414,9 @@
 			}
 			"non_steam"
 			{
-				"buildid"		"12267415"
+				"buildid"		"12758089"
 				"pwdrequired"		"1"
-				"timeupdated"		"1695544543"
+				"timeupdated"		"1700556098"
 			}
 			"sandbox"
 			{
@@ -405,9 +426,9 @@
 			}
 			"testing"
 			{
-				"buildid"		"12463046"
+				"buildid"		"12719430"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697556247"
+				"timeupdated"		"1700131683"
 			}
 		}
 	}
