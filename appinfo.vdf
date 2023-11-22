@@ -98,7 +98,7 @@
 				"height_pct"		"39.42307673685648"
 			}
 		}
-		"store_asset_mtime"		"1697561180"
+		"store_asset_mtime"		"1700585996"
 		"associations"
 		{
 			"0"
@@ -221,21 +221,6 @@
 					"osarch"		"64"
 				}
 			}
-			"1"
-			{
-				"executable"		"demo_win\\Project Warlock 2.exe"
-				"workingdir"		"demo_win"
-				"config"
-				{
-					"oslist"		"windows"
-				}
-				"description_loc"
-				{
-					"english"		"Play Project Warlock II - Chapter 2 Demo"
-					"polish"		"Graj w Project Warlock II - Chapter 2 Demo"
-				}
-				"description"		"Play Project Warlock II - Chapter 2 Demo"
-			}
 		}
 	}
 	"depots"
@@ -250,48 +235,24 @@
 			{
 				"public"
 				{
-					"gid"		"3330546155918683186"
-					"size"		"7462770942"
-					"download"		"2493373520"
+					"gid"		"4583746114276579082"
+					"size"		"8889681865"
+					"download"		"2393485840"
 				}
 			}
 			"encryptedmanifests"
 			{
-				"episode_2"
+				"devqa"
 				{
-					"gid"		"D2A395CDF5BB6A3321FFD2F093047A0D"
-					"size"		"D793B59E0014034FE230235BF936457F"
-					"download"		"284C524CBBBDB28AD7E9666EA7666B8D"
+					"gid"		"D0C9767310D32A57AF0081D67548151B"
+					"size"		"93D4FAF3E9B02B1461449EAEB3178933"
+					"download"		"D63E371AAD75611D3E2BABC1284AB961"
 				}
 				"episode_2_wargression"
 				{
-					"gid"		"8A37893A8BDE1B1E7FD7ED73433B68DF"
-					"size"		"117BF1387EDC09172C99F555EE45546D"
-					"download"		"F62552ABCB1AB6508A53AA4B26DA512D"
-				}
-				"external"
-				{
-					"gid"		"1424327BB6C3CF80D563EBA18CCE2852"
-					"size"		"5656CEE1B325824B824381534682CB61"
-					"download"		"3E79C2F77680C75F4CACD65831735469"
-				}
-				"for_jared"
-				{
-					"gid"		"3955208D821DCA85D6EC532EDE8022D2"
-					"size"		"BDAD6D878247AC3BCDF324EC9E81606F"
-					"download"		"E4FA043D065E486CF685DAB328D41D70"
-				}
-				"hub_patch"
-				{
-					"gid"		"C70D81087F5C4F3B686636BA3D474CBF"
-					"size"		"00DAF6F6FEF6E2D70EEF7C628C75C8BB"
-					"download"		"B2EEE6D585336CBE6FB61B869887BBAA"
-				}
-				"pax_west"
-				{
-					"gid"		"67E64118DEC1F074DC5A095D3582B5AD"
-					"size"		"A841BFE8CDA510640CE9D79F911952F4"
-					"download"		"F17C927B10C811CA2E6156586D9AAC76"
+					"gid"		"17DEA8E5917DE511A18E782901F2DC36"
+					"size"		"1F8341F70F29614764B10D79BA188D77"
+					"download"		"1EF2348A56AD2F036B319A3071B67985"
 				}
 				"qa_testing"
 				{
@@ -315,79 +276,24 @@
 				"oslist"		"macos"
 			}
 		}
-		"1640304"
-		{
-			"config"
-			{
-				"oslist"		"windows"
-			}
-			"manifests"
-			{
-				"public"
-				{
-					"gid"		"8439376676726206078"
-					"size"		"8306535681"
-					"download"		"2410481792"
-				}
-			}
-			"encryptedmanifests"
-			{
-				"pax_west"
-				{
-					"gid"		"562E2F3AD63355705CD0610917FFD4CA"
-					"size"		"9C6CA72E015BC9D3EF14E01F4A7DD55A"
-					"download"		"8DDDF1F67910B4B6569FE9AC4D1D369F"
-				}
-				"qa_testing"
-				{
-					"gid"		"A30A846290FDFFDE46541387778E3FE6"
-					"size"		"895500F674B209AEBE4B802D5E609AB6"
-					"download"		"587641B2D7E59F7A58EBA561F51D9A0D"
-				}
-			}
-		}
 		"branches"
 		{
 			"public"
 			{
-				"buildid"		"12297888"
-				"timeupdated"		"1695916689"
+				"buildid"		"12762040"
+				"timeupdated"		"1700582476"
 			}
-			"episode_2"
+			"devqa"
 			{
-				"buildid"		"12408091"
+				"buildid"		"12761711"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697012878"
+				"timeupdated"		"1700580335"
 			}
 			"episode_2_wargression"
 			{
-				"buildid"		"12659566"
+				"buildid"		"12673782"
 				"pwdrequired"		"1"
-				"timeupdated"		"1699526126"
-			}
-			"external"
-			{
-				"buildid"		"11642719"
-				"pwdrequired"		"1"
-				"timeupdated"		"1688722653"
-			}
-			"for_jared"
-			{
-				"buildid"		"11061059"
-				"pwdrequired"		"1"
-				"timeupdated"		"1682091997"
-			}
-			"hub_patch"
-			{
-				"buildid"		"11094831"
-				"pwdrequired"		"1"
-				"timeupdated"		"1682510121"
-			}
-			"pax_west"
-			{
-				"buildid"		"12297888"
-				"pwdrequired"		"1"
-				"timeupdated"		"1695828735"
+				"timeupdated"		"1700040547"
 			}
 			"qa_testing"
 			{
