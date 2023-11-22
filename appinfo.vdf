@@ -146,6 +146,7 @@
 			"category_2"		"1"
 			"category_22"		"1"
 			"category_25"		"1"
+			"category_23"		"1"
 		}
 		"supported_languages"
 		{
@@ -307,9 +308,9 @@
 			{
 				"public"
 				{
-					"gid"		"2508337235762069320"
-					"size"		"3506693353"
-					"download"		"629145152"
+					"gid"		"2968928282385169529"
+					"size"		"3487110217"
+					"download"		"627113360"
 				}
 				"v0925_64bit"
 				{
@@ -344,9 +345,9 @@
 			{
 				"public"
 				{
-					"gid"		"8715500023765701446"
-					"size"		"3509729944"
-					"download"		"630564352"
+					"gid"		"7933377200795713424"
+					"size"		"3490146282"
+					"download"		"628497792"
 				}
 				"v0925_64bit"
 				{
@@ -382,9 +383,9 @@
 			{
 				"public"
 				{
-					"gid"		"4100060211629141871"
-					"size"		"3501105701"
-					"download"		"627162512"
+					"gid"		"768466189247111017"
+					"size"		"3481148769"
+					"download"		"625032048"
 				}
 			}
 		}
@@ -392,8 +393,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12465007"
-				"timeupdated"		"1697571988"
+				"buildid"		"12761636"
+				"timeupdated"		"1700580373"
 			}
 			"fullreleasebeta"
 			{
@@ -412,6 +413,38 @@
 				"buildid"		"12140492"
 				"description"		"64 bit - try if game freezes"
 				"timeupdated"		"1694165164"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"40"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Entertainment Forge/Gladiator Manager"
+				"pattern"		"*"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Entertainment Forge\\Gladiator Manager"
+						"replace"		"com.EntertainmentForge.GladiatorManager"
+					}
+				}
 			}
 		}
 	}
