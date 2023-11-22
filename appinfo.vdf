@@ -14,6 +14,8 @@
 		"oslist"		"windows"
 		"osarch"		"64"
 		"osextended"		""
+		"controllertagwizard"		"1"
+		"controller_support"		"partial"
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
@@ -58,6 +60,8 @@
 		{
 			"category_2"		"1"
 			"category_22"		"1"
+			"category_18"		"1"
+			"category_29"		"1"
 		}
 		"supported_languages"
 		{
@@ -140,8 +144,8 @@
 			"18"		"5716"
 			"19"		"492"
 		}
-		"review_score"		"4"
-		"review_percentage"		"39"
+		"review_score"		"5"
+		"review_percentage"		"40"
 	}
 	"extended"
 	{
@@ -199,9 +203,18 @@
 			{
 				"public"
 				{
-					"gid"		"7896713669481047511"
-					"size"		"9786052491"
-					"download"		"9425571280"
+					"gid"		"6059596027373286734"
+					"size"		"9487307534"
+					"download"		"9126764608"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"DC5FB3F775AF83A9B9A7816D1DEFC68F"
+					"size"		"D0CA0C483D9D350549386EEC4A7401B4"
+					"download"		"58875AADABD0B711F676BA1E2F3589C5"
 				}
 			}
 		}
@@ -222,6 +235,15 @@
 					"download"		"64"
 				}
 			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"20D015F0C61B94E5CA7EC5667650FC1E"
+					"size"		"D6881B074E08731DBE2669BAEB0C67EE"
+					"download"		"891A70366CDBBC28E430EE0E4AF8066F"
+				}
+			}
 		}
 		"2337591"
 		{
@@ -240,13 +262,28 @@
 					"download"		"277421984"
 				}
 			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"8524CDE3E37589FE3EAEE4926C4D8034"
+					"size"		"E5D4C22ADC5710CD6E338B65B44FDD58"
+					"download"		"EC293A144975BCA3120345E94897FB0D"
+				}
+			}
 		}
 		"branches"
 		{
 			"public"
 			{
-				"buildid"		"11487024"
-				"timeupdated"		"1686910903"
+				"buildid"		"12751524"
+				"timeupdated"		"1700585806"
+			}
+			"beta"
+			{
+				"buildid"		"12751524"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700496108"
 			}
 		}
 	}
