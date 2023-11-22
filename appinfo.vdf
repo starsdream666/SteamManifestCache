@@ -11,9 +11,9 @@
 		"logo_small"		"0e3179997d6065b85d334f2752f7d11174104f2d_thumb"
 		"clienticon"		"7b9f80ef09196a16357db6d410109b665427ff85"
 		"clienttga"		"870121c0c897be2accce28c36b78817581c96a15"
-		"oslist"		"windows"
+		"oslist"		"windows,macos"
 		"osarch"		""
-		"osextended"		""
+		"osextended"		"macos64,macosapplesilicon,macosnotarized"
 		"content_descriptors"
 		{
 			"0"		"1"
@@ -84,7 +84,7 @@
 				"height_pct"		"100"
 			}
 		}
-		"store_asset_mtime"		"1640804883"
+		"store_asset_mtime"		"1700627176"
 		"associations"
 		{
 			"0"
@@ -124,6 +124,7 @@
 			}
 		}
 		"steam_release_date"		"1619802142"
+		"community_visible_stats"		"1"
 		"community_hub_visible"		"1"
 		"gameid"		"1394930"
 		"store_tags"
@@ -137,10 +138,10 @@
 			"6"		"1667"
 			"7"		"4085"
 			"8"		"6426"
-			"9"		"597"
-			"10"		"6971"
-			"11"		"5984"
-			"12"		"5608"
+			"9"		"6971"
+			"10"		"597"
+			"11"		"5608"
+			"12"		"5984"
 			"13"		"5716"
 			"14"		"19"
 			"15"		"4252"
@@ -157,6 +158,8 @@
 		"developer"		"Kenkou Land"
 		"publisher"		"Fruitbat Factory"
 		"homepage"		"http://fruitbatfactory.com/"
+		"listofdlc"		"2591300"
+		"dlcavailableonstore"		"1"
 	}
 	"config"
 	{
@@ -166,22 +169,78 @@
 			"0"
 			{
 				"executable"		"MAMIYA.exe"
-				"arguments"		"--in-process-gpu"
-				"type"		"none"
+				"arguments"		"--in-process-gpu --disable-direct-composition"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"MAMIYA.app"
+				"config"
+				{
+					"oslist"		"macos"
+				}
 			}
 		}
 	}
 	"depots"
 	{
+		"baselanguages"		"english"
 		"1394931"
 		{
+			"config"
+			{
+				"oslist"		"windows,linux"
+			}
 			"manifests"
 			{
 				"public"
 				{
+					"gid"		"3660011710668944742"
+					"size"		"1200303216"
+					"download"		"990514064"
+				}
+				"legacy"
+				{
 					"gid"		"8030087346482947491"
 					"size"		"554199871"
 					"download"		"499591360"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"steamreview"
+				{
+					"gid"		"DB866700F68E26219821BFBB7BDA4594"
+					"size"		"839B2DAB774068E3763430ACF107CF89"
+					"download"		"5DDE0AF48E361F789E9445F69E32B3BC"
+				}
+			}
+		}
+		"1394932"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5143452438489085760"
+					"size"		"2241817520"
+					"download"		"991554880"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"steamreview"
+				{
+					"gid"		"4979EE30867850EA86505FA7722EA5E9"
+					"size"		"A856D2ADA88A5AFE767EA1FCE2B9BC0C"
+					"download"		"4024F8F091E5C996F6E19C009985F288"
 				}
 			}
 		}
@@ -189,8 +248,20 @@
 		{
 			"public"
 			{
+				"buildid"		"12767408"
+				"timeupdated"		"1700633152"
+			}
+			"legacy"
+			{
 				"buildid"		"8235218"
-				"timeupdated"		"1645261559"
+				"description"		"Legacy version of FallDown + DownFall"
+				"timeupdated"		"1699198876"
+			}
+			"steamreview"
+			{
+				"buildid"		"12767408"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700626979"
 			}
 		}
 	}
