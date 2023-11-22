@@ -57,7 +57,8 @@
 				"gamescope_frame_limiter_not_supported"		"0"
 			}
 		}
-		"controller_support"		"full"
+		"controllertagwizard"		"1"
+		"controller_support"		"partial"
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
@@ -73,12 +74,12 @@
 			"library_logo"		"en"
 			"logo_position"
 			{
-				"pinned_position"		"CenterCenter"
-				"width_pct"		"53.026805261807624"
-				"height_pct"		"88.88888888888889"
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"40.896751962845485"
+				"height_pct"		"100"
 			}
 		}
-		"store_asset_mtime"		"1694351461"
+		"store_asset_mtime"		"1700614025"
 		"associations"
 		{
 			"0"
@@ -105,7 +106,11 @@
 			"category_2"		"1"
 			"category_22"		"1"
 			"category_23"		"1"
-			"category_28"		"1"
+			"category_18"		"1"
+			"category_55"		"1"
+			"category_56"		"1"
+			"category_57"		"1"
+			"category_58"		"1"
 		}
 		"supported_languages"
 		{
@@ -192,9 +197,9 @@
 			{
 				"public"
 				{
-					"gid"		"8055940627327515865"
-					"size"		"6432967527"
-					"download"		"2545693472"
+					"gid"		"3187815327448269250"
+					"size"		"6596479888"
+					"download"		"2610663232"
 				}
 				"legacybranch"
 				{
@@ -207,15 +212,15 @@
 			{
 				"alphabranch"
 				{
-					"gid"		"0756E36DFDDB96B771E796F5E9D04A9F"
-					"size"		"30D64AD04F1988FACBD7A96BB1791C2B"
-					"download"		"6F708F52D9B1DD9EDA3A35013AC6ABE1"
+					"gid"		"08C5EAB782DF0667988FD2E50EC78816"
+					"size"		"44DB26259C654DA0421E4EF08E8BDB71"
+					"download"		"B3E026C94ABBCFBDF17A63C130AB346E"
 				}
 				"betabranch"
 				{
-					"gid"		"21B7E9E7817747A59DF4B64A25BA1F8F"
-					"size"		"350D884B5DA0E4DC50E02CB32E349C8D"
-					"download"		"A378A7837166AE15C408982A82FD5C2B"
+					"gid"		"3D13546749B2808DA3E4C4F2521DABC5"
+					"size"		"553632A29A8D8ECC2324B0C9DFA0E2C8"
+					"download"		"41D986600877A507996E667A0753164A"
 				}
 				"bugbranch"
 				{
@@ -225,9 +230,9 @@
 				}
 				"devbranch"
 				{
-					"gid"		"46239FD51DB51312141423CBFEAE941A"
-					"size"		"DC0FC45C4E128ABE467F1925E6386D28"
-					"download"		"CC4CAFDABCCF94CAEF5910EAA12500A6"
+					"gid"		"62D49C270B23EF1DCAB769984107E7B9"
+					"size"		"784BE7F25F83D4062A76218C44CD6A47"
+					"download"		"7C51DF11A576BD98FF958AF2EF613D00"
 				}
 			}
 		}
@@ -243,9 +248,9 @@
 			{
 				"public"
 				{
-					"gid"		"5918856407596010891"
-					"size"		"6470242394"
-					"download"		"2559462400"
+					"gid"		"6113910552216410581"
+					"size"		"6636453214"
+					"download"		"2622106800"
 				}
 				"legacybranch"
 				{
@@ -258,15 +263,15 @@
 			{
 				"alphabranch"
 				{
-					"gid"		"832D77D531725285F6B2B340ED004B12"
-					"size"		"F21459C1A8340AF701261DC0DA7ACEF7"
-					"download"		"8EB6B2282F22B16A3F0A1D1030B50760"
+					"gid"		"FAA45CEA625A582D3779257A1CC4F334"
+					"size"		"53DB8BC19777C9B59C96F5EDB34E02E2"
+					"download"		"2C3731666BA3542F7D11FF21B2224577"
 				}
 				"betabranch"
 				{
-					"gid"		"6E8AD31842EEDFC912F0A7665FA2CA58"
-					"size"		"95320BF4B75F4AF1EAB0862F52B5E5F7"
-					"download"		"B749982D84D37D18781953FAB877F974"
+					"gid"		"6775C9B9CA7EEFADE631317157C4ACBF"
+					"size"		"E6D4746A48F36EA290A1C3923C8A3175"
+					"download"		"280EFB0DD973848CB655710FBDB08D08"
 				}
 				"bugbranch"
 				{
@@ -276,9 +281,9 @@
 				}
 				"devbranch"
 				{
-					"gid"		"CDD046D043517FEECA823347CFE23F3A"
-					"size"		"94FD51BF075BA5F5F6DE13454527054A"
-					"download"		"42C8C2076333073DA69B1A25EF4AFB15"
+					"gid"		"1E3B7F48B64DCF6AB965E72932E92AFB"
+					"size"		"23C2154013A7E860745921520224BCF2"
+					"download"		"BE7DF8D3AEA3DFE3EB44840D64144969"
 				}
 			}
 		}
@@ -286,20 +291,20 @@
 		{
 			"public"
 			{
-				"buildid"		"12568239"
-				"timeupdated"		"1698636737"
+				"buildid"		"12766637"
+				"timeupdated"		"1700619564"
 			}
 			"alphabranch"
 			{
-				"buildid"		"12568239"
+				"buildid"		"12766637"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698636717"
+				"timeupdated"		"1700619363"
 			}
 			"betabranch"
 			{
-				"buildid"		"12568239"
+				"buildid"		"12766637"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698636725"
+				"timeupdated"		"1700619371"
 			}
 			"bugbranch"
 			{
@@ -309,9 +314,9 @@
 			}
 			"devbranch"
 			{
-				"buildid"		"12568239"
+				"buildid"		"12766637"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698636056"
+				"timeupdated"		"1700619292"
 			}
 			"legacybranch"
 			{
