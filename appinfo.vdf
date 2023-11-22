@@ -1,0 +1,221 @@
+"appinfo"
+{
+	"appid"		"2404510"
+	"common"
+	{
+		"name"		"Lucky Hero"
+		"type"		"Game"
+		"name_localized"
+		{
+			"schinese"		"幸运勇者"
+			"tchinese"		"幸運勇者"
+			"japanese"		"ラッキーヒーロー"
+		}
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"38ea94093b083c306072a8081e5e3d4d0869b3a8"
+		"clienttga"		"2396975b5fd6ef4c448258598c6a35bc5bbe864b"
+		"icon"		"a927e5a65efea313ca0570c0fa0b422fc6ec57e7"
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+		}
+		"controllertagwizard"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn"
+			"library_hero"		"en"
+			"library_logo"		"en,zh-cn,ja"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"77.02003878474466"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1699963520"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"mora churrasco studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Neverland Entertainment"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1700146820"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2404510"
+		"store_tags"
+		{
+			"0"		"1091588"
+			"1"		"3959"
+			"2"		"4711"
+			"3"		"4325"
+			"4"		"597"
+			"5"		"8945"
+			"6"		"32322"
+			"7"		"9"
+			"8"		"1716"
+			"9"		"3964"
+			"10"		"3871"
+			"11"		"4004"
+			"12"		"4182"
+			"13"		"492"
+			"14"		"1677"
+			"15"		"5125"
+			"16"		"1720"
+		}
+		"review_score"		"6"
+		"review_percentage"		"78"
+	}
+	"extended"
+	{
+		"developer"		"mora churrasco studio"
+		"publisher"		"Neverland Entertainment"
+		"homepage"		"https://nlentmt.com/"
+	}
+	"config"
+	{
+		"installdir"		"Lucky Hero"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"LuckyHero.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"default"
+				}
+				"description_loc"
+				{
+					"english"		"默认启动配置"
+				}
+				"description"		"默认启动配置"
+			}
+			"1"
+			{
+				"executable"		"LuckyHero.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"jacktext"
+				}
+				"description_loc"
+				{
+					"english"		"默认启动配置"
+				}
+				"description"		"默认启动配置"
+			}
+		}
+	}
+	"depots"
+	{
+		"2404511"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2016818642412781605"
+					"size"		"107461464"
+					"download"		"57698656"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"jacktext"
+				{
+					"gid"		"7EE00D9FCC80B1659185478D37F46085"
+					"size"		"C170725424EAEDD77A8A9C73A850B10B"
+					"download"		"02313B7A1EBBCB0402C1B303A296C929"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12760068"
+				"timeupdated"		"1700574469"
+			}
+			"jacktext"
+			{
+				"buildid"		"12760068"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700569278"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"104857600"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"Godot/app_userdata/LuckyHero"
+				"pattern"		"*.save"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
