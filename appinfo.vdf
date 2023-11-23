@@ -1,0 +1,247 @@
+"appinfo"
+{
+	"appid"		"2604240"
+	"common"
+	{
+		"name"		"Wicked Times"
+		"type"		"Game"
+		"icon"		"64625259aa7f426986be7c5b63ba21e290bfea5f"
+		"clienticon"		"4887c11217c3896a289afd4b5ac260bff392ff2e"
+		"clienttga"		"bf07731ac046beda0d80a4663bb9687e9064cdae"
+		"releasestate"		"released"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64,macosapplesilicon"
+		"controllertagwizard"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"64.72642607683352"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1700714033"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Yotta Yobi"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Diamond Tao"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Diamond Tao"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"3"
+			"3"		"2"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1696774500"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2604240"
+		"store_tags"
+		{
+			"0"		"4172"
+			"1"		"4182"
+			"2"		"1646"
+			"3"		"122"
+			"4"		"12472"
+			"5"		"3834"
+			"6"		"1084988"
+			"7"		"21"
+			"8"		"1684"
+			"9"		"1720"
+			"10"		"21725"
+			"11"		"17305"
+			"12"		"493"
+			"13"		"9"
+			"14"		"597"
+			"15"		"3993"
+			"16"		"3871"
+			"17"		"6730"
+			"18"		"113"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Yotta Yobi"
+		"publisher"		"Diamond Tao"
+		"homepage"		"https://diamondtao.com/WickedTimes.html"
+	}
+	"config"
+	{
+		"installdir"		"Wicked Times"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Wicked Times/Wicked Times.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Wicked Times.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"2604242"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"387766473041303612"
+					"size"		"241830872"
+					"download"		"177582320"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"DB648DD0E1CEE1764A97CDAF2821B048"
+					"size"		"F3BBB8813471F4B65203040BAA7A1808"
+					"download"		"6B103CF7517854838A73DB5AD8293E19"
+				}
+			}
+		}
+		"2604243"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7069248922540729764"
+					"size"		"265851308"
+					"download"		"185365824"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"CB2BF454C4843394FF285D89F1F7C046"
+					"size"		"8D119C3ED1B7AA58900E2D167F21FA93"
+					"download"		"D23B818BAF6356369EAB38D8DA8601EF"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12679845"
+				"timeupdated"		"1699799346"
+			}
+			"beta"
+			{
+				"buildid"		"12679845"
+				"pwdrequired"		"1"
+				"timeupdated"		"1699729669"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"50"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"DiamondTao/Wicked Times"
+				"pattern"		"*.txt"
+				"recursive"		"1"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"DiamondTao/Wicked Times"
+						"replace"		"DiamondTao/Wicked Times"
+					}
+				}
+			}
+		}
+	}
+}
