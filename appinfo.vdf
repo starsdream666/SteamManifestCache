@@ -25,6 +25,49 @@
 			"schinese"		"1"
 			"japanese"		"1"
 		}
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1699574400"
+			"tested_build_id"		"12623972"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
 		"controller_support"		"full"
 		"small_capsule"
 		{
@@ -50,7 +93,7 @@
 				"height_pct"		"43.92068392305866"
 			}
 		}
-		"store_asset_mtime"		"1699267845"
+		"store_asset_mtime"		"1700619054"
 		"associations"
 		{
 			"0"
@@ -117,12 +160,12 @@
 			"4"		"6426"
 			"5"		"21"
 			"6"		"17305"
-			"7"		"6378"
-			"8"		"5716"
-			"9"		"4182"
-			"10"		"6971"
-			"11"		"5984"
-			"12"		"8369"
+			"7"		"6971"
+			"8"		"6378"
+			"9"		"5716"
+			"10"		"4182"
+			"11"		"8369"
+			"12"		"5984"
 			"13"		"492"
 			"14"		"9"
 			"15"		"599"
@@ -131,7 +174,7 @@
 			"18"		"4136"
 		}
 		"review_score"		"8"
-		"review_percentage"		"81"
+		"review_percentage"		"89"
 	}
 	"extended"
 	{
@@ -177,9 +220,9 @@
 			{
 				"public"
 				{
-					"gid"		"4198677655925966063"
-					"size"		"2234362947"
-					"download"		"555460448"
+					"gid"		"2848318712564056701"
+					"size"		"2244803791"
+					"download"		"558844800"
 				}
 			}
 			"encryptedmanifests"
@@ -192,9 +235,9 @@
 				}
 				"bug-alpha"
 				{
-					"gid"		"121439070674264F40A04AB427F96A23"
-					"size"		"DA07AB671F946C6716AFF200AB1219BC"
-					"download"		"3619CF5C245884D78C5E532BBC30EEF1"
+					"gid"		"D1AFA7BF9386D56B2CC73A3703322605"
+					"size"		"7D876B8937C121C91C11193B12B1E16C"
+					"download"		"DF67CFB1F66118FF46D35B8501321B75"
 				}
 				"develop"
 				{
@@ -216,9 +259,9 @@
 				}
 				"lqa-language"
 				{
-					"gid"		"3DFC69257F15101C96A1239808B8CB67"
-					"size"		"6856F3039916263B1FA4DE12D6D221E6"
-					"download"		"A7BF51FCA70CABA37AF7A94FEA5D63E4"
+					"gid"		"D4158E1BE0FEB8491A2B004C28406C1C"
+					"size"		"05490966B7D899FDB66F89EB3D9EC71B"
+					"download"		"77703E076D84ABC80E4CC90024D19DE2"
 				}
 				"metalhead-dev"
 				{
@@ -244,8 +287,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12659615"
-				"timeupdated"		"1699533074"
+				"buildid"		"12780241"
+				"timeupdated"		"1700746370"
 			}
 			"alpha"
 			{
@@ -255,9 +298,9 @@
 			}
 			"bug-alpha"
 			{
-				"buildid"		"12659615"
+				"buildid"		"12780241"
 				"pwdrequired"		"1"
-				"timeupdated"		"1699526662"
+				"timeupdated"		"1700735471"
 			}
 			"develop"
 			{
@@ -279,9 +322,9 @@
 			}
 			"lqa-language"
 			{
-				"buildid"		"12658451"
+				"buildid"		"12779981"
 				"pwdrequired"		"1"
-				"timeupdated"		"1699522238"
+				"timeupdated"		"1700733833"
 			}
 			"metalhead-dev"
 			{
