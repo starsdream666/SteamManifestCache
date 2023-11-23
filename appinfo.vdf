@@ -32,6 +32,54 @@
 			"0"		"5"
 		}
 		"has_adult_content"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1700524800"
+			"tested_build_id"		"12700011"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
 		"controllertagwizard"		"1"
 		"small_capsule"
 		{
@@ -135,7 +183,7 @@
 			"19"		"19"
 		}
 		"review_score"		"6"
-		"review_percentage"		"78"
+		"review_percentage"		"75"
 	}
 	"extended"
 	{
@@ -171,18 +219,18 @@
 			{
 				"public"
 				{
-					"gid"		"2816022762279481209"
-					"size"		"1366046611"
-					"download"		"435550096"
+					"gid"		"5414375450425387867"
+					"size"		"1367285219"
+					"download"		"435734288"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"beta"
 				{
-					"gid"		"EAB3A04A92ABE72F81620AC8B5E661E1"
-					"size"		"930276C438366C270382602B7D2C8B80"
-					"download"		"AD98AFD8666999908767F89F36F1FDB2"
+					"gid"		"748926B6A962ACB34AF57D4D5C192C1D"
+					"size"		"55A0C2AFF2E8861CCEAF8D6F8A66A2EB"
+					"download"		"111BA9727640C5D18EBD571E948370A4"
 				}
 				"development"
 				{
@@ -192,15 +240,15 @@
 				}
 				"pipeline-development"
 				{
-					"gid"		"D78E4BA7003E3A48E0CE7D1AC6BB95B3"
-					"size"		"67A7978E99C06E9B2996E43952651C2A"
-					"download"		"92C6E311794D03A8C34CC239998CFCE4"
+					"gid"		"16FDC9B1FF39DE8905AEF999831E1FA6"
+					"size"		"4EA876B8440A5C193B556897ADBC6146"
+					"download"		"879D13265B4C1F275DA63A45223E6B55"
 				}
 				"stabilization"
 				{
-					"gid"		"7FA8ED726CCA925236C109A2AF019DE1"
-					"size"		"5570993C23B8A28DC53B98F67EC7F827"
-					"download"		"82FE69A62629F95660A78A00EDAFBC53"
+					"gid"		"CA1499DE8BCAFB8967F1F990AF498A51"
+					"size"		"88795DF7E9C502CCB09F566124DD575F"
+					"download"		"0CCCBE9320E43B5F9342BC32C7BFE7F9"
 				}
 				"trailer"
 				{
@@ -228,14 +276,14 @@
 		{
 			"public"
 			{
-				"buildid"		"12730343"
-				"timeupdated"		"1700226231"
+				"buildid"		"12780988"
+				"timeupdated"		"1700743268"
 			}
 			"beta"
 			{
-				"buildid"		"12689308"
+				"buildid"		"12780988"
 				"pwdrequired"		"1"
-				"timeupdated"		"1699880974"
+				"timeupdated"		"1700740632"
 			}
 			"development"
 			{
@@ -245,15 +293,15 @@
 			}
 			"pipeline-development"
 			{
-				"buildid"		"12408044"
+				"buildid"		"12757951"
 				"pwdrequired"		"1"
-				"timeupdated"		"1696979131"
+				"timeupdated"		"1700554932"
 			}
 			"stabilization"
 			{
-				"buildid"		"12730255"
+				"buildid"		"12771072"
 				"pwdrequired"		"1"
-				"timeupdated"		"1700219306"
+				"timeupdated"		"1700657273"
 			}
 			"trailer"
 			{
