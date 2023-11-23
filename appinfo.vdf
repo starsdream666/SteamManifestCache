@@ -19,40 +19,15 @@
 		}
 		"steam_deck_compatibility"
 		{
-			"category"		"2"
-			"test_timestamp"		"1647648000"
-			"tested_build_id"		"7642294"
+			"category"		"1"
+			"test_timestamp"		"1699574400"
+			"tested_build_id"		"12571201"
 			"tests"
 			{
 				"0"
 				{
-					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
-				}
-				"1"
-				{
-					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
-				}
-				"2"
-				{
-					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
-				}
-				"3"
-				{
-					"display"		"4"
-					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
-				}
-				"4"
-				{
-					"display"		"4"
-					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
-				}
-				"5"
-				{
-					"display"		"1"
-					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
 				}
 			}
 			"configuration"
@@ -62,7 +37,7 @@
 				"requires_non_controller_launcher_nav"		"0"
 				"primary_player_is_controller_slot_0"		"1"
 				"non_deck_display_glyphs"		"1"
-				"small_text"		"0"
+				"small_text"		"1"
 				"requires_internet_for_setup"		"0"
 				"requires_internet_for_singleplayer"		"0"
 				"recommended_runtime"		"proton-stable"
@@ -93,7 +68,7 @@
 				"height_pct"		"100"
 			}
 		}
-		"store_asset_mtime"		"1699019782"
+		"store_asset_mtime"		"1700008112"
 		"associations"
 		{
 			"0"
@@ -199,11 +174,11 @@
 			"10"		"3810"
 			"11"		"4182"
 			"12"		"12472"
-			"13"		"5363"
-			"14"		"4202"
-			"15"		"4695"
-			"16"		"9204"
-			"17"		"1654"
+			"13"		"4202"
+			"14"		"4695"
+			"15"		"5363"
+			"16"		"1654"
+			"17"		"9204"
 			"18"		"492"
 			"19"		"3839"
 		}
@@ -253,28 +228,7 @@
 				"description"		"Ranch Simulator, DirectX 11 for use with OBS"
 			}
 		}
-		"steamcontrollertemplateindex"		"1"
-		"steamcontrollerconfigdetails"
-		{
-			"2651616018"
-			{
-				"controller_type"		"controller_switch_pro"
-				"enabled_branches"		"default"
-				"use_action_block"		"false"
-			}
-			"2651612220"
-			{
-				"controller_type"		"controller_ps4"
-				"enabled_branches"		"default"
-				"use_action_block"		"false"
-			}
-			"2651619658"
-			{
-				"controller_type"		"controller_xboxone"
-				"enabled_branches"		"default"
-				"use_action_block"		"false"
-			}
-		}
+		"steamdecktouchscreen"		"1"
 	}
 	"depots"
 	{
@@ -320,9 +274,9 @@
 			{
 				"public"
 				{
-					"gid"		"2316553871890637395"
-					"size"		"15814658651"
-					"download"		"7209169808"
+					"gid"		"1082577619748652705"
+					"size"		"15810815816"
+					"download"		"7203010128"
 				}
 				"previousupdate"
 				{
@@ -338,9 +292,9 @@
 				}
 				"unstable_branch"
 				{
-					"gid"		"2316553871890637395"
-					"size"		"15814658651"
-					"download"		"7209169808"
+					"gid"		"1082577619748652705"
+					"size"		"15810815816"
+					"download"		"7203010128"
 				}
 			}
 			"encryptedmanifests"
@@ -353,9 +307,9 @@
 				}
 				"internal_testing"
 				{
-					"gid"		"CEDD9084D8F1CC6E85DB0661310831E1"
-					"size"		"4ACC91B1CCF9D5215F37906CE3752581"
-					"download"		"545273202FD9B3B7476651EBE6826716"
+					"gid"		"8846E04AC36FB6FB38F7FC16BD708F9B"
+					"size"		"994EA87CB7D9779219A7148DACE0EF42"
+					"download"		"F973D8E452539FA3DCB1D2A1B52BFB5D"
 				}
 				"moderator_testing"
 				{
@@ -369,8 +323,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12571201"
-				"timeupdated"		"1699030597"
+				"buildid"		"12708936"
+				"timeupdated"		"1700670159"
 			}
 			"crash_test"
 			{
@@ -380,9 +334,9 @@
 			}
 			"internal_testing"
 			{
-				"buildid"		"12571201"
+				"buildid"		"12774371"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698665831"
+				"timeupdated"		"1700682037"
 			}
 			"moderator_testing"
 			{
@@ -404,9 +358,9 @@
 			}
 			"unstable_branch"
 			{
-				"buildid"		"12571201"
+				"buildid"		"12708936"
 				"description"		"Unstable test branch"
-				"timeupdated"		"1698675980"
+				"timeupdated"		"1700060676"
 			}
 		}
 	}
