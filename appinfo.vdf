@@ -1,0 +1,308 @@
+"appinfo"
+{
+	"appid"		"1351780"
+	"common"
+	{
+		"name"		"香肠派对"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"c47cfa3681e44dd4b34954683c7fdaf7800a6105"
+		"clienttga"		"9c957330ea6026220581832e5bd4f9fb983244fd"
+		"icon"		"03257cb6ed15e6c3bdc43c169befed3cbbc7c678"
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+		}
+		"name_localized"
+		{
+			"schinese"		"香肠派对"
+		}
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1351780_eula_0"
+				"name"		"香肠派对 EULA"
+				"url"		"https://store.steampowered.com//eula/1351780_eula_0"
+				"version"		"1"
+			}
+		}
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn"
+			"library_hero"		"en,zh-cn"
+			"library_logo"		"zh-cn,en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"25.203725261932476"
+				"height_pct"		"43.540726668249846"
+			}
+		}
+		"store_asset_mtime"		"1700190641"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"厦门真有趣信息科技有限公司"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"心动网络股份有限公司"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"29"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_27"		"1"
+			"category_35"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1694165340"
+		"community_hub_visible"		"1"
+		"gameid"		"1351780"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"3814"
+			"2"		"21"
+			"3"		"176981"
+			"4"		"128"
+			"5"		"1774"
+			"6"		"4726"
+			"7"		"4195"
+			"8"		"493"
+			"9"		"4562"
+			"10"		"12095"
+		}
+		"review_score"		"4"
+		"review_percentage"		"24"
+	}
+	"extended"
+	{
+		"developer"		"厦门真有趣信息科技有限公司"
+		"publisher"		"心动网络股份有限公司"
+		"homepage"		"http://xc.xd.com"
+	}
+	"config"
+	{
+		"installdir"		"SausageMan"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Loader.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"default"
+				}
+			}
+			"1"
+			{
+				"executable"		"Sausage Man.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"2"
+			{
+				"executable"		"Sausage Man.exe"
+				"type"		"default"
+				"config"
+				{
+					"betakey"		"test3"
+				}
+			}
+			"3"
+			{
+				"executable"		"Loader.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"test2"
+				}
+			}
+			"4"
+			{
+				"executable"		"Loader.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"test"
+				}
+			}
+			"5"
+			{
+				"executable"		"Loader.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"first-test"
+				}
+			}
+		}
+		"steamdecktouchscreen"		"5"
+	}
+	"depots"
+	{
+		"baselanguages"		"english,schinese,tchinese"
+		"1351781"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8690135148285330615"
+					"size"		"9657148988"
+					"download"		"6936494464"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"first-test"
+				{
+					"gid"		"3E20E1628991A9CDE37E1E3C291E54D3"
+					"size"		"EAA2DAC23A84AD98E954BA08152D6E9F"
+					"download"		"0D5A48E4F36B1E056FDF6CE2ECD9A001"
+				}
+				"test"
+				{
+					"gid"		"E3CC05E5D9C2C98819A0E16D401F541C"
+					"size"		"5D0CC0E4625C59BA3E93FC667C33B539"
+					"download"		"9D09A570A3F0AB00B9C87234F16DB83A"
+				}
+				"test2"
+				{
+					"gid"		"A3F7137134EA8927975590C72530E8E4"
+					"size"		"7943CEC419762FADC1DF686CF6CD0052"
+					"download"		"C474BD6BBEEF7B6F8C767DB4BA29B500"
+				}
+				"test3"
+				{
+					"gid"		"91BF4BFB653B7F77B60C7B967717D1F8"
+					"size"		"B0E1006187838CEC797399A2BEA6B174"
+					"download"		"989156BFB7188B59EAA505F244AD67DB"
+				}
+			}
+		}
+		"1351782"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4528796305541688092"
+					"size"		"26237536"
+					"download"		"24280592"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"first-test"
+				{
+					"gid"		"6ECB6EED78285D85BA7318B671C653E0"
+					"size"		"54F59E3499570628C3EBC6BE7BD52861"
+					"download"		"1D0B7A5FE179EA254919CDC127E4EAC9"
+				}
+				"test"
+				{
+					"gid"		"0B9ACE89CC3A9222AD23128768685AF2"
+					"size"		"CB2D71A67AC24E8009C4B396A685855C"
+					"download"		"5DD87E8BD510C674574E5CBD9551EEB1"
+				}
+				"test2"
+				{
+					"gid"		"32036978D46CDAC89B26C0DDFBCB9790"
+					"size"		"5AD04662D979287E02972A8A7043898F"
+					"download"		"ACC9B4391F8131964B4EC7804E8C2D63"
+				}
+				"test3"
+				{
+					"gid"		"2B74399BDC9BE87F2A30F88BB261B8D2"
+					"size"		"FF1CB9067B8F2255FF328323F8AF9372"
+					"download"		"72163AF6B7FD3AD1D9EB5A48BA1E6D03"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12726764"
+				"timeupdated"		"1700209735"
+			}
+			"first-test"
+			{
+				"buildid"		"12726764"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700189511"
+			}
+			"test"
+			{
+				"buildid"		"12768915"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700642772"
+			}
+			"test2"
+			{
+				"buildid"		"12206248"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695015172"
+			}
+			"test3"
+			{
+				"buildid"		"12569218"
+				"pwdrequired"		"1"
+				"timeupdated"		"1698650707"
+			}
+		}
+	}
+}
