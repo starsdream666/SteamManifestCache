@@ -95,7 +95,7 @@
 				"height_pct"		"87.50000000000001"
 			}
 		}
-		"store_asset_mtime"		"1700151945"
+		"store_asset_mtime"		"1700192939"
 		"associations"
 		{
 			"0"
@@ -125,6 +125,7 @@
 		{
 			"category_2"		"1"
 			"category_22"		"1"
+			"category_23"		"1"
 		}
 		"supported_languages"
 		{
@@ -144,6 +145,11 @@
 				"subtitles"		"true"
 			}
 			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
 			{
 				"supported"		"true"
 				"subtitles"		"true"
@@ -168,16 +174,16 @@
 			"10"		"1684"
 			"11"		"1643"
 			"12"		"4695"
-			"13"		"492"
-			"14"		"1742"
-			"15"		"8945"
+			"13"		"8945"
+			"14"		"492"
+			"15"		"1742"
 			"16"		"3871"
 			"17"		"3987"
 			"18"		"3810"
 			"19"		"6971"
 		}
 		"review_score"		"6"
-		"review_percentage"		"77"
+		"review_percentage"		"75"
 	}
 	"extended"
 	{
@@ -210,9 +216,9 @@
 			{
 				"public"
 				{
-					"gid"		"1757026711780239946"
-					"size"		"1918013143"
-					"download"		"307611792"
+					"gid"		"986454795429298369"
+					"size"		"1924359503"
+					"download"		"310103584"
 				}
 				"anvil_saga_public_testing"
 				{
@@ -225,9 +231,9 @@
 			{
 				"development"
 				{
-					"gid"		"B4945AD78B8BF539B71E32482C4834EC"
-					"size"		"D6D639B2F14685A5669F714733C0EDAA"
-					"download"		"C6732B19599A619E921AAF357DDB70A1"
+					"gid"		"D630EF848BB66F55EA758E72BD20D2DC"
+					"size"		"C01B260926A3841891C58E804B8B9401"
+					"download"		"20C1B3C4E6E1F350869CB90D298E9AC1"
 				}
 				"for_influencers"
 				{
@@ -241,8 +247,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12721802"
-				"timeupdated"		"1700147947"
+				"buildid"		"12770851"
+				"timeupdated"		"1700655886"
 			}
 			"anvil_saga_public_testing"
 			{
@@ -252,9 +258,9 @@
 			}
 			"development"
 			{
-				"buildid"		"12721802"
+				"buildid"		"12770851"
 				"pwdrequired"		"1"
-				"timeupdated"		"1700147668"
+				"timeupdated"		"1700655743"
 			}
 			"for_influencers"
 			{
@@ -268,8 +274,6 @@
 	{
 		"quota"		"300000000"
 		"maxnumfiles"		"1000"
-		"ignoreexternalfiles"		"1"
-		"hidecloudui"		"1"
 		"savefiles"
 		{
 			"0"
@@ -284,6 +288,5 @@
 				"recursive"		"1"
 			}
 		}
-		"sync_while_suspended"		"1"
 	}
 }
