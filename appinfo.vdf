@@ -36,8 +36,8 @@
 		{
 			"0"		"1"
 			"1"		"3"
-			"2"		"5"
-			"3"		"4"
+			"2"		"4"
+			"3"		"5"
 		}
 		"has_adult_content"		"1"
 		"has_adult_content_sex"		"1"
@@ -45,24 +45,24 @@
 		"steam_deck_compatibility"
 		{
 			"category"		"2"
-			"test_timestamp"		"1679961600"
-			"tested_build_id"		"10805328"
+			"test_timestamp"		"1700092800"
+			"tested_build_id"		"12489045"
 			"tests"
 			{
 				"0"
 				{
 					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
 				}
 				"1"
 				{
 					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
 				}
 				"2"
 				{
-					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 				}
 				"3"
 				{
@@ -80,7 +80,7 @@
 				"small_text"		"1"
 				"requires_internet_for_setup"		"0"
 				"requires_internet_for_singleplayer"		"0"
-				"recommended_runtime"		"proton-experimental"
+				"recommended_runtime"		"native"
 				"requires_h264"		"0"
 				"gamescope_frame_limiter_not_supported"		"0"
 			}
@@ -179,8 +179,8 @@
 		"store_tags"
 		{
 			"0"		"12095"
-			"1"		"9130"
-			"2"		"6650"
+			"1"		"6650"
+			"2"		"9130"
 			"3"		"24904"
 			"4"		"4085"
 			"5"		"597"
@@ -252,6 +252,12 @@
 			{
 				"public"
 				{
+					"gid"		"5437323473293740040"
+					"size"		"1356532693"
+					"download"		"1148147072"
+				}
+				"prev_stable"
+				{
 					"gid"		"1746756772245862660"
 					"size"		"1319243100"
 					"download"		"1135124128"
@@ -261,15 +267,15 @@
 			{
 				"steamdeck"
 				{
-					"gid"		"23654D77A3B99559C2AF6A9BE1CFE7BC"
-					"size"		"F02416383AF361ECA9C685306F66F909"
-					"download"		"1D991F5EF44A9EA1AC237DF06061B939"
+					"gid"		"CC182399B0C5FC9E05D061BACE3F53F9"
+					"size"		"8D3AB8E7219E446B7F8150CFD4D909F3"
+					"download"		"F7E87303A565A6B32F173CE27B713CA7"
 				}
 				"test"
 				{
-					"gid"		"8B6B76B887EB4332E67B0A057879C678"
-					"size"		"F5B5FC92C6D6716047D6D7978C0778A2"
-					"download"		"EF4AC7F36C986E96C47EFB8855ACEC31"
+					"gid"		"61B109B00FA1D9914E8F8DC8C3E2ED8D"
+					"size"		"D142248520A4C29054383D7711EA2E99"
+					"download"		"D6D91829E0116874AC7A7D703BE90CB0"
 				}
 			}
 		}
@@ -285,6 +291,12 @@
 			{
 				"public"
 				{
+					"gid"		"7513246733213105764"
+					"size"		"1474307128"
+					"download"		"1159893104"
+				}
+				"prev_stable"
+				{
 					"gid"		"1667772606609946478"
 					"size"		"1415958054"
 					"download"		"1141230336"
@@ -294,15 +306,15 @@
 			{
 				"steamdeck"
 				{
-					"gid"		"411C7A3122FEFDE0A2C5AE42C475389F"
-					"size"		"8EF4F11CF9BF50E4ABE9099D6F88234A"
-					"download"		"B0BCB59ECA0A9243EF39DE3BA104792E"
+					"gid"		"074EF9C4E2D5563A533F1EB90AB90BDA"
+					"size"		"1D8926D8266AE2CD1571557AEC2F05FA"
+					"download"		"24B406A60734EA082CFD6716CCC7F930"
 				}
 				"test"
 				{
-					"gid"		"B64DA71EB7BEB943B946D72574F6E593"
-					"size"		"6C183F9838DE49CAB6A712758C3EF84F"
-					"download"		"F59B90D87B3A0031CAE6711523CCA8D0"
+					"gid"		"80E5DF5EE975832D6A99F447A890AE4C"
+					"size"		"5AE8BA15C0073818DC53A6EEC6F8A67F"
+					"download"		"65CF6672231585B3AA422052E0071D9F"
 				}
 			}
 		}
@@ -316,6 +328,12 @@
 			"manifests"
 			{
 				"public"
+				{
+					"gid"		"1866336197155489700"
+					"size"		"60688571"
+					"download"		"56874848"
+				}
+				"prev_stable"
 				{
 					"gid"		"1866336197155489700"
 					"size"		"60688571"
@@ -353,6 +371,12 @@
 					"size"		"60887207"
 					"download"		"57081840"
 				}
+				"prev_stable"
+				{
+					"gid"		"7184308624241254197"
+					"size"		"60887207"
+					"download"		"57081840"
+				}
 			}
 			"encryptedmanifests"
 			{
@@ -374,20 +398,26 @@
 		{
 			"public"
 			{
+				"buildid"		"12489045"
+				"timeupdated"		"1700713336"
+			}
+			"prev_stable"
+			{
 				"buildid"		"11342444"
-				"timeupdated"		"1688020926"
+				"description"		"a previous stable version"
+				"timeupdated"		"1700472972"
 			}
 			"steamdeck"
 			{
-				"buildid"		"11342444"
+				"buildid"		"12489045"
 				"pwdrequired"		"1"
-				"timeupdated"		"1685368341"
+				"timeupdated"		"1697774412"
 			}
 			"test"
 			{
-				"buildid"		"11342444"
+				"buildid"		"12632397"
 				"pwdrequired"		"1"
-				"timeupdated"		"1685368333"
+				"timeupdated"		"1699294397"
 			}
 		}
 	}
@@ -402,29 +432,38 @@
 				"root"		"WinAppDataRoaming"
 				"path"		"WaifuFighter"
 				"pattern"		"*.sav"
-				"platforms"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataRoaming"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacHome"
+				"pathtransforms"
 				{
-					"1"		"Windows"
+					"0"
+					{
+						"find"		"WaifuFighter"
+						"replace"		"/.config/WaifuFighter"
+					}
 				}
 			}
 			"1"
 			{
-				"root"		"MacHome"
-				"path"		"/.config/WaifuFighter"
-				"pattern"		"*.sav"
-				"platforms"
+				"root"		"WinAppDataRoaming"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxHome"
+				"pathtransforms"
 				{
-					"1"		"MacOS"
-				}
-			}
-			"2"
-			{
-				"root"		"LinuxHome"
-				"path"		"/.config/WaifuFighter"
-				"pattern"		"*.sav"
-				"platforms"
-				{
-					"1"		"Linux"
+					"0"
+					{
+						"find"		"WaifuFighter"
+						"replace"		".config/WaifuFighter"
+					}
 				}
 			}
 		}
