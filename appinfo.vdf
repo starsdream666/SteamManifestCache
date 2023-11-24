@@ -42,8 +42,8 @@
 		"steam_deck_compatibility"
 		{
 			"category"		"2"
-			"test_timestamp"		"1694563200"
-			"tested_build_id"		"12113660"
+			"test_timestamp"		"1699401600"
+			"tested_build_id"		"12611795"
 			"tests"
 			{
 				"0"
@@ -66,13 +66,18 @@
 					"display"		"4"
 					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
 			}
 			"configuration"
 			{
 				"supported_input"		"gamepad"
 				"requires_manual_keyboard_invoke"		"0"
 				"requires_non_controller_launcher_nav"		"0"
-				"primary_player_is_controller_slot_0"		"0"
+				"primary_player_is_controller_slot_0"		"1"
 				"non_deck_display_glyphs"		"1"
 				"small_text"		"0"
 				"requires_internet_for_setup"		"0"
@@ -112,7 +117,7 @@
 				"height_pct"		"59.06585327745503"
 			}
 		}
-		"store_asset_mtime"		"1699334643"
+		"store_asset_mtime"		"1700500487"
 		"associations"
 		{
 			"0"
@@ -248,10 +253,10 @@
 			"3"		"7332"
 			"4"		"12472"
 			"5"		"1643"
-			"6"		"4364"
-			"7"		"8945"
-			"8"		"3810"
-			"9"		"220585"
+			"6"		"8945"
+			"7"		"4364"
+			"8"		"220585"
+			"9"		"3810"
 			"10"		"1676"
 			"11"		"1662"
 			"12"		"1669"
@@ -290,10 +295,16 @@
 		"steamcontrollertemplateindex"		"1"
 		"steamcontrollerconfigdetails"
 		{
-			"3069031944"
+			"3092170646"
 			{
 				"controller_type"		"controller_neptune"
-				"enabled_branches"		"default,steam_deck_beta"
+				"enabled_branches"		"default,development,steam_deck_beta"
+				"use_action_block"		"false"
+			}
+			"3093022447"
+			{
+				"controller_type"		"controller_neptune"
+				"enabled_branches"		"default,development,steam_deck_beta"
 				"use_action_block"		"false"
 			}
 		}
@@ -312,15 +323,15 @@
 			{
 				"public"
 				{
-					"gid"		"77140555918943762"
-					"size"		"4968950945"
-					"download"		"2829780960"
+					"gid"		"7808583594343479034"
+					"size"		"4956321497"
+					"download"		"2828733024"
 				}
 				"experimental"
 				{
-					"gid"		"8892887716125618728"
-					"size"		"4968950664"
-					"download"		"2829780960"
+					"gid"		"1294831495318500797"
+					"size"		"4955774243"
+					"download"		"2828718048"
 				}
 			}
 			"encryptedmanifests"
@@ -333,15 +344,15 @@
 				}
 				"development"
 				{
-					"gid"		"BA7C70469FA05B87F56DB0C461D65D41"
-					"size"		"A52AAF23FCC46C5AFF8AA2138FE43986"
-					"download"		"63D75D746539F92D53D71B7F77EE2555"
+					"gid"		"B2FF9A04F94E8C643729A937F24FBD11"
+					"size"		"E829B8A5A66D1E757E3CC48E0CA8F9AF"
+					"download"		"FF5681D509109B8EAA5E48A65031518F"
 				}
 				"experimental_internal"
 				{
-					"gid"		"61D93D4E2910BE70E1E2755253CCA204"
-					"size"		"F7B828EE4746C874308B7A209247C094"
-					"download"		"629A38EAC3C2D6A504B781F17C0EBD66"
+					"gid"		"946BE5F884ABBFC6F8B3AE59159C116F"
+					"size"		"B28BC31868E1C009C581D3BEB6415F5C"
+					"download"		"A8D43BBE24A103A4EEBF6F55904132BB"
 				}
 				"external_qa"
 				{
@@ -385,8 +396,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12682508"
-				"timeupdated"		"1699800708"
+				"buildid"		"12785348"
+				"timeupdated"		"1700779178"
 			}
 			"closed_alpha"
 			{
@@ -396,21 +407,21 @@
 			}
 			"development"
 			{
-				"buildid"		"12682508"
+				"buildid"		"12785348"
 				"pwdrequired"		"1"
-				"timeupdated"		"1699788116"
+				"timeupdated"		"1700777980"
 			}
 			"experimental"
 			{
-				"buildid"		"12682520"
+				"buildid"		"12783282"
 				"description"		"Experimental Branch"
-				"timeupdated"		"1699800727"
+				"timeupdated"		"1700759960"
 			}
 			"experimental_internal"
 			{
-				"buildid"		"12682520"
+				"buildid"		"12785712"
 				"pwdrequired"		"1"
-				"timeupdated"		"1699788466"
+				"timeupdated"		"1700782774"
 			}
 			"external_qa"
 			{
