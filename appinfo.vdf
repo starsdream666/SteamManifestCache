@@ -1,0 +1,192 @@
+"appinfo"
+{
+	"appid"		"2082490"
+	"common"
+	{
+		"name"		"Roomvas"
+		"type"		"Application"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"9843cb4daf2264e38051dac2f56831d7199c1f1e"
+		"clienticon"		"c61d58fa3d2df4b08e52a55dc029dcff7983eb64"
+		"clienttga"		"5159dc618c73e39c4c285a6bf1cf1621c098489f"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"45"
+				"height_pct"		"74.31726430776538"
+			}
+		}
+		"store_asset_mtime"		"1698192288"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Jawslouis"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Jawslouis"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"28"
+			"1"		"37"
+			"2"		"51"
+			"3"		"53"
+			"4"		"57"
+		}
+		"category"
+		{
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1658909897"
+		"community_hub_visible"		"1"
+		"gameid"		"2082490"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"599"
+			"2"		"84"
+			"3"		"872"
+			"4"		"87"
+			"5"		"597"
+			"6"		"1654"
+			"7"		"3810"
+			"8"		"1643"
+			"9"		"3839"
+			"10"		"4175"
+			"11"		"4182"
+			"12"		"4191"
+			"13"		"5350"
+			"14"		"492"
+			"15"		"97376"
+		}
+		"review_score"		"5"
+		"review_percentage"		"68"
+	}
+	"extended"
+	{
+		"developer"		"Jawslouis"
+		"publisher"		"Jawslouis"
+		"homepage"		"https://roomvas.com/"
+		"isfreeapp"		"1"
+		"listofdlc"		"2597270"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Roomvas"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Roomvas.exe"
+				"type"		"default"
+				"description_loc"
+				{
+					"english"		"Start the app"
+				}
+				"description"		"Start the app"
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2082491"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5811951861361264648"
+					"size"		"2533367805"
+					"download"		"2185446704"
+				}
+				"development"
+				{
+					"gid"		"2105277583381213364"
+					"size"		"1968452709"
+					"download"		"1821187232"
+				}
+			}
+		}
+		"2597270"
+		{
+			"dlcappid"		"2597270"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3482968073221915248"
+					"size"		"1514"
+					"download"		"800"
+				}
+				"development"
+				{
+					"gid"		"1922150076637183779"
+					"size"		"1498"
+					"download"		"800"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12784073"
+				"timeupdated"		"1700763271"
+			}
+			"development"
+			{
+				"buildid"		"12149206"
+				"description"		"For testing purposes"
+				"timeupdated"		"1694258894"
+			}
+		}
+	}
+}
