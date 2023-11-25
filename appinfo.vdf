@@ -141,8 +141,8 @@
 			"4"		"1742"
 			"5"		"7481"
 			"6"		"19"
-			"7"		"1710"
-			"8"		"597"
+			"7"		"597"
+			"8"		"1710"
 			"9"		"599"
 			"10"		"3964"
 			"11"		"4175"
@@ -161,6 +161,8 @@
 	"extended"
 	{
 		"gamedir"		""
+		"absolutemousecoordinates"		"0"
+		"remoteplaytogethertestingbranches"		"papa"
 		"developer"		"marbenx"
 		"publisher"		"marbenx"
 		"homepage"		"http://www.marbenx.com"
@@ -206,6 +208,12 @@
 			{
 				"public"
 				{
+					"gid"		"2120057694571071474"
+					"size"		"53391794"
+					"download"		"47521728"
+				}
+				"2022"
+				{
 					"gid"		"6198916906185480292"
 					"size"		"48464452"
 					"download"		"47149344"
@@ -215,6 +223,15 @@
 					"gid"		"2339068328653882713"
 					"size"		"220657652"
 					"download"		"221135104"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"papa"
+				{
+					"gid"		"1185C5153D6CA4F3C1CAF3711E029BAB"
+					"size"		"2E8BC184749CF8FFDA93A0A80C274199"
+					"download"		"AB6247F3D7A950DF7F0F5FB48B99339C"
 				}
 			}
 		}
@@ -233,20 +250,47 @@
 					"size"		"23249977"
 					"download"		"22932848"
 				}
+				"2022"
+				{
+					"gid"		"1803458884746431702"
+					"size"		"23249977"
+					"download"		"22932848"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"papa"
+				{
+					"gid"		"321DFCD167AB7ED851B5970B5001D030"
+					"size"		"5B46A30EE83FEC710C6B93315A140736"
+					"download"		"A00A8503C1EDC78AA955B16C189CC721"
+				}
 			}
 		}
 		"branches"
 		{
 			"public"
 			{
+				"buildid"		"12796716"
+				"timeupdated"		"1700905483"
+			}
+			"2022"
+			{
 				"buildid"		"10128607"
-				"timeupdated"		"1670847766"
+				"description"		"(2022) Back from the Store"
+				"timeupdated"		"1700894968"
 			}
 			"classic"
 			{
 				"buildid"		"1209545"
-				"description"		"classic"
+				"description"		"2015 Classic"
 				"timeupdated"		"1669608842"
+			}
+			"papa"
+			{
+				"buildid"		"12789920"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700894981"
 			}
 		}
 	}
