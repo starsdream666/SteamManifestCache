@@ -17,6 +17,13 @@
 			"english"		"1"
 			"schinese"		"1"
 		}
+		"name_localized"
+		{
+			"tchinese"		"江城創業記"
+			"english"		"River Town Factory"
+			"schinese"		"江城创业记"
+			"japanese"		"江城創業記"
+		}
 		"steam_deck_compatibility"
 		{
 			"category"		"3"
@@ -64,16 +71,20 @@
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
 		}
 		"header_image"
 		{
 			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+			"tchinese"		"header_tchinese.jpg"
 		}
 		"library_assets"
 		{
-			"library_capsule"		"en"
-			"library_hero"		"en"
-			"library_logo"		"en"
+			"library_capsule"		"en,zh-tw,zh-cn"
+			"library_hero"		"en,zh-cn,zh-tw"
+			"library_logo"		"en,zh-cn,zh-tw"
 			"logo_position"
 			{
 				"pinned_position"		"CenterCenter"
@@ -81,7 +92,7 @@
 				"height_pct"		"100"
 			}
 		}
-		"store_asset_mtime"		"1697707379"
+		"store_asset_mtime"		"1700841878"
 		"associations"
 		{
 			"0"
@@ -127,6 +138,11 @@
 				"supported"		"true"
 				"subtitles"		"true"
 			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
 		}
 		"steam_release_date"		"1680246102"
 		"community_visible_stats"		"1"
@@ -156,7 +172,7 @@
 			"19"		"1662"
 		}
 		"review_score"		"8"
-		"review_percentage"		"91"
+		"review_percentage"		"90"
 	}
 	"extended"
 	{
@@ -177,6 +193,15 @@
 					"oslist"		"windows"
 				}
 			}
+			"1"
+			{
+				"executable"		"jcGame.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
 		}
 		"steamdecktouchscreen"		"1"
 		"steamcontrollertemplateindex"		"2"
@@ -194,7 +219,7 @@
 			"depotfromapp"		"228980"
 			"sharedinstall"		"1"
 		}
-		"baselanguages"		"schinese"
+		"baselanguages"		"schinese,tchinese"
 		"2281411"
 		{
 			"config"
@@ -205,9 +230,9 @@
 			{
 				"public"
 				{
-					"gid"		"5614538077410185305"
-					"size"		"1255047542"
-					"download"		"999550752"
+					"gid"		"2902209071831150331"
+					"size"		"1271493038"
+					"download"		"1008787104"
 				}
 			}
 			"encryptedmanifests"
@@ -220,9 +245,9 @@
 				}
 				"test_for_self"
 				{
-					"gid"		"7EC0DE0ECC7079CE95ED6C79E46FADDB"
-					"size"		"0D2F4B1EB81CCBEBD259C7289C21FD30"
-					"download"		"3F8384C84A8F57BBA7792D23691EB650"
+					"gid"		"905E23DA26420F6F95757F4E0DC17EB0"
+					"size"		"9B1BE4B9759A1376F26EB4BA99D0D09B"
+					"download"		"077FA50DB4AF6D76ED61C13DF0D59F0D"
 				}
 			}
 		}
@@ -230,8 +255,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12481209"
-				"timeupdated"		"1697715085"
+				"buildid"		"12796310"
+				"timeupdated"		"1700896759"
 			}
 			"mimi"
 			{
@@ -241,9 +266,9 @@
 			}
 			"test_for_self"
 			{
-				"buildid"		"12481209"
+				"buildid"		"12796310"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697710527"
+				"timeupdated"		"1700895985"
 			}
 		}
 	}
