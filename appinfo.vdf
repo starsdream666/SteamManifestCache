@@ -30,6 +30,49 @@
 			"0"		"5"
 		}
 		"has_adult_content"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1698883200"
+			"tested_build_id"		"12554625"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
@@ -186,30 +229,30 @@
 			{
 				"public"
 				{
-					"gid"		"3894817262274972294"
-					"size"		"2222374530"
-					"download"		"360489808"
+					"gid"		"6524641472820708333"
+					"size"		"2221083899"
+					"download"		"360457776"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"hotfix"
 				{
-					"gid"		"3E0046A9D7C7455515819B850C71A4A5"
-					"size"		"FCEBBC0505C9205D82E17030EB936188"
-					"download"		"84398AFAFEADFD961163587633378AE4"
+					"gid"		"2C596090C7257EFC36D716444DCC0D13"
+					"size"		"49B9DAD8855598DC72A195ED5A8D1008"
+					"download"		"C5B05180E7941EBCC9874A4D9C1244C8"
 				}
 				"release"
 				{
-					"gid"		"D2A6736A329B87FCA831001AF4FC94AF"
-					"size"		"BD07FF9884EA4CC619DA5F69AAD01816"
-					"download"		"FE08906EA8301729611A3B1ECB1F15CE"
+					"gid"		"D2307C7F4E497C0B3EA1AAFD0B9805C8"
+					"size"		"E69346F97489D537360BC8CAA0633F5B"
+					"download"		"B4964D6A3F4D482B708CEE7D5AA18530"
 				}
 				"testing"
 				{
-					"gid"		"74CE770C040FC1B23324F221FE4CF7B4"
-					"size"		"2C8EC01CA7776BB957F2DFE8AD801601"
-					"download"		"1F0F8A0F43289907649F93F2843D0FBD"
+					"gid"		"80394E5CE485821EB0BDB03082795A06"
+					"size"		"2D49893094A7FEC394D46404416322E8"
+					"download"		"8868655D4D7967953E750B46D8139E00"
 				}
 				"testing_graphics"
 				{
@@ -231,9 +274,9 @@
 				}
 				"update1"
 				{
-					"gid"		"BFC539DFAA28A4928C85F28D0B341A80"
-					"size"		"2A5D1C80EF6EDF04282934A19AA47806"
-					"download"		"AC3BF0A0B206128825F0B5EB6CA6FF1C"
+					"gid"		"B165E5E187D78B6E9465DC84B96CF556"
+					"size"		"3E6F9E7D04303ABD7F4C103CC34BB32F"
+					"download"		"0FC558CA0E7F62E6E00CCC52D46E4886"
 				}
 			}
 		}
@@ -242,26 +285,26 @@
 		{
 			"public"
 			{
-				"buildid"		"12592726"
-				"timeupdated"		"1698915685"
+				"buildid"		"12751099"
+				"timeupdated"		"1700827566"
 			}
 			"hotfix"
 			{
-				"buildid"		"12604384"
+				"buildid"		"12750744"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698945994"
+				"timeupdated"		"1700490537"
 			}
 			"release"
 			{
-				"buildid"		"12592726"
+				"buildid"		"12751099"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698848682"
+				"timeupdated"		"1700493083"
 			}
 			"testing"
 			{
-				"buildid"		"12592794"
+				"buildid"		"12751001"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698849262"
+				"timeupdated"		"1700492515"
 			}
 			"testing_graphics"
 			{
@@ -283,9 +326,9 @@
 			}
 			"update1"
 			{
-				"buildid"		"12579975"
+				"buildid"		"12792486"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698740766"
+				"timeupdated"		"1700842965"
 			}
 		}
 	}
