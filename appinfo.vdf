@@ -28,6 +28,49 @@
 			"tchinese"		"1"
 			"japanese"		"1"
 		}
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1698969600"
+			"tested_build_id"		"12559487"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
 		"controllertagwizard"		"1"
 		"controller_support"		"full"
 		"small_capsule"
@@ -116,10 +159,10 @@
 			"0"		"4726"
 			"1"		"122"
 			"2"		"1742"
-			"3"		"1702"
-			"4"		"3834"
-			"5"		"4434"
-			"6"		"7208"
+			"3"		"7208"
+			"4"		"4434"
+			"5"		"1702"
+			"6"		"3834"
 			"7"		"4085"
 			"8"		"4136"
 			"9"		"4325"
@@ -131,8 +174,8 @@
 			"15"		"1741"
 			"16"		"1677"
 			"17"		"1684"
-			"18"		"21"
-			"19"		"4747"
+			"18"		"4747"
+			"19"		"21"
 		}
 		"review_score"		"9"
 		"review_percentage"		"96"
@@ -142,6 +185,8 @@
 		"developer"		"KIWIWALKS"
 		"publisher"		"Pixmain"
 		"homepage"		"https://witchspringr.com"
+		"listofdlc"		"2666040,2666050"
+		"dlcavailableonstore"		"1"
 	}
 	"config"
 	{
@@ -163,18 +208,18 @@
 			{
 				"public"
 				{
-					"gid"		"2065455954531258414"
-					"size"		"6070825190"
-					"download"		"4850027264"
+					"gid"		"8282612485635544755"
+					"size"		"6139161859"
+					"download"		"4905702336"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"internal"
 				{
-					"gid"		"5459F6A34C7968EE2A40DD72559085E0"
-					"size"		"3FCD4EAF530974D923963566622363DD"
-					"download"		"1339D8BFCF09D4F1D8C8A235777E4CA9"
+					"gid"		"698AC6DA79BF294BA4DBD7B794BAF45D"
+					"size"		"E32E736920955D441CF74ECD936BFD9B"
+					"download"		"B5F531D1AF22FD65CABA749AEA89DC68"
 				}
 				"ns_recording"
 				{
@@ -200,14 +245,14 @@
 		{
 			"public"
 			{
-				"buildid"		"12559487"
-				"timeupdated"		"1698462953"
+				"buildid"		"12779362"
+				"timeupdated"		"1700907377"
 			}
 			"internal"
 			{
-				"buildid"		"12559487"
+				"buildid"		"12779362"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698462928"
+				"timeupdated"		"1700728754"
 			}
 			"ns_recording"
 			{
