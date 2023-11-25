@@ -9,8 +9,8 @@
 		"oslist"		"windows"
 		"osarch"		"64"
 		"osextended"		""
-		"clienttga"		"6012ea81d68607ad0dfc5610e61f17101373c1fd"
-		"clienticon"		"88339e7d359a3ce2a0706d2c4d09772aa6fef723"
+		"clienttga"		"2927e87ae7952e1da55b54446c0cb528b5f7ad9f"
+		"clienticon"		"3a0a713ebb542ddec1242c040de52fd0fcda06c1"
 		"name_localized"
 		{
 			"english"		"UFO ROBOT GRENDIZER – The Feast of the Wolves"
@@ -68,7 +68,7 @@
 				"height_pct"		"61.3387552614122"
 			}
 		}
-		"store_asset_mtime"		"1699871376"
+		"store_asset_mtime"		"1700668748"
 		"associations"
 		{
 			"0"
@@ -194,6 +194,8 @@
 			"7"		"4821"
 			"8"		"4085"
 		}
+		"review_score"		"6"
+		"review_percentage"		"74"
 	}
 	"extended"
 	{
@@ -207,20 +209,9 @@
 		"installdir"		"Goldorak"
 		"launch"
 		{
-			"0"
-			{
-				"executable"		"grendizer.exe"
-				"type"		"default"
-				"config"
-				{
-					"oslist"		"windows"
-					"osarch"		"64"
-					"betakey"		"test"
-				}
-			}
 			"1"
 			{
-				"executable"		"UFO ROBOT GRENDIZER - The Feast of the Wolves.exe"
+				"executable"		"grendizer.exe"
 				"type"		"default"
 				"config"
 				{
@@ -263,18 +254,30 @@
 			{
 				"public"
 				{
-					"gid"		"5441968530718168192"
-					"size"		"7855574152"
-					"download"		"4132218144"
+					"gid"		"7111931538210667682"
+					"size"		"9626267450"
+					"download"		"4339991696"
 				}
 			}
 			"encryptedmanifests"
 			{
+				"ar-lqa"
+				{
+					"gid"		"3202E3883D721E4D9D8987740D630AE0"
+					"size"		"9C02412666FBCB6000ADFFB1EF2D7313"
+					"download"		"FC36ADA67357130B9A26D3C1F9639D72"
+				}
 				"demo"
 				{
 					"gid"		"766C667C41320BFFC5495424E038201B"
 					"size"		"69584AFB89087BC90AA910D20A730637"
 					"download"		"87D21EFE7055139E87A47C44CD83EBA4"
+				}
+				"jp-lqa"
+				{
+					"gid"		"B80B1FADCDA13783D01E9E171DD83880"
+					"size"		"9945E625ADE51B6B74DB9854B6B52F5C"
+					"download"		"4A1A21F8A13C2F925FFEDA0F392FDB01"
 				}
 				"playtest"
 				{
@@ -284,9 +287,15 @@
 				}
 				"test"
 				{
-					"gid"		"56F068BD50325448F286664C595A7270"
-					"size"		"434C4EBEE2BB395B2398A919A876F7C4"
-					"download"		"2DB05495BFFDF1B03B3C224BC0EADE0C"
+					"gid"		"E45FDC2DAD3FFA687CD2BD1DC396204C"
+					"size"		"D4EF558B7EFAE8109D92C2FC249CA863"
+					"download"		"689665202AE8A2FAD69D87964A7CE686"
+				}
+				"test2"
+				{
+					"gid"		"937F4E939EFE32919679C09E0B9C137D"
+					"size"		"AC562FEBD9344C923254C393309EA391"
+					"download"		"0CD85695A54F8021527EBBFA06283D5E"
 				}
 			}
 		}
@@ -294,14 +303,26 @@
 		{
 			"public"
 			{
-				"buildid"		"12659854"
-				"timeupdated"		"1699609224"
+				"buildid"		"12771692"
+				"timeupdated"		"1700845063"
+			}
+			"ar-lqa"
+			{
+				"buildid"		"12771918"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700847455"
 			}
 			"demo"
 			{
 				"buildid"		"11977316"
 				"pwdrequired"		"1"
 				"timeupdated"		"1692377517"
+			}
+			"jp-lqa"
+			{
+				"buildid"		"12771918"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700747336"
 			}
 			"playtest"
 			{
@@ -311,9 +332,15 @@
 			}
 			"test"
 			{
-				"buildid"		"12697830"
+				"buildid"		"12771692"
 				"pwdrequired"		"1"
-				"timeupdated"		"1699975971"
+				"timeupdated"		"1700661536"
+			}
+			"test2"
+			{
+				"buildid"		"12771918"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700662936"
 			}
 		}
 	}
