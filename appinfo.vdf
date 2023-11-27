@@ -1,0 +1,285 @@
+"appinfo"
+{
+	"appid"		"1708150"
+	"common"
+	{
+		"name"		"Juice Galaxy"
+		"type"		"Game"
+		"linuxclienticon"		"2d6ec624bad17a351dbd2d4d447522a7ab6b4fb3"
+		"clienttga"		"9fd2dda32a3c961e80440522e6bff7eae15751c6"
+		"clienticns"		"9f8919386ac0a3af0378e916645fcbc81542786e"
+		"clienticon"		"9f8919386ac0a3af0378e916645fcbc81542786e"
+		"icon"		"c1aa05491cfe43035902534015186620048e18f8"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64,macosapplesilicon"
+		"releasestate"		"released"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"62.073496550934806"
+				"height_pct"		"72.22423244574225"
+			}
+		}
+		"store_asset_mtime"		"1697933053"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Fishlicka"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"J4D3D LLC"
+			}
+		}
+		"primary_genre"		"70"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"3"
+			"2"		"37"
+			"3"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1708150"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3968"
+			"1"		"1714"
+			"2"		"4231"
+			"3"		"1646"
+			"4"		"9204"
+			"5"		"29482"
+			"6"		"4191"
+			"7"		"13782"
+			"8"		"4166"
+			"9"		"1654"
+			"10"		"4018"
+			"11"		"21"
+			"12"		"3993"
+			"13"		"6276"
+			"14"		"6869"
+			"15"		"1742"
+			"16"		"4182"
+			"17"		"3810"
+			"18"		"122"
+			"19"		"1644"
+		}
+		"review_score"		"8"
+		"review_percentage"		"98"
+	}
+	"extended"
+	{
+		"developer"		"Fishlicka"
+		"publisher"		"J4D3D LLC"
+		"isfreeapp"		"1"
+		"listofdlc"		"2608730"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Juice Galaxy"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Juice Galaxy.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Juice Galaxy Mac.app"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"2"
+			{
+				"executable"		"Juice Galaxy.x86_64"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"hasdepotsindlc"		"0"
+		"1708151"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7570083628894959944"
+					"size"		"287204615"
+					"download"		"160737040"
+				}
+				"beta"
+				{
+					"gid"		"7570083628894959944"
+					"size"		"287204615"
+					"download"		"160737040"
+				}
+				"local"
+				{
+					"gid"		"971997442750733619"
+					"size"		"293068783"
+					"download"		"163661136"
+				}
+			}
+		}
+		"1708152"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"32"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1205249060030859595"
+					"size"		"278772999"
+					"download"		"158173776"
+				}
+				"beta"
+				{
+					"gid"		"1205249060030859595"
+					"size"		"278772999"
+					"download"		"158173776"
+				}
+			}
+		}
+		"1708153"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1585374238171768000"
+					"size"		"300662442"
+					"download"		"165431248"
+				}
+				"beta"
+				{
+					"gid"		"1585374238171768000"
+					"size"		"300662442"
+					"download"		"165431248"
+				}
+			}
+		}
+		"1708154"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4674171329594532754"
+					"size"		"281438337"
+					"download"		"159128544"
+				}
+				"beta"
+				{
+					"gid"		"4674171329594532754"
+					"size"		"281438337"
+					"download"		"159128544"
+				}
+			}
+		}
+		"2608730"
+		{
+			"dlcappid"		"2608730"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7610359700091279126"
+					"size"		"188340904"
+					"download"		"183529936"
+				}
+				"beta"
+				{
+					"gid"		"7610359700091279126"
+					"size"		"188340904"
+					"download"		"183529936"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12785026"
+				"timeupdated"		"1700775684"
+			}
+			"beta"
+			{
+				"buildid"		"12785026"
+				"description"		"beta"
+				"timeupdated"		"1700774291"
+			}
+			"local"
+			{
+				"buildid"		"11769285"
+				"description"		"Local Content Server"
+				"lcsrequired"		"1"
+				"timeupdated"		"1690148344"
+			}
+		}
+	}
+}
