@@ -1,0 +1,466 @@
+"appinfo"
+{
+	"appid"		"587860"
+	"common"
+	{
+		"name"		"Tales of Escape"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+			"standing"		"1"
+		}
+		"clienticon"		"5cfa098ccdad7606cd8f14af6ebba02d04ad8349"
+		"clienttga"		"3718ee25e2e1a2ef7670c915abfdbaa47ddbcaa9"
+		"icon"		"6999ae720ae8e21a7a7d89c409b1921a33e4e92b"
+		"logo"		"236aea7b7700332287743e3da303b1108698edc4"
+		"logo_small"		"236aea7b7700332287743e3da303b1108698edc4_thumb"
+		"openvrsupport"		"1"
+		"metacritic_name"		"Tales of Escape"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1560336006"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"OnSkull Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"OnSkull Games"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Escape Rooms"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_36"		"1"
+			"category_38"		"1"
+			"category_22"		"1"
+			"category_1"		"1"
+			"category_27"		"1"
+			"category_9"		"1"
+			"category_28"		"1"
+			"category_49"		"1"
+			"category_52"		"1"
+			"category_53"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"greek"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1489646340"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"587860"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1664"
+			"1"		"113"
+			"2"		"1685"
+			"3"		"3859"
+			"4"		"1667"
+			"5"		"3843"
+			"6"		"21978"
+			"7"		"21"
+			"8"		"492"
+			"9"		"3839"
+			"10"		"5716"
+			"11"		"19"
+			"12"		"4136"
+			"13"		"3834"
+			"14"		"4182"
+			"15"		"1663"
+			"16"		"1738"
+			"17"		"4191"
+			"18"		"8369"
+			"19"		"7481"
+		}
+		"review_score"		"5"
+		"review_percentage"		"62"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"OnSkull Games"
+		"publisher"		"OnSkull Games"
+		"homepage"		"http://www.onskull.com/talesofescape"
+		"isfreeapp"		"1"
+		"listofdlc"		"686790,686800,741760,747030,747040,1283710,1283711"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Tales of Escape"
+		"steamcontrollertemplateindex"		"6"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TalesOfEscape.exe"
+				"description"		"Play on desktop - No VR"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"TalesOfEscape.exe"
+				"arguments"		"-inVR"
+				"description"		"Play in SteamVR - Vive"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"TalesOfEscape.exe"
+				"arguments"		"-inVROculus"
+				"description"		"Play in SteamVR - Oculus"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"usemms"		"1"
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"1"
+		"587861"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8478359842289285488"
+					"size"		"2160619619"
+					"download"		"973507136"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"newbuild"
+				{
+					"gid"		"6DE7CEC3B1EB9E7A3B446DB05F0C6327"
+					"size"		"1FB3696518A5D3684CCED3F44FCED83B"
+					"download"		"E2254BE86D61A45F82E6D6E290F1D803"
+				}
+			}
+		}
+		"686800"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"dlcappid"		"686800"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5862927233428022823"
+					"size"		"614713738"
+					"download"		"623091664"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"newbuild"
+				{
+					"gid"		"E22AC8E9CCBD2FC82C3D8ED2AE3CB0F5"
+					"size"		"D50874D175BEECB0E8BD77E013385538"
+					"download"		"4D477757DFAA304A3902B43A0406EFF4"
+				}
+			}
+		}
+		"686790"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"dlcappid"		"686790"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3358012304339350457"
+					"size"		"339494056"
+					"download"		"344129312"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"newbuild"
+				{
+					"gid"		"A717F633F42020D905B34C6BFEA88858"
+					"size"		"C1D2889E927890D29AB777E335049541"
+					"download"		"568AC87B8F3663AC6D51607E662E1805"
+				}
+			}
+		}
+		"741760"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"dlcappid"		"741760"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"169428646003579353"
+					"size"		"614713738"
+					"download"		"623091664"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"newbuild"
+				{
+					"gid"		"EF964FEDA5569CBA3E446887EDA83F98"
+					"size"		"D50874D175BEECB0E8BD77E013385538"
+					"download"		"4D477757DFAA304A3902B43A0406EFF4"
+				}
+			}
+		}
+		"747030"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"dlcappid"		"747030"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6807510022160410034"
+					"size"		"886790101"
+					"download"		"898905840"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"newbuild"
+				{
+					"gid"		"343CF3BCCF9590A83DFDCDE0D6C53E0D"
+					"size"		"81926F592D75BD766BC20272CE9A2A1C"
+					"download"		"3C241FA247886CC3839600264E247494"
+				}
+			}
+		}
+		"747040"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"dlcappid"		"747040"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4584112705358718594"
+					"size"		"886790101"
+					"download"		"898905840"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"newbuild"
+				{
+					"gid"		"E4B4D6C1EB67C350173A64315BA1C5D5"
+					"size"		"81926F592D75BD766BC20272CE9A2A1C"
+					"download"		"3C241FA247886CC3839600264E247494"
+				}
+			}
+		}
+		"1283710"
+		{
+			"dlcappid"		"1283710"
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3464218387212991817"
+					"size"		"671325137"
+					"download"		"680499392"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"newbuild"
+				{
+					"gid"		"448001A51B726F47B8D6A7AC432296E5"
+					"size"		"C192070F4A22AFA9F6716D7162F33E5C"
+					"download"		"3AE76920FBAA2F1F4C1840EC38A41915"
+				}
+			}
+		}
+		"1283711"
+		{
+			"dlcappid"		"1283711"
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3982556583029453273"
+					"size"		"671325137"
+					"download"		"680499392"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"newbuild"
+				{
+					"gid"		"4054332E4771EB24B4400DE1514B1AC1"
+					"size"		"C192070F4A22AFA9F6716D7162F33E5C"
+					"download"		"3AE76920FBAA2F1F4C1840EC38A41915"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"5323511"
+				"timeupdated"		"1596117229"
+			}
+			"newbuild"
+			{
+				"buildid"		"5323511"
+				"pwdrequired"		"1"
+				"timeupdated"		"1595513321"
+			}
+		}
+	}
+}
