@@ -28,6 +28,54 @@
 		{
 			"japanese"		"Cuisineer（キュイジニア）"
 		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1700179200"
+			"tested_build_id"		"12676820"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
 		"controllertagwizard"		"1"
 		"controller_support"		"partial"
 		"small_capsule"
@@ -172,7 +220,7 @@
 			"19"		"5125"
 		}
 		"review_score"		"6"
-		"review_percentage"		"74"
+		"review_percentage"		"77"
 	}
 	"extended"
 	{
@@ -204,9 +252,9 @@
 			{
 				"public"
 				{
-					"gid"		"5519594845827005395"
-					"size"		"5687503891"
-					"download"		"1296082976"
+					"gid"		"8982299899266670373"
+					"size"		"5685307095"
+					"download"		"1294474512"
 				}
 			}
 			"encryptedmanifests"
@@ -225,15 +273,15 @@
 				}
 				"latestdevdebug"
 				{
-					"gid"		"340606302397EB52BF5D14D11D1CF126"
-					"size"		"F962234620AE912699D0512E8B9B68B2"
-					"download"		"03DF29DC3AF2A2D4AEAFA2A3718ADE08"
+					"gid"		"4DA9EB79FEDD4992C219309A20A7F512"
+					"size"		"2FADDEE2D5C9E0ED69328A3BD9E2E812"
+					"download"		"CAD02F917D324243CD078786EA39DA27"
 				}
 				"latestdevrelease"
 				{
-					"gid"		"19E9233EB1B93514B25C8B9398A68FB6"
-					"size"		"A79B5FD24F961D0476B7D1262DE9EDF5"
-					"download"		"5ABB667D8F93B3EB77A9E1C7F91777AC"
+					"gid"		"AFB64A4D06935566FAE21B1F2FE44093"
+					"size"		"4068FC40887B59E72A87FEDFF13A0543"
+					"download"		"6B003E525A2F74847A3D2B53829C5A1B"
 				}
 				"testing"
 				{
@@ -248,8 +296,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12729985"
-				"timeupdated"		"1700221388"
+				"buildid"		"12804337"
+				"timeupdated"		"1701081856"
 			}
 			"demotesting"
 			{
@@ -265,15 +313,15 @@
 			}
 			"latestdevdebug"
 			{
-				"buildid"		"12729006"
+				"buildid"		"12779846"
 				"pwdrequired"		"1"
-				"timeupdated"		"1700211095"
+				"timeupdated"		"1700732646"
 			}
 			"latestdevrelease"
 			{
-				"buildid"		"12729985"
+				"buildid"		"12804337"
 				"pwdrequired"		"1"
-				"timeupdated"		"1700217591"
+				"timeupdated"		"1701060385"
 			}
 			"testing"
 			{
