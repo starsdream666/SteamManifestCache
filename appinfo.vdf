@@ -25,20 +25,20 @@
 		"osextended"		"macos64,macosapplesilicon,macosnotarized"
 		"steam_deck_compatibility"
 		{
-			"category"		"2"
-			"test_timestamp"		"1697760000"
-			"tested_build_id"		"12465313"
+			"category"		"3"
+			"test_timestamp"		"1701129600"
+			"tested_build_id"		"12736856"
 			"tests"
 			{
 				"0"
 				{
-					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 				}
 				"1"
 				{
 					"display"		"4"
-					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
 				}
 				"2"
 				{
@@ -53,11 +53,11 @@
 			}
 			"configuration"
 			{
-				"supported_input"		"other"
+				"supported_input"		"gamepad"
 				"requires_manual_keyboard_invoke"		"0"
 				"requires_non_controller_launcher_nav"		"0"
 				"primary_player_is_controller_slot_0"		"0"
-				"non_deck_display_glyphs"		"1"
+				"non_deck_display_glyphs"		"0"
 				"small_text"		"0"
 				"requires_internet_for_setup"		"0"
 				"requires_internet_for_singleplayer"		"0"
@@ -293,9 +293,9 @@
 				}
 				"release_candidate"
 				{
-					"gid"		"917271750A56A448179577E3248315CC"
-					"size"		"BA9A0664ABC9C3E87A32D722C1F8F927"
-					"download"		"E5E850C9779BA0551B1716C65EEFFAAE"
+					"gid"		"FC0F58C227CD4B1B8D3D4D3349EB1287"
+					"size"		"612A94C185F5380C16E8D9D6EE022A4A"
+					"download"		"8D788D85C45A7670A499178673ADB9FC"
 				}
 			}
 		}
@@ -310,9 +310,9 @@
 			{
 				"public"
 				{
-					"gid"		"7789619185285241339"
-					"size"		"411714185"
-					"download"		"376325360"
+					"gid"		"5707097963766657588"
+					"size"		"411722271"
+					"download"		"376274688"
 				}
 				"legacy"
 				{
@@ -325,15 +325,15 @@
 			{
 				"refresh"
 				{
-					"gid"		"3CF8C557084E382C20FDAF8964826C0D"
-					"size"		"7DDD4301590176C62C0EA8C766C83383"
-					"download"		"C4191A20CCBF774741C01F064826A43F"
+					"gid"		"4845723F65CD8619CA29BF5C1D8F23BE"
+					"size"		"DBA2835D498AD6FB771D922756490867"
+					"download"		"89E068048C02A0A0010BE7121806159F"
 				}
 				"release_candidate"
 				{
-					"gid"		"209B12C684EB549AF37ABEA8DBF5C1DD"
-					"size"		"F2358B0D32CC45952AD602BE9CC96BE1"
-					"download"		"E434D583FC136576D26E883643DAD6F6"
+					"gid"		"57437146D3986E96BEC301350AC3B563"
+					"size"		"C4B3E769D2AB2F4009D086E6437AA5D0"
+					"download"		"B1476076009A868F8F34A999719203E5"
 				}
 			}
 		}
@@ -348,9 +348,9 @@
 			{
 				"public"
 				{
-					"gid"		"4867487383310773549"
-					"size"		"391275679"
-					"download"		"371759104"
+					"gid"		"6955229180046063978"
+					"size"		"391283115"
+					"download"		"371766208"
 				}
 				"legacy"
 				{
@@ -363,15 +363,15 @@
 			{
 				"refresh"
 				{
-					"gid"		"A552D2616829FEB171E6482173F54340"
-					"size"		"469DD7863084C634CA89C3AF7F13FE98"
-					"download"		"A7753B38BCBABA3F965FB88959D159F1"
+					"gid"		"B47198177DAE5BE6AD0AD4D205FAB1F3"
+					"size"		"FFDA61DD1672EE57D834A48C7D1E5AAD"
+					"download"		"CFCEC69D80EA5EDD0FDBA4BEA9C4C802"
 				}
 				"release_candidate"
 				{
-					"gid"		"D7E8C607953EC99D2B9E94FB054F18D5"
-					"size"		"C42FA2C2016EA859553D57E6EA45A99E"
-					"download"		"B67EC0F8B93037D83046B8E2970B93FE"
+					"gid"		"F77929B2F1E78F6EB71BBDD4C94494FD"
+					"size"		"F357BDE2A4C792056055D623A729995A"
+					"download"		"CCE215B788B2D78001DA96752E352CB2"
 				}
 			}
 		}
@@ -386,24 +386,24 @@
 			{
 				"public"
 				{
-					"gid"		"2343911419948846045"
-					"size"		"392435449"
-					"download"		"371117600"
+					"gid"		"3209792174573882883"
+					"size"		"392442895"
+					"download"		"371124336"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"refresh"
 				{
-					"gid"		"5020650C646296C79C8A0AEBCC558D0C"
-					"size"		"BCBF3F4402A576E1D8B564532579D88E"
-					"download"		"7BF22CE772E1257D97104FBBF2D484E3"
+					"gid"		"E293865D0BEC94264A4757D949CA35BD"
+					"size"		"1C2949A53654967E5386BBB058C02DD9"
+					"download"		"45913F5224FBF16D55A601AC4DC57C2F"
 				}
 				"release_candidate"
 				{
-					"gid"		"94D8ADC9032B5DEBBCADD09C9EB0BFBC"
-					"size"		"EC66302C681B9D095BC6B32D8B58762B"
-					"download"		"DE454697FA21C2345B2498B98405832F"
+					"gid"		"862F7C36B9F74ADD08B9DB3F93F17B7D"
+					"size"		"D432E24E54CF1DA4FA0D9966ADBF282E"
+					"download"		"8895E8FFCEB1B77ABDF9FE812405AC9B"
 				}
 			}
 		}
@@ -418,24 +418,24 @@
 			{
 				"public"
 				{
-					"gid"		"8647234351260366440"
-					"size"		"399216505"
-					"download"		"374104432"
+					"gid"		"6753255366689848269"
+					"size"		"399227919"
+					"download"		"374110256"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"refresh"
 				{
-					"gid"		"415AEEAFBD6077D0D9A793AD561F2833"
-					"size"		"C7BEBCCB514474F5857FFF9368E8977B"
-					"download"		"00E60EDAE09A74351C13F5E7949A17DA"
+					"gid"		"F159D38CAC2C362F59D5A43C9188DC84"
+					"size"		"9863A99A7F54ACC8EBDE0F17BFE5A2A8"
+					"download"		"BE57387FC90346DF9B2DD1D1A8E09A6E"
 				}
 				"release_candidate"
 				{
-					"gid"		"6B504EE1274CCA940C7FD3699DDA5D93"
-					"size"		"C5E456B3BEAEC87B5F7BF0AFCD518ECA"
-					"download"		"BF5D3D02F3C3C36157735555FF34D2BC"
+					"gid"		"EF6D01A60DCD9A364217A67BDF0CE47D"
+					"size"		"05ED864CC5DDD83DBADAEFC0CD5284A5"
+					"download"		"10530F8E28E1F77234A42CCCE3968C9E"
 				}
 			}
 		}
@@ -443,8 +443,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12736856"
-				"timeupdated"		"1700516692"
+				"buildid"		"12778412"
+				"timeupdated"		"1701125361"
 			}
 			"legacy"
 			{
@@ -454,15 +454,15 @@
 			}
 			"refresh"
 			{
-				"buildid"		"12736856"
+				"buildid"		"12778412"
 				"pwdrequired"		"1"
-				"timeupdated"		"1700264051"
+				"timeupdated"		"1700717630"
 			}
 			"release_candidate"
 			{
-				"buildid"		"12485778"
+				"buildid"		"12778412"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698031957"
+				"timeupdated"		"1700755208"
 			}
 		}
 	}
