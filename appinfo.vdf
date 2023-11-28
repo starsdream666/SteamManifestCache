@@ -1,0 +1,190 @@
+"appinfo"
+{
+	"appid"		"1470120"
+	"common"
+	{
+		"name"		"Atopes"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"a9602d79ef558ee243348ed954a161d4baa22d3b"
+		"logo_small"		"a9602d79ef558ee243348ed954a161d4baa22d3b_thumb"
+		"icon"		"456d3f157937dba414cb6efec2406c2593a2adef"
+		"clienticon"		"177429639e2a5f2a0200d2449768de80fa184ae1"
+		"clienttga"		"67bd89ee2c6100730c7e0f977408bd8839b21ba9"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"name_localized"
+		{
+			"english"		"Atopes"
+			"japanese"		"Atopes"
+			"schinese"		"Atopes"
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"87.33569029773292"
+				"height_pct"		"71.36115080237414"
+			}
+		}
+		"store_asset_mtime"		"1667920733"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Sato Fumiya"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Sato Fumiya"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1627628585"
+		"community_hub_visible"		"1"
+		"gameid"		"1470120"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"13782"
+			"1"		"15277"
+			"2"		"1710"
+			"3"		"492"
+			"4"		"5379"
+			"5"		"3871"
+			"6"		"113"
+			"7"		"4182"
+		}
+		"review_score"		"8"
+		"review_percentage"		"95"
+	}
+	"extended"
+	{
+		"developer"		"Sato Fumiya"
+		"publisher"		"Sato Fumiya"
+		"isfreeapp"		"1"
+		"listofdlc"		"1538320"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Atopes"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Game.exe"
+				"type"		"none"
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"1"
+		"baselanguages"		"english"
+		"1470121"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4469355629822230112"
+					"size"		"1748329195"
+					"download"		"1016544320"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"E3B9EB4FFAC8B793E499578BE0CFE757"
+					"size"		"FBB1B3A584623843B82337DD6B51B859"
+					"download"		"CF059A70E52938F255AC1D425D1EE7B1"
+				}
+			}
+		}
+		"1538320"
+		{
+			"dlcappid"		"1538320"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3444013701746434088"
+					"size"		"588218198"
+					"download"		"571386416"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"97B2B94D96A240643B183D08D0011565"
+					"size"		"97B6F31C7ACFABA6B67134793C3E6547"
+					"download"		"0F8364F4D2A1ACE567D1C06A6D60C3B7"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9914684"
+				"timeupdated"		"1668136108"
+			}
+			"test"
+			{
+				"buildid"		"9914684"
+				"pwdrequired"		"1"
+				"timeupdated"		"1668135985"
+			}
+		}
+	}
+}
