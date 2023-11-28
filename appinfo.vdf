@@ -1,0 +1,189 @@
+"appinfo"
+{
+	"appid"		"2497900"
+	"common"
+	{
+		"name"		"DON'T SCREAM"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"5143c57bf86a4024ee8bcac60ded3eca9fa140a3"
+		"clienticon"		"3b48d275bd591b05fd1eee5505caabd88cef8176"
+		"icon"		"09d8d3034b0160f5ec80822359b94279f9f5fb63"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"58.6046511627907"
+				"height_pct"		"85.71428405788228"
+			}
+		}
+		"store_asset_mtime"		"1698540400"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Joure &amp; Joe"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Joure & Joe"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Joure &amp; Joe"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1698426028"
+		"community_hub_visible"		"1"
+		"gameid"		"2497900"
+		"store_tags"
+		{
+			"0"		"1667"
+			"1"		"1721"
+			"2"		"42089"
+			"3"		"27758"
+			"4"		"10808"
+			"5"		"5716"
+			"6"		"4175"
+			"7"		"3839"
+			"8"		"4234"
+			"9"		"6691"
+			"10"		"3834"
+			"11"		"4182"
+			"12"		"1710"
+			"13"		"1742"
+			"14"		"3934"
+			"15"		"492"
+			"16"		"599"
+			"17"		"597"
+			"18"		"4166"
+			"19"		"4342"
+		}
+		"review_score"		"5"
+		"review_percentage"		"65"
+	}
+	"extended"
+	{
+		"developer"		"Joure &amp; Joe"
+		"publisher"		"Joure & Joe"
+		"homepage"		"https://justdontscream.com/"
+	}
+	"config"
+	{
+		"installdir"		"DON'T SCREAM"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"DONT_SCREAM.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2497901"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7801739791806544052"
+					"size"		"4283177581"
+					"download"		"3955193472"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"44C47D0F21C9084FB8C7FA541FDF45F9"
+					"size"		"9518A174C6FDC6281BEA5E4C302102D1"
+					"download"		"63A73090111CD5EF9AA678682BC8C87E"
+				}
+			}
+		}
+		"2497902"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12624136"
+				"timeupdated"		"1699198344"
+			}
+			"development"
+			{
+				"buildid"		"12663488"
+				"pwdrequired"		"1"
+				"timeupdated"		"1699553211"
+			}
+		}
+	}
+}
