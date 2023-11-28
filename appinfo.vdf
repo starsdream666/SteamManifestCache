@@ -1,0 +1,385 @@
+"appinfo"
+{
+	"appid"		"2140850"
+	"common"
+	{
+		"name"		"Looper Tactics"
+		"type"		"Game"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64,macosapplesilicon"
+		"name_localized"
+		{
+			"schinese"		"虚妄轮回"
+		}
+		"icon"		"a6c690249050c341be66acfa0c0114f09ff840c0"
+		"clienticon"		"3e391687672aa884146802b358541085231f293f"
+		"clienttga"		"6aa0134c8adb2e4b9415de19b4683956862a48eb"
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"japanese"		"1"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1700265600"
+			"tested_build_id"		"12276477"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"schinese"		"header_schinese.jpg"
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn"
+			"library_hero"		"en"
+			"library_logo"		"en,zh-cn"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"65.98599766627771"
+				"height_pct"		"62.76418902873427"
+			}
+		}
+		"store_asset_mtime"		"1693985263"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"墨香如故"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"2P Games"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Gamersky Games"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"2P Games"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"23"
+			"3"		"3"
+			"4"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1693205998"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2140850"
+		"store_tags"
+		{
+			"0"		"32322"
+			"1"		"791774"
+			"2"		"1084988"
+			"3"		"1666"
+			"4"		"17389"
+			"5"		"9"
+			"6"		"14139"
+			"7"		"4325"
+			"8"		"597"
+			"9"		"1741"
+			"10"		"21"
+			"11"		"1684"
+			"12"		"3834"
+			"13"		"492"
+			"14"		"3871"
+			"15"		"4182"
+			"16"		"4791"
+			"17"		"4057"
+			"18"		"6426"
+			"19"		"17305"
+		}
+		"review_score"		"8"
+		"review_percentage"		"92"
+	}
+	"extended"
+	{
+		"developer"		"墨香如故"
+		"publisher"		"2P Games"
+	}
+	"config"
+	{
+		"installdir"		"LooperTactics"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"LooperTactics.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"2"
+			{
+				"executable"		"LooperTactics.app"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"2140851"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5589667733736467806"
+					"size"		"1614258111"
+					"download"		"388974368"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"localtest"
+				{
+					"gid"		"AE7AAB230E7352DF6000BD870F5957F5"
+					"size"		"D9CC75EAFAA6E7A7BD3A8A136AB4B044"
+					"download"		"142AB90FA1C0716A6CAC36C7FDDAF947"
+				}
+				"pre-releasedtest"
+				{
+					"gid"		"16031E5F38C9EA06B21174E9CA2F2D85"
+					"size"		"D03C35E6BADE1668D326E3989AF4D369"
+					"download"		"14F9127639E177598598BCD48408CA9B"
+				}
+				"qatest"
+				{
+					"gid"		"044EA010D5FC7CBF28D86F6C99127710"
+					"size"		"939B762E8F256EC33A7ECDDB15528BE4"
+					"download"		"6807B9FF8F852E892E586D8EF253E2DD"
+				}
+			}
+		}
+		"2140852"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6480588361779586279"
+					"size"		"1602040196"
+					"download"		"386663664"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"localtest"
+				{
+					"gid"		"3946C3E875D56FF6A3956BD5E86FF75E"
+					"size"		"0E6170F9FB90469F2D2FB40931E29AF6"
+					"download"		"D75416B5386B9D86B3A0505380D16C96"
+				}
+				"pre-releasedtest"
+				{
+					"gid"		"A68BD748E3F3F5CD47B929F17A06A696"
+					"size"		"B68C87F3C33C3C46104A70D353258430"
+					"download"		"A5B9989BC96D905A172782B3EF7437F3"
+				}
+				"qatest"
+				{
+					"gid"		"50354E9C86BBDA2A6E8119DA642246D7"
+					"size"		"952D8F2D47C2FD67FA8E8322CEE03F11"
+					"download"		"DE49B8AB3AED235F9D2D3B0E9A0C6420"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12771326"
+				"timeupdated"		"1700659486"
+			}
+			"localtest"
+			{
+				"buildid"		"12771326"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700658985"
+			}
+			"pre-releasedtest"
+			{
+				"buildid"		"12791867"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700838585"
+			}
+			"qatest"
+			{
+				"buildid"		"12791867"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700838869"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"500000000"
+		"maxnumfiles"		"5000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"MacAppSupport"
+				"path"		"MoXiangRuGu/LooperTactics/GData"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"MacOS"
+				}
+				"recursive"		"1"
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"MoXiangRuGu/LooperTactics/GData"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"MoXiangRuGu/LooperTactics/GData"
+						"replace"		"MoXiangRuGu/LooperTactics/GData"
+					}
+				}
+			}
+			"1"
+			{
+				"root"		"MacAppSupport"
+				"os"		"Windows"
+				"oscompare"		"="
+				"useinstead"		"WinAppDataLocalLow"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"MoXiangRuGu/LooperTactics/GData"
+						"replace"		"MoXiangRuGu/LooperTactics/GData"
+					}
+				}
+			}
+		}
+	}
+}
