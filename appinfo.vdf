@@ -1,0 +1,901 @@
+"appinfo"
+{
+	"appid"		"1129580"
+	"common"
+	{
+		"name"		"Medieval Dynasty"
+		"type"		"Game"
+		"clienticon"		"98e966e80fe4a264cdc45b4aed0421e2934a77db"
+		"clienttga"		"d28a0607006212887917dbe5f7506e2fc950799e"
+		"icon"		"39c20da646fab0bbfafc252915e6f832fd990c2f"
+		"logo"		"d6cbf2a2e89c6bb9b60164a1503139b06ce53c08"
+		"logo_small"		"d6cbf2a2e89c6bb9b60164a1503139b06ce53c08_thumb"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"name_localized"
+		{
+			"schinese"		"中世纪王朝"
+		}
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"portuguese"		"1"
+			"polish"		"1"
+			"dutch"		"1"
+			"swedish"		"1"
+			"hungarian"		"1"
+			"czech"		"1"
+			"romanian"		"1"
+			"turkish"		"1"
+			"brazilian"		"1"
+			"ukrainian"		"1"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1651881600"
+			"tested_build_id"		"8606070"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"5"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"6"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"1"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Medieval Dynasty"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn"
+			"library_hero"		"en"
+			"library_logo"		"en,zh-cn"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"44.75258529644236"
+				"height_pct"		"53.91034453384156"
+			}
+		}
+		"store_asset_mtime"		"1700605949"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Render Cube"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Toplitz Productions"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Dynasty"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Render Cube"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+			"3"		"3"
+			"4"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_23"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"swedish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"hungarian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1632391320"
+		"metacritic_score"		"73"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/medieval-dynasty?ftag=MCD-06-10aaa1f"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1129580"
+		"store_tags"
+		{
+			"0"		"4166"
+			"1"		"4172"
+			"2"		"1695"
+			"3"		"122"
+			"4"		"4182"
+			"5"		"4175"
+			"6"		"3987"
+			"7"		"21"
+			"8"		"3839"
+			"9"		"599"
+			"10"		"1662"
+			"11"		"19"
+			"12"		"7332"
+			"13"		"12472"
+			"14"		"492"
+			"15"		"3810"
+			"16"		"6041"
+			"17"		"1654"
+			"18"		"3834"
+			"19"		"1702"
+		}
+		"review_score"		"8"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"developer"		"Render Cube"
+		"publisher"		"Toplitz Productions"
+		"homepage"		"http://toplitz-productions.com/home.html"
+		"listofdlc"		"1418980,1766020,1766021,1766022"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Medieval Dynasty"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Medieval_Dynasty.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		""
+		"1129581"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1173791062572629702"
+					"size"		"6515255044"
+					"download"		"3413916528"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"AC3E328D6E6692B49D72B87FC92A59DB"
+					"size"		"E46E2C254F5C69D98D46A2B43D040EEF"
+					"download"		"1E6A534EF1697BF1FF61C21C79391357"
+				}
+				"closed_beta"
+				{
+					"gid"		"1E3B019CE1F5793903D72B39DA5B5DD3"
+					"size"		"87F3C3A6886D5EEC9018733D5D48956E"
+					"download"		"DFFA5F021B9A261A7C2F9FD4D11BB79A"
+				}
+				"closed_preview"
+				{
+					"gid"		"05DB1758E000A3DC57844174B78130C3"
+					"size"		"2049EC09CDDA9E26441F0FF4D9C8CBD8"
+					"download"		"91D7B8BB4CEBEFF8FE67DC569C6D64AD"
+				}
+				"digital_supporter_pack_test"
+				{
+					"gid"		"B8154D49725FC404E997055AA5354714"
+					"size"		"9B2A29576FAC7E1E4239AF3C46C77A65"
+					"download"		"3F2138742F60202E2E196B3E55CF6E46"
+				}
+				"ext_qa"
+				{
+					"gid"		"C95380E11E766790AC1E668FB8EF89A9"
+					"size"		"35509636F3D1C385E6CCF50A2726B5E3"
+					"download"		"2B9575AE2135BB17965979B68BCB4FA0"
+				}
+				"ext_qa_1"
+				{
+					"gid"		"8476AD008343E311D98DB89CF157AF29"
+					"size"		"7CB96F9BF563D175723D879A026A4A22"
+					"download"		"0EE34270EC79A0F86418C67497A33A3B"
+				}
+				"intel"
+				{
+					"gid"		"B9B0F5DA6EF4F3780B7E3F341E169726"
+					"size"		"31EF546644E93377323F11CDD86E3451"
+					"download"		"4CF540F3E340EE65BF5BA414EA29F43C"
+				}
+				"internal_only"
+				{
+					"gid"		"74EB1F1FA58ECEF005ADDFEBF9BB5418"
+					"size"		"A6F5B05EA3C0D7AA2F52FDFA96B9F7A7"
+					"download"		"C109F3F998EEE2F3FD52CCDBEE5D8A29"
+				}
+				"internal_staging"
+				{
+					"gid"		"45B43EFB4F647EA3C0F418956470D4F5"
+					"size"		"58760B2F291B3DB8DC1CDB1E9492331D"
+					"download"		"6223681948410AB65987E78C9F8A54F3"
+				}
+				"internal_staging_tools"
+				{
+					"gid"		"02870DC0CB36C1EC68924C5902ABFC47"
+					"size"		"5F3023E3CF165945ACECA1F1716BE279"
+					"download"		"A70B5657CE891BA26A5341F9BE150BFC"
+				}
+				"loca_qa"
+				{
+					"gid"		"2AF8E173FD682F30F81669F1261FAF80"
+					"size"		"6DEB6F22AC4F64E374E73CDAECC4D70C"
+					"download"		"33E09FB44BDC3CAA83FDF7DB8B36A88C"
+				}
+				"nvidia"
+				{
+					"gid"		"85596DDE0A7E44A2A742011AC96A6837"
+					"size"		"E78A181B4F9CFBF18ADF4FB37CE6C311"
+					"download"		"DA635535C506F64374D7AC1EAEC76BC7"
+				}
+				"public_beta"
+				{
+					"gid"		"E1AB1626601910875F38C7CAAD39D72F"
+					"size"		"7489C359171350979BB8CFF09EBC4CCD"
+					"download"		"C5B0302F4D3568C5D78A3571E208314D"
+				}
+				"razr"
+				{
+					"gid"		"10CACEA61AA53D645AD9874D49349DE1"
+					"size"		"2CC24521CBA808E55CFD1A8E61350A98"
+					"download"		"EF98651D2A65990A1DF1EDE8C7B1E07C"
+				}
+				"release_build_staging"
+				{
+					"gid"		"2E445F97F8819EE174C2D8A761A1B23A"
+					"size"		"4259481BCB032C2075F6F9F3A77FEBF8"
+					"download"		"5B8FD5925F1DAC74CCB997E76879C597"
+				}
+				"staging_1"
+				{
+					"gid"		"3564AADF1E6B2FDFC8A178CAA88C71D8"
+					"size"		"56B79DD05266AC489667E24B3E6DAEB5"
+					"download"		"6C5DE335CC748CE59C0425A3B876784B"
+				}
+			}
+		}
+		"1418980"
+		{
+			"dlcappid"		"1418980"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3320973450896394566"
+					"size"		"4508099989"
+					"download"		"4527552272"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closed_beta"
+				{
+					"gid"		"9D09ECFF1CC5FF45409AAB6DBE3AFC1D"
+					"size"		"849FBEDE99ED1DB80029CC1B113ED203"
+					"download"		"B5A4D37E384D101744E6E540C1A4695F"
+				}
+				"closed_preview"
+				{
+					"gid"		"F6C15CFE58D63DD123D025B86BFB1D8D"
+					"size"		"881DD0FD79F107DF936EE6AE8ECE408F"
+					"download"		"BB219120960DD4881711D57680224851"
+				}
+				"digital_supporter_pack_test"
+				{
+					"gid"		"F9EE33AC5CFBF11E275D1B4C7FE2B50A"
+					"size"		"F640F91754DAA52A01F6C3F497956434"
+					"download"		"1735C17AC5290DA2AB6D2B0971DE5CE8"
+				}
+				"ext_qa"
+				{
+					"gid"		"BF643681D970C53C861CFB09F198784D"
+					"size"		"806829D43746CAF3BF800E57A3759355"
+					"download"		"0B83C4488832C17BFE4F996D16BF0C02"
+				}
+				"ext_qa_1"
+				{
+					"gid"		"236E780880C64ED23300700210E08E13"
+					"size"		"60C21BE379F423C328C7488B0F210CFD"
+					"download"		"D2F6CCD58028F50478730D46546839F0"
+				}
+				"intel"
+				{
+					"gid"		"3DC0418B5089380B11FE89737E22E9E0"
+					"size"		"5BB13189D2A6F51FE1C6FC7845C7F806"
+					"download"		"FBEE9AC276733EC0676F4B0AFA8AA4F0"
+				}
+				"internal_staging"
+				{
+					"gid"		"E3FB2F84E6F4CA35822EF197F726822E"
+					"size"		"D431CC5A2FB0595CDF7D843AD3F43844"
+					"download"		"803BDCBE4639BEB61A8AA707131E9776"
+				}
+				"internal_staging_tools"
+				{
+					"gid"		"9A49A73A01A1934FC75E7F4FD5D66AC1"
+					"size"		"96A03F38D465C8F188AF37121A23BBC9"
+					"download"		"F1403DFA26F201B2B3FDA1A2B6F56983"
+				}
+				"loca_qa"
+				{
+					"gid"		"1D58743FDD50ACF67C5C0DDD40CD131B"
+					"size"		"D34EE89350AD6240EE5144A7E02A20C6"
+					"download"		"EF86D138302C2624A6E5B51D6508D3AD"
+				}
+				"nvidia"
+				{
+					"gid"		"89D87584F3C3CA83CD92737C0F4399C1"
+					"size"		"D4ED41AB7746D7E55FD8F6B1A77C4E4B"
+					"download"		"A10EBFDD6A31D4198082914BF193FF55"
+				}
+				"public_beta"
+				{
+					"gid"		"E673E86D0E8B00E952C4D3361BD552DE"
+					"size"		"3575CEF705B34FD03AFF511217182742"
+					"download"		"EB31D72BCC6B2248A2021D65B649B1B2"
+				}
+				"razr"
+				{
+					"gid"		"D5FA6A42646F70094C82861D35A7DE67"
+					"size"		"0DEF421967142313C1AF7FBDA6C06783"
+					"download"		"7B3DC7A474FCDB41E3016E6979DA02C2"
+				}
+				"release_build_staging"
+				{
+					"gid"		"FA93D8AD0B40D970B23B680131EA02BA"
+					"size"		"BBF99A38A05620C459556B933C24A3D4"
+					"download"		"B2FE5394CE8E3AF874F9014D0E3064EB"
+				}
+				"staging_1"
+				{
+					"gid"		"6E1E7E84A8FBF86E41998A3AB453E27E"
+					"size"		"117322494D3517D3350644AAE18A6C05"
+					"download"		"95ADBE2D0ECD2041AAE8C799F6668F11"
+				}
+			}
+		}
+		"1766020"
+		{
+			"dlcappid"		"1766020"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3455912862725522371"
+					"size"		"136422509"
+					"download"		"121679600"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closed_beta"
+				{
+					"gid"		"FC279D05A668D3FE9822FC170D1EE07E"
+					"size"		"4662B78549EF9C1BCA0A19CA5029094D"
+					"download"		"CF9240131DFA47BB01B44BE1F36E7422"
+				}
+				"closed_preview"
+				{
+					"gid"		"6568BD432EBC94A6E4A7BF172EEBB64B"
+					"size"		"1B0B40C8CBEE58FFE008349EB4404DB2"
+					"download"		"1D671B64798041B4E558A628F59AE4C1"
+				}
+				"digital_supporter_pack_test"
+				{
+					"gid"		"6C51339D233893DB8786BBAC4D7C3BE3"
+					"size"		"8066BE1B336E2CEB7561B0A909FA0E8F"
+					"download"		"E8E9D57C7B0F58E86BB80D68069FF94B"
+				}
+				"ext_qa"
+				{
+					"gid"		"78B8A66B52102EA56842B194F064E007"
+					"size"		"DE81E5702694D8CD9B4B27420B3A8DA6"
+					"download"		"06E865D0AAFF1E96DE671A21B6AD8FA4"
+				}
+				"ext_qa_1"
+				{
+					"gid"		"57D9BF7C6D805FA3749344F8A62469FA"
+					"size"		"E92C86659660F81DA03AFAA1DF0CC745"
+					"download"		"424581C03C3A2470F1704D91B78BC285"
+				}
+				"intel"
+				{
+					"gid"		"AA3CDE2C22B452CF89DFCDA18A95F6A1"
+					"size"		"22FC68F6DEC75B8CA5BEB586D1B8D948"
+					"download"		"934CF346BD39790459A151A1BE43AC66"
+				}
+				"internal_staging_tools"
+				{
+					"gid"		"AD09E4E91662AA0A615564EC2985CBBD"
+					"size"		"D55AF7A774D347BFDD09E40A6A65FA33"
+					"download"		"DE5C221FF04E4EF52D2C78D0E1017E8F"
+				}
+				"loca_qa"
+				{
+					"gid"		"4AA034A7CF2CF4E5F461D845DB7A3F75"
+					"size"		"145BAD26421F4C40B31772EE8E5B3495"
+					"download"		"990E6245EBBFB7773DDDBA44554C7324"
+				}
+				"nvidia"
+				{
+					"gid"		"BD3B2744C252327AC5517D7C8307B754"
+					"size"		"C48056B51333D971F0EEB78C2F4A437B"
+					"download"		"911EF62C7161ED4E02759BFD551F8432"
+				}
+				"public_beta"
+				{
+					"gid"		"776A786360C863686BD751F161781327"
+					"size"		"C822988AE6DC0730447AAE3BE06394D3"
+					"download"		"D5C66CF85102CBA3CD89CC57C6206431"
+				}
+				"release_build_staging"
+				{
+					"gid"		"EB1C250DA681A8B745A7A32B2C01E2EE"
+					"size"		"3DC58BC4382CE93C621374B20638FD81"
+					"download"		"480E9B25AF28F721CE038E7D5E645E53"
+				}
+			}
+		}
+		"1766021"
+		{
+			"dlcappid"		"1766021"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3320086066342330262"
+					"size"		"52043844"
+					"download"		"49754768"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closed_beta"
+				{
+					"gid"		"A3FB59DB505884B15D57EBD29F281C08"
+					"size"		"5CBFDCF337DFA5C469DBD41BFDC7A764"
+					"download"		"0B8CC8F7C2C60E834E0DF142AF525F7B"
+				}
+				"closed_preview"
+				{
+					"gid"		"A693E514C22C7ED911F18BA755DE00A6"
+					"size"		"3EE8216364D2E733EEF1FB5D4855E858"
+					"download"		"2CAB7B29CF7E792AD3005B3FBE42D983"
+				}
+				"digital_supporter_pack_test"
+				{
+					"gid"		"0DB5E3EE02DE03B4A670F288E5974CB2"
+					"size"		"C6B9B9BC38A13E1D917481F04812BFF6"
+					"download"		"C6FE7AD1271F02E0D59CC7C4E6E83223"
+				}
+				"ext_qa"
+				{
+					"gid"		"4A3FB0C1579CD78D94000B156DE0AC3D"
+					"size"		"F2480378B65C2E5AAC56251008C96934"
+					"download"		"3763A1E68079F45E57692CE5FD24409B"
+				}
+				"ext_qa_1"
+				{
+					"gid"		"1D6575CD071E14259AD751F5DA0AFC85"
+					"size"		"DDBF92A27E2131803CBCD2FD81136B14"
+					"download"		"23E11DA387F25B289CEF2F294FF5C1F3"
+				}
+				"intel"
+				{
+					"gid"		"29AAE5D271FF6E3ED1BA4093337D3121"
+					"size"		"DF937583C18DD0BB23FDF47233F84DE0"
+					"download"		"24A8D8F41E71538ECA9EBB711FAB5524"
+				}
+				"internal_staging_tools"
+				{
+					"gid"		"068C3C316D1B1B5161B3600BA1971589"
+					"size"		"49F7D1F403F498B9404678A776BBEF20"
+					"download"		"C0859A6395BBFBD75C85F7F15C204020"
+				}
+				"loca_qa"
+				{
+					"gid"		"BD15DC3BE56A0BD33A9D64BAE543F82F"
+					"size"		"B4A4BCAA8E6B12D32AD4782469497AE1"
+					"download"		"F3EA9AB892F12850E26C757C46C9A0CC"
+				}
+				"nvidia"
+				{
+					"gid"		"C4C30C6CA70A147D9C29DB3C452CC549"
+					"size"		"2244DE5D8E2670AA2CCE142FD8EB1DB5"
+					"download"		"4B52542ED452623481A7B0698606BF21"
+				}
+				"public_beta"
+				{
+					"gid"		"7B23FF4A32216D081E64BC1206AAC6A5"
+					"size"		"4141A61EFC30240DE167C01CD6E7A50F"
+					"download"		"51574A55DCE1E08A823B7C2EF12C7C4A"
+				}
+				"release_build_staging"
+				{
+					"gid"		"66F6954D62BACE105C38EF54E1E63E50"
+					"size"		"EA3FF762DA30D6978730D5FB8DE08767"
+					"download"		"C8C46A4D5D6A06D427F8157A305FF9A4"
+				}
+			}
+		}
+		"1766022"
+		{
+			"dlcappid"		"1766022"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9195790049611468482"
+					"size"		"329581592"
+					"download"		"130719200"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"closed_beta"
+				{
+					"gid"		"2EEE783D7A181211657605E22D194CD1"
+					"size"		"AF0B78160231B859BE00EE42C72F633C"
+					"download"		"69091CFF7E07BA32912E9F5C058D763A"
+				}
+				"closed_preview"
+				{
+					"gid"		"EA8ACC7B924CA2E98A60F1197458942E"
+					"size"		"D72EB44525264BD0436ED01E1D421D46"
+					"download"		"0EF3FE45D5BF87E6A921BEDBD52308DF"
+				}
+				"digital_supporter_pack_test"
+				{
+					"gid"		"47765A9D46294BA3845932C99A878280"
+					"size"		"813F9551B734C6E7C3B0AA0A2D9F642C"
+					"download"		"DD02E80A1054E9B311F080FE8BF1C1AD"
+				}
+				"ext_qa"
+				{
+					"gid"		"A2D644C46E09A5C6857E39979A09A557"
+					"size"		"27004DCE75581503B5D3BB03BC1FE5E9"
+					"download"		"B4637F465F6DF4C57029B8BC54E83F37"
+				}
+				"ext_qa_1"
+				{
+					"gid"		"9F1CF5A4BC91BD646E547E60FC363699"
+					"size"		"907F1826FE24F275814321A4683B3B0B"
+					"download"		"5D0DD7905E354391A9833EFE5F9E1D97"
+				}
+				"intel"
+				{
+					"gid"		"FF9142310891D32EB2343E031CBFA1D1"
+					"size"		"A8114EB126F7200F394C1F80E4B262DD"
+					"download"		"9202E0110441B933767A6EA0F674836F"
+				}
+				"internal_staging_tools"
+				{
+					"gid"		"E454C211426BD3A1D34A6B973889AB9B"
+					"size"		"C56F2F72113EDCF61AD2F95805954A9F"
+					"download"		"5C8E0AA5C6C54717A5A9E30C09DB844D"
+				}
+				"loca_qa"
+				{
+					"gid"		"C168997B444EA9F6D4CD107B967443E5"
+					"size"		"E2ADF6148CB4CF50077D826BE11155D6"
+					"download"		"37666F2B8D228E6456B31F99077807A3"
+				}
+				"nvidia"
+				{
+					"gid"		"EAB9D12FCA5F4191728E20CB27D404F4"
+					"size"		"1F61E5A7BBA3975893AC0C0F87936508"
+					"download"		"8914A0426A30DFE9D56C8F8368EE2CA9"
+				}
+				"public_beta"
+				{
+					"gid"		"1EC518DBFD0D661F71570A3B6BF92224"
+					"size"		"322040EE6D152C230683AD16C4AC36FB"
+					"download"		"E2D600B6127DD050164F657691B09BE7"
+				}
+				"release_build_staging"
+				{
+					"gid"		"1C2512AF0914118CEE955217A7FF3228"
+					"size"		"F6F8C916475A1685CD81223774BF9943"
+					"download"		"8D75411D3BC1B314766B642DEF9143F9"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"11595403"
+				"timeupdated"		"1688105891"
+			}
+			"beta"
+			{
+				"buildid"		"4759903"
+				"pwdrequired"		"1"
+				"timeupdated"		"1583798661"
+			}
+			"closed_beta"
+			{
+				"buildid"		"12802426"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701027696"
+			}
+			"closed_preview"
+			{
+				"buildid"		"7438115"
+				"pwdrequired"		"1"
+				"timeupdated"		"1632831842"
+			}
+			"digital_supporter_pack_test"
+			{
+				"buildid"		"7403264"
+				"pwdrequired"		"1"
+				"timeupdated"		"1632308212"
+			}
+			"ext_qa"
+			{
+				"buildid"		"12750324"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700489461"
+			}
+			"ext_qa_1"
+			{
+				"buildid"		"12809545"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701107301"
+			}
+			"intel"
+			{
+				"buildid"		"10947043"
+				"pwdrequired"		"1"
+				"timeupdated"		"1680788913"
+			}
+			"internal_only"
+			{
+				"buildid"		"12802505"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701029230"
+			}
+			"internal_staging"
+			{
+				"buildid"		"12802424"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701027681"
+			}
+			"internal_staging_tools"
+			{
+				"buildid"		"11543048"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687512530"
+			}
+			"loca_qa"
+			{
+				"buildid"		"12750324"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700487138"
+			}
+			"nvidia"
+			{
+				"buildid"		"7624180"
+				"pwdrequired"		"1"
+				"timeupdated"		"1635504325"
+			}
+			"public_beta"
+			{
+				"buildid"		"8809183"
+				"pwdrequired"		"1"
+				"timeupdated"		"1653501265"
+			}
+			"razr"
+			{
+				"buildid"		"7368443"
+				"pwdrequired"		"1"
+				"timeupdated"		"1631775278"
+			}
+			"release_build_staging"
+			{
+				"buildid"		"11536561"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687448376"
+			}
+			"staging_1"
+			{
+				"buildid"		"5722642"
+				"pwdrequired"		"1"
+				"timeupdated"		"1603383474"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000000"
+		"maxnumfiles"		"214"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"Medieval_Dynasty\\Saved\\SaveGames"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
