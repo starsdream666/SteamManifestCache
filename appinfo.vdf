@@ -1,0 +1,584 @@
+"appinfo"
+{
+	"appid"		"1469610"
+	"common"
+	{
+		"name"		"Last Train Home"
+		"type"		"Game"
+		"releasestate"		"released"
+		"clienticon"		"97bb0d38a136ca50450bf23ca569a938edfc239c"
+		"clienttga"		"3c46a6d8bdd118061366e69947b3ce9c42776d8e"
+		"icon"		"bf2c22f9db49bb12e551e78d0345c2135d72b92f"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"polish"		"1"
+			"czech"		"1"
+			"brazilian"		"1"
+		}
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"32.380396732788796"
+				"height_pct"		"67.8579909760152"
+			}
+		}
+		"store_asset_mtime"		"1701185264"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Ashborne Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"THQ Nordic"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"THQ Nordic"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Last Train Home"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1701179878"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1469610"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"3813"
+			"2"		"1676"
+			"3"		"3987"
+			"4"		"4191"
+			"5"		"6426"
+			"6"		"1616"
+			"7"		"4182"
+			"8"		"1678"
+			"9"		"1733"
+			"10"		"4684"
+			"11"		"1662"
+			"12"		"4166"
+			"13"		"4175"
+			"14"		"5851"
+			"15"		"5382"
+			"16"		"12472"
+			"17"		"1708"
+			"18"		"7332"
+			"19"		"6971"
+		}
+		"review_score"		"5"
+		"review_percentage"		"66"
+	}
+	"extended"
+	{
+		"absolutemousecoordinates"		"0"
+		"remoteplaytogethertestingbranches"		"focustest"
+		"developer"		"Ashborne Games"
+		"publisher"		"THQ Nordic"
+		"homepage"		"https://lasttrainhome.thqnordic.com"
+		"listofdlc"		"2617720"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"LastTrainHome"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Train.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"Train.exe"
+				"type"		"option1"
+				"config"
+				{
+					"betakey"		"testgate"
+				}
+				"description_loc"
+				{
+					"english"		"testgate"
+				}
+				"description"		"testgate"
+			}
+			"3"
+			{
+				"executable"		"Train.exe"
+				"arguments"		"-dx12"
+				"type"		"option3"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Last Train Home using DX12"
+				}
+				"description"		"Last Train Home using DX12"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,german,french,spanish,schinese,tchinese,russian,japanese,polish,czech,brazilian"
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1469611"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1290510189820265438"
+					"size"		"20939163918"
+					"download"		"19012511904"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"agerating"
+				{
+					"gid"		"8F604707993E2F6F629839160841B28C"
+					"size"		"68504B7891851382AD7B0DDBD7B78C31"
+					"download"		"A17EE44A611DC3A89A7756D107431C6A"
+				}
+				"baseline"
+				{
+					"gid"		"D25F0079297C6A94554E33F4AF284E35"
+					"size"		"6EF2E49A3228E0883DC5821DF86B2916"
+					"download"		"B4802D7AB23A6038FF31DC251F674827"
+				}
+				"betasnapshot"
+				{
+					"gid"		"31DA868A62F44A068E9E8AD53654A83C"
+					"size"		"4F7D6B885F29115BF69BE9F5BFBD3980"
+					"download"		"E3C8DCC7FDE57053B101C868AC663A82"
+				}
+				"closedbeta1"
+				{
+					"gid"		"9D90D4B0FDECB319F22B583025A75F24"
+					"size"		"31FCAB6BF9E2F752C82DFC19AD5F262D"
+					"download"		"60E9952DA640D2E1AED5915B629D5245"
+				}
+				"closedbeta2"
+				{
+					"gid"		"39166FB8927BFE22EBBBAEA2D7CDA51E"
+					"size"		"770F50F96C5846014CF09DE19E82C32B"
+					"download"		"770F50F96C5846014CF09DE19E82C32B"
+				}
+				"dailydev"
+				{
+					"gid"		"43301E4CE7B29E710169DD059E82164C"
+					"size"		"ACB91E195164539B3D48315FD209C499"
+					"download"		"27971946ED45CEE797BD8803540448E0"
+				}
+				"dailyship"
+				{
+					"gid"		"95AC3531DF34915BB4D768DFB85B2998"
+					"size"		"7C6B32712C666C8C2FB60C5EB3C0A382"
+					"download"		"24CB631068EAFB3048211232BB1904F5"
+				}
+				"evaluation"
+				{
+					"gid"		"7A8C1EB8BDDBC1DB00D99262D8387B36"
+					"size"		"8DDD4A00C9DFACBF47FD6A907CECBE88"
+					"download"		"3CB0F3265C99508384E06F2C087AF51B"
+				}
+				"focustest"
+				{
+					"gid"		"E13C4A8D15C55954F0606A39EDCFDFF9"
+					"size"		"B5543269B2103B8FB99F8D7C706EE6EE"
+					"download"		"D044ADFA5B90A35F435DABADF88C2F6B"
+				}
+				"focustest2"
+				{
+					"gid"		"87855CD7C88FA3EFCF78434D5F016BE8"
+					"size"		"5318F3CF2C1DB03389A345933601C309"
+					"download"		"00ED48C4D19066DC5BF80F5F73CBD0C1"
+				}
+				"hardware"
+				{
+					"gid"		"3CD45BAB852C04C69FB1E977F432BE97"
+					"size"		"90E8E2DA11E7C8C8FEBAC8699FEEFDB2"
+					"download"		"2223B9110B33BAEB3196E2A95C2CF691"
+				}
+				"internal"
+				{
+					"gid"		"F60C16314DBA4FBAFC316EB7212BDFFD"
+					"size"		"E042C887E696EC9C25B9F484B6842715"
+					"download"		"0570784EC940CE67BF73CD04FBB75857"
+				}
+				"loca"
+				{
+					"gid"		"5F6270FD56CFD0348D490A59A8F1054D"
+					"size"		"B42337280602D64A69164998C9541BC0"
+					"download"		"1E376DAE70E449314A324510DEC7932E"
+				}
+				"mastersnapshot"
+				{
+					"gid"		"2E11077A31A963DD5E063D1C995BABA2"
+					"size"		"16699328AD3B10C94226BC3684F8B909"
+					"download"		"AE0A2EFE81854674C65B83A8B7271B27"
+				}
+				"milestone"
+				{
+					"gid"		"FA725404171612A89A76A2D30B7E7AF6"
+					"size"		"4B2712872A6A91655065DC36A9DF380C"
+					"download"		"10F4422E67CEE02614E1009B13413E47"
+				}
+				"pre-goldmastersnapshot"
+				{
+					"gid"		"2BBD2B689AC3487FB9A224F092A5E4BF"
+					"size"		"F10DC76D01D75598565D1E17EE3FD3DA"
+					"download"		"8871A156C6909A693391665DE22BCBF0"
+				}
+				"review"
+				{
+					"gid"		"0F6E78AAA47320354D150B4B10551834"
+					"size"		"712AC00099980DC48406A63BEB85120B"
+					"download"		"FAE51D1FD85C8C044D82360E4F84305B"
+				}
+				"review_edge"
+				{
+					"gid"		"F4399139B9D1C63213F3336FD806023F"
+					"size"		"6FE97AF9AC413B17655D47977060F891"
+					"download"		"DECE7F0B318B1E3BAF93D81D6A8B52A0"
+				}
+				"review_puco"
+				{
+					"gid"		"DA213FA01A4AB1D93364BD69FF6E0CF8"
+					"size"		"AC71BC9A60242C1C1722922BEF811FB4"
+					"download"		"6DCBF6748C74E1A2F0EE943B68892DDC"
+				}
+				"stableship"
+				{
+					"gid"		"73F2C3DBBDAE66285B3DE14BB8D30CB3"
+					"size"		"02C21C2AF41CE2874B89DE96C26754B8"
+					"download"		"47B21883377D09EB58CC88FDC8305DAE"
+				}
+				"stableshipdaily"
+				{
+					"gid"		"7B51B2D00F77FE8DB4C9A66406941934"
+					"size"		"9BF957BD7B641CF12A6551B6951C2E9B"
+					"download"		"D843351436EADA13AE56BF8511DC60AD"
+				}
+				"testgate"
+				{
+					"gid"		"DF4120670148F182AB90A761CF35966A"
+					"size"		"56A3512DBA2BED77A9C4169BFDE44222"
+					"download"		"6187DF1C9EFE01E6DCC984FEDD9102AA"
+				}
+			}
+		}
+		"2617720"
+		{
+			"dlcappid"		"2617720"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6167571341731683914"
+					"size"		"97122448"
+					"download"		"89661216"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"review"
+				{
+					"gid"		"F0F7C8B74A558580FA2B9F6B72610B2E"
+					"size"		"13AA1FC80D337A3509F55C813CE0ABEE"
+					"download"		"EE01B295D48979593BC76DC377624C85"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12780446"
+				"timeupdated"		"1700736884"
+			}
+			"agerating"
+			{
+				"buildid"		"12273174"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695721964"
+			}
+			"baseline"
+			{
+				"buildid"		"12424486"
+				"pwdrequired"		"1"
+				"timeupdated"		"1697123763"
+			}
+			"betasnapshot"
+			{
+				"buildid"		"11623779"
+				"pwdrequired"		"1"
+				"timeupdated"		"1688979427"
+			}
+			"closedbeta1"
+			{
+				"buildid"		"10885735"
+				"pwdrequired"		"1"
+				"timeupdated"		"1680246728"
+			}
+			"closedbeta2"
+			{
+				"buildid"		"5794706"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694410814"
+			}
+			"dailydev"
+			{
+				"buildid"		"12811962"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701128750"
+			}
+			"dailyship"
+			{
+				"buildid"		"12811889"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701128111"
+			}
+			"evaluation"
+			{
+				"buildid"		"12725458"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700184251"
+			}
+			"focustest"
+			{
+				"buildid"		"9852436"
+				"pwdrequired"		"1"
+				"timeupdated"		"1667390795"
+			}
+			"focustest2"
+			{
+				"buildid"		"11623779"
+				"pwdrequired"		"1"
+				"timeupdated"		"1689068038"
+			}
+			"hardware"
+			{
+				"buildid"		"12634651"
+				"pwdrequired"		"1"
+				"timeupdated"		"1699346671"
+			}
+			"internal"
+			{
+				"buildid"		"12634597"
+				"pwdrequired"		"1"
+				"timeupdated"		"1699446647"
+			}
+			"loca"
+			{
+				"buildid"		"12270047"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695626235"
+			}
+			"mastersnapshot"
+			{
+				"buildid"		"12063541"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693409822"
+			}
+			"milestone"
+			{
+				"buildid"		"12063541"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693394600"
+			}
+			"pre-goldmastersnapshot"
+			{
+				"buildid"		"12301073"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695899314"
+			}
+			"review"
+			{
+				"buildid"		"12780463"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700737050"
+			}
+			"review_edge"
+			{
+				"buildid"		"12567377"
+				"pwdrequired"		"1"
+				"timeupdated"		"1698652199"
+			}
+			"review_puco"
+			{
+				"buildid"		"12715120"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700134128"
+			}
+			"stableship"
+			{
+				"buildid"		"12750870"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700491459"
+			}
+			"stableshipdaily"
+			{
+				"buildid"		"12811846"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701127749"
+			}
+			"testgate"
+			{
+				"buildid"		"12769135"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700655487"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"300000000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"Train/Saved/SaveGames"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
