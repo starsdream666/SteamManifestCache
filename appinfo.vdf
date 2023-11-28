@@ -1,0 +1,314 @@
+"appinfo"
+{
+	"appid"		"1036240"
+	"common"
+	{
+		"name"		"Definitely Not Fried Chicken"
+		"type"		"Game"
+		"logo"		"177df69afbfceacf01258627d182492cab9780b1"
+		"logo_small"		"177df69afbfceacf01258627d182492cab9780b1_thumb"
+		"icon"		"bb53160bfa4ace93513ec6beb509140462212df7"
+		"clienttga"		"15f518b86f5c051a45dae7d4a32b2fc197606644"
+		"clienticon"		"fed45802b069b70c6c4befa15057f40cb342e222"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"2"
+			"2"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1680307200"
+			"tested_build_id"		"10367380"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"5"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"52.44186046511628"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1696841646"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Dope Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Merge Games"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Merge Games"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"28"
+			"1"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1695989012"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1036240"
+		"store_tags"
+		{
+			"0"		"12472"
+			"1"		"599"
+			"2"		"6378"
+			"3"		"3810"
+			"4"		"4845"
+			"5"		"4695"
+			"6"		"4182"
+			"7"		"8945"
+			"8"		"4191"
+			"9"		"5923"
+			"10"		"1719"
+			"11"		"1732"
+			"12"		"5851"
+			"13"		"4136"
+			"14"		"9"
+			"15"		"4202"
+			"16"		"6869"
+			"17"		"87918"
+			"18"		"1643"
+			"19"		"12057"
+		}
+		"review_score"		"6"
+		"review_percentage"		"75"
+	}
+	"extended"
+	{
+		"developer"		"Dope Games"
+		"publisher"		"Merge Games"
+		"homepage"		"https://www.mergegames.com/games/definitely-not-fried-chicken/"
+	}
+	"config"
+	{
+		"installdir"		"Dopeloop"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"DNFC.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1036241"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4654011932582789923"
+					"size"		"1042558544"
+					"download"		"353890560"
+				}
+				"beta"
+				{
+					"gid"		"4654011932582789923"
+					"size"		"1042558544"
+					"download"		"353890560"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"development"
+				{
+					"gid"		"1D618E7F8CA242A124B9EF5C6EDBAAF3"
+					"size"		"1496CEC850BC994E8565F4D22FFF3370"
+					"download"		"8F42444D07943CB535CE38C355B8E484"
+				}
+				"kudosqa"
+				{
+					"gid"		"0E85E396B31FB61F06D4089F3C6E3B5A"
+					"size"		"1038AC771D1BD32CD629ED624FE33D16"
+					"download"		"8470C56CFD4040E8854A17B6B19A43E3"
+				}
+				"marketing"
+				{
+					"gid"		"B207F1712691BCEF64B9B4F97589C09E"
+					"size"		"3C664EC1FCC41CDE670657A49463FF31"
+					"download"		"307DA6D38584DD27F432E071F5895522"
+				}
+				"nicktesting"
+				{
+					"gid"		"B4B05EC44A8ACF93A4F23376A8DE2444"
+					"size"		"FB5E3AE33295F52EC24033F8FCA200AD"
+					"download"		"DA33516E6EB3ACF02E95BF47EC060D2C"
+				}
+				"streamer"
+				{
+					"gid"		"624E9ECAF29C9006213EEB96AE327C2D"
+					"size"		"96557A83B08B8C5853C589769563EA76"
+					"download"		"69C6EC61AB56D8096E115407D73BB62A"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12762163"
+				"timeupdated"		"1700747996"
+			}
+			"beta"
+			{
+				"buildid"		"12762163"
+				"description"		"Public Beta testing branch."
+				"timeupdated"		"1700748086"
+			}
+			"development"
+			{
+				"buildid"		"12762163"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700583535"
+			}
+			"kudosqa"
+			{
+				"buildid"		"12762163"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700583571"
+			}
+			"marketing"
+			{
+				"buildid"		"12762163"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700748098"
+			}
+			"nicktesting"
+			{
+				"buildid"		"12762163"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700583616"
+			}
+			"streamer"
+			{
+				"buildid"		"12762163"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700748107"
+			}
+		}
+	}
+}
