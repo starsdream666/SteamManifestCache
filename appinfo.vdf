@@ -23,6 +23,49 @@
 			"russian"		"1"
 			"japanese"		"1"
 		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1700524800"
+			"tested_build_id"		"12697186"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
 		"controllertagwizard"		"1"
 		"controller_support"		"full"
 		"small_capsule"
@@ -157,7 +200,7 @@
 			"19"		"1695"
 		}
 		"review_score"		"8"
-		"review_percentage"		"84"
+		"review_percentage"		"88"
 	}
 	"extended"
 	{
@@ -201,9 +244,9 @@
 			{
 				"public"
 				{
-					"gid"		"3640156120719453297"
-					"size"		"1424702555"
-					"download"		"344832704"
+					"gid"		"5155060197815308200"
+					"size"		"1428618195"
+					"download"		"345987664"
 				}
 			}
 		}
@@ -218,9 +261,9 @@
 			{
 				"public"
 				{
-					"gid"		"3318560464122837077"
-					"size"		"1449564278"
-					"download"		"352635568"
+					"gid"		"8834643043899600456"
+					"size"		"1453481054"
+					"download"		"353800032"
 				}
 			}
 		}
@@ -229,8 +272,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12707214"
-				"timeupdated"		"1700034294"
+				"buildid"		"12815931"
+				"timeupdated"		"1701166764"
 			}
 		}
 	}
