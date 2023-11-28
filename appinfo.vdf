@@ -1,0 +1,607 @@
+"appinfo"
+{
+	"appid"		"1485690"
+	"common"
+	{
+		"name"		"Potion Tycoon"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"logo"		"bfbe86776d4fa65af57c7906ba7de14531c737cd"
+		"logo_small"		"bfbe86776d4fa65af57c7906ba7de14531c737cd_thumb"
+		"icon"		"5e5e26af851ded9022c5974418efabda424c8622"
+		"clienticon"		"f6ee6689aea3423931f9b927c8675a464f310e92"
+		"clienttga"		"66e1bb3dcb2aef44639a014c560ff7ac69227482"
+		"name_localized"
+		{
+			"schinese"		"药剂大亨 - Potion Tycoon"
+			"tchinese"		"藥劑大亨 - Potion Tycoon"
+			"japanese"		"ポーション・タイクーン - Potion Tycoon"
+			"koreana"		"포션 타이쿤 - Potion Tycoon"
+			"russian"		"Магнат зельеварения - Potion Tycoon"
+		}
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"latam"		"1"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1679616000"
+			"tested_build_id"		"10785879"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"koreana"		"capsule_231x87_koreana.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"japanese"		"header_japanese.jpg"
+			"koreana"		"header_koreana.jpg"
+			"schinese"		"header_schinese.jpg"
+			"tchinese"		"header_tchinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,ja,ko,zh-cn,zh-tw"
+			"library_hero"		"en"
+			"library_logo"		"en,ja,ko,zh-cn,zh-tw"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"69.76744186046511"
+				"height_pct"		"86.81605667915002"
+			}
+		}
+		"store_asset_mtime"		"1694700120"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Snowhound Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Daedalic Entertainment"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Daedalic Entertainment"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"28"
+			"1"		"2"
+			"2"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1678724535"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1485690"
+		"store_tags"
+		{
+			"0"		"12472"
+			"1"		"599"
+			"2"		"3810"
+			"3"		"1643"
+			"4"		"9"
+			"5"		"4057"
+			"6"		"91114"
+			"7"		"4695"
+			"8"		"4845"
+			"9"		"255534"
+			"10"		"3871"
+			"11"		"8945"
+			"12"		"4182"
+			"13"		"1684"
+			"14"		"4172"
+			"15"		"1100688"
+			"16"		"4195"
+			"17"		"6276"
+			"18"		"4202"
+			"19"		"6426"
+		}
+		"review_score"		"6"
+		"review_percentage"		"74"
+	}
+	"extended"
+	{
+		"developer"		"Snowhound Games"
+		"publisher"		"Daedalic Entertainment"
+		"homepage"		"http://www.snowhoundgames.com/"
+		"listofdlc"		"2239080"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Potion Tycoon"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Potion Tycoon.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"open_bonus_win.bat"
+				"config"
+				{
+					"oslist"		"windows"
+					"ownsdlc"		"2239080"
+				}
+				"description_loc"
+				{
+					"english"		"Bonus Content"
+				}
+				"description"		"Bonus Content"
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1485691"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4541355808133499719"
+					"size"		"735725026"
+					"download"		"449652992"
+				}
+				"experimental-public"
+				{
+					"gid"		"787846027224860183"
+					"size"		"660176768"
+					"download"		"396948816"
+				}
+				"rollback"
+				{
+					"gid"		"8047292171286125780"
+					"size"		"546364884"
+					"download"		"310420880"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"ddays"
+				{
+					"gid"		"F9A8461C6C8702DF035F2CAE7AFA0FD4"
+					"size"		"8B085E816C80E79EE2615385C91498FE"
+					"download"		"74B84DD4D87711ABA27B8FDB3EB3B743"
+				}
+				"fallback"
+				{
+					"gid"		"80880FCC4DF6A7C30B53CEC37630245C"
+					"size"		"441B8E80A27474D00EA5409DC8D76CBE"
+					"download"		"179AE55D4BD6FA2AC61DA8F8B4E54DFB"
+				}
+				"gamescom-for-pr-agency"
+				{
+					"gid"		"F13268EF65A68737288086C0C62AEE7D"
+					"size"		"B2AA7BC30F3B2BD55632F3D4BC7B6780"
+					"download"		"B740D0DEDDD3172805E989B423E6AD6D"
+				}
+				"hands-on"
+				{
+					"gid"		"9059FCAE793311055166CC330764B84D"
+					"size"		"732F12F41BEE8EADD493A1752329728D"
+					"download"		"E7A814EC9FEF40CB09AEE787CCDD18F1"
+				}
+				"loca"
+				{
+					"gid"		"B0E222F7C404BB5431ECF9260145FB6F"
+					"size"		"05A0564E0A3BF73179E8D1C3BF9C78A7"
+					"download"		"1C7B4FA9A4ED3C843296324BECD4734E"
+				}
+				"milestone"
+				{
+					"gid"		"2FE2C86C9F191EDCA0EEDA6B2189E693"
+					"size"		"86C1D443DDEEF76C009DD9D264C3867F"
+					"download"		"B14077BB65B421DA14B9887983CD7CC5"
+				}
+				"mock-review"
+				{
+					"gid"		"EF11BCC7D3F767A652C71B36391F9121"
+					"size"		"45C3D82D2CA34BFBB4A8ED2AA7FF55E7"
+					"download"		"93833E3F188E9CFA43C616CA45F83E33"
+				}
+				"pull"
+				{
+					"gid"		"F3F8EA7F0F348F355C76DFE38884001C"
+					"size"		"44F0842B4B914E2860871C0661948768"
+					"download"		"C36AB61E1263C3505C64B2327F76B66C"
+				}
+				"review"
+				{
+					"gid"		"3C762FE1318E20E4C42598E44FDB9F09"
+					"size"		"541A4BEB5B34496B0FEA846F69E89AF7"
+					"download"		"2AC57CC87D55A875828EF3B576CBD9BC"
+				}
+				"snowhound-internal"
+				{
+					"gid"		"E0E553CC710D0473CBD8380B046625C4"
+					"size"		"A08A34B1E8C3FBDEAE3B250CD3CE7E56"
+					"download"		"DA6415A0DC7F092E7817E1E9490C706D"
+				}
+				"staging"
+				{
+					"gid"		"F925A44FB0B90B2818A9D2C100D760D5"
+					"size"		"B4D714E3D75CEB55FBB4A0513B5BBC22"
+					"download"		"82ABE9A993C4C24D026789314FFF8468"
+				}
+				"testing"
+				{
+					"gid"		"95F0092FFAF072B5309E6A7F55993119"
+					"size"		"E49D1C95580C7662C28026D92E007F04"
+					"download"		"10EB201E6E82ED48F83B9598DB30E483"
+				}
+			}
+		}
+		"2239080"
+		{
+			"dlcappid"		"2239080"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5699949955775867337"
+					"size"		"24492873"
+					"download"		"19269728"
+				}
+				"experimental-public"
+				{
+					"gid"		"8307274956432412595"
+					"size"		"24450042"
+					"download"		"19241696"
+				}
+				"rollback"
+				{
+					"gid"		"5123072139614273763"
+					"size"		"24450016"
+					"download"		"19241600"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"ddays"
+				{
+					"gid"		"204A56F53F448061DBAA8826F9E3B309"
+					"size"		"3A7F927A2296B53D8BDD44633E03931B"
+					"download"		"BA8708DBD23628D0E53BB7E3B660E5D2"
+				}
+				"fallback"
+				{
+					"gid"		"9119D6B82A9D061E1227D36AA5A71EAD"
+					"size"		"4518475F197F6579A02AA87077E4FE94"
+					"download"		"53276A95640CB1894C6F264B8C55B117"
+				}
+				"loca"
+				{
+					"gid"		"14D47924E68814F6631964DBCA07A1D6"
+					"size"		"93828279EC8A9D077A584679B572429A"
+					"download"		"DF993DADF8C1492012ED6B6DB1B28BA2"
+				}
+				"milestone"
+				{
+					"gid"		"5A45D1F38385B05D4F0FB6EBC90575DB"
+					"size"		"E2208B8C0CA9FF3C1DC2F3DCFC86E9F6"
+					"download"		"62ACA1A1584B6E4B055D730827267D41"
+				}
+				"review"
+				{
+					"gid"		"D9E37E6E21A060046A26ADC1DB95D565"
+					"size"		"9D29528589453E21CB973B4B09126484"
+					"download"		"AC671C1E10F3697F1296E4AC97F54F8E"
+				}
+				"snowhound-internal"
+				{
+					"gid"		"8730431EE7448D4A84FC4BB0F613CA48"
+					"size"		"AD7E8F60810C08F3F7E168796AC441D2"
+					"download"		"8BDF6949C8189A019D1F565BA46D2B03"
+				}
+				"staging"
+				{
+					"gid"		"4223B746BAE08BC2A794B498BE3281C9"
+					"size"		"47E424BEEBA82CF314D5F81DED1D2B65"
+					"download"		"67598A938CAD63621AF20D1FA91DF345"
+				}
+				"testing"
+				{
+					"gid"		"3821271E3FBA5E0631B864E4B2E19A2D"
+					"size"		"10BA171EAD763D718E25D30A2302FEA1"
+					"download"		"7EB338A79C6F922FED05D457590C9EDA"
+				}
+			}
+		}
+		"2239081"
+		{
+			"dlcappid"		"2239080"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1648610869915857947"
+					"size"		"842610"
+					"download"		"837040"
+				}
+				"experimental-public"
+				{
+					"gid"		"1648610869915857947"
+					"size"		"842610"
+					"download"		"837040"
+				}
+				"rollback"
+				{
+					"gid"		"1648610869915857947"
+					"size"		"842610"
+					"download"		"837040"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"staging"
+				{
+					"gid"		"3E07BD696308C97042B59475727E195A"
+					"size"		"114C3B32CE3A7F639E69CC6AAEE702B5"
+					"download"		"F7A41C2EAEA195E7DD49C8EF1CB6DA6F"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12651909"
+				"timeupdated"		"1699463169"
+			}
+			"ddays"
+			{
+				"buildid"		"10623217"
+				"pwdrequired"		"1"
+				"timeupdated"		"1677506425"
+			}
+			"experimental-public"
+			{
+				"buildid"		"11434448"
+				"description"		"unstable builds"
+				"timeupdated"		"1686327814"
+			}
+			"fallback"
+			{
+				"buildid"		"10702021"
+				"pwdrequired"		"1"
+				"timeupdated"		"1678116902"
+			}
+			"gamescom-for-pr-agency"
+			{
+				"buildid"		"9341312"
+				"pwdrequired"		"1"
+				"timeupdated"		"1661179640"
+			}
+			"hands-on"
+			{
+				"buildid"		"9341312"
+				"pwdrequired"		"1"
+				"timeupdated"		"1661175819"
+			}
+			"loca"
+			{
+				"buildid"		"12130283"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694076283"
+			}
+			"milestone"
+			{
+				"buildid"		"12638742"
+				"pwdrequired"		"1"
+				"timeupdated"		"1699353020"
+			}
+			"mock-review"
+			{
+				"buildid"		"9821495"
+				"pwdrequired"		"1"
+				"timeupdated"		"1667824412"
+			}
+			"pull"
+			{
+				"buildid"		"10153463"
+				"pwdrequired"		"1"
+				"timeupdated"		"1671187668"
+			}
+			"review"
+			{
+				"buildid"		"10729703"
+				"pwdrequired"		"1"
+				"timeupdated"		"1678552321"
+			}
+			"rollback"
+			{
+				"buildid"		"11162334"
+				"description"		"latest stable build"
+				"timeupdated"		"1686328317"
+			}
+			"snowhound-internal"
+			{
+				"buildid"		"12130317"
+				"pwdrequired"		"1"
+				"timeupdated"		"1694075964"
+			}
+			"staging"
+			{
+				"buildid"		"12651909"
+				"pwdrequired"		"1"
+				"timeupdated"		"1699458586"
+			}
+			"testing"
+			{
+				"buildid"		"12751587"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700496504"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"50000000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Snowhound/PotionTycoon"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
