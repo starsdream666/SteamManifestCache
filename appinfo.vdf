@@ -252,6 +252,20 @@
 				}
 				"description"		"Previous Version (Under 2.X.X)"
 			}
+			"3"
+			{
+				"executable"		"\\LF\\Binaries\\Win64\\LF-Win64-Shipping.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Play Night of the Dead (No Anti-Cheat, Only play single-player)"
+				}
+				"description"		"Play Night of the Dead (No Anti-Cheat, Only play single-player)"
+			}
 		}
 		"steamcontrollertemplateindex"		"6"
 	}
@@ -287,9 +301,9 @@
 			{
 				"public"
 				{
-					"gid"		"2815751377896017482"
-					"size"		"52373702579"
-					"download"		"13256334848"
+					"gid"		"1146128799919708183"
+					"size"		"31669137997"
+					"download"		"11469878688"
 				}
 				"1.2.4"
 				{
@@ -315,26 +329,38 @@
 					"size"		"51299986592"
 					"download"		"12780796384"
 				}
+				"2.4.1"
+				{
+					"gid"		"2815751377896017482"
+					"size"		"52373702579"
+					"download"		"13256334848"
+				}
 			}
 			"encryptedmanifests"
 			{
 				"alpha_development"
 				{
-					"gid"		"AFB3C8CC5A68C811045194921B4B9685"
-					"size"		"CE00FF7EB9FDB08DFABDF527A16FCD5D"
-					"download"		"25788BE4118E12B69E3475C6904E6490"
+					"gid"		"CBD55C952B3D11A271374CCBD3BE4C1B"
+					"size"		"7A63F29C0E4B423E609358C220CA41C2"
+					"download"		"DC50FD5FD3DDB89EFAA46E2AE0C635F4"
 				}
 				"alpha_shipping"
 				{
-					"gid"		"D43301E25A80692E837A221B60E7D338"
-					"size"		"3A141E2A95FB90EFD67D5B81C658A42F"
-					"download"		"1921377896F54B2D74B4F1FC53F93E82"
+					"gid"		"417478D3C097BF3C015E00F7E11CB396"
+					"size"		"20DD0E33B9D3A9E122F16CF9AE43B41B"
+					"download"		"ABA7C9696C68ADC7475E1433BC78B76E"
+				}
+				"pre-alpha"
+				{
+					"gid"		"108FA5C894FFAC3576CA2F151FD7740C"
+					"size"		"FFA93AAB97D085F747872D8D2FDBD1A0"
+					"download"		"FA98567E64057F0905AA33049F046174"
 				}
 				"pre-alpha_development"
 				{
-					"gid"		"9D1AA9215173C8E3C3EDD284A39BFD8E"
-					"size"		"3C4DDB6CB42E9AFEF93A2737D4D5CC55"
-					"download"		"F381E9281C4CCF7A425E9AD085CBBEB0"
+					"gid"		"10D9F34A5813B5BB120A7A4293E1A1E3"
+					"size"		"413B00122D5D148051B9725DE4822B8B"
+					"download"		"27D575741978EAEBEB4FAEE9AD5894C7"
 				}
 				"pre-alpha_intel_development"
 				{
@@ -350,9 +376,9 @@
 				}
 				"pre-alpha_shipping"
 				{
-					"gid"		"702BD18FC66267CA9CD57F4363C716BE"
-					"size"		"B893B6867852A46FC2A4D48D1BBD34A9"
-					"download"		"1894C8E22AFCC331365183417EF3F1DC"
+					"gid"		"E989C570669D660173C94583C9B49B38"
+					"size"		"0E341450940B1CDAF881A9C72AAE17B0"
+					"download"		"62593FECA31E894637E12E5296C3A07F"
 				}
 				"pre-alpha_test_development"
 				{
@@ -362,9 +388,9 @@
 				}
 				"pre-alpha_test_shipping"
 				{
-					"gid"		"6132B79A03F582F4CA2A8EE26348FC64"
-					"size"		"2CE73241BF4CCFFF143FAF9D2FA416E8"
-					"download"		"C926EF26020637F89DF77AB5EAF8BACD"
+					"gid"		"A0D2DCA4B6E7239C425CA35CBD482B75"
+					"size"		"71F84A967D0CB39E329152F793AEA516"
+					"download"		"914268FAE9CCA331925B5F457973BC50"
 				}
 			}
 		}
@@ -373,8 +399,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12610231"
-				"timeupdated"		"1699012023"
+				"buildid"		"12815106"
+				"timeupdated"		"1701164120"
 			}
 			"1.2.4"
 			{
@@ -400,23 +426,35 @@
 				"description"		"Stable version of 2.1.x"
 				"timeupdated"		"1695376641"
 			}
+			"2.4.1"
+			{
+				"buildid"		"12610231"
+				"description"		"Stable version of 2.4.x"
+				"timeupdated"		"1701164521"
+			}
 			"alpha_development"
 			{
-				"buildid"		"12579665"
+				"buildid"		"12816033"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698738167"
+				"timeupdated"		"1701167472"
 			}
 			"alpha_shipping"
 			{
-				"buildid"		"12610231"
+				"buildid"		"12815106"
 				"pwdrequired"		"1"
-				"timeupdated"		"1699002308"
+				"timeupdated"		"1701161354"
+			}
+			"pre-alpha"
+			{
+				"buildid"		"12797767"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700927110"
 			}
 			"pre-alpha_development"
 			{
-				"buildid"		"12505468"
+				"buildid"		"12803967"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697998686"
+				"timeupdated"		"1701055035"
 			}
 			"pre-alpha_intel_development"
 			{
@@ -432,9 +470,9 @@
 			}
 			"pre-alpha_shipping"
 			{
-				"buildid"		"12418925"
+				"buildid"		"12787467"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697070885"
+				"timeupdated"		"1700804678"
 			}
 			"pre-alpha_test_development"
 			{
@@ -444,9 +482,9 @@
 			}
 			"pre-alpha_test_shipping"
 			{
-				"buildid"		"8976217"
+				"buildid"		"12809257"
 				"pwdrequired"		"1"
-				"timeupdated"		"1655791257"
+				"timeupdated"		"1701105125"
 			}
 		}
 	}
