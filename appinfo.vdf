@@ -33,30 +33,30 @@
 		}
 		"steam_deck_compatibility"
 		{
-			"category"		"3"
-			"test_timestamp"		"1679097600"
-			"tested_build_id"		"9943034"
+			"category"		"2"
+			"test_timestamp"		"1700179200"
+			"tested_build_id"		"12023373"
 			"tests"
 			{
 				"0"
 				{
-					"display"		"4"
-					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
 				}
 				"1"
 				{
-					"display"		"4"
-					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
 				}
 				"2"
 				{
 					"display"		"4"
-					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 				}
 				"3"
 				{
 					"display"		"4"
-					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
 				}
 				"4"
 				{
@@ -75,11 +75,11 @@
 				"requires_manual_keyboard_invoke"		"0"
 				"requires_non_controller_launcher_nav"		"0"
 				"primary_player_is_controller_slot_0"		"1"
-				"non_deck_display_glyphs"		"0"
+				"non_deck_display_glyphs"		"1"
 				"small_text"		"0"
 				"requires_internet_for_setup"		"0"
 				"requires_internet_for_singleplayer"		"0"
-				"recommended_runtime"		"proton-stable"
+				"recommended_runtime"		"proton-7.0-6"
 				"requires_h264"		"0"
 				"gamescope_frame_limiter_not_supported"		"0"
 			}
@@ -494,15 +494,15 @@
 			{
 				"nightly"
 				{
-					"gid"		"2CEC3975B21199EE2E27019550C4BD7C"
-					"size"		"69A976031A832DFE7CCE9C498636EFD2"
-					"download"		"F210743689D9B834071DD6E95DE6A9D8"
+					"gid"		"7D9A576772E42F9A0BCCD24A778B2976"
+					"size"		"ADD4C049D0CF072A2942985AB8996249"
+					"download"		"E82398430FB873AE353BAB53B719FDC5"
 				}
 				"nightly_cheat"
 				{
-					"gid"		"B23A8E4F47C3239207C719C08E84753B"
-					"size"		"79E7BCB8E8617C0B8EA08840B0356F98"
-					"download"		"ED89F5BF653269AABA95A447CF4F13D8"
+					"gid"		"2E7EAA5FA3FE3FEB37973420D2277AF5"
+					"size"		"DEE0356761946512B970A7017E937DF7"
+					"download"		"18580EB41037971BBDB0DBDD779E5588"
 				}
 				"private_beta3"
 				{
@@ -603,15 +603,15 @@
 			{
 				"nightly"
 				{
-					"gid"		"8098F8AD3B4AEF7BA483AE5AC04321AB"
-					"size"		"E5C0A233B978B390608457029ECB1012"
-					"download"		"C7B2930A5F8A51C5A70B9E89463E4988"
+					"gid"		"FE4E659FA73E9BB84A2819A00459EA7B"
+					"size"		"B1F73672DCA630BF9BA4873A1D3D9F49"
+					"download"		"C9179850356DD121990D1A53CAFB62CC"
 				}
 				"nightly_cheat"
 				{
-					"gid"		"6522E2B2C4A20EE19BD59152A5D26CE3"
-					"size"		"1ECE16A273626BB38E36A65455786E66"
-					"download"		"00E68AD6D55BD87B25493FE57AA4B08A"
+					"gid"		"BE1824A1D10304D59E006A5CF6204235"
+					"size"		"D992E3E15734FC0AE0937363A5E9D797"
+					"download"		"8085738D25D7F9AEFA8AF1F2CFED70D0"
 				}
 				"private_beta3"
 				{
@@ -712,15 +712,15 @@
 			{
 				"nightly"
 				{
-					"gid"		"D8477602994606A8F48DF57C5822656F"
-					"size"		"6DA1C8936535F876F2AFA66F854C4ABE"
-					"download"		"5A5BCED68F98DD47C9797462D88348B8"
+					"gid"		"91777948E1C7D31D8D39B8DEB72B1D56"
+					"size"		"65A82D3C19FBE00ED0956F22F3FC3157"
+					"download"		"251F2E63365B62F95B023CF09932C954"
 				}
 				"nightly_cheat"
 				{
-					"gid"		"E135F4322A62616F1BD035945605CBFB"
-					"size"		"B156F345427D1099B8175673A8E1AB44"
-					"download"		"2A1E0E5FF3F5C9F72373910ED4D6AD4E"
+					"gid"		"52C402D120F7CC439226F0363693662C"
+					"size"		"1471C05C647B91FEB82F4186CDCC32D9"
+					"download"		"B2E67041F81B7B9761720FEF78835BF7"
 				}
 				"private_beta3"
 				{
@@ -823,9 +823,9 @@
 				}
 				"nightly_cheat"
 				{
-					"gid"		"8ADD5D5BD0F6E5270A7FEC399A24F2FB"
-					"size"		"644D6E933F661C68350DA9C601C49B99"
-					"download"		"60E9A7CA7C72705FCBFD77ECD9FCAD66"
+					"gid"		"4186DB8B7A319DE5269CBD27971EBAE3"
+					"size"		"A0A933F7F620C2D122F75D3955D94873"
+					"download"		"8B8F4ED70D27578CE505C22E1924E72F"
 				}
 				"private_beta3"
 				{
@@ -2468,15 +2468,15 @@
 			{
 				"nightly"
 				{
-					"gid"		"E477FA9A590EDABD2C2CA5FE4F55FF63"
-					"size"		"43D135A8A025E606E61D6BD6BE4045EA"
-					"download"		"CF8167A58D3BC359A33AD68CC880E247"
+					"gid"		"9E7503565E98090373113938A3016C3F"
+					"size"		"7F5F52F7A82A53D42EBCEBFA39998FEE"
+					"download"		"BA8772D9B6D04DF78BC2F1E2C256FAD4"
 				}
 				"nightly_cheat"
 				{
-					"gid"		"9240E84C91543D580C0CA6036A923316"
-					"size"		"F4E8A294EE04FF6EA06D95C12D321457"
-					"download"		"6576963588C0760612A6C37321EDC584"
+					"gid"		"86041C5C93276666ED6765EC37423BE9"
+					"size"		"3A4F83B5A4A505D63216C874CEAE6528"
+					"download"		"1E24DF404245FD15391D1D58952B40B9"
 				}
 				"private_beta3"
 				{
@@ -2556,15 +2556,15 @@
 			{
 				"nightly"
 				{
-					"gid"		"BBA6EB5B644B9A45AFCC639ECF2B2CCE"
-					"size"		"5529BE7CF8F8F1274057FCA5FD197495"
-					"download"		"3047B2B26515C2BE172FE468C96847A0"
+					"gid"		"930A351C99425F3B8FF17BB7210B2DD0"
+					"size"		"02EEA8FC2A08F20D5953C53CDF925E19"
+					"download"		"80DC52B8B9A07050046CC43CBB55A926"
 				}
 				"nightly_cheat"
 				{
-					"gid"		"A8DDCE5F2F490A1469391C132A873816"
-					"size"		"C2709DFC7D26BC1735EDCFE72B89A415"
-					"download"		"79A34AF8338F5D9372F282C7DEBDE1B8"
+					"gid"		"B8634FF86B0A8A05D706065E05B7655B"
+					"size"		"672A2323767EBD9665C5F117EA2F34C8"
+					"download"		"F6091939C197FA22EE3B988EC979BEF7"
 				}
 				"private_beta3"
 				{
@@ -2632,15 +2632,15 @@
 			{
 				"nightly"
 				{
-					"gid"		"EE0F8B2765A398AFBAC3D67F0FECBB37"
-					"size"		"121725F6E4E5B2B7D9F0732415FD4220"
-					"download"		"FF54FAE2DEAD54CF3A61BEB8E5F5BA95"
+					"gid"		"97BCFDA60BE96293B4044E70A2EC7BAD"
+					"size"		"3FA1A190E60DCA345B73DD5A26D7327A"
+					"download"		"ACC003923EE320EFFA27FE2890F19515"
 				}
 				"nightly_cheat"
 				{
-					"gid"		"9DCE7401BFA7618FB5698927C76024D8"
-					"size"		"CF9FD1DB96AFBE6EE05765344D23C14B"
-					"download"		"61DB00A3D71FB4124C325D7DE28CAC1D"
+					"gid"		"D9D91D8C87A012E08872EFD0FC00CD24"
+					"size"		"8D474A917D8415AE7710C43C0C35DA9F"
+					"download"		"A7D3EC9EE079FF81E3DC442599944B28"
 				}
 				"private_beta3"
 				{
@@ -2696,15 +2696,15 @@
 			{
 				"nightly"
 				{
-					"gid"		"515B86DDE037DD11C1B10157069ABE08"
-					"size"		"A774B5A119117F8599F2383B68F0DC77"
-					"download"		"A4EACA2569E499B8F217285FFCBB96C5"
+					"gid"		"4B469128ED361FE097340DD47B28FED3"
+					"size"		"6A52C7D686D9862CB1A7258C6486B869"
+					"download"		"ABF26E1CB47407932C5F1DE3D817A4F3"
 				}
 				"nightly_cheat"
 				{
-					"gid"		"CF461384A7AD2FA65BD7D246367533D2"
-					"size"		"37857415A72ADC5C4CE49723300691AA"
-					"download"		"EE5795A65B154A3D0312AA20334DD22B"
+					"gid"		"7ADE274646255ABF3256D71D3141148B"
+					"size"		"54B959403163E23E5D1326BD4CA2A21B"
+					"download"		"5AB1354E9954EE3E4626C344269EDA80"
 				}
 				"private_beta3"
 				{
@@ -2717,6 +2717,40 @@
 					"gid"		"7431FA3271F2AC64C7521D1E783725E2"
 					"size"		"8A5B84886D21C2BE64C4B168B6F1431D"
 					"download"		"123561BA32D3AC9E786C76912EE04824"
+				}
+			}
+		}
+		"2700340"
+		{
+			"dlcappid"		"2700340"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3913965664811672836"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"nightly"
+				{
+					"gid"		"DA83D207F25AC4E40810DF0001FFF131"
+					"size"		"4FB2586CE0444D8ADBC1233391D4096B"
+					"download"		"C7859AA410D69FA53460E473D4C7C167"
+				}
+				"nightly_cheat"
+				{
+					"gid"		"D6A189BCEA7D887EA3B9105D49746FE6"
+					"size"		"C0EA620E7FC4AC7C181E8B73B8EF67C1"
+					"download"		"BFBAFBC0A9DC6605C94CD49D191612EC"
+				}
+				"public_beta"
+				{
+					"gid"		"0E63EB60D5C7E1F1AC26F41596E11481"
+					"size"		"E59EAF817E4EAE98C59106CE0D32B245"
+					"download"		"E59EAF817E4EAE98C59106CE0D32B245"
 				}
 			}
 		}
@@ -2829,8 +2863,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12023373"
-				"timeupdated"		"1692886786"
+				"buildid"		"12792759"
+				"timeupdated"		"1700845194"
 			}
 			"3.20"
 			{
@@ -2900,15 +2934,15 @@
 			}
 			"nightly"
 			{
-				"buildid"		"12012914"
+				"buildid"		"12793138"
 				"pwdrequired"		"1"
-				"timeupdated"		"1692795126"
+				"timeupdated"		"1700848407"
 			}
 			"nightly_cheat"
 			{
-				"buildid"		"12013001"
+				"buildid"		"12793183"
 				"pwdrequired"		"1"
-				"timeupdated"		"1692795690"
+				"timeupdated"		"1700848761"
 			}
 			"private_beta3"
 			{
@@ -2918,9 +2952,9 @@
 			}
 			"public_beta"
 			{
-				"buildid"		"12023373"
+				"buildid"		"12792759"
 				"pwdrequired"		"1"
-				"timeupdated"		"1692886709"
+				"timeupdated"		"1700845157"
 			}
 		}
 	}
