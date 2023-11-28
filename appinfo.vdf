@@ -72,7 +72,8 @@
 				"gamescope_frame_limiter_not_supported"		"0"
 			}
 		}
-		"controller_support"		"full"
+		"controllertagwizard"		"1"
+		"controller_support"		"partial"
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
@@ -93,7 +94,7 @@
 				"height_pct"		"100"
 			}
 		}
-		"store_asset_mtime"		"1694457701"
+		"store_asset_mtime"		"1701102070"
 		"associations"
 		{
 			"0"
@@ -120,11 +121,14 @@
 			"category_1"		"1"
 			"category_9"		"1"
 			"category_38"		"1"
-			"category_28"		"1"
 			"category_22"		"1"
 			"category_23"		"1"
 			"category_45"		"1"
 			"category_46"		"1"
+			"category_18"		"1"
+			"category_55"		"1"
+			"category_57"		"1"
+			"category_58"		"1"
 		}
 		"supported_languages"
 		{
@@ -192,7 +196,7 @@
 			"19"		"3859"
 		}
 		"review_score"		"8"
-		"review_percentage"		"92"
+		"review_percentage"		"93"
 	}
 	"extended"
 	{
@@ -245,9 +249,9 @@
 			{
 				"public"
 				{
-					"gid"		"1022308775907553035"
-					"size"		"849507821"
-					"download"		"608820752"
+					"gid"		"8945853379624207599"
+					"size"		"887151711"
+					"download"		"635678432"
 				}
 				"beta"
 				{
@@ -255,32 +259,32 @@
 					"size"		"785777295"
 					"download"		"557650112"
 				}
-				"save-logs"
-				{
-					"gid"		"894496308484244694"
-					"size"		"849419410"
-					"download"		"608685392"
-				}
 			}
 			"encryptedmanifests"
 			{
 				"internal-testing"
 				{
-					"gid"		"ADA56E8960AAD13D4A86029BC2A157DC"
-					"size"		"AFD38AB094BC559A493AF40A6F148F45"
-					"download"		"D25ABB34F9A3E1F1C56C181F4403FF2F"
+					"gid"		"AF061783AEB977AA557115A3B2726660"
+					"size"		"3ED850BFA42BA70767BC18E106E1D9BA"
+					"download"		"345260BF51C354DC565435B5D1CA8873"
 				}
 				"lb-testing-dev"
 				{
-					"gid"		"4FE3810FAB816BFBA1DD52F813C8D96A"
-					"size"		"CB28E47F727329122C8F0D500F6C95CC"
-					"download"		"3EE19114FA2242CBB74559815B04A2E3"
+					"gid"		"40920E96BFE149BAA4981C921E00F1ED"
+					"size"		"162CAA67225E98A604F45C350F3F2822"
+					"download"		"48477169A5DB9838DA00FD0726A19C19"
 				}
 				"lb-testing-release"
 				{
-					"gid"		"A38668B2A4F9C24C32414511FDCD8D7F"
-					"size"		"8098A4CF29CDFABFD51850A06BC20ED1"
-					"download"		"D0BDBE9933B6A70702C27C09E4400587"
+					"gid"		"F64C362E7AA6B24FA34BBA33A66142AF"
+					"size"		"A4B06385D51BAF98B3A93FDA25AAC226"
+					"download"		"EB10E7093409FEAA9D2D006B42CE68E8"
+				}
+				"preview"
+				{
+					"gid"		"28CCB0A932CA985E190D0E8B14399F1F"
+					"size"		"4B677F051674EAF9FB7C39DC037BA264"
+					"download"		"78A13568CF6802B629DCE618253727F8"
 				}
 				"tt-branch"
 				{
@@ -300,9 +304,9 @@
 			{
 				"public"
 				{
-					"gid"		"9019923245840827796"
-					"size"		"880033945"
-					"download"		"617413488"
+					"gid"		"6803005696386942900"
+					"size"		"918271622"
+					"download"		"644516736"
 				}
 				"beta"
 				{
@@ -310,20 +314,14 @@
 					"size"		"808869305"
 					"download"		"563793440"
 				}
-				"save-logs"
-				{
-					"gid"		"9019923245840827796"
-					"size"		"880033945"
-					"download"		"617413488"
-				}
 			}
 			"encryptedmanifests"
 			{
 				"internal-testing"
 				{
-					"gid"		"4A5C1002488CDE094ED4DBB207B5C4DE"
-					"size"		"A811783D1BC62210D8A9529FD4731CD1"
-					"download"		"5B9B200EFF16850E641523DBA8C84B53"
+					"gid"		"115006BD4563151E0592AD51BCED25DF"
+					"size"		"0E1312B62C0C06DC63C23FF64132B21E"
+					"download"		"E25332E46B6541364CC770FB9CA104FB"
 				}
 				"lb-testing-dev"
 				{
@@ -333,9 +331,15 @@
 				}
 				"lb-testing-release"
 				{
-					"gid"		"30B2CFF3D2567929C1D1BB23D364771C"
-					"size"		"57815F98625C5EA42B65B28181B83A1F"
-					"download"		"A190F0B3D554A92FB54F323DED3B0030"
+					"gid"		"357D3E59E4FEB06F2089AEF239D512D0"
+					"size"		"C40A0A9D927FAB5693E47AE73DB4389E"
+					"download"		"B6A1B5C59A5AC988C802D3A8757B25AE"
+				}
+				"preview"
+				{
+					"gid"		"9727D2A535170C26E0163A241084E16E"
+					"size"		"50F308360A58EF139B54E2AA5A373DEB"
+					"download"		"5E1FEE68420420BF39EDAF9FB79BCD65"
 				}
 				"tt-branch"
 				{
@@ -355,9 +359,9 @@
 			{
 				"public"
 				{
-					"gid"		"6033489523757037148"
-					"size"		"1050577104"
-					"download"		"740024224"
+					"gid"		"2205810049362381225"
+					"size"		"891793386"
+					"download"		"636387408"
 				}
 				"beta"
 				{
@@ -365,15 +369,15 @@
 					"size"		"782846013"
 					"download"		"555727536"
 				}
-				"save-logs"
-				{
-					"gid"		"6033489523757037148"
-					"size"		"1050577104"
-					"download"		"740024224"
-				}
 			}
 			"encryptedmanifests"
 			{
+				"internal-testing"
+				{
+					"gid"		"4683D66D1516C0EFFD9AFAE1EBC73A05"
+					"size"		"B8C01B64D57A0E96E6AC414A744DE8E4"
+					"download"		"65F865613E55F127617DE3296560D9AF"
+				}
 				"lb-testing-dev"
 				{
 					"gid"		"EAF78B8EFD5A5CD2944A125172BA2984"
@@ -382,9 +386,15 @@
 				}
 				"lb-testing-release"
 				{
-					"gid"		"CDECD5F7CA14F44CB2EBA44E94E50465"
-					"size"		"273BE35DB55C105F224DA672DA82F175"
-					"download"		"B112D9B28A78C1DF3E5C9ED401FAD12D"
+					"gid"		"AF3D879D2C6860D035BE7C5745802C83"
+					"size"		"254A22E738B24F526CAC59385823D716"
+					"download"		"62DDA3C6DF9D52E2B4728DF4E8A14EC7"
+				}
+				"preview"
+				{
+					"gid"		"4B3F597E4173ED144344CF8FC45916DC"
+					"size"		"1B69B85E8D18C659A4CA8E8453D1D10D"
+					"download"		"7D21A1FF5572BF2AB480630729C48BCA"
 				}
 			}
 		}
@@ -392,8 +402,8 @@
 		{
 			"public"
 			{
-				"buildid"		"11603647"
-				"timeupdated"		"1688217666"
+				"buildid"		"12726064"
+				"timeupdated"		"1701186799"
 			}
 			"beta"
 			{
@@ -403,27 +413,27 @@
 			}
 			"internal-testing"
 			{
-				"buildid"		"11215494"
+				"buildid"		"12558528"
 				"pwdrequired"		"1"
-				"timeupdated"		"1683872808"
+				"timeupdated"		"1698450093"
 			}
 			"lb-testing-dev"
 			{
-				"buildid"		"11662498"
+				"buildid"		"12370138"
 				"pwdrequired"		"1"
-				"timeupdated"		"1688961402"
+				"timeupdated"		"1696557346"
 			}
 			"lb-testing-release"
 			{
-				"buildid"		"12145178"
+				"buildid"		"12726064"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694200589"
+				"timeupdated"		"1700181797"
 			}
-			"save-logs"
+			"preview"
 			{
-				"buildid"		"11667403"
-				"description"		"Save with logs"
-				"timeupdated"		"1689008583"
+				"buildid"		"12726064"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700250550"
 			}
 			"tt-branch"
 			{
