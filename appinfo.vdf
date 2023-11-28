@@ -9,6 +9,7 @@
 		{
 			"english"		"The Book Of Hiro"
 			"schinese"		"希罗之书"
+			"sc_schinese"		"希罗之书"
 		}
 		"oslist"		"windows"
 		"osarch"		""
@@ -17,20 +18,28 @@
 		"clienttga"		"160d5482e67715e213fc7e770d7fbc1082770a73"
 		"icon"		"ce5de042aa5093855988b8adfb1bf847f81280a0"
 		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+		}
+		"releasestatesteamchina"		"prerelease"
 		"small_capsule"
 		{
 			"schinese"		"capsule_231x87_schinese.jpg"
 			"english"		"capsule_231x87.jpg"
+			"sc_schinese"		"capsule_231x87_sc_schinese.jpg"
 		}
 		"header_image"
 		{
 			"schinese"		"header_schinese.jpg"
 			"english"		"header.jpg"
+			"sc_schinese"		"header_sc_schinese.jpg"
 		}
 		"library_assets"
 		{
-			"library_capsule"		"zh-cn,en"
-			"library_hero"		"en"
+			"library_capsule"		"zh-cn,en,zh-xc"
+			"library_hero"		"en,zh-xc"
 			"library_logo"		"zh-cn,en"
 			"logo_position"
 			{
@@ -39,7 +48,7 @@
 				"height_pct"		"51.1398717644265"
 			}
 		}
-		"store_asset_mtime"		"1694139130"
+		"store_asset_mtime"		"1698809000"
 		"associations"
 		{
 			"0"
@@ -104,6 +113,7 @@
 			}
 		}
 		"steam_release_date"		"1694163069"
+		"community_visible_stats"		"1"
 		"community_hub_visible"		"1"
 		"gameid"		"2533870"
 		"store_tags"
@@ -130,7 +140,7 @@
 			"19"		"9"
 		}
 		"review_score"		"5"
-		"review_percentage"		"53"
+		"review_percentage"		"57"
 	}
 	"extended"
 	{
@@ -147,18 +157,31 @@
 				"executable"		"Hiro.exe"
 			}
 		}
+		"steam_china_only"
+		{
+			"steam_china_enable_duration_control"		"1"
+		}
 	}
 	"depots"
 	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
 		"2533871"
 		{
 			"manifests"
 			{
 				"public"
 				{
-					"gid"		"3174945185732078266"
-					"size"		"2345439912"
-					"download"		"350709776"
+					"gid"		"4943533452629389898"
+					"size"		"2345396827"
+					"download"		"350712928"
 				}
 			}
 			"encryptedmanifests"
@@ -174,10 +197,14 @@
 		"baselanguages"		"english,german,french,schinese,tchinese,russian,japanese"
 		"branches"
 		{
+			"steam_china_only"
+			{
+				"sc_schinese"		"仅中国"
+			}
 			"public"
 			{
-				"buildid"		"12174368"
-				"timeupdated"		"1694573028"
+				"buildid"		"12254019"
+				"timeupdated"		"1695366594"
 			}
 			"playtest"
 			{
