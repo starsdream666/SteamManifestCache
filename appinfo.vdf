@@ -11,9 +11,9 @@
 		"icon"		"89c1bd73dd55934bde32d772ccb5dd81a46c2e6c"
 		"clienticon"		"2d323b7618121dec31c9ec5f36ef22f5f095c115"
 		"clienttga"		"5e2f5505af412e0da321d63b2586a9bcf62bdcfe"
-		"oslist"		"windows"
+		"oslist"		"windows,macos"
 		"osarch"		""
-		"osextended"		""
+		"osextended"		"macos64,macosapplesilicon"
 		"languages"
 		{
 			"english"		"1"
@@ -39,6 +39,54 @@
 			"tchinese"		"內飯盒 - inbento"
 			"japanese"		"インベントウ - inbento"
 		}
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1698883200"
+			"tested_build_id"		"12522102"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
 		"controller_support"		"full"
 		"small_capsule"
 		{
@@ -60,7 +108,7 @@
 				"height_pct"		"100"
 			}
 		}
-		"store_asset_mtime"		"1683120820"
+		"store_asset_mtime"		"1700646555"
 		"associations"
 		{
 			"0"
@@ -172,9 +220,9 @@
 			"2"		"4136"
 			"3"		"30358"
 			"4"		"3871"
-			"5"		"599"
-			"6"		"1654"
-			"7"		"1664"
+			"5"		"1664"
+			"6"		"599"
+			"7"		"1654"
 			"8"		"4791"
 			"9"		"7250"
 			"10"		"4252"
@@ -188,8 +236,8 @@
 			"18"		"10397"
 			"19"		"6815"
 		}
-		"review_score"		"8"
-		"review_percentage"		"96"
+		"review_score"		"9"
+		"review_percentage"		"97"
 	}
 	"extended"
 	{
@@ -211,44 +259,99 @@
 					"oslist"		"windows"
 				}
 			}
+			"1"
+			{
+				"executable"		"inbento.app"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
 		}
 	}
 	"depots"
 	{
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,dutch,norwegian,swedish,czech,brazilian"
 		"1567441"
 		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
 			"manifests"
 			{
 				"public"
 				{
-					"gid"		"7752072991769728574"
-					"size"		"122113674"
-					"download"		"53047344"
+					"gid"		"3564582042477636209"
+					"size"		"129553962"
+					"download"		"56219488"
 				}
 			}
 			"encryptedmanifests"
 			{
+				"steamdeckreview"
+				{
+					"gid"		"C86ACBEE98CF7CD12DA487B879A53BC1"
+					"size"		"DF0C1C5C30D4E4583052554CDA0D47D5"
+					"download"		"D190E648AD43D3A8335E0D724CE40715"
+				}
 				"testbranch"
 				{
-					"gid"		"2E77A14791EF25F0AB78381225687051"
-					"size"		"411B596CCF4138332C2884FDF9DACAF4"
-					"download"		"3109C814C35494ECE011C38688A1209B"
+					"gid"		"D88E21EAE49D3AF5C759384A661F9830"
+					"size"		"5C9F19736FFAE0710680FFDEAF76922D"
+					"download"		"EC9CB40193AD614580AF41488F1391FF"
 				}
 			}
 		}
-		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,dutch,norwegian,swedish,czech,brazilian"
+		"1567442"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3464384581399023221"
+					"size"		"197371571"
+					"download"		"70657360"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"steamdeckreview"
+				{
+					"gid"		"157631A9C4BA404C6C5070339E77C6B7"
+					"size"		"5423CC3A15F76C0E20D3FE030A10EAAA"
+					"download"		"A58693FA57F2867C5D263C34F2A08537"
+				}
+				"testbranch"
+				{
+					"gid"		"134B401FEDAC58ED3C4466B8808D7311"
+					"size"		"A4BF7A1AFF6EFC611506FA52151A1B58"
+					"download"		"F49C833BAC4E29BFC5259E36D597D520"
+				}
+			}
+		}
 		"branches"
 		{
 			"public"
 			{
-				"buildid"		"7148817"
-				"timeupdated"		"1628243598"
+				"buildid"		"12639251"
+				"timeupdated"		"1701198759"
+			}
+			"steamdeckreview"
+			{
+				"buildid"		"12639251"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701198839"
 			}
 			"testbranch"
 			{
-				"buildid"		"11104778"
+				"buildid"		"12639251"
 				"pwdrequired"		"1"
-				"timeupdated"		"1682597639"
+				"timeupdated"		"1699356748"
 			}
 		}
 	}
@@ -262,11 +365,32 @@
 			{
 				"root"		"WinAppDataLocalLow"
 				"path"		"Afterburn/Inbento"
-				"pattern"		"*.es3"
-				"platforms"
-				{
-					"1"		"Windows"
-				}
+				"pattern"		"SaveData.ES3"
+			}
+			"1"
+			{
+				"root"		"MacAppSupport"
+				"path"		"Afterburn/Inbento"
+				"pattern"		"SaveData.ES3"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"addpath"		""
+			}
+			"1"
+			{
+				"root"		"MacAppSupport"
+				"os"		"Windows"
+				"oscompare"		"="
+				"useinstead"		"WinAppDataLocalLow"
+				"addpath"		""
 			}
 		}
 	}
