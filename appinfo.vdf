@@ -1,0 +1,574 @@
+"appinfo"
+{
+	"appid"		"1324780"
+	"common"
+	{
+		"name"		"Easy Red 2"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64,macosapplesilicon"
+		"clienticns"		"f52008614a8fa31f7c757f714da6f366b9d561b1"
+		"linuxclienticon"		"620c12f55dbc9974d4c31af98052a805ff8b80ec"
+		"clienticon"		"b91a8dc459de2ec8ceaa30048e447f7adf278e62"
+		"clienttga"		"c9d8cd25dc90fb8dec3ebdbcc7173d0f2ad4fb8d"
+		"icon"		"eb71bb9a2eb2dceb9989c35e60082df3dfe45fdd"
+		"logo"		"c6d077f324c13450eedde3db217995c137f3eb29"
+		"logo_small"		"c6d077f324c13450eedde3db217995c137f3eb29_thumb"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1663200000"
+			"tested_build_id"		"8994071"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"30.237002774525642"
+				"height_pct"		"46.160013747971426"
+			}
+		}
+		"store_asset_mtime"		"1689147678"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Marco Amadei"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Corvostudio di Amadei Marco"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Easy Red"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"28"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_33"		"1"
+			"category_22"		"1"
+			"category_51"		"1"
+			"category_30"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_27"		"1"
+			"category_17"		"1"
+			"category_29"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+			}
+			"arabic"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1604995200"
+		"steam_release_date"		"1641503357"
+		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1324780"
+		"store_tags"
+		{
+			"0"		"4150"
+			"1"		"19"
+			"2"		"492"
+			"3"		"599"
+			"4"		"4182"
+			"5"		"9"
+			"6"		"1663"
+			"7"		"4345"
+			"8"		"3859"
+			"9"		"4667"
+			"10"		"1678"
+			"11"		"3810"
+			"12"		"1774"
+			"13"		"4175"
+			"14"		"4166"
+			"15"		"4684"
+			"16"		"3987"
+			"17"		"9204"
+			"18"		"5711"
+			"19"		"4364"
+		}
+		"review_score"		"8"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"absolutemousecoordinates"		"0"
+		"developer"		"Marco Amadei"
+		"publisher"		"Corvostudio di Amadei Marco"
+		"homepage"		"https://www.corvostudio.it/easyred2.html"
+		"listofdlc"		"1888350,2317930,2617770"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Easy Red 2"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Easy Red 2.exe"
+				"arguments"		"-force-d3d11"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Easy Red 2 - DirectX 11 (Recommended)"
+				}
+				"description"		"Easy Red 2 - DirectX 11 (Recommended)"
+			}
+			"2"
+			{
+				"executable"		"Easy Red 2.exe"
+				"arguments"		"-force-vulkan"
+				"type"		"option2"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Easy Red 2 - Vulkan API (Avoids crash with RTX cards)"
+				}
+				"description"		"Easy Red 2 - Vulkan API (Avoids crash with RTX cards)"
+			}
+			"3"
+			{
+				"executable"		"Easy Red 2.x86_64"
+				"arguments"		"-force-vulkan"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+				"description_loc"
+				{
+					"english"		"Vulkan API"
+				}
+				"description"		"Vulkan API"
+			}
+			"4"
+			{
+				"executable"		"EasyRed2_OSX.app\\"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+				"description_loc"
+				{
+					"english"		"Easy Red 2 - Apple Silicon (Suggested)"
+				}
+				"description"		"Easy Red 2 - Apple Silicon (Suggested)"
+			}
+			"5"
+			{
+				"executable"		"EasyRed2_OSX.app\\Contents\\MacOS\\Easy Red 2"
+				"type"		"option2"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+				"description_loc"
+				{
+					"english"		"Easy Red 2 - Intel64"
+				}
+				"description"		"Easy Red 2 - Intel64"
+			}
+			"6"
+			{
+				"executable"		"Easy Red 2.x86_64"
+				"arguments"		"-force-glcore"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+				"description_loc"
+				{
+					"english"		"OpenGL API"
+				}
+				"description"		"OpenGL API"
+			}
+		}
+		"steamconfigurator3rdpartynative"		"65535"
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigdetails"
+		{
+			"2275581363"
+			{
+				"controller_type"		"controller_xboxone"
+				"enabled_branches"		"default,privatetesting"
+				"use_action_block"		"false"
+			}
+			"2275622639"
+			{
+				"controller_type"		"controller_ps4"
+				"enabled_branches"		"default,privatetesting"
+				"use_action_block"		"false"
+			}
+			"2275707909"
+			{
+				"controller_type"		"controller_xbox360"
+				"enabled_branches"		"default,privatetesting"
+				"use_action_block"		"false"
+			}
+		}
+	}
+	"depots"
+	{
+		"1324781"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2242228545192850316"
+					"size"		"12411112143"
+					"download"		"5340658368"
+				}
+				"nintendo_switch_crossplay"
+				{
+					"gid"		"7471745619130237293"
+					"size"		"11946684403"
+					"download"		"5062294688"
+				}
+				"publicbeta"
+				{
+					"gid"		"1370755733803708186"
+					"size"		"12685499389"
+					"download"		"5397026304"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"next_nintendo_switch_crossplay"
+				{
+					"gid"		"B65257675F48B11B06D299043B9B7B0A"
+					"size"		"68CEC1A2691D0AB38DADD790E8A7F13C"
+					"download"		"9B71527C9574C4D3E136F8E925652329"
+				}
+				"testenvironment"
+				{
+					"gid"		"179B0770745EBDDDB90785A72D05F2D9"
+					"size"		"4E90343652DEB03727EF62701766A845"
+					"download"		"E761F9D565BB9E57E1BDDD6E0569CF9D"
+				}
+			}
+		}
+		"1324782"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6991470087467010902"
+					"size"		"12436016680"
+					"download"		"5359734464"
+				}
+				"nintendo_switch_crossplay"
+				{
+					"gid"		"950407635787645035"
+					"size"		"11970781049"
+					"download"		"5081330544"
+				}
+				"publicbeta"
+				{
+					"gid"		"3807201778991108513"
+					"size"		"12710602592"
+					"download"		"5415853744"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"next_nintendo_switch_crossplay"
+				{
+					"gid"		"7A0CF5D1249D44BA5A8E2173300276EF"
+					"size"		"C397189E760AA33808CF9F9260923199"
+					"download"		"9EEA68951508C8D878DE0484AC6534C2"
+				}
+				"testenvironment"
+				{
+					"gid"		"CBE97E00D5238AE6150E4865BF8FCC33"
+					"size"		"5D8C0C724A3692C11B5DF55DFCEFAF6B"
+					"download"		"BD6DF5D329E107B4965E73C4F814C160"
+				}
+			}
+		}
+		"1324783"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7917746959229848481"
+					"size"		"12382294026"
+					"download"		"5347383680"
+				}
+				"nintendo_switch_crossplay"
+				{
+					"gid"		"4637566484343035277"
+					"size"		"11919409910"
+					"download"		"5073000928"
+				}
+				"publicbeta"
+				{
+					"gid"		"9038331976854248796"
+					"size"		"12655736460"
+					"download"		"5403366416"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"next_nintendo_switch_crossplay"
+				{
+					"gid"		"4B87F77C7A7552BB144A6295B06D5392"
+					"size"		"58462D7DE7DA18A0A07F2E7662DA7950"
+					"download"		"1F2C4CC05D4D42E6F5F3D73EFD96D48A"
+				}
+				"testenvironment"
+				{
+					"gid"		"65398FF0C3E2E1EC38CA4FCC2FEF91FC"
+					"size"		"DD75C5B145D58CBDA13D9FFA3ACF69BF"
+					"download"		"89B9111AFBBA9F5B7F91C73C77CFBE1F"
+				}
+			}
+		}
+		"baselanguages"		"english,german,french,italian,spanish,schinese,tchinese,russian,japanese,portuguese,brazilian,latam"
+		"workshopdepot"		"1324780"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12816496"
+				"timeupdated"		"1701170762"
+			}
+			"next_nintendo_switch_crossplay"
+			{
+				"buildid"		"11974701"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692359823"
+			}
+			"nintendo_switch_crossplay"
+			{
+				"buildid"		"11974701"
+				"description"		"Nintendo Switch Crossplay"
+				"timeupdated"		"1700582141"
+			}
+			"publicbeta"
+			{
+				"buildid"		"12828057"
+				"description"		"Public beta for easy red 2 - expect some bugs"
+				"timeupdated"		"1701261537"
+			}
+			"testenvironment"
+			{
+				"buildid"		"12828057"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701261543"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"3000000000"
+		"maxnumfiles"		"2500"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"CorvoStudio/Easy Red 2/saves"
+				"pattern"		"*.er2"
+				"recursive"		"1"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"CorvoStudio/Easy Red 2/saves"
+						"replace"		"CorvoStudio/Easy Red 2/saves"
+					}
+				}
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxHome"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"CorvoStudio/Easy Red 2/saves"
+						"replace"		".config/unity3d/CorvoStudio/Easy Red 2/saves"
+					}
+				}
+			}
+		}
+	}
+}
