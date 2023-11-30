@@ -1,0 +1,334 @@
+"appinfo"
+{
+	"appid"		"1605220"
+	"common"
+	{
+		"name"		"Dune: Spice Wars"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"895ed1b183c8fdf8bc3979daaae5eb716e367bd8"
+		"clienttga"		"80a9ea72b5be0b35c47c6e4ee1bef7c19bf556b6"
+		"icon"		"c089b45f04289ae6e9025ec0f6f468e262cd87ca"
+		"logo"		"303b2588318730afb788d0cd5596c3c9fa1105f1"
+		"logo_small"		"303b2588318730afb788d0cd5596c3c9fa1105f1_thumb"
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1669680000"
+			"tested_build_id"		"9579274"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controllertagwizard"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"24.45085010748484"
+				"height_pct"		"71.39098327132642"
+			}
+		}
+		"store_asset_mtime"		"1694781542"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Shiro Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Funcom"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Shiro Games"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_22"		"1"
+			"category_1"		"1"
+			"category_29"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1694700086"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1605220"
+		"store_tags"
+		{
+			"0"		"12472"
+			"1"		"4182"
+			"2"		"3942"
+			"3"		"9"
+			"4"		"1670"
+			"5"		"1676"
+			"6"		"599"
+			"7"		"4364"
+			"8"		"3813"
+			"9"		"1643"
+			"10"		"1708"
+			"11"		"4695"
+			"12"		"1678"
+			"13"		"6310"
+			"14"		"3859"
+			"15"		"7332"
+			"16"		"1685"
+			"17"		"6730"
+			"18"		"1775"
+			"19"		"492"
+		}
+		"review_score"		"6"
+		"review_percentage"		"79"
+	}
+	"extended"
+	{
+		"developer"		"Shiro Games"
+		"publisher"		"Funcom"
+		"homepage"		"https://spicewars.dunegames.com/"
+	}
+	"config"
+	{
+		"installdir"		"D4X"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"D4X.exe"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Dune: Spice Wars"
+				}
+				"description"		"Dune: Spice Wars"
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1605221"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1836936429795117537"
+					"size"		"5311798597"
+					"download"		"1571540608"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"cert-other"
+				{
+					"gid"		"6AB3CA06F53E4B74B1DDFF343749B5DE"
+					"size"		"82586BF4C6970B362C8A0294A2606563"
+					"download"		"FFBF558242A1288112D4285D8BB1A857"
+				}
+				"closed-beta"
+				{
+					"gid"		"B9132DBB4FECCF767468F29BC8EC7D36"
+					"size"		"A8D8E206C2474A8D9AB9121C20A88756"
+					"download"		"72279F59A6F4BC202EC5B84F334CBF18"
+				}
+				"nostalgia"
+				{
+					"gid"		"908BC18CC134F5FF43F15FF549AEA9B3"
+					"size"		"108549315AA7267E717F54BFAF2FD2FE"
+					"download"		"2D546DAEC2E6318F7F864A428AECDA5B"
+				}
+				"press"
+				{
+					"gid"		"96A195F7E9EFFCB317C46370F5850E77"
+					"size"		"A53D611879AC709E3B762AF2D94585D8"
+					"download"		"33D6F1CC03DDCD209A1743B65EFA7060"
+				}
+				"shiro"
+				{
+					"gid"		"F33A075780DEBD27E579DCF22EA83BB8"
+					"size"		"196B35466DFAB2AF607A4CADDB34F94A"
+					"download"		"B8806611A5646CD720BA9794A9D66374"
+				}
+				"tournament"
+				{
+					"gid"		"4F84D42832BC87EF3502DE55AFB8BE37"
+					"size"		"0A7CF08461205E32DD5E4A03478B563C"
+					"download"		"75B01AE529BCB887C19504E5B36FF645"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12818497"
+				"timeupdated"		"1701255518"
+			}
+			"cert-other"
+			{
+				"buildid"		"12772701"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700668235"
+			}
+			"closed-beta"
+			{
+				"buildid"		"12780774"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700823165"
+			}
+			"nostalgia"
+			{
+				"buildid"		"6571218"
+				"pwdrequired"		"1"
+				"timeupdated"		"1636734525"
+			}
+			"press"
+			{
+				"buildid"		"12362734"
+				"pwdrequired"		"1"
+				"timeupdated"		"1696511750"
+			}
+			"shiro"
+			{
+				"buildid"		"12818497"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701184298"
+			}
+			"tournament"
+			{
+				"buildid"		"12362734"
+				"pwdrequired"		"1"
+				"timeupdated"		"1696511757"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"512000000"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"save"
+				"pattern"		"*.sav"
+				"recursive"		"1"
+			}
+		}
+	}
+}
