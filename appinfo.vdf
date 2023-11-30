@@ -1,0 +1,297 @@
+"appinfo"
+{
+	"appid"		"2230650"
+	"common"
+	{
+		"name"		"TEVI"
+		"type"		"Game"
+		"icon"		"f84bd0ba091756e6a3b8824c3166810f86dd6638"
+		"clienticon"		"0763d644fd0570cad70bdd677e36779f324f5138"
+		"clienttga"		"d29293bbe40ae2ea2eeea4ce84e729a309b64f98"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"japanese"		"1"
+		}
+		"controllertagwizard"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"59.45054945054944"
+				"height_pct"		"75.69444444444446"
+			}
+		}
+		"store_asset_mtime"		"1699528683"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"CreSpirit"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"GemaYue"
+			}
+			"2"
+			{
+				"type"		"developer"
+				"name"		"Ein Lee"
+			}
+			"3"
+			{
+				"type"		"publisher"
+				"name"		"CreSpirit"
+			}
+			"4"
+			{
+				"type"		"publisher"
+				"name"		"Neverland Entertainment"
+			}
+			"5"
+			{
+				"type"		"franchise"
+				"name"		"TEVI"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"4"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_28"		"1"
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_43"		"1"
+			"category_55"		"1"
+			"category_56"		"1"
+			"category_57"		"1"
+			"category_58"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1701309312"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2230650"
+		"store_tags"
+		{
+			"0"		"1628"
+			"1"		"4106"
+			"2"		"4085"
+			"3"		"3964"
+			"4"		"4885"
+			"5"		"1742"
+			"6"		"3798"
+			"7"		"3871"
+			"8"		"4305"
+			"9"		"7208"
+			"10"		"4182"
+			"11"		"5984"
+			"12"		"1625"
+			"13"		"19"
+			"14"		"1684"
+			"15"		"1777"
+			"16"		"4057"
+			"17"		"3993"
+			"18"		"3834"
+			"19"		"21"
+		}
+		"review_score"		"8"
+		"review_percentage"		"93"
+	}
+	"extended"
+	{
+		"developer"		"CreSpirit"
+		"publisher"		"CreSpirit"
+		"homepage"		"https://www.tevi.games"
+	}
+	"config"
+	{
+		"installdir"		"TEVI"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TEVI.exe"
+				"type"		"default"
+			}
+			"1"
+			{
+				"executable"		"TEVI.exe"
+				"arguments"		"-safemode"
+				"description_loc"
+				{
+					"english"		"Safe Mode : Reset all settings"
+					"schinese"		"安全模式 : 重置所有设定"
+					"tchinese"		"安全模式 : 重置所有設定"
+					"japanese"		"セーフモード：すべての設定をリセット"
+				}
+				"description"		"Safe Mode : Reset all settings"
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"2230651"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5704585057152086627"
+					"size"		"3263971296"
+					"download"		"901732112"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"v1.00"
+				{
+					"gid"		"1927A2214FA5E3813EAA0261E7E47D7A"
+					"size"		"EEF1599B6484B5EE485CB84B4D9201D0"
+					"download"		"A655E8DE07ABFDC944498D9383CF7713"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12836376"
+				"timeupdated"		"1701329447"
+			}
+			"v1.00"
+			{
+				"buildid"		"12836376"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701329467"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"20971520"
+		"maxnumfiles"		"250"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"CreSpirit/TEVI"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxHome"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"CreSpirit/TEVI"
+						"replace"		".config/unity3d/CreSpirit\\TEVI"
+					}
+				}
+			}
+		}
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#status_ingame"		"Chapter %chapter% : %difficulty%"
+					"#status_atmainmenu"		"Title Screen"
+				}
+			}
+			"tchinese"
+			{
+				"tokens"
+				{
+					"#status_ingame"		"章節 %chapter% : %difficulty%"
+					"#status_atmainmenu"		"標題畫面"
+				}
+			}
+			"schinese"
+			{
+				"tokens"
+				{
+					"#status_ingame"		"章节 %chapter% : %difficulty%"
+					"#status_atmainmenu"		"标题画面"
+				}
+			}
+			"japanese"
+			{
+				"tokens"
+				{
+					"#status_ingame"		"チャプター %chapter% : %difficulty%"
+					"#status_atmainmenu"		"タイトル画面"
+				}
+			}
+		}
+	}
+}
