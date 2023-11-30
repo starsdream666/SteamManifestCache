@@ -19,6 +19,14 @@
 			"schinese"		"时行者：黑暗世界"
 			"tchinese"		"時行者：黑暗世界"
 		}
+		"languages"
+		{
+			"english"		"1"
+			"koreana"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"japanese"		"1"
+		}
 		"small_capsule"
 		{
 			"tchinese"		"capsule_231x87_tchinese.jpg"
@@ -43,7 +51,7 @@
 				"height_pct"		"72.22326631728647"
 			}
 		}
-		"store_asset_mtime"		"1694573674"
+		"store_asset_mtime"		"1701078998"
 		"associations"
 		{
 			"0"
@@ -56,14 +64,18 @@
 				"type"		"publisher"
 				"name"		"Leyo Games"
 			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"2P Games"
+			}
 		}
-		"primary_genre"		"70"
+		"primary_genre"		"23"
 		"genres"
 		{
 			"0"		"23"
 			"1"		"2"
 			"2"		"37"
-			"3"		"70"
 		}
 		"category"
 		{
@@ -91,8 +103,19 @@
 				"full_audio"		"true"
 				"subtitles"		"true"
 			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
 		}
-		"steam_release_date"		"1664185800"
+		"steam_release_date"		"1701310323"
+		"community_visible_stats"		"1"
 		"community_hub_visible"		"1"
 		"gameid"		"2093910"
 		"store_tags"
@@ -106,10 +129,10 @@
 			"6"		"9"
 			"7"		"4791"
 			"8"		"6426"
-			"9"		"493"
-			"10"		"1684"
-			"11"		"492"
-			"12"		"4182"
+			"9"		"1684"
+			"10"		"492"
+			"11"		"4182"
+			"12"		"493"
 			"13"		"14139"
 			"14"		"4726"
 			"15"		"1720"
@@ -119,7 +142,7 @@
 			"19"		"1716"
 		}
 		"review_score"		"8"
-		"review_percentage"		"80"
+		"review_percentage"		"82"
 	}
 	"extended"
 	{
@@ -175,18 +198,30 @@
 			{
 				"public"
 				{
-					"gid"		"5533778137330337120"
-					"size"		"173659693"
-					"download"		"49919984"
+					"gid"		"4176641768659258806"
+					"size"		"198247294"
+					"download"		"50991696"
 				}
 			}
 			"encryptedmanifests"
 			{
-				"test_curse"
+				"test_achievement"
 				{
-					"gid"		"05368664DC6412E2D5673E6B5F6D63CF"
-					"size"		"24D2DE8D36C23D8F7491C329D50531DB"
-					"download"		"D7F15757CD91365DFF1098885CDC61D9"
+					"gid"		"303F0AD1713FE2E36552953A33712AFE"
+					"size"		"E629D579B14BA567700FE791CF1CE32C"
+					"download"		"9683EC22021606729FDFF9D00F2231A5"
+				}
+				"test_steamach"
+				{
+					"gid"		"25A2B4DFE49AEA31928C6232118AB970"
+					"size"		"EC7C50705847B842872D0DA42D3909C1"
+					"download"		"4E8F52A730C5B4E8F1C6E607186F2676"
+				}
+				"test_translation"
+				{
+					"gid"		"AAEBBDD55AE99CFCE82CE10770B038B1"
+					"size"		"DF980B9480799C79F4E66612731DBA14"
+					"download"		"A951080C87F252D9C180D3FCA7EB8EE1"
 				}
 			}
 		}
@@ -200,18 +235,30 @@
 			{
 				"public"
 				{
-					"gid"		"6530577707316762326"
-					"size"		"196374671"
-					"download"		"56526416"
+					"gid"		"8993260874336527353"
+					"size"		"220947705"
+					"download"		"57598512"
 				}
 			}
 			"encryptedmanifests"
 			{
-				"test_curse"
+				"test_achievement"
 				{
-					"gid"		"39B051400E9121D635BC245EA8C1DCC5"
-					"size"		"70E893104A3C794B1DBCF3FF242DA724"
-					"download"		"9118D07B92D849C32C6F34E363622A87"
+					"gid"		"6C1678332574EAD92CD9075E7C4C2CAD"
+					"size"		"89814CDE846BE29D431FC92BE7C44CC0"
+					"download"		"2DCD212B70B78BC5761067A6525161F0"
+				}
+				"test_steamach"
+				{
+					"gid"		"B5AD4CC9D2FB7483569CC1198A1713D4"
+					"size"		"C71C945DD5CAF41D11FC0ACFC41F47DC"
+					"download"		"CD817123A06909720C4D345877781CEE"
+				}
+				"test_translation"
+				{
+					"gid"		"6C32669B146B91A92BABB31E28921D4C"
+					"size"		"4D8F0529A731963444ED6E1F335F861E"
+					"download"		"0AD0BB7DBA8C40D115ED668293B27313"
 				}
 			}
 		}
@@ -225,18 +272,46 @@
 			{
 				"public"
 				{
-					"gid"		"5250583362443560782"
-					"size"		"173659693"
-					"download"		"49952624"
+					"gid"		"8845803633890545329"
+					"size"		"198247294"
+					"download"		"51025056"
 				}
 			}
 			"encryptedmanifests"
 			{
-				"test_curse"
+				"test_achievement"
 				{
-					"gid"		"7F8215D58447A6585323A7AD502C45CE"
-					"size"		"24D2DE8D36C23D8F7491C329D50531DB"
-					"download"		"AE857C1D0C79715AA50C5FEE7661898B"
+					"gid"		"BBBA04DA6AE0C1A08BBB53471A226C0C"
+					"size"		"E629D579B14BA567700FE791CF1CE32C"
+					"download"		"E676044541095E293305C04DC0973313"
+				}
+				"test_steamach"
+				{
+					"gid"		"AEB8280E90D1FE0BF6602D095CB69D24"
+					"size"		"DCBADFB1BFE8F4B42849DB7238FA3AB1"
+					"download"		"994AE1CAC096B7D91B8496DD49E7FC44"
+				}
+				"test_translation"
+				{
+					"gid"		"7786AD5DD4BD70031ED6D5954D3DF90D"
+					"size"		"DF980B9480799C79F4E66612731DBA14"
+					"download"		"AA4C81D1E845904A4E086E752A0D83AC"
+				}
+			}
+		}
+		"2672120"
+		{
+			"dlcappid"		"2672120"
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"test_steamach"
+				{
+					"gid"		"5256A850D6880CCF38B0EF2526892598"
+					"size"		"ACE656C2DA6278F469627EEE2E613693"
+					"download"		"13C34A6EBFE69044F445B64B17DF21F7"
 				}
 			}
 		}
@@ -244,14 +319,26 @@
 		{
 			"public"
 			{
-				"buildid"		"12272750"
-				"timeupdated"		"1695700586"
+				"buildid"		"12834502"
+				"timeupdated"		"1701310277"
 			}
-			"test_curse"
+			"test_achievement"
 			{
-				"buildid"		"12272750"
+				"buildid"		"12834502"
 				"pwdrequired"		"1"
-				"timeupdated"		"1695631552"
+				"timeupdated"		"1701310146"
+			}
+			"test_steamach"
+			{
+				"buildid"		"12803812"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701052452"
+			}
+			"test_translation"
+			{
+				"buildid"		"12814982"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701160398"
 			}
 		}
 	}
