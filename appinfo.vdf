@@ -88,7 +88,7 @@
 		{
 			"library_capsule"		"en,zh-cn,zh-tw,ja"
 			"library_hero"		"en"
-			"library_logo"		"en"
+			"library_logo"		"en,ja"
 			"logo_position"
 			{
 				"pinned_position"		"BottomLeft"
@@ -96,7 +96,7 @@
 				"height_pct"		"100"
 			}
 		}
-		"store_asset_mtime"		"1693978460"
+		"store_asset_mtime"		"1700888453"
 		"associations"
 		{
 			"0"
@@ -192,24 +192,24 @@
 			"2"		"4364"
 			"3"		"1670"
 			"4"		"3987"
-			"5"		"1741"
-			"6"		"1678"
-			"7"		"4168"
-			"8"		"1708"
-			"9"		"12472"
-			"10"		"1676"
-			"11"		"3810"
-			"12"		"1677"
+			"5"		"1678"
+			"6"		"1741"
+			"7"		"12472"
+			"8"		"1677"
+			"9"		"1708"
+			"10"		"3810"
+			"11"		"1669"
+			"12"		"4168"
 			"13"		"4328"
 			"14"		"4182"
-			"15"		"6310"
-			"16"		"1669"
-			"17"		"7107"
+			"15"		"7107"
+			"16"		"6310"
+			"17"		"4695"
 			"18"		"4711"
 			"19"		"493"
 		}
 		"review_score"		"8"
-		"review_percentage"		"81"
+		"review_percentage"		"80"
 	}
 	"extended"
 	{
@@ -324,11 +324,17 @@
 			{
 				"public"
 				{
-					"gid"		"4660062986234302257"
-					"size"		"20812993638"
-					"download"		"16296375008"
+					"gid"		"9191205186927279322"
+					"size"		"25141251453"
+					"download"		"20597953440"
 				}
 				"beta-release"
+				{
+					"gid"		"9191205186927279322"
+					"size"		"25141251453"
+					"download"		"20597953440"
+				}
+				"rollback-0-3-107"
 				{
 					"gid"		"4660062986234302257"
 					"size"		"20812993638"
@@ -366,30 +372,30 @@
 				}
 				"validation-release"
 				{
-					"gid"		"1657834194417763858"
-					"size"		"24826852420"
-					"download"		"20297694448"
+					"gid"		"2487644954932005192"
+					"size"		"25145199335"
+					"download"		"20601425520"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"beta"
 				{
-					"gid"		"6194EC6AFE94C086B84B83654E248FE9"
-					"size"		"D23B81CB3ABA932162F542539F9F8F38"
-					"download"		"16727688758DD9AC02E7A80D930EC783"
+					"gid"		"182846FFCB87A9BE1D54F37FF8B580E4"
+					"size"		"7F0838707C19C64F83E6E6F7182EB805"
+					"download"		"D76661D12E3443919DB5023DE339E937"
 				}
 				"de-fault-devbuild"
 				{
-					"gid"		"F736956AA2396CFFFAD9E7CDA80A211B"
-					"size"		"28F05990680263C71009D305537222B6"
-					"download"		"DB48234968244A454747C49094C2276E"
+					"gid"		"FF884CC9E61D81CD0AE2AEF574406FC5"
+					"size"		"212D12141D837FB2986A5FBDC17E2E28"
+					"download"		"6E017948A81FDE3C4CC0BBA3F668368C"
 				}
 				"devbranch"
 				{
-					"gid"		"0DC715EFCC13C47849FF9E53EE7F28CD"
-					"size"		"F419999E1849BECA78D27F7807A8E58F"
-					"download"		"86A8711D4B77B10FC8A9DBF557F21EC2"
+					"gid"		"1ACA83C74FF044F262E0BDFF76A848BE"
+					"size"		"3B92BB76A6BB7416449AC31C227B0A0C"
+					"download"		"81BA5923BF28294B166BC68D348BF93A"
 				}
 				"mac-release"
 				{
@@ -405,15 +411,15 @@
 				}
 				"release"
 				{
-					"gid"		"99581695713500E866383710C89AC02C"
-					"size"		"1CBFA8B8C8F18F85282A89A3E08FB2AE"
-					"download"		"F4CDDE59B32480A4649EDAC9596E4E62"
+					"gid"		"64993C74122733292025D7B6990B9E0F"
+					"size"		"5E900749C6DE12C4E4CBB74EA75EC577"
+					"download"		"0F0C9F399C75A7A95A295DA6FE636C33"
 				}
 				"validation"
 				{
-					"gid"		"EC8E780FF5E131EEF834545851ABB086"
-					"size"		"31AEE19D2B05C1E90190F07007A8BB89"
-					"download"		"A78A49B4F89C774CF1ABA522A25B03D8"
+					"gid"		"F30444E09A280FA3709C4D3098FC519F"
+					"size"		"273308D7B1C80EFBA7ADB02162E87847"
+					"download"		"6A3A5536891A1456D9726E6C5EED6D68"
 				}
 			}
 		}
@@ -446,32 +452,32 @@
 		{
 			"public"
 			{
-				"buildid"		"12005851"
-				"timeupdated"		"1692741283"
+				"buildid"		"12810333"
+				"timeupdated"		"1701282886"
 			}
 			"beta"
 			{
-				"buildid"		"12005808"
+				"buildid"		"12810262"
 				"pwdrequired"		"1"
-				"timeupdated"		"1692738130"
+				"timeupdated"		"1701203082"
 			}
 			"beta-release"
 			{
-				"buildid"		"12005851"
-				"description"		"0.3.107"
-				"timeupdated"		"1692738120"
+				"buildid"		"12810333"
+				"description"		"0.3.115"
+				"timeupdated"		"1701203073"
 			}
 			"de-fault-devbuild"
 			{
-				"buildid"		"12005808"
+				"buildid"		"12810262"
 				"pwdrequired"		"1"
-				"timeupdated"		"1692741270"
+				"timeupdated"		"1701282807"
 			}
 			"devbranch"
 			{
-				"buildid"		"12252101"
+				"buildid"		"12832913"
 				"pwdrequired"		"1"
-				"timeupdated"		"1695345475"
+				"timeupdated"		"1701295828"
 			}
 			"mac-release"
 			{
@@ -487,9 +493,15 @@
 			}
 			"release"
 			{
-				"buildid"		"12252181"
+				"buildid"		"12832997"
 				"pwdrequired"		"1"
-				"timeupdated"		"1695346431"
+				"timeupdated"		"1701296453"
+			}
+			"rollback-0-3-107"
+			{
+				"buildid"		"12005851"
+				"description"		"0.3.107"
+				"timeupdated"		"1701113394"
 			}
 			"rollback-0-3-35"
 			{
@@ -523,15 +535,15 @@
 			}
 			"validation"
 			{
-				"buildid"		"12147155"
+				"buildid"		"12832913"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694439595"
+				"timeupdated"		"1701300310"
 			}
 			"validation-release"
 			{
-				"buildid"		"12147210"
-				"description"		"0.3.109"
-				"timeupdated"		"1694439578"
+				"buildid"		"12832997"
+				"description"		"0.3.116"
+				"timeupdated"		"1701300322"
 			}
 		}
 	}
