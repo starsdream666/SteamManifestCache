@@ -38,32 +38,27 @@
 		"has_adult_content_violence"		"1"
 		"steam_deck_compatibility"
 		{
-			"category"		"2"
-			"test_timestamp"		"1692748800"
-			"tested_build_id"		"11772114"
+			"category"		"3"
+			"test_timestamp"		"1700611200"
+			"tested_build_id"		"12661497"
 			"tests"
 			{
 				"0"
 				{
-					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 				}
 				"1"
 				{
 					"display"		"4"
-					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
 				}
 				"2"
 				{
 					"display"		"4"
-					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
-				}
-				"3"
-				{
-					"display"		"4"
 					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
 				}
-				"4"
+				"3"
 				{
 					"display"		"4"
 					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
@@ -72,7 +67,7 @@
 			"configuration"
 			{
 				"supported_input"		"gamepad"
-				"requires_manual_keyboard_invoke"		"1"
+				"requires_manual_keyboard_invoke"		"0"
 				"requires_non_controller_launcher_nav"		"0"
 				"primary_player_is_controller_slot_0"		"0"
 				"non_deck_display_glyphs"		"0"
@@ -270,18 +265,18 @@
 			{
 				"public"
 				{
-					"gid"		"177827389368802233"
-					"size"		"19218898802"
-					"download"		"8856321920"
+					"gid"		"7534619321751844149"
+					"size"		"19218856778"
+					"download"		"8856102272"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"albert"
 				{
-					"gid"		"598FC2FE50ABFA0644C16B3109E93935"
-					"size"		"3D384DDA95DA00796D5EBC6353C817B9"
-					"download"		"AE1252C6B05E79D8C904534EA872CAF2"
+					"gid"		"8F39543BD3C4599DA50A368A572B940D"
+					"size"		"ED4E8F7E60818181577728974937A05A"
+					"download"		"098C8BB6F213634610A2BB1C90F4DAB4"
 				}
 				"development_branch1"
 				{
@@ -339,9 +334,9 @@
 				}
 				"development_branch9_coders"
 				{
-					"gid"		"68241E456D8F9666AB24463105E6026D"
-					"size"		"8AA17FF636F2CBAE42A3DFB7BBAC2135"
-					"download"		"BAA113271FFE72A3F0B6F94EA4FA4F30"
+					"gid"		"454908E0EA1CDF20DC5697FC288FBFD5"
+					"size"		"3545D2417097000C67586656D5C0614A"
+					"download"		"CB32A61CA544318C155B9EAEB0B5AD60"
 				}
 				"previewbuild"
 				{
@@ -373,14 +368,14 @@
 		{
 			"public"
 			{
-				"buildid"		"11772114"
-				"timeupdated"		"1690209599"
+				"buildid"		"12828238"
+				"timeupdated"		"1701353530"
 			}
 			"albert"
 			{
-				"buildid"		"12808085"
+				"buildid"		"12824961"
 				"pwdrequired"		"1"
-				"timeupdated"		"1701096233"
+				"timeupdated"		"1701237506"
 			}
 			"development_branch1"
 			{
@@ -438,9 +433,9 @@
 			}
 			"development_branch9_coders"
 			{
-				"buildid"		"12661497"
+				"buildid"		"12828238"
 				"pwdrequired"		"1"
-				"timeupdated"		"1699539183"
+				"timeupdated"		"1701262624"
 			}
 			"previewbuild"
 			{
