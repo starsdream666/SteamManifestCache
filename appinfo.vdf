@@ -1,0 +1,145 @@
+"appinfo"
+{
+	"appid"		"2218430"
+	"common"
+	{
+		"name"		"Stream Slugger"
+		"type"		"Application"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"927bb3bd5c512fe361e243975a5473d8e743c745"
+		"clienttga"		"c9c0154dc1df039d6d840db585a25f49bc0fd829"
+		"clienticon"		"961e4e0b42fdc634ac8f02852ba5a56e30ddf3da"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1682492954"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Phil Berex"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Xloron"
+			}
+		}
+		"primary_genre"		"57"
+		"genres"
+		{
+			"0"		"57"
+		}
+		"category"
+		{
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1701276716"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2218430"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"87"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Phil Berex"
+		"publisher"		"Xloron"
+		"homepage"		"https://streamslugger.odoo.com"
+		"gamemanualurl"		"https://store.steampowered.com/manual/2218430/"
+	}
+	"config"
+	{
+		"installdir"		"Stream Slugger"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Stream Slugger.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"2218431"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8768229517934921547"
+					"size"		"308932516"
+					"download"		"102556128"
+				}
+			}
+		}
+		"2218433"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12832357"
+				"timeupdated"		"1701291525"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"5000"
+		"hidecloudui"		"1"
+		"ignoreexternalfiles"		"1"
+	}
+}
