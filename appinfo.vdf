@@ -21,6 +21,49 @@
 			"english"		"1"
 			"schinese"		"1"
 		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1700092800"
+			"tested_build_id"		"12599639"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
@@ -119,7 +162,7 @@
 			"19"		"4166"
 		}
 		"review_score"		"6"
-		"review_percentage"		"71"
+		"review_percentage"		"73"
 	}
 	"extended"
 	{
@@ -174,21 +217,21 @@
 			{
 				"public"
 				{
-					"gid"		"3951799494389266295"
-					"size"		"13379636673"
-					"download"		"12818205152"
+					"gid"		"1649559667280739669"
+					"size"		"12787223104"
+					"download"		"12216805296"
 				}
 				"beta"
 				{
-					"gid"		"7632606010085750971"
-					"size"		"13490281334"
-					"download"		"12928563168"
+					"gid"		"1649559667280739669"
+					"size"		"12787223104"
+					"download"		"12216805296"
 				}
 				"oldver"
 				{
-					"gid"		"8789007844250862467"
-					"size"		"13481142077"
-					"download"		"12919436480"
+					"gid"		"3544132076227882039"
+					"size"		"12711058741"
+					"download"		"12144230560"
 				}
 			}
 		}
@@ -196,20 +239,20 @@
 		{
 			"public"
 			{
-				"buildid"		"12599639"
-				"timeupdated"		"1698915150"
+				"buildid"		"12837633"
+				"timeupdated"		"1701339392"
 			}
 			"beta"
 			{
-				"buildid"		"12550792"
+				"buildid"		"12837633"
 				"description"		"测试"
-				"timeupdated"		"1698745695"
+				"timeupdated"		"1701339400"
 			}
 			"oldver"
 			{
-				"buildid"		"12433105"
+				"buildid"		"12671130"
 				"description"		"上版本分支"
-				"timeupdated"		"1697196324"
+				"timeupdated"		"1699878275"
 			}
 		}
 	}
