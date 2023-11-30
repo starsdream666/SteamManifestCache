@@ -30,6 +30,49 @@
 			"japanese"		"1"
 			"brazilian"		"1"
 		}
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1701129600"
+			"tested_build_id"		"12765327"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
 		"metacritic_name"		"Wargroove 2"
 		"controller_support"		"full"
 		"small_capsule"
@@ -172,7 +215,7 @@
 			"19"		"4305"
 		}
 		"review_score"		"6"
-		"review_percentage"		"79"
+		"review_percentage"		"74"
 	}
 	"extended"
 	{
@@ -218,24 +261,30 @@
 			{
 				"public"
 				{
+					"gid"		"6209521311780519177"
+					"size"		"500197655"
+					"download"		"483193920"
+				}
+				"legacy"
+				{
 					"gid"		"8208259595562782919"
 					"size"		"500156296"
 					"download"		"483162704"
 				}
 				"preview"
 				{
-					"gid"		"2775357309206480020"
-					"size"		"500163882"
-					"download"		"483170144"
+					"gid"		"4607168898204269157"
+					"size"		"500197405"
+					"download"		"483193152"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"alpha"
 				{
-					"gid"		"01F7119CE985DF6C030D2856FADE2F9D"
-					"size"		"CB9A6C1708D1D9F9674BCF7AAC04E31D"
-					"download"		"B3CBE5DAFC6033C2377B5396F63D10E7"
+					"gid"		"FA6DA3A2E3F619F7105D2CBD8ACFB012"
+					"size"		"AD616A5F0A23C855E8EDA673FDE0D567"
+					"download"		"191B1BC55C0053A7D67EA1E58AB4D92D"
 				}
 				"alpha-campaign"
 				{
@@ -251,15 +300,15 @@
 				}
 				"cross-platform"
 				{
-					"gid"		"C6873DB43246DCA570F7724AF48B097A"
-					"size"		"F3C129C315F931CA471FFE2713657BD1"
-					"download"		"B6A76DF1B76534C78E4F30122E769353"
+					"gid"		"8E97F4D32246D03993F031DCB87C335E"
+					"size"		"7EB898E585AA2E56D1431447F56D86AE"
+					"download"		"35421AA02CAAA7B44A430AFAD89157AC"
 				}
 				"develop"
 				{
-					"gid"		"75DE3F886653D65CACE437376DB8AD0A"
-					"size"		"E8149B4B8B01A70AEB1785C7AC3F27B6"
-					"download"		"1B304B53EC9B60094C7015BD74D252D0"
+					"gid"		"170B69167A64CFFDAC49FA496554C571"
+					"size"		"FE4E36A6045B9E75EDEA766585043C66"
+					"download"		"AA65BB72650EF0D7C91CBBAA2F73079A"
 				}
 				"map-designer"
 				{
@@ -293,15 +342,15 @@
 				}
 				"unstable"
 				{
-					"gid"		"B74D2CB44A1823096A22FF410FCEED4B"
-					"size"		"8E9EFEDA938E043310482F62CAA81CCB"
-					"download"		"67EF58D5D61CCF795D1C09C40E1FEAD7"
+					"gid"		"4FC86A2FFFEA2A0614712FDBA713F7A6"
+					"size"		"6C60E98B23DA6CB1AB4EF4801F9E8496"
+					"download"		"DCFB14A2E94FA83CA7CE28C8AA94CF8D"
 				}
 				"unstable-release"
 				{
-					"gid"		"3174B757A4FEFA5384C3C2E283B0CD98"
-					"size"		"1AC5EE2935D96C63B09BD8C9114E2589"
-					"download"		"E8E9A48DD8ECDE85D2EE29E836CDB797"
+					"gid"		"69ACA78AB33601C15F57CC7B52CC5C55"
+					"size"		"B88A440A58CFCF019B3DCE6528C56D4F"
+					"download"		"396B11ACC758CC5348E8D9F99FE2D8CA"
 				}
 			}
 		}
@@ -315,24 +364,30 @@
 			{
 				"public"
 				{
+					"gid"		"6962487663142464431"
+					"size"		"204809576"
+					"download"		"37482784"
+				}
+				"legacy"
+				{
 					"gid"		"5830003003544017683"
 					"size"		"16578920"
 					"download"		"4758240"
 				}
 				"preview"
 				{
-					"gid"		"2720491165255842372"
-					"size"		"16589160"
-					"download"		"4757968"
+					"gid"		"4822214854077974941"
+					"size"		"16703848"
+					"download"		"4783456"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"alpha"
 				{
-					"gid"		"52CCD01223E3A8CD9C60377BA550ADB6"
-					"size"		"55EFC237F98A60613A393F5947DEC116"
-					"download"		"A02123E6F5DA5CE9F6A7D516D932FCA2"
+					"gid"		"D0730E9866D301E6034E3CEC4754FA73"
+					"size"		"801E5848955AF9B44CB65484E5328B7D"
+					"download"		"F8ACB1C348391B1F8C75640BDB5F703D"
 				}
 				"alpha-campaign"
 				{
@@ -348,15 +403,15 @@
 				}
 				"cross-platform"
 				{
-					"gid"		"6CD1C4E888EB55CA6843D2E719BE65CE"
-					"size"		"89B4D2AE4A2DEDFCE7737DABF3FE95E2"
-					"download"		"7769D7D391E897065DAAA848C09DF050"
+					"gid"		"B3A6551235A9DA3ED47508802D5DFB46"
+					"size"		"6D7DA6E473B4D785CA10C217A356B250"
+					"download"		"1351A0302E1553643E5BB9AE1691B1CB"
 				}
 				"develop"
 				{
-					"gid"		"01C9884CA8989A0DEA6BA24B72C90711"
-					"size"		"82775BA988A3AB4CD7CBAFC02E5DCF15"
-					"download"		"3C3F5C431E562D698F160D6BCFEEE082"
+					"gid"		"F3C6660BC69F9B135741DEFF10F58713"
+					"size"		"DFCEBD3562C102C3F2CF287F76D50ABD"
+					"download"		"D2406A5AD127DCF7BE1B34250A542EFA"
 				}
 				"map-designer"
 				{
@@ -390,15 +445,15 @@
 				}
 				"unstable"
 				{
-					"gid"		"89771AD5324E2999D2DAB8BBB9C7F35D"
-					"size"		"1F0434E52EF7DD7B627FDDF143BF6C80"
-					"download"		"4DBFA753D0BEEE2EBDD12B36932FA647"
+					"gid"		"4674E2A5DA5DB554E92119C46EF50362"
+					"size"		"52067E0DC03D5B689B0332AF0901C854"
+					"download"		"4B08FE00F034ABF9342CB04AED534F4D"
 				}
 				"unstable-release"
 				{
-					"gid"		"2024E34CF089B948CE9DA3C36B743959"
-					"size"		"83F1D508C1CDE480DA92633C8DC5CEEA"
-					"download"		"32002EC891560F8545FE6566A410B8B1"
+					"gid"		"AD219B48B689CAAE8CEFA4E9CD55C3E1"
+					"size"		"35BCADB8FF6C284243E309AF84B40108"
+					"download"		"131CF1DEDD8BE3D11CDB0B3C872FE531"
 				}
 			}
 		}
@@ -412,24 +467,30 @@
 			{
 				"public"
 				{
+					"gid"		"5391674484801994145"
+					"size"		"532223589"
+					"download"		"490069120"
+				}
+				"legacy"
+				{
 					"gid"		"5704891215903412404"
 					"size"		"532101878"
 					"download"		"490018368"
 				}
 				"preview"
 				{
-					"gid"		"447589083003878417"
-					"size"		"532142800"
-					"download"		"490033696"
+					"gid"		"2604131624745555633"
+					"size"		"532223339"
+					"download"		"490070720"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"alpha"
 				{
-					"gid"		"19A46A489561BB5701D06757A4A0F67F"
-					"size"		"EB008D403D21D28FB03FB5676C70E0D0"
-					"download"		"5BF86319FA67D67C9A0800A82CC36278"
+					"gid"		"F8EBCCD2CF7F88FB679433E805947988"
+					"size"		"92517C243A86ED9EC4BA0CDDE4DADF8C"
+					"download"		"34B55C1392E802A6A01048C174EA1060"
 				}
 				"alpha-campaign"
 				{
@@ -445,15 +506,15 @@
 				}
 				"cross-platform"
 				{
-					"gid"		"B31D938E35687A22F7B4037AC5B678F0"
-					"size"		"19D39B16602B0121CDDF809CDECDB873"
-					"download"		"16BA6B3620B67981AC1938214328533D"
+					"gid"		"DE6F5F115FE131F294D25F3A2599A699"
+					"size"		"9C50990CB6D136C07B926E43CBA9911B"
+					"download"		"D0BD328735460CDA7311FE8F092A6E92"
 				}
 				"develop"
 				{
-					"gid"		"F0AB0CA790A26049D6C26956A8581610"
-					"size"		"091600664C0BBB4FBF647A5E5D4F5831"
-					"download"		"08D4B3956C8583636199AF4D5D511F19"
+					"gid"		"CC5886F31E0D75B5D8D7FE51756C2BCE"
+					"size"		"768196879257EDBB6BD369AFB1E58857"
+					"download"		"943E8AE02D2462EA1EFD4EB744D3648D"
 				}
 				"map-designer"
 				{
@@ -487,15 +548,15 @@
 				}
 				"unstable"
 				{
-					"gid"		"95EB5B31D53B78A606124D79E82FC0E7"
-					"size"		"92F11F04CFBA7D6B20F6D954C25E8D8F"
-					"download"		"96B00EC186ADD5480A4A5626F242066E"
+					"gid"		"6A7A7D0A18A6A2A295BEECB7B4A86D0E"
+					"size"		"BDADEDD5DBBFC165A1F2D5DF57C40EE5"
+					"download"		"F08DE6A22B161A1BE0355517E4BCDD8C"
 				}
 				"unstable-release"
 				{
-					"gid"		"20A625E826009468F608C184DA2F22A6"
-					"size"		"544116AC73A39BA169C3910CF99AC823"
-					"download"		"CBCD384588C6A2EBBEE73F57606299B4"
+					"gid"		"FE4D6AE6AFC812404383E1AFA2BFF738"
+					"size"		"9F0E11CA5CB4A01367C364419705FBA6"
+					"download"		"B657C2EEE4D25314B1E7108D93487EA6"
 				}
 			}
 		}
@@ -558,14 +619,14 @@
 		{
 			"public"
 			{
-				"buildid"		"12469167"
-				"timeupdated"		"1697634215"
+				"buildid"		"12838833"
+				"timeupdated"		"1701353920"
 			}
 			"alpha"
 			{
-				"buildid"		"11990761"
+				"buildid"		"12752319"
 				"pwdrequired"		"1"
-				"timeupdated"		"1692629263"
+				"timeupdated"		"1700502035"
 			}
 			"alpha-campaign"
 			{
@@ -581,15 +642,21 @@
 			}
 			"cross-platform"
 			{
-				"buildid"		"12411473"
+				"buildid"		"12805526"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697013976"
+				"timeupdated"		"1701249723"
 			}
 			"develop"
 			{
-				"buildid"		"12469167"
+				"buildid"		"12838833"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697613213"
+				"timeupdated"		"1701347364"
+			}
+			"legacy"
+			{
+				"buildid"		"12469167"
+				"description"		"Previous version (1.2.3)"
+				"timeupdated"		"1701353623"
 			}
 			"map-designer"
 			{
@@ -611,9 +678,9 @@
 			}
 			"preview"
 			{
-				"buildid"		"12462727"
+				"buildid"		"12765327"
 				"description"		"Public preview version"
-				"timeupdated"		"1697554578"
+				"timeupdated"		"1700607674"
 			}
 			"steam-demo"
 			{
@@ -629,15 +696,15 @@
 			}
 			"unstable"
 			{
-				"buildid"		"12480300"
+				"buildid"		"12826084"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697704374"
+				"timeupdated"		"1701249745"
 			}
 			"unstable-release"
 			{
-				"buildid"		"12480283"
+				"buildid"		"12826076"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697704361"
+				"timeupdated"		"1701249736"
 			}
 		}
 	}
