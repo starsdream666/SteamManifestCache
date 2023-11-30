@@ -1,0 +1,379 @@
+"appinfo"
+{
+	"appid"		"1990400"
+	"common"
+	{
+		"name"		"Tales of Ágaris"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"16e54e0b626035308be66635307eaedf5c7fdc7d"
+		"clienttga"		"9703a8ca9083de15ff1bb427094acc81c4ac4738"
+		"clienticon"		"81cdeea119cad07aef86a5af47d35a58ba0407f6"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"latam"		"capsule_231x87_latam.jpg"
+			"spanish"		"capsule_231x87_spanish.jpg"
+			"brazilian"		"capsule_231x87_brazilian.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,es-419,es"
+			"library_hero"		"en"
+			"library_logo"		"en,es-419,es,pt-br"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"82.24556442110224"
+				"height_pct"		"43.74959499374593"
+			}
+		}
+		"store_asset_mtime"		"1687717605"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Metthink"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Metthink Universe"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Trilogy of Time"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"3"
+			"3"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_51"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1653306600"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1990400"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"21"
+			"2"		"4434"
+			"3"		"1684"
+			"4"		"9541"
+			"5"		"180368"
+			"6"		"5716"
+			"7"		"14139"
+			"8"		"4325"
+			"9"		"17305"
+			"10"		"10695"
+			"11"		"3987"
+			"12"		"4172"
+			"13"		"198631"
+			"14"		"4608"
+			"15"		"6971"
+			"16"		"6869"
+			"17"		"3871"
+			"18"		"4057"
+			"19"		"4004"
+		}
+		"review_score"		"6"
+		"review_percentage"		"72"
+	}
+	"extended"
+	{
+		"developer"		"Metthink"
+		"publisher"		"Metthink Universe"
+		"homepage"		"https://www.metthink-universe.com/"
+		"isfreeapp"		"1"
+		"listofdlc"		"2056600,2176330,2188440"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Tales of Agaris"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Game.exe"
+				"arguments"		"-fullscreen"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Tales of Agaris"
+				}
+				"description"		"Tales of Agaris"
+			}
+			"1"
+			{
+				"executable"		"www\\Tales of Agaris - The Legendary Rion\\The Legendary Rion.exe"
+				"type"		"option2"
+				"config"
+				{
+					"oslist"		"windows"
+					"ownsdlc"		"2188440"
+				}
+				"description_loc"
+				{
+					"english"		"The Legendary Rion"
+				}
+				"description"		"The Legendary Rion"
+			}
+			"2"
+			{
+				"executable"		"Children of Fate.exe"
+				"arguments"		"-fullscreen"
+				"type"		"option3"
+				"config"
+				{
+					"oslist"		"windows"
+					"ownsdlc"		"2056600"
+				}
+				"description_loc"
+				{
+					"english"		"Children of Fate"
+				}
+				"description"		"Children of Fate"
+			}
+			"3"
+			{
+				"executable"		"The Legendary Rion.exe"
+				"arguments"		"-fullscreen"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+					"ownsdlc"		"2188440"
+				}
+				"description_loc"
+				{
+					"english"		"The Legendary Rion"
+				}
+				"description"		"The Legendary Rion"
+			}
+			"4"
+			{
+				"executable"		"game.exe"
+				"type"		"none"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,schinese,russian,japanese,brazilian,latam"
+		"hasdepotsindlc"		"1"
+		"1990409"
+		{
+			"config"
+			{
+				"language"		"japanese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2886206614988988101"
+					"size"		"176041700"
+					"download"		"170827088"
+				}
+			}
+		}
+		"1990405"
+		{
+			"config"
+			{
+				"language"		"schinese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5016724827949262639"
+					"size"		"175924649"
+					"download"		"171947296"
+				}
+			}
+		}
+		"1990404"
+		{
+			"config"
+			{
+				"language"		"russian"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2487843548438969589"
+					"size"		"176041318"
+					"download"		"170930656"
+				}
+			}
+		}
+		"1990403"
+		{
+			"config"
+			{
+				"language"		"brazilian"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4644879184166052915"
+					"size"		"176319257"
+					"download"		"172082480"
+				}
+			}
+		}
+		"1990402"
+		{
+			"config"
+			{
+				"language"		"latam"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8926394124596555731"
+					"size"		"176318193"
+					"download"		"172184288"
+				}
+			}
+		}
+		"1990401"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5252799151929461893"
+					"size"		"177271407"
+					"download"		"173256912"
+				}
+			}
+		}
+		"2188440"
+		{
+			"dlcappid"		"2188440"
+			"config"
+			{
+				"oslist"		"windows"
+				"optionaldlc"		"2188440"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8699775065862539716"
+					"size"		"463333272"
+					"download"		"260423184"
+				}
+			}
+		}
+		"2056600"
+		{
+			"dlcappid"		"2056600"
+			"config"
+			{
+				"oslist"		"windows"
+				"optionaldlc"		"2056600"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8777156719921430010"
+					"size"		"564909969"
+					"download"		"362038432"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10940135"
+				"timeupdated"		"1680722886"
+			}
+		}
+		"appmanagesdlc"		"1"
+	}
+	"ufs"
+	{
+		"quota"		"0"
+		"maxnumfiles"		"0"
+	}
+}
