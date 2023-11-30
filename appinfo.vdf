@@ -12,6 +12,49 @@
 		"oslist"		"windows,macos"
 		"osarch"		"64"
 		"osextended"		"macos64,macosapplesilicon"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1700524800"
+			"tested_build_id"		"12698110"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
 		"controllertagwizard"		"1"
 		"controller_support"		"full"
 		"small_capsule"
@@ -82,9 +125,9 @@
 		"gameid"		"2334730"
 		"store_tags"
 		{
-			"0"		"122"
-			"1"		"4885"
-			"2"		"42804"
+			"0"		"42804"
+			"1"		"122"
+			"2"		"4885"
 			"3"		"3959"
 			"4"		"19"
 			"5"		"3964"
@@ -104,7 +147,7 @@
 			"19"		"4758"
 		}
 		"review_score"		"8"
-		"review_percentage"		"91"
+		"review_percentage"		"92"
 	}
 	"extended"
 	{
@@ -152,24 +195,24 @@
 			{
 				"public"
 				{
-					"gid"		"2528949467868004767"
-					"size"		"1644682225"
-					"download"		"467369376"
+					"gid"		"1399285935420559875"
+					"size"		"1644963427"
+					"download"		"467431984"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"beta"
 				{
-					"gid"		"DF6C8D2A85CAAD643EAE3B27961C9724"
-					"size"		"5667207B57D7A612E156FDD6CBBB8342"
-					"download"		"37EFDA42D648DED3E67CD8752AF619CC"
+					"gid"		"333EC01112B358D74539A58F63AA7428"
+					"size"		"9B43831280FD4DFE75C8368FE7BC5A5E"
+					"download"		"2FE3E77C89661EC88B19765C534C512D"
 				}
 				"devs"
 				{
-					"gid"		"A6F694F906EB5829A4878DD2BCFF1986"
-					"size"		"832EB0F2AA0770CAB3778760E68B1434"
-					"download"		"79B101C13827CF2391236C03B30819AA"
+					"gid"		"22A0343E20740B16C5A83395AD243E31"
+					"size"		"A6376B439459286C84C204825702AE32"
+					"download"		"EEF2057E3D61DFD37DE0AA42FCCC398A"
 				}
 			}
 		}
@@ -183,24 +226,24 @@
 			{
 				"public"
 				{
-					"gid"		"5626991522572075932"
-					"size"		"1676563074"
-					"download"		"476817120"
+					"gid"		"1365120749240518665"
+					"size"		"1676844274"
+					"download"		"476814384"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"beta"
 				{
-					"gid"		"EA9231B2A3B3F9A6335A25A905013CFD"
-					"size"		"0CF606659BBB01B644318FFDA7AD85B2"
-					"download"		"A8735E8131686CD7957AC7479F8385E5"
+					"gid"		"5A075209C85FF01E065DC447DD6C5211"
+					"size"		"B8D283E01384E6FDB7047C926E6526BE"
+					"download"		"78D1F8F8EAA3243F589C8C9578576DEE"
 				}
 				"devs"
 				{
-					"gid"		"14B1AF332F6BA443069634BAC6E3B0B3"
-					"size"		"1695329F7F735EDB5680618B23732168"
-					"download"		"411ED0304DB85183106206EBD3AE99A1"
+					"gid"		"983DAA9C12EB56DA205D553EDD209BF0"
+					"size"		"952D8AE57E1C9F025D750B7C1022B158"
+					"download"		"18B4321B26466BA31C07BC705DB1AC2D"
 				}
 			}
 		}
@@ -208,20 +251,20 @@
 		{
 			"public"
 			{
-				"buildid"		"12801351"
-				"timeupdated"		"1701010718"
+				"buildid"		"12829121"
+				"timeupdated"		"1701301768"
 			}
 			"beta"
 			{
-				"buildid"		"12801351"
+				"buildid"		"12829121"
 				"pwdrequired"		"1"
-				"timeupdated"		"1701010711"
+				"timeupdated"		"1701301706"
 			}
 			"devs"
 			{
-				"buildid"		"12801351"
+				"buildid"		"12829121"
 				"pwdrequired"		"1"
-				"timeupdated"		"1701010158"
+				"timeupdated"		"1701268941"
 			}
 		}
 	}
