@@ -47,6 +47,34 @@
 		"oslist"		"windows"
 		"osarch"		""
 		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1700265600"
+			"tested_build_id"		"12671489"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
 		"controllertagwizard"		"1"
 		"controller_support"		"full"
 		"small_capsule"
@@ -195,7 +223,7 @@
 			"6"		"4182"
 		}
 		"review_score"		"5"
-		"review_percentage"		"52"
+		"review_percentage"		"53"
 	}
 	"extended"
 	{
@@ -267,9 +295,9 @@
 			{
 				"public"
 				{
-					"gid"		"5542318547095456659"
-					"size"		"37447065698"
-					"download"		"33266857200"
+					"gid"		"848174529751396664"
+					"size"		"44738508831"
+					"download"		"40186135312"
 				}
 			}
 			"encryptedmanifests"
@@ -294,9 +322,9 @@
 				}
 				"pendulo"
 				{
-					"gid"		"816A2C91BF00A28CCB400AA7BC00851B"
-					"size"		"A503343B97B1C4586EE6E5B551810BD7"
-					"download"		"F68B1E2EB33F955F54A7D7BC5A46632E"
+					"gid"		"241DDBA50E18FD26618CF11D70B99EF2"
+					"size"		"13BF5AF8AC8ACA86DEBD06622C1EF8B0"
+					"download"		"62E47B9EAC78BF6CF7CD43E2A9F7BBF9"
 				}
 				"plqa"
 				{
@@ -318,9 +346,9 @@
 				}
 				"test"
 				{
-					"gid"		"37F27DC8DC0EB57C201C319AC2F7873C"
-					"size"		"1EF8C98FC8D1DBEB6AA4320F3F6593A8"
-					"download"		"6B6EFAAD4B8F7C72029D2D32BFAAAB9F"
+					"gid"		"F70F42C2F7319991DA737FA1B42F9AB0"
+					"size"		"C4CF35B5E71CAB8015C033B6446DD980"
+					"download"		"A93A65CE8B39F4DBA3882D85F165BBE5"
 				}
 				"testwithoutdebug"
 				{
@@ -334,8 +362,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12710371"
-				"timeupdated"		"1700478490"
+				"buildid"		"12816397"
+				"timeupdated"		"1701450233"
 			}
 			"demo"
 			{
@@ -357,9 +385,9 @@
 			}
 			"pendulo"
 			{
-				"buildid"		"12710371"
+				"buildid"		"12816397"
 				"pwdrequired"		"1"
-				"timeupdated"		"1700057376"
+				"timeupdated"		"1701170036"
 			}
 			"plqa"
 			{
@@ -381,9 +409,9 @@
 			}
 			"test"
 			{
-				"buildid"		"12710371"
+				"buildid"		"12816397"
 				"pwdrequired"		"1"
-				"timeupdated"		"1700127039"
+				"timeupdated"		"1701181562"
 			}
 			"testwithoutdebug"
 			{
