@@ -1,0 +1,280 @@
+"appinfo"
+{
+	"appid"		"2351560"
+	"common"
+	{
+		"name"		"Apocalypse Party"
+		"type"		"Game"
+		"releasestate"		"released"
+		"name_localized"
+		{
+			"schinese"		"清零计划2：天启派对"
+			"tchinese"		"零號計劃2：天啟派對"
+			"russian"		"Вечеринка Апокалипсиса"
+			"japanese"		"アポカリプス パーティー"
+			"koreana"		"아포칼립스 파티"
+		}
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"38eb96124b1e6fe4d3290c71c5820e3601184880"
+		"clienttga"		"7b483c2f64c62db80bf659952b9ed1bdce988c6c"
+		"clienticon"		"27b49d2a5728125918d4abc44219ca3ebdfed51c"
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+		}
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"controllertagwizard"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"english"		"capsule_231x87.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"zh-cn,en"
+			"library_hero"		"en,zh-cn"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"29.539099855693507"
+				"height_pct"		"64.2840180479696"
+			}
+		}
+		"store_asset_mtime"		"1701398270"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Breaker Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Breaker Games"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"破荒者游戏"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"4"
+			"2"		"23"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1701399561"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2351560"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"4182"
+			"2"		"42804"
+			"3"		"4637"
+			"4"		"3843"
+			"5"		"3959"
+			"6"		"4255"
+			"7"		"4885"
+			"8"		"1716"
+			"9"		"4195"
+			"10"		"4791"
+			"11"		"4191"
+			"12"		"1659"
+			"13"		"9"
+			"14"		"4018"
+			"15"		"1685"
+			"16"		"4136"
+			"17"		"5923"
+			"18"		"19"
+			"19"		"3859"
+		}
+		"review_score"		"6"
+		"review_percentage"		"71"
+	}
+	"extended"
+	{
+		"developer"		"Breaker Games"
+		"publisher"		"Breaker Games"
+	}
+	"config"
+	{
+		"installdir"		"Project Zero 2 DEMO"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"TheLastSurvivor.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"schinese"		"启动"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229007"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2351561"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8649885587341829803"
+					"size"		"5150663493"
+					"download"		"4972562272"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"streaming"
+				{
+					"gid"		"B8A51E96E4A7A83F3840700583A516CE"
+					"size"		"803F3F3E48D5340D210FE1CEDFAEDCED"
+					"download"		"C1F29F8706D39715261114869AD15AD6"
+				}
+				"testversionbfpublish"
+				{
+					"gid"		"21780629D982704DDDECA74D80E35F26"
+					"size"		"E76A741C8DCB8368977D6A87C7D53D55"
+					"download"		"744A92C4271697519D25EEBD343A6F48"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12846427"
+				"timeupdated"		"1701408055"
+			}
+			"streaming"
+			{
+				"buildid"		"12848284"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701423901"
+			}
+			"testversionbfpublish"
+			{
+				"buildid"		"12851398"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701443569"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"52428800"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"TheLastSurvivor\\Saved\\SaveGames"
+				"pattern"		"*.sav"
+			}
+		}
+		"rootoverrides"
+		{
+			"1"
+			{
+				"root"		"WinAppDataLocal"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxHome"
+				"addpath"		""
+			}
+			"2"
+			{
+				"root"		"WinAppDataLocal"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacHome"
+				"addpath"		""
+			}
+		}
+	}
+}
