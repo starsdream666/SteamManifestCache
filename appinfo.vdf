@@ -257,8 +257,8 @@
 			"0"		"21"
 			"1"		"1742"
 			"2"		"3834"
-			"3"		"1684"
-			"4"		"1664"
+			"3"		"1664"
+			"4"		"1684"
 			"5"		"4182"
 			"6"		"4252"
 			"7"		"5608"
@@ -266,16 +266,17 @@
 			"9"		"4726"
 			"10"		"4195"
 			"11"		"19"
-			"12"		"1719"
-			"13"		"1721"
-			"14"		"3859"
-			"15"		"10808"
-			"16"		"122"
-			"17"		"492"
-			"18"		"9130"
+			"12"		"10808"
+			"13"		"122"
+			"14"		"492"
+			"15"		"1719"
+			"16"		"5350"
+			"17"		"1695"
+			"18"		"4085"
+			"19"		"599"
 		}
-		"review_score"		"8"
-		"review_percentage"		"94"
+		"review_score"		"9"
+		"review_percentage"		"96"
 	}
 	"extended"
 	{
@@ -340,9 +341,9 @@
 			{
 				"public"
 				{
-					"gid"		"2967096774822255878"
-					"size"		"23489508059"
-					"download"		"10012180640"
+					"gid"		"8556295469921430081"
+					"size"		"23477646619"
+					"download"		"10008994432"
 				}
 			}
 			"encryptedmanifests"
@@ -373,9 +374,9 @@
 				}
 				"debug_build"
 				{
-					"gid"		"3AAEE7BF6B39A19D5C720BFA9C7EE4D5"
-					"size"		"1BD010B7DE8744178127C184AF3017F8"
-					"download"		"1A4AF2EFCAA0CE9B4D8F48F36DBABAC1"
+					"gid"		"6C6B3608D480845F11DEE9A141672E02"
+					"size"		"D67DC2E2AB1FB0A666084B6F53964012"
+					"download"		"CC9E07A5C0F3FF98A1EDA05350D8DF70"
 				}
 				"demo_gamescom"
 				{
@@ -383,23 +384,29 @@
 					"size"		"CAC74664AADF1E3AC7A43C062BB83445"
 					"download"		"F16D58A195ED43701E38689B1B046138"
 				}
-				"ev_age_rating"
-				{
-					"gid"		"EF15E1F6DF692CFA66A4E6133C4A1840"
-					"size"		"6DC72C8D465ADA8C6EBF02014558DC82"
-					"download"		"0C176703699FDFD790BF4509E5167FBE"
-				}
-				"ms47_extension15"
-				{
-					"gid"		"D2FBEA7F526475FC589A8071B9AA9FF9"
-					"size"		"374F0BECCBDAA916784B1D538E565241"
-					"download"		"5E7A79C47AC29F941F7F5F254FB7398D"
-				}
 				"pc_marketing"
 				{
 					"gid"		"DE618FFB9051F492A4706E2DB6DBD753"
 					"size"		"3FE081A90040CBEF27AFED8F4DD6295A"
 					"download"		"EF884A88A153F956B10BBCE9CFCAFE3B"
+				}
+				"pcpatch_rc01"
+				{
+					"gid"		"7BC0F22F3FC14C5550CB7E968A47E911"
+					"size"		"DA01779189B6C198E67FA4CAF1D24DC2"
+					"download"		"084B5BC2FC5DFDCFEBFFAB790D7A1E33"
+				}
+				"pcpatch_rc02"
+				{
+					"gid"		"397F6AE406AB63BB0DA0FDAF437FCD60"
+					"size"		"FA590BE67342E9EBF5325F704607FD9A"
+					"download"		"EAD1B22444A8D291448EF787B26321CF"
+				}
+				"pcpatch_rc03"
+				{
+					"gid"		"630AEED9BF34AC129BA6B9C0405AAC01"
+					"size"		"B5637FFA68C0BC6A60213E9C92504816"
+					"download"		"B9EA977258678427AEDE2E4DA5C94480"
 				}
 				"pre-alpha"
 				{
@@ -431,18 +438,6 @@
 					"size"		"CCE372DF5721AB3A9289340F10A13D5D"
 					"download"		"D0F5B3F90FD1733EC9263C991405D529"
 				}
-				"rc_candidate1"
-				{
-					"gid"		"2A04995FE3622F799BDA1301CB71CE05"
-					"size"		"0DD7BE2233DD778A5BCB1DAD984D580A"
-					"download"		"04ACD81BBB968C5D39BBFAF09EBB12BC"
-				}
-				"rc_candidate2"
-				{
-					"gid"		"6504E9F217C1D69172AF785E71A2DACF"
-					"size"		"C227BCC8F2AF3AB447236D9CE01EE1C1"
-					"download"		"53995C380F8A8B9BC5AFEB74C8613AAE"
-				}
 				"rc_candidate3"
 				{
 					"gid"		"28AE1E38F44756199B1604A2C53EA633"
@@ -454,12 +449,6 @@
 					"gid"		"F6BE1744F5179DD16EF333F3A351C7E5"
 					"size"		"76EA430045CA1E983C3E935B00371096"
 					"download"		"ECB62D200D540495CAD1000B502672BD"
-				}
-				"steamdeck_rc2"
-				{
-					"gid"		"E4F3AAC30823CB4B77B34667D308A7D1"
-					"size"		"3612E6D5E117ECF5B4A48AAD12131852"
-					"download"		"1B72F7BAAB1903E40B3FD3C52E48F45B"
 				}
 			}
 		}
@@ -489,11 +478,23 @@
 					"size"		"FAA448A860F587CD016C8F46A6388B55"
 					"download"		"FAA448A860F587CD016C8F46A6388B55"
 				}
-				"ms47_extension15"
+				"pcpatch_rc01"
 				{
-					"gid"		"342D27E4588AB6EE7B3C6A803B6696A7"
-					"size"		"374F0BECCBDAA916784B1D538E565241"
-					"download"		"0DB970A121825BD280AAEF851C558A6B"
+					"gid"		"536DD6718729C6E15145345A15903B81"
+					"size"		"9238A58516262A93E65AADC2DA2B9859"
+					"download"		"9238A58516262A93E65AADC2DA2B9859"
+				}
+				"pcpatch_rc02"
+				{
+					"gid"		"C14E7727BFC9DC9B8E9F74D3B6E83764"
+					"size"		"95DA6EC2F0D3AECA5B050E33E9E17858"
+					"download"		"95DA6EC2F0D3AECA5B050E33E9E17858"
+				}
+				"pcpatch_rc03"
+				{
+					"gid"		"59017DB54180870B4423A74E7A87CACC"
+					"size"		"230643EAB3997230E7FA256E2423F35B"
+					"download"		"230643EAB3997230E7FA256E2423F35B"
 				}
 				"pressandriot"
 				{
@@ -513,29 +514,11 @@
 					"size"		"CCE372DF5721AB3A9289340F10A13D5D"
 					"download"		"13A0DFC68F8597EE25BEDCE0ADC8C6D7"
 				}
-				"rc_candidate1"
-				{
-					"gid"		"7C2E92D1C30E52918967C54283CAB4BD"
-					"size"		"0DD7BE2233DD778A5BCB1DAD984D580A"
-					"download"		"0D8C80D3F09B6408094A5BE161C80B89"
-				}
-				"rc_candidate2"
-				{
-					"gid"		"8CCAC3D73B9762C7077E4D2C50DD5DFA"
-					"size"		"C227BCC8F2AF3AB447236D9CE01EE1C1"
-					"download"		"53995C380F8A8B9BC5AFEB74C8613AAE"
-				}
 				"rc_candidate3"
 				{
 					"gid"		"118B2DAA1A6AF43E0DD13280FC946C90"
 					"size"		"C182361844532CE36FFF1DF5470290DC"
 					"download"		"C182361844532CE36FFF1DF5470290DC"
-				}
-				"steamdeck_rc2"
-				{
-					"gid"		"2EF6E52591F332C9975747273A2B1A4C"
-					"size"		"3612E6D5E117ECF5B4A48AAD12131852"
-					"download"		"1B72F7BAAB1903E40B3FD3C52E48F45B"
 				}
 			}
 		}
@@ -543,8 +526,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12468890"
-				"timeupdated"		"1698783338"
+				"buildid"		"12711064"
+				"timeupdated"		"1701367272"
 			}
 			"1.0_pcsubmission"
 			{
@@ -572,9 +555,9 @@
 			}
 			"debug_build"
 			{
-				"buildid"		"12468890"
+				"buildid"		"12641750"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697610717"
+				"timeupdated"		"1699373058"
 			}
 			"demo_gamescom"
 			{
@@ -582,23 +565,29 @@
 				"pwdrequired"		"1"
 				"timeupdated"		"1693476446"
 			}
-			"ev_age_rating"
-			{
-				"buildid"		"7378627"
-				"pwdrequired"		"1"
-				"timeupdated"		"1631893747"
-			}
-			"ms47_extension15"
-			{
-				"buildid"		"12179447"
-				"pwdrequired"		"1"
-				"timeupdated"		"1694698344"
-			}
 			"pc_marketing"
 			{
 				"buildid"		"11847805"
 				"pwdrequired"		"1"
 				"timeupdated"		"1690978003"
+			}
+			"pcpatch_rc01"
+			{
+				"buildid"		"12673335"
+				"pwdrequired"		"1"
+				"timeupdated"		"1699635442"
+			}
+			"pcpatch_rc02"
+			{
+				"buildid"		"12689342"
+				"pwdrequired"		"1"
+				"timeupdated"		"1699881137"
+			}
+			"pcpatch_rc03"
+			{
+				"buildid"		"12711064"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700061084"
 			}
 			"pre-alpha"
 			{
@@ -630,18 +619,6 @@
 				"pwdrequired"		"1"
 				"timeupdated"		"1694628154"
 			}
-			"rc_candidate1"
-			{
-				"buildid"		"12245065"
-				"pwdrequired"		"1"
-				"timeupdated"		"1695289697"
-			}
-			"rc_candidate2"
-			{
-				"buildid"		"12355360"
-				"pwdrequired"		"1"
-				"timeupdated"		"1696508963"
-			}
 			"rc_candidate3"
 			{
 				"buildid"		"12468890"
@@ -653,12 +630,6 @@
 				"buildid"		"7997224"
 				"pwdrequired"		"1"
 				"timeupdated"		"1641837347"
-			}
-			"steamdeck_rc2"
-			{
-				"buildid"		"12355390"
-				"pwdrequired"		"1"
-				"timeupdated"		"1696508916"
 			}
 		}
 	}
