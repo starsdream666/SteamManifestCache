@@ -37,25 +37,25 @@
 		"osextended"		"macos64"
 		"steam_deck_compatibility"
 		{
-			"category"		"2"
-			"test_timestamp"		"1689811200"
-			"tested_build_id"		"11619283"
+			"category"		"3"
+			"test_timestamp"		"1701302400"
+			"tested_build_id"		"12787081"
 			"tests"
 			{
 				"0"
 				{
-					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 				}
 				"1"
 				{
 					"display"		"4"
-					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
 				}
 				"2"
 				{
 					"display"		"4"
-					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
 				}
 				"3"
 				{
@@ -70,7 +70,7 @@
 				"requires_non_controller_launcher_nav"		"0"
 				"primary_player_is_controller_slot_0"		"0"
 				"non_deck_display_glyphs"		"0"
-				"small_text"		"1"
+				"small_text"		"0"
 				"requires_internet_for_setup"		"0"
 				"requires_internet_for_singleplayer"		"0"
 				"recommended_runtime"		"native"
@@ -234,13 +234,13 @@
 			"13"		"4695"
 			"14"		"19"
 			"15"		"4305"
-			"16"		"1756"
-			"17"		"1654"
+			"16"		"1654"
+			"17"		"1756"
 			"18"		"1695"
 			"19"		"1702"
 		}
 		"review_score"		"8"
-		"review_percentage"		"92"
+		"review_percentage"		"93"
 	}
 	"extended"
 	{
@@ -318,9 +318,9 @@
 			{
 				"public"
 				{
-					"gid"		"5228404355724262093"
-					"size"		"855571133"
-					"download"		"398652448"
+					"gid"		"2280881462618114424"
+					"size"		"849286365"
+					"download"		"398652640"
 				}
 				"beautification(v112r5)"
 				{
@@ -342,9 +342,9 @@
 				}
 				"next-version-preview"
 				{
-					"gid"		"5228404355724262093"
-					"size"		"855571133"
-					"download"		"398652448"
+					"gid"		"2280881462618114424"
+					"size"		"849286365"
+					"download"		"398652640"
 				}
 				"v117r7"
 				{
@@ -381,15 +381,15 @@
 			{
 				"alpha-unstable"
 				{
-					"gid"		"E7E83C3B8F38058D820502278AF82535"
-					"size"		"EFB1D095576BB8DC6E4F30F689DB649A"
-					"download"		"9EE45D493D3223F9319D65513DE0A07F"
+					"gid"		"D3CB15184E62AA3DB0F08D9E12F9A493"
+					"size"		"1FF7C487EA804132F808C1D2A7941EA2"
+					"download"		"D16BA5187D144846177321ACD887ED9B"
 				}
 				"dev-test"
 				{
-					"gid"		"EBCAC39487312D54543CEADBA918A15A"
-					"size"		"69FA62BDDC1A9F9509978386F885F615"
-					"download"		"0F717E302B5096A16C6FFB7A26D0EC6A"
+					"gid"		"D3FA71D562CEE3E7DADE591AB6E1FA6B"
+					"size"		"13D630E694D8E0645A4EE970DA74A893"
+					"download"		"CC491355B489A888231CBB5C3D43EF04"
 				}
 				"firstversion"
 				{
@@ -415,9 +415,9 @@
 			{
 				"public"
 				{
-					"gid"		"8699220420805342677"
-					"size"		"847218873"
-					"download"		"398920656"
+					"gid"		"4483225258346151468"
+					"size"		"847225785"
+					"download"		"398920464"
 				}
 				"beautification(v112r5)"
 				{
@@ -439,9 +439,9 @@
 				}
 				"next-version-preview"
 				{
-					"gid"		"8699220420805342677"
-					"size"		"847218873"
-					"download"		"398920656"
+					"gid"		"4483225258346151468"
+					"size"		"847225785"
+					"download"		"398920464"
 				}
 				"v117r7"
 				{
@@ -478,15 +478,15 @@
 			{
 				"alpha-unstable"
 				{
-					"gid"		"C4B8B8F4D0F98CB5739ABD2A34BB93F8"
-					"size"		"E578ED55D1B6EAF19A388EB8066F3FBA"
-					"download"		"385407CC9A7F26DDC41951D57F0D6D8B"
+					"gid"		"F093580AE5BA245E66B470026F3CFCA2"
+					"size"		"98F8C37B1E062D70888FEB4B2E3DB8C1"
+					"download"		"342C2B5461E7AAF04D5531A2F2EF26DE"
 				}
 				"dev-test"
 				{
-					"gid"		"4B0B1F65D220771FE35D0377BC276A0D"
-					"size"		"85AA652DF4EEC9FDA7A58C81C9F31416"
-					"download"		"4F53AA2E3AE3540FC9A27F3FE6C65EF9"
+					"gid"		"A14E4271A1228DD35F3F805DC5CC4AAF"
+					"size"		"36B31EEE22CE01B55E13670F93A5BE3F"
+					"download"		"35AB3905B6F5251AE2BEA8D61BC889FB"
 				}
 				"firstversion"
 				{
@@ -512,9 +512,9 @@
 			{
 				"public"
 				{
-					"gid"		"2471682152329998611"
-					"size"		"850376021"
-					"download"		"403077920"
+					"gid"		"7659867263686198522"
+					"size"		"856674741"
+					"download"		"403082672"
 				}
 				"beautification(v112r5)"
 				{
@@ -536,9 +536,9 @@
 				}
 				"next-version-preview"
 				{
-					"gid"		"2471682152329998611"
-					"size"		"850376021"
-					"download"		"403077920"
+					"gid"		"7659867263686198522"
+					"size"		"856674741"
+					"download"		"403082672"
 				}
 				"v117r7"
 				{
@@ -575,15 +575,15 @@
 			{
 				"alpha-unstable"
 				{
-					"gid"		"2C2A6471658E47454E418BEFE008D38A"
-					"size"		"AB3DCF94F9951B2041671E7E4C43CA26"
-					"download"		"6AD4C5D6D8B7341C605C9A2B039A9AF7"
+					"gid"		"652D6DA07759D5EBBB3780AB0AF99588"
+					"size"		"26CD60C69D4EC1B40FC6A9FF74A4EF70"
+					"download"		"67BDCC1677FAC4BF52821CEB1D7CC7BF"
 				}
 				"dev-test"
 				{
-					"gid"		"B3139A37F6FA4DEBC2C36654CF2FC7EC"
-					"size"		"8E1617F0C66B67FC1FB2F4C57A812642"
-					"download"		"FCD11FA1E61AC6092529DB20E517A85E"
+					"gid"		"76B715BF96A272A418EC576EBC18B07F"
+					"size"		"3ACD7F55A448CEA0897CAAC67DD67836"
+					"download"		"D547EEBE0484AD52B3A1629BB749B146"
 				}
 				"firstversion"
 				{
@@ -610,9 +610,9 @@
 			{
 				"public"
 				{
-					"gid"		"5977252226642062786"
-					"size"		"864408965"
-					"download"		"402480816"
+					"gid"		"3485094590771445481"
+					"size"		"870707685"
+					"download"		"402488672"
 				}
 				"beautification(v112r5)"
 				{
@@ -634,9 +634,9 @@
 				}
 				"next-version-preview"
 				{
-					"gid"		"5977252226642062786"
-					"size"		"864408965"
-					"download"		"402480816"
+					"gid"		"3485094590771445481"
+					"size"		"870707685"
+					"download"		"402488672"
 				}
 				"v117r7"
 				{
@@ -673,15 +673,15 @@
 			{
 				"alpha-unstable"
 				{
-					"gid"		"813C5938C6C8326499B9FA7E1578DA62"
-					"size"		"1E9721AE1618871010FD5A2B29D32020"
-					"download"		"9BEC2EC87FB4B5E6C724043DE5F9CCBB"
+					"gid"		"A4C6DD4A00EE6B986D9AECB5BBB81CAF"
+					"size"		"1FFE73FA04A5A33E5DC49CD66C348031"
+					"download"		"A5B1C81EE10F6DAC144999ABB4001CEF"
 				}
 				"dev-test"
 				{
-					"gid"		"724B382F429BE55974B46153CD5F0D3E"
-					"size"		"461DF4280DD3234DCF469EF22BB553C9"
-					"download"		"EC8BDE70B019DEECC3875B8FA0C52642"
+					"gid"		"5053EF1DC077AEA9FE583795B44E2E61"
+					"size"		"D37077261024C0159685731FFC6976C7"
+					"download"		"5AE67125D79F7A392B47918D7751A08B"
 				}
 				"firstversion"
 				{
@@ -704,15 +704,15 @@
 			{
 				"public"
 				{
-					"gid"		"6874268012339028418"
-					"size"		"304990301"
-					"download"		"309152880"
+					"gid"		"560996320981635436"
+					"size"		"304942578"
+					"download"		"309103952"
 				}
 				"next-version-preview"
 				{
-					"gid"		"6874268012339028418"
-					"size"		"304990301"
-					"download"		"309152880"
+					"gid"		"560996320981635436"
+					"size"		"304942578"
+					"download"		"309103952"
 				}
 				"v117r7"
 				{
@@ -737,15 +737,15 @@
 			{
 				"alpha-unstable"
 				{
-					"gid"		"CEB3FCC6BE2D1DA745AF26DBD346EE67"
-					"size"		"2942A6E5F2B0C26ED2D74873B05EC9C5"
-					"download"		"3E8F2A93C850CA6C7600312E70108D38"
+					"gid"		"C31D513523C88A277CEB88E173B0A7D6"
+					"size"		"83181C570DC4622C884ACC824B7F1D31"
+					"download"		"BE0A5C5A90393D1D834DA10976FAA0A4"
 				}
 				"dev-test"
 				{
-					"gid"		"E390C0AF91C4C614886DAD885287E16E"
-					"size"		"98A2ED91BAF946FB43769D1271DCAD6E"
-					"download"		"1608333C9CB7DB2AE274F724EDA264ED"
+					"gid"		"BC0935A490F31CECDF5CAA9E7B0BD2D9"
+					"size"		"2BE1294DCEAFC3B492A9B23B04E30DBB"
+					"download"		"83798F987BDECBC3DEF10571AF376F77"
 				}
 				"firstversion"
 				{
@@ -765,14 +765,14 @@
 		{
 			"public"
 			{
-				"buildid"		"11619283"
-				"timeupdated"		"1688444618"
+				"buildid"		"12845305"
+				"timeupdated"		"1701443734"
 			}
 			"alpha-unstable"
 			{
-				"buildid"		"11619283"
+				"buildid"		"12845305"
 				"pwdrequired"		"1"
-				"timeupdated"		"1688443969"
+				"timeupdated"		"1701396460"
 			}
 			"beautification(v112r5)"
 			{
@@ -781,9 +781,9 @@
 			}
 			"dev-test"
 			{
-				"buildid"		"12052130"
+				"buildid"		"12845305"
 				"pwdrequired"		"1"
-				"timeupdated"		"1693249290"
+				"timeupdated"		"1701396472"
 			}
 			"firstversion"
 			{
@@ -810,9 +810,9 @@
 			}
 			"next-version-preview"
 			{
-				"buildid"		"11619283"
+				"buildid"		"12845305"
 				"description"		"Beta"
-				"timeupdated"		"1688443995"
+				"timeupdated"		"1701396996"
 			}
 			"v117r7"
 			{
