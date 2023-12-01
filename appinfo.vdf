@@ -42,6 +42,54 @@
 			"tchinese"		"1"
 			"japanese"		"1"
 		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1700697600"
+			"tested_build_id"		"12603234"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
 		"controllertagwizard"		"1"
 		"controller_support"		"full"
 		"small_capsule"
@@ -187,24 +235,24 @@
 			{
 				"public"
 				{
-					"gid"		"3928476983795031132"
-					"size"		"977171107"
-					"download"		"191377120"
+					"gid"		"2610136122259124919"
+					"size"		"976956987"
+					"download"		"191372368"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"banbenyanshou"
 				{
-					"gid"		"177A43078EAD5C4F91F67543BC24981C"
-					"size"		"97DA0036D3273EEC548E78E7628B7AC0"
-					"download"		"12A02A392806DEDC46689AF3C41103A5"
+					"gid"		"19B19CB5BE3B2BA4F544E9937E2C1B33"
+					"size"		"99D63262B91EBD5B3C44BB1F56783988"
+					"download"		"37377C8B74E4E8E944D4D93D20DC3B07"
 				}
 				"bilibiliqatesting"
 				{
-					"gid"		"240FC8E837FDD8C3494E26C79D600761"
-					"size"		"774049332AC641917C280BE6067D9720"
-					"download"		"133A1E5D3295C682B4E5AE8C83FA6935"
+					"gid"		"E5B1622063E93E2FF0F77ED60F00E087"
+					"size"		"8498EBD2CF60142D48AD0CF40F971EC4"
+					"download"		"6045496746D0ED015BF18DB852726A20"
 				}
 				"bilibiliqatesting2"
 				{
@@ -220,9 +268,9 @@
 				}
 				"fullcontenttest"
 				{
-					"gid"		"724A09F0A2C62C9F05A7BCBF85BC9F42"
-					"size"		"B3710866C6A412C1C33D2CC547B78359"
-					"download"		"7AEECEFDDDAF5B58B85B76FDE82B3ED4"
+					"gid"		"E2E1116F8E9070E1A84ECD64992BE5B3"
+					"size"		"3DE21EE39AC40F08D923DE7BCEDF19EF"
+					"download"		"A4467A0B03A0892CEEA84012FD0BFFF0"
 				}
 				"shantuiceshi"
 				{
@@ -242,6 +290,12 @@
 					"size"		"545EB18DDC4E897AD9E3C307310DDFB4"
 					"download"		"D470E87D44C073B65BD59ACD787484BB"
 				}
+				"yonghuqatesting"
+				{
+					"gid"		"C69C816AF5082B0F5897DFE169EA1278"
+					"size"		"819CE18CD05334DEF52DB659C1CA967C"
+					"download"		"BAA08C143B8BC0D08298D136FA385F77"
+				}
 			}
 		}
 		"branches"
@@ -259,20 +313,20 @@
 			}
 			"public"
 			{
-				"buildid"		"12799584"
-				"timeupdated"		"1700965901"
+				"buildid"		"12850078"
+				"timeupdated"		"1701435228"
 			}
 			"banbenyanshou"
 			{
-				"buildid"		"12791565"
+				"buildid"		"12848969"
 				"pwdrequired"		"1"
-				"timeupdated"		"1700839939"
+				"timeupdated"		"1701428273"
 			}
 			"bilibiliqatesting"
 			{
-				"buildid"		"12782123"
+				"buildid"		"12848969"
 				"pwdrequired"		"1"
-				"timeupdated"		"1700754844"
+				"timeupdated"		"1701428141"
 			}
 			"bilibiliqatesting2"
 			{
@@ -288,9 +342,9 @@
 			}
 			"fullcontenttest"
 			{
-				"buildid"		"12799584"
+				"buildid"		"12850047"
 				"pwdrequired"		"1"
-				"timeupdated"		"1700965888"
+				"timeupdated"		"1701434412"
 			}
 			"shantuiceshi"
 			{
@@ -303,6 +357,12 @@
 				"buildid"		"12491765"
 				"pwdrequired"		"1"
 				"timeupdated"		"1697807081"
+			}
+			"yonghuqatesting"
+			{
+				"buildid"		"12849690"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701432647"
 			}
 		}
 	}
