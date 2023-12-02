@@ -374,9 +374,9 @@
 			{
 				"public"
 				{
-					"gid"		"7237218147429438159"
+					"gid"		"4130193189290584167"
 					"size"		"16412885"
-					"download"		"4185696"
+					"download"		"4185328"
 				}
 				"beta"
 				{
@@ -395,9 +395,9 @@
 			{
 				"test"
 				{
-					"gid"		"61E8FCA7ECDE9DBC2CB5ECFABEB04993"
+					"gid"		"9FA561F61199836A5C324253256BDA88"
 					"size"		"1C594979582225A104FA1D8498E8172C"
-					"download"		"2D75EF4082EFBEA86F3AFCB9EE1CA709"
+					"download"		"169A24C76D92425762EAB7E2295A8306"
 				}
 			}
 		}
@@ -450,7 +450,7 @@
 			{
 				"public"
 				{
-					"gid"		"5754033847254804507"
+					"gid"		"1297802730402375185"
 					"size"		"55480049"
 					"download"		"19253680"
 				}
@@ -471,7 +471,7 @@
 			{
 				"test"
 				{
-					"gid"		"F514A28378887F29E97753B028AE8534"
+					"gid"		"76C359BBEF997B5EC2629F245B4AC914"
 					"size"		"11478502D134DD99A522C0FD52463042"
 					"download"		"FA767B3CB59BBC7FE836E60B3AD43845"
 				}
@@ -489,9 +489,9 @@
 			{
 				"public"
 				{
-					"gid"		"1095988521420978300"
-					"size"		"127606427"
-					"download"		"42473200"
+					"gid"		"8764443593845694705"
+					"size"		"127604093"
+					"download"		"42473168"
 				}
 				"beta"
 				{
@@ -510,9 +510,9 @@
 			{
 				"test"
 				{
-					"gid"		"583D8A9CF6AC6BA421F2D261488E684F"
-					"size"		"52B4FDDFDB4DA39159AF13A92E3668C2"
-					"download"		"9420A6223347DC34AB2B45532965C33E"
+					"gid"		"47D984195D4F2A6701D3B6F994C8A7E5"
+					"size"		"51EFD721E6A4FBE70AF3E5B474FC2D3D"
+					"download"		"BC1A2318EC9D19768FEF52715F3289ED"
 				}
 			}
 		}
@@ -528,9 +528,9 @@
 			{
 				"public"
 				{
-					"gid"		"4527901617860125985"
-					"size"		"49665541"
-					"download"		"18904320"
+					"gid"		"1143901299018542245"
+					"size"		"49665029"
+					"download"		"19254768"
 				}
 				"beta"
 				{
@@ -549,9 +549,9 @@
 			{
 				"test"
 				{
-					"gid"		"750B60E8CCD70F7878D358BFBDEA61FE"
-					"size"		"8B009B020A5D58EC3F2A54C5EC3A457F"
-					"download"		"D14B107FE87701EAF253D9D10008E78B"
+					"gid"		"3111D4B8A7B3400F82195064C38283BF"
+					"size"		"BBF3165B855AB5161566B693EDDC424C"
+					"download"		"9F8E640D667F2C082597F915D248BB5B"
 				}
 			}
 		}
@@ -893,8 +893,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12833965"
-				"timeupdated"		"1701306354"
+				"buildid"		"12853350"
+				"timeupdated"		"1701460000"
 			}
 			"beta"
 			{
@@ -910,9 +910,9 @@
 			}
 			"test"
 			{
-				"buildid"		"12835449"
+				"buildid"		"12853350"
 				"pwdrequired"		"1"
-				"timeupdated"		"1701319872"
+				"timeupdated"		"1701456975"
 			}
 		}
 	}
@@ -941,6 +941,73 @@
 				"platforms"
 				{
 					"1"		"all"
+				}
+			}
+		}
+	}
+	"localization"
+	{
+		"richpresence"
+		{
+			"english"
+			{
+				"tokens"
+				{
+					"#hl_rp_mainmenu"		"Main Menu"
+					"#hl_rp_mainmenu_idle"		"Main Menu (Idle)"
+					"#hl_rp_singleplayerknown"		"{%game:map_name%}{%game:pause_state%}"
+					"#hl_status_singleplayerknown"		"Playing Singleplayer, currently at {%game:map_name%}"
+					"#hl_rp_singleplayerunknown"		"Custom Map: %game:map_name%{%game:pause_state%}"
+					"#hl_status_singleplayerunknown"		"Playing Singleplayer, on custom map: %game:map_name%"
+					"#hl_rp_deathmatchknown"		"Deathmatch: {%game:map_name%}"
+					"#hl_status_deathmatchknown"		"Playing Deathmatch on {%game:map_name%} | %game:server_count%/%game:server_limit% players"
+					"#hl_rp_deathmatchunknown"		"Deathmatch: %game:map_name%"
+					"#hl_status_deathmatchunknown"		"Playing Deathmatch on %game:map_name% | %game:server_count%/%game:server_limit% players"
+					"#hl_rp_teamplayknown"		"Team Deathmatch: {%game:map_name%}"
+					"#hl_status_teamplayknown"		"Playing Team Deathmatch on {%game:map_name%} | %game:server_count%/%game:server_limit% players"
+					"#hl_rp_teamplayunknown"		"Team Deathmatch: %game:map_name%"
+					"#hl_status_teamplayunknown"		"Playing Team Deathmatch on %game:map_name% | %game:server_count%/%game:server_limit% players"
+					"#hl_rp_paused"		" (Paused)"
+					"#hl_rp_unpaused"		" "
+					"#t0a0title"		"Hazard Course"
+					"#c0a0title"		"Black Mesa Inbound"
+					"#c0a1title"		"Anomalous Materials"
+					"#c1a1title"		"Unforeseen Consequences"
+					"#c1a2title"		"Office Complex"
+					"#c1a3title"		"We've Got Hostiles"
+					"#c1a4title"		"Blast Pit"
+					"#c2a1title"		"Power Up"
+					"#c2a2title"		"On a Rail"
+					"#c2a3title"		"Apprehension"
+					"#c2a4title1"		"Residue Processing"
+					"#c2a4title2"		"Questionable Ethics"
+					"#c2a5title"		"Surface Tension"
+					"#c3a1title"		"Forget About Freeman!"
+					"#c3a2title"		"Lambda Core"
+					"#c4a1title"		"Xen"
+					"#c4a1atitle"		"Interloper"
+					"#c4a2title"		"Gonarch's Lair"
+					"#c4a3title"		"Nihilanth"
+					"#c5title"		"Endgame"
+					"#uplinktitle"		"Uplink"
+					"#contamination"		"Contamination"
+					"#crossfire"		"Crossfire"
+					"#datacore"		"Datacore"
+					"#disposal"		"Disposal"
+					"#doublecross"		"Doublecross"
+					"#frenzy"		"Frenzy"
+					"#gasworks"		"Gasworks"
+					"#lambda_bunker"		"Lambda Bunker"
+					"#pool_party"		"Pool Party"
+					"#rapidcore"		"Rapidcore"
+					"#rocket_frenzy"		"Rocket Frenzy"
+					"#rustmill"		"Rustmill"
+					"#snark_pit"		"Snark Pit"
+					"#stalkyard"		"Stalkyard"
+					"#subtransit"		"Subtransit"
+					"#undertow"		"Undertow"
+					"#xen_dm"		"Xen DM"
+					"#bounce"		"Bounce"
 				}
 			}
 		}
