@@ -70,6 +70,7 @@
 		}
 		"market_presence"		"1"
 		"metacritic_name"		"Primal Carnage: Extinction"
+		"controllertagwizard"		"1"
 		"controller_support"		"full"
 		"small_capsule"
 		{
@@ -142,6 +143,9 @@
 			"category_47"		"1"
 			"category_45"		"1"
 			"category_46"		"1"
+			"category_55"		"1"
+			"category_57"		"1"
+			"category_56"		"1"
 		}
 		"supported_languages"
 		{
@@ -227,7 +231,17 @@
 				"description"		"Launch"
 			}
 		}
-		"steamcontrollertemplateindex"		"2"
+		"steamcontrollertemplateindex"		"1"
+		"steamcontrollerconfigdetails"
+		{
+			"3094373068"
+			{
+				"controller_type"		"controller_neptune"
+				"enabled_branches"		"default,staging"
+				"use_action_block"		"false"
+			}
+		}
+		"steamdecktouchscreen"		"1"
 	}
 	"depots"
 	{
@@ -291,18 +305,18 @@
 			{
 				"public"
 				{
-					"gid"		"8370969855181816425"
-					"size"		"10430319817"
-					"download"		"7840889968"
+					"gid"		"2185320549583683899"
+					"size"		"10430625649"
+					"download"		"7841216816"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"staging"
 				{
-					"gid"		"BAE0F141273E5630AAA24D2B53D7AD75"
-					"size"		"843363B86C12324343DC445B51F36A19"
-					"download"		"CF8E9B997EA8C230ADE6E90836FCE253"
+					"gid"		"F2650D62683B65D196FE8001785DBE66"
+					"size"		"6B823BFC9C337D652A9FB26582A15156"
+					"download"		"94CB3D895FBEDB0ED2024A789BDD9EDB"
 				}
 			}
 		}
@@ -311,14 +325,14 @@
 		{
 			"public"
 			{
-				"buildid"		"12765868"
-				"timeupdated"		"1700658759"
+				"buildid"		"12860817"
+				"timeupdated"		"1701569709"
 			}
 			"staging"
 			{
-				"buildid"		"12757491"
+				"buildid"		"12860817"
 				"pwdrequired"		"1"
-				"timeupdated"		"1700579523"
+				"timeupdated"		"1701569161"
 			}
 		}
 	}
