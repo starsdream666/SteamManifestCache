@@ -1,0 +1,420 @@
+"appinfo"
+{
+	"appid"		"671860"
+	"common"
+	{
+		"name"		"BattleBit Remastered"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"type"		"Game"
+		"clienttga"		"384ed0905e00e4ff8853f86adee40f10cd48437e"
+		"clienticon"		"3564229c9701a87c14fb3be32d6e01673de0deb7"
+		"icon"		"84d4db032ad4d637b97e9a25f7d3da70b6fd6257"
+		"logo"		"2a43a41564687c16090aa5e93ae70ecddb30efe7"
+		"logo_small"		"2a43a41564687c16090aa5e93ae70ecddb30efe7_thumb"
+		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1689984000"
+			"tested_build_id"		"11717135"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-3"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"62.36872812135354"
+				"height_pct"		"95.97482783186891"
+			}
+		}
+		"store_asset_mtime"		"1701366203"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"SgtOkiDoki"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Vilaskis"
+			}
+			"2"
+			{
+				"type"		"developer"
+				"name"		"TheLiquidHorse"
+			}
+			"3"
+			{
+				"type"		"publisher"
+				"name"		"SgtOkiDoki"
+			}
+		}
+		"primary_genre"		"29"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"29"
+			"2"		"70"
+		}
+		"category"
+		{
+			"category_36"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_20"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"arabic"
+			{
+				"supported"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+			}
+			"finnish"
+			{
+				"supported"		"true"
+			}
+			"hungarian"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+			}
+			"norwegian"
+			{
+				"supported"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+			"swedish"
+			{
+				"supported"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+			}
+			"vietnamese"
+			{
+				"supported"		"true"
+			}
+			"belarusian"
+			{
+				"supported"		"true"
+			}
+			"estonian"
+			{
+				"supported"		"true"
+			}
+			"macedonian"
+			{
+				"supported"		"true"
+			}
+			"serbian"
+			{
+				"supported"		"true"
+			}
+			"slovak"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1686840060"
+		"community_hub_visible"		"1"
+		"gameid"		"671860"
+		"store_tags"
+		{
+			"0"		"1663"
+			"1"		"3859"
+			"2"		"1774"
+			"3"		"5363"
+			"4"		"4168"
+			"5"		"128"
+			"6"		"1775"
+			"7"		"19"
+			"8"		"1678"
+			"9"		"3839"
+			"10"		"1708"
+			"11"		"5711"
+			"12"		"3993"
+			"13"		"4155"
+			"14"		"4747"
+			"15"		"5765"
+			"16"		"4191"
+			"17"		"493"
+			"18"		"492"
+			"19"		"1732"
+		}
+		"review_score"		"8"
+		"review_percentage"		"89"
+	}
+	"extended"
+	{
+		"gamedir"		"BattleBit Master Server"
+		"serverbrowsername"		"BB Serversa"
+		"anti_cheat_support_url"		"https://www.easy.ac/r/steam/gamebans/?steamAppId=671860"
+		"developer"		"SgtOkiDoki"
+		"publisher"		"SgtOkiDoki"
+		"homepage"		"http://joinbattlebit.com"
+		"listofdlc"		"2390150"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"BattleBit Remastered"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"BattleBitEAC.exe"
+				"type"		"default"
+				"description_loc"
+				{
+					"english"		"Launch BattleBit Remastered with Easy Anti Cheat."
+				}
+				"description"		"Launch BattleBit Remastered with Easy Anti Cheat."
+			}
+			"1"
+			{
+				"executable"		"EasyAntiCheat\\EasyAntiCheat_EOS_Setup.exe"
+				"arguments"		" install 43ed9a4620fa486994c0b368cce73b5d"
+				"description_loc"
+				{
+					"english"		"Install & Repair Easy Anti Cheat."
+				}
+				"description"		"Install & Repair Easy Anti Cheat."
+			}
+		}
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"hasdepotsindlc"		"0"
+		"671861"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1481135060303645839"
+					"size"		"2667230475"
+					"download"		"687062960"
+				}
+				"community-testing"
+				{
+					"gid"		"1481135060303645839"
+					"size"		"2667230475"
+					"download"		"687062960"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"anti-cheat-testing"
+				{
+					"gid"		"6578688B5331661BF84A46C1F0F5ADE7"
+					"size"		"A9613954FA5BA3C0DEAA4FBA28575445"
+					"download"		"C5A805ADB5FBEA11B05EC51CD4670619"
+				}
+				"beta"
+				{
+					"gid"		"C8404B2A874E9C10352DFE747A1E57A8"
+					"size"		"DE0ED7E08845AF3B4D730A90A29C6766"
+					"download"		"DC4B9AAFD89E0848E2897555D496B3F1"
+				}
+				"developer"
+				{
+					"gid"		"77867A066303721614A364D401A5A3F8"
+					"size"		"D868AE58CF9D30E86261B343384F25C2"
+					"download"		"B21E9224FCABA9D461617FD6A69712EB"
+				}
+				"private"
+				{
+					"gid"		"D3A4CC67A06E3313D845F9626D4A49CB"
+					"size"		"8381D272C39DDB18E651C6F962597168"
+					"download"		"E4894044F3BBF0772BBD876B93E0B5D3"
+				}
+				"private-test"
+				{
+					"gid"		"3CB1C5769E2FD6CDF7E0F91CD8B0EF7D"
+					"size"		"703A03C4FE0BC620E52142BD10B6D43E"
+					"download"		"0FA9B3BD28581739DF810349680B2137"
+				}
+				"server"
+				{
+					"gid"		"453E62456EAE9AE2B2437707D1C71BFB"
+					"size"		"AC06CBD467EE67FFC53DB7A3E299E54C"
+					"download"		"76D647A1F3E7D238F8AD78BEC87EDBEC"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12841248"
+				"timeupdated"		"1701363896"
+			}
+			"anti-cheat-testing"
+			{
+				"buildid"		"12413168"
+				"pwdrequired"		"1"
+				"timeupdated"		"1697025267"
+			}
+			"beta"
+			{
+				"buildid"		"12841248"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701363257"
+			}
+			"community-testing"
+			{
+				"buildid"		"12841248"
+				"description"		"community servers"
+				"timeupdated"		"1701363290"
+			}
+			"developer"
+			{
+				"buildid"		"12841248"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701363266"
+			}
+			"private"
+			{
+				"buildid"		"12841248"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701363276"
+			}
+			"private-test"
+			{
+				"buildid"		"12841248"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701363282"
+			}
+			"server"
+			{
+				"buildid"		"12841248"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701363385"
+			}
+		}
+	}
+}
