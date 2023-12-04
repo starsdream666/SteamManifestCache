@@ -21,9 +21,9 @@
 		"icon"		"edce14008119095d6c6dea4d10b0c37c0d0031ce"
 		"clienttga"		"dd2fb817d8a5a1b8038954f7c760f7ac94cd8b7a"
 		"clienticon"		"4cdeeb427f6d4839c3b3827740bf0d32a354fd9f"
-		"oslist"		"windows"
+		"oslist"		"windows,macos"
 		"osarch"		""
-		"osextended"		""
+		"osextended"		"macos64,macosapplesilicon,macosnotarized"
 		"openvr_action_manifest_path"		"demeo_Data\\StreamingAssets\\SteamVR\\actions.json"
 		"eulas"
 		{
@@ -322,15 +322,15 @@
 			{
 				"development_content_qa"
 				{
-					"gid"		"085AB282C73374A679173C1304AEAEC0"
-					"size"		"574A0E6678B55B842D0E0EC85503E6C5"
-					"download"		"C39C828DDADDC76AECF2AA82AD6C3C75"
+					"gid"		"AD00AD7D4D5906516A3E62C181137A49"
+					"size"		"893B1F4699743C1719B2D4CC839D4047"
+					"download"		"38259E0A62679DDB2EF3C84DE52DDBD5"
 				}
 				"development_master"
 				{
-					"gid"		"E3709360C67401E6787B6DBD17C334ED"
-					"size"		"184CEC65A38F37059AD8959B75D47F77"
-					"download"		"FEF8F45BDADFDD77749E829622E0CA9C"
+					"gid"		"AC5A1C5930101DDE68E63934888C7FEC"
+					"size"		"003394241AF8895BDF74B47A8E3A061A"
+					"download"		"267AB80E7C482366AA29ADD5D3CA17BC"
 				}
 				"external_review_egs"
 				{
@@ -374,31 +374,30 @@
 		{
 			"config"
 			{
-				"language"		"english"
 				"oslist"		"macos"
 			}
 			"manifests"
 			{
 				"public"
 				{
-					"gid"		"1784838499665040560"
-					"size"		"5039975674"
-					"download"		"2781063168"
+					"gid"		"1496429533838921025"
+					"size"		"5039978438"
+					"download"		"2781065888"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"development_content_qa"
 				{
-					"gid"		"06D7586F54161BDFB31D1B252DA46E8A"
-					"size"		"55BF6260E77F7898784F1E3B8B1312A9"
-					"download"		"0BC5DAC566401B64A60FD9DA01204906"
+					"gid"		"AC8B595A52FC9C473076A36E2D159F35"
+					"size"		"37835619F1BCCA4C516E9637B36FAFD1"
+					"download"		"541A43EFEFDF811A1795C07FD16FCDE0"
 				}
 				"release_candidate"
 				{
-					"gid"		"6CF4BE64E92AAA6C3B4393F7843FE76E"
-					"size"		"D43270CEAB802C844FDA5BDA537F333A"
-					"download"		"3F0DFE7FFDAF3CB98BB675DAD3FCBC3D"
+					"gid"		"D8B36045BC7C53D31AD49C39F031B6F9"
+					"size"		"94BC536BAF7A8490036F9C9E66F1695C"
+					"download"		"36E365F20E058E3948357370EFCA89D6"
 				}
 			}
 		}
@@ -406,20 +405,20 @@
 		{
 			"public"
 			{
-				"buildid"		"12837558"
-				"timeupdated"		"1701341177"
+				"buildid"		"12840438"
+				"timeupdated"		"1701358139"
 			}
 			"development_content_qa"
 			{
-				"buildid"		"12837352"
+				"buildid"		"12840269"
 				"pwdrequired"		"1"
-				"timeupdated"		"1701337549"
+				"timeupdated"		"1701357039"
 			}
 			"development_master"
 			{
-				"buildid"		"12824017"
+				"buildid"		"12855643"
 				"pwdrequired"		"1"
-				"timeupdated"		"1701226901"
+				"timeupdated"		"1701478576"
 			}
 			"external_review_egs"
 			{
@@ -447,9 +446,9 @@
 			}
 			"release_candidate"
 			{
-				"buildid"		"12837558"
+				"buildid"		"12840269"
 				"pwdrequired"		"1"
-				"timeupdated"		"1701338907"
+				"timeupdated"		"1701357020"
 			}
 			"trailer"
 			{
