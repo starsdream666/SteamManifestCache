@@ -81,6 +81,7 @@
 				"gamescope_frame_limiter_not_supported"		"0"
 			}
 		}
+		"controllertagwizard"		"1"
 		"controller_support"		"full"
 		"small_capsule"
 		{
@@ -102,7 +103,7 @@
 				"height_pct"		"68.02982928309461"
 			}
 		}
-		"store_asset_mtime"		"1689883825"
+		"store_asset_mtime"		"1701441738"
 		"associations"
 		{
 			"0"
@@ -124,7 +125,6 @@
 			"2"		"4"
 			"3"		"3"
 			"4"		"28"
-			"5"		"70"
 		}
 		"category"
 		{
@@ -132,6 +132,9 @@
 			"category_45"		"1"
 			"category_46"		"1"
 			"category_28"		"1"
+			"category_55"		"1"
+			"category_57"		"1"
+			"category_1"		"1"
 		}
 		"supported_languages"
 		{
@@ -169,7 +172,7 @@
 				"supported"		"true"
 			}
 		}
-		"steam_release_date"		"1662469218"
+		"steam_release_date"		"1701785117"
 		"community_visible_stats"		"1"
 		"community_hub_visible"		"1"
 		"gameid"		"1401590"
@@ -178,33 +181,33 @@
 			"0"		"1654"
 			"1"		"10235"
 			"2"		"21"
-			"3"		"599"
-			"4"		"3834"
+			"3"		"3834"
+			"4"		"599"
 			"5"		"4747"
 			"6"		"3810"
-			"7"		"9204"
-			"8"		"4182"
-			"9"		"1684"
+			"7"		"4182"
+			"8"		"1684"
+			"9"		"9204"
 			"10"		"1742"
 			"11"		"597"
 			"12"		"3920"
-			"13"		"15564"
-			"14"		"87918"
-			"15"		"5350"
+			"13"		"5350"
+			"14"		"15564"
+			"15"		"87918"
 			"16"		"1702"
 			"17"		"4057"
 			"18"		"493"
 			"19"		"4191"
 		}
 		"review_score"		"8"
-		"review_percentage"		"93"
+		"review_percentage"		"92"
 	}
 	"extended"
 	{
 		"developer"		"Gameloft"
 		"publisher"		"Gameloft"
 		"homepage"		"http://www.disneydreamlightvalley.com/"
-		"listofdlc"		"2061640,2061641"
+		"listofdlc"		"2061640,2061641,2632050,2632060"
 		"dlcavailableonstore"		"1"
 	}
 	"config"
@@ -256,18 +259,18 @@
 			{
 				"public"
 				{
-					"gid"		"7087013051537572330"
-					"size"		"9992917504"
-					"download"		"8543368272"
+					"gid"		"5482679859883651936"
+					"size"		"11604765503"
+					"download"		"9973460288"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"develop"
 				{
-					"gid"		"8954756916152D4463A560C61BFDFAC6"
-					"size"		"6A10526D61543078E845F2F22E693642"
-					"download"		"FCEC6AE3F1DB94A6E697220C5AE35CE9"
+					"gid"		"D06ED681E7062F91D58191A8CF5CF94C"
+					"size"		"AF7C5166DE305D5122A55AEF3B52E2FF"
+					"download"		"336D5221F76C2455CDCA56F3F6F02559"
 				}
 				"latest-qa-build"
 				{
@@ -275,23 +278,65 @@
 					"size"		"9A85D8FCF544E8653CCF7D4AE7146FDB"
 					"download"		"95A1F1CC7809678E8C3D95056224EB26"
 				}
-				"playtest"
+				"preview"
 				{
-					"gid"		"A6D550AA9A9AE1ED0E22E57AC37113E8"
-					"size"		"8BDA28A2420072008F4B3A65C5F57881"
-					"download"		"B530AA85B009D12CE23C9934B53E41BF"
+					"gid"		"AD64A759B2D39A961670B4B16FA828B4"
+					"size"		"9651F7685B3F65975B2426F268A95218"
+					"download"		"12C094D495FAD36F4589DA13F88F476B"
+				}
+				"preview1"
+				{
+					"gid"		"D0DA9464BE84D91F38A3944FBF255634"
+					"size"		"80189C1C9ED433B02FE0386BA4C8DDD4"
+					"download"		"651AFE77FE28D9C12A7220936351893C"
+				}
+				"preview2"
+				{
+					"gid"		"2B85C9AE97987C7396A0E45ED466C3E9"
+					"size"		"C56ABC6B9CE98DFAB5CF0C1396A74BB9"
+					"download"		"9C0AA6660B4DDCB0207D74E9C86E7B02"
+				}
+				"preview3"
+				{
+					"gid"		"9ABD45358B8C47E4705688D959810881"
+					"size"		"D298FFBD8477687AB4992A1DFACF9D01"
+					"download"		"14A3B12100422278A6EDF991242F73D1"
+				}
+				"preview4"
+				{
+					"gid"		"D227ACCD6487E8F88EE5D19A7D36498B"
+					"size"		"E5B309D6F2D55207358E63BCDA3F3501"
+					"download"		"8EE8554A1358CAE3E193C3449046AF88"
+				}
+				"preview5"
+				{
+					"gid"		"6E39B6CA0917404FD6566BF9961B2067"
+					"size"		"70804B1CB1A2FF648F2ECC6BFDCFF233"
+					"download"		"39D238195C635FF49189134C8951C4C5"
+				}
+				"preview6"
+				{
+					"gid"		"026D713E5228BF9A2C87B09FECCB1F8F"
+					"size"		"4954EC5D23E92CCC457DEDA5277AD242"
+					"download"		"F00D6FDCD91FB5B240EB6601EBF214C0"
+				}
+				"preview7"
+				{
+					"gid"		"0A84335B23FA09C711BF80A4C56A2A98"
+					"size"		"F0CD42892B7C0F3203E36E502BF80921"
+					"download"		"4B3B3E8B2A87AF39AD17B9AB739A0A94"
 				}
 				"qa-certification-branch"
 				{
-					"gid"		"4B12DF840B5802CC39CC3F8C86B440DF"
-					"size"		"11D0BE5BB00296A7DD993F592B832E68"
-					"download"		"089084F05FB3D2426354F9364E6A2D86"
+					"gid"		"C524319678DCE92A738C900B524A59F6"
+					"size"		"6CA262F68B375B2F01B4D9CE0BDADA22"
+					"download"		"7FE5E9E3FC069F2F2F54A24255A4CCB5"
 				}
 				"qa-compat-branch"
 				{
-					"gid"		"78A5A408AADAE3DF01C4C8F338C4AEE6"
-					"size"		"564186A654F79D386BC3FD6DD44D3331"
-					"download"		"801272319289E7828A9431A45E90A9F3"
+					"gid"		"5903D707526BA2A0FE4618212AB6B6EC"
+					"size"		"0C4196BFAB59AA82675970BC9BF0F941"
+					"download"		"B8788B60934810ACB422D74E0503332A"
 				}
 			}
 		}
@@ -311,14 +356,14 @@
 		{
 			"public"
 			{
-				"buildid"		"12230325"
-				"timeupdated"		"1695906054"
+				"buildid"		"12822690"
+				"timeupdated"		"1701785094"
 			}
 			"develop"
 			{
-				"buildid"		"12341122"
+				"buildid"		"12876273"
 				"pwdrequired"		"1"
-				"timeupdated"		"1696310779"
+				"timeupdated"		"1701756779"
 			}
 			"latest-qa-build"
 			{
@@ -326,23 +371,65 @@
 				"pwdrequired"		"1"
 				"timeupdated"		"1696282972"
 			}
-			"playtest"
+			"preview"
 			{
-				"buildid"		"12218752"
+				"buildid"		"12753649"
 				"pwdrequired"		"1"
-				"timeupdated"		"1695065759"
+				"timeupdated"		"1700513073"
+			}
+			"preview1"
+			{
+				"buildid"		"12753332"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700510371"
+			}
+			"preview2"
+			{
+				"buildid"		"12753373"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700510758"
+			}
+			"preview3"
+			{
+				"buildid"		"12753415"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700511143"
+			}
+			"preview4"
+			{
+				"buildid"		"12753466"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700511525"
+			}
+			"preview5"
+			{
+				"buildid"		"12753514"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700511909"
+			}
+			"preview6"
+			{
+				"buildid"		"12753551"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700512301"
+			}
+			"preview7"
+			{
+				"buildid"		"12753605"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700512685"
 			}
 			"qa-certification-branch"
 			{
-				"buildid"		"12230325"
+				"buildid"		"12822690"
 				"pwdrequired"		"1"
-				"timeupdated"		"1695164122"
+				"timeupdated"		"1701215485"
 			}
 			"qa-compat-branch"
 			{
-				"buildid"		"12308001"
+				"buildid"		"12763486"
 				"pwdrequired"		"1"
-				"timeupdated"		"1695912799"
+				"timeupdated"		"1700592197"
 			}
 		}
 	}
