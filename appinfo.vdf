@@ -14,6 +14,14 @@
 		"oslist"		"windows"
 		"osarch"		""
 		"osextended"		""
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"russian"		"1"
+			"polish"		"1"
+			"hungarian"		"1"
+		}
 		"content_descriptors"
 		{
 			"0"		"2"
@@ -84,12 +92,12 @@
 			"library_logo"		"en"
 			"logo_position"
 			{
-				"pinned_position"		"UpperCenter"
-				"width_pct"		"50.57736720554277"
-				"height_pct"		"100"
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"37.590354586184844"
+				"height_pct"		"82.6045852044434"
 			}
 		}
-		"store_asset_mtime"		"1700157050"
+		"store_asset_mtime"		"1701789229"
 		"associations"
 		{
 			"0"
@@ -112,7 +120,6 @@
 		"genres"
 		{
 			"0"		"1"
-			"1"		"70"
 		}
 		"category"
 		{
@@ -141,6 +148,7 @@
 			"russian"
 			{
 				"supported"		"true"
+				"subtitles"		"true"
 			}
 			"hungarian"
 			{
@@ -148,7 +156,8 @@
 				"subtitles"		"true"
 			}
 		}
-		"steam_release_date"		"1644512339"
+		"steam_release_date"		"1701788699"
+		"community_visible_stats"		"1"
 		"community_hub_visible"		"1"
 		"gameid"		"1587130"
 		"store_tags"
@@ -206,9 +215,9 @@
 			{
 				"public"
 				{
-					"gid"		"2314514937724691251"
-					"size"		"3689861518"
-					"download"		"1528739488"
+					"gid"		"3020116007732588603"
+					"size"		"4200025067"
+					"download"		"2026068784"
 				}
 			}
 			"encryptedmanifests"
@@ -227,21 +236,27 @@
 				}
 				"debug"
 				{
-					"gid"		"E22F60252CB424422D528C6A539F9AB8"
-					"size"		"F08FE18E7DB31DA9E57E6658192CB118"
-					"download"		"2569004A1AA94D6641E36965324E0303"
+					"gid"		"CF33DA5D7D3963D5AB20920DFB6818EC"
+					"size"		"3244FDAB290EAA9FF70EA8E7F5C09099"
+					"download"		"9D5EC3A5F530A02FB7437546DE6B63B3"
 				}
 				"experimental"
 				{
-					"gid"		"6CF204CEAE1F49D0FDB86A5A805E156A"
-					"size"		"35E1F871874EDD7931FF3767D1C4DB4F"
-					"download"		"A598322F580212D6C52D5B825FE5B7B1"
+					"gid"		"9CD8C7A2798CFF4B76B7740D4BE6DBD4"
+					"size"		"4ECC8F78F1F14E9CBBBE9521B6E56356"
+					"download"		"9BC48BA8B43AA10FA2E891A613D3AE77"
 				}
 				"expo"
 				{
 					"gid"		"5A10B488A4B455A0E6D7C2E93783BE8F"
 					"size"		"8594C4AA91D5038871B427ABCD9FA053"
 					"download"		"75D25F17617703988DA84A36B13E0BA8"
+				}
+				"external-translation"
+				{
+					"gid"		"C27AA57E627BFCF5765F4E200C163509"
+					"size"		"17DA391CB8CC88AC155B38B35016BAF4"
+					"download"		"B11471209DFB77C982DE1587C92DBA66"
 				}
 				"externaltesting"
 				{
@@ -257,9 +272,15 @@
 				}
 				"marketing"
 				{
-					"gid"		"B6309C8A9EAEA5C00BF10CBF0225E207"
-					"size"		"62A6C0A4F2C6BA82CAB1A89A936FE062"
-					"download"		"320953940C91FDC7560F96E37E88EFCA"
+					"gid"		"6B5AFAD45368E796F4039C1C151A4C65"
+					"size"		"7CFE75B62ED19ADF31E622C254C95B3A"
+					"download"		"8466034CF2D22CCCFE29E9815E8DBE38"
+				}
+				"press"
+				{
+					"gid"		"48E1CE56D3C0C8A7A769FDCD8B4C8E6B"
+					"size"		"D83D77A2DAB1FA7CDC263CEE2791E0A4"
+					"download"		"82307AA2FEF5590718B729E0B9F9E4D3"
 				}
 				"publicbeta"
 				{
@@ -269,15 +290,15 @@
 				}
 				"shipping"
 				{
-					"gid"		"838AF6F3DFB11A894D0C43A085F968F7"
-					"size"		"7ADFA04C3BDAAB8D515C4F13629AFB12"
-					"download"		"ED2F6E30C7DBFACA3F62D729F8FC6D84"
+					"gid"		"2C3BD32C82B60D4379FE4F9707AE3573"
+					"size"		"7CDEA3AB922AC0CA7EA8121E3AA5DA46"
+					"download"		"6ADE250E88F6E05F05D055FEEA5E89A7"
 				}
 				"testing"
 				{
-					"gid"		"7130D5099241941F54915A3A327C144F"
-					"size"		"78388C90C2368AE63D137BECC4048A8B"
-					"download"		"822AA47DCA3E3D4284C4EDDC604C6853"
+					"gid"		"54103C1E9B177C9453CCA89501DD3194"
+					"size"		"41BA8DE981C51223C9E502EA5E35BD2F"
+					"download"		"0F22628260088D932B09776C04065AFD"
 				}
 			}
 		}
@@ -285,8 +306,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12725505"
-				"timeupdated"		"1700177234"
+				"buildid"		"12876350"
+				"timeupdated"		"1701787623"
 			}
 			"alfa"
 			{
@@ -302,21 +323,27 @@
 			}
 			"debug"
 			{
-				"buildid"		"12660910"
+				"buildid"		"12876304"
 				"pwdrequired"		"1"
-				"timeupdated"		"1699535111"
+				"timeupdated"		"1701757069"
 			}
 			"experimental"
 			{
-				"buildid"		"12730612"
+				"buildid"		"12660910"
 				"pwdrequired"		"1"
-				"timeupdated"		"1700221695"
+				"timeupdated"		"1701255295"
 			}
 			"expo"
 			{
 				"buildid"		"11648956"
 				"pwdrequired"		"1"
 				"timeupdated"		"1688730431"
+			}
+			"external-translation"
+			{
+				"buildid"		"12829095"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701268620"
 			}
 			"externaltesting"
 			{
@@ -332,9 +359,15 @@
 			}
 			"marketing"
 			{
-				"buildid"		"10902498"
+				"buildid"		"12761467"
 				"pwdrequired"		"1"
-				"timeupdated"		"1681480624"
+				"timeupdated"		"1700578858"
+			}
+			"press"
+			{
+				"buildid"		"12782979"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700754472"
 			}
 			"publicbeta"
 			{
@@ -344,15 +377,15 @@
 			}
 			"shipping"
 			{
-				"buildid"		"12725505"
+				"buildid"		"12876350"
 				"pwdrequired"		"1"
-				"timeupdated"		"1700176207"
+				"timeupdated"		"1701785446"
 			}
 			"testing"
 			{
-				"buildid"		"12660814"
+				"buildid"		"12876350"
 				"pwdrequired"		"1"
-				"timeupdated"		"1699534507"
+				"timeupdated"		"1701757608"
 			}
 		}
 	}
