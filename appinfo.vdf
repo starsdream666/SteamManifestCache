@@ -195,29 +195,29 @@
 		"gameid"		"1942280"
 		"store_tags"
 		{
-			"0"		"42804"
-			"1"		"3959"
-			"2"		"4885"
-			"3"		"5547"
-			"4"		"4637"
-			"5"		"3871"
-			"6"		"597"
-			"7"		"4791"
-			"8"		"122"
-			"9"		"19"
-			"10"		"3835"
-			"11"		"5125"
-			"12"		"6815"
-			"13"		"4136"
-			"14"		"1673"
-			"15"		"4195"
-			"16"		"7481"
-			"17"		"3993"
-			"18"		"1759"
-			"19"		"4726"
+			"0"		"3942"
+			"1"		"42804"
+			"2"		"1662"
+			"3"		"3959"
+			"4"		"19"
+			"5"		"4182"
+			"6"		"5547"
+			"7"		"1646"
+			"8"		"4885"
+			"9"		"1773"
+			"10"		"1774"
+			"11"		"7481"
+			"12"		"597"
+			"13"		"122"
+			"14"		"3993"
+			"15"		"4637"
+			"16"		"3871"
+			"17"		"3835"
+			"18"		"4136"
+			"19"		"5125"
 		}
 		"review_score"		"9"
-		"review_percentage"		"96"
+		"review_percentage"		"97"
 	}
 	"extended"
 	{
@@ -252,7 +252,7 @@
 		}
 		"steamcontrollertemplateindex"		"4"
 		"steamdecktouchscreen"		"1"
-		"steamconfigurator3rdpartynative"		"65533"
+		"steamconfigurator3rdpartynative"		"65528"
 	}
 	"depots"
 	{
@@ -266,27 +266,36 @@
 			{
 				"public"
 				{
-					"gid"		"2496830421398627117"
-					"size"		"178258188"
-					"download"		"88781184"
+					"gid"		"8955355037109944212"
+					"size"		"176383827"
+					"download"		"99792496"
 				}
 				"beta"
 				{
-					"gid"		"2496830421398627117"
-					"size"		"178258188"
-					"download"		"88781184"
+					"gid"		"8955355037109944212"
+					"size"		"176383827"
+					"download"		"99792496"
 				}
 				"modding"
 				{
-					"gid"		"2496830421398627117"
-					"size"		"178258188"
-					"download"		"88781184"
+					"gid"		"8955355037109944212"
+					"size"		"176383827"
+					"download"		"99792496"
 				}
 				"reset"
 				{
 					"gid"		"1198185269738678712"
 					"size"		"132475440"
 					"download"		"87229952"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"testing"
+				{
+					"gid"		"BED82CB4A58E96CA42C2BFE65893DE9C"
+					"size"		"0892CA64F0C3A6F2ECA9F9E9E3F2F9AA"
+					"download"		"5BF224CE6511A4765EED3D9DC742D784"
 				}
 			}
 		}
@@ -296,26 +305,32 @@
 		{
 			"public"
 			{
-				"buildid"		"11535613"
-				"timeupdated"		"1687514663"
+				"buildid"		"12868946"
+				"timeupdated"		"1701770951"
 			}
 			"beta"
 			{
-				"buildid"		"11535613"
-				"description"		" Branch where we test new updates before they go public. Consider it unstable, but you'll see new content before everyone else."
-				"timeupdated"		"1687441249"
+				"buildid"		"12868946"
+				"description"		"Test new updates before they go public, may be unstable"
+				"timeupdated"		"1701693924"
 			}
 			"modding"
 			{
-				"buildid"		"11535613"
-				"description"		"Branch to use to upload mods to the Steam Workshop"
-				"timeupdated"		"1687441254"
+				"buildid"		"12868946"
+				"description"		"Upload mods to the Steam Workshop"
+				"timeupdated"		"1701770975"
 			}
 			"reset"
 			{
 				"buildid"		"9584057"
-				"description"		"(!) LAUNCHING THE GAME ON THIS BRANCH WILL RESET YOUR SAVE. There is also a button to reset your Steam achievements."
+				"description"		"(!) THIS BRANCH WILL RESET YOUR SAVE. Includes button to reset achievements"
 				"timeupdated"		"1664023421"
+			}
+			"testing"
+			{
+				"buildid"		"12868946"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701693436"
 			}
 		}
 	}
