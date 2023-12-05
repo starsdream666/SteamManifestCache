@@ -19,48 +19,49 @@
 		"steam_deck_compatibility"
 		{
 			"category"		"2"
-			"test_timestamp"		"1646870400"
-			"tested_build_id"		"7649726"
+			"test_timestamp"		"1700697600"
+			"tested_build_id"		"12629604"
 			"tests"
 			{
 				"0"
 				{
 					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
 				}
 				"1"
 				{
 					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
 				}
 				"2"
 				{
-					"display"		"4"
-					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
 				}
 				"3"
 				{
 					"display"		"4"
-					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 				}
 				"4"
 				{
-					"display"		"4"
-					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
 				}
 			}
 			"configuration"
 			{
-				"supported_input"		"other"
-				"requires_manual_keyboard_invoke"		"1"
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
 				"requires_non_controller_launcher_nav"		"0"
 				"primary_player_is_controller_slot_0"		"0"
 				"non_deck_display_glyphs"		"1"
-				"small_text"		"0"
+				"small_text"		"1"
 				"requires_internet_for_setup"		"0"
-				"requires_internet_for_singleplayer"		"0"
+				"requires_internet_for_singleplayer"		"1"
 				"recommended_runtime"		"proton-stable"
 				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
 			}
 		}
 		"metacritic_name"		"Legion TD 2"
@@ -337,9 +338,9 @@
 			{
 				"public"
 				{
-					"gid"		"4619958609671308872"
-					"size"		"2360914832"
-					"download"		"1486230336"
+					"gid"		"7547452614587400579"
+					"size"		"2376242392"
+					"download"		"1508012576"
 				}
 				"mactest"
 				{
@@ -376,15 +377,15 @@
 				}
 				"latest"
 				{
-					"gid"		"AA305C0793CBC5380A394A8432918368"
-					"size"		"492A0FDCCE7AA8EFF6C14E069F35E014"
-					"download"		"BBB847B41A2D39DA749EFC08D3D6AB37"
+					"gid"		"7220E35DFA12328D780D1091674A9836"
+					"size"		"92DDF6126CC9EABE905F89FE6D50489C"
+					"download"		"88A7FC008AB16765D21019B25362CFC9"
 				}
 				"latest_2"
 				{
-					"gid"		"253704D5EEB290666948EB197C61D3C4"
-					"size"		"B0B2A4A4CE73A7C4EB4D31ACA40CDD6F"
-					"download"		"0A290FA6DCE0C43E2D26F59AE091AAF2"
+					"gid"		"192D7548E90DFC19BB6049D40BDF714A"
+					"size"		"A5052ADFC60AAD119BA6A1EDA12779A2"
+					"download"		"24C7A58FAAE6ECAB736B5CA99AF3328D"
 				}
 			}
 		}
@@ -460,9 +461,9 @@
 			{
 				"public"
 				{
-					"gid"		"8199897659775104827"
-					"size"		"2480966334"
-					"download"		"1504220368"
+					"gid"		"3909114368126063426"
+					"size"		"2497002146"
+					"download"		"1526131296"
 				}
 				"mactest"
 				{
@@ -499,15 +500,15 @@
 				}
 				"latest"
 				{
-					"gid"		"DC5357ED86CE2AAADD11E715ED87824D"
-					"size"		"928105ED4B9A0A863E2A9B8A1DBB1A91"
-					"download"		"802B9FF3C2D9A19701EE059C9813A248"
+					"gid"		"5F2594CB64F27591EBEF7F853C0E43A8"
+					"size"		"3BD1E6E275751EFB5DE03D6954D12B1A"
+					"download"		"57F99923CCAC200776E11E89A62D28A0"
 				}
 				"latest_2"
 				{
-					"gid"		"86C3867E381D9BC369019EEC7D6101CC"
-					"size"		"C5C08CE9DD41E792FFA0389D93B29DCA"
-					"download"		"F3A78323FFAD58896EA729AF2BA04197"
+					"gid"		"1594540D8B0F384A50080F62BF91F827"
+					"size"		"74026C8384736B004E46308B0B415539"
+					"download"		"145F4215AD368D5C2F4EB36CA30F290F"
 				}
 			}
 		}
@@ -516,8 +517,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12816906"
-				"timeupdated"		"1701174151"
+				"buildid"		"12873458"
+				"timeupdated"		"1701728488"
 			}
 			"experimental"
 			{
@@ -533,15 +534,15 @@
 			}
 			"latest"
 			{
-				"buildid"		"12793386"
+				"buildid"		"12816906"
 				"pwdrequired"		"1"
-				"timeupdated"		"1701089146"
+				"timeupdated"		"1701719071"
 			}
 			"latest_2"
 			{
-				"buildid"		"12754127"
+				"buildid"		"12872447"
 				"pwdrequired"		"1"
-				"timeupdated"		"1700850890"
+				"timeupdated"		"1701728111"
 			}
 			"mactest"
 			{
