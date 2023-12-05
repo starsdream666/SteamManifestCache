@@ -8,11 +8,11 @@
 		"oslist"		"windows"
 		"osarch"		""
 		"osextended"		""
-		"icon"		"deb9092af2c7437f69c7092bbc1759ccea775fff"
+		"icon"		"48380df34376cdfc206d647d61fed9e98ce929f1"
 		"logo"		"f3a2491f5f9cfbaa4d846685cafe5e55d187f730"
 		"logo_small"		"f3a2491f5f9cfbaa4d846685cafe5e55d187f730_thumb"
-		"clienttga"		"f643c75ba89560af240497ccd97f5e15b2379cef"
-		"clienticon"		"28cb746b446c66501c3acd627e8dfd83cb9ed4c0"
+		"clienttga"		"124103fe7f4840dbdfddb2a17d08e88eaa525b03"
+		"clienticon"		"699c67493da50e2bf5cc333f6a7e4dbf95864e5d"
 		"languages"
 		{
 			"english"		"1"
@@ -92,7 +92,7 @@
 				"height_pct"		"58.333333333333336"
 			}
 		}
-		"store_asset_mtime"		"1693242029"
+		"store_asset_mtime"		"1695807348"
 		"associations"
 		{
 			"0"
@@ -103,6 +103,11 @@
 			"1"
 			{
 				"type"		"publisher"
+				"name"		"bilibili"
+			}
+			"2"
+			{
+				"type"		"franchise"
 				"name"		"bilibili"
 			}
 		}
@@ -154,8 +159,8 @@
 		"store_tags"
 		{
 			"0"		"42804"
-			"1"		"19"
-			"2"		"122"
+			"1"		"122"
+			"2"		"19"
 			"3"		"1716"
 			"4"		"16094"
 			"5"		"4604"
@@ -163,8 +168,8 @@
 			"7"		"4747"
 			"8"		"4182"
 			"9"		"6971"
-			"10"		"51306"
-			"11"		"9541"
+			"10"		"9541"
+			"11"		"51306"
 			"12"		"1742"
 			"13"		"492"
 			"14"		"21"
@@ -182,7 +187,7 @@
 		"developer"		"BadMudStudio"
 		"publisher"		"bilibili"
 		"homepage"		"https://game.bilibili.com/warmsnow"
-		"listofdlc"		"2147220"
+		"listofdlc"		"2147220,2612950"
 		"dlcavailableonstore"		"1"
 	}
 	"config"
@@ -243,14 +248,14 @@
 			}
 			"public"
 			{
-				"buildid"		"10512944"
-				"timeupdated"		"1675931858"
+				"buildid"		"12875080"
+				"timeupdated"		"1701744487"
 			}
 			"bilibilitest"
 			{
-				"buildid"		"10248013"
+				"buildid"		"12872654"
 				"pwdrequired"		"1"
-				"timeupdated"		"1674882301"
+				"timeupdated"		"1701721186"
 			}
 			"dlc1-dreamashtest"
 			{
@@ -264,23 +269,11 @@
 				"pwdrequired"		"1"
 				"timeupdated"		"1675417302"
 			}
-			"dlc2_demo_ob_test"
-			{
-				"buildid"		"11738405"
-				"pwdrequired"		"1"
-				"timeupdated"		"1689776834"
-			}
 			"dlc2_demo_test"
 			{
 				"buildid"		"11738311"
 				"pwdrequired"		"1"
 				"timeupdated"		"1689776211"
-			}
-			"endless_mode_test"
-			{
-				"buildid"		"10330417"
-				"pwdrequired"		"1"
-				"timeupdated"		"1673861363"
 			}
 			"localization_test"
 			{
@@ -290,9 +283,9 @@
 			}
 			"stafftest"
 			{
-				"buildid"		"12066418"
+				"buildid"		"12870802"
 				"pwdrequired"		"1"
-				"timeupdated"		"1693383966"
+				"timeupdated"		"1701707070"
 			}
 			"videotest"
 			{
@@ -312,18 +305,18 @@
 			{
 				"public"
 				{
-					"gid"		"3371279682030194783"
-					"size"		"8532776394"
-					"download"		"1361793744"
+					"gid"		"3936708663709122588"
+					"size"		"15109062223"
+					"download"		"2230580464"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"bilibilitest"
 				{
-					"gid"		"3F95C8EEC5DF36A5066F3E24BE90A767"
-					"size"		"D26E7CED8E90FCF84390ECCF46987F1A"
-					"download"		"BB0F3D683134B8D61C0508CB1FB66EE6"
+					"gid"		"BF99D3DF562DA0DA24541146DDA7392D"
+					"size"		"445ECCFB2F8CE92BF0BDB5AA0FDD9D0F"
+					"download"		"962AF0B08ADC7C4BFAB58EA9BAE7F2EA"
 				}
 				"dlc1-dreamashtest"
 				{
@@ -337,23 +330,11 @@
 					"size"		"A9E3C136AEB3B479C8FB65B27DB21607"
 					"download"		"BB29961F26FF5BFE18A52A76810427C3"
 				}
-				"dlc2_demo_ob_test"
-				{
-					"gid"		"E408BAE7C2533FD6D37890BFAA806476"
-					"size"		"C62D32E9A92990EA47AEFE6DA5F3EFA1"
-					"download"		"F86193E933345D003E59F964B55098C3"
-				}
 				"dlc2_demo_test"
 				{
 					"gid"		"19C54A09E69438E617350CA2F3BA0360"
 					"size"		"E2749F134A4682A1E43B5577AAC72371"
 					"download"		"98AC8F8CE1A01AAB3C4E11AB5D1F9E27"
-				}
-				"endless_mode_test"
-				{
-					"gid"		"2AF9D0B730BB26EC6645AFC99C25EA2B"
-					"size"		"361461BBC906B1B97F4EE1BFCCBC43E3"
-					"download"		"D551DA15C5E5B8F797BDB4FFCC04BDA9"
 				}
 				"localization_test"
 				{
@@ -363,9 +344,9 @@
 				}
 				"stafftest"
 				{
-					"gid"		"FA09D5CD27F90CF5AC2C3786F2E4A331"
-					"size"		"A3B0CC4871C8607A769318A2E25C4F0A"
-					"download"		"C9F4D13BD4F61E81E2FD7D2BD2BFC1AA"
+					"gid"		"10B5C38CECE6F65B4878893ADEA0066E"
+					"size"		"CEA02E51E1E6CB262CF2ED488A35217B"
+					"download"		"E18342DAB8D39A6B9C375F54F2D777DC"
 				}
 				"steam_china_dev"
 				{
@@ -411,12 +392,6 @@
 			}
 			"encryptedmanifests"
 			{
-				"dlc2_demo_ob_test"
-				{
-					"gid"		"52C944BCC945A9B943E68CC948E18FAF"
-					"size"		"FFE335FE4E9FAC3416DCFDC9CDE81C72"
-					"download"		"BCF9CE6925FACC0C6A0E1661502C494E"
-				}
 				"dlc2_demo_test"
 				{
 					"gid"		"F150867601B9CE2F283B4C58F106128A"
