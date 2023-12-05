@@ -1,0 +1,180 @@
+"appinfo"
+{
+	"appid"		"1596380"
+	"common"
+	{
+		"name"		"Norega"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"482af94fc0066cafeaf2a1375439fb5331308c7f"
+		"logo_small"		"482af94fc0066cafeaf2a1375439fb5331308c7f_thumb"
+		"icon"		"5f8bfcec5216fa9cdc5358d80fbf2a219de71542"
+		"clienticon"		"cd9d03d80734995cc1a74583c36f647ad6f49882"
+		"clienttga"		"d34329f6ddbcb3097eb205536c5696a27081115d"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"85.84643898887441"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1686280786"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Pixelabor"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Pixelabor"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"37"
+			"1"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1625561141"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1596380"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"1084988"
+			"2"		"1698"
+			"3"		"1741"
+			"4"		"379975"
+			"5"		"5652"
+			"6"		"3871"
+			"7"		"113"
+			"8"		"3964"
+			"9"		"1684"
+			"10"		"1702"
+			"11"		"12472"
+			"12"		"4172"
+			"13"		"6730"
+			"14"		"4182"
+		}
+		"review_score"		"6"
+		"review_percentage"		"76"
+	}
+	"extended"
+	{
+		"developer"		"Pixelabor"
+		"publisher"		"Pixelabor"
+		"homepage"		"https://www.pixelabor.com/"
+		"isfreeapp"		"1"
+		"listofdlc"		"1676500,1680750"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Norega"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Norega.exe"
+				"arguments"		"--in-process-gpu"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"1596381"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1677867690482613554"
+					"size"		"348476559"
+					"download"		"136871824"
+				}
+			}
+		}
+		"1676500"
+		{
+			"dlcappid"		"1676500"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4467119789196828805"
+					"size"		"348476606"
+					"download"		"136885232"
+				}
+			}
+		}
+		"1680750"
+		{
+			"dlcappid"		"1680750"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4208259865564757885"
+					"size"		"348476607"
+					"download"		"136875680"
+				}
+			}
+		}
+		"1696830"
+		{
+			"dlcappid"		"1696830"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2673133370679820935"
+					"size"		"313866661"
+					"download"		"128718512"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10065982"
+				"timeupdated"		"1669993747"
+			}
+		}
+	}
+}
