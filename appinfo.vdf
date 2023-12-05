@@ -36,29 +36,29 @@
 		"steam_deck_compatibility"
 		{
 			"category"		"2"
-			"test_timestamp"		"1691020800"
-			"tested_build_id"		"9238207"
+			"test_timestamp"		"1699315200"
+			"tested_build_id"		"12464773"
 			"tests"
 			{
 				"0"
 				{
 					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
-				}
-				"1"
-				{
-					"display"		"3"
 					"token"		"#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
 				}
-				"2"
+				"1"
 				{
 					"display"		"4"
 					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 				}
-				"3"
+				"2"
 				{
 					"display"		"4"
 					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
 				}
 				"4"
 				{
@@ -73,7 +73,7 @@
 				"requires_non_controller_launcher_nav"		"0"
 				"primary_player_is_controller_slot_0"		"0"
 				"non_deck_display_glyphs"		"0"
-				"small_text"		"1"
+				"small_text"		"0"
 				"requires_internet_for_setup"		"0"
 				"requires_internet_for_singleplayer"		"0"
 				"recommended_runtime"		"proton-stable"
@@ -272,18 +272,18 @@
 			{
 				"public"
 				{
-					"gid"		"2707037196639405884"
-					"size"		"15862026300"
-					"download"		"6085211792"
+					"gid"		"5613743863039323892"
+					"size"		"15862811443"
+					"download"		"6085515616"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"beta"
 				{
-					"gid"		"E69C67144685ED4B112726F8BD8C3D50"
-					"size"		"2A923C1826451A6305582586A4E0A3F3"
-					"download"		"4C6B5999608E45EB6355DFF083132DCA"
+					"gid"		"04B60550C2E16453C9C23F0D33F28E77"
+					"size"		"1FAB1653230617C54A84B00EF617BECF"
+					"download"		"FF0E45BD75DAB8F9942DAF6D7C4DB22E"
 				}
 			}
 		}
@@ -291,14 +291,14 @@
 		{
 			"public"
 			{
-				"buildid"		"12464773"
-				"timeupdated"		"1698407200"
+				"buildid"		"12879819"
+				"timeupdated"		"1701784955"
 			}
 			"beta"
 			{
-				"buildid"		"12464773"
+				"buildid"		"12879819"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697570135"
+				"timeupdated"		"1701783803"
 			}
 		}
 	}
