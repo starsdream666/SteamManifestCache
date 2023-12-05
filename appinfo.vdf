@@ -91,7 +91,8 @@
 				"gamescope_frame_limiter_not_supported"		"0"
 			}
 		}
-		"controller_support"		"full"
+		"controllertagwizard"		"1"
+		"controller_support"		"partial"
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
@@ -108,7 +109,7 @@
 		}
 		"library_assets"
 		{
-			"library_capsule"		"en,zh-cn,ja,ko"
+			"library_capsule"		"zh-cn,ja,ko,en"
 			"library_hero"		"en"
 			"library_logo"		"en,zh-cn,ja,ko"
 			"logo_position"
@@ -118,7 +119,7 @@
 				"height_pct"		"83.92307664002189"
 			}
 		}
-		"store_asset_mtime"		"1697625714"
+		"store_asset_mtime"		"1701428817"
 		"associations"
 		{
 			"0"
@@ -150,9 +151,9 @@
 			"category_39"		"1"
 			"category_24"		"1"
 			"category_44"		"1"
-			"category_28"		"1"
 			"category_22"		"1"
 			"category_23"		"1"
+			"category_18"		"1"
 		}
 		"supported_languages"
 		{
@@ -237,15 +238,15 @@
 			"11"		"3968"
 			"12"		"1680"
 			"13"		"7368"
-			"14"		"1743"
-			"15"		"4158"
-			"16"		"3843"
+			"14"		"3843"
+			"15"		"1743"
+			"16"		"4158"
 			"17"		"3841"
 			"18"		"1719"
 			"19"		"4840"
 		}
 		"review_score"		"8"
-		"review_percentage"		"83"
+		"review_percentage"		"84"
 	}
 	"extended"
 	{
@@ -299,9 +300,9 @@
 			{
 				"public"
 				{
-					"gid"		"7520892220710885900"
-					"size"		"1316671245"
-					"download"		"862495008"
+					"gid"		"2795536148864524150"
+					"size"		"1305536130"
+					"download"		"852104784"
 				}
 			}
 			"encryptedmanifests"
@@ -368,21 +369,21 @@
 				}
 				"previous"
 				{
-					"gid"		"F923357A38A14A45B2F57F7059C6738B"
-					"size"		"7BFFF97586BB4522415C9A903BAA6DEF"
-					"download"		"5A19AA881A33F659E5767588A42ADD8E"
+					"gid"		"06DC98258232E79562FB3A693B1D2400"
+					"size"		"5B2CD7C729BD6B0FB8979E6A20F4F2C0"
+					"download"		"64E5D1776FA621385ABA0CB266159037"
 				}
 				"releasecandidate"
 				{
-					"gid"		"29A5EA42B6D9A6E9167A5D3FA21D910D"
-					"size"		"6825A7F6951B4A7A37FFC54E8354027B"
-					"download"		"5E88EFE1A9DAAF55136435DAD2DBBBB4"
+					"gid"		"0C66E9E42CB4EAC7F319AEDBC63D1CEA"
+					"size"		"26251DCCEE827752F4DF60DBAF4A0871"
+					"download"		"E379EDC70BBB49DCFC926E3FB0C829E8"
 				}
 				"releasecandidate_test"
 				{
-					"gid"		"A65F5902619243DBB3B5AE502F7BB8A7"
-					"size"		"DED01D9B55EF5F6FC459F2B05FA76418"
-					"download"		"3DC2730FA2B6F2336F0E4DD17BA057CC"
+					"gid"		"12DDA66B31B4EA2FC9DB4DCDBFBAC568"
+					"size"		"64CBF1D85E9CD64E7BE8A109A13B53D7"
+					"download"		"30BCFFBE76561CE7228052F7CA3FC29C"
 				}
 				"spinoff_a"
 				{
@@ -410,9 +411,9 @@
 				}
 				"teller"
 				{
-					"gid"		"DB51FC9D5F7FE686F2A90978BF2D634C"
-					"size"		"D9645AB94801A78AE3A6DCEF7CC583D9"
-					"download"		"D34C5E82513FFB016374C4FCB426C951"
+					"gid"		"850AE325D1633AE72644B0E4295D992F"
+					"size"		"1F9F66CAF4C6786D74251B72CC27393E"
+					"download"		"1B572B7229155CD4A3AA3A348B977A27"
 				}
 				"tores_playground"
 				{
@@ -426,8 +427,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12572821"
-				"timeupdated"		"1698913837"
+				"buildid"		"12870063"
+				"timeupdated"		"1701711240"
 			}
 			"beta"
 			{
@@ -443,9 +444,9 @@
 			}
 			"bleedingedge_test"
 			{
-				"buildid"		"12350949"
+				"buildid"		"12749268"
 				"pwdrequired"		"1"
-				"timeupdated"		"1696400975"
+				"timeupdated"		"1700478727"
 			}
 			"demo"
 			{
@@ -491,21 +492,21 @@
 			}
 			"previous"
 			{
-				"buildid"		"12446828"
+				"buildid"		"12572821"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698913805"
+				"timeupdated"		"1701710476"
 			}
 			"releasecandidate"
 			{
-				"buildid"		"12572821"
+				"buildid"		"12870063"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698677451"
+				"timeupdated"		"1701701700"
 			}
 			"releasecandidate_test"
 			{
-				"buildid"		"12596059"
+				"buildid"		"12873412"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698876848"
+				"timeupdated"		"1701728065"
 			}
 			"spinoff_a"
 			{
@@ -533,9 +534,9 @@
 			}
 			"teller"
 			{
-				"buildid"		"11649031"
+				"buildid"		"12076698"
 				"pwdrequired"		"1"
-				"timeupdated"		"1690961173"
+				"timeupdated"		"1700222155"
 			}
 			"tores_playground"
 			{
