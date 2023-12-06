@@ -1,0 +1,227 @@
+"appinfo"
+{
+	"appid"		"2647230"
+	"common"
+	{
+		"name"		"HoloParade "
+		"type"		"Game"
+		"oslist"		"windows,macos"
+		"osarch"		"64"
+		"osextended"		"macos64,macosapplesilicon"
+		"icon"		"9cbd9bed31c1f84114fa8f1467ea5b76907d96e9"
+		"clienticon"		"daeb63c7ba7b6a4884a9afbe629facba1661bf1b"
+		"clienttga"		"e49b3a3d348a7bc5bc3567e5ab23d2fcf04a9b3f"
+		"clienticns"		"0519dc65d27452cb21fb2fcf5522320f7fb06128"
+		"name_localized"
+		{
+			"japanese"		"ホロパレード"
+			"indonesian"		"HoloParade"
+			"english"		"HoloParade"
+		}
+		"releasestate"		"released"
+		"controllertagwizard"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"japanese"		"header_japanese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,ja"
+			"library_hero"		"en"
+			"library_logo"		"en,ja"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"54.667444574095676"
+				"height_pct"		"74.31726430776537"
+			}
+		}
+		"store_asset_mtime"		"1699802381"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Roboqlo"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"holo Indie"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"indonesian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1701417554"
+		"community_hub_visible"		"1"
+		"gameid"		"2647230"
+		"store_tags"
+		{
+			"0"		"9"
+			"1"		"1645"
+			"2"		"3813"
+			"3"		"3798"
+			"4"		"3871"
+			"5"		"4726"
+			"6"		"492"
+			"7"		"6815"
+			"8"		"1708"
+			"9"		"4182"
+			"10"		"32322"
+			"11"		"4085"
+		}
+		"review_score"		"8"
+		"review_percentage"		"81"
+	}
+	"extended"
+	{
+		"developer"		"Roboqlo"
+		"publisher"		"holo Indie"
+		"homepage"		"https://twitter.com/roboqlo"
+	}
+	"config"
+	{
+		"installdir"		"HoloParade"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"HoloParade.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"HoloParade.app/Contents/MacOS/HoloParade"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2647231"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3542278746052735132"
+					"size"		"1143067500"
+					"download"		"243801632"
+				}
+			}
+		}
+		"2647232"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"960919210833766978"
+					"size"		"1167138228"
+					"download"		"251580336"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12878257"
+				"timeupdated"		"1701772534"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"50"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"roboqlo/HoloParade"
+				"pattern"		"*.es3"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"roboqlo/HoloParade"
+						"replace"		"com.Roboqlo.HoloParade"
+					}
+				}
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"addpath"		""
+			}
+		}
+	}
+}
