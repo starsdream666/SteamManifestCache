@@ -10,9 +10,9 @@
 		"logo_small"		"155cc25cdf1bd6c38169a658a66aa0a23b0f3d2e_thumb"
 		"icon"		"7794cc0b4e70bd3e4b9a0d07e2570ab8668c5f0b"
 		"clienticon"		"c28b0f828625bf051e75f4addd6cca2e9973086e"
-		"oslist"		"windows"
+		"oslist"		"windows,macos"
 		"osarch"		"64"
-		"osextended"		""
+		"osextended"		"macosapplesilicon"
 		"languages"
 		{
 			"english"		"1"
@@ -81,6 +81,7 @@
 				"gamescope_frame_limiter_not_supported"		"0"
 			}
 		}
+		"metacritic_name"		"Stray"
 		"controller_support"		"full"
 		"small_capsule"
 		{
@@ -220,6 +221,8 @@
 			}
 		}
 		"steam_release_date"		"1658242815"
+		"metacritic_score"		"82"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/stray?ftag=MCD-06-10aaa1f"
 		"community_visible_stats"		"1"
 		"community_hub_visible"		"1"
 		"gameid"		"1332010"
@@ -271,6 +274,15 @@
 					"osarch"		"64"
 				}
 			}
+			"1"
+			{
+				"executable"		"Stray.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
 		}
 		"steamconfigurator3rdpartynative"		"65535"
 		"steamcontrollertemplateindex"		"2"
@@ -298,6 +310,10 @@
 		}
 		"1332011"
 		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
 			"manifests"
 			{
 				"public"
@@ -314,6 +330,12 @@
 					"gid"		"FD64EFCA4A0C0E82DE2C88D0AA3F7BE7"
 					"size"		"71E1EDE1268F2C3B1BBD5C766C60BB81"
 					"download"		"F8AE9A166B91B5E11051D862AC728F1E"
+				}
+				"macos"
+				{
+					"gid"		"7E2FD336C0570CCDA2FE8705915A84AE"
+					"size"		"B8D0E16E659EB15F73F07050918FEF11"
+					"download"		"9407AEB64795185221C7185E6ABA47D4"
 				}
 				"patch_2"
 				{
@@ -335,18 +357,49 @@
 				}
 			}
 		}
+		"1332012"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1039060348056700964"
+					"size"		"8367235193"
+					"download"		"7710868320"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"macos"
+				{
+					"gid"		"80871CFD4AA6D3A429E77825BE044EAA"
+					"size"		"81961F3D73DF1818660285219ED61240"
+					"download"		"C7E091A2225CC32A48ECE89AA253CAA2"
+				}
+			}
+		}
 		"branches"
 		{
 			"public"
 			{
-				"buildid"		"11573571"
-				"timeupdated"		"1691682907"
+				"buildid"		"12863654"
+				"timeupdated"		"1701794357"
 			}
 			"daily"
 			{
 				"buildid"		"11725532"
 				"pwdrequired"		"1"
 				"timeupdated"		"1689655490"
+			}
+			"macos"
+			{
+				"buildid"		"12863654"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701630230"
 			}
 			"patch_2"
 			{
@@ -387,8 +440,8 @@
 			}
 			"1"
 			{
-				"root"		"MacHome"
-				"path"		"/Library/Application Support/Epic/Hk_project/Saved/SaveGames/{64BitSteamID}"
+				"root"		"MacAppSupport"
+				"path"		"Stray/SaveGames/{64BitSteamID}/"
 				"pattern"		"*.sav"
 				"platforms"
 				{
