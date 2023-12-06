@@ -58,8 +58,8 @@
 		"steam_deck_compatibility"
 		{
 			"category"		"2"
-			"test_timestamp"		"1646438400"
-			"tested_build_id"		"8018265"
+			"test_timestamp"		"1699574400"
+			"tested_build_id"		"12590917"
 			"tests"
 			{
 				"0"
@@ -98,8 +98,9 @@
 				"small_text"		"0"
 				"requires_internet_for_setup"		"1"
 				"requires_internet_for_singleplayer"		"0"
-				"recommended_runtime"		"proton-7.0-1"
+				"recommended_runtime"		"proton-experimental"
 				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
 			}
 		}
 		"controller_support"		"full"
@@ -123,7 +124,7 @@
 				"height_pct"		"92.02127696579225"
 			}
 		}
-		"store_asset_mtime"		"1698341849"
+		"store_asset_mtime"		"1699624610"
 		"associations"
 		{
 			"0"
@@ -164,6 +165,7 @@
 			"category_22"		"1"
 			"category_29"		"1"
 			"category_23"		"1"
+			"category_61"		"1"
 		}
 		"supported_languages"
 		{
@@ -277,14 +279,14 @@
 			"19"		"1697"
 		}
 		"review_score"		"8"
-		"review_percentage"		"87"
+		"review_percentage"		"88"
 	}
 	"extended"
 	{
 		"developer"		"Playground Games"
 		"publisher"		"Xbox Game Studios"
 		"homepage"		"http://www.forzamotorsport.net"
-		"listofdlc"		"1613280,1613281,1613282,1613283,1613284,1613285,1648020,1764060,1764061,1764062,1764063,1798680,1812150,1812151,1812152,1812153,1824140,1824141,1824142,1824143,1846790,1846791,1846792,1852790,1890180,1890181,1890182,1890183,1919260,1919261,1919262,1919263,1949470,1949471,1949472,1949473,1949474,1949475,1949476,1949477,2013600,2013620,2013621,2111240,2440490,2507010,2614920,2638820"
+		"listofdlc"		"1613280,1613281,1613282,1613283,1613284,1613285,1648020,1764060,1764061,1764062,1764063,1798680,1812150,1812151,1812152,1812153,1824140,1824141,1824142,1824143,1846790,1846791,1846792,1852790,1890180,1890181,1890182,1890183,1919260,1919261,1919262,1919263,1949470,1949471,1949472,1949473,1949474,1949475,1949476,1949477,2013600,2013620,2013621,2111240,2440490,2507010,2614920,2638820,2676380"
 		"dlcavailableonstore"		"1"
 	}
 	"config"
@@ -381,9 +383,9 @@
 			{
 				"public"
 				{
-					"gid"		"956881118339994126"
-					"size"		"150462123272"
-					"download"		"139938702592"
+					"gid"		"2715947330671283575"
+					"size"		"151314405582"
+					"download"		"140786758208"
 				}
 			}
 			"encryptedmanifests"
@@ -408,27 +410,27 @@
 				}
 				"mainlinecert"
 				{
-					"gid"		"15197931871D9DE94B5229AD6FC3884A"
-					"size"		"A79A74177A2B36DE302C772560F5A55E"
-					"download"		"C3B4B6155FF731C20ED5BCB3556A8EA4"
+					"gid"		"1C4F593A39C1AF566A911B72C6250C23"
+					"size"		"79A553FD9BE007E9697CB8C9C51E93B2"
+					"download"		"63963D00306A1BDA71F50AE20467B9FC"
 				}
 				"mainlineinstall"
 				{
-					"gid"		"47CC3EEB7CB7B36EC904B2FA6026D943"
-					"size"		"2AB13DE616AA5533B9DA252EECF7D63A"
-					"download"		"F999A1BC1FC6945136CC771F34935D53"
+					"gid"		"AF261A105DCB173C2BDC464CF7B0589F"
+					"size"		"F81BC342EFCCCF695B840E9427F88ECB"
+					"download"		"4709CBFF5D1D381C50CEA39E012870ED"
 				}
 				"rccert"
 				{
-					"gid"		"51698387E27F84E2E29F075FE7332395"
-					"size"		"3C8C35A0D06B024F45F79DC6AA6F66ED"
-					"download"		"778DC0B4725CBEBB0E428FE749268B69"
+					"gid"		"9CAA6D952C79FABDD17121A149D1F5E7"
+					"size"		"9471B01107E8F9374285518DA189BE4B"
+					"download"		"AC1ADA497F8C5D9832A5590BE1205828"
 				}
 				"rcinstall"
 				{
-					"gid"		"CD1D2D3403E183E0E50874A10211D744"
-					"size"		"B8B9547B0AC0E4CA15AB3639185BC4F3"
-					"download"		"803A724770326295646A78B55B79E3EF"
+					"gid"		"15BB4FD3844938701067D10032EFCCCF"
+					"size"		"3BE1E212BE9812C8F1CAE9ED2DF671C7"
+					"download"		"0D1D63BE0C211BEDE616179D211FDA3D"
 				}
 				"releasecert"
 				{
@@ -438,9 +440,9 @@
 				}
 				"retailvalidation"
 				{
-					"gid"		"EEBF177E1FD6509A6D184E488628C59A"
-					"size"		"B0B78A262E54B5100BFB08870520F35C"
-					"download"		"16363F72CB2551BD56A65C3CD118FB97"
+					"gid"		"F1896A1C198A4541B565F0D6AB094407"
+					"size"		"451BD30D6CF477EA118DA9159970141B"
+					"download"		"708DCE4FBF3B1B963EED6559F7DFD8E4"
 				}
 				"sideload"
 				{
@@ -535,8 +537,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12590917"
-				"timeupdated"		"1699379993"
+				"buildid"		"12824354"
+				"timeupdated"		"1701799172"
 			}
 			"dlc1install"
 			{
@@ -558,27 +560,27 @@
 			}
 			"mainlinecert"
 			{
-				"buildid"		"12647262"
+				"buildid"		"12876095"
 				"pwdrequired"		"1"
-				"timeupdated"		"1699422381"
+				"timeupdated"		"1701755095"
 			}
 			"mainlineinstall"
 			{
-				"buildid"		"12648585"
+				"buildid"		"12876297"
 				"pwdrequired"		"1"
-				"timeupdated"		"1699435475"
+				"timeupdated"		"1701757016"
 			}
 			"rccert"
 			{
-				"buildid"		"12590917"
+				"buildid"		"12824354"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698833377"
+				"timeupdated"		"1701230244"
 			}
 			"rcinstall"
 			{
-				"buildid"		"12589101"
+				"buildid"		"12823721"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698813933"
+				"timeupdated"		"1701224050"
 			}
 			"releasecert"
 			{
@@ -588,9 +590,9 @@
 			}
 			"retailvalidation"
 			{
-				"buildid"		"12590917"
+				"buildid"		"12824354"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698835112"
+				"timeupdated"		"1701252879"
 			}
 			"sideload"
 			{
@@ -602,7 +604,7 @@
 	}
 	"ufs"
 	{
-		"quota"		"1073741824"
+		"quota"		"2147483648"
 		"maxnumfiles"		"10000"
 	}
 	"localization"
