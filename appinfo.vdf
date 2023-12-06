@@ -24,6 +24,54 @@
 			"schinese"		"1"
 			"tchinese"		"1"
 		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1701129600"
+			"tested_build_id"		"12779847"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
 		"controllertagwizard"		"1"
 		"small_capsule"
 		{
@@ -122,7 +170,7 @@
 			"16"		"1720"
 		}
 		"review_score"		"7"
-		"review_percentage"		"85"
+		"review_percentage"		"86"
 	}
 	"extended"
 	{
@@ -175,9 +223,9 @@
 			{
 				"public"
 				{
-					"gid"		"6380820695086297538"
-					"size"		"107567080"
-					"download"		"57730592"
+					"gid"		"6630479681733478008"
+					"size"		"107580024"
+					"download"		"57737328"
 				}
 			}
 			"encryptedmanifests"
@@ -190,9 +238,9 @@
 				}
 				"jacktext"
 				{
-					"gid"		"1865EBE6D4F40F2219CF14C069D7AD06"
-					"size"		"01ED2D982B821349E0150679167B4516"
-					"download"		"E3B8ACDCE4768BFCA68BAC0E1C4B2A96"
+					"gid"		"510CD9374D8DFD5FCD5484F5AA5D9E41"
+					"size"		"B854498859926B00739FDE4EF2A95F7E"
+					"download"		"E4937811EEAB07FCCB2EA47C29CE9C58"
 				}
 			}
 		}
@@ -200,8 +248,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12846712"
-				"timeupdated"		"1701409879"
+				"buildid"		"12889241"
+				"timeupdated"		"1701862021"
 			}
 			"developer_test"
 			{
@@ -211,9 +259,9 @@
 			}
 			"jacktext"
 			{
-				"buildid"		"12846712"
+				"buildid"		"12889241"
 				"pwdrequired"		"1"
-				"timeupdated"		"1701409840"
+				"timeupdated"		"1701861974"
 			}
 		}
 	}
