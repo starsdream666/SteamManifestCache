@@ -20,21 +20,41 @@
 		"osextended"		""
 		"steam_deck_compatibility"
 		{
-			"category"		"1"
-			"test_timestamp"		"1663718400"
-			"tested_build_id"		"8933754"
+			"category"		"2"
+			"test_timestamp"		"1701302400"
+			"tested_build_id"		"12771409"
 			"tests"
 			{
 				"0"
 				{
-					"display"		"2"
-					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 				}
 			}
 			"configuration"
 			{
 				"supported_input"		"gamepad"
-				"requires_manual_keyboard_invoke"		"0"
+				"requires_manual_keyboard_invoke"		"1"
 				"requires_non_controller_launcher_nav"		"0"
 				"primary_player_is_controller_slot_0"		"0"
 				"non_deck_display_glyphs"		"0"
@@ -47,6 +67,7 @@
 			}
 		}
 		"metacritic_name"		"Builder Simulator"
+		"controllertagwizard"		"1"
 		"controller_support"		"partial"
 		"small_capsule"
 		{
@@ -90,6 +111,11 @@
 			}
 			"3"
 			{
+				"type"		"publisher"
+				"name"		"PlayWay S.A."
+			}
+			"4"
+			{
 				"type"		"franchise"
 				"name"		"Live Motion Games"
 			}
@@ -101,7 +127,6 @@
 			"1"		"4"
 			"2"		"23"
 			"3"		"28"
-			"4"		"2"
 		}
 		"category"
 		{
@@ -110,6 +135,10 @@
 			"category_45"		"1"
 			"category_46"		"1"
 			"category_18"		"1"
+			"category_55"		"1"
+			"category_56"		"1"
+			"category_57"		"1"
+			"category_58"		"1"
 		}
 		"supported_languages"
 		{
@@ -221,8 +250,9 @@
 				}
 			}
 		}
-		"steamcontrollertemplateindex"		"2"
-		"steamdecktouchscreen"		"1"
+		"steamdecktouchscreen"		"5"
+		"steamconfigurator3rdpartynative"		"65535"
+		"steamcontrollertemplateindex"		"3"
 	}
 	"depots"
 	{
@@ -232,9 +262,9 @@
 			{
 				"public"
 				{
-					"gid"		"2871535928524024721"
-					"size"		"11120652675"
-					"download"		"9084415616"
+					"gid"		"8305931728358212422"
+					"size"		"11822027969"
+					"download"		"8725283424"
 				}
 			}
 			"encryptedmanifests"
@@ -269,6 +299,18 @@
 					"size"		"06F45B1070EEF8D1722E70FC85BF4F63"
 					"download"		"EEA2AC15885F2663A5BF832C2D30082A"
 				}
+				"steamdecktest"
+				{
+					"gid"		"7EDC6BC960318B3329CC43703A7735D2"
+					"size"		"F5A979071543C0B631C50FD2BCF8BEED"
+					"download"		"B78989F415220BBC83136B47428C5D2C"
+				}
+				"steamdecktest2"
+				{
+					"gid"		"40571FD61080D9DA9A86779B49FFF9B3"
+					"size"		"EE6BD0968B803080632F512295E394D7"
+					"download"		"8AB3CBD7BE58D4D1D8D60A05C311705F"
+				}
 				"streampatch1.1"
 				{
 					"gid"		"047C0817328A9D3FA8F87017B897A017"
@@ -287,8 +329,8 @@
 		{
 			"public"
 			{
-				"buildid"		"11272239"
-				"timeupdated"		"1684777192"
+				"buildid"		"12892479"
+				"timeupdated"		"1701885363"
 			}
 			"antivirustests"
 			{
@@ -319,6 +361,18 @@
 				"buildid"		"8894201"
 				"pwdrequired"		"1"
 				"timeupdated"		"1654678976"
+			}
+			"steamdecktest"
+			{
+				"buildid"		"12792575"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700843882"
+			}
+			"steamdecktest2"
+			{
+				"buildid"		"12892479"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701885184"
 			}
 			"streampatch1.1"
 			{
