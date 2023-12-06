@@ -83,6 +83,7 @@
 			}
 		}
 		"metacritic_name"		"Shadow Gambit: The Cursed Crew"
+		"controllertagwizard"		"1"
 		"controller_support"		"full"
 		"small_capsule"
 		{
@@ -104,7 +105,7 @@
 				"height_pct"		"66.71732445262576"
 			}
 		}
-		"store_asset_mtime"		"1692366260"
+		"store_asset_mtime"		"1701872517"
 		"associations"
 		{
 			"0"
@@ -138,6 +139,8 @@
 			"category_28"		"1"
 			"category_45"		"1"
 			"category_46"		"1"
+			"category_55"		"1"
+			"category_57"		"1"
 		}
 		"supported_languages"
 		{
@@ -218,35 +221,35 @@
 		"store_tags"
 		{
 			"0"		"9"
-			"1"		"122"
-			"2"		"21725"
-			"3"		"1684"
-			"4"		"1676"
-			"5"		"1687"
+			"1"		"21725"
+			"2"		"122"
+			"3"		"1687"
+			"4"		"1684"
+			"5"		"1676"
 			"6"		"1708"
 			"7"		"4604"
-			"8"		"19"
+			"8"		"10695"
 			"9"		"3834"
-			"10"		"10695"
+			"10"		"19"
 			"11"		"4182"
 			"12"		"4747"
 			"13"		"4166"
-			"14"		"4305"
-			"15"		"1742"
-			"16"		"4057"
+			"14"		"1681"
+			"15"		"4305"
+			"16"		"1742"
 			"17"		"3813"
-			"18"		"7107"
-			"19"		"1681"
+			"18"		"4057"
+			"19"		"7107"
 		}
 		"review_score"		"9"
-		"review_percentage"		"95"
+		"review_percentage"		"96"
 	}
 	"extended"
 	{
 		"developer"		"Mimimi Games"
 		"publisher"		"Mimimi Games"
 		"homepage"		"https://shadowgambit.com"
-		"listofdlc"		"2505850"
+		"listofdlc"		"2304810,2505850,2576620"
 		"dlcavailableonstore"		"1"
 	}
 	"config"
@@ -285,6 +288,7 @@
 	}
 	"depots"
 	{
+		"workshopdepot"		"1545560"
 		"228989"
 		{
 			"config"
@@ -300,42 +304,36 @@
 			{
 				"public"
 				{
-					"gid"		"5040960601425920949"
-					"size"		"23280610842"
-					"download"		"12511225424"
+					"gid"		"6594287164397123498"
+					"size"		"29310908940"
+					"download"		"15619314880"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"development"
 				{
-					"gid"		"A7123D7D4578A0FFF0011E1A66303199"
-					"size"		"F86B0E82771DD5ED8E9CA3BCB5C2272D"
-					"download"		"0941ACBFD097DCBF19726F547C776B2F"
+					"gid"		"F94E7E7707015A414E0B9B87631EB1A3"
+					"size"		"9BD141AB6680EFE1B5A9275A6945E31B"
+					"download"		"E3D6184F125881C61D585357C88E075E"
 				}
 				"development_debug"
 				{
-					"gid"		"A0FA7EE58E9FCC252FD00C1E1B75C2CC"
-					"size"		"F37FD7E3DEE4B59B2264AB3A544999A1"
-					"download"		"9BB044A3F0EEAEE5F2801040ED6F1C9A"
+					"gid"		"96EBD2D6F1767D314C787F57ABB8C96A"
+					"size"		"2B9262042799C6A7640AE8400B641E71"
+					"download"		"73DCEB8685A2D8923367103E1CBC40BF"
 				}
 				"development_steam"
 				{
-					"gid"		"D2BFD1F78E94C08C87CBA41DCECB94E2"
-					"size"		"4FC2247C26244F06E7B99267FA880FF2"
-					"download"		"AFFE0941E2173F978E7D14FD8433B724"
+					"gid"		"3719935071130EAB4122493083734FD4"
+					"size"		"3868C5CE0F0C612D408BCB14A587F0BF"
+					"download"		"2259170DBB54E72BA21AE1BC402D63AD"
 				}
 				"development_steam_debug"
 				{
-					"gid"		"E1BCF963C24ED8B65B6BE267D5275FD3"
-					"size"		"51397DD3E4DC9518122B2141E4740C15"
-					"download"		"856682DF0B3DB3C97ABB9AF2B0B3612B"
-				}
-				"loca"
-				{
-					"gid"		"37DE3658C1626C1CD046DFC30EB19A4A"
-					"size"		"9448652FE815A5F9846CBFE33D58E119"
-					"download"		"59B974BD3E5C7810A93892FC7CADCCCB"
+					"gid"		"E13BBDD6307905B8BE55828ED4FFD649"
+					"size"		"A1A14078FF9BA8F84935ABFE07C72D90"
+					"download"		"6579AD45A75CB0AAC7520639CDA7AEED"
 				}
 				"milestone"
 				{
@@ -345,57 +343,51 @@
 				}
 				"nightly"
 				{
-					"gid"		"6C24C2AF7F3F27D64576A0EAD42C5082"
-					"size"		"B260667C4C7B3E437B50438447BDDE50"
-					"download"		"321FF71F33BA4658D467CD5E65AF92A4"
+					"gid"		"F9C890729287E1835FF2D578C1D0CF9E"
+					"size"		"2C32DA095DB685BFB5CCA891D86D06EB"
+					"download"		"E59C826C00D7C864921E6E97FADE5F2A"
 				}
 				"nightly_debug"
 				{
-					"gid"		"1C733C7DB89BAB370B9FD5CE648BDA1E"
-					"size"		"0491FB39320E52CA34C70302ABF8246A"
-					"download"		"20D421FC4A49871F057F44EDC93A4C64"
+					"gid"		"7B8F7934F6040EB4387634348FCF93F8"
+					"size"		"F0D5AD23FEAFACC367D93F70F3454299"
+					"download"		"94B6181403E1981EFAE2F50934BBC27A"
 				}
 				"nightly_steam"
 				{
-					"gid"		"EC3E77FB793C7A4159956E925DA27224"
-					"size"		"C4F7C7E3DE48A0150DCDBBF1DA632371"
-					"download"		"EF686DBFC6EE80E0206A1639C5E71392"
+					"gid"		"E9E22EFA27D006481F91C92F79D89EAD"
+					"size"		"010C57EE26FF4E7A95C4FA6B4512DA41"
+					"download"		"5987848F37E62897B546113F869F6890"
 				}
 				"nightly_steam_debug"
 				{
-					"gid"		"CBB060DA67E5F6D5D65A1B2B526AC251"
-					"size"		"E58541B9F9C9DB62E4AF8835203EE7CD"
-					"download"		"1E2E60C62D4927F6740F9F3D550D54EC"
+					"gid"		"CC0607A703CC3AD959734609F40E1753"
+					"size"		"D44211E9CC03A389E81CEFFF1CF7B43B"
+					"download"		"3FA9B6058B87FB32BF80E7EAE664EFF2"
 				}
 				"playtest-internal"
 				{
-					"gid"		"F4DA273CC11433B8330E2760E77C01C2"
-					"size"		"F5362A5B179C81C2A05A2854ACD63592"
-					"download"		"8B7C0682273464049D33202CFD722BDD"
+					"gid"		"5EF7BD0658CBD88876D2A8A899443D1F"
+					"size"		"45C6727D1730BEF93FA4B0E969FBC8C9"
+					"download"		"2A122FE42F8180F05A30ED6C48A59051"
 				}
 				"playtest-internal-exp"
 				{
-					"gid"		"D44922278AD9BCFCAE7F91B76D77F30B"
-					"size"		"1063B14C7BFFB5F1259E73C2E132050E"
-					"download"		"6FF78CD1C901F2BDE6A1B18EDA3F3AE8"
+					"gid"		"ACF5820BEF8B0071E2F898CDC572178F"
+					"size"		"02B206BA143CDBD08C85594301612A6C"
+					"download"		"A1C41FD1D43356E6BA0CA5FC4A3E25AA"
 				}
-				"review-build"
+				"review-build-dlc"
 				{
-					"gid"		"DFCAFE9ADDCA945D722CBF8AA635FFE2"
-					"size"		"5969300C8DFD910692518B9DED6A794A"
-					"download"		"9673DDBCA5CED88848770F12257BCAD2"
+					"gid"		"E97ECE1F83E71A414D2939C71FE7E5F0"
+					"size"		"787A1BC6996CEAF2CB7D66696EAE0DBC"
+					"download"		"16564780C349C702F75551D10A9B63A2"
 				}
 				"staging"
 				{
-					"gid"		"8546F106ABD18E17F2645CB57988FBB9"
-					"size"		"76D447891C12BF0D897CAC4202956EEC"
-					"download"		"A4F680B84749793F34FC480EB7E1134B"
-				}
-				"steam-review"
-				{
-					"gid"		"7FC81B4B179BC2002489E0A61771F8FE"
-					"size"		"33D5A3FB84AABD1EC9E2BD5663ECB63B"
-					"download"		"250D967EAC8D5316E0B7319A8F0B156C"
+					"gid"		"44085D9A843A22B541BF7B17065AB43A"
+					"size"		"C2541E78C931F8C704767991DBD26C02"
+					"download"		"D747D96817F7BB0B3DAE80086A37EF78"
 				}
 				"temp"
 				{
@@ -405,91 +397,15 @@
 				}
 				"testing-external-qa"
 				{
-					"gid"		"EF690C3BAE7954C33F5F6AF871F7622E"
-					"size"		"7AE9B08709063451AF917C2D11406AFB"
-					"download"		"F19D29A92BC9A130F9A4497E2E216396"
+					"gid"		"6EC8D17E038F0DD6DCEE498BFDD074B8"
+					"size"		"1E7CC02D12C648A4A224ADDF70AE96FA"
+					"download"		"295E0E9D615E2D3B18DB767A8BF560DD"
 				}
 				"testing-external-qa-backup"
 				{
-					"gid"		"8B6F95E4E27B078E5EE70AFCA18A7FF5"
-					"size"		"389BE7A74E2EE148EBC932FD6F1DA282"
-					"download"		"E1D691972740AC824A9E45E913093F2B"
-				}
-				"trailer-capturing"
-				{
-					"gid"		"060AB05AC51CB3B10BF6D221E3BD6909"
-					"size"		"A2C376192003F28D38BD0591807CDC8B"
-					"download"		"D5448B8CD2C97083F99373E38B476B3C"
-				}
-				"trailer-capturing-backup"
-				{
-					"gid"		"DF4A802C1C381667046C25A17CA5D1FA"
-					"size"		"FEB83CF7986BAA8D17E01A392C0A0F0D"
-					"download"		"2170EAD8C21803EF162BD30E4CF9919C"
-				}
-			}
-		}
-		"2304810"
-		{
-			"dlcappid"		"2304810"
-			"manifests"
-			{
-			}
-			"encryptedmanifests"
-			{
-				"loca"
-				{
-					"gid"		"54AE239301C5255DE9DB36E148BA1EE3"
-					"size"		"8C2E32174889A72EC1798BC091EBF485"
-					"download"		"8C209019934EA343AB74C080762DCCA4"
-				}
-				"nightly_debug"
-				{
-					"gid"		"2E208FFDDC297B2D1A57DFDB9EEC041C"
-					"size"		"8C4C67CCD4635CD5CEEA9722EBD70831"
-					"download"		"4567A236FF08F51F1507ECE28A89B1AD"
-				}
-				"playtest-internal"
-				{
-					"gid"		"C65F7B2D44492CEEBCEC2144144A67C8"
-					"size"		"75C48CEF9566B2FC3296AB86CA7A564A"
-					"download"		"E78C84F125FAC6A2DA1712B0F33E79B1"
-				}
-				"playtest-internal-exp"
-				{
-					"gid"		"C1205BC6D94D7E740A52935861234923"
-					"size"		"FE7C2921EEB75BF6D0BF5EA0CF937E42"
-					"download"		"4D15C2570EAD32DAF40331367B06D38E"
-				}
-				"temp"
-				{
-					"gid"		"220F2D796671FE32A83A439BA61FDFF5"
-					"size"		"44C4E64CCC75608CFC619756CB59BAF6"
-					"download"		"CAF6A458785D49FCFDB11A5B1DCFD23D"
-				}
-				"testing-external-qa"
-				{
-					"gid"		"8B1DB908DCB781AD71B481842873DD04"
-					"size"		"8281B1711830F1DBFC8F6E9C575A44C3"
-					"download"		"DE7D8A6982F306C0903BC88FD26A4844"
-				}
-				"testing-external-qa-backup"
-				{
-					"gid"		"244025F0427B9BC0BCC9774140F2717F"
-					"size"		"E0463A2BECCDE1AD5E12A80BD0AC53AA"
-					"download"		"6A66C9BB1B4DCF55A5D14D9634FECB1F"
-				}
-				"trailer-capturing"
-				{
-					"gid"		"E04163B9CD9E6A356BB252D52D5DDB9F"
-					"size"		"272D1BBA0C902DC92B06DCE2C085280F"
-					"download"		"3608B8A2CEB034CC230D59E093F7DA36"
-				}
-				"trailer-capturing-backup"
-				{
-					"gid"		"3990DED8B281881C9C1B686A079391E6"
-					"size"		"F96AB8BB43B90338396377C53F4409E1"
-					"download"		"E63C42A17850E5DE3628B6084D7887C9"
+					"gid"		"5F9AE646E84B75E049F4234C64231F50"
+					"size"		"811DB67E5945D45381D662CBC9245476"
+					"download"		"6EE01ACA5785BA966CB0BE2F57A3B557"
 				}
 			}
 		}
@@ -519,6 +435,18 @@
 					"size"		"289D90F7206E96AEE3700F04A85CDCEB"
 					"download"		"D092B45FEC180C76543B5EE2AFEE37AD"
 				}
+				"playtest-internal-exp"
+				{
+					"gid"		"C5169F746E94F71E0D7EE83F38661921"
+					"size"		"BBDC92E7F1EF2164F16990A2074DA5D5"
+					"download"		"FE09042AE38CD52E1538B22B25A83B61"
+				}
+				"review-build-dlc"
+				{
+					"gid"		"A6B826213E7FE9F4CE545FB90EA667C8"
+					"size"		"126C0F2D5ADEAAE020DCCE49A4A5E3C5"
+					"download"		"4771B7475BC19F81B6D7FA277668451B"
+				}
 				"staging"
 				{
 					"gid"		"06A7291FCE86A1245089F3B0595B046D"
@@ -531,45 +459,44 @@
 					"size"		"D787E7AEF21042D2E2E1AB6CD1846A60"
 					"download"		"CFCE868DE4EE5A04C5DFEB486C54D181"
 				}
+				"testing-external-qa-backup"
+				{
+					"gid"		"562A9F481B7F3285AE5D9CC1BE2DC8C7"
+					"size"		"05E8EA4AB76F373A347529A423ED54E7"
+					"download"		"B18BB05DB26C70A3AAEF1D238EC21042"
+				}
 			}
 		}
-		"workshopdepot"		"1545560"
 		"branches"
 		{
 			"public"
 			{
-				"buildid"		"12177486"
-				"timeupdated"		"1694613595"
+				"buildid"		"12890792"
+				"timeupdated"		"1701879720"
 			}
 			"development"
 			{
-				"buildid"		"12164267"
+				"buildid"		"12789266"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694480118"
+				"timeupdated"		"1700820957"
 			}
 			"development_debug"
 			{
-				"buildid"		"12164271"
+				"buildid"		"12789278"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694480178"
+				"timeupdated"		"1700821091"
 			}
 			"development_steam"
 			{
-				"buildid"		"12165027"
+				"buildid"		"12787632"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694487977"
+				"timeupdated"		"1700806738"
 			}
 			"development_steam_debug"
 			{
-				"buildid"		"12165035"
+				"buildid"		"12787642"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694488036"
-			}
-			"loca"
-			{
-				"buildid"		"11645960"
-				"pwdrequired"		"1"
-				"timeupdated"		"1688716988"
+				"timeupdated"		"1700806873"
 			}
 			"milestone"
 			{
@@ -579,57 +506,51 @@
 			}
 			"nightly"
 			{
-				"buildid"		"12184524"
+				"buildid"		"12797098"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694662488"
+				"timeupdated"		"1700912680"
 			}
 			"nightly_debug"
 			{
-				"buildid"		"12197260"
+				"buildid"		"12797105"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694769832"
+				"timeupdated"		"1700912824"
 			}
 			"nightly_steam"
 			{
-				"buildid"		"12139019"
+				"buildid"		"12796371"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694153614"
+				"timeupdated"		"1700897417"
 			}
 			"nightly_steam_debug"
 			{
-				"buildid"		"12197930"
+				"buildid"		"12796379"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694774457"
+				"timeupdated"		"1700897557"
 			}
 			"playtest-internal"
 			{
-				"buildid"		"12011437"
+				"buildid"		"12839834"
 				"pwdrequired"		"1"
-				"timeupdated"		"1692783118"
+				"timeupdated"		"1701353897"
 			}
 			"playtest-internal-exp"
 			{
-				"buildid"		"12032156"
+				"buildid"		"12430004"
 				"pwdrequired"		"1"
-				"timeupdated"		"1692964845"
+				"timeupdated"		"1697439098"
 			}
-			"review-build"
+			"review-build-dlc"
 			{
-				"buildid"		"11698833"
+				"buildid"		"12792695"
 				"pwdrequired"		"1"
-				"timeupdated"		"1689584289"
+				"timeupdated"		"1700844736"
 			}
 			"staging"
 			{
-				"buildid"		"12177486"
+				"buildid"		"12890792"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694603474"
-			}
-			"steam-review"
-			{
-				"buildid"		"11907028"
-				"pwdrequired"		"1"
-				"timeupdated"		"1691684922"
+				"timeupdated"		"1701873163"
 			}
 			"temp"
 			{
@@ -639,27 +560,15 @@
 			}
 			"testing-external-qa"
 			{
-				"buildid"		"11972128"
+				"buildid"		"12804874"
 				"pwdrequired"		"1"
-				"timeupdated"		"1692341724"
+				"timeupdated"		"1701069083"
 			}
 			"testing-external-qa-backup"
 			{
-				"buildid"		"11972456"
+				"buildid"		"12779649"
 				"pwdrequired"		"1"
-				"timeupdated"		"1692341744"
-			}
-			"trailer-capturing"
-			{
-				"buildid"		"11845429"
-				"pwdrequired"		"1"
-				"timeupdated"		"1691056192"
-			}
-			"trailer-capturing-backup"
-			{
-				"buildid"		"11734881"
-				"pwdrequired"		"1"
-				"timeupdated"		"1689952160"
+				"timeupdated"		"1700823251"
 			}
 		}
 	}
