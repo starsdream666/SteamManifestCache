@@ -88,7 +88,7 @@
 				"height_pct"		"93.40277777777777"
 			}
 		}
-		"store_asset_mtime"		"1699566010"
+		"store_asset_mtime"		"1701799713"
 		"associations"
 		{
 			"0"
@@ -107,7 +107,6 @@
 		{
 			"0"		"1"
 			"1"		"23"
-			"2"		"70"
 		}
 		"category"
 		{
@@ -174,7 +173,7 @@
 				"subtitles"		"true"
 			}
 		}
-		"steam_release_date"		"1642097719"
+		"steam_release_date"		"1701799899"
 		"community_visible_stats"		"1"
 		"workshop_visible"		"1"
 		"community_hub_visible"		"1"
@@ -308,12 +307,25 @@
 			"10"
 			{
 				"executable"		"anacrusis.exe"
+				"arguments"		"-EpicApp=TestUniverse"
 				"type"		"default"
 				"config"
 				{
 					"oslist"		"windows"
 					"osarch"		"64"
 					"betakey"		"externalplaytest"
+				}
+			}
+			"11"
+			{
+				"executable"		"anacrusis.exe"
+				"arguments"		"-EpicApp=TestUniverse"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"press"
 				}
 			}
 		}
@@ -359,9 +371,9 @@
 			{
 				"public"
 				{
-					"gid"		"1098705003170660265"
-					"size"		"15515876669"
-					"download"		"13965781344"
+					"gid"		"3610388621349687826"
+					"size"		"16840167241"
+					"download"		"14909608864"
 				}
 			}
 			"encryptedmanifests"
@@ -374,21 +386,15 @@
 				}
 				"dailyplaytest"
 				{
-					"gid"		"CFE24C7108CF1E4223075718C2AFFF8C"
-					"size"		"38A098901BD4142DD0A5E0962E7DAE4A"
-					"download"		"E82FE827098780D99C0DA041B66E6AB4"
+					"gid"		"BBD6C329A49C8D784307B524988ED565"
+					"size"		"863579C4429FB79DFCE698E484074F2C"
+					"download"		"11748BD4C4B272194E7D9C9A8FE98CBD"
 				}
 				"development"
 				{
 					"gid"		"819E8B1D7BD5400130D2C9E055534AC7"
 					"size"		"A87CA19635259984CFD2235F5302716B"
 					"download"		"479A3C8BE8124DAB466AD10DD9E66529"
-				}
-				"externalplaytest"
-				{
-					"gid"		"14A2D8E212BECC2A9D68EE7A8A5E72EF"
-					"size"		"4809D7EF008445AF79C64CD36773101A"
-					"download"		"C409E2BC175CD58682C7776511EAE4FB"
 				}
 				"playtest"
 				{
@@ -398,15 +404,9 @@
 				}
 				"staging"
 				{
-					"gid"		"DFDF4F230488BBA01DEE65B8D9C0144E"
-					"size"		"F5CBFF9AE819EC6D0C14051C48CDB962"
-					"download"		"72F7B38C46007699E895735218ED308F"
-				}
-				"verycoolbranch"
-				{
-					"gid"		"0BDED8DC8C11092B07F19DFFAE776FF3"
-					"size"		"17D76CE62BF07DC444F74AD9980683CB"
-					"download"		"28DC06060C97FD31A6A6A5ECAA938324"
+					"gid"		"97807991AA2DB2FB6179E514E116DE9C"
+					"size"		"ADA717F69F423DC103D7C7A9A17EDCB3"
+					"download"		"339FC4DBD477789F727382AFC598DB97"
 				}
 			}
 		}
@@ -415,8 +415,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12811749"
-				"timeupdated"		"1701196349"
+				"buildid"		"12883330"
+				"timeupdated"		"1701810091"
 			}
 			"amdtest"
 			{
@@ -426,21 +426,15 @@
 			}
 			"dailyplaytest"
 			{
-				"buildid"		"12827693"
+				"buildid"		"12878895"
 				"pwdrequired"		"1"
-				"timeupdated"		"1701258741"
+				"timeupdated"		"1701777005"
 			}
 			"development"
 			{
 				"buildid"		"10424836"
 				"pwdrequired"		"1"
 				"timeupdated"		"1694455777"
-			}
-			"externalplaytest"
-			{
-				"buildid"		"12724270"
-				"pwdrequired"		"1"
-				"timeupdated"		"1700167283"
 			}
 			"playtest"
 			{
@@ -450,15 +444,9 @@
 			}
 			"staging"
 			{
-				"buildid"		"12811749"
+				"buildid"		"12883330"
 				"pwdrequired"		"1"
-				"timeupdated"		"1701126937"
-			}
-			"verycoolbranch"
-			{
-				"buildid"		"12519035"
-				"pwdrequired"		"1"
-				"timeupdated"		"1698137077"
+				"timeupdated"		"1701809499"
 			}
 		}
 	}
