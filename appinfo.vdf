@@ -63,7 +63,7 @@
 				"gamescope_frame_limiter_not_supported"		"0"
 			}
 		}
-		"nokeyboardmouse"		"1"
+		"controllertagwizard"		"1"
 		"controller_support"		"partial"
 		"small_capsule"
 		{
@@ -85,7 +85,7 @@
 				"height_pct"		"76.38888888888887"
 			}
 		}
-		"store_asset_mtime"		"1696493898"
+		"store_asset_mtime"		"1701942296"
 		"associations"
 		{
 			"0"
@@ -113,7 +113,9 @@
 			"category_18"		"1"
 			"category_45"		"1"
 			"category_46"		"1"
-			"category_60"		"1"
+			"category_55"		"1"
+			"category_57"		"1"
+			"category_25"		"1"
 		}
 		"supported_languages"
 		{
@@ -139,6 +141,7 @@
 			}
 		}
 		"steam_release_date"		"1630479890"
+		"community_visible_stats"		"1"
 		"community_hub_visible"		"1"
 		"gameid"		"1682970"
 		"store_tags"
@@ -146,8 +149,8 @@
 			"0"		"599"
 			"1"		"701"
 			"2"		"15045"
-			"3"		"3968"
-			"4"		"699"
+			"3"		"699"
+			"4"		"3968"
 			"5"		"4182"
 			"6"		"4175"
 			"7"		"3839"
@@ -226,24 +229,30 @@
 			{
 				"public"
 				{
-					"gid"		"2720552773727065588"
-					"size"		"25993629425"
-					"download"		"10650754848"
+					"gid"		"8446475687973321826"
+					"size"		"17083985716"
+					"download"		"16471502304"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"beta"
 				{
-					"gid"		"F62C2CB5784CF929A6B3F35BFFBEC882"
-					"size"		"3AE64A21BE39B53A8CAEE0D8B8B0678B"
-					"download"		"04F27AE62FBEC154309578BFF6017A89"
+					"gid"		"00087ADA95242AF85484116234FD09BE"
+					"size"		"05ABB394B262FCC90DF87A6EF6ADB90D"
+					"download"		"033C385E53D33664D6FD4317D12B4F2A"
 				}
 				"old-version"
 				{
 					"gid"		"9B9FAF698099D1668C0082AEEF5A25D0"
 					"size"		"C8F45F0C8759383848FF122E311BA155"
 					"download"		"D647102FBADFF8E57D7DF4093EF5CDD9"
+				}
+				"private-beta"
+				{
+					"gid"		"D7D0EE4B44962B745EA20FA964F6637D"
+					"size"		"9726262DA06F59630B8DE6B7E5A1B62B"
+					"download"		"C08D996D81BB9AA72BDA7188332855C7"
 				}
 			}
 		}
@@ -257,18 +266,18 @@
 			{
 				"public"
 				{
-					"gid"		"2094093606352833216"
-					"size"		"14780358567"
-					"download"		"13353893632"
+					"gid"		"704600281841096057"
+					"size"		"21050812842"
+					"download"		"19755206432"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"beta"
 				{
-					"gid"		"7D0969AB4DC02FCE1943978FFB6A84C2"
-					"size"		"2640DA82E3CA66AFDF1C70C3CB0C8B4C"
-					"download"		"4B6F6876334C26E37CCCE4BF8691881F"
+					"gid"		"EEC235EEAAD9B0E7B8D463F63CC151D3"
+					"size"		"8773F66342AEF9C04FFA91CFAD96EA1B"
+					"download"		"5C398CC0DA8A1C8783DEBF8B4ED19E7F"
 				}
 				"old-version"
 				{
@@ -276,20 +285,27 @@
 					"size"		"44B2AD985AA2453AF5C488C1108F39CD"
 					"download"		"6C01E9D516EE4A9AA476694FB440FCAA"
 				}
+				"private-beta"
+				{
+					"gid"		"765435CC6C9BC29A613941685EE7A2F0"
+					"size"		"BCAE87D6E07CCE0A0BEC7124A3D5E453"
+					"download"		"85CBE8FB2A3E4C544C04CE4EE8DB630E"
+				}
 			}
 		}
+		"workshopdepot"		"1682970"
 		"branches"
 		{
 			"public"
 			{
-				"buildid"		"12393320"
-				"timeupdated"		"1696858852"
+				"buildid"		"12899207"
+				"timeupdated"		"1701943978"
 			}
 			"beta"
 			{
-				"buildid"		"12393320"
+				"buildid"		"12899207"
 				"pwdrequired"		"1"
-				"timeupdated"		"1696855961"
+				"timeupdated"		"1701944013"
 			}
 			"old-version"
 			{
@@ -297,6 +313,17 @@
 				"pwdrequired"		"1"
 				"timeupdated"		"1682687050"
 			}
+			"private-beta"
+			{
+				"buildid"		"12899207"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701943989"
+			}
 		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000000"
+		"maxnumfiles"		"500"
 	}
 }
