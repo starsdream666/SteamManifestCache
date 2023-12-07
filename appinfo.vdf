@@ -1,0 +1,219 @@
+"appinfo"
+{
+	"appid"		"2449820"
+	"common"
+	{
+		"name"		"My GF Doesn't Know What I'm Into"
+		"type"		"Game"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		""
+		"clienttga"		"553deac958b9206bfd3493a19c04f289e024ab39"
+		"clienticns"		"7d6b6dc32cebdaf7067f4e91e02b19c432b69a71"
+		"clienticon"		"bcf2d341fc00c3918c282ca0a606eb8e0a48b5f6"
+		"icon"		"5742935ce14bb3f523ecfc26ed01f10def6ba993"
+		"releasestate"		"released"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1701441741"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Meiri Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Meiri Games"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1701088444"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2449820"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3799"
+			"1"		"1721"
+			"2"		"4947"
+			"3"		"6971"
+			"4"		"4726"
+			"5"		"3871"
+			"6"		"4085"
+			"7"		"44868"
+			"8"		"11014"
+			"9"		"597"
+			"10"		"492"
+			"11"		"5716"
+			"12"		"6426"
+			"13"		"1667"
+			"14"		"5094"
+			"15"		"4182"
+		}
+		"review_score"		"7"
+		"review_percentage"		"95"
+	}
+	"extended"
+	{
+		"developer"		"Meiri Games"
+		"publisher"		"Meiri Games"
+		"homepage"		"https://meiri.itch.io/mygf"
+		"isfreeapp"		"1"
+		"listofdlc"		"2721400"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"My GF Doesn't Know What I'm Into"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"MyGF/MyGF.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Play MyGF (Windows)"
+				}
+				"description"		"Play MyGF (Windows)"
+			}
+			"1"
+			{
+				"executable"		"MyGF/MyGF.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+				"description_loc"
+				{
+					"english"		"Play MyGF (macOS)"
+				}
+				"description"		"Play MyGF (macOS)"
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"baselanguages"		"english,french,italian,russian,brazilian"
+		"hasdepotsindlc"		"1"
+		"2449824"
+		{
+			"config"
+			{
+				"oslist"		"windows,macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7102310051607817976"
+					"size"		"383302107"
+					"download"		"253173504"
+				}
+				"release"
+				{
+					"gid"		"7102310051607817976"
+					"size"		"383302107"
+					"download"		"253173504"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12850508"
+				"timeupdated"		"1701437317"
+			}
+			"release"
+			{
+				"buildid"		"12850508"
+				"description"		"release"
+				"timeupdated"		"1701437297"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"200"
+		"maxnumfiles"		"200"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"SavesDir"
+				"pattern"		"*.sav"
+			}
+		}
+	}
+}
