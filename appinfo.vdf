@@ -86,7 +86,7 @@
 				"height_pct"		"51.365471384469245"
 			}
 		}
-		"store_asset_mtime"		"1687862874"
+		"store_asset_mtime"		"1701856317"
 		"associations"
 		{
 			"0"
@@ -210,7 +210,7 @@
 	}
 	"depots"
 	{
-		"baselanguages"		"english,german,french,spanish,schinese"
+		"baselanguages"		"english,german,french,spanish,schinese,russian,polish"
 		"1269711"
 		{
 			"config"
@@ -221,30 +221,24 @@
 			{
 				"public"
 				{
-					"gid"		"7073244462334651098"
-					"size"		"778269151"
-					"download"		"622651296"
+					"gid"		"7340922894560396029"
+					"size"		"706180811"
+					"download"		"564199104"
 				}
 				"beta"
 				{
-					"gid"		"7073244462334651098"
-					"size"		"778269151"
-					"download"		"622651296"
+					"gid"		"7340922894560396029"
+					"size"		"706180811"
+					"download"		"564199104"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"playtesting"
 				{
-					"gid"		"A1AF3E8BBA17095193B01630B6B1FFED"
-					"size"		"6ED2CDE67DCD89A50EF8D7CD44F6D81F"
-					"download"		"94DAE8FC5624073AD0DA2CBCF43FB957"
-				}
-				"preview"
-				{
-					"gid"		"9F38C615A695A9806E20040A6540A43C"
-					"size"		"78C29204E3E15AE026BACC39CA802106"
-					"download"		"66BAB1F86A7ADE73A654780CA6CDD875"
+					"gid"		"1EB5913985EC8026E6A1FF74E0053959"
+					"size"		"C2FA4883573C331404B2D9239190EBC5"
+					"download"		"2573567BC9834D1C90143DFF07F18CE4"
 				}
 			}
 		}
@@ -277,12 +271,6 @@
 					"size"		"3F7FCF2CD9A04AABFB351B1BF81B0A8E"
 					"download"		"C2EDB317E7EBCA2AB8584C671913AEE3"
 				}
-				"preview"
-				{
-					"gid"		"2FFC71F85A6C2D33CF32506758848261"
-					"size"		"4C87AB7F6E74580DD0439DB2F219BB65"
-					"download"		"B55978D80110143696ADB9878CC36434"
-				}
 			}
 		}
 		"2235420"
@@ -311,42 +299,58 @@
 					"size"		"5E7B112C2E39055FB36EA63876D64A99"
 					"download"		"153A5CCFD2336367DB14DD5EC1C99397"
 				}
-				"preview"
-				{
-					"gid"		"714E52CB569C1D56E1D2E1358A75C7B3"
-					"size"		"E5A01EB55510D2841440E3F761BDFC91"
-					"download"		"531CF511D06F0BC2CFAB8025EB3B544F"
-				}
 			}
 			"config"
 			{
 				"optionaldlc"		"2235420"
 			}
 		}
+		"2721100"
+		{
+			"dlcappid"		"2721100"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2534045891528126313"
+					"size"		"1321086"
+					"download"		"1097440"
+				}
+				"beta"
+				{
+					"gid"		"2534045891528126313"
+					"size"		"1321086"
+					"download"		"1097440"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"playtesting"
+				{
+					"gid"		"223A17EF09C11BE5A7036E92AC9695D6"
+					"size"		"8C51CD6628F3B385357E367A8C604464"
+					"download"		"2498B0C69D86833DEA19961A076493DE"
+				}
+			}
+		}
 		"branches"
 		{
 			"public"
 			{
-				"buildid"		"12619898"
-				"timeupdated"		"1699195297"
+				"buildid"		"12891652"
+				"timeupdated"		"1701887060"
 			}
 			"beta"
 			{
-				"buildid"		"12619898"
+				"buildid"		"12891652"
 				"description"		"For Playtesting"
-				"timeupdated"		"1699195276"
+				"timeupdated"		"1701882922"
 			}
 			"playtesting"
 			{
-				"buildid"		"12619898"
+				"buildid"		"12891652"
 				"pwdrequired"		"1"
-				"timeupdated"		"1699109703"
-			}
-			"preview"
-			{
-				"buildid"		"12619898"
-				"pwdrequired"		"1"
-				"timeupdated"		"1699195283"
+				"timeupdated"		"1701879089"
 			}
 		}
 		"appmanagesdlc"		"1"
