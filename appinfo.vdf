@@ -77,7 +77,8 @@
 			}
 		}
 		"metacritic_name"		"Undying"
-		"controller_support"		"partial"
+		"controllertagwizard"		"1"
+		"controller_support"		"full"
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
@@ -102,7 +103,7 @@
 				"height_pct"		"81.59722222222223"
 			}
 		}
-		"store_asset_mtime"		"1652230781"
+		"store_asset_mtime"		"1701945875"
 		"associations"
 		{
 			"0"
@@ -136,16 +137,17 @@
 		{
 			"0"		"25"
 			"1"		"23"
-			"2"		"70"
 		}
 		"category"
 		{
 			"category_2"		"1"
-			"category_18"		"1"
 			"category_45"		"1"
 			"category_46"		"1"
 			"category_22"		"1"
 			"category_23"		"1"
+			"category_28"		"1"
+			"category_55"		"1"
+			"category_56"		"1"
 		}
 		"supported_languages"
 		{
@@ -212,7 +214,7 @@
 				"subtitles"		"true"
 			}
 		}
-		"steam_release_date"		"1634626320"
+		"steam_release_date"		"1701943345"
 		"community_visible_stats"		"1"
 		"community_hub_visible"		"1"
 		"gameid"		"638990"
@@ -249,7 +251,7 @@
 		"developer"		"Vanimals"
 		"publisher"		"Skystone Games"
 		"homepage"		"https://vanimals.net"
-		"listofdlc"		"1801540,1849330,2644380"
+		"listofdlc"		"1801540,1849330,2636880,2644380"
 		"dlcavailableonstore"		"1"
 	}
 	"config"
@@ -294,8 +296,8 @@
 			}
 			"public"
 			{
-				"buildid"		"12538776"
-				"timeupdated"		"1698302554"
+				"buildid"		"12897367"
+				"timeupdated"		"1701943747"
 			}
 			"api_test"
 			{
@@ -303,23 +305,35 @@
 				"pwdrequired"		"1"
 				"timeupdated"		"1641554432"
 			}
-			"balancetest"
+			"ceshi2023"
 			{
-				"buildid"		"12399578"
+				"buildid"		"12887386"
 				"pwdrequired"		"1"
-				"timeupdated"		"1696909236"
+				"timeupdated"		"1701847842"
 			}
 			"closedbeta"
 			{
-				"buildid"		"12520943"
+				"buildid"		"12866931"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698156921"
+				"timeupdated"		"1701681976"
+			}
+			"demo1.0"
+			{
+				"buildid"		"12757800"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700553839"
 			}
 			"develop"
 			{
-				"buildid"		"12520943"
+				"buildid"		"12897367"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698150177"
+				"timeupdated"		"1701928191"
+			}
+			"fulldemotest"
+			{
+				"buildid"		"12877634"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701768563"
 			}
 			"halloween2023"
 			{
@@ -327,23 +341,17 @@
 				"pwdrequired"		"1"
 				"timeupdated"		"1698296305"
 			}
-			"mediatest"
+			"mediapreview1.0"
 			{
-				"buildid"		"12306815"
+				"buildid"		"12757746"
 				"pwdrequired"		"1"
-				"timeupdated"		"1695913285"
+				"timeupdated"		"1700553372"
 			}
 			"switchtest"
 			{
 				"buildid"		"11514608"
 				"pwdrequired"		"1"
 				"timeupdated"		"1687261113"
-			}
-			"xiaoli2023"
-			{
-				"buildid"		"12085747"
-				"pwdrequired"		"1"
-				"timeupdated"		"1694505646"
 			}
 		}
 		"638991"
@@ -352,9 +360,9 @@
 			{
 				"public"
 				{
-					"gid"		"5046161655210625828"
-					"size"		"972770080"
-					"download"		"822857344"
+					"gid"		"8829729830248572146"
+					"size"		"1351487941"
+					"download"		"1048991696"
 				}
 			}
 			"encryptedmanifests"
@@ -365,23 +373,35 @@
 					"size"		"89DC7D25C17B199C4A7E55A18E52D180"
 					"download"		"B22EC2F65B07902482CC3A513AF77174"
 				}
-				"balancetest"
+				"ceshi2023"
 				{
-					"gid"		"1EAC51D5CE09164C31F44F97BB054B3A"
-					"size"		"2FC5646E97A1F85D18793BD34D4EFD00"
-					"download"		"EA9AB39E6E24D9EA1C761740346731CD"
+					"gid"		"41B1C718C219EBC398A3DCA0DBD89359"
+					"size"		"D996E9D77348E55D8156F86AD6B24560"
+					"download"		"9C03DF8F129EE8805640071CB8315D35"
 				}
 				"closedbeta"
 				{
-					"gid"		"5FD15E46B781B3E13DD4AC33FB1BDDA6"
-					"size"		"0D872873B482CB55B5CEE70C738C4433"
-					"download"		"5873DA45E018498EDFF968009BB98258"
+					"gid"		"77048AA2EE3BC15AA14BEF30251E13A5"
+					"size"		"C0F4379827B15C269F255B505EDF6451"
+					"download"		"E54CA947440FA3C4A720F647712A8727"
+				}
+				"demo1.0"
+				{
+					"gid"		"D3310A0C8219608759EF5873C647A355"
+					"size"		"95AF95A869FE32ECC8743CC21AA65289"
+					"download"		"307483DF3E16B8BE69840B75A4C18CB8"
 				}
 				"develop"
 				{
-					"gid"		"ADD315A3784F350032FA708C3756FA64"
-					"size"		"67321066DC44F0210624A0ADA9A068E8"
-					"download"		"99B5ABE43A1FE81E085E6979777460B9"
+					"gid"		"82D5084C5BEDE53DA32793370A028A1E"
+					"size"		"1822DE037A11EBCF5FCD3843A5D8F0A7"
+					"download"		"FF7D353AC423215B362FB4644FE18863"
+				}
+				"fulldemotest"
+				{
+					"gid"		"60C9409A49E7DCD200B10AF8635D04F7"
+					"size"		"B563767FE3AC1E2D2E3E9011C2EA5C45"
+					"download"		"EA5E9EBD7374BF43CA833221F1BE2B8C"
 				}
 				"halloween2023"
 				{
@@ -389,23 +409,17 @@
 					"size"		"72D9E4FC39090445E054982369919DB5"
 					"download"		"F23522F92EF30632027748C960DAE721"
 				}
-				"mediatest"
+				"mediapreview1.0"
 				{
-					"gid"		"EE4349BAD457C4F04F8F19610287C853"
-					"size"		"67500DE78731A8228DF4A4D7B0F076F5"
-					"download"		"88ED4A2AA5D981754679F737E55F7947"
+					"gid"		"37B30EFFE4E020F24119116AED4E712A"
+					"size"		"D7CF23E1B166B45F8010E651DBD0B0C5"
+					"download"		"8977DFDE69D18C4AC7638AD56D48BE0B"
 				}
 				"switchtest"
 				{
 					"gid"		"0FA4B6E6FE741165AAAF15075B566192"
 					"size"		"E6F5FEC4E0E02345A6584BC52E24B0BB"
 					"download"		"AA86D59234B4E4EAC91A07C186EBBE91"
-				}
-				"xiaoli2023"
-				{
-					"gid"		"23186B33AA124C96944006B9FF29E78D"
-					"size"		"A822471BA722141F636A0CDF36DA1302"
-					"download"		"DB4A15129C3AA00A0D208B30B203A3C8"
 				}
 			}
 		}
@@ -436,11 +450,11 @@
 					"size"		"A2EF9054C067E167DA5BAD992D3ACEF3"
 					"download"		"A2EF9054C067E167DA5BAD992D3ACEF3"
 				}
-				"balancetest"
+				"ceshi2023"
 				{
-					"gid"		"9641A74CBCD5BB965EBBF9664F91D98D"
-					"size"		"E6AB72D29ED329746079D506A78837BE"
-					"download"		"E6AB72D29ED329746079D506A78837BE"
+					"gid"		"A77896489758EB8BAF90CD69DB9E300F"
+					"size"		"7469A89539F1F646718EA456F11B8E49"
+					"download"		"7469A89539F1F646718EA456F11B8E49"
 				}
 				"closedbeta"
 				{
@@ -448,11 +462,23 @@
 					"size"		"B711F33A5FE7997058157C6B8FEE6505"
 					"download"		"B711F33A5FE7997058157C6B8FEE6505"
 				}
+				"demo1.0"
+				{
+					"gid"		"F10EC023A3EFEB1DF38E003A738A0084"
+					"size"		"602FA5544F841684C5BF39F0B95F282E"
+					"download"		"602FA5544F841684C5BF39F0B95F282E"
+				}
 				"develop"
 				{
 					"gid"		"9DF706929B0D7182028F9818003ECA78"
 					"size"		"63E644E6685F7A648B12624809D5B698"
 					"download"		"63E644E6685F7A648B12624809D5B698"
+				}
+				"fulldemotest"
+				{
+					"gid"		"8CD122F9BB4C2F4C4456C2D7013C1CCD"
+					"size"		"ED1957769CD8A6F8B051FD3052C34D4B"
+					"download"		"ED1957769CD8A6F8B051FD3052C34D4B"
 				}
 				"halloween2023"
 				{
@@ -460,23 +486,17 @@
 					"size"		"72D99558D7D4E760B3E8C254F0AF29CD"
 					"download"		"72D99558D7D4E760B3E8C254F0AF29CD"
 				}
-				"mediatest"
+				"mediapreview1.0"
 				{
-					"gid"		"68BF9D799DDF8B724E3751CDD126090E"
-					"size"		"01FE63EE9444123735A5FB7A7EA3666B"
-					"download"		"01FE63EE9444123735A5FB7A7EA3666B"
+					"gid"		"BEBFA6013B7BABE33A5B1C2203C19AFA"
+					"size"		"9A170C75D3C389BF3347EDB953D4D66C"
+					"download"		"9A170C75D3C389BF3347EDB953D4D66C"
 				}
 				"switchtest"
 				{
 					"gid"		"251ECA83AAF7EB47A81E87C539A7D0AD"
 					"size"		"87E47A80D81C1408998013E80DDAEFA8"
 					"download"		"87E47A80D81C1408998013E80DDAEFA8"
-				}
-				"xiaoli2023"
-				{
-					"gid"		"64A8B9CC01477F286A84D549366E47C0"
-					"size"		"0CCED3E9CE1B9D119AC7DA2E647D68EF"
-					"download"		"0CCED3E9CE1B9D119AC7DA2E647D68EF"
 				}
 			}
 		}
