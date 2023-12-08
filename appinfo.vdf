@@ -34,13 +34,17 @@
 			"0"		"5"
 		}
 		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"controllertagwizard"		"1"
 		"controller_support"		"full"
 		"small_capsule"
 		{
+			"japanese"		"capsule_231x87_japanese.jpg"
 			"english"		"capsule_231x87.jpg"
 		}
 		"header_image"
 		{
+			"japanese"		"header_japanese.jpg"
 			"english"		"header.jpg"
 		}
 		"library_assets"
@@ -55,7 +59,7 @@
 				"height_pct"		"56.81173131504258"
 			}
 		}
-		"store_asset_mtime"		"1689332277"
+		"store_asset_mtime"		"1701971846"
 		"associations"
 		{
 			"0"
@@ -85,7 +89,6 @@
 			"0"		"1"
 			"1"		"25"
 			"2"		"23"
-			"3"		"70"
 		}
 		"category"
 		{
@@ -159,7 +162,7 @@
 				"subtitles"		"true"
 			}
 		}
-		"steam_release_date"		"1667228434"
+		"steam_release_date"		"1701967578"
 		"community_visible_stats"		"1"
 		"community_hub_visible"		"1"
 		"gameid"		"1460220"
@@ -182,12 +185,12 @@
 			"14"		"4182"
 			"15"		"4064"
 			"16"		"4175"
-			"17"		"493"
-			"18"		"3968"
-			"19"		"19"
+			"17"		"3968"
+			"18"		"19"
+			"19"		"493"
 		}
-		"review_score"		"9"
-		"review_percentage"		"95"
+		"review_score"		"8"
+		"review_percentage"		"94"
 	}
 	"extended"
 	{
@@ -240,18 +243,24 @@
 			{
 				"public"
 				{
-					"gid"		"112284811274954751"
-					"size"		"4663025644"
-					"download"		"4489823856"
+					"gid"		"2033857449966856124"
+					"size"		"4734692286"
+					"download"		"4557473200"
 				}
 			}
 			"encryptedmanifests"
 			{
+				"evilaccess"
+				{
+					"gid"		"9D955C05CB4F36A99C1AE89D01F71490"
+					"size"		"97B2E3462715AB000D88C59D5A5711A9"
+					"download"		"0EA54ECE36A43746A8F6E67AAF8BD576"
+				}
 				"evilnunprivatetesting"
 				{
-					"gid"		"BAB427190BF7BE088CB50F6775A2A694"
-					"size"		"66475B478F8BEDC3DC7ECC2B99ED3E82"
-					"download"		"1F5F06093F04B43F7D12A435DB6D467B"
+					"gid"		"53604F0FBB33214C3F117C5B21628F47"
+					"size"		"35A12CB2C1BF6CA982399B7E737A9C59"
+					"download"		"316BDC08A47D8430410D9782A0065A8A"
 				}
 			}
 		}
@@ -260,14 +269,20 @@
 		{
 			"public"
 			{
-				"buildid"		"11413804"
-				"timeupdated"		"1686142744"
+				"buildid"		"12870577"
+				"timeupdated"		"1701967466"
+			}
+			"evilaccess"
+			{
+				"buildid"		"12870577"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701705546"
 			}
 			"evilnunprivatetesting"
 			{
-				"buildid"		"11695411"
+				"buildid"		"12870577"
 				"pwdrequired"		"1"
-				"timeupdated"		"1689264197"
+				"timeupdated"		"1701705555"
 			}
 		}
 	}
