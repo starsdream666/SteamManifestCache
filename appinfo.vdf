@@ -1,0 +1,201 @@
+"appinfo"
+{
+	"appid"		"2414630"
+	"common"
+	{
+		"name"		"Hollow Cocoon"
+		"type"		"Game"
+		"releasestate"		"released"
+		"name_localized"
+		{
+			"japanese"		"ウツロマユ - Hollow Cocoon -"
+		}
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+			"japanese"		"1"
+		}
+		"clienticon"		"b460d641f0bef690f0338bb1eb0fa0b7ca1c4626"
+		"clienttga"		"bf096cbace0f816b2ef238a56e759244bc96ebfa"
+		"icon"		"1207e61fad4b2b7662e7e7728a4e747a18bc97b7"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"controllertagwizard"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"japanese"		"header_japanese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,ja"
+			"library_hero"		"en"
+			"library_logo"		"en,ja"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1701863410"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"NAYUTA STUDIO"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"NAYUTA STUDIO"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+			"category_55"		"1"
+			"category_56"		"1"
+			"category_57"		"1"
+			"category_58"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1701910823"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2414630"
+		"store_tags"
+		{
+			"0"		"1667"
+			"1"		"21"
+			"2"		"1721"
+			"3"		"4342"
+			"4"		"3978"
+			"5"		"1687"
+			"6"		"6971"
+			"7"		"3839"
+			"8"		"492"
+			"9"		"4166"
+			"10"		"1742"
+			"11"		"4175"
+			"12"		"4064"
+			"13"		"5900"
+			"14"		"4182"
+			"15"		"1710"
+			"16"		"3834"
+			"17"		"4004"
+			"18"		"7743"
+			"19"		"7481"
+		}
+		"review_score"		"8"
+		"review_percentage"		"84"
+	}
+	"extended"
+	{
+		"developer"		"NAYUTA STUDIO"
+		"publisher"		"NAYUTA STUDIO"
+	}
+	"config"
+	{
+		"installdir"		"Hollow Cocoon"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Hollow Cocoon.exe"
+			}
+		}
+	}
+	"depots"
+	{
+		"2414631"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7839525266755639135"
+					"size"		"7618109917"
+					"download"		"3866827376"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12906574"
+				"timeupdated"		"1702000673"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Nayuta Studio/Hollow Cocoon"
+				"pattern"		"save*.sav"
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Nayuta Studio/Hollow Cocoon"
+				"pattern"		"auto.sav"
+			}
+			"2"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Nayuta Studio/Hollow Cocoon"
+				"pattern"		"system.sav"
+			}
+		}
+	}
+}
