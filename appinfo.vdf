@@ -1,0 +1,204 @@
+"appinfo"
+{
+	"appid"		"2415010"
+	"common"
+	{
+		"name"		"A Date with Death"
+		"type"		"Game"
+		"releasestate"		"released"
+		"icon"		"e74a1d972d9bea2fef64136226a5316aeca633f0"
+		"clienticon"		"aebb5a1c231478aba930af47c779f50f6f6e91f4"
+		"clienttga"		"fbe9d2d06e58a8a42ef9a7e6b069f768c290caf0"
+		"clienticns"		"9b797cae2aa87f4a355a9948e9ea3ea8a0c28945"
+		"linuxclienticon"		"744078ba067605bdbe6e337d8896acb1a5c278c8"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"62.01866977829638"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1701861780"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Two and a Half Studios"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Two and a Half Studios"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Two and a Half Studios"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"28"
+			"2"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1701962058"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2415010"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"3799"
+			"1"		"9551"
+			"2"		"10808"
+			"3"		"4947"
+			"4"		"4604"
+			"5"		"44868"
+			"6"		"31579"
+			"7"		"10235"
+			"8"		"1742"
+			"9"		"4085"
+			"10"		"11014"
+			"11"		"6426"
+			"12"		"4486"
+			"13"		"1719"
+			"14"		"4747"
+			"15"		"4136"
+			"16"		"3854"
+			"17"		"31275"
+			"18"		"6971"
+			"19"		"9204"
+		}
+		"review_score"		"8"
+		"review_percentage"		"100"
+	}
+	"extended"
+	{
+		"developer"		"Two and a Half Studios"
+		"publisher"		"Two and a Half Studios"
+		"isfreeapp"		"1"
+		"listofdlc"		"2696090"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"A Date with Death"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"ADatewithDeath.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
+			}
+			"1"
+			{
+				"executable"		"ADatewithDeath.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
+			}
+			"2"
+			{
+				"executable"		"ADatewithDeath.sh"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
+			}
+		}
+	}
+	"depots"
+	{
+		"2415011"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4762101705133339904"
+					"size"		"1127772712"
+					"download"		"945295584"
+				}
+			}
+		}
+		"2696090"
+		{
+			"dlcappid"		"2696090"
+			"config"
+			{
+				"language"		"english"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7492152692030777063"
+					"size"		"1763"
+					"download"		"1744"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12902695"
+				"timeupdated"		"1701967922"
+			}
+		}
+	}
+}
