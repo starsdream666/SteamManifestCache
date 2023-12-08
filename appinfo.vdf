@@ -1,0 +1,198 @@
+"appinfo"
+{
+	"appid"		"2653790"
+	"common"
+	{
+		"name"		"８番出口"
+		"type"		"Game"
+		"name_localized"
+		{
+			"english"		"The Exit 8"
+		}
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"7c040c733fc64d878d8c7b8c8564eb1a9ae10238"
+		"clienticon"		"3739ee8eb128ba7f266ad2dbc6b8441c95a079df"
+		"clienttga"		"f8e9f6d29baa559230c221be1ed79e16055ed4aa"
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"japanese"		"1"
+		}
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"2653790_eula_0"
+				"name"		"８番出口 EULA"
+				"url"		"https://store.steampowered.com//eula/2653790_eula_0"
+				"version"		"2"
+			}
+		}
+		"controllertagwizard"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"22.10580191798593"
+				"height_pct"		"34.50222222222219"
+			}
+		}
+		"store_asset_mtime"		"1701232260"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"KOTAKE CREATE"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"KOTAKE CREATE"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+			"2"		"28"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1701255643"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2653790"
+		"store_tags"
+		{
+			"0"		"1721"
+			"1"		"5900"
+			"2"		"3834"
+			"3"		"1667"
+			"4"		"3839"
+			"5"		"9204"
+			"6"		"4191"
+			"7"		"4166"
+			"8"		"1710"
+			"9"		"1664"
+			"10"		"4136"
+			"11"		"7250"
+			"12"		"599"
+			"13"		"7481"
+			"14"		"4175"
+			"15"		"5186"
+			"16"		"5716"
+			"17"		"21"
+			"18"		"4145"
+			"19"		"5673"
+		}
+		"review_score"		"8"
+		"review_percentage"		"94"
+	}
+	"extended"
+	{
+		"developer"		"KOTAKE CREATE"
+		"publisher"		"KOTAKE CREATE"
+	}
+	"config"
+	{
+		"installdir"		"Exit8"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Exit8.exe"
+			}
+		}
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"65533"
+		"steamcontrollertemplateindex"		"4"
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2653791"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5761587277027900657"
+					"size"		"1645596424"
+					"download"		"1497081696"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"1798628A82D85FF115B89D553CDAB215"
+					"size"		"1D81159EA7DCFEA57342FFCBBAE68F65"
+					"download"		"E1B73A07D4A650E717CA6A7F513D9F9A"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12877418"
+				"timeupdated"		"1701772770"
+			}
+			"test"
+			{
+				"buildid"		"12877418"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701772446"
+			}
+		}
+	}
+}
