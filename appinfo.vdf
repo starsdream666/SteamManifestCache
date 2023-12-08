@@ -11,6 +11,14 @@
 		"logo"		"bccccf0670a3b306b63b881420da8e0978f94380"
 		"logo_small"		"bccccf0670a3b306b63b881420da8e0978f94380_thumb"
 		"oslist"		"windows"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"spanish"		"1"
+		}
 		"steam_deck_compatibility"
 		{
 			"category"		"1"
@@ -102,6 +110,27 @@
 			"english"
 			{
 				"supported"		"1"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
 			}
 		}
 		"steam_release_date"		"1338485340"
@@ -120,8 +149,8 @@
 			"5"		"21"
 			"6"		"4085"
 			"7"		"4026"
-			"8"		"1646"
-			"9"		"1720"
+			"8"		"1720"
+			"9"		"1646"
 			"10"		"1684"
 			"11"		"4182"
 			"12"		"7208"
@@ -159,12 +188,24 @@
 			"1"
 			{
 				"executable"		"config.exe"
-				"type"		"config"
+				"description_loc"
+				{
+					"english"		"Launch Configuration Tool"
+					"german"		"Konfigurationstool"
+					"french"		"Lancer l’outil de configuration"
+					"koreana"		"설정 도구 시작"
+					"spanish"		"Iniciar herramienta de configuración"
+					"schinese"		"启动配置工具"
+					"tchinese"		"啟動設定工具"
+					"japanese"		"設定ツールを起動"
+				}
+				"description"		"Launch Configuration Tool"
 			}
 		}
 		"contenttype"		"3"
 		"installdir"		"Ys Origin"
 		"steamcontrollertemplateindex"		"4"
+		"steamconfigurator3rdpartynative"		"65533"
 	}
 	"depots"
 	{
@@ -194,9 +235,9 @@
 			{
 				"public"
 				{
-					"gid"		"2095659851290556077"
-					"size"		"1992399268"
-					"download"		"1820071936"
+					"gid"		"2196151053414582160"
+					"size"		"2273353897"
+					"download"		"2051370976"
 				}
 				"2018-04-12"
 				{
@@ -209,9 +250,9 @@
 			{
 				"xseed_beta"
 				{
-					"gid"		"15F8F39A1115A8360DE1F9EAD7AF7209"
-					"size"		"ADEC6FC76A608CAF78ED4DCFB9B2F8C0"
-					"download"		"C9DCC839D8B06700B53E20AB3DF41F98"
+					"gid"		"FB0FEF90A9D3F510BAB66A7EAD0599BA"
+					"size"		"0A43AF719DC0A9C2D86EFB7F20D77A1A"
+					"download"		"C0195C3ECDE713347C5B65382B09D368"
 				}
 			}
 		}
@@ -223,12 +264,18 @@
 			}
 			"manifests"
 			{
+				"public"
+				{
+					"gid"		"5126527014231966202"
+					"size"		"210703066"
+					"download"		"186802672"
+				}
 			}
 			"encryptedmanifests"
 			{
 				"xseed_beta"
 				{
-					"gid"		"ED241CAC074E538AAB4C557B360D731E"
+					"gid"		"A402A927254B3716EE056F2927803331"
 					"size"		"27B2A44AEA3C5D54C7D988A67C8FDB51"
 					"download"		"4F09643EA8C619E9786A46824EB5D85D"
 				}
@@ -242,12 +289,18 @@
 			}
 			"manifests"
 			{
+				"public"
+				{
+					"gid"		"2768309538599670926"
+					"size"		"205731537"
+					"download"		"185897152"
+				}
 			}
 			"encryptedmanifests"
 			{
 				"xseed_beta"
 				{
-					"gid"		"4F8D2ED596AFC8FFC677BC178A63A63A"
+					"gid"		"E641A9058648A0AB5C98A64F98E9DC29"
 					"size"		"ABE7F03211F1AF88B770E2E332DA88FD"
 					"download"		"E6F6C8D2D37CD7A1356093F9696A6B91"
 				}
@@ -261,12 +314,18 @@
 			}
 			"manifests"
 			{
+				"public"
+				{
+					"gid"		"3967737675374674379"
+					"size"		"206600190"
+					"download"		"186771360"
+				}
 			}
 			"encryptedmanifests"
 			{
 				"xseed_beta"
 				{
-					"gid"		"8C123992C5B643D19E61151B26ED89B0"
+					"gid"		"88FC864DB921860F54E3B2630C248927"
 					"size"		"87A872FBE14E35A21BA1B808C278D3BD"
 					"download"		"B7EC562BEA98C7CF17D44E4EEA057C3B"
 				}
@@ -280,12 +339,18 @@
 			}
 			"manifests"
 			{
+				"public"
+				{
+					"gid"		"690201929799744125"
+					"size"		"207154823"
+					"download"		"187237456"
+				}
 			}
 			"encryptedmanifests"
 			{
 				"xseed_beta"
 				{
-					"gid"		"3079A93339D5BCEFD908AE0B7ADFB076"
+					"gid"		"587A4941447D040899ECFAA5FAEB36B2"
 					"size"		"2580872CECD8FFDE933D381910BE0413"
 					"download"		"5BF14F3DF592E6237B062F4740C7BB82"
 				}
@@ -299,12 +364,18 @@
 			}
 			"manifests"
 			{
+				"public"
+				{
+					"gid"		"3954708913066548432"
+					"size"		"205633667"
+					"download"		"185826288"
+				}
 			}
 			"encryptedmanifests"
 			{
 				"xseed_beta"
 				{
-					"gid"		"52119536E31BEAE1D75367D49AFB9E23"
+					"gid"		"7243D0BA696D18C2564FDD8BE89CCDC9"
 					"size"		"AD42B2AE72FF0D71AFD6C53C727FA70D"
 					"download"		"12D13C07DA9FB5D7D332DF9DFF3EDA29"
 				}
@@ -314,8 +385,8 @@
 		{
 			"public"
 			{
-				"buildid"		"2683335"
-				"timeupdated"		"1523570382"
+				"buildid"		"12723206"
+				"timeupdated"		"1701980282"
 			}
 			"2018-04-12"
 			{
@@ -325,9 +396,9 @@
 			}
 			"xseed_beta"
 			{
-				"buildid"		"8841250"
+				"buildid"		"12723206"
 				"pwdrequired"		"1"
-				"timeupdated"		"1653985245"
+				"timeupdated"		"1700156923"
 			}
 		}
 	}
