@@ -1,0 +1,168 @@
+"appinfo"
+{
+	"appid"		"2350090"
+	"common"
+	{
+		"name"		"Fantasy Fighters"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"3f47f485495ac8d28e32755e111ea2e7a8520de3"
+		"clienttga"		"53750ea5fbb3dea77c2c1d4eff198ee5e02b9273"
+		"clienticon"		"1fbd89256bb82de97500b61dc683d9b6e61f6ffa"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"58.333334205463444"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1701882326"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Andrei Vasiu"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Andrei Vasiu"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"2"
+			"3"		"37"
+		}
+		"category"
+		{
+			"category_49"		"1"
+			"category_37"		"1"
+			"category_24"		"1"
+			"category_1"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1702025608"
+		"community_hub_visible"		"1"
+		"gameid"		"2350090"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"9"
+			"2"		"4106"
+			"3"		"1773"
+			"4"		"1770"
+			"5"		"4364"
+			"6"		"1741"
+			"7"		"5379"
+			"8"		"3871"
+			"9"		"4562"
+			"10"		"4305"
+			"11"		"4726"
+			"12"		"4166"
+			"13"		"4136"
+			"14"		"4057"
+			"15"		"4172"
+			"16"		"5716"
+			"17"		"1708"
+			"18"		"14139"
+			"19"		"7368"
+		}
+		"review_score"		"7"
+		"review_percentage"		"100"
+	}
+	"extended"
+	{
+		"developer"		"Andrei Vasiu"
+		"publisher"		"Andrei Vasiu"
+	}
+	"config"
+	{
+		"installdir"		"Fantasy Fighters"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"FantasyFighters.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2350091"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4672739347493243011"
+					"size"		"323787169"
+					"download"		"79521680"
+				}
+			}
+		}
+		"2350092"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"26003349869366107"
+					"size"		"323787169"
+					"download"		"79518624"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12909051"
+				"timeupdated"		"1702025346"
+			}
+		}
+	}
+}
