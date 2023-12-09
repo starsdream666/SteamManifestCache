@@ -1,0 +1,298 @@
+"appinfo"
+{
+	"appid"		"1916310"
+	"common"
+	{
+		"name"		"Remnant Records"
+		"type"		"Game"
+		"releasestate"		"released"
+		"icon"		"c53e5acdd393498dda7d9120633ce793ddc32b1f"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"73c88b2e6e1e61572638a0cdca038b4af15eda52"
+		"clienticon"		"99ec0f63b9425e00feaaee100949864e551b6908"
+		"name_localized"
+		{
+			"schinese"		"残存记录"
+		}
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1665187200"
+			"tested_build_id"		"9273205"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-4"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"53.90995260663507"
+				"height_pct"		"50.77113079101148"
+			}
+		}
+		"store_asset_mtime"		"1666624701"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Noctiluca Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Noctiluca Studio"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1658250010"
+		"community_hub_visible"		"1"
+		"gameid"		"1916310"
+		"store_tags"
+		{
+			"0"		"1667"
+			"1"		"3843"
+			"2"		"1685"
+			"3"		"1721"
+			"4"		"3859"
+			"5"		"8369"
+			"6"		"10808"
+			"7"		"4166"
+			"8"		"5613"
+			"9"		"4064"
+			"10"		"5716"
+			"11"		"5125"
+			"12"		"7926"
+			"13"		"493"
+			"14"		"4175"
+			"15"		"3839"
+			"16"		"4191"
+			"17"		"9541"
+			"18"		"5711"
+			"19"		"4342"
+		}
+		"review_score"		"8"
+		"review_percentage"		"87"
+	}
+	"extended"
+	{
+		"developer"		"Noctiluca Studio"
+		"publisher"		"Noctiluca Studio"
+	}
+	"config"
+	{
+		"installdir"		"Remnant Records"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Remnant Records.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+		"uselaunchcommandline"		"1"
+	}
+	"depots"
+	{
+		"1916311"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6592794194108838806"
+					"size"		"8971358509"
+					"download"		"3804951312"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"devtest"
+				{
+					"gid"		"009EAF9298A4FF65031777AEB58089B9"
+					"size"		"DAD2B932AC60B5124F9908F103F89FF8"
+					"download"		"C538C81F945DD0CF12FF50BFF1686488"
+				}
+				"earliest-access"
+				{
+					"gid"		"AC5182A8EF92DDA359E6A407A39293B1"
+					"size"		"B619517E710EAFDD67E6D1F2CF5C3AC2"
+					"download"		"0065300EC324968876DFE2E31F6CD6E4"
+				}
+				"menhir-devtools"
+				{
+					"gid"		"08224972DEAF9F7CA8E15375D997166A"
+					"size"		"82BF574917027A267D5E9A5F3759F479"
+					"download"		"C9E2C730FB086697BA0E1F764A93B617"
+				}
+				"translation-beta"
+				{
+					"gid"		"47726D5AF2BC2806475FE5A6ECADECE3"
+					"size"		"88B3D6BF079B12C40506BEB763AB7A4A"
+					"download"		"D5C5D2131FA4546591C483C51A06A003"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12604334"
+				"timeupdated"		"1698945743"
+			}
+			"devtest"
+			{
+				"buildid"		"12604334"
+				"pwdrequired"		"1"
+				"timeupdated"		"1698945729"
+			}
+			"earliest-access"
+			{
+				"buildid"		"12604334"
+				"pwdrequired"		"1"
+				"timeupdated"		"1698945735"
+			}
+			"menhir-devtools"
+			{
+				"buildid"		"12870639"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701706060"
+			}
+			"translation-beta"
+			{
+				"buildid"		"10391667"
+				"pwdrequired"		"1"
+				"timeupdated"		"1674568352"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"EraKles/Remnant Records"
+				"pattern"		"*.dat"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
