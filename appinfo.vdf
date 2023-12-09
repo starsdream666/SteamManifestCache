@@ -89,6 +89,8 @@
 				"gamescope_frame_limiter_not_supported"		"0"
 			}
 		}
+		"controllertagwizard"		"1"
+		"controller_support"		"full"
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
@@ -129,8 +131,9 @@
 		"genres"
 		{
 			"0"		"25"
-			"1"		"2"
-			"2"		"70"
+			"1"		"3"
+			"2"		"2"
+			"3"		"70"
 		}
 		"category"
 		{
@@ -146,6 +149,11 @@
 			"category_37"		"1"
 			"category_24"		"1"
 			"category_44"		"1"
+			"category_22"		"1"
+			"category_13"		"1"
+			"category_28"		"1"
+			"category_55"		"1"
+			"category_57"		"1"
 		}
 		"supported_languages"
 		{
@@ -321,15 +329,15 @@
 			{
 				"public"
 				{
-					"gid"		"4555775560524456400"
-					"size"		"1600140833"
-					"download"		"1081160928"
+					"gid"		"11511717210012686"
+					"size"		"1600160495"
+					"download"		"1081163616"
 				}
 				"public-test-realm"
 				{
-					"gid"		"4555775560524456400"
-					"size"		"1600140833"
-					"download"		"1081160928"
+					"gid"		"11511717210012686"
+					"size"		"1600160495"
+					"download"		"1081163616"
 				}
 			}
 			"encryptedmanifests"
@@ -342,15 +350,15 @@
 				}
 				"develop"
 				{
-					"gid"		"E6F8AFADAB0370F21EF7440B8EF6735E"
-					"size"		"A498EA3095E62C9E4FB1BB269119C5C6"
-					"download"		"89C88DD3A7D18FDACA2F51CC3B721E60"
+					"gid"		"59AA444C74474A9F141E28C1952D42FC"
+					"size"		"AE2BC14E03223EAD0566D17B03E53524"
+					"download"		"272D30676421665A0043FC9715E2AA03"
 				}
 				"pre-master"
 				{
-					"gid"		"8C829479027144A704F62081BDE5F06A"
-					"size"		"2F67F6845F528E6F010587CFA05FD0D2"
-					"download"		"A7469E341242E6A13644370BA323EC81"
+					"gid"		"2231552993C76960B924F83B6DEA4923"
+					"size"		"08C637DB8D46363ACDE29A5719B5CFEC"
+					"download"		"0DFCC5505BDDE5B698BA5C6440353A4E"
 				}
 				"prototype"
 				{
@@ -370,15 +378,15 @@
 			{
 				"public"
 				{
-					"gid"		"6632344286435079039"
-					"size"		"1690458297"
-					"download"		"1101425376"
+					"gid"		"3701192168032882397"
+					"size"		"1690477961"
+					"download"		"1101434944"
 				}
 				"public-test-realm"
 				{
-					"gid"		"6632344286435079039"
-					"size"		"1690458297"
-					"download"		"1101425376"
+					"gid"		"3701192168032882397"
+					"size"		"1690477961"
+					"download"		"1101434944"
 				}
 			}
 			"encryptedmanifests"
@@ -391,15 +399,15 @@
 				}
 				"develop"
 				{
-					"gid"		"9EE27B8BBC2552278A9F58C882E58671"
-					"size"		"216F1CDFC8FDB26C6DCFF31E57506DB8"
-					"download"		"F4A570811A19717D4BE04D1D1CCC2549"
+					"gid"		"01173667310FCFB046CE790912EFC35D"
+					"size"		"F1D1BB7A9CB7909F15EFDA26F5243CE2"
+					"download"		"0B57E64C4C0EFB424C3DE4A551957B2D"
 				}
 				"pre-master"
 				{
-					"gid"		"904DEB00DF98A9226BA18315BD45AD27"
-					"size"		"ECC2D59D6DE1078F6E6A49459E22DAE8"
-					"download"		"DA86B075B6E9E7A348F3BB2C689C464A"
+					"gid"		"1E687A2DF94428B98C4A987D699D53C9"
+					"size"		"A74FB1E351C70DD8B19D999A0191D6CA"
+					"download"		"0F6538FA04DFA13D0923745E7E010CC9"
 				}
 				"prototype"
 				{
@@ -417,8 +425,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12893236"
-				"timeupdated"		"1701957692"
+				"buildid"		"12912677"
+				"timeupdated"		"1702051546"
 			}
 			"balancing"
 			{
@@ -428,15 +436,15 @@
 			}
 			"develop"
 			{
-				"buildid"		"12901918"
+				"buildid"		"12913421"
 				"pwdrequired"		"1"
-				"timeupdated"		"1701962708"
+				"timeupdated"		"1702055407"
 			}
 			"pre-master"
 			{
-				"buildid"		"12893236"
+				"buildid"		"12912677"
 				"pwdrequired"		"1"
-				"timeupdated"		"1701891448"
+				"timeupdated"		"1702050037"
 			}
 			"prototype"
 			{
@@ -446,9 +454,9 @@
 			}
 			"public-test-realm"
 			{
-				"buildid"		"12893236"
+				"buildid"		"12912677"
 				"description"		"Experimental branch where you can test the next version or patch before it goes live"
-				"timeupdated"		"1701891997"
+				"timeupdated"		"1702051446"
 			}
 		}
 	}
