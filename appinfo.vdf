@@ -84,10 +84,12 @@
 		"header_image"
 		{
 			"english"		"header.jpg"
+			"german"		"header_german.jpg"
+			"schinese"		"header_schinese.jpg"
 		}
 		"library_assets"
 		{
-			"library_capsule"		"en"
+			"library_capsule"		"en,de,zh-cn"
 			"library_hero"		"en"
 			"library_logo"		"en"
 			"logo_position"
@@ -97,7 +99,7 @@
 				"height_pct"		"30.208333333333385"
 			}
 		}
-		"store_asset_mtime"		"1695388930"
+		"store_asset_mtime"		"1701181813"
 		"associations"
 		{
 			"0"
@@ -286,9 +288,9 @@
 			{
 				"public"
 				{
-					"gid"		"210344043931449145"
-					"size"		"1200930903"
-					"download"		"1164091008"
+					"gid"		"9218963330415768434"
+					"size"		"1207498696"
+					"download"		"1170686992"
 				}
 				"0.21.0"
 				{
@@ -310,15 +312,15 @@
 				}
 				"previous-build"
 				{
-					"gid"		"2365973965663930335"
-					"size"		"1197804452"
-					"download"		"1160937024"
-				}
-				"unstable"
-				{
 					"gid"		"210344043931449145"
 					"size"		"1200930903"
 					"download"		"1164091008"
+				}
+				"unstable"
+				{
+					"gid"		"9218963330415768434"
+					"size"		"1207498696"
+					"download"		"1170686992"
 				}
 			}
 			"encryptedmanifests"
@@ -331,9 +333,9 @@
 				}
 				"developer"
 				{
-					"gid"		"6E9D523037A9F0B994DAA149EE877E83"
-					"size"		"07A9F5D79B36425FF8127EBB3260765F"
-					"download"		"0ED21AFD5015F0D674FF7787AAF72D8D"
+					"gid"		"17C33850191ECC4B2C4287463DED6A34"
+					"size"		"006FA40B34657CE133ABABF0D987FEB9"
+					"download"		"41136E980A64133687E53D49DE1B4911"
 				}
 			}
 		}
@@ -348,9 +350,9 @@
 			{
 				"public"
 				{
-					"gid"		"3152327323387054697"
-					"size"		"236350216"
-					"download"		"73267536"
+					"gid"		"6845764430154607535"
+					"size"		"236371587"
+					"download"		"73279584"
 				}
 				"0.21.0"
 				{
@@ -372,15 +374,15 @@
 				}
 				"previous-build"
 				{
-					"gid"		"6497785271402012994"
-					"size"		"236305528"
-					"download"		"73261424"
-				}
-				"unstable"
-				{
 					"gid"		"3152327323387054697"
 					"size"		"236350216"
 					"download"		"73267536"
+				}
+				"unstable"
+				{
+					"gid"		"6845764430154607535"
+					"size"		"236371587"
+					"download"		"73279584"
 				}
 			}
 			"encryptedmanifests"
@@ -393,9 +395,9 @@
 				}
 				"developer"
 				{
-					"gid"		"F6374F8EECCDA385850ADFFD21C96990"
-					"size"		"E8AA699F5AA6E933CBABF64FDDB15A63"
-					"download"		"B7B1714ED992A048221A1F38F0E615A8"
+					"gid"		"B2DEDB4DB0C39D709454A90B803B55AF"
+					"size"		"BAE63727633952C63C9BBA70D2ED0189"
+					"download"		"10FA289DDB2A10D959056D88187D4410"
 				}
 			}
 		}
@@ -410,9 +412,9 @@
 			{
 				"public"
 				{
-					"gid"		"632188936974180321"
-					"size"		"253800734"
-					"download"		"80730768"
+					"gid"		"8797490369727981996"
+					"size"		"253834393"
+					"download"		"80736672"
 				}
 				"0.21.0"
 				{
@@ -434,15 +436,15 @@
 				}
 				"previous-build"
 				{
-					"gid"		"4975956921817721903"
-					"size"		"253756046"
-					"download"		"80714960"
-				}
-				"unstable"
-				{
 					"gid"		"632188936974180321"
 					"size"		"253800734"
 					"download"		"80730768"
+				}
+				"unstable"
+				{
+					"gid"		"8797490369727981996"
+					"size"		"253834393"
+					"download"		"80736672"
 				}
 			}
 			"encryptedmanifests"
@@ -455,9 +457,9 @@
 				}
 				"developer"
 				{
-					"gid"		"E8B88AAC1859F07076DCE54E2DEEB9CA"
-					"size"		"BDF8644FC219F6277FC4DBB74A8D3627"
-					"download"		"E37071CD128A18C1871C85A33E5CCFFD"
+					"gid"		"D2806ED41B9FAB2AB278D4A9B85A7FFA"
+					"size"		"88C197B7CAD42A1688E41BE1778282A5"
+					"download"		"FE73C6875DC40E066BEE7705351DCFDF"
 				}
 			}
 		}
@@ -467,8 +469,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12680493"
-				"timeupdated"		"1699741210"
+				"buildid"		"12916456"
+				"timeupdated"		"1702083314"
 			}
 			"0.21.0"
 			{
@@ -496,21 +498,21 @@
 			}
 			"developer"
 			{
-				"buildid"		"12680493"
+				"buildid"		"12916456"
 				"pwdrequired"		"1"
-				"timeupdated"		"1699741028"
+				"timeupdated"		"1702083120"
 			}
 			"previous-build"
 			{
-				"buildid"		"12586273"
+				"buildid"		"12680493"
 				"description"		"The previous game build, in case the latest build has any issues."
-				"timeupdated"		"1699661580"
+				"timeupdated"		"1702083259"
 			}
 			"unstable"
 			{
-				"buildid"		"12680493"
+				"buildid"		"12916456"
 				"description"		"Bleeding-edge updates; possibly very buggy!"
-				"timeupdated"		"1699741179"
+				"timeupdated"		"1702083282"
 			}
 		}
 	}
