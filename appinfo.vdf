@@ -22,7 +22,8 @@
 		"has_adult_content"		"1"
 		"has_adult_content_violence"		"1"
 		"metacritic_name"		"Definitely Sneaky But Not Sneaky"
-		"controller_support"		"full"
+		"controllertagwizard"		"1"
+		"controller_support"		"partial"
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
@@ -43,7 +44,7 @@
 				"height_pct"		"53.419615293279506"
 			}
 		}
-		"store_asset_mtime"		"1697608242"
+		"store_asset_mtime"		"1698778213"
 		"associations"
 		{
 			"0"
@@ -69,13 +70,18 @@
 			"category_2"		"1"
 			"category_39"		"1"
 			"category_24"		"1"
-			"category_28"		"1"
 			"category_1"		"1"
 			"category_9"		"1"
 			"category_44"		"1"
 			"category_22"		"1"
 			"category_30"		"1"
 			"category_17"		"1"
+			"category_18"		"1"
+			"category_55"		"1"
+			"category_56"		"1"
+			"category_57"		"1"
+			"category_58"		"1"
+			"category_60"		"1"
 		}
 		"supported_languages"
 		{
@@ -91,22 +97,22 @@
 		"gameid"		"954010"
 		"store_tags"
 		{
-			"0"		"4026"
-			"1"		"19"
-			"2"		"4758"
-			"3"		"5796"
-			"4"		"7481"
-			"5"		"1774"
-			"6"		"1646"
-			"7"		"4255"
-			"8"		"1685"
-			"9"		"4637"
-			"10"		"1773"
-			"11"		"1687"
-			"12"		"492"
-			"13"		"8122"
-			"14"		"4182"
-			"15"		"3841"
+			"0"		"19"
+			"1"		"4758"
+			"2"		"5796"
+			"3"		"1646"
+			"4"		"4026"
+			"5"		"492"
+			"6"		"4255"
+			"7"		"4637"
+			"8"		"7481"
+			"9"		"3841"
+			"10"		"1685"
+			"11"		"1773"
+			"12"		"1774"
+			"13"		"1687"
+			"14"		"8122"
+			"15"		"4182"
 			"16"		"4840"
 			"17"		"3859"
 			"18"		"1662"
@@ -182,15 +188,15 @@
 			{
 				"public"
 				{
-					"gid"		"7742557110674803863"
-					"size"		"277268098"
-					"download"		"201152832"
+					"gid"		"6917110389491472813"
+					"size"		"281338360"
+					"download"		"202393920"
 				}
 				"beta"
 				{
-					"gid"		"7742557110674803863"
-					"size"		"277268098"
-					"download"		"201152832"
+					"gid"		"6917110389491472813"
+					"size"		"281338360"
+					"download"		"202393920"
 				}
 			}
 		}
@@ -205,15 +211,15 @@
 			{
 				"public"
 				{
-					"gid"		"1387043626079754931"
-					"size"		"290445203"
-					"download"		"201099296"
+					"gid"		"7244379919788540048"
+					"size"		"296085221"
+					"download"		"202478800"
 				}
 				"beta"
 				{
-					"gid"		"1387043626079754931"
-					"size"		"290445203"
-					"download"		"201099296"
+					"gid"		"7244379919788540048"
+					"size"		"296085221"
+					"download"		"202478800"
 				}
 			}
 		}
@@ -222,14 +228,34 @@
 		{
 			"public"
 			{
-				"buildid"		"12475088"
-				"timeupdated"		"1697661863"
+				"buildid"		"12916180"
+				"timeupdated"		"1702082591"
 			}
 			"beta"
 			{
-				"buildid"		"12475088"
+				"buildid"		"12916180"
 				"description"		"Includes experimental features"
-				"timeupdated"		"1697654569"
+				"timeupdated"		"1702080399"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"2"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		""
+				"pattern"		"save.json"
+			}
+			"1"
+			{
+				"root"		"gameinstall"
+				"path"		""
+				"pattern"		"levels_editor_local.txt"
 			}
 		}
 	}
