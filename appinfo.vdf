@@ -9,7 +9,19 @@
 		"languages"
 		{
 			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
 			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"portuguese"		"1"
+			"turkish"		"1"
+			"brazilian"		"1"
+			"latam"		"1"
 		}
 		"oslist"		"windows"
 		"osarch"		""
@@ -26,6 +38,7 @@
 		}
 		"releasestatesteamchina"		"prerelease"
 		"clienttga"		"d58c8ff2d5360d4cc477d82e750d64779b438e1f"
+		"osextended"		""
 		"content_descriptors"
 		{
 			"0"		"2"
@@ -82,8 +95,6 @@
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
-			"schinese"		"capsule_231x87_schinese.jpg"
-			"sc_schinese"		"capsule_231x87_sc_schinese.jpg"
 		}
 		"header_image"
 		{
@@ -103,7 +114,7 @@
 				"height_pct"		"81.59722222222223"
 			}
 		}
-		"store_asset_mtime"		"1701945875"
+		"store_asset_mtime"		"1702045357"
 		"associations"
 		{
 			"0"
@@ -227,8 +238,8 @@
 			"4"		"21"
 			"5"		"1659"
 			"6"		"7208"
-			"7"		"1702"
-			"8"		"3835"
+			"7"		"3835"
+			"8"		"1702"
 			"9"		"4791"
 			"10"		"1667"
 			"11"		"4400"
@@ -242,7 +253,7 @@
 			"19"		"1684"
 		}
 		"review_score"		"8"
-		"review_percentage"		"86"
+		"review_percentage"		"85"
 	}
 	"extended"
 	{
@@ -251,7 +262,7 @@
 		"developer"		"Vanimals"
 		"publisher"		"Skystone Games"
 		"homepage"		"https://vanimals.net"
-		"listofdlc"		"1801540,1849330,2636880,2644380"
+		"listofdlc"		"1801540,1849330,1850650,2636880,2644380"
 		"dlcavailableonstore"		"1"
 	}
 	"config"
@@ -266,6 +277,15 @@
 				"config"
 				{
 					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"Undying.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
 				}
 			}
 		}
@@ -296,8 +316,8 @@
 			}
 			"public"
 			{
-				"buildid"		"12900184"
-				"timeupdated"		"1701952014"
+				"buildid"		"12912665"
+				"timeupdated"		"1702049966"
 			}
 			"api_test"
 			{
@@ -325,9 +345,9 @@
 			}
 			"develop"
 			{
-				"buildid"		"12900184"
+				"buildid"		"12918609"
 				"pwdrequired"		"1"
-				"timeupdated"		"1701951018"
+				"timeupdated"		"1702118169"
 			}
 			"fulldemotest"
 			{
@@ -340,6 +360,12 @@
 				"buildid"		"12538776"
 				"pwdrequired"		"1"
 				"timeupdated"		"1698296305"
+			}
+			"mactest"
+			{
+				"buildid"		"12911500"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702041520"
 			}
 			"mediapreview1.0"
 			{
@@ -354,15 +380,20 @@
 				"timeupdated"		"1687261113"
 			}
 		}
+		"hasdepotsindlc"		"1"
 		"638991"
 		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
 			"manifests"
 			{
 				"public"
 				{
-					"gid"		"3929367049968156622"
-					"size"		"1351487036"
-					"download"		"1047968304"
+					"gid"		"6707575162271860281"
+					"size"		"1351483129"
+					"download"		"1047964704"
 				}
 			}
 			"encryptedmanifests"
@@ -393,9 +424,9 @@
 				}
 				"develop"
 				{
-					"gid"		"7BFD29A66EC4740ABE64F5AD637D5742"
-					"size"		"044FE4031FBA6750EB999B166EDEDE44"
-					"download"		"6AE1C494A1DE7BCB28FFBA65DE99CBEB"
+					"gid"		"E8322FABD076190236D5196C8640268B"
+					"size"		"69FA6EDF9220A9763FAD2693E778CEF6"
+					"download"		"A94CF369F2B0A4EC47DADD853EE28153"
 				}
 				"fulldemotest"
 				{
@@ -409,6 +440,12 @@
 					"size"		"72D9E4FC39090445E054982369919DB5"
 					"download"		"F23522F92EF30632027748C960DAE721"
 				}
+				"mactest"
+				{
+					"gid"		"BD505BAFDFD68D75AA45A11A2CB6C7C7"
+					"size"		"7C7C675AD23C7583F084A1E290688AB8"
+					"download"		"5CE6F20F26B30AB5164CC2BC6C85872B"
+				}
 				"mediapreview1.0"
 				{
 					"gid"		"37B30EFFE4E020F24119116AED4E712A"
@@ -420,6 +457,31 @@
 					"gid"		"0FA4B6E6FE741165AAAF15075B566192"
 					"size"		"E6F5FEC4E0E02345A6584BC52E24B0BB"
 					"download"		"AA86D59234B4E4EAC91A07C186EBBE91"
+				}
+			}
+		}
+		"638993"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"develop"
+				{
+					"gid"		"B12FA159C5A4123AFF618BFDF1C1359E"
+					"size"		"72967EDE740F4308BD94933C3BE8B835"
+					"download"		"01BBF05D6E064D302FEE9C47709EBE60"
+				}
+				"mactest"
+				{
+					"gid"		"ADA88113BC9C1E9627F8D6A0B5A84812"
+					"size"		"782F88FDE2768E9A9524E7D069D2DD8A"
+					"download"		"10AD626290315045B4FAC81130A81ECA"
 				}
 			}
 		}
@@ -486,6 +548,12 @@
 					"size"		"72D99558D7D4E760B3E8C254F0AF29CD"
 					"download"		"72D99558D7D4E760B3E8C254F0AF29CD"
 				}
+				"mactest"
+				{
+					"gid"		"07A60696115513AFB1F8C7CA4C23ED3F"
+					"size"		"8EB5AC2DEC90A7D046C48544046B78B9"
+					"download"		"8EB5AC2DEC90A7D046C48544046B78B9"
+				}
 				"mediapreview1.0"
 				{
 					"gid"		"BEBFA6013B7BABE33A5B1C2203C19AFA"
@@ -500,7 +568,6 @@
 				}
 			}
 		}
-		"hasdepotsindlc"		"1"
 	}
 	"ufs"
 	{
