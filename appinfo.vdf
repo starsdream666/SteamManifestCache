@@ -1,0 +1,474 @@
+"appinfo"
+{
+	"appid"		"2134770"
+	"common"
+	{
+		"name"		"SteamWorld Build"
+		"type"		"Game"
+		"icon"		"2483c1606319af690e2e1d1001a3f8f78f9ca11d"
+		"clienticon"		"2da4ab5c2e30535ad784cc87fbf12a4eeec84bbb"
+		"clienttga"		"aae8eda88ef86898a3483edda0bf94ccb32fea8a"
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"polish"		"1"
+			"turkish"		"1"
+			"brazilian"		"1"
+		}
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"2134770_eula_0"
+				"name"		"SteamWorld Build EULA"
+				"url"		"https://store.steampowered.com//eula/2134770_eula_0"
+				"version"		"1"
+			}
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1700265600"
+			"tested_build_id"		"12460133"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50.387847446670975"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1702026372"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"The Station"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Thunderful Publishing"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Thunderful Publishing"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"28"
+			"1"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_28"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1701439218"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2134770"
+		"store_tags"
+		{
+			"0"		"599"
+			"1"		"9"
+			"2"		"1643"
+			"3"		"7332"
+			"4"		"4182"
+			"5"		"4328"
+			"6"		"8945"
+			"7"		"4695"
+			"8"		"7481"
+			"9"		"4195"
+			"10"		"5350"
+			"11"		"4166"
+			"12"		"4845"
+			"13"		"12472"
+			"14"		"1777"
+			"15"		"3810"
+			"16"		"1647"
+			"17"		"3942"
+			"18"		"5981"
+			"19"		"7948"
+		}
+		"review_score"		"6"
+		"review_percentage"		"76"
+	}
+	"extended"
+	{
+		"developer"		"The Station"
+		"publisher"		"Thunderful Publishing"
+		"homepage"		"https://steamworldgames.com/"
+	}
+	"config"
+	{
+		"installdir"		"SteamWorld Build"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SteamWorld Build.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"1"
+	}
+	"depots"
+	{
+		"2134771"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5824051888167065370"
+					"size"		"2821613811"
+					"download"		"1095180048"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"after_work"
+				{
+					"gid"		"B52F1C4AE7AE8393B35736DE17057A5D"
+					"size"		"31B145AA4335D749BD445948F9B07CDD"
+					"download"		"3D6EF1D1D6B40B2863C48DE94577A28A"
+				}
+				"develop_art"
+				{
+					"gid"		"800E71FFB018DA4D51B5721DF94A520C"
+					"size"		"067440B2BC25C1847CF8BF649EC95DEF"
+					"download"		"9C9103BE0EA7BA8C39F9C01ABD8F53D9"
+				}
+				"develop_debug_il2cpp"
+				{
+					"gid"		"CCEC286FE8E9C3F27AA2F3EADD9EA56E"
+					"size"		"D278758FC620B5D17119B2C4B34EA16B"
+					"download"		"FB685574661EDC28ADD42D7B5F271811"
+				}
+				"develop_master_il2cpp"
+				{
+					"gid"		"33F5736632D40E2A9FD450B5251BBF9A"
+					"size"		"A7C47673DA97C0E26287DF40C21B858D"
+					"download"		"9509A7D9EEEA28E224484455E09E928F"
+				}
+				"develop_release_il2cpp"
+				{
+					"gid"		"461D4DB8651E70BB079EDE2E8C4D662B"
+					"size"		"B85D8B40D61FA3F1A5132D31FF6CAAB7"
+					"download"		"755F0A70737E9DA362D9736AC448C4FE"
+				}
+				"experimental_01"
+				{
+					"gid"		"585F0A876CD7602B9A4B90F5B3A58B9E"
+					"size"		"CF4B0C61AC46063A96D321428E54B2B0"
+					"download"		"B5303A78A5F449CF68925DFE96C97CF1"
+				}
+				"external_qa"
+				{
+					"gid"		"2A3532703BE64BF88D0CEF109F243B27"
+					"size"		"FC6397401CD66214DAD5104E4A353481"
+					"download"		"2C49A1EDFC485AFF1317C5FB1CF2690D"
+				}
+				"external_qa_master_il2cpp"
+				{
+					"gid"		"5A30454CACE2F4BAA12323621E980A4B"
+					"size"		"26BE4771E36C47A4ADD3172412BE701D"
+					"download"		"829DCAC8CFF02713F50B54703AD5F36A"
+				}
+				"external_stable"
+				{
+					"gid"		"5F53B9366FDC7A7B5280ABBCB64671E2"
+					"size"		"E48149CC623ECF9AAA80215D6DB095C0"
+					"download"		"14CD2363D87708E0963E826A3B0D3EA6"
+				}
+				"group_freeman"
+				{
+					"gid"		"B951234F95252AF7E7C1846CC6F707ED"
+					"size"		"0A5EA15319A17E996D7DD3F7E853D07B"
+					"download"		"F05DA06E788A665F72DCC53A505C39BE"
+				}
+				"group_lee"
+				{
+					"gid"		"1B1F671B43DF1DE0CF8C741179BF963F"
+					"size"		"E209F3C5516B1E39B380728382CB7D81"
+					"download"		"7D025D80750EA3C72D6C960C237B0D42"
+				}
+				"release_candidate"
+				{
+					"gid"		"D12A3BD7A41FF5A5075666F15F1429CB"
+					"size"		"7FE49C015B50283519B0B443C8EAB21E"
+					"download"		"3F77D9EF5A0969B8C61BDD266821F2BC"
+				}
+				"sprint_debug_il2cpp"
+				{
+					"gid"		"51E240AF84BBA48FD02599CD7C23623E"
+					"size"		"E53485D9343601810E0EFA857CC3BB55"
+					"download"		"7FC121DF262B5FA1BC6F783E98D9BCBA"
+				}
+				"sprint_master_il2cpp"
+				{
+					"gid"		"47CAF3A0E0BC73F343E1EF13642E2710"
+					"size"		"7A0BA01BBFFD3196409D52A4AD7CC405"
+					"download"		"0164948EB5185C3C6D3473F58440AEDF"
+				}
+				"sprint_release_il2cpp"
+				{
+					"gid"		"C1112064DD997030DD604B7908D78C63"
+					"size"		"61EFC0C96E8A67DB2DC93C4E09D9B802"
+					"download"		"D95BAB651EABFEBADC9438DA31084B65"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12650061"
+				"timeupdated"		"1702025489"
+			}
+			"after_work"
+			{
+				"buildid"		"12877375"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701766614"
+			}
+			"develop_art"
+			{
+				"buildid"		"10004880"
+				"pwdrequired"		"1"
+				"timeupdated"		"1669252758"
+			}
+			"develop_debug_il2cpp"
+			{
+				"buildid"		"12920964"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702164333"
+			}
+			"develop_master_il2cpp"
+			{
+				"buildid"		"12921015"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702165599"
+			}
+			"develop_release_il2cpp"
+			{
+				"buildid"		"12920954"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702164220"
+			}
+			"experimental_01"
+			{
+				"buildid"		"12878116"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701771644"
+			}
+			"external_qa"
+			{
+				"buildid"		"12867408"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701682548"
+			}
+			"external_qa_master_il2cpp"
+			{
+				"buildid"		"12867570"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701683673"
+			}
+			"external_stable"
+			{
+				"buildid"		"11186911"
+				"pwdrequired"		"1"
+				"timeupdated"		"1683708659"
+			}
+			"group_freeman"
+			{
+				"buildid"		"11457670"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686656565"
+			}
+			"group_lee"
+			{
+				"buildid"		"12222868"
+				"pwdrequired"		"1"
+				"timeupdated"		"1695108521"
+			}
+			"release_candidate"
+			{
+				"buildid"		"12650061"
+				"pwdrequired"		"1"
+				"timeupdated"		"1699446081"
+			}
+			"sprint_debug_il2cpp"
+			{
+				"buildid"		"11536136"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687445125"
+			}
+			"sprint_master_il2cpp"
+			{
+				"buildid"		"11536337"
+				"pwdrequired"		"1"
+				"timeupdated"		"1687446489"
+			}
+			"sprint_release_il2cpp"
+			{
+				"buildid"		"11328067"
+				"pwdrequired"		"1"
+				"timeupdated"		"1685118485"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"10000"
+	}
+}
