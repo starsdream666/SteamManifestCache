@@ -1,0 +1,358 @@
+"appinfo"
+{
+	"appid"		"669330"
+	"common"
+	{
+		"name"		"Mechabellum"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"clienticon"		"4b1b41e76114a82dae8ec7aae127790831a0fbbe"
+		"clienttga"		"6012ea81d68607ad0dfc5610e61f17101373c1fd"
+		"icon"		"9b4eb6bc3c9bbce8d27e5a49c895bc3e06d68763"
+		"name_localized"
+		{
+			"schinese"		"钢铁指挥官"
+			"english"		"Mechabellum"
+			"sc_schinese"		"钢铁指挥官"
+		}
+		"osextended"		""
+		"logo"		"420929f536181733206be75cafc084be6bc93e10"
+		"logo_small"		"420929f536181733206be75cafc084be6bc93e10_thumb"
+		"releasestatesteamchina"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1684454400"
+			"tested_build_id"		"11217969"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-2"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"zh-cn,en"
+			"library_hero"		"en"
+			"library_logo"		"en,zh-cn"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1700625854"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Game River"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Paradox Arc"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Paradox Arc"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"29"
+			"2"		"28"
+			"3"		"2"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_36"		"1"
+			"category_2"		"1"
+			"category_49"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1683817080"
+		"community_hub_visible"		"1"
+		"gameid"		"669330"
+		"store_tags"
+		{
+			"0"		"1084988"
+			"1"		"9"
+			"2"		"4821"
+			"3"		"5752"
+			"4"		"3859"
+			"5"		"599"
+			"6"		"1678"
+			"7"		"1677"
+			"8"		"1775"
+			"9"		"19"
+			"10"		"1685"
+			"11"		"4182"
+			"12"		"1676"
+			"13"		"1741"
+			"14"		"1645"
+			"15"		"14139"
+			"16"		"3813"
+			"17"		"4684"
+			"18"		"1723"
+			"19"		"4191"
+		}
+		"review_score"		"8"
+		"review_percentage"		"88"
+	}
+	"extended"
+	{
+		"gamedir"		"Full_Metal_Showdown"
+		"serverbrowsername"		"FMS server browser"
+		"developer"		"Game River"
+		"publisher"		"Paradox Arc"
+	}
+	"config"
+	{
+		"installdir"		"Mechabellum"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Mechabellum.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steam_china_only"
+		{
+			"steam_china_enable_duration_control"		"1"
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		""
+		"branches"
+		{
+			"steam_china_only"
+			{
+				"sc_schinese"		"仅中国"
+				"buildid"		"12907575"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702011011"
+			}
+			"public"
+			{
+				"buildid"		"12907575"
+				"timeupdated"		"1702011260"
+			}
+			"internal_test"
+			{
+				"buildid"		"12897847"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702001555"
+			}
+			"test"
+			{
+				"buildid"		"3284445"
+				"description"		"for outside player testing"
+				"timeupdated"		"1669879926"
+			}
+		}
+		"669331"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+				"realm"		"steamglobal"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2855883031599131394"
+					"size"		"8670124237"
+					"download"		"2392126928"
+				}
+				"test"
+				{
+					"gid"		"7559020190489926103"
+					"size"		"1232721170"
+					"download"		"416201520"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal_test"
+				{
+					"gid"		"96ADEB0E37A53E7F4279B487898EE50E"
+					"size"		"A4CB30CA03B7E577D17A61ADDBA2B76C"
+					"download"		"F398ED77819DE76B7778FBCCBBB9CB02"
+				}
+				"steam_china_only"
+				{
+					"gid"		"56B1FEC67AC4D90B57C606C3ADA2D73D"
+					"size"		"110E3519D8B23550619075E54A73DBE9"
+					"download"		"08A94F63658454E989D7D6C74A130466"
+				}
+			}
+		}
+		"669332"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"64"
+				"realm"		"steamglobal"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7580956230981970312"
+					"size"		"3774874911"
+					"download"		"1338446096"
+				}
+				"test"
+				{
+					"gid"		"4390219962880548575"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal_test"
+				{
+					"gid"		"95A18EB5EEC9418E810DAF3EC5F060C3"
+					"size"		"66A6D875CADED04CFBE36F7BE6B762FE"
+					"download"		"8251594BDC37093142955159EC1702F0"
+				}
+				"steam_china_only"
+				{
+					"gid"		"D07A25A7A4DAD87044DA762F3AD44E86"
+					"size"		"203709A97E119858CC23789D0C7C3414"
+					"download"		"EBDE44201A5CD7373651E510E5E55632"
+				}
+			}
+		}
+		"669333"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"realm"		"steamchina"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5291060571148712868"
+					"size"		"8670124413"
+					"download"		"2394046960"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal_test"
+				{
+					"gid"		"8849CB57B4761655F1D75B32174139A1"
+					"size"		"A4CB30CA03B7E577D17A61ADDBA2B76C"
+					"download"		"1349A438501C5A7E1C81622A1ACB9384"
+				}
+				"steam_china_only"
+				{
+					"gid"		"A77ADC6AF3D229EE82B1D135637C2B57"
+					"size"		"ACA1B0B3C8216EAC2B4C8426449EBEFE"
+					"download"		"B85F4C9EC4E2497136DE5A8128103D84"
+				}
+			}
+		}
+	}
+}
