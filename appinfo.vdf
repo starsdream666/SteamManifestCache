@@ -1,0 +1,402 @@
+"appinfo"
+{
+	"appid"		"393530"
+	"common"
+	{
+		"name"		"Insanity Clicker"
+		"type"		"Game"
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"russian"		"1"
+		}
+		"oslist"		"windows,macos"
+		"logo"		"d0caf5b26ed500ede30653e59312ada61b037e5a"
+		"logo_small"		"d0caf5b26ed500ede30653e59312ada61b037e5a_thumb"
+		"icon"		"a8d886ba5ddd33dd759cc84c3cbf0680852f8d41"
+		"clienttga"		"4d9999e8585a9ddff4d8086db153b429318d153e"
+		"clienticon"		"b184dfb2bc861505598d73dad3c15f37f498493c"
+		"eulas"
+		{
+		}
+		"osarch"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1652486400"
+			"tested_build_id"		"1682577"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"metacritic_name"		"Insanity Clicker"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1572351783"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"PlayFlock"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"PlayFlock"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+			"4"		"3"
+			"5"		"28"
+			"6"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_29"		"1"
+			"category_35"		"1"
+			"category_23"		"1"
+			"category_36"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1465309432"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"393530"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"113"
+			"1"		"379975"
+			"2"		"1667"
+			"3"		"597"
+			"4"		"122"
+			"5"		"21"
+			"6"		"492"
+			"7"		"599"
+			"8"		"9"
+			"9"		"6650"
+			"10"		"3859"
+			"11"		"4345"
+			"12"		"19"
+			"13"		"4182"
+			"14"		"1721"
+			"15"		"1659"
+			"16"		"7208"
+			"17"		"1685"
+			"18"		"12095"
+			"19"		"10397"
+		}
+		"review_score"		"5"
+		"review_percentage"		"67"
+	}
+	"extended"
+	{
+		"developer"		"PlayFlock"
+		"publisher"		"PlayFlock"
+		"homepage"		"http://playflock.com/"
+		"isfreeapp"		"1"
+		"listofdlc"		"498790"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Insanity Clicker"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Insanity Clicker.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"InsanityClicker.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,schinese,russian"
+		"393531"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2353747561853638717"
+					"size"		"116917050"
+					"download"		"87440272"
+				}
+				"local"
+				{
+					"gid"		"2706552682215386065"
+					"size"		"51705109"
+					"download"		"21053904"
+				}
+				"test"
+				{
+					"gid"		"7943647736965551307"
+					"size"		"116917050"
+					"download"		"87440112"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"hacks"
+				{
+					"gid"		"03A06E31B63CF85DFC88E881B168F2E5"
+					"size"		"A51E9AFA9D62EB009EC67BD97A6368EF"
+					"download"		"1A4A95BB7B3D8BDA1D48EE0C5C9DF5CF"
+				}
+				"mactest"
+				{
+					"gid"		"49F7B8338723F42AD493542DC91C75AE"
+					"size"		"FEFF9934247102FA1E3B7C7EDA017A7F"
+					"download"		"ACCBDD2757340FDF93B3044CA85F1D5F"
+				}
+				"pvptest"
+				{
+					"gid"		"DB53F67EE91478B84AEADE252ED4DA7C"
+					"size"		"ADBCF353FE92F399E459A87261FA9306"
+					"download"		"BDFA10A5B0FA01F2DBD5907A3BA6E6F8"
+				}
+				"testinternal"
+				{
+					"gid"		"58A1AF5897FFAA709DE40D79D39B7076"
+					"size"		"87E2652A252B48EE8932341679BA6EB8"
+					"download"		"F4CE5B96BDD832CA18020AF488AC6D59"
+				}
+			}
+		}
+		"393533"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"951514760492825490"
+					"size"		"78568158"
+					"download"		"31129232"
+				}
+				"test"
+				{
+					"gid"		"951514760492825490"
+					"size"		"78568158"
+					"download"		"31129232"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"hacks"
+				{
+					"gid"		"8BA620745BAFB1F9DE82D682345A1B85"
+					"size"		"D9593177052B9B47D18768E604746838"
+					"download"		"1078993B37632F348159AB71738BB242"
+				}
+				"mactest"
+				{
+					"gid"		"DAB15F8F713615DC25969450AF199A36"
+					"size"		"812EBD37A7ECD653E0187FDDB39381B5"
+					"download"		"EE72294492BE0F7305D6DD5A682ACC27"
+				}
+				"pvptest"
+				{
+					"gid"		"747288F37B02DEE9831AF44B91E0FC12"
+					"size"		"2B371E7A3FDD9EA188EBB5FF9512E69E"
+					"download"		"836CA4388F7BF11BA9C5C1403AB86188"
+				}
+			}
+		}
+		"498790"
+		{
+			"dlcappid"		"498790"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7552645869744053656"
+					"size"		"223923348"
+					"download"		"111039840"
+				}
+				"test"
+				{
+					"gid"		"6051982749742782710"
+					"size"		"0"
+					"download"		"0"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"hacks"
+				{
+					"gid"		"42BBBDA5B61181304E363C1549A71B62"
+					"size"		"E2EF3289730579E7BF513155A7F571D6"
+					"download"		"C43BCEB53D4316FCACA53C456C62FE24"
+				}
+				"mactest"
+				{
+					"gid"		"E7E0B1638DC650FC564CF1A0BFE13092"
+					"size"		"8C78E1C953BFEC2327848B83E23D5B18"
+					"download"		"8C78E1C953BFEC2327848B83E23D5B18"
+				}
+				"pvptest"
+				{
+					"gid"		"5C5A24462FC50180D2EC117E6346FD10"
+					"size"		"2550D16217BEE139771B78745A6FB885"
+					"download"		"DE6D96D07FDBF59D60669AEC5FEFFD73"
+				}
+				"testinternal"
+				{
+					"gid"		"0DF54EE1A019A9AE01F8572402B9F72F"
+					"size"		"126F221AA3B5A5D5D21848DA5A0398C5"
+					"download"		"0901BDD93AB1A224B776B1E286D0BBE5"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1682577"
+				"timeupdated"		"1489143438"
+			}
+			"hacks"
+			{
+				"buildid"		"1412831"
+				"pwdrequired"		"1"
+				"timeupdated"		"1477397650"
+			}
+			"local"
+			{
+				"buildid"		"909837"
+				"description"		"Local Content Server"
+				"lcsrequired"		"1"
+			}
+			"mactest"
+			{
+				"buildid"		"1630992"
+				"pwdrequired"		"1"
+				"timeupdated"		"1487094499"
+			}
+			"pvptest"
+			{
+				"buildid"		"1412508"
+				"pwdrequired"		"1"
+				"timeupdated"		"1477388870"
+			}
+			"test"
+			{
+				"buildid"		"1643261"
+				"description"		"MVL"
+				"timeupdated"		"1487597328"
+			}
+			"testinternal"
+			{
+				"buildid"		"1240404"
+				"pwdrequired"		"1"
+				"timeupdated"		"1469197791"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1048576"
+		"maxnumfiles"		"10"
+	}
+}
