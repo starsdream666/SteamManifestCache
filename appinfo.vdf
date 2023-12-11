@@ -25,6 +25,7 @@
 			"0"		"5"
 		}
 		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
 		"steam_deck_compatibility"
 		{
 			"category"		"2"
@@ -86,7 +87,7 @@
 			"library_hero"		"en"
 			"library_logo"		"en,zh-cn,ja"
 		}
-		"store_asset_mtime"		"1688753181"
+		"store_asset_mtime"		"1701882546"
 		"associations"
 		{
 			"0"
@@ -143,9 +144,9 @@
 			"1"		"122"
 			"2"		"6650"
 			"3"		"5611"
-			"4"		"9130"
-			"5"		"7208"
-			"6"		"3964"
+			"4"		"3964"
+			"5"		"9130"
+			"6"		"7208"
 			"7"		"4085"
 			"8"		"4434"
 			"9"		"24904"
@@ -160,6 +161,8 @@
 	{
 		"developer"		"Aprico Koubou"
 		"publisher"		"Kagura Games"
+		"listofdlc"		"2694450"
+		"dlcavailableonstore"		"1"
 	}
 	"config"
 	{
@@ -170,6 +173,20 @@
 			{
 				"executable"		"Game.exe"
 				"type"		"default"
+			}
+			"1"
+			{
+				"executable"		"Noelle Cosplay/index.html"
+				"type"		"option1"
+				"config"
+				{
+					"ownsdlc"		"2694450"
+				}
+				"description_loc"
+				{
+					"english"		"Noelle Cosplay"
+				}
+				"description"		"Noelle Cosplay"
 			}
 		}
 	}
@@ -184,6 +201,15 @@
 					"gid"		"6189788004526277920"
 					"size"		"727069081"
 					"download"		"285419456"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"staging"
+				{
+					"gid"		"B7FD2F0D221342F7E372D82369860B60"
+					"size"		"659D038C138F9EB60043825F35E7106D"
+					"download"		"965859D49ECC5855C78DB9140428EDF5"
 				}
 			}
 		}
@@ -202,6 +228,15 @@
 					"download"		"222879184"
 				}
 			}
+			"encryptedmanifests"
+			{
+				"staging"
+				{
+					"gid"		"B5BFFD73E6F68CBD15BB48DE0B0EE529"
+					"size"		"4E71AB789B192D574F1B3124C4B68886"
+					"download"		"25A0492517645E9E2285FD31BF1B41F3"
+				}
+			}
 		}
 		"1724323"
 		{
@@ -218,13 +253,50 @@
 					"download"		"202467504"
 				}
 			}
+			"encryptedmanifests"
+			{
+				"staging"
+				{
+					"gid"		"A2756047E564C0793F1467553B7FA53C"
+					"size"		"BA516B887AE1C4989F8A28D343846D68"
+					"download"		"6539CB2861CBABA2352259A6FD185994"
+				}
+			}
+		}
+		"2694450"
+		{
+			"dlcappid"		"2694450"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5832621430348101988"
+					"size"		"18032019"
+					"download"		"12400416"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"staging"
+				{
+					"gid"		"BFE8D77ED896AE09E96C30200A21E501"
+					"size"		"D6C2256B203E641CC90C070FF2D55455"
+					"download"		"83B01B5D084EC1D3D57895D22E286852"
+				}
+			}
 		}
 		"branches"
 		{
 			"public"
 			{
-				"buildid"		"9285933"
-				"timeupdated"		"1660106997"
+				"buildid"		"12875420"
+				"timeupdated"		"1702096976"
+			}
+			"staging"
+			{
+				"buildid"		"12875420"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701748088"
 			}
 		}
 	}
