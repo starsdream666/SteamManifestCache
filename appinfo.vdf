@@ -26,6 +26,49 @@
 			"sc_schinese"		"诸子无双"
 		}
 		"releasestatesteamchina"		"prerelease"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1701302400"
+			"tested_build_id"		"12806557"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
 		"controllertagwizard"		"1"
 		"controller_support"		"full"
 		"small_capsule"
@@ -136,7 +179,7 @@
 			"19"		"492"
 		}
 		"review_score"		"8"
-		"review_percentage"		"86"
+		"review_percentage"		"85"
 	}
 	"extended"
 	{
@@ -170,14 +213,14 @@
 			}
 			"public"
 			{
-				"buildid"		"12850824"
-				"timeupdated"		"1701443835"
+				"buildid"		"12929853"
+				"timeupdated"		"1702350134"
 			}
 			"ceshi1230"
 			{
-				"buildid"		"12850435"
+				"buildid"		"12929853"
 				"pwdrequired"		"1"
-				"timeupdated"		"1701437293"
+				"timeupdated"		"1702346194"
 			}
 		}
 		"2439711"
@@ -186,18 +229,18 @@
 			{
 				"public"
 				{
-					"gid"		"4540553010186151796"
-					"size"		"538800462"
-					"download"		"387851520"
+					"gid"		"8503850838010057565"
+					"size"		"539286384"
+					"download"		"388457376"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"ceshi1230"
 				{
-					"gid"		"8F1BF9A2293FA5F7D6F9EDC1B2491A70"
-					"size"		"0CC6ACAFE0AB3D97FD16ADD959086C3B"
-					"download"		"DBA8AB6DBA81694908A7D0FC75FB5F8E"
+					"gid"		"D0F7BC37AAC46BA44813794EA0EE6CC7"
+					"size"		"0D625696B7AA5A7389CB36177FDED513"
+					"download"		"ABEDC4546102D31508CB5594810DE333"
 				}
 			}
 		}
