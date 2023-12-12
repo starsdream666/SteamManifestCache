@@ -217,6 +217,7 @@
 		"metacritic_score"		"88"
 		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/dusk?ftag=MCD-06-10aaa1f"
 		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
 		"community_hub_visible"		"1"
 		"gameid"		"519860"
 		"store_tags"
@@ -236,8 +237,8 @@
 			"12"		"4182"
 			"13"		"1693"
 			"14"		"4166"
-			"15"		"5228"
-			"16"		"5547"
+			"15"		"5547"
+			"16"		"5228"
 			"17"		"8122"
 			"18"		"1775"
 			"19"		"5796"
@@ -250,7 +251,7 @@
 		"developer"		"David Szymanski"
 		"publisher"		"New Blood Interactive"
 		"homepage"		"http://www.NewBlood.games"
-		"listofdlc"		"994821,1846130"
+		"listofdlc"		"994821,1846130,2717300"
 		"dlcavailableonstore"		"1"
 	}
 	"config"
@@ -324,17 +325,33 @@
 					"oslist"		"macos"
 				}
 			}
-			"6"
+			"7"
 			{
-				"executable"		"SDK/bin/win_x64/Dusk.exe"
-				"description"		"Launch Dusk SDK"
-				"type"		"none"
+				"executable"		"DLC/DUSK HD/Dusk.exe"
+				"type"		"option1"
 				"config"
 				{
-					"oslist"		"windows"
 					"osarch"		"64"
-					"betakey"		"dusk_sdk"
+					"ownsdlc"		"2717300"
 				}
+				"description_loc"
+				{
+					"english"		"DUSK HD"
+				}
+				"description"		"DUSK HD"
+			}
+			"8"
+			{
+				"executable"		"SDK/bin/win_x64/Dusk.exe"
+				"config"
+				{
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Play DUSK - Moddable"
+				}
+				"description"		"Play DUSK - Moddable"
 			}
 		}
 		"steamcontrollertemplateindex"		"2"
@@ -344,6 +361,7 @@
 	{
 		"hasdepotsindlc"		"0"
 		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,turkish,brazilian,ukrainian,latam"
+		"workshopdepot"		"519860"
 		"519861"
 		{
 			"config"
@@ -354,21 +372,15 @@
 			{
 				"public"
 				{
-					"gid"		"1252980846487160848"
-					"size"		"4801094016"
-					"download"		"1860300032"
+					"gid"		"3010987316918146062"
+					"size"		"4801091224"
+					"download"		"1860298736"
 				}
 				"32bit"
 				{
 					"gid"		"6195006651053016662"
 					"size"		"4508322907"
 					"download"		"1557275984"
-				}
-				"dusk_sdk"
-				{
-					"gid"		"5550596208630088004"
-					"size"		"4323812149"
-					"download"		"1470518576"
 				}
 				"testing"
 				{
@@ -387,9 +399,9 @@
 				}
 				"dusk_hd_internal"
 				{
-					"gid"		"A32769DE1B56F6EB327DDC8F9ACD92EC"
-					"size"		"0929F1FD1D9DA7400268812802583392"
-					"download"		"B40A0809964E06D479ECBCECA7AB90EC"
+					"gid"		"810CA284EB56E0D7DFFE1DFF0C834AB9"
+					"size"		"446769A7EE2AB20A844C88A2F2B5E58E"
+					"download"		"476F66D057FA53ADFC254A7666AA217B"
 				}
 				"dusk_internal"
 				{
@@ -402,6 +414,12 @@
 					"gid"		"924E9E69D85467FA784F077EC7CD5249"
 					"size"		"484B78A1BA4314255E952BFDDCA137DB"
 					"download"		"93DA41DCC06DD52AEA7B14E02FE57506"
+				}
+				"dusk_sdk_internal"
+				{
+					"gid"		"197D6A0DEE527D0077543BEDC7E53A59"
+					"size"		"7FFD23F4E5183254B74D0F675516A654"
+					"download"		"905AA4BFEFAB69765005CCC372927D6B"
 				}
 				"localization_testing"
 				{
@@ -432,12 +450,6 @@
 					"download"		"1823556528"
 				}
 				"32bit"
-				{
-					"gid"		"1293356244824779351"
-					"size"		"4325371362"
-					"download"		"1475165440"
-				}
-				"dusk_sdk"
 				{
 					"gid"		"1293356244824779351"
 					"size"		"4325371362"
@@ -476,6 +488,12 @@
 					"size"		"6F818316BD8B1AA39A5CC9B0989BC419"
 					"download"		"44A37A198E4ADACB446473DC19D32DCA"
 				}
+				"dusk_sdk_internal"
+				{
+					"gid"		"03DA4747D067B7B343D7333228254F74"
+					"size"		"716BD99609EAAD0743ABEE034077C8FF"
+					"download"		"A5DAF7C4E86314E367C6D6C89855478B"
+				}
 				"localization_testing"
 				{
 					"gid"		"A8C193B0A3A69CE71E3DD4A5C25F05A0"
@@ -505,12 +523,6 @@
 					"download"		"2003891216"
 				}
 				"32bit"
-				{
-					"gid"		"5803594407425002585"
-					"size"		"4399029939"
-					"download"		"1494446048"
-				}
-				"dusk_sdk"
 				{
 					"gid"		"5803594407425002585"
 					"size"		"4399029939"
@@ -549,6 +561,12 @@
 					"size"		"A39BF8BDD6AB3E653693B83CCBE4C2C5"
 					"download"		"30104414BDD247CF8E738589866B8A13"
 				}
+				"dusk_sdk_internal"
+				{
+					"gid"		"E58638F47A82AB58FCAC255E949FA0F2"
+					"size"		"F452448DB04522E10925309C3F8D939B"
+					"download"		"0F919802F48CC77C98EA380C959B9F1F"
+				}
 				"localization_testing"
 				{
 					"gid"		"33BEB6AFB0D4D0B40F668FABF6A99819"
@@ -575,12 +593,6 @@
 					"download"		"78614496"
 				}
 				"32bit"
-				{
-					"gid"		"2307476555936202618"
-					"size"		"80002966"
-					"download"		"78614496"
-				}
-				"dusk_sdk"
 				{
 					"gid"		"2307476555936202618"
 					"size"		"80002966"
@@ -619,6 +631,12 @@
 					"size"		"A98C17E0896FA845FF04071A684C894B"
 					"download"		"B37251720EB5917046FDEF4C080D2710"
 				}
+				"dusk_sdk_internal"
+				{
+					"gid"		"784C704B0BE9475FBFD92A458F51C908"
+					"size"		"B93EC8E08D61C89F974C3CDEADED1AF5"
+					"download"		"78DE067A44B06DB79EAF17A16F83C2C5"
+				}
 				"localization_testing"
 				{
 					"gid"		"1AA3B795E58B85C024C99DD6D3DF6033"
@@ -636,6 +654,11 @@
 		"994820"
 		{
 			"dlcappid"		"994820"
+			"config"
+			{
+				"oslist"		"macos"
+				"osarch"		"32"
+			}
 			"manifests"
 			{
 				"public"
@@ -645,12 +668,6 @@
 					"download"		"380973680"
 				}
 				"32bit"
-				{
-					"gid"		"8064825428362227248"
-					"size"		"392910212"
-					"download"		"380973680"
-				}
-				"dusk_sdk"
 				{
 					"gid"		"8064825428362227248"
 					"size"		"392910212"
@@ -689,6 +706,12 @@
 					"size"		"B22CEC5C97CF0A12C40D9351B2B958D9"
 					"download"		"A924DAF163F0F3567110DF64EAD5C4D0"
 				}
+				"dusk_sdk_internal"
+				{
+					"gid"		"A056650CCF014D0DF3768A33B2285A39"
+					"size"		"F80DF64A83FBE86E6D75CF472F04328F"
+					"download"		"535E44E6BD494F3EB34C9523ED2A888F"
+				}
 				"localization_testing"
 				{
 					"gid"		"96547ACDAF9ED1DDF317854633DE83FA"
@@ -714,21 +737,15 @@
 			{
 				"public"
 				{
-					"gid"		"8705567073118126358"
-					"size"		"3548636263"
-					"download"		"1872591952"
+					"gid"		"4951782653790576875"
+					"size"		"3757660095"
+					"download"		"1942335488"
 				}
 				"32bit"
 				{
 					"gid"		"8705567073118126358"
 					"size"		"3548636263"
 					"download"		"1872591952"
-				}
-				"dusk_sdk"
-				{
-					"gid"		"6207260385604886358"
-					"size"		"3548013365"
-					"download"		"1871964064"
 				}
 				"testing"
 				{
@@ -741,9 +758,9 @@
 			{
 				"dusk_hd_internal"
 				{
-					"gid"		"B48B6FE4191D46064010EBA5F730F9AE"
-					"size"		"95CFBFB9ACEE211B7D52C80CD644AC95"
-					"download"		"F8502D558C2C80D7E0784EF4CA332A3F"
+					"gid"		"120C318790396229557048F2E57421D9"
+					"size"		"574C72979E09CE9ED24D7FE80E177622"
+					"download"		"E704B41B7AA601EAD99BE59287C7CC4A"
 				}
 				"dusk_internal"
 				{
@@ -756,6 +773,12 @@
 					"gid"		"1CE5F3B91016A2E30A95BC5B0D412DD2"
 					"size"		"2DAE540B5A928109F1884F691BA595E0"
 					"download"		"E385A935B68133C07AC295D5F71FD0A7"
+				}
+				"dusk_sdk_internal"
+				{
+					"gid"		"124F8B4BBC6AABFD5481B7410B7D6625"
+					"size"		"E9B701A9A0C231C2AB906145387E20D9"
+					"download"		"E73048DA873E674D2F4C0D950F4FFE70"
 				}
 				"localization_testing"
 				{
@@ -797,19 +820,57 @@
 					"size"		"9BD34621DC0E6FFBE3A48CAEBB9DA349"
 					"download"		"9C102FBDD0ACDA94D39D913135D79346"
 				}
+				"dusk_sdk_internal"
+				{
+					"gid"		"06A66BD7E5DFFDB165C7797C73D76577"
+					"size"		"733B3293B2CF1D57A0DE5B03E6FBD9B2"
+					"download"		"049EA74FF1E80DC7FD24C4333E2B8A9E"
+				}
 			}
 			"config"
 			{
 				"optionaldlc"		"1846130"
 			}
 		}
-		"workshopdepot"		"519860"
+		"2717300"
+		{
+			"dlcappid"		"2717300"
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7402472862324472550"
+					"size"		"2878737391"
+					"download"		"2130355712"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dusk_hd_internal"
+				{
+					"gid"		"16B04D7E0305C624731C47046B3FC55A"
+					"size"		"E0D7234E1E53D017CE3970AAEF90E590"
+					"download"		"EF9180C1C635DD417083A71DBCE29BFE"
+				}
+				"dusk_sdk_internal"
+				{
+					"gid"		"32993331158E80C65139D5E1B95E2971"
+					"size"		"5D7BF19E02DE32C3ED1EEAB3C971CA80"
+					"download"		"C22F6F115CFA8CD7C93E5BCD951CE018"
+				}
+			}
+		}
 		"branches"
 		{
 			"public"
 			{
-				"buildid"		"12669805"
-				"timeupdated"		"1699613499"
+				"buildid"		"12933597"
+				"timeupdated"		"1702331583"
 			}
 			"32bit"
 			{
@@ -825,9 +886,9 @@
 			}
 			"dusk_hd_internal"
 			{
-				"buildid"		"12579031"
+				"buildid"		"12935956"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698730638"
+				"timeupdated"		"1702352591"
 			}
 			"dusk_internal"
 			{
@@ -841,11 +902,11 @@
 				"pwdrequired"		"1"
 				"timeupdated"		"1636331517"
 			}
-			"dusk_sdk"
+			"dusk_sdk_internal"
 			{
-				"buildid"		"6661247"
-				"description"		"opt into this to make and run mods"
-				"timeupdated"		"1620346512"
+				"buildid"		"12928211"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702290946"
 			}
 			"localization_testing"
 			{
