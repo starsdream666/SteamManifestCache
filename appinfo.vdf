@@ -1,0 +1,176 @@
+"appinfo"
+{
+	"appid"		"1513460"
+	"common"
+	{
+		"name"		"Antimatter Elevator"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1513460_eula_0"
+				"name"		"Antimatter Elevator EULA"
+				"url"		"https://store.steampowered.com//eula/1513460_eula_0"
+				"version"		"1"
+			}
+		}
+		"clienticon"		"5f0e0db9db61228109e032f68dc1427df19800f2"
+		"clienttga"		"d841140388aa2769174ee6096741ef4492e43a20"
+		"icon"		"9848ed53fc530e0fc1a82296607243c0b04266b1"
+		"logo"		"32faebd61cc0769bddb8ac66239349c68096cc6c"
+		"logo_small"		"32faebd61cc0769bddb8ac66239349c68096cc6c_thumb"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1609972063"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"xrrawva"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"xrrawva"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"original_release_date"		"1533193200"
+		"steam_release_date"		"1611349349"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1513460"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1664"
+			"1"		"1667"
+			"2"		"1710"
+			"3"		"4094"
+			"4"		"3964"
+			"5"		"6129"
+			"6"		"5794"
+			"7"		"13782"
+			"8"		"15277"
+			"9"		"7569"
+			"10"		"4342"
+			"11"		"4252"
+			"12"		"4400"
+			"13"		"3871"
+			"14"		"4004"
+			"15"		"4182"
+			"16"		"12057"
+			"17"		"492"
+		}
+		"review_score"		"7"
+		"review_percentage"		"95"
+	}
+	"extended"
+	{
+		"developer"		"xrrawva"
+		"publisher"		"xrrawva"
+		"isfreeapp"		"1"
+		"listofdlc"		"1520400"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"antimatter_elevator"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"antimatter_elevator.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1513461"
+		{
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7017097788645060805"
+					"size"		"3960003"
+					"download"		"1499936"
+				}
+			}
+		}
+		"1520400"
+		{
+			"dlcappid"		"1520400"
+			"config"
+			{
+				"language"		""
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8181248623105545381"
+					"size"		"877156"
+					"download"		"579472"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"6061908"
+				"timeupdated"		"1610299611"
+			}
+		}
+	}
+}
