@@ -92,7 +92,7 @@
 				"height_pct"		"60.416666666666664"
 			}
 		}
-		"store_asset_mtime"		"1692269702"
+		"store_asset_mtime"		"1701347703"
 		"associations"
 		{
 			"0"
@@ -166,8 +166,8 @@
 			"2"		"1666"
 			"3"		"791774"
 			"4"		"1716"
-			"5"		"122"
-			"6"		"32322"
+			"5"		"32322"
+			"6"		"122"
 			"7"		"3959"
 			"8"		"1677"
 			"9"		"4026"
@@ -189,7 +189,7 @@
 	{
 		"developer"		"Dreamsite Games"
 		"publisher"		"Paradox Interactive"
-		"listofdlc"		"2168960,2325780,2511580"
+		"listofdlc"		"2168960,2325780,2511580,2666340"
 		"dlcavailableonstore"		"1"
 	}
 	"config"
@@ -204,6 +204,7 @@
 				"config"
 				{
 					"oslist"		"windows"
+					"betakey"		"v125-legacy"
 				}
 			}
 			"1"
@@ -213,12 +214,41 @@
 				"config"
 				{
 					"oslist"		"macos"
+					"betakey"		"v125-legacy"
 				}
 			}
 			"2"
 			{
 				"executable"		"AcrossTheObelisk.x86_64"
-				"type"		"none"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+					"betakey"		"v125-legacy"
+				}
+			}
+			"3"
+			{
+				"executable"		"dowser.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"4"
+			{
+				"executable"		"dowser"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"5"
+			{
+				"executable"		"dowser"
+				"type"		"default"
 				"config"
 				{
 					"oslist"		"linux"
@@ -241,9 +271,9 @@
 			{
 				"public"
 				{
-					"gid"		"3236395432389960100"
-					"size"		"1914088697"
-					"download"		"876097088"
+					"gid"		"1768361922474061771"
+					"size"		"1998968020"
+					"download"		"1042197456"
 				}
 				"v1110"
 				{
@@ -251,20 +281,62 @@
 					"size"		"1693666140"
 					"download"		"783761232"
 				}
+				"v125-legacy"
+				{
+					"gid"		"5542850879378621644"
+					"size"		"1998965437"
+					"download"		"1042197712"
+				}
 			}
 			"encryptedmanifests"
 			{
+				"beta-test"
+				{
+					"gid"		"BC23E5864092865ABCB1FED3F8C2D8A3"
+					"size"		"4734B73B42ABEC5F5049DB642DA329FF"
+					"download"		"77ED89F342EECE5DA23CF0C1C7A6E88B"
+				}
+				"cross-play-test"
+				{
+					"gid"		"C2A3D944CC72A3D4A90635CFDE1312F8"
+					"size"		"6449E5EFFE5DBC5F1E4709CF43F488EC"
+					"download"		"350AA036234BF3273EA3D9AB42120AA8"
+				}
 				"developer"
 				{
-					"gid"		"7CDEAD292D775087BDD07FE4474E618E"
-					"size"		"E0D881FCD2428125452A0B2EC8214969"
-					"download"		"6EFC7C8DDA4574D153A8DABEB66FEA73"
+					"gid"		"0FA04DD264D7C44EAF9A57308DEEE873"
+					"size"		"520820F2B363DC3E964A8C37ADB586A4"
+					"download"		"87126B6F01C0607BB68B1DA31188E812"
+				}
+				"influencer-press"
+				{
+					"gid"		"1F1964D1AF3D8E8A8A24000D7CF04881"
+					"size"		"56A4CF1926EB93494E68F7E7998FC217"
+					"download"		"12A378707B5C16C0F6554C6BE27707B3"
+				}
+				"qa-test"
+				{
+					"gid"		"FA871BD82A381482FD4D864F68C1141C"
+					"size"		"46175DBFA6BFF916ADF868739CDC7168"
+					"download"		"F73B83BBE7C85291C6D9BB7F0C53AC32"
+				}
+				"release-candidate"
+				{
+					"gid"		"BA35A72C26A32FBB804AF30C8D0AE5DC"
+					"size"		"CDBD854D3815ACFB073A0374CF175F82"
+					"download"		"4575E28E492A2E0D0CBF0FC8C78F0797"
 				}
 				"sdeck"
 				{
-					"gid"		"C346FD6C72BCE7A411A830DE397BAD7C"
-					"size"		"ADAB8CF95F200F004D52C589FDA188B3"
-					"download"		"067696DC803FCFF49D81DEBF590A5A1F"
+					"gid"		"9BA312FB6858E1872A14BA684B55874B"
+					"size"		"BA2050A00467B23377A162613693BC75"
+					"download"		"299AF9ABA68126697F873CA7C02BBBEA"
+				}
+				"v125-rollback-2023-12-12"
+				{
+					"gid"		"0E578A10B8335C54F7A1034D1D3C0E7A"
+					"size"		"4DBA4517F3BE0A65D9D0FD85DB15CCE3"
+					"download"		"E5D31CEC4EBDDCDE70D4FAE59888CF79"
 				}
 			}
 		}
@@ -279,9 +351,9 @@
 			{
 				"public"
 				{
-					"gid"		"8124665371123734538"
-					"size"		"1903999225"
-					"download"		"873025408"
+					"gid"		"1528694405265053210"
+					"size"		"1988878548"
+					"download"		"1039123760"
 				}
 				"v1110"
 				{
@@ -289,20 +361,62 @@
 					"size"		"1684338012"
 					"download"		"780939040"
 				}
+				"v125-legacy"
+				{
+					"gid"		"7229001816607518300"
+					"size"		"1988875965"
+					"download"		"1039118320"
+				}
 			}
 			"encryptedmanifests"
 			{
+				"beta-test"
+				{
+					"gid"		"34755B4BFB6D05DBB2D9315B091BBBDD"
+					"size"		"51756C1982DB2DCAD4DEB127ED526AC8"
+					"download"		"53698B117869909E54F8A489D82B8A3C"
+				}
+				"cross-play-test"
+				{
+					"gid"		"3F345B2DBE53A4F3D1849C33BC51083F"
+					"size"		"9923186D2028D4B72C31485E57C126B7"
+					"download"		"66BD9BE6190FD8B2B3F578E8BFD322FB"
+				}
 				"developer"
 				{
-					"gid"		"BECB0CEACBA7B722618C32AF0F83D26B"
-					"size"		"747A5D3A59C4412F8770E5E73AD0AE5D"
-					"download"		"E621D1FA49BDB1380711FEBA9D28BFAF"
+					"gid"		"E2996B07B2A5AEA97028DD9872E4BDEB"
+					"size"		"3BAB7207929C1A29BD54C5FAE8B132EF"
+					"download"		"D47AC511295FB0EB9E22F44A25AE48A3"
+				}
+				"influencer-press"
+				{
+					"gid"		"5466D5296C52B3B34C92FF45CBD61BEC"
+					"size"		"310FA530219EE2E3B9FB725B8E6010E2"
+					"download"		"6EF676BE7329D898B22EE1714D41EFD2"
+				}
+				"qa-test"
+				{
+					"gid"		"18E2CBDDCEA65557E197099A55C602AB"
+					"size"		"76A8C1D81A8D303E7FBDD9F12D91EADB"
+					"download"		"CDEC827A29FC1CCF0A4C33928EFDACDE"
+				}
+				"release-candidate"
+				{
+					"gid"		"0E122B48C06E08BEEC71E5167AD3D6AF"
+					"size"		"83F6B7EAB21F354C663F8746386743B9"
+					"download"		"E1F05BB10B0004A58B386DB9B6A3917E"
 				}
 				"sdeck"
 				{
-					"gid"		"48E880B2B090EBF7C97F30F1E20AFE6D"
-					"size"		"7EC27CAFC1346C3DDBF844E4F78DBD57"
-					"download"		"2739928CD7F643A3ED03B36280EACD92"
+					"gid"		"D3DAD80F6914FA968902D0CD36FD0FB1"
+					"size"		"D15F2AC4706D26C896B5E8FCBBC954CC"
+					"download"		"72967A520E479758373FE354C4CEEE35"
+				}
+				"v125-rollback-2023-12-12"
+				{
+					"gid"		"328B99F6D415B13911A2F4704635C914"
+					"size"		"8334C44C732BEFBCD496861F22422003"
+					"download"		"74FC9FEDC3A5C6E9CE777A3096B93009"
 				}
 			}
 		}
@@ -316,9 +430,9 @@
 			{
 				"public"
 				{
-					"gid"		"4212242311114639564"
-					"size"		"1938411819"
-					"download"		"883625456"
+					"gid"		"7203327273334704458"
+					"size"		"2164241456"
+					"download"		"1189163872"
 				}
 				"v1110"
 				{
@@ -326,20 +440,62 @@
 					"size"		"1717077460"
 					"download"		"791026384"
 				}
+				"v125-legacy"
+				{
+					"gid"		"4455776099195471378"
+					"size"		"2164238874"
+					"download"		"1189160416"
+				}
 			}
 			"encryptedmanifests"
 			{
+				"beta-test"
+				{
+					"gid"		"A62A81CB8DFD7C446A27F9A6CB144F11"
+					"size"		"A350D7A44807EA0F5EC421024FC14095"
+					"download"		"56406284DE2D781318D155022F107082"
+				}
+				"cross-play-test"
+				{
+					"gid"		"A58A0B15707A0FF988E67A381172E784"
+					"size"		"0A626E97050AC7F04AFE45494779F41A"
+					"download"		"B6B9B20EB21C778B3CAF8CDBE03AAD8C"
+				}
 				"developer"
 				{
-					"gid"		"BCECFD8722FEE51B79978B2B1494F81A"
-					"size"		"E25124B7DD9BEAB3DD070C317D22F0EC"
-					"download"		"7118A0D1A265EA183C5081AF264A63B8"
+					"gid"		"A9E1FD4F9E5C1AEEA1AB109D02529AD3"
+					"size"		"D350CC776B3B826EECE8E6A1B574772C"
+					"download"		"274AB5D5DED4E5D123011EC980FAD913"
+				}
+				"influencer-press"
+				{
+					"gid"		"D6A841F4037AAD559172A968D9BEC274"
+					"size"		"C44F172FA833640B13A5621AA5C430EA"
+					"download"		"8B5B7522409EA985367922DF27EE3019"
+				}
+				"qa-test"
+				{
+					"gid"		"86701074D29DFF77D84DDBF1A3CD467F"
+					"size"		"D6C72FD5CAC011FE28303282AE74BDA7"
+					"download"		"1D6F40229904D59CC5B3E440A515E2DF"
+				}
+				"release-candidate"
+				{
+					"gid"		"A76D365458CB28C6EC36713380D476AA"
+					"size"		"974EA3EA5480F3DEB924B7F33ED7840F"
+					"download"		"FCA9E31BD49158C9D14E3CAFC68A6BE3"
 				}
 				"sdeck"
 				{
-					"gid"		"B07906BA67976B11976E8D20C1E94B44"
-					"size"		"7FBE6E8534B1EB51BD3CD1EC83A07BB4"
-					"download"		"1D238B44B049D9ECD02ED86076F51E34"
+					"gid"		"73FCF9CF1BAB7A00DA978D9A85B0CCD6"
+					"size"		"147ECC084BAE8301DB8377EDCD9944CC"
+					"download"		"365795A7A227587887CEE99A0204CA95"
+				}
+				"v125-rollback-2023-12-12"
+				{
+					"gid"		"7DF0AA5AED7E0AAC0E6B529BC4F16273"
+					"size"		"383D13D56E47E941FAE8A8D557D8459B"
+					"download"		"9F31EBC7B580C02211820030FCFA319D"
 				}
 			}
 		}
@@ -353,9 +509,9 @@
 			{
 				"public"
 				{
-					"gid"		"4430120174368406076"
-					"size"		"1913212738"
-					"download"		"874819744"
+					"gid"		"5594010726078203902"
+					"size"		"1999918571"
+					"download"		"1041299712"
 				}
 				"v1110"
 				{
@@ -363,20 +519,62 @@
 					"size"		"1693499597"
 					"download"		"782762480"
 				}
+				"v125-legacy"
+				{
+					"gid"		"1739773267500758790"
+					"size"		"1999915988"
+					"download"		"1041297088"
+				}
 			}
 			"encryptedmanifests"
 			{
+				"beta-test"
+				{
+					"gid"		"13EF7FCA9A39328C8909407E23981B17"
+					"size"		"591E74559624F3A9491354ACBD0589A9"
+					"download"		"4B5F299D1A58B559F9C1E0BFE822BA52"
+				}
+				"cross-play-test"
+				{
+					"gid"		"7297E8D7C8E0FCF488DAB0E03908239C"
+					"size"		"370EE295059D4A9EA0AF37573CDBE2F0"
+					"download"		"A73954E42D738FEDD5626C4E705BA7C7"
+				}
 				"developer"
 				{
-					"gid"		"CFA560ADEFAD1EAA2E5CA13765A561D0"
-					"size"		"00503AD0E4B1D5A8C746F77E4A00D48B"
-					"download"		"EF92C3970230A8735D4ED5DCE089FB89"
+					"gid"		"4B73E08D12441214ED705E62A5C1DFD2"
+					"size"		"F212F67258D3A2E6F98FDE974B71B45A"
+					"download"		"779A4FF2D6EA0E6F549504B2C25B006C"
+				}
+				"influencer-press"
+				{
+					"gid"		"A3F2926F8687576B1B0EF07C3D73C0AF"
+					"size"		"78EF7BBA4B906B9EBD0BB05B0D356575"
+					"download"		"05BA4F918CC6675A13613795665EE6DC"
+				}
+				"qa-test"
+				{
+					"gid"		"E423D0A66F801E10EF0DCC148F78E9D7"
+					"size"		"9D85FDF6A00825EFF54C72A02A40F457"
+					"download"		"6C584C5313F42FC5B1D76E74D4FDAA87"
+				}
+				"release-candidate"
+				{
+					"gid"		"4ABC20443DB6E01DDE39D156F6649976"
+					"size"		"829BDE66313B0CCE2942601C7EB68875"
+					"download"		"FFF8B5B1B02AFF961F101EB46293DAB0"
 				}
 				"sdeck"
 				{
-					"gid"		"0D2A0FD6BD8A5CD4087EFC431E3DA4C3"
-					"size"		"706908B4FB452604197AC1D88D977629"
-					"download"		"A29BEC931ACEE1569E5A54041961ACB7"
+					"gid"		"DE5B50D8B0DA4422643E9D4334237684"
+					"size"		"F04AEE9BC6EF4CA3A4C9CB1900840020"
+					"download"		"DA82BAE160E583159A3366E788083BE3"
+				}
+				"v125-rollback-2023-12-12"
+				{
+					"gid"		"6D50B62B388A018151970D8335CCA9C8"
+					"size"		"CAD641B4BE013E8E474C1B749FE03808"
+					"download"		"587FD55CE6A15BA5F75BA046589373A4"
 				}
 			}
 		}
@@ -384,26 +582,68 @@
 		{
 			"public"
 			{
-				"buildid"		"12575335"
-				"timeupdated"		"1698775213"
+				"buildid"		"12938351"
+				"timeupdated"		"1702389534"
+			}
+			"beta-test"
+			{
+				"buildid"		"12894585"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701902859"
+			}
+			"cross-play-test"
+			{
+				"buildid"		"12669383"
+				"pwdrequired"		"1"
+				"timeupdated"		"1699609145"
 			}
 			"developer"
 			{
-				"buildid"		"12575335"
+				"buildid"		"12938351"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698775285"
+				"timeupdated"		"1702374960"
+			}
+			"influencer-press"
+			{
+				"buildid"		"12894585"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701902879"
+			}
+			"qa-test"
+			{
+				"buildid"		"12894585"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701902895"
+			}
+			"release-candidate"
+			{
+				"buildid"		"12938351"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702375034"
 			}
 			"sdeck"
 			{
-				"buildid"		"12575335"
+				"buildid"		"12894585"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698775275"
+				"timeupdated"		"1701902887"
 			}
 			"v1110"
 			{
 				"buildid"		"11245444"
 				"description"		"v.1.1.10 - 16 Ago 23"
 				"timeupdated"		"1690883962"
+			}
+			"v125-legacy"
+			{
+				"buildid"		"12894585"
+				"description"		"A branch to make sure our players can access old saves."
+				"timeupdated"		"1702370474"
+			}
+			"v125-rollback-2023-12-12"
+			{
+				"buildid"		"12894585"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702297082"
 			}
 		}
 	}
