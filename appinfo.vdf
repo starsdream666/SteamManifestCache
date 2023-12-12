@@ -35,32 +35,59 @@
 		"openvrsupport"		"1"
 		"steam_deck_compatibility"
 		{
-			"category"		"1"
-			"test_timestamp"		"1645660800"
-			"tested_build_id"		"8132431"
+			"category"		"2"
+			"test_timestamp"		"1697587200"
+			"tested_build_id"		"12002638"
 			"tests"
 			{
 				"0"
 				{
-					"display"		"2"
-					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"5"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 				}
 			}
 			"configuration"
 			{
-				"supported_input"		"other"
+				"supported_input"		"gamepad"
 				"requires_manual_keyboard_invoke"		"1"
 				"requires_non_controller_launcher_nav"		"1"
 				"primary_player_is_controller_slot_0"		"0"
 				"non_deck_display_glyphs"		"0"
-				"small_text"		"0"
+				"small_text"		"1"
 				"requires_internet_for_setup"		"0"
 				"requires_internet_for_singleplayer"		"0"
-				"recommended_runtime"		"proton-7.0-1"
+				"recommended_runtime"		"proton-experimental"
 				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
 			}
 		}
 		"metacritic_name"		"Elite: Dangerous"
+		"controllertagwizard"		"1"
 		"controller_support"		"partial"
 		"small_capsule"
 		{
@@ -82,7 +109,7 @@
 				"height_pct"		"66"
 			}
 		}
-		"store_asset_mtime"		"1673300466"
+		"store_asset_mtime"		"1684322615"
 		"associations"
 		{
 			"0"
@@ -987,18 +1014,18 @@
 			{
 				"public"
 				{
-					"gid"		"7677896998596420316"
-					"size"		"56206835594"
-					"download"		"52330069584"
+					"gid"		"7780677576552222242"
+					"size"		"56210640174"
+					"download"		"52333679232"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"dev_final_branch"
 				{
-					"gid"		"CC1DD666D251319CEE9E806D28E28121"
-					"size"		"1885FC033B9B5FF65C140DF1021ACC8E"
-					"download"		"CBB196E3CDF6056934EA16E78BC7778B"
+					"gid"		"A5F4E5F676CDF62DF6BA030242643BBA"
+					"size"		"BD9AA9672CC3BDA5AB3589D052567B88"
+					"download"		"EB8BE3AC3C2CF50C30A2FFBC5CE05570"
 				}
 				"dev_final_branch_b"
 				{
@@ -1324,14 +1351,14 @@
 		{
 			"public"
 			{
-				"buildid"		"12403031"
-				"timeupdated"		"1697464790"
+				"buildid"		"12899771"
+				"timeupdated"		"1702382406"
 			}
 			"dev_final_branch"
 			{
-				"buildid"		"12450939"
+				"buildid"		"12899771"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697454329"
+				"timeupdated"		"1701948259"
 			}
 			"dev_final_branch_b"
 			{
