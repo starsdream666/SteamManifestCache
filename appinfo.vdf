@@ -1,0 +1,223 @@
+"appinfo"
+{
+	"appid"		"1930580"
+	"common"
+	{
+		"name"		"恶魔酱的五日恶戏"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"d8f03bfe04727e99b46b2e99abdcb47271abce96"
+		"clienticon"		"ad6d935cf94c873735c4a98d4409ff42a4e88303"
+		"clienttga"		"4c913b7f28388f77d45040286e047ea75c105baf"
+		"name_localized"
+		{
+			"english"		"Devil's 5 Days Mischief Game"
+			"tchinese"		"惡魔醬的五日惡戲"
+		}
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"small_capsule"
+		{
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"schinese"		"header_schinese.jpg"
+			"tchinese"		"header_tchinese.jpg"
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"zh-cn,zh-tw,en"
+			"library_hero"		"en"
+			"library_logo"		"zh-cn,zh-tw,en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"99.18509895227008"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1672065655"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"BBQ大好き"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Seikei Production"
+			}
+		}
+		"primary_genre"		"3"
+		"genres"
+		{
+			"0"		"3"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1674195535"
+		"community_hub_visible"		"1"
+		"gameid"		"1930580"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"4434"
+			"2"		"12095"
+			"3"		"4085"
+			"4"		"14139"
+			"5"		"1684"
+			"6"		"6650"
+			"7"		"4325"
+			"8"		"4182"
+			"9"		"5577"
+		}
+		"review_score"		"8"
+		"review_percentage"		"84"
+	}
+	"extended"
+	{
+		"developer"		"BBQ大好き"
+		"publisher"		"Seikei Production"
+		"homepage"		"https://seikeiproduction.com/d5days/"
+	}
+	"config"
+	{
+		"installdir"		"Devil's 5 Days Mischief Game"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Game.exe"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,schinese"
+		"1930582"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1267707584223880811"
+					"size"		"533239679"
+					"download"		"316634016"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"00FB9FD6172DA899614FC430849EFAB6"
+					"size"		"226E589484E40B8FBFD2B609967728AD"
+					"download"		"A4F549656D424A795AB821CB2A97B8EE"
+				}
+			}
+		}
+		"1930581"
+		{
+			"config"
+			{
+				"language"		"schinese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5508448834271125864"
+					"size"		"533194346"
+					"download"		"316617280"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"B6F1A300EB06C22F68D3A4E04A542C46"
+					"size"		"570DD5316AD90FBFE40841C4674FBBE9"
+					"download"		"40907D549B37F4FE4AB22203169371E7"
+				}
+			}
+		}
+		"1930583"
+		{
+			"config"
+			{
+				"language"		"tchinese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6103114675232676352"
+					"size"		"533194346"
+					"download"		"316617280"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"A3750BFE8BC97248518DBE4F5FF22A44"
+					"size"		"570DD5316AD90FBFE40841C4674FBBE9"
+					"download"		"40907D549B37F4FE4AB22203169371E7"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"10223635"
+				"timeupdated"		"1672218848"
+			}
+			"test"
+			{
+				"buildid"		"10213743"
+				"pwdrequired"		"1"
+				"timeupdated"		"1672024361"
+			}
+		}
+	}
+}
