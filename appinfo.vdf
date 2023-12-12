@@ -12,6 +12,34 @@
 		"oslist"		"windows"
 		"osarch"		""
 		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1699920000"
+			"tested_build_id"		"11252050"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"1"
+			}
+		}
 		"controller_support"		"full"
 		"small_capsule"
 		{
@@ -127,8 +155,8 @@
 			"3"		"4175"
 			"4"		"492"
 			"5"		"1663"
-			"6"		"1742"
-			"7"		"5350"
+			"6"		"5350"
+			"7"		"1742"
 			"8"		"599"
 			"9"		"597"
 			"10"		"9204"
@@ -172,9 +200,9 @@
 			{
 				"public"
 				{
-					"gid"		"7391899193556533778"
-					"size"		"8222673327"
-					"download"		"3697591312"
+					"gid"		"2049494267868382863"
+					"size"		"8889034852"
+					"download"		"4016066048"
 				}
 			}
 			"encryptedmanifests"
@@ -187,9 +215,9 @@
 				}
 				"nightly"
 				{
-					"gid"		"6EBFCF7E10DA6EABE61E92CF30150498"
-					"size"		"2E10F86D371A25D8E197D7CE977F2506"
-					"download"		"AC92CDA481D93C6483BE1718FF5D0B40"
+					"gid"		"93CD3E5C2B6778277253DE3099599EB0"
+					"size"		"C2757945848DB7A0DB50DB55DD41F7B8"
+					"download"		"5A6B2AA4694755508AE651D022246D81"
 				}
 				"olddemo"
 				{
@@ -205,9 +233,9 @@
 				}
 				"showcase"
 				{
-					"gid"		"F9E45C84771B2835A00A169F572C1302"
-					"size"		"5B1FED6291677345450CE42E9E006690"
-					"download"		"8BB810FD56A1A8ECDB432AE6D32DF7C2"
+					"gid"		"63092044D0148A2258147ECC7A0910BA"
+					"size"		"9153241EBE6F8F952B0E60D2B64433B6"
+					"download"		"C3A6950FA47D9E1AB09208B1949AD3F8"
 				}
 				"test_branch"
 				{
@@ -241,8 +269,8 @@
 		{
 			"public"
 			{
-				"buildid"		"11252050"
-				"timeupdated"		"1684327437"
+				"buildid"		"12938677"
+				"timeupdated"		"1702382012"
 			}
 			"devtest"
 			{
@@ -252,9 +280,9 @@
 			}
 			"nightly"
 			{
-				"buildid"		"12172018"
+				"buildid"		"12938677"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694548449"
+				"timeupdated"		"1702376931"
 			}
 			"olddemo"
 			{
@@ -270,9 +298,9 @@
 			}
 			"showcase"
 			{
-				"buildid"		"11300388"
+				"buildid"		"12905992"
 				"pwdrequired"		"1"
-				"timeupdated"		"1684927495"
+				"timeupdated"		"1702043122"
 			}
 			"test_branch"
 			{
