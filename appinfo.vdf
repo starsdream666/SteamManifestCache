@@ -19,6 +19,18 @@
 		}
 		"clienticns"		"8f5a0c571c9cbcc21e1951b4d8588f8fcc46e981"
 		"linuxclienticon"		"8f5a0c571c9cbcc21e1951b4d8588f8fcc46e981"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"russian"		"1"
+			"japanese"		"1"
+			"brazilian"		"1"
+		}
 		"content_descriptors"
 		{
 			"0"		"2"
@@ -121,19 +133,18 @@
 		"genres"
 		{
 			"0"		"1"
-			"1"		"23"
-			"2"		"3"
-			"3"		"70"
+			"1"		"25"
+			"2"		"23"
+			"3"		"3"
+			"4"		"70"
 		}
 		"category"
 		{
-			"category_2"		"1"
-			"category_24"		"1"
 			"category_45"		"1"
 			"category_46"		"1"
 			"category_23"		"1"
 			"category_18"		"1"
-			"category_1"		"1"
+			"category_2"		"1"
 		}
 		"supported_languages"
 		{
@@ -184,26 +195,27 @@
 				"subtitles"		"true"
 			}
 		}
-		"steam_release_date"		"1682347921"
+		"steam_release_date"		"1682347920"
+		"community_visible_stats"		"1"
 		"community_hub_visible"		"1"
 		"gameid"		"986130"
 		"store_tags"
 		{
-			"0"		"9204"
-			"1"		"5613"
+			"0"		"5613"
+			"1"		"9204"
 			"2"		"3810"
 			"3"		"6052"
 			"4"		"1732"
 			"5"		"1687"
 			"6"		"5125"
-			"7"		"1664"
-			"8"		"3839"
+			"7"		"3839"
+			"8"		"1664"
 			"9"		"1695"
-			"10"		"19"
-			"11"		"4182"
-			"12"		"4115"
-			"13"		"122"
-			"14"		"21"
+			"10"		"21"
+			"11"		"4115"
+			"12"		"4182"
+			"13"		"19"
+			"14"		"122"
 			"15"		"492"
 			"16"		"4231"
 			"17"		"3964"
@@ -211,7 +223,7 @@
 			"19"		"5502"
 		}
 		"review_score"		"8"
-		"review_percentage"		"91"
+		"review_percentage"		"92"
 	}
 	"extended"
 	{
@@ -247,24 +259,30 @@
 			{
 				"public"
 				{
-					"gid"		"179590601126846848"
-					"size"		"1646620739"
-					"download"		"606745136"
+					"gid"		"6965968430173502737"
+					"size"		"1542761484"
+					"download"		"624728896"
 				}
 				"experimental"
 				{
-					"gid"		"179590601126846848"
-					"size"		"1646620739"
-					"download"		"606745136"
+					"gid"		"6965968430173502737"
+					"size"		"1542761484"
+					"download"		"624728896"
+				}
+				"mono"
+				{
+					"gid"		"6219507378187031658"
+					"size"		"1492649388"
+					"download"		"613485984"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"creators"
 				{
-					"gid"		"A2AF37FE919A8ED8FC3ABE1966407E5B"
-					"size"		"245CEE3BA7ECDA90097C53BDDCE6CFD8"
-					"download"		"45B0615B0B4887E6CDFAF25B74B51F6C"
+					"gid"		"95A5E30951E53EC18C851EC6174AB302"
+					"size"		"4D68DD0BB5014E0B815CBB2722CB57CE"
+					"download"		"B7D213605275E3BDBA9E41839085D9B3"
 				}
 				"events"
 				{
@@ -274,33 +292,33 @@
 				}
 				"internal"
 				{
-					"gid"		"A9CE4AACD662934C09428016C3C3AD91"
-					"size"		"78E1D3A623BAFFC2CE23C3C34BB414D0"
-					"download"		"89713D3C7360BF4A4C65DC40398FD40D"
+					"gid"		"8333FB01D1B1E2310A6CD78A1722E277"
+					"size"		"48284F86F0C8CACCAD002502FFBDFED7"
+					"download"		"78320D632A6BDBCC93C5EF61D3F87ECB"
 				}
 				"legacy"
 				{
-					"gid"		"52810F97C00E1D3058309C49E8288164"
-					"size"		"678BD0E1B583B2152098952D1C67A256"
-					"download"		"C2DDCC9CF7E79F8D4008AA279A7962D0"
+					"gid"		"16E1A9E50A157FFD561779E1AB8F3960"
+					"size"		"1C34F6720E1A193E439F5C49675CAD50"
+					"download"		"28E913F9994CF0BBBEDDC186343843CE"
 				}
 				"legacypublic"
 				{
-					"gid"		"88464DDF8E1E68D462F8DD082CCBAA7E"
-					"size"		"FD3DD5F4897022E7BC4CFE0D79752077"
-					"download"		"8D050D4B8011762B7041E789EE47F69C"
+					"gid"		"4A77ABBF82F48214AA75DEA6B314A0C3"
+					"size"		"D227DA24583329B941666A97A28A351F"
+					"download"		"B9F0BC2ED4CF898E219588FE3222C32E"
 				}
 				"localetests"
 				{
-					"gid"		"84F089A4AA96E659D52A653BEA62AE51"
-					"size"		"52162C686C1BB3301824FEDDDE7F4A63"
-					"download"		"A59D45C0A7A6209ECC4B5522C94B38CA"
+					"gid"		"5901CB59A20CD41F6662DDE62F8FB893"
+					"size"		"802A2F5A12B4B21906DB22294FBE43E9"
+					"download"		"5D891AFA3C2A17808A93BF999A01E2AA"
 				}
 				"pressearlyaccess"
 				{
-					"gid"		"20F5501418BC7603E6BB3DD20C36AC51"
-					"size"		"9792C8FE9AA96015C52B972F801F4B3A"
-					"download"		"49EF872BEC9E07DF7965D296DE06F297"
+					"gid"		"5DF5B1B1DC54729F53A2B90E77BEC7D4"
+					"size"		"7F930D034DB502E45852466436D4A646"
+					"download"		"F36DE182EE55D68B48057D871F0A6FC9"
 				}
 				"splash"
 				{
@@ -310,9 +328,9 @@
 				}
 				"stable"
 				{
-					"gid"		"F2D5032FF4FE8742ABC843F764C5AFDA"
-					"size"		"8F2D405C7EA3E00492188097BE07EF0C"
-					"download"		"BED9DB42EF990757671D0CF30E632A89"
+					"gid"		"4A914AF79CB3EFD62560FD76DA918AA4"
+					"size"		"F85802D12F0EFA23FD3A9356865DC527"
+					"download"		"14F975E5C7AC0EDD59615E6738417F8A"
 				}
 				"timeddemo"
 				{
@@ -332,14 +350,14 @@
 		{
 			"public"
 			{
-				"buildid"		"12404671"
-				"timeupdated"		"1697720291"
+				"buildid"		"12952025"
+				"timeupdated"		"1702482749"
 			}
 			"creators"
 			{
-				"buildid"		"12404671"
+				"buildid"		"12952025"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697720280"
+				"timeupdated"		"1702482764"
 			}
 			"events"
 			{
@@ -349,39 +367,45 @@
 			}
 			"experimental"
 			{
-				"buildid"		"12404671"
+				"buildid"		"12952025"
 				"description"		"For testing the latest public builds"
-				"timeupdated"		"1697014222"
+				"timeupdated"		"1702482716"
 			}
 			"internal"
 			{
-				"buildid"		"12404671"
+				"buildid"		"12952025"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697720300"
+				"timeupdated"		"1702482723"
 			}
 			"legacy"
 			{
-				"buildid"		"11235282"
+				"buildid"		"12404671"
 				"pwdrequired"		"1"
-				"timeupdated"		"1693387698"
+				"timeupdated"		"1702482831"
 			}
 			"legacypublic"
 			{
-				"buildid"		"12249368"
+				"buildid"		"12404671"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697014341"
+				"timeupdated"		"1702482819"
 			}
 			"localetests"
 			{
-				"buildid"		"12404671"
+				"buildid"		"12952025"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697720311"
+				"timeupdated"		"1702482775"
+			}
+			"mono"
+			{
+				"buildid"		"12952159"
+				"description"		"A branch of the game that is built with the mono backend"
+				"timeupdated"		"1702482707"
 			}
 			"pressearlyaccess"
 			{
-				"buildid"		"12404671"
+				"buildid"		"12952025"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697720322"
+				"timeupdated"		"1702482795"
 			}
 			"splash"
 			{
@@ -391,9 +415,9 @@
 			}
 			"stable"
 			{
-				"buildid"		"12404671"
+				"buildid"		"12952025"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697720330"
+				"timeupdated"		"1702482788"
 			}
 			"timeddemo"
 			{
