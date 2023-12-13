@@ -25,15 +25,35 @@
 		"osextended"		""
 		"steam_deck_compatibility"
 		{
-			"category"		"1"
-			"test_timestamp"		"1656028800"
-			"tested_build_id"		"8957741"
+			"category"		"2"
+			"test_timestamp"		"1694736000"
+			"tested_build_id"		"12051553"
 			"tests"
 			{
 				"0"
 				{
-					"display"		"2"
-					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
 				}
 			}
 			"configuration"
@@ -46,9 +66,10 @@
 				"small_text"		"0"
 				"requires_internet_for_setup"		"0"
 				"requires_internet_for_singleplayer"		"0"
-				"recommended_runtime"		"proton-stable"
+				"recommended_runtime"		"proton-8.0-4"
 				"requires_h264"		"0"
 				"gamescope_frame_limiter_not_supported"		"0"
+				"proton_compat_config"		"gamedrive,"
 			}
 		}
 		"metacritic_name"		"Empyrion - Galactic Survival"
@@ -68,12 +89,12 @@
 			"library_logo"		"en"
 			"logo_position"
 			{
-				"pinned_position"		"CenterCenter"
-				"width_pct"		"30"
-				"height_pct"		"56"
+				"pinned_position"		"UpperCenter"
+				"width_pct"		"55.07565537994992"
+				"height_pct"		"40.03948652998757"
 			}
 		}
-		"store_asset_mtime"		"1671731139"
+		"store_asset_mtime"		"1700647949"
 		"associations"
 		{
 			"0"
@@ -166,10 +187,10 @@
 			"12"		"3859"
 			"13"		"4182"
 			"14"		"3942"
-			"15"		"1775"
-			"16"		"6730"
-			"17"		"9"
-			"18"		"1702"
+			"15"		"6730"
+			"16"		"1775"
+			"17"		"1702"
+			"18"		"9"
 			"19"		"1663"
 		}
 		"review_score"		"8"
@@ -223,9 +244,9 @@
 			{
 				"public"
 				{
-					"gid"		"1619033685297068356"
-					"size"		"15913248574"
-					"download"		"8996634096"
+					"gid"		"3847999121145388812"
+					"size"		"16829743854"
+					"download"		"9441188864"
 				}
 				"alpha10"
 				{
@@ -280,39 +301,45 @@
 				}
 				"closedalpha"
 				{
-					"gid"		"A29320162466AC88A5FA635AE6638FF7"
-					"size"		"9E57B559FC371B7E25A6218C48E72ADC"
-					"download"		"7758AD2E6B41239D8EDF1CE3CE33D18B"
+					"gid"		"CF17348A7B8822CCB249DBE4F2B9A114"
+					"size"		"7404F0E0397585E7D305FC45733B3B2F"
+					"download"		"0C92374B9B0DCA6764B69C0100996169"
 				}
 				"eleononly"
 				{
-					"gid"		"64C6FAB16739860F78A74DC3FC1285C4"
-					"size"		"565CDF70BA4A15F54C90CA69951BB8A2"
-					"download"		"95BDB5BF9FBDAFD34BB5C3DD647594C1"
+					"gid"		"37D95EB0EAB74864AF1EAAAFE5824D95"
+					"size"		"841FFC8714E43220AF92890C2FC1290E"
+					"download"		"21E1CE3CB332070D4115667A21C5EDFA"
 				}
 				"eleontest"
 				{
-					"gid"		"4346685E8C41423E7CB68B68B0E0B8D3"
-					"size"		"1148C722ACBE1708E5AC0BAA9A8DB0AA"
-					"download"		"431F96F5C2565ED88C705DEDFD36138F"
+					"gid"		"82B773D624E2BB8035B88F50B0B5B64E"
+					"size"		"0981EAD97B03A6AC931982EC9594E7BB"
+					"download"		"57EEC0E2ED1B04E37737D9298CC77C29"
 				}
 				"experimental"
 				{
-					"gid"		"1511102084592B0BDE2DF179678BF5E6"
-					"size"		"38AE6434A0046A340017C59B4F9E7A43"
-					"download"		"6FA17AA2EB7F627DD76B5348F9D30C89"
+					"gid"		"72D29C1D0A4F76BBBE0A5FFF10F63F2A"
+					"size"		"362A2CF486B72D42F275F4EDC8E4115E"
+					"download"		"C368D84F44FB8B0E98094AC6C5BEA61F"
 				}
 				"internal"
 				{
-					"gid"		"94C51FBC70DE368E1992E9E8F3C66040"
-					"size"		"4A1C2A12BD29EFB02AA58ACD327E3717"
-					"download"		"FB8457DEED905B1930EB7BB1BB9CD385"
+					"gid"		"1BFBFB4753E334F6DF6CF775A15894C0"
+					"size"		"F6F96425740E8B9C7CC187E2A6AA417C"
+					"download"		"18623C33F6C444B99547B296801DC702"
+				}
+				"internal2"
+				{
+					"gid"		"7E2E47B40FF0DA61BE60CF000BB97CF4"
+					"size"		"A80DBB57B6B6CA0FDBD64B5ED91ED837"
+					"download"		"1628155C6BDB0A306FC76DCA12D70155"
 				}
 				"steamtest"
 				{
-					"gid"		"3A13F2CE47402B53C138862D6DE07C15"
-					"size"		"5E8E11FA029BCD0083B989457F3BE35E"
-					"download"		"995C1600505591500E599B02E324E1B5"
+					"gid"		"D187BBB6100BE9CB0E65E34B47EA0A61"
+					"size"		"198676DED50D566180D15F53A197E909"
+					"download"		"CFB53DC3B06215855A874E1F286FA86A"
 				}
 				"steamtest2"
 				{
@@ -354,8 +381,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12051553"
-				"timeupdated"		"1693386441"
+				"buildid"		"12942001"
+				"timeupdated"		"1702462540"
 			}
 			"alpha10"
 			{
@@ -407,39 +434,45 @@
 			}
 			"closedalpha"
 			{
-				"buildid"		"12141781"
+				"buildid"		"12942001"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694191160"
+				"timeupdated"		"1702399192"
 			}
 			"eleononly"
 			{
-				"buildid"		"12198524"
+				"buildid"		"12943969"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694778513"
+				"timeupdated"		"1702413054"
 			}
 			"eleontest"
 			{
-				"buildid"		"12078351"
+				"buildid"		"12943968"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694784079"
+				"timeupdated"		"1702414408"
 			}
 			"experimental"
 			{
-				"buildid"		"11560699"
+				"buildid"		"12942001"
 				"pwdrequired"		"1"
-				"timeupdated"		"1687796545"
+				"timeupdated"		"1702401188"
 			}
 			"internal"
 			{
-				"buildid"		"12198523"
+				"buildid"		"12940931"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694782812"
+				"timeupdated"		"1702392979"
+			}
+			"internal2"
+			{
+				"buildid"		"12914600"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702065530"
 			}
 			"steamtest"
 			{
-				"buildid"		"11946333"
+				"buildid"		"12733542"
 				"pwdrequired"		"1"
-				"timeupdated"		"1693396552"
+				"timeupdated"		"1702478110"
 			}
 			"steamtest2"
 			{
