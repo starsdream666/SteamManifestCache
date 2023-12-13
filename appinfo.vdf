@@ -91,7 +91,7 @@
 				"height_pct"		"45.44072969473844"
 			}
 		}
-		"store_asset_mtime"		"1688390671"
+		"store_asset_mtime"		"1702460206"
 		"associations"
 		{
 			"0"
@@ -111,7 +111,6 @@
 			"0"		"1"
 			"1"		"25"
 			"2"		"23"
-			"3"		"70"
 		}
 		"category"
 		{
@@ -138,10 +137,6 @@
 			{
 				"supported"		"true"
 			}
-			"czech"
-			{
-				"supported"		"true"
-			}
 			"koreana"
 			{
 				"supported"		"true"
@@ -151,7 +146,7 @@
 				"supported"		"true"
 			}
 		}
-		"steam_release_date"		"1639784820"
+		"steam_release_date"		"1702490469"
 		"community_visible_stats"		"1"
 		"community_hub_visible"		"1"
 		"gameid"		"1144200"
@@ -258,6 +253,23 @@
 				}
 				"description"		"Safe Mode (No Mods)"
 			}
+			"5"
+			{
+				"executable"		"ReadyOrNot.exe"
+				"arguments"		"-dx11 -NoGamepad"
+				"type"		"option2"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"nightly"
+				}
+				"description_loc"
+				{
+					"english"		"Ready or Not (No Gamepad - Testing)"
+				}
+				"description"		"Ready or Not (No Gamepad - Testing)"
+			}
 		}
 	}
 	"depots"
@@ -292,24 +304,24 @@
 			{
 				"public"
 				{
-					"gid"		"2433351168893566336"
-					"size"		"98802035831"
-					"download"		"37427154416"
+					"gid"		"4385073753446263220"
+					"size"		"62754010893"
+					"download"		"52547544608"
 				}
 				"supporteralpha"
 				{
-					"gid"		"2433351168893566336"
-					"size"		"98802035831"
-					"download"		"37427154416"
+					"gid"		"4385073753446263220"
+					"size"		"62754010893"
+					"download"		"52547544608"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"dev01"
 				{
-					"gid"		"04BF7AAC124D05B1882DCED0674019B6"
-					"size"		"7055BCF2FB1F848B8B63FFA087B8E35E"
-					"download"		"6B3B4C3637FFA095CB184D03997D8613"
+					"gid"		"DF859AC410DE6924496B1CD9B0369237"
+					"size"		"0B15CAE5F54034598741B097155394E3"
+					"download"		"7973FDB066EB0D3C13D8D6D33EF18B74"
 				}
 				"dev02"
 				{
@@ -317,17 +329,29 @@
 					"size"		"388E79401172193E36C1627AF33EB217"
 					"download"		"42117FBA65D431E3277E02A9C02120DD"
 				}
-				"nightly"
+				"nightly2"
 				{
-					"gid"		"85CBAA366AFD2F807F7AB0CABC86B0A5"
-					"size"		"493DCE1A5F61BE948C7DC98E73E1C540"
-					"download"		"A1ED874BCA3ECC39DC2F897CE6D1568B"
+					"gid"		"75844CC72CE80B78E5262D808022EACF"
+					"size"		"DEE041E69D7E169A5F26F3BE466E649C"
+					"download"		"694C6E2511C59C8ED552F818D0AAA2B4"
 				}
-				"staging"
+				"nightly3"
 				{
-					"gid"		"05EB9C6673BB371E3B46F6AE13D046BA"
-					"size"		"C3742916CB96F694BE9C2DAF185D6A32"
-					"download"		"15261086E4EB5C5C1B369777FF4FFA58"
+					"gid"		"2BF596D47E3E8D2033E6812E01621109"
+					"size"		"7D018AAF40B5EF34A40C9C98638EFE9A"
+					"download"		"731ACC70DBD60383F4806B2DD2983DC0"
+				}
+				"rc1.0"
+				{
+					"gid"		"DF92AC8EA2A07420247FD8A1125EB36B"
+					"size"		"E4F9BDB3A8C2D3B8145F573C298D34D9"
+					"download"		"79D0EA113AF1A943AAF3F7A50D659335"
+				}
+				"staging2"
+				{
+					"gid"		"5756767AC6E7F310DA5E415AEA66CD4E"
+					"size"		"D9031F8BC0B466995641FDC09F5AB47A"
+					"download"		"BDC5AA0403D36251EB4803CC8DC95800"
 				}
 			}
 		}
@@ -335,14 +359,14 @@
 		{
 			"public"
 			{
-				"buildid"		"10510155"
-				"timeupdated"		"1675979183"
+				"buildid"		"12948291"
+				"timeupdated"		"1702490410"
 			}
 			"dev01"
 			{
-				"buildid"		"10073399"
+				"buildid"		"12281585"
 				"pwdrequired"		"1"
-				"timeupdated"		"1670119402"
+				"timeupdated"		"1695696367"
 			}
 			"dev02"
 			{
@@ -350,23 +374,35 @@
 				"pwdrequired"		"1"
 				"timeupdated"		"1694233096"
 			}
-			"nightly"
+			"nightly2"
 			{
-				"buildid"		"12169711"
+				"buildid"		"12947277"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694529021"
+				"timeupdated"		"1702442787"
 			}
-			"staging"
+			"nightly3"
 			{
-				"buildid"		"12168884"
+				"buildid"		"12951002"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694523082"
+				"timeupdated"		"1702472799"
+			}
+			"rc1.0"
+			{
+				"buildid"		"12929291"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702323914"
+			}
+			"staging2"
+			{
+				"buildid"		"12948291"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702453705"
 			}
 			"supporteralpha"
 			{
-				"buildid"		"10510155"
+				"buildid"		"12948291"
 				"description"		"For early builds of the game to test for supporters"
-				"timeupdated"		"1675979151"
+				"timeupdated"		"1702490431"
 			}
 		}
 	}
@@ -409,6 +445,7 @@
 					"#status_atmainmenu"		"At the main menu"
 					"#status_pregamelobby"		"In Pre-Game Lobby"
 					"#status_inmission"		"In A Mission [%mission%]"
+					"#status_custom"		"%custom%"
 				}
 			}
 		}
