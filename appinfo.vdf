@@ -23,6 +23,54 @@
 		"osarch"		"64"
 		"osextended"		""
 		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1697241600"
+			"tested_build_id"		"11846329"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-4"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
 		"nokeyboardmouse"		"1"
 		"controller_support"		"partial"
 		"small_capsule"
@@ -127,15 +175,17 @@
 			"12"		"1684"
 			"13"		"15564"
 			"14"		"6041"
-			"15"		"1742"
-			"16"		"4182"
+			"15"		"4182"
+			"16"		"1742"
 		}
+		"review_score"		"8"
+		"review_percentage"		"82"
 	}
 	"extended"
 	{
 		"developer"		"Appci Inc."
 		"publisher"		"Natsume Inc."
-		"listofdlc"		"2362881"
+		"listofdlc"		"2362880,2362881,2362882,2362883"
 		"dlcavailableonstore"		"1"
 	}
 	"config"
@@ -160,15 +210,36 @@
 			{
 				"public"
 				{
-					"gid"		"7083503597089661924"
-					"size"		"2938556709"
-					"download"		"2420635680"
+					"gid"		"3517896246755732855"
+					"size"		"2938583536"
+					"download"		"2420658976"
 				}
+			}
+			"encryptedmanifests"
+			{
 				"develop"
 				{
-					"gid"		"2646724690867887753"
-					"size"		"2967470424"
-					"download"		"2428057760"
+					"gid"		"4AE26D42B65D080B0C5ED467A8D5B810"
+					"size"		"33D0FD69741830B832421CAE768269D2"
+					"download"		"A8A46058E619738375812FD405B6A5F9"
+				}
+				"develop_test_ver1_10"
+				{
+					"gid"		"DE35C63A00C19046C1D4FB5A7BAF3E6B"
+					"size"		"BE8605A702D28FE6D584A0D10CE80C49"
+					"download"		"56A8EA14464F6C08FEE0A91033D204D1"
+				}
+				"release_test"
+				{
+					"gid"		"8F38E78F21EC973F4750B56E30E5FE48"
+					"size"		"7F59C270001C0E4760846AC564646845"
+					"download"		"F97B2344239135A5A38BA763B17430B6"
+				}
+				"release_test_ver1_10"
+				{
+					"gid"		"5985E9BB44F46C8B577E41CF7C346183"
+					"size"		"78D8DCB7272F2B2297F1331BE35B47C4"
+					"download"		"667D02AA0DE33CE60FCC79D142600B07"
 				}
 			}
 		}
@@ -177,14 +248,32 @@
 		{
 			"public"
 			{
-				"buildid"		"11846329"
-				"timeupdated"		"1690966988"
+				"buildid"		"12806249"
+				"timeupdated"		"1702449845"
 			}
 			"develop"
 			{
+				"buildid"		"12806553"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701086162"
+			}
+			"develop_test_ver1_10"
+			{
 				"buildid"		"11846086"
-				"description"		"developビルド確認用"
-				"timeupdated"		"1690964850"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701396823"
+			}
+			"release_test"
+			{
+				"buildid"		"12806249"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701082473"
+			}
+			"release_test_ver1_10"
+			{
+				"buildid"		"11846329"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700447546"
 			}
 		}
 	}
