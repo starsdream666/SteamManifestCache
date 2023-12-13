@@ -17,8 +17,8 @@
 		"steam_deck_compatibility"
 		{
 			"category"		"3"
-			"test_timestamp"		"1695427200"
-			"tested_build_id"		"12058425"
+			"test_timestamp"		"1702080000"
+			"tested_build_id"		"12689868"
 			"tests"
 			{
 				"0"
@@ -52,9 +52,11 @@
 				"small_text"		"0"
 				"requires_internet_for_setup"		"0"
 				"requires_internet_for_singleplayer"		"0"
-				"recommended_runtime"		"proton-7.0-6"
+				"recommended_runtime"		"proton-stable"
 				"requires_h264"		"0"
 				"gamescope_frame_limiter_not_supported"		"0"
+				"hdr_support"		"0"
+				"proton_compat_config"		"heapdelayfree,"
 			}
 		}
 		"controllertagwizard"		"1"
@@ -163,7 +165,7 @@
 			"19"		"6129"
 		}
 		"review_score"		"8"
-		"review_percentage"		"91"
+		"review_percentage"		"92"
 	}
 	"extended"
 	{
@@ -178,15 +180,36 @@
 		"installdir"		"Trivia Tricks"
 		"launch"
 		{
-			"0"
+			"2"
 			{
 				"executable"		"TriviaTricks.exe"
-				"type"		"none"
+				"type"		"option1"
 				"config"
 				{
 					"oslist"		"windows"
 					"osarch"		"64"
 				}
+				"description_loc"
+				{
+					"english"		"Trivia Tricks in DirectX 12 (Recommended)"
+				}
+				"description"		"Trivia Tricks in DirectX 12 (Recommended)"
+			}
+			"3"
+			{
+				"executable"		"TriviaTricks.exe"
+				"arguments"		"-dx11"
+				"type"		"option2"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Trivia Tricks in DirectX 11 (For older machines)"
+				}
+				"description"		"Trivia Tricks in DirectX 11 (For older machines)"
 			}
 		}
 		"steamconfigurator3rdpartynative"		"65535"
@@ -204,7 +227,7 @@
 	}
 	"depots"
 	{
-		"228988"
+		"228989"
 		{
 			"config"
 			{
@@ -234,18 +257,18 @@
 			{
 				"public"
 				{
-					"gid"		"4682635606222463020"
-					"size"		"687373904"
-					"download"		"469021504"
+					"gid"		"8208579320536180996"
+					"size"		"794912333"
+					"download"		"516237136"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"beta"
 				{
-					"gid"		"203A8796D5915301629C98B265B1FAEF"
-					"size"		"D4EC66D7064AFE6EB14F60490D60BC84"
-					"download"		"315E4A768E13BE6681D0022504121CB2"
+					"gid"		"6B1C45ED128D4AFF143C25CB4A2E63B5"
+					"size"		"1C279D4A86A89E6016A2DBF1A3D1965E"
+					"download"		"7D8F1933F42AD6CE26BBECC59DD3712C"
 				}
 			}
 		}
@@ -254,14 +277,14 @@
 		{
 			"public"
 			{
-				"buildid"		"12689868"
-				"timeupdated"		"1699990249"
+				"buildid"		"12940424"
+				"timeupdated"		"1702470270"
 			}
 			"beta"
 			{
-				"buildid"		"12689868"
+				"buildid"		"12940424"
 				"pwdrequired"		"1"
-				"timeupdated"		"1699886992"
+				"timeupdated"		"1702389589"
 			}
 		}
 	}
