@@ -76,6 +76,7 @@
 				"recommended_runtime"		"proton-stable"
 			}
 		}
+		"controllertagwizard"		"1"
 		"controller_support"		"partial"
 		"small_capsule"
 		{
@@ -99,7 +100,7 @@
 				"height_pct"		"100"
 			}
 		}
-		"store_asset_mtime"		"1671466895"
+		"store_asset_mtime"		"1702295381"
 		"associations"
 		{
 			"0"
@@ -127,9 +128,13 @@
 		"category"
 		{
 			"category_2"		"1"
-			"category_18"		"1"
 			"category_22"		"1"
 			"category_23"		"1"
+			"category_55"		"1"
+			"category_57"		"1"
+			"category_56"		"1"
+			"category_58"		"1"
+			"category_18"		"1"
 		}
 		"supported_languages"
 		{
@@ -204,21 +209,21 @@
 			"5"		"12472"
 			"6"		"492"
 			"7"		"122"
-			"8"		"10235"
-			"9"		"3871"
+			"8"		"3871"
+			"9"		"10235"
 			"10"		"3810"
 			"11"		"6815"
 			"12"		"597"
 			"13"		"87918"
 			"14"		"8945"
-			"15"		"6426"
-			"16"		"1698"
+			"15"		"1698"
+			"16"		"6426"
 			"17"		"3987"
 			"18"		"4202"
 			"19"		"8369"
 		}
 		"review_score"		"8"
-		"review_percentage"		"91"
+		"review_percentage"		"92"
 	}
 	"extended"
 	{
@@ -250,9 +255,9 @@
 			{
 				"public"
 				{
-					"gid"		"3684150586328548215"
-					"size"		"1205708477"
-					"download"		"728678128"
+					"gid"		"1610030769643194993"
+					"size"		"1692538316"
+					"download"		"894005632"
 				}
 				"0.4.7"
 				{
@@ -266,14 +271,35 @@
 					"size"		"5868168513"
 					"download"		"703574240"
 				}
+				"1.0.5"
+				{
+					"gid"		"3684150586328548215"
+					"size"		"1205708477"
+					"download"		"728678128"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"preview_1.1.0"
+				{
+					"gid"		"0E5E96AB6010F85A28BAF43C219AF5BC"
+					"size"		"B3620A527CB13BA75CC4280CDD99240C"
+					"download"		"EF9A7913EC0FBDA7B7FD11F87E3AB05F"
+				}
+				"test"
+				{
+					"gid"		"EDE1D9DFB5F1F0E43235224ACE4AFF30"
+					"size"		"E75A4B65756C709DDE032E8F2372B83C"
+					"download"		"2FFA8D85B79C6A84CF32E185E9B7CFA3"
+				}
 			}
 		}
 		"branches"
 		{
 			"public"
 			{
-				"buildid"		"10207970"
-				"timeupdated"		"1671817694"
+				"buildid"		"12813362"
+				"timeupdated"		"1702398700"
 			}
 			"0.4.7"
 			{
@@ -286,6 +312,24 @@
 				"buildid"		"10051647"
 				"description"		"Early Access, Public Beta (0.5.0)"
 				"timeupdated"		"1669849898"
+			}
+			"1.0.5"
+			{
+				"buildid"		"10207970"
+				"description"		"Full Release, Stable (1.0.5)"
+				"timeupdated"		"1702410384"
+			}
+			"preview_1.1.0"
+			{
+				"buildid"		"12813362"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701142438"
+			}
+			"test"
+			{
+				"buildid"		"12813362"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701143218"
 			}
 		}
 	}
