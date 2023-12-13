@@ -16,6 +16,54 @@
 		{
 			"schinese"		"雨中冒险: 回归"
 		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1700179200"
+			"tested_build_id"		"12659048"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
 		"controller_support"		"full"
 		"small_capsule"
 		{
@@ -130,8 +178,8 @@
 		"store_tags"
 		{
 			"0"		"3843"
-			"1"		"3859"
-			"2"		"42804"
+			"1"		"42804"
+			"2"		"3859"
 			"3"		"6730"
 			"4"		"3871"
 			"5"		"3841"
@@ -139,19 +187,19 @@
 			"7"		"3942"
 			"8"		"19"
 			"9"		"7481"
-			"10"		"1755"
-			"11"		"1773"
-			"12"		"4155"
-			"13"		"4236"
-			"14"		"4166"
-			"15"		"1716"
-			"16"		"3993"
-			"17"		"4182"
-			"18"		"1685"
+			"10"		"1773"
+			"11"		"1755"
+			"12"		"1716"
+			"13"		"4155"
+			"14"		"4236"
+			"15"		"4166"
+			"16"		"4182"
+			"17"		"1685"
+			"18"		"3993"
 			"19"		"4840"
 		}
 		"review_score"		"8"
-		"review_percentage"		"82"
+		"review_percentage"		"90"
 	}
 	"extended"
 	{
@@ -186,18 +234,18 @@
 			{
 				"public"
 				{
-					"gid"		"2930326666036178152"
-					"size"		"521260545"
-					"download"		"397864416"
+					"gid"		"3746915616900173019"
+					"size"		"521433490"
+					"download"		"397666192"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"development"
 				{
-					"gid"		"D97D2A2FAEA1E1F5A4415F9048668FF7"
-					"size"		"CAE3ACAEB38B3D681C76C1ACED32AE1A"
-					"download"		"D6FE384762FB6DA92CCD7C66CE1DBC35"
+					"gid"		"2D3487D37EB4595D73BA630365DCB740"
+					"size"		"EE2372EB0CB8C28509A98E988AD80BE9"
+					"download"		"051B791C6F54F4DF8C66BFE32EA0A67C"
 				}
 				"experimental"
 				{
@@ -225,21 +273,21 @@
 				}
 				"qa_internal"
 				{
-					"gid"		"C28D3791889EE1EF8921B6CC357CE9BA"
-					"size"		"BE54A888B99A2613C64D1838E9CC2F48"
-					"download"		"C094A0B0F1BF2C5103597469EA5D6C22"
+					"gid"		"652594F438C458A6EB07AC0A814130EA"
+					"size"		"F9435FBB0F4CF01D8B8D89AE0042E163"
+					"download"		"D16A4481E49009FCD8FE0D61AEAB22B9"
 				}
 				"qa_locqa"
 				{
-					"gid"		"EDCD666FA76850FD61773330E9B69633"
-					"size"		"F0000E4BC3C8E6B9B7871433381D126A"
-					"download"		"9B5CF274795FB5BE8D29DD0E4B08570D"
+					"gid"		"41540F7E86E588394F9ABBB942575EBE"
+					"size"		"1789C9EAC11509C40CFA9579D749FBDD"
+					"download"		"D1A9E677BB21A2250059A2D8B0D2299F"
 				}
 				"qa_production"
 				{
-					"gid"		"C595EFF3CDE5F08157D24B6D7704C5AF"
-					"size"		"A7C63E56CCB18D4EDE473E27417B9B49"
-					"download"		"351914984E3AA8724ECD1300343EADB8"
+					"gid"		"CBE7714E8E92000AB689FAA1E7628CEF"
+					"size"		"04D7D05499DC192FC834B8548FC91A76"
+					"download"		"1F26FBD85E057326A4E38790B0CD4D27"
 				}
 				"qa_stable"
 				{
@@ -255,14 +303,14 @@
 		{
 			"public"
 			{
-				"buildid"		"12697346"
-				"timeupdated"		"1700181315"
+				"buildid"		"12921504"
+				"timeupdated"		"1702408903"
 			}
 			"development"
 			{
-				"buildid"		"12697086"
+				"buildid"		"12945404"
 				"pwdrequired"		"1"
-				"timeupdated"		"1699975346"
+				"timeupdated"		"1702425215"
 			}
 			"experimental"
 			{
@@ -290,21 +338,21 @@
 			}
 			"qa_internal"
 			{
-				"buildid"		"12697086"
+				"buildid"		"12921438"
 				"pwdrequired"		"1"
-				"timeupdated"		"1699975396"
+				"timeupdated"		"1702176251"
 			}
 			"qa_locqa"
 			{
-				"buildid"		"12697086"
+				"buildid"		"12921438"
 				"pwdrequired"		"1"
-				"timeupdated"		"1699975406"
+				"timeupdated"		"1702176258"
 			}
 			"qa_production"
 			{
-				"buildid"		"12697346"
+				"buildid"		"12921504"
 				"pwdrequired"		"1"
-				"timeupdated"		"1699975433"
+				"timeupdated"		"1702176288"
 			}
 			"qa_stable"
 			{
