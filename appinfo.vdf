@@ -1,0 +1,183 @@
+"appinfo"
+{
+	"appid"		"2445310"
+	"common"
+	{
+		"name"		"Cradles"
+		"type"		"Game"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienticon"		"283028a8b38659b201b661b3313e70497d4fdac4"
+		"clienttga"		"911b1bd4b108b1d92d6b0052037853d55af3d594"
+		"icon"		"0f853fee50c2c16808726986433d187de9634e83"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"36.90406995950116"
+				"height_pct"		"90.80902898084616"
+			}
+		}
+		"store_asset_mtime"		"1699796412"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"DRepublic Labs Ltd"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"DRepublic Labs Ltd"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"29"
+			"3"		"3"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_20"		"1"
+			"category_1"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1700046014"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2445310"
+		"store_tags"
+		{
+			"0"		"1754"
+			"1"		"1775"
+			"2"		"4231"
+			"3"		"1684"
+			"4"		"1697"
+			"5"		"4202"
+			"6"		"1643"
+			"7"		"21"
+			"8"		"5160"
+			"9"		"4747"
+			"10"		"4191"
+			"11"		"122"
+			"12"		"7332"
+			"13"		"128"
+			"14"		"3859"
+			"15"		"19"
+			"16"		"3843"
+			"17"		"493"
+		}
+		"review_score"		"5"
+		"review_percentage"		"57"
+	}
+	"extended"
+	{
+		"developer"		"DRepublic Labs Ltd"
+		"publisher"		"DRepublic Labs Ltd"
+		"homepage"		"https://www.cradles.io/"
+	}
+	"config"
+	{
+		"installdir"		"Cradles"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Cradles.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"Play The Game"
+				}
+				"description"		"Play The Game"
+			}
+		}
+	}
+	"depots"
+	{
+		"2445311"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2393240166040925306"
+					"size"		"24162200237"
+					"download"		"20288208624"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"pre-release"
+				{
+					"gid"		"7E9DA11ADED20EBD2373449B934F141F"
+					"size"		"9B09BD5BBD1383D8EDEB10CB71EEC88F"
+					"download"		"495C650F7DBB01F7A5CA2E50AEDB7A0F"
+				}
+				"private-test"
+				{
+					"gid"		"E254F58333A438641C223E3937EEC8E7"
+					"size"		"4ADB12C644C8334B37BD4C391DC35454"
+					"download"		"9CFBB224B333577D47D21E9A61DD87ED"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12947591"
+				"timeupdated"		"1702452677"
+			}
+			"pre-release"
+			{
+				"buildid"		"12947591"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702449189"
+			}
+			"private-test"
+			{
+				"buildid"		"12691677"
+				"pwdrequired"		"1"
+				"timeupdated"		"1699897220"
+			}
+		}
+	}
+}
