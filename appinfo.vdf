@@ -1,0 +1,221 @@
+"appinfo"
+{
+	"appid"		"1576600"
+	"common"
+	{
+		"name"		"Matraquinha PAIR"
+		"type"		"Game"
+		"logo"		"de355a8b8ebc61dea2b7b6822ab1d016629777a0"
+		"logo_small"		"de355a8b8ebc61dea2b7b6822ab1d016629777a0_thumb"
+		"clienticns"		"2670c6b6fb78e98d61635ccdae65ea2b1e5f7ef9"
+		"clienticon"		"a6569b30b4787a49ab9574de1e61a2363c1b548a"
+		"clienttga"		"aeab9c3e3a16f777f0a8a4406701ccd3eb989010"
+		"icon"		"895332b37ad7f1ebba1128a706b08880c4fdc6b8"
+		"oslist"		"windows,macos"
+		"osarch"		""
+		"osextended"		"macos64"
+		"releasestate"		"released"
+		"languages"
+		{
+			"english"		"1"
+			"brazilian"		"1"
+			"latam"		"1"
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"30.786100466794736"
+				"height_pct"		"65.5934642068748"
+			}
+		}
+		"store_asset_mtime"		"1617132620"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Matraquinha"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Mens Sana Interactive"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Mens Sana Interactive"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Mens Sana Interactive"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1617358632"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1576600"
+		"store_tags"
+		{
+			"0"		"5350"
+			"1"		"1036"
+			"2"		"597"
+			"3"		"1698"
+			"4"		"1738"
+			"5"		"4726"
+			"6"		"4195"
+			"7"		"3871"
+			"8"		"1654"
+			"9"		"6815"
+			"10"		"4305"
+			"11"		"1664"
+			"12"		"4182"
+		}
+		"review_score"		"6"
+		"review_percentage"		"77"
+	}
+	"extended"
+	{
+		"developer"		"Matraquinha"
+		"publisher"		"Mens Sana Interactive"
+		"homepage"		"https://www.matraquinha.com.br/jogo-matraquinha-pair"
+	}
+	"config"
+	{
+		"installdir"		"Matraquinha PAIR"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Matraquinha Pair.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"Matraquinha Pair.app\\Contents\\MacOS\\Matraquinha Pair"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1576601"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4278197413643917457"
+					"size"		"191271552"
+					"download"		"36427360"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta1"
+				{
+					"gid"		"BAD566B15B49356C6413FE4BE2DF49E5"
+					"size"		"4B0027C5147851B81B6944D4578400A7"
+					"download"		"F612C41B7EDDF31447B08607DEAD77A6"
+				}
+			}
+		}
+		"1576602"
+		{
+			"config"
+			{
+				"osarch"		"64"
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4484748235912851232"
+					"size"		"194314825"
+					"download"		"37650720"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta1"
+				{
+					"gid"		"5CF285097D38949EF27A89EFDE4B1239"
+					"size"		"C62787F399C9F6B332B3D773F74A9AF8"
+					"download"		"34E3E140A7872B6DEA03DF18386D1D88"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"7398480"
+				"timeupdated"		"1632257334"
+			}
+			"beta1"
+			{
+				"buildid"		"7398480"
+				"pwdrequired"		"1"
+				"timeupdated"		"1632241127"
+			}
+		}
+	}
+}
