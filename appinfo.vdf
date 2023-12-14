@@ -1,0 +1,325 @@
+"appinfo"
+{
+	"appid"		"1611600"
+	"common"
+	{
+		"name"		"WARNO"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"bbe6400870d2caa3a3dc3ada57630e05bac2d2d3"
+		"logo"		"15d6ec45029002c1c971dc0e429cf61669115773"
+		"logo_small"		"15d6ec45029002c1c971dc0e429cf61669115773_thumb"
+		"clienticon"		"ef1cfb6186e5893183ec0e5643ee53f45e631aae"
+		"clienttga"		"88fd7b6bf8f900a629ab95c17d96c303185db722"
+		"releasestate"		"released"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1611600_eula_0"
+				"name"		"WARNO EULA"
+				"url"		"https://store.steampowered.com//eula/1611600_eula_0"
+				"version"		"1"
+			}
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1643932800"
+			"tested_build_id"		"8117220"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"5"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"78.25581395348837"
+				"height_pct"		"42.468633737037926"
+			}
+		}
+		"store_asset_mtime"		"1686852685"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Eugen Systems"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Eugen Systems"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Eugen Systems' Wargame"
+			}
+		}
+		"primary_genre"		"70"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"28"
+			"3"		"2"
+			"4"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_23"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1642668867"
+		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1611600"
+		"store_tags"
+		{
+			"0"		"4168"
+			"1"		"4684"
+			"2"		"3813"
+			"3"		"1676"
+			"4"		"1678"
+			"5"		"5179"
+			"6"		"9"
+			"7"		"13276"
+			"8"		"4161"
+			"9"		"7926"
+			"10"		"1775"
+			"11"		"1741"
+			"12"		"4598"
+			"13"		"1708"
+			"14"		"599"
+			"15"		"4175"
+			"16"		"3987"
+			"17"		"5711"
+			"18"		"5796"
+			"19"		"1669"
+		}
+		"review_score"		"8"
+		"review_percentage"		"82"
+	}
+	"extended"
+	{
+		"developer"		"Eugen Systems"
+		"publisher"		"Eugen Systems"
+	}
+	"config"
+	{
+		"installdir"		"WARNO"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"WARNO.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1611601"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4196574731009416605"
+					"size"		"60549523998"
+					"download"		"41003478832"
+				}
+				"compat_save_older_than_78984"
+				{
+					"gid"		"4006877980960211893"
+					"size"		"40515720195"
+					"download"		"29289143296"
+				}
+				"compat_save_older_than_93194"
+				{
+					"gid"		"1043691251633282674"
+					"size"		"55595923320"
+					"download"		"46318260512"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"full_vip"
+				{
+					"gid"		"60E81168C3D3D328ABC817906CD9DD60"
+					"size"		"6448DC0DB5769989A205D509F0FEEF0A"
+					"download"		"4C89C9B09C4E726EA961213AF7553F89"
+				}
+				"qa_test"
+				{
+					"gid"		"E1C2D3FFC75AC94D3C43B8FD3BF7819F"
+					"size"		"5FA381D16385AC196BEAD8E48B9E82FB"
+					"download"		"6734CAF359F7866B7E395AA5537352B0"
+				}
+				"qa_test_vip"
+				{
+					"gid"		"9EDEAD1484954FBBB793D5871B58BABE"
+					"size"		"7D370C3C63C95586954379F6FBDA0D7F"
+					"download"		"CFFC37879E08E26C2A0E37AEA3182828"
+				}
+			}
+		}
+		"workshopdepot"		"1611600"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12789556"
+				"timeupdated"		"1700832893"
+			}
+			"compat_save_older_than_78984"
+			{
+				"buildid"		"9182958"
+				"description"		"Compatibility for saves and replays older than version 78984"
+				"timeupdated"		"1660721005"
+			}
+			"compat_save_older_than_93194"
+			{
+				"buildid"		"10839866"
+				"description"		"Compatibility for saves and replays older than version 93194"
+				"timeupdated"		"1679588606"
+			}
+			"full_vip"
+			{
+				"buildid"		"12929212"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702310788"
+			}
+			"qa_test"
+			{
+				"buildid"		"12929212"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702298222"
+			}
+			"qa_test_vip"
+			{
+				"buildid"		"12402882"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700058658"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000000"
+		"maxnumfiles"		"10000"
+	}
+}
