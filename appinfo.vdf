@@ -1,0 +1,616 @@
+"appinfo"
+{
+	"appid"		"2367560"
+	"common"
+	{
+		"name"		"Home Designer Blast"
+		"type"		"Game"
+		"icon"		"4c9a93c010de0d1bd1359d171406c1c93545a4ed"
+		"clienticon"		"a14c5daf31674c55583988ff8d8d99eb45275973"
+		"clienttga"		"aeee268ef7b7aca76c1102c2b95e1fa297e1e9dd"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1699488000"
+			"tested_build_id"		"12420966"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"50"
+				"height_pct"		"50"
+			}
+		}
+		"store_asset_mtime"		"1698078798"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Tamalaki"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Matryoshka"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Home Designer Blast"
+			}
+		}
+		"primary_genre"		"4"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"28"
+			"2"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_35"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"arabic"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"czech"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"danish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"dutch"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"polish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"swedish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"thai"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"turkish"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"ukrainian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"vietnamese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"malay"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"filipino"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"indonesian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1697547000"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2367560"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"84"
+			"1"		"1643"
+			"2"		"1664"
+			"3"		"4175"
+			"4"		"597"
+			"5"		"4182"
+			"6"		"4305"
+			"7"		"599"
+			"8"		"1665"
+			"9"		"4252"
+			"10"		"5350"
+			"11"		"6129"
+			"12"		"7208"
+			"13"		"5094"
+			"14"		"4726"
+			"15"		"13190"
+			"16"		"5673"
+			"17"		"4695"
+			"18"		"1654"
+			"19"		"113"
+		}
+		"review_score"		"6"
+		"review_percentage"		"72"
+	}
+	"extended"
+	{
+		"developer"		"Tamalaki"
+		"publisher"		"Matryoshka"
+		"isfreeapp"		"1"
+		"listofdlc"		"2442350,2443930,2447360,2447361,2447362,2447363,2581460,2624780,2624800,2624810,2624820,2719050"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Home Designer Blast"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Home Designer Blast.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"2367561"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8410791840499365261"
+					"size"		"424594311"
+					"download"		"92907600"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"stage_branch"
+				{
+					"gid"		"ACCE31BB309ADCF9A555A67E8C9FA72B"
+					"size"		"E8494EE8DBD1D71248FD5DA4D75CD04E"
+					"download"		"0CF754EE2D5419D82506F0049C87442F"
+				}
+			}
+		}
+		"2442350"
+		{
+			"dlcappid"		"2442350"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8440730963832048468"
+					"size"		"21070708"
+					"download"		"21344800"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"stage_branch"
+				{
+					"gid"		"4ADD2F34C0B3350D037FFC78D21D3C38"
+					"size"		"D799189B6F24311B730744AC190B455F"
+					"download"		"A76D5D297871FF1C6AC82A3D035CCBC6"
+				}
+			}
+		}
+		"2443930"
+		{
+			"dlcappid"		"2443930"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4678964439402883698"
+					"size"		"22940857"
+					"download"		"23243696"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"stage_branch"
+				{
+					"gid"		"6FBE898D5648A2FE6AFED6584F079D44"
+					"size"		"9FA768567F40C21C6FCF3A8F28446C8C"
+					"download"		"3F7C7FE27ADBB8CF8B471AA1A286FAFB"
+				}
+			}
+		}
+		"2447362"
+		{
+			"dlcappid"		"2447362"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9050598123078891606"
+					"size"		"15713263"
+					"download"		"15915520"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"stage_branch"
+				{
+					"gid"		"B16FB0D2FBA4A95EDBA5B33CBE9C9C55"
+					"size"		"45E89C5A3246E3E02090A7A9DA0B48CC"
+					"download"		"850777689EFD7CAD74101ED548A65BD4"
+				}
+			}
+		}
+		"2447360"
+		{
+			"dlcappid"		"2447360"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6096453590519923758"
+					"size"		"17086142"
+					"download"		"17308448"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"stage_branch"
+				{
+					"gid"		"8AE4EAE2C72D011D445C05A69174569A"
+					"size"		"6634CD39836F630C7C5C6EF69A37BDF1"
+					"download"		"B6732212A59E5AA141412DAF3241929A"
+				}
+			}
+		}
+		"2447361"
+		{
+			"dlcappid"		"2447361"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2359160024695700522"
+					"size"		"18488975"
+					"download"		"18730048"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"stage_branch"
+				{
+					"gid"		"34398EE6AA821625E2744B420B41F403"
+					"size"		"B8839271049379E871D36CDD30F1BB69"
+					"download"		"0F232D4413269FA521258A674209EC14"
+				}
+			}
+		}
+		"2447363"
+		{
+			"dlcappid"		"2447363"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8545792383585586477"
+					"size"		"16987564"
+					"download"		"17208416"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"stage_branch"
+				{
+					"gid"		"77E81D979B88C8755B0981D3592305F1"
+					"size"		"2E66C15964FD399328B9B64E2022BACB"
+					"download"		"51685EAD1C08E42A7FE8C0791A7A363A"
+				}
+			}
+		}
+		"2581460"
+		{
+			"dlcappid"		"2581460"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4477051209921737056"
+					"size"		"12601951"
+					"download"		"12762944"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"stage_branch"
+				{
+					"gid"		"7876AACCB8F369F46353DACE20744421"
+					"size"		"F6C4AE8E8A458626929014889F81B29E"
+					"download"		"66597B81A8547D7064273CBA86414E52"
+				}
+			}
+		}
+		"2624800"
+		{
+			"dlcappid"		"2624800"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6984405115826695909"
+					"size"		"7"
+					"download"		"64"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"stage_branch"
+				{
+					"gid"		"4E936AC4677C1AE4A2E8E2CC9C51CEE1"
+					"size"		"F5BB1EF0C0F88D175FA2E3155BB06095"
+					"download"		"E3BEBC0F17ED97543EB5F4919E210ACE"
+				}
+			}
+		}
+		"2624780"
+		{
+			"dlcappid"		"2624780"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3231329669368979463"
+					"size"		"7"
+					"download"		"64"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"stage_branch"
+				{
+					"gid"		"39C14E56F4C5FB81021408A33FE096C9"
+					"size"		"F5BB1EF0C0F88D175FA2E3155BB06095"
+					"download"		"E3BEBC0F17ED97543EB5F4919E210ACE"
+				}
+			}
+		}
+		"2624820"
+		{
+			"dlcappid"		"2624820"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5600472337824071704"
+					"size"		"7"
+					"download"		"64"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"stage_branch"
+				{
+					"gid"		"BF2E35536C9BA16D01625EF3C4A8C8C0"
+					"size"		"F5BB1EF0C0F88D175FA2E3155BB06095"
+					"download"		"E3BEBC0F17ED97543EB5F4919E210ACE"
+				}
+			}
+		}
+		"2624810"
+		{
+			"dlcappid"		"2624810"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7495336117526134317"
+					"size"		"7"
+					"download"		"64"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"stage_branch"
+				{
+					"gid"		"1DB459FC168A9C2797AD1A7BB2E469BB"
+					"size"		"F5BB1EF0C0F88D175FA2E3155BB06095"
+					"download"		"E3BEBC0F17ED97543EB5F4919E210ACE"
+				}
+			}
+		}
+		"2719050"
+		{
+			"dlcappid"		"2719050"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"86071736695564324"
+					"size"		"19961862"
+					"download"		"20221568"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"stage_branch"
+				{
+					"gid"		"CD1DB0C0DBDBCE419498AA79FD00DEAD"
+					"size"		"CF2383CF192E3C6A92286146CB7FAD3B"
+					"download"		"CA570CA6843413F5C6004F3A20CF123D"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12825440"
+				"timeupdated"		"1702544561"
+			}
+			"stage_branch"
+			{
+				"buildid"		"12825440"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701242897"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000"
+		"maxnumfiles"		"1000"
+	}
+}
