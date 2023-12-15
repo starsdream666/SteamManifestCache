@@ -109,24 +109,19 @@
 			"0"
 			{
 				"type"		"developer"
-				"name"		"Arc System Works"
+				"name"		"NEOPLE Inc."
 			}
 			"1"
 			{
 				"type"		"developer"
-				"name"		"EIGHTING Co., Ltd."
+				"name"		"Arc System Works"
 			}
 			"2"
 			{
 				"type"		"developer"
-				"name"		"NEOPLE Inc."
+				"name"		"EIGHTING Co., Ltd."
 			}
 			"3"
-			{
-				"type"		"publisher"
-				"name"		"NEOPLE Inc."
-			}
-			"4"
 			{
 				"type"		"publisher"
 				"name"		"NEXON Korea Corp."
@@ -187,7 +182,6 @@
 			"tchinese"
 			{
 				"supported"		"true"
-				"full_audio"		"true"
 				"subtitles"		"true"
 			}
 		}
@@ -219,10 +213,10 @@
 	}
 	"extended"
 	{
-		"developer"		"Arc System Works"
-		"publisher"		"NEOPLE Inc."
+		"developer"		"NEOPLE Inc."
+		"publisher"		"NEXON Korea Corp."
 		"homepage"		"https://dd.nexon.com/en/main"
-		"listofdlc"		"2223030,2430130,2463770"
+		"listofdlc"		"2223030,2430130,2463770,2463771"
 		"dlcavailableonstore"		"1"
 	}
 	"config"
@@ -279,27 +273,33 @@
 			{
 				"debug"
 				{
-					"gid"		"B21034E1B397C85309933B079ED5717D"
-					"size"		"10D4B4AE664DE00DB8A982E25B51314B"
-					"download"		"D6EE0180D9EFB36A8C9EF64505EBDD75"
+					"gid"		"87FF8E42FDA4C80F2C6CC18250614419"
+					"size"		"B98E6EE7B34380ED7CE1486F8A84FEE9"
+					"download"		"7837A2FBEBCF08E081477C8BFCECBE93"
 				}
 				"develop"
 				{
-					"gid"		"A82AA2CEB4464DB06B0586CB5B20877B"
-					"size"		"CBBB1623FB4AF9A40468F85ECD9BE7CB"
-					"download"		"945CAC73E23F16E17D9A4F09E8C4767D"
+					"gid"		"06D381F4D06DDF1277850288EB14177F"
+					"size"		"B28F2D6B68225C3DF0919A36F0E72034"
+					"download"		"FB17A38D978D56C14F94BD5D684C41FA"
 				}
 				"patch"
 				{
-					"gid"		"3651415C36741C9EFC6930936CBB0338"
-					"size"		"AC84E30E71C36D0707C824AEDE2153A7"
-					"download"		"27D8C7F6A8B0211C1A56F4341EAB1D4A"
+					"gid"		"5DD34E908212EA9D6826A741315A1362"
+					"size"		"16EC3F5F22744A6905B7DD5614EEC6D7"
+					"download"		"0751CBA08D5ABE6B12043DBC83504B6E"
 				}
 				"release"
 				{
-					"gid"		"2B146B3B0A7E8323D64D294AB83321C9"
-					"size"		"B40D36D781C19E15C41879F71FE21B64"
-					"download"		"76D02BE4F573F5F74B900D28F530B75E"
+					"gid"		"49A97387D130026DA101F5CC89B5B87B"
+					"size"		"0B4A3679588CBD4AE07BE002929C6639"
+					"download"		"8CD56755EDF5D2C24B88312B8F109D2E"
+				}
+				"submission"
+				{
+					"gid"		"4CE784729DF2A94B7AB10E9AFC6DA167"
+					"size"		"76603F4D7B12106AE9F535E0F277A2A2"
+					"download"		"4275B68C7805D8A40BC055658270DF9C"
 				}
 			}
 		}
@@ -312,27 +312,33 @@
 			}
 			"debug"
 			{
-				"buildid"		"12191551"
+				"buildid"		"12966861"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694717225"
+				"timeupdated"		"1702596715"
 			}
 			"develop"
 			{
-				"buildid"		"12179481"
+				"buildid"		"12664036"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694617573"
+				"timeupdated"		"1699558055"
 			}
 			"patch"
 			{
-				"buildid"		"11733810"
+				"buildid"		"12448997"
 				"pwdrequired"		"1"
-				"timeupdated"		"1689735337"
+				"timeupdated"		"1697438132"
 			}
 			"release"
 			{
-				"buildid"		"11845085"
+				"buildid"		"12666407"
 				"pwdrequired"		"1"
-				"timeupdated"		"1690955187"
+				"timeupdated"		"1699579339"
+			}
+			"submission"
+			{
+				"buildid"		"12368670"
+				"pwdrequired"		"1"
+				"timeupdated"		"1696542147"
 			}
 		}
 	}
