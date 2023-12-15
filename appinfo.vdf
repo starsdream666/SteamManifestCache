@@ -28,6 +28,54 @@
 			"japanese"		"1"
 		}
 		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1699315200"
+			"tested_build_id"		"12457148"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
 		"controllertagwizard"		"1"
 		"small_capsule"
 		{
@@ -149,8 +197,8 @@
 			"18"		"7368"
 			"19"		"3841"
 		}
-		"review_score"		"4"
-		"review_percentage"		"33"
+		"review_score"		"5"
+		"review_percentage"		"42"
 	}
 	"extended"
 	{
@@ -187,18 +235,18 @@
 			{
 				"public"
 				{
-					"gid"		"5802188718487665631"
-					"size"		"706840616"
-					"download"		"447428640"
+					"gid"		"9121931378403128661"
+					"size"		"706875187"
+					"download"		"447447152"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"beta"
 				{
-					"gid"		"D45C9D5E0B9F10D5992A5788E577E9B7"
-					"size"		"23246AC5BC660386588061FCC1B11DB1"
-					"download"		"EAD5BB4E0F09388C44FFB35E86AD8AB0"
+					"gid"		"9F0A9970280BEF2EF7A5C80D97B2B8DD"
+					"size"		"80DF0994E6D44D7F328012E919BD8800"
+					"download"		"22AAAFDE72867CFD4FCB0AEBCC33AC65"
 				}
 			}
 		}
@@ -206,14 +254,14 @@
 		{
 			"public"
 			{
-				"buildid"		"12457148"
-				"timeupdated"		"1697790598"
+				"buildid"		"12812631"
+				"timeupdated"		"1702518351"
 			}
 			"beta"
 			{
-				"buildid"		"12457148"
+				"buildid"		"12812631"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697506853"
+				"timeupdated"		"1701135719"
 			}
 		}
 	}
