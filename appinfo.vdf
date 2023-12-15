@@ -30,7 +30,6 @@
 		"osextended"		""
 		"clienttga"		"934f70763341ac1bc77429a0193d342efb4c0678"
 		"clienticon"		"f3afd0ab90b34824c862d08c86b4a741d0d2749e"
-		"openvr_action_manifest_path"		"Consortium\\Config\\SteamVRBindings\\steamvr_manifest.json"
 		"openxrsupport"		"1"
 		"content_descriptors"
 		{
@@ -105,7 +104,6 @@
 		"community_visible_stats"		"1"
 		"community_hub_visible"		"1"
 		"gameid"		"1428880"
-		"onlyvrsupport"		"1"
 		"store_tags"
 		{
 			"0"		"5716"
@@ -152,6 +150,16 @@
 					"english"		"CONSORTIUM VR"
 				}
 				"description"		"CONSORTIUM VR"
+			}
+			"1"
+			{
+				"executable"		"ConsortiumGame.exe"
+				"type"		"option1"
+				"description_loc"
+				{
+					"english"		"CONSORTIUM Remastered (non-VR)"
+				}
+				"description"		"CONSORTIUM Remastered (non-VR)"
 			}
 		}
 	}
