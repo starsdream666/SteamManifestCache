@@ -6,7 +6,7 @@
 		"name"		"怠惰的怪獸公主不想工作"
 		"type"		"Game"
 		"releasestate"		"released"
-		"oslist"		"windows"
+		"oslist"		"windows,macos"
 		"osarch"		""
 		"osextended"		""
 		"icon"		"4ff496eb1f2e800664d1427071d7d18e3065a7cd"
@@ -206,8 +206,8 @@
 			"12"		"9"
 			"13"		"4182"
 			"14"		"4947"
-			"15"		"122"
-			"16"		"492"
+			"15"		"492"
+			"16"		"122"
 			"17"		"4136"
 			"18"		"1684"
 			"19"		"3942"
@@ -233,6 +233,15 @@
 					"oslist"		"windows"
 				}
 			}
+			"1"
+			{
+				"executable"		"KaijuPrincess.app/Contents/MacOS/KaijuPrincess"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
 		}
 	}
 	"depots"
@@ -240,6 +249,10 @@
 		"baselanguages"		"english,schinese,tchinese,russian,japanese"
 		"1732181"
 		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
 			"manifests"
 			{
 				"public"
@@ -257,6 +270,37 @@
 					"size"		"927358107D54439747497B18B2F87B68"
 					"download"		"8A257BDD631846305C16A71C119EC7B2"
 				}
+				"mac_test"
+				{
+					"gid"		"94E6137AC187FF3D6617B45ED1BC483E"
+					"size"		"26529A36D87B1DD2E7427EF199E28531"
+					"download"		"152D8EF9ABC99868EE9BB929D58D3A1C"
+				}
+			}
+		}
+		"1732182"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"1D7B3C2D457D218059790ACCF34DEC99"
+					"size"		"1D65E0A9A975CEC1D88C9E7B71F9D848"
+					"download"		"7C1CE992CA7F700958CFF846F00CE2B1"
+				}
+				"mac_test"
+				{
+					"gid"		"4AE2E3D1890668AD565F847DD89AB793"
+					"size"		"83FDB17FA4A51993EF8C06A773D8EF14"
+					"download"		"57DEF83936A2E46029F0C52EF8E06955"
+				}
 			}
 		}
 		"branches"
@@ -268,9 +312,15 @@
 			}
 			"beta"
 			{
-				"buildid"		"11675018"
+				"buildid"		"12865855"
 				"pwdrequired"		"1"
-				"timeupdated"		"1689084723"
+				"timeupdated"		"1701665216"
+			}
+			"mac_test"
+			{
+				"buildid"		"12846770"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701443699"
 			}
 		}
 	}
