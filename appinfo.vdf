@@ -35,32 +35,27 @@
 		"has_adult_content_violence"		"1"
 		"steam_deck_compatibility"
 		{
-			"category"		"2"
-			"test_timestamp"		"1699315200"
-			"tested_build_id"		"12464773"
+			"category"		"3"
+			"test_timestamp"		"1701302400"
+			"tested_build_id"		"12791523"
 			"tests"
 			{
 				"0"
 				{
-					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 				}
 				"1"
 				{
 					"display"		"4"
-					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
 				}
 				"2"
 				{
 					"display"		"4"
-					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
-				}
-				"3"
-				{
-					"display"		"4"
 					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
 				}
-				"4"
+				"3"
 				{
 					"display"		"4"
 					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
