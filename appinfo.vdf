@@ -31,6 +31,51 @@
 			"0"		"5"
 		}
 		"has_adult_content"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1702339200"
+			"tested_build_id"		"12780446"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+				"hdr_support"		"0"
+			}
+		}
+		"metacritic_name"		"Last Train Home"
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
@@ -51,7 +96,7 @@
 				"height_pct"		"67.8579909760152"
 			}
 		}
-		"store_asset_mtime"		"1701185264"
+		"store_asset_mtime"		"1701758797"
 		"associations"
 		{
 			"0"
@@ -152,6 +197,8 @@
 			}
 		}
 		"steam_release_date"		"1701179878"
+		"metacritic_score"		"81"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/last-train-home?ftag=MCD-06-10aaa1f"
 		"community_visible_stats"		"1"
 		"community_hub_visible"		"1"
 		"gameid"		"1469610"
@@ -162,24 +209,24 @@
 			"2"		"1676"
 			"3"		"3987"
 			"4"		"4191"
-			"5"		"6426"
-			"6"		"1616"
-			"7"		"4182"
+			"5"		"1616"
+			"6"		"4182"
+			"7"		"6426"
 			"8"		"1678"
-			"9"		"1733"
-			"10"		"4684"
-			"11"		"1662"
-			"12"		"4166"
-			"13"		"4175"
-			"14"		"5851"
-			"15"		"5382"
+			"9"		"4684"
+			"10"		"1733"
+			"11"		"5382"
+			"12"		"1662"
+			"13"		"5851"
+			"14"		"4166"
+			"15"		"4175"
 			"16"		"12472"
 			"17"		"1708"
 			"18"		"7332"
 			"19"		"6971"
 		}
-		"review_score"		"5"
-		"review_percentage"		"66"
+		"review_score"		"8"
+		"review_percentage"		"86"
 	}
 	"extended"
 	{
@@ -263,9 +310,9 @@
 			{
 				"public"
 				{
-					"gid"		"1290510189820265438"
-					"size"		"20939163918"
-					"download"		"19012511904"
+					"gid"		"2979677093288505873"
+					"size"		"20929170200"
+					"download"		"19003668320"
 				}
 			}
 			"encryptedmanifests"
@@ -302,15 +349,15 @@
 				}
 				"dailydev"
 				{
-					"gid"		"43301E4CE7B29E710169DD059E82164C"
-					"size"		"ACB91E195164539B3D48315FD209C499"
-					"download"		"27971946ED45CEE797BD8803540448E0"
+					"gid"		"A21F1F8A9C3BA711D9AC7F1694E39333"
+					"size"		"21E5C67CADAA643D12BF4567A2796B4C"
+					"download"		"FB07F972D540E474AA9AB05E277499AF"
 				}
 				"dailyship"
 				{
-					"gid"		"95AC3531DF34915BB4D768DFB85B2998"
-					"size"		"7C6B32712C666C8C2FB60C5EB3C0A382"
-					"download"		"24CB631068EAFB3048211232BB1904F5"
+					"gid"		"AB8013152970A9A38CC96DF3E4F67178"
+					"size"		"17E035DDC8FEED6DD119BA665ACE128F"
+					"download"		"DCDAD9D98BB6CF8656AB888DEE2BE046"
 				}
 				"evaluation"
 				{
@@ -366,6 +413,12 @@
 					"size"		"F10DC76D01D75598565D1E17EE3FD3DA"
 					"download"		"8871A156C6909A693391665DE22BCBF0"
 				}
+				"rcv-basegame"
+				{
+					"gid"		"ED0D72D3835654568A4E74A27CFDC878"
+					"size"		"5B52A62AC88EACE0D1EBC79950EBF3FE"
+					"download"		"78378DA2117EB456BB9EDD9D329B7309"
+				}
 				"review"
 				{
 					"gid"		"0F6E78AAA47320354D150B4B10551834"
@@ -392,15 +445,15 @@
 				}
 				"stableshipdaily"
 				{
-					"gid"		"7B51B2D00F77FE8DB4C9A66406941934"
-					"size"		"9BF957BD7B641CF12A6551B6951C2E9B"
-					"download"		"D843351436EADA13AE56BF8511DC60AD"
+					"gid"		"D044194F063C30F8C038937C4636162F"
+					"size"		"B128F7988A6A25982A37C106623B3633"
+					"download"		"FC064BF612CA992C51A306D1FA662716"
 				}
 				"testgate"
 				{
-					"gid"		"DF4120670148F182AB90A761CF35966A"
-					"size"		"56A3512DBA2BED77A9C4169BFDE44222"
-					"download"		"6187DF1C9EFE01E6DCC984FEDD9102AA"
+					"gid"		"2F7B174858E15C60A746243F96766205"
+					"size"		"B635536CDD0F90761D5DB5AEEA3A7211"
+					"download"		"B4B82E2B4ACED78F652B3C6C0BC98F63"
 				}
 			}
 		}
@@ -418,11 +471,23 @@
 			}
 			"encryptedmanifests"
 			{
+				"rcv-basegame"
+				{
+					"gid"		"64154C8B5C70711463B6C5A159A7CC69"
+					"size"		"3158CBBE9D051E74B039950149778A05"
+					"download"		"1C441361FFB2980792E9AD2FBECDDCDC"
+				}
 				"review"
 				{
 					"gid"		"F0F7C8B74A558580FA2B9F6B72610B2E"
 					"size"		"13AA1FC80D337A3509F55C813CE0ABEE"
 					"download"		"EE01B295D48979593BC76DC377624C85"
+				}
+				"stableshipdaily"
+				{
+					"gid"		"F0CD1F6B94CC10A7C742BAEB25542003"
+					"size"		"0A0F5880E2FAF774A7B45F294C7D7A0C"
+					"download"		"19CFB7D9585C435959C292D2CB91D7FF"
 				}
 			}
 		}
@@ -430,8 +495,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12780446"
-				"timeupdated"		"1700736884"
+				"buildid"		"12952504"
+				"timeupdated"		"1702562864"
 			}
 			"agerating"
 			{
@@ -465,15 +530,15 @@
 			}
 			"dailydev"
 			{
-				"buildid"		"12811962"
+				"buildid"		"12966985"
 				"pwdrequired"		"1"
-				"timeupdated"		"1701128750"
+				"timeupdated"		"1702597878"
 			}
 			"dailyship"
 			{
-				"buildid"		"12811889"
+				"buildid"		"12966926"
 				"pwdrequired"		"1"
-				"timeupdated"		"1701128111"
+				"timeupdated"		"1702597375"
 			}
 			"evaluation"
 			{
@@ -529,6 +594,12 @@
 				"pwdrequired"		"1"
 				"timeupdated"		"1695899314"
 			}
+			"rcv-basegame"
+			{
+				"buildid"		"12952504"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702484913"
+			}
 			"review"
 			{
 				"buildid"		"12780463"
@@ -555,15 +626,15 @@
 			}
 			"stableshipdaily"
 			{
-				"buildid"		"12811846"
+				"buildid"		"12952504"
 				"pwdrequired"		"1"
-				"timeupdated"		"1701127749"
+				"timeupdated"		"1702483240"
 			}
 			"testgate"
 			{
-				"buildid"		"12769135"
+				"buildid"		"12925063"
 				"pwdrequired"		"1"
-				"timeupdated"		"1700655487"
+				"timeupdated"		"1702301957"
 			}
 		}
 	}
