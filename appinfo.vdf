@@ -3,7 +3,7 @@
 	"appid"		"520950"
 	"common"
 	{
-		"name"		"DRIFTCE"
+		"name"		"DRIFT CE"
 		"type"		"Game"
 		"releasestate"		"released"
 		"logo"		"aa9c92937d11633acde336b32f95179b2f0aee74"
@@ -16,30 +16,30 @@
 		"osextended"		""
 		"steam_deck_compatibility"
 		{
-			"category"		"2"
-			"test_timestamp"		"1648080000"
-			"tested_build_id"		"7770414"
+			"category"		"3"
+			"test_timestamp"		"1697587200"
+			"tested_build_id"		"12060102"
 			"tests"
 			{
 				"0"
 				{
-					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 				}
 				"1"
 				{
 					"display"		"4"
-					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
 				}
 				"2"
 				{
 					"display"		"4"
-					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
 				}
 				"3"
 				{
 					"display"		"4"
-					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 				}
 			}
 			"configuration"
@@ -52,7 +52,7 @@
 				"small_text"		"0"
 				"requires_internet_for_setup"		"0"
 				"requires_internet_for_singleplayer"		"0"
-				"recommended_runtime"		"proton-stable"
+				"recommended_runtime"		"proton-8.0-4"
 				"requires_h264"		"0"
 				"gamescope_frame_limiter_not_supported"		"0"
 			}
@@ -191,8 +191,8 @@
 			"1"		"599"
 			"2"		"1100687"
 			"3"		"1644"
-			"4"		"701"
-			"5"		"3859"
+			"4"		"3859"
+			"5"		"701"
 			"6"		"4175"
 			"7"		"4182"
 			"8"		"1643"
@@ -236,6 +236,7 @@
 	}
 	"depots"
 	{
+		"hasdepotsindlc"		"0"
 		"520951"
 		{
 			"config"
@@ -255,15 +256,21 @@
 			{
 				"dailybuilds"
 				{
-					"gid"		"F47BEC49F88365DDBF433A8EB3CD1C4D"
-					"size"		"887AA0DD517458E694877E1CE4D5B0CA"
-					"download"		"4B2C0ABAC2D0F270724CBC6AC3FC9BAF"
+					"gid"		"B5A6C485ABBE06490736C1606BC69EFC"
+					"size"		"A2C83DD418D7A18801E5EFB4648AEF30"
+					"download"		"A3797584591A69A7539E87A0D74F5342"
 				}
 				"ea_branch"
 				{
-					"gid"		"8EC90F9253A2BB346137F1E3473EB97E"
-					"size"		"D1C51DEE78734343D4EE7FC1F0D41DD0"
-					"download"		"74DE00F48B41693D27DF7E93C72CF721"
+					"gid"		"0632FBA5F4CA7E76CAD1AEF7567E7FD7"
+					"size"		"EBCB24220908376A1BA041739B344568"
+					"download"		"EFEB61E36033D74233BBC5F165581DCA"
+				}
+				"weekly"
+				{
+					"gid"		"0E60D5CE97BDB1FC64B979D09E83935E"
+					"size"		"1515107D76F422A0C4A13DECBAC98F4D"
+					"download"		"C945830BF942CDF03A8BCD8254D1496A"
 				}
 				"wer0.8"
 				{
@@ -315,9 +322,15 @@
 				}
 				"wer1.6"
 				{
-					"gid"		"35CE6EF1B403371E2877597B4D51B19D"
-					"size"		"2C0946840CC722E438009CEB1C4131DE"
-					"download"		"B2058DC39FB000DCAB050F7EA8F7C30E"
+					"gid"		"00D2EA561491116FC6A128B02A87CC65"
+					"size"		"F127B40F6044641071E68E951EA0F773"
+					"download"		"A041B6C17EA12D10661D3678491317E1"
+				}
+				"wer1.7"
+				{
+					"gid"		"39DDA715889AD6EE7369448519399C74"
+					"size"		"3062F0387735BA47405B3F1CEB6B1BBD"
+					"download"		"28002B224C9EDE620DD6BBA1DD2C1F55"
 				}
 			}
 		}
@@ -328,6 +341,10 @@
 				"oslist"		"windows"
 			}
 		}
+		"2738250"
+		{
+			"dlcappid"		"2738250"
+		}
 		"branches"
 		{
 			"public"
@@ -337,15 +354,21 @@
 			}
 			"dailybuilds"
 			{
-				"buildid"		"12415240"
+				"buildid"		"12942792"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697039778"
+				"timeupdated"		"1702403680"
 			}
 			"ea_branch"
 			{
-				"buildid"		"12415240"
+				"buildid"		"12808897"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697039856"
+				"timeupdated"		"1701102400"
+			}
+			"weekly"
+			{
+				"buildid"		"12841534"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701366641"
 			}
 			"wer0.8"
 			{
@@ -397,9 +420,15 @@
 			}
 			"wer1.6"
 			{
-				"buildid"		"12315388"
+				"buildid"		"12808897"
 				"pwdrequired"		"1"
-				"timeupdated"		"1695983121"
+				"timeupdated"		"1701102392"
+			}
+			"wer1.7"
+			{
+				"buildid"		"12841534"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701366630"
 			}
 		}
 	}
