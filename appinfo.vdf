@@ -35,8 +35,8 @@
 		{
 			"0"		"1"
 			"1"		"3"
-			"2"		"5"
-			"3"		"4"
+			"2"		"4"
+			"3"		"5"
 		}
 		"has_adult_content"		"1"
 		"has_adult_content_sex"		"1"
@@ -69,6 +69,7 @@
 				"gamescope_frame_limiter_not_supported"		"0"
 			}
 		}
+		"controllertagwizard"		"1"
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
@@ -89,7 +90,7 @@
 				"height_pct"		"92.0138888888889"
 			}
 		}
-		"store_asset_mtime"		"1662479968"
+		"store_asset_mtime"		"1702402334"
 		"associations"
 		{
 			"0"
@@ -191,6 +192,21 @@
 				"supported"		"true"
 				"subtitles"		"true"
 			}
+			"czech"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
 		}
 		"steam_release_date"		"1660913077"
 		"community_visible_stats"		"1"
@@ -205,8 +221,8 @@
 			"4"		"3799"
 			"5"		"9130"
 			"6"		"4175"
-			"7"		"4947"
-			"8"		"6426"
+			"7"		"6426"
+			"8"		"4947"
 			"9"		"9551"
 			"10"		"1742"
 			"11"		"4182"
@@ -229,6 +245,8 @@
 		"developer"		"Oppai-Man"
 		"publisher"		"Oppai-Man"
 		"homepage"		"https://www.freshwomen.net/"
+		"listofdlc"		"2691310"
+		"dlcavailableonstore"		"1"
 	}
 	"config"
 	{
@@ -262,7 +280,7 @@
 			"2851357286"
 			{
 				"controller_type"		"controller_mobile_touch"
-				"enabled_branches"		"default"
+				"enabled_branches"		"default,develop"
 				"use_action_block"		"false"
 			}
 		}
@@ -276,18 +294,18 @@
 			{
 				"public"
 				{
-					"gid"		"6852489138485238959"
-					"size"		"4838376382"
-					"download"		"4650358224"
+					"gid"		"6228640165433562534"
+					"size"		"3725792562"
+					"download"		"3624264704"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"develop"
 				{
-					"gid"		"585776FC33F1B14A8BC733D2703263F1"
-					"size"		"781FD7D437A310C3BA7D91574BE1DDC3"
-					"download"		"347B885B88B2BEA22A6DED0ECAD21027"
+					"gid"		"823AC605077B3CFA1A9C9DA970DB325B"
+					"size"		"2423FA95970D8E36C721783876B1A9E7"
+					"download"		"FC67A105C2E080632AD62111E88635A5"
 				}
 			}
 		}
@@ -295,14 +313,14 @@
 		{
 			"public"
 			{
-				"buildid"		"9517981"
-				"timeupdated"		"1663255304"
+				"buildid"		"12955533"
+				"timeupdated"		"1702590004"
 			}
 			"develop"
 			{
-				"buildid"		"9517981"
+				"buildid"		"12973192"
 				"pwdrequired"		"1"
-				"timeupdated"		"1663191033"
+				"timeupdated"		"1702650454"
 			}
 		}
 	}
