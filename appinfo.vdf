@@ -36,6 +36,34 @@
 			"arabic"		"1"
 			"brazilian"		"1"
 		}
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1700784000"
+			"tested_build_id"		"12659854"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
 		"controllertagwizard"		"1"
 		"controller_support"		"full"
 		"small_capsule"
@@ -68,7 +96,7 @@
 				"height_pct"		"61.3387552614122"
 			}
 		}
-		"store_asset_mtime"		"1700668748"
+		"store_asset_mtime"		"1701964484"
 		"associations"
 		{
 			"0"
@@ -195,7 +223,7 @@
 			"8"		"4085"
 		}
 		"review_score"		"6"
-		"review_percentage"		"74"
+		"review_percentage"		"76"
 	}
 	"extended"
 	{
@@ -287,15 +315,15 @@
 				}
 				"test"
 				{
-					"gid"		"E45FDC2DAD3FFA687CD2BD1DC396204C"
-					"size"		"D4EF558B7EFAE8109D92C2FC249CA863"
-					"download"		"689665202AE8A2FAD69D87964A7CE686"
+					"gid"		"DFDF8EB9215E4CF06874370F3F4397C3"
+					"size"		"56A802B07977C52913016BE70E33CC2E"
+					"download"		"BFF12775D65A42BE304B12E41C8C43BE"
 				}
 				"test2"
 				{
-					"gid"		"937F4E939EFE32919679C09E0B9C137D"
-					"size"		"AC562FEBD9344C923254C393309EA391"
-					"download"		"0CD85695A54F8021527EBBFA06283D5E"
+					"gid"		"A28F8C6D0E93D6B0CCE6BFA869A6855D"
+					"size"		"58F0DD777EAB5C30B5EBF12D53961169"
+					"download"		"8BB024C5926C99991AC927EFFB4916D7"
 				}
 			}
 		}
@@ -332,15 +360,15 @@
 			}
 			"test"
 			{
-				"buildid"		"12771692"
+				"buildid"		"12914980"
 				"pwdrequired"		"1"
-				"timeupdated"		"1700661536"
+				"timeupdated"		"1702068235"
 			}
 			"test2"
 			{
-				"buildid"		"12771918"
+				"buildid"		"12867511"
 				"pwdrequired"		"1"
-				"timeupdated"		"1700662936"
+				"timeupdated"		"1701683253"
 			}
 		}
 	}
