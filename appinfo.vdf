@@ -1,0 +1,285 @@
+"appinfo"
+{
+	"appid"		"2022980"
+	"common"
+	{
+		"name"		"Slap Fight"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64,macosapplesilicon"
+		"icon"		"ba9cea00efaf9f4174e048a283ed444de9626fe2"
+		"clienttga"		"a26415cc6a523e2b85d3913df6ceb0a6e4a11633"
+		"clienticon"		"b417df46a9db63017016f20d8bd2334f02fc92db"
+		"releasestate"		"released"
+		"controllertagwizard"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+		}
+		"store_asset_mtime"		"1692888888"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Bitwave Games"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Toaplan"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Bitwave Games"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Toaplan Arcade Collection"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_44"		"1"
+			"category_28"		"1"
+			"category_15"		"1"
+			"category_25"		"1"
+			"category_55"		"1"
+			"category_56"		"1"
+			"category_57"		"1"
+			"category_58"		"1"
+			"category_59"		"1"
+			"category_60"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1692880179"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2022980"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"1773"
+			"2"		"4255"
+			"3"		"3871"
+			"4"		"4004"
+			"5"		"7481"
+			"6"		"5154"
+			"7"		"4182"
+		}
+		"review_score"		"7"
+		"review_percentage"		"81"
+	}
+	"extended"
+	{
+		"developer"		"Bitwave Games"
+		"publisher"		"Bitwave Games"
+		"homepage"		"https://www.bitwavegames.com/games/slap-fight"
+	}
+	"config"
+	{
+		"installdir"		"Slap Fight"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SlapFight.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"SlapFight.x64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"2"
+			{
+				"executable"		"SlapFight.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+				"description_loc"
+				{
+					"english"		"New MacOS .app executable"
+				}
+				"description"		"New MacOS .app executable"
+			}
+		}
+		"steamcontrollertemplateindex"		"13"
+		"steamdecktouchscreen"		"5"
+		"steaminputmanifestpath"		"steam_input_manifest.vdf"
+		"steamconfigurator3rdpartynative"		"65535"
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2022981"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6247382078891417144"
+					"size"		"2449874"
+					"download"		"1923600"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"D13B64E4E2A229614C2479C448640BA1"
+					"size"		"FF0A5B18769D361770406B91E6658FEC"
+					"download"		"917E525C5D762EC12FD61A84E62AEBC2"
+				}
+			}
+		}
+		"2022982"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5379011400590750359"
+					"size"		"4206805"
+					"download"		"1656448"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"885DA7EBDA3CA37FDCC5A07DDCE440A0"
+					"size"		"C8C5F4AE48B0391AB9546F6126B2AF33"
+					"download"		"A13A7DA7CA3DBE2396A21119EB2236ED"
+				}
+			}
+		}
+		"2022983"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4047220047721899544"
+					"size"		"2882598"
+					"download"		"1312832"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"AA284E6E5B0A29F6FEF0B2260F92C7E4"
+					"size"		"45853E59E78F37498F6FD9A041E87100"
+					"download"		"4D253380AC9EF9C1F5F47261435C9FB6"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12927742"
+				"timeupdated"		"1702469601"
+			}
+			"test"
+			{
+				"buildid"		"12927742"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702287333"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinSavedGames"
+				"path"		"Slap Fight/{64BitSteamID}"
+				"pattern"		"*"
+				"recursive"		"1"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinSavedGames"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacHome"
+				"addpath"		"/SavedGames/"
+			}
+			"1"
+			{
+				"root"		"WinSavedGames"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxHome"
+				"addpath"		"SavedGames/"
+			}
+		}
+	}
+}
