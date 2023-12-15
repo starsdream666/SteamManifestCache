@@ -91,11 +91,11 @@
 			"logo_position"
 			{
 				"pinned_position"		"CenterCenter"
-				"width_pct"		"95.00276098912377"
-				"height_pct"		"79.16681656683079"
+				"width_pct"		"100"
+				"height_pct"		"100"
 			}
 		}
-		"store_asset_mtime"		"1695392421"
+		"store_asset_mtime"		"1702578101"
 		"associations"
 		{
 			"0"
@@ -201,14 +201,15 @@
 			"19"		"30358"
 		}
 		"review_score"		"8"
-		"review_percentage"		"80"
+		"review_percentage"		"82"
 	}
 	"extended"
 	{
 		"developer"		"Phoenix Labs"
 		"publisher"		"Phoenix Labs"
 		"homepage"		"https://fae.farm/42wj4ZW"
-		"listofdlc"		"2480120"
+		"listofdlc"		"2480120,2673180"
+		"dlcavailableonstore"		"1"
 	}
 	"config"
 	{
@@ -277,54 +278,66 @@
 			{
 				"public"
 				{
-					"gid"		"2702045672549471822"
-					"size"		"2697622702"
-					"download"		"2140472784"
+					"gid"		"1059404344423432673"
+					"size"		"2590799954"
+					"download"		"2177421392"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"blargle"
 				{
-					"gid"		"2FB2C2A90ECF94ADF91E8FBB68E3725F"
-					"size"		"8D21FD8D4A8E1FC1096E473070D84C48"
-					"download"		"5B634AC4814AC0377AC88F6BD8344049"
+					"gid"		"6A6EE27A87FFFFC3106BA4CA02B3807F"
+					"size"		"B2551D5AA4636B3343757E1815CACA0D"
+					"download"		"B953B1D125BB2DB4D375B818888BCC28"
 				}
-				"fornintendo"
+				"default-test"
 				{
-					"gid"		"6F2E8E110A4BAA16A9C75B89B05F85A6"
-					"size"		"2E166BE51B3792CFE628ECC171BC60BC"
-					"download"		"3E1CE056BA97E403327D8EF7D0238B12"
+					"gid"		"82F833D5DDDADDEEC6C130591A600B46"
+					"size"		"343E3AE30656F897322603E74A8DDE42"
+					"download"		"BB595DF9C048EDF9F1796C5579FA3EC7"
 				}
-				"mainline"
+				"pendingforlive-shipping"
 				{
-					"gid"		"D5C7D99E5D2CC538707E0EA9C20D9FCC"
-					"size"		"67E4EE4A5122ED6C3C4C7965466855E0"
-					"download"		"F5F90F44B886AAC91A1B858A9B30547A"
-				}
-				"pendingforlive"
-				{
-					"gid"		"28449D34AD15AB8F9555F5775B3CBA8F"
-					"size"		"B699F08EB931135A5E6F7913A291AF66"
-					"download"		"7E68133FC69B0934651C2024627454A6"
+					"gid"		"183B2DB62A6DBC28BB5307DD17ED67F1"
+					"size"		"1400DC1C425CBCE4FBE52ED2549B0383"
+					"download"		"45451C61CDCD7FF348E594FFA1D395F2"
 				}
 				"pendingforlive-test"
 				{
-					"gid"		"AEE2E235BB00C67E2E05CC3BD76A86E4"
-					"size"		"DFDD1F7816A8086E0B7C9CDA1EA0A500"
-					"download"		"16B5ECCD4C98A7CCA54A807863300295"
+					"gid"		"932B5F5DB5E4365D4E9E3502C2A8F00A"
+					"size"		"CA0EE9824C20B308E1DF7EDEFA97163A"
+					"download"		"08264E88DECEA77978E18313C7CD5281"
+				}
+				"press"
+				{
+					"gid"		"A70A92EE42C44B9C978182891FF21C6C"
+					"size"		"A33389CB4312E531D415DC3E44616218"
+					"download"		"12622FC901E33945160403B210BA3EDA"
 				}
 				"shipping"
 				{
-					"gid"		"3617B83E76491B0F411CD6F68B38CDC6"
-					"size"		"61E742D236A23EA1FB82F3F0AB69D267"
-					"download"		"B9B06B39EA0140C9BA09258165B28062"
+					"gid"		"81D58FE367FCE24442EFA8AA1E652D21"
+					"size"		"638A40BCFA429690297C49DF78045CAC"
+					"download"		"C462BF14BFC304AA3E5A50250BDB8BD9"
+				}
+				"staging-shipping"
+				{
+					"gid"		"75EFBAD0CA070087DCE0EC3371B1FE99"
+					"size"		"4C69FD4325969C86CADEC6EF95B62A19"
+					"download"		"AC6DC8BCCF68FE3F75847C558CC9C222"
+				}
+				"staging-test"
+				{
+					"gid"		"ACC356A56885A3CFC45EAC983FD4C90F"
+					"size"		"401AE3EC0BF2DBF9B8954D3FCCAAC513"
+					"download"		"C34F361A5EC89B1CE9EF3ECC92C28390"
 				}
 				"test"
 				{
-					"gid"		"262188DBE35ADFAB5920EDF071204A08"
-					"size"		"8E2A69B0DB9251B6D2537A20881FDACC"
-					"download"		"73F3F6CBAF040FA7EEA18AECFE012614"
+					"gid"		"B2EFBFA813101FDFFF76FCD4B3F3FDB9"
+					"size"		"85C56A501DF78D59727F390C3C5A0D87"
+					"download"		"79D391BB2169F6E6B1035C04136B43A2"
 				}
 			}
 		}
@@ -333,50 +346,62 @@
 		{
 			"public"
 			{
-				"buildid"		"12723740"
-				"timeupdated"		"1700160727"
+				"buildid"		"12966919"
+				"timeupdated"		"1702605212"
 			}
 			"blargle"
 			{
-				"buildid"		"12606379"
+				"buildid"		"12884589"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698962445"
+				"timeupdated"		"1701884984"
 			}
-			"fornintendo"
+			"default-test"
 			{
-				"buildid"		"11863356"
+				"buildid"		"12933542"
 				"pwdrequired"		"1"
-				"timeupdated"		"1691116232"
+				"timeupdated"		"1702331443"
 			}
-			"mainline"
+			"pendingforlive-shipping"
 			{
-				"buildid"		"11999798"
+				"buildid"		"12966919"
 				"pwdrequired"		"1"
-				"timeupdated"		"1692679699"
-			}
-			"pendingforlive"
-			{
-				"buildid"		"12723740"
-				"pwdrequired"		"1"
-				"timeupdated"		"1700236403"
+				"timeupdated"		"1702598483"
 			}
 			"pendingforlive-test"
 			{
-				"buildid"		"12723740"
+				"buildid"		"12966906"
 				"pwdrequired"		"1"
-				"timeupdated"		"1700236322"
+				"timeupdated"		"1702598517"
+			}
+			"press"
+			{
+				"buildid"		"12844030"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702335174"
 			}
 			"shipping"
 			{
-				"buildid"		"12726260"
+				"buildid"		"12966919"
 				"pwdrequired"		"1"
-				"timeupdated"		"1700183292"
+				"timeupdated"		"1702597315"
+			}
+			"staging-shipping"
+			{
+				"buildid"		"12957095"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702519845"
+			}
+			"staging-test"
+			{
+				"buildid"		"12957080"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702519749"
 			}
 			"test"
 			{
-				"buildid"		"12726243"
+				"buildid"		"12966906"
 				"pwdrequired"		"1"
-				"timeupdated"		"1700183190"
+				"timeupdated"		"1702597225"
 			}
 		}
 	}
