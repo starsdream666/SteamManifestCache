@@ -6,14 +6,14 @@
 		"name"		"Rogue Glitch Ultra"
 		"type"		"Game"
 		"oslist"		"windows,macos"
-		"osarch"		""
+		"osarch"		"64"
 		"logo"		"6b1af4ad91de2ad8347f633e7e4f5b09baaeade2"
 		"logo_small"		"6b1af4ad91de2ad8347f633e7e4f5b09baaeade2_thumb"
 		"icon"		"76cd1f572772b46aabb5ff9bf5be1f490ef7ba65"
 		"clienttga"		"3a04cb76a5c40925af7dfcc436bbc15bdbead73f"
 		"clienticon"		"766c849c18ce6e88c457fcce31c375b2523457ef"
 		"releasestate"		"released"
-		"osextended"		"macos64"
+		"osextended"		"macos64,macosapplesilicon,macosnotarized"
 		"languages"
 		{
 			"english"		"1"
@@ -129,7 +129,6 @@
 			"category_24"		"1"
 			"category_23"		"1"
 			"category_28"		"1"
-			"category_44"		"1"
 			"category_22"		"1"
 			"category_55"		"1"
 			"category_56"		"1"
@@ -228,7 +227,7 @@
 	{
 		"developer"		"Lino Slahuschek"
 		"publisher"		"Rarebyte"
-		"listofdlc"		"1567970"
+		"listofdlc"		"1567970,2698210"
 		"dlcavailableonstore"		"1"
 	}
 	"config"
@@ -247,12 +246,17 @@
 			}
 			"1"
 			{
-				"executable"		"Mac.app"
-				"type"		"default"
+				"executable"		"RogueGlitch.app"
+				"type"		"option1"
 				"config"
 				{
 					"oslist"		"macos"
 				}
+				"description_loc"
+				{
+					"english"		"Rogue Glitch Ultra"
+				}
+				"description"		"Rogue Glitch Ultra"
 			}
 			"2"
 			{
@@ -264,6 +268,20 @@
 				{
 					"oslist"		"windows"
 				}
+			}
+			"3"
+			{
+				"executable"		"Mac.app"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+				"description_loc"
+				{
+					"english"		"Rogue Glitch (Legacy)"
+				}
+				"description"		"Rogue Glitch (Legacy)"
 			}
 		}
 		"steamcontrollertemplateindex"		"4"
@@ -337,15 +355,15 @@
 			{
 				"public"
 				{
-					"gid"		"2643590407652565786"
-					"size"		"295143084"
-					"download"		"141189232"
+					"gid"		"8670692447482439129"
+					"size"		"295156916"
+					"download"		"141320240"
 				}
 				"beta"
 				{
-					"gid"		"2643590407652565786"
-					"size"		"295143084"
-					"download"		"141189232"
+					"gid"		"8670692447482439129"
+					"size"		"295156916"
+					"download"		"141320240"
 				}
 				"legacy"
 				{
@@ -365,15 +383,15 @@
 			{
 				"public"
 				{
-					"gid"		"6395671259384542841"
+					"gid"		"1398543443767627480"
 					"size"		"295143084"
-					"download"		"141189296"
+					"download"		"141191536"
 				}
 				"beta"
 				{
-					"gid"		"6395671259384542841"
+					"gid"		"1398543443767627480"
 					"size"		"295143084"
-					"download"		"141189296"
+					"download"		"141191536"
 				}
 				"legacy"
 				{
@@ -383,18 +401,40 @@
 				}
 			}
 		}
+		"1092634"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3568773434975297074"
+					"size"		"331141503"
+					"download"		"149527744"
+				}
+				"beta"
+				{
+					"gid"		"3568773434975297074"
+					"size"		"331141503"
+					"download"		"149527744"
+				}
+			}
+		}
 		"branches"
 		{
 			"public"
 			{
-				"buildid"		"12707655"
-				"timeupdated"		"1700047855"
+				"buildid"		"12892577"
+				"timeupdated"		"1702411360"
 			}
 			"beta"
 			{
-				"buildid"		"12707655"
+				"buildid"		"12892577"
 				"description"		"Beta"
-				"timeupdated"		"1700038094"
+				"timeupdated"		"1701886049"
 			}
 			"legacy"
 			{
@@ -407,38 +447,31 @@
 	"ufs"
 	{
 		"quota"		"100000"
-		"maxnumfiles"		"1"
+		"maxnumfiles"		"10"
 		"savefiles"
 		{
 			"0"
 			{
 				"root"		"gameinstall"
-				"path"		"."
-				"pattern"		"*SaveData.glitch"
-				"platforms"
-				{
-					"1"		"Windows"
-				}
+				"path"		""
+				"pattern"		"SaveData.glitch"
 			}
 			"1"
 			{
 				"root"		"WinAppDataLocalLow"
-				"path"		"LinosGames/RogueGlitch/."
-				"pattern"		"*.glitch"
-				"platforms"
-				{
-					"1"		"Windows"
-				}
+				"path"		"LinosGames/Rogue Glitch Ultra"
+				"pattern"		"SaveData__Deluxe.glitch"
 			}
-			"2"
+		}
+		"rootoverrides"
+		{
+			"0"
 			{
-				"root"		"MacAppSupport"
-				"path"		"LinosGames/RogueGlitch/."
-				"pattern"		"*.glitch"
-				"platforms"
-				{
-					"1"		"MacOS"
-				}
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"addpath"		""
 			}
 		}
 	}
