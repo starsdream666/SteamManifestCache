@@ -70,7 +70,8 @@
 				"gamescope_frame_limiter_not_supported"		"0"
 			}
 		}
-		"controller_support"		"full"
+		"controllertagwizard"		"1"
+		"controller_support"		"partial"
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
@@ -118,10 +119,10 @@
 		{
 			"category_2"		"1"
 			"category_22"		"1"
-			"category_28"		"1"
 			"category_23"		"1"
 			"category_25"		"1"
 			"category_30"		"1"
+			"category_18"		"1"
 		}
 		"supported_languages"
 		{
@@ -309,14 +310,20 @@
 					"size"		"744368183"
 					"download"		"133383568"
 				}
+				"rg0.9_beta"
+				{
+					"gid"		"140210977040882594"
+					"size"		"1429270763"
+					"download"		"302804720"
+				}
 			}
 			"encryptedmanifests"
 			{
 				"indevbeta"
 				{
-					"gid"		"2EDAC1DEC8C32E88499938DC28B3330F"
-					"size"		"561EA043CCC8310FEB5E6C02D233384F"
-					"download"		"D2600AE3CCF5BEF95370D7EB457E48BC"
+					"gid"		"BB6AFDEF34801A5AA24F325D91EE00DA"
+					"size"		"0E970D260E84FFCFEC7C9A885026EE87"
+					"download"		"833284180AAD251C2A4E4B322A34D5A3"
 				}
 			}
 		}
@@ -346,6 +353,12 @@
 					"gid"		"4041459143321850820"
 					"size"		"455413831"
 					"download"		"129249216"
+				}
+				"rg0.9_beta"
+				{
+					"gid"		"3155117408550135962"
+					"size"		"544480519"
+					"download"		"203104128"
 				}
 			}
 			"encryptedmanifests"
@@ -377,9 +390,9 @@
 			}
 			"indevbeta"
 			{
-				"buildid"		"12160128"
+				"buildid"		"12911807"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694443226"
+				"timeupdated"		"1702043747"
 			}
 			"rg0.6"
 			{
@@ -398,6 +411,12 @@
 				"buildid"		"11356759"
 				"description"		"(OLD) Version 0.8"
 				"timeupdated"		"1693318185"
+			}
+			"rg0.9_beta"
+			{
+				"buildid"		"12911807"
+				"description"		"Beta for 0.9.1 - Back-up yours save"
+				"timeupdated"		"1702043781"
 			}
 		}
 	}
