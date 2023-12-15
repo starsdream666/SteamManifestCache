@@ -12,6 +12,45 @@
 		"oslist"		"windows"
 		"osarch"		""
 		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1702339200"
+			"tested_build_id"		"12909858"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"1"
+				"hdr_support"		"0"
+			}
+		}
 		"controllertagwizard"		"1"
 		"controller_support"		"full"
 		"small_capsule"
@@ -156,8 +195,8 @@
 			"3"		"552282"
 			"4"		"1664"
 			"5"		"97376"
-			"6"		"597"
-			"7"		"4726"
+			"6"		"4726"
+			"7"		"597"
 			"8"		"1654"
 			"9"		"4195"
 			"10"		"6815"
@@ -211,15 +250,15 @@
 			{
 				"public"
 				{
-					"gid"		"8213260220094149875"
-					"size"		"72840626"
-					"download"		"51769008"
+					"gid"		"5514959053419332148"
+					"size"		"72840752"
+					"download"		"51769200"
 				}
 				"test"
 				{
-					"gid"		"8349356055196947027"
-					"size"		"72822066"
-					"download"		"51757808"
+					"gid"		"5514959053419332148"
+					"size"		"72840752"
+					"download"		"51769200"
 				}
 			}
 		}
@@ -227,14 +266,14 @@
 		{
 			"public"
 			{
-				"buildid"		"12909858"
-				"timeupdated"		"1702030931"
+				"buildid"		"12969400"
+				"timeupdated"		"1702622985"
 			}
 			"test"
 			{
-				"buildid"		"12866280"
+				"buildid"		"12969400"
 				"description"		"testing"
-				"timeupdated"		"1701670972"
+				"timeupdated"		"1702622389"
 			}
 		}
 	}
