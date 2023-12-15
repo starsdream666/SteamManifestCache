@@ -126,8 +126,8 @@
 			"5"		"4726"
 			"6"		"4172"
 			"7"		"1684"
-			"8"		"5608"
-			"9"		"12095"
+			"8"		"12095"
+			"9"		"5608"
 			"10"		"4057"
 			"11"		"4604"
 			"12"		"1773"
@@ -140,7 +140,7 @@
 			"19"		"4182"
 		}
 		"review_score"		"5"
-		"review_percentage"		"60"
+		"review_percentage"		"59"
 	}
 	"extended"
 	{
@@ -221,6 +221,27 @@
 				"buildid"		"8073933"
 				"pwdrequired"		"1"
 				"timeupdated"		"1643020947"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000000"
+		"maxnumfiles"		"10000"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"C:\\Users\\MWGame\\AppData\\LocalLow\\LovelyGames\\TwinsEdge"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
 			}
 		}
 	}
