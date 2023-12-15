@@ -31,15 +31,50 @@
 		"type"		"game"
 		"steam_deck_compatibility"
 		{
-			"category"		"1"
-			"test_timestamp"		"1645488000"
+			"category"		"2"
+			"test_timestamp"		"1700265600"
 			"tested_build_id"		"296320"
 			"tests"
 			{
 				"0"
 				{
-					"display"		"2"
-					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_GamepadNotEnabledByDefault"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"5"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"6"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+				}
+				"7"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
 				}
 			}
 			"configuration"
@@ -52,12 +87,14 @@
 				"small_text"		"0"
 				"requires_internet_for_setup"		"0"
 				"requires_internet_for_singleplayer"		"1"
-				"recommended_runtime"		"proton-stable"
+				"recommended_runtime"		"proton-experimental"
 				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
 			}
 		}
 		"metacritic_name"		"FINAL FANTASY VIII"
-		"controller_support"		"partial"
+		"controllertagwizard"		"1"
+		"controller_support"		"full"
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
@@ -106,10 +143,12 @@
 		{
 			"category_2"		"1"
 			"category_22"		"1"
-			"category_18"		"1"
 			"category_23"		"1"
 			"category_41"		"1"
 			"category_42"		"1"
+			"category_28"		"1"
+			"category_55"		"1"
+			"category_60"		"1"
 		}
 		"supported_languages"
 		{
@@ -146,8 +185,8 @@
 			"3"		"4182"
 			"4"		"1756"
 			"5"		"1677"
-			"6"		"1742"
-			"7"		"1684"
+			"6"		"1684"
+			"7"		"1742"
 			"8"		"1666"
 			"9"		"3942"
 			"10"		"21"
