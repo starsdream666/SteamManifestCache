@@ -14,6 +14,20 @@
 		"icon"		"4b4a36bf9336536a0f0b06d0b080cd13eae2008f"
 		"clienttga"		"d37e20df4fe4760c17d9941f3aba37185ea3a8e5"
 		"clienticon"		"a2627d7c80e11cb2e7bcb3cafcbf60142e76c643"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"japanese"		"1"
+			"portuguese"		"1"
+		}
+		"controllertagwizard"		"1"
 		"controller_support"		"full"
 		"small_capsule"
 		{
@@ -35,7 +49,7 @@
 				"height_pct"		"73.75887373152055"
 			}
 		}
-		"store_asset_mtime"		"1681434819"
+		"store_asset_mtime"		"1702559472"
 		"associations"
 		{
 			"0"
@@ -56,7 +70,6 @@
 			"1"		"25"
 			"2"		"4"
 			"3"		"23"
-			"4"		"70"
 		}
 		"category"
 		{
@@ -97,19 +110,35 @@
 			{
 				"supported"		"true"
 			}
+			"french"
+			{
+				"supported"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
 		}
-		"steam_release_date"		"1678946326"
+		"steam_release_date"		"1702569024"
 		"community_visible_stats"		"1"
 		"community_hub_visible"		"1"
 		"gameid"		"1851610"
 		"store_tags"
 		{
 			"0"		"21"
-			"1"		"19"
-			"2"		"1685"
+			"1"		"1685"
+			"2"		"19"
 			"3"		"4106"
-			"4"		"1625"
-			"5"		"5395"
+			"4"		"5395"
+			"5"		"1625"
 			"6"		"4191"
 			"7"		"4726"
 			"8"		"4305"
@@ -126,7 +155,7 @@
 			"19"		"3841"
 		}
 		"review_score"		"7"
-		"review_percentage"		"94"
+		"review_percentage"		"95"
 	}
 	"extended"
 	{
@@ -135,6 +164,8 @@
 		"developer"		"Kid Onion Studio"
 		"publisher"		"GRAVITY GAME ARISE Co., Ltd."
 		"homepage"		"https://www.rivertailsthegame.com/"
+		"listofdlc"		"2691690"
+		"dlcavailableonstore"		"1"
 	}
 	"config"
 	{
@@ -156,6 +187,7 @@
 	"depots"
 	{
 		"baselanguages"		"english"
+		"hasdepotsindlc"		"1"
 		"1851611"
 		{
 			"config"
@@ -166,9 +198,9 @@
 			{
 				"public"
 				{
-					"gid"		"8563052641739057929"
-					"size"		"2691781042"
-					"download"		"2442431280"
+					"gid"		"6336317274212526751"
+					"size"		"4094952768"
+					"download"		"3468254384"
 				}
 			}
 			"encryptedmanifests"
@@ -181,9 +213,9 @@
 				}
 				"test"
 				{
-					"gid"		"9BB946F051710F67558B8F5796F4537E"
-					"size"		"1540A028FAC1BC00A8618263790C4E66"
-					"download"		"699C0E8C4B8069B0A698F72F8CBA63DB"
+					"gid"		"BC24FE39C7C4D11ACA5EC29F8A3BBA45"
+					"size"		"A8AAA05099EDB0F6F290C2730E2BDC3C"
+					"download"		"C420B6834B5AB133BB6929974C2F80D4"
 				}
 			}
 		}
@@ -197,9 +229,9 @@
 			{
 				"public"
 				{
-					"gid"		"4070035312830553125"
-					"size"		"2691781042"
-					"download"		"2442431280"
+					"gid"		"7573202135776560651"
+					"size"		"4094952768"
+					"download"		"3468254384"
 				}
 			}
 			"encryptedmanifests"
@@ -212,9 +244,9 @@
 				}
 				"test"
 				{
-					"gid"		"527ADC010AABFE5F50F43F2BA72AC0B2"
-					"size"		"1540A028FAC1BC00A8618263790C4E66"
-					"download"		"699C0E8C4B8069B0A698F72F8CBA63DB"
+					"gid"		"FB2B94BE83D06CCAB47F83E4966188F1"
+					"size"		"A8AAA05099EDB0F6F290C2730E2BDC3C"
+					"download"		"C420B6834B5AB133BB6929974C2F80D4"
 				}
 			}
 		}
@@ -229,8 +261,8 @@
 		{
 			"public"
 			{
-				"buildid"		"11520412"
-				"timeupdated"		"1688025998"
+				"buildid"		"12957355"
+				"timeupdated"		"1702568977"
 			}
 			"closedbeta"
 			{
@@ -240,9 +272,9 @@
 			}
 			"test"
 			{
-				"buildid"		"11520412"
+				"buildid"		"12957355"
 				"pwdrequired"		"1"
-				"timeupdated"		"1687311355"
+				"timeupdated"		"1702522422"
 			}
 		}
 	}
