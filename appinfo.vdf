@@ -271,10 +271,6 @@
 	}
 	"depots"
 	{
-		"overridescddb"		"1"
-		"baselanguages"		"english,german,french,italian,spanish,schinese,russian,polish"
-		"markdlcdepots"		"1"
-		"workshopdepot"		"24010"
 		"228983"
 		{
 			"config"
@@ -302,6 +298,15 @@
 			"depotfromapp"		"228980"
 			"sharedinstall"		"1"
 		}
+		"229006"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
 		"229020"
 		{
 			"config"
@@ -311,6 +316,10 @@
 			"depotfromapp"		"228980"
 			"sharedinstall"		"1"
 		}
+		"overridescddb"		"1"
+		"baselanguages"		"english,german,french,italian,spanish,schinese,russian,polish"
+		"markdlcdepots"		"1"
+		"workshopdepot"		"24010"
 		"325967"
 		{
 			"dlcappid"		"325967"
@@ -11020,6 +11029,12 @@
 					"size"		"1050694514"
 					"download"		"490814480"
 				}
+				"public_beta"
+				{
+					"gid"		"5379300781987529105"
+					"size"		"1050730669"
+					"download"		"490828240"
+				}
 			}
 			"encryptedmanifests"
 			{
@@ -19489,6 +19504,12 @@
 			}
 			"encryptedmanifests"
 			{
+				"dlcfixes"
+				{
+					"gid"		"DA162A96ED65E2E3C7E89A1B60453FDA"
+					"size"		"4FDD98FE9C6DD506A6F81D9EC8BD16FD"
+					"download"		"2D56C6EEF09D54983A4BB022610959C6"
+				}
 				"ts2019beta"
 				{
 					"gid"		"47AE1302C1596C8A7FF202CE9CEA3B84"
@@ -21320,6 +21341,12 @@
 			"dlcappid"		"1110402"
 			"manifests"
 			{
+				"public"
+				{
+					"gid"		"4688080835403383514"
+					"size"		"56536481"
+					"download"		"32406976"
+				}
 			}
 			"encryptedmanifests"
 			{
@@ -21336,6 +21363,12 @@
 			"dlcappid"		"1110403"
 			"manifests"
 			{
+				"public"
+				{
+					"gid"		"8560268435597710519"
+					"size"		"45742026"
+					"download"		"26359200"
+				}
 				"public_beta"
 				{
 					"gid"		"8560268435597710519"
@@ -21358,6 +21391,12 @@
 			"dlcappid"		"1110404"
 			"manifests"
 			{
+				"public"
+				{
+					"gid"		"143656331655532380"
+					"size"		"51624806"
+					"download"		"30324368"
+				}
 				"public_beta"
 				{
 					"gid"		"143656331655532380"
@@ -21384,6 +21423,12 @@
 			"dlcappid"		"1110401"
 			"manifests"
 			{
+				"public"
+				{
+					"gid"		"4944600790601457672"
+					"size"		"74489189"
+					"download"		"31319184"
+				}
 			}
 			"encryptedmanifests"
 			{
@@ -21400,6 +21445,12 @@
 			"dlcappid"		"1110400"
 			"manifests"
 			{
+				"public"
+				{
+					"gid"		"451297204209926803"
+					"size"		"102932441"
+					"download"		"39884512"
+				}
 			}
 			"encryptedmanifests"
 			{
@@ -24468,9 +24519,9 @@
 			{
 				"public"
 				{
-					"gid"		"2765824700940873982"
-					"size"		"968208803"
-					"download"		"416610560"
+					"gid"		"5986011552258279788"
+					"size"		"976542608"
+					"download"		"418121520"
 				}
 			}
 			"encryptedmanifests"
@@ -24810,9 +24861,9 @@
 			{
 				"public"
 				{
-					"gid"		"7295986906761443232"
-					"size"		"4297125975"
-					"download"		"769706880"
+					"gid"		"1066762304099804532"
+					"size"		"4292719892"
+					"download"		"768946736"
 				}
 			}
 			"encryptedmanifests"
@@ -24871,9 +24922,24 @@
 			{
 				"public"
 				{
-					"gid"		"6220603094767467670"
-					"size"		"1737703894"
-					"download"		"218039520"
+					"gid"		"6378105481871499407"
+					"size"		"1736663502"
+					"download"		"217955936"
+				}
+				"public_beta"
+				{
+					"gid"		"6378105481871499407"
+					"size"		"1736663502"
+					"download"		"217955936"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dlcfixes"
+				{
+					"gid"		"5B16539DEDCDCB270E8458AFCC30CA47"
+					"size"		"0D14B1F5DDEF38D964957D43F82CBF2A"
+					"download"		"CB3CF5E86695D65DA11E211A97B1C383"
 				}
 			}
 		}
@@ -24975,18 +25041,24 @@
 			{
 				"public"
 				{
-					"gid"		"6608314255321711511"
-					"size"		"514688876"
-					"download"		"146485472"
+					"gid"		"9049807506387320396"
+					"size"		"514681995"
+					"download"		"146473776"
+				}
+				"public_beta"
+				{
+					"gid"		"9049807506387320396"
+					"size"		"514681995"
+					"download"		"146473776"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"dlcfixes"
 				{
-					"gid"		"4DD18391F07BDD84B1C0F5CC8281D52A"
-					"size"		"8348ECBECB7A0571C002AEB117FCAC6B"
-					"download"		"3611EC514D6B47FFE51DAB7297C220CA"
+					"gid"		"9AF96AA9C99EAD18F85BF271C1B2EA97"
+					"size"		"BA2BEA6A7AF672BB5E08F81D4C198B15"
+					"download"		"09DC1F8395206B3DF9D5517F6A611952"
 				}
 			}
 		}
@@ -24997,24 +25069,24 @@
 			{
 				"public"
 				{
-					"gid"		"643319282349109264"
-					"size"		"127326441"
-					"download"		"26279664"
+					"gid"		"492490950174316370"
+					"size"		"129483600"
+					"download"		"27091392"
 				}
 				"public_beta"
 				{
-					"gid"		"643319282349109264"
-					"size"		"127326441"
-					"download"		"26279664"
+					"gid"		"492490950174316370"
+					"size"		"129483600"
+					"download"		"27091392"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"dlcfixes"
 				{
-					"gid"		"86608D4F5AD232458F33FB94F7B274B2"
-					"size"		"21503ED797DE758CFC280734125F2392"
-					"download"		"1EE68F95796BBE6D001E3CC143B02CD7"
+					"gid"		"9033419E2239F8EBB8DBD6F38F0EA7DB"
+					"size"		"AB12198A8803857A171374E0AC0040CD"
+					"download"		"07199CC2B45F6CE6E7B94589AE0D3DC8"
 				}
 			}
 		}
@@ -25033,30 +25105,54 @@
 			{
 				"public"
 				{
-					"gid"		"2206437068066307193"
-					"size"		"1596556039"
-					"download"		"633615808"
+					"gid"		"5567452498699777386"
+					"size"		"1585383690"
+					"download"		"632392016"
 				}
 				"public_beta"
 				{
-					"gid"		"2206437068066307193"
-					"size"		"1596556039"
-					"download"		"633615808"
+					"gid"		"5567452498699777386"
+					"size"		"1585383690"
+					"download"		"632392016"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"dlcfixes"
 				{
-					"gid"		"9CFE3A67ED1FFC705758FF4A4468B998"
-					"size"		"3BA528ACA7F074BF0C523D89C8F46DFF"
-					"download"		"93428070D81D1D4EB48517E2B1EC6B5B"
+					"gid"		"203F151B4BE449136BC188E502ECC65D"
+					"size"		"E6E454484A4F8DB40A0128EF98FF3D69"
+					"download"		"5F4C45D0F704651B57BAE4723CE2A511"
 				}
 			}
 		}
 		"2662390"
 		{
 			"dlcappid"		"2662390"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3559674298958351321"
+					"size"		"715318361"
+					"download"		"176944112"
+				}
+				"public_beta"
+				{
+					"gid"		"3559674298958351321"
+					"size"		"715318361"
+					"download"		"176944112"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dlcfixes"
+				{
+					"gid"		"6905EC96BB6764E946904763E80FB1B2"
+					"size"		"78155276722B6246AA21EDE8CF7900C8"
+					"download"		"4966E9C7D8B0060D5E878E71566D0448"
+				}
+			}
 		}
 		"2662410"
 		{
@@ -25103,20 +25199,20 @@
 		{
 			"public"
 			{
-				"buildid"		"12793653"
-				"timeupdated"		"1700854204"
+				"buildid"		"12971029"
+				"timeupdated"		"1702635700"
 			}
 			"dlcfixes"
 			{
-				"buildid"		"12793647"
+				"buildid"		"12971020"
 				"pwdrequired"		"1"
-				"timeupdated"		"1700854159"
+				"timeupdated"		"1702635646"
 			}
 			"public_beta"
 			{
-				"buildid"		"12793650"
+				"buildid"		"12971026"
 				"description"		"Public Beta branch"
-				"timeupdated"		"1700854178"
+				"timeupdated"		"1702635666"
 			}
 			"ts2019beta"
 			{
