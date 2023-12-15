@@ -220,6 +220,7 @@
 	}
 	"depots"
 	{
+		"baselanguages"		"english,german,french,italian,spanish,schinese,russian,japanese"
 		"228984"
 		{
 			"config"
@@ -262,9 +263,9 @@
 			{
 				"qabeta"
 				{
-					"gid"		"925BC8FE499319C45700A33EC9EB8F6F"
-					"size"		"F3A9A1D5222E0CAB91A96E8128C006E6"
-					"download"		"FE2656F08230840AA09B9E9B5A9C4543"
+					"gid"		"159144AE7232A1417F8B545D69B5B71E"
+					"size"		"2520228DB647F6204EE5ED8A13EF1C4A"
+					"download"		"6C95767082B25CA85311E56531D53F55"
 				}
 			}
 		}
@@ -283,9 +284,9 @@
 			{
 				"qabeta"
 				{
-					"gid"		"85DEF04C5941DC465143C806151F6A06"
-					"size"		"9384FCEA49C6DB617338DB3F90C77741"
-					"download"		"ED6D5FEA8D5356FA65D1E07D49FCAF17"
+					"gid"		"4EE180CF8D3DCBD8EB2FE1D7DF53DC03"
+					"size"		"C1CC1378F04C43AF32C054FB6092039F"
+					"download"		"C1BF71AB1358A7A993A880190B748759"
 				}
 			}
 		}
@@ -304,13 +305,46 @@
 			{
 				"qabeta"
 				{
-					"gid"		"98B5FDF4886A5AD44610EE6FCEF01890"
-					"size"		"10B1F847410464A0F71B961619322B7B"
-					"download"		"C1690269A7B0FE80B32DBF3B3B9CA078"
+					"gid"		"72E442A4F0636D7C37A20306F8B6280C"
+					"size"		"9DA65BD1296B5DF90E35971915AF5D23"
+					"download"		"406E053B8FC71F28F93B1A11B22E3BE2"
 				}
 			}
 		}
-		"baselanguages"		"english,german,french,italian,spanish,schinese,russian,japanese"
+		"1899671"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8941170985989472977"
+					"size"		"218283805"
+					"download"		"206644208"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"qabeta"
+				{
+					"gid"		"C53660BFBE213B92C45D4D6A2D3D0D79"
+					"size"		"D5AEBBA8D8DCC2B9DAFF232300E99C99"
+					"download"		"9A0CEA70FA78D621CF516E27C0FD8764"
+				}
+				"qalive"
+				{
+					"gid"		"62E3A9F59E7C55B7409A65C7ACD5FDF2"
+					"size"		"7854E21CDE901FCC574579FEBD50D3BF"
+					"download"		"CC04A9A284FCFF993C712DB536D7C384"
+				}
+				"qatest"
+				{
+					"gid"		"081EABBB28A6A76A992FC48ECCC6EC9B"
+					"size"		"0AE432B13627B4CC3156A6C33831BC4B"
+					"download"		"B1D40707C5AD952BAA1BF5023B95C0CE"
+				}
+			}
+			"depotfromapp"		"1899670"
+		}
 		"branches"
 		{
 			"public"
@@ -323,6 +357,18 @@
 				"buildid"		"12551660"
 				"pwdrequired"		"1"
 				"timeupdated"		"1698398669"
+			}
+			"qalive"
+			{
+				"buildid"		"12962240"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702561836"
+			}
+			"qatest"
+			{
+				"buildid"		"8244803"
+				"pwdrequired"		"1"
+				"timeupdated"		"1645614741"
 			}
 		}
 	}
