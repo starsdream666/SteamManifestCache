@@ -44,15 +44,35 @@
 		}
 		"steam_deck_compatibility"
 		{
-			"category"		"1"
-			"test_timestamp"		"1644883200"
+			"category"		"2"
+			"test_timestamp"		"1700697600"
 			"tested_build_id"		"5376895"
 			"tests"
 			{
 				"0"
 				{
-					"display"		"2"
-					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 				}
 			}
 			"configuration"
@@ -65,11 +85,13 @@
 				"small_text"		"0"
 				"requires_internet_for_setup"		"0"
 				"requires_internet_for_singleplayer"		"0"
-				"recommended_runtime"		"proton-stable"
+				"recommended_runtime"		"proton-experimental"
 				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
 			}
 		}
 		"metacritic_name"		"NARUTO SHIPPUDEN: Ultimate Ninja STORM 4"
+		"controllertagwizard"		"1"
 		"controller_support"		"full"
 		"small_capsule"
 		{
@@ -225,8 +247,8 @@
 			"10"		"1756"
 			"11"		"1695"
 			"12"		"1684"
-			"13"		"4166"
-			"14"		"1685"
+			"13"		"1685"
+			"14"		"4166"
 			"15"		"3843"
 			"16"		"3841"
 			"17"		"4158"
