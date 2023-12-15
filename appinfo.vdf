@@ -57,7 +57,7 @@
 				"id"		"1895880_eula_0"
 				"name"		"Ratchet & Clank: Rift Apart EULA"
 				"url"		"https://store.steampowered.com//eula/1895880_eula_0"
-				"version"		"2"
+				"version"		"3"
 			}
 		}
 		"steam_deck_compatibility"
@@ -103,7 +103,8 @@
 				"gamescope_frame_limiter_not_supported"		"0"
 			}
 		}
-		"controller_support"		"full"
+		"controllertagwizard"		"1"
+		"controller_support"		"partial"
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
@@ -159,7 +160,12 @@
 			"category_2"		"1"
 			"category_22"		"1"
 			"category_23"		"1"
-			"category_28"		"1"
+			"category_18"		"1"
+			"category_55"		"1"
+			"category_56"		"1"
+			"category_57"		"1"
+			"category_58"		"1"
+			"category_59"		"1"
 		}
 		"supported_languages"
 		{
@@ -327,13 +333,15 @@
 			"9"		"1625"
 			"10"		"4136"
 			"11"		"1774"
-			"12"		"1695"
-			"13"		"4195"
-			"14"		"4726"
-			"15"		"7208"
+			"12"		"4195"
+			"13"		"7208"
+			"14"		"1695"
+			"15"		"4726"
+			"16"		"4305"
+			"17"		"1742"
 		}
 		"review_score"		"8"
-		"review_percentage"		"87"
+		"review_percentage"		"89"
 	}
 	"extended"
 	{
@@ -368,7 +376,7 @@
 				{
 					"oslist"		"windows"
 					"osarch"		"64"
-					"betakey"		"ext_partner_amd1, ext_partner_amd2, latest, latest_dev, nixxesqa_dev, nixxesqa_dev2, compat, ext_partner1, ext_partner2, ig_alpha, ig_beta, ig_marketing1, ig_marketing2, pssqa_dev1, pssqa_dev2, ig_dev, nixxes_dev"
+					"betakey"		"amd_dev, ext_partner_amd1, ext_partner_amd2, latest, latest_dev, nixxesqa_dev, nixxesqa_dev2, compat, ext_partner1, ext_partner2, ig_alpha, ig_beta, ig_marketing1, ig_marketing2, pssqa_dev1, pssqa_dev2, ig_dev, nixxes_dev"
 					"ownsdlc"		"1911670"
 				}
 				"description_loc"
@@ -385,7 +393,7 @@
 				{
 					"oslist"		"windows"
 					"osarch"		"64"
-					"betakey"		"ext_partner_amd1, ext_partner_amd2, latest, latest_dev, nixxesqa_dev, nixxesqa_dev2, compat, ext_partner1, ext_partner2, ig_alpha, ig_beta, ig_marketing1, ig_marketing2, pssqa_dev1, pssqa_dev2, ig_dev, nixxes_dev"
+					"betakey"		"amd_dev, ext_partner_amd1, ext_partner_amd2, latest, latest_dev, nixxesqa_dev, nixxesqa_dev2, compat, ext_partner1, ext_partner2, ig_alpha, ig_beta, ig_marketing1, ig_marketing2, pssqa_dev1, pssqa_dev2, ig_dev, nixxes_dev"
 					"ownsdlc"		"1911670"
 				}
 				"description_loc"
@@ -434,29 +442,41 @@
 			}
 			"encryptedmanifests"
 			{
+				"amd_dev"
+				{
+					"gid"		"7A46104CD1870B0AA170CABC96AA5199"
+					"size"		"7CCE1B1BFB9FB25B9737F06CC5B00DAD"
+					"download"		"BE2EB0011AD0B8B5D463856D2F0C3D08"
+				}
 				"compat"
 				{
-					"gid"		"2B7E8714F9B46FEFCA590BCFEDC59352"
-					"size"		"26C49E6A6D8FFFE23CCCE0CD341D65C1"
-					"download"		"F746779E31EBB5F47D08759B2654D276"
+					"gid"		"547103FF2821D081A8B21B81593C0EB5"
+					"size"		"A4DF09821F4A49DAA64C6E0DAB772854"
+					"download"		"2AD90FBA6FED91B2B283427FA8423D23"
 				}
 				"compat2"
 				{
-					"gid"		"8DFDF5ABBA2E152B4519D9D7778D0803"
-					"size"		"4561D861E54D7496D2C004ECB0749E5B"
-					"download"		"181C8F2318F01FF96030C3EC7E4E1358"
+					"gid"		"4B5CC34E3BCA7D76E1208701FC4A4DA2"
+					"size"		"0EC720B1C0E3C8DEF95EFEF6DC9CAAB3"
+					"download"		"4BB18C369AF0A0885FEAB23FEBBCA28C"
 				}
 				"ext_partner1"
 				{
-					"gid"		"A7AA9DB654DA53287A9FF717BFD7122F"
-					"size"		"BF3C138296660E77A2C41391FB46856A"
-					"download"		"80FC35BFFEDE0D5C1F4ECE8B2CD071E4"
+					"gid"		"158F92A718C1A3BC4B3AB76A7A1447D3"
+					"size"		"25C9CF3E3B821130D3A5D72FEE647B61"
+					"download"		"75E36DB5BC2904284D281572FDE2E16F"
 				}
 				"ext_partner2"
 				{
-					"gid"		"D72F627EB49F6A184BDC6A73B8D12478"
-					"size"		"92A4BCB32FC299492B377A53A365F985"
-					"download"		"A9A33B23291C51C11B50AC4A3FE249E9"
+					"gid"		"637DA50C5B97E0DD6D971C2C4662FE8B"
+					"size"		"F72306CE714E406BA56CB26ED8F01717"
+					"download"		"D6EBE25B1D28FC83A1F14ECEA872076E"
+				}
+				"ext_test"
+				{
+					"gid"		"79AB088944F7346A40483E60108DB468"
+					"size"		"4C0DD4DA8119958F204D939D879E09B4"
+					"download"		"18EB60C9C21B946A849A1D54B831BC53"
 				}
 				"ig_alpha"
 				{
@@ -490,15 +510,15 @@
 				}
 				"latest"
 				{
-					"gid"		"9F11F8B171D32585E36E303F32397C35"
-					"size"		"1E3E13BE6C555D251EAC36D69344627B"
-					"download"		"72AC76814D322F18EF79127AD420294A"
+					"gid"		"6EF2854B7255FAC04732BE61C56C278E"
+					"size"		"C1385F0D4B6637552C4EFC7EFDEC6933"
+					"download"		"9723C7246C2A8D8D9DCFFFD4A2C99720"
 				}
 				"latest_dev"
 				{
-					"gid"		"AC65C7DE0AA96D4FD592F1D9EE17A77E"
-					"size"		"0000359A148917D88D6E88C59DEC80B7"
-					"download"		"0E5101893FDBD80656586D4A9CF4E965"
+					"gid"		"0A6BFAB956CE1F0C0443D6731D864A5D"
+					"size"		"5E4485DC2CF37BAA4B212FBBEC3EBD27"
+					"download"		"51438EA011EF2BB0F1051747502A76AD"
 				}
 				"nixxes_dev"
 				{
@@ -508,15 +528,15 @@
 				}
 				"nixxesqa_dev"
 				{
-					"gid"		"1014635DDE43A5264100E5026D04F7C0"
-					"size"		"F983EFDEE9D53ECC600871D00C17EE1B"
-					"download"		"DEAA3ADDE404E8835364F8C7171019F6"
+					"gid"		"23E19653631A123948C7955FB3F6D257"
+					"size"		"1D52603F45FA60D8A85D22E193BA4046"
+					"download"		"E19DAD455963BA534375674C9F92FEC2"
 				}
 				"nixxesqa_dev2"
 				{
-					"gid"		"EAF3637067D6ABA0623B03B1D4C19FE7"
-					"size"		"D21D4F65AAA8EB7641587EC8B4CF347E"
-					"download"		"61EA3455635BB26591DDEDF6AF5505C8"
+					"gid"		"CC126A83841ED178C6C3C596C124460A"
+					"size"		"99382D70D0BB1FA126E86F06956C5727"
+					"download"		"11BAA50F4A1382D3B63A96A68080D58C"
 				}
 				"pc_age_ratings"
 				{
@@ -550,15 +570,15 @@
 				}
 				"pssqa_dev1"
 				{
-					"gid"		"C5B6A8A019586A6061E8136A3267DC56"
-					"size"		"68CFCCF84DADA2517D42B0C536EF9202"
-					"download"		"ADD6449E189B68BB9A4E0629455A017A"
+					"gid"		"EE90E17E798DF61B834772E90584B1D2"
+					"size"		"F9F5470DEB18FBE46A35BD7B25C5C9A2"
+					"download"		"9C0AAFFF47B7FB62AF4F7D02249288D3"
 				}
 				"pssqa_dev2"
 				{
-					"gid"		"D4D6BB3A1C8799B0407EBA23CC4A6D44"
-					"size"		"B84064AF54BFC7D5F2683CCD824172F3"
-					"download"		"D0F022101FD5B76434ECAB6C2023C7F9"
+					"gid"		"1FA36B479EC22FA17515BDDBEA4C219C"
+					"size"		"B33E84943C4AB5A3C54A36BD7D4B1DC9"
+					"download"		"05DB6117D35E4F60CD34973C55D6A1CC"
 				}
 			}
 		}
@@ -586,29 +606,41 @@
 			}
 			"encryptedmanifests"
 			{
+				"amd_dev"
+				{
+					"gid"		"FD9688C9290AA3173E53D7C24AB3AA1A"
+					"size"		"5C61DDCCBDFFB39FA09C461A7C536B73"
+					"download"		"ED82C81CC36515347577FE24FB072424"
+				}
 				"compat"
 				{
-					"gid"		"B8FCED0637C1BD1A81F513D580CD01AF"
-					"size"		"556E4C7539061286337ABE1F910067C3"
-					"download"		"A8745D7CE989DB30A4677285DC819EE0"
+					"gid"		"F58D5952019FD3F462F29C904656FB7E"
+					"size"		"CD6C7545122A97A83B606F3CE05C5871"
+					"download"		"C2DCF2E89A450912D1CC36C275F6B765"
 				}
 				"compat2"
 				{
-					"gid"		"7A8583F098B383C5B8EDDCB34A59627B"
-					"size"		"9E597D1E8DF93491E6E13AFDD358ED2C"
-					"download"		"388AA447EEF4C4B5A4EF62420CCDBD53"
+					"gid"		"60F91E35079F54EC125D7DDE72F0C675"
+					"size"		"275A5FA7998C460A9197E121E81C8FAB"
+					"download"		"C0361842164CD2F2DF69E67BF72FA90B"
 				}
 				"ext_partner1"
 				{
-					"gid"		"9F9450461EF4E01818D3D6EB916E629F"
-					"size"		"952BC7D6E53C80B7CB9D6E81D17E9F9C"
-					"download"		"7C7FC9774C1B6E2E96787A48F257CE92"
+					"gid"		"335F34FC6A1972910CC5AEDD0E63F654"
+					"size"		"D72AAF2F6DBA9F134B5B7E8405A9E2DD"
+					"download"		"BAE66BB0EA0D2623B012972CE2DFC4F4"
 				}
 				"ext_partner2"
 				{
-					"gid"		"BC9BFDC4591A6F2D8538117824022AF8"
-					"size"		"C5C6FE50645E1B20B9ED4D296FACEBC8"
-					"download"		"622B1B795F6E89391D9D7E04281F7B47"
+					"gid"		"0C8B1F079A6BE97C222B53ADAFA89F51"
+					"size"		"4575ED6CA9F90CACBCA0C794EAFADDB5"
+					"download"		"B42DB31FBFF6D08F6F6E51BA3B65A15B"
+				}
+				"ext_test"
+				{
+					"gid"		"D30D25D7A888D6DAE8F00C8D5CE449C5"
+					"size"		"44B65698C3BAFC1BF21D7009D57D1E96"
+					"download"		"02CAD611BD424A3D783BD00C55A67293"
 				}
 				"ig_alpha"
 				{
@@ -642,15 +674,15 @@
 				}
 				"latest"
 				{
-					"gid"		"CB50E9FEC051CF3A54F15561E5DB3535"
-					"size"		"7656299419834DE16D239EE66301BCB4"
-					"download"		"593E06F20F5537A7DE01AF77B066C9DC"
+					"gid"		"A7F09065E0DC8F726D8E7B35D8C853F5"
+					"size"		"6C03EAA309B489A6BDAF6435FBC128A5"
+					"download"		"82116468164DD3CFE074A5517C207F4C"
 				}
 				"latest_dev"
 				{
-					"gid"		"20BD54E4616A7619FE1126ADCFB5231C"
-					"size"		"8EB57A6CB7CA1695A9B257E1EE6E31BB"
-					"download"		"E4E9A3AB4C3D0804A7BA8DFC93511926"
+					"gid"		"38B7ACCF09ACE6F5D494FC3F7C2F58AC"
+					"size"		"80773448E2C60497BF10B46E55A347C2"
+					"download"		"A7DEDA3DC70020490AA10D4B85AD812F"
 				}
 				"nixxes_dev"
 				{
@@ -660,15 +692,15 @@
 				}
 				"nixxesqa_dev"
 				{
-					"gid"		"340B3FEBE19F214BB63130A0B36C5B37"
-					"size"		"CD0061DF027FB247F909743140F454FB"
-					"download"		"50A2D257F4148B27AD5452361FF10609"
+					"gid"		"6994CDB42153F5EC603680783F7DA5BB"
+					"size"		"784DB1D80A788F3335C6066FDD927428"
+					"download"		"9FC739BC0B3E026EB681C573978506D6"
 				}
 				"nixxesqa_dev2"
 				{
-					"gid"		"E7CED1559768BECAF5E62A1EBE2F3270"
-					"size"		"2F0BBB010FFEB9E273CD055EE925C244"
-					"download"		"8F22C0BEC686E7227A7493F2AD7FB239"
+					"gid"		"E927843FB4F05AB9CBA969F83F01632C"
+					"size"		"C2BD5B6860056D5B23091100FF9BAE2E"
+					"download"		"B99C63662FF7B14C9DF5EE85018C7835"
 				}
 				"pc_age_ratings"
 				{
@@ -702,15 +734,15 @@
 				}
 				"pssqa_dev1"
 				{
-					"gid"		"41B05E1BCC21DB37F96F14D10DEF8609"
-					"size"		"C9D39A90895B2E309C2CDA1C1FE71F9A"
-					"download"		"0BBF30932385D87A1EC134EAFFC49C99"
+					"gid"		"3DC0CD84A11A14059DB2CFFCAEFB233E"
+					"size"		"7740E669CEAFE9B8A7670C2DE6753458"
+					"download"		"CEEA32653494AF6F8797D3A3BE5EAC3F"
 				}
 				"pssqa_dev2"
 				{
-					"gid"		"A4C87A9A06A2D9720D68F3D020C67496"
-					"size"		"86BEEBB045C4C92489A8C268637E7C4F"
-					"download"		"A920690C5102FC2FADEFDB64F10E952B"
+					"gid"		"ABCBCE8949A0A7E073635841F32B49E9"
+					"size"		"67911D58109DE68A0CAB7E94337B5300"
+					"download"		"101BC5A387DE325E72FADB92850BC24B"
 				}
 			}
 		}
@@ -738,6 +770,12 @@
 			}
 			"encryptedmanifests"
 			{
+				"amd_dev"
+				{
+					"gid"		"FFB8D03105F9A673EBF7C7E4254399E1"
+					"size"		"A82E844F51D918E2B4F17E8509316B24"
+					"download"		"07BEAAD64AD67DABE1F826B908F19B23"
+				}
 				"compat"
 				{
 					"gid"		"95416F2158DA07733C1F0D128DB0C9BA"
@@ -761,6 +799,12 @@
 					"gid"		"DBACBA5D262DBE87063E35977B2EA311"
 					"size"		"E81AC0359D407635E421B40BE6537F78"
 					"download"		"30C0F1DC54A9BE62B5523E3A91C77860"
+				}
+				"ext_test"
+				{
+					"gid"		"2A2FF76CAA69B6E6FEFBAD199E74A7C5"
+					"size"		"FE7E8D64F9A4AED6A9EA9017EB6D06B6"
+					"download"		"0712A15C670E54691FEE912D9E064CD8"
 				}
 				"ig_alpha"
 				{
@@ -891,6 +935,12 @@
 			}
 			"encryptedmanifests"
 			{
+				"amd_dev"
+				{
+					"gid"		"D09A9E2CEC9CA49C02263CA2C9C2068B"
+					"size"		"A30C34E35881C8A8AF86C370552AED3D"
+					"download"		"913F53191B9B524F344894A12428372F"
+				}
 				"compat"
 				{
 					"gid"		"252BE57E97133B39192A2F9700ACAF00"
@@ -914,6 +964,12 @@
 					"gid"		"8EDEDCD57E5A26900EC6E80C30560457"
 					"size"		"DE78C06B8A6A43BE9B1D04C25ECA9A44"
 					"download"		"60419B7DA182952731708594460CDE24"
+				}
+				"ext_test"
+				{
+					"gid"		"91E2A96FCB11983DEFE49B97426484E7"
+					"size"		"A7EAB85982BC7C2A74ACA4283AF83018"
+					"download"		"4F982A9C8E6F238500BD88AD8A5D2391"
 				}
 				"ig_alpha"
 				{
@@ -1044,6 +1100,12 @@
 			}
 			"encryptedmanifests"
 			{
+				"amd_dev"
+				{
+					"gid"		"14A6DC36193C2C3B25A8425D5B760A67"
+					"size"		"BFBD096F6E258D16BAD8ACCD8EB1F7B1"
+					"download"		"63AE51DFDE561A2AF59AA1D90B283C77"
+				}
 				"compat"
 				{
 					"gid"		"C1CE5162B0CBC38DC2FBDB005F49B9A5"
@@ -1067,6 +1129,12 @@
 					"gid"		"0B0AED01A86DA7FB25FAA5762366D742"
 					"size"		"B4E436766A24D2833C1E468DA7FA3A9A"
 					"download"		"490366FFBEE67DD1E4AA825B0FB5FE86"
+				}
+				"ext_test"
+				{
+					"gid"		"6BE046861FC1531244C319AE41991879"
+					"size"		"AADAF30D998F7E77F5F4F05E29DD0FBC"
+					"download"		"6764470CAE8646CAB7F1797C659C35F9"
 				}
 				"ig_alpha"
 				{
@@ -1197,6 +1265,12 @@
 			}
 			"encryptedmanifests"
 			{
+				"amd_dev"
+				{
+					"gid"		"12386EC97DE194D0CB3E5E828033B310"
+					"size"		"A99DC566D6BE6B099AF5FC18252BD07B"
+					"download"		"B144A6A5A57831A615496564E1EE7E1C"
+				}
 				"compat"
 				{
 					"gid"		"AF04B3C8D0B1A472A8495A36FBA158CE"
@@ -1220,6 +1294,12 @@
 					"gid"		"8ED2E5825B9D778DDC7374CB48091A20"
 					"size"		"55CB172ADEE5DD665CDD9CF3B17C263B"
 					"download"		"24BBE668671525AC77868C084160D43B"
+				}
+				"ext_test"
+				{
+					"gid"		"6C80D734BD082B272BEFB9D2509B4AF5"
+					"size"		"FFBDA3238F8D018EB251DB92E03153BA"
+					"download"		"03EA61E4E2F37D13B2A32A29CAFBFE11"
 				}
 				"ig_alpha"
 				{
@@ -1350,6 +1430,12 @@
 			}
 			"encryptedmanifests"
 			{
+				"amd_dev"
+				{
+					"gid"		"D3112907885C3F7CBC50E00749761C3E"
+					"size"		"74D2B66DCD59D277E5257A0271E00A17"
+					"download"		"575480F955F27AC777B5D6B851A30125"
+				}
 				"compat"
 				{
 					"gid"		"4FF9D2D44E0F81536F353E18DE834E32"
@@ -1373,6 +1459,12 @@
 					"gid"		"FB11E0BF062CF5A8E93293FDEA37A23F"
 					"size"		"F41EB86BB132A4FD7432575104B8CF6C"
 					"download"		"A1887C65602C9EDE729F9576927E75D1"
+				}
+				"ext_test"
+				{
+					"gid"		"853A694DDD727EE372DA3B10B94FD407"
+					"size"		"AFC67FE8E27F9074362BD1F4A2AE8F79"
+					"download"		"F60B7785AD490364CDCB1A57B7C5F0EC"
 				}
 				"ig_alpha"
 				{
@@ -1503,6 +1595,12 @@
 			}
 			"encryptedmanifests"
 			{
+				"amd_dev"
+				{
+					"gid"		"A25F9BAE4343BBA0DC9F0E51F23F95F9"
+					"size"		"79A18F9146BE89FF0A8497B657E219C5"
+					"download"		"BDD7FD19371D80C8025105C1ADB26BC3"
+				}
 				"compat"
 				{
 					"gid"		"EFE7B6DB4750C1BFCAF3D5DEE7B833B2"
@@ -1526,6 +1624,12 @@
 					"gid"		"BD2952E0BC70FD54E6FAAD0B8128E8E3"
 					"size"		"BBB0AFAD26042681994C7B43CAAF0E0E"
 					"download"		"9569BC215F51D99DB5688CB4F041C77A"
+				}
+				"ext_test"
+				{
+					"gid"		"B36D4B4E303271995EE7A0A2997B4499"
+					"size"		"A3CE7C990C75519E8554D3C82A0E3424"
+					"download"		"8D51505F03CFA02FEA0F875673A943A0"
 				}
 				"ig_alpha"
 				{
@@ -1656,6 +1760,12 @@
 			}
 			"encryptedmanifests"
 			{
+				"amd_dev"
+				{
+					"gid"		"A81778282544C1A3B252E5AEED545E7A"
+					"size"		"4AA7E4D6F8C807C29A611E29D6DC0A23"
+					"download"		"3461522B5540637BDC57DD4B07896400"
+				}
 				"compat"
 				{
 					"gid"		"FFFC4BDE1F01E534A7BCB32715931B7B"
@@ -1679,6 +1789,12 @@
 					"gid"		"EE1C63992D98090FC2EA85A3635AA94F"
 					"size"		"E0752312C44B62260BDBFF960387B83C"
 					"download"		"34CCC73817065D141359632260DD70B8"
+				}
+				"ext_test"
+				{
+					"gid"		"723202E657FA2C4E21B16DA1BEDE759D"
+					"size"		"E2B6199FDF3C2A2F42F1EC52BB2FB221"
+					"download"		"C3EF64A2A1D46BA09494A751DB19E54F"
 				}
 				"ig_alpha"
 				{
@@ -1809,6 +1925,12 @@
 			}
 			"encryptedmanifests"
 			{
+				"amd_dev"
+				{
+					"gid"		"EF37E75FC0533251B766B6A38A4EE130"
+					"size"		"484206AEC1467DDBDBE4C77EF88CEB48"
+					"download"		"AF7586C5E6703B58F951496C0F6E0F77"
+				}
 				"compat"
 				{
 					"gid"		"1CA724F213EABE68D66589B43FB1D586"
@@ -1832,6 +1954,12 @@
 					"gid"		"1F58E7893A69CD7BD051BB0DBB78AC60"
 					"size"		"44C70F841E0617BFE990E57FFF75CA4F"
 					"download"		"AF40E650F5E3BAC3FE3D06E845798D24"
+				}
+				"ext_test"
+				{
+					"gid"		"15C1AE083B4458A07C8B187BD3ADFB28"
+					"size"		"297213A34135A37AA17309BEE7C907C1"
+					"download"		"36492D50869F8FE00925729B7CCF4B6F"
 				}
 				"ig_alpha"
 				{
@@ -1962,6 +2090,12 @@
 			}
 			"encryptedmanifests"
 			{
+				"amd_dev"
+				{
+					"gid"		"25515FFC0BE2B15601D2D03C0C75A680"
+					"size"		"FDACB1007A9589A0E28C599BBD690B55"
+					"download"		"0AFA3B57AEBE54AADBCB8C777BDB38F0"
+				}
 				"compat"
 				{
 					"gid"		"81F2D2A8B039825CEF4EED0242DD1453"
@@ -1985,6 +2119,12 @@
 					"gid"		"F3B57961D4FA3627E5816E5E849027A9"
 					"size"		"98564F5DA9B1719FFBB8F9B6A0730174"
 					"download"		"0A0D508E6A137B150F29C030ED25EDAE"
+				}
+				"ext_test"
+				{
+					"gid"		"BC6BD215C89229E5032D34D555DA3519"
+					"size"		"49A8E2F925D12D161E8AF64781EC4C0D"
+					"download"		"870143FB59E84A0D2AE3583F85CAF6F1"
 				}
 				"ig_alpha"
 				{
@@ -2115,6 +2255,12 @@
 			}
 			"encryptedmanifests"
 			{
+				"amd_dev"
+				{
+					"gid"		"5396F24697E0BE4771CEB6792AC5CBE6"
+					"size"		"BABBCAA5B36ABA7C21BD9DF9B6610F9A"
+					"download"		"899697725A68B9FE901C39F1C4125850"
+				}
 				"compat"
 				{
 					"gid"		"A3D11352FF6624A4AD8A075D6ACC54DA"
@@ -2138,6 +2284,12 @@
 					"gid"		"DCC9A6E037FF49B5880CB6446578A649"
 					"size"		"C4DDFC362576F5D2AD02B6FF63F1AC6E"
 					"download"		"54303B7CE11996DFD95199EF4B274B19"
+				}
+				"ext_test"
+				{
+					"gid"		"2E1A234A12B2AAF61B55189355474587"
+					"size"		"DB2207C24CB339C0F64C19634895AE13"
+					"download"		"C4C624838A621FA8619C0D84ADC180BE"
 				}
 				"ig_alpha"
 				{
@@ -2268,6 +2420,12 @@
 			}
 			"encryptedmanifests"
 			{
+				"amd_dev"
+				{
+					"gid"		"2E506DE34F17119074EE020074B73E4B"
+					"size"		"7FFA2310899FE398C05DDF1A9954243F"
+					"download"		"FD9AF91C2394C300D311A1E70DCB2927"
+				}
 				"compat"
 				{
 					"gid"		"8026C0282107C3A25DF4A2C1D1DB2534"
@@ -2291,6 +2449,12 @@
 					"gid"		"0B0D460A45CC6B05FFDE22B6238B6631"
 					"size"		"D52FC7919925921D0F2976C8EA42D562"
 					"download"		"5776911FB9DA0EEAAD46285304FFBA33"
+				}
+				"ext_test"
+				{
+					"gid"		"9642C3F9C6C4F4A6B75F8C1BD9F2E795"
+					"size"		"2DEFA5F4FC5BB1DAF880789FB9E7489D"
+					"download"		"628BF7316DEE30F9813701FE37EC127C"
 				}
 				"ig_alpha"
 				{
@@ -2421,6 +2585,12 @@
 			}
 			"encryptedmanifests"
 			{
+				"amd_dev"
+				{
+					"gid"		"0DC09F943860FC6069BA598E4765DC4F"
+					"size"		"13DA0A66412FE1AF03C840EEA2840E6B"
+					"download"		"DCA0F2A80DDE75E2F00898C59D968836"
+				}
 				"compat"
 				{
 					"gid"		"CB6CB3996EC3B2E8B56D8E30CB0F6DAB"
@@ -2444,6 +2614,12 @@
 					"gid"		"E5DA18223589850C6AF12A9C961452BC"
 					"size"		"7D0BDB4E183EAE0958C1D17E525D4669"
 					"download"		"9B7D15B3C7F2A3CC9AC69806B9234CBA"
+				}
+				"ext_test"
+				{
+					"gid"		"AB3D92014D145DDD5C67B5EDE4C6BF3F"
+					"size"		"AE7E13D9808680E783E8232FAAAE1569"
+					"download"		"D0DDED9A6AD53B5E7E415F92A23BC7A7"
 				}
 				"ig_alpha"
 				{
@@ -2574,6 +2750,12 @@
 			}
 			"encryptedmanifests"
 			{
+				"amd_dev"
+				{
+					"gid"		"E0310F5EB3AC9CBC78225B06A4EA1202"
+					"size"		"BAB7C046CFE3928E473B63B0CCA01EF2"
+					"download"		"B357F8E6FBF61CE78E1C57E330C492CA"
+				}
 				"compat"
 				{
 					"gid"		"34866E83AA29FE8F5676046D76804E42"
@@ -2597,6 +2779,12 @@
 					"gid"		"81EF638367E25939BE132385EDAA2EB7"
 					"size"		"D714B54394D25A9AAA0B344B576EB77F"
 					"download"		"8B2B00636C70FFA4A6C6B130E0D71C00"
+				}
+				"ext_test"
+				{
+					"gid"		"F488BE425163818C5BC42CF395F52E31"
+					"size"		"B65034D7585B10B1419325C824F8A37B"
+					"download"		"C9DD1D0AD14CEB81FB1BB04BA7D4AC79"
 				}
 				"ig_alpha"
 				{
@@ -2727,6 +2915,12 @@
 			}
 			"encryptedmanifests"
 			{
+				"amd_dev"
+				{
+					"gid"		"DC1490B254117ACA2BBC9FDEB0D65CCF"
+					"size"		"212CB9AD1770E501C65617FF8B1AE27F"
+					"download"		"647FEDE657BCB938375050DB46EF19C3"
+				}
 				"compat"
 				{
 					"gid"		"678FCD72D47BFEFDC98CBB839248D61F"
@@ -2750,6 +2944,12 @@
 					"gid"		"015378D5815F9A1CCF9BF24087FB0696"
 					"size"		"52836CBFB4081B23E31893654E6D2AD5"
 					"download"		"1D9F17397807B9B44E48FCBDD48B6ED9"
+				}
+				"ext_test"
+				{
+					"gid"		"8622F6691EC9A86B1DB294591F6A60B6"
+					"size"		"D99B3B4E178CF0C0183371C6C8D63B71"
+					"download"		"89FE9B078AF4AAD2A32650A2A3B7AEE6"
 				}
 				"ig_alpha"
 				{
@@ -2880,6 +3080,12 @@
 			}
 			"encryptedmanifests"
 			{
+				"amd_dev"
+				{
+					"gid"		"6E6E47E79A31E0D1713992F595780CAE"
+					"size"		"F5A57A2D59AAD74191E66A23EE78D8D6"
+					"download"		"86EAE6DE744CABF604BCF76F798C08C3"
+				}
 				"compat"
 				{
 					"gid"		"F1838552D2DB3BD63D52BCC2B18ECB41"
@@ -2903,6 +3109,12 @@
 					"gid"		"AB264C2EFF68A1FDF0BBB7FB2A2CD6D3"
 					"size"		"B536F62C346284F6BE11318EA3D5B02D"
 					"download"		"EF489D33340ED3A556415A77665D7154"
+				}
+				"ext_test"
+				{
+					"gid"		"020C6DB4538F06C78804C96B88D6E368"
+					"size"		"F65EF6381CB3E28BD1D68ED8786B78CF"
+					"download"		"0FD49FAB251754380DAAACCDF00C091F"
 				}
 				"ig_alpha"
 				{
@@ -3033,6 +3245,12 @@
 			}
 			"encryptedmanifests"
 			{
+				"amd_dev"
+				{
+					"gid"		"57D2651816B157EBAB21D56ED904AC72"
+					"size"		"03C4D1C5F7A9B48DD0E65A414CBE1BA6"
+					"download"		"4424F3B63EFF7EC726166BB29D13E8BB"
+				}
 				"compat"
 				{
 					"gid"		"E6EFF55319BB357AB51971A3575109A8"
@@ -3056,6 +3274,12 @@
 					"gid"		"2ECF6A52868ECCA2CA1C1D13079EBBFA"
 					"size"		"7812176749387E5443823F62BCD6B8A8"
 					"download"		"4D69C71F558575648FEA0742A0EF6D69"
+				}
+				"ext_test"
+				{
+					"gid"		"83D83F62D532DECE9103FA72BD285831"
+					"size"		"CC3F48838A0C234BCEE40E356F9B7DAA"
+					"download"		"2C1E9220AC53DF84804043C09C393444"
 				}
 				"ig_alpha"
 				{
@@ -3186,6 +3410,12 @@
 			}
 			"encryptedmanifests"
 			{
+				"amd_dev"
+				{
+					"gid"		"3791F7C9F20C3391D707D6C9C6083ADF"
+					"size"		"B26D440F81386764C537EE9DCE12B567"
+					"download"		"B49272745EF46BE76DD4F87F09E7F31F"
+				}
 				"compat"
 				{
 					"gid"		"F1D9EAE4A6DB7005F091068740C999ED"
@@ -3209,6 +3439,12 @@
 					"gid"		"F6ACD4A32223F22C3D681484B2076E02"
 					"size"		"BFF193C99BADACAFE498E8778F8F9B2B"
 					"download"		"514FD419C85168A1693DDDA0ABE8AB47"
+				}
+				"ext_test"
+				{
+					"gid"		"BE775DB76767BBEE03693DD14C454C28"
+					"size"		"4FA9689B086A53721160011D1743A0A8"
+					"download"		"82111FCB0EF606AB460F44E284FC2FAA"
 				}
 				"ig_alpha"
 				{
@@ -3339,29 +3575,41 @@
 			}
 			"encryptedmanifests"
 			{
+				"amd_dev"
+				{
+					"gid"		"ED7A50DE085E197C8F1317AA1FD71871"
+					"size"		"07840A9B039CB3382A214BCA776FF06C"
+					"download"		"4360D5B3692FE565A829CBB943B8BC41"
+				}
 				"compat"
 				{
-					"gid"		"69DC48346B22E646AD64FE4568992542"
-					"size"		"1170CACC3EFF059835C9F8DABE4FA21B"
-					"download"		"36B68C46C265593EA55A66FBB56E8E43"
+					"gid"		"7993F3CF56A0C0F3229B3D7833021E59"
+					"size"		"CEA2C49D5E315AE34CE73B43822B7AC7"
+					"download"		"F1E845A5423D13324F7E37C848AD2311"
 				}
 				"compat2"
 				{
-					"gid"		"5CEC1E067D35127E9028FE82D4B23DAB"
-					"size"		"BA68424253BEC7F5BCD4F442097F938B"
-					"download"		"A5661FD18DEA248E98206D5C13733744"
+					"gid"		"41D35880F64E01DD67110C2F14F173E8"
+					"size"		"98BBEB96E39609CDC056DED4F702A800"
+					"download"		"B8CE9571A87DE46D84CF70D75C641799"
 				}
 				"ext_partner1"
 				{
-					"gid"		"14E4F14A631F3119764970620C53A404"
-					"size"		"9ED8C676C89C30D5C7CB0F64D5371F25"
-					"download"		"09E9E6391F160C3319907E8BE53B6A71"
+					"gid"		"8B6B8054058CB41F15064D7B0BBC5023"
+					"size"		"67B710C4783F03BCA90F16BF615D0805"
+					"download"		"74772F329801380F4D5F2C322A76BA0F"
 				}
 				"ext_partner2"
 				{
-					"gid"		"8012464D977BAFD17FCB1B0147448229"
-					"size"		"B8152DFADAD9296FEB66730BAFA2D603"
-					"download"		"6991C77AF18A7EB42EAC8B94713BB59C"
+					"gid"		"F5446DDB8BF4AA478B2A870B0FEFEEE7"
+					"size"		"5333E3C3B9964AB15BF54B04FDA716EE"
+					"download"		"42EEE7186BAD7BBFF8496C4AC7E7C79C"
+				}
+				"ext_test"
+				{
+					"gid"		"4C4E42C0BAC8FC275B84CE61BCE36053"
+					"size"		"097847E7E667CA4DF79C977CE5DAB9AD"
+					"download"		"DDB37B7A5F4DDBBE8430C0DCB45BC563"
 				}
 				"ig_alpha"
 				{
@@ -3395,15 +3643,15 @@
 				}
 				"latest"
 				{
-					"gid"		"B66E721F2E8E69D04E603A87610FA724"
-					"size"		"7E75A314993FA57A7E70A92198154734"
-					"download"		"14C9D34AF1FEB1EB7F4768EE84CFBF9B"
+					"gid"		"239FC322FF824A9BAA58BB18F72666F4"
+					"size"		"5BF4781FBE306FB23AF0D8BA58C135B4"
+					"download"		"528C87243BCA6EABD1C8D4CE700F2B97"
 				}
 				"latest_dev"
 				{
-					"gid"		"94AE32B09D877B305F4B5E955CE1F311"
-					"size"		"4B8E59876D3C8625B40A78AF32EE5E22"
-					"download"		"9821C35201550C9EB18CC0D4E16F6910"
+					"gid"		"2A409F19C98BABF098771243B8970860"
+					"size"		"9BDDDF185337BE73A4C94523111D0D5B"
+					"download"		"BE69779BF626E8D997BFEF2450F2B609"
 				}
 				"nixxes_dev"
 				{
@@ -3413,15 +3661,15 @@
 				}
 				"nixxesqa_dev"
 				{
-					"gid"		"741DD2D8FA2C7BC32B5FE8922890B65B"
-					"size"		"182CA0D4446E68646FAB6ACF112C9749"
-					"download"		"E875168E1F018A672B05F7123031DE96"
+					"gid"		"AE29E792253DC021B3A73E938BC69ED2"
+					"size"		"81C824C7C625B3013C8B676CFCE2E076"
+					"download"		"388801AC8EC7A300AF78C0C96F77967F"
 				}
 				"nixxesqa_dev2"
 				{
-					"gid"		"B152543448C772E479E6364B1EB0728D"
-					"size"		"3A3DDE6B22802AE3C88B2A79203A2AA6"
-					"download"		"0242C833ECF94AB88083CB6ACE14510C"
+					"gid"		"145C374B52FC5B6C80AFAA902822BB34"
+					"size"		"52A0794B92E38359D25A2207FD43F137"
+					"download"		"9B566F732A5887B242EC9CB863B51D03"
 				}
 				"pc_age_ratings"
 				{
@@ -3455,15 +3703,15 @@
 				}
 				"pssqa_dev1"
 				{
-					"gid"		"2CE7B9DB880D462F980CFA359210DCE6"
-					"size"		"1BA2DDEF4D82037C4A51A065B4042D89"
-					"download"		"3D77FEC27CC8E43607119C182D81017F"
+					"gid"		"5802E3375AFD20C75960DD8B0D72D57F"
+					"size"		"8E16C34D8B9841103947B15206B5F5BA"
+					"download"		"A1EA1120E1A354DE416D1B61FA7E1495"
 				}
 				"pssqa_dev2"
 				{
-					"gid"		"153484430999FACBE0F60546962A0ED7"
-					"size"		"23712CDEFC74B0431468D22782834C0D"
-					"download"		"97E03A6E0A9DDBCA056CA28BBFC29C73"
+					"gid"		"1D6C385672DC11BA2D35AE7483FFF65F"
+					"size"		"B66C6837484A2D67882122A108C357CA"
+					"download"		"62787C2BD99C7E28376D16925932848F"
 				}
 			}
 		}
@@ -3475,29 +3723,41 @@
 				"buildid"		"12256889"
 				"timeupdated"		"1695631941"
 			}
+			"amd_dev"
+			{
+				"buildid"		"12929402"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702300885"
+			}
 			"compat"
 			{
-				"buildid"		"12247425"
+				"buildid"		"12929402"
 				"pwdrequired"		"1"
-				"timeupdated"		"1695312160"
+				"timeupdated"		"1702302166"
 			}
 			"compat2"
 			{
-				"buildid"		"11626212"
+				"buildid"		"11975511"
 				"pwdrequired"		"1"
-				"timeupdated"		"1688561525"
+				"timeupdated"		"1695734564"
 			}
 			"ext_partner1"
 			{
-				"buildid"		"12078715"
+				"buildid"		"12413465"
 				"pwdrequired"		"1"
-				"timeupdated"		"1693904019"
+				"timeupdated"		"1697027715"
 			}
 			"ext_partner2"
 			{
-				"buildid"		"12236758"
+				"buildid"		"12487672"
 				"pwdrequired"		"1"
-				"timeupdated"		"1695300360"
+				"timeupdated"		"1700040167"
+			}
+			"ext_test"
+			{
+				"buildid"		"12929402"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702307008"
 			}
 			"ig_alpha"
 			{
@@ -3531,15 +3791,15 @@
 			}
 			"latest"
 			{
-				"buildid"		"12256889"
+				"buildid"		"12929402"
 				"pwdrequired"		"1"
-				"timeupdated"		"1695387474"
+				"timeupdated"		"1702299406"
 			}
 			"latest_dev"
 			{
-				"buildid"		"12270194"
+				"buildid"		"12967337"
 				"pwdrequired"		"1"
-				"timeupdated"		"1695600292"
+				"timeupdated"		"1702601295"
 			}
 			"nixxes_dev"
 			{
@@ -3549,15 +3809,15 @@
 			}
 			"nixxesqa_dev"
 			{
-				"buildid"		"11738983"
+				"buildid"		"12256889"
 				"pwdrequired"		"1"
-				"timeupdated"		"1690280126"
+				"timeupdated"		"1702477309"
 			}
 			"nixxesqa_dev2"
 			{
-				"buildid"		"11752672"
+				"buildid"		"12929402"
 				"pwdrequired"		"1"
-				"timeupdated"		"1690185292"
+				"timeupdated"		"1702300089"
 			}
 			"pc_age_ratings"
 			{
@@ -3597,15 +3857,15 @@
 			}
 			"pssqa_dev1"
 			{
-				"buildid"		"12247425"
+				"buildid"		"12929402"
 				"pwdrequired"		"1"
-				"timeupdated"		"1695312140"
+				"timeupdated"		"1702302133"
 			}
 			"pssqa_dev2"
 			{
-				"buildid"		"12236758"
+				"buildid"		"12783753"
 				"pwdrequired"		"1"
-				"timeupdated"		"1695223233"
+				"timeupdated"		"1700815976"
 			}
 		}
 	}
