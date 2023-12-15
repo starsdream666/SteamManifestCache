@@ -20,25 +20,45 @@
 		"type"		"game"
 		"steam_deck_compatibility"
 		{
-			"category"		"1"
-			"test_timestamp"		"1653436800"
-			"tested_build_id"		"2853"
+			"category"		"2"
+			"test_timestamp"		"1698883200"
+			"tested_build_id"		"12336684"
 			"tests"
 			{
 				"0"
 				{
-					"display"		"2"
-					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 				}
 			}
 			"configuration"
 			{
-				"supported_input"		"other"
+				"supported_input"		"gamepad"
 				"requires_manual_keyboard_invoke"		"0"
 				"requires_non_controller_launcher_nav"		"0"
 				"primary_player_is_controller_slot_0"		"0"
-				"non_deck_display_glyphs"		"0"
-				"small_text"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
 				"requires_internet_for_setup"		"0"
 				"requires_internet_for_singleplayer"		"0"
 				"recommended_runtime"		"proton-stable"
@@ -126,18 +146,18 @@
 			"8"		"4182"
 			"9"		"1774"
 			"10"		"1719"
-			"11"		"5611"
-			"12"		"1721"
+			"11"		"1721"
+			"12"		"5611"
 			"13"		"6650"
 			"14"		"3810"
 			"15"		"1756"
 			"16"		"21"
-			"17"		"1663"
-			"18"		"12095"
+			"17"		"12095"
+			"18"		"1663"
 			"19"		"4085"
 		}
-		"review_score"		"4"
-		"review_percentage"		"39"
+		"review_score"		"5"
+		"review_percentage"		"43"
 	}
 	"extended"
 	{
@@ -163,12 +183,32 @@
 			"0"
 			{
 				"executable"		"p3.exe"
+				"description_loc"
+				{
+					"english"		"Launch Postal III"
+				}
+				"description"		"Launch Postal III"
+			}
+			"1"
+			{
+				"executable"		"Launch Postal III.bat"
+				"type"		"default"
+				"config"
+				{
+					"betakey"		"p3fix"
+				}
+				"description_loc"
+				{
+					"english"		"Launch Postal III (localized)"
+				}
+				"description"		"Launch Postal III (localized)"
 			}
 		}
 		"steamcontrollertemplateindex"		"6"
 	}
 	"depots"
 	{
+		"overridescddb"		"1"
 		"10224"
 		{
 			"systemdefined"		"1"
@@ -185,9 +225,9 @@
 			{
 				"p3fix"
 				{
-					"gid"		"0CEEB28C6112D7A27C09465877552A23"
-					"size"		"863503B57CFC5ABC5894A95D37719CF0"
-					"download"		"401ADF6990FAFA2BAB45C69790767FAD"
+					"gid"		"331BDAC17F75D1E7C2A7F1D968400CA0"
+					"size"		"1853399F87A95E3E69F74E8B3725C861"
+					"download"		"9AE61DB1B3060D598639671EE1C86761"
 				}
 			}
 		}
@@ -207,9 +247,9 @@
 			{
 				"p3fix"
 				{
-					"gid"		"8E6703C1D1587E45FD6D549AD563367D"
-					"size"		"AFC7FCA1E4924AF12F1124A5493A5539"
-					"download"		"B265B377ECB2E2833C690E9284FE9F93"
+					"gid"		"C8724FB1C874805AF0E3CCF095FA19A4"
+					"size"		"ABA1CFF49E63D1BCE09FB73DA598C5E4"
+					"download"		"F33CF13181EB09F2D1F8769006AF1362"
 				}
 			}
 		}
@@ -232,9 +272,9 @@
 			{
 				"p3fix"
 				{
-					"gid"		"3001F60761109E1A271BE618ADA40897"
-					"size"		"9DD7A705C0B885ADE63A1461ECC04481"
-					"download"		"401ADF6990FAFA2BAB45C69790767FAD"
+					"gid"		"32985B39F736A44F0B942DAC7DD3944A"
+					"size"		"81DC869107AE93753886AAE46ACB3F4A"
+					"download"		"8E7BD5382147B75AB867438F5D080173"
 				}
 			}
 		}
@@ -257,13 +297,70 @@
 			{
 				"p3fix"
 				{
-					"gid"		"A63BCD7CB73419AEE85E25A1BE6E09CE"
-					"size"		"42FE648F3C9747829F8254D8C07BE703"
-					"download"		"401ADF6990FAFA2BAB45C69790767FAD"
+					"gid"		"9FC0D984C9CEAA27184437D147F19134"
+					"size"		"12C0695199D187095DF7D8F80C6E1B55"
+					"download"		"6A647E71B16E92AC8F51C47590F86873"
 				}
 			}
 		}
-		"overridescddb"		"1"
+		"10225"
+		{
+			"config"
+			{
+				"language"		"brazilian"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"p3fix"
+				{
+					"gid"		"9F09E51256134C7F8DFFD8952ED3A8E5"
+					"size"		"72DE37053EE4755AA4AAEEC0EE948A65"
+					"download"		"0677342DD07AF80E8A830A0E14A89266"
+				}
+			}
+		}
+		"10226"
+		{
+			"config"
+			{
+				"language"		"french"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"p3fix"
+				{
+					"gid"		"DEC2C495EA036381FC12D54109CDC4DC"
+					"size"		"CFB124D0200D192D4EF6233DAEDEFD1B"
+					"download"		"9C8FD47EB9F5AEF5EA490884DAEFC555"
+				}
+			}
+		}
+		"10227"
+		{
+			"config"
+			{
+				"language"		"german"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"p3fix"
+				{
+					"gid"		"9A7ED3E434EA0A9D64540BF291521268"
+					"size"		"68F116E3282A98427A9DE2B2C4D939B5"
+					"download"		"104A09C08A747E806DC91A068DE5DFC5"
+				}
+			}
+		}
+		"baselanguages"		"english,german,french,russian,brazilian"
 		"branches"
 		{
 			"public"
@@ -273,9 +370,9 @@
 			}
 			"p3fix"
 			{
-				"buildid"		"12336684"
+				"buildid"		"12617550"
 				"pwdrequired"		"1"
-				"timeupdated"		"1696265256"
+				"timeupdated"		"1699065376"
 			}
 		}
 	}
