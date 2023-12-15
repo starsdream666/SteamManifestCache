@@ -124,7 +124,7 @@
 				"height_pct"		"100"
 			}
 		}
-		"store_asset_mtime"		"1699522153"
+		"store_asset_mtime"		"1701948607"
 		"associations"
 		{
 			"0"
@@ -163,6 +163,7 @@
 			{
 				"supported"		"true"
 				"subtitles"		"true"
+				"full_audio"		"true"
 			}
 			"japanese"
 			{
@@ -227,21 +228,21 @@
 			"2"		"4231"
 			"3"		"4106"
 			"4"		"4667"
-			"5"		"4434"
-			"6"		"1742"
-			"7"		"4345"
+			"5"		"1742"
+			"6"		"4434"
+			"7"		"12095"
 			"8"		"6915"
-			"9"		"1695"
-			"10"		"1719"
-			"11"		"4182"
-			"12"		"12095"
+			"9"		"4182"
+			"10"		"4345"
+			"11"		"1719"
+			"12"		"1695"
 			"13"		"21"
 			"14"		"1646"
-			"15"		"1638"
-			"16"		"1756"
+			"15"		"1756"
+			"16"		"1638"
 		}
 		"review_score"		"9"
-		"review_percentage"		"96"
+		"review_percentage"		"97"
 	}
 	"extended"
 	{
@@ -338,6 +339,15 @@
 	}
 	"depots"
 	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
 		"2375551"
 		{
 			"config"
@@ -349,9 +359,9 @@
 			{
 				"public"
 				{
-					"gid"		"2450603409476971550"
-					"size"		"93017777616"
-					"download"		"69792641360"
+					"gid"		"7579217568329983947"
+					"size"		"93723682941"
+					"download"		"70533509872"
 				}
 			}
 			"encryptedmanifests"
@@ -382,15 +392,27 @@
 				}
 				"f_test"
 				{
-					"gid"		"6E4496D50693D71E8CCEC5C04C2D7B17"
-					"size"		"748B5ADE754FF24360A3A677583FAF79"
-					"download"		"AF7294147B4E29F7E75978A164EB6F98"
+					"gid"		"F2A454BA012153B3B642B49A2A69BA9F"
+					"size"		"FA37DBCA45E5C16E1A3ADA1BE22B5CE5"
+					"download"		"3FBFA41FBB26DE2E00B84D8BF60F8AF9"
+				}
+				"f_test2"
+				{
+					"gid"		"8EF9AFB28A480537E3995BB3F4E72874"
+					"size"		"40D4757F0EE89144BE5076F92963F2C8"
+					"download"		"EDBEF17AC5A6EF14C5D71AE438131DFF"
 				}
 				"media_01"
 				{
 					"gid"		"4FDBFA11B59D86FEB7B44C11B23687E7"
 					"size"		"C34B6C605A53C68A8EA4007FE3136A5F"
 					"download"		"BD65F04427D423BE79581E0A16B23786"
+				}
+				"media_02"
+				{
+					"gid"		"F427E30F99F1E07196916D3EDCE6BADE"
+					"size"		"BB675B64B8788B6D153B3C02AF55A21D"
+					"download"		"0EC43AA99DFE45A9199252880C694D9A"
 				}
 				"testing_01"
 				{
@@ -418,15 +440,15 @@
 				}
 				"work98"
 				{
-					"gid"		"B4226C828917525F618448F81A0C07E0"
-					"size"		"0C0DBB54647A36CCEC8313EB119BCFC7"
-					"download"		"94D04E901A7879FE3A636422ECBE7B07"
+					"gid"		"7F7F3B4F671194CCEA083971A87320AC"
+					"size"		"4A4BBB8991D14AB3E8C5970B6B630BE1"
+					"download"		"9903F5D99ECEAECE249253E20E84E099"
 				}
 				"work99"
 				{
-					"gid"		"B89F158AC6EFF6C3E1A5D0BFCA6501F1"
-					"size"		"A892CE332A67C3FB2E8B15233424BB9F"
-					"download"		"C33F12D45A128BE0B855FB259B18C5D6"
+					"gid"		"DB3AD592CDBECD7CCAA80B6B3600451A"
+					"size"		"BDEE927B0DD76AE81AB3D530A85F6B3A"
+					"download"		"1697883192A087E88E53C50A8C8567E9"
 				}
 			}
 		}
@@ -435,8 +457,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12676262"
-				"timeupdated"		"1700190198"
+				"buildid"		"12934982"
+				"timeupdated"		"1702609236"
 			}
 			"aabbd"
 			{
@@ -464,15 +486,27 @@
 			}
 			"f_test"
 			{
-				"buildid"		"12517178"
+				"buildid"		"12864852"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698126953"
+				"timeupdated"		"1701656545"
+			}
+			"f_test2"
+			{
+				"buildid"		"12895523"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701936745"
 			}
 			"media_01"
 			{
 				"buildid"		"12409088"
 				"pwdrequired"		"1"
 				"timeupdated"		"1697070880"
+			}
+			"media_02"
+			{
+				"buildid"		"12916552"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702342057"
 			}
 			"testing_01"
 			{
@@ -496,19 +530,19 @@
 			{
 				"buildid"		"12595939"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698888224"
+				"timeupdated"		"1701393847"
 			}
 			"work98"
 			{
-				"buildid"		"12676262"
+				"buildid"		"12934982"
 				"pwdrequired"		"1"
-				"timeupdated"		"1699838370"
+				"timeupdated"		"1702344383"
 			}
 			"work99"
 			{
-				"buildid"		"12675807"
+				"buildid"		"12934427"
 				"pwdrequired"		"1"
-				"timeupdated"		"1699841941"
+				"timeupdated"		"1702344396"
 			}
 		}
 	}
