@@ -95,7 +95,7 @@
 				"height_pct"		"74.89350648696637"
 			}
 		}
-		"store_asset_mtime"		"1700817666"
+		"store_asset_mtime"		"1702638474"
 		"associations"
 		{
 			"0"
@@ -122,6 +122,11 @@
 			{
 				"type"		"franchise"
 				"name"		"Green Man Gaming Publishing"
+			}
+			"5"
+			{
+				"type"		"franchise"
+				"name"		"Alaskan Road Truckers"
 			}
 		}
 		"primary_genre"		"28"
@@ -226,7 +231,7 @@
 		"developer"		"Road Studio S.A."
 		"publisher"		"Green Man Gaming Publishing"
 		"homepage"		"https://www.alaskanroadtruckers.com/"
-		"listofdlc"		"2600800"
+		"listofdlc"		"2600800,2704590,2709680"
 		"dlcavailableonstore"		"1"
 	}
 	"config"
@@ -244,6 +249,22 @@
 					"osarch"		"64"
 				}
 			}
+			"1"
+			{
+				"executable"		"ATS.exe"
+				"arguments"		"-dx12"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"with DirectX12 (experimental)"
+				}
+				"description"		"with DirectX12 (experimental)"
+			}
 		}
 	}
 	"depots"
@@ -255,9 +276,9 @@
 			{
 				"public"
 				{
-					"gid"		"1146880214899779998"
-					"size"		"36718029481"
-					"download"		"24997517360"
+					"gid"		"2717303113251638214"
+					"size"		"38817582099"
+					"download"		"25995090720"
 				}
 			}
 			"encryptedmanifests"
@@ -288,9 +309,9 @@
 				}
 				"dev_daily"
 				{
-					"gid"		"1AE0A53AAEEEA95ED47D6D7CC23F703B"
-					"size"		"CFF9CC563331F6AE1F17532859172B08"
-					"download"		"2655D2BBFAE38CAF45056536F2531694"
+					"gid"		"9A186764E3B38F0EE55A8777D9F9A937"
+					"size"		"55EC60B6E768F9A38C7F3497A9AEBCF6"
+					"download"		"0422B2940830C1942789CF0EE9FDFCD1"
 				}
 				"gmg_gamescom"
 				{
@@ -321,6 +342,12 @@
 					"gid"		"1D42CA53497178FF4D5350867A3DBF0C"
 					"size"		"964E1E297FE235DC27B7F681EAC6E55A"
 					"download"		"723751DDA68C19FD9AEC8EBBCC3B449D"
+				}
+				"influencerpreview"
+				{
+					"gid"		"4C1D6A32BBC35A0B1BB89E53F1CA64E1"
+					"size"		"E80D3D41CF9A9F25CB7797500E3C8111"
+					"download"		"527DECC7DAD863CF8B938AA2C66304FC"
 				}
 				"marketing"
 				{
@@ -360,9 +387,9 @@
 				}
 				"qa_testing"
 				{
-					"gid"		"F520C99BD15A8B1756BD042424C77932"
-					"size"		"D9551413BFE33F9E174C6D6AD007B2C8"
-					"download"		"03D170660FA4107A6B539F7B7C7FBC77"
+					"gid"		"07128AE0E7FFD66134178BBB30BE048A"
+					"size"		"B772E06D232A87EE90F7F33DD970FC3D"
+					"download"		"CFE4E26D23849AF410C81CD1D431DA3B"
 				}
 				"release_candidate"
 				{
@@ -403,8 +430,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12785566"
-				"timeupdated"		"1700817532"
+				"buildid"		"12964485"
+				"timeupdated"		"1702576547"
 			}
 			"art_review"
 			{
@@ -432,9 +459,9 @@
 			}
 			"dev_daily"
 			{
-				"buildid"		"12785566"
+				"buildid"		"12964485"
 				"pwdrequired"		"1"
-				"timeupdated"		"1700812097"
+				"timeupdated"		"1702575984"
 			}
 			"gmg_gamescom"
 			{
@@ -465,6 +492,12 @@
 				"buildid"		"12727296"
 				"pwdrequired"		"1"
 				"timeupdated"		"1700310652"
+			}
+			"influencerpreview"
+			{
+				"buildid"		"12964485"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702576017"
 			}
 			"marketing"
 			{
@@ -504,9 +537,9 @@
 			}
 			"qa_testing"
 			{
-				"buildid"		"12785566"
+				"buildid"		"12958093"
 				"pwdrequired"		"1"
-				"timeupdated"		"1700812185"
+				"timeupdated"		"1702541960"
 			}
 			"release_candidate"
 			{
