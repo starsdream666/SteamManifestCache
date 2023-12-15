@@ -35,8 +35,8 @@
 		"steam_deck_compatibility"
 		{
 			"category"		"3"
-			"test_timestamp"		"1655424000"
-			"tested_build_id"		"8532412"
+			"test_timestamp"		"1700697600"
+			"tested_build_id"		"12698400"
 			"tests"
 			{
 				"0"
@@ -59,23 +59,18 @@
 					"display"		"4"
 					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 				}
-				"4"
-				{
-					"display"		"1"
-					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
-				}
 			}
 			"configuration"
 			{
 				"supported_input"		"gamepad"
 				"requires_manual_keyboard_invoke"		"0"
 				"requires_non_controller_launcher_nav"		"0"
-				"primary_player_is_controller_slot_0"		"1"
+				"primary_player_is_controller_slot_0"		"0"
 				"non_deck_display_glyphs"		"0"
 				"small_text"		"0"
 				"requires_internet_for_setup"		"0"
 				"requires_internet_for_singleplayer"		"0"
-				"recommended_runtime"		"proton-7.0-3"
+				"recommended_runtime"		"native"
 				"requires_h264"		"0"
 				"gamescope_frame_limiter_not_supported"		"0"
 			}
@@ -104,7 +99,7 @@
 				"height_pct"		"100"
 			}
 		}
-		"store_asset_mtime"		"1655469263"
+		"store_asset_mtime"		"1701438755"
 		"associations"
 		{
 			"0"
@@ -333,9 +328,9 @@
 			{
 				"automated-builds"
 				{
-					"gid"		"2D01A65F10642954C71823BCEE169EEA"
-					"size"		"6B3A2D21307CB6218C2007C1B544A2DD"
-					"download"		"022B7E86DCCFD46498CFA37BA0659F1F"
+					"gid"		"9E0A29F86DE943ABF081BFA511665036"
+					"size"		"BEE95312599AF49299A73D544DFA4828"
+					"download"		"11DAB4CBB0B0A6A36B7D8EF10B35849D"
 				}
 				"capture"
 				{
@@ -375,27 +370,39 @@
 				}
 				"internal-testing"
 				{
-					"gid"		"7BAE32A77794CE0B816365F88F4F2035"
-					"size"		"A36E558DF2CC03C5E6F9058FB4F329C9"
-					"download"		"AC9BB0340457F6099B643AA5C2A13183"
+					"gid"		"A41B5EF9E092E602ABDC6D5537AC3581"
+					"size"		"A08C46C228BE7113C68A8802A2D76BAD"
+					"download"		"15A6835B52256DD51DC29BB43083E4C7"
 				}
 				"internal-testing2"
 				{
-					"gid"		"DADAD2C4B60416534928387728995B3E"
-					"size"		"E1F39E4398133EBACEC922F0F8FDDCD2"
-					"download"		"684AF241F8CC87D7FBA849986F644387"
+					"gid"		"9E67D0681C8585B0F76309A661E3AAB1"
+					"size"		"44E532E13E84B317A8B8CDD66D85080E"
+					"download"		"DC9D7D3B3B3C9DBACA2E45F1C22995F8"
 				}
 				"internal-testing3"
 				{
-					"gid"		"97C65F320B3245E64C44EFB5642A2574"
-					"size"		"95CDE42CD7717F3DBDF547826AB10381"
-					"download"		"CCC2BAEFD1DC0069FE98B4A3DA368CAC"
+					"gid"		"369EB8436E8E907C97423E0F92678CF6"
+					"size"		"C2866F6F8422CB1D4741DC3B2807124D"
+					"download"		"57DFEF3206B96F522C35A9CB2200A7D9"
+				}
+				"internal-testing4"
+				{
+					"gid"		"AA61E9EC2A209A4D10E3A27EE2379FBD"
+					"size"		"DA9F8ABCAF4ACCCAE342637ED541283B"
+					"download"		"982B67EDFC31C19128F5BCEDEE4C449F"
 				}
 				"loc-qa"
 				{
 					"gid"		"650A20D390E8211F12779AED846D6954"
 					"size"		"3757BA3518AD5374102A36E423BE2F1A"
 					"download"		"2FC084C431A61DB30319F5392E3AA35D"
+				}
+				"ost_only"
+				{
+					"gid"		"D5B64CFE1CF9E87D3536450D5EE4A53A"
+					"size"		"88C44DC37933572A8B60AD61EA9EE215"
+					"download"		"40F12F31152C7A71BEF1FF424F9A7C3C"
 				}
 				"public-test_candidate"
 				{
@@ -411,9 +418,9 @@
 				}
 				"royalrumble"
 				{
-					"gid"		"F08121356B7FBF7632247787A099631A"
-					"size"		"A7A05DB185638FF71C4E48B81A411D61"
-					"download"		"4DA2B5C4EE3872389CB925ED303D49CF"
+					"gid"		"D3F9CC6AD5A5B225747D8F467D9AD240"
+					"size"		"149B7F207F2BAEAA1AD850601B659A7C"
+					"download"		"CF7D4B371358A3EFF9CE6524049FCD8B"
 				}
 			}
 		}
@@ -436,9 +443,9 @@
 			{
 				"automated-builds"
 				{
-					"gid"		"A23D7FE7A1C826AC573C9F1132E73C02"
-					"size"		"5BE2299400072B25A40EA34C449FA49A"
-					"download"		"83C9773F4B106E7CEB6179B7ECAAE381"
+					"gid"		"A333344168C4F51955FB6C9298C26657"
+					"size"		"918DAA959CB1D4419FB1435B9E587313"
+					"download"		"03FF1358E1CCE1621E50B64DCAD7772B"
 				}
 				"capture"
 				{
@@ -478,27 +485,39 @@
 				}
 				"internal-testing"
 				{
-					"gid"		"A8E4CCF692299A8562810BADCA2D156F"
-					"size"		"27A333BFB5DBC81A52FB3C94847FE23B"
-					"download"		"825204830E7DDA566BF4CF391A5619CE"
+					"gid"		"F1BEC671129A0A9E6B239DEB501C7AD5"
+					"size"		"0B0530F0EF174599464FD46935BCB270"
+					"download"		"80356A57C5358A99CD3716FA68F7107E"
 				}
 				"internal-testing2"
 				{
-					"gid"		"F708E23C987AB914AC705D7B5FC0E7DA"
-					"size"		"0CE8AF76DDCCD4D0DC077F3E2084699D"
-					"download"		"F105CA12D3E4AB13E0B57470A82ACDBF"
+					"gid"		"5E1FBB0AEB05848D7314187AED73A590"
+					"size"		"81FAAE783CC64EC57692AF67250282E1"
+					"download"		"601B948938307834F4D7CE42ACE49481"
 				}
 				"internal-testing3"
 				{
-					"gid"		"B81FF2A8B603ED6A4936E69A11C24EC6"
-					"size"		"5F83FBE28D5FD6EBE48A0AD68C2C09D4"
-					"download"		"0650C7CFD57C944E76C8EC2BD8B4AD32"
+					"gid"		"59AA7199E2F54B58B976E2D71BC22FD7"
+					"size"		"B0FB0916C5178B838E107A216C3B2A74"
+					"download"		"24CEA3E23559CABF364D67B739940575"
+				}
+				"internal-testing4"
+				{
+					"gid"		"D698CE1C4CEF15C541F66612D5C2A172"
+					"size"		"E0DA267D49AEB3A4A3F7736E99EF60FC"
+					"download"		"E05D1F00DC2E87A245D988B1181E778C"
 				}
 				"loc-qa"
 				{
 					"gid"		"FF5085F2E68520E8BFF20715A84F1629"
 					"size"		"E4665E53115CB9938D73D02B3A91415E"
 					"download"		"4762FF235321BE917AE334D06B04606F"
+				}
+				"ost_only"
+				{
+					"gid"		"49736E1DA655324C8AB370592E8247A3"
+					"size"		"AC478235813DC164DBBC234442FCB290"
+					"download"		"8BE25AE939DFD2881D60854D7EFFA0E5"
 				}
 				"public-test_candidate"
 				{
@@ -514,9 +533,9 @@
 				}
 				"royalrumble"
 				{
-					"gid"		"B203E4E703EEE98A07898419D379C9F1"
-					"size"		"7638A1B583042F6D12BAAC7730F2360D"
-					"download"		"C78826A9A8BCB40C842CA0236BA20F91"
+					"gid"		"5A62DEE729E69BFDBEC201348D02E3D4"
+					"size"		"E97C7B3A5ACE5A09486BC7B143B95C69"
+					"download"		"F2ECAE86F8339253A8508FECC2AB96E3"
 				}
 			}
 		}
@@ -587,21 +606,33 @@
 				}
 				"internal-testing2"
 				{
-					"gid"		"B270D442DD5CADA17C3BD3E4075954DA"
-					"size"		"A0BA9CCB0B0164EECB6875FE3DB4100E"
-					"download"		"EF902518E3B7F7CE53B381B6BD117619"
+					"gid"		"705A8A02E223A3B0E4344195EA513160"
+					"size"		"D5B94AE0E220FC76D5F62A0EB6BA3956"
+					"download"		"08299AEED7D1F583C726F316E1C70DD4"
 				}
 				"internal-testing3"
 				{
-					"gid"		"5D71EB0B9E8D6211AB820768ABB823BA"
-					"size"		"5D8B8E5BD0E80353634CD2FCE15ADDCD"
-					"download"		"F50D71D887450DEBAB86702B239B129F"
+					"gid"		"E75250E436667DD89FDF3E730C15F81C"
+					"size"		"CC0049BEB9657EA0662F9325506FA1EE"
+					"download"		"CFA9C7560ABF57F5C9C8D006DE3E4C0C"
+				}
+				"internal-testing4"
+				{
+					"gid"		"44972F3EBFA2BE158BBA2B2FDCDFF7EA"
+					"size"		"B0F197B0E4FC8BAAC0CE7EBCF6C19A39"
+					"download"		"A745A7EBE163962EA330F97CAC29C3CD"
 				}
 				"loc-qa"
 				{
 					"gid"		"FBE393D454183B5EDF7E059AC08653B5"
 					"size"		"B0C61B1F006CB9A5BDD9FED8081991FB"
 					"download"		"80BA69AE1BE9E2EB461B5D14D97865B9"
+				}
+				"ost_only"
+				{
+					"gid"		"5A09F42E538121EF4B01B88387AA9DE3"
+					"size"		"E0154EA4A80F8FC1E7E64F90903D4649"
+					"download"		"A5A58AB03DCD893FD2A1727FA0063E1A"
 				}
 				"public-test_candidate"
 				{
@@ -617,9 +648,9 @@
 				}
 				"royalrumble"
 				{
-					"gid"		"BA3007131A101E07633313A8F974C0B9"
-					"size"		"25EAA20C93F46425C1EE943AA4EE8EC7"
-					"download"		"DDF058C5761C2177F046E12868D3B128"
+					"gid"		"8FD1F0F161FE0E0C7B4B303CFE64CD83"
+					"size"		"CB167161733635182003F220C73B9B20"
+					"download"		"6D46A4CAF2F0D18B983F49BB27E32888"
 				}
 			}
 		}
@@ -697,11 +728,23 @@
 					"size"		"DF49D50B750D0F33BB535C3BBF11665F"
 					"download"		"043205CEDF88F85B69EBA682145E9EEF"
 				}
+				"internal-testing4"
+				{
+					"gid"		"29710E1A555C71C2A89D3E85552A6910"
+					"size"		"4F5FB0C9C86FCBEF7B19E9E2F1786D0E"
+					"download"		"6961BBAE595EBEE4A87B349483D79C64"
+				}
 				"loc-qa"
 				{
 					"gid"		"FA53D990A5F0B7C4728C555F8BA3E63B"
 					"size"		"C0EF148DF35F28833F6A1DCA0A93777C"
 					"download"		"12544CCF05CC22ECE0476742F5C7C0E3"
+				}
+				"ost_only"
+				{
+					"gid"		"4EB594FCBB09868F2995B86AA3A24ED7"
+					"size"		"FFC4E51BC96F01B226F6FEC3B9F01BD7"
+					"download"		"B311566C23066EED5D5EB562AC29928C"
 				}
 				"public-test_candidate"
 				{
@@ -717,9 +760,9 @@
 				}
 				"royalrumble"
 				{
-					"gid"		"2ECED1AEE0D7708BB4ECB5B3D0651939"
-					"size"		"0F6ACB1963FE4E20C8F56B8A5C48F637"
-					"download"		"FFA2BCFE2F884C1AD1525A149BBF32BA"
+					"gid"		"9EB7EDA769EDBE578325CB06A2A46D81"
+					"size"		"9D99DA350A20811DF2702A6DB8FBEFA0"
+					"download"		"396F7323EF4703E1E3765073B516E6E3"
 				}
 			}
 		}
@@ -736,9 +779,9 @@
 			}
 			"automated-builds"
 			{
-				"buildid"		"12695574"
+				"buildid"		"12968795"
 				"pwdrequired"		"1"
-				"timeupdated"		"1699934095"
+				"timeupdated"		"1702615679"
 			}
 			"capture"
 			{
@@ -778,27 +821,39 @@
 			}
 			"internal-testing"
 			{
-				"buildid"		"12630315"
+				"buildid"		"12836540"
 				"pwdrequired"		"1"
-				"timeupdated"		"1699279433"
+				"timeupdated"		"1701331204"
 			}
 			"internal-testing2"
 			{
-				"buildid"		"12659268"
+				"buildid"		"12890830"
 				"pwdrequired"		"1"
-				"timeupdated"		"1699523889"
+				"timeupdated"		"1701873454"
 			}
 			"internal-testing3"
 			{
-				"buildid"		"12648928"
+				"buildid"		"12940399"
 				"pwdrequired"		"1"
-				"timeupdated"		"1699437668"
+				"timeupdated"		"1702387903"
+			}
+			"internal-testing4"
+			{
+				"buildid"		"12870817"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701707182"
 			}
 			"loc-qa"
 			{
 				"buildid"		"10684165"
 				"pwdrequired"		"1"
 				"timeupdated"		"1677849408"
+			}
+			"ost_only"
+			{
+				"buildid"		"12698892"
+				"pwdrequired"		"1"
+				"timeupdated"		"1699963479"
 			}
 			"public-test_candidate"
 			{
@@ -814,9 +869,9 @@
 			}
 			"royalrumble"
 			{
-				"buildid"		"12660241"
+				"buildid"		"12902173"
 				"pwdrequired"		"1"
-				"timeupdated"		"1699530400"
+				"timeupdated"		"1701964622"
 			}
 		}
 	}
