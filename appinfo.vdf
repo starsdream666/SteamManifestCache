@@ -1,0 +1,293 @@
+"appinfo"
+{
+	"appid"		"2022990"
+	"common"
+	{
+		"name"		"Flying Shark"
+		"type"		"Game"
+		"icon"		"4004451ea9ee006be13a606996c37ba061684350"
+		"clienticon"		"f476ea9662351257facb0f27958772728f14a9e3"
+		"clienttga"		"ce93befe3ebd8f72cbcd75153f73e1d0e0080d99"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64,macosapplesilicon"
+		"releasestate"		"released"
+		"controllertagwizard"		"1"
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+		}
+		"store_asset_mtime"		"1692888323"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Bitwave Games"
+			}
+			"1"
+			{
+				"type"		"developer"
+				"name"		"Toaplan"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Bitwave Games"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Toaplan Arcade Collection"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_28"		"1"
+			"category_15"		"1"
+			"category_25"		"1"
+			"category_55"		"1"
+			"category_56"		"1"
+			"category_57"		"1"
+			"category_58"		"1"
+			"category_59"		"1"
+			"category_60"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1692880076"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2022990"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"1773"
+			"2"		"4255"
+			"3"		"3871"
+			"4"		"4004"
+			"5"		"7481"
+			"6"		"5154"
+			"7"		"4182"
+		}
+		"review_score"		"7"
+		"review_percentage"		"100"
+	}
+	"extended"
+	{
+		"developer"		"Bitwave Games"
+		"publisher"		"Bitwave Games"
+		"homepage"		"https://www.bitwavegames.com/games/flying-shark"
+	}
+	"config"
+	{
+		"installdir"		"Flying Shark"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"FlyingShark.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"FlyingShark.x64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"2"
+			{
+				"executable"		"FlyingShark.app"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"13"
+		"steamdecktouchscreen"		"5"
+		"steaminputmanifestpath"		"steam_input_manifest.vdf"
+		"steamconfigurator3rdpartynative"		"65535"
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"2022991"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1471791797452750993"
+					"size"		"3057106"
+					"download"		"2457808"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"4D538C4154D05C368AA57702828CB582"
+					"size"		"E4AD7E7F48900DF177E8F3B54ECC52F5"
+					"download"		"87B059D9AE75664C1EC2113FC13D0BE9"
+				}
+			}
+		}
+		"2022992"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6837235556200042771"
+					"size"		"5021149"
+					"download"		"1932992"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"598572D17E67EE4315DBC9B843EF38C5"
+					"size"		"925AC692E611BE4A529E0F3CE73B8E0C"
+					"download"		"B89F9E776642FFA1F6928782431C83F4"
+				}
+			}
+		}
+		"2022993"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3927502904367319422"
+					"size"		"3565097"
+					"download"		"1593936"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"0EC2626F986BEC981C5ED27775DF8F0B"
+					"size"		"E2DD7F34748232CFEDF920B0FA6C403E"
+					"download"		"6959B9FD9DF49BB9E72A49D47825F9B3"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12927763"
+				"timeupdated"		"1702469494"
+			}
+			"test"
+			{
+				"buildid"		"12927763"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702287491"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinSavedGames"
+				"path"		"Flying Shark/{64BitSteamID}"
+				"pattern"		"*"
+				"recursive"		"1"
+			}
+			"1"
+			{
+				"root"		"WinSavedGames"
+				"path"		"Sky Shark/{64BitSteamID}"
+				"pattern"		"*"
+				"recursive"		"1"
+			}
+			"2"
+			{
+				"root"		"WinSavedGames"
+				"path"		"Hishou Zame/{64BitSteamID}"
+				"pattern"		"*"
+				"recursive"		"1"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinSavedGames"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacHome"
+				"addpath"		"/SavedGames/"
+			}
+			"1"
+			{
+				"root"		"WinSavedGames"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxHome"
+				"addpath"		"SavedGames/"
+			}
+		}
+	}
+}
