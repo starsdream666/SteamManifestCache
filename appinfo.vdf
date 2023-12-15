@@ -21,31 +21,26 @@
 		"steam_deck_compatibility"
 		{
 			"category"		"2"
-			"test_timestamp"		"1701302400"
-			"tested_build_id"		"12771409"
+			"test_timestamp"		"1702425600"
+			"tested_build_id"		"12911599"
 			"tests"
 			{
 				"0"
 				{
 					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
-				}
-				"1"
-				{
-					"display"		"3"
 					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
 				}
-				"2"
+				"1"
 				{
 					"display"		"4"
 					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 				}
-				"3"
+				"2"
 				{
 					"display"		"4"
 					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
 				}
-				"4"
+				"3"
 				{
 					"display"		"4"
 					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
@@ -54,7 +49,7 @@
 			"configuration"
 			{
 				"supported_input"		"gamepad"
-				"requires_manual_keyboard_invoke"		"1"
+				"requires_manual_keyboard_invoke"		"0"
 				"requires_non_controller_launcher_nav"		"0"
 				"primary_player_is_controller_slot_0"		"0"
 				"non_deck_display_glyphs"		"0"
@@ -64,6 +59,7 @@
 				"recommended_runtime"		"proton-stable"
 				"requires_h264"		"1"
 				"gamescope_frame_limiter_not_supported"		"0"
+				"hdr_support"		"0"
 			}
 		}
 		"metacritic_name"		"Builder Simulator"
@@ -118,6 +114,11 @@
 			{
 				"type"		"franchise"
 				"name"		"Builder Simulator"
+			}
+			"5"
+			{
+				"type"		"franchise"
+				"name"		"Frozen Way"
 			}
 		}
 		"primary_genre"		"28"
@@ -281,6 +282,12 @@
 					"size"		"700AE6FCFD49441FC4CD951D0E6E00B5"
 					"download"		"1794B0B3C2B4E7DE40E3285F97234CBC"
 				}
+				"macbuild"
+				{
+					"gid"		"26ABEE008FFC7C13885474B2C3F55F1A"
+					"size"		"0A1AFB7EB54E95BEDC872C9005488653"
+					"download"		"C1DB5D1AB7F29F4DE0A985EEAA4F0F1C"
+				}
 				"nagrywki"
 				{
 					"gid"		"ECEB85C4DA8FC5627EFBDEE7252F653A"
@@ -301,9 +308,9 @@
 				}
 				"steamdecktest"
 				{
-					"gid"		"B5EEB5FE511CB4BB716AE7502585DE3A"
-					"size"		"82503A9C9A5F401AF8245EA5C45CA0D1"
-					"download"		"97CB306C820D0C953D7B951BD50F47EB"
+					"gid"		"F165584E07B68A4BB72AF3689A832598"
+					"size"		"ED64D60E9B66A0684C8112363913834C"
+					"download"		"29D641C10F670C3CEE3610DCE36157C2"
 				}
 				"steamdecktest2"
 				{
@@ -344,6 +351,12 @@
 				"pwdrequired"		"1"
 				"timeupdated"		"1684744937"
 			}
+			"macbuild"
+			{
+				"buildid"		"12965401"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702584315"
+			}
 			"nagrywki"
 			{
 				"buildid"		"8858166"
@@ -364,9 +377,9 @@
 			}
 			"steamdecktest"
 			{
-				"buildid"		"12908142"
+				"buildid"		"12911599"
 				"pwdrequired"		"1"
-				"timeupdated"		"1702019699"
+				"timeupdated"		"1702065474"
 			}
 			"steamdecktest2"
 			{
