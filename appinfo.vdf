@@ -46,7 +46,56 @@
 				"version"		"2"
 			}
 		}
-		"controller_support"		"full"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1701475200"
+			"tested_build_id"		"12302815"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DisplayOutputNotCorrectlyScaled"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"1"
+			}
+		}
+		"controllertagwizard"		"1"
+		"controller_support"		"partial"
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
@@ -73,7 +122,7 @@
 				"height_pct"		"50"
 			}
 		}
-		"store_asset_mtime"		"1700153473"
+		"store_asset_mtime"		"1701218331"
 		"associations"
 		{
 			"0"
@@ -106,8 +155,12 @@
 			"category_36"		"1"
 			"category_23"		"1"
 			"category_25"		"1"
-			"category_28"		"1"
 			"category_22"		"1"
+			"category_18"		"1"
+			"category_55"		"1"
+			"category_56"		"1"
+			"category_57"		"1"
+			"category_58"		"1"
 		}
 		"supported_languages"
 		{
@@ -211,9 +264,10 @@
 			"6"		"4106"
 			"7"		"4182"
 			"8"		"1743"
+			"9"		"1775"
 		}
-		"review_score"		"4"
-		"review_percentage"		"36"
+		"review_score"		"5"
+		"review_percentage"		"48"
 	}
 	"extended"
 	{
@@ -299,9 +353,15 @@
 				}
 				"dev-debug-v110"
 				{
-					"gid"		"ECFE150A179912FEE3145AA92354C1B3"
-					"size"		"2D314F0566D748B5219397023E03E6F3"
-					"download"		"5EFC93470BDD03CE8C43682C751880B0"
+					"gid"		"8BC8EC8A2E0E4ED02AD7C4F07B35001A"
+					"size"		"DB417A908BAE3626CB977DBE2AC2A5FB"
+					"download"		"69DFF094B40A3ACA7333E7373EB686EE"
+				}
+				"dev-debug-v120"
+				{
+					"gid"		"D55AEA28586E738A4F9BDF82CA45F8D7"
+					"size"		"B3DC3E713B0570AE0AC53AB476BA1F95"
+					"download"		"E397FACFF105AC869E51FE529827B8F0"
 				}
 				"dev-release"
 				{
@@ -311,9 +371,9 @@
 				}
 				"dev-release-v110"
 				{
-					"gid"		"44E8BF3899006A52B936D8C27ED00555"
-					"size"		"4806B00C50589058B3D4C927A615C514"
-					"download"		"B346AAE0CC333135593917123C313810"
+					"gid"		"F335BAFE2A066644D9E884E2EBB61982"
+					"size"		"5AE08A9B46EA1DD32D7767D9DE4D8B51"
+					"download"		"0017A9E34F753457E012B54B2C845FCA"
 				}
 				"development"
 				{
@@ -347,9 +407,9 @@
 				}
 				"qa-debug-v110"
 				{
-					"gid"		"015AF77568F6EBDB676F4D2805F92779"
-					"size"		"EB4110A4AB420C9F8B5E35C8DF6A1BE8"
-					"download"		"1A814F4318AE2A7E81BF72C53D305801"
+					"gid"		"74E2241D5B2A0CA4361E052974FF4299"
+					"size"		"8A88F7B9DE11AEA99BEB9346A0AE94D6"
+					"download"		"A580C1604C4BD691A62A988C828C8E68"
 				}
 				"qa-release"
 				{
@@ -359,9 +419,9 @@
 				}
 				"qa-release-v110"
 				{
-					"gid"		"72BAE98FA9F5C8D80F76A7D54970CB91"
-					"size"		"EFD3B327E39A40755DC244B2790ED4D5"
-					"download"		"636CBC7E6389C209D6020B386DB74A66"
+					"gid"		"CC3AE6B9E92B784BD7FEE9C0213ABBEB"
+					"size"		"25C19A4DBA8E6DA7B71CA9445A0AA540"
+					"download"		"7ED90AA787E32342D9CEBF97738A667D"
 				}
 				"submission"
 				{
@@ -410,6 +470,12 @@
 					"gid"		"75E4915A4D4F8199B43C8CD97DD2894D"
 					"size"		"86FF5F3778C3D7436676F88436132B5B"
 					"download"		"6760E0A1C0F2ACD263368B207475E18D"
+				}
+				"dev-debug-v120"
+				{
+					"gid"		"EB70709B26FD5F224F00DDF52495CE04"
+					"size"		"DCC222AC1BCE22EB06B980039FD3D565"
+					"download"		"7792B181771D6C6B6772CAC25E7B0D6E"
 				}
 				"dev-release"
 				{
@@ -512,9 +578,15 @@
 			}
 			"dev-debug-v110"
 			{
-				"buildid"		"12713905"
+				"buildid"		"12969622"
 				"pwdrequired"		"1"
-				"timeupdated"		"1700081280"
+				"timeupdated"		"1702625059"
+			}
+			"dev-debug-v120"
+			{
+				"buildid"		"12968612"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702613500"
 			}
 			"dev-release"
 			{
@@ -524,9 +596,9 @@
 			}
 			"dev-release-v110"
 			{
-				"buildid"		"12714164"
+				"buildid"		"12969461"
 				"pwdrequired"		"1"
-				"timeupdated"		"1700083095"
+				"timeupdated"		"1702623280"
 			}
 			"development"
 			{
@@ -560,9 +632,9 @@
 			}
 			"qa-debug-v110"
 			{
-				"buildid"		"12713905"
+				"buildid"		"12893434"
 				"pwdrequired"		"1"
-				"timeupdated"		"1700123098"
+				"timeupdated"		"1701908051"
 			}
 			"qa-release"
 			{
@@ -572,9 +644,9 @@
 			}
 			"qa-release-v110"
 			{
-				"buildid"		"12714164"
+				"buildid"		"12893564"
 				"pwdrequired"		"1"
-				"timeupdated"		"1700123083"
+				"timeupdated"		"1701908039"
 			}
 			"submission"
 			{
