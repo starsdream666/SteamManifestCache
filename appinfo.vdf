@@ -291,6 +291,36 @@
 					"oslist"		"macos"
 				}
 			}
+			"5"
+			{
+				"executable"		"ProjectHospital.x86_64"
+				"arguments"		"-force-vulkan"
+				"type"		"option3"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+				"description_loc"
+				{
+					"english"		"with Vuklan (SteamDeck)"
+				}
+				"description"		"with Vuklan (SteamDeck)"
+			}
+			"6"
+			{
+				"executable"		"ProjectHospital.x86_64"
+				"arguments"		"-force-vulkan -screen-fullscreen 0 "
+				"type"		"option3"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+				"description_loc"
+				{
+					"english"		"with Vulkan, force windowed"
+				}
+				"description"		"with Vulkan, force windowed"
+			}
 		}
 		"steamcontrollertemplateindex"		"1"
 		"steamcontrollerconfigdetails"
