@@ -71,6 +71,7 @@
 			}
 		}
 		"nokeyboardmouse"		"1"
+		"controllertagwizard"		"1"
 		"controller_support"		"full"
 		"small_capsule"
 		{
@@ -124,6 +125,10 @@
 			"category_23"		"1"
 			"category_28"		"1"
 			"category_43"		"1"
+			"category_55"		"1"
+			"category_56"		"1"
+			"category_57"		"1"
+			"category_58"		"1"
 		}
 		"supported_languages"
 		{
@@ -249,9 +254,9 @@
 			{
 				"public"
 				{
-					"gid"		"7294875257857819836"
-					"size"		"19317407119"
-					"download"		"11488755712"
+					"gid"		"239404465863465713"
+					"size"		"19366759421"
+					"download"		"11504420096"
 				}
 				"previous_version"
 				{
@@ -261,15 +266,15 @@
 				}
 				"public_beta"
 				{
-					"gid"		"475313424184575190"
-					"size"		"17600865030"
-					"download"		"10183759136"
+					"gid"		"7294875257857819836"
+					"size"		"19317407119"
+					"download"		"11488755712"
 				}
 				"steamdeck"
 				{
-					"gid"		"475313424184575190"
-					"size"		"17600865030"
-					"download"		"10183759136"
+					"gid"		"7294875257857819836"
+					"size"		"19317407119"
+					"download"		"11488755712"
 				}
 			}
 			"encryptedmanifests"
@@ -279,6 +284,12 @@
 					"gid"		"F3C8F171B136FAB8A6E32F1734EF8674"
 					"size"		"E2242B35A7F71826CD23E20FBBF569B8"
 					"download"		"B837BDFC36B4EC674488BA1B11F2A089"
+				}
+				"craterpark"
+				{
+					"gid"		"458354A17C5985955E27F49630DC7CD1"
+					"size"		"7C221861ED0D11D0A0557B2D39EDCB6D"
+					"download"		"B5006222DEAD0E765ABD0387B53AC937"
 				}
 				"debug"
 				{
@@ -294,9 +305,9 @@
 				}
 				"develop"
 				{
-					"gid"		"4A14333FB2079FF658C99C4EA012B5C0"
-					"size"		"55F1E20FE551054D6097042EF687B8FD"
-					"download"		"EA024659686B61252A773C825AEC88C6"
+					"gid"		"BDF6193EEDC5D040366BDF007D7C6CC9"
+					"size"		"E4D6CB0AB12761670D7D6C1AE4EA587B"
+					"download"		"02265C2B117EBE53470B9676D52700CA"
 				}
 				"dlctest"
 				{
@@ -360,14 +371,20 @@
 		{
 			"public"
 			{
-				"buildid"		"12772925"
-				"timeupdated"		"1701158565"
+				"buildid"		"12951385"
+				"timeupdated"		"1702646083"
 			}
 			"content_preview"
 			{
 				"buildid"		"12641683"
 				"pwdrequired"		"1"
 				"timeupdated"		"1699383961"
+			}
+			"craterpark"
+			{
+				"buildid"		"12912949"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702052164"
 			}
 			"debug"
 			{
@@ -383,9 +400,9 @@
 			}
 			"develop"
 			{
-				"buildid"		"12772925"
+				"buildid"		"12951385"
 				"pwdrequired"		"1"
-				"timeupdated"		"1700669588"
+				"timeupdated"		"1702475684"
 			}
 			"dlctest"
 			{
@@ -425,15 +442,15 @@
 			}
 			"public_beta"
 			{
-				"buildid"		"11504158"
+				"buildid"		"12772925"
 				"description"		"For Public beta builds prior to release"
-				"timeupdated"		"1695814129"
+				"timeupdated"		"1701213408"
 			}
 			"steamdeck"
 			{
-				"buildid"		"11504158"
+				"buildid"		"12772925"
 				"description"		"if the main branch doesn't work, use this one"
-				"timeupdated"		"1687169845"
+				"timeupdated"		"1701213417"
 			}
 			"test_bundles"
 			{
