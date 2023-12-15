@@ -318,6 +318,21 @@
 					"osarch"		"64"
 				}
 			}
+			"1"
+			{
+				"executable"		"start_protected_game.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"nnc-live-internal"
+				}
+				"description_loc"
+				{
+					"english"		"For NNC testing"
+				}
+				"description"		"For NNC testing"
+			}
 		}
 		"steamcontrollertouchtemplateindex"		"1"
 		"steamcontrollertouchconfigdetails"
@@ -373,11 +388,17 @@
 					"size"		"4BDFAFBDF7F7569E040454A88FACE9D8"
 					"download"		"9C8B3C13452D745447539BA587249A48"
 				}
+				"nnc-live-internal"
+				{
+					"gid"		"5B913F10716618961CC6139937A5514C"
+					"size"		"18C6ED656AA2A8AD92EAEEAA090E80B7"
+					"download"		"1990B7B3BB831C954E58F18F9A2876F1"
+				}
 				"public-test-internal"
 				{
-					"gid"		"0167B8B104AB122F49EB35A60573CA1D"
-					"size"		"C34A6FAFC50B36CC926FF01503A4140E"
-					"download"		"3FE68B1F50081D38C32685768D1BAD77"
+					"gid"		"CA6DC97B8249BCB6E8351F150D09D158"
+					"size"		"977041E8D24FEDE03EE83E3ED933C565"
+					"download"		"3D9B4AC723D2E4C3439FFB990B507954"
 				}
 				"shipping-cert-internal"
 				{
@@ -399,9 +420,9 @@
 				}
 				"shipping-qa-internal2"
 				{
-					"gid"		"C78F2FFBB3BE7D107E2E57C55C5EA29B"
-					"size"		"7D5964C4BE13DD5607BBC693A490B1FE"
-					"download"		"AC848EA53D21B14F47CAF134739019CA"
+					"gid"		"B35791D42AA28C2764383BB1DE088317"
+					"size"		"C63C65FC3A5AA51B92E20934F63198EC"
+					"download"		"BD08A0E0245EE9765CD3D84E24BE6C26"
 				}
 				"shipping-stage-internal"
 				{
@@ -436,6 +457,12 @@
 					"gid"		"B86CB8FFAF6C382447C82B739B33CBBB"
 					"size"		"C5494A89A30D64D4F05B5BAA2CD955DA"
 					"download"		"0870546D1421A4FC029EAD7A06B90EEB"
+				}
+				"nnc-live-internal"
+				{
+					"gid"		"9B07E5992724464D8729D493E9755522"
+					"size"		"74CBD58D3B7C04A754069ADFC942041B"
+					"download"		"7A3078C78456F6C3A9C7803F7929DECD"
 				}
 				"public-test-internal"
 				{
@@ -494,11 +521,17 @@
 				"pwdrequired"		"1"
 				"timeupdated"		"1702483299"
 			}
+			"nnc-live-internal"
+			{
+				"buildid"		"12907140"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702499839"
+			}
 			"public-test-internal"
 			{
-				"buildid"		"12635648"
+				"buildid"		"12972255"
 				"pwdrequired"		"1"
-				"timeupdated"		"1699323853"
+				"timeupdated"		"1702644277"
 			}
 			"shipping-cert-internal"
 			{
@@ -520,9 +553,9 @@
 			}
 			"shipping-qa-internal2"
 			{
-				"buildid"		"12785229"
+				"buildid"		"12963689"
 				"pwdrequired"		"1"
-				"timeupdated"		"1700776488"
+				"timeupdated"		"1702570735"
 			}
 			"shipping-stage-internal"
 			{
