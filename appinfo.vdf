@@ -12,6 +12,54 @@
 		"oslist"		"windows"
 		"osarch"		""
 		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1701216000"
+			"tested_build_id"		"12331072"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
@@ -94,7 +142,7 @@
 			"19"		"4182"
 		}
 		"review_score"		"8"
-		"review_percentage"		"88"
+		"review_percentage"		"87"
 	}
 	"extended"
 	{
@@ -140,18 +188,18 @@
 				}
 				"experimental"
 				{
-					"gid"		"3577024283077961544"
+					"gid"		"2341097795081481255"
 					"size"		"1212068330"
-					"download"		"817320624"
+					"download"		"817320832"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"experimental-private"
 				{
-					"gid"		"1B52841437DE6D6FCB1531EEC46573A4"
+					"gid"		"B77795E2A48C6607776C6E27FE78099E"
 					"size"		"297D63C676EE692E0CAAB71D4409ED01"
-					"download"		"E0DE354B625B5829805F851638ACD439"
+					"download"		"1D10E70014AC8CA239BA7FD73AB51CC5"
 				}
 			}
 		}
@@ -164,15 +212,15 @@
 			}
 			"experimental"
 			{
-				"buildid"		"12368117"
+				"buildid"		"12713623"
 				"description"		"Latest and potentially buggiest build."
-				"timeupdated"		"1696538057"
+				"timeupdated"		"1700079843"
 			}
 			"experimental-private"
 			{
-				"buildid"		"12368117"
+				"buildid"		"12713623"
 				"pwdrequired"		"1"
-				"timeupdated"		"1696537167"
+				"timeupdated"		"1700079584"
 			}
 		}
 	}
