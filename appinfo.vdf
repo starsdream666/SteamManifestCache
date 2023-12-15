@@ -44,8 +44,8 @@
 		"steam_deck_compatibility"
 		{
 			"category"		"1"
-			"test_timestamp"		"1646438400"
-			"tested_build_id"		"8107476"
+			"test_timestamp"		"1697846400"
+			"tested_build_id"		"11669853"
 			"tests"
 			{
 				"0"
@@ -56,16 +56,17 @@
 			}
 			"configuration"
 			{
-				"supported_input"		"simultaneous_gamepad_mouse"
+				"supported_input"		"gamepad"
 				"requires_manual_keyboard_invoke"		"0"
 				"requires_non_controller_launcher_nav"		"0"
-				"primary_player_is_controller_slot_0"		"0"
-				"non_deck_display_glyphs"		"0"
-				"small_text"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
 				"requires_internet_for_setup"		"0"
 				"requires_internet_for_singleplayer"		"0"
 				"recommended_runtime"		"proton-stable"
-				"requires_h264"		"0"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
 			}
 		}
 		"metacritic_name"		"Hot Lava"
@@ -93,7 +94,7 @@
 				"height_pct"		"100"
 			}
 		}
-		"store_asset_mtime"		"1686851851"
+		"store_asset_mtime"		"1701911458"
 		"associations"
 		{
 			"0"
@@ -222,8 +223,8 @@
 			"7"		"1775"
 			"8"		"1625"
 			"9"		"4026"
-			"10"		"7208"
-			"11"		"3859"
+			"10"		"3859"
+			"11"		"7208"
 			"12"		"19"
 			"13"		"21"
 			"14"		"14720"
@@ -316,33 +317,9 @@
 				}
 				"nightly"
 				{
-					"gid"		"6E4193E94719623A66323FBC46423183"
-					"size"		"1AB16079603F1CC783CCBF8287E2A1D7"
-					"download"		"07564983536B7F20C752A7F7F5012D7E"
-				}
-				"platformtest"
-				{
-					"gid"		"6FBE98562C024EB1584ADE75AB29F9CF"
-					"size"		"C5F640D965449FBAA01C1C8889E1F06A"
-					"download"		"1F92E76D309737BE04080DCF93B1F27A"
-				}
-				"publictest_staging"
-				{
-					"gid"		"3B7D6DC83B597063177A47C928FA2569"
-					"size"		"8CAA05734D04A2031AFDC59D95A60B91"
-					"download"		"63138DFC347693BB3C6F4B181914B2D3"
-				}
-				"staging"
-				{
-					"gid"		"D31F308E7BE0464704D06E596BADD579"
-					"size"		"AE44D24056C9027D05FD855D70BCBA85"
-					"download"		"70C8DF1C18557BBEC428EB0CB78C221E"
-				}
-				"translation_debug"
-				{
-					"gid"		"A638F5FC0EC373D5718B8FCAD899C4E9"
-					"size"		"003E6B000493C7C48A1CA8507C5818F1"
-					"download"		"4C4FA6A3B538F3709A987351E1458FDB"
+					"gid"		"C4C001A92663607D68E2CC2684100601"
+					"size"		"E7DD392F6DEB639356A54E54B02D58C5"
+					"download"		"75CCC518814680E00AF984542584AE0A"
 				}
 			}
 		}
@@ -367,33 +344,9 @@
 			}
 			"nightly"
 			{
-				"buildid"		"12316127"
+				"buildid"		"12960991"
 				"pwdrequired"		"1"
-				"timeupdated"		"1695984639"
-			}
-			"platformtest"
-			{
-				"buildid"		"3055362"
-				"pwdrequired"		"1"
-				"timeupdated"		"1534960180"
-			}
-			"publictest_staging"
-			{
-				"buildid"		"3215530"
-				"pwdrequired"		"1"
-				"timeupdated"		"1539646442"
-			}
-			"staging"
-			{
-				"buildid"		"6506088"
-				"pwdrequired"		"1"
-				"timeupdated"		"1617918408"
-			}
-			"translation_debug"
-			{
-				"buildid"		"6209176"
-				"pwdrequired"		"1"
-				"timeupdated"		"1618445524"
+				"timeupdated"		"1702553778"
 			}
 		}
 	}
