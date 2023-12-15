@@ -18,10 +18,10 @@
 		{
 			"0"
 			{
-				"id"		"513710_eula_0"
+				"id"		"513710_eula_1"
 				"name"		"SCUM EULA"
-				"url"		"https://store.steampowered.com//eula/513710_eula_0"
-				"version"		"1"
+				"url"		"https://store.steampowered.com//eula/513710_eula_1"
+				"version"		"5"
 			}
 		}
 		"languages"
@@ -70,6 +70,7 @@
 			}
 		}
 		"metacritic_name"		"SCUM"
+		"controllertagwizard"		"1"
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
@@ -92,7 +93,7 @@
 				"height_pct"		"80"
 			}
 		}
-		"store_asset_mtime"		"1691168352"
+		"store_asset_mtime"		"1702562398"
 		"associations"
 		{
 			"0"
@@ -241,7 +242,7 @@
 		"developer"		"Gamepires"
 		"publisher"		"Jagex Ltd"
 		"homepage"		"http://www.scumgame.com"
-		"listofdlc"		"919680,1643210,1990860,2321800,2371620,2517160,2517170"
+		"listofdlc"		"919680,1643210,1990860,2321800,2371620,2517160,2517170,2651740,2651750"
 		"dlcavailableonstore"		"1"
 	}
 	"config"
@@ -323,9 +324,9 @@
 			{
 				"public"
 				{
-					"gid"		"7124815925997600989"
-					"size"		"76335726533"
-					"download"		"29296504560"
+					"gid"		"561690443093563624"
+					"size"		"81918222335"
+					"download"		"30787686912"
 				}
 			}
 			"encryptedmanifests"
@@ -350,33 +351,45 @@
 				}
 				"alpha"
 				{
-					"gid"		"541D5EE8390D0E58E657C1646BFD2D8D"
-					"size"		"3E7984EB814996F17FC95F0AAC5AC19F"
-					"download"		"BE32B08C841A94B248D6978D0F5C4C46"
+					"gid"		"D4D873EE0CD2FCF9C42AEC5684CA24A8"
+					"size"		"07C4DF4A3341DF8860F492B9A56E3450"
+					"download"		"F1ED0440480395B79BD0F9FCA0B9A422"
 				}
 				"event_branch"
 				{
-					"gid"		"3A84C1DED645C2898EDA0BFA0F26257D"
-					"size"		"7D682D1B52EF7B8D67BA9E4284C91326"
-					"download"		"D9F9D66219794D0D213E2B0E31F3D686"
+					"gid"		"A67434DFA8D0DCE013613166BEB3A9B7"
+					"size"		"6F6462839C4E8DBCAD3F0F311CDCA80D"
+					"download"		"A4BD63D3F9D73914CD68BD951221D36F"
 				}
 				"event_branch2"
 				{
-					"gid"		"D8B4A5B2EFE0D9ABC40285B01B9C5028"
-					"size"		"183EFE5AFACCBCF6DAD11EBC9F42924E"
-					"download"		"0CC7E6123EE6AF9716F0554D1E865F4B"
+					"gid"		"F8523C606559877DF21F53C6AA13715B"
+					"size"		"48FB13E5B281291DDB2FEEB7D166EED7"
+					"download"		"71269E4A883E2A04BC20766BFA1B46BC"
 				}
 				"hometestdev"
 				{
-					"gid"		"D9CD8619135BAB83411799187F9B0078"
-					"size"		"56A8A5F6F551DB2A6D0005B5DF516E67"
-					"download"		"1A5B1D67045B373C34D31C676132E79D"
+					"gid"		"0CBECDDCC645F07DB174380BA25FA457"
+					"size"		"1421222FC9F9E60D6839D5B999FCD980"
+					"download"		"580D8828BD580DED01E995D3511A4BEC"
 				}
 				"hometests"
 				{
-					"gid"		"1F626D14010CE1838F9ED7A0D1371B11"
-					"size"		"FDA9471C8C2717389754586020D212D8"
-					"download"		"C967002339D509DAABBE075F3E4C6EE8"
+					"gid"		"6E6EA9AD90216F9330D4E5B55E77F1EC"
+					"size"		"B9C11B4ABDB24A505DD36A372937225B"
+					"download"		"7A5BFF3A5FA8009FCAAB14A69F433FD1"
+				}
+				"jagexqa"
+				{
+					"gid"		"D5C26F4E314C3663DFBCE9646F35FE99"
+					"size"		"776BEF3B59FC2FF5B1D8F918AF802425"
+					"download"		"7DCD4005A4CCB50FBE4DF5FEB705BCA0"
+				}
+				"nvidiatest"
+				{
+					"gid"		"D98998009B87912566CE7EA8C59836E7"
+					"size"		"418804B9055B803EFB8A6C8B0643F7E5"
+					"download"		"CFC6630E2ECF7F299FA8B03BD6899282"
 				}
 				"reverttest"
 				{
@@ -389,6 +402,12 @@
 					"gid"		"D65A32E7591570F21B2B4CABB111ED6D"
 					"size"		"F18C135A36B15040E531CF4991DBEE65"
 					"download"		"B1D1F07F9FAFC003B4220785E1B63E4A"
+				}
+				"trecimaloveci"
+				{
+					"gid"		"CDECFE1E8F35DCE081735DE1A4AD5543"
+					"size"		"A8A98B55EE1FB6DF9EDF8B00CA74EFD3"
+					"download"		"A9FB15EAC9A253DC1F116FB0184FBB67"
 				}
 			}
 		}
@@ -437,15 +456,15 @@
 				}
 				"event_branch"
 				{
-					"gid"		"2DFFEE0C4BAE57E9D6D3D3E4B327C6D5"
-					"size"		"188650B74ECC4F57BF2D31E4533CAA6A"
-					"download"		"003E2580C3EF781FAD00E04DDAF6BA89"
+					"gid"		"90E63AAD6624C2F27BB3AB62912D1479"
+					"size"		"0C3E7E71CC07EA12E930CBA3E96591CE"
+					"download"		"E5263CDF7C798D814466106AF59E0B7E"
 				}
 				"event_branch2"
 				{
-					"gid"		"4D920796B0D253C3670CEDAF13A6E70E"
-					"size"		"84FC1EC79213DCEF36F67DD8C72DC87A"
-					"download"		"A5860B56314BA355C4617178E9EA0E47"
+					"gid"		"AB8A42F440BD0911312BB69D5EE59B49"
+					"size"		"3C266097DFFD7557073136F6F851056D"
+					"download"		"4687D0549EB35C9F6BBE189B147C8726"
 				}
 				"hometestdev"
 				{
@@ -459,6 +478,18 @@
 					"size"		"2305B5C8FCF4609506358E6B391A3D4D"
 					"download"		"7B3C48FD4A69ADEF0FD0EDD162C0DD85"
 				}
+				"jagexqa"
+				{
+					"gid"		"93094E2AAF93A72382658E9849AA9A62"
+					"size"		"62DDEE7DCEEF79849DA3EE7554D3272F"
+					"download"		"AE63CFD06F793BE062E9155B15FC41D6"
+				}
+				"nvidiatest"
+				{
+					"gid"		"F271A37D2C6E5F03C4B5106768EC4C9A"
+					"size"		"3B74A1E43A35C0F140C3C2DA848BB140"
+					"download"		"3B74A1E43A35C0F140C3C2DA848BB140"
+				}
 				"reverttest"
 				{
 					"gid"		"A91963C333A01BF88B06389C3E71AF5B"
@@ -470,6 +501,12 @@
 					"gid"		"14F73EA8C224758E31421E98C6CD7735"
 					"size"		"E3F7F69800B9A49358F413A084874F5E"
 					"download"		"0C6E195DE2BC3796572266F3F2227AAC"
+				}
+				"trecimaloveci"
+				{
+					"gid"		"2861BCA1906AF2961A274D9882067053"
+					"size"		"0D81CBB38CED052AAAF488C0C6D0EE03"
+					"download"		"582192A553273BD5E42FEAE0872A8006"
 				}
 			}
 		}
@@ -512,15 +549,15 @@
 				}
 				"event_branch"
 				{
-					"gid"		"F12B98255ADF59A7E151BC99A24DDB0B"
-					"size"		"C2E4511AF35F70088257A5B09A264440"
-					"download"		"42B7A552043A0EA2FA621C30229765A5"
+					"gid"		"C8EFA4D4327651D5ED9526E00CE56BD0"
+					"size"		"05613D9EC3D88834B6B0DF8B00D3315E"
+					"download"		"B848D4F386E1787BFD546CB5E765436D"
 				}
 				"event_branch2"
 				{
-					"gid"		"1A9A0E75E92D8470143BB03B50A47BA8"
-					"size"		"DE00FA8E3FF4230BE33AD1259F7C15D2"
-					"download"		"1E9107C5A1D4FC2A056497895ECA4ADB"
+					"gid"		"44483F48B42355472D9C9173CA9D40B9"
+					"size"		"3E649F8DA042EEDFAA930DCD5AC2FEAD"
+					"download"		"DDD7FD0DD13649A93FFCAE1D91F98D12"
 				}
 				"hometestdev"
 				{
@@ -534,6 +571,18 @@
 					"size"		"5081A0507AB08C8010CE6AFD41078D5B"
 					"download"		"F4F120D692ECE8F82B5EEC0391DF200F"
 				}
+				"jagexqa"
+				{
+					"gid"		"E8822AD3715D1B5D7359731A468E8E4F"
+					"size"		"3CE248015E54BA89BBF8D265C60E8003"
+					"download"		"7D5923A9378F5337E88D5595598538E9"
+				}
+				"nvidiatest"
+				{
+					"gid"		"0CBB6787B23B97D34BC19E3456E63AE0"
+					"size"		"3B74A1E43A35C0F140C3C2DA848BB140"
+					"download"		"3B74A1E43A35C0F140C3C2DA848BB140"
+				}
 				"reverttest"
 				{
 					"gid"		"C647734C722D303A2034D88896D46B88"
@@ -546,6 +595,12 @@
 					"size"		"7D26D9C2CCACD8282E44EB566148DB77"
 					"download"		"54D1C3C76BF0EAA12C6B7ECCE9A5EF9D"
 				}
+				"trecimaloveci"
+				{
+					"gid"		"1FC4E60D7533F9D9B8B9CD2B1DF6693F"
+					"size"		"0ED84F731C7C92027A0B3AC9616D12AD"
+					"download"		"51FAAFFF7532604AD6A446783F2707E5"
+				}
 			}
 		}
 		"hasdepotsindlc"		"0"
@@ -553,8 +608,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12583921"
-				"timeupdated"		"1698770585"
+				"buildid"		"12963541"
+				"timeupdated"		"1702575050"
 			}
 			"0_6dtest"
 			{
@@ -576,33 +631,45 @@
 			}
 			"alpha"
 			{
-				"buildid"		"12586453"
+				"buildid"		"12963541"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698786085"
+				"timeupdated"		"1702570221"
 			}
 			"event_branch"
 			{
-				"buildid"		"11846847"
+				"buildid"		"12951554"
 				"pwdrequired"		"1"
-				"timeupdated"		"1690973384"
+				"timeupdated"		"1702477141"
 			}
 			"event_branch2"
 			{
-				"buildid"		"11846847"
+				"buildid"		"12951554"
 				"pwdrequired"		"1"
-				"timeupdated"		"1690973391"
+				"timeupdated"		"1702477159"
 			}
 			"hometestdev"
 			{
-				"buildid"		"12477142"
+				"buildid"		"12158826"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697697659"
+				"timeupdated"		"1698928087"
 			}
 			"hometests"
 			{
-				"buildid"		"12579838"
+				"buildid"		"12963541"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698768062"
+				"timeupdated"		"1702575201"
+			}
+			"jagexqa"
+			{
+				"buildid"		"12954585"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702555076"
+			}
+			"nvidiatest"
+			{
+				"buildid"		"12941866"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702402966"
 			}
 			"reverttest"
 			{
@@ -615,6 +682,12 @@
 				"buildid"		"6761412"
 				"pwdrequired"		"1"
 				"timeupdated"		"1622032836"
+			}
+			"trecimaloveci"
+			{
+				"buildid"		"12963541"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702575207"
 			}
 		}
 	}
