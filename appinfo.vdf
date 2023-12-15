@@ -42,42 +42,32 @@
 		"has_adult_content_sex"		"1"
 		"steam_deck_compatibility"
 		{
-			"category"		"2"
-			"test_timestamp"		"1649203200"
-			"tested_build_id"		"7694678"
+			"category"		"3"
+			"test_timestamp"		"1702339200"
+			"tested_build_id"		"12865885"
 			"tests"
 			{
 				"0"
 				{
-					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_LauncherInteractionIssues"
-				}
-				"1"
-				{
-					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
-				}
-				"2"
-				{
 					"display"		"4"
 					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 				}
-				"3"
+				"1"
 				{
 					"display"		"4"
 					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
 				}
-				"4"
+				"2"
 				{
 					"display"		"4"
 					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
 				}
-				"5"
+				"3"
 				{
 					"display"		"4"
 					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 				}
-				"6"
+				"4"
 				{
 					"display"		"1"
 					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
@@ -86,8 +76,8 @@
 			"configuration"
 			{
 				"supported_input"		"gamepad"
-				"requires_manual_keyboard_invoke"		"1"
-				"requires_non_controller_launcher_nav"		"1"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
 				"primary_player_is_controller_slot_0"		"1"
 				"non_deck_display_glyphs"		"0"
 				"small_text"		"0"
@@ -96,6 +86,7 @@
 				"recommended_runtime"		"proton-stable"
 				"requires_h264"		"0"
 				"gamescope_frame_limiter_not_supported"		"0"
+				"hdr_support"		"0"
 			}
 		}
 		"metacritic_name"		"The Elder Scrolls V: Skyrim Special Edition"
@@ -244,7 +235,7 @@
 			"19"		"5900"
 		}
 		"review_score"		"8"
-		"review_percentage"		"92"
+		"review_percentage"		"91"
 	}
 	"extended"
 	{
@@ -321,9 +312,9 @@
 				}
 				"kahlo"
 				{
-					"gid"		"6D97916B2B0467EEA4A680228B0896CE"
-					"size"		"5EBF1D270463D6DB7D244588F2A0F606"
-					"download"		"B5837815D7E76875C9693DD8AC56B921"
+					"gid"		"EB55846841DBA1EC7F61A66EA1E7C197"
+					"size"		"01B2FD29F65470018B70A455EAC6257A"
+					"download"		"80477EFE1F4A56FA19537DE8A9CC5F97"
 				}
 			}
 		}
@@ -348,9 +339,9 @@
 				}
 				"kahlo"
 				{
-					"gid"		"FB885DCF124D9EF29470D0F05023C5F4"
-					"size"		"EE6F2E25457138926713D258B118D13D"
-					"download"		"E8998BD937115ED5A68E9AF0FD8B89AE"
+					"gid"		"9DD6453776B3A1196DB0606B5FA002E1"
+					"size"		"8A7A62F272503089AE53037D77E42969"
+					"download"		"C00A638C84CC1C3CB9BA478CD480AD41"
 				}
 			}
 		}
@@ -375,9 +366,9 @@
 				}
 				"kahlo"
 				{
-					"gid"		"B5562A550EA34947730481E1B46F6DF4"
-					"size"		"9C005A4275CA68EB8C821AC8351DBF7E"
-					"download"		"293ADFD93A6FC67CFC2F2DDF02F9563D"
+					"gid"		"493731F7247B5E055D61B4A2B17905F4"
+					"size"		"988B10C12EB94A55CDEC2A86B00F3EA0"
+					"download"		"AA2323740F6F0DF52D4ED6318728B067"
 				}
 			}
 		}
@@ -644,9 +635,9 @@
 			}
 			"kahlo"
 			{
-				"buildid"		"12865885"
+				"buildid"		"12968653"
 				"pwdrequired"		"1"
-				"timeupdated"		"1701665657"
+				"timeupdated"		"1702613959"
 			}
 		}
 	}
