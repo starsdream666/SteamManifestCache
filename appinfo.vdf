@@ -76,17 +76,19 @@
 		{
 			"english"		"capsule_231x87.jpg"
 			"sc_schinese"		"capsule_231x87_sc_schinese.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
 		}
 		"header_image"
 		{
 			"english"		"header.jpg"
 			"sc_schinese"		"header_sc_schinese.jpg"
+			"schinese"		"header_schinese.jpg"
 		}
 		"library_assets"
 		{
-			"library_capsule"		"en,zh-xc"
-			"library_hero"		"en"
-			"library_logo"		"en,zh-xc"
+			"library_capsule"		"en,zh-xc,zh-cn"
+			"library_hero"		"en,zh-cn"
+			"library_logo"		"en,zh-xc,zh-cn"
 			"logo_position"
 			{
 				"pinned_position"		"BottomLeft"
@@ -94,7 +96,7 @@
 				"height_pct"		"50"
 			}
 		}
-		"store_asset_mtime"		"1660063554"
+		"store_asset_mtime"		"1699481537"
 		"associations"
 		{
 			"0"
@@ -106,6 +108,11 @@
 			{
 				"type"		"publisher"
 				"name"		"Gearbox Publishing"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Risk of Rain"
 			}
 		}
 		"primary_genre"		"1"
@@ -273,59 +280,23 @@
 			}
 			"encryptedmanifests"
 			{
+				"all_blindpests"
+				{
+					"gid"		"4FA6D911D5C2EB5420436885C35201EE"
+					"size"		"74AEE3CCCA935C6609AC83A9B6A03C2B"
+					"download"		"D4D448B211694548F2078F2C07754575"
+				}
 				"apirefs"
 				{
 					"gid"		"24EAF0742A9A7CE637FF55F71F5D5488"
 					"size"		"3C072547FD4785E2D636432F6F2D5D2A"
 					"download"		"DF75EDCBC8B0644207BA6339DB331C33"
 				}
-				"canary"
+				"consumed_diosbestfriend"
 				{
-					"gid"		"5E48B667BF7840F776BD82D20737089A"
-					"size"		"FCFE05013775D6948DC069B08539324E"
-					"download"		"42C2BB60C43FC88166D6405EA81E6B87"
-				}
-				"cu_0"
-				{
-					"gid"		"E2BACBBC95DB5C7D58EF37CC7D94B2A5"
-					"size"		"46F012D30BC8997011495F8BEEB60236"
-					"download"		"0113A34E17ACDC7AB977C030F8A1EC2B"
-				}
-				"cu_1"
-				{
-					"gid"		"DCE2617AD0163A356F9C98140236A0D8"
-					"size"		"0752103F9303FC48037294B25EFF8C73"
-					"download"		"F8E30000D3F5FABCD4AE8EC971127B2E"
-				}
-				"cu_2"
-				{
-					"gid"		"E065D9FCD27C04DB91C213D2E769A214"
-					"size"		"6F2EA7626900E1A59D0D15701652A4A2"
-					"download"		"DC59919C503D7917A5B94554245E168C"
-				}
-				"cu_3"
-				{
-					"gid"		"351B24951811CC2D89F9BFB140A2C9A0"
-					"size"		"2639150C5E205DDC5F8EF4BA2A757191"
-					"download"		"7CB8D26096BFA29B1293D8F1B98D0CE2"
-				}
-				"cu_4"
-				{
-					"gid"		"8BFED7A1836D31CAC51765AA3066DC4C"
-					"size"		"AEF251AFB7E2D6566B9566B6DAE8BFBC"
-					"download"		"BA8F38A34456DF60D41260AA724D6033"
-				}
-				"cu_5"
-				{
-					"gid"		"3DF31AF8426CF32610C7B2A0F30EF414"
-					"size"		"9B83F0AE31E3D96A1C23CE8F4B1791AE"
-					"download"		"90E8578B7D3514C127179225231E1378"
-				}
-				"cu_6"
-				{
-					"gid"		"DEBEE6072AE1D35FD5845E118806A29A"
-					"size"		"2A2B4E536BFB7FB779B46F58B3BB6379"
-					"download"		"2C80C3A142C231023358E7B9E5A54D9A"
+					"gid"		"3D1CA983B407779CA9436C7B45D18388"
+					"size"		"22F06F2112FD10F580247BE978F02ED2"
+					"download"		"D42B1306E70D45C6D0C96284609BF993"
 				}
 				"cu_7"
 				{
@@ -341,21 +312,21 @@
 				}
 				"cu_8"
 				{
-					"gid"		"3F7578AB60709E810C435551F026DB45"
-					"size"		"AE4B1F650BE8D16B1C7E454C124EA67D"
-					"download"		"95E64C40872831C96478F507C4B14999"
+					"gid"		"1877B1DDB14B79845C2BB38F745D05F7"
+					"size"		"589660A32AA036F4D644DA54DF4FD203"
+					"download"		"1FFD785EA4C0DF832E06D834B89C84E0"
 				}
 				"gbx_internal"
 				{
-					"gid"		"E44F566442A3A08B6AD9163085B5DD29"
-					"size"		"96E34FD0C46E566325BA80C3B858BB47"
-					"download"		"C7BE21089702D68A811734C63918EA6E"
+					"gid"		"34598484A0028C72B8F525989041EB72"
+					"size"		"0FB9B1140CE2D508F952A6CF4985A17B"
+					"download"		"AE94748F60961AE838577B4753F1AEA1"
 				}
 				"hardware"
 				{
-					"gid"		"078120CE66C9D08D88FB40D171A36C1E"
-					"size"		"2466B8C73AD11173E271A2F9D8A64490"
-					"download"		"A46A1A62C1222204BC93747D4F779C53"
+					"gid"		"5E9E6D2B6088680A37280EBB19AEDD08"
+					"size"		"14D26FCC0E599E389284444DAB5A2A29"
+					"download"		"A443DAE8BBCCE5CA0545FCDBA409907B"
 				}
 				"hopoo"
 				{
@@ -363,41 +334,23 @@
 					"size"		"04F815CE0C0B166EA7B475F98761BD6E"
 					"download"		"0F3C37FD4DF8970F418AE7CBFCE51AE4"
 				}
-				"hopoo_dev"
-				{
-					"gid"		"1941BF8B7CEB38F14C9A551390FC6C0E"
-					"size"		"CAEC271D437102BDD18D8A5966094907"
-					"download"		"6860CB90664990A4B7E103C592CB7733"
-				}
 				"press"
 				{
 					"gid"		"A16FC4EDD63C02E7368B7D3181FED1B6"
 					"size"		"08DF67C362BEB189BFCA2534FDE1C0D8"
 					"download"		"B087061BE6135CC86993122BB79E3ADB"
 				}
-				"press_shores"
-				{
-					"gid"		"DA7FF9E85713FE935C7B810B0C98070D"
-					"size"		"D0EBF701FE76CF1EFAF50F08F2069395"
-					"download"		"677CC7D6778BEBFBA1B3696CDFEC5AC5"
-				}
 				"qa_internal"
 				{
-					"gid"		"FBF1DCB299EE812C685F89D35967E666"
-					"size"		"496A75BF647053BC705CCDB48C5AB551"
-					"download"		"4627D3C3AB3F7D4FDE618EA7DA327450"
+					"gid"		"9EB925B896842C7E609EC670717BD82A"
+					"size"		"5E8D58DB1E82EEE36F78F480CDF440E9"
+					"download"		"B30ADE94AC5F64239C1408D5E1606387"
 				}
 				"qa_production"
 				{
 					"gid"		"A467ACB4C90DA968204B24C1DE2A7EB7"
 					"size"		"C46873F35A0078305B4AF1F43E6DD6A6"
 					"download"		"8BB609BFAD89308C0CA76B9C6F500280"
-				}
-				"stable_capture"
-				{
-					"gid"		"82A80AD71C271E93F0E5DC9A02B6BE9D"
-					"size"		"5A7FA1C2B544B78BC1598364B3AD16D8"
-					"download"		"8264F316341D4E152BAFEA5505B933D1"
 				}
 				"steam_china_only"
 				{
@@ -407,9 +360,9 @@
 				}
 				"the_gupworks"
 				{
-					"gid"		"8DC57FA953BB22B61FC08F1E1067BF16"
-					"size"		"BFEB9DC92522754FA1FA81306E07B13E"
-					"download"		"F88FDB6914C3DB793E2156783AE54BAC"
+					"gid"		"05FE57256ECB15147566CBF93E52CC74"
+					"size"		"4D59C2342D833E50B3F644F56B0E70AF"
+					"download"		"D4F0A9F96BF2B02E7E99297CDB96966D"
 				}
 			}
 		}
@@ -427,59 +380,23 @@
 				"buildid"		"12605776"
 				"timeupdated"		"1699295903"
 			}
+			"all_blindpests"
+			{
+				"buildid"		"12914201"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702061593"
+			}
 			"apirefs"
 			{
 				"buildid"		"6479093"
 				"pwdrequired"		"1"
 				"timeupdated"		"1617321548"
 			}
-			"canary"
+			"consumed_diosbestfriend"
 			{
-				"buildid"		"6458336"
+				"buildid"		"12913838"
 				"pwdrequired"		"1"
-				"timeupdated"		"1617042739"
-			}
-			"cu_0"
-			{
-				"buildid"		"3665555"
-				"pwdrequired"		"1"
-				"timeupdated"		"1615332992"
-			}
-			"cu_1"
-			{
-				"buildid"		"3961543"
-				"pwdrequired"		"1"
-				"timeupdated"		"1568829498"
-			}
-			"cu_2"
-			{
-				"buildid"		"4164534"
-				"pwdrequired"		"1"
-				"timeupdated"		"1568829515"
-			}
-			"cu_3"
-			{
-				"buildid"		"4460463"
-				"pwdrequired"		"1"
-				"timeupdated"		"1615332777"
-			}
-			"cu_4"
-			{
-				"buildid"		"4811896"
-				"pwdrequired"		"1"
-				"timeupdated"		"1615332824"
-			}
-			"cu_5"
-			{
-				"buildid"		"5951484"
-				"pwdrequired"		"1"
-				"timeupdated"		"1615332842"
-			}
-			"cu_6"
-			{
-				"buildid"		"6399470"
-				"pwdrequired"		"1"
-				"timeupdated"		"1649097646"
+				"timeupdated"		"1702598988"
 			}
 			"cu_7"
 			{
@@ -495,21 +412,21 @@
 			}
 			"cu_8"
 			{
-				"buildid"		"12595491"
+				"buildid"		"12853310"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698871830"
+				"timeupdated"		"1701456687"
 			}
 			"gbx_internal"
 			{
-				"buildid"		"9572878"
+				"buildid"		"12713246"
 				"pwdrequired"		"1"
-				"timeupdated"		"1663878315"
+				"timeupdated"		"1700076406"
 			}
 			"hardware"
 			{
-				"buildid"		"12633271"
+				"buildid"		"12967258"
 				"pwdrequired"		"1"
-				"timeupdated"		"1699302269"
+				"timeupdated"		"1702600443"
 			}
 			"hopoo"
 			{
@@ -517,29 +434,17 @@
 				"pwdrequired"		"1"
 				"timeupdated"		"1653364890"
 			}
-			"hopoo_dev"
-			{
-				"buildid"		"6399470"
-				"pwdrequired"		"1"
-				"timeupdated"		"1647983139"
-			}
 			"press"
 			{
 				"buildid"		"4164475"
 				"pwdrequired"		"1"
 				"timeupdated"		"1568303781"
 			}
-			"press_shores"
-			{
-				"buildid"		"5334616"
-				"pwdrequired"		"1"
-				"timeupdated"		"1595824442"
-			}
 			"qa_internal"
 			{
-				"buildid"		"12557276"
+				"buildid"		"12894938"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698698727"
+				"timeupdated"		"1701905278"
 			}
 			"qa_production"
 			{
@@ -547,17 +452,11 @@
 				"pwdrequired"		"1"
 				"timeupdated"		"1698957309"
 			}
-			"stable_capture"
-			{
-				"buildid"		"9581170"
-				"pwdrequired"		"1"
-				"timeupdated"		"1696613931"
-			}
 			"the_gupworks"
 			{
-				"buildid"		"12576102"
+				"buildid"		"12963397"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698701511"
+				"timeupdated"		"1702568817"
 			}
 		}
 	}
