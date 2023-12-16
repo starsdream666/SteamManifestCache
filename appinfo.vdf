@@ -12,6 +12,49 @@
 		"oslist"		"windows"
 		"osarch"		""
 		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1699488000"
+			"tested_build_id"		"12551125"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
@@ -32,7 +75,7 @@
 				"height_pct"		"100"
 			}
 		}
-		"store_asset_mtime"		"1698228213"
+		"store_asset_mtime"		"1702628303"
 		"associations"
 		{
 			"0"
@@ -61,6 +104,7 @@
 		{
 			"category_2"		"1"
 			"category_23"		"1"
+			"category_29"		"1"
 		}
 		"supported_languages"
 		{
@@ -76,6 +120,11 @@
 				"subtitles"		"true"
 			}
 			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
 			{
 				"supported"		"true"
 				"subtitles"		"true"
@@ -97,14 +146,15 @@
 			"8"		"1710"
 			"9"		"5984"
 			"10"		"4166"
-			"11"		"12095"
+			"11"		"16094"
 			"12"		"4182"
-			"13"		"16094"
+			"13"		"7250"
 			"14"		"5094"
-			"15"		"7250"
+			"15"		"9551"
+			"16"		"1756"
 		}
 		"review_score"		"8"
-		"review_percentage"		"91"
+		"review_percentage"		"90"
 	}
 	"extended"
 	{
@@ -161,18 +211,18 @@
 			{
 				"public"
 				{
-					"gid"		"2898948434429906227"
-					"size"		"24891225"
-					"download"		"22655168"
+					"gid"		"4075475613224018546"
+					"size"		"136630491"
+					"download"		"107517648"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"test"
 				{
-					"gid"		"97C33142E866D911F497F43C6AE6B1E1"
-					"size"		"FBC5A1C28F5706851E40C0051C857F94"
-					"download"		"BB795E60629828ABA44A1502D7A55ECF"
+					"gid"		"45E96AFB3AE9FA034A91E7FB8B041E89"
+					"size"		"78F028E8F0F856868B62C15C48E2B541"
+					"download"		"5F54EC35BF8BF51B4FBE9024FD2B5070"
 				}
 			}
 		}
@@ -180,14 +230,14 @@
 		{
 			"public"
 			{
-				"buildid"		"12551125"
-				"timeupdated"		"1698395270"
+				"buildid"		"12970684"
+				"timeupdated"		"1702633555"
 			}
 			"test"
 			{
-				"buildid"		"12550966"
+				"buildid"		"12925981"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698393800"
+				"timeupdated"		"1702266414"
 			}
 		}
 	}
