@@ -318,8 +318,8 @@
 			}
 			"public"
 			{
-				"buildid"		"12968812"
-				"timeupdated"		"1702615786"
+				"buildid"		"12978466"
+				"timeupdated"		"1702703305"
 			}
 			"api_test"
 			{
@@ -472,9 +472,9 @@
 			{
 				"public"
 				{
-					"gid"		"2086055020451220396"
-					"size"		"1309281508"
-					"download"		"1035375424"
+					"gid"		"4378218774736493547"
+					"size"		"1309289588"
+					"download"		"1035382208"
 				}
 			}
 			"encryptedmanifests"
@@ -594,11 +594,18 @@
 				"root"		"WinAppDataLocalLow"
 				"path"		"Vanimals/Undying"
 				"pattern"		"*"
-				"platforms"
-				{
-					"1"		"Windows"
-				}
 				"recursive"		"1"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"addpath"		""
 			}
 		}
 	}
