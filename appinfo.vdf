@@ -70,6 +70,7 @@
 			}
 		}
 		"controllertagwizard"		"1"
+		"controller_support"		"full"
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
@@ -90,7 +91,7 @@
 				"height_pct"		"92.0138888888889"
 			}
 		}
-		"store_asset_mtime"		"1702402334"
+		"store_asset_mtime"		"1702673788"
 		"associations"
 		{
 			"0"
@@ -119,6 +120,13 @@
 			"category_41"		"1"
 			"category_42"		"1"
 			"category_29"		"1"
+			"category_28"		"1"
+			"category_59"		"1"
+			"category_57"		"1"
+			"category_58"		"1"
+			"category_55"		"1"
+			"category_56"		"1"
+			"category_43"		"1"
 		}
 		"supported_languages"
 		{
@@ -177,17 +185,7 @@
 				"supported"		"true"
 				"subtitles"		"true"
 			}
-			"portuguese"
-			{
-				"supported"		"true"
-				"subtitles"		"true"
-			}
 			"thai"
-			{
-				"supported"		"true"
-				"subtitles"		"true"
-			}
-			"latam"
 			{
 				"supported"		"true"
 				"subtitles"		"true"
@@ -273,11 +271,32 @@
 		}
 		"steamdecktouchscreen"		"1"
 		"steamcontrollertouchtemplateindex"		"1"
-		"steamcontrollertouchconfigdetails"		"A"
 		"steamcontrollertemplateindex"		"1"
+		"steamconfigurator3rdpartynative"		"65535"
 		"steamcontrollerconfigdetails"
 		{
-			"2851357286"
+			"3115403766"
+			{
+				"controller_type"		"controller_xboxone"
+				"enabled_branches"		"default,develop"
+				"use_action_block"		"false"
+			}
+			"3115414106"
+			{
+				"controller_type"		"controller_neptune"
+				"enabled_branches"		"default,develop"
+				"use_action_block"		"false"
+			}
+			"3115428504"
+			{
+				"controller_type"		"controller_ps5"
+				"enabled_branches"		"default,develop"
+				"use_action_block"		"false"
+			}
+		}
+		"steamcontrollertouchconfigdetails"
+		{
+			"2851362451"
 			{
 				"controller_type"		"controller_mobile_touch"
 				"enabled_branches"		"default,develop"
@@ -294,18 +313,18 @@
 			{
 				"public"
 				{
-					"gid"		"6228640165433562534"
-					"size"		"3725792562"
-					"download"		"3624264704"
+					"gid"		"7940138253020901725"
+					"size"		"3727713097"
+					"download"		"3626279632"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"develop"
 				{
-					"gid"		"823AC605077B3CFA1A9C9DA970DB325B"
-					"size"		"2423FA95970D8E36C721783876B1A9E7"
-					"download"		"FC67A105C2E080632AD62111E88635A5"
+					"gid"		"9EDE27FDAD66F35EAC707B0D45F3D54A"
+					"size"		"C671B5CB89EF3D02B210D45409476A1F"
+					"download"		"58C596664CAE03273008DA7AE2AB4F4C"
 				}
 			}
 		}
@@ -313,14 +332,14 @@
 		{
 			"public"
 			{
-				"buildid"		"12955533"
-				"timeupdated"		"1702590004"
+				"buildid"		"12973814"
+				"timeupdated"		"1702738847"
 			}
 			"develop"
 			{
-				"buildid"		"12973192"
+				"buildid"		"12973814"
 				"pwdrequired"		"1"
-				"timeupdated"		"1702650454"
+				"timeupdated"		"1702654455"
 			}
 		}
 	}
@@ -334,7 +353,7 @@
 			{
 				"root"		"WinAppDataRoaming"
 				"path"		"RenPy/FreshWomen-1593632962"
-				"pattern"		"*"
+				"pattern"		"*.save"
 			}
 		}
 		"rootoverrides"
