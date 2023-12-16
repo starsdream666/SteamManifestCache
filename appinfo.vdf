@@ -197,9 +197,9 @@
 		{
 			"0"		"1774"
 			"1"		"4150"
-			"2"		"1663"
-			"3"		"3859"
-			"4"		"4175"
+			"2"		"4175"
+			"3"		"1663"
+			"4"		"3859"
 			"5"		"19"
 			"6"		"1678"
 			"7"		"4182"
@@ -227,7 +227,7 @@
 		"developer"		"Team17"
 		"publisher"		"Team17"
 		"homepage"		"https://www.hellletloose.com/"
-		"listofdlc"		"1091850,1091851,1205050,1313020,1647950,1647960,1647961,1647962,1647963,1647964,1647965,1647966,1647967,1647968,1656970,1656971,1656972,1656973,1656974,1793010,1793011,1793012,1793013,2175550,2331690,2331691,2401900,2401901,2623000"
+		"listofdlc"		"1091850,1091851,1205050,1313020,1647950,1647960,1647961,1647962,1647963,1647964,1647965,1647966,1647967,1647968,1656970,1656971,1656972,1656973,1656974,1793010,1793011,1793012,1793013,2175550,2331690,2331691,2401900,2401901,2623000,2677820,2709180"
 		"dlcavailableonstore"		"1"
 	}
 	"config"
@@ -244,23 +244,6 @@
 					"oslist"		"windows"
 					"osarch"		"64"
 				}
-			}
-			"3"
-			{
-				"executable"		"HLL\\Binaries\\Win64\\HLL.exe"
-				"arguments"		"-noEAC"
-				"type"		"option1"
-				"config"
-				{
-					"oslist"		"windows"
-					"osarch"		"64"
-					"betakey"		"development_hll_main_build"
-				}
-				"description_loc"
-				{
-					"english"		"Development (no EAC)"
-				}
-				"description"		"Development (no EAC)"
 			}
 			"13"
 			{
@@ -285,74 +268,6 @@
 					"osarch"		"64"
 					"betakey"		"qa_testing"
 				}
-			}
-			"21"
-			{
-				"executable"		"HLL\\Binaries\\Win64\\HLL-Win64-Test.exe"
-				"arguments"		"-noEAC"
-				"type"		"option1"
-				"config"
-				{
-					"oslist"		"windows"
-					"osarch"		"64"
-					"betakey"		"qa_hll_main_build"
-				}
-				"description_loc"
-				{
-					"english"		"Profiling (no EAC)"
-				}
-				"description"		"Profiling (no EAC)"
-			}
-			"23"
-			{
-				"executable"		"HLL\\Binaries\\Win64\\HLL-Win64-DebugGame.exe"
-				"arguments"		"-noEAC"
-				"type"		"option3"
-				"config"
-				{
-					"oslist"		"windows"
-					"osarch"		"64"
-					"betakey"		"bm_internal_dev"
-				}
-				"description_loc"
-				{
-					"english"		"Debug (No EAC)"
-				}
-				"description"		"Debug (No EAC)"
-			}
-			"24"
-			{
-				"executable"		"HLL\\Binaries\\Win64\\HLL.exe"
-				"arguments"		"-noEAC"
-				"type"		"option1"
-				"config"
-				{
-					"oslist"		"windows"
-					"osarch"		"64"
-					"betakey"		"development_hll_wip_1_build"
-				}
-				"description_loc"
-				{
-					"english"		"Development (no EAC)"
-				}
-				"description"		"Development (no EAC)"
-			}
-			"25"
-			{
-				"executable"		"HLL\\Binaries\\Win64\\HLL-Win64-Test.exe"
-				"arguments"		"-noEAC"
-				"type"		"option1"
-				"config"
-				{
-					"oslist"		"windows"
-					"osarch"		"64"
-					"betakey"		"qa_hll_wip_1_build"
-				}
-				"description_loc"
-				{
-					"english"		"Profiling (no EAC)"
-				}
-				"description"		"Profiling (no EAC)"
 			}
 			"26"
 			{
@@ -456,40 +371,6 @@
 				}
 				"description"		"Test (no EAC)"
 			}
-			"32"
-			{
-				"executable"		"HLL\\Binaries\\Win64\\HLL.exe"
-				"arguments"		"-noEAC"
-				"type"		"option1"
-				"config"
-				{
-					"oslist"		"windows"
-					"osarch"		"64"
-					"betakey"		"hll_release_update14_3_build"
-				}
-				"description_loc"
-				{
-					"english"		"Development (no EAC)"
-				}
-				"description"		"Development (no EAC)"
-			}
-			"33"
-			{
-				"executable"		"HLL\\Binaries\\Win64\\HLL-Win64-Test.exe"
-				"arguments"		"-noEAC"
-				"type"		"option2"
-				"config"
-				{
-					"oslist"		"windows"
-					"osarch"		"64"
-					"betakey"		"hll_release_update14_3_build"
-				}
-				"description_loc"
-				{
-					"english"		"Test (no EAC)"
-				}
-				"description"		"Test (no EAC)"
-			}
 			"34"
 			{
 				"executable"		"HLL\\Binaries\\Win64\\HLL-Win64-Test.exe"
@@ -507,40 +388,6 @@
 				}
 				"description"		"Test (no EAC)"
 			}
-			"35"
-			{
-				"executable"		"HLL\\Binaries\\Win64\\HLL.exe"
-				"arguments"		"-noEAC"
-				"type"		"option1"
-				"config"
-				{
-					"oslist"		"windows"
-					"osarch"		"64"
-					"betakey"		"hll_release_pte14_4_build"
-				}
-				"description_loc"
-				{
-					"english"		"Development (no EAC)"
-				}
-				"description"		"Development (no EAC)"
-			}
-			"36"
-			{
-				"executable"		"HLL\\Binaries\\Win64\\HLL-Win64-Test.exe"
-				"arguments"		"-noEAC"
-				"type"		"option2"
-				"config"
-				{
-					"oslist"		"windows"
-					"osarch"		"64"
-					"betakey"		"hll_release_pte14_4_build"
-				}
-				"description_loc"
-				{
-					"english"		"Test (no EAC)"
-				}
-				"description"		"Test (no EAC)"
-			}
 			"37"
 			{
 				"executable"		"HLL\\Binaries\\Win64\\HLL.exe"
@@ -550,7 +397,7 @@
 				{
 					"oslist"		"windows"
 					"osarch"		"64"
-					"betakey"		"hll_release_update14_4_build"
+					"betakey"		"hll_release_update14_6_build"
 				}
 				"description_loc"
 				{
@@ -567,7 +414,7 @@
 				{
 					"oslist"		"windows"
 					"osarch"		"64"
-					"betakey"		"hll_release_update14_4_build"
+					"betakey"		"hll_release_update14_6_build"
 				}
 				"description_loc"
 				{
@@ -604,66 +451,42 @@
 			{
 				"public"
 				{
-					"gid"		"851947820990754483"
-					"size"		"41544615158"
-					"download"		"18126265456"
+					"gid"		"2747439649791934714"
+					"size"		"43796084556"
+					"download"		"18920151360"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"dev_team"
 				{
-					"gid"		"6802CF364220FC9E3CC98337181039E8"
-					"size"		"835E4FE080E1992116AF38CAC7E2EC6C"
-					"download"		"632ABEC02EF7B809FFF405E5BEDF5F47"
-				}
-				"development_hll_main_build"
-				{
-					"gid"		"37F9760F6F510A86F8EEE380067BEA2D"
-					"size"		"9919C2B92C2394E32DC66DF24D75364B"
-					"download"		"C41A708925EB43975E68AE2D95996969"
-				}
-				"development_hll_release_update14_3_build"
-				{
-					"gid"		"48E4BAE6C1244DE9A0390A109A517663"
-					"size"		"F5E43BDE6B620B294D9693AFD23F44E1"
-					"download"		"22F5D3F88A33535894CF2BF2B8E67D80"
-				}
-				"development_hll_wip_1_build"
-				{
-					"gid"		"1CE2ECD01DAFD5D50D0D732CB8FD62D5"
-					"size"		"2A5CE2A92FB5CDDC5895B347915DCA21"
-					"download"		"22937BB51F4173A249395BD8D844862C"
+					"gid"		"B5574F09F58D89A1A534F56A04594355"
+					"size"		"881E95257D1E06DE655636A173BE481F"
+					"download"		"E0AD78388338D7A2D7CA3028155637FF"
 				}
 				"gsp_testing"
 				{
-					"gid"		"637358C44FD6C6D10A4BBC05D251989B"
-					"size"		"A5D187EDB7F49596099617FBF7888E8A"
-					"download"		"0C482C5247088225D8340EB1E61242B8"
+					"gid"		"155A8B587059789D1B841E42D0B166D5"
+					"size"		"7CD62BDB73C89376A12A16AE5C20DE39"
+					"download"		"38E11910A533DB0467EA888D821AB52A"
 				}
 				"hll_main_build"
 				{
-					"gid"		"391346A2CF573AEB3E10845D56687986"
-					"size"		"02FBE41CAF8E41FC0D2084CE300BF480"
-					"download"		"096D4F97013F26B5E38A944329955E82"
+					"gid"		"697B1519EA15122692060D6FFC787D7D"
+					"size"		"FE9856DA87856CB86BE1EFAE17706932"
+					"download"		"28441890C0E777F0F05FB4562D58E28C"
 				}
-				"hll_release_update14_3_build"
+				"hll_release_update14_6_build"
 				{
-					"gid"		"A351963E11CCBFF84700E064C613F542"
-					"size"		"AC44E237FE263AA28394F71F0237A306"
-					"download"		"70072E35E57E24DE03058D4EA9935591"
-				}
-				"hll_release_update14_4_build"
-				{
-					"gid"		"D16A0E3A0E22036877C89EF713F92A6B"
-					"size"		"4CA17DF35BEF368CAF60BB350285DBCA"
-					"download"		"7F33B8DCC5E7D949B717777E5437A93E"
+					"gid"		"F8A6D7EEE552916A13D0101D4FBD41DF"
+					"size"		"E1F1DBCCAD7E5E356C12CDDA6A33C28A"
+					"download"		"C4544B1D306ACCE8DDCD4292385D527D"
 				}
 				"hll_wip_1_build"
 				{
-					"gid"		"54054E459FE4D52C7FE47D9719E4E9AC"
-					"size"		"F3FF8B63015580A7A98AD7D087254C07"
-					"download"		"720AFBA9C6C943B3C03E6C550E35758A"
+					"gid"		"E0C54E4AD222D10477E820F26A2741AA"
+					"size"		"8AD30AFE22ECA9DF8A8040B82489566A"
+					"download"		"528C0F900B9107FEB75BA8690C577026"
 				}
 				"internal_team17"
 				{
@@ -671,65 +494,17 @@
 					"size"		"0F8506FAAAE501CD8B08A886C7E3A6C1"
 					"download"		"769DCC861A6F4E6594EE4902B9E32760"
 				}
-				"production_hll_main_build"
+				"production_hll_release_update14_6_build"
 				{
-					"gid"		"D9EB2412FAD8B12E1CB325BEE97725BF"
-					"size"		"C66378CB8138E761A7ADD92C87F80BA2"
-					"download"		"411B4885D014C6BBFE427BC2B1674E06"
-				}
-				"production_hll_release_update14_3_build"
-				{
-					"gid"		"5B28C6E8DB8B2425A5D9455D88097462"
-					"size"		"1F671EE2EC000C3DCBA61F36ACC7629A"
-					"download"		"BF8F5AD305F80D4AB830D1E6AB2A9976"
-				}
-				"production_hll_release_update14_4_build"
-				{
-					"gid"		"BFA6AD9DDA24A5EDADE32F43108B55A2"
-					"size"		"52AC84C9FF1245501B00225F95B23459"
-					"download"		"B0AECA06D4FF2182DBC4C68F9AC055E1"
-				}
-				"production_hll_release_update14_build"
-				{
-					"gid"		"962FDF3E3C75DEE03136B87202782443"
-					"size"		"D9D32EEB0D8F9BA0E6D1321B68C282E3"
-					"download"		"3FD6EE06776C64C37ACD4DCDC51DFE50"
-				}
-				"production_hll_wip_1_build"
-				{
-					"gid"		"338FDBFB700092D426AE204921590E11"
-					"size"		"B0C05C2908F19CDCBCD0CC4A7FAAA2D9"
-					"download"		"4316C6B63513800F1F7678B5211C640E"
-				}
-				"qa_hll_main_build"
-				{
-					"gid"		"299701C6D564D6D41BE49C16A9EDD722"
-					"size"		"73C7F5110A55A3223EFBD0246107F77B"
-					"download"		"F9CB08B834BF7776C1575EBE111CC514"
-				}
-				"qa_hll_release_update14_3_build"
-				{
-					"gid"		"A9A368E5916BA666DB95B10E5B61BE29"
-					"size"		"8E7C9B3CCFA0557178B4E63CDACDF2A7"
-					"download"		"1C8A95DE1453505251FC6FBB4685784C"
-				}
-				"qa_hll_release_update14_build"
-				{
-					"gid"		"D3874370E1DF36C029F9704D896DB47E"
-					"size"		"517AC23F7C47610151AFC71485D0FF34"
-					"download"		"4A1A39D9437BD93166943503816E8705"
-				}
-				"qa_hll_wip_1_build"
-				{
-					"gid"		"2C2D60C644E34DAFD12949BF64DC4EDA"
-					"size"		"0953E64B332627AE43B4D79B5DB6F64F"
-					"download"		"D9BD63CBD4D8F0B552660D24F9268821"
+					"gid"		"95D7FF730450E56AD003A49403F19CAE"
+					"size"		"D1B1FC5974F37C2EA74C382030922FEA"
+					"download"		"CC8F5AC96A5FA770AE13CD299E4A22B8"
 				}
 				"qa_testing"
 				{
-					"gid"		"D68EFCA634143EC04657D6E56D45E021"
-					"size"		"D11BF142323001040C0FA288D2BF5C6C"
-					"download"		"8E707ECE92945585F0E1A64F12FE20AA"
+					"gid"		"1942590E22D11EAEBB71E5C52049BD65"
+					"size"		"13138AA3469968FF430542E9F28996F7"
+					"download"		"8C4D2D81562A36D13244B1AFB8F0DBD7"
 				}
 			}
 		}
@@ -738,62 +513,38 @@
 		{
 			"public"
 			{
-				"buildid"		"12214125"
-				"timeupdated"		"1697729249"
+				"buildid"		"12916124"
+				"timeupdated"		"1702562422"
 			}
 			"dev_team"
 			{
-				"buildid"		"12487155"
+				"buildid"		"12966699"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697789243"
-			}
-			"development_hll_main_build"
-			{
-				"buildid"		"12066763"
-				"pwdrequired"		"1"
-				"timeupdated"		"1693386681"
-			}
-			"development_hll_release_update14_3_build"
-			{
-				"buildid"		"12136064"
-				"pwdrequired"		"1"
-				"timeupdated"		"1694163057"
-			}
-			"development_hll_wip_1_build"
-			{
-				"buildid"		"12067882"
-				"pwdrequired"		"1"
-				"timeupdated"		"1693395123"
+				"timeupdated"		"1702633581"
 			}
 			"gsp_testing"
 			{
-				"buildid"		"12416402"
+				"buildid"		"12916124"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697793342"
+				"timeupdated"		"1702375698"
 			}
 			"hll_main_build"
 			{
-				"buildid"		"12497645"
+				"buildid"		"12977392"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697844181"
+				"timeupdated"		"1702686068"
 			}
-			"hll_release_update14_3_build"
+			"hll_release_update14_6_build"
 			{
-				"buildid"		"12214526"
+				"buildid"		"12916217"
 				"pwdrequired"		"1"
-				"timeupdated"		"1695030799"
-			}
-			"hll_release_update14_4_build"
-			{
-				"buildid"		"12416475"
-				"pwdrequired"		"1"
-				"timeupdated"		"1697048814"
+				"timeupdated"		"1702080732"
 			}
 			"hll_wip_1_build"
 			{
-				"buildid"		"12498624"
+				"buildid"		"12978150"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697857593"
+				"timeupdated"		"1702697455"
 			}
 			"internal_team17"
 			{
@@ -801,65 +552,17 @@
 				"pwdrequired"		"1"
 				"timeupdated"		"1693344996"
 			}
-			"production_hll_main_build"
+			"production_hll_release_update14_6_build"
 			{
-				"buildid"		"12034945"
+				"buildid"		"12916124"
 				"pwdrequired"		"1"
-				"timeupdated"		"1692987652"
-			}
-			"production_hll_release_update14_3_build"
-			{
-				"buildid"		"12214125"
-				"pwdrequired"		"1"
-				"timeupdated"		"1695027476"
-			}
-			"production_hll_release_update14_4_build"
-			{
-				"buildid"		"12416402"
-				"pwdrequired"		"1"
-				"timeupdated"		"1697048234"
-			}
-			"production_hll_release_update14_build"
-			{
-				"buildid"		"11931881"
-				"pwdrequired"		"1"
-				"timeupdated"		"1691935298"
-			}
-			"production_hll_wip_1_build"
-			{
-				"buildid"		"11982962"
-				"pwdrequired"		"1"
-				"timeupdated"		"1692460879"
-			}
-			"qa_hll_main_build"
-			{
-				"buildid"		"12037482"
-				"pwdrequired"		"1"
-				"timeupdated"		"1693017557"
-			}
-			"qa_hll_release_update14_3_build"
-			{
-				"buildid"		"12038325"
-				"pwdrequired"		"1"
-				"timeupdated"		"1693034378"
-			}
-			"qa_hll_release_update14_build"
-			{
-				"buildid"		"11816484"
-				"pwdrequired"		"1"
-				"timeupdated"		"1690593429"
-			}
-			"qa_hll_wip_1_build"
-			{
-				"buildid"		"11982460"
-				"pwdrequired"		"1"
-				"timeupdated"		"1692448926"
+				"timeupdated"		"1702079763"
 			}
 			"qa_testing"
 			{
-				"buildid"		"12221229"
+				"buildid"		"12796317"
 				"pwdrequired"		"1"
-				"timeupdated"		"1696520006"
+				"timeupdated"		"1701161398"
 			}
 		}
 	}
