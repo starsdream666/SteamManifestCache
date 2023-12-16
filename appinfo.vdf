@@ -211,30 +211,42 @@
 			{
 				"public"
 				{
-					"gid"		"5964102254832649114"
-					"size"		"8131561259"
-					"download"		"2829243728"
+					"gid"		"8518687032290945466"
+					"size"		"8136107647"
+					"download"		"2834442880"
 				}
 			}
 			"encryptedmanifests"
 			{
+				"alpha"
+				{
+					"gid"		"7953C8DBF4D76C2D38E63EED84211FF0"
+					"size"		"C3D51B94B72C9C0623999249FA818EF5"
+					"download"		"67ABE46634804B61B3D6BB14D36AEB5E"
+				}
 				"beta"
 				{
-					"gid"		"E5A69949C9CFD2C07D07DF23F4627C86"
-					"size"		"971973699149770F15D5517AA81282EB"
-					"download"		"FD1EB55F7BE055936F7420DBF6EC999E"
+					"gid"		"B1CF5E32507B4CAAD6A1F197758F2A3C"
+					"size"		"B7051AC3C9A00051D78E8C5A97855A73"
+					"download"		"CED6B0D26C2216AAA819F4020202A84C"
 				}
 				"builds-qa"
 				{
-					"gid"		"1BE33C55635CCE9CED227C939F158CBC"
-					"size"		"22EE45D47979E99B0761CAD850C52655"
-					"download"		"72C3CFA6728BBD1AD1B76CB7D2D3C4AC"
+					"gid"		"C2219325DDF3581DCFCD90186E9CAEB0"
+					"size"		"E81A81B17AA01E8414147FBF1583F11B"
+					"download"		"2B889A435E24F31944619409E4505170"
 				}
 				"devops"
 				{
 					"gid"		"CDF83189CC93E8C42EC4CFCB1B9A2E6B"
 					"size"		"C63A38B03F75C50E5BA2AB25624E2A88"
 					"download"		"DD9731589B017F95ACDCFBA345B0C09D"
+				}
+				"early-access"
+				{
+					"gid"		"E362F394371F6E187B91D52DC6E47DCB"
+					"size"		"D3F4199C5CA29218917CFD60A580954A"
+					"download"		"57201DB6EDB77541F99432FCF44A7E76"
 				}
 				"nosferatu"
 				{
@@ -247,24 +259,6 @@
 					"gid"		"C951895D88D9DD36FCC053B9A76556F7"
 					"size"		"86AA610AF734A802630422C63F5630D6"
 					"download"		"3522D48DC21D7CDC217CEF2B8B3CD4E5"
-				}
-				"ot-alpha-test"
-				{
-					"gid"		"1061CE45CFF608A18AD4834D5BA37C2E"
-					"size"		"BFB240AB3D178B4B0A75B4CFEF64C6BA"
-					"download"		"C01F64814D5D82E667AA4D2D517AC81D"
-				}
-				"ot-feature-test"
-				{
-					"gid"		"DC8DC65A9C6548448156CCA3BD5D9CCE"
-					"size"		"35934043E34CF34B53A7407B39567621"
-					"download"		"3F73FF273B975CA2744828B431A1E212"
-				}
-				"sp-feature-test"
-				{
-					"gid"		"4B3821D0B58AF2B092F3C01FF009A8A6"
-					"size"		"A894B4B7CB1E9BEEC3C1604AD0DE3954"
-					"download"		"90DD844DABE109B86DA0D6259CCC735A"
 				}
 				"vrs-builds-qa"
 				{
@@ -292,9 +286,9 @@
 				}
 				"wirrel-only"
 				{
-					"gid"		"701F0ADC8EFFE1C51A411E2B54010230"
-					"size"		"D7C67282B2DF95BC91BD5F175A13F6EA"
-					"download"		"847E081B526270E504B445DB196599B5"
+					"gid"		"318E7F82E4691C57DD963377C24C93AB"
+					"size"		"78817FEE8C7B7FAD472A39FD57630DF5"
+					"download"		"76573578FAEB0FA62DA5C88F962D4896"
 				}
 			}
 		}
@@ -302,26 +296,38 @@
 		{
 			"public"
 			{
-				"buildid"		"12486273"
-				"timeupdated"		"1698327642"
+				"buildid"		"12882993"
+				"timeupdated"		"1702731335"
+			}
+			"alpha"
+			{
+				"buildid"		"12695202"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700028314"
 			}
 			"beta"
 			{
-				"buildid"		"12365035"
+				"buildid"		"12695202"
 				"pwdrequired"		"1"
-				"timeupdated"		"1696515732"
+				"timeupdated"		"1700028324"
 			}
 			"builds-qa"
 			{
-				"buildid"		"12486273"
+				"buildid"		"12695202"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697747762"
+				"timeupdated"		"1699931846"
 			}
 			"devops"
 			{
 				"buildid"		"12345246"
 				"pwdrequired"		"1"
 				"timeupdated"		"1696362512"
+			}
+			"early-access"
+			{
+				"buildid"		"12892213"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702288024"
 			}
 			"nosferatu"
 			{
@@ -334,24 +340,6 @@
 				"buildid"		"6109000"
 				"pwdrequired"		"1"
 				"timeupdated"		"1687558097"
-			}
-			"ot-alpha-test"
-			{
-				"buildid"		"12365035"
-				"pwdrequired"		"1"
-				"timeupdated"		"1696515746"
-			}
-			"ot-feature-test"
-			{
-				"buildid"		"12478683"
-				"pwdrequired"		"1"
-				"timeupdated"		"1697766942"
-			}
-			"sp-feature-test"
-			{
-				"buildid"		"12299361"
-				"pwdrequired"		"1"
-				"timeupdated"		"1695840222"
 			}
 			"vrs-builds-qa"
 			{
@@ -379,9 +367,9 @@
 			}
 			"wirrel-only"
 			{
-				"buildid"		"12478683"
+				"buildid"		"12882993"
 				"pwdrequired"		"1"
-				"timeupdated"		"1697766927"
+				"timeupdated"		"1702450790"
 			}
 		}
 	}
