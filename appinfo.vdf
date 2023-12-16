@@ -1,0 +1,192 @@
+"appinfo"
+{
+	"appid"		"1585560"
+	"common"
+	{
+		"name"		"Battle of Genesis"
+		"type"		"Game"
+		"name_localized"
+		{
+			"english"		"Battle of Genesis"
+			"japanese"		"創世記の戦い"
+			"schinese"		"创世之战"
+			"tchinese"		"創世之戰"
+			"russian"		"Битва за Генезис"
+			"koreana"		"제네시스 전투"
+		}
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"ae4c53f4c6de10d4a892907e101c5f9a46bdf5d4"
+		"clienticon"		"a46d6b7a1bcb9f62e6048606b6d188ec238680f5"
+		"clienttga"		"8305031b2c14b095641c776c884e7bb584436459"
+		"releasestate"		"released"
+		"app_retired_was_free"		"1"
+		"small_capsule"
+		{
+			"russian"		"capsule_231x87_russian.jpg"
+			"tchinese"		"capsule_231x87_tchinese.jpg"
+			"koreana"		"capsule_231x87_koreana.jpg"
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"russian"		"header_russian.jpg"
+			"tchinese"		"header_tchinese.jpg"
+			"koreana"		"header_koreana.jpg"
+			"schinese"		"header_schinese.jpg"
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"ru,zh-tw,zh-cn,ko,en"
+			"library_hero"		"en"
+			"library_logo"		"ko,en,zh-cn,ru,zh-tw"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"62.13535589264879"
+				"height_pct"		"69.7577772500594"
+			}
+		}
+		"store_asset_mtime"		"1697729178"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Battle of Genesis"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Battle of Genesis"
+			}
+		}
+		"primary_genre"		"70"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"23"
+			"3"		"3"
+			"4"		"2"
+			"5"		"37"
+			"6"		"70"
+		}
+		"category"
+		{
+			"category_35"		"1"
+			"category_1"		"1"
+			"category_20"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1697767115"
+		"community_hub_visible"		"1"
+		"gameid"		"1585560"
+		"store_tags"
+		{
+			"0"		"4434"
+			"1"		"4195"
+			"2"		"1666"
+			"3"		"3859"
+			"4"		"3959"
+			"5"		"9541"
+			"6"		"4057"
+			"7"		"597"
+			"8"		"122"
+			"9"		"4342"
+			"10"		"1654"
+			"11"		"615955"
+			"12"		"9"
+			"13"		"3834"
+			"14"		"1671"
+			"15"		"21"
+			"16"		"4604"
+			"17"		"6052"
+			"18"		"1659"
+			"19"		"4608"
+		}
+		"review_score"		"7"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"developer"		"Battle of Genesis"
+		"publisher"		"Battle of Genesis"
+		"listofdlc"		"2610110,2610130,2610140,2610150,2610160,2610170,2610180"
+	}
+	"config"
+	{
+		"installdir"		"Battle of Genesis"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Domain.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,koreana,schinese,tchinese,russian"
+		"1585562"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8272013280996235206"
+					"size"		"4999082610"
+					"download"		"1095872176"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12231882"
+				"timeupdated"		"1695178901"
+			}
+		}
+	}
+}
