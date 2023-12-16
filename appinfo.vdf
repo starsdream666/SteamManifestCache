@@ -69,6 +69,7 @@
 				"gamescope_frame_limiter_not_supported"		"1"
 			}
 		}
+		"controllertagwizard"		"1"
 		"controller_support"		"full"
 		"small_capsule"
 		{
@@ -94,7 +95,7 @@
 				"height_pct"		"41.329916356632076"
 			}
 		}
-		"store_asset_mtime"		"1685284229"
+		"store_asset_mtime"		"1698282082"
 		"associations"
 		{
 			"0"
@@ -126,6 +127,11 @@
 			"category_22"		"1"
 			"category_23"		"1"
 			"category_28"		"1"
+			"category_55"		"1"
+			"category_56"		"1"
+			"category_57"		"1"
+			"category_58"		"1"
+			"category_60"		"1"
 		}
 		"supported_languages"
 		{
@@ -201,6 +207,26 @@
 					"oslist"		"windows"
 					"osarch"		"64"
 				}
+			}
+			"1"
+			{
+				"executable"		"GAIDEN\\AST_GAIDEN.exe"
+				"arguments"		"-st"
+				"workingdir"		"GAIDEN"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"ownsdlc"		"2669360"
+				}
+				"description_loc"
+				{
+					"english"		"ASTLIBRA GAIDEN -The Cave of Phantom Mist-"
+					"schinese"		"《神之天平》外传：幻雾之洞窟"
+					"japanese"		"ASTLIBRA 外伝 ～幻霧の洞窟～"
+				}
+				"description"		"ASTLIBRA GAIDEN -The Cave of Phantom Mist-"
 			}
 		}
 		"steamcontrollertemplateindex"		"1"
@@ -278,13 +304,14 @@
 				}
 				"test"
 				{
-					"gid"		"689686E00A9D3ACB8163B9D75139A6ED"
-					"size"		"D486877B7EC45B6A7416099FA87B394D"
-					"download"		"C89E5B40AA1180C5E30E4E76F854C65F"
+					"gid"		"10419C1584DA3D17E870B812E5EFD2BD"
+					"size"		"5887B84A3C599D71A9B58631EC0E713F"
+					"download"		"396257A1511BE13DB4CC9BA809115FB6"
 				}
 			}
 		}
 		"baselanguages"		""
+		"hasdepotsindlc"		"1"
 		"branches"
 		{
 			"public"
@@ -306,16 +333,16 @@
 			}
 			"test"
 			{
-				"buildid"		"11952470"
+				"buildid"		"12813629"
 				"pwdrequired"		"1"
-				"timeupdated"		"1692169999"
+				"timeupdated"		"1701145864"
 			}
 		}
 	}
 	"ufs"
 	{
 		"quota"		"16000000"
-		"maxnumfiles"		"681"
+		"maxnumfiles"		"1362"
 		"savefiles"
 		{
 			"0"
