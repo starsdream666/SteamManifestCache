@@ -1,0 +1,163 @@
+"appinfo"
+{
+	"appid"		"1538750"
+	"common"
+	{
+		"name"		"Master of Pieces © Jigsaw Puzzles"
+		"type"		"Game"
+		"logo"		"fdea358253b737ed5851729283c54e3435505b1a"
+		"logo_small"		"fdea358253b737ed5851729283c54e3435505b1a_thumb"
+		"icon"		"5e4a12db74d9dcf64c94948a28a7204535e60d6b"
+		"clienttga"		"7c192b584add72b303d24306fd9282cb8896d7ed"
+		"clienticon"		"ccf97840e5e5496dc76297268eb305b867605a13"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1647002558"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Graphium Studio"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Graphium Studio"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Master of Pieces ©"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+			"2"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1640373060"
+		"community_hub_visible"		"1"
+		"gameid"		"1538750"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"13070"
+			"1"		"597"
+			"2"		"1664"
+			"3"		"1770"
+			"4"		"17389"
+			"5"		"3871"
+			"6"		"1654"
+			"7"		"4305"
+			"8"		"493"
+			"9"		"113"
+			"10"		"5350"
+			"11"		"4182"
+			"12"		"3834"
+			"13"		"4175"
+			"14"		"4166"
+		}
+		"review_score"		"7"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"developer"		"Graphium Studio"
+		"publisher"		"Graphium Studio"
+		"homepage"		"https://sites.google.com/view/masterofpieces/home"
+		"isfreeapp"		"1"
+		"listofdlc"		"1538760,1864150,1871910,1877200,1881150,1881780,1888220,1930150,1992150,2001520,2064030,2065950,2091420,2110680,2116220,2734860"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Master_of_Pieces"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Master_of_Pieces.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"1"
+		"baselanguages"		"english"
+		"1538751"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5052146698986989955"
+					"size"		"653966728"
+					"download"		"558419200"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12927876"
+				"timeupdated"		"1702288633"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"1000"
+		"ignoreexternalfiles"		"1"
+		"hidecloudui"		"1"
+		"savefiles"
+		{
+			"1"
+			{
+				"root"		"gameinstall"
+				"path"		"_cloud/{64BitSteamID}"
+				"pattern"		"*"
+				"recursive"		"1"
+			}
+		}
+	}
+}
