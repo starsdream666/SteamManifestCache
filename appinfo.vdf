@@ -1,0 +1,401 @@
+"appinfo"
+{
+	"appid"		"1062810"
+	"common"
+	{
+		"name"		"Inkbound"
+		"type"		"Game"
+		"releasestate"		"released"
+		"clienticon"		"81cc158b70437b541b4352b045c38defb25b2c44"
+		"clienttga"		"464d94aa73850be643a472dcf79ba1d079b9bbf0"
+		"icon"		"480c72552320c38788100d55e53cd7c7fa52f054"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1686009600"
+			"tested_build_id"		"11325250"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+				"5"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"1"
+				"recommended_runtime"		"proton-8.0-2"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"49.0573973220782"
+				"height_pct"		"79.48328362632293"
+			}
+		}
+		"store_asset_mtime"		"1698348375"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Shiny Shoe"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Shiny Shoe"
+			}
+		}
+		"primary_genre"		"2"
+		"genres"
+		{
+			"0"		"3"
+			"1"		"2"
+			"2"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_45"		"1"
+			"category_46"		"1"
+			"category_23"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+				"full_audio"		"true"
+			}
+		}
+		"steam_release_date"		"1684773181"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1062810"
+		"store_tags"
+		{
+			"0"		"21725"
+			"1"		"14139"
+			"2"		"3959"
+			"3"		"6730"
+			"4"		"17305"
+			"5"		"1716"
+			"6"		"1741"
+			"7"		"122"
+			"8"		"4747"
+			"9"		"9"
+			"10"		"1697"
+			"11"		"3843"
+			"12"		"3854"
+			"13"		"6426"
+			"14"		"4325"
+			"15"		"5125"
+			"16"		"4305"
+			"17"		"4236"
+			"18"		"4191"
+			"19"		"493"
+		}
+		"review_score"		"8"
+		"review_percentage"		"91"
+	}
+	"extended"
+	{
+		"developer"		"Shiny Shoe"
+		"publisher"		"Shiny Shoe"
+		"homepage"		"https://www.inkboundgame.com"
+		"listofdlc"		"2616400,2616410"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Inkbound"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"Inkbound.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1062811"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5876256321833954149"
+					"size"		"3006877500"
+					"download"		"1345247024"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dev-cur-season"
+				{
+					"gid"		"541BC03A0EB1D8669774671AFCC13CF6"
+					"size"		"FB43A5D04EB4FC0347529BBD66B073AA"
+					"download"		"DF5AA1FEBF125223096F3259F6161C23"
+				}
+				"dev-cur-season-pending"
+				{
+					"gid"		"BDB9BF32B21650AFB8778EFAA876B00F"
+					"size"		"E81CCA30A77663392A32DF0E1C7F1550"
+					"download"		"1A4A32DDE49F5EEC76BF9974BDF34FC0"
+				}
+				"dev-future-season"
+				{
+					"gid"		"F9276FC178AC6369D9E2207CF4F24365"
+					"size"		"84ACF8EC10FF94C1BAE6B152CF1F11A3"
+					"download"		"79269CBEE593D632B15B7171D4E01EF2"
+				}
+				"dev-future-season-pending"
+				{
+					"gid"		"1ED62D8AA09DBAD4E59CCF4ECC2883BA"
+					"size"		"16A5A98C2682F067844978FCAC7D4497"
+					"download"		"92B837F8270CD3A9190D6ACCF3F98794"
+				}
+				"dev-next-season"
+				{
+					"gid"		"693E7444F08127E5812EE1FACB6B6B8A"
+					"size"		"6494F267F354D73B328F75E573FE2CFD"
+					"download"		"4720F96FB175DBC2BB86E8CFB8F6F9CB"
+				}
+				"dev-next-season-pending"
+				{
+					"gid"		"617892D54F9A1907F86A0EB810C3FEF3"
+					"size"		"80132F4EA1DA7693424E85AF43CEDD20"
+					"download"		"05159F9724542B87082ACDE1D2CA97BC"
+				}
+				"null"
+				{
+					"gid"		"C30C09602189DE39F4DC58B4D8440CC4"
+					"size"		"5ABFEE4ED6099D2D6AF4D17D14ACBAD3"
+					"download"		"0475622C115288AEDD0AEDBF56211394"
+				}
+				"production-pending"
+				{
+					"gid"		"507D17CBA20CA315D944F1572F6AA391"
+					"size"		"E05EEEA0E796A80B40EB6D27CE442AC3"
+					"download"		"460C6096BED5239B6B76D547110AA159"
+				}
+				"staging-cur-season"
+				{
+					"gid"		"FDC0C080D09A7EB535751AA60F3141F4"
+					"size"		"D96AEF5998508ADE0D29495AD0689EEA"
+					"download"		"483A0B856BC7E49DC9DFCD2CC2A4A5C3"
+				}
+				"staging-cur-season-pending"
+				{
+					"gid"		"CA76AFF74F213D80BEA6A3A9BD5B55DB"
+					"size"		"45ED41ABA995FB788599778CE1CAF141"
+					"download"		"A4EF96EEB51683EAB431D2B46A183E73"
+				}
+				"staging-next-season"
+				{
+					"gid"		"6673C6C25704BC1C6F5DF68FE2B7D968"
+					"size"		"6A07DAECAB3C72AB5ED772B315ABD893"
+					"download"		"01C9C138597582F6AEBFA07B4D83D47B"
+				}
+				"staging-next-season-pending"
+				{
+					"gid"		"FEAE88C1B935397E401875F8B2E72239"
+					"size"		"8B7FD0F0EBB48CD4288552E3F2DA360A"
+					"download"		"ACE14033F6767CC5F54A600475FF8A73"
+				}
+				"testing-1"
+				{
+					"gid"		"A1F6641E656D265633B13D0B7D1FCA15"
+					"size"		"9452DD19780C570C9115CD8BEF806171"
+					"download"		"098395711E82420E25882BC3B01759A5"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12832500"
+				"timeupdated"		"1701293993"
+			}
+			"dev-cur-season"
+			{
+				"buildid"		"11313862"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686308776"
+			}
+			"dev-cur-season-pending"
+			{
+				"buildid"		"11317416"
+				"pwdrequired"		"1"
+				"timeupdated"		"1686309943"
+			}
+			"dev-future-season"
+			{
+				"buildid"		"12667113"
+				"pwdrequired"		"1"
+				"timeupdated"		"1699586461"
+			}
+			"dev-future-season-pending"
+			{
+				"buildid"		"12667113"
+				"pwdrequired"		"1"
+				"timeupdated"		"1699586235"
+			}
+			"dev-next-season"
+			{
+				"buildid"		"12978985"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702713668"
+			}
+			"dev-next-season-pending"
+			{
+				"buildid"		"12978985"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702713413"
+			}
+			"null"
+			{
+				"buildid"		"4016865"
+				"pwdrequired"		"1"
+				"timeupdated"		"1669669753"
+			}
+			"production-pending"
+			{
+				"buildid"		"12832500"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701292494"
+			}
+			"staging-cur-season"
+			{
+				"buildid"		"12913432"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702055878"
+			}
+			"staging-cur-season-pending"
+			{
+				"buildid"		"12913432"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702055572"
+			}
+			"staging-next-season"
+			{
+				"buildid"		"12980023"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702733469"
+			}
+			"staging-next-season-pending"
+			{
+				"buildid"		"12980023"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702733178"
+			}
+			"testing-1"
+			{
+				"buildid"		"12877002"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701763207"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10485760"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Shiny Shoe/Inkbound/save-game"
+				"pattern"		"*.sav"
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Shiny Shoe/Inkbound/preferences-synced"
+				"pattern"		"*.json"
+			}
+			"2"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Shiny Shoe/Inkbound/latest-player-save"
+				"pattern"		"*.plr"
+			}
+		}
+	}
+}
