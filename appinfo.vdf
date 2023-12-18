@@ -12,6 +12,34 @@
 		"oslist"		"windows"
 		"osarch"		"64"
 		"osextended"		""
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1699660800"
+			"tested_build_id"		"12120698"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
@@ -119,9 +147,10 @@
 			"9"		"4255"
 			"10"		"1625"
 			"11"		"4182"
+			"12"		"1721"
 		}
 		"review_score"		"4"
-		"review_percentage"		"32"
+		"review_percentage"		"36"
 	}
 	"extended"
 	{
@@ -177,18 +206,18 @@
 			{
 				"public"
 				{
-					"gid"		"6712149066695136797"
-					"size"		"1331287725"
-					"download"		"1122110448"
+					"gid"		"8239001354251976557"
+					"size"		"1374240378"
+					"download"		"1148812592"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"betatesting"
 				{
-					"gid"		"2B8257950F816026DA46B22364A10BC2"
-					"size"		"51908D99AD29EE4026F07F7EBE2A3F82"
-					"download"		"DFA184F96BD3738CACCAEA57F825EB5E"
+					"gid"		"45579FE663D645F748F32D95015A28C2"
+					"size"		"1CB5DB9065544883E7ECB4700ACE6314"
+					"download"		"C18EECDDD44DB4326BF6CCBDF159F9D0"
 				}
 			}
 		}
@@ -196,14 +225,14 @@
 		{
 			"public"
 			{
-				"buildid"		"12267864"
-				"timeupdated"		"1695554642"
+				"buildid"		"12768467"
+				"timeupdated"		"1700638701"
 			}
 			"betatesting"
 			{
-				"buildid"		"12263053"
+				"buildid"		"12768323"
 				"pwdrequired"		"1"
-				"timeupdated"		"1695451668"
+				"timeupdated"		"1700636979"
 			}
 		}
 	}
