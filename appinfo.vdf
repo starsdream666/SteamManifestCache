@@ -1,0 +1,201 @@
+"appinfo"
+{
+	"appid"		"1141760"
+	"common"
+	{
+		"name"		"Westale: Peelgrimage"
+		"type"		"Game"
+		"clienttga"		"78332751efefec4cbb83f7a9c83970967d214647"
+		"icon"		"e4b0773a9ba91a194374bf34ed42ba6862f3f5a0"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"clienticon"		"eea74ab76c3e589514f09d62968adbd80293a704"
+		"releasestate"		"released"
+		"name_localized"
+		{
+			"schinese"		"西游志：山海战纪"
+			"tchinese"		"西遊志：山海戰紀"
+			"japanese"		"西遊：山海合戦"
+		}
+		"controllertagwizard"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"schinese"		"header_schinese.jpg"
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn"
+			"library_hero"		"en"
+			"library_logo"		"en,zh-cn"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"25.31442506019397"
+				"height_pct"		"50.69443612932815"
+			}
+		}
+		"store_asset_mtime"		"1702884169"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"两把刷子工作室"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"2P Games"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"2P Games"
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"25"
+			"2"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1702871053"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1141760"
+		"store_tags"
+		{
+			"0"		"42804"
+			"1"		"4885"
+			"2"		"4255"
+			"3"		"3959"
+			"4"		"19"
+			"5"		"4637"
+			"6"		"1646"
+			"7"		"1774"
+			"8"		"4106"
+			"9"		"1716"
+			"10"		"122"
+			"11"		"4136"
+			"12"		"597"
+			"13"		"6815"
+			"14"		"4252"
+			"15"		"16094"
+			"16"		"1662"
+			"17"		"3993"
+			"18"		"4182"
+			"19"		"492"
+		}
+		"review_score"		"7"
+		"review_percentage"		"100"
+	}
+	"extended"
+	{
+		"developer"		"两把刷子工作室"
+		"publisher"		"2P Games"
+	}
+	"config"
+	{
+		"installdir"		"XiYouZhi"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"XiYouZhi\\XiYouZhi.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"schinese"
+		"hasdepotsindlc"		"0"
+		"1141761"
+		{
+			"config"
+			{
+				"language"		"schinese"
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5728791190206709559"
+					"size"		"4429688589"
+					"download"		"979229264"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"test"
+				{
+					"gid"		"A138AE8F64A97ACC368E1B643EF01519"
+					"size"		"3BF58931CBF187C35CB56027ECC6081F"
+					"download"		"566E08190FE366A04B65BA27B3063BEB"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12986554"
+				"timeupdated"		"1702871002"
+			}
+			"test"
+			{
+				"buildid"		"12986554"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702870982"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"3000000"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"TBStudio/XiYouZhi/Data"
+				"pattern"		"*.dat"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
+	}
+}
