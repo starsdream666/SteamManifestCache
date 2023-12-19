@@ -91,7 +91,7 @@
 				"height_pct"		"45.44072969473844"
 			}
 		}
-		"store_asset_mtime"		"1702460206"
+		"store_asset_mtime"		"1702903379"
 		"associations"
 		{
 			"0"
@@ -174,7 +174,7 @@
 			"19"		"493"
 		}
 		"review_score"		"8"
-		"review_percentage"		"90"
+		"review_percentage"		"89"
 	}
 	"extended"
 	{
@@ -230,7 +230,6 @@
 				{
 					"oslist"		"windows"
 					"osarch"		"64"
-					"betakey"		"nightly"
 				}
 				"description_loc"
 				{
@@ -254,6 +253,23 @@
 					"english"		"Ready or Not (No Gamepad - Testing)"
 				}
 				"description"		"Ready or Not (No Gamepad - Testing)"
+			}
+			"6"
+			{
+				"executable"		"Engine\\\\Binaries\\\\Win64\\\\CrashReporter.exe"
+				"arguments"		"clean"
+				"type"		"config"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"staging2"
+				}
+				"description_loc"
+				{
+					"english"		"Clean Mods / Save Data"
+				}
+				"description"		"Clean Mods / Save Data"
 			}
 		}
 	}
@@ -289,15 +305,15 @@
 			{
 				"public"
 				{
-					"gid"		"4385073753446263220"
-					"size"		"62754010893"
-					"download"		"52547544608"
+					"gid"		"7535541947411348459"
+					"size"		"61956173157"
+					"download"		"52522693952"
 				}
 				"supporteralpha"
 				{
-					"gid"		"4385073753446263220"
-					"size"		"62754010893"
-					"download"		"52547544608"
+					"gid"		"7535541947411348459"
+					"size"		"61956173157"
+					"download"		"52522693952"
 				}
 			}
 			"encryptedmanifests"
@@ -316,9 +332,9 @@
 				}
 				"nightly2"
 				{
-					"gid"		"A60CBD9952FCE2D94B4712C21A582F1C"
-					"size"		"12B35E14CBDDF86E87CE7F168374BAAB"
-					"download"		"AA983985CA3AF99A87D6F55F688E1D17"
+					"gid"		"8AE894F245FB03A71EF2D765306E11C4"
+					"size"		"E26E93B7CE17A606639ECFE9CFEDAD95"
+					"download"		"BBBA0BF9C50A31AF202E7901EFCDE374"
 				}
 				"nightly3"
 				{
@@ -334,9 +350,9 @@
 				}
 				"staging2"
 				{
-					"gid"		"386D70D4C823DB6C8F26AD301900671B"
-					"size"		"0FC587A7D16DDF2303209CDE29A0644D"
-					"download"		"3115B310BC1E3B10378AEE9A45D603E6"
+					"gid"		"ED42C2D4034E0733B979C39D67ADB5ED"
+					"size"		"0815500C47C806FAC2681C8585FBB9D0"
+					"download"		"56ADB999734C38323151FD5F46F39511"
 				}
 			}
 		}
@@ -344,8 +360,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12948291"
-				"timeupdated"		"1702490410"
+				"buildid"		"12981863"
+				"timeupdated"		"1702936562"
 			}
 			"dev01"
 			{
@@ -361,9 +377,9 @@
 			}
 			"nightly2"
 			{
-				"buildid"		"12955429"
+				"buildid"		"12982171"
 				"pwdrequired"		"1"
-				"timeupdated"		"1702506075"
+				"timeupdated"		"1702775995"
 			}
 			"nightly3"
 			{
@@ -379,15 +395,15 @@
 			}
 			"staging2"
 			{
-				"buildid"		"12972280"
+				"buildid"		"12997848"
 				"pwdrequired"		"1"
-				"timeupdated"		"1702644412"
+				"timeupdated"		"1702969148"
 			}
 			"supporteralpha"
 			{
-				"buildid"		"12948291"
+				"buildid"		"12981863"
 				"description"		"For early builds of the game to test for supporters"
-				"timeupdated"		"1702490431"
+				"timeupdated"		"1702936605"
 			}
 		}
 	}
