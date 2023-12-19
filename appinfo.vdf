@@ -66,6 +66,8 @@
 				"gamescope_frame_limiter_not_supported"		"0"
 			}
 		}
+		"controllertagwizard"		"1"
+		"controller_support"		"full"
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
@@ -81,6 +83,7 @@
 			"library_capsule"		"en,zh-cn"
 			"library_hero"		"en"
 			"library_logo"		"en,zh-cn"
+			"library_header"		"en"
 			"logo_position"
 			{
 				"pinned_position"		"CenterCenter"
@@ -88,7 +91,7 @@
 				"height_pct"		"100"
 			}
 		}
-		"store_asset_mtime"		"1689386400"
+		"store_asset_mtime"		"1702929603"
 		"associations"
 		{
 			"0"
@@ -118,12 +121,16 @@
 			"0"		"1"
 			"1"		"4"
 			"2"		"23"
-			"3"		"70"
 		}
 		"category"
 		{
 			"category_2"		"1"
 			"category_22"		"1"
+			"category_28"		"1"
+			"category_55"		"1"
+			"category_56"		"1"
+			"category_57"		"1"
+			"category_58"		"1"
 		}
 		"supported_languages"
 		{
@@ -147,10 +154,6 @@
 			{
 				"supported"		"true"
 			}
-			"russian"
-			{
-				"supported"		"true"
-			}
 			"brazilian"
 			{
 				"supported"		"true"
@@ -168,7 +171,7 @@
 				"supported"		"true"
 			}
 		}
-		"steam_release_date"		"1658420582"
+		"steam_release_date"		"1702994151"
 		"community_visible_stats"		"1"
 		"community_hub_visible"		"1"
 		"gameid"		"1059980"
@@ -224,7 +227,8 @@
 				"description"		"Default game start."
 			}
 		}
-		"steamcontrollertemplateindex"		"6"
+		"steamcontrollertemplateindex"		"4"
+		"steamdecktouchscreen"		"1"
 	}
 	"depots"
 	{
@@ -239,42 +243,9 @@
 			{
 				"public"
 				{
-					"gid"		"4130736455701050119"
-					"size"		"396049107"
-					"download"		"210255504"
-				}
-				"april_fools"
-				{
-					"gid"		"7199951777193071579"
-					"size"		"386157076"
-					"download"		"208546848"
-				}
-			}
-			"encryptedmanifests"
-			{
-				"debug"
-				{
-					"gid"		"746BD843483D58C72C6EF8465DCE686F"
-					"size"		"E88609A38F93C9998717587652C40B0E"
-					"download"		"7117D2E26DF2F6B291B2FFE74336ABE8"
-				}
-				"localization_test"
-				{
-					"gid"		"57B8B1BC11B60DA620C0A2F70049896E"
-					"size"		"62DA8751C10923559D574E143125C749"
-					"download"		"FBC808FCFBC4EE361AB6902D5B89CC05"
-				}
-				"wicked_realm"
-				{
-					"gid"		"7F146606C45BC2160B3CC638680310D2"
-					"size"		"61C49C07CECEEAEC44524CEF1A10F108"
-					"download"		"3B8DD363E041698632E9D4C56D18B325"
-				}
-				"zone5_beta"
-				{
-					"gid"		"31F97DD9810F6814CB4CD2B445F82285"
-					"size"		"19A0FCEDF3611105B28C3A1A1DFBF3F2"
-					"download"		"9C05071EF8ED0C515D0632E93CAE2E51"
+					"gid"		"3182849066519300293"
+					"size"		"480936473"
+					"download"		"267254880"
 				}
 			}
 		}
@@ -283,38 +254,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12762222"
-				"timeupdated"		"1700583878"
-			}
-			"april_fools"
-			{
-				"buildid"		"10909735"
-				"description"		"April Fools"
-				"timeupdated"		"1680403521"
-			}
-			"debug"
-			{
-				"buildid"		"12594699"
-				"pwdrequired"		"1"
-				"timeupdated"		"1698864602"
-			}
-			"localization_test"
-			{
-				"buildid"		"12594699"
-				"pwdrequired"		"1"
-				"timeupdated"		"1698864613"
-			}
-			"wicked_realm"
-			{
-				"buildid"		"12456634"
-				"pwdrequired"		"1"
-				"timeupdated"		"1697501827"
-			}
-			"zone5_beta"
-			{
-				"buildid"		"12969265"
-				"pwdrequired"		"1"
-				"timeupdated"		"1702620793"
+				"buildid"		"13000961"
+				"timeupdated"		"1702993676"
 			}
 		}
 	}
