@@ -3,7 +3,7 @@
 	"appid"		"1356240"
 	"common"
 	{
-		"name"		"Who Wants To Be A Millionaire"
+		"name"		"Who Wants To Be A Millionaire?"
 		"type"		"Game"
 		"releasestate"		"released"
 		"oslist"		"windows,macos"
@@ -26,15 +26,19 @@
 		}
 		"name_localized"
 		{
-			"french"		"Qui Veut Gagner Des Millions"
+			"french"		"Qui Veut Gagner Des Millions ?"
 			"german"		"Wer wird Millionär?"
-			"italian"		"Chi vuol essere miliardario?"
-			"dutch"		"BankGiro Miljonairs"
+			"italian"		"Chi Vuol Essere Millionario?"
+			"dutch"		"VriendenLoterij Miljonairs?"
 			"russian"		"Кто хочет стать миллионером?"
 			"portuguese"		"Quem quer ser milionário?"
-			"turkish"		"Kim 500 Milyar İster?"
+			"turkish"		"Kim Milyoner Olmak İster?"
 			"spanish"		"¿Quién quiere ser millonario?"
 			"polish"		"Milionerzy"
+			"koreana"		"퀴즈쇼 밀리어네어 (Who Wants To Be A Millionaire?)"
+			"schinese"		"谁想成为百万富翁？(Who Wants To Be A Millionaire?)"
+			"tchinese"		"超級大富翁 (Who Wants To Be A Millionaire?)"
+			"japanese"		"クイズ$ミリオネア (Who Wants To Be A Millionaire?)"
 		}
 		"steam_deck_compatibility"
 		{
@@ -86,6 +90,7 @@
 			"library_capsule"		"fr,de,it,es,en"
 			"library_hero"		"fr,de,it,es,en"
 			"library_logo"		"fr,de,it,es,en"
+			"library_header"		"en,de,fr,it,es"
 			"logo_position"
 			{
 				"pinned_position"		"CenterCenter"
@@ -93,7 +98,7 @@
 				"height_pct"		"100"
 			}
 		}
-		"store_asset_mtime"		"1656080456"
+		"store_asset_mtime"		"1701943940"
 		"associations"
 		{
 			"0"
@@ -102,6 +107,11 @@
 				"name"		"Appeal Studios"
 			}
 			"1"
+			{
+				"type"		"developer"
+				"name"		"Balio Studio"
+			}
+			"2"
 			{
 				"type"		"publisher"
 				"name"		"Microids"
@@ -164,23 +174,26 @@
 		"gameid"		"1356240"
 		"store_tags"
 		{
-			"0"		"597"
-			"1"		"3859"
-			"2"		"7178"
-			"3"		"10437"
-			"4"		"1685"
-			"5"		"31275"
-			"6"		"4182"
-			"7"		"1770"
-			"8"		"71389"
-			"9"		"4191"
-			"10"		"1036"
-			"11"		"4195"
-			"12"		"5350"
-			"13"		"5711"
-			"14"		"3841"
-			"15"		"7368"
-			"16"		"1775"
+			"0"		"71389"
+			"1"		"10437"
+			"2"		"1036"
+			"3"		"1775"
+			"4"		"1770"
+			"5"		"176981"
+			"6"		"4191"
+			"7"		"31275"
+			"8"		"4136"
+			"9"		"5711"
+			"10"		"597"
+			"11"		"5350"
+			"12"		"5794"
+			"13"		"16250"
+			"14"		"1685"
+			"15"		"3841"
+			"16"		"4182"
+			"17"		"3859"
+			"18"		"7368"
+			"19"		"7178"
 		}
 		"review_score"		"5"
 		"review_percentage"		"51"
@@ -189,7 +202,7 @@
 	{
 		"developer"		"Appeal Studios"
 		"publisher"		"Microids"
-		"listofdlc"		"1815670"
+		"listofdlc"		"1815670,2635190,2729730"
 		"dlcavailableonstore"		"1"
 	}
 	"config"
@@ -220,6 +233,7 @@
 	"depots"
 	{
 		"baselanguages"		"english,german,french,italian,spanish"
+		"hasdepotsindlc"		"1"
 		"1356241"
 		{
 			"config"
@@ -230,13 +244,19 @@
 			{
 				"public"
 				{
-					"gid"		"8034239838568888453"
-					"size"		"2678238744"
-					"download"		"2191759120"
+					"gid"		"2450532345176102000"
+					"size"		"4910368347"
+					"download"		"2653688400"
 				}
 			}
 			"encryptedmanifests"
 			{
+				"_void"
+				{
+					"gid"		"4FCC84E219C14FF85EEF6184431D967D"
+					"size"		"A5D7E8EAB6A1A76CE575D568BF7B983C"
+					"download"		"56194DFE2EEE0E553EBF4AF18A5E0926"
+				}
 				"internaltest"
 				{
 					"gid"		"681707DAB3EECA1758EC2E73A4CD5D85"
@@ -245,9 +265,9 @@
 				}
 				"test2021"
 				{
-					"gid"		"BF8BAF6175507F4F907018E580A7BB38"
-					"size"		"D2E6D83C37B3AE55D4D55BE5429619B1"
-					"download"		"EA09BC106DD72ECD2476B77D978D64B7"
+					"gid"		"E48BAE383321BE219713B50BCAF1EE7F"
+					"size"		"B4BA1E421E568C487E09F0E5AB721668"
+					"download"		"9F3EABFC49F27F7F95D1D9FEB62F909D"
 				}
 				"unicef"
 				{
@@ -274,6 +294,12 @@
 			}
 			"encryptedmanifests"
 			{
+				"_void"
+				{
+					"gid"		"8E0165534C697169E67AB3F0518FDD3C"
+					"size"		"A23D7764E68C439068BD6CCDB071E068"
+					"download"		"21350218BAEE790D3596886ABF08A292"
+				}
 				"internaltest"
 				{
 					"gid"		"6E4F0D2785410D3B630F8BC351CA225F"
@@ -301,18 +327,24 @@
 			{
 				"public"
 				{
-					"gid"		"9016889669183240495"
-					"size"		"134236352"
-					"download"		"53662816"
+					"gid"		"5331545040901085099"
+					"size"		"134229989"
+					"download"		"53674624"
 				}
 			}
 			"encryptedmanifests"
 			{
+				"_void"
+				{
+					"gid"		"CE30EE3026D162E10B26AA6B87CC363B"
+					"size"		"0479F6B69415C8D6A11C98004F4D0870"
+					"download"		"A94B5BD54E26AA75FC6EADC3E64F16FC"
+				}
 				"test2021"
 				{
-					"gid"		"5380F780E6CD660F513E39FA3D9E2A91"
-					"size"		"537E3FAF4E3FA91DDF3B25819A53F5B4"
-					"download"		"AC6017C7ED6D3C24293516AD7B88866C"
+					"gid"		"614DA98927102056855650E3CB8C5399"
+					"size"		"15777247DC98DAD3A025974CE88A3BE0"
+					"download"		"CCF1DE9CC9CF46D64D6D10686E2913B4"
 				}
 			}
 		}
@@ -321,14 +353,26 @@
 			"dlcappid"		"2602750"
 			"manifests"
 			{
+				"public"
+				{
+					"gid"		"1847227064736332569"
+					"size"		"110805"
+					"download"		"91664"
+				}
 			}
 			"encryptedmanifests"
 			{
+				"_void"
+				{
+					"gid"		"3D086FC2856B737B202D526B5E36AAD0"
+					"size"		"F01DA940AE11156DDE77FB1AF904500B"
+					"download"		"277D6AB8ABB29F48AAA69D0C9150C47B"
+				}
 				"test2021"
 				{
-					"gid"		"DC766B333C73DAEA16FAEA529DED8223"
-					"size"		"B5B684416F7BDF760D6166DC3FBD7E18"
-					"download"		"8997AE77559A4D6884D7F217487C8719"
+					"gid"		"601DF2731B983A8DE56D2EBC66AC8BD0"
+					"size"		"D58A6BD8648C7245808C1F71DAA12CB7"
+					"download"		"C2D442624F8747DFB19E4A92C6F66B13"
 				}
 			}
 		}
@@ -336,8 +380,14 @@
 		{
 			"public"
 			{
-				"buildid"		"9035544"
-				"timeupdated"		"1656581460"
+				"buildid"		"12731469"
+				"timeupdated"		"1702919882"
+			}
+			"_void"
+			{
+				"buildid"		"12365784"
+				"pwdrequired"		"1"
+				"timeupdated"		"1696598229"
 			}
 			"internaltest"
 			{
@@ -347,9 +397,9 @@
 			}
 			"test2021"
 			{
-				"buildid"		"12168319"
+				"buildid"		"12731469"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694519016"
+				"timeupdated"		"1700227595"
 			}
 			"unicef"
 			{
