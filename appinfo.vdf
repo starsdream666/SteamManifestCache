@@ -30,15 +30,35 @@
 		}
 		"steam_deck_compatibility"
 		{
-			"category"		"1"
-			"test_timestamp"		"1645660800"
-			"tested_build_id"		"7641570"
+			"category"		"2"
+			"test_timestamp"		"1701907200"
+			"tested_build_id"		"12772585"
 			"tests"
 			{
 				"0"
 				{
-					"display"		"2"
-					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"3"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"4"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
 				}
 			}
 			"configuration"
@@ -46,13 +66,15 @@
 				"supported_input"		"other"
 				"requires_manual_keyboard_invoke"		"1"
 				"requires_non_controller_launcher_nav"		"0"
-				"primary_player_is_controller_slot_0"		"1"
+				"primary_player_is_controller_slot_0"		"0"
 				"non_deck_display_glyphs"		"1"
-				"small_text"		"0"
+				"small_text"		"1"
 				"requires_internet_for_setup"		"0"
 				"requires_internet_for_singleplayer"		"0"
 				"recommended_runtime"		"proton-stable"
 				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"1"
+				"hdr_support"		"0"
 			}
 		}
 		"metacritic_name"		"Going Medieval"
@@ -224,15 +246,15 @@
 			{
 				"public"
 				{
-					"gid"		"4768129251927844083"
-					"size"		"705963498"
-					"download"		"405850304"
+					"gid"		"3091274295648903864"
+					"size"		"706086750"
+					"download"		"405983168"
 				}
 				"experimental"
 				{
-					"gid"		"8288788575792562592"
-					"size"		"734432016"
-					"download"		"412978496"
+					"gid"		"1587245830256444939"
+					"size"		"734561656"
+					"download"		"413111632"
 				}
 				"legacy-0.7.17"
 				{
@@ -257,9 +279,9 @@
 				}
 				"qadev"
 				{
-					"gid"		"91E1605778B2E85FFA7450F1B50F3E12"
-					"size"		"A9E2D569CB3AD9241880894FBC57BC56"
-					"download"		"DFF43713F420B5B3706386DF77177FC4"
+					"gid"		"DF4FB5671477F00FFAAB697DCB04ED08"
+					"size"		"7189CFC1DE158AC8BAC9042CFBABCCE5"
+					"download"		"60011BF773623D65FE4428B770B1F08E"
 				}
 				"qadevlegacy"
 				{
@@ -269,15 +291,15 @@
 				}
 				"qadevsave"
 				{
-					"gid"		"085AE0C58AD0D82CD1829CC43510A0C1"
-					"size"		"E081AF395CC84499E48451611CD2B98D"
-					"download"		"F9D6659DF15C8F1A8C67991FB2B413DF"
+					"gid"		"4500FA1469F3B6765E6E42CC9E5CF10C"
+					"size"		"379B1196AB6B162F9A0A8EC21BDB1F04"
+					"download"		"F84BE5E491557226914E9A90381229B1"
 				}
 				"staging"
 				{
-					"gid"		"060D8681E20D3A3E6E6B667E0B05BC4D"
-					"size"		"93361F5BAF861BE5DF89D871080B84F8"
-					"download"		"FBA64288D3D0F68C9191BE544425568B"
+					"gid"		"958054C617AA184399930695490D6831"
+					"size"		"95937F4FD301DB2C1185B37F5F9AE263"
+					"download"		"1FF51FBB0783ECAB55D88C318EC3C520"
 				}
 			}
 		}
@@ -285,8 +307,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12911559"
-				"timeupdated"		"1702044506"
+				"buildid"		"13000330"
+				"timeupdated"		"1703079654"
 			}
 			"audio"
 			{
@@ -296,9 +318,9 @@
 			}
 			"experimental"
 			{
-				"buildid"		"12911584"
+				"buildid"		"13000346"
 				"description"		"Home of future updates"
-				"timeupdated"		"1702044147"
+				"timeupdated"		"1703079669"
 			}
 			"internal"
 			{
@@ -314,9 +336,9 @@
 			}
 			"qadev"
 			{
-				"buildid"		"12911584"
+				"buildid"		"13000346"
 				"pwdrequired"		"1"
-				"timeupdated"		"1702042141"
+				"timeupdated"		"1702989819"
 			}
 			"qadevlegacy"
 			{
@@ -326,15 +348,15 @@
 			}
 			"qadevsave"
 			{
-				"buildid"		"12880677"
+				"buildid"		"12998096"
 				"pwdrequired"		"1"
-				"timeupdated"		"1701789522"
+				"timeupdated"		"1702971717"
 			}
 			"staging"
 			{
-				"buildid"		"12911559"
+				"buildid"		"13000330"
 				"pwdrequired"		"1"
-				"timeupdated"		"1702042132"
+				"timeupdated"		"1702989827"
 			}
 		}
 	}
