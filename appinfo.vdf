@@ -13,6 +13,44 @@
 		"clienttga"		"813eed04ab6001052d052cc100ecd13aef4e566f"
 		"clienticon"		"ef9dc4ee79b33862a317a6e3fd630a2e905cb0e8"
 		"clienticns"		"9220a10b74ca31bb06af169e95b194a53198bad6"
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1697068800"
+			"tested_build_id"		"12324181"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-8.0-4"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
@@ -180,8 +218,8 @@
 			"4"		"1698"
 			"5"		"4182"
 			"6"		"5716"
-			"7"		"1667"
-			"8"		"1742"
+			"7"		"1742"
+			"8"		"1667"
 		}
 		"review_score"		"9"
 		"review_percentage"		"98"
