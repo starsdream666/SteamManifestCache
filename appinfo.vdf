@@ -43,32 +43,27 @@
 		"has_adult_content"		"1"
 		"steam_deck_compatibility"
 		{
-			"category"		"2"
-			"test_timestamp"		"1658793600"
-			"tested_build_id"		"8733138"
+			"category"		"3"
+			"test_timestamp"		"1702339200"
+			"tested_build_id"		"12912677"
 			"tests"
 			{
 				"0"
 				{
-					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
-				}
-				"1"
-				{
-					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
-				}
-				"2"
-				{
-					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
-				}
-				"3"
-				{
 					"display"		"4"
 					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 				}
-				"4"
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
 				{
 					"display"		"4"
 					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
@@ -76,17 +71,18 @@
 			}
 			"configuration"
 			{
-				"supported_input"		"other"
-				"requires_manual_keyboard_invoke"		"1"
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
 				"requires_non_controller_launcher_nav"		"0"
 				"primary_player_is_controller_slot_0"		"0"
-				"non_deck_display_glyphs"		"1"
-				"small_text"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
 				"requires_internet_for_setup"		"0"
 				"requires_internet_for_singleplayer"		"0"
 				"recommended_runtime"		"proton-stable"
-				"requires_h264"		"0"
+				"requires_h264"		"1"
 				"gamescope_frame_limiter_not_supported"		"0"
+				"hdr_support"		"0"
 			}
 		}
 		"controllertagwizard"		"1"
@@ -154,6 +150,11 @@
 			"category_28"		"1"
 			"category_55"		"1"
 			"category_57"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_39"		"1"
+			"category_56"		"1"
+			"category_58"		"1"
 		}
 		"supported_languages"
 		{
@@ -350,9 +351,9 @@
 				}
 				"develop"
 				{
-					"gid"		"59AA444C74474A9F141E28C1952D42FC"
-					"size"		"AE2BC14E03223EAD0566D17B03E53524"
-					"download"		"272D30676421665A0043FC9715E2AA03"
+					"gid"		"FDD33B46B6E1FFAC0EEA82B872035CCB"
+					"size"		"2F8C1091FF60497F9931D3E5D0FE4802"
+					"download"		"4EA412496E9FA44300299B27C7EA9BEF"
 				}
 				"pre-master"
 				{
@@ -399,9 +400,9 @@
 				}
 				"develop"
 				{
-					"gid"		"01173667310FCFB046CE790912EFC35D"
-					"size"		"F1D1BB7A9CB7909F15EFDA26F5243CE2"
-					"download"		"0B57E64C4C0EFB424C3DE4A551957B2D"
+					"gid"		"B49C920291BC3F55326E1AE750C23C08"
+					"size"		"675D573CF37BDECAE5E87E126149BA9E"
+					"download"		"03D59452D64D6CE1C16876115FA77C29"
 				}
 				"pre-master"
 				{
@@ -436,9 +437,9 @@
 			}
 			"develop"
 			{
-				"buildid"		"12913421"
+				"buildid"		"13010767"
 				"pwdrequired"		"1"
-				"timeupdated"		"1702055407"
+				"timeupdated"		"1703079794"
 			}
 			"pre-master"
 			{
