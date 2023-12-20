@@ -44,6 +44,34 @@
 		"has_adult_content"		"1"
 		"has_adult_content_sex"		"1"
 		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1701129600"
+			"tested_build_id"		"12697552"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-experimental"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"1"
+			}
+		}
 		"controllertagwizard"		"1"
 		"controller_support"		"full"
 		"small_capsule"
@@ -153,13 +181,13 @@
 			"11"		"1708"
 			"12"		"5984"
 			"13"		"1678"
-			"14"		"4667"
-			"15"		"4182"
+			"14"		"4182"
+			"15"		"4667"
 			"16"		"13276"
 			"17"		"1756"
 		}
 		"review_score"		"5"
-		"review_percentage"		"57"
+		"review_percentage"		"67"
 	}
 	"extended"
 	{
@@ -217,9 +245,9 @@
 			{
 				"public"
 				{
-					"gid"		"7314977557550717574"
-					"size"		"16634015416"
-					"download"		"12260895680"
+					"gid"		"3642612458298862154"
+					"size"		"16423788285"
+					"download"		"12064918272"
 				}
 			}
 			"encryptedmanifests"
@@ -244,15 +272,15 @@
 				}
 				"rjiubl"
 				{
-					"gid"		"660EE0D77882B4404425B222E990A786"
-					"size"		"197982B4A6B5497B87CD90B1FD002505"
-					"download"		"EE594B2EBE488920E1D5A2AC1D0B9223"
+					"gid"		"68E87933D84CCD9955C0FCE18EF06092"
+					"size"		"E3A122A43B299EE2583D7D83B460E3F6"
+					"download"		"613832B1820C3A82E41D879F57C644A4"
 				}
 				"staging"
 				{
-					"gid"		"A292BB2338606EA8EBC63149DAA388F2"
-					"size"		"27AE38710544880672A5E01904061F18"
-					"download"		"3D3D3720895231C236DDDD9D3CE88B61"
+					"gid"		"4100805826CBCECBF45DE904F06A7046"
+					"size"		"137B13C4003CAA72FA4FDCD9C6AD031E"
+					"download"		"6E10C74E03E52495FF0317CFF5297A7C"
 				}
 			}
 		}
@@ -266,9 +294,9 @@
 			{
 				"public"
 				{
-					"gid"		"5752063643288826324"
-					"size"		"16535985847"
-					"download"		"12236054928"
+					"gid"		"7087535536714563422"
+					"size"		"16325774221"
+					"download"		"12040092768"
 				}
 			}
 			"encryptedmanifests"
@@ -293,15 +321,15 @@
 				}
 				"rjiubl"
 				{
-					"gid"		"5B1452300E7EF13C54445A03FA2BD3EA"
-					"size"		"F288D03E2D7C54ECDAD374472E724298"
-					"download"		"9081BB0FC3EEB15F5F3F5779AC2980EF"
+					"gid"		"4F6245BB3B4C81C572261053C6054546"
+					"size"		"5137F43407D0E5F25FFF24A59967BE62"
+					"download"		"760EA00D72CBB7AC240ABD87A96FA3D2"
 				}
 				"staging"
 				{
-					"gid"		"63E83DC032D76E7C919C16C4419FA8FF"
-					"size"		"CA2B203AC2CDDCE4DC51D91AAD603D6A"
-					"download"		"6B0F467DBA63ED5AB6D88102A0B9FDE3"
+					"gid"		"14F40BB1ADF8D4102AC4C1250DDF3090"
+					"size"		"B470D4E0252844E2BA3A5436EF4131F9"
+					"download"		"82257863FC97A51AD6C89DC7BC0F399B"
 				}
 			}
 		}
@@ -312,9 +340,9 @@
 			{
 				"public"
 				{
-					"gid"		"8894992228688380475"
-					"size"		"7082693787"
-					"download"		"6032434192"
+					"gid"		"1248407501350412670"
+					"size"		"7292772454"
+					"download"		"6245380176"
 				}
 			}
 			"encryptedmanifests"
@@ -339,15 +367,15 @@
 				}
 				"rjiubl"
 				{
-					"gid"		"38C4637932FD0173630712D8C4B71FFD"
-					"size"		"8C7B4D920D6A911A4C3EAEDD9C3795CF"
-					"download"		"108AEA0201F5ABF1D82F09A50DBE3F6D"
+					"gid"		"EE4425073B883F66B413DA2A5BC1E27F"
+					"size"		"2297F1B0B2B9B99EA84C8C1E81A105C1"
+					"download"		"947320ADDA632DED96236082D97536B6"
 				}
 				"staging"
 				{
-					"gid"		"1A5384B2329FD018643FC05352B45B13"
-					"size"		"A60D913DF332BA4414BFAD8EE8CAD597"
-					"download"		"25AFD9419C9E0F2D81EC52F9685E2AE1"
+					"gid"		"CE59BFE8E6C471936E40C7362F804AE0"
+					"size"		"3F90C03E79B411C17FBA2D93D4120287"
+					"download"		"2943A6D24A17679AB33AF100F7136517"
 				}
 			}
 			"config"
@@ -362,9 +390,9 @@
 			{
 				"public"
 				{
-					"gid"		"3468824289777474826"
-					"size"		"7180322289"
-					"download"		"6056376272"
+					"gid"		"4148701941989215099"
+					"size"		"7390786518"
+					"download"		"6269710672"
 				}
 			}
 			"encryptedmanifests"
@@ -389,15 +417,15 @@
 				}
 				"rjiubl"
 				{
-					"gid"		"DE84269A2C8318861BAB1731224A6C49"
-					"size"		"6BF361F0066B107462D615FEE11D9DD8"
-					"download"		"D42B3E5D530B6A939756D17AFB492B66"
+					"gid"		"49349BFB3366CC315FD9E8E8A2CEDB62"
+					"size"		"665F3F240F77562FC70607D1572AC03C"
+					"download"		"D3975E6B98632B8F9AA9C00A5B98E0F0"
 				}
 				"staging"
 				{
-					"gid"		"04C1BEFECEA13D82025AD44D776A60F8"
-					"size"		"429C172D010FB6C6B4F63C8BAEFED917"
-					"download"		"2C8C6E6BA597EC0C7F0EF6FDED53F40F"
+					"gid"		"6ED45F8640BF9A889BE47EF9A1A9973A"
+					"size"		"A24649E9AC7EB872AB6B913EAC370629"
+					"download"		"A6D3E988EE7D75B9C1382DF5DFAEF041"
 				}
 			}
 			"config"
@@ -405,12 +433,26 @@
 				"optionaldlc"		"2314261"
 			}
 		}
+		"2131643"
+		{
+			"config"
+			{
+				"steamdeck"		"1"
+			}
+		}
+		"2131644"
+		{
+			"config"
+			{
+				"steamdeck"		"1"
+			}
+		}
 		"branches"
 		{
 			"public"
 			{
-				"buildid"		"12697552"
-				"timeupdated"		"1700035750"
+				"buildid"		"12969682"
+				"timeupdated"		"1703062195"
 			}
 			"beta"
 			{
@@ -432,15 +474,15 @@
 			}
 			"rjiubl"
 			{
-				"buildid"		"12697552"
+				"buildid"		"12969682"
 				"pwdrequired"		"1"
-				"timeupdated"		"1699954189"
+				"timeupdated"		"1702625751"
 			}
 			"staging"
 			{
-				"buildid"		"12697552"
+				"buildid"		"12969682"
 				"pwdrequired"		"1"
-				"timeupdated"		"1699954805"
+				"timeupdated"		"1702633830"
 			}
 		}
 		"appmanagesdlc"		"1"
