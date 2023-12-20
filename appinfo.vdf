@@ -21,6 +21,54 @@
 			"english"		"1"
 			"schinese"		"1"
 		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1698883200"
+			"tested_build_id"		"12511085"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
@@ -34,6 +82,7 @@
 			"library_capsule"		"en"
 			"library_hero"		"en"
 			"library_logo"		"en"
+			"library_header"		"en"
 			"logo_position"
 			{
 				"pinned_position"		"BottomLeft"
@@ -41,7 +90,7 @@
 				"height_pct"		"60.51487176442652"
 			}
 		}
-		"store_asset_mtime"		"1697880138"
+		"store_asset_mtime"		"1702639448"
 		"associations"
 		{
 			"0"
@@ -87,16 +136,16 @@
 		{
 			"0"		"599"
 			"1"		"122"
-			"2"		"3799"
-			"3"		"9551"
+			"2"		"9551"
+			"3"		"3799"
 			"4"		"7332"
 			"5"		"4434"
-			"6"		"1667"
-			"7"		"4726"
+			"6"		"4726"
+			"7"		"1667"
 			"8"		"1643"
 			"9"		"4328"
-			"10"		"5363"
-			"11"		"16094"
+			"10"		"16094"
+			"11"		"5363"
 			"12"		"4195"
 			"13"		"4182"
 			"14"		"1742"
@@ -107,12 +156,14 @@
 			"19"		"4604"
 		}
 		"review_score"		"8"
-		"review_percentage"		"90"
+		"review_percentage"		"93"
 	}
 	"extended"
 	{
 		"developer"		"Bone Nail"
 		"publisher"		"Bone Nail"
+		"listofdlc"		"2699860"
+		"dlcavailableonstore"		"1"
 	}
 	"config"
 	{
@@ -138,23 +189,33 @@
 			{
 				"public"
 				{
-					"gid"		"5867520162862152900"
-					"size"		"2286156974"
-					"download"		"546020544"
+					"gid"		"7717235420964899527"
+					"size"		"2297561102"
+					"download"		"547784912"
 				}
 			}
 		}
 		"2194532"
 		{
 		}
+		"2699860"
+		{
+			"dlcappid"		"2699860"
+			"config"
+			{
+				"optionaldlc"		"2699860"
+			}
+		}
+		"hasdepotsindlc"		"1"
 		"branches"
 		{
 			"public"
 			{
-				"buildid"		"12599303"
-				"timeupdated"		"1698911066"
+				"buildid"		"13009584"
+				"timeupdated"		"1703071483"
 			}
 		}
+		"appmanagesdlc"		"1"
 	}
 	"ufs"
 	{
