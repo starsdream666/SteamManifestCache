@@ -64,7 +64,8 @@
 				"requires_h264"		"0"
 			}
 		}
-		"controller_support"		"partial"
+		"controllertagwizard"		"1"
+		"controller_support"		"full"
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
@@ -114,9 +115,13 @@
 			"category_2"		"1"
 			"category_45"		"1"
 			"category_46"		"1"
-			"category_18"		"1"
 			"category_22"		"1"
 			"category_23"		"1"
+			"category_28"		"1"
+			"category_55"		"1"
+			"category_56"		"1"
+			"category_57"		"1"
+			"category_58"		"1"
 		}
 		"supported_languages"
 		{
@@ -216,6 +221,18 @@
 					"size"		"661D5223F2DB39C6B317E01046CC5061"
 					"download"		"54AA2F256AE6D2B40AA20D4B04EBF016"
 				}
+				"initory"
+				{
+					"gid"		"6D1D749C6E5A3A60C48280DF2AD85841"
+					"size"		"71692FF35BA0817FB5FBF9CF604B85B2"
+					"download"		"DA77AA0029EBF92691667632CB4B5C53"
+				}
+				"test"
+				{
+					"gid"		"699FDB02DCC6CD3EFDAFF2393547B879"
+					"size"		"0258946BC653D61471D212A6394CFA97"
+					"download"		"DAA64F571181DB9B8B195F9227BDDCE1"
+				}
 			}
 		}
 		"branches"
@@ -236,6 +253,18 @@
 				"buildid"		"8970177"
 				"pwdrequired"		"1"
 				"timeupdated"		"1655716619"
+			}
+			"initory"
+			{
+				"buildid"		"12804550"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701063752"
+			}
+			"test"
+			{
+				"buildid"		"12804550"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701222595"
 			}
 		}
 	}
