@@ -16,9 +16,9 @@
 		"oslist"		"windows"
 		"osarch"		"64"
 		"osextended"		""
-		"clienticon"		"88302b358da8813d4e0052079fec77b7a347992a"
+		"clienticon"		"cf113cdb8ff305703ecab140b6bc4c8d005d9b51"
 		"clienttga"		"7493202808758a90c2237e764e7475bb472287da"
-		"icon"		"227bc1a097ab1277cf75c249476d7831fa828eeb"
+		"icon"		"a8161291616949b6325460d8aaeb96e73e4eaeb1"
 		"releasestate"		"released"
 		"languages"
 		{
@@ -101,7 +101,7 @@
 				"height_pct"		"50"
 			}
 		}
-		"store_asset_mtime"		"1699427582"
+		"store_asset_mtime"		"1701328180"
 		"associations"
 		{
 			"0"
@@ -212,12 +212,12 @@
 		"gameid"		"2218400"
 		"store_tags"
 		{
-			"0"		"493"
-			"1"		"3959"
+			"0"		"3959"
+			"1"		"493"
 			"2"		"4885"
-			"3"		"5154"
-			"4"		"42804"
-			"5"		"1716"
+			"3"		"42804"
+			"4"		"1716"
+			"5"		"5154"
 			"6"		"21"
 			"7"		"19"
 			"8"		"4182"
@@ -327,24 +327,24 @@
 			{
 				"public"
 				{
-					"gid"		"4044256187626645820"
-					"size"		"2906511024"
-					"download"		"2586413952"
+					"gid"		"284510887704943270"
+					"size"		"2946281286"
+					"download"		"2625999712"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"earlyaccess"
 				{
-					"gid"		"FABAADC034CE160F19944678A05A46A7"
-					"size"		"BA89D87031A229144CCE4AECC2C27DF0"
-					"download"		"7BF7022DC421E119685DC7B4D10A7868"
+					"gid"		"712BB03E95C5937DB4B74B25C0DA111B"
+					"size"		"15D18BF4A5D041091638481E23E5F810"
+					"download"		"38E6155F44DE78784C7E4E1861C2B940"
 				}
 				"test"
 				{
-					"gid"		"46A0E07B4D9440AFBCCC645FE31638B4"
-					"size"		"36711996B7083E8E1E4BCDA4F55E8638"
-					"download"		"0031594B30B088936254F831536064C4"
+					"gid"		"34C8079BC1854ADE5C1B6B7409ABD204"
+					"size"		"C5CDFB3AD1CCD863C65DE8527E7A6F95"
+					"download"		"73CC37515203C186842387780E579F58"
 				}
 				"weplay"
 				{
@@ -367,20 +367,20 @@
 		{
 			"public"
 			{
-				"buildid"		"12816924"
-				"timeupdated"		"1701174083"
+				"buildid"		"13007465"
+				"timeupdated"		"1703052824"
 			}
 			"earlyaccess"
 			{
-				"buildid"		"12816924"
+				"buildid"		"13007465"
 				"pwdrequired"		"1"
-				"timeupdated"		"1701174065"
+				"timeupdated"		"1703052802"
 			}
 			"test"
 			{
-				"buildid"		"12816924"
+				"buildid"		"13007465"
 				"pwdrequired"		"1"
-				"timeupdated"		"1701173815"
+				"timeupdated"		"1703052424"
 			}
 			"weplay"
 			{
@@ -419,6 +419,12 @@
 				"root"		"WinAppDataLocal"
 				"path"		"NewGreedland/Saved/SaveGames"
 				"pattern"		"GLGameSaveAuto.sav"
+			}
+			"5"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"NewGreedland/Saved/SaveGames/{64BitSteamID}"
+				"pattern"		"*.sav"
 			}
 		}
 	}
