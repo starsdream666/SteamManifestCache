@@ -29,6 +29,34 @@
 		}
 		"has_adult_content"		"1"
 		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1701129600"
+			"tested_build_id"		"12483366"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"1"
+			}
+		}
 		"controllertagwizard"		"1"
 		"controller_support"		"full"
 		"small_capsule"
@@ -63,11 +91,6 @@
 			{
 				"type"		"publisher"
 				"name"		"KONAMI"
-			}
-			"2"
-			{
-				"type"		"franchise"
-				"name"		"Metal Gear"
 			}
 		}
 		"primary_genre"		"1"
@@ -143,8 +166,8 @@
 			"17"		"4182"
 			"18"		"4667"
 		}
-		"review_score"		"4"
-		"review_percentage"		"39"
+		"review_score"		"5"
+		"review_percentage"		"42"
 	}
 	"extended"
 	{
@@ -216,18 +239,18 @@
 			{
 				"public"
 				{
-					"gid"		"2839863265672473383"
-					"size"		"340951137"
-					"download"		"318065040"
+					"gid"		"6767077621789015263"
+					"size"		"342965085"
+					"download"		"319943392"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"staging"
 				{
-					"gid"		"079F5BD42D51E515BF3278F8212E5AAE"
-					"size"		"8EF03163FAF50D3E646A526F768BAFF9"
-					"download"		"DC8CF33F8549DC677EE92A9B3AC2A760"
+					"gid"		"318E8D90D089378EF7443AF236DD0C8D"
+					"size"		"2478CA0F2C6E9CA37987053A3080E6A9"
+					"download"		"54F10F84C1862B0A57C4EFD1876337A7"
 				}
 				"test"
 				{
@@ -301,14 +324,14 @@
 		{
 			"public"
 			{
-				"buildid"		"12646990"
-				"timeupdated"		"1699952440"
+				"buildid"		"12995445"
+				"timeupdated"		"1703062113"
 			}
 			"staging"
 			{
-				"buildid"		"12646990"
+				"buildid"		"12995445"
 				"pwdrequired"		"1"
-				"timeupdated"		"1699419667"
+				"timeupdated"		"1702943847"
 			}
 			"test"
 			{
