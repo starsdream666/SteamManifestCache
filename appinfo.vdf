@@ -153,8 +153,8 @@
 			"6"		"6650"
 			"7"		"4947"
 			"8"		"7743"
-			"9"		"1742"
-			"10"		"4004"
+			"9"		"4004"
+			"10"		"1742"
 			"11"		"4085"
 			"12"		"1756"
 			"13"		"4166"
@@ -216,15 +216,14 @@
 			"config"
 			{
 				"oslist"		"windows,linux"
-				"language"		""
 			}
 			"manifests"
 			{
 				"public"
 				{
-					"gid"		"1120492091007872635"
-					"size"		"1434397340"
-					"download"		"1311357120"
+					"gid"		"7125910288318968794"
+					"size"		"1443356452"
+					"download"		"1317968640"
 				}
 			}
 			"encryptedmanifests"
@@ -235,6 +234,12 @@
 					"size"		"B0FE5D52D3D740CF6590A6678FADC4C5"
 					"download"		"9C8CB0B51ED94F00FD9F261F560656E3"
 				}
+				"beta-1.3.1"
+				{
+					"gid"		"9BB8E5DC157D2E75872369FECDE33B6E"
+					"size"		"FDC98A42DA574329D81948CB4E82E4FB"
+					"download"		"B91FE9F6DFBC25091B4414E9239E44E4"
+				}
 			}
 		}
 		"1231060"
@@ -242,6 +247,7 @@
 			"config"
 			{
 				"language"		""
+				"optionaldlc"		"1231060"
 			}
 			"dlcappid"		"1231060"
 			"manifests"
@@ -260,15 +266,14 @@
 			"config"
 			{
 				"oslist"		"windows"
-				"language"		""
 			}
 			"manifests"
 			{
 				"public"
 				{
-					"gid"		"6955655431791708369"
-					"size"		"69009632"
-					"download"		"20327216"
+					"gid"		"868197144335052282"
+					"size"		"40799232"
+					"download"		"12409008"
 				}
 			}
 			"encryptedmanifests"
@@ -279,6 +284,12 @@
 					"size"		"9B0E332057691A2B82D0D4BA636664AE"
 					"download"		"572CAEC49F50996CE97354F2E189AE27"
 				}
+				"beta-1.3.1"
+				{
+					"gid"		"6065A7CF554052744C84E25156055DA2"
+					"size"		"0F4C5B863F932CE9C2CE1440BCD97F9C"
+					"download"		"5661A680674C04844EB32F982129B5AD"
+				}
 			}
 		}
 		"1111373"
@@ -286,15 +297,14 @@
 			"config"
 			{
 				"oslist"		"linux"
-				"language"		""
 			}
 			"manifests"
 			{
 				"public"
 				{
-					"gid"		"5222233629091982400"
-					"size"		"48205279"
-					"download"		"13454608"
+					"gid"		"8953431251287123022"
+					"size"		"29741660"
+					"download"		"8615984"
 				}
 			}
 			"encryptedmanifests"
@@ -305,6 +315,12 @@
 					"size"		"D6C2CD8293AC924079966C413BF015FE"
 					"download"		"69A5496047EC10F04D5EC0653FDEF149"
 				}
+				"beta-1.3.1"
+				{
+					"gid"		"8CD25C0F9E35078A13C56126B0FB6CC8"
+					"size"		"ABEF8BDCD944833352794EF327686B41"
+					"download"		"78CD3F5ABE7D31095935280D61845DAE"
+				}
 			}
 		}
 		"1111374"
@@ -312,15 +328,14 @@
 			"config"
 			{
 				"oslist"		"macos"
-				"language"		""
 			}
 			"manifests"
 			{
 				"public"
 				{
-					"gid"		"9200048206805533031"
-					"size"		"1455631712"
-					"download"		"1318875216"
+					"gid"		"2003306536959238858"
+					"size"		"1501200109"
+					"download"		"1335837744"
 				}
 			}
 			"encryptedmanifests"
@@ -331,20 +346,32 @@
 					"size"		"E37141339731CD8871A46DCD47947662"
 					"download"		"63BC95AA82062D928F577B751EF501F2"
 				}
+				"beta-1.3.1"
+				{
+					"gid"		"AD88DE1CF3B955B81762AAC91282A199"
+					"size"		"7EEFA50A210330B2ECFDB38C561996EC"
+					"download"		"F5E5A6BA335507CD8FD00273BDC3662D"
+				}
 			}
 		}
 		"branches"
 		{
 			"public"
 			{
-				"buildid"		"7017139"
-				"timeupdated"		"1626115323"
+				"buildid"		"12985378"
+				"timeupdated"		"1703051279"
 			}
 			"beta-1.2.2"
 			{
 				"buildid"		"7017139"
 				"pwdrequired"		"1"
 				"timeupdated"		"1626108724"
+			}
+			"beta-1.3.1"
+			{
+				"buildid"		"12985378"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702850923"
 			}
 		}
 	}
