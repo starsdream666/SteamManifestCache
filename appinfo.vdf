@@ -95,6 +95,7 @@
 			"library_capsule"		"en,zh-cn"
 			"library_hero"		"en,zh-cn"
 			"library_logo"		"en,zh-cn"
+			"library_header"		"zh-cn,en"
 			"logo_position"
 			{
 				"pinned_position"		"BottomLeft"
@@ -102,7 +103,7 @@
 				"height_pct"		"100"
 			}
 		}
-		"store_asset_mtime"		"1702000988"
+		"store_asset_mtime"		"1702947582"
 		"associations"
 		{
 			"0"
@@ -206,7 +207,7 @@
 		"developer"		"Klei Entertainment"
 		"publisher"		"Klei Entertainment"
 		"homepage"		"http://www.dontstarvegame.com"
-		"listofdlc"		"798740,798750,840750,840760,840770,962960,974740,981700,981701,981702,987340,1051700,1084430,1167330,1167510,1172860,1205500,1205501,1230830,1272440,1289760,1338540,1447360,1485060,1522880,1558300,1612410,1694780,1698560,1710240,1710241,1836630,1874370,1899050,2007370,2058280,2058281,2132800,2170670,2170671,2236180,2241030,2377640"
+		"listofdlc"		"798740,798750,840750,840760,840770,962960,974740,981700,981701,981702,987340,1051700,1084430,1167330,1167510,1172860,1205500,1205501,1230830,1272440,1289760,1338540,1447360,1485060,1522880,1558300,1612410,1694780,1698560,1710240,1710241,1836630,1874370,1899050,2007370,2058280,2058281,2132800,2170670,2170671,2236180,2241030,2377640,2711510"
 		"dlcavailableonstore"		"1"
 	}
 	"config"
@@ -334,8 +335,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12945224"
-				"timeupdated"		"1702577777"
+				"buildid"		"13006594"
+				"timeupdated"		"1703042644"
 			}
 			"archive"
 			{
@@ -363,9 +364,9 @@
 			}
 			"dev"
 			{
-				"buildid"		"12964759"
+				"buildid"		"12999912"
 				"pwdrequired"		"1"
-				"timeupdated"		"1702578092"
+				"timeupdated"		"1702986255"
 			}
 			"fmod"
 			{
@@ -387,15 +388,15 @@
 			}
 			"release"
 			{
-				"buildid"		"12945224"
+				"buildid"		"13006594"
 				"pwdrequired"		"1"
-				"timeupdated"		"1702423659"
+				"timeupdated"		"1703041705"
 			}
 			"staging"
 			{
-				"buildid"		"12966713"
+				"buildid"		"12993899"
 				"pwdrequired"		"1"
-				"timeupdated"		"1702595416"
+				"timeupdated"		"1702938421"
 			}
 			"test_internal"
 			{
@@ -439,12 +440,6 @@
 				"pwdrequired"		"1"
 				"timeupdated"		"1697132327"
 			}
-			"updatebeta"
-			{
-				"buildid"		"12966713"
-				"description"		"Public Beta"
-				"timeupdated"		"1702596595"
-			}
 		}
 		"228982"
 		{
@@ -483,21 +478,15 @@
 			{
 				"public"
 				{
-					"gid"		"4362473687383051952"
-					"size"		"3363902780"
-					"download"		"2376123456"
+					"gid"		"5153387271864375441"
+					"size"		"3407927819"
+					"download"		"2410173632"
 				}
 				"beforemacoschanges"
 				{
 					"gid"		"5978996668591746072"
 					"size"		"3362828099"
 					"download"		"2375034304"
-				}
-				"updatebeta"
-				{
-					"gid"		"7568833671001361839"
-					"size"		"3397450943"
-					"download"		"2405093920"
 				}
 			}
 			"encryptedmanifests"
@@ -522,9 +511,9 @@
 				}
 				"dev"
 				{
-					"gid"		"80A1F1607D84088A5447C15DF4965F20"
-					"size"		"7C4900542766CCAFBF3EEC150DFDA96A"
-					"download"		"B8F2FCCF59EFDB52A95419ED01AF71DF"
+					"gid"		"2B3945372336AF537F0F53403D58BDF2"
+					"size"		"7EF958E7CD14E7837AED3A015886F7CA"
+					"download"		"7E37E13F21AC01AAD2BDCAF01E0F2F44"
 				}
 				"fmod"
 				{
@@ -546,15 +535,15 @@
 				}
 				"release"
 				{
-					"gid"		"6161EA5961BA528FE7F24897B0452C4C"
-					"size"		"A0B8DC76415A815ECD7AAA6557C07481"
-					"download"		"1A8242E1AEBA638FB4A8FE76689CAE5A"
+					"gid"		"DBEFEE2F746AC4EF21057078BF497ECC"
+					"size"		"356A2C039F7598EEC078BC1EB4597B22"
+					"download"		"90CDD955D505C215E74CB63823796D22"
 				}
 				"staging"
 				{
-					"gid"		"8E36526336AE903331E4E0E2402D2194"
-					"size"		"A473B67D5FE94A1B0F9D97E6301AB53B"
-					"download"		"BFC91623FA9A27D4B81A9E11F63635B8"
+					"gid"		"C41BC968CB6F2590C96B1FBE9D787272"
+					"size"		"63B9D3FCBF248DAD4439EAF1EB1C17C7"
+					"download"		"23BC437B3CAC5AD0551E174C1B8ECBB3"
 				}
 				"test_internal"
 				{
@@ -610,21 +599,15 @@
 			{
 				"public"
 				{
-					"gid"		"6791828078492526010"
-					"size"		"3244284317"
-					"download"		"2262860880"
+					"gid"		"8730592228401088861"
+					"size"		"3288295974"
+					"download"		"2296914416"
 				}
 				"beforemacoschanges"
 				{
 					"gid"		"8093978131067739771"
 					"size"		"3243206087"
 					"download"		"2261774192"
-				}
-				"updatebeta"
-				{
-					"gid"		"923478452808254908"
-					"size"		"3277819161"
-					"download"		"2291826304"
 				}
 			}
 			"encryptedmanifests"
@@ -649,9 +632,9 @@
 				}
 				"dev"
 				{
-					"gid"		"56F97595D1E8F1383BF737B106AC4EFF"
-					"size"		"2B18B03BC06D77901C676C076B0517E5"
-					"download"		"3C8F98582871652A59A25D518D60C620"
+					"gid"		"9F4646817A9E167B3A5B7693074B2D73"
+					"size"		"91C1966225405C440E5176C28C722199"
+					"download"		"E1E988B301A1E816ABFF9B31E01C517A"
 				}
 				"fmod"
 				{
@@ -673,15 +656,15 @@
 				}
 				"release"
 				{
-					"gid"		"E3C3AAD955628D86F6D769A34B905C7E"
-					"size"		"B11EBEC56EDCC561C2D6FD53CCF3F79A"
-					"download"		"124A50C1A6DC71789DC466E71CB6E4F0"
+					"gid"		"8C56719441D7329D45C579F35CAA051C"
+					"size"		"EF7AF0D5C274F959C4675103E9575E06"
+					"download"		"0E9446A2F1C5F209EDC8115B6FE86645"
 				}
 				"staging"
 				{
-					"gid"		"D56D0A51EB98DD315CCADFFB1904745B"
-					"size"		"DBB7A108E15F11F8370AE0203F197434"
-					"download"		"90A1AFA4BDF4E345B63DE35875403A61"
+					"gid"		"00B713AB794F5DDB54C5A5C0EA56F713"
+					"size"		"95E085F85AEC36EA78A177ED77FF1987"
+					"download"		"B9ECDE0DC1A7FD4EB087D2858FFA606E"
 				}
 				"test_internal"
 				{
@@ -737,21 +720,15 @@
 			{
 				"public"
 				{
-					"gid"		"6198998037583395783"
-					"size"		"3222669561"
-					"download"		"2257593456"
+					"gid"		"460007027298913927"
+					"size"		"3266732192"
+					"download"		"2291662592"
 				}
 				"beforemacoschanges"
 				{
 					"gid"		"824314026433670095"
 					"size"		"3242738771"
 					"download"		"2262919680"
-				}
-				"updatebeta"
-				{
-					"gid"		"7639319742541292494"
-					"size"		"3256251704"
-					"download"		"2286571312"
 				}
 			}
 			"encryptedmanifests"
@@ -776,9 +753,9 @@
 				}
 				"dev"
 				{
-					"gid"		"9F99352E7D0015B2870F0D83A2806F2B"
-					"size"		"FC6111D4D5251BE50DF6571CAD133E43"
-					"download"		"B1EF62006F609B66B5672BD80A104681"
+					"gid"		"424C69C205BD7E30FA4A57768C2824F3"
+					"size"		"BBB7665A2FEC60D5FF3D6695C0DFB4CF"
+					"download"		"0B0440D9528E100D6C33792568812B29"
 				}
 				"fmod"
 				{
@@ -800,15 +777,15 @@
 				}
 				"release"
 				{
-					"gid"		"C8EC1EA6A147A578BAF14522F9A4E3CC"
-					"size"		"909A7CC2FF913E034DB9C9FF76DF6672"
-					"download"		"042A55BA9625EC11B74C9B08E3523791"
+					"gid"		"66C9F0C3CB2F839BCE72CE106ED39CA8"
+					"size"		"D92DD48C90BCC0E72B6EF7BED9BD80A4"
+					"download"		"1C9EE7EC305CB8FCF12EC695C617459A"
 				}
 				"staging"
 				{
-					"gid"		"76F410B4E717E360E54726965BA49153"
-					"size"		"48C5DE975C180C53748D92EEB62EB7D8"
-					"download"		"B77903F00797B43C9BFFDF367B7BA8DF"
+					"gid"		"AB387241ED3184647D83630FF552E835"
+					"size"		"AB4CCEC4E52152A2591C7B2900673731"
+					"download"		"3AD8135057B8C9DED2CC5960CE4E4A3F"
 				}
 				"test_internal"
 				{
