@@ -6,7 +6,7 @@
 		"name"		"怠惰的怪獸公主不想工作"
 		"type"		"Game"
 		"releasestate"		"released"
-		"oslist"		"windows,macos"
+		"oslist"		"windows"
 		"osarch"		""
 		"osextended"		""
 		"icon"		"4ff496eb1f2e800664d1427071d7d18e3065a7cd"
@@ -23,6 +23,8 @@
 			"tchinese"		"怠惰的怪獸公主不想工作"
 			"japanese"		"怠け怪獣姫は働きたくない"
 			"russian"		"Ленивая принцесса-монстр не хочет работать"
+			"koreana"		"게으른 괴수 공주는 일하기 싫어!"
+			"thai"		"เจ้าหญิงไคจู"
 		}
 		"languages"
 		{
@@ -184,6 +186,16 @@
 				"supported"		"true"
 				"subtitles"		"true"
 			}
+			"thai"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
 		}
 		"steam_release_date"		"1655856029"
 		"community_visible_stats"		"1"
@@ -206,8 +218,8 @@
 			"12"		"9"
 			"13"		"4182"
 			"14"		"4947"
-			"15"		"492"
-			"16"		"122"
+			"15"		"122"
+			"16"		"492"
 			"17"		"4136"
 			"18"		"1684"
 			"19"		"3942"
@@ -257,18 +269,18 @@
 			{
 				"public"
 				{
-					"gid"		"363056311535512969"
-					"size"		"2243645083"
-					"download"		"308017744"
+					"gid"		"2065003452596778977"
+					"size"		"2329318103"
+					"download"		"313868608"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"beta"
 				{
-					"gid"		"44303B68C5B76299C98F3CBCDCB47E1A"
-					"size"		"927358107D54439747497B18B2F87B68"
-					"download"		"8A257BDD631846305C16A71C119EC7B2"
+					"gid"		"82A5EA4EDA5069933E799EF47311D42C"
+					"size"		"D9A948F136D73A83812DB7C1AC4DF213"
+					"download"		"A1D82DF210B4F8BDF281337D73027806"
 				}
 				"mac_test"
 				{
@@ -286,14 +298,20 @@
 			}
 			"manifests"
 			{
+				"public"
+				{
+					"gid"		"2998620410119691687"
+					"size"		"518613972"
+					"download"		"395004080"
+				}
 			}
 			"encryptedmanifests"
 			{
 				"beta"
 				{
-					"gid"		"1D7B3C2D457D218059790ACCF34DEC99"
-					"size"		"1D65E0A9A975CEC1D88C9E7B71F9D848"
-					"download"		"7C1CE992CA7F700958CFF846F00CE2B1"
+					"gid"		"B8554FC9C9D01CE44298AF6B3550ACBC"
+					"size"		"4AAB03F427DE5A1F1F074616F42F3B7F"
+					"download"		"54D0503284D1366593691C0269EF4F91"
 				}
 				"mac_test"
 				{
@@ -307,14 +325,14 @@
 		{
 			"public"
 			{
-				"buildid"		"11675018"
-				"timeupdated"		"1689136362"
+				"buildid"		"13012805"
+				"timeupdated"		"1703124090"
 			}
 			"beta"
 			{
-				"buildid"		"12865855"
+				"buildid"		"13012805"
 				"pwdrequired"		"1"
-				"timeupdated"		"1701665216"
+				"timeupdated"		"1703094617"
 			}
 			"mac_test"
 			{
@@ -335,6 +353,16 @@
 				"root"		"gameinstall"
 				"path"		"KaijuPrincess_Data/"
 				"pattern"		"*.sf"
+			}
+			"1"
+			{
+				"root"		"gameinstall"
+				"path"		"KaijuPrincess.app/Contents/"
+				"pattern"		"*.sf"
+				"platforms"
+				{
+					"1"		"MacOS"
+				}
 			}
 		}
 	}
