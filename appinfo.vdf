@@ -100,6 +100,7 @@
 			"library_capsule"		"en"
 			"library_hero"		"en"
 			"library_logo"		"en"
+			"library_header"		"en"
 			"logo_position"
 			{
 				"pinned_position"		"BottomLeft"
@@ -107,7 +108,7 @@
 				"height_pct"		"100"
 			}
 		}
-		"store_asset_mtime"		"1677068308"
+		"store_asset_mtime"		"1703164038"
 		"associations"
 		{
 			"0"
@@ -268,7 +269,7 @@
 	{
 		"developer"		"Silent Bear Studio"
 		"publisher"		"Ultimate Games S.A."
-		"homepage"		"https://www.facebook.com/UltimateFishingOfficial"
+		"homepage"		"https://ultimate-fishing.com/"
 	}
 	"config"
 	{
@@ -295,9 +296,15 @@
 			{
 				"public"
 				{
-					"gid"		"167647341826196112"
-					"size"		"25209919130"
-					"download"		"9343605968"
+					"gid"		"9117513787095577501"
+					"size"		"27635247198"
+					"download"		"10290536960"
+				}
+				"public_beta"
+				{
+					"gid"		"4827569096749278219"
+					"size"		"27668567466"
+					"download"		"10297055024"
 				}
 			}
 			"encryptedmanifests"
@@ -316,9 +323,9 @@
 				}
 				"release_candidate"
 				{
-					"gid"		"A2095C3FE02A6E6EE21735366E8C22CE"
-					"size"		"804E8F221E1F2B68917FE972062451AE"
-					"download"		"B69B5991F0FD90155D193438B031E76F"
+					"gid"		"58203BC67C6E3D5445595E6106296E33"
+					"size"		"005B9F341C65B6889736AF382A2A38C5"
+					"download"		"B37A742C5DF234059C41957C7CA1B8FC"
 				}
 				"testing_damian"
 				{
@@ -334,15 +341,15 @@
 				}
 				"testing_ewelina"
 				{
-					"gid"		"54D1F119899359E5B74B8100E2B8DCFE"
-					"size"		"F61237371472B11A99283221801742BE"
-					"download"		"0339116067A44E372DF67BF98CB3D3FF"
+					"gid"		"70785FBDB8A0080DD8F156AFF344ABAA"
+					"size"		"93D11D91E97CBF7BA89DEBC967E4ACD4"
+					"download"		"E7BDEC4EE7744AD0DD79793C9B12D014"
 				}
 				"testing_kuba"
 				{
-					"gid"		"886734254DF5F7FD9934FDBD9E8F0144"
-					"size"		"27A9F44E03ECCA534FBE389689671118"
-					"download"		"547E8C00C5E4BF5F1BF14E5A3AE67F28"
+					"gid"		"A9478AAF60A3F9E059A37F542E6B0E25"
+					"size"		"B5605FC0E9B4565EE0DA0E8EB3D28B00"
+					"download"		"B28B9C8B53558141913F7F87DD549175"
 				}
 				"testing_marcin"
 				{
@@ -352,9 +359,9 @@
 				}
 				"testing_michal"
 				{
-					"gid"		"D435EF74948D683B66293F7496113255"
-					"size"		"664CA66660308B4E1121CFEFC5E2C855"
-					"download"		"7DA00C5169625E3952B12961559D49E6"
+					"gid"		"FECE73250DD169743607A078771596EE"
+					"size"		"BD214C172699EDD605C3DF03EF9E0D75"
+					"download"		"2944267B4A7CA31422FB643478D4AAA6"
 				}
 			}
 		}
@@ -362,8 +369,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12720256"
-				"timeupdated"		"1700465718"
+				"buildid"		"13018569"
+				"timeupdated"		"1703163020"
 			}
 			"leveldesign"
 			{
@@ -377,11 +384,17 @@
 				"pwdrequired"		"1"
 				"timeupdated"		"1700825471"
 			}
+			"public_beta"
+			{
+				"buildid"		"13010876"
+				"description"		"Can be unstable"
+				"timeupdated"		"1703083664"
+			}
 			"release_candidate"
 			{
-				"buildid"		"12720256"
+				"buildid"		"13018569"
 				"pwdrequired"		"1"
-				"timeupdated"		"1700137410"
+				"timeupdated"		"1703150255"
 			}
 			"testing_damian"
 			{
@@ -397,15 +410,15 @@
 			}
 			"testing_ewelina"
 			{
-				"buildid"		"12774245"
+				"buildid"		"12998921"
 				"pwdrequired"		"1"
-				"timeupdated"		"1700677711"
+				"timeupdated"		"1702979402"
 			}
 			"testing_kuba"
 			{
-				"buildid"		"12810896"
+				"buildid"		"13010876"
 				"pwdrequired"		"1"
-				"timeupdated"		"1701119658"
+				"timeupdated"		"1703080624"
 			}
 			"testing_marcin"
 			{
@@ -415,9 +428,9 @@
 			}
 			"testing_michal"
 			{
-				"buildid"		"12774846"
+				"buildid"		"13019080"
 				"pwdrequired"		"1"
-				"timeupdated"		"1700683388"
+				"timeupdated"		"1703154767"
 			}
 		}
 	}
@@ -430,7 +443,7 @@
 			"0"
 			{
 				"root"		"WinAppDataLocalLow"
-				"path"		"MasterCode/Ultimate Fishing Simulator 2/BetaTesting"
+				"path"		"MasterCode/Ultimate Fishing Simulator 2/Saves"
 				"pattern"		"*"
 				"platforms"
 				{
