@@ -1,0 +1,161 @@
+"appinfo"
+{
+	"appid"		"1473350"
+	"common"
+	{
+		"name"		"(the) Gnorp Apologue"
+		"type"		"Game"
+		"releasestate"		"released"
+		"clienticon"		"f09d6c54ff0c238841409686c1d5672e8ba6732a"
+		"clienttga"		"96126801a1b21952f91382f50684dd5a2a7eed5c"
+		"icon"		"c0ce2ae2660a7d0590b777e2cdbc6395d78e99c3"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"62.40409207161126"
+				"height_pct"		"64.23611111111111"
+			}
+		}
+		"store_asset_mtime"		"1702589412"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Myco"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"(Myco) "
+			}
+		}
+		"primary_genre"		"23"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"23"
+			"2"		"28"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1702576817"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1473350"
+		"store_tags"
+		{
+			"0"		"379975"
+			"1"		"615955"
+			"2"		"3959"
+			"3"		"9"
+			"4"		"1643"
+			"5"		"4695"
+			"6"		"12472"
+			"7"		"5981"
+			"8"		"4726"
+			"9"		"1716"
+			"10"		"3871"
+			"11"		"597"
+			"12"		"599"
+			"13"		"4305"
+			"14"		"4094"
+			"15"		"3964"
+			"16"		"8945"
+			"17"		"4182"
+			"18"		"13782"
+			"19"		"492"
+		}
+		"review_score"		"9"
+		"review_percentage"		"97"
+	}
+	"extended"
+	{
+		"developer"		"Myco"
+		"publisher"		"(Myco) "
+		"homepage"		"https://gnorp.dev/"
+	}
+	"config"
+	{
+		"installdir"		"Gnorp"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"(the) Gnorp Apologue.exe"
+				"type"		"default"
+			}
+		}
+	}
+	"depots"
+	{
+		"1473352"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1381268546218700348"
+					"size"		"60257031"
+					"download"		"51290272"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"B06FC41651A4E686850024578CA8A116"
+					"size"		"9C76E561A4017E1258DC611B53ED91DC"
+					"download"		"79E086DE0E85ADDA4860E2D026F7249F"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"13016903"
+				"timeupdated"		"1703132609"
+			}
+			"beta"
+			{
+				"buildid"		"13009274"
+				"pwdrequired"		"1"
+				"timeupdated"		"1703068840"
+			}
+		}
+	}
+}
