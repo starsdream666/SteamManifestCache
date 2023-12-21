@@ -48,40 +48,20 @@
 				"id"		"1975440_eula_0"
 				"name"		"Under The Waves EULA"
 				"url"		"https://store.steampowered.com//eula/1975440_eula_0"
-				"version"		"1"
+				"version"		"2"
 			}
 		}
 		"steam_deck_compatibility"
 		{
-			"category"		"2"
-			"test_timestamp"		"1695427200"
-			"tested_build_id"		"11920395"
+			"category"		"1"
+			"test_timestamp"		"1701216000"
+			"tested_build_id"		"12553611"
 			"tests"
 			{
 				"0"
 				{
-					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
-				}
-				"1"
-				{
-					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
-				}
-				"2"
-				{
-					"display"		"4"
-					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
-				}
-				"3"
-				{
-					"display"		"4"
-					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
-				}
-				"4"
-				{
-					"display"		"1"
-					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
 				}
 			}
 			"configuration"
@@ -270,8 +250,8 @@
 			"2"		"3834"
 			"3"		"492"
 			"4"		"4166"
-			"5"		"4182"
-			"6"		"9157"
+			"5"		"9157"
+			"6"		"4182"
 			"7"		"3942"
 			"8"		"1697"
 			"9"		"19780"
@@ -279,10 +259,11 @@
 			"11"		"5094"
 			"12"		"4145"
 			"13"		"7702"
-			"14"		"1695"
+			"14"		"1667"
+			"15"		"1695"
 		}
 		"review_score"		"6"
-		"review_percentage"		"77"
+		"review_percentage"		"79"
 	}
 	"extended"
 	{
@@ -340,15 +321,15 @@
 			{
 				"debug"
 				{
-					"gid"		"80DE008D5E8564AEDBF2388104DDF054"
-					"size"		"5211A6418EF4F114CF38B74A8D04B837"
-					"download"		"1C0BCD4A134D1B0981240A883F1A82E7"
+					"gid"		"CE1B987827555F015FB9A48C3709A861"
+					"size"		"CEF78E6E086B7BB24C61ED8075E0F7AA"
+					"download"		"3366515AC2D965A6CB839108C7CD435A"
 				}
 				"stage"
 				{
-					"gid"		"9AADB98B4930277774D890FB12CED412"
-					"size"		"4BA41F40521414FD9B4830CD1E66015B"
-					"download"		"05CE222B00EF7BF213EFBF8811665EEE"
+					"gid"		"D6060B1872B6804E5D54DD1EAAE77ECC"
+					"size"		"D0283817DBE4B8A6B7196E2732D9E153"
+					"download"		"3F57798687710ECB680978ABFD6CD79F"
 				}
 			}
 		}
@@ -362,15 +343,15 @@
 			}
 			"debug"
 			{
-				"buildid"		"12553806"
+				"buildid"		"13009975"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698429664"
+				"timeupdated"		"1703073664"
 			}
 			"stage"
 			{
-				"buildid"		"12553611"
+				"buildid"		"13011627"
 				"pwdrequired"		"1"
-				"timeupdated"		"1698411216"
+				"timeupdated"		"1703085702"
 			}
 		}
 	}
