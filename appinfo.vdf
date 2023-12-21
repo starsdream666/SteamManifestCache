@@ -24,6 +24,49 @@
 			"tchinese"		"1"
 			"japanese"		"1"
 		}
+		"steam_deck_compatibility"
+		{
+			"category"		"3"
+			"test_timestamp"		"1701475200"
+			"tested_build_id"		"12517253"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
@@ -43,6 +86,7 @@
 			"library_capsule"		"ja,en,zh-cn,zh-tw"
 			"library_hero"		"en"
 			"library_logo"		"en,zh-cn,zh-tw,ja"
+			"library_header"		"en,zh-cn,zh-tw,ja"
 			"logo_position"
 			{
 				"pinned_position"		"CenterCenter"
@@ -50,7 +94,7 @@
 				"height_pct"		"100"
 			}
 		}
-		"store_asset_mtime"		"1697788415"
+		"store_asset_mtime"		"1702963009"
 		"associations"
 		{
 			"0"
@@ -82,6 +126,8 @@
 			"category_2"		"1"
 			"category_23"		"1"
 			"category_22"		"1"
+			"category_30"		"1"
+			"category_51"		"1"
 		}
 		"supported_languages"
 		{
@@ -108,6 +154,7 @@
 		}
 		"steam_release_date"		"1697526022"
 		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
 		"community_hub_visible"		"1"
 		"gameid"		"2233790"
 		"store_tags"
@@ -153,6 +200,31 @@
 				{
 					"oslist"		"windows"
 				}
+				"description_loc"
+				{
+					"english"		"Legendary Creatures 2"
+					"schinese"		"Legendary Creatures 2"
+					"tchinese"		"Legendary Creatures 2"
+					"japanese"		"Legendary Creatures 2"
+				}
+				"description"		"Legendary Creatures 2"
+			}
+			"1"
+			{
+				"executable"		"lc2_console.cmd"
+				"type"		"option2"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"With Mods"
+					"schinese"		"使用模组"
+					"tchinese"		"使用模組"
+					"japanese"		"MODあり"
+				}
+				"description"		"With Mods"
 			}
 		}
 	}
@@ -164,35 +236,36 @@
 			{
 				"public"
 				{
-					"gid"		"183463967715522131"
-					"size"		"335646083"
-					"download"		"282725808"
+					"gid"		"4143574467838191544"
+					"size"		"344529907"
+					"download"		"285175280"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"test"
 				{
-					"gid"		"A749353762E4F46BF039E41845942936"
-					"size"		"95BD1D1F3399DBE6ACB60F6557E5334D"
-					"download"		"433DB7AD16B7BC01395AB4B3BD551647"
+					"gid"		"465E4E47E9A196D4A2E1E54CDCAA1784"
+					"size"		"FED61526DE1813CF4DB0685AB28DD26A"
+					"download"		"E97F12B152857FD2FE7ED5037ABA191A"
 				}
 			}
 		}
 		"baselanguages"		"english,schinese"
 		"hasdepotsindlc"		"1"
+		"workshopdepot"		"2233790"
 		"branches"
 		{
 			"public"
 			{
-				"buildid"		"12801219"
-				"timeupdated"		"1701003972"
+				"buildid"		"13020063"
+				"timeupdated"		"1703166195"
 			}
 			"test"
 			{
-				"buildid"		"12801219"
+				"buildid"		"13020063"
 				"pwdrequired"		"1"
-				"timeupdated"		"1701003959"
+				"timeupdated"		"1703165713"
 			}
 		}
 	}
