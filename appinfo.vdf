@@ -26,25 +26,25 @@
 		}
 		"steam_deck_compatibility"
 		{
-			"category"		"2"
-			"test_timestamp"		"1690416000"
-			"tested_build_id"		"11335023"
+			"category"		"3"
+			"test_timestamp"		"1703116800"
+			"tested_build_id"		"12967611"
 			"tests"
 			{
 				"0"
 				{
-					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 				}
 				"1"
 				{
 					"display"		"4"
-					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
 				}
 				"2"
 				{
 					"display"		"4"
-					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
 				}
 				"3"
 				{
@@ -59,12 +59,13 @@
 				"requires_non_controller_launcher_nav"		"0"
 				"primary_player_is_controller_slot_0"		"0"
 				"non_deck_display_glyphs"		"0"
-				"small_text"		"1"
+				"small_text"		"0"
 				"requires_internet_for_setup"		"0"
 				"requires_internet_for_singleplayer"		"0"
-				"recommended_runtime"		"proton-8.0-2"
+				"recommended_runtime"		"proton-stable"
 				"requires_h264"		"0"
 				"gamescope_frame_limiter_not_supported"		"0"
+				"hdr_support"		"0"
 			}
 		}
 		"metacritic_name"		"Bartender Hustle"
@@ -259,18 +260,18 @@
 			{
 				"public"
 				{
-					"gid"		"5808993366566231733"
-					"size"		"8045419348"
-					"download"		"2684276224"
+					"gid"		"4129810784864056728"
+					"size"		"8045419908"
+					"download"		"2684295136"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"private"
 				{
-					"gid"		"D808678285A8B957D93C03C534EAC629"
-					"size"		"EA91C8FB24FDE0AC99734D6C5F2012BE"
-					"download"		"765D3494EEE8FB9BD47C1F16B78DB418"
+					"gid"		"EA694813A33F426C3924FAD4DEC9833D"
+					"size"		"711BE5EFFBB56257DBB88702E7750547"
+					"download"		"061C0C77A11A1A870CC4FDFD26581001"
 				}
 			}
 		}
@@ -278,14 +279,14 @@
 		{
 			"public"
 			{
-				"buildid"		"13005384"
-				"timeupdated"		"1703034089"
+				"buildid"		"13014569"
+				"timeupdated"		"1703109889"
 			}
 			"private"
 			{
-				"buildid"		"13005384"
+				"buildid"		"13014569"
 				"pwdrequired"		"1"
-				"timeupdated"		"1703030161"
+				"timeupdated"		"1703109729"
 			}
 		}
 	}
