@@ -86,7 +86,8 @@
 			}
 		}
 		"metacritic_name"		"Ultimate Fishing Simulator"
-		"controller_support"		"partial"
+		"controllertagwizard"		"1"
+		"controller_support"		"full"
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
@@ -100,6 +101,7 @@
 			"library_capsule"		"en"
 			"library_hero"		"en"
 			"library_logo"		"en"
+			"library_header"		"en"
 			"logo_position"
 			{
 				"pinned_position"		"BottomLeft"
@@ -107,7 +109,7 @@
 				"height_pct"		"60.897137787276705"
 			}
 		}
-		"store_asset_mtime"		"1674637468"
+		"store_asset_mtime"		"1703175517"
 		"associations"
 		{
 			"0"
@@ -158,7 +160,6 @@
 			"category_2"		"1"
 			"category_22"		"1"
 			"category_25"		"1"
-			"category_18"		"1"
 			"category_1"		"1"
 			"category_36"		"1"
 			"category_23"		"1"
@@ -170,6 +171,11 @@
 			"category_9"		"1"
 			"category_38"		"1"
 			"category_52"		"1"
+			"category_28"		"1"
+			"category_55"		"1"
+			"category_56"		"1"
+			"category_57"		"1"
+			"category_58"		"1"
 			"category_53"		"1"
 		}
 		"supported_languages"
@@ -396,9 +402,9 @@
 			{
 				"public"
 				{
-					"gid"		"8545333479344132442"
-					"size"		"15617498393"
-					"download"		"5794646784"
+					"gid"		"7266651994365847530"
+					"size"		"18120313456"
+					"download"		"6310521248"
 				}
 				"public_beta"
 				{
@@ -417,9 +423,9 @@
 				}
 				"new_content"
 				{
-					"gid"		"D017ECE34EE1F82B15AE8E03CEB59258"
-					"size"		"CDB78A20429D2FA9229A43FB9AFB766C"
-					"download"		"E73B85466ACDE10B3D4D0132267A3719"
+					"gid"		"973F305DEF4CE528016142E9739C0B65"
+					"size"		"9AE4A10278A5490CE54AC084CB07F1C5"
+					"download"		"771005DFE37D711A36015AA66EB3EB9E"
 				}
 				"original"
 				{
@@ -429,9 +435,9 @@
 				}
 				"pancake3t"
 				{
-					"gid"		"72E3EA7E686068138E5790F964A6CACC"
-					"size"		"E01D4BDD415CFF060EEF74FB0341B987"
-					"download"		"35942C45ABDC3DC16D0DFCDC45004457"
+					"gid"		"D29A17196C547B69319E2A4B9B0979B0"
+					"size"		"F70A6CDECB6D780E5FFCC36C3B028979"
+					"download"		"EB73D9B94C67647F49872A5EEFCC253A"
 				}
 			}
 		}
@@ -447,8 +453,8 @@
 		{
 			"public"
 			{
-				"buildid"		"11975123"
-				"timeupdated"		"1692363887"
+				"buildid"		"13021898"
+				"timeupdated"		"1703174466"
 			}
 			"chinese_branch"
 			{
@@ -458,9 +464,9 @@
 			}
 			"new_content"
 			{
-				"buildid"		"11748688"
+				"buildid"		"12742136"
 				"pwdrequired"		"1"
-				"timeupdated"		"1691569533"
+				"timeupdated"		"1700354334"
 			}
 			"original"
 			{
@@ -470,9 +476,9 @@
 			}
 			"pancake3t"
 			{
-				"buildid"		"12095471"
+				"buildid"		"13021898"
 				"pwdrequired"		"1"
-				"timeupdated"		"1693655347"
+				"timeupdated"		"1703174421"
 			}
 			"public_beta"
 			{
@@ -484,7 +490,20 @@
 	}
 	"ufs"
 	{
-		"quota"		"500000"
-		"maxnumfiles"		"1000"
+		"quota"		"5000000000"
+		"maxnumfiles"		"5000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"PlayWay/UltimateFishing"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+		}
 	}
 }
