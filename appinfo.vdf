@@ -131,6 +131,16 @@
 				"type"		"publisher"
 				"name"		"Aerosoft GmbH"
 			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"aerosoft"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"Aerosoft"
+			}
 		}
 		"primary_genre"		"28"
 		"genres"
@@ -246,9 +256,9 @@
 			"1"		"599"
 			"2"		"1644"
 			"3"		"4175"
-			"4"		"4182"
-			"5"		"3859"
-			"6"		"1695"
+			"4"		"3859"
+			"5"		"1695"
+			"6"		"4182"
 			"7"		"1669"
 			"8"		"3839"
 			"9"		"4166"
@@ -260,8 +270,8 @@
 			"15"		"4305"
 			"16"		"21"
 			"17"		"4711"
-			"18"		"128"
-			"19"		"1721"
+			"18"		"12095"
+			"19"		"3843"
 		}
 		"review_score"		"6"
 		"review_percentage"		"73"
@@ -272,7 +282,7 @@
 		"publisher"		"Aerosoft GmbH"
 		"homepage"		"https://www.tml-studios.de/"
 		"gamemanualurl"		"https://store.steampowered.com/manual/427100/"
-		"listofdlc"		"569700,602730,612260,612261,654120,686280,724420,724440,729490,937720,1026740,1121030,1121090,1140660,1140661,1140662,1154770,1158120,1250730,1370010,1446990,1446991,1471310,1847550"
+		"listofdlc"		"569700,602730,612260,612261,654120,686280,724420,724440,729490,937720,1026740,1121030,1121090,1140660,1140661,1140662,1154770,1158120,1250730,1370010,1446990,1446991,1471310,1847550,2294411,2294412,2294413"
 		"dlcavailableonstore"		"1"
 	}
 	"config"
@@ -363,15 +373,15 @@
 			{
 				"public"
 				{
-					"gid"		"3683413939896333101"
-					"size"		"20858059943"
-					"download"		"16298361440"
+					"gid"		"7533255529465601664"
+					"size"		"24422156259"
+					"download"		"19133845200"
 				}
 				"beta"
 				{
-					"gid"		"3683413939896333101"
-					"size"		"20858059943"
-					"download"		"16298361440"
+					"gid"		"7533255529465601664"
+					"size"		"24422156259"
+					"download"		"19133845200"
 				}
 				"last_ue4"
 				{
@@ -381,15 +391,15 @@
 				}
 				"local"
 				{
-					"gid"		"8873422627890081439"
-					"size"		"20810319637"
-					"download"		"16269609200"
+					"gid"		"6309525053399444281"
+					"size"		"24459234657"
+					"download"		"19162095968"
 				}
 				"previousversion"
 				{
-					"gid"		"6006381499418517083"
-					"size"		"17892392368"
-					"download"		"14441037728"
+					"gid"		"3683413939896333101"
+					"size"		"20858059943"
+					"download"		"16298361440"
 				}
 				"test_local"
 				{
@@ -400,29 +410,35 @@
 			}
 			"encryptedmanifests"
 			{
+				"aerosoft"
+				{
+					"gid"		"9D302A7EC13ABCB39E59CD5FD1782704"
+					"size"		"02093CB359BF7B9EB2B5BFA1D5D6BBF6"
+					"download"		"5A6B4CDA99BD6DACA2F1FF1A2686C22C"
+				}
 				"closed_beta"
 				{
-					"gid"		"7F86D4D90193204618FB4EABC38D35EA"
-					"size"		"06E1F5947B7BF7540A757EAB08499091"
-					"download"		"27AEC7BA3DB78DAABBC9370AB40A66CD"
+					"gid"		"DC4692871EF861B162CE7609CFB99E1D"
+					"size"		"DB02C19477C17B74028E6FBD050934B8"
+					"download"		"0D696DD5320A6F2261570C4658C69851"
 				}
 				"halycon"
 				{
-					"gid"		"BA313A4592DEFBB905DB9DE14BBEF24A"
-					"size"		"6FA9D9593E9B98DCBA0645EBF1FE741B"
-					"download"		"98433124349A23719033D214D473CD06"
+					"gid"		"C909261CB24AA3965590F2336CD1ACB4"
+					"size"		"B4F24270C1FC4D60042B968D76B9AEE6"
+					"download"		"EA1354B026AC924F87003B82915B5A16"
 				}
 				"localisation"
 				{
-					"gid"		"1A88BB0F2A4745A6D8E813AD2BAC5CDE"
-					"size"		"15E6B436AA2CB29EA4FB8C3B65368AE4"
-					"download"		"F6857553AB306C41EE218C1FB1CE61B3"
+					"gid"		"C0992B2D403D49F2BBF40CEE8BBD1F86"
+					"size"		"BBB607F8CE20861881F566E9E93889ED"
+					"download"		"DDFDF03D9E80F08139265FB4A29C3A07"
 				}
 				"nightlybuild"
 				{
-					"gid"		"7B90F1BA13519C0263C37854038DDA4B"
-					"size"		"8455CC14CA699498B9E4653D253AC342"
-					"download"		"C6673DA087FB9826731CB7E18238E8CC"
+					"gid"		"8DCBCD9BC020D1BF3E7542C92A99F73E"
+					"size"		"86FA6453EDA0F9264B9D329AD8631BBF"
+					"download"		"BB1ACC03428A7CA6D1C3EB73B9AABAB8"
 				}
 				"test"
 				{
@@ -468,9 +484,9 @@
 				}
 				"previousversion"
 				{
-					"gid"		"537536275568981351"
-					"size"		"53030151"
-					"download"		"42400864"
+					"gid"		"3039167669064314363"
+					"size"		"0"
+					"download"		"0"
 				}
 				"test_local"
 				{
@@ -481,6 +497,12 @@
 			}
 			"encryptedmanifests"
 			{
+				"aerosoft"
+				{
+					"gid"		"A7B73E32F8EB579867DD7FA2C3FA29ED"
+					"size"		"2A88281C1B28F32E0710BF8B88966920"
+					"download"		"2A88281C1B28F32E0710BF8B88966920"
+				}
 				"closed_beta"
 				{
 					"gid"		"0FEA5C936EBDA93E314BADEFF4A8061F"
@@ -549,9 +571,9 @@
 				}
 				"previousversion"
 				{
-					"gid"		"4803355736509766210"
-					"size"		"831536959"
-					"download"		"840845840"
+					"gid"		"972740481272995793"
+					"size"		"774404249"
+					"download"		"720910512"
 				}
 				"test_local"
 				{
@@ -562,6 +584,12 @@
 			}
 			"encryptedmanifests"
 			{
+				"aerosoft"
+				{
+					"gid"		"505DF8105F216DF7BB24D6AAD33586DC"
+					"size"		"0492D22C743D3DDA470D3E430C212F89"
+					"download"		"88A67D81F3C4761C390E7332C691B290"
+				}
 				"closed_beta"
 				{
 					"gid"		"1E7735CE4CBC4C33D1AA278D693B037C"
@@ -630,9 +658,9 @@
 				}
 				"previousversion"
 				{
-					"gid"		"21633646188346921"
-					"size"		"180341738"
-					"download"		"129953824"
+					"gid"		"2529877205447120912"
+					"size"		"197138990"
+					"download"		"133788016"
 				}
 				"test_local"
 				{
@@ -643,6 +671,12 @@
 			}
 			"encryptedmanifests"
 			{
+				"aerosoft"
+				{
+					"gid"		"DAD23C0545BF0948B161C4A72A1395EA"
+					"size"		"0E16AED06BBC38AE139336645A68CB2C"
+					"download"		"51F4DCEF6F6F6E3E1B8E8A529225A1CD"
+				}
 				"closed_beta"
 				{
 					"gid"		"DB150230EFF5D10FE8E2ECAF288F8D81"
@@ -687,15 +721,15 @@
 			{
 				"public"
 				{
-					"gid"		"149043235660023468"
-					"size"		"1267782441"
-					"download"		"1085081024"
+					"gid"		"5777921110519052650"
+					"size"		"1300277810"
+					"download"		"1113184992"
 				}
 				"beta"
 				{
-					"gid"		"149043235660023468"
-					"size"		"1267782441"
-					"download"		"1085081024"
+					"gid"		"5777921110519052650"
+					"size"		"1300277810"
+					"download"		"1113184992"
 				}
 				"last_ue4"
 				{
@@ -705,15 +739,15 @@
 				}
 				"local"
 				{
-					"gid"		"3228892108934302321"
-					"size"		"1266703908"
-					"download"		"1082958832"
+					"gid"		"7934306382095575156"
+					"size"		"1297130418"
+					"download"		"1110440976"
 				}
 				"previousversion"
 				{
-					"gid"		"2105150201104052430"
-					"size"		"1302419087"
-					"download"		"1076984672"
+					"gid"		"149043235660023468"
+					"size"		"1267782441"
+					"download"		"1085081024"
 				}
 				"test_local"
 				{
@@ -724,29 +758,35 @@
 			}
 			"encryptedmanifests"
 			{
+				"aerosoft"
+				{
+					"gid"		"8AD01E3CEA9B9F3702EF2FEBBCB4C6D6"
+					"size"		"2A88281C1B28F32E0710BF8B88966920"
+					"download"		"2A88281C1B28F32E0710BF8B88966920"
+				}
 				"closed_beta"
 				{
-					"gid"		"19FA0935D775A8BBA7BB81B3B5ED3A5C"
-					"size"		"8C29A6449061D35E8869D198E7547C6E"
-					"download"		"2E9F677AACE54F871B10F2D22A4E4112"
+					"gid"		"2EBDBA17E3B76E8DFDC875FE7492245C"
+					"size"		"5CE64F020F261D6D9DD7E82465C49422"
+					"download"		"926D565F1B9E59F233709FA6977EF9F5"
 				}
 				"halycon"
 				{
-					"gid"		"6A7710752AE1B33753E6471EF6AD65CA"
-					"size"		"4C590D7FAB0F572B84777E02910250FC"
-					"download"		"39D8810184577919FF6DD045BF6DD7F0"
+					"gid"		"000ABE632CEFDFC31822A7F2180F9B18"
+					"size"		"EB04A173985C33611B779860A229D235"
+					"download"		"EB04A173985C33611B779860A229D235"
 				}
 				"localisation"
 				{
-					"gid"		"08CCBB0425E3CB09EC7A512363BE0A28"
-					"size"		"5B16D6CB27300C716114C7BA152FCCED"
-					"download"		"DD9DC03B85E772FB151899DB5C742459"
+					"gid"		"FA7B2C0AFF9FB458DA34F4BD4180D373"
+					"size"		"F83698817BFB6E7747EBF5459061FFEB"
+					"download"		"677479478222C7E11CE31D79D69CED28"
 				}
 				"nightlybuild"
 				{
-					"gid"		"CB7FE274636AAC59503AD3DEDE906B50"
-					"size"		"FEBF7A0201B2565B756BED9E1C3B15F5"
-					"download"		"9990A91AA02E5ACDEE0B471CEB8ED2E5"
+					"gid"		"EA4D7BBA07E60AB437D4CFAE01092621"
+					"size"		"F925FE5535B1169CB1469AFDB327CF39"
+					"download"		"8A21F9222603AE846C705CAE78840D36"
 				}
 				"test"
 				{
@@ -768,15 +808,15 @@
 			{
 				"public"
 				{
-					"gid"		"248901205583511138"
-					"size"		"5212806725"
-					"download"		"4398586976"
+					"gid"		"1099289765709605764"
+					"size"		"5649185588"
+					"download"		"4723177728"
 				}
 				"beta"
 				{
-					"gid"		"248901205583511138"
-					"size"		"5212806725"
-					"download"		"4398586976"
+					"gid"		"1099289765709605764"
+					"size"		"5649185588"
+					"download"		"4723177728"
 				}
 				"last_ue4"
 				{
@@ -786,15 +826,15 @@
 				}
 				"local"
 				{
-					"gid"		"6553593704051663658"
-					"size"		"5200216975"
-					"download"		"4382358352"
+					"gid"		"576067540608499275"
+					"size"		"5660722944"
+					"download"		"4729736672"
 				}
 				"previousversion"
 				{
-					"gid"		"2808688637662165816"
-					"size"		"4702229783"
-					"download"		"3655430640"
+					"gid"		"248901205583511138"
+					"size"		"5212806725"
+					"download"		"4398586976"
 				}
 				"test_local"
 				{
@@ -805,29 +845,35 @@
 			}
 			"encryptedmanifests"
 			{
+				"aerosoft"
+				{
+					"gid"		"E93AFFBC311FA7DE6F96D6D5F05FFC06"
+					"size"		"2A88281C1B28F32E0710BF8B88966920"
+					"download"		"2A88281C1B28F32E0710BF8B88966920"
+				}
 				"closed_beta"
 				{
-					"gid"		"CE747CF6F465C56FEBD7A0195E2831DA"
-					"size"		"7D8E8EE19B3A4389E2469A3F0FAA74A9"
-					"download"		"E7D2A9647AB865EF7825F91C4FAC51CE"
+					"gid"		"80E7BE6E2A6DC19FE89AEB0660D790B6"
+					"size"		"284F9489B0EFECD4C90C3A3F31F17A0B"
+					"download"		"6C04BD10A48B0308AF089A60A527E261"
 				}
 				"halycon"
 				{
-					"gid"		"E7DE3B47558EDE9B09B0A726EC280129"
-					"size"		"DCAECDC448C7D5D66B69D81AE6695E4C"
-					"download"		"40435FF89F087FEDA18DE9EF8CDD4805"
+					"gid"		"05D59C048AF6FE2A4DF11EB3C63E55CD"
+					"size"		"EB04A173985C33611B779860A229D235"
+					"download"		"EB04A173985C33611B779860A229D235"
 				}
 				"localisation"
 				{
-					"gid"		"5C68D26A01C117F2274817D1B4B24198"
-					"size"		"5CCFFA0451DE7CE13CBEA51A0A4355AA"
-					"download"		"C5F54ED1E8613A61FD5CDB96CA1B5472"
+					"gid"		"7E69664499A4FB0582E1DB93DC0BC1B8"
+					"size"		"8582C2D367BAC81B954EB69066291324"
+					"download"		"0BB7EB1364ACE9E32D8550B07328D2FA"
 				}
 				"nightlybuild"
 				{
-					"gid"		"6BC5AE94F2B2208F7CE9A5EC53CC69B7"
-					"size"		"AF8E74322A420F25C863B70B70B480E1"
-					"download"		"751AC22CBDB7C2017705699FE2E8B63C"
+					"gid"		"DB9A910F666BB3157B22E8B98B753142"
+					"size"		"79D3EEE5708C3B42B0A27850FCBD5FBE"
+					"download"		"37A4A68EDD88E5F87749561CCEE8E21D"
 				}
 				"test"
 				{
@@ -849,15 +895,15 @@
 			{
 				"public"
 				{
-					"gid"		"9133693638170568216"
-					"size"		"29523362"
-					"download"		"7113776"
+					"gid"		"6798427819857913755"
+					"size"		"29524023"
+					"download"		"7071648"
 				}
 				"beta"
 				{
-					"gid"		"9133693638170568216"
-					"size"		"29523362"
-					"download"		"7113776"
+					"gid"		"6798427819857913755"
+					"size"		"29524023"
+					"download"		"7071648"
 				}
 				"last_ue4"
 				{
@@ -867,15 +913,15 @@
 				}
 				"local"
 				{
-					"gid"		"5824083133114551746"
-					"size"		"29523362"
-					"download"		"7072208"
+					"gid"		"1625992929984466116"
+					"size"		"29524023"
+					"download"		"7124496"
 				}
 				"previousversion"
 				{
-					"gid"		"1646432525140859107"
-					"size"		"52329786"
-					"download"		"5764992"
+					"gid"		"9133693638170568216"
+					"size"		"29523362"
+					"download"		"7113776"
 				}
 				"test_local"
 				{
@@ -886,29 +932,35 @@
 			}
 			"encryptedmanifests"
 			{
+				"aerosoft"
+				{
+					"gid"		"658EA5502E922404D180236EAE303676"
+					"size"		"AA84C5DA624C16153F8D34BF23C77645"
+					"download"		"3E6725602E668AF5F42140D4E773E81B"
+				}
 				"closed_beta"
 				{
-					"gid"		"7DEDD3433BAC074798671ABBF0AEF53D"
-					"size"		"DF6CB0BF6A32ACB37AA695DC01FB3EAC"
-					"download"		"CC7DD012288A75DF2DA6265F93D489EB"
+					"gid"		"905FE5BEC4053E877CD88E896E2325AD"
+					"size"		"6358B911909026A57EF6ADDDB77FCC68"
+					"download"		"11A93CF5D38718DB259E8C2513545871"
 				}
 				"halycon"
 				{
-					"gid"		"D757694352AE70CC4E48C8581EB33E17"
-					"size"		"90436A5A70F20EAD42A8762F7DD91FEF"
-					"download"		"9F44FBB2823C4FD43BDA6503F34AE63F"
+					"gid"		"9FA30E95160275085CF0CC8F2113441E"
+					"size"		"C1BD1254B178AE3B7BB8625C87576E14"
+					"download"		"A07AE8133ABD014BC9EA805D0D26E378"
 				}
 				"localisation"
 				{
-					"gid"		"174492F699FBF06B872A13FBE505488A"
-					"size"		"E8B1620CE6A8B8696FEA2FC4D49944EC"
-					"download"		"6BA6EFB77B3869881946532AAB8DA3A5"
+					"gid"		"9011C6FF0B31E02F8F19FDC24B6B1940"
+					"size"		"3EA26A327DD875DA37E5649D71C9BB2C"
+					"download"		"F81DFF421D7C58E2C9825E2141A2E144"
 				}
 				"nightlybuild"
 				{
-					"gid"		"1162D9AA9ED31B2FDC49141AD777CCD4"
-					"size"		"D5519C0E6B56DFB5F3F1813185B62463"
-					"download"		"23E113C62DA310243C764D12636649E3"
+					"gid"		"7092CF75476BF9B121DCB0DD1B912A36"
+					"size"		"639A8C214C62026A17811FC4FA967A67"
+					"download"		"AA79E2F7B8CD995CA55B87A8BDF6975E"
 				}
 				"test"
 				{
@@ -954,9 +1006,9 @@
 				}
 				"previousversion"
 				{
-					"gid"		"3551655388300072267"
-					"size"		"146659565"
-					"download"		"128358816"
+					"gid"		"6451832587382769975"
+					"size"		"0"
+					"download"		"0"
 				}
 				"test_local"
 				{
@@ -967,6 +1019,12 @@
 			}
 			"encryptedmanifests"
 			{
+				"aerosoft"
+				{
+					"gid"		"3B1674FE0AE1CD450B0F580114A8AFCD"
+					"size"		"2A88281C1B28F32E0710BF8B88966920"
+					"download"		"2A88281C1B28F32E0710BF8B88966920"
+				}
 				"closed_beta"
 				{
 					"gid"		"095F4B593CBDCEABF0207680DA76C32D"
@@ -1035,9 +1093,9 @@
 				}
 				"previousversion"
 				{
-					"gid"		"4377590248487353292"
-					"size"		"127059894"
-					"download"		"108387952"
+					"gid"		"576903352774981856"
+					"size"		"0"
+					"download"		"0"
 				}
 				"test_local"
 				{
@@ -1048,6 +1106,12 @@
 			}
 			"encryptedmanifests"
 			{
+				"aerosoft"
+				{
+					"gid"		"DB32A9E55648CEAB0DD0A9DAFECFC541"
+					"size"		"2A88281C1B28F32E0710BF8B88966920"
+					"download"		"2A88281C1B28F32E0710BF8B88966920"
+				}
 				"closed_beta"
 				{
 					"gid"		"BC84C8950F03857C3C598D3DE63EAAEB"
@@ -1092,15 +1156,15 @@
 			{
 				"public"
 				{
-					"gid"		"4059644809171430782"
-					"size"		"117451371"
-					"download"		"91800144"
+					"gid"		"1539327919065737373"
+					"size"		"117451418"
+					"download"		"91800064"
 				}
 				"beta"
 				{
-					"gid"		"4059644809171430782"
-					"size"		"117451371"
-					"download"		"91800144"
+					"gid"		"1539327919065737373"
+					"size"		"117451418"
+					"download"		"91800064"
 				}
 				"last_ue4"
 				{
@@ -1110,15 +1174,15 @@
 				}
 				"local"
 				{
-					"gid"		"2230085817687250036"
+					"gid"		"5895649297227216847"
 					"size"		"117451418"
-					"download"		"91800416"
+					"download"		"91800096"
 				}
 				"previousversion"
 				{
-					"gid"		"4003310702166613993"
-					"size"		"119431357"
-					"download"		"94158800"
+					"gid"		"4059644809171430782"
+					"size"		"117451371"
+					"download"		"91800144"
 				}
 				"test_local"
 				{
@@ -1129,29 +1193,35 @@
 			}
 			"encryptedmanifests"
 			{
+				"aerosoft"
+				{
+					"gid"		"56F51CA7126825BD3253BF7800CF6776"
+					"size"		"2A88281C1B28F32E0710BF8B88966920"
+					"download"		"2A88281C1B28F32E0710BF8B88966920"
+				}
 				"closed_beta"
 				{
-					"gid"		"950BEDEE36869F45EB7705E84DC0F766"
-					"size"		"3F7FFE0B5FBAEB518B9BB257B411FE9E"
-					"download"		"157351C5EAE02CD29B161744D39E76E1"
+					"gid"		"8F9DD0694513FF32336C59C572CAF7BB"
+					"size"		"9AF8363B932EDCD9F903CBCE88555D60"
+					"download"		"F5E7D661296A89965DF5CCA652C3B2F1"
 				}
 				"halycon"
 				{
-					"gid"		"F3B93C38E79955E117F1FDE2CECDB85D"
-					"size"		"D02966506F24C298C62CBC72D1ACA0CC"
-					"download"		"905A1F21AA02905C7E00B7E823FA9802"
+					"gid"		"4D3A1AA24B5B8263E86C281EC0966282"
+					"size"		"EB04A173985C33611B779860A229D235"
+					"download"		"EB04A173985C33611B779860A229D235"
 				}
 				"localisation"
 				{
-					"gid"		"58A4DA5D7294922FDA90B217F8387156"
-					"size"		"D21FFD0E834B69A5935F6260EB4B6C6C"
-					"download"		"495CD0D840BE62D936F08C15217C5986"
+					"gid"		"8BC5EE5023F258119696BA8FCA75C84A"
+					"size"		"07B95901AA6B481D1918D5157C636882"
+					"download"		"A830A09D8EA9826F4B12DE29D65DFD17"
 				}
 				"nightlybuild"
 				{
-					"gid"		"4765ECFA249BC40ABDF8DB2D83F66F06"
+					"gid"		"A7312B1241E82AE05A50EE5599449032"
 					"size"		"B1410BCC07D968CF82215A4ED8897F9D"
-					"download"		"0B01AD99B5505CE8F2A78C04AF2D26C5"
+					"download"		"534C5FF72DFB63F55CCDFFECDBB6B0A2"
 				}
 				"test"
 				{
@@ -1173,15 +1243,15 @@
 			{
 				"public"
 				{
-					"gid"		"1717029215271450946"
-					"size"		"5744927"
-					"download"		"4965616"
+					"gid"		"3926017607781550822"
+					"size"		"5679592"
+					"download"		"4892992"
 				}
 				"beta"
 				{
-					"gid"		"1717029215271450946"
-					"size"		"5744927"
-					"download"		"4965616"
+					"gid"		"3926017607781550822"
+					"size"		"5679592"
+					"download"		"4892992"
 				}
 				"last_ue4"
 				{
@@ -1191,15 +1261,15 @@
 				}
 				"local"
 				{
-					"gid"		"1494445668817608041"
-					"size"		"5680088"
-					"download"		"4890800"
+					"gid"		"467889869018780886"
+					"size"		"5679592"
+					"download"		"4893024"
 				}
 				"previousversion"
 				{
-					"gid"		"749663090472946942"
-					"size"		"4800486"
-					"download"		"4029904"
+					"gid"		"1717029215271450946"
+					"size"		"5744927"
+					"download"		"4965616"
 				}
 				"test_local"
 				{
@@ -1210,29 +1280,35 @@
 			}
 			"encryptedmanifests"
 			{
+				"aerosoft"
+				{
+					"gid"		"821FD396AA292D41E57306478DFFCC9B"
+					"size"		"B2A0BD0258E5C0405B3E0CCD692FA759"
+					"download"		"4BA1986BF32A17E2B7316A3B204CD6B4"
+				}
 				"closed_beta"
 				{
-					"gid"		"160F6064377DDA60FDE9CD3A32982A02"
-					"size"		"78519513021D1801EA436FFCF44FA494"
-					"download"		"A506218ABFB4FE00B4310E1299829235"
+					"gid"		"7C46885AFBC07D18578BDF40A869972F"
+					"size"		"79D6C8D05D8BD8194989DD52780FD582"
+					"download"		"82011FB72103D6A05AE35CFD8CC34AD6"
 				}
 				"halycon"
 				{
-					"gid"		"6E2A163C33CE4B4130FDCB799E5584B6"
-					"size"		"F3CCE7EB00E7338958E3EE8E931D25C8"
-					"download"		"43DB9E88CC657755DDB99CB6D0233D47"
+					"gid"		"972C94A05BDFD9EEEB8ACC5DBDE62368"
+					"size"		"9D6D2EA4C034D1951669EB24792D4D71"
+					"download"		"61283BF08E6EA5FCB8F4186612F93331"
 				}
 				"localisation"
 				{
-					"gid"		"20F08990DF6F5DF8A56A74E50CB0F473"
-					"size"		"F765E1E05FF4B6F2419569D865FBD9EB"
-					"download"		"7D6FBF468C4A45CCD7388C1BB04B991D"
+					"gid"		"D07B930C898C0ACE48889A381E105F3B"
+					"size"		"57E8937F21DEAF5FD5A8DEAE1C12B15C"
+					"download"		"79DF753601AF8E35F3DE2E310E779495"
 				}
 				"nightlybuild"
 				{
-					"gid"		"4DB8E4A352CA3B67D73363456009E13C"
-					"size"		"9CA4F24B12FEA96B2890DDFFA40D7D2C"
-					"download"		"716318B1437FF396946294CE6CF57393"
+					"gid"		"5ACF9C0B56FBDE13EBE420984C784213"
+					"size"		"776CEC3ECEA6C278E5BC39394D0DEFE6"
+					"download"		"F9F82E5887FE55655BEAD2F7F873DE0B"
 				}
 				"test"
 				{
@@ -1278,9 +1354,9 @@
 				}
 				"previousversion"
 				{
-					"gid"		"2413983893752570637"
-					"size"		"57238610"
-					"download"		"49493104"
+					"gid"		"6745388767416594167"
+					"size"		"0"
+					"download"		"0"
 				}
 				"test_local"
 				{
@@ -1291,6 +1367,12 @@
 			}
 			"encryptedmanifests"
 			{
+				"aerosoft"
+				{
+					"gid"		"41B2893FB686812AE06F499EBCF3A440"
+					"size"		"2A88281C1B28F32E0710BF8B88966920"
+					"download"		"2A88281C1B28F32E0710BF8B88966920"
+				}
 				"closed_beta"
 				{
 					"gid"		"5E4685A0E43DE7663D7E86352E96BBFF"
@@ -1359,9 +1441,9 @@
 				}
 				"previousversion"
 				{
-					"gid"		"2572650453083588072"
-					"size"		"83729580"
-					"download"		"71645216"
+					"gid"		"3246510030392480116"
+					"size"		"0"
+					"download"		"0"
 				}
 				"test_local"
 				{
@@ -1372,6 +1454,12 @@
 			}
 			"encryptedmanifests"
 			{
+				"aerosoft"
+				{
+					"gid"		"AA2F2078F5A147577362CC03EA5D5291"
+					"size"		"2A88281C1B28F32E0710BF8B88966920"
+					"download"		"2A88281C1B28F32E0710BF8B88966920"
+				}
 				"closed_beta"
 				{
 					"gid"		"07A92311077AD2BA0269CD4628A3912E"
@@ -1416,15 +1504,15 @@
 			{
 				"public"
 				{
-					"gid"		"94009458949462790"
-					"size"		"54438191"
-					"download"		"42284512"
+					"gid"		"114533377787558086"
+					"size"		"65978479"
+					"download"		"53006880"
 				}
 				"beta"
 				{
-					"gid"		"94009458949462790"
-					"size"		"54438191"
-					"download"		"42284512"
+					"gid"		"114533377787558086"
+					"size"		"65978479"
+					"download"		"53006880"
 				}
 				"last_ue4"
 				{
@@ -1434,15 +1522,15 @@
 				}
 				"local"
 				{
-					"gid"		"3525132901518248861"
-					"size"		"54438139"
-					"download"		"42127168"
+					"gid"		"3210649859481561392"
+					"size"		"65978479"
+					"download"		"53008960"
 				}
 				"previousversion"
 				{
-					"gid"		"4784540777969433742"
-					"size"		"62311142"
-					"download"		"37704240"
+					"gid"		"94009458949462790"
+					"size"		"54438191"
+					"download"		"42284512"
 				}
 				"test_local"
 				{
@@ -1453,29 +1541,35 @@
 			}
 			"encryptedmanifests"
 			{
+				"aerosoft"
+				{
+					"gid"		"18C90771BE461117C6CE1505AF649AD3"
+					"size"		"2A88281C1B28F32E0710BF8B88966920"
+					"download"		"2A88281C1B28F32E0710BF8B88966920"
+				}
 				"closed_beta"
 				{
-					"gid"		"8446591D59F55C04805B09872445A687"
-					"size"		"2BAE7BEA54FCAF02CE1D5A26CFEFDBC2"
-					"download"		"9A53A18DE9D65E803FA9EAF8A2F7C802"
+					"gid"		"DDEA0C406F91A2B45ED90C446539F73F"
+					"size"		"2BD5F131638BF9EE6274D2A540F230E0"
+					"download"		"760119CBFA25A0576EF3CDA5E79D4680"
 				}
 				"halycon"
 				{
-					"gid"		"EE4CA1C572F289ED6E8B3D9A95499A0C"
-					"size"		"DCCB512D4A1D653F742B4A3676E4B0D9"
-					"download"		"035B07DC88606D59D18476CFF2B1FEF7"
+					"gid"		"17C9FA12BD8087B6F7849276CFB33769"
+					"size"		"EB04A173985C33611B779860A229D235"
+					"download"		"EB04A173985C33611B779860A229D235"
 				}
 				"localisation"
 				{
-					"gid"		"F9FDAB8201E264A93CD36724EC007BB0"
-					"size"		"FA868D978F76452FB0FAE878B1A72B47"
-					"download"		"8E5A0F4CC0F5A0A8292C0A8922B4E2CF"
+					"gid"		"6E806E7A88B73A6F598CEAAB9BAB0E98"
+					"size"		"1F6200D795A2E75B5299374598140E91"
+					"download"		"4FF60A230870BBB1D75FB9ADA806B324"
 				}
 				"nightlybuild"
 				{
-					"gid"		"8C5FA1CFC470BD8DBAC7A92D592298E4"
-					"size"		"1EB91DC97A04040CE9D853B17D8B082C"
-					"download"		"644438189ABF91820BB202B8387D9EA9"
+					"gid"		"324A9F349D1F174BA1D03C595D1884B6"
+					"size"		"47A3D1FD9E5FBA89E74CCE93B646CF01"
+					"download"		"B048A501665C03D0D6C36B47304DBD43"
 				}
 				"test"
 				{
@@ -1497,15 +1591,15 @@
 			{
 				"public"
 				{
-					"gid"		"2640956299154283565"
-					"size"		"605475459"
-					"download"		"557389952"
+					"gid"		"118837132552039950"
+					"size"		"675758223"
+					"download"		"611654512"
 				}
 				"beta"
 				{
-					"gid"		"2640956299154283565"
-					"size"		"605475459"
-					"download"		"557389952"
+					"gid"		"118837132552039950"
+					"size"		"675758223"
+					"download"		"611654512"
 				}
 				"last_ue4"
 				{
@@ -1515,15 +1609,15 @@
 				}
 				"local"
 				{
-					"gid"		"463827066647337766"
-					"size"		"603377747"
-					"download"		"553755392"
+					"gid"		"1648492968120823321"
+					"size"		"678905131"
+					"download"		"614026288"
 				}
 				"previousversion"
 				{
-					"gid"		"7735897822842432885"
-					"size"		"557274632"
-					"download"		"449182320"
+					"gid"		"2640956299154283565"
+					"size"		"605475459"
+					"download"		"557389952"
 				}
 				"test_local"
 				{
@@ -1534,29 +1628,35 @@
 			}
 			"encryptedmanifests"
 			{
+				"aerosoft"
+				{
+					"gid"		"C4A63DF3E97E56EA48BB34ED54C57BE7"
+					"size"		"2A88281C1B28F32E0710BF8B88966920"
+					"download"		"2A88281C1B28F32E0710BF8B88966920"
+				}
 				"closed_beta"
 				{
-					"gid"		"A5F8C5F3FBF700595E03EF9CF93A4369"
-					"size"		"596BE193263645E83523B46C1F6EEA16"
-					"download"		"7498BC67C2CAF48790761073AE91E0C6"
+					"gid"		"36EEEF03D6CF8FE70E75CC30704BFB3E"
+					"size"		"5AC03EEDDF0C4D66A881A65A9871EC31"
+					"download"		"11A03A55364D750FFA277A38A50B926A"
 				}
 				"halycon"
 				{
-					"gid"		"3643BC75BAA6518FC47C7688C86B958E"
-					"size"		"06209EFD0205FCDF71146E0D985A2807"
-					"download"		"1651F4255296839E8B419E8C4F8AA35F"
+					"gid"		"80BF8C25138D58B14B759616CB01DEC7"
+					"size"		"EB04A173985C33611B779860A229D235"
+					"download"		"EB04A173985C33611B779860A229D235"
 				}
 				"localisation"
 				{
-					"gid"		"31FD23AFC1D44FE8997AAFC49F02C133"
-					"size"		"C458AE5DD43057E34AA5C3543AB1B8FD"
-					"download"		"0DE7546612A2B1F51D264DDCD0F9F485"
+					"gid"		"B0C99801BC94DD6DD6BFB9147A0A8914"
+					"size"		"E3E36851D3A635C764D38DD88251702C"
+					"download"		"A1FCA0004B246D8B2BE634FC5756EB29"
 				}
 				"nightlybuild"
 				{
-					"gid"		"C51DA0A3FA942CA2F1F39329C5529E9A"
-					"size"		"974BB6113E0D294C10CDBD9DCB979F2C"
-					"download"		"2A984EA5AB2B5D4DD3D6DD4DBA6F0948"
+					"gid"		"41029158804E3CE4F2F7AC90EE357131"
+					"size"		"CFD14B701799508C1FB16EF9B0A79DC4"
+					"download"		"6DA2E31C973E72024B8542902551DE61"
 				}
 				"test"
 				{
@@ -1578,15 +1678,15 @@
 			{
 				"public"
 				{
-					"gid"		"6188939402904210485"
-					"size"		"527507098"
-					"download"		"454344352"
+					"gid"		"7256850064405022343"
+					"size"		"606187998"
+					"download"		"521904528"
 				}
 				"beta"
 				{
-					"gid"		"6188939402904210485"
-					"size"		"527507098"
-					"download"		"454344352"
+					"gid"		"7256850064405022343"
+					"size"		"606187998"
+					"download"		"521904528"
 				}
 				"last_ue4"
 				{
@@ -1596,15 +1696,15 @@
 				}
 				"local"
 				{
-					"gid"		"2726557721666583946"
-					"size"		"524360259"
-					"download"		"451062160"
+					"gid"		"7294062975387788876"
+					"size"		"588353024"
+					"download"		"507795424"
 				}
 				"previousversion"
 				{
-					"gid"		"4359212454903041451"
-					"size"		"527487178"
-					"download"		"387683264"
+					"gid"		"6188939402904210485"
+					"size"		"527507098"
+					"download"		"454344352"
 				}
 				"test_local"
 				{
@@ -1615,29 +1715,35 @@
 			}
 			"encryptedmanifests"
 			{
+				"aerosoft"
+				{
+					"gid"		"0369FFCCF26ED24E8433CCC014F48282"
+					"size"		"2A88281C1B28F32E0710BF8B88966920"
+					"download"		"2A88281C1B28F32E0710BF8B88966920"
+				}
 				"closed_beta"
 				{
-					"gid"		"729E832DB18F8C36EB26315770AA243A"
-					"size"		"2DE2F6606A37DAEE781F7268E5F9A115"
-					"download"		"C78FCA8B01C1A91CD29369B471ECF86F"
+					"gid"		"BF4E6E34FA25B8005F8A27E45221CE17"
+					"size"		"5BF5602DAD7D60C60AD7379B7B64CA73"
+					"download"		"77D44CB8D678993C9F2A4C346F91FAAD"
 				}
 				"halycon"
 				{
-					"gid"		"4AFC0B0077A46E35A9DB17F5D582B171"
-					"size"		"A7909023FA2372EFEEEEB6DC8FB6E24D"
-					"download"		"6293EBB9A645CE2360F2EBEB8020845D"
+					"gid"		"DE78A91BB7D7CCCD00E44DE80E4FD442"
+					"size"		"EB04A173985C33611B779860A229D235"
+					"download"		"EB04A173985C33611B779860A229D235"
 				}
 				"localisation"
 				{
-					"gid"		"A21D8C102367B645D4B1BAC9A208917F"
-					"size"		"BFB775F881F26BCFE246FE84347DF0D5"
-					"download"		"721B46F3BA8578062E513AC6C238222C"
+					"gid"		"F6EEA02F4746677CF496C323BB02C849"
+					"size"		"50DFFB89E87A6945224EE8D79DCA40EC"
+					"download"		"1F4109E17353F7ED6928BDE464A6EE7A"
 				}
 				"nightlybuild"
 				{
-					"gid"		"9BBBA0FF3BB6BDE920515E265D9138DA"
-					"size"		"A8B019DF805DF6934A33DEB3D945FE8F"
-					"download"		"8E100F33AEE15806037C72925DC0D3D4"
+					"gid"		"2F89EA84CCA79B625ED603F61C406D97"
+					"size"		"667D8AC6C1C287AB65C4F1B209921102"
+					"download"		"4AAB6BE4BA8E40F9590091201CE17DAB"
 				}
 				"test"
 				{
@@ -1659,15 +1765,15 @@
 			{
 				"public"
 				{
-					"gid"		"2222611962168510766"
-					"size"		"84732521"
-					"download"		"78405392"
+					"gid"		"2891035177169378093"
+					"size"		"89978433"
+					"download"		"83911840"
 				}
 				"beta"
 				{
-					"gid"		"2222611962168510766"
-					"size"		"84732521"
-					"download"		"78405392"
+					"gid"		"2891035177169378093"
+					"size"		"89978433"
+					"download"		"83911840"
 				}
 				"last_ue4"
 				{
@@ -1677,15 +1783,15 @@
 				}
 				"local"
 				{
-					"gid"		"1594285026114611227"
-					"size"		"83683909"
-					"download"		"78170576"
+					"gid"		"2891035177169378093"
+					"size"		"89978433"
+					"download"		"83911840"
 				}
 				"previousversion"
 				{
-					"gid"		"495375826196610677"
-					"size"		"78481557"
-					"download"		"68319728"
+					"gid"		"2222611962168510766"
+					"size"		"84732521"
+					"download"		"78405392"
 				}
 				"test_local"
 				{
@@ -1696,29 +1802,35 @@
 			}
 			"encryptedmanifests"
 			{
+				"aerosoft"
+				{
+					"gid"		"3A229B2ADA58C702CE3C46834E6612C2"
+					"size"		"2A88281C1B28F32E0710BF8B88966920"
+					"download"		"2A88281C1B28F32E0710BF8B88966920"
+				}
 				"closed_beta"
 				{
-					"gid"		"94B6B9D53C43673970A2607845048017"
-					"size"		"53923C7D6E3AF056E09F3C6B9E42CF5D"
-					"download"		"75EFD6586144FEEC5C03D6E360F964DF"
+					"gid"		"52EB1D7D66818CCCEE8F1CAB14B118C7"
+					"size"		"8063F5BDCABDF922C1B90F7366B10949"
+					"download"		"CD229D3C3575D7B94AEB2605A2037AF6"
 				}
 				"halycon"
 				{
-					"gid"		"AC5AFDACAB3F55E2E3140F1908949BCF"
-					"size"		"ACF86E80186824B2C97961B5AECEB7D3"
-					"download"		"B57CEF036FC33ED4A9292A2AF98DC225"
+					"gid"		"DF33FFE23653C935B587F43DC3E9576E"
+					"size"		"EB04A173985C33611B779860A229D235"
+					"download"		"EB04A173985C33611B779860A229D235"
 				}
 				"localisation"
 				{
-					"gid"		"9E75DF6FB38F6517764DB5BB0284C842"
-					"size"		"FFD738F3BD98F14143799BAE0F8EAB69"
-					"download"		"54B446531479EAC1C0A1ACFFD87C51C4"
+					"gid"		"286E26D9ECB401D05FF5789FA3DA6EC1"
+					"size"		"A35A94D33B49E4756A58CB5A7B76AA1E"
+					"download"		"6E35645EFE8E72F79710FBBBCC5F75CF"
 				}
 				"nightlybuild"
 				{
-					"gid"		"2A99CAEE26C1EBB33ADCBCEAD1B0A05F"
-					"size"		"D4B650F9A1A46CA7F610FE43D611D9E1"
-					"download"		"B86008AC50AAAFAB258258E96DE3AD79"
+					"gid"		"5A033DC269550D4B94C516A0817EFF96"
+					"size"		"29B71A572B49F0813D82DF82A8F7D22C"
+					"download"		"ACDC5A1DB6631585A3B44B5B92C180AA"
 				}
 				"test"
 				{
@@ -1739,15 +1851,15 @@
 			{
 				"public"
 				{
-					"gid"		"3040655110273173760"
-					"size"		"3432857"
-					"download"		"2360080"
+					"gid"		"4655797668312249625"
+					"size"		"3425812"
+					"download"		"2352848"
 				}
 				"beta"
 				{
-					"gid"		"3040655110273173760"
-					"size"		"3432857"
-					"download"		"2360080"
+					"gid"		"4655797668312249625"
+					"size"		"3425812"
+					"download"		"2352848"
 				}
 				"last_ue4"
 				{
@@ -1757,15 +1869,15 @@
 				}
 				"local"
 				{
-					"gid"		"1935544050739181917"
-					"size"		"3424895"
-					"download"		"2352704"
+					"gid"		"3505049228402083677"
+					"size"		"3425531"
+					"download"		"2352576"
 				}
 				"previousversion"
 				{
-					"gid"		"2558785952567008502"
-					"size"		"3133531"
-					"download"		"2061312"
+					"gid"		"3040655110273173760"
+					"size"		"3432857"
+					"download"		"2360080"
 				}
 				"test_local"
 				{
@@ -1776,29 +1888,35 @@
 			}
 			"encryptedmanifests"
 			{
+				"aerosoft"
+				{
+					"gid"		"350B39CAC7D2268909B881A72B1BFA46"
+					"size"		"2A88281C1B28F32E0710BF8B88966920"
+					"download"		"2A88281C1B28F32E0710BF8B88966920"
+				}
 				"closed_beta"
 				{
-					"gid"		"24B699F0D086015ACC10B6B618080E52"
-					"size"		"8950D8A9FE1B7B8098AC75FF7AFA94E5"
-					"download"		"AC527DA4C693A465BE3B849F570A60F2"
+					"gid"		"B3410319FAFA08E1F02386643E1BD3FD"
+					"size"		"5EF4E2838E023892547922B9CABE80C3"
+					"download"		"54BBA6BF6C300929CEE3F85C8FDFDC59"
 				}
 				"halycon"
 				{
-					"gid"		"B10A94AA5E5F3C6D76A62CFC907792FA"
-					"size"		"0156BF5356E2D707EDA589CA33DDF2F1"
-					"download"		"727801146D3821EFEAAD2B9FE0610B83"
+					"gid"		"BD35A756ED8E89320C4BCE698FED826D"
+					"size"		"EB04A173985C33611B779860A229D235"
+					"download"		"EB04A173985C33611B779860A229D235"
 				}
 				"localisation"
 				{
-					"gid"		"FAE316257D0B4EF89D3690BE13F9AA2B"
-					"size"		"FE55F4E05DECA7E57FECFE28F4870B80"
-					"download"		"B4D8C434C4AFD5FE59EBB260F974AA2B"
+					"gid"		"AD31A53F7BD2209591BB680E64C0DAD6"
+					"size"		"2464806234C27120F2EF4F13F73DE86C"
+					"download"		"9DE6987891DAB92CDB1F8CA401B76891"
 				}
 				"nightlybuild"
 				{
-					"gid"		"C2AD15707ECD156856A25EE265886615"
-					"size"		"6D135DA8E57B1BECF86FEF62D314D8AF"
-					"download"		"AEF186F5020E844986AFF4FA0DDF7A88"
+					"gid"		"D8FC78672DFB1CE78B5B3613B4FCE93A"
+					"size"		"8877B64AAF37AF933DA356CA70E1E971"
+					"download"		"E238B9C251F0905ABE62AC3462AAD710"
 				}
 				"test"
 				{
@@ -1844,9 +1962,9 @@
 				}
 				"previousversion"
 				{
-					"gid"		"2022948793326014009"
-					"size"		"69745089"
-					"download"		"60936576"
+					"gid"		"1128993684715194911"
+					"size"		"0"
+					"download"		"0"
 				}
 				"test_local"
 				{
@@ -1857,6 +1975,12 @@
 			}
 			"encryptedmanifests"
 			{
+				"aerosoft"
+				{
+					"gid"		"E7BED1001428D40078869294AB3A809F"
+					"size"		"2A88281C1B28F32E0710BF8B88966920"
+					"download"		"2A88281C1B28F32E0710BF8B88966920"
+				}
 				"closed_beta"
 				{
 					"gid"		"6226407AB2440E76928477F1AA1D7797"
@@ -1925,9 +2049,9 @@
 				}
 				"previousversion"
 				{
-					"gid"		"3329296700794891310"
-					"size"		"38167506"
-					"download"		"32437584"
+					"gid"		"8497909674161473596"
+					"size"		"0"
+					"download"		"0"
 				}
 				"test_local"
 				{
@@ -1938,6 +2062,12 @@
 			}
 			"encryptedmanifests"
 			{
+				"aerosoft"
+				{
+					"gid"		"D01B8E57CA97E96352A797B439EA4B20"
+					"size"		"2A88281C1B28F32E0710BF8B88966920"
+					"download"		"2A88281C1B28F32E0710BF8B88966920"
+				}
 				"closed_beta"
 				{
 					"gid"		"79ADC0A914D6AF6FB03B7104CF59A6D8"
@@ -2006,9 +2136,9 @@
 				}
 				"previousversion"
 				{
-					"gid"		"4356156209048730706"
-					"size"		"150349578"
-					"download"		"129280176"
+					"gid"		"2278123645898777675"
+					"size"		"0"
+					"download"		"0"
 				}
 				"test_local"
 				{
@@ -2019,6 +2149,12 @@
 			}
 			"encryptedmanifests"
 			{
+				"aerosoft"
+				{
+					"gid"		"F7FF5BCCA930A979F94D41C14B8ECC29"
+					"size"		"2A88281C1B28F32E0710BF8B88966920"
+					"download"		"2A88281C1B28F32E0710BF8B88966920"
+				}
 				"closed_beta"
 				{
 					"gid"		"CE78CE9272F79F5096DBFD981271C630"
@@ -2087,9 +2223,9 @@
 				}
 				"previousversion"
 				{
-					"gid"		"1248739782823975069"
-					"size"		"179086980"
-					"download"		"161795664"
+					"gid"		"1588070790492004896"
+					"size"		"0"
+					"download"		"0"
 				}
 				"test_local"
 				{
@@ -2100,6 +2236,12 @@
 			}
 			"encryptedmanifests"
 			{
+				"aerosoft"
+				{
+					"gid"		"0FA16B774D484862097EED15C4D620B7"
+					"size"		"2A88281C1B28F32E0710BF8B88966920"
+					"download"		"2A88281C1B28F32E0710BF8B88966920"
+				}
 				"closed_beta"
 				{
 					"gid"		"CD1CCC308AD9A0CC7643BBA0C61B0E7B"
@@ -2144,15 +2286,15 @@
 			{
 				"public"
 				{
-					"gid"		"1596517033144097381"
-					"size"		"387039871"
-					"download"		"328437104"
+					"gid"		"976397364873011435"
+					"size"		"393068997"
+					"download"		"331497456"
 				}
 				"beta"
 				{
-					"gid"		"1596517033144097381"
-					"size"		"387039871"
-					"download"		"328437104"
+					"gid"		"976397364873011435"
+					"size"		"393068997"
+					"download"		"331497456"
 				}
 				"last_ue4"
 				{
@@ -2162,15 +2304,15 @@
 				}
 				"local"
 				{
-					"gid"		"6721026945112666988"
-					"size"		"387824382"
-					"download"		"327428672"
+					"gid"		"3866519784971057905"
+					"size"		"390971209"
+					"download"		"330281072"
 				}
 				"previousversion"
 				{
-					"gid"		"75139470031168703"
-					"size"		"0"
-					"download"		"0"
+					"gid"		"1596517033144097381"
+					"size"		"387039871"
+					"download"		"328437104"
 				}
 				"test_local"
 				{
@@ -2181,29 +2323,35 @@
 			}
 			"encryptedmanifests"
 			{
+				"aerosoft"
+				{
+					"gid"		"AE07DF2882D77E83F2C885DB813778BF"
+					"size"		"2A88281C1B28F32E0710BF8B88966920"
+					"download"		"2A88281C1B28F32E0710BF8B88966920"
+				}
 				"closed_beta"
 				{
-					"gid"		"EA7E9BF6F6047FAB0E1B626CCBAF461A"
-					"size"		"CBD657B86845C9912A681C75D5C465B0"
-					"download"		"D51C8E96F93DDF9103F1933EB5B645BE"
+					"gid"		"E7FCA06EBD28B454100D07FAF4241142"
+					"size"		"14FA8604A0A03628317100765DDBE8A6"
+					"download"		"A781EC050A4D07D6643BEE0605A8E272"
 				}
 				"halycon"
 				{
-					"gid"		"09018E33C17E6000F63E423B2DBA6574"
-					"size"		"BA717F3088A34194D1E90E36E118998D"
-					"download"		"8466852ED9D09DCB14C8E6992E22909A"
+					"gid"		"58C3FA6808C3918A982BDDC69743DB9C"
+					"size"		"78EC2A58C8635EA1842F484EFF4D31A0"
+					"download"		"3531BCFD610C748DA4EDF3CF9FCA3620"
 				}
 				"localisation"
 				{
-					"gid"		"FB1269D5A4C44BEFA3EC6B76E6D82EE0"
-					"size"		"DB6E8088DFDB704AD8F4221722A4B33B"
-					"download"		"BD0CE579E44EDCDB74962121218B2BC4"
+					"gid"		"9F627D1D930E911D425AD547F73B68E1"
+					"size"		"42927BB5EF667711A4869A63E4F012E2"
+					"download"		"53832B9590E69F7F4C8318BE33E693E2"
 				}
 				"nightlybuild"
 				{
-					"gid"		"4800326259B412AF71303FB7B05A6908"
-					"size"		"B92C31F12ABA2ECC1F50FB6CC6764CF3"
-					"download"		"8C49986FE780420843F20037644150D2"
+					"gid"		"FF251C8116147DE080D9B5D1BD4D31F9"
+					"size"		"EBDC00F851C35B4FBBAE9813851475B7"
+					"download"		"114B84807431278C671668FCF0413359"
 				}
 				"test"
 				{
@@ -2225,15 +2373,15 @@
 			{
 				"public"
 				{
-					"gid"		"5916153530131678799"
-					"size"		"559696970"
-					"download"		"485543552"
+					"gid"		"729926129081294264"
+					"size"		"586992811"
+					"download"		"510581184"
 				}
 				"beta"
 				{
-					"gid"		"5916153530131678799"
-					"size"		"559696970"
-					"download"		"485543552"
+					"gid"		"729926129081294264"
+					"size"		"586992811"
+					"download"		"510581184"
 				}
 				"last_ue4"
 				{
@@ -2243,15 +2391,15 @@
 				}
 				"local"
 				{
-					"gid"		"1043548978212966446"
-					"size"		"548185423"
-					"download"		"475504768"
+					"gid"		"6856730276374024816"
+					"size"		"584894787"
+					"download"		"509077584"
 				}
 				"previousversion"
 				{
-					"gid"		"8103434572531024869"
-					"size"		"538757915"
-					"download"		"442864240"
+					"gid"		"5916153530131678799"
+					"size"		"559696970"
+					"download"		"485543552"
 				}
 				"test_local"
 				{
@@ -2262,29 +2410,35 @@
 			}
 			"encryptedmanifests"
 			{
+				"aerosoft"
+				{
+					"gid"		"038A4E058E60994876A576E46CA5017B"
+					"size"		"7791F52669F1DCEB837E3C447611E2C2"
+					"download"		"678B9E298E2B5B4A0A129A4536021DA4"
+				}
 				"closed_beta"
 				{
-					"gid"		"80F38C698D7008EDC058221820E97E6E"
-					"size"		"CE86CBF047B7B97F059CF824684B4588"
-					"download"		"C32B1AAD8A13159B258490B075955C53"
+					"gid"		"5667A8C87BA7C5E3343F0AE1A0145EB3"
+					"size"		"65CCF6F2F7E26975F1F052258B796BDC"
+					"download"		"2EEF2D95CF2F715BAD41C958D55C0EC2"
 				}
 				"halycon"
 				{
-					"gid"		"63689A67CB0118C08E704E277EA9145C"
-					"size"		"196B9B946E4CE27CE75E8941F0B1D4ED"
-					"download"		"5BA1EC93CC562E1B45BD8198BE5CE991"
+					"gid"		"C2375239E446F9923BD0668958AE267C"
+					"size"		"EB04A173985C33611B779860A229D235"
+					"download"		"EB04A173985C33611B779860A229D235"
 				}
 				"localisation"
 				{
-					"gid"		"A9EAC693BDE8D914E286FA03508E2B16"
-					"size"		"E0689F523B4BC387AB19D72E4A2FA52E"
-					"download"		"0F6BF1C7C1B8C316833A1D6E9625E961"
+					"gid"		"527CE4D8C1733EEBF82DDAFD7781D74F"
+					"size"		"65FD282F194A32FBF543131A4538DD6C"
+					"download"		"04D5C5ED47DF7D3B70E8E8FF1375388B"
 				}
 				"nightlybuild"
 				{
-					"gid"		"A39815D5861DB827AD8032DBB44CD3E0"
-					"size"		"11665DBB2907440C4CF333E115ED90D6"
-					"download"		"BDA7CACF993C9CC01A7FFEAA9B081549"
+					"gid"		"9FE3E7C16F00C8A71FE3124FD8B0E0A1"
+					"size"		"1384B68B4F197E9EA2A16874AE926C9A"
+					"download"		"C7F0F1033222DC7E0A619EC94CDA7F5B"
 				}
 				"test"
 				{
@@ -2306,15 +2460,15 @@
 			{
 				"public"
 				{
-					"gid"		"1931755692458931688"
-					"size"		"4979494"
-					"download"		"3313200"
+					"gid"		"4322224207831330127"
+					"size"		"3955075"
+					"download"		"2900960"
 				}
 				"beta"
 				{
-					"gid"		"1931755692458931688"
-					"size"		"4979494"
-					"download"		"3313200"
+					"gid"		"4322224207831330127"
+					"size"		"3955075"
+					"download"		"2900960"
 				}
 				"last_ue4"
 				{
@@ -2324,15 +2478,15 @@
 				}
 				"local"
 				{
-					"gid"		"1587731379623861105"
-					"size"		"4980317"
-					"download"		"3309488"
+					"gid"		"1150701422566910117"
+					"size"		"4979162"
+					"download"		"3308864"
 				}
 				"previousversion"
 				{
-					"gid"		"3064686177672163007"
-					"size"		"3833849"
-					"download"		"2744112"
+					"gid"		"1931755692458931688"
+					"size"		"4979494"
+					"download"		"3313200"
 				}
 				"test_local"
 				{
@@ -2343,29 +2497,35 @@
 			}
 			"encryptedmanifests"
 			{
+				"aerosoft"
+				{
+					"gid"		"EB9366D4CD19ED68658691D1109CC19C"
+					"size"		"2A88281C1B28F32E0710BF8B88966920"
+					"download"		"2A88281C1B28F32E0710BF8B88966920"
+				}
 				"closed_beta"
 				{
-					"gid"		"0B0B6ECBF20EA3F725E18C52135E0487"
-					"size"		"8CDA7E73ED4E55DCCCA8DF627B82949A"
-					"download"		"436A56748F99917FCA1C722B40A2BB05"
+					"gid"		"821397114602A7A743CF99B67E43FE93"
+					"size"		"64D993B752D37DB39A71E32BBCED20A7"
+					"download"		"03D864F760C42CA18718C4167C11750A"
 				}
 				"halycon"
 				{
-					"gid"		"07DE04D6DD305FE265377EA085F1ED4F"
-					"size"		"5DA6F1C9555E3F8CACBBD653CF34B0FC"
-					"download"		"2D963BA9F1E64E0FF5E080FA2155C353"
+					"gid"		"8DE2896E1A35F7AA1079FA28AC25A87A"
+					"size"		"EB04A173985C33611B779860A229D235"
+					"download"		"EB04A173985C33611B779860A229D235"
 				}
 				"localisation"
 				{
-					"gid"		"F1FA865377A9AAA838AD0EE38F9B0C41"
-					"size"		"B52588E0D70A72FF77650DD5E308B842"
-					"download"		"51F4E477B7DC9212A54E42DE1364D91D"
+					"gid"		"7657FCA2FC4964F3DA7C104F3E36559B"
+					"size"		"A3F5D2834FF174DB0D615E99234B5DAF"
+					"download"		"9639AD0C4052ADA886D65312500406F8"
 				}
 				"nightlybuild"
 				{
-					"gid"		"1D204F50AF7EED9DFE9CC439FC0208A1"
-					"size"		"34DA268033C02E8BB29E6ABE2FD9787E"
-					"download"		"2A7B2C95FD37FD228C1D3D73EB9D10AB"
+					"gid"		"266CA67DD381ABE8267638EC87C8DC2C"
+					"size"		"FAC5827ED256EC128D89ED366CD2805A"
+					"download"		"3818F36FCD0916F07BD87655B692B91F"
 				}
 				"test"
 				{
@@ -2387,15 +2547,15 @@
 			{
 				"public"
 				{
-					"gid"		"366950732446986374"
-					"size"		"0"
-					"download"		"0"
+					"gid"		"433621811190483908"
+					"size"		"1913835242"
+					"download"		"1667895024"
 				}
 				"beta"
 				{
-					"gid"		"366950732446986374"
-					"size"		"0"
-					"download"		"0"
+					"gid"		"433621811190483908"
+					"size"		"1913835242"
+					"download"		"1667895024"
 				}
 				"last_ue4"
 				{
@@ -2405,9 +2565,9 @@
 				}
 				"local"
 				{
-					"gid"		"366950732446986374"
-					"size"		"0"
-					"download"		"0"
+					"gid"		"4270873778227348592"
+					"size"		"1916981590"
+					"download"		"1669738496"
 				}
 				"previousversion"
 				{
@@ -2424,11 +2584,17 @@
 			}
 			"encryptedmanifests"
 			{
+				"aerosoft"
+				{
+					"gid"		"34CA3440134B08E3FA58A22EE6F3B08A"
+					"size"		"D060095A235FEC9E49F3703725088F4D"
+					"download"		"B692C3A1BBB9E6201AE6BD67AD0EB470"
+				}
 				"closed_beta"
 				{
-					"gid"		"D900776894BAA9894A52B8AB7C2AF20D"
-					"size"		"28677B88A965B7A2B6FC4CA91C8BFFAC"
-					"download"		"28677B88A965B7A2B6FC4CA91C8BFFAC"
+					"gid"		"56DDEE5CDF41F223A71754BA572FF86C"
+					"size"		"F5820CE7F97AA0D67BFC3BB422FF8202"
+					"download"		"24D1304B32C1EF08C8CA0FC2DA1D959E"
 				}
 				"halycon"
 				{
@@ -2438,15 +2604,15 @@
 				}
 				"localisation"
 				{
-					"gid"		"93348EDA81F1C9ACFCABC0A2CD4F1265"
-					"size"		"CE2E743DFBAA9B60BAC09EE497E25834"
-					"download"		"CE2E743DFBAA9B60BAC09EE497E25834"
+					"gid"		"24BFA653891AFB4D98BFAD01F8548BF1"
+					"size"		"9F761B8FDE75EDEC74D7B4E664DF9B75"
+					"download"		"667B26F4CAD45E187DA3AD1CD3DC2D1D"
 				}
 				"nightlybuild"
 				{
-					"gid"		"41122996D509A9C23A7CC010B48CA1F7"
-					"size"		"83B309F34DF4A0B564C1C255E28A382D"
-					"download"		"83B309F34DF4A0B564C1C255E28A382D"
+					"gid"		"8FFFA03C6D93BC3A47228E6DBA594D43"
+					"size"		"4A50DFB774246C7DED05732A8D573D7C"
+					"download"		"A2DD86A9A87EBB7342E66637EC395FB3"
 				}
 				"test"
 				{
@@ -2491,13 +2657,19 @@
 				}
 				"previousversion"
 				{
-					"gid"		"6785822808189121992"
-					"size"		"4600"
-					"download"		"1376"
+					"gid"		"8063992118282527498"
+					"size"		"0"
+					"download"		"0"
 				}
 			}
 			"encryptedmanifests"
 			{
+				"aerosoft"
+				{
+					"gid"		"CFA9E9465219F984853367EA7B8361C1"
+					"size"		"2A88281C1B28F32E0710BF8B88966920"
+					"download"		"2A88281C1B28F32E0710BF8B88966920"
+				}
 				"closed_beta"
 				{
 					"gid"		"B3CD18A0F8F72521EB53A1A46908F02B"
@@ -2566,9 +2738,9 @@
 				}
 				"previousversion"
 				{
-					"gid"		"1924451918602726246"
-					"size"		"28486531"
-					"download"		"22468832"
+					"gid"		"7886967393069406091"
+					"size"		"29522852"
+					"download"		"22913344"
 				}
 				"test_local"
 				{
@@ -2579,6 +2751,12 @@
 			}
 			"encryptedmanifests"
 			{
+				"aerosoft"
+				{
+					"gid"		"2AF4F76ED7517E776997FDEC52539CD3"
+					"size"		"78929F8540C01F4A9C4FB1AF1AA116B0"
+					"download"		"14CF84340FDB168A2BF6BB46AEC707D8"
+				}
 				"closed_beta"
 				{
 					"gid"		"7C521570D4B7953041099F5B6006AA03"
@@ -2647,9 +2825,9 @@
 				}
 				"previousversion"
 				{
-					"gid"		"3545566859027106542"
-					"size"		"263536822"
-					"download"		"214616464"
+					"gid"		"5949501301683070979"
+					"size"		"0"
+					"download"		"0"
 				}
 				"test_local"
 				{
@@ -2660,6 +2838,12 @@
 			}
 			"encryptedmanifests"
 			{
+				"aerosoft"
+				{
+					"gid"		"8F73AFD597057F4FCBA3650026EEF02E"
+					"size"		"2A88281C1B28F32E0710BF8B88966920"
+					"download"		"2A88281C1B28F32E0710BF8B88966920"
+				}
 				"closed_beta"
 				{
 					"gid"		"A5E47AB123E72B469FF0BF96D307DCB5"
@@ -2704,15 +2888,15 @@
 			{
 				"public"
 				{
-					"gid"		"1953620346787530125"
-					"size"		"197640093"
-					"download"		"162718688"
+					"gid"		"3048065655439232294"
+					"size"		"197673811"
+					"download"		"164837360"
 				}
 				"beta"
 				{
-					"gid"		"1953620346787530125"
-					"size"		"197640093"
-					"download"		"162718688"
+					"gid"		"3048065655439232294"
+					"size"		"197673811"
+					"download"		"164837360"
 				}
 				"last_ue4"
 				{
@@ -2722,36 +2906,48 @@
 				}
 				"local"
 				{
-					"gid"		"2599139076305376952"
-					"size"		"197673109"
-					"download"		"164832384"
+					"gid"		"3312035313174985673"
+					"size"		"197674115"
+					"download"		"164837584"
+				}
+				"previousversion"
+				{
+					"gid"		"1953620346787530125"
+					"size"		"197640093"
+					"download"		"162718688"
 				}
 			}
 			"encryptedmanifests"
 			{
+				"aerosoft"
+				{
+					"gid"		"109EC4C83B9AC8762E9F20E8A8B39015"
+					"size"		"68721B3043BB590351D95704494A915F"
+					"download"		"2688C089ADB0D78509C27C6972F901B1"
+				}
 				"closed_beta"
 				{
-					"gid"		"8CED86182CB42216902F769D903538E9"
-					"size"		"4957D766D3284D31F6F7848B390623F1"
-					"download"		"97A5BF5E9A38197111E77CDC6C0076C6"
+					"gid"		"4FC2B3A00108A11F590DDA5C0CEB3EE6"
+					"size"		"C2C95DD12A76752C4E46E9309E7FA76B"
+					"download"		"7AA47ABFCAF73EE1BB7F03C38767F557"
 				}
 				"halycon"
 				{
-					"gid"		"623CC45278A1AC1ABCC25A8813359A9F"
-					"size"		"FDC7B94DA0B2AE0BECF3842E55392507"
-					"download"		"25A0070AD9D03A14C9FC4190E787D2EC"
+					"gid"		"95CD1C6CB26D4D3340A2A25F446420B1"
+					"size"		"96F1D0CC8FBB819EA6017FC74FF487AD"
+					"download"		"0187FCCEF1341888CCAACCBC05E432E8"
 				}
 				"localisation"
 				{
-					"gid"		"AB938BBC89C0D26E4F5502745999A546"
-					"size"		"F6FE3BF863BD94751306488BA01090E3"
-					"download"		"78A98032F0A66630B96A10AC821997EB"
+					"gid"		"6351BEC5A2661F475B95481E866F161C"
+					"size"		"CF1D4C9DBA1711A88D9A4271D4483373"
+					"download"		"4BE91CBD5BC7F56BD9D2C42499420918"
 				}
 				"nightlybuild"
 				{
-					"gid"		"E45B7DC4586D3292C5BEB5BB103FDA38"
-					"size"		"52002642230DC8DF307145CAE9C85E71"
-					"download"		"9C678F1EC0C0C500F6C1A7A6D2605EB7"
+					"gid"		"907B8384C3BF35E4ECCFFF3458716793"
+					"size"		"EA783F87CCA399A4B9562BF5A7AB64EE"
+					"download"		"EA75324915563C7195DC4A6C2E13E3A9"
 				}
 				"test"
 				{
@@ -2773,15 +2969,15 @@
 			{
 				"public"
 				{
-					"gid"		"1536129242013916077"
-					"size"		"192392340"
-					"download"		"158977584"
+					"gid"		"1007683256464476214"
+					"size"		"191362058"
+					"download"		"159914400"
 				}
 				"beta"
 				{
-					"gid"		"1536129242013916077"
-					"size"		"192392340"
-					"download"		"158977584"
+					"gid"		"1007683256464476214"
+					"size"		"191362058"
+					"download"		"159914400"
 				}
 				"last_ue4"
 				{
@@ -2791,36 +2987,48 @@
 				}
 				"local"
 				{
-					"gid"		"495343367049155411"
-					"size"		"191361356"
-					"download"		"159908976"
+					"gid"		"185594110143476938"
+					"size"		"191362362"
+					"download"		"159914080"
+				}
+				"previousversion"
+				{
+					"gid"		"1536129242013916077"
+					"size"		"192392340"
+					"download"		"158977584"
 				}
 			}
 			"encryptedmanifests"
 			{
+				"aerosoft"
+				{
+					"gid"		"3C94EF9C878E796E2B87996A31E8DD78"
+					"size"		"B801DD2710859B6BA98B73F350BDD597"
+					"download"		"7009B7C178D2DEF6A5F724C1B5349869"
+				}
 				"closed_beta"
 				{
-					"gid"		"D91CF399D400FC90E50ECCBC144EA368"
-					"size"		"4A9344BCC2FD9980BA25820C6EB1EA78"
-					"download"		"81EE14183873E61806EC186902926250"
+					"gid"		"D37A706C0D182420079E7DE27F727CE3"
+					"size"		"7EB16BFB436C21392D4F60904F93A155"
+					"download"		"38BA74AF9AD6891A8EB6F1799B7DC0D2"
 				}
 				"halycon"
 				{
-					"gid"		"DAA8C1426FEB9B90AD1686DC4EB35581"
-					"size"		"B02333EF6688F1581A4DC4C1E379EEDC"
-					"download"		"D0BE9AA0C138D5DF5C6B1A088B863B27"
+					"gid"		"279EACF71944E90F990F120282555A82"
+					"size"		"EA88C1A8EE196EDBFE030E4B4FF98A38"
+					"download"		"72ED470755FF339266FA9ABFF6D9EDAF"
 				}
 				"localisation"
 				{
-					"gid"		"0FE6B6B7273F686FFDFD216F014C6B9B"
-					"size"		"14A8F880D1C640700D38AE4C1ACECA37"
-					"download"		"2A7EB22492BB0C2ED48159B33B5DF862"
+					"gid"		"EE9EF7DA91D86094BBE5F3A7864435C2"
+					"size"		"9244F7809A9416ECDCA60521B81000CE"
+					"download"		"1C72A1AF29ACA0BFD68DEA273488F0D3"
 				}
 				"nightlybuild"
 				{
-					"gid"		"1B869081057665E16E1652C3CF6DAF63"
-					"size"		"BF2A4AF44B605A4C76614B90465FE1DF"
-					"download"		"4700C2DD1F91AF559F9B473281C686A8"
+					"gid"		"25F6A74A7E59A3A9128BC12D543F7FB8"
+					"size"		"6A7D38D0CE454477BDE0044A5A5990E4"
+					"download"		"D5E4040234356F265452434FDF2E8875"
 				}
 				"test"
 				{
@@ -2842,15 +3050,15 @@
 			{
 				"public"
 				{
-					"gid"		"5323828536312683130"
-					"size"		"191343580"
-					"download"		"157656480"
+					"gid"		"671146039870794349"
+					"size"		"191361894"
+					"download"		"158952720"
 				}
 				"beta"
 				{
-					"gid"		"5323828536312683130"
-					"size"		"191343580"
-					"download"		"157656480"
+					"gid"		"671146039870794349"
+					"size"		"191361894"
+					"download"		"158952720"
 				}
 				"last_ue4"
 				{
@@ -2860,36 +3068,48 @@
 				}
 				"local"
 				{
-					"gid"		"1241107315028520935"
-					"size"		"190312616"
-					"download"		"158947600"
+					"gid"		"1358958944500351821"
+					"size"		"191362198"
+					"download"		"158953600"
+				}
+				"previousversion"
+				{
+					"gid"		"5323828536312683130"
+					"size"		"191343580"
+					"download"		"157656480"
 				}
 			}
 			"encryptedmanifests"
 			{
+				"aerosoft"
+				{
+					"gid"		"1D749A91586A5108A6C258F5EA9063F9"
+					"size"		"21182DB9694F397A640E13B5E525C018"
+					"download"		"E8B92BFC4D8DAD785EC2663FCA3C7396"
+				}
 				"closed_beta"
 				{
-					"gid"		"73849D3CC02B310D8EC77FADA73B53BF"
-					"size"		"2FD1B9037E931EFC499D449A2EC6806C"
-					"download"		"87643A7B8EB257DBF50234B121AD3BE4"
+					"gid"		"DC03725800996C75DA2D90C1152B4F54"
+					"size"		"04A214D4085C1CDD39CC6D188266218D"
+					"download"		"B3C86EC603034D29CE308D0C8A711F1C"
 				}
 				"halycon"
 				{
-					"gid"		"81B2F3F39DAC41EBA625881A1BAB72BB"
-					"size"		"BA0C6F5A9A9A55FCE1431417130B7E7A"
-					"download"		"E4076EAA382D4952ADB446CBB9083021"
+					"gid"		"154F4EDAF94D2046112122B84E22CAD3"
+					"size"		"09E928297E8BDE1569845638AD74EF8A"
+					"download"		"818209E4691D1154CB9ED40D16F55CAB"
 				}
 				"localisation"
 				{
-					"gid"		"A45F84414300A5B094CE2AF3531A7031"
-					"size"		"358B3D85960A92C477A62138F2F4FFB2"
-					"download"		"0890D3731C1F11F0219E7DFA5F26A029"
+					"gid"		"CEB676E1CF80BE71D4969EEE657DB65C"
+					"size"		"841EDF8B8EDC31049672D54927ACDE53"
+					"download"		"79F651764DB5C4CB4AC46BE9A6522A81"
 				}
 				"nightlybuild"
 				{
-					"gid"		"6EC914ECAF1180B6C1D0DBEC1153CEA0"
-					"size"		"0C0C7922E7EC6DCBFC7E9BC729AA1D30"
-					"download"		"E19967AF33E5919CEA33F559377AF228"
+					"gid"		"FF14B3BC475458780A92A20D23EE60B3"
+					"size"		"102D009A42F0AB09C0F4B85EDE10EFB0"
+					"download"		"1EC20969AB53135EDEF1660DA1A1BCA3"
 				}
 				"test"
 				{
@@ -2911,15 +3131,15 @@
 			{
 				"public"
 				{
-					"gid"		"1978766946313285252"
-					"size"		"101392254"
-					"download"		"84666144"
+					"gid"		"44663598577825588"
+					"size"		"103517010"
+					"download"		"88313280"
 				}
 				"beta"
 				{
-					"gid"		"1978766946313285252"
-					"size"		"101392254"
-					"download"		"84666144"
+					"gid"		"44663598577825588"
+					"size"		"103517010"
+					"download"		"88313280"
 				}
 				"last_ue4"
 				{
@@ -2929,36 +3149,48 @@
 				}
 				"local"
 				{
-					"gid"		"2806596556602737411"
-					"size"		"103516866"
-					"download"		"88309344"
+					"gid"		"1927361535021789584"
+					"size"		"103517010"
+					"download"		"88313296"
+				}
+				"previousversion"
+				{
+					"gid"		"1978766946313285252"
+					"size"		"101392254"
+					"download"		"84666144"
 				}
 			}
 			"encryptedmanifests"
 			{
+				"aerosoft"
+				{
+					"gid"		"1F30099241C60127A465F24EF12E79E4"
+					"size"		"E1212AE8141F0831B3D1DB7F389701A0"
+					"download"		"2F4691F3C8788F007F2F63168A1D4F44"
+				}
 				"closed_beta"
 				{
-					"gid"		"89B3489CA5CD367595F957FDC6FA3FAC"
-					"size"		"D971C9234065C7D4292825602A221E95"
-					"download"		"CA28F5631AF8B517BB6DD09D5AEE2240"
+					"gid"		"B225AEEFBB467D8BFAE652BC0F422730"
+					"size"		"A199B915E1DA883B8B7FC7E6E0B4E435"
+					"download"		"A504E396F8884BB80F389141F1DACDBB"
 				}
 				"halycon"
 				{
-					"gid"		"E5C80C886C4E1861C44DA18A37DFB9B7"
-					"size"		"60B3F08E4DF906B0876A320523A2484C"
-					"download"		"950F27D8A9F387B407A4315AFCE11F1D"
+					"gid"		"3E462114803E95171A734034B230E90A"
+					"size"		"865489FC723D509109443385B3DA3E19"
+					"download"		"7618CC3AF6AFC95307B1B164D98B0910"
 				}
 				"localisation"
 				{
-					"gid"		"1DDDAC580C969ABA238600F7B40B1068"
-					"size"		"4D69A6A5BF8E29BFE5A32D0FE5E322FA"
-					"download"		"422B980A373534BCDE78268EF8C5023F"
+					"gid"		"AC7ED3D86F5031C31878329CFB5E9BC1"
+					"size"		"4B533D0B3F846C89223F7FF150007971"
+					"download"		"AD247783B15F57A26C0FC0005DB16633"
 				}
 				"nightlybuild"
 				{
-					"gid"		"57CDD5DB9C11C04D5C662A5A88DE7756"
-					"size"		"1396A4E47FC5C014D6EC6CB6D449E38B"
-					"download"		"336B1A0A5907A5608024E7D9EA8BEAF9"
+					"gid"		"738D888935BEB17106F70D58B73BA5D1"
+					"size"		"DFE2E6B5A02752BBC2ADDB29B33509A0"
+					"download"		"18698B047D94FF3C40ECC9420B6897B0"
 				}
 				"test"
 				{
@@ -2980,15 +3212,15 @@
 			{
 				"public"
 				{
-					"gid"		"6196634222643787986"
-					"size"		"114930225"
-					"download"		"97778848"
+					"gid"		"8985051363599999055"
+					"size"		"114930371"
+					"download"		"97783232"
 				}
 				"beta"
 				{
-					"gid"		"6196634222643787986"
-					"size"		"114930225"
-					"download"		"97778848"
+					"gid"		"8985051363599999055"
+					"size"		"114930371"
+					"download"		"97783232"
 				}
 				"last_ue4"
 				{
@@ -2998,36 +3230,48 @@
 				}
 				"local"
 				{
-					"gid"		"1125504161250218025"
+					"gid"		"1258605700228407790"
+					"size"		"114930371"
+					"download"		"97783216"
+				}
+				"previousversion"
+				{
+					"gid"		"6196634222643787986"
 					"size"		"114930225"
-					"download"		"97779312"
+					"download"		"97778848"
 				}
 			}
 			"encryptedmanifests"
 			{
+				"aerosoft"
+				{
+					"gid"		"C7B4E2A9CBA60742D9836A7085F52509"
+					"size"		"7F278AA5D2D22A90BFF7FA30D7DADECD"
+					"download"		"A1A573585E7613F88078B05B99B53549"
+				}
 				"closed_beta"
 				{
-					"gid"		"63D61ED51EA116C3C3FE1A832678D3B6"
-					"size"		"B300BBFFC13B11FBE6755858AD999F8D"
-					"download"		"78CB22BB8C3D3BE4BE441FE514690F74"
+					"gid"		"5A264B173DB74E3A7DE849B02105A5AC"
+					"size"		"D59399CD6D563E123C3A188ACEAFAC37"
+					"download"		"CF4FEFF402B4516FCE925B98EE3F8BBD"
 				}
 				"halycon"
 				{
-					"gid"		"A65B571471AF84824B9A11737E8AC9BE"
-					"size"		"5315ACB8C2034909446EFBAF1F786DD3"
-					"download"		"0CB3B3FA68F68A45291E58655EAD7B7D"
+					"gid"		"22FDD80F57D2770A477703F83C212476"
+					"size"		"50CD897F02558234BDAD7FCEA81C1E76"
+					"download"		"41AA16CE56D95291494EF1285721A926"
 				}
 				"localisation"
 				{
-					"gid"		"BC05BDFC8ECFE72BD33365152595E775"
-					"size"		"D0B7F99725B54FD68064828A0F4DBAEE"
-					"download"		"107E92FA7D689F41E6F83C237D6FC855"
+					"gid"		"EB6EB2D0C2D5A1ACE354F3F845442FC6"
+					"size"		"F89F5180BACC4FC4F5C337F2FBEA9917"
+					"download"		"4B896DD9CFBE4D96BA50247037AD2A3A"
 				}
 				"nightlybuild"
 				{
-					"gid"		"AE7261C5EB034505EF0C83AED445680D"
-					"size"		"8145BAE755734FCDF810AA8C13B09D8F"
-					"download"		"54CD4FCEEF2B88EC8A20ABFC96DA2605"
+					"gid"		"EB148177F277F8210A0EB4CAB2C6CA7F"
+					"size"		"4C1AAFD1FB065C78530AF32FFF03F1E0"
+					"download"		"6C6AC5B7944FEE6816B18D78B3DB3724"
 				}
 				"test"
 				{
@@ -3049,15 +3293,15 @@
 			{
 				"public"
 				{
-					"gid"		"5052617884543312681"
-					"size"		"103350047"
-					"download"		"87238912"
+					"gid"		"1416768020008086803"
+					"size"		"103350183"
+					"download"		"87243088"
 				}
 				"beta"
 				{
-					"gid"		"5052617884543312681"
-					"size"		"103350047"
-					"download"		"87238912"
+					"gid"		"1416768020008086803"
+					"size"		"103350183"
+					"download"		"87243088"
 				}
 				"last_ue4"
 				{
@@ -3067,36 +3311,48 @@
 				}
 				"local"
 				{
-					"gid"		"5954865761690686320"
+					"gid"		"452217189708470762"
+					"size"		"103350183"
+					"download"		"87243136"
+				}
+				"previousversion"
+				{
+					"gid"		"5052617884543312681"
 					"size"		"103350047"
-					"download"		"87239536"
+					"download"		"87238912"
 				}
 			}
 			"encryptedmanifests"
 			{
+				"aerosoft"
+				{
+					"gid"		"C7A0A12782E8F94B3119620CD6EE2EFF"
+					"size"		"3B1427B95613FD04E5A8903FBD387C97"
+					"download"		"FF619A957BC596277F7B1B9897C7F90C"
+				}
 				"closed_beta"
 				{
-					"gid"		"119949B14365DC08E5DDA7CA0F2E2145"
-					"size"		"65FC2D7FBA10A59D8118860F93D4D20F"
-					"download"		"485A46D65B149B8F4F25C007D746E757"
+					"gid"		"FCEAEDFF97DF2842743191C92708B031"
+					"size"		"DE2FCB4262DA3C0DBD5E52858FF06FDF"
+					"download"		"F160D2DF687351C35FFD9591DA858578"
 				}
 				"halycon"
 				{
-					"gid"		"AAEDC46A3278715C8A1B7DF4DF3E58D8"
-					"size"		"1D3F78BDD92F9CD5F2A22A2F9768B288"
-					"download"		"4F278136D8FB0CB09B8D6A040B4C06F8"
+					"gid"		"4FD79DF60580FE8115DE42A1315C869A"
+					"size"		"3CE166B21F690375F162D21CB4337D8B"
+					"download"		"4DAB433BA28B4E1DCC5301CC4C6658DE"
 				}
 				"localisation"
 				{
-					"gid"		"40969E12296D2BD685B4E3B7BC3AF843"
-					"size"		"A39069815C7356C7E64E28A8473E2150"
-					"download"		"DC53DDBB74834AE7235B5FDA9BBCBB4E"
+					"gid"		"A8CA00CC01D0D9FB0714141E55B568F2"
+					"size"		"CFBFEEBF17BDD07FF29F4D27286561C7"
+					"download"		"F32BB941EF8C2F660355A12FD6DBB959"
 				}
 				"nightlybuild"
 				{
-					"gid"		"7B07B8A12210959D87BD68EA9CF6BEE6"
-					"size"		"7EF62C2CEABA18558966B7C08A99C9C8"
-					"download"		"49311E96BAF4372567165DF408A5E9FC"
+					"gid"		"9B98F694B6E1AB30B1DA11937C4C79E4"
+					"size"		"2FA6B03292278D4365CD9C4020A51B10"
+					"download"		"0F1644ADE87343B175EA6FCFAB83F05D"
 				}
 				"test"
 				{
@@ -3111,25 +3367,31 @@
 		{
 			"public"
 			{
-				"buildid"		"11535047"
-				"timeupdated"		"1687765653"
+				"buildid"		"13009841"
+				"timeupdated"		"1703083207"
+			}
+			"aerosoft"
+			{
+				"buildid"		"12351371"
+				"pwdrequired"		"1"
+				"timeupdated"		"1696496483"
 			}
 			"beta"
 			{
-				"buildid"		"11535047"
-				"timeupdated"		"1687439406"
+				"buildid"		"13009841"
+				"timeupdated"		"1703080865"
 			}
 			"closed_beta"
 			{
-				"buildid"		"11535047"
+				"buildid"		"13009841"
 				"pwdrequired"		"1"
-				"timeupdated"		"1687437873"
+				"timeupdated"		"1703080878"
 			}
 			"halycon"
 			{
-				"buildid"		"11535047"
+				"buildid"		"13009930"
 				"pwdrequired"		"1"
-				"timeupdated"		"1687437859"
+				"timeupdated"		"1703074237"
 			}
 			"last_ue4"
 			{
@@ -3139,27 +3401,27 @@
 			}
 			"local"
 			{
-				"buildid"		"12263590"
+				"buildid"		"13016264"
 				"description"		"Local Content Server"
 				"lcsrequired"		"1"
-				"timeupdated"		"1695462302"
+				"timeupdated"		"1703125422"
 			}
 			"localisation"
 			{
-				"buildid"		"11535047"
+				"buildid"		"13009841"
 				"pwdrequired"		"1"
-				"timeupdated"		"1687439455"
+				"timeupdated"		"1703080887"
 			}
 			"nightlybuild"
 			{
-				"buildid"		"12263619"
+				"buildid"		"13016312"
 				"pwdrequired"		"1"
-				"timeupdated"		"1695462908"
+				"timeupdated"		"1703126058"
 			}
 			"previousversion"
 			{
-				"buildid"		"8582078"
-				"timeupdated"		"1687765625"
+				"buildid"		"11535047"
+				"timeupdated"		"1703081038"
 			}
 			"test"
 			{
