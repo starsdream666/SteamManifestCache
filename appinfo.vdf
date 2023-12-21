@@ -246,8 +246,8 @@
 			"0"		"10235"
 			"1"		"1643"
 			"2"		"3810"
-			"3"		"1702"
-			"4"		"87918"
+			"3"		"87918"
+			"4"		"1702"
 			"5"		"122"
 			"6"		"3859"
 			"7"		"9551"
@@ -375,6 +375,36 @@
 				}
 				"description"		"Multiplayer"
 			}
+			"13"
+			{
+				"executable"		"Sandrock_Artbook/My Time at Sandrock Artbook_English.pdf"
+				"type"		"option1"
+				"config"
+				{
+					"ownsdlc"		"2182080"
+				}
+				"description_loc"
+				{
+					"english"		"Artbook（English）"
+					"schinese"		"原画设定集（英文）"
+				}
+				"description"		"Artbook（English）"
+			}
+			"14"
+			{
+				"executable"		"Sandrock_Artbook/My Time at Sandrock Artbook_Chinese.pdf"
+				"type"		"option1"
+				"config"
+				{
+					"ownsdlc"		"2182080"
+				}
+				"description_loc"
+				{
+					"english"		"Artbook（Chinese）"
+					"schinese"		"原画设定集（中文）"
+				}
+				"description"		"Artbook（Chinese）"
+			}
 		}
 		"steamdecktouchscreen"		"1"
 		"steam_china_only"
@@ -406,9 +436,9 @@
 			"multi_test_zy_new"
 			{
 				"sc_schinese"		"多人项目专用测试分支"
-				"buildid"		"12949442"
+				"buildid"		"12989075"
 				"pwdrequired"		"1"
-				"timeupdated"		"1702462443"
+				"timeupdated"		"1702900474"
 			}
 			"multi_beta_zy"
 			{
@@ -419,8 +449,8 @@
 			}
 			"public"
 			{
-				"buildid"		"12950967"
-				"timeupdated"		"1702472534"
+				"buildid"		"13016513"
+				"timeupdated"		"1703128068"
 			}
 			"beta"
 			{
@@ -527,15 +557,15 @@
 			}
 			"private_test"
 			{
-				"buildid"		"12971493"
+				"buildid"		"13011141"
 				"pwdrequired"		"1"
-				"timeupdated"		"1702638939"
+				"timeupdated"		"1703082461"
 			}
 			"private_test_release"
 			{
-				"buildid"		"12971687"
+				"buildid"		"13010967"
 				"pwdrequired"		"1"
-				"timeupdated"		"1702640452"
+				"timeupdated"		"1703081241"
 			}
 			"super_secret_testing"
 			{
@@ -545,9 +575,9 @@
 			}
 			"supersecrettesting2"
 			{
-				"buildid"		"12960938"
+				"buildid"		"13016530"
 				"pwdrequired"		"1"
-				"timeupdated"		"1702553321"
+				"timeupdated"		"1703128200"
 			}
 		}
 		"228989"
@@ -608,9 +638,9 @@
 				}
 				"multi_test_zy_new"
 				{
-					"gid"		"83B5D64244E09DC3EC055F5DA6DAA3B8"
-					"size"		"1E5688E6B210A0DF1D4D022EDD7CBF56"
-					"download"		"84846E51517CA49A678147B6399486FC"
+					"gid"		"DBAC1975487517E2AB2FD00F3970439C"
+					"size"		"4635E56751317B4CCFB5C24CB4C82521"
+					"download"		"1B90072E8ACACA7813C6D0FEBBE57F37"
 				}
 				"newdemotest"
 				{
@@ -688,9 +718,9 @@
 			{
 				"public"
 				{
-					"gid"		"9054941873178108491"
-					"size"		"29789158088"
-					"download"		"12560764176"
+					"gid"		"6762233486157839892"
+					"size"		"28288223066"
+					"download"		"12024338384"
 				}
 				"ks_demo"
 				{
@@ -811,15 +841,15 @@
 				}
 				"private_test"
 				{
-					"gid"		"B0B01C537835401C1D2940EC3FA195E8"
-					"size"		"4EEF07B2B78C7FFE925B2CC8DCFA0577"
-					"download"		"EEEB097C0FEA3A20E54E5F55BC1043BC"
+					"gid"		"62A1BA4371080911D1551FDDEA83A0B8"
+					"size"		"CAD92E64CC5471BE4C41A3881908DF5A"
+					"download"		"DC6C3C65EAF66763FFBAB10A0B3F0675"
 				}
 				"private_test_release"
 				{
-					"gid"		"A7E894931F785380AFDF801969556FDC"
-					"size"		"9900201B143DB7E690619D4B59A041E3"
-					"download"		"D966BEF29EBBA4C1543013849B2C76C3"
+					"gid"		"147E994E7C1A8A80158A17BC839D62FA"
+					"size"		"85DDFDE09FF7A4288A81CB8D192AFDCF"
+					"download"		"D02732F484EA4423B01004D8E3D2356B"
 				}
 				"super_secret_testing"
 				{
@@ -829,15 +859,33 @@
 				}
 				"supersecrettesting2"
 				{
-					"gid"		"248A1389CD39E2A55B5EF1C244D3A559"
-					"size"		"CCB6967D2622D3B3875A847B0B3F8747"
-					"download"		"9EF7F25426A16BAB533CC691C99F50E1"
+					"gid"		"7C2883322CDBFB8E652D50E72982A6FA"
+					"size"		"7D65102F7DC532F7A5EF126F81EEA8BF"
+					"download"		"E993D35BBBCFEB1204B49EFF964D1E83"
 				}
 			}
 		}
 		"2182080"
 		{
 			"dlcappid"		"2182080"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6000569290448241032"
+					"size"		"324143382"
+					"download"		"272255552"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"private_test"
+				{
+					"gid"		"D9AB39594BC3834DC2A5902DA2E2629C"
+					"size"		"CCFFBB2543017705A0D710E16A692999"
+					"download"		"0AE89D58E3FBE9EB1557305DB36F75C2"
+				}
+			}
 		}
 		"hasdepotsindlc"		"1"
 	}
