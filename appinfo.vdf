@@ -173,6 +173,16 @@
 				"supported"		"true"
 				"subtitles"		"true"
 			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
 		}
 		"steam_release_date"		"1690422621"
 		"community_visible_stats"		"1"
@@ -195,14 +205,14 @@
 			"12"		"4182"
 			"13"		"1719"
 			"14"		"16689"
-			"15"		"1732"
-			"16"		"4191"
+			"15"		"4191"
+			"16"		"1732"
 			"17"		"4695"
 			"18"		"1695"
 			"19"		"492"
 		}
 		"review_score"		"8"
-		"review_percentage"		"91"
+		"review_percentage"		"92"
 	}
 	"extended"
 	{
@@ -265,9 +275,6 @@
 			"steam_china_only"
 			{
 				"sc_schinese"		"仅中国"
-				"buildid"		"10442230"
-				"pwdrequired"		"1"
-				"timeupdated"		"1675240186"
 			}
 			"principal-version"
 			{
@@ -280,9 +287,9 @@
 			"build-test"
 			{
 				"sc_schinese"		"构建测试"
-				"buildid"		"12639322"
+				"buildid"		"12997274"
 				"pwdrequired"		"1"
-				"timeupdated"		"1699357116"
+				"timeupdated"		"1702962909"
 			}
 			"ru__test"
 			{
@@ -291,21 +298,21 @@
 			"i18n_test_1020"
 			{
 				"sc_schinese"		"多语言测试"
-				"buildid"		"12491605"
-				"pwdrequired"		"1"
-				"timeupdated"		"1697797049"
 			}
 			"jp_i18n_test"
 			{
 				"sc_schinese"		"日语测试"
-				"buildid"		"12582262"
-				"pwdrequired"		"1"
-				"timeupdated"		"1698755909"
 			}
 			"public"
 			{
-				"buildid"		"12639322"
-				"timeupdated"		"1699428776"
+				"buildid"		"12997274"
+				"timeupdated"		"1703155608"
+			}
+			"2023_12_13_test"
+			{
+				"buildid"		"13007894"
+				"pwdrequired"		"1"
+				"timeupdated"		"1703057117"
 			}
 		}
 		"workshopdepot"		"1937500"
@@ -319,36 +326,24 @@
 			{
 				"public"
 				{
-					"gid"		"6455010063748459462"
-					"size"		"2355297483"
-					"download"		"578077408"
+					"gid"		"7221098915885826935"
+					"size"		"2378039889"
+					"download"		"586105584"
 				}
 			}
 			"encryptedmanifests"
 			{
+				"2023_12_13_test"
+				{
+					"gid"		"5F13CE138FA0D7CD1CE117E5A5D0F23F"
+					"size"		"7D9EFF1FB93CDB7E1D6F54C9648B007B"
+					"download"		"4C65852FAF9A1ED6F4E6C61326AB423C"
+				}
 				"build-test"
 				{
-					"gid"		"CF7A16FE531D4177F4DEAA58C99F9DC2"
-					"size"		"1AA3047EC5BC671D8FFF1B149BEF9626"
-					"download"		"80D1976FDB472365DC6B4B86BE89C7D0"
-				}
-				"i18n_test_1020"
-				{
-					"gid"		"C60EFDC0B4F0E3FA05640934781236CF"
-					"size"		"40D5897C49D349FF0F66A25034D8994F"
-					"download"		"D6B39AE29F35BDAF043CFF71368795DB"
-				}
-				"jp_i18n_test"
-				{
-					"gid"		"6E89C0FE59A06A30AFEA4A86BD172075"
-					"size"		"602E823E0569D15FE0DCC5CF05C7FC57"
-					"download"		"35E62AF34F9788384C8DA1D8CE2A3BFF"
-				}
-				"steam_china_only"
-				{
-					"gid"		"9AB5118218435B092FF401786412D049"
-					"size"		"D71CA40E8C1E59E39B014081DFD4993D"
-					"download"		"D18932934728A59AF6C68837A515FB97"
+					"gid"		"51D5ECF7EFF303BD6CA5BA5531F57BAC"
+					"size"		"EBCC8D8B5DE7930C1C39B86A5F57CD52"
+					"download"		"9CA07C8FE40C61A801EDB29DC18FF21E"
 				}
 			}
 		}
