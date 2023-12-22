@@ -16,8 +16,8 @@
 		"steam_deck_compatibility"
 		{
 			"category"		"2"
-			"test_timestamp"		"1664928000"
-			"tested_build_id"		"9248806"
+			"test_timestamp"		"1703203200"
+			"tested_build_id"		"12966665"
 			"tests"
 			{
 				"0"
@@ -33,25 +33,25 @@
 				"2"
 				{
 					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
 				}
 				"3"
 				{
-					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 				}
 				"4"
 				{
-					"display"		"4"
-					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
 				}
 			}
 			"configuration"
 			{
 				"supported_input"		"gamepad"
-				"requires_manual_keyboard_invoke"		"1"
+				"requires_manual_keyboard_invoke"		"0"
 				"requires_non_controller_launcher_nav"		"0"
-				"primary_player_is_controller_slot_0"		"0"
+				"primary_player_is_controller_slot_0"		"1"
 				"non_deck_display_glyphs"		"1"
 				"small_text"		"1"
 				"requires_internet_for_setup"		"0"
@@ -59,6 +59,7 @@
 				"recommended_runtime"		"proton-stable"
 				"requires_h264"		"0"
 				"gamescope_frame_limiter_not_supported"		"0"
+				"hdr_support"		"0"
 			}
 		}
 		"metacritic_name"		"Dungeons of Sundaria"
@@ -76,6 +77,7 @@
 			"library_capsule"		"en"
 			"library_hero"		"en"
 			"library_logo"		"en"
+			"library_header"		"en"
 			"logo_position"
 			{
 				"pinned_position"		"UpperCenter"
@@ -83,7 +85,7 @@
 				"height_pct"		"100"
 			}
 		}
-		"store_asset_mtime"		"1702325626"
+		"store_asset_mtime"		"1703176264"
 		"associations"
 		{
 			"0"
@@ -190,15 +192,15 @@
 			"11"		"492"
 			"12"		"1685"
 			"13"		"3841"
-			"14"		"7368"
-			"15"		"3859"
+			"14"		"3859"
+			"15"		"7368"
 			"16"		"3843"
 			"17"		"4182"
 			"18"		"4840"
 			"19"		"4508"
 		}
 		"review_score"		"6"
-		"review_percentage"		"77"
+		"review_percentage"		"76"
 	}
 	"extended"
 	{
@@ -345,18 +347,18 @@
 			{
 				"public"
 				{
-					"gid"		"1182736064367163914"
-					"size"		"8462685264"
-					"download"		"7990812000"
+					"gid"		"7812637094888304735"
+					"size"		"8498873440"
+					"download"		"8025739056"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"test"
 				{
-					"gid"		"2C25A77440D00070ACAD8AF047985E44"
-					"size"		"BC45771473ED1AAE899F457E01DC7F66"
-					"download"		"C1C1E778E2C59CEC63EAAB4A1919099F"
+					"gid"		"BE1466209F0F55EC20B75B2692B8423F"
+					"size"		"8D567BF573AD4E46357D25D1D9F73646"
+					"download"		"032F4CB08F0766763465CD273FCE6EA6"
 				}
 			}
 		}
@@ -371,18 +373,18 @@
 			{
 				"public"
 				{
-					"gid"		"2766285245141039891"
-					"size"		"11715151054"
-					"download"		"11353943600"
+					"gid"		"1090284794658489490"
+					"size"		"11748281414"
+					"download"		"11386269184"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"test"
 				{
-					"gid"		"F4D718B2DFD7DD578C322D292394749D"
-					"size"		"4F0DC2BC9F99B31E8928F7A2A7581304"
-					"download"		"7E75987C0EB43CE3C51B9E819C9534A5"
+					"gid"		"8A192FCCF7B1BF9D03FE2255BAE96131"
+					"size"		"FA81E607B8211ACEA5632A81EC94A53C"
+					"download"		"284E02ABC02B85C02F1845B38AF3E9F4"
 				}
 			}
 		}
@@ -398,14 +400,14 @@
 		{
 			"public"
 			{
-				"buildid"		"12966665"
-				"timeupdated"		"1702595028"
+				"buildid"		"13026200"
+				"timeupdated"		"1703215528"
 			}
 			"test"
 			{
-				"buildid"		"12967411"
+				"buildid"		"13025663"
 				"pwdrequired"		"1"
-				"timeupdated"		"1702601882"
+				"timeupdated"		"1703210082"
 			}
 		}
 	}
