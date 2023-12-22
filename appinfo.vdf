@@ -8,7 +8,7 @@
 		"releasestate"		"released"
 		"logo"		"7a4e10d3fa4e9b297d0ff4187f44519e6a0b46f6"
 		"logo_small"		"7a4e10d3fa4e9b297d0ff4187f44519e6a0b46f6_thumb"
-		"icon"		"e0a6aabc8ed88680ed867fbc711e3417a68e7fb0"
+		"icon"		"c73ada9cbd14d4728053063ff8838eb89e663a69"
 		"clienticon"		"f74270c229321109a85f5e01266b1478a65015b9"
 		"clienttga"		"d78ab2698bde546e1220015c5b47f390db7a9d76"
 		"oslist"		"windows"
@@ -202,6 +202,15 @@
 					"oslist"		"windows"
 				}
 			}
+			"1"
+			{
+				"executable"		"TheKingsBird.x86"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
 		}
 	}
 	"depots"
@@ -218,9 +227,30 @@
 			{
 				"public"
 				{
+					"gid"		"2154625964675094945"
+					"size"		"5668920250"
+					"download"		"332417520"
+				}
+				"1.2.3"
+				{
 					"gid"		"7529843626301963688"
 					"size"		"5454399861"
 					"download"		"313539424"
+				}
+				"beta"
+				{
+					"gid"		"2880586614241655158"
+					"size"		"5675483865"
+					"download"		"334311408"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal"
+				{
+					"gid"		"89692F58679587BE2C0FE6D862288D0A"
+					"size"		"CE61AA1C0C9C0AD39BC4C88E882CA42E"
+					"download"		"CFD303E7733DE7D4319AEAA7D93299C5"
 				}
 			}
 		}
@@ -231,12 +261,56 @@
 		{
 			"dlcappid"		"929160"
 		}
+		"812553"
+		{
+			"config"
+			{
+				"language"		"english"
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"beta"
+				{
+					"gid"		"3816681965197392755"
+					"size"		"5730613545"
+					"download"		"347601872"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"internal"
+				{
+					"gid"		"B071BC30629237EB17E686EADEB6E43D"
+					"size"		"015AAA5F4560AF5F063533588A098FA7"
+					"download"		"F6DF153515487E2BE8CFA753B84F32F6"
+				}
+			}
+		}
 		"branches"
 		{
 			"public"
 			{
+				"buildid"		"13020913"
+				"timeupdated"		"1703195322"
+			}
+			"1.2.3"
+			{
 				"buildid"		"3562781"
-				"timeupdated"		"1550186910"
+				"description"		"Version 1.2.3"
+				"timeupdated"		"1703172080"
+			}
+			"beta"
+			{
+				"buildid"		"13021579"
+				"description"		"Public beta branch"
+				"timeupdated"		"1703172024"
+			}
+			"internal"
+			{
+				"buildid"		"13024285"
+				"pwdrequired"		"1"
+				"timeupdated"		"1703195097"
 			}
 		}
 	}
