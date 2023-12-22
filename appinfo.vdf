@@ -34,25 +34,25 @@
 		}
 		"steam_deck_compatibility"
 		{
-			"category"		"2"
-			"test_timestamp"		"1697760000"
-			"tested_build_id"		"12457195"
+			"category"		"3"
+			"test_timestamp"		"1702080000"
+			"tested_build_id"		"12854513"
 			"tests"
 			{
 				"0"
 				{
-					"display"		"3"
-					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 				}
 				"1"
 				{
 					"display"		"4"
-					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
 				}
 				"2"
 				{
 					"display"		"4"
-					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
 				}
 				"3"
 				{
@@ -72,14 +72,16 @@
 				"requires_non_controller_launcher_nav"		"0"
 				"primary_player_is_controller_slot_0"		"1"
 				"non_deck_display_glyphs"		"0"
-				"small_text"		"1"
+				"small_text"		"0"
 				"requires_internet_for_setup"		"0"
 				"requires_internet_for_singleplayer"		"0"
 				"recommended_runtime"		"proton-stable"
 				"requires_h264"		"0"
 				"gamescope_frame_limiter_not_supported"		"0"
+				"hdr_support"		"0"
 			}
 		}
+		"metacritic_name"		"The Talos Principle 2"
 		"controllertagwizard"		"1"
 		"controller_support"		"full"
 		"small_capsule"
@@ -102,7 +104,7 @@
 				"height_pct"		"100"
 			}
 		}
-		"store_asset_mtime"		"1700302840"
+		"store_asset_mtime"		"1701704896"
 		"associations"
 		{
 			"0"
@@ -216,6 +218,8 @@
 			}
 		}
 		"steam_release_date"		"1698939923"
+		"metacritic_score"		"88"
+		"metacritic_fullurl"		"https://www.metacritic.com/game/pc/the-talos-principle-2?ftag=MCD-06-10aaa1f"
 		"community_visible_stats"		"1"
 		"community_hub_visible"		"1"
 		"gameid"		"835960"
@@ -232,13 +236,13 @@
 			"8"		"1697"
 			"9"		"4106"
 			"10"		"3835"
-			"11"		"4191"
-			"12"		"3854"
-			"13"		"15277"
+			"11"		"15277"
+			"12"		"4191"
+			"13"		"3854"
 			"14"		"4175"
 			"15"		"7250"
-			"16"		"4853"
-			"17"		"6129"
+			"16"		"6129"
+			"17"		"4853"
 			"18"		"5794"
 			"19"		"5716"
 		}
@@ -300,6 +304,12 @@
 					"size"		"75859800639"
 					"download"		"73192548896"
 				}
+				"openbeta"
+				{
+					"gid"		"4388844786577398900"
+					"size"		"77931252237"
+					"download"		"74597340800"
+				}
 				"talos2_1.0"
 				{
 					"gid"		"4050671372073458402"
@@ -317,33 +327,51 @@
 			{
 				"beta2_qa"
 				{
-					"gid"		"4665178DA32B5EF367B0ABD7BEC2CC67"
-					"size"		"6A0592E1E21393CF94AF0096BF2AFBC6"
-					"download"		"C2781CF6FD882376D0953E405B4569AB"
+					"gid"		"DB275298403F96FDF808DA31A0B95AD3"
+					"size"		"FC987EA9E9FBB3DF4F414B8EE05B4759"
+					"download"		"B2F1E77CC23BAE8AD7BEDF687A5E37DA"
+				}
+				"dev_test"
+				{
+					"gid"		"015B41052B41F14FA4AE944A504D5E3F"
+					"size"		"9C1FF4E0EED03D86EEDC8F0BF0C39366"
+					"download"		"4AAB47C4D039357B1971B78815CE3E51"
+				}
+				"dev_upload"
+				{
+					"gid"		"7FAE08C87B158C2C8C0A2C5FF31F186F"
+					"size"		"4244D98A8D45BDBB6E2DCEC87F14CF02"
+					"download"		"41DF38552C7F9E5D191D3C724DD84B55"
 				}
 				"release_ship_upload"
 				{
-					"gid"		"52B0C17F39B29A37CD01034778DE6626"
-					"size"		"C97832EA0A09E6BC7E0C3A3DBCE6D042"
-					"download"		"6D97B6AAE57ED2845C1E2E26B8970BCF"
+					"gid"		"C2F94D7F4B0AFBA3C03BDA4A81753B84"
+					"size"		"96AB8C6C4C91746D469D3053495F816C"
+					"download"		"01889B0B13A47DC44AF93FA8C34B09DC"
 				}
 				"ship_upload"
 				{
-					"gid"		"9AFCAEAE76BCBB482A2CFDBB8060F6AE"
-					"size"		"E788393DD837AF4EADDEFB6942CE3258"
-					"download"		"122A056E3375DB2FD843A696D81CAA4C"
+					"gid"		"7BDD8CF407B532134516E89F4E4CB616"
+					"size"		"343FDC2DE9FF2460FFF0AF21FB74B103"
+					"download"		"EA5501273B992896E2188E961740F228"
+				}
+				"steamdecktest"
+				{
+					"gid"		"44AFDF206D4901F677B209F24A539D95"
+					"size"		"8597C94F52B1151F324FC56AA12F605D"
+					"download"		"4614C5C60304EBBB3462E31102202D9B"
 				}
 				"umain_dev_upload"
 				{
-					"gid"		"88301039AAA289A96AF1007D88FF64F3"
-					"size"		"8903BA45CB693DD22885132EB47E6CC8"
-					"download"		"9DBD41F9C1B897B12C2927728D14685F"
+					"gid"		"50BEDCE38FA6CA6C43E9665CD6168D1A"
+					"size"		"84085E871108C23C844617FF2BD511B8"
+					"download"		"1D83231D21870298A2DCCDD50F3929AB"
 				}
 				"umain_ship_upload"
 				{
-					"gid"		"E15D7CAE20C0E8224C65210A2AA62470"
-					"size"		"EB112E678D5FBD63FFA1270CE026851D"
-					"download"		"8D2A5A14E97E425B443CE5E070EE4C4B"
+					"gid"		"59D4CC7023561562A2CE414B7146356F"
+					"size"		"03B15F1FD7B5002EBD03D27A55BB58BB"
+					"download"		"C62733A844D4E8AF71FAEB829B94A740"
 				}
 				"upload_test"
 				{
@@ -364,6 +392,12 @@
 					"size"		"311999787"
 					"download"		"305759696"
 				}
+				"openbeta"
+				{
+					"gid"		"1186211547627304243"
+					"size"		"311999787"
+					"download"		"305759696"
+				}
 				"talos2_1.0"
 				{
 					"gid"		"1186211547627304243"
@@ -377,6 +411,27 @@
 					"download"		"305759696"
 				}
 			}
+			"encryptedmanifests"
+			{
+				"dev_test"
+				{
+					"gid"		"7A243350BF95BE0FB2E57202DB4E6415"
+					"size"		"8CD6BED6717099AD8153951C7C292E23"
+					"download"		"5A8324E025F044DB3C20CD5DD78DBA22"
+				}
+				"dev_upload"
+				{
+					"gid"		"1FF2C19E6CFA59D7A71D1D63D973B9C3"
+					"size"		"9654FBA191D2A4991FCA66797D79E388"
+					"download"		"9151C9426765A2F64BC2A6AE579248E6"
+				}
+				"steamdecktest"
+				{
+					"gid"		"CEDD4F052C927A6B609D4414D284D023"
+					"size"		"C0CCF71CA1F9E78CADF745B0ECE24B35"
+					"download"		"A3E513EC66A4800230F5A64429F71EA5"
+				}
+			}
 		}
 		"branches"
 		{
@@ -387,21 +442,45 @@
 			}
 			"beta2_qa"
 			{
-				"buildid"		"12780420"
+				"buildid"		"12983130"
 				"pwdrequired"		"1"
-				"timeupdated"		"1700814229"
+				"timeupdated"		"1702820410"
+			}
+			"dev_test"
+			{
+				"buildid"		"12928252"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702291189"
+			}
+			"dev_upload"
+			{
+				"buildid"		"13025323"
+				"pwdrequired"		"1"
+				"timeupdated"		"1703206340"
+			}
+			"openbeta"
+			{
+				"buildid"		"13021143"
+				"description"		"Public beta"
+				"timeupdated"		"1703169188"
 			}
 			"release_ship_upload"
 			{
-				"buildid"		"12783444"
+				"buildid"		"13021012"
 				"pwdrequired"		"1"
-				"timeupdated"		"1700757618"
+				"timeupdated"		"1703168200"
 			}
 			"ship_upload"
 			{
-				"buildid"		"12779252"
+				"buildid"		"13015578"
 				"pwdrequired"		"1"
-				"timeupdated"		"1700727502"
+				"timeupdated"		"1703119055"
+			}
+			"steamdecktest"
+			{
+				"buildid"		"12854513"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701466943"
 			}
 			"talos2_1.0"
 			{
@@ -417,15 +496,15 @@
 			}
 			"umain_dev_upload"
 			{
-				"buildid"		"12782445"
+				"buildid"		"12800662"
 				"pwdrequired"		"1"
-				"timeupdated"		"1700750719"
+				"timeupdated"		"1700993188"
 			}
 			"umain_ship_upload"
 			{
-				"buildid"		"12780420"
+				"buildid"		"12800392"
 				"pwdrequired"		"1"
-				"timeupdated"		"1700736702"
+				"timeupdated"		"1700987151"
 			}
 			"upload_test"
 			{
