@@ -1,0 +1,339 @@
+"appinfo"
+{
+	"appid"		"1692080"
+	"common"
+	{
+		"name"		"SVFI"
+		"type"		"Application"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"clienttga"		"71c1f8db756afdeef0275ffdb665c210113379d8"
+		"clienticon"		"90e7aff4b17feb616f70a53647b37f43091251bd"
+		"icon"		"05a3dc2e22b723cc505baa1d64fb05dae02df3d3"
+		"logo"		"5df63e519198df5825519be0e587450e1b3557ae"
+		"logo_small"		"5df63e519198df5825519be0e587450e1b3557ae_thumb"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1692080_eula_0"
+				"name"		"Squirrel-RIFE Video Frame Interpolation 松鼠补帧 EULA"
+				"url"		"https://store.steampowered.com//eula/1692080_eula_0"
+				"version"		"4"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"30.697674418604663"
+				"height_pct"		"43.54072666824983"
+			}
+		}
+		"store_asset_mtime"		"1701514223"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"SDT Core"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"SDT Core"
+			}
+		}
+		"primary_genre"		"51"
+		"genres"
+		{
+			"0"		"51"
+			"1"		"53"
+			"2"		"55"
+			"3"		"57"
+			"4"		"58"
+		}
+		"category"
+		{
+			"category_22"		"1"
+			"category_15"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1630911600"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1692080"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"84"
+			"1"		"784"
+			"2"		"87"
+			"3"		"809"
+			"4"		"872"
+		}
+		"review_score"		"6"
+		"review_percentage"		"74"
+	}
+	"extended"
+	{
+		"developer"		"SDT Core"
+		"publisher"		"SDT Core"
+		"homepage"		"https://github.com/Justin62628/Squirrel-RIFE"
+		"listofdlc"		"1718750,1758570,1991700"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"SVFI"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SVFI.Professional.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"ownsdlc"		"1718750"
+				}
+				"description_loc"
+				{
+					"english"		"SVFI Professional Version"
+					"schinese"		"SVFI 专业版"
+				}
+				"description"		"SVFI Professional Version"
+			}
+			"1"
+			{
+				"executable"		"SVFI.Community.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"SVFI Community Version"
+					"schinese"		"SVFI 社区版"
+				}
+				"description"		"SVFI Community Version"
+			}
+			"2"
+			{
+				"executable"		"SVFI.app"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+				"description_loc"
+				{
+					"english"		"SVFI Mac Version"
+					"schinese"		"SVFI Mac 版本"
+				}
+				"description"		"SVFI Mac Version"
+			}
+		}
+	}
+	"depots"
+	{
+		"228988"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"229006"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"schinese"
+		"hasdepotsindlc"		"1"
+		"1692081"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"5915649371868793510"
+					"size"		"7911801880"
+					"download"		"3301397392"
+				}
+				"beta"
+				{
+					"gid"		"7562588176868130385"
+					"size"		"9565719421"
+					"download"		"3953705664"
+				}
+				"revision-1"
+				{
+					"gid"		"932036141818603524"
+					"size"		"5204778216"
+					"download"		"2010821728"
+				}
+				"revision-8"
+				{
+					"gid"		"3406098864941162159"
+					"size"		"5969676624"
+					"download"		"2698964304"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"alpha"
+				{
+					"gid"		"28A5220DA331C5569DD8CB65CDF5B1A1"
+					"size"		"2CF4219C9CED7A702519882F737BBF4A"
+					"download"		"17E87E672F01430594471879B72AA2F1"
+				}
+				"cutella"
+				{
+					"gid"		"46C2BF708993143C871F9156564B1B2E"
+					"size"		"77C8E1CBB01CEB0133BA0230E55DF889"
+					"download"		"899D36B0E7781A3F0D93A6E4166A54BF"
+				}
+				"revision-2"
+				{
+					"gid"		"82725D643D14F48C2F55315DDDFECA27"
+					"size"		"03C5022C3C87176027686EC3A765A626"
+					"download"		"8D7339DF6092924D95F8634FCAB17537"
+				}
+				"revision-3"
+				{
+					"gid"		"A468E55C43135086C381424A601B9B5D"
+					"size"		"771E7DCC7BD9AF22319C4C49AF004083"
+					"download"		"12E9F0A70B853AD0445D29755A90F1EA"
+				}
+				"revision-4"
+				{
+					"gid"		"EB04986B6DBF45988F0F69B5B7B29551"
+					"size"		"5A7838D504565593B99BBF153153C305"
+					"download"		"22DB79736F9251B202219DA3CFCEFCF9"
+				}
+				"revision-5"
+				{
+					"gid"		"6E9D8A5B6DBBE2625253D26552AC85B3"
+					"size"		"F4F711AA1CA1B13238B900EBD8F86DF4"
+					"download"		"095542EE77E252BA5073993AA7C4CF76"
+				}
+				"revision-7"
+				{
+					"gid"		"BDF75464F6823B4AED3574DCD3F41EA8"
+					"size"		"334DE6BAF55B046FADCCE7A3DD852404"
+					"download"		"F8520657FF0D635689A7F1366F3A91C2"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12946315"
+				"timeupdated"		"1702433179"
+			}
+			"alpha"
+			{
+				"buildid"		"13007242"
+				"pwdrequired"		"1"
+				"timeupdated"		"1703049281"
+			}
+			"beta"
+			{
+				"buildid"		"13007242"
+				"description"		"SVFI Beta Test"
+				"timeupdated"		"1703049268"
+			}
+			"cutella"
+			{
+				"buildid"		"12046943"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693715150"
+			}
+			"revision-1"
+			{
+				"buildid"		"10652078"
+				"description"		"SVFI 3.20.0"
+				"timeupdated"		"1683096228"
+			}
+			"revision-2"
+			{
+				"buildid"		"9228356"
+				"pwdrequired"		"1"
+				"timeupdated"		"1660385417"
+			}
+			"revision-3"
+			{
+				"buildid"		"9384156"
+				"pwdrequired"		"1"
+				"timeupdated"		"1661487985"
+			}
+			"revision-4"
+			{
+				"buildid"		"9923848"
+				"pwdrequired"		"1"
+				"timeupdated"		"1668829449"
+			}
+			"revision-5"
+			{
+				"buildid"		"10242568"
+				"pwdrequired"		"1"
+				"timeupdated"		"1672657684"
+			}
+			"revision-7"
+			{
+				"buildid"		"11422448"
+				"pwdrequired"		"1"
+				"timeupdated"		"1698932830"
+			}
+			"revision-8"
+			{
+				"buildid"		"11500189"
+				"description"		"SVFI 3.23.1"
+				"timeupdated"		"1698293509"
+			}
+		}
+	}
+}
