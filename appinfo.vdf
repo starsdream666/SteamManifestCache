@@ -245,18 +245,18 @@
 			{
 				"public"
 				{
-					"gid"		"7764367576899971666"
-					"size"		"905898031"
-					"download"		"448518656"
+					"gid"		"920983201177336605"
+					"size"		"905765123"
+					"download"		"448494000"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"test"
 				{
-					"gid"		"03B7803A7A776BFB21E45699F233A1C4"
-					"size"		"E9F32DCE17C4D0ADC29BFF951CE92E73"
-					"download"		"7FB5C92D7CC33CD491C23F33E2F74861"
+					"gid"		"FB3F6CF2791DF841B682C0B37FAAD40F"
+					"size"		"CD39308F2F808CE58CC968036A7CB40C"
+					"download"		"B848D935C5E48F4441CD19D7F1EC4303"
 				}
 			}
 		}
@@ -264,14 +264,32 @@
 		{
 			"public"
 			{
-				"buildid"		"13020509"
-				"timeupdated"		"1703165257"
+				"buildid"		"13029819"
+				"timeupdated"		"1703250994"
 			}
 			"test"
 			{
-				"buildid"		"13020509"
+				"buildid"		"13029819"
 				"pwdrequired"		"1"
-				"timeupdated"		"1703164577"
+				"timeupdated"		"1703250225"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"262144000"
+		"maxnumfiles"		"50"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Magnum Scriptum Ltd/Quasimorph"
+				"pattern"		"slot_*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
 			}
 		}
 	}
