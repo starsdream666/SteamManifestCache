@@ -27,6 +27,11 @@
 			"japanese"		"1"
 			"brazilian"		"1"
 		}
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
 		"controllertagwizard"		"1"
 		"controller_support"		"partial"
 		"small_capsule"
@@ -158,7 +163,7 @@
 			"19"		"1667"
 		}
 		"review_score"		"6"
-		"review_percentage"		"79"
+		"review_percentage"		"78"
 	}
 	"extended"
 	{
@@ -179,29 +184,32 @@
 	}
 	"depots"
 	{
+		"hasdepotsindlc"		"1"
 		"1159831"
 		{
-			"config"
-			{
-				"language"		""
-			}
 			"manifests"
 			{
 				"public"
 				{
-					"gid"		"6887437469576601726"
-					"size"		"25526358463"
-					"download"		"7643162896"
+					"gid"		"8925591839251199702"
+					"size"		"25526820795"
+					"download"		"7643194208"
 				}
 				"previousversion"
 				{
-					"gid"		"7016037583743909601"
-					"size"		"25480049574"
-					"download"		"7596151680"
+					"gid"		"7606588829026420094"
+					"size"		"25480052979"
+					"download"		"7596128224"
 				}
 			}
 			"encryptedmanifests"
 			{
+				"dlctest"
+				{
+					"gid"		"8B71A22453F4AC4B0E8D484933081CFE"
+					"size"		"6DCF6354985A78F4F3937A105A2F3424"
+					"download"		"53BE1D34E3644B7EC94BBCD3C797C7D3"
+				}
 				"translationbuild"
 				{
 					"gid"		"46CF8F15484BA114165E8FD684DCDBE6"
@@ -210,18 +218,66 @@
 				}
 			}
 		}
+		"2743690"
+		{
+			"dlcappid"		"2743690"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"1697580523964462458"
+					"size"		"46278024"
+					"download"		"45459696"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"dlctest"
+				{
+					"gid"		"FE80239C44E9CA1233A81B3602EE1D4E"
+					"size"		"5C37BDC1BC12CAE3209B91E3CDC1498A"
+					"download"		"6138D11FC7E7DA83FC1577D5C10E1D16"
+				}
+			}
+		}
+		"2750550"
+		{
+			"dlcappid"		"2750550"
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+			}
+			"encryptedmanifests"
+			{
+				"dlctest"
+				{
+					"gid"		"36D1D6EDDF899C03429EA6453EBC52A9"
+					"size"		"A509C0904FC4B91A22CFCA120748EF5F"
+					"download"		"7B01D5F1642A9DB4EEF3618EE85B6EE7"
+				}
+			}
+		}
 		"branches"
 		{
 			"public"
 			{
-				"buildid"		"12916119"
-				"timeupdated"		"1702081473"
+				"buildid"		"13022720"
+				"timeupdated"		"1703180790"
+			}
+			"dlctest"
+			{
+				"buildid"		"13006401"
+				"pwdrequired"		"1"
+				"timeupdated"		"1703152257"
 			}
 			"previousversion"
 			{
-				"buildid"		"12694596"
+				"buildid"		"12756015"
 				"description"		"Hosts the previous version of the game, in case you get new issues from an update."
-				"timeupdated"		"1702081558"
+				"timeupdated"		"1703183148"
 			}
 			"translationbuild"
 			{
