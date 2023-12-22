@@ -73,6 +73,7 @@
 			"schinese"		"capsule_231x87_schinese.jpg"
 			"tchinese"		"capsule_231x87_tchinese.jpg"
 			"japanese"		"capsule_231x87_japanese.jpg"
+			"koreana"		"capsule_231x87_koreana.jpg"
 		}
 		"header_image"
 		{
@@ -80,12 +81,14 @@
 			"schinese"		"header_schinese.jpg"
 			"tchinese"		"header_tchinese.jpg"
 			"japanese"		"header_japanese.jpg"
+			"koreana"		"header_koreana.jpg"
 		}
 		"library_assets"
 		{
-			"library_capsule"		"en,zh-tw,zh-cn,ja"
+			"library_capsule"		"en,zh-tw,zh-cn,ja,ko"
 			"library_hero"		"en"
 			"library_logo"		"en"
+			"library_header"		"en,ja,zh-cn,zh-tw,ko"
 			"logo_position"
 			{
 				"pinned_position"		"UpperCenter"
@@ -93,7 +96,7 @@
 				"height_pct"		"100"
 			}
 		}
-		"store_asset_mtime"		"1702297320"
+		"store_asset_mtime"		"1703089520"
 		"associations"
 		{
 			"0"
@@ -230,8 +233,8 @@
 		"store_tags"
 		{
 			"0"		"1100689"
-			"1"		"1662"
-			"2"		"3859"
+			"1"		"3859"
+			"2"		"1662"
 			"3"		"3810"
 			"4"		"1695"
 			"5"		"1702"
@@ -402,9 +405,9 @@
 			{
 				"public"
 				{
-					"gid"		"6010158888205658340"
-					"size"		"370092801"
-					"download"		"259103104"
+					"gid"		"9215830069449549793"
+					"size"		"369907802"
+					"download"		"258894400"
 				}
 				"v0.21.23"
 				{
@@ -460,6 +463,12 @@
 					"size"		"316882072"
 					"download"		"220255664"
 				}
+				"v0.23.0"
+				{
+					"gid"		"6010158888205658340"
+					"size"		"370092801"
+					"download"		"259103104"
+				}
 			}
 			"encryptedmanifests"
 			{
@@ -471,9 +480,9 @@
 				}
 				"buildtest"
 				{
-					"gid"		"2891745A9B02B0BB1C284D1B43FB1817"
-					"size"		"D2C40234CB671E48152502D7E1B127A8"
-					"download"		"E3625826B6F3B2038B8853BDB1A9DD8C"
+					"gid"		"9B3EC449846DEC26E0BAF2DBDEA4A3DB"
+					"size"		"A0A9483284CFE0804BC4E3A1BFD808CC"
+					"download"		"9CDB6AA1A922048D55B4A87595E5CB40"
 				}
 				"expo"
 				{
@@ -500,9 +509,9 @@
 			{
 				"public"
 				{
-					"gid"		"2367724337973416848"
-					"size"		"384821619"
-					"download"		"263988144"
+					"gid"		"5421783832716743058"
+					"size"		"384636620"
+					"download"		"260753600"
 				}
 				"v0.21.23"
 				{
@@ -558,6 +567,12 @@
 					"size"		"331610890"
 					"download"		"220087008"
 				}
+				"v0.23.0"
+				{
+					"gid"		"2367724337973416848"
+					"size"		"384821619"
+					"download"		"263988144"
+				}
 			}
 			"encryptedmanifests"
 			{
@@ -569,9 +584,9 @@
 				}
 				"buildtest"
 				{
-					"gid"		"364BF8BC9FC7734252F54D5E4E6A80EF"
-					"size"		"A4118DF924236F8BF3722E391FCDB28F"
-					"download"		"1BD6C23DE415D772FC6D62EE1398274D"
+					"gid"		"E18A4BBBE10BEDD72E9AA6D4781BC88B"
+					"size"		"24D5A428B3BEC399FDDA17DDD7F28B3A"
+					"download"		"832A2A586FFAEADE06C17351023A1D99"
 				}
 				"expo"
 				{
@@ -597,9 +612,9 @@
 			{
 				"public"
 				{
-					"gid"		"3717529273839284847"
-					"size"		"390881545"
-					"download"		"264269104"
+					"gid"		"2547126031212679868"
+					"size"		"390696546"
+					"download"		"261034560"
 				}
 				"v0.21.23"
 				{
@@ -655,6 +670,12 @@
 					"size"		"337706144"
 					"download"		"220383968"
 				}
+				"v0.23.0"
+				{
+					"gid"		"3717529273839284847"
+					"size"		"390881545"
+					"download"		"264269104"
+				}
 			}
 			"encryptedmanifests"
 			{
@@ -666,9 +687,9 @@
 				}
 				"buildtest"
 				{
-					"gid"		"F678C047B2A810694693C86582F49D1E"
-					"size"		"6B3EFF45AD5793D63C1536582B78D0A2"
-					"download"		"6A14447178182A29FD6396F04F192263"
+					"gid"		"FC9D5656BFFFCE98D037D950BB791F2E"
+					"size"		"AC333241153EB5152870A7D33002413B"
+					"download"		"E0E33DDA8550B31EC0E8CB216005A001"
 				}
 				"expo"
 				{
@@ -694,9 +715,9 @@
 			{
 				"public"
 				{
-					"gid"		"2937803640394032519"
-					"size"		"395626098"
-					"download"		"265851136"
+					"gid"		"1260968092455389827"
+					"size"		"395441099"
+					"download"		"256532384"
 				}
 				"v0.21.23"
 				{
@@ -752,6 +773,12 @@
 					"size"		"342450697"
 					"download"		"227039184"
 				}
+				"v0.23.0"
+				{
+					"gid"		"2937803640394032519"
+					"size"		"395626098"
+					"download"		"265851136"
+				}
 			}
 			"encryptedmanifests"
 			{
@@ -763,9 +790,9 @@
 				}
 				"buildtest"
 				{
-					"gid"		"D7EF3ED27D984EF2D2A06C291130C8FC"
-					"size"		"10D465DACCA037E8563BE858AA01649F"
-					"download"		"173609ACBD973941441FD5493F2E0A20"
+					"gid"		"CE1345B862FD080E1C847E8E40DF47CC"
+					"size"		"172DD2827D070DEF87290B425A57F1BC"
+					"download"		"B0D59E549059233506826EF7B21E09D9"
 				}
 				"expo"
 				{
@@ -786,8 +813,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12963309"
-				"timeupdated"		"1702569154"
+				"buildid"		"13033230"
+				"timeupdated"		"1703282394"
 			}
 			"artbuild"
 			{
@@ -797,9 +824,9 @@
 			}
 			"buildtest"
 			{
-				"buildid"		"12963309"
+				"buildid"		"13033230"
 				"pwdrequired"		"1"
-				"timeupdated"		"1702568398"
+				"timeupdated"		"1703282311"
 			}
 			"expo"
 			{
@@ -866,6 +893,12 @@
 				"buildid"		"12080883"
 				"description"		"Older version"
 				"timeupdated"		"1702316611"
+			}
+			"v0.23.0"
+			{
+				"buildid"		"12963309"
+				"description"		"Older version"
+				"timeupdated"		"1703281069"
 			}
 		}
 	}
@@ -1051,21 +1084,34 @@
 			{
 				"tokens"
 				{
+					"#richpresence_unknownlocation"		"Localização desconhecida"
 					"#biome_temple"		"Templos"
 					"#biome_swamp"		"Pântano"
 					"#biome_snow"		"Neve"
+					"#richpresence_playingwithfriends"		"Jogando com amigos - {%location%}"
+					"#richpresence_atmainmenu"		"No menu principal"
+					"#biome_slimecave"		"Caverna de Slime"
+					"#richpresence_hostinginvite"		"Hospedando mundo com convite - {%location%}"
+					"#biome_desert"		"Deserto"
+					"#biome_surface"		"{%biome%} Superfície"
+					"#biome_spidercastle"		"Castelo Aracnídeo"
+					"#biome_graveyard"		"Cemitério"
+					"#biome_forestvillage"		"Vilarejo da Floresta"
 					"#biome_piratevillage"		"Vilarejo dos Piratas"
 					"#biome_forest"		"Floresta"
+					"#richpresence_playingonserver"		"Jogando em um servidor - {%location%}"
 					"#biome_desertvillage"		"Vilarejo do Deserto"
-					"#biome_slimecave"		"Caverna de Slime"
+					"#biome_cave"		"{%biome%} Caverna"
+					"#richpresence_hostingfriends"		"Hospedando mundo de amigo - {%location%}"
 					"#biome_dungeon"		"Entrada da Masmorra"
 					"#biome_unknown"		"Desconhecido"
 					"#biome_plains"		"Planície"
-					"#biome_desert"		"Deserto"
+					"#richpresence_hostingopen"		"Hospedando mundo aberto - {%location%}"
 					"#biome_trialroom"		"Sala do Teste"
 					"#biome_snowvillage"		"Vilarejo de Neve"
-					"#biome_graveyard"		"Cemitério"
-					"#biome_forestvillage"		"Vilarejo da Floresta"
+					"#biome_deepcave"		"{%biome%} Caverna Profunda"
+					"#biome_incursionhunt"		"{%incursion%} Caça"
+					"#biome_incursionextraction"		"{%incursion%} Extração"
 				}
 			}
 			"spanish"
@@ -1172,20 +1218,31 @@
 			{
 				"tokens"
 				{
+					"#richpresence_unknownlocation"		"Localisation inconnu"
 					"#biome_swamp"		"Marais"
 					"#biome_snow"		"Neige"
+					"#richpresence_playingwithfriends"		"Jouer avec des amis - {%location%}"
+					"#richpresence_atmainmenu"		"Au Menu Principal"
+					"#biome_slimecave"		"Grotte de slime"
+					"#richpresence_hostinginvite"		"Héberger un monde privé (sur invitation) - {%location%}"
+					"#biome_desert"		"Désert"
+					"#biome_spidercastle"		"Château des araignées"
+					"#biome_graveyard"		"Cimetière"
+					"#biome_forestvillage"		"Village de la forêt"
 					"#biome_piratevillage"		"Village des Pirates"
 					"#biome_forest"		"Forêt"
+					"#richpresence_playingonserver"		"Jouer sur un serveur - {%location%}"
 					"#biome_desertvillage"		"Village du désert"
-					"#biome_slimecave"		"Grotte de slime"
+					"#richpresence_hostingfriends"		"Héberger un monde privé (amis uniquement) - {%location%}"
 					"#biome_dungeon"		"Entrée du donjon"
 					"#biome_unknown"		"Inconnu"
 					"#biome_plains"		"Plaines"
-					"#biome_desert"		"Désert"
+					"#richpresence_playingsingleplayer"		"Solo - {%location%}"
+					"#richpresence_hostingopen"		"Héberger un monde publique - {%location%}"
 					"#biome_trialroom"		"Salle d'épreuve"
 					"#biome_snowvillage"		"Village des neiges"
-					"#biome_graveyard"		"Cimetière"
-					"#biome_forestvillage"		"Village de la forêt"
+					"#biome_deepcave"		"{%biome%} Abîme"
+					"#biome_incursionhunt"		"{%incursion%} Chasse"
 				}
 			}
 			"hungarian"
