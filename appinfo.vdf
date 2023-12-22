@@ -19,6 +19,50 @@
 			"tchinese"		"1"
 			"japanese"		"1"
 		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1702080000"
+			"tested_build_id"		"12898776"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"1"
+				"hdr_support"		"0"
+			}
+		}
 		"controllertagwizard"		"1"
 		"controller_support"		"full"
 		"small_capsule"
@@ -41,7 +85,7 @@
 				"height_pct"		"75.69444444444446"
 			}
 		}
-		"store_asset_mtime"		"1699528683"
+		"store_asset_mtime"		"1703064943"
 		"associations"
 		{
 			"0"
@@ -133,8 +177,8 @@
 			"5"		"1742"
 			"6"		"3871"
 			"7"		"3798"
-			"8"		"7208"
-			"9"		"4305"
+			"8"		"4305"
+			"9"		"7208"
 			"10"		"4182"
 			"11"		"5984"
 			"12"		"1625"
@@ -190,15 +234,9 @@
 			{
 				"public"
 				{
-					"gid"		"3780980094157849530"
-					"size"		"3264592662"
-					"download"		"901827424"
-				}
-				"beta-unstable"
-				{
-					"gid"		"2963879727013987545"
-					"size"		"3266783282"
-					"download"		"902301040"
+					"gid"		"2925947624440759800"
+					"size"		"3267018382"
+					"download"		"902345280"
 				}
 			}
 			"encryptedmanifests"
@@ -215,14 +253,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12923405"
-				"timeupdated"		"1702222321"
-			}
-			"beta-unstable"
-			{
-				"buildid"		"12966082"
-				"description"		"New custom setting, sigil test, boss balance (expert or higher). Do NOT use beta save in public version (Backup recommended). In this beta, press F6 to toggle the new custom setting."
-				"timeupdated"		"1702590009"
+				"buildid"		"13023688"
+				"timeupdated"		"1703193111"
 			}
 			"v1.00"
 			{
