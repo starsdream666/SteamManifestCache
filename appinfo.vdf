@@ -14,7 +14,7 @@
 		"oslist"		"windows"
 		"osarch"		"64"
 		"osextended"		""
-		"controller_support"		"partial"
+		"controllertagwizard"		"1"
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
@@ -35,7 +35,7 @@
 				"height_pct"		"86.80555555555557"
 			}
 		}
-		"store_asset_mtime"		"1673758815"
+		"store_asset_mtime"		"1703108983"
 		"associations"
 		{
 			"0"
@@ -64,7 +64,6 @@
 			"category_9"		"1"
 			"category_38"		"1"
 			"category_22"		"1"
-			"category_18"		"1"
 			"category_45"		"1"
 			"category_46"		"1"
 		}
@@ -144,7 +143,7 @@
 			"19"		"12057"
 		}
 		"review_score"		"8"
-		"review_percentage"		"87"
+		"review_percentage"		"86"
 	}
 	"extended"
 	{
@@ -202,9 +201,9 @@
 			{
 				"public"
 				{
-					"gid"		"6281890986957820466"
-					"size"		"4550518831"
-					"download"		"4378992704"
+					"gid"		"2098655787898550735"
+					"size"		"4645032803"
+					"download"		"4462633312"
 				}
 				"levelmoddingbranch"
 				{
@@ -218,6 +217,12 @@
 					"size"		"4044670965"
 					"download"		"3888865936"
 				}
+				"staging"
+				{
+					"gid"		"2098655787898550735"
+					"size"		"4645032803"
+					"download"		"4462633312"
+				}
 			}
 			"encryptedmanifests"
 			{
@@ -229,15 +234,15 @@
 				}
 				"developerbranch"
 				{
-					"gid"		"A5E8A52D63874DBA8441A52224FE370F"
-					"size"		"343143E6290FDEEB9B6C16CF27D05B36"
-					"download"		"80C73D107E7CE4E6CACFEA71F78E8052"
+					"gid"		"3E638354E9A4B6907AE1BE3952767AEC"
+					"size"		"220C8C0F7BDDAE46063C8BCE789003BD"
+					"download"		"CCC972E2BC67A66CA41E875228564839"
 				}
-				"specialspecialtesting"
+				"patreondecember"
 				{
-					"gid"		"03476230C8F039AE334CA0B8521C02E2"
-					"size"		"F7B10272CA8DF6A77709B11751E19F23"
-					"download"		"68F95C94460E2B1715E264546B23A958"
+					"gid"		"3F2EFC028741DE6A358026F464E3F48B"
+					"size"		"C1248CEDEE400C4938B7DBBDF766520A"
+					"download"		"16FF9B32765EA90A08ACA261B198AD7E"
 				}
 			}
 		}
@@ -246,8 +251,8 @@
 		{
 			"public"
 			{
-				"buildid"		"11657494"
-				"timeupdated"		"1688851931"
+				"buildid"		"13032689"
+				"timeupdated"		"1703284626"
 			}
 			"bakonguy_testing"
 			{
@@ -257,9 +262,9 @@
 			}
 			"developerbranch"
 			{
-				"buildid"		"12146863"
+				"buildid"		"13032689"
 				"pwdrequired"		"1"
-				"timeupdated"		"1694219469"
+				"timeupdated"		"1703276521"
 			}
 			"levelmoddingbranch"
 			{
@@ -267,17 +272,23 @@
 				"description"		"Level Modding"
 				"timeupdated"		"1693859393"
 			}
+			"patreondecember"
+			{
+				"buildid"		"13032689"
+				"pwdrequired"		"1"
+				"timeupdated"		"1703276513"
+			}
 			"retro"
 			{
 				"buildid"		"5903618"
 				"description"		"2020 Build"
 				"timeupdated"		"1675070251"
 			}
-			"specialspecialtesting"
+			"staging"
 			{
-				"buildid"		"12146863"
-				"pwdrequired"		"1"
-				"timeupdated"		"1694219461"
+				"buildid"		"13032689"
+				"description"		"Final testing branch before new major updates are moved over to the main branch"
+				"timeupdated"		"1703276500"
 			}
 		}
 	}
