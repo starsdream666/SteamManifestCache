@@ -1,0 +1,230 @@
+"appinfo"
+{
+	"appid"		"2566030"
+	"common"
+	{
+		"name"		"Animus Toil"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"osextended"		""
+		"icon"		"5768a436698d1005ec28fa7f57597764a27b2ca8"
+		"clienticon"		"6617509365b9d52029d475cf2b0eb240ff94949e"
+		"clienttga"		"73ef34e79f36d305c8685cf7db8f58d482c898ce"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"5"
+		}
+		"has_adult_content"		"1"
+		"controllertagwizard"		"1"
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"40.103492747883905"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1699597229"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Mindset Makers"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Mindset Makers"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"23"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_18"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1703264435"
+		"community_hub_visible"		"1"
+		"gameid"		"2566030"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"1664"
+			"1"		"3834"
+			"2"		"11014"
+			"3"		"1721"
+			"4"		"3871"
+			"5"		"4791"
+			"6"		"4400"
+			"7"		"3964"
+			"8"		"1742"
+			"9"		"1667"
+			"10"		"1710"
+			"11"		"7250"
+			"12"		"6971"
+			"13"		"7208"
+			"14"		"21006"
+			"15"		"6426"
+			"16"		"9592"
+			"17"		"5094"
+			"18"		"4094"
+			"19"		"4604"
+		}
+	}
+	"extended"
+	{
+		"developer"		"Mindset Makers"
+		"publisher"		"Mindset Makers"
+		"homepage"		"https://mindsetmakers.weebly.com/"
+		"isfreeapp"		"1"
+		"listofdlc"		"2566040,2566050,2566060,2566070"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"Animus Toil"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"./32-bit/Animus Toil.exe"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"32"
+				}
+				"description_loc"
+				{
+					"english"		"32-bit version"
+				}
+				"description"		"32-bit version"
+			}
+			"1"
+			{
+				"executable"		"./64-bit/Animus Toil.exe"
+				"type"		"option2"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"64-bit version"
+				}
+				"description"		"64-bit version"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english"
+		"hasdepotsindlc"		"1"
+		"2566031"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6375676054993241796"
+					"size"		"636780614"
+					"download"		"165297936"
+				}
+			}
+		}
+		"2566040"
+		{
+			"dlcappid"		"2566040"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3954318521260314767"
+					"size"		"2406329722"
+					"download"		"317397856"
+				}
+			}
+		}
+		"2566050"
+		{
+			"dlcappid"		"2566050"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7326618225037119248"
+					"size"		"2406329722"
+					"download"		"317397856"
+				}
+			}
+		}
+		"2566060"
+		{
+			"dlcappid"		"2566060"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7697305789406809657"
+					"size"		"2406329722"
+					"download"		"317397856"
+				}
+			}
+		}
+		"2566070"
+		{
+			"dlcappid"		"2566070"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6597133206514800899"
+					"size"		"2406329722"
+					"download"		"317397856"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12566179"
+				"timeupdated"		"1698601461"
+			}
+		}
+	}
+}
