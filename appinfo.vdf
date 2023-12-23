@@ -1,0 +1,315 @@
+"appinfo"
+{
+	"appid"		"1270580"
+	"common"
+	{
+		"name"		"Mind Over Magic"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"5d6942ecc126b6715e5c8acafd552e4aef971023"
+		"clienttga"		"45637a13938d13dea9734d0890d9c8754af50b61"
+		"clienticon"		"d50d96951e81dec6de20fddc64379f997fb298e1"
+		"releasestate"		"released"
+		"name_localized"
+		{
+			"schinese"		"超灵秘法社"
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn"
+			"library_hero"		"en"
+			"library_logo"		"en,zh-cn"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1702577105"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Sparkypants"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Klei Publishing"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"28"
+			"1"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1702575296"
+		"community_hub_visible"		"1"
+		"gameid"		"1270580"
+		"store_tags"
+		{
+			"0"		"599"
+			"1"		"493"
+			"2"		"4057"
+			"3"		"220585"
+			"4"		"7332"
+			"5"		"9204"
+			"6"		"4695"
+			"7"		"12472"
+			"8"		"4182"
+			"9"		"4191"
+			"10"		"6426"
+			"11"		"4305"
+			"12"		"4604"
+			"13"		"492"
+			"14"		"10808"
+			"15"		"6869"
+			"16"		"8945"
+			"17"		"4195"
+			"18"		"4172"
+			"19"		"4136"
+		}
+		"review_score"		"8"
+		"review_percentage"		"92"
+	}
+	"extended"
+	{
+		"developer"		"Sparkypants"
+		"publisher"		"Klei Publishing"
+	}
+	"config"
+	{
+		"installdir"		"MindOverMagic"
+		"launch"
+		{
+			"1"
+			{
+				"executable"		"mindovermagic.exe"
+				"arguments"		"-steambranch=default"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"default"
+				}
+				"description_loc"
+				{
+					"english"		"default"
+				}
+				"description"		"default"
+			}
+			"7"
+			{
+				"executable"		"mindovermagic.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"1270581"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3431287972691301702"
+					"size"		"5912724985"
+					"download"		"2876149568"
+				}
+				"prerelease"
+				{
+					"gid"		"3431287972691301702"
+					"size"		"5912724985"
+					"download"		"2876149568"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"EED54136F01D36B8FCDDE15DF084293E"
+					"size"		"64D1A8ED1FDC45810E1198CE803A105F"
+					"download"		"F2279B2F2A82A2A8B108B3CED0B77523"
+				}
+				"debugging"
+				{
+					"gid"		"58C615D20AE1460B961AB51952F7C133"
+					"size"		"0C791D8619AC7F54E9A98AB798C3CA86"
+					"download"		"4D75F9A522FC80DFBA3F3D2091D136E0"
+				}
+				"internal_test"
+				{
+					"gid"		"2AF22883B501677CC77D69D4AF8409CD"
+					"size"		"46F9C92560DE8FA4D29F2A33709C3835"
+					"download"		"C1E9EF3CA4BE54F5A4EC681EA575305B"
+				}
+				"locatesting"
+				{
+					"gid"		"E4AC8300C118080ACB421BD513E073C4"
+					"size"		"AFCDE91C95AA452D79A98BDF4DBF8E17"
+					"download"		"826609176A29E18ABF9055B3B8945561"
+				}
+				"playtest"
+				{
+					"gid"		"F481797AAFDD23A86A28AABF1C9EF8A3"
+					"size"		"A1D6235297E6076674B35C8D0CF4D4AD"
+					"download"		"FB990E37F6EDA2E3F5A04133ADE9A4BF"
+				}
+				"previous"
+				{
+					"gid"		"E092F5B60F1DEF31E1E98346DEFA9160"
+					"size"		"69517B79895813429F354B4F0C876CCE"
+					"download"		"07B46003306C097B98C0AF1018933645"
+				}
+				"trailer"
+				{
+					"gid"		"FE8F4ECA2EA8911933744A7EBAA85FE2"
+					"size"		"D31EFB8EC44799E564DB4E86924B165E"
+					"download"		"D3D9A6A5659262A80F8FEB8517B7F54E"
+				}
+			}
+		}
+		"workshopdepot"		"1270580"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"13032087"
+				"timeupdated"		"1703272848"
+			}
+			"beta"
+			{
+				"buildid"		"12764949"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700606266"
+			}
+			"debugging"
+			{
+				"buildid"		"12963199"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702568173"
+			}
+			"internal_test"
+			{
+				"buildid"		"13032087"
+				"pwdrequired"		"1"
+				"timeupdated"		"1703269758"
+			}
+			"locatesting"
+			{
+				"buildid"		"12892492"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701885394"
+			}
+			"playtest"
+			{
+				"buildid"		"12975912"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702671276"
+			}
+			"prerelease"
+			{
+				"buildid"		"13032087"
+				"description"		"Pre-release of updates for preview testing"
+				"timeupdated"		"1703272805"
+			}
+			"previous"
+			{
+				"buildid"		"13022894"
+				"pwdrequired"		"1"
+				"timeupdated"		"1703182395"
+			}
+			"trailer"
+			{
+				"buildid"		"12883419"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701810122"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000000000"
+		"maxnumfiles"		"10000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Sparkypants/Mind Over Magic/saves/{Steam3AccountID}"
+				"pattern"		"*.sav"
+				"recursive"		"1"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacHome"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Sparkypants/Mind Over Magic/saves/{Steam3AccountID}"
+						"replace"		"Library/Application Support/Sparkypants/Mind Over Magic/saves"
+					}
+				}
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxXdgConfigHome"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"Sparkypants/Mind Over Magic/saves/{Steam3AccountID}"
+						"replace"		"unity3d/Sparkypants/Mind Over Magic/saves"
+					}
+				}
+			}
+		}
+	}
+}
