@@ -144,9 +144,9 @@
 			{
 				"public"
 				{
-					"gid"		"5179112729520221608"
-					"size"		"324618648"
-					"download"		"147425024"
+					"gid"		"5004322729194417355"
+					"size"		"324610557"
+					"download"		"147421312"
 				}
 			}
 		}
@@ -154,8 +154,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12629332"
-				"timeupdated"		"1699271813"
+				"buildid"		"13036086"
+				"timeupdated"		"1703333151"
 			}
 		}
 	}
@@ -169,7 +169,18 @@
 			"0"
 			{
 				"root"		"WinAppDataRoaming"
-				"path"		"win"
+				"path"		"schoollife"
+				"pattern"		"*.log"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+				"recursive"		"1"
+			}
+			"1"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"schoollife_guiyu"
 				"pattern"		"*.log"
 				"platforms"
 				{
