@@ -195,10 +195,17 @@
 			"2619334476"
 			{
 				"controller_type"		"controller_xbox360"
-				"enabled_branches"		"default"
+				"enabled_branches"		""
+				"use_action_block"		"false"
+			}
+			"3121334793"
+			{
+				"controller_type"		"controller_xbox360"
+				"enabled_branches"		"default,test2"
 				"use_action_block"		"false"
 			}
 		}
+		"steamdecktouchscreen"		"1"
 	}
 	"depots"
 	{
@@ -213,9 +220,9 @@
 			{
 				"public"
 				{
-					"gid"		"2127114481696126198"
-					"size"		"2726004708"
-					"download"		"864710224"
+					"gid"		"2265754349283056528"
+					"size"		"2727190640"
+					"download"		"865143200"
 				}
 			}
 			"encryptedmanifests"
@@ -228,9 +235,9 @@
 				}
 				"test2"
 				{
-					"gid"		"64D5DCD8F0CFB0F23A5E04514D311AB0"
-					"size"		"73FDE6BF7B9101A9AC3F48C494E7448B"
-					"download"		"A67D62F8E309423C2EA18AC4CC6CA89B"
+					"gid"		"D5EF099BB66C260495E1A7C63989B2DD"
+					"size"		"246FCA920BB61EEF84F1B7EDA5E5A036"
+					"download"		"EBCBAF724536B6BDBA280245EC92688E"
 				}
 			}
 		}
@@ -263,8 +270,8 @@
 		{
 			"public"
 			{
-				"buildid"		"12866935"
-				"timeupdated"		"1701685539"
+				"buildid"		"13038368"
+				"timeupdated"		"1703385459"
 			}
 			"test"
 			{
@@ -274,9 +281,9 @@
 			}
 			"test2"
 			{
-				"buildid"		"12866935"
+				"buildid"		"13038368"
 				"pwdrequired"		"1"
-				"timeupdated"		"1701678589"
+				"timeupdated"		"1703382622"
 			}
 		}
 	}
