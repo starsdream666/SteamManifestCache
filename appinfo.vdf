@@ -1,0 +1,267 @@
+"appinfo"
+{
+	"appid"		"2311260"
+	"common"
+	{
+		"name"		"英灵学院"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"icon"		"93a151cfca11329ca20f99a94d412821cfbb73db"
+		"clienttga"		"ccc0ab10af959a35a730a90963518e18c966de73"
+		"clienticns"		"4979b4ee6b3797c1a3fdd7e15e8eeaf7ef6908ae"
+		"linuxclienticon"		"6a14139e0202ea31eb986c612acb05673e412c96"
+		"clienticon"		"c014d1075fd0e159931315931f9968f470806a78"
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+		}
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1698710400"
+			"tested_build_id"		"12521381"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"schinese"		"header_schinese.jpg"
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"zh-cn,en"
+			"library_hero"		"zh-cn,en"
+			"library_logo"		"zh-cn,en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"74.21784472769409"
+				"height_pct"		"70.4062352385451"
+			}
+		}
+		"store_asset_mtime"		"1697610836"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Master Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Wave Game"
+			}
+			"2"
+			{
+				"type"		"publisher"
+				"name"		"Master Games"
+			}
+		}
+		"primary_genre"		"28"
+		"genres"
+		{
+			"0"		"23"
+			"1"		"28"
+			"2"		"18"
+			"3"		"2"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_22"		"1"
+			"category_23"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"tchinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1697680923"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2311260"
+		"store_tags"
+		{
+			"0"		"1643"
+			"1"		"9"
+			"2"		"1708"
+			"3"		"599"
+			"4"		"14139"
+			"5"		"4328"
+			"6"		"16689"
+			"7"		"1741"
+			"8"		"7332"
+			"9"		"1084988"
+			"10"		"4182"
+			"11"		"4604"
+			"12"		"4726"
+			"13"		"4085"
+			"14"		"4562"
+			"15"		"5379"
+			"16"		"3871"
+			"17"		"4191"
+			"18"		"12472"
+			"19"		"5395"
+		}
+		"review_score"		"8"
+		"review_percentage"		"83"
+	}
+	"extended"
+	{
+		"developer"		"Master Games"
+		"publisher"		"Wave Game"
+	}
+	"config"
+	{
+		"installdir"		"HeroCollege"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"HeroCollege.exe"
+				"type"		"default"
+				"description_loc"
+				{
+					"english"		"Launch"
+				}
+				"description"		"Launch"
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		""
+		"2311261"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4898819976026788484"
+					"size"		"665380906"
+					"download"		"483605520"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"debugtest"
+				{
+					"gid"		"2AB7457933432010D1B982495391BA36"
+					"size"		"F7494DEFD35FE9B80405F33E2E0C539A"
+					"download"		"D99BD4A2ACB066ADE71D99F21121AA6E"
+				}
+				"onlinetest"
+				{
+					"gid"		"CB1B1AB7B9C0EBA0715AC98D39179E3E"
+					"size"		"C518B129E1E1CAED867C4C326B9A34A3"
+					"download"		"23159417BF9DB5988B5487595EAA251B"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"13000991"
+				"timeupdated"		"1702994531"
+			}
+			"debugtest"
+			{
+				"buildid"		"12492483"
+				"pwdrequired"		"1"
+				"timeupdated"		"1697802676"
+			}
+			"onlinetest"
+			{
+				"buildid"		"13000991"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702993812"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"50000000000"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"HeroCollege_Data/data"
+				"pattern"		"*"
+			}
+		}
+		"sync_while_suspended"		"1"
+	}
+}
