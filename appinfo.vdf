@@ -1,0 +1,281 @@
+"appinfo"
+{
+	"appid"		"1490190"
+	"common"
+	{
+		"name"		"Happy New Year, Zeliria!"
+		"type"		"Game"
+		"logo"		"0596d313f5e935c7772a555bfb71d2f26f5b80c8"
+		"logo_small"		"0596d313f5e935c7772a555bfb71d2f26f5b80c8_thumb"
+		"icon"		"547089a0e9178a19c03c7316fb7195d91def3fd2"
+		"clienticon"		"23279c779f55fe9ff95ccb0048c8dbc8ea88ab75"
+		"clienttga"		"162410624d0e59e8c8d1673a9b867e1c703e3833"
+		"oslist"		"windows,macos,linux"
+		"osarch"		""
+		"osextended"		"macos64,macosapplesilicon"
+		"releasestate"		"released"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"russian"		"capsule_231x87_russian.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"russian"		"header_russian.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,ru"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomCenter"
+				"width_pct"		"58.19230749999277"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1606930088"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Salangan Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		" Phoenix_co"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Zeliria_Sanctuary"
+			}
+			"3"
+			{
+				"type"		"franchise"
+				"name"		"visual novel Phoenix_co"
+			}
+		}
+		"primary_genre"		"25"
+		"genres"
+		{
+			"0"		"25"
+			"1"		"4"
+			"2"		"37"
+			"3"		"23"
+		}
+		"category"
+		{
+			"category_22"		"1"
+			"category_23"		"1"
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"russian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1608927024"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1490190"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"597"
+			"1"		"21"
+			"2"		"3799"
+			"3"		"4085"
+			"4"		"3871"
+			"5"		"113"
+			"6"		"4726"
+			"7"		"6815"
+			"8"		"4166"
+			"9"		"4136"
+			"10"		"492"
+			"11"		"12095"
+			"12"		"1719"
+			"13"		"4182"
+			"14"		"6971"
+			"15"		"6869"
+		}
+		"review_score"		"8"
+		"review_percentage"		"90"
+	}
+	"extended"
+	{
+		"developer"		"Salangan Games"
+		"publisher"		" Phoenix_co"
+		"homepage"		"http://www.salangan.com/"
+		"isfreeapp"		"1"
+		"listofdlc"		"1510850,1857060"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"HappyNewYearZeliria"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"NYCS.exe"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"1"
+			{
+				"executable"		"NYCS.sh"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"2"
+			{
+				"executable"		"NYCS.app"
+				"type"		"none"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,russian"
+		"hasdepotsindlc"		"1"
+		"1490191"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"8743299134997905964"
+					"size"		"164893851"
+					"download"		"107411488"
+				}
+			}
+		}
+		"1490192"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3763053078598738417"
+					"size"		"57771035"
+					"download"		"18687680"
+				}
+			}
+		}
+		"1490193"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2658827653084953912"
+					"size"		"46914712"
+					"download"		"14875152"
+				}
+			}
+		}
+		"1490194"
+		{
+			"config"
+			{
+				"oslist"		"windows,linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"2176375954731600045"
+					"size"		"90845606"
+					"download"		"85070608"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"13040290"
+				"timeupdated"		"1703439398"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"100000"
+		"maxnumfiles"		"1000"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"gameinstall"
+				"path"		"game/saves"
+				"pattern"		"*"
+			}
+			"1"
+			{
+				"root"		"WinAppDataRoaming"
+				"path"		"RenPy/christmas_story"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
+			}
+			"2"
+			{
+				"root"		"LinuxHome"
+				"path"		".RenPy/christmas_story"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Linux"
+				}
+			}
+			"3"
+			{
+				"root"		"MacHome"
+				"path"		"Library/RenPy/christmas_story"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"MacOS"
+				}
+			}
+		}
+	}
+}
