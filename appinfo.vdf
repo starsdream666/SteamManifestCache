@@ -18,6 +18,12 @@
 		"oslist"		"windows"
 		"osarch"		"64"
 		"osextended"		""
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+			"japanese"		"1"
+		}
 		"content_descriptors"
 		{
 			"0"		"5"
@@ -100,6 +106,7 @@
 			}
 		}
 		"steam_release_date"		"1701920800"
+		"community_visible_stats"		"1"
 		"community_hub_visible"		"1"
 		"gameid"		"2494450"
 		"store_tags"
@@ -244,9 +251,9 @@
 				}
 				"test"
 				{
-					"gid"		"06A3B58EE3C30600BF93A8DB511D1A39"
-					"size"		"B5DAC4C6F7CE2EAB14464331FE6A73F5"
-					"download"		"FA0E6989DD6C0E2C2B3536ED15E919F6"
+					"gid"		"97642DDFAFB9B3C33B45D3E67A083461"
+					"size"		"22F7D44A6706B95C8458B7756BC34C29"
+					"download"		"58FB759A33D42DA943FABA6E5B636E12"
 				}
 			}
 		}
@@ -266,9 +273,29 @@
 			}
 			"test"
 			{
-				"buildid"		"13026447"
+				"buildid"		"13045388"
 				"pwdrequired"		"1"
-				"timeupdated"		"1703225515"
+				"timeupdated"		"1703559010"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"2000000000"
+		"maxnumfiles"		"20"
+		"hidecloudui"		"1"
+		"ignoreexternalfiles"		"1"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocal"
+				"path"		"PingKouZhi\\Saved\\SaveGames"
+				"pattern"		"*.sav"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
 			}
 		}
 	}
