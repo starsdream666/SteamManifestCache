@@ -18,6 +18,55 @@
 		{
 			"schinese"		"纵横命途"
 		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1702339200"
+			"tested_build_id"		"12809879"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+				}
+				"1"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"1"
+				"gamescope_frame_limiter_not_supported"		"0"
+				"hdr_support"		"0"
+			}
+		}
 		"controllertagwizard"		"1"
 		"small_capsule"
 		{
@@ -119,7 +168,7 @@
 			"19"		"1742"
 		}
 		"review_score"		"5"
-		"review_percentage"		"61"
+		"review_percentage"		"65"
 	}
 	"extended"
 	{
@@ -154,24 +203,24 @@
 			{
 				"public"
 				{
-					"gid"		"7437432848616865407"
-					"size"		"522527550"
-					"download"		"390641232"
+					"gid"		"3593598896377794713"
+					"size"		"526589196"
+					"download"		"391890880"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"backup"
 				{
-					"gid"		"8F3A647137DC0B18D0718BB52A1EE124"
-					"size"		"1417FBDD6E748361A2208652C94D634E"
-					"download"		"367BA18A095CC5E5AC7D5EFF7750A3F4"
+					"gid"		"1C8C353472D66C1C0DAA1C55EA217ECA"
+					"size"		"4F1ACD5583F541D55A8320DBCCF7011C"
+					"download"		"38A19B3BB594041BFD6E9550D2BB9800"
 				}
 				"compat"
 				{
-					"gid"		"FBF82D38712FF9025800B1A20FD4762E"
-					"size"		"4EAC66B75FDF303D18B2402D965E639C"
-					"download"		"264A9D0C2B03340DC0449B182EF6CC14"
+					"gid"		"A5C4F789F1DAB7BF5FA2F0B6602AD203"
+					"size"		"9228F7A2DF79BBD4FF49C402EDD5845E"
+					"download"		"EB56EFD515094264A8B80C70F5D7E482"
 				}
 				"demo"
 				{
@@ -215,20 +264,20 @@
 		{
 			"public"
 			{
-				"buildid"		"12908397"
-				"timeupdated"		"1702476485"
+				"buildid"		"13003070"
+				"timeupdated"		"1703599307"
 			}
 			"backup"
 			{
-				"buildid"		"12899743"
+				"buildid"		"12908397"
 				"pwdrequired"		"1"
-				"timeupdated"		"1702041223"
+				"timeupdated"		"1703061454"
 			}
 			"compat"
 			{
-				"buildid"		"12908397"
+				"buildid"		"13003070"
 				"pwdrequired"		"1"
-				"timeupdated"		"1702031452"
+				"timeupdated"		"1703061435"
 			}
 			"demo"
 			{
