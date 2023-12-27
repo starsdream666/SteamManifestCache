@@ -14,6 +14,11 @@
 		"oslist"		"windows,macos"
 		"osarch"		"64"
 		"osextended"		"macos64,macosnotarized"
+		"name_localized"
+		{
+			"japanese"		"シチズン・スリーパー"
+			"schinese"		"深空梦里人"
+		}
 		"steam_deck_compatibility"
 		{
 			"category"		"2"
@@ -58,18 +63,23 @@
 			}
 		}
 		"metacritic_name"		"Citizen Sleeper"
+		"controllertagwizard"		"1"
 		"controller_support"		"full"
 		"small_capsule"
 		{
 			"english"		"capsule_231x87.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
 		}
 		"header_image"
 		{
 			"english"		"header.jpg"
+			"japanese"		"header_japanese.jpg"
+			"schinese"		"header_schinese.jpg"
 		}
 		"library_assets"
 		{
-			"library_capsule"		"en"
+			"library_capsule"		"en,ja,zh-cn"
 			"library_hero"		"en"
 			"library_logo"		"en"
 			"logo_position"
@@ -79,7 +89,7 @@
 				"height_pct"		"100"
 			}
 		}
-		"store_asset_mtime"		"1686297411"
+		"store_asset_mtime"		"1702530120"
 		"associations"
 		{
 			"0"
@@ -108,19 +118,18 @@
 		"category"
 		{
 			"category_2"		"1"
-			"category_28"		"1"
 			"category_22"		"1"
 			"category_23"		"1"
 			"category_29"		"1"
 			"category_45"		"1"
 			"category_46"		"1"
+			"category_28"		"1"
 		}
 		"supported_languages"
 		{
 			"english"
 			{
 				"supported"		"true"
-				"subtitles"		"true"
 			}
 		}
 		"steam_release_date"		"1651762082"
@@ -212,6 +221,12 @@
 					"size"		"B3DAC1CDFC0D7A896194D4A4EA47E8B4"
 					"download"		"8733F55288672F05F4CB2A7F68AEC621"
 				}
+				"languagetest"
+				{
+					"gid"		"39E00C9E6EC59388927E830A8B9D7A1A"
+					"size"		"08DC302FA8D368AFC41B5D782C95EDEF"
+					"download"		"C1D4CAE3DF061060C75AF1D6A2F925EA"
+				}
 				"milestone"
 				{
 					"gid"		"28070CC95E59B3240189E9CDD6631D2D"
@@ -220,9 +235,9 @@
 				}
 				"press"
 				{
-					"gid"		"BAF295AB12ECBAD9ADD3029624DB3B51"
-					"size"		"3E128E8F1AEF54F4AF952A37D9C5DEB4"
-					"download"		"A6E6C0AF7DEADEDC129C64F2B039C17C"
+					"gid"		"CDF25277DB0A25B7998A5A095921D30E"
+					"size"		"98FB9A3F26149BCA23166823159B9034"
+					"download"		"90FFC61DF06984F8A44776CE22B4C0F2"
 				}
 				"test"
 				{
@@ -255,6 +270,12 @@
 					"size"		"1F761E519E96FFCDD5EC9E8333C4646C"
 					"download"		"033C46E87B239691118FB724723D7F7A"
 				}
+				"languagetest"
+				{
+					"gid"		"D3AF7AA83187306255B1363D477A4473"
+					"size"		"46BA297A4D12921C4BB51385DC8E5D5A"
+					"download"		"5B7BE7CD59ADD5A049EA525C88D462D3"
+				}
 				"milestone"
 				{
 					"gid"		"C68C4E81CF5E183AC1A4444302A3599C"
@@ -263,9 +284,9 @@
 				}
 				"press"
 				{
-					"gid"		"63EE6CA72CF8132F7C3DD93F35C53F38"
-					"size"		"1A283DBF998BB5081F42827A42DF31D2"
-					"download"		"E2FAB7B43EC2A17517D23AC0484FABC1"
+					"gid"		"B23A0BBBB8F115F80D856F2B0B05AC01"
+					"size"		"3ED33DE04E315FD4FDE6C65C5EF5378D"
+					"download"		"DF2568B2EE9989CC3BF00196EDD99EFF"
 				}
 				"test"
 				{
@@ -294,6 +315,12 @@
 					"gid"		"E4E5B27FA850359F47A84EBDC6F7585A"
 					"size"		"3B28DDD50C3300DBB6AA7BBD4F988522"
 					"download"		"406321C74E38C93A2812D08FFD744877"
+				}
+				"languagetest"
+				{
+					"gid"		"C6181AB704241358ED0FC11D930C0800"
+					"size"		"8ABD22ED017C397A797912B13B7AF5D3"
+					"download"		"39EC0D617EF265CC72CA9375250D4BB3"
 				}
 				"milestone"
 				{
@@ -328,6 +355,12 @@
 				"pwdrequired"		"1"
 				"timeupdated"		"1687361497"
 			}
+			"languagetest"
+			{
+				"buildid"		"12955601"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702507449"
+			}
 			"milestone"
 			{
 				"buildid"		"11526149"
@@ -336,9 +369,9 @@
 			}
 			"press"
 			{
-				"buildid"		"11526149"
+				"buildid"		"12955601"
 				"pwdrequired"		"1"
-				"timeupdated"		"1687361473"
+				"timeupdated"		"1703148136"
 			}
 			"test"
 			{
