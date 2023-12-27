@@ -274,6 +274,46 @@
 					"osarch"		"64"
 				}
 			}
+			"3"
+			{
+				"executable"		"EndlessLegend.exe"
+				"arguments"		"-single-instance"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+			"4"
+			{
+				"executable"		"EndlessLegend.exe"
+				"arguments"		"-single-instance"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"rollback"
+				}
+				"description_loc"
+				{
+					"english"		"Rollback branch users"
+				}
+				"description"		"Rollback branch users"
+			}
+			"5"
+			{
+				"executable"		"EndlessLegend.exe"
+				"arguments"		"-single-instance"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+				"description_loc"
+				{
+					"english"		"SteamDeck compatibility"
+				}
+				"description"		"SteamDeck compatibility"
+			}
 		}
 		"steamcontrollertemplateindex"		"1"
 		"steamcontrollertouchtemplateindex"		"1"
