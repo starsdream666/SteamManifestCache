@@ -1,0 +1,220 @@
+"appinfo"
+{
+	"appid"		"532770"
+	"common"
+	{
+		"name"		"Time Leap Paradise SUPER LIVE!"
+		"type"		"Game"
+		"oslist"		"windows"
+		"osarch"		""
+		"clienticon"		"f1e093be56f896550681bb7ba22961c99ca76a1a"
+		"clienttga"		"a7faed167e46388b8141810567afde5ba67b73a4"
+		"icon"		"4e3a6b1b2bacc36a6f3cb6b89b7542d1b79bf246"
+		"logo"		"621b82a4355a6f769b92cf5d4dc7bace192ed971"
+		"logo_small"		"621b82a4355a6f769b92cf5d4dc7bace192ed971_thumb"
+		"releasestate"		"released"
+		"content_descriptors"
+		{
+			"0"		"1"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_sex"		"1"
+		"metacritic_name"		"Time Leap Paradise SUPER LIVE!"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"30.045995599568244"
+				"height_pct"		"89.12107234033871"
+			}
+		}
+		"store_asset_mtime"		"1618461059"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Frontwing"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Frontwing USA"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"4"
+			"1"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1481858219"
+		"community_hub_visible"		"1"
+		"gameid"		"532770"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"4085"
+			"1"		"597"
+			"2"		"4726"
+			"3"		"1752"
+			"4"		"4747"
+			"5"		"7208"
+			"6"		"4191"
+			"7"		"4182"
+			"8"		"4136"
+			"9"		"9551"
+			"10"		"1742"
+			"11"		"3799"
+			"12"		"113"
+			"13"		"1621"
+			"14"		"6650"
+			"15"		"5407"
+			"16"		"12095"
+			"17"		"10397"
+			"18"		"615955"
+			"19"		"1756"
+		}
+		"review_score"		"6"
+		"review_percentage"		"77"
+	}
+	"extended"
+	{
+		"developer"		"Frontwing"
+		"publisher"		"Frontwing USA"
+		"isfreeapp"		"1"
+		"listofdlc"		"551790"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"contenttype"		"3"
+		"installdir"		"Time Leap Paradise SUPER LIVE!"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"tlpsl.exe"
+				"type"		"none"
+			}
+		}
+	}
+	"depots"
+	{
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"532771"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7600346738351591722"
+					"size"		"303944046"
+					"download"		"242215248"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"debug"
+				{
+					"gid"		"9EFD89157063957E5E5098DFF2A0B730"
+					"size"		"09FDAD72604B036AD4A55A84077BAE8F"
+					"download"		"F95F1E55BC69161B0C13251D4F3673C8"
+				}
+				"support_20161226_01"
+				{
+					"gid"		"8D376648CB27DCC1FE953CA86BE991D3"
+					"size"		"62C4964F25AF7BE4DB4A2B7B21BF2F6D"
+					"download"		"DF8523E315BF17B56153A0D7E417476E"
+				}
+			}
+		}
+		"551790"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7018003706444498255"
+					"size"		"6215665806"
+					"download"		"4389060608"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"debug"
+				{
+					"gid"		"77C368633647CA04BF094C42E9FFE59C"
+					"size"		"32844C892B98F8F219B6320E1AF61C1F"
+					"download"		"B5767F2EA7C406A14B69415A03589A96"
+				}
+				"support_20161226_01"
+				{
+					"gid"		"5DEC99399A6715CB926A064F7B985465"
+					"size"		"6851A7497EC5535E40E187ADFC2CBC8A"
+					"download"		"F03CB65713DA2BE3C12694F13C376A56"
+				}
+			}
+			"dlcappid"		"551790"
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"1541962"
+				"timeupdated"		"1483503937"
+			}
+			"debug"
+			{
+				"buildid"		"1541962"
+				"pwdrequired"		"1"
+				"timeupdated"		"1482846214"
+			}
+			"support_20161226_01"
+			{
+				"buildid"		"1540942"
+				"pwdrequired"		"1"
+				"timeupdated"		"1482750190"
+			}
+		}
+	}
+}
