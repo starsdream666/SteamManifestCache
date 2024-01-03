@@ -1,0 +1,304 @@
+"appinfo"
+{
+	"appid"		"1032430"
+	"common"
+	{
+		"name"		"Blood Trail"
+		"type"		"Game"
+		"releasestate"		"released"
+		"controllervr"
+		{
+			"steamvr"		"1"
+			"oculus"		"1"
+		}
+		"playareavr"
+		{
+			"standing"		"1"
+			"roomscale"
+			{
+				"width"		"2"
+				"depth"		"1.5"
+				"360_required"		"0"
+			}
+			"seated"		"1"
+		}
+		"icon"		"21b03748e4d98aba537b42a26b90baa9a38976de"
+		"clienttga"		"2a0d9a73f8a8048992325e42f1b09891e09666a7"
+		"linuxclienticon"		"3ccc257e4f812bafb54f43874c1d03e7ec7fd0e4"
+		"logo"		"222ec8125f3bc79b7b62a37807bea0c22a5cd550"
+		"logo_small"		"222ec8125f3bc79b7b62a37807bea0c22a5cd550_thumb"
+		"clienticon"		"deea8f240538d36cd374692d23ca2b48ee6cb858"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1032430_eula_0"
+				"name"		"Blood Trail EULA"
+				"url"		"https://store.steampowered.com//eula/1032430_eula_0"
+			}
+		}
+		"openvrsupport"		"1"
+		"othervrsupport"		"1"
+		"othervrsupport_rift_13"		"1"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1644537600"
+			"tested_build_id"		"0"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport_VR"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+			}
+		}
+		"metacritic_name"		"Blood Trail"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1657139395"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Electrovore"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Electrovore"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_52"		"1"
+			"category_54"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1553706000"
+		"community_hub_visible"		"1"
+		"gameid"		"1032430"
+		"onlyvrsupport"		"1"
+		"store_tags"
+		{
+			"0"		"4345"
+			"1"		"4667"
+			"2"		"19"
+			"3"		"21978"
+			"4"		"1667"
+			"5"		"493"
+			"6"		"3810"
+			"7"		"1774"
+			"8"		"1721"
+			"9"		"1663"
+			"10"		"4182"
+			"11"		"4342"
+			"12"		"4175"
+			"13"		"3859"
+			"14"		"5228"
+		}
+		"review_score"		"6"
+		"review_percentage"		"79"
+	}
+	"extended"
+	{
+		"vrheadsetstreaming"		"1"
+		"developer"		"Electrovore"
+		"publisher"		"Electrovore"
+		"homepage"		"http://www.bloodtrailgame.com"
+	}
+	"config"
+	{
+		"installdir"		"Blood Trail"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"BloodTrail_419ai.exe"
+				"type"		"vr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+			"1"
+			{
+				"executable"		"BloodTrail_419ai.exe"
+				"type"		"othervr"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"228986"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"baselanguages"		"english"
+		"1032431"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+				"osarch"		"64"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"4008090271247957884"
+					"size"		"13249965136"
+					"download"		"12853750112"
+				}
+				"debug_controller"
+				{
+					"gid"		"9197012161352365724"
+					"size"		"11350840012"
+					"download"		"10995254512"
+				}
+				"experimental"
+				{
+					"gid"		"2587670086928726487"
+					"size"		"13237355560"
+					"download"		"12846684240"
+				}
+				"legacy_branch_1"
+				{
+					"gid"		"8560133794385742689"
+					"size"		"21518553300"
+					"download"		"8966198784"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"debug_branch"
+				{
+					"gid"		"438E87156DA3B756AFECDAE1CD000340"
+					"size"		"DA5CC5536ED6CD9A6C5F0FB5D69989D5"
+					"download"		"30F62C4336571E78068644732AB4DDF3"
+				}
+				"internal_test"
+				{
+					"gid"		"2BCCD197757E87708E5864589BCB3CDB"
+					"size"		"20904ADDFCFE9C0B5A638E246AF192D5"
+					"download"		"E709A4FF9841DEEF79CE55290B6D11EA"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"9026022"
+				"timeupdated"		"1656477870"
+			}
+			"debug_branch"
+			{
+				"buildid"		"9335305"
+				"pwdrequired"		"1"
+				"timeupdated"		"1660793780"
+			}
+			"debug_controller"
+			{
+				"buildid"		"7200449"
+				"description"		"temp branch for debugging controller issues"
+				"timeupdated"		"1629226285"
+			}
+			"experimental"
+			{
+				"buildid"		"9335305"
+				"description"		"EXPECT GLITCHES!"
+				"timeupdated"		"1660895705"
+			}
+			"internal_test"
+			{
+				"buildid"		"9375557"
+				"pwdrequired"		"1"
+				"timeupdated"		"1661310262"
+			}
+			"legacy_branch_1"
+			{
+				"buildid"		"5022962"
+				"description"		"Original upload date May 13 2020"
+				"timeupdated"		"1618616965"
+			}
+		}
+	}
+}
