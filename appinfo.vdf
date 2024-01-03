@@ -80,11 +80,10 @@
 				"name"		"Snigelsoft"
 			}
 		}
-		"primary_genre"		"37"
+		"primary_genre"		"25"
 		"genres"
 		{
 			"0"		"25"
-			"1"		"37"
 		}
 		"category"
 		{
@@ -112,16 +111,15 @@
 			"4"		"4182"
 			"5"		"3834"
 			"6"		"3799"
-			"7"		"4191"
-			"8"		"5537"
+			"7"		"5537"
+			"8"		"4191"
 			"9"		"4175"
 			"10"		"4166"
 			"11"		"1654"
 			"12"		"6910"
-			"13"		"113"
-			"14"		"1681"
-			"15"		"5094"
-			"16"		"7250"
+			"13"		"1681"
+			"14"		"5094"
+			"15"		"7250"
 		}
 		"review_score"		"8"
 		"review_percentage"		"91"
@@ -162,9 +160,18 @@
 			{
 				"public"
 				{
-					"gid"		"4849742794657831160"
-					"size"		"1364840371"
-					"download"		"673206512"
+					"gid"		"8819462321787497349"
+					"size"		"1278611746"
+					"download"		"675261424"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"betatest"
+				{
+					"gid"		"A755BB02674E56D693439493FD7400C6"
+					"size"		"EC6E823B2363E56CDB2DAB37C9223328"
+					"download"		"80529F557BCC92A2AF48E7A6833D49B5"
 				}
 			}
 		}
@@ -172,8 +179,32 @@
 		{
 			"public"
 			{
-				"buildid"		"11341066"
-				"timeupdated"		"1685355013"
+				"buildid"		"13084820"
+				"timeupdated"		"1704306044"
+			}
+			"betatest"
+			{
+				"buildid"		"13084820"
+				"pwdrequired"		"1"
+				"timeupdated"		"1704294590"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"10000000"
+		"maxnumfiles"		"100"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"Snigelsoft/Beyond a Coral Sea/{64BitSteamID}"
+				"pattern"		"*"
+				"platforms"
+				{
+					"1"		"Windows"
+				}
 			}
 		}
 	}
