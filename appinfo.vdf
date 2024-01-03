@@ -16,6 +16,7 @@
 		{
 			"tchinese"		"姦控の器"
 			"schinese"		"姦控の器"
+			"japanese"		"姦視カメラ"
 		}
 		"content_descriptors"
 		{
@@ -75,18 +76,21 @@
 			"english"		"capsule_231x87.jpg"
 			"tchinese"		"capsule_231x87_tchinese.jpg"
 			"schinese"		"capsule_231x87_schinese.jpg"
+			"japanese"		"capsule_231x87_japanese.jpg"
 		}
 		"header_image"
 		{
 			"english"		"header.jpg"
 			"tchinese"		"header_tchinese.jpg"
 			"schinese"		"header_schinese.jpg"
+			"japanese"		"header_japanese.jpg"
 		}
 		"library_assets"
 		{
-			"library_capsule"		"en,zh-tw,zh-cn"
+			"library_capsule"		"en,zh-tw,zh-cn,ja"
 			"library_hero"		"en,zh-tw,zh-cn"
-			"library_logo"		"en,zh-tw,zh-cn"
+			"library_logo"		"en,zh-tw,zh-cn,ja"
+			"library_header"		"ja"
 			"logo_position"
 			{
 				"pinned_position"		"BottomLeft"
@@ -94,7 +98,7 @@
 				"height_pct"		"82.16650898770106"
 			}
 		}
-		"store_asset_mtime"		"1676364277"
+		"store_asset_mtime"		"1704262885"
 		"associations"
 		{
 			"0"
@@ -138,6 +142,11 @@
 				"supported"		"true"
 				"subtitles"		"true"
 			}
+			"japanese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
 		}
 		"steam_release_date"		"1676304166"
 		"community_visible_stats"		"1"
@@ -161,7 +170,7 @@
 			"13"		"4182"
 		}
 		"review_score"		"6"
-		"review_percentage"		"71"
+		"review_percentage"		"70"
 	}
 	"extended"
 	{
@@ -197,9 +206,9 @@
 			{
 				"public"
 				{
-					"gid"		"6294897872203879462"
-					"size"		"1161857895"
-					"download"		"709827008"
+					"gid"		"1041571913659782672"
+					"size"		"1167230537"
+					"download"		"714596656"
 				}
 			}
 			"encryptedmanifests"
@@ -216,8 +225,8 @@
 		{
 			"public"
 			{
-				"buildid"		"10699108"
-				"timeupdated"		"1678092097"
+				"buildid"		"13045509"
+				"timeupdated"		"1704270756"
 			}
 			"testversion"
 			{
@@ -238,7 +247,6 @@
 				"root"		"gameinstall"
 				"path"		"SaveData"
 				"pattern"		"*.sav"
-				"recursive"		"1"
 			}
 		}
 	}
