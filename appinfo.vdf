@@ -169,9 +169,14 @@
 			{
 				"supported"		"true"
 			}
+			"brazilian"
+			{
+				"supported"		"true"
+			}
 		}
 		"steam_release_date"		"1565118276"
 		"community_visible_stats"		"1"
+		"workshop_visible"		"1"
 		"community_hub_visible"		"1"
 		"gameid"		"809140"
 		"store_tags"
@@ -217,6 +222,7 @@
 				"config"
 				{
 					"oslist"		"windows"
+					"osarch"		"64"
 				}
 				"description_loc"
 				{
@@ -226,7 +232,12 @@
 			}
 			"1"
 			{
-				"executable"		"Cliff Empire HQ.exe"
+				"executable"		"REMASTER\\Cliff Empire.exe"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
 				"description_loc"
 				{
 					"english"		"Cliff Empire - Remastered"
@@ -249,24 +260,24 @@
 			{
 				"public"
 				{
-					"gid"		"6605371467549979612"
-					"size"		"1111778430"
-					"download"		"790600624"
+					"gid"		"3863689222936419446"
+					"size"		"1169580981"
+					"download"		"815938288"
 				}
 				"betatesting"
 				{
-					"gid"		"6605371467549979612"
-					"size"		"1111778430"
-					"download"		"790600624"
+					"gid"		"3863689222936419446"
+					"size"		"1169580981"
+					"download"		"815938288"
 				}
 			}
 			"encryptedmanifests"
 			{
 				"devmode"
 				{
-					"gid"		"8A43CE7EF7840FA0E0886EC1B832E8FD"
-					"size"		"A9F89C146A67951FEF3F7F9C285F44DE"
-					"download"		"0EEDE1AA90CE7529918532834EF8903E"
+					"gid"		"5F7ACB4ED57B3C306B847BB45F1CA9F9"
+					"size"		"ACBA80A2864A367530847B49F360EFF5"
+					"download"		"4609012DD5E3B22F677B728295D6C403"
 				}
 			}
 		}
@@ -275,20 +286,20 @@
 		{
 			"public"
 			{
-				"buildid"		"10548750"
-				"timeupdated"		"1676381716"
+				"buildid"		"13085682"
+				"timeupdated"		"1704303115"
 			}
 			"betatesting"
 			{
-				"buildid"		"10548750"
+				"buildid"		"13085682"
 				"description"		"Newest builds available here. may have some bugs."
-				"timeupdated"		"1676381381"
+				"timeupdated"		"1704303092"
 			}
 			"devmode"
 			{
-				"buildid"		"10548750"
+				"buildid"		"13085682"
 				"pwdrequired"		"1"
-				"timeupdated"		"1676381308"
+				"timeupdated"		"1704302655"
 			}
 		}
 	}
