@@ -1,0 +1,595 @@
+"appinfo"
+{
+	"appid"		"1548850"
+	"common"
+	{
+		"name"		"Six Days in Fallujah"
+		"type"		"Game"
+		"releasestate"		"released"
+		"logo"		"96282c02afeb7eeeab3dc4289f562265c0fbf91a"
+		"logo_small"		"96282c02afeb7eeeab3dc4289f562265c0fbf91a_thumb"
+		"icon"		"10896561621de499b220167574c3acda30adf621"
+		"clienttga"		"c7faca9222d6dffb1ebe3454ec0f83674485b83d"
+		"clienticon"		"94594a254230f3b1ed5de64ce41fff4099ef69c1"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"italian"		"1"
+			"koreana"		"1"
+			"schinese"		"1"
+			"brazilian"		"1"
+			"latam"		"1"
+		}
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1548850_eula_0"
+				"name"		"Six Days in Fallujah EULA"
+				"url"		"https://store.steampowered.com//eula/1548850_eula_0"
+				"version"		"2"
+			}
+		}
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1691798400"
+			"tested_build_id"		"11845898"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+				}
+				"4"
+				{
+					"display"		"1"
+					"token"		"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"1"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controller_support"		"full"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"66.47529062485884"
+				"height_pct"		"68.00717471021537"
+			}
+		}
+		"store_asset_mtime"		"1703012501"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Highwire Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Victura"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"Six Days"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"70"
+		}
+		"category"
+		{
+			"category_1"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_22"		"1"
+			"category_28"		"1"
+			"category_2"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"french"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"german"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"latam"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"italian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"spanish"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"brazilian"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"portuguese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1687441860"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1548850"
+		"store_tags"
+		{
+			"0"		"4168"
+			"1"		"1708"
+			"2"		"1663"
+			"3"		"1774"
+			"4"		"3839"
+			"5"		"6730"
+			"6"		"1685"
+			"7"		"4175"
+			"8"		"4684"
+			"9"		"3987"
+			"10"		"620519"
+			"11"		"19"
+			"12"		"5711"
+			"13"		"6869"
+			"14"		"1678"
+			"15"		"1687"
+			"16"		"5984"
+			"17"		"5608"
+			"18"		"5673"
+			"19"		"11333"
+		}
+		"review_score"		"8"
+		"review_percentage"		"85"
+	}
+	"extended"
+	{
+		"developer"		"Highwire Games"
+		"publisher"		"Victura"
+		"homepage"		"https://sixdays.com"
+	}
+	"config"
+	{
+		"installdir"		"Six Days in Fallujah"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"SixDays.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+				}
+			}
+		}
+		"steamcontrollertemplateindex"		"3"
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"9"
+	}
+	"depots"
+	{
+		"228989"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"228990"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"depotfromapp"		"228980"
+			"sharedinstall"		"1"
+		}
+		"1548851"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6562671627952818118"
+					"size"		"21380491193"
+					"download"		"12911406752"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"adhoc-d"
+				{
+					"gid"		"18AF90907188CC8A99DD6B3A33BD9455"
+					"size"		"AB2539372B3287521AF235D28C12AA8D"
+					"download"		"7E3496FC9A1E56A7B18F1D4174FCE373"
+				}
+				"adhoc-g"
+				{
+					"gid"		"3D7600449B2E422C062DFB7379EDEF5B"
+					"size"		"4DA2DF453E565D47DCA35094A6CD0634"
+					"download"		"C4D7707428CF248092EE04E98FE9E97C"
+				}
+				"adhoc-j"
+				{
+					"gid"		"3018802DA9EF1D114B433A818C6CF884"
+					"size"		"05760CBBAB119DCCAA66F751F1AF850C"
+					"download"		"E0D60DCB2919F06DF022ACD328F3ECF9"
+				}
+				"adhoc-k"
+				{
+					"gid"		"7D4A4911B6700BAA23E79D33B31FE65D"
+					"size"		"855FB198D26DCECEE1B652F141B1C84F"
+					"download"		"D0EC5695464B11E2B6708EFB3BEEDFE0"
+				}
+				"adhoc-l"
+				{
+					"gid"		"30F6A1DF36B0571CF446E1FE32760D3B"
+					"size"		"91F3904F17018335E4233B11DBCC97B9"
+					"download"		"A79BD38E4A58824DF7E11E06BFD6AEB4"
+				}
+				"adhoc-p"
+				{
+					"gid"		"0EA6030AA8CFA1A3EC7D731C860F0749"
+					"size"		"3FC89C18829FCB5D150D9F0FE31564BB"
+					"download"		"E44D29A80751051D3C467C064BFCE0B2"
+				}
+				"adhoc-q"
+				{
+					"gid"		"477FE22C4824C1DCC97BE8100F8A7AA2"
+					"size"		"36F4E9C0C66947F51DD08F1D782B373E"
+					"download"		"203E82AFA058A3131BEEC88D291846A8"
+				}
+				"adhoc-s"
+				{
+					"gid"		"D66A17ECCD34A7D8BC740F23CD463E9E"
+					"size"		"A32A37EC8FCA1A33E2A3682F6EBE23F5"
+					"download"		"F32E1BE407C2CB97B737E3BF0CFD8AF9"
+				}
+				"adhoc-t"
+				{
+					"gid"		"A8A024DDE81E0708ED99FAB27DCCCC04"
+					"size"		"8DD0EC4EF3897E07B38F49C90E959EEE"
+					"download"		"2466CBADD4C07A82BE42F945CA401B90"
+				}
+				"adhoc-v"
+				{
+					"gid"		"03A361454D4BB3F58FE3C17FBE9054A6"
+					"size"		"27F3D9FF97F468BE920F443387D4FD8B"
+					"download"		"DAB1B94FF1BFB0A28EE17346E9CD4697"
+				}
+				"adhoc-x"
+				{
+					"gid"		"247CAD0AF3FDC9EC9CE5ECD0C48E8773"
+					"size"		"B84AFADAA813233817BE79AD8B72309B"
+					"download"		"138A2DEE1F0026F3BD7BB1A145563C7C"
+				}
+				"adhoc-z"
+				{
+					"gid"		"5FE04795C37E5CC3CC8BFC6D35B5C5BC"
+					"size"		"0E30D06F8E43C8E78333D383CCCD3DB0"
+					"download"		"BE15481CA5F5CB1DB9AA2EA6219EEC85"
+				}
+				"creator"
+				{
+					"gid"		"8AB9135F1F0A4617860B83F27084FF4C"
+					"size"		"173327EDFB4090E2CCAFCC312D851FD1"
+					"download"		"9C69A33E24900BA3DF5F41684AA744E5"
+				}
+				"keywords"
+				{
+					"gid"		"29AAEEF58BE2A15903DB2CE14EA81A11"
+					"size"		"D52030D50BD4F4024BB779655BD37066"
+					"download"		"32EAECB367C927B3239C5C05B1463047"
+				}
+				"live-shipping-auto"
+				{
+					"gid"		"777E0E45D22F3CAC1C3C04DA94075249"
+					"size"		"7EA5C12DF66DC76AA02D12B2DFB8A17D"
+					"download"		"A15D548BBA8A445B6221C2D2036E8E09"
+				}
+				"live-test-auto"
+				{
+					"gid"		"ECF03C8D793A55C1673C1D364F598EA0"
+					"size"		"9CD682B573704B23B82550241C438F54"
+					"download"		"E0255A536E454B03406C2F8B266E5B62"
+				}
+				"loc-test"
+				{
+					"gid"		"28E73E8613C91D565619CB96FA587423"
+					"size"		"62858C01DB9B284B1E90F5716188FEEC"
+					"download"		"8791F539937CF44480DE4EF8CE60F9D8"
+				}
+				"main-dev-auto"
+				{
+					"gid"		"5912F6D6A2CF71E889674ACAD48713B4"
+					"size"		"68010B2C42DEC12DD1C76C96716634FD"
+					"download"		"98FB7C438E5462D2F526B73708C2F5BF"
+				}
+				"main-shipping-auto"
+				{
+					"gid"		"9910720885CBB0F49549F05C76BE083D"
+					"size"		"109F9348A5A637590576B70C3E685838"
+					"download"		"127C5FFA17BC193BB5874BD982452722"
+				}
+				"main-test-auto"
+				{
+					"gid"		"FDE21E1E86806A23E2F0B7D3B9565BCF"
+					"size"		"D3E4642662DEAF0CA17C747D9B05F735"
+					"download"		"A625A718C0D1E5C69869C0B424BCFB8B"
+				}
+				"release-dev-auto"
+				{
+					"gid"		"35B601A23F7851C9A6AEA4C3DF584FC2"
+					"size"		"D9C312BEC4D3915DF077189C28C0EEA8"
+					"download"		"E8C426EF5F7C35982F7AE2D60DD6F2A4"
+				}
+				"release-shipping-auto"
+				{
+					"gid"		"DB4C207389931EAC9F0F227D96DC72D6"
+					"size"		"0D9A431C955BFA6070B8B01D8F2266CE"
+					"download"		"660935EE1085FC896B3DBF05DE947922"
+				}
+				"release-test-auto"
+				{
+					"gid"		"14DF11ABD79F9A558A52869B44F1B83A"
+					"size"		"4FDA7B3E239EF46BEC87F5240C23D934"
+					"download"		"B7FCAE185591FE54E253F88DC26BDE9D"
+				}
+				"staging"
+				{
+					"gid"		"F8E84456DBA1AFD5CC50CC999A5A363F"
+					"size"		"CA0B07FB74FC8E5FD0BC6EFD304F70D3"
+					"download"		"3EBD9F468ADAFAB1D46095FE499212E7"
+				}
+			}
+		}
+		"baselanguages"		"english,german,french,italian,koreana,spanish,schinese,latam"
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"13024870"
+				"timeupdated"		"1703270217"
+			}
+			"adhoc-d"
+			{
+				"buildid"		"12752567"
+				"pwdrequired"		"1"
+				"timeupdated"		"1700503936"
+			}
+			"adhoc-g"
+			{
+				"buildid"		"12856243"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701485313"
+			}
+			"adhoc-j"
+			{
+				"buildid"		"12833750"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701303346"
+			}
+			"adhoc-k"
+			{
+				"buildid"		"12915297"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702071360"
+			}
+			"adhoc-l"
+			{
+				"buildid"		"12975622"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702668577"
+			}
+			"adhoc-p"
+			{
+				"buildid"		"12992553"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702927196"
+			}
+			"adhoc-q"
+			{
+				"buildid"		"12987430"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702884168"
+			}
+			"adhoc-s"
+			{
+				"buildid"		"12946139"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702431475"
+			}
+			"adhoc-t"
+			{
+				"buildid"		"13088408"
+				"pwdrequired"		"1"
+				"timeupdated"		"1704332884"
+			}
+			"adhoc-v"
+			{
+				"buildid"		"12854585"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701467757"
+			}
+			"adhoc-x"
+			{
+				"buildid"		"12884653"
+				"pwdrequired"		"1"
+				"timeupdated"		"1701820775"
+			}
+			"adhoc-z"
+			{
+				"buildid"		"13006171"
+				"pwdrequired"		"1"
+				"timeupdated"		"1703037734"
+			}
+			"creator"
+			{
+				"buildid"		"12978409"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702949158"
+			}
+			"keywords"
+			{
+				"buildid"		"12968306"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702613597"
+			}
+			"live-shipping-auto"
+			{
+				"buildid"		"13024870"
+				"pwdrequired"		"1"
+				"timeupdated"		"1703203917"
+			}
+			"live-test-auto"
+			{
+				"buildid"		"13025176"
+				"pwdrequired"		"1"
+				"timeupdated"		"1703204895"
+			}
+			"loc-test"
+			{
+				"buildid"		"12947117"
+				"pwdrequired"		"1"
+				"timeupdated"		"1702440748"
+			}
+			"main-dev-auto"
+			{
+				"buildid"		"13091712"
+				"pwdrequired"		"1"
+				"timeupdated"		"1704368864"
+			}
+			"main-shipping-auto"
+			{
+				"buildid"		"13091614"
+				"pwdrequired"		"1"
+				"timeupdated"		"1704368307"
+			}
+			"main-test-auto"
+			{
+				"buildid"		"13091637"
+				"pwdrequired"		"1"
+				"timeupdated"		"1704368443"
+			}
+			"release-dev-auto"
+			{
+				"buildid"		"13090746"
+				"pwdrequired"		"1"
+				"timeupdated"		"1704361428"
+			}
+			"release-shipping-auto"
+			{
+				"buildid"		"13090737"
+				"pwdrequired"		"1"
+				"timeupdated"		"1704361346"
+			}
+			"release-test-auto"
+			{
+				"buildid"		"13090686"
+				"pwdrequired"		"1"
+				"timeupdated"		"1704360932"
+			}
+			"staging"
+			{
+				"buildid"		"13024870"
+				"pwdrequired"		"1"
+				"timeupdated"		"1703258526"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"2"
+	}
+}
