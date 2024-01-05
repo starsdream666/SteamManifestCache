@@ -145,13 +145,13 @@
 			"19"		"12057"
 		}
 		"review_score"		"8"
-		"review_percentage"		"86"
+		"review_percentage"		"87"
 	}
 	"extended"
 	{
 		"developer"		"Fully Involved Game Studios"
 		"publisher"		"PlayWay S.A."
-		"listofdlc"		"1381670,2406820,2406821,2752060"
+		"listofdlc"		"1381670,2406820,2406821,2664030,2752060"
 		"dlcavailableonstore"		"1"
 	}
 	"config"
@@ -219,6 +219,12 @@
 					"size"		"4044670965"
 					"download"		"3888865936"
 				}
+				"testing"
+				{
+					"gid"		"1821411083438504633"
+					"size"		"4752683009"
+					"download"		"4566784224"
+				}
 			}
 			"encryptedmanifests"
 			{
@@ -228,17 +234,23 @@
 					"size"		"C82823104E243B843CFEDF275E274D11"
 					"download"		"B8D8066816D872115DD2BD216D76DFE8"
 				}
+				"debugging"
+				{
+					"gid"		"16D31689969EBB24D96D07B72B84C513"
+					"size"		"E9900828BAF5EAE4CC768D67F81EF215"
+					"download"		"5A7A5D0459BB084058108048A61E9B41"
+				}
 				"developerbranch"
 				{
-					"gid"		"731922DCBCE6CB3FFE9C3B18833F32AD"
-					"size"		"A4A3EE641AD88EAFE3A021B2065F3CCF"
-					"download"		"3A7AA386AD2C1788A44BB16A6BF610C0"
+					"gid"		"8FADB54D4D009742B6B0D4031D7991DD"
+					"size"		"70D8518DCFF4CCA20FE846060FCC747F"
+					"download"		"903681501C67B2A573BF7C347574D67C"
 				}
 				"patreondecember"
 				{
-					"gid"		"8305F39B7B4492370F864C5160AB55F0"
-					"size"		"26B6B715C1AF8FD119EBD87352EC5D68"
-					"download"		"8E657069DEA5435C2A4A24059960468D"
+					"gid"		"A01D25C2318AA0EA220399B57104BB67"
+					"size"		"DE08C43564CB11C02969F4142ED75E02"
+					"download"		"85411A2E0BEECB66CE5B63A149AC9526"
 				}
 			}
 		}
@@ -256,11 +268,17 @@
 				"pwdrequired"		"1"
 				"timeupdated"		"1668682854"
 			}
+			"debugging"
+			{
+				"buildid"		"13080535"
+				"pwdrequired"		"1"
+				"timeupdated"		"1704243664"
+			}
 			"developerbranch"
 			{
-				"buildid"		"13070958"
+				"buildid"		"13093936"
 				"pwdrequired"		"1"
-				"timeupdated"		"1704071283"
+				"timeupdated"		"1704390530"
 			}
 			"levelmoddingbranch"
 			{
@@ -270,15 +288,21 @@
 			}
 			"patreondecember"
 			{
-				"buildid"		"13070958"
+				"buildid"		"13097108"
 				"pwdrequired"		"1"
-				"timeupdated"		"1704071505"
+				"timeupdated"		"1704421464"
 			}
 			"retro"
 			{
 				"buildid"		"5903618"
 				"description"		"2020 Build"
 				"timeupdated"		"1675070251"
+			}
+			"testing"
+			{
+				"buildid"		"13097108"
+				"description"		"test"
+				"timeupdated"		"1704421453"
 			}
 		}
 	}
