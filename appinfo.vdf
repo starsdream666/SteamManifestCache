@@ -1,0 +1,396 @@
+"appinfo"
+{
+	"appid"		"1546320"
+	"common"
+	{
+		"name"		"Your Chronicle"
+		"type"		"Game"
+		"oslist"		"windows,macos,linux"
+		"osarch"		"64"
+		"osextended"		"macos64"
+		"logo"		"0dfecdb5b7fb4b313010373d7e36a7451e0c7a5d"
+		"logo_small"		"0dfecdb5b7fb4b313010373d7e36a7451e0c7a5d_thumb"
+		"icon"		"666778b722feffcaa9fb0c72d9931099d715b929"
+		"clienticon"		"02a662faa71a9c999fd82ca118fe2524bf52b18b"
+		"clienttga"		"b7b78636690e15d285e98e56c54a7598361ddd80"
+		"languages"
+		{
+			"english"		"1"
+			"schinese"		"1"
+			"japanese"		"1"
+		}
+		"releasestate"		"released"
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1660176000"
+			"tested_build_id"		"8892477"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+				}
+				"4"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"1"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"native"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"controllertagwizard"		"1"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn"
+			"library_hero"		"en"
+			"library_logo"		"en,zh-cn"
+			"logo_position"
+			{
+				"pinned_position"		"CenterCenter"
+				"width_pct"		"100"
+				"height_pct"		"100"
+			}
+		}
+		"store_asset_mtime"		"1701915588"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"Samurai Games"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"Samurai Games"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"3"
+			"1"		"37"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_35"		"1"
+			"category_23"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+			}
+			"japanese"
+			{
+				"supported"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+			}
+		}
+		"steam_release_date"		"1617580827"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"1546320"
+		"exfgls"		"1"
+		"store_tags"
+		{
+			"0"		"122"
+			"1"		"615955"
+			"2"		"31275"
+			"3"		"379975"
+			"4"		"21"
+			"5"		"1084988"
+			"6"		"113"
+			"7"		"4182"
+			"8"		"5652"
+			"9"		"1684"
+			"10"		"3871"
+			"11"		"4172"
+			"12"		"4057"
+			"13"		"4608"
+			"14"		"1708"
+		}
+		"review_score"		"6"
+		"review_percentage"		"79"
+	}
+	"extended"
+	{
+		"developer"		"Samurai Games"
+		"publisher"		"Samurai Games"
+		"isfreeapp"		"1"
+		"listofdlc"		"1682010"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"YourChronicle"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"YourChronicle.app\\Contents\\MacOS\\YourChronicle"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"macos"
+				}
+			}
+			"1"
+			{
+				"executable"		"YourChronicle.exe"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+			}
+			"2"
+			{
+				"executable"		"YourChronicle.x86_64"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"linux"
+				}
+			}
+		}
+	}
+	"depots"
+	{
+		"baselanguages"		"english,japanese"
+		"1546321"
+		{
+			"config"
+			{
+				"oslist"		"windows"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7006942324849478130"
+					"size"		"245949685"
+					"download"		"62753776"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"D5D697A7D09A1A2FA823C7B9D656BCAA"
+					"size"		"23FFA2A0EADA77517908EE0989C128DE"
+					"download"		"350A8D8160AE5841B86AB2DF03E06EF0"
+				}
+				"develop"
+				{
+					"gid"		"1660A0E4BE9C8C4A94FBD81F42B25DF9"
+					"size"		"3EF7441E0F98E59FF5EF93953C92888F"
+					"download"		"1CF24081720018524036FCA7D7513C33"
+				}
+			}
+		}
+		"1546322"
+		{
+			"config"
+			{
+				"oslist"		"macos"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"6788748729697428948"
+					"size"		"231211131"
+					"download"		"58444848"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"C1E330118DCAF5059686F824062DCE63"
+					"size"		"8C455B8A4E7605936DF218F0A874863D"
+					"download"		"8781905408A236CC490D6029A47EAEB1"
+				}
+				"develop"
+				{
+					"gid"		"47F9A0875DAA4BD8AB3DA4C7D5BA5946"
+					"size"		"3944AAB7A53189FE521C85652E4A1201"
+					"download"		"F2F756D1C3498DDE173BF2C52D995D5E"
+				}
+			}
+		}
+		"1546323"
+		{
+			"config"
+			{
+				"oslist"		"linux"
+			}
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"567122420258320957"
+					"size"		"238545616"
+					"download"		"59699632"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"DC1B50A09B6C9D6CAFBCB546EFB99952"
+					"size"		"1ED490869D81D6BAC9E7EE5BB37D836E"
+					"download"		"2BC67128F129154A50F2EED51F0188AE"
+				}
+				"develop"
+				{
+					"gid"		"9420A64852CF937B45D626E9063989FD"
+					"size"		"D4B71265FFF351F070EFDEAE77DD8253"
+					"download"		"501FF87F309423BF4CD0D746D66299A1"
+				}
+			}
+		}
+		"1682010"
+		{
+			"dlcappid"		"1682010"
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7173663477377120295"
+					"size"		"5813290"
+					"download"		"5892384"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"4B3FCD59AD1B39BC655E8F88D889F6D2"
+					"size"		"0529C36521BE208C3498D8981AB281BC"
+					"download"		"D85E11EC8D4048A7FA83023376EFB431"
+				}
+				"develop"
+				{
+					"gid"		"C908802212EE5A19355B5406D73D161D"
+					"size"		"E7C3B6D3D1D21E7C8E2F9D77A7BD55EB"
+					"download"		"8E4DE8844736615E986C1680A45EC795"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"12982150"
+				"timeupdated"		"1702775505"
+			}
+			"beta"
+			{
+				"buildid"		"13046140"
+				"pwdrequired"		"1"
+				"timeupdated"		"1703573029"
+			}
+			"develop"
+			{
+				"buildid"		"12568646"
+				"pwdrequired"		"1"
+				"timeupdated"		"1698640956"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"1000000"
+		"maxnumfiles"		"10"
+		"savefiles"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"path"		"SamuraiGames/YourChronicle"
+				"pattern"		"*.dat"
+			}
+		}
+		"rootoverrides"
+		{
+			"0"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"MacOS"
+				"oscompare"		"="
+				"useinstead"		"MacAppSupport"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"SamuraiGames/YourChronicle"
+						"replace"		"SamuraiGames/YourChronicle"
+					}
+				}
+			}
+			"1"
+			{
+				"root"		"WinAppDataLocalLow"
+				"os"		"Linux"
+				"oscompare"		"="
+				"useinstead"		"LinuxHome"
+				"pathtransforms"
+				{
+					"0"
+					{
+						"find"		"SamuraiGames/YourChronicle"
+						"replace"		".config/unity3d/SamuraiGames/YourChronicle"
+					}
+				}
+			}
+		}
+	}
+}
