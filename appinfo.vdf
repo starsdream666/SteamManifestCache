@@ -1,0 +1,439 @@
+"appinfo"
+{
+	"appid"		"1969870"
+	"common"
+	{
+		"name"		"生死狙击2-国服"
+		"type"		"Game"
+		"releasestate"		"released"
+		"clienticon"		"d34706a877d38126d58da8cddbcb010d4db19193"
+		"clienttga"		"1ba69cd4957fbb8f6957b5d75637af99cca9fc2b"
+		"icon"		"37b7dd7927adaceb0fa81f46a3f75b9a71af6860"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"name_localized"
+		{
+			"sc_schinese"		"生死狙击2-国服"
+			"english"		"Battle Teams 2"
+		}
+		"eulas"
+		{
+			"0"
+			{
+				"id"		"1969870_eula_0"
+				"name"		"生死狙击2 EULA"
+				"url"		"https://store.steampowered.com//eula/1969870_eula_0"
+				"version"		"1"
+			}
+		}
+		"releasestatesteamchina"		"released"
+		"content_descriptors"
+		{
+			"0"		"2"
+			"1"		"5"
+		}
+		"has_adult_content"		"1"
+		"has_adult_content_violence"		"1"
+		"steam_deck_compatibility"
+		{
+			"category"		"1"
+			"test_timestamp"		"1669939200"
+			"tested_build_id"		"9299639"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"2"
+					"token"		"#SteamDeckVerified_TestResult_UnsupportedAntiCheat_Other"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"other"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"0"
+				"small_text"		"0"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-7.0-4"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"0"
+			}
+		}
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+			"schinese"		"capsule_231x87_schinese.jpg"
+			"sc_schinese"		"capsule_231x87_sc_schinese.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+			"sc_schinese"		"header_sc_schinese.jpg"
+			"schinese"		"header_schinese.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en,zh-cn,zh-xc"
+			"library_hero"		"en,zh-cn,zh-xc"
+			"library_logo"		"zh-cn,tr,en"
+			"library_header"		"en,zh-cn,zh-xc"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"30.605213882989517"
+				"height_pct"		"54.736554328025775"
+			}
+		}
+		"store_asset_mtime"		"1703817900"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"浙江无端科技股份有限公司"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"浙江无端科技股份有限公司"
+			}
+		}
+		"primary_genre"		"37"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"29"
+		}
+		"category"
+		{
+			"category_20"		"1"
+			"category_1"		"1"
+			"category_49"		"1"
+			"category_36"		"1"
+			"category_35"		"1"
+			"category_2"		"1"
+			"category_9"		"1"
+			"category_38"		"1"
+			"category_29"		"1"
+		}
+		"supported_languages"
+		{
+			"schinese"
+			{
+				"supported"		"true"
+				"full_audio"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1658375400"
+		"community_hub_visible"		"1"
+		"gameid"		"1969870"
+		"store_tags"
+		{
+			"0"		"1663"
+			"1"		"1775"
+			"2"		"1774"
+			"3"		"3859"
+			"4"		"113"
+			"5"		"3839"
+			"6"		"1685"
+			"7"		"19"
+			"8"		"176981"
+			"9"		"3878"
+			"10"		"4168"
+			"11"		"5711"
+			"12"		"1678"
+			"13"		"128"
+			"14"		"3993"
+			"15"		"1718"
+			"16"		"1708"
+			"17"		"4191"
+			"18"		"1659"
+			"19"		"1680"
+		}
+		"review_score"		"5"
+		"review_percentage"		"59"
+	}
+	"extended"
+	{
+		"developer"		"浙江无端科技股份有限公司"
+		"publisher"		"浙江无端科技股份有限公司"
+		"homepage"		"https://www.ssjj.cn/"
+		"listofdlc"		"2732030"
+		"dlcavailableonstore"		"1"
+	}
+	"config"
+	{
+		"installdir"		"生死狙击2"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"client\\ACE-Launcher64.exe"
+				"arguments"		"--ChannelId 10 --SubChannelId 40960 --DisableGc -force-d3d11-no-singlethreaded -affinity --updateurl https%3A%2F%2Fmicro.ssjj2.com%2FSSJJ2%2Fboot_config%2Fsteam"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"default"
+					"realm"		"steamglobal"
+				}
+			}
+			"1"
+			{
+				"executable"		"client\\ACE-Launcher64.exe"
+				"arguments"		"--ChannelId 10 --SubChannelId 40960"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"qatest"
+					"realm"		"steamglobal"
+				}
+			}
+			"2"
+			{
+				"executable"		"client\\ACE-Launcher64.exe"
+				"arguments"		"--ChannelId 10 --SubChannelId 40960 --DisableGc -force-d3d11-no-singlethreaded -affinity --updateurl https%3A%2F%2Fmicro-livetest.ssjj2.com%2FSSJJ2%2Fboot_config%2Fsteam_livetest"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"test"
+					"realm"		"steamglobal"
+				}
+			}
+			"5"
+			{
+				"executable"		"client\\ACE-Launcher64.exe"
+				"arguments"		"--ChannelId 11 --SubChannelId 45056 --DisableGc -force-d3d11-no-singlethreaded -affinity --updateurl https%3A%2F%2Fmicro.ssjj2.com%2FSSJJ2%2Fboot_config%2Fsteam"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"realm"		"steamchina"
+				}
+			}
+			"6"
+			{
+				"executable"		"client\\hallclient.exe"
+				"arguments"		" --ChannelId 11 --SubChannelId 45056 --DisableGc -force-d3d11-no-singlethreaded -affinity"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"steam_china_only"
+					"realm"		"steamchina"
+				}
+			}
+			"7"
+			{
+				"executable"		"client\\hallclient.exe"
+				"arguments"		"--ChannelId 10 --SubChannelId 40961 --DisableGc -force-d3d11-no-singlethreaded -affinity --updateurl https%3A%2F%2Fmicro-tur.ssjj2.com%2FSSJJ2%2Fboot_config%2Fsteam_tur"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"turkish_test"
+					"realm"		"steamglobal"
+				}
+			}
+			"8"
+			{
+				"executable"		"client\\hallclient.exe"
+				"arguments"		"--ChannelId 10 --SubChannelId 40962 --DisableGc -force-d3d11-no-singlethreaded -affinity --updateurl https%3A%2F%2Fmicro-mx.ssjj2.com%2FSSJJ2%2Fboot_config%2Fofficial"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"westusa_test"
+					"realm"		"steamglobal"
+				}
+			}
+			"9"
+			{
+				"executable"		"client\\hallclient.exe"
+				"arguments"		"--ChannelId 10 --SubChannelId 40963 --DisableGc -force-d3d11-no-singlethreaded -affinity --updateurl http%3A%2F%2Fmicro-brazil.ssjj2.com%2FSSJJ2%2Fboot_config%2Fofficial"
+				"type"		"default"
+				"config"
+				{
+					"oslist"		"windows"
+					"osarch"		"64"
+					"betakey"		"brazil_test"
+					"realm"		"steamglobal"
+				}
+			}
+		}
+		"steam_china_only"
+		{
+			"steam_china_enable_duration_control"		"1"
+		}
+	}
+	"depots"
+	{
+		"hasdepotsindlc"		"0"
+		"baselanguages"		"english,schinese"
+		"branches"
+		{
+			"steam_china_only"
+			{
+				"sc_schinese"		"仅中国"
+				"buildid"		"9175938"
+				"pwdrequired"		"1"
+				"timeupdated"		"1658547491"
+			}
+			"zq-qastest"
+			{
+				"sc_schinese"		"蒸汽内部测试服"
+			}
+			"public"
+			{
+				"buildid"		"13097555"
+				"timeupdated"		"1704425929"
+			}
+			"brazil_test"
+			{
+				"buildid"		"10273823"
+				"pwdrequired"		"1"
+				"timeupdated"		"1673080816"
+			}
+			"qatest"
+			{
+				"buildid"		"12001269"
+				"pwdrequired"		"1"
+				"timeupdated"		"1692694709"
+			}
+			"test"
+			{
+				"buildid"		"9120318"
+				"description"		"精英体验服"
+				"timeupdated"		"1657797344"
+			}
+			"turkish_test"
+			{
+				"buildid"		"9965732"
+				"pwdrequired"		"1"
+				"timeupdated"		"1668755493"
+			}
+			"westusa_test"
+			{
+				"buildid"		"12055105"
+				"pwdrequired"		"1"
+				"timeupdated"		"1693278006"
+			}
+		}
+		"1969871"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"7542374986601531276"
+					"size"		"61837961691"
+					"download"		"54907250432"
+				}
+				"test"
+				{
+					"gid"		"3452092766153593695"
+					"size"		"22090383386"
+					"download"		"19693481120"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"brazil_test"
+				{
+					"gid"		"C036A43B9CF69B65C9BCE9A32424401D"
+					"size"		"0206131E3D8EED294B990A1ED4A2920C"
+					"download"		"C33FEE9D8090DD98AD4FF9643B14647A"
+				}
+				"qatest"
+				{
+					"gid"		"65446004BFC4438468C045D5E783CB87"
+					"size"		"E7F92CE645941BF6FF7142A1A697B656"
+					"download"		"CEC26A2B0E53A97254D7C9B31881D24A"
+				}
+				"steam_china_only"
+				{
+					"gid"		"BAC8F93389F475B95FD834CBE4A147EF"
+					"size"		"37CC74E505BEFF39FB9DA33EB98420FD"
+					"download"		"4C7A73BD605BA1FE89EA28CA488344DC"
+				}
+				"turkish_test"
+				{
+					"gid"		"D238D16F2696F3DB2C90E03F3D3BCD61"
+					"size"		"EC14751A147923284830A7DF69AAFC6E"
+					"download"		"783B19132335C8F44699FE10987D14CC"
+				}
+				"westusa_test"
+				{
+					"gid"		"C45FBC7E0AD07276E579FB7184928573"
+					"size"		"31BF23BE7425067BC21E8F5E8E2C023C"
+					"download"		"173D77294F141350BFE3C7919730A508"
+				}
+			}
+		}
+		"1969872"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"9057427657748636887"
+					"size"		"38432172"
+					"download"		"12075664"
+				}
+				"test"
+				{
+					"gid"		"1257526151431576169"
+					"size"		"18830736518"
+					"download"		"17390634256"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"brazil_test"
+				{
+					"gid"		"104F8FC3E1E5711B2C289FF6EBFCD0EF"
+					"size"		"A14126263D14C2E27B76C11D03724A4A"
+					"download"		"B8DF1F53B505E4DAAFEF078FF684BD9C"
+				}
+				"qatest"
+				{
+					"gid"		"B23F4A4C780194187A966C9E6C7E211F"
+					"size"		"B67436B6399B044DA801E44411C860D8"
+					"download"		"E55E0120C87F37A63EA7426523832211"
+				}
+				"steam_china_only"
+				{
+					"gid"		"A9DC66AD738F0349394CE487D9121AAE"
+					"size"		"047B3741A1A9F8A0E2E96BF81840DA34"
+					"download"		"5B202DE284BDAD08C60ADFE8BDAB231A"
+				}
+				"turkish_test"
+				{
+					"gid"		"DF4D5BD898A74F973A5623A412123516"
+					"size"		"CA0495F8F25C4C4F8F25D275E98E097F"
+					"download"		"2F939CB6589CCE8EB74B62457FB71234"
+				}
+				"westusa_test"
+				{
+					"gid"		"376DC6971E6C2E988BDD7B24CF49EEEF"
+					"size"		"E299C78507C4295358C4DB3BB87D4AB4"
+					"download"		"791261DCAF5293BCAE86DDFE14F0DD89"
+				}
+			}
+		}
+	}
+}
