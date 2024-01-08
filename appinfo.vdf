@@ -239,6 +239,11 @@
 				{
 					"oslist"		"windows"
 				}
+				"description_loc"
+				{
+					"english"		"Play DYSMANTLE"
+				}
+				"description"		"Play DYSMANTLE"
 			}
 			"1"
 			{
@@ -248,6 +253,50 @@
 				{
 					"oslist"		"macos"
 				}
+			}
+			"2"
+			{
+				"executable"		"DYSMANTLE-OpenGL.exe"
+				"type"		"option1"
+				"config"
+				{
+					"oslist"		"windows"
+				}
+				"description_loc"
+				{
+					"english"		"DYSMANTLE (OpenGL)"
+				}
+				"description"		"DYSMANTLE (OpenGL)"
+			}
+			"3"
+			{
+				"executable"		"DYSMANTLE-D3D12.exe"
+				"type"		"option2"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"beta"
+				}
+				"description_loc"
+				{
+					"english"		"DYSMANTLE (Direct3D 12, experimental)"
+				}
+				"description"		"DYSMANTLE (Direct3D 12, experimental)"
+			}
+			"4"
+			{
+				"executable"		"DYSMANTLE-Vulkan.exe"
+				"type"		"option3"
+				"config"
+				{
+					"oslist"		"windows"
+					"betakey"		"beta"
+				}
+				"description_loc"
+				{
+					"english"		"DYSMANTLE (Vulkan, experimental)"
+				}
+				"description"		"DYSMANTLE (Vulkan, experimental)"
 			}
 		}
 		"steamcontrollertemplateindex"		"4"
@@ -282,15 +331,15 @@
 				}
 				"beta"
 				{
-					"gid"		"4414937137608184127"
-					"size"		"1951640684"
-					"download"		"1433300640"
+					"gid"		"8101938546532672271"
+					"size"		"1960039161"
+					"download"		"1436181264"
 				}
 				"pre_beta"
 				{
-					"gid"		"3069525443865509317"
-					"size"		"1951652190"
-					"download"		"1433295728"
+					"gid"		"8101938546532672271"
+					"size"		"1960039161"
+					"download"		"1436181264"
 				}
 				"previous_default"
 				{
@@ -311,21 +360,21 @@
 			{
 				"public"
 				{
-					"gid"		"7244430633997118859"
-					"size"		"1587450517"
-					"download"		"1172083328"
+					"gid"		"3128608113841039414"
+					"size"		"1585027772"
+					"download"		"1170033312"
 				}
 				"beta"
 				{
-					"gid"		"7244430633997118859"
-					"size"		"1587450517"
-					"download"		"1172083328"
+					"gid"		"3128608113841039414"
+					"size"		"1585027772"
+					"download"		"1170033312"
 				}
 				"pre_beta"
 				{
-					"gid"		"7244430633997118859"
-					"size"		"1587450517"
-					"download"		"1172083328"
+					"gid"		"3128608113841039414"
+					"size"		"1585027772"
+					"download"		"1170033312"
 				}
 				"previous_default"
 				{
@@ -348,20 +397,20 @@
 		{
 			"public"
 			{
-				"buildid"		"12911360"
-				"timeupdated"		"1702040556"
+				"buildid"		"13116689"
+				"timeupdated"		"1704713100"
 			}
 			"beta"
 			{
-				"buildid"		"12911323"
+				"buildid"		"13116686"
 				"description"		"Test builds, backup saves before trying!"
-				"timeupdated"		"1702040357"
+				"timeupdated"		"1704713071"
 			}
 			"pre_beta"
 			{
-				"buildid"		"12911314"
+				"buildid"		"13116664"
 				"description"		"Experimental builds, try at your own risk!"
-				"timeupdated"		"1702040299"
+				"timeupdated"		"1704712869"
 			}
 			"previous_default"
 			{
