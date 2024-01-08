@@ -1,0 +1,252 @@
+"appinfo"
+{
+	"appid"		"2090760"
+	"common"
+	{
+		"name"		"X Invader"
+		"type"		"Game"
+		"icon"		"02694bd6a1f4d2dbb0af45f463ee4076ef8c07e7"
+		"clienticon"		"d7b8057a79d5dfb03ef389f6a11e8a884a908dc3"
+		"clienttga"		"4293beae635ca795bfbfec7a73a4c7ce85218420"
+		"releasestate"		"released"
+		"oslist"		"windows"
+		"osarch"		"64"
+		"osextended"		""
+		"name_localized"
+		{
+			"koreana"		"엑스 인베이더"
+		}
+		"clienticns"		"79f18e578ee39c9d407f1546fd91ca57d71414af"
+		"linuxclienticon"		"79f18e578ee39c9d407f1546fd91ca57d71414af"
+		"languages"
+		{
+			"english"		"1"
+			"german"		"1"
+			"french"		"1"
+			"koreana"		"1"
+			"spanish"		"1"
+			"schinese"		"1"
+			"tchinese"		"1"
+			"brazilian"		"1"
+		}
+		"steam_deck_compatibility"
+		{
+			"category"		"2"
+			"test_timestamp"		"1698192000"
+			"tested_build_id"		"12064852"
+			"tests"
+			{
+				"0"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				}
+				"1"
+				{
+					"display"		"3"
+					"token"		"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				}
+				"2"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				}
+				"3"
+				{
+					"display"		"4"
+					"token"		"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+				}
+			}
+			"configuration"
+			{
+				"supported_input"		"gamepad"
+				"requires_manual_keyboard_invoke"		"0"
+				"requires_non_controller_launcher_nav"		"0"
+				"primary_player_is_controller_slot_0"		"0"
+				"non_deck_display_glyphs"		"1"
+				"small_text"		"1"
+				"requires_internet_for_setup"		"0"
+				"requires_internet_for_singleplayer"		"0"
+				"recommended_runtime"		"proton-stable"
+				"requires_h264"		"0"
+				"gamescope_frame_limiter_not_supported"		"1"
+			}
+		}
+		"controller_support"		"partial"
+		"small_capsule"
+		{
+			"english"		"capsule_231x87.jpg"
+		}
+		"header_image"
+		{
+			"english"		"header.jpg"
+		}
+		"library_assets"
+		{
+			"library_capsule"		"en"
+			"library_hero"		"en"
+			"library_logo"		"en"
+			"library_header"		"en"
+			"logo_position"
+			{
+				"pinned_position"		"BottomLeft"
+				"width_pct"		"33.61100268217618"
+				"height_pct"		"88.6011654935479"
+			}
+		}
+		"store_asset_mtime"		"1703735305"
+		"associations"
+		{
+			"0"
+			{
+				"type"		"developer"
+				"name"		"ALLAF GAMES"
+			}
+			"1"
+			{
+				"type"		"publisher"
+				"name"		"ALLAF GAMES"
+			}
+			"2"
+			{
+				"type"		"franchise"
+				"name"		"ALLAF GAMES"
+			}
+		}
+		"primary_genre"		"1"
+		"genres"
+		{
+			"0"		"1"
+			"1"		"23"
+			"2"		"70"
+		}
+		"category"
+		{
+			"category_2"		"1"
+			"category_23"		"1"
+			"category_18"		"1"
+			"category_22"		"1"
+		}
+		"supported_languages"
+		{
+			"english"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"koreana"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+			"schinese"
+			{
+				"supported"		"true"
+				"subtitles"		"true"
+			}
+		}
+		"steam_release_date"		"1692842253"
+		"community_visible_stats"		"1"
+		"community_hub_visible"		"1"
+		"gameid"		"2090760"
+		"store_tags"
+		{
+			"0"		"19"
+			"1"		"597"
+			"2"		"4885"
+			"3"		"5547"
+			"4"		"4637"
+			"5"		"1646"
+			"6"		"42804"
+			"7"		"3959"
+			"8"		"4758"
+			"9"		"6730"
+			"10"		"1774"
+			"11"		"4255"
+			"12"		"1716"
+			"13"		"1773"
+			"14"		"3871"
+			"15"		"4726"
+			"16"		"4791"
+			"17"		"4115"
+			"18"		"4136"
+			"19"		"4878"
+		}
+		"review_score"		"6"
+		"review_percentage"		"78"
+	}
+	"extended"
+	{
+		"developer"		"ALLAF GAMES"
+		"publisher"		"ALLAF GAMES"
+	}
+	"config"
+	{
+		"installdir"		"X Invader"
+		"launch"
+		{
+			"0"
+			{
+				"executable"		"X Invader.exe"
+			}
+		}
+		"steamdecktouchscreen"		"1"
+		"steamconfigurator3rdpartynative"		"11"
+	}
+	"depots"
+	{
+		"baselanguages"		"english,koreana,schinese"
+		"2090761"
+		{
+			"manifests"
+			{
+				"public"
+				{
+					"gid"		"3456901870177764406"
+					"size"		"602081313"
+					"download"		"388632608"
+				}
+			}
+			"encryptedmanifests"
+			{
+				"beta"
+				{
+					"gid"		"FF6656FB2BBB03AE4BA343128B3FFD4A"
+					"size"		"3C64C18405A5544C5D65DADC79B68D39"
+					"download"		"9D4E9D6ADE090431D66FFC33A9347D6E"
+				}
+				"debug_test"
+				{
+					"gid"		"2E56B0606266B524A8A7C3CD9BE356AE"
+					"size"		"06CF4E657547506D1808E0D1D006A85F"
+					"download"		"CC9DDBBEAF582D561E13D26D06F0A604"
+				}
+			}
+		}
+		"branches"
+		{
+			"public"
+			{
+				"buildid"		"13100104"
+				"timeupdated"		"1704453165"
+			}
+			"beta"
+			{
+				"buildid"		"13100104"
+				"pwdrequired"		"1"
+				"timeupdated"		"1704453133"
+			}
+			"debug_test"
+			{
+				"buildid"		"13081024"
+				"pwdrequired"		"1"
+				"timeupdated"		"1704249821"
+			}
+		}
+	}
+	"ufs"
+	{
+		"quota"		"50000000"
+		"maxnumfiles"		"5000"
+	}
+}
